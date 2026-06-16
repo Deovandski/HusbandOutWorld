@@ -6,7 +6,10 @@
 
 This repo makes everything behind the #HusbandOutWorld series available. EVERYTHING!
 
-## Welcome :)
+Want to see a website version with less spoilers? Check out 
+[HusbandOutWorld.com/world-lore](https://www.husbandoutworld.com/world-lore)
+
+## 
 
 ### Spot something wrong, or want to make a change?
 
@@ -20,7 +23,7 @@ Also, we hereby authorize you to stream and earn money from streams and 3D Print
 
 ### Are you an artist, illustrator, etc?
 
-Feel free to peruse. If you have any questions, let us know. We’re open for collabs!
+Feel free to peruse. If you have any questions, let us know. We’re open for collabs and crossposts!
 
 ### Are you a publisher?
 
