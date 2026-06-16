@@ -50,7 +50,7 @@ Website info triumphs here.
 * Soul Energy Spells Detection  
   * It varies by species/interface used. Some species can use their organs to sense soul energy, such as Darfaries/Wozefaries/Sorefaries.  
 * Soul Energy Tiers  
-  * See [Formulas \- Soul Energy](https://docs.google.com/spreadsheets/d/1q9UrwKl55S2Re40Ll8fPAq2Hu42qh93gK2v6FgDcSy0/edit#gid=342579424) 
+  * See Formulas \- Soul Energy
 
 # 
 
@@ -58,7 +58,7 @@ Website info triumphs here.
 
 * Isekai History  
   * There are many ways to interface with Soul Energy, some of which give you greater control over the soul energy, whereas others do not.  
-  * [Darfaries](https://docs.google.com/document/d/1lJ_At_mbjnlBXLd16FZHu77ofvPTTULVT-qCbdbNOmU/edit) & [Nari Gels](https://docs.google.com/document/d/1tz12Ww5mnPgplq20pO0dRv1Awes_STQv20yf6cPR0E4/edit) are examples of interfaces, but other races, fauna, and even beasts have their own interfaces.  
+  * Darfaries & Nari Gels are examples of interfaces, but other races, fauna, and even beasts have their own interfaces.  
     * More often than not, such interfaces are part of their bodies.  
 * Soul Energy to Spell Conversion  
   * Rules vary based on the interface being used.
