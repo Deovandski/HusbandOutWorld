@@ -114,7 +114,6 @@ There are other attached Markdown files adding a D&D layer on top of the World L
 #### *Adventurers
 #### *Beasts
 #### *Fauna
-#### *Nari Gel
 
 ---
 
