@@ -1,3 +1,6 @@
+# SPOILER WARNING! This contains unreleased story notes.
+If one day enough people harasses Deo to finish the story, we will base of these notes and alter only what is necessary to keep is as lore accurate as possible... Also, this was mostly written before the full decompression from Arc 1 notes into the published books, so Vols 1 - 4 are the lore accurate version if any conflict are present. There's a lot of stuff to keep track of, like almost someone decided to challenge themselves a bit too much for fun...
+
 # **\--Book 5 \- Wild Side--**
 
 # **Prologue**
@@ -8,6 +11,7 @@
   * Nina says she will do it. She then asks why they are hiding with Nari gel.  
   * Neferteri says that it is super secret research, and that other kingdoms will try to steal it. That is why they need to keep it super secret.  
   * Neferteri says to keep it a secret from father as well. Nina giggles, “okay\!”
+  * Neferteri is trying to break her own patterns by becoming even more involved with Nina... She is aware of her narcissistic tendencies, and relaizes she is now repeating the same controlling bs her own parents did, but her conviction that she can do things differently speaks louder, that somehow she can ster the ship back from been so afar from where she designed reality to be...
 
 # **Chapter 1 \- Prey**
 
@@ -195,7 +199,7 @@
   * Eori stands up and shouts “I NEVER SAID I LOVED HIM\!”  
   * The guards step forward, protecting the queen.  
   * Eori curls up her fists and seats back, holding back a sea of emotions.  
-  * Neferteri raises her hand. The guards step back. Neferteri lets the awkward silence envelop the room in a thick atmosphere. “I am the queen of Sanbi Kingdom, but most of all I am the mother of four princesses. I trusted you with an important task despite my reservations regarding your ability to care for others. However, your inability to control your emotions turned out just as unacceptable as Maiara.”  
+  * Neferteri raises her hand. The guards step back. Neferteri lets the awkward silence envelop the room in a thick atmosphere. “I am the queen of Sanbi Kingdom, but most of all I am the mother of four princesses. I trusted you with an important task despite my reservations regarding your ability to care for others. However, your inability to control your emotions turned out just as unacceptable as Maiara... and Yacamim.”  
   * Eori stares deep at her mother, her mother stares back just as intensely.   
   * Their clash of resolve is broken, when Neferteri closes her eyes. “Princess Nina, please come in.”
 
@@ -222,7 +226,7 @@
   * Morika “Yes my queen. I finished burying Gabiro’s research.”  
   * Neferteri, “Namia & Posaqui. Was it successful?”  
   * Posaqui “Yessu\! I was able to lay a total of thirty five misdirections for the adventurers.”  
-  * Namia “Three adventurers stumbled upon where Sinoi was captured, but they did find any new information.”  
+  * Namia “Three adventurers stumbled upon where Sinoi was captured, but they did not find any new information.”  
   * Neferteri “I appreciate all of your resolve in aiding me in this matter. From now onwards, we will let the quest grow stale, and allow time to heal my daughter’s heart.”  
   * Morika “My queen, may we ask what our next instructions are?”  
   * Neferteri “Finding Harry & Sinoi. For that matter, I want you three to fully return to your adventurer role, and cast a wide net through the kingdom.” Neferteri hands out a badge from her bag. “However, I am afraid we only have a single badge, and it is for Harry. Furthermore, I will cut my stipend by half. I apologize for the lack of resources, but the new Courtroom scientist is restless on probing Eiri for expenditure information.”  

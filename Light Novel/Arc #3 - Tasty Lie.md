@@ -1,3 +1,6 @@
+# SPOILER WARNING! This contains unreleased story notes.
+If one day enough people harasses Deo to finish the story, we will base of these notes and alter only what is necessary to keep is as lore accurate as possible... Also, this was mostly written before the full decompression from Arc 1 notes into the published books, so Vols 1 - 4 are the lore accurate version if any conflict are present. There's a lot of stuff to keep track of, like almost someone decided to challenge themselves a bit too much for fun...
+
 # **//TODO**
 
 * ## Harry loses the ability to understand anything in the Vraki language and to learn stuff from the beginning after he separated the soul.

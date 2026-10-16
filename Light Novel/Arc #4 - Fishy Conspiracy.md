@@ -1,3 +1,6 @@
+# SPOILER WARNING! This contains unreleased story notes.
+If one day enough people harasses Deo to finish the story, we will base of these notes and alter only what is necessary to keep is as lore accurate as possible... Also, this was mostly written before the full decompression from Arc 1 notes into the published books, so Vols 1 - 4 are the lore accurate version if any conflict are present. There's a lot of stuff to keep track of, like almost someone decided to challenge themselves a bit too much for fun...
+
 # **\--WIP Items--**
 
 * ## When Eori meets back with Harry, she will use something to test his soul, then see that it does not work. She refuses to believe it, while the people surrounding her will use it as proof that she is misbehaving and let Harry free.
