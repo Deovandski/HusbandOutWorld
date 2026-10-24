@@ -17,7 +17,7 @@ Create an issue or feel free to send a PR!
 
 ### Are you a D&D DM and want to have fun with our World Lore?
 
-Check out the D&D campaign folder for details! If you host a campaign, let us know! Love to see pics!
+All D&D content now lives in the [Vraki West March Campaign](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D) repo: an open-table West Marches campaign set in this world, with a World Lore summary, travel rules, quests, stat blocks and ready-made adventurers. If you host a campaign, let us know! Love to see pics!
 
 Also, we hereby authorize you to stream and earn money from streams and 3D Prints using the source files located herein, as this is a transformative use of our copyright. We do request that you credit us.
 
