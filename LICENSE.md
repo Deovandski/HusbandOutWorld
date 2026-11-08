@@ -1,8 +1,15 @@
 # Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International License (CC‑BY‑NC‑SA‑4.0)
 
-Copyright © Deovandski Skibinski Junior
+## Copyright and trademarks
 
-Trademark © Deovandski Skibinski Junior
+- **The #HusbandOutWorld series** (the *A Husband Out of This World* light novels and webcomic, their story and characters, and the world of Vraki with its lore) © Deovandski Skibinski Junior.
+- **The series artwork**, illustrated by Mitsukiven and Feiourm, © Deovandski Skibinski Junior.
+- **Trademarks:** *A Husband Out of This World* and *#HusbandOutWorld* are trademarks of Deovandski Skibinski Junior. The CC BY-NC-SA 4.0 license below covers copyright only and grants no trademark rights: don't use these names or logos to brand your own work or to suggest it's official.
+- **The Vraki typeface** © 2024 Deovandski Skibinski Junior, under its own license (see below).
+
+Official site: [husbandoutworld.com](https://husbandoutworld.com/)
+
+## License
 
 This work is licensed under the Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International License.
 

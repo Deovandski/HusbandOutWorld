@@ -1128,7 +1128,7 @@ def page_html(p, nav):
   </article>
 </main>
 <footer class="footer keep-latin">
-  <p>© {CFG['author']}. Art by {' and '.join(CFG['artists'])}. Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
+  <p>© {CFG['author']}. Art by {' and '.join(CFG['artists'])}. <em>A Husband Out of This World</em> and #HusbandOutWorld are trademarks of {CFG['author']}. Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
   Vraki typeface © 2024 Deovandski Skibinski Junior, https://husbandoutworld.com/ (<a href="/fonts/VRAKI-FONT-LICENSE.md">font license</a>).</p>
   <p>This site was built with AI assistance from the author's originals. <a href="/about/ai-disclosure/">AI disclosure</a> · <a href="{CFG['repo_url']}">GitHub</a> · <a href="/llms.txt">llms.txt</a> · <a href="{p.url if not p.url.endswith('.html') else '/'}index.md">This page as Markdown</a></p>
 </footer>
@@ -1181,7 +1181,8 @@ def write_llms(out, pages):
              'Every page has a Markdown twin at the same URL plus `index.md`. Pages have two layers: PUBLIC (light on spoilers, '
              'as originally published) and BEHIND THE SCENES (the author\'s full notes, including unreleased story notes).',
              f'The eBook is on Amazon: {CFG["amazon_url"]}. Source files: {CFG["repo_url"]} (originals in the Legacy folder).',
-             f'License: CC BY-NC-SA 4.0. Built with AI assistance from the author\'s originals: {CFG["base_url"]}/about/ai-disclosure/', '',
+             f'Copyright © {CFG["author"]}. "A Husband Out of This World" and "#HusbandOutWorld" are trademarks of {CFG["author"]}. '
+             f'License: CC BY-NC-SA 4.0 (copyright only, no trademark rights). Built with AI assistance from the author\'s originals: {CFG["base_url"]}/about/ai-disclosure/', '',
              '## Full text bundles', '',
              f'- [Public layer, everything]({CFG["base_url"]}/llms-full.txt): the novel and the public lore in one file',
              f'- [Everything, including Behind The Scenes]({CFG["base_url"]}/llms-full-bts.txt): adds the full notes (spoilers)',
@@ -1202,7 +1203,8 @@ def write_llms(out, pages):
             pub.append(f'\n\n---\nURL: {CFG["base_url"]}{p.url}\n\n{md_absolute(p.md_public.strip())}')
         both = page_md(p)
         full.append(f'\n\n---\nURL: {CFG["base_url"]}{p.url}\n\n{both}')
-    head = f'# {CFG["title"]}: full text\n\nSource: {CFG["base_url"]}. License: CC BY-NC-SA 4.0. eBook: {CFG["amazon_url"]}\n'
+    head = (f'# {CFG["title"]}: full text\n\nSource: {CFG["base_url"]}. Copyright © {CFG["author"]}; "A Husband Out of This World" and '
+            f'"#HusbandOutWorld" are trademarks of {CFG["author"]}. License: CC BY-NC-SA 4.0. eBook: {CFG["amazon_url"]}\n')
     clean = lambda s: re.sub(r'\(data:image/[^)]+\)', '(embedded-image)', s)
     open(os.path.join(out, 'llms-full.txt'), 'w', encoding='utf-8').write(head + '(Public layer only.)\n' + clean(''.join(pub)))
     open(os.path.join(out, 'llms-full-bts.txt'), 'w', encoding='utf-8').write(head + '(Public and Behind The Scenes layers. Contains spoilers.)\n' + clean(''.join(full)))
