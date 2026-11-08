@@ -1100,7 +1100,7 @@ def page_html(p, nav):
 <body>
 <a class="skip" href="#main">Skip to content</a>
 <header class="topbar keep-latin">
-  <a class="brand" href="/"><span class="brand-mark" aria-hidden="true"></span><span class="brand-text">#HusbandOutWorld</span></a>
+  <a class="brand" href="/"><img class="brand-mark" src="/media/forway-emblem.png" alt="" width="30" height="30"><span class="brand-text">#HusbandOutWorld</span></a>
   <nav class="mainnav">{nav}</nav>
   <div class="controls">
     <form class="searchbox" action="/search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the site"></form>
@@ -1237,6 +1237,7 @@ def main():
     fav = b.media.file(os.path.join(BTS, 'Illustrations', 'Emblems', 'Forway city emblem.png'))
     try:
         im = Image.open(os.path.join(BTS, 'Illustrations', 'Emblems', 'Forway city emblem.png'))
+        im.thumbnail((128, 128)); im.save(os.path.join(a.out, 'media', 'forway-emblem.png'))  # the menu's logo
         im.thumbnail((64, 64)); im.save(os.path.join(a.out, 'media', 'favicon.png'))
     except Exception as ex:
         print('favicon failed', ex)
