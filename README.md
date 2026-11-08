@@ -30,7 +30,7 @@ The website publishes the whole series as plain text: [llms.txt](https://www.hus
 ### Build the website yourself
 
 ```
-pip install markdown-it-py pillow
+pip install -r tools/requirements.txt
 python tools/build.py
 ```
 
