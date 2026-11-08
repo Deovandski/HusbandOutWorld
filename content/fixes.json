@@ -1,0 +1,26 @@
+{
+  "_about": "Display-only corrections the build applies when it reads a Legacy file. Legacy itself is never edited. Each fix says why it exists.",
+  "Legacy/Public/vraki-font.md": [
+    {"find": "<https://drive.google.com/drive/u/2/folders/12qdZnx1xCZ6mTwRV_n_LJ1tXrYqo08Oe>",
+     "replace": "<https://github.com/Deovandski/vraki-windows#the-vraki-typeface>",
+     "why": "The Google Drive folder no longer exists; the font now lives on GitHub (requested by the author)."}
+  ],
+  "Legacy/Behind The Scenes/World Lore/Language.md": [
+    {"find": "https://drive.google.com/drive/folders/1TT6vrtFEBw978eQbAbDNOt_WKXqYurn7",
+     "replace": "https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/Soul%20Energy%20Interfaces",
+     "why": "The Google Drive folder no longer exists; the same interface art is in this repo."}
+  ],
+  "Legacy/Public/afterwords.md": [
+    {"find": "\nVol 4 Afterword - 2027\n",
+     "replace": "\n## Vol 4 Afterword - 2027\n",
+     "why": "Make the Vol 4 afterword a heading like the other three (requested by the author)."}
+  ],
+  "Legacy/Behind The Scenes/Light Novel/Arc #1 - Dubious Contract/Vol 2 - Lab Soreno.md": [
+    {"find": "**Contents**\n\nPrologue\n\nChapter I – What If?\n\nChapter II – Sanbi-Eye\n\nChapter III – Fake Harry\n\nChapter IV – Lab Experiment \n\nChapter V – Growing Remorse\n\nChapter VI – Lab Passion\n\nChapter VII – Buhraies Research\n\nEpilogue\n\nAfterword\n\n",
+     "replace": "",
+     "why": "The print table of contents; the website lists the chapters itself (requested by the author)."},
+    {"find": "**\\[INSERT WORLD MAP HERE – WILL BE THE SAME EXACT SAME AS BOOK 1 AS IN EXPANDING THROUGH TWO PAGES, AND HAVING THE FOUR KINGDOMS WORLD MAP TITLE ABOVE IT\\]**\n\n",
+     "replace": "",
+     "why": "A layout note for the print edition, not part of the story (requested by the author)."}
+  ]
+}
