@@ -56,6 +56,6 @@ Want to reach out to the author? We’re open to a copyright/trademark transfer 
 
 ### Want to use the Vraki font?
 
-The Vraki typeface in [Logo and Font](Legacy/Behind%20The%20Scenes/Logo%20and%20Font) has its own [license](Legacy/Behind%20The%20Scenes/Logo%20and%20Font/LICENSE.md). Non-commercial use is free with attribution. Commercial use needs approval and a fee, kept small for artists and creators to support the community; ask through [HusbandOutWorld.com](https://husbandoutworld.com/). Please don't alter the font without permission.
+The Vraki typeface in [Logo and Font](Legacy/Behind%20The%20Scenes/Logo%20and%20Font) has its own [license](Legacy/Behind%20The%20Scenes/Logo%20and%20Font/LICENSE.md). Non-commercial use is free with attribution. Commercial use needs approval and a fee, kept small for artists and creators to support the community; ask on [LinkedIn](https://www.linkedin.com/in/deovandski/) or email [Deovandski@outlook.com](mailto:Deovandski@outlook.com). Please don't alter the font without permission.
 
 © Deovandski Skibinski Junior. *A Husband Out of This World* and *#HusbandOutWorld* are trademarks of Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0, except the fonts in Logo and Font (see [LICENSE.md](LICENSE.md) for copyright, trademarks and fonts).
