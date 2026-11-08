@@ -43,10 +43,16 @@ jobs:
           key: media-${{ github.run_id }}
           restore-keys: media-
 
-      - name: Build the site
-        run: python tools/build.py --out _site --cache .media-cache
+      # Tells the build where the site lives: /HusbandOutWorld on github.io,
+      # or the root once a custom domain is set in Settings > Pages.
+      - id: pages
+        uses: actions/configure-pages@v5
 
-      - uses: actions/configure-pages@v5
+      - name: Build the site
+        run: >
+          python tools/build.py --out _site --cache .media-cache
+          --base-path "${{ steps.pages.outputs.base_path }}"
+          --site-url "${{ steps.pages.outputs.base_url }}"
 
       - uses: actions/upload-pages-artifact@v3
         with:
