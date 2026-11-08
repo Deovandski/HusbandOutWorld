@@ -29,4 +29,8 @@ Feel free to peruse. If you have any questions, let us know. We’re open for co
 
 Want to reach out to the author? We’re open to a copyright/trademark transfer for an Omnibus vol or other publishing ideas, including a new version through a ghostwriter. Email deovandski@outlook.com for more info!
 
-© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0.
+### Want to use the Vraki font?
+
+The Vraki typeface in [Logo and Font](Logo%20and%20Font) has its own [license](Logo%20and%20Font/LICENSE.md). Non-commercial use is free with attribution. Commercial use needs approval and a fee, kept small for artists and creators to support the community; ask through [HusbandOutWorld.com](https://husbandoutworld.com/). Please don't alter the font without permission.
+
+© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0, except the fonts in Logo and Font (see [LICENSE.md](LICENSE.md)).
