@@ -1130,6 +1130,7 @@ def page_html(p, nav):
 <footer class="footer keep-latin">
   <p>© {CFG['author']}. Art by {' and '.join(CFG['artists'])}. <em>A Husband Out of This World</em> and #HusbandOutWorld are trademarks of {CFG['author']}. Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
   Vraki typeface © 2024 Deovandski Skibinski Junior, https://husbandoutworld.com/ (<a href="/fonts/VRAKI-FONT-LICENSE.md">font license</a>).</p>
+  <p>Monetized videos and posts about the series are welcome; other commercial use needs approval: <a href="https://www.linkedin.com/in/deovandski/">LinkedIn</a> or <a href="mailto:Deovandski@outlook.com">Deovandski@outlook.com</a>. <a href="{CFG['repo_url']}/blob/main/LICENSE.md#permissions-beyond-the-license">Permissions</a></p>
   <p>This site was built with AI assistance from the author's originals. <a href="/about/ai-disclosure/">AI disclosure</a> · <a href="{CFG['repo_url']}">GitHub</a> · <a href="/llms.txt">llms.txt</a> · <a href="{p.url if not p.url.endswith('.html') else '/'}index.md">This page as Markdown</a></p>
 </footer>
 <dialog id="spoiler-dialog" class="keep-latin">
@@ -1182,7 +1183,8 @@ def write_llms(out, pages):
              'as originally published) and BEHIND THE SCENES (the author\'s full notes, including unreleased story notes).',
              f'The eBook is on Amazon: {CFG["amazon_url"]}. Source files: {CFG["repo_url"]} (originals in the Legacy folder).',
              f'Copyright © {CFG["author"]}. "A Husband Out of This World" and "#HusbandOutWorld" are trademarks of {CFG["author"]}. '
-             f'License: CC BY-NC-SA 4.0 (copyright only, no trademark rights). Built with AI assistance from the author\'s originals: {CFG["base_url"]}/about/ai-disclosure/', '',
+             f'License: CC BY-NC-SA 4.0 (copyright only, no trademark rights). Monetized videos, streams and social media posts about the series are allowed with credit; '
+             f'other commercial use needs approval (LinkedIn: https://www.linkedin.com/in/deovandski/, email: Deovandski@outlook.com). Built with AI assistance from the author\'s originals: {CFG["base_url"]}/about/ai-disclosure/', '',
              '## Full text bundles', '',
              f'- [Public layer, everything]({CFG["base_url"]}/llms-full.txt): the novel and the public lore in one file',
              f'- [Everything, including Behind The Scenes]({CFG["base_url"]}/llms-full-bts.txt): adds the full notes (spoilers)',
