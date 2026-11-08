@@ -15,7 +15,7 @@ The [website](https://www.husbandoutworld.com) is built from these files. Its bu
 
 - Each page keeps its original address, publish date and last update in the header at the top of the file.
 - The blog's own text is untouched. Only the page format changed (HTML to Markdown).
-- Where a blog image is the same picture as a file in `Behind The Scenes/Illustrations`, the page links to that file instead of keeping a second copy. Those matches were made automatically by comparing the pictures. Blog images that couldn't be matched with confidence still point to their original Blogger address.
+- Every image the blog showed was downloaded at full size. Where it's the same picture as a file in `Behind The Scenes` (225 of 273), the page links to that file instead of keeping a second copy. The matches were made automatically by comparing the pictures. The other 48 are kept in [Public/images](Public/images), numbered in the order they appear on the blog.
 - Two pages that were already in the blog's trash ("The Evolution of Deo Through the Afterwords" and an empty "World Lore" draft) were left out, as was the old blog's personal profile data.
 
 © Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0.
