@@ -1,0 +1,79 @@
+{
+  "title": "A Husband Out of This World",
+  "short_title": "#HusbandOutWorld",
+  "author": "Deovandski Skibinski Junior",
+  "artists": ["Mitsukiven", "Feiourm"],
+  "base_url": "https://www.husbandoutworld.com",
+  "amazon_url": "https://www.amazon.com/dp/B0BT5XM4QC",
+  "repo_url": "https://github.com/Deovandski/HusbandOutWorld",
+  "dnd_url": "https://github.com/Deovandski/Vraki-West-March-Campaign-D-D",
+  "vraki_url": "https://github.com/Deovandski/vraki-windows",
+  "webtoon_url": "https://www.webtoons.com/en/canvas/a-failed-experiment-husbandoutworld-prologue/list?title_no=963210",
+  "license": "CC-BY-NC-SA-4.0",
+
+  "volumes": [
+    {"slug": "vol-1", "title": "Vol 1 - Failed Experiment", "arc": "Arc #1 - Dubious Contract",
+     "source": "Light Novel/Arc #1 - Dubious Contract/Vol 1 - Failed Experiment.md"},
+    {"slug": "vol-2", "title": "Vol 2 - Lab Soreno", "arc": "Arc #1 - Dubious Contract",
+     "source": "Light Novel/Arc #1 - Dubious Contract/Vol 2 - Lab Soreno.md"},
+    {"slug": "vol-3", "title": "Vol 3 - Third Wheel", "arc": "Arc #1 - Dubious Contract",
+     "source": "Light Novel/Arc #1 - Dubious Contract/Vol 3 - Third Wheel.md"}
+  ],
+
+  "story_notes": [
+    {"slug": "story-arcs", "title": "Story Arcs", "source": "Light Novel/Story Arcs.md"},
+    {"slug": "arc-2", "title": "Arc #2 - Hifuna Beast", "source": "Light Novel/Arc #2 - Hifuna Beast.md"},
+    {"slug": "arc-3", "title": "Arc #3 - Tasty Lie", "source": "Light Novel/Arc #3 - Tasty Lie.md"},
+    {"slug": "arc-4", "title": "Arc #4 - Fishy Conspiracy", "source": "Light Novel/Arc #4 - Fishy Conspiracy.md"},
+    {"slug": "arc-5", "title": "Arc #5 - New Life", "source": "Light Novel/Arc #5 - New Life.md"}
+  ],
+
+  "lore_groups": [
+    {"title": "The World", "topics": ["the-world", "history", "kingdoms", "cities", "villages", "lands", "laws-and-treaties", "economy", "embassies-and-guilds", "professions", "education", "pastimes", "language", "in-world-books"]},
+    {"title": "Peoples", "topics": ["races", "characters", "harry", "factions"]},
+    {"title": "Soul Energy & Science", "topics": ["soul-energy", "walking-heart", "darfaries-interface", "buhraies-interface", "finaies-interface", "nari-gels", "nari-bombs", "resources"]},
+    {"title": "Nature", "topics": ["beasts", "fauna", "flora"]}
+  ],
+
+  "topics": [
+    {"slug": "the-world", "title": "Time, Calendar & Units", "public": ["time-calendar.md"], "bts": ["World Lore/World Map, Name, Vraki Calendar & UOM, etc.md"], "art": ["Illustrations/World Map"]},
+    {"slug": "history", "title": "World Timeline", "public": [], "bts": ["World Lore/World Timeline.md"], "art": []},
+    {"slug": "kingdoms", "title": "Kingdoms", "public": ["kingdom-freeish.md", "kingdom-gandew.md", "kingdom-sanbi.md", "kingdom-tolerideme.md"], "bts": ["World Lore/Kingdoms.md"], "art": ["Illustrations/Emblems", "Illustrations/Guards"]},
+    {"slug": "cities", "title": "Cities", "public": ["city-forway.md"], "bts": ["World Lore/City.md"], "art": ["Illustrations/Emblems", "Illustrations/Guards", "Illustrations/World Map"]},
+    {"slug": "villages", "title": "Villages", "public": [], "bts": ["World Lore/Villages.md"], "art": []},
+    {"slug": "lands", "title": "Lands", "public": [], "bts": ["World Lore/Land.md"], "art": ["Illustrations/World Map"]},
+    {"slug": "laws-and-treaties", "title": "Laws & Treaties", "public": ["law-treaties.md"], "bts": ["World Lore/Laws and Treaties.md"], "art": []},
+    {"slug": "economy", "title": "Economy & Units", "public": ["economy-uoms.md"], "bts": ["World Lore/Economy.md"], "art": ["Illustrations/Natural and Crafted Resources"]},
+    {"slug": "embassies-and-guilds", "title": "Badges, Embassies & Guilds", "public": ["badges-embassies.md", "adventurers-guilds.md"], "bts": ["World Lore/Embassies & Guilds.md"], "art": ["Illustrations/Natural and Crafted Resources", "Illustrations/World Map"]},
+    {"slug": "professions", "title": "Professions", "public": [], "bts": ["World Lore/Professions.md"], "art": []},
+    {"slug": "education", "title": "Education", "public": [], "bts": ["World Lore/Education.md"], "art": []},
+    {"slug": "pastimes", "title": "Sports, Games & Pastimes", "public": [], "bts": ["World Lore/Sports, Games and Passtime.md"], "art": []},
+    {"slug": "language", "title": "Vraki Language & Font", "public": ["vraki-font.md"], "bts": ["World Lore/Language.md"], "art": ["Logo and Font"]},
+    {"slug": "in-world-books", "title": "Books of Vraki", "public": [], "bts": ["World Lore/Novels.md"], "art": []},
+    {"slug": "races", "title": "Races", "public": ["races.md"], "bts": ["World Lore/Races.md"], "art": ["Illustrations/Races"]},
+    {"slug": "characters", "title": "Characters", "public": ["characters.md"], "bts": ["World Lore/Characters.md"], "art": ["Illustrations/Characters", "Illustrations/Harry"]},
+    {"slug": "harry", "title": "Harry's Journey", "public": ["harry.md"], "bts": [], "art": ["Illustrations/Harry"]},
+    {"slug": "factions", "title": "Factions", "public": ["factions.md"], "bts": ["World Lore/Factions.md"], "art": ["Illustrations/Insignias", "Illustrations/Emblems"]},
+    {"slug": "soul-energy", "title": "Soul Energy", "public": ["science-soul-energy.md"], "bts": ["World Lore/Science - Soul Energy.md"], "art": ["Illustrations/Soul Energy Interfaces"]},
+    {"slug": "walking-heart", "title": "Walking Heart Interface", "public": ["science-walking-heart.md"], "bts": ["World Lore/Science - Walking Heart Interface.md"], "art": ["Illustrations/Soul Energy Interfaces"]},
+    {"slug": "darfaries-interface", "title": "Darfaries Interface", "public": ["science-darfaries-interface.md"], "bts": ["World Lore/Science - Darfaries Interface.md"], "art": ["Illustrations/Soul Energy Interfaces"]},
+    {"slug": "buhraies-interface", "title": "Buhraies Interface", "public": ["science-buhraies-interface.md"], "bts": ["World Lore/Soul Energy - Buhraies Interface.md"], "art": ["Illustrations/Soul Energy Interfaces"]},
+    {"slug": "finaies-interface", "title": "Finaies Interface", "public": ["science-finaies-interface.md"], "bts": ["World Lore/Soul Energy - Finaies Interface.md"], "art": ["Illustrations/Soul Energy Interfaces"]},
+    {"slug": "nari-gels", "title": "Nari Gels", "public": ["science-nari-gels.md"], "bts": ["World Lore/Science - Nari Gels.md"], "art": ["Illustrations/Natural and Crafted Resources/Science - Nari Gels", "Illustrations/Natural and Crafted Resources"]},
+    {"slug": "nari-bombs", "title": "Nari Bombs & Stones", "public": ["science-nari-bombs-stones.md"], "bts": ["World Lore/Science - Nari Bombs.md"], "art": ["Illustrations/Natural and Crafted Resources"]},
+    {"slug": "resources", "title": "Natural & Crafted Resources", "public": [], "bts": ["World Lore/Natural and Crafted Resources.md"], "art": ["Illustrations/Natural and Crafted Resources"]},
+    {"slug": "beasts", "title": "Beasts", "public": ["beasts.md"], "bts": ["World Lore/Beasts.md"], "art": ["Illustrations/Beasts"]},
+    {"slug": "fauna", "title": "Fauna", "public": ["fauna.md"], "bts": ["World Lore/Fauna.md"], "art": ["Illustrations/Fauna"]},
+    {"slug": "flora", "title": "Flora", "public": ["flora.md"], "bts": ["World Lore/Flora.md"], "art": ["Illustrations/Flora"]}
+  ],
+
+  "about_pages": [
+    {"slug": "welcome", "title": "Welcome", "public": "welcome.md"},
+    {"slug": "faq", "title": "FAQ", "public": "faq.md"},
+    {"slug": "afterwords", "title": "Afterwords", "public": "afterwords.md"},
+    {"slug": "final-blog-post", "title": "Final Blog Post", "public": "blog.md"},
+    {"slug": "light-novel-series", "title": "Graphic/Light Novel Series", "public": "webcomic.md"},
+    {"slug": "webcomic", "title": "Webcomic", "public": "graphiclight-novels.md"},
+    {"slug": "story-chronology", "title": "Story Chronology", "public": "story-chronology.md", "bts": "Light Novel/Story Chronology.xlsx"}
+  ]
+}

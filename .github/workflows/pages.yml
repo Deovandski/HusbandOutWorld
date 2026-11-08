@@ -1,0 +1,56 @@
+name: Website
+
+# Builds the website from the Legacy folder (tools/build.py) and publishes it to GitHub Pages.
+# One-time setup: repo Settings > Pages > Build and deployment > Source = "GitHub Actions".
+# Custom domain: add it under Settings > Pages, then commit a CNAME file at the repo root.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install build tools
+        run: |
+          pip install markdown-it-py pillow
+          sudo apt-get install -y --no-install-recommends ffmpeg || true
+
+      # Web-sized images take a while to make, so keep them between runs.
+      - uses: actions/cache@v4
+        with:
+          path: .media-cache
+          key: media-${{ github.run_id }}
+          restore-keys: media-
+
+      - name: Build the site
+        run: python tools/build.py --out _site --cache .media-cache
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

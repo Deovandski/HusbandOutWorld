@@ -21,5 +21,5 @@ To view a copy of this license, visit [https://creativecommons.org/licenses/by-n
 
 ## Not covered by this license
 
-- **The Vraki typeface** (`Logo and Font/VrakiHusbandOutWorldSeries-Rg.otf`, `.ttf` and `.woff2`), © 2024 Deovandski Skibinski Junior, has its own license: [Logo and Font/LICENSE.md](Logo%20and%20Font/LICENSE.md). In short: non-commercial use is free with attribution; commercial use needs approval and a fee, kept small for artists and creators to support the community; the font may not be altered without permission.
-- **Third-party fonts** in `Logo and Font/`: Brioso Pro (© Adobe) and Jazzier (© Dalton Maag Ltd) belong to their owners and are under their owners' licenses, not this one.
+- **The Vraki typeface** (`Legacy/Behind The Scenes/Logo and Font/VrakiHusbandOutWorldSeries-Rg.otf`, `.ttf` and `.woff2`), © 2024 Deovandski Skibinski Junior, has its own license: [Legacy/Behind The Scenes/Logo and Font/LICENSE.md](Legacy/Behind%20The%20Scenes/Logo%20and%20Font/LICENSE.md). In short: non-commercial use is free with attribution; commercial use needs approval and a fee, kept small for artists and creators to support the community; the font may not be altered without permission.
+- **Third-party fonts** in `Legacy/Behind The Scenes/Logo and Font/`: Brioso Pro (© Adobe) and Jazzier (© Dalton Maag Ltd) belong to their owners and are under their owners' licenses, not this one.
