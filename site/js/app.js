@@ -3,6 +3,7 @@
   'use strict';
   var root = document.documentElement;
   var KEY = 'hoow';
+  var BASE = root.dataset.base || '';  // e.g. "/HusbandOutWorld" on a GitHub project page
 
   function load() { try { return JSON.parse(localStorage.getItem(KEY) || '{}'); } catch (e) { return {}; } }
   function save(patch) {
@@ -97,7 +98,7 @@
     var data = null;
     var q0 = new URLSearchParams(location.search).get('q') || '';
     box.value = q0;
-    fetch('/data/search.json').then(function (r) { return r.json(); }).then(function (d) { data = d; run(); });
+    fetch(BASE + '/data/search.json').then(function (r) { return r.json(); }).then(function (d) { data = d; run(); });
     box.addEventListener('input', run);
     document.addEventListener('modechange', run);
     function esc(s) { return String(s || '').replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
@@ -127,7 +128,7 @@
         var it = h[1];
         var li = document.createElement('li');
         var snippet = it.x || (bts ? it.xb : '') || '';
-        li.innerHTML = '<a href="' + esc(it.u) + '">' + esc(it.t) + '</a> <span class="sr-sec">' + esc(it.s) + '</span>' +
+        li.innerHTML = '<a href="' + esc(BASE + it.u) + '">' + esc(it.t) + '</a> <span class="sr-sec">' + esc(it.s) + '</span>' +
           (it.b ? '<span class="sr-bts">Behind the Scenes</span>' : '') + '<br><span class="muted">' + esc(snippet.slice(0, 220)) + '</span>';
         list.appendChild(li);
       });

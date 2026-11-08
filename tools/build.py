@@ -29,6 +29,17 @@ ALT = json.load(open(os.path.join(CONTENT, 'alt-text.json'))) if os.path.exists(
 SUMMARIES = json.load(open(os.path.join(CONTENT, 'summaries.json'))) if os.path.exists(os.path.join(CONTENT, 'summaries.json')) else {}
 TYPOS = json.load(open(os.path.join(CONTENT, 'typos.json'))) if os.path.exists(os.path.join(CONTENT, 'typos.json')) else {}
 GH_BLOB = CFG['repo_url'] + '/blob/main/'
+BASE = ''  # path the site is served under, e.g. "/HusbandOutWorld" on a GitHub project page; "" on a custom domain
+
+def with_base(html_text):
+    """Prefix every site-internal link (href="/...", src="/...") with BASE."""
+    if not BASE:
+        return html_text
+    return re.sub(r'\b(href|src|data-full|action)="/(?!/)', lambda m: f'{m.group(1)}="{BASE}/', html_text)
+
+def md_absolute(md_text):
+    """Make site-internal Markdown links absolute, so the .md copies work anywhere."""
+    return re.sub(r'\]\(/(?!/)', lambda m: '](' + CFG['base_url'] + '/', md_text)
 
 # --------------------------------------------------------------------------- text helpers
 
@@ -901,7 +912,7 @@ class Builder:
             else:
                 path = os.path.join(self.out, p.url.lstrip('/'), 'index.html')
             os.makedirs(os.path.dirname(path), exist_ok=True)
-            open(path, 'w', encoding='utf-8').write(page_html(p, nav))
+            open(path, 'w', encoding='utf-8').write(with_base(page_html(p, nav)))
             if not p.url.endswith('.html'):
                 open(os.path.join(os.path.dirname(path), 'index.md'), 'w', encoding='utf-8').write(page_md(p))
         # search index
@@ -984,7 +995,7 @@ def page_html(p, nav):
         srcs = '<p class="page-sources">Built from: ' + ', '.join(f'<a href="{GH_BLOB}{quote(s)}">{esc(s)}</a>' for s in p.sources) + '</p>'
     md_link = '' if p.url.endswith('.html') else f'<link rel="alternate" type="text/markdown" href="{p.url}index.md">'
     return f'''<!doctype html>
-<html lang="en" data-mode="public" data-theme="dark">
+<html lang="en" data-mode="public" data-theme="dark" data-base="{BASE}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -1059,6 +1070,7 @@ def page_md(p):
         out += '<!-- PUBLIC LAYER: as published for readers -->\n\n' + p.md_public.strip() + '\n\n'
     if p.md_bts.strip():
         out += '<!-- BEHIND THE SCENES LAYER: the author\'s full notes, contains spoilers -->\n\n' + p.md_bts.strip() + '\n'
+    out = md_absolute(out)
     out = re.sub(r'\[image\d+\]: <data:[^>]+>', '', out)
     out = re.sub(r'\(data:image/[^)]+\)', '(embedded-image)', out)
     return out
@@ -1094,7 +1106,7 @@ def write_llms(out, pages):
     order = {'Home': 0, 'Light Novel': 1, 'World Lore': 2, 'Glossary': 3, 'Gallery': 4, 'About': 5}
     for p in sorted([p for p in pages if not p.url.endswith('.html') and p.section != 'Search'], key=lambda p: order.get(p.section, 9)):
         if p.md_public.strip():
-            pub.append(f'\n\n---\nURL: {CFG["base_url"]}{p.url}\n\n{p.md_public.strip()}')
+            pub.append(f'\n\n---\nURL: {CFG["base_url"]}{p.url}\n\n{md_absolute(p.md_public.strip())}')
         both = page_md(p)
         full.append(f'\n\n---\nURL: {CFG["base_url"]}{p.url}\n\n{both}')
     head = f'# {CFG["title"]}: full text\n\nSource: {CFG["base_url"]}. License: CC BY-NC-SA 4.0. eBook: {CFG["amazon_url"]}\n'
@@ -1113,7 +1125,13 @@ def main():
     ap.add_argument('--out', default=os.path.join(ROOT, '_site'))
     ap.add_argument('--cache', default=os.path.join(ROOT, '.media-cache'))
     ap.add_argument('--no-images', action='store_true')
+    ap.add_argument('--base-path', default='', help='path the site is served under, e.g. /HusbandOutWorld (GitHub project page); empty for a custom domain')
+    ap.add_argument('--site-url', default='', help='full public address of the site; defaults to base_url in content/site.json')
     a = ap.parse_args()
+    global BASE
+    BASE = a.base_path.rstrip('/')
+    if a.site_url:
+        CFG['base_url'] = a.site_url.rstrip('/')
     if os.path.exists(a.out):
         shutil.rmtree(a.out)
     os.makedirs(a.out)

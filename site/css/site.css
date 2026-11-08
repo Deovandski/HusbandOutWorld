@@ -1,9 +1,9 @@
 /* #HusbandOutWorld website. Palette taken from the Forway city emblem:
    tan mountain, red field, green field, blue sea, pink-purple wheat, the pearl, the silver ring. */
-@font-face { font-family: "Vraki"; src: url("/fonts/vraki.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "Schola"; src: url("/fonts/texgyreschola-regular.otf") format("opentype"); font-display: swap; }
-@font-face { font-family: "Schola"; src: url("/fonts/texgyreschola-bold.otf") format("opentype"); font-weight: 700; font-display: swap; }
-@font-face { font-family: "Schola"; src: url("/fonts/texgyreschola-italic.otf") format("opentype"); font-style: italic; font-display: swap; }
+@font-face { font-family: "Vraki"; src: url("../fonts/vraki.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "Schola"; src: url("../fonts/texgyreschola-regular.otf") format("opentype"); font-display: swap; }
+@font-face { font-family: "Schola"; src: url("../fonts/texgyreschola-bold.otf") format("opentype"); font-weight: 700; font-display: swap; }
+@font-face { font-family: "Schola"; src: url("../fonts/texgyreschola-italic.otf") format("opentype"); font-style: italic; font-display: swap; }
 
 :root {
   --fs: 18px;
