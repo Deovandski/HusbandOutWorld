@@ -830,6 +830,12 @@ class Builder:
                  '<p class="lede">The world of Vraki: its kingdoms, peoples, soul energy science, beasts and plants. '
                  'Public mode shows what the old blog showed. Behind The Scenes adds the author\'s full notes.</p>']
         md = ['# World Lore\n']
+        world = self.media.file(os.path.join(BTS, 'Illustrations', 'World Map', 'World Map (Final).png'))
+        if world:
+            alt = ALT.get(world['src'], {}).get('alt') or default_alt(world['src'])
+            parts.append(f'<figure class="world-map"><a class="img-link" href="{world["url"]}" data-full="{world["url"]}">'
+                         f'<img src="{world["url"]}" alt="{esc(alt)}" loading="lazy"></a></figure>')
+            md.append(f'![{alt}]({world["url"]})\n')
         for g in CFG['lore_groups']:
             parts.append(f'<h2>{esc(g["title"])}</h2><div class="topic-grid">')
             md.append(f'## {g["title"]}\n')

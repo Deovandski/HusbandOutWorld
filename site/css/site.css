@@ -210,7 +210,8 @@ html[data-theme="light"] .btn.primary { color: #fff; }
 .modes-explainer { display: flex; gap: 1.5rem; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 1.2rem 1.4rem; margin: 2rem 0; }
 .modes-explainer h2 { margin-top: 0; }
 .modes-explainer img { width: 120px; flex: none; }
-.world-map img { border-radius: var(--radius); }
+.world-map { margin: 1.5rem 0 0; }
+.world-map img { border-radius: var(--radius); width: 100%; }
 figure figcaption { text-align: center; font: .72em var(--sans); color: var(--ink2); margin-top: .3rem; }
 @media (max-width: 620px) { .modes-explainer { flex-direction: column; text-align: center; } }
 
