@@ -26,6 +26,17 @@ SITE_SRC = os.path.join(ROOT, 'site')
 
 CFG = json.load(open(os.path.join(CONTENT, 'site.json')))
 ALT = json.load(open(os.path.join(CONTENT, 'alt-text.json'))) if os.path.exists(os.path.join(CONTENT, 'alt-text.json')) else {}
+FIXES = json.load(open(os.path.join(CONTENT, 'fixes.json'))) if os.path.exists(os.path.join(CONTENT, 'fixes.json')) else {}
+
+def read_legacy(path):
+    """Read a Legacy file and apply its display-only fixes from content/fixes.json."""
+    text = open(path, encoding='utf-8').read()
+    for fx in FIXES.get(rel(path), []):
+        if fx['find'] not in text:
+            print(f'warning: fix not found in {rel(path)}: {fx["find"][:60]!r}', file=sys.stderr)
+        text = text.replace(fx['find'], fx['replace'])
+    return text
+
 SUMMARIES = json.load(open(os.path.join(CONTENT, 'summaries.json'))) if os.path.exists(os.path.join(CONTENT, 'summaries.json')) else {}
 TYPOS = json.load(open(os.path.join(CONTENT, 'typos.json'))) if os.path.exists(os.path.join(CONTENT, 'typos.json')) else {}
 GH_BLOB = CFG['repo_url'] + '/blob/main/'
@@ -220,11 +231,18 @@ class Renderer:
             return None
         base = env.get('base', ROOT)
         p = os.path.normpath(os.path.join(base, unquote(src)))
+        if not os.path.exists(p) and os.path.isdir(os.path.dirname(p)):
+            low = os.path.basename(p).lower()  # the docs sometimes differ in letter case (Worldmap.png)
+            for f in os.listdir(os.path.dirname(p)):
+                if f.lower() == low:
+                    p = os.path.join(os.path.dirname(p), f)
+                    break
         return self.media.file(p)
 
     def render(self, text, base=ROOT, origin='', refs=None):
         if refs:
             text = re.sub(r'!\[([^\]]*)\]\[(image\d+)\]', lambda m: f'![{m.group(1)}]({refs[m.group(2)]})' if m.group(2) in refs else '', text)
+        text = re.sub(r'!\[[^\]]*\]\[image\d+\]', '', text)  # references with no image behind them
         return self.md.render(text, {'base': base, 'origin': origin})
 
 def default_alt(src):
@@ -244,7 +262,7 @@ def split_refs(text):
 
 def parse_lore(path):
     """Split a Behind The Scenes lore file into intro, categories and entries."""
-    text, refs = split_refs(open(path, encoding='utf-8').read())
+    text, refs = split_refs(read_legacy(path))
     blocks, cur = [], {'kind': 'intro', 'title': '', 'lines': []}
     blocks.append(cur)
     for line in text.split('\n'):
@@ -292,7 +310,7 @@ def extract_website_description(body):
 
 def parse_public(name):
     path = os.path.join(PUB, name)
-    text = open(path, encoding='utf-8').read()
+    text = read_legacy(path)
     meta = {}
     m = re.match(r'^---\n(.*?)\n---\n', text, re.S)
     if m:
@@ -378,6 +396,18 @@ class Builder:
 
     # ---- helpers
     def add(self, page):
+        # make repeated anchors unique (two blog sections can share a heading)
+        seen = {}
+        toc = []
+        for anchor, title, layer, kind in page.toc:
+            n = seen.get(anchor, 0)
+            seen[anchor] = n + 1
+            if n:
+                new_anchor = f'{anchor}-{n + 1}'
+                page.html = _renumber(page.html, anchor, n, new_anchor)
+                anchor = new_anchor
+            toc.append((anchor, title, layer, kind))
+        page.toc = toc
         self.pages.append(page)
         return page
 
@@ -403,7 +433,8 @@ class Builder:
             page.sources.append(rel(os.path.join(PUB, name)))
             if intro['md']:
                 public_intros.append(intro)
-            public_sections.extend(secs)
+            skip = {norm(x) for x in t.get('exclude_public', [])}
+            public_sections.extend(x for x in secs if norm(x['heading']) not in skip)
         entries, intro_bts, refs_all = [], [], {}
         for src in t['bts']:
             path = os.path.join(BTS, src)
@@ -497,13 +528,19 @@ class Builder:
             e = b
             is_meta = e['title'].lower() in meta_cats
             wd, rest = extract_website_description(e['body'])
-            pub_md = '\n\n'.join(strip_images(s['md']) for s in e['public_secs']) or wd
+            secs = e['public_secs']
+            pub_render = '\n\n'.join((f'#### {x["heading"]}\n\n' if len(secs) > 1 and x['heading'] and norm(x['heading']) != norm(e['title']) else '') + x['md'] for x in secs)
+            pub_md = strip_images(pub_render) or wd
+            if not secs:
+                pub_render = wd
             pub_src = ', '.join(sorted({s['file'] for s in e['public_secs']})) or ('Website Description in ' + e['origin'] if wd else '')
             img_src = None
             for s in e['public_secs']:
                 fi = first_image(s['md'])
                 if fi and not fi.startswith('http'):
                     img_src = self.r.resolve(fi, {'base': PUB})
+                    # the first picture becomes the entry's figure; the rest stay in the text
+                    pub_render = re.sub(r'!\[[^\]]*\]\(' + re.escape(fi) + r'\)\s*', '', pub_render, count=1)
                     break
             if not img_src:
                 p = self.art.find(e['title'], t.get('art', []))
@@ -519,7 +556,7 @@ class Builder:
             h = [f'<section class="entry layer {layer}" id="{anchor}">', f'<h3>{esc(e["title"])}</h3>']
             fig = self.figure(img_src)
             if pub_md:
-                h.append(f'<div class="layer public">{fig}{self.r.render(fix_typos(pub_md, e["origin"]), base=PUB)}'
+                h.append(f'<div class="layer public">{fig}{self.r.render(pub_render, base=PUB)}'
                          f'<p class="src src-pub">Public text: {esc(pub_src)}</p></div>')
             if rest.strip() or wd:
                 bts_md = rest if pub_md == wd else e['body']
@@ -539,20 +576,33 @@ class Builder:
             page.search.append({'t': e['title'], 'u': url + '#' + anchor, 's': t['title'],
                                 'x': first_sentences(pub_md or '', 300), 'xb': first_sentences(e['body'], 400),
                                 'b': layer == 'bts'})
+        bts_now = False
         for s in leftovers:
             anchor = slugify(s['heading'] or s['page'])
+            layer = 'bts' if bts_now else 'both'
+            if t.get('bts_after') and s['heading'].startswith(t['bts_after']):
+                bts_now = True  # everything after this heading is Behind The Scenes (author's choice)
             fi = first_image(s['md'])
             info = self.r.resolve(fi, {'base': PUB}) if fi and not fi.startswith('http') else None
             if not info:
                 p = self.art.find(s['heading'], t.get('art', []))
                 info = self.media.file(p) if p else None
-            page.toc.append((anchor, s['heading'] or s['page'], 'both', 'entry'))
-            body.append(f'<section class="entry layer both" id="{anchor}"><h3>{esc(s["heading"] or s["page"])}</h3>'
-                        f'<div class="layer public">{self.figure(info)}{self.r.render(fix_typos(strip_images(s["md"]), s["file"]), base=PUB)}'
-                        f'<p class="src src-pub">Public text: {esc(s["file"])}</p></div></section>')
-            page.md_public += f'### {s["heading"]}\n\n{strip_images(s["md"])}\n\n'
+            page.toc.append((anchor, s['heading'] or s['page'], layer, 'entry'))
+            inner = (f'{self.figure(info)}{self.r.render(strip_images(s["md"]), base=PUB)}'
+                     f'<p class="src src-pub">Public text: {esc(s["file"])}</p>')
+            if layer == 'bts':
+                hidden_count += 1
+                inner = f'<div class="layer bts"><p class="bts-label">Behind the Scenes</p>{inner}</div>'
+            else:
+                inner = f'<div class="layer public">{inner}</div>'
+            body.append(f'<section class="entry layer {layer}" id="{anchor}"><h3>{esc(s["heading"] or s["page"])}</h3>{inner}</section>')
+            if layer == 'bts':
+                page.md_bts += f'### {s["heading"]}\n\n{strip_images(s["md"])}\n\n'
+            else:
+                page.md_public += f'### {s["heading"]}\n\n{strip_images(s["md"])}\n\n'
             page.search.append({'t': s['heading'] or s['page'], 'u': url + '#' + anchor, 's': t['title'],
-                                'x': first_sentences(s['md'], 300), 'b': False})
+                                'x': '' if layer == 'bts' else first_sentences(s['md'], 300),
+                                'xb': first_sentences(s['md'], 300), 'b': layer == 'bts'})
         if hidden_count:
             body.append(f'<p class="layer public-only more-bts">{hidden_count} more entr{"y" if hidden_count == 1 else "ies"} '
                         f'on this page {"is" if hidden_count == 1 else "are"} only in <button class="linklike" data-go-bts>Behind The Scenes</button>.</p>')
@@ -567,7 +617,7 @@ class Builder:
     # ---- novel
     def parse_volume(self, v):
         path = os.path.join(BTS, v['source'])
-        text, refs = split_refs(open(path, encoding='utf-8').read())
+        text, refs = split_refs(read_legacy(path))
         base = os.path.dirname(path)
         front, chapters, cur, sub = [], [], None, None
         def new_chapter(title):
@@ -599,7 +649,7 @@ class Builder:
                 imgs = re.findall(r'!\[[^\]]*\]\[[^\]]*\]|!\[[^\]]*\]\([^)]*\)', raw)
                 (sub['lines'] if sub else (cur['intro'] if cur else front)).extend(imgs)
                 continue
-            if stripped in ('**Prologue**', 'Prologue') and (cur is None or cur['title'] != 'Prologue'):
+            if stripped == '**Prologue**' and (cur is None or cur['title'] != 'Prologue'):
                 new_chapter('Prologue')
                 continue
             target = sub['lines'] if sub else (cur['intro'] if cur else front)
@@ -680,7 +730,7 @@ class Builder:
         notes = []
         for n in CFG['story_notes']:
             path = os.path.join(BTS, n['source'])
-            text, refs = split_refs(open(path, encoding='utf-8').read())
+            text, refs = split_refs(read_legacy(path))
             url = f'/novel/{n["slug"]}/'
             p = Page(url, n['title'], 'Light Novel', layer='bts')
             p.sources.append(rel(path))
@@ -700,36 +750,62 @@ class Builder:
         for v, vurl, cover, toc in vols_html:
             img = f'<img src="{cover["thumb"]}" alt="Opening illustration of {esc(v["title"])}" loading="lazy">' if cover else ''
             parts.append(f'<a class="vol-card" href="{vurl}">{img}<span class="vol-title">{esc(v["title"])}</span>'
-                         f'<span class="muted">{len(toc)} chapters</span></a>')
+                         f'<span class="muted">{sum(1 for _, t, _ in toc if t.lower().startswith("chapter"))} chapters</span></a>')
         parts.append('</div>')
         parts.append('<h2 class="layer bts">Story notes</h2><ul class="layer bts">' + ''.join(f'<li><a href="{u}">{esc(n["title"])}</a></li>' for n, u in notes) + '</ul>')
         parts.append('<p class="layer public-only more-bts">The author\'s notes for Arcs #2 to #5 are in <button class="linklike" data-go-bts>Behind The Scenes</button>.</p>')
+        chrono = CFG.get('novel_chronology')
+        if chrono:
+            body, cmd, _ = self.public_page(chrono, level=3)
+            parts.append(f'<section id="story-chronology"><h2>Story Chronology</h2>{body}</section>')
+            idx.sources.append(rel(os.path.join(PUB, chrono)))
+            idx.toc_extra_md = f'\n\n## Story Chronology\n\n{cmd}'
         idx.html = '\n'.join(parts)
-        idx.md_public = '# The Light Novel\n\n' + '\n'.join(f'- [{v["title"]}]({u}index.md)' for v, u, _, _ in vols_html)
+        idx.md_public = '# The Light Novel\n\n' + '\n'.join(f'- [{v["title"]}]({u}index.md)' for v, u, _, _ in vols_html) + getattr(idx, 'toc_extra_md', '')
         idx.md_bts = '\n'.join(f'- [{n["title"]}]({u}index.md)' for n, u in notes)
         idx.desc = 'Read the #HusbandOutWorld light novel, Arc #1 Dubious Contract, free online.'
         self.add(idx)
 
     # ---- about pages
+    def public_page(self, name, level=2):
+        """Render a blog page (Legacy/Public) section by section, with an anchor on each heading."""
+        meta, intro, secs = parse_public(name)
+        html_parts = [self.r.render(intro['md'], base=PUB, origin=name)] if intro['md'] else []
+        md = [intro['md']] if intro['md'] else []
+        toc = []
+        for s_ in secs:
+            if s_['heading']:
+                anchor = slugify(s_['heading'])
+                toc.append((anchor, s_['heading'], 'both', 'entry'))
+                html_parts.append(f'<h{level} id="{anchor}">{esc(s_["heading"])}</h{level}>')
+                md.append('#' * level + ' ' + s_['heading'])
+            html_parts.append(self.r.render(s_['md'], base=PUB, origin=name))
+            md.append(s_['md'])
+        src = (f'<p class="src">From the original blog page: <a href="{esc(meta.get("original_url", ""))}">{esc(meta.get("original_url", ""))}</a> '
+               f'(archived in <a href="{gh_link(os.path.join(PUB, name))}">{esc(rel(os.path.join(PUB, name)))}</a>)</p>')
+        return '\n'.join(html_parts) + src, '\n\n'.join(md), toc
+
     def build_about(self):
         links = []
         for a in CFG['about_pages']:
-            meta, intro, secs = parse_public(a['public'])
-            url = f'/about/{a["slug"]}/'
-            p = Page(url, a['title'], 'About')
+            url = a.get('url') or f'/about/{a["slug"]}/'
+            section = a.get('section', 'About')
+            p = Page(url, a['title'], section)
             p.sources.append(rel(os.path.join(PUB, a['public'])))
-            md = intro['md'] + '\n\n' + '\n\n'.join((f'## {s["heading"]}\n\n' if s['heading'] else '') + s['md'] for s in secs)
-            p.html = (f'<h1>{esc(a["title"])}</h1>' + self.r.render(fix_typos(md, a['public']), base=PUB, origin=a['public']) +
-                      f'<p class="src">From the original blog page: <a href="{esc(meta.get("original_url", ""))}">{esc(meta.get("original_url", ""))}</a> (archived in <a href="{gh_link(os.path.join(PUB, a["public"]))}">{esc(rel(os.path.join(PUB, a["public"])))}</a>)</p>')
+            body, md, toc = self.public_page(a['public'])
+            p.html = f'<h1>{esc(a["title"])}</h1>' + body
+            if a.get('toc') and len(toc) > 1:
+                p.toc = toc
             p.md_public = f'# {a["title"]}\n\n' + md
             p.desc = first_sentences(md, 160)
-            p.search.append({'t': a['title'], 'u': url, 's': 'About', 'x': first_sentences(md, 300), 'b': False})
+            p.search.append({'t': a['title'], 'u': url, 's': section, 'x': first_sentences(md, 300), 'b': False})
             self.add(p)
-            links.append((a['title'], url))
+            if section == 'About':
+                links.append((a['title'], url))
         # AI disclosure page from the repo file
         path = os.path.join(ROOT, 'AI-DISCLOSURE.md')
         if os.path.exists(path):
-            text = open(path, encoding='utf-8').read()
+            text = read_legacy(path)
             p = Page('/about/ai-disclosure/', 'AI Disclosure', 'About')
             p.html = self.r.render(text, base=ROOT)
             p.md_public = text
@@ -772,7 +848,10 @@ class Builder:
     def build_gallery(self):
         root = os.path.join(BTS, 'Illustrations')
         folders = {}
+        excluded = set(CFG.get('gallery_exclude', []))
         for p in self.art.files:
+            if os.path.relpath(p, BTS).replace(os.sep, '/') in excluded:
+                continue
             d = os.path.relpath(os.path.dirname(p), root)
             folders.setdefault(d, []).append(p)
         p = Page('/gallery/', 'Gallery', 'Gallery')
@@ -841,7 +920,7 @@ class Builder:
     # ---- home
     def build_home(self):
         p = Page('/', CFG['title'], 'Home')
-        logo = self.media.file(os.path.join(BTS, 'Logo and Font', 'Cover Text no subtitle.png'))
+        logo = self.media.file(os.path.join(PUB, 'images', '001.png'))  # the old blog's welcome banner
         world = self.media.file(os.path.join(BTS, 'WorldMapMD.png'))
         emblem = self.media.file(os.path.join(BTS, 'Illustrations', 'Emblems', 'Forway city emblem.png'))
         meta, intro, secs = parse_public('webcomic.md')
@@ -853,7 +932,7 @@ class Builder:
                 break
         p.html = f'''
 <section class="hero">
-  <img class="hero-logo" src="{logo['url']}" alt="A Husband Out of This World" width="1588" height="933">
+  <img class="hero-banner" src="{logo['url']}" alt="{esc(ALT.get(logo['src'], {}).get('alt', 'A Husband Out of This World'))}" width="2500" height="1626">
   <p class="hero-blurb">{esc(blurb)}</p>
   <div class="hero-actions">
     <a class="btn primary" href="/novel/vol-1/">Start reading Vol 1</a>
@@ -950,6 +1029,13 @@ class Builder:
             shutil.copyfile(os.path.join(ROOT, 'CNAME'), os.path.join(self.out, 'CNAME'))
         return em
 
+def _renumber(html_text, anchor, n, new_anchor):
+    """Rename the (n+1)-th id="anchor" in the page to new_anchor."""
+    parts = html_text.split(f'id="{anchor}"')
+    if len(parts) <= n + 1:
+        return html_text
+    return f'id="{anchor}"'.join(parts[:n + 1]) + f'id="{new_anchor}"' + f'id="{anchor}"'.join(parts[n + 1:])
+
 def roman(s):
     vals = {'i': 1, 'v': 5, 'x': 10, 'l': 50, 'c': 100}
     s = s.lower(); total = 0
@@ -968,7 +1054,7 @@ def bts_gate(why):
 
 # --------------------------------------------------------------------------- templates
 
-NAV = [('Novel', '/novel/'), ('World Lore', '/lore/'), ('Gallery', '/gallery/'), ('Glossary', '/glossary/'), ('About', '/about/')]
+NAV = [('Novel', '/novel/'), ('Webcomic', '/webcomic/'), ('World Lore', '/lore/'), ('Gallery', '/gallery/'), ('Glossary', '/glossary/'), ('About', '/about/')]
 
 def nav_html():
     return ''.join(f'<a href="{u}">{t}</a>' for t, u in NAV)
@@ -1025,7 +1111,7 @@ def page_html(p, nav):
   </div>
 </header>
 <div class="mode-banner layer bts keep-latin">Behind The Scenes is on: pages include the author's full notes and spoilers.</div>
-<main id="main" class="{'has-toc' if toc else ''}">
+<main id="main" class="{'has-toc' if toc else ''}{' toc-bts-only' if toc and all(l == 'bts' for _, _, l, _ in p.toc) else ''}">
   {toc}
   <article class="content">
     {head_title}
@@ -1093,7 +1179,7 @@ def write_llms(out, pages):
              f'- [Public layer, everything]({CFG["base_url"]}/llms-full.txt): the novel and the public lore in one file',
              f'- [Everything, including Behind The Scenes]({CFG["base_url"]}/llms-full-bts.txt): adds the full notes (spoilers)',
              f'- [Glossary JSON]({CFG["base_url"]}/data/glossary.json), [Image list with alt text]({CFG["base_url"]}/data/images.json), [Page list]({CFG["base_url"]}/data/pages.json)', '']
-    for sec in ('Light Novel', 'World Lore', 'Gallery', 'Glossary', 'About'):
+    for sec in ('Light Novel', 'Webcomic', 'World Lore', 'Gallery', 'Glossary', 'About'):
         if sec not in by:
             continue
         lines.append(f'## {sec}\n')
@@ -1103,7 +1189,7 @@ def write_llms(out, pages):
         lines.append('')
     open(os.path.join(out, 'llms.txt'), 'w', encoding='utf-8').write('\n'.join(lines))
     pub, full = [], []
-    order = {'Home': 0, 'Light Novel': 1, 'World Lore': 2, 'Glossary': 3, 'Gallery': 4, 'About': 5}
+    order = {'Home': 0, 'Light Novel': 1, 'Webcomic': 1.5, 'World Lore': 2, 'Glossary': 3, 'Gallery': 4, 'About': 5}
     for p in sorted([p for p in pages if not p.url.endswith('.html') and p.section != 'Search'], key=lambda p: order.get(p.section, 9)):
         if p.md_public.strip():
             pub.append(f'\n\n---\nURL: {CFG["base_url"]}{p.url}\n\n{md_absolute(p.md_public.strip())}')
