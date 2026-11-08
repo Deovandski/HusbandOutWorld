@@ -3,7 +3,7 @@ title: "Afterwords"
 original_url: https://husbandoutworld.blogspot.com/p/afterwords.html
 published: 2026-09-30T21:42:00.329Z
 updated: 2026-11-07T12:46:47.800Z
-source: Blogger export (Google Takeout), converted from HTML to Markdown without edits, except two changes the author made to the Vol 4 afterword in November 2026 (a new mantra, and the closing now has only one song)
+source: Blogger export (Google Takeout), converted from HTML to Markdown without edits, except two changes the author made to the Vol 4 afterword in November 2026 (a new mantra, and a rewritten closing that ends with a Hávamál quote)
 ---
 
 # Afterwords
@@ -111,9 +111,7 @@ If this series somehow explodes, I will circle back and create the Omnibus with 
 
 And no. I didn't use AI to write or come up with the story; Vol 1 was published back on June 30, 2022! I did use Claude much later on to cross-check against the world lore and to help create the West March D&D Campaign, which you should totally check out! And no, we never used AI to generate the illustrations either.
 
-Anyways, here I go again, babbling on too much, usual! Some things really don’t change, but at least I am aware of it! Fuck it! For all I know, this is goodbye unless you see me out in the wild or fate somehow drags me back to write more of this wild story! I will be on FITM 2027 and planning to hit Magical MiraI in Tokyo soon, so let’s part ways with a song that is quite meaningful to me:
-
-Helvegen by Wardruna:
+Anyways, here I go again, babbling on too much, usual! Some things really don’t change, but at least I am aware of it! Fuck it! For all I know, this is goodbye unless you see me out in the wild or fate somehow drags me back to write more of this wild story! Until that happens, or I just die, I leave you with my favorite Hávamál quote:
 
 Deyr fé
 
