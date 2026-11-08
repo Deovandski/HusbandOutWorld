@@ -21,7 +21,7 @@ You may install, use, embed and share the Vraki typeface, and publish text set i
 
 Commercial use needs Deovandski's approval and a licensing fee. Commercial use includes selling, or using the font in, products, merchandise, games, apps, publications, services or advertising that make money.
 
-There is always a fee, but it is kept small for artists and creators, to support the community. Ask for approval through the official channels at https://husbandoutworld.com/. If you're not sure whether your use is commercial, ask.
+There is always a fee, but it is kept small for artists and creators, to support the community. Ask for approval on LinkedIn (https://www.linkedin.com/in/deovandski/) or by email at Deovandski@outlook.com. If you're not sure whether your use is commercial, ask.
 
 ## Altering the font
 

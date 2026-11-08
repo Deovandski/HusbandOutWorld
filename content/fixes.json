@@ -5,6 +5,11 @@
       "find": "<https://drive.google.com/drive/u/2/folders/12qdZnx1xCZ6mTwRV_n_LJ1tXrYqo08Oe>",
       "replace": "<https://github.com/Deovandski/vraki-windows#the-vraki-typeface>",
       "why": "The Google Drive folder no longer exists; the font now lives on GitHub (requested by the author)."
+    },
+    {
+      "find": "Vraki Font is now available for everyone to download and use in their creations, for commercial or non-commercial use. No royalties required.",
+      "replace": "Vraki Font is now available for everyone to download and use in their creations. Non-commercial use is free with attribution. Commercial use needs approval and a fee, kept small for artists and creators to support the community; see the [font license](https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Logo%20and%20Font/LICENSE.md).",
+      "why": "The 2024 blog text predates the Vraki typeface license (November 2026), which replaced the old no-royalties terms."
     }
   ],
   "Legacy/Behind The Scenes/World Lore/Language.md": [

@@ -25,7 +25,7 @@ Every illustration on the website has a short text description (alt text) so peo
 
 | Path | Where it comes from | What the AI did |
 |---|---|---|
-| [Legacy/Behind The Scenes](Legacy/Behind%20The%20Scenes) | This repo's original files (human). | Moved them into this folder. Not a single file was edited. |
+| [Legacy/Behind The Scenes](Legacy/Behind%20The%20Scenes) | This repo's original files (human). | Moved them into this folder without editing them. The one exception: at Deovandski's request, the Vraki typeface license (`Logo and Font/LICENSE.md`) now names LinkedIn and email as the way to ask for commercial approval. |
 | [Legacy/Public](Legacy/Public) | The old blog, from the Blogger export (human). | Converted each of the 33 live pages from HTML to Markdown, word for word, with [tools/import_blogger.py](tools/import_blogger.py). Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. |
 | [Legacy/README.md](Legacy/README.md) | — | Written by the AI. |
 | [content/site.json](content/site.json) | The structure of Legacy (human). | Written by the AI: the page map that says which blog page and which original doc make up each website page. |

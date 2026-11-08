@@ -44,7 +44,7 @@ Create an issue or feel free to send a PR!
 
 All D&D content now lives in the [Vraki West March Campaign](https://github.com/Deovandski/Vraki-West-March-Campaign-D-D) repo: an open-table West Marches campaign set in this world, with a World Lore summary, travel rules, quests, stat blocks and ready-made adventurers. If you host a campaign, let us know! Love to see pics!
 
-Also, we hereby authorize you to stream and earn money from streams and 3D Prints using the source files located herein, as this is a transformative use of our copyright. We do request that you credit us.
+Monetized videos, streams and social media posts about the series are welcome, and so are streams and 3D prints made from the source files: just credit us. Any other commercial use needs approval first. See [Permissions beyond the license](LICENSE.md#permissions-beyond-the-license).
 
 ### Are you an artist, illustrator, etc?
 
@@ -52,10 +52,10 @@ Feel free to peruse. If you have any questions, let us know. We’re open for co
 
 ### Are you a publisher?
 
-Want to reach out to the author? We’re open to a copyright/trademark transfer for an Omnibus vol or other publishing ideas, including a new version through a ghostwriter. Email deovandski@outlook.com for more info!
+Want to reach out to the author? We’re open to a copyright/trademark transfer for an Omnibus vol or other publishing ideas, including a new version through a ghostwriter. Reach out on [LinkedIn](https://www.linkedin.com/in/deovandski/) or email [Deovandski@outlook.com](mailto:Deovandski@outlook.com) for more info!
 
 ### Want to use the Vraki font?
 
-The Vraki typeface in [Logo and Font](Legacy/Behind%20The%20Scenes/Logo%20and%20Font) has its own [license](Legacy/Behind%20The%20Scenes/Logo%20and%20Font/LICENSE.md). Non-commercial use is free with attribution. Commercial use needs approval and a fee, kept small for artists and creators to support the community; ask through [HusbandOutWorld.com](https://husbandoutworld.com/). Please don't alter the font without permission.
+The Vraki typeface in [Logo and Font](Legacy/Behind%20The%20Scenes/Logo%20and%20Font) has its own [license](Legacy/Behind%20The%20Scenes/Logo%20and%20Font/LICENSE.md). Non-commercial use is free with attribution. Commercial use needs approval and a fee, kept small for artists and creators to support the community; ask on [LinkedIn](https://www.linkedin.com/in/deovandski/) or email [Deovandski@outlook.com](mailto:Deovandski@outlook.com). Please don't alter the font without permission.
 
-© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0, except the fonts in Logo and Font (see [LICENSE.md](LICENSE.md)).
+© Deovandski Skibinski Junior. *A Husband Out of This World* and *#HusbandOutWorld* are trademarks of Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0, except the fonts in Logo and Font (see [LICENSE.md](LICENSE.md) for copyright, trademarks and fonts).
