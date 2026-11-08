@@ -753,16 +753,18 @@ class Builder:
                          f'<span class="muted">{sum(1 for _, t, _ in toc if t.lower().startswith("chapter"))} chapters</span></a>')
         parts.append('</div>')
         parts.append('<h2 class="layer bts">Story notes</h2><ul class="layer bts">' + ''.join(f'<li><a href="{u}">{esc(n["title"])}</a></li>' for n, u in notes) + '</ul>')
-        parts.append('<p class="layer public-only more-bts">The author\'s notes for Arcs #2 to #5 are in <button class="linklike" data-go-bts>Behind The Scenes</button>.</p>')
+        parts.append('<p class="layer public-only more-bts">The author\'s notes for Arcs #2 to #5 and the story chronology are in <button class="linklike" data-go-bts>Behind The Scenes</button>.</p>')
         chrono = CFG.get('novel_chronology')
         if chrono:
             body, cmd, _ = self.public_page(chrono, level=3)
-            parts.append(f'<section id="story-chronology"><h2>Story Chronology</h2>{body}</section>')
+            # Behind The Scenes only (author's choice), even though the blog showed it
+            parts.append(f'<section id="story-chronology" class="layer bts"><h2>Story Chronology</h2>'
+                         f'<p class="bts-label">Behind the Scenes</p>{body}</section>')
             idx.sources.append(rel(os.path.join(PUB, chrono)))
-            idx.toc_extra_md = f'\n\n## Story Chronology\n\n{cmd}'
+            idx.md_bts += f'\n\n## Story Chronology\n\n{cmd}'
         idx.html = '\n'.join(parts)
         idx.md_public = '# The Light Novel\n\n' + '\n'.join(f'- [{v["title"]}]({u}index.md)' for v, u, _, _ in vols_html) + getattr(idx, 'toc_extra_md', '')
-        idx.md_bts = '\n'.join(f'- [{n["title"]}]({u}index.md)' for n, u in notes)
+        idx.md_bts = '\n'.join(f'- [{n["title"]}]({u}index.md)' for n, u in notes) + idx.md_bts
         idx.desc = 'Read the #HusbandOutWorld light novel, Arc #1 Dubious Contract, free online.'
         self.add(idx)
 
@@ -921,7 +923,6 @@ class Builder:
     def build_home(self):
         p = Page('/', CFG['title'], 'Home')
         logo = self.media.file(os.path.join(PUB, 'images', '001.png'))  # the old blog's welcome banner
-        world = self.media.file(os.path.join(BTS, 'WorldMapMD.png'))
         emblem = self.media.file(os.path.join(BTS, 'Illustrations', 'Emblems', 'Forway city emblem.png'))
         meta, intro, secs = parse_public('webcomic.md')
         blurb = ''
@@ -955,7 +956,6 @@ class Builder:
     secrets, unreleased arcs and all.</p>
   </div>
 </section>
-<figure class="world-map"><a class="img-link" href="{world['url']}" data-full="{world['url']}"><img src="{world['url']}" alt="Map of the world of Vraki, showing the Four Kingdoms and the lands around them" loading="lazy"></a><figcaption>The world of Vraki</figcaption></figure>
 '''
         p.md_public = (f'# {CFG["title"]}\n\n{blurb}\n\n'
                        '- [The Light Novel](/novel/index.md)\n- [World Lore](/lore/index.md)\n- [Gallery](/gallery/index.md)\n'
@@ -1100,10 +1100,11 @@ def page_html(p, nav):
 <body>
 <a class="skip" href="#main">Skip to content</a>
 <header class="topbar keep-latin">
-  <a class="brand" href="/"><span class="brand-mark" aria-hidden="true"></span><span class="brand-text">#HusbandOutWorld</span></a>
+  <a class="brand" href="/"><img class="brand-mark" src="/media/forway-emblem.png" alt="" width="30" height="30"><span class="brand-text">#HusbandOutWorld</span></a>
   <nav class="mainnav">{nav}</nav>
   <div class="controls">
     <form class="searchbox" action="/search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the site"></form>
+    <a class="search-link" href="/search/" aria-label="Search the site"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></a>
     <button class="mode-switch" type="button" role="switch" aria-checked="false" title="Switch between Public and Behind The Scenes">
       <span class="mode-public">Public</span><span class="knob" aria-hidden="true"></span><span class="mode-bts">Behind The Scenes</span>
     </button>
@@ -1236,6 +1237,7 @@ def main():
     fav = b.media.file(os.path.join(BTS, 'Illustrations', 'Emblems', 'Forway city emblem.png'))
     try:
         im = Image.open(os.path.join(BTS, 'Illustrations', 'Emblems', 'Forway city emblem.png'))
+        im.thumbnail((128, 128)); im.save(os.path.join(a.out, 'media', 'forway-emblem.png'))  # the menu's logo
         im.thumbnail((64, 64)); im.save(os.path.join(a.out, 'media', 'favicon.png'))
     except Exception as ex:
         print('favicon failed', ex)
