@@ -176,8 +176,10 @@ class Renderer:
     def __init__(self, media):
         self.media = media
         self.md = MarkdownIt('commonmark', {'html': False, 'linkify': False, 'typographer': False}).enable(['table', 'strikethrough'])
-        self.md.add_render_rule('image', self._image)
-        self.md.add_render_rule('link_open', self._link_open)
+        # markdown-it binds render rules to its renderer, so hand it plain functions
+        # (a bound method gets re-bound on Python 3.12 and loses this object).
+        self.md.add_render_rule('image', lambda renderer, tokens, idx, options, env: self._image(tokens, idx, options, env))
+        self.md.add_render_rule('link_open', lambda renderer, tokens, idx, options, env: self._link_open(tokens, idx, options, env))
 
     def _image(self, tokens, idx, options, env):
         t = tokens[idx]
