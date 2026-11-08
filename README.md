@@ -1,15 +1,40 @@
 # A Husband Out Of This World
 
-![](WorldMapMD.png)
+![](Legacy/Behind%20The%20Scenes/WorldMapMD.png)
 
 ## SPOILER WARNING!
 
 This repo makes everything behind the #HusbandOutWorld series available. EVERYTHING!
 
-Want to see a website version with less spoilers? Check out 
-[HusbandOutWorld.com/world-lore](https://www.husbandoutworld.com/world-lore)
+Want the reader-friendly version with fewer spoilers? Visit the website: **[HusbandOutWorld.com](https://www.husbandoutworld.com)**. It starts in **Public** mode, with the full light novel and the lore as the blog showed it. Flip the switch to **Behind The Scenes** and every page adds the author's full notes (after a spoiler warning).
+
+Enjoying the story? The eBook is on [Amazon](https://www.amazon.com/dp/B0BT5XM4QC). Please support the series there!
 
 ## 
+
+### What's where?
+
+| Folder | What's inside |
+|---|---|
+| [Legacy](Legacy) | **The originals, made by humans, unchanged.** `Legacy/Public` is the old blog (reader-facing, light on spoilers). `Legacy/Behind The Scenes` is everything else: the light novel manuscripts, the story notes for Arcs #2 to #5, the World Lore docs, the spreadsheets, the fonts and every illustration with its source files. |
+| [content](content) | The website's page map, short AI-written summaries and alt text, all built from Legacy. |
+| [tools](tools), [site](site) | The website's build script, styles and code. |
+| [AI-DISCLOSURE.md](AI-DISCLOSURE.md) | What a human made, what an AI made, and how they fit together. |
+
+Everything on the website comes from Legacy. It is shortened, rearranged or labeled, never invented. If the two ever disagree, Legacy wins.
+
+### For AI tools
+
+The website publishes the whole series as plain text: [llms.txt](https://www.husbandoutworld.com/llms.txt) (index), [llms-full.txt](https://www.husbandoutworld.com/llms-full.txt) (Public layer) and [llms-full-bts.txt](https://www.husbandoutworld.com/llms-full-bts.txt) (everything). Every page also has a Markdown copy at its address plus `index.md`.
+
+### Build the website yourself
+
+```
+pip install markdown-it-py pillow
+python tools/build.py
+```
+
+The site lands in `_site/`. GitHub Actions builds and publishes it on every push to `main`.
 
 ### Spot something wrong, or want to make a change?
 
@@ -31,6 +56,6 @@ Want to reach out to the author? We’re open to a copyright/trademark transfer 
 
 ### Want to use the Vraki font?
 
-The Vraki typeface in [Logo and Font](Logo%20and%20Font) has its own [license](Logo%20and%20Font/LICENSE.md). Non-commercial use is free with attribution. Commercial use needs approval and a fee, kept small for artists and creators to support the community; ask through [HusbandOutWorld.com](https://husbandoutworld.com/). Please don't alter the font without permission.
+The Vraki typeface in [Logo and Font](Legacy/Behind%20The%20Scenes/Logo%20and%20Font) has its own [license](Legacy/Behind%20The%20Scenes/Logo%20and%20Font/LICENSE.md). Non-commercial use is free with attribution. Commercial use needs approval and a fee, kept small for artists and creators to support the community; ask through [HusbandOutWorld.com](https://husbandoutworld.com/). Please don't alter the font without permission.
 
 © Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0, except the fonts in Logo and Font (see [LICENSE.md](LICENSE.md)).

@@ -1,0 +1,35 @@
+{
+  "_about": "Short public summaries for topics the blog never covered. Written by an AI (Claude) by shortening and paraphrasing the Behind The Scenes notes listed in 'sources'. No new facts. Shown in Public mode with a label saying so.",
+  "history": {
+    "sources": ["Legacy/Behind The Scenes/World Lore/World Timeline.md"],
+    "md": "The history of Vraki, race by race. It starts with the primordial Finaies, who spread across the northern continent and later the south. Over tens of thousands of years their offshoots, the Fuhraies, Lishies and Buhraies, split off and fought over territory. The timeline then follows the Darfaries, Wozefaries and Sorefaries and, finally, the humans. Dates are counted in years before Ganyrami (B.G.) and after it (A.G.)."
+  },
+  "villages": {
+    "sources": ["Legacy/Behind The Scenes/World Lore/Villages.md"],
+    "md": "The small places between the cities, grouped by region: Freeish, Gandew, Tolerideme, Sanbi and beyond. Each entry says why the village exists and what it is known for. Banhia feeds travelers on the road between Forway and Deltacross, Cliffbay keeps a lighthouse, and Fiera's Hut is famous for pies made from recipes passed down for generations."
+  },
+  "lands": {
+    "sources": ["Legacy/Behind The Scenes/World Lore/Land.md"],
+    "md": "The wild regions and ruins of the world: Aldemeri, Bahyum, the Buhraies Plains, Endlessboil, Fuhrair, Hifuna, Lukewarm, Lishin, the Nari Caverns, Newland, Sweetlake, Whiteland and Woodland. Each entry covers the land's history and its points of interest, such as Bahyum's moody castle ruins, a favorite of adventurers, bandits and researchers, and the Buhraies Plains, a cliff about 2 km high that erosion cannot wear down."
+  },
+  "professions": {
+    "sources": ["Legacy/Behind The Scenes/World Lore/Professions.md"],
+    "md": "Jobs in the Four Kingdoms are ranked in tiers, from Tier VI (kings, queens and courtroom scientists, the richest people in the kingdoms) down through artisans, merchants, guards, adventurers, maids and farmers. Each entry lists how the job came to be, what it requires, and which schooling it takes."
+  },
+  "education": {
+    "sources": ["Legacy/Behind The Scenes/World Lore/Education.md"],
+    "md": "Children learn reading and basic math in five years of fundamental school. After that, some go on to one of the specialized schools in Forway City, which teach cooking, tailoring, construction, accounting, history and teaching, blacksmithing, combat, adventuring and soul energy. Most specialized programs take about four years and cost 5 sapphires, room and simple meals included. Graduates then spend about ten years as apprentices before becoming masters."
+  },
+  "pastimes": {
+    "sources": ["Legacy/Behind The Scenes/World Lore/Sports, Games and Passtime.md"],
+    "md": "How people in Vraki have fun. Sports include Homeegg, a Forway team sport played in the air with the help of nari gels, plus Fast Fish, Fast Bird, fishing contests, Gandew and Forway duels, and egua races. Games include Territory Snipping, Stealball and Minari. For pastimes there's music, tavern-hopping, reading, theater and tourism."
+  },
+  "in-world-books": {
+    "sources": ["Legacy/Behind The Scenes/World Lore/Novels.md"],
+    "md": "The books people read inside the world of Vraki, grouped by race. Many retell history as legend, like the story of humans escaping the Buhraies, or the tale of a man on the Aldemeri coast who turned his grief into revenge against the Lishies. Others are scholarly works, such as a study of Darfaries biology."
+  },
+  "resources": {
+    "sources": ["Legacy/Behind The Scenes/World Lore/Natural and Crafted Resources.md"],
+    "md": "The materials and goods of Vraki, from natural resources like Fost Stone (a stone that lights up in salt water and keeps beasts away) and Bone Wood, to weapons, armor and household items. Goods are sorted into four cost tiers by how expensive they are to move, from cheap goods like paper up to custom nobility pieces."
+  }
+}
