@@ -266,7 +266,25 @@
       ],
       "art": [
         "Logo and Font"
-      ]
+      ],
+      "glyph_tables": true,
+      "scribe_in": "Alphabet",
+      "entry_art": {
+        "Element": [
+          "Illustrations/Soul Energy Interfaces/Interface Logograms - Finaies.png"
+        ],
+        "Target": [
+          "Illustrations/Soul Energy Interfaces/Interface Logograms - Buhraies.png"
+        ],
+        "Subject": [
+          "Illustrations/Soul Energy Interfaces/Interface Logograms - Darfaries Simple Objects.png",
+          "Illustrations/Soul Energy Interfaces/Interface Logograms - Darfaries Compound objects.png"
+        ],
+        "Verb": [
+          "Illustrations/Soul Energy Interfaces/Interface Logograms - Darfaries Verbs.png",
+          "Illustrations/Soul Energy Interfaces/Interface Logograms - Darfaries Verbs - Forway vars.png"
+        ]
+      }
     },
     {
       "slug": "in-world-books",
