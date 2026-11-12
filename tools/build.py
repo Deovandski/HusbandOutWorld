@@ -78,6 +78,13 @@ def norm(s):
     s = re.sub(r'[^a-z0-9]', '', s)
     return s
 
+PINNED_FIRST = {'documentation notation', 'distance cost tier', 'isekai history'}
+
+def alpha_key(title):
+    """Sort key for A-to-Z lists: ignores case, accents and punctuation (so "Harry's Journey" sorts as "harrys journey")."""
+    t = unicodedata.normalize('NFKD', title).encode('ascii', 'ignore').decode().lower()
+    return re.sub(r'[^a-z0-9 ]', '', t).strip()
+
 def name_score(a, b):
     na, nb = norm(a), norm(b)
     if not na or not nb:
@@ -457,6 +464,20 @@ class Builder:
                         category['entries'].append(b)
                     else:
                         entries.append(b)
+        # A to Z within each category (author's rule, see CLAUDE.md). Notes about the docs themselves
+        # (Documentation Notation, Distance Cost Tier, Isekai History) stay first. Topics whose order means
+        # something (a timeline, tiers, colour order) set "order": "source" in content/site.json.
+        if t.get('order') != 'source':
+            pinned = lambda b: b['title'].lower() in PINNED_FIRST
+            def az(lst):
+                return [b for b in lst if pinned(b)] + sorted((b for b in lst if not pinned(b)), key=lambda b: alpha_key(b['title']))
+            for b in entries:
+                if b['kind'] == 'category':
+                    b['entries'] = az(b['entries'])
+            # top-level entries sort among themselves; categories keep their place in the doc
+            loose = az([b for b in entries if b['kind'] != 'category' or not b['entries']])
+            it = iter(loose)
+            entries = [next(it) if (b['kind'] != 'category' or not b['entries']) else b for b in entries]
         # flatten: categories without entries act as entries themselves
         flat = []
         for b in entries:
@@ -493,6 +514,8 @@ class Builder:
                     e['public_secs'].append(s)
                     used.add(i)
         leftovers = [s for i, s in enumerate(public_sections) if i not in used]
+        if t.get('order') != 'source':  # blog sections with no matching doc entry: A to Z among themselves
+            leftovers.sort(key=lambda s_: alpha_key(s_['heading'] or s_['page']))
 
         body = []
         # intro
@@ -851,7 +874,8 @@ class Builder:
         for g in CFG['lore_groups']:
             parts.append(f'<h2>{esc(g["title"])}</h2><div class="topic-grid">')
             md.append(f'## {g["title"]}\n')
-            for slug in g['topics']:
+            # A to Z by the title readers see, whatever order content/site.json lists them in (author's rule, see CLAUDE.md)
+            for slug in sorted(g['topics'], key=lambda sl: alpha_key(topic_pages[sl].title)):
                 tp = topic_pages[slug]
                 pub = any(l != 'bts' for _, _, l, k in tp.toc if k == 'entry')
                 cls = 'both' if pub or tp.md_public.strip() else 'bts'

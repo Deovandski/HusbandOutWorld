@@ -64,42 +64,42 @@
     {
       "title": "The World",
       "topics": [
-        "the-world",
-        "history",
-        "kingdoms",
+        "embassies-and-guilds",
+        "in-world-books",
         "cities",
-        "villages",
+        "economy",
+        "education",
+        "kingdoms",
         "lands",
         "laws-and-treaties",
-        "economy",
-        "embassies-and-guilds",
         "professions",
-        "education",
         "pastimes",
+        "the-world",
+        "villages",
         "language",
-        "in-world-books"
+        "history"
       ]
     },
     {
       "title": "Peoples",
       "topics": [
-        "races",
         "characters",
+        "factions",
         "harry",
-        "factions"
+        "races"
       ]
     },
     {
       "title": "Soul Energy & Science",
       "topics": [
-        "soul-energy",
-        "walking-heart",
-        "darfaries-interface",
         "buhraies-interface",
+        "darfaries-interface",
         "finaies-interface",
-        "nari-gels",
         "nari-bombs",
-        "resources"
+        "nari-gels",
+        "resources",
+        "soul-energy",
+        "walking-heart"
       ]
     },
     {
@@ -123,7 +123,8 @@
       ],
       "art": [
         "Illustrations/World Map"
-      ]
+      ],
+      "order": "source"
     },
     {
       "slug": "history",
@@ -132,7 +133,8 @@
       "bts": [
         "World Lore/World Timeline.md"
       ],
-      "art": []
+      "art": [],
+      "order": "source"
     },
     {
       "slug": "kingdoms",
@@ -198,7 +200,8 @@
       "bts": [
         "World Lore/Laws and Treaties.md"
       ],
-      "art": []
+      "art": [],
+      "order": "source"
     },
     {
       "slug": "economy",
@@ -211,7 +214,8 @@
       ],
       "art": [
         "Illustrations/Natural and Crafted Resources"
-      ]
+      ],
+      "order": "source"
     },
     {
       "slug": "embassies-and-guilds",
@@ -235,7 +239,8 @@
       "bts": [
         "World Lore/Professions.md"
       ],
-      "art": []
+      "art": [],
+      "order": "source"
     },
     {
       "slug": "education",
@@ -244,7 +249,8 @@
       "bts": [
         "World Lore/Education.md"
       ],
-      "art": []
+      "art": [],
+      "order": "source"
     },
     {
       "slug": "pastimes",
@@ -284,7 +290,8 @@
           "Illustrations/Soul Energy Interfaces/Interface Logograms - Darfaries Verbs.png",
           "Illustrations/Soul Energy Interfaces/Interface Logograms - Darfaries Verbs - Forway vars.png"
         ]
-      }
+      },
+      "order": "source"
     },
     {
       "slug": "in-world-books",
@@ -306,7 +313,8 @@
       ],
       "art": [
         "Illustrations/Races"
-      ]
+      ],
+      "order": "source"
     },
     {
       "slug": "characters",
@@ -332,7 +340,8 @@
       "art": [
         "Illustrations/Harry"
       ],
-      "bts_after": "#7"
+      "bts_after": "#7",
+      "order": "source"
     },
     {
       "slug": "factions",
@@ -359,7 +368,8 @@
       ],
       "art": [
         "Illustrations/Soul Energy Interfaces"
-      ]
+      ],
+      "order": "source"
     },
     {
       "slug": "walking-heart",
@@ -372,7 +382,8 @@
       ],
       "art": [
         "Illustrations/Soul Energy Interfaces"
-      ]
+      ],
+      "order": "source"
     },
     {
       "slug": "darfaries-interface",
@@ -385,7 +396,8 @@
       ],
       "art": [
         "Illustrations/Soul Energy Interfaces"
-      ]
+      ],
+      "order": "source"
     },
     {
       "slug": "buhraies-interface",
@@ -398,7 +410,8 @@
       ],
       "art": [
         "Illustrations/Soul Energy Interfaces"
-      ]
+      ],
+      "order": "source"
     },
     {
       "slug": "finaies-interface",
@@ -411,7 +424,8 @@
       ],
       "art": [
         "Illustrations/Soul Energy Interfaces"
-      ]
+      ],
+      "order": "source"
     },
     {
       "slug": "nari-gels",
@@ -425,7 +439,8 @@
       "art": [
         "Illustrations/Natural and Crafted Resources/Science - Nari Gels",
         "Illustrations/Natural and Crafted Resources"
-      ]
+      ],
+      "order": "source"
     },
     {
       "slug": "nari-bombs",
@@ -438,7 +453,8 @@
       ],
       "art": [
         "Illustrations/Natural and Crafted Resources"
-      ]
+      ],
+      "order": "source"
     },
     {
       "slug": "resources",
