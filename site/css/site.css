@@ -277,3 +277,6 @@ html.vraki .vraki-overline { font-family: var(--serif); }
 .scribe .muted { margin: 0; font-family: var(--sans); }
 figure.art.wide { float: none; width: 100%; max-width: none; margin: 1rem 0; }
 figure.art.wide img { width: 100%; height: auto; background: #fff; border-radius: 10px; }
+.vol-card.upcoming { border-style: dashed; justify-content: center; min-height: 10rem; opacity: .85; }
+.vol-card.upcoming:hover { transform: none; border-color: var(--line); }
+.wip-badge { align-self: flex-start; font: 700 .72em var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--accent); border: 1px solid var(--accent); border-radius: 999px; padding: .15em .7em; }
