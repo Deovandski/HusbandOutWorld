@@ -703,6 +703,48 @@ class Builder:
             self._covers[slug] = self.media.derived(out, f'{rel(src)} (cover {c["order"].index(slug) + 1} of {len(runs)})')
         return self._covers
 
+    def chronology(self):
+        """The blog's Story Chronology page: one timeline picture per volume, plus the Time Keeper quick reference."""
+        if hasattr(self, '_chrono'):
+            return self._chrono
+        self._chrono = {'vols': {}, 'intro': '', 'keeper': None}
+        name = CFG.get('novel_chronology')
+        if not name:
+            return self._chrono
+        meta, intro, secs = parse_public(name)
+        label = None
+        for line in [l.strip() for l in (intro['md'] + '\n' + '\n'.join(s_['md'] for s_ in secs)).split('\n')]:
+            img = re.match(r'!\[[^\]]*\]\(([^)]+)\)', line)
+            if img and label:
+                if 'time keeper' in label.lower():
+                    self._chrono['keeper'] = (label, img.group(1))
+                else:
+                    self._chrono['vols'][norm(label)] = (label, img.group(1))
+                label = None
+            elif line and not img:
+                if not self._chrono['intro'] and not label and not self._chrono['vols']:
+                    self._chrono['intro'] = line
+                label = line
+        return self._chrono
+
+    def chronology_html(self, vol_title):
+        """Behind The Scenes section for one volume: its timeline, then the Time Keeper quick reference."""
+        c = self.chronology()
+        hit = c['vols'].get(norm(vol_title))
+        if not hit:
+            return '', ''
+        figs, md = [], [f'## Story Chronology\n\n{c["intro"]}\n']
+        for label, src in [hit] + ([c['keeper']] if c['keeper'] else []):
+            info = self.r.resolve(src, {'base': PUB})
+            figs.append(f'<h3>{esc(label)}</h3>' + (f'<figure class="chrono"><a class="img-link" href="{info["url"]}" data-full="{info["url"]}">'
+                        f'<img src="{info["url"]}" alt="{esc(ALT.get(info["src"], {}).get("alt") or label + " timeline table")}" loading="lazy"></a></figure>' if info else ''))
+            md.append(f'### {label}\n\n![{label}]({info["url"] if info else src})\n')
+        # Behind The Scenes only (author's choice), even though the blog showed it
+        return (f'<section id="story-chronology" class="layer bts chrono-section"><h2>Story Chronology</h2>'
+                f'<p class="bts-label">Behind the Scenes</p><p>{esc(c["intro"])}</p>{"".join(figs)}'
+                f'<p class="src">From the original blog page: <a href="https://husbandoutworld.blogspot.com/p/story-chronology.html">Story Chronology</a> '
+                f'(archived in <a href="{gh_link(os.path.join(PUB, CFG["novel_chronology"]))}">{esc(rel(os.path.join(PUB, CFG["novel_chronology"])))}</a>)</p></section>'), '\n'.join(md)
+
     def build_novel(self):
         vols_html = []
         all_chapter_pages = []
@@ -758,8 +800,13 @@ class Builder:
             for curl, t, n in toc:
                 vparts.append(f'<li><a href="{curl}">{esc(t)}</a> <span class="muted">{n} subchapter{"s" if n != 1 else ""}</span></li>' if n else f'<li><a href="{curl}">{esc(t)}</a></li>')
             vparts.append('</ol>')
-            vpage.html = '\n'.join(vparts)
             vpage.md_public = f'# {v["title"]}\n\n{front_md}\n\n' + '\n'.join(f'- [{t}]({u}index.md)' for u, t, _ in toc)
+            ch_html, ch_md = self.chronology_html(v['title'])
+            if ch_html:
+                vparts.append(ch_html)
+                vpage.md_bts += ch_md
+                vpage.sources.append(rel(os.path.join(PUB, CFG['novel_chronology'])))
+            vpage.html = '\n'.join(vparts)
             vpage.desc = f'{v["title"]}, {v["arc"]} of the #HusbandOutWorld light novel. Read it free here.'
             vpage.jsonld = {'@context': 'https://schema.org', '@type': 'Book', 'name': v['title'],
                             'isPartOf': {'@type': 'BookSeries', 'name': CFG['title']},
@@ -831,15 +878,14 @@ class Builder:
         parts.append('</div>')
         idx.toc_extra_md = '\n\n' + '\n\n'.join(mdi)
         parts.append('<h2 class="layer bts">Story notes</h2><ul class="layer bts">' + ''.join(f'<li><a href="{u}">{esc(n["title"])}</a></li>' for n, u in notes) + '</ul>')
-        parts.append('<p class="layer public-only more-bts">The author\'s notes for Arcs #2 to #5 and the story chronology are in <button class="linklike" data-go-bts>Behind The Scenes</button>.</p>')
-        chrono = CFG.get('novel_chronology')
-        if chrono:
-            body, cmd, _ = self.public_page(chrono, level=3)
-            # Behind The Scenes only (author's choice), even though the blog showed it
-            parts.append(f'<section id="story-chronology" class="layer bts"><h2>Story Chronology</h2>'
-                         f'<p class="bts-label">Behind the Scenes</p>{body}</section>')
-            idx.sources.append(rel(os.path.join(PUB, chrono)))
-            idx.md_bts += f'\n\n## Story Chronology\n\n{cmd}'
+        parts.append('<p class="layer public-only more-bts">The author\'s notes for Arcs #2 to #5, and each volume\'s story chronology, are in <button class="linklike" data-go-bts>Behind The Scenes</button>.</p>')
+        # each volume's chronology now sits on its own page; a volume with no page yet (Vol 4) keeps it here
+        for u in CFG.get('upcoming_volumes', []):
+            ch_html, ch_md = self.chronology_html(u['title'])
+            if ch_html:
+                parts.append(ch_html)
+                idx.md_bts += '\n\n' + ch_md
+                idx.sources.append(rel(os.path.join(PUB, CFG['novel_chronology'])))
         idx.html = '\n'.join(parts)
         idx.md_public = '# The Light Novel\n' + idx.toc_extra_md
         idx.md_bts = '\n'.join(f'- [{n["title"]}]({u}index.md)' for n, u in notes) + idx.md_bts
