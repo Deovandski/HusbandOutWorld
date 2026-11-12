@@ -277,6 +277,26 @@ html.vraki .vraki-overline { font-family: var(--serif); }
 .scribe .muted { margin: 0; font-family: var(--sans); }
 figure.art.wide { float: none; width: 100%; max-width: none; margin: 1rem 0; }
 figure.art.wide img { width: 100%; height: auto; background: #fff; border-radius: 10px; }
-.vol-card.upcoming { border-style: dashed; justify-content: center; min-height: 10rem; opacity: .85; }
-.vol-card.upcoming:hover { transform: none; border-color: var(--line); }
 .wip-badge { align-self: flex-start; font: 700 .72em var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--accent); border: 1px solid var(--accent); border-radius: 999px; padding: .15em .7em; }
+/* novel index: one row per volume, cover in the book's own 2:3 shape */
+.arc-head { margin: 2rem 0 1rem; }
+.arc-banner { width: 100%; max-width: 40rem; display: block; margin: .6rem 0 1rem; }
+.vol-list { display: flex; flex-direction: column; gap: 1.2rem; margin: 1.2rem 0 2rem; }
+.vol-row { display: grid; grid-template-columns: 11rem 1fr; gap: 1.3rem; padding: 1.1rem; background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); scroll-margin-top: 5rem; }
+.vol-cover { display: block; }
+.vol-cover img { width: 100%; height: auto; aspect-ratio: 2/3; object-fit: cover; border-radius: 8px; box-shadow: 0 6px 18px rgba(0,0,0,.35); transition: transform .15s; }
+.vol-cover:hover img { transform: translateY(-2px); }
+.vol-cover.placeholder { aspect-ratio: 2/3; border: 2px dashed var(--line); border-radius: 8px; display: grid; place-items: center; color: var(--ink2); font: 700 1.4em var(--serif, serif); }
+.vol-info h2.vol-title { margin: 0 0 .5rem; font-size: 1.35em; }
+.vol-info h2.vol-title a { color: var(--ink); text-decoration: none; }
+.vol-info h2.vol-title a:hover { color: var(--accent); }
+.vol-info p { margin: 0 0 .7rem; }
+.vol-meta { color: var(--ink2); font-size: .92em; }
+.vol-actions { display: flex; flex-wrap: wrap; align-items: center; gap: .6rem 1rem; }
+.vol-stores { font-size: .9em; color: var(--ink2); }
+.vol-row.upcoming { border-style: dashed; }
+.vol-row.upcoming .wip-badge { margin-bottom: .5rem; display: inline-block; }
+@media (max-width: 40rem) {
+  .vol-row { grid-template-columns: 6.5rem 1fr; gap: .9rem; padding: .9rem; }
+  .vol-info h2.vol-title { font-size: 1.12em; }
+}

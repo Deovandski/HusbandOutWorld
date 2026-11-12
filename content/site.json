@@ -35,12 +35,22 @@
   ],
   "upcoming_volumes": [
     {
+      "slug": "vol-4",
       "title": "Vol 4 - Emancipation",
       "arc": "Arc #1 - Dubious Contract",
       "status": "Available Q2 2027",
       "source": "Legacy/Public/webcomic.md"
     }
   ],
+  "covers": {
+    "source": "images/172.png",
+    "order": [
+      "vol-1",
+      "vol-2",
+      "vol-3",
+      "vol-4"
+    ]
+  },
   "story_notes": [
     {
       "slug": "story-arcs",
@@ -517,11 +527,6 @@
       "public": "blog.md"
     },
     {
-      "slug": "light-novel-series",
-      "title": "Graphic/Light Novel Series",
-      "public": "webcomic.md"
-    },
-    {
       "slug": "webcomic",
       "title": "Webcomic",
       "public": "graphiclight-novels.md",
@@ -529,6 +534,9 @@
       "section": "Webcomic"
     }
   ],
+  "redirects": {
+    "/about/light-novel-series/": "/novel/"
+  },
   "novel_chronology": "story-chronology.md",
   "gallery_exclude": [
     "Illustrations/Harry Height Ruler.png"
