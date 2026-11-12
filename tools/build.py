@@ -109,15 +109,29 @@ def esc(s):
     return html.escape(s, quote=True)
 
 def first_sentences(text, n=220):
-    t = re.sub(r'!\[[^\]]*\]\([^)]*\)', '', text)
+    t = re.sub(r'!\[[^\]]*\]\([^)]*\)|!\[[^\]]*\]\[[^\]]*\]', '', text)
     t = re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', t)
     t = re.sub(r'[*_`#>]|\\', '', t)
     t = re.sub(r'\s+', ' ', t).strip()
     if len(t) <= n:
         return t
-    cut = t[:n]
-    p = max(cut.rfind('. '), cut.rfind('! '), cut.rfind('? '))
-    return (cut[:p + 1] if p > 60 else cut.rsplit(' ', 1)[0] + '…')
+    cut = t[:n + 1]
+    # end on the last whole sentence (keeping a closing quote mark), else on a whole word with an ellipsis
+    ends = [m.end() for m in re.finditer(r'[.!?][”"’)]?(?= )', cut)]
+    if ends and ends[-1] > 60:
+        return cut[:ends[-1]]
+    return cut[:n].rsplit(' ', 1)[0].rstrip(',;:—-') + '…'
+
+def prose_only(md):
+    """Markdown minus headings, pictures and rules, so a blurb starts with real sentences
+    (not "Freeish (Freeishan) Freeish Kingdom The Freeish Kingdom…")."""
+    keep = [l for l in md.split('\n')
+            if not re.match(r'\s*(#|!\[|---|\*\*\*|<!--)', l)                  # headings, pictures, rules
+            and not re.match(r'\s*[*-]\s+(#+\s*)?\*\*[^*]+\*\*:?\s*\\?\s*$', l)    # label-only bullets ("* **Isekai History**")
+            and not re.match(r'\s*[*-]\s+#+\s', l)                              # bullets that are headings ("* ### None")
+            and not re.match(r'\s*[*-]\s+!\[', l)                               # bullets that are pictures
+            and not re.match(r'\s*([*-]\s+)?(none|tbd|n/?a|\?+)\s*\\?\s*$', l, re.I)]   # empty placeholders
+    return '\n'.join(keep)
 
 def rel(path):
     return os.path.relpath(path, ROOT).replace(os.sep, '/')
@@ -610,7 +624,7 @@ class Builder:
             if pub_md:
                 page.md_public += f'### {e["title"]}\n\n{pub_md}\n\n'
             page.md_bts += f'### {e["title"]}\n\n{e["body"]}\n\n'
-            gl_desc = first_sentences(pub_md) if pub_md else first_sentences(rest)
+            gl_desc = first_sentences(prose_only(pub_md)) if pub_md else first_sentences(prose_only(rest))
             if not is_meta:
                 self.glossary.append({'term': e['title'], 'topic': t['title'], 'url': url + '#' + anchor,
                                       'public': bool(pub_md), 'desc': gl_desc,
@@ -652,7 +666,8 @@ class Builder:
             body.insert(0, '<p class="layer public-only notice">The blog never had a public page for this topic, so Public mode shows a short summary. '
                            'The full entries are in <button class="linklike" data-go-bts>Behind The Scenes</button>.</p>')
         page.html = '\n'.join(body)
-        page.desc = first_sentences(page.md_public or page.md_bts, 160)
+        page.desc = first_sentences(prose_only(page.md_public or page.md_bts), 160)
+        page.card = first_sentences(prose_only(page.md_public or page.md_bts), 140)  # the blurb on the World Lore page
         self.add(page)
         return page
 
@@ -994,7 +1009,7 @@ class Builder:
                 pub = any(l != 'bts' for _, _, l, k in tp.toc if k == 'entry')
                 cls = 'both' if pub or tp.md_public.strip() else 'bts'
                 parts.append(f'<a class="topic-card layer {cls}" href="{tp.url}"><span>{esc(tp.title)}</span>'
-                             f'<span class="muted">{esc(tp.desc[:110])}</span></a>')
+                             f'<span class="muted">{esc(tp.card)}</span></a>')
                 md.append(f'- [{tp.title}]({tp.url}index.md)')
             parts.append('</div>')
         p.html = '\n'.join(parts)
