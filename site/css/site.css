@@ -300,3 +300,7 @@ figure.art.wide img { width: 100%; height: auto; background: #fff; border-radius
   .vol-row { grid-template-columns: 6.5rem 1fr; gap: .9rem; padding: .9rem; }
   .vol-info h2.vol-title { font-size: 1.12em; }
 }
+.chrono-section { margin-top: 2.5rem; scroll-margin-top: 5rem; }
+.chrono-section h3 { font-size: 1.05em; margin: 1.4rem 0 .5rem; }
+figure.chrono { margin: 0 0 1rem; }
+figure.chrono img { width: 100%; height: auto; border-radius: 8px; background: #fff; }
