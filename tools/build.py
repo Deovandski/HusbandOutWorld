@@ -755,12 +755,17 @@ class Builder:
         # novel index
         idx = Page('/novel/', 'The Light Novel', 'Light Novel')
         parts = ['<h1>The Light Novel</h1>',
-                 '<p class="lede">Arc #1, <em>Dubious Contract</em>, is complete in three volumes. Read every chapter here, with every subchapter illustration.</p>',
+                 lede_html(),
                  amazon_note(), '<div class="vol-grid">']
         for v, vurl, cover, toc in vols_html:
             img = f'<img src="{cover["thumb"]}" alt="Opening illustration of {esc(v["title"])}" loading="lazy">' if cover else ''
             parts.append(f'<a class="vol-card" href="{vurl}">{img}<span class="vol-title">{esc(v["title"])}</span>'
                          f'<span class="muted">{sum(1 for _, t, _ in toc if t.lower().startswith("chapter"))} chapters</span></a>')
+        for u in CFG.get('upcoming_volumes', []):
+            # announced but not written yet: a card with no link (the author's own status line)
+            parts.append(f'<div class="vol-card upcoming" aria-label="{esc(u["title"])}, {esc(u["status"])}">'
+                         f'<span class="wip-badge">Work in progress</span><span class="vol-title">{esc(u["title"])}</span>'
+                         f'<span class="muted">{esc(u["status"])}</span></div>')
         parts.append('</div>')
         parts.append('<h2 class="layer bts">Story notes</h2><ul class="layer bts">' + ''.join(f'<li><a href="{u}">{esc(n["title"])}</a></li>' for n, u in notes) + '</ul>')
         parts.append('<p class="layer public-only more-bts">The author\'s notes for Arcs #2 to #5 and the story chronology are in <button class="linklike" data-go-bts>Behind The Scenes</button>.</p>')
@@ -773,7 +778,9 @@ class Builder:
             idx.sources.append(rel(os.path.join(PUB, chrono)))
             idx.md_bts += f'\n\n## Story Chronology\n\n{cmd}'
         idx.html = '\n'.join(parts)
-        idx.md_public = '# The Light Novel\n\n' + '\n'.join(f'- [{v["title"]}]({u}index.md)' for v, u, _, _ in vols_html) + getattr(idx, 'toc_extra_md', '')
+        idx.md_public = ('# The Light Novel\n\n' + lede_text() + '\n\n' + '\n'.join(f'- [{v["title"]}]({u}index.md)' for v, u, _, _ in vols_html)
+                         + ''.join(f'\n- {u["title"]} (work in progress: {u["status"]})' for u in CFG.get('upcoming_volumes', []))
+                         + getattr(idx, 'toc_extra_md', ''))
         idx.md_bts = '\n'.join(f'- [{n["title"]}]({u}index.md)' for n, u in notes) + idx.md_bts
         idx.desc = 'Read the #HusbandOutWorld light novel, Arc #1 Dubious Contract, free online.'
         self.add(idx)
@@ -960,7 +967,7 @@ class Builder:
   {amazon_note()}
 </section>
 <section class="home-grid">
-  <a class="home-card" href="/novel/"><h2>The Light Novel</h2><p>Arc #1 in three volumes, with every illustration.</p></a>
+  <a class="home-card" href="/novel/"><h2>The Light Novel</h2><p>Arc #1: Vols 1 to {len(CFG["volumes"])}, with every illustration{", and " + CFG["upcoming_volumes"][0]["title"].split(" - ")[0] + " on the way" if CFG.get("upcoming_volumes") else ""}.</p></a>
   <a class="home-card" href="/lore/"><h2>World Lore</h2><p>Kingdoms, races, soul energy, beasts and plants.</p></a>
   <a class="home-card" href="/gallery/"><h2>Gallery</h2><p>All the art by {" and ".join(CFG["artists"])}.</p></a>
   <a class="home-card" href="/glossary/"><h2>Glossary</h2><p>Every name A to Z, with the author's pronunciation.</p></a>
@@ -1091,6 +1098,19 @@ def roman(s):
         v = vals[ch]
         total += -v if i + 1 < len(s) and vals[s[i + 1]] > v else v
     return total
+
+def lede_text():
+    """How far along Arc #1 is: the published volumes, plus any volume still being written."""
+    n, up = len(CFG['volumes']), CFG.get('upcoming_volumes', [])
+    words = {1: 'one', 2: 'two', 3: 'three', 4: 'four', 5: 'five', 6: 'six'}
+    if not up:
+        return f'Arc #1, *Dubious Contract*, is complete in {words.get(n, n)} volumes. Read every chapter here, with every subchapter illustration.'
+    u = up[0]
+    return (f'Arc #1, *Dubious Contract*, has {words.get(n + len(up), n + len(up))} volumes. Vols 1 to {n} are complete: read every chapter here, '
+            f'with every subchapter illustration. {u["title"].split(" - ")[0]}, *{u["title"].split(" - ", 1)[-1]}*, is a work in progress ({u["status"][0].lower() + u["status"][1:]}).')
+
+def lede_html():
+    return '<p class="lede">' + re.sub(r'\*([^*]+)\*', r'<em>\1</em>', esc(lede_text())) + '</p>'
 
 def amazon_note():
     return (f'<aside class="support-note">Reading for free is fine by the author. If you want the eBook, '
