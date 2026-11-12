@@ -560,8 +560,18 @@ class Builder:
                          f'<p class="src src-pub">Public text: {esc(pub_src)}</p></div>')
             if rest.strip() or wd:
                 bts_md = rest if pub_md == wd else e['body']
+                bts_html = self.md_bts_block(bts_md, e["refs"], e["origin"])
+                if t.get('glyph_tables'):
+                    bts_html = glyph_grids(bts_html, e['title'])
+                if e['title'] == t.get('scribe_in'):
+                    bts_html = scribe_html() + bts_html
+                for ap in t.get('entry_art', {}).get(e['title'], []):
+                    info = self.media.file(os.path.join(BTS, ap))
+                    if info:
+                        self.used_art.add(info['src'])
+                        bts_html += self.figure(info, os.path.splitext(os.path.basename(ap))[0]).replace('<figure class="art">', '<figure class="art wide">')
                 h.append(f'<div class="layer bts">{"" if pub_md else fig}<p class="bts-label">Behind the Scenes · full notes</p>'
-                         f'{self.md_bts_block(bts_md, e["refs"], e["origin"])}'
+                         f'{bts_html}'
                          f'<p class="src">Source: <a href="{gh_link(os.path.join(ROOT, e["origin"]))}">{esc(e["origin"])}</a></p></div>')
             h.append('</section>')
             body.append('\n'.join(h))
@@ -1041,6 +1051,36 @@ def _renumber(html_text, anchor, n, new_anchor):
     if len(parts) <= n + 1:
         return html_text
     return f'id="{anchor}"'.join(parts[:n + 1]) + f'id="{new_anchor}"' + f'id="{anchor}"'.join(parts[n + 1:])
+
+def glyph_grids(html_text, entry):
+    """Turn the docs' glyph tables (a row of labels, then a row of hand-drawn glyphs, repeated) into tiles:
+    the hand-drawn glyph, its English letter, and the same letter in the Vraki typeface (like the Vraki app's site)."""
+    def table(m):
+        rows = re.findall(r'<tr>(.*?)</tr>', m.group(0), re.S)
+        cells = [re.findall(r'<t[hd][^>]*>(.*?)</t[hd]>', r, re.S) for r in rows]
+        tiles = []
+        for labels, glyphs in zip(cells[0::2], cells[1::2]):
+            for lab, g in zip(labels, glyphs):
+                label = html.unescape(re.sub(r'<[^>]+>', '', lab)).strip()
+                if not label or '<img' not in g:
+                    continue
+                typed = label.rstrip('*').split(' (')[0]
+                font = '' if label.lower() == 'space' or '(' in label else typed
+                g = re.sub(r'alt="[^"]*"', f'alt="{esc("Hand-drawn Vraki " + ("sign for " if not label.isalnum() else "") + label)}"', g)
+                tiles.append(f'<figure class="glyph">{g}<figcaption class="keep-latin"><span class="glyph-latin">{esc(label)}</span>'
+                             + (f'<span class="glyph-font" aria-hidden="true" title="{esc(typed)} in the Vraki typeface">{esc(font)}</span>' if font else '')
+                             + '</figcaption></figure>')
+        if not tiles:
+            return m.group(0)
+        return f'<div class="glyph-grid" role="list" aria-label="{esc(entry)}">' + ''.join(tiles).replace('<figure class="glyph">', '<figure class="glyph" role="listitem">') + '</div>'
+    return re.sub(r'<table>.*?</table>', table, html_text, flags=re.S)
+
+def scribe_html():
+    """A live 'write it in Vraki' box. Vraki is written letter for letter with English, so the typeface does the work."""
+    return ('<div class="scribe keep-latin"><label for="scribe-in">Type anything in English to see it written in the Vraki typeface, letter for letter:</label>'
+            '<input id="scribe-in" type="text" value="Be Awesome! Do Better!" maxlength="80" autocomplete="off" spellcheck="false">'
+            '<div class="scribe-out" id="scribe-out" aria-live="polite">Be Awesome! Do Better!</div>'
+            '<p class="muted">The tiles below are the author\'s hand-drawn originals. The blue symbol next to each letter is the same letter in the finished Vraki typeface.</p></div>')
 
 def roman(s):
     vals = {'i': 1, 'v': 5, 'x': 10, 'l': 50, 'c': 100}

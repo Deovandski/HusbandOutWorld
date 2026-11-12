@@ -136,3 +136,12 @@
     }
   }
 })();
+
+// ---------- Vraki scribe (Vraki Language page): English in, Vraki typeface out
+(function () {
+  var inp = document.getElementById('scribe-in'), out = document.getElementById('scribe-out');
+  if (!inp || !out) return;
+  function write() { out.textContent = inp.value || ' '; }
+  inp.addEventListener('input', write);
+  write();
+})();

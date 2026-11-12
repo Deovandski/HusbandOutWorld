@@ -14,9 +14,24 @@
   ],
   "Legacy/Behind The Scenes/World Lore/Language.md": [
     {
-      "find": "https://drive.google.com/drive/folders/1TT6vrtFEBw978eQbAbDNOt_WKXqYurn7",
-      "replace": "https://github.com/Deovandski/HusbandOutWorld/tree/main/Legacy/Behind%20The%20Scenes/Illustrations/Soul%20Energy%20Interfaces",
-      "why": "The Google Drive folder no longer exists; the same interface art is in this repo."
+      "find": "The target of Soul Energy. See [Soul Energy Interfaces](https://drive.google.com/drive/folders/1TT6vrtFEBw978eQbAbDNOt_WKXqYurn7)",
+      "replace": "The target of Soul Energy. See [Finaies Interface](/lore/finaies-interface/)",
+      "why": "The Google Drive folder no longer exists; this links to the matching interface page on this website instead."
+    },
+    {
+      "find": "The body part target of Soul Energy. See [Soul Energy Interfaces](https://drive.google.com/drive/folders/1TT6vrtFEBw978eQbAbDNOt_WKXqYurn7)",
+      "replace": "The body part target of Soul Energy. See [Buhraies Interface](/lore/buhraies-interface/)",
+      "why": "The Google Drive folder no longer exists; this links to the matching interface page on this website instead."
+    },
+    {
+      "find": "The target of the Soul Energy. See [Soul Energy Interfaces](https://drive.google.com/drive/folders/1TT6vrtFEBw978eQbAbDNOt_WKXqYurn7)",
+      "replace": "The target of the Soul Energy. See [Darfaries Interface](/lore/darfaries-interface/)",
+      "why": "The Google Drive folder no longer exists; this links to the matching interface page on this website instead."
+    },
+    {
+      "find": "Interface action. See [Soul Energy Interfaces](https://drive.google.com/drive/folders/1TT6vrtFEBw978eQbAbDNOt_WKXqYurn7)",
+      "replace": "Interface action. See [Darfaries Interface](/lore/darfaries-interface/)",
+      "why": "The Google Drive folder no longer exists; this links to the matching interface page on this website instead."
     }
   ],
   "Legacy/Public/afterwords.md": [

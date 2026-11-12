@@ -260,3 +260,20 @@ html.vraki .vraki-overline { font-family: var(--serif); }
 
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 @media print { .topbar, .footer, .toc, .mode-banner, .support-note { display: none; } }
+/* Vraki Language (Behind The Scenes): glyph tiles and the live scribe, after the Vraki app's site */
+.glyph-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(5.6rem, 1fr)); gap: .6rem; margin: .8rem 0 1.2rem; }
+.glyph { margin: 0; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: .5rem .5rem .4rem; display: flex; flex-direction: column; align-items: center; gap: .35rem; transition: border-color .15s, transform .15s; }
+.glyph:hover { border-color: var(--accent); transform: translateY(-2px); }
+.glyph a.img-link { display: block; width: 100%; }
+.glyph img { display: block; width: 100%; aspect-ratio: 1; object-fit: contain; background: #fff; border-radius: 8px; padding: 4px; box-sizing: border-box; }
+.glyph figcaption { display: flex; align-items: baseline; justify-content: center; gap: .55rem; width: 100%; }
+.glyph-latin { font: 700 1.05em var(--sans); color: var(--ink); }
+.glyph-font { font-family: "Vraki", var(--serif) !important; font-size: 1.9em; color: var(--accent); line-height: 1; }
+.scribe { margin: .4rem 0 1.4rem; padding: 1rem 1.1rem; border: 1px solid var(--line); border-radius: var(--radius); background: var(--bg2); display: grid; gap: .55rem; }
+.scribe label { font: .9em var(--sans); color: var(--ink2); }
+.scribe input { width: 100%; box-sizing: border-box; background: var(--bg); color: var(--ink); border: 1px solid var(--line); border-radius: 10px; padding: .6rem .8rem; font: 1em var(--sans); }
+.scribe input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.scribe-out { font-family: "Vraki", var(--serif) !important; font-size: clamp(1.8rem, 4.5vw, 2.8rem); line-height: 1.45; color: var(--accent); min-height: 1.5em; overflow-wrap: anywhere; text-shadow: 0 0 18px rgba(123, 156, 240, .3); }
+.scribe .muted { margin: 0; font-family: var(--sans); }
+figure.art.wide { float: none; width: 100%; max-width: none; margin: 1rem 0; }
+figure.art.wide img { width: 100%; height: auto; background: #fff; border-radius: 10px; }
