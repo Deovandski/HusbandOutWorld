@@ -1,0 +1,61 @@
+/* #HusbandOutWorld webcomic: landing page and the vertical-scroll reader (loaded only on /webcomic/ pages). */
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* ---------- landing */
+.wc-hero { display: grid; grid-template-columns: minmax(0, 15rem) 1fr; gap: 1.8rem; align-items: center; margin: 1rem 0 2rem; }
+.wc-cover { width: 100%; height: auto; border-radius: 12px; box-shadow: 0 10px 30px rgba(0, 0, 0, .45); }
+.wc-hero h1 { margin: .3rem 0 .6rem; }
+.wc-tagline { font-size: 1.15em; font-style: italic; color: var(--ink); margin: 0 0 .4rem; }
+.wc-hero .hero-actions { justify-content: flex-start; }
+.wc-howto { font-family: var(--sans); }
+.ep-list { display: grid; gap: .8rem; margin: 1rem 0 2rem; }
+.ep-card { display: grid; grid-template-columns: 9rem 1fr; gap: 1rem; align-items: center; padding: .6rem; background: var(--card); border: 1px solid var(--line);
+  border-radius: var(--radius); color: var(--ink); text-decoration: none; transition: border-color .15s, transform .15s; }
+.ep-card:hover { border-color: var(--accent); transform: translateY(-2px); color: var(--ink); }
+.ep-card img, .ep-noimg { width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; border-radius: 9px; display: block; background: var(--bg2); }
+.ep-card.read { opacity: .7; }
+.ep-text { display: flex; flex-direction: column; gap: .15rem; min-width: 0; }
+.ep-n { font: 700 .72em var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+.ep-title { font-weight: 700; }
+.ep-card .muted { font-family: var(--sans); }
+.ep-card .ep-status { font: 600 .72em var(--sans); color: var(--tan); }
+.supporters { list-style: none; padding: 0 !important; columns: 4 9rem; column-gap: 1.5rem; margin: .6rem 0 1.5rem; }
+.supporters li { break-inside: avoid; margin: 0 0 .3rem; }
+@media (max-width: 40rem) {
+  .wc-hero { grid-template-columns: 1fr; text-align: center; }
+  .wc-cover { max-width: 13rem; margin: 0 auto; }
+  .wc-hero .hero-actions { justify-content: center; }
+  .ep-card { grid-template-columns: 7rem 1fr; }
+}
+
+/* ---------- reader: a dark, full-bleed column, like Webtoons */
+html[data-layout="reader"] body { background: #000; }
+html[data-layout="reader"] main { max-width: none; padding: 0 0 3rem; }
+html[data-layout="reader"] .content { max-width: none; margin: 0; font-size: 17px; }
+html[data-layout="reader"] .page-sources { max-width: 800px; margin: 1rem auto; padding: 0 1rem; }
+html[data-layout="reader"] .topbar { transition: transform .25s ease; }
+html[data-layout="reader"].wc-hide .topbar { transform: translateY(-100%); }
+
+.wc-bar { position: sticky; top: var(--topbar-h, 56px); z-index: 15; display: flex; align-items: center; gap: .5rem; max-width: 800px; margin: 0 auto;
+  padding: .45rem .7rem; background: rgba(14, 18, 20, .92); backdrop-filter: blur(8px); color: #eee; font: 600 14px var(--sans);
+  border-bottom: 1px solid #222; transition: transform .25s ease, top .25s ease; }
+html[data-layout="reader"].wc-hide .wc-bar { top: 0; transform: translateY(-110%); }
+.wc-bar a { color: #eee; text-decoration: none; }
+.wc-list { display: grid; place-items: center; width: 34px; height: 34px; border-radius: 8px; }
+.wc-list:hover, .wc-prev:hover, .wc-next:hover { background: #222; }
+.wc-title { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.wc-ep { color: var(--accent); margin-right: .3rem; }
+.wc-prev, .wc-next { display: grid; place-items: center; width: 34px; height: 34px; border-radius: 8px; font-size: 26px; line-height: 1; }
+.wc-prev.off, .wc-next.off { opacity: .25; }
+.wc-progress { position: absolute; left: 0; right: 0; bottom: -1px; height: 2px; background: transparent; }
+.wc-progress span { display: block; height: 100%; width: 0; background: var(--accent); }
+
+.wc-strip { max-width: 800px; margin: 0 auto; background: #fff; line-height: 0; }
+.wc-strip img { display: block; width: 100%; height: auto; border-radius: 0 !important; margin: 0; user-select: none; -webkit-user-drag: none; }
+
+.wc-end { max-width: 800px; margin: 0 auto; padding: 2rem 1rem 1rem; color: #ddd; text-align: center; background: #0b0f10; }
+.wc-end-label { font: 700 .8em var(--sans); letter-spacing: .1em; text-transform: uppercase; color: var(--accent); margin: 0 0 .8rem; }
+.wc-end .ep-card { text-align: left; max-width: 34rem; margin: 0 auto 1.2rem; }
+.wc-end-links { font: .9em var(--sans); }
+.wc-end .support-note { text-align: left; }
+.hero-actions [hidden] { display: none !important; }  /* "Continue" stays hidden until there is somewhere to continue from */
