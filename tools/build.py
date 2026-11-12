@@ -709,7 +709,7 @@ class Builder:
                       f'<div class="front">{self.r.render(front_md, base=base, origin=rel(path), refs=refs)}</div>',
                       '<h2>Chapters</h2><ol class="chapter-list">']
             for curl, t, n in toc:
-                vparts.append(f'<li><a href="{curl}">{esc(t)}</a> <span class="muted">{n} part{"s" if n != 1 else ""}</span></li>' if n else f'<li><a href="{curl}">{esc(t)}</a></li>')
+                vparts.append(f'<li><a href="{curl}">{esc(t)}</a> <span class="muted">{n} subchapter{"s" if n != 1 else ""}</span></li>' if n else f'<li><a href="{curl}">{esc(t)}</a></li>')
             vparts.append('</ol>')
             vpage.html = '\n'.join(vparts)
             vpage.md_public = f'# {v["title"]}\n\n{front_md}\n\n' + '\n'.join(f'- [{t}]({u}index.md)' for u, t, _ in toc)
