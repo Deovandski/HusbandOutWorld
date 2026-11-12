@@ -800,6 +800,8 @@ class Builder:
     def build_about(self):
         links = []
         for a in CFG['about_pages']:
+            if CFG.get('webcomic') and a.get('url') == '/webcomic/':
+                continue  # the webcomic has its own pages now (tools/webcomic.py)
             url = a.get('url') or f'/about/{a["slug"]}/'
             section = a.get('section', 'About')
             p = Page(url, a['title'], section)
@@ -1127,7 +1129,7 @@ def page_html(p, nav):
         srcs = '<p class="page-sources">Built from: ' + ', '.join(f'<a href="{GH_BLOB}{quote(s)}">{esc(s)}</a>' for s in p.sources) + '</p>'
     md_link = '' if p.url.endswith('.html') else f'<link rel="alternate" type="text/markdown" href="{p.url}index.md">'
     return f'''<!doctype html>
-<html lang="en" data-mode="public" data-theme="dark" data-base="{BASE}">
+<html lang="en" data-mode="public" data-theme="dark" data-base="{BASE}"{' data-layout="' + p.layout + '"' if getattr(p, 'layout', '') else ''}>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -1141,6 +1143,7 @@ def page_html(p, nav):
 <link rel="icon" href="/media/favicon.png">
 <script>try{{var s=JSON.parse(localStorage.getItem('hoow')||'{{}}');var d=document.documentElement;if(s.mode)d.dataset.mode=s.mode;if(s.theme)d.dataset.theme=s.theme;if(s.vraki)d.classList.add('vraki');if(s.size)d.style.setProperty('--fs',s.size+'px')}}catch(e){{}}</script>
 <link rel="stylesheet" href="/css/site.css">
+{''.join(f'<link rel="stylesheet" href="{c}">' for c in getattr(p, 'extra_css', []))}
 {jsonld}
 </head>
 <body>
@@ -1191,6 +1194,7 @@ def page_html(p, nav):
 </dialog>
 <div id="lightbox" class="lightbox keep-latin" hidden><button class="lb-close" aria-label="Close">×</button><img alt=""></div>
 <script src="/js/app.js" defer></script>
+{''.join(f'<script src="{j}" defer></script>' for j in getattr(p, 'extra_js', []))}
 </body>
 </html>
 '''
@@ -1275,6 +1279,8 @@ def main():
     b = Builder(a.out, a.cache, not a.no_images)
     b.build_home()
     b.build_novel()
+    import webcomic  # the vertical-scroll webcomic reader (tools/webcomic.py)
+    webcomic.build(b, sys.modules[__name__])
     topic_pages = {t['slug']: b.build_topic(t) for t in CFG['topics']}
     b.build_lore_index(topic_pages)
     b.build_gallery()
