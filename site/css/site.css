@@ -183,7 +183,7 @@ figure.art img { border-radius: 10px; background: var(--bg2); }
 .subchapter .sub-n::before, .subchapter .sub-n::after { content: "◆"; color: var(--line); margin: 0 .6rem; }
 .subchapter figure.art { float: none; width: 100%; margin: 0 0 1.4rem; }
 .subchapter figure.art img { width: 100%; }
-.subchapter p { text-indent: 1.4em; margin: 0 0 .6em; }
+.subchapter p { text-indent: 1.4em; margin: 0 0 .35em; }
 .support-note { font: .78em var(--sans); background: var(--bg2); border-left: 3px solid var(--tan); border-radius: 0 10px 10px 0; padding: .55rem .9rem; margin: 1rem 0 1.5rem; color: var(--ink2); }
 .chapter-list li { margin: .35rem 0; }
 .pager { display: flex; justify-content: space-between; gap: 1rem; margin: 3rem 0 1rem; font-family: var(--sans); }

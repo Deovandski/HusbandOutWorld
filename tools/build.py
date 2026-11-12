@@ -776,7 +776,7 @@ class Builder:
                         mdp.append(imd)
                 for s in ch['subs']:
                     info = self.r.resolve(s['img'], {'base': base})
-                    smd = '\n'.join(s['lines']).strip()
+                    smd = one_paragraph_per_line(s['lines'])
                     parts.append(f'<section class="subchapter" id="part-{s["n"]}"><div class="sub-n">{s["n"]}</div>'
                                  f'{self.figure(info)}{self.r.render(fix_typos(smd, rel(path)), base=base, origin=rel(path), refs=refs)}</section>')
                     mdp.append(f'## {s["n"]}\n\n![Subchapter illustration]({s["img"]})\n\n{smd}')
@@ -1205,6 +1205,16 @@ def scribe_html():
             '<input id="scribe-in" type="text" value="Be Awesome! Do Better!" maxlength="80" autocomplete="off" spellcheck="false">'
             '<div class="scribe-out" id="scribe-out" aria-live="polite">Be Awesome! Do Better!</div>'
             '<p class="muted">The tiles below are the author\'s hand-drawn originals. The blue symbol next to each letter is the same letter in the finished Vraki typeface.</p></div>')
+
+def one_paragraph_per_line(lines):
+    """Novel text: every line of prose is its own paragraph.
+
+    The manuscripts end most lines with a hard line break ("  " or "\\"), which Markdown turns into one long
+    paragraph with <br>s inside, so only its first line got the paragraph indent. Splitting them gives
+    every paragraph the same indent, like a printed book.
+    """
+    text = '\n'.join(lines).strip()
+    return re.sub(r'(?:[ \t]{2,}|\\)\n(?=\S)', '\n\n', text)
 
 def roman(s):
     vals = {'i': 1, 'v': 5, 'x': 10, 'l': 50, 'c': 100}
