@@ -588,6 +588,9 @@ class Builder:
                     # the first picture becomes the entry's figure; the rest stay in the text
                     pub_render = re.sub(r'!\[[^\]]*\]\(' + re.escape(fi) + r'\)\s*', '', pub_render, count=1)
                     break
+            if not img_src and e['title'] in t.get('entry_image', {}):
+                # the author's pick for this entry's picture (the name match can't know the King is Itagiba)
+                img_src = self.media.file(os.path.join(BTS, t['entry_image'][e['title']]))
             if not img_src:
                 p = self.art.find(e['title'], t.get('art', []))
                 if p:
