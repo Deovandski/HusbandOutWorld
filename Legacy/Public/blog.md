@@ -10,8 +10,6 @@ source: Blogger export (Google Takeout), converted from HTML to Markdown without
 
 Every journey comes to an end! Come with me down memory lane :)
 
-![](images/092.png)
-
   
   
 
@@ -31,41 +29,11 @@ To everyone who read the story, hope you enjoy the shenanigans! 
   
 -Deo
 
-![](images/093.jpg)
-
 ![](images/094.jpg)
 
 ![](images/095.jpg)
 
-![](images/096.jpg)
-
-![](images/097.jpg)
-
 ![](images/098.jpg)
-
-![](images/099.jpg)
-
-![](images/100.jpg)
-
-![](images/101.jpg)
-
-![](images/102.jpg)
-
-![](images/103.jpg)
-
-![](images/104.jpg)
-
-![](images/105.jpg)
-
-![](images/106.jpg)
-
-![](images/107.png)
-
-![](images/108.jpg)
-
-![](images/109.jpg)
-
-![](images/110.jpg)
 
   
 
