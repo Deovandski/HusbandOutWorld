@@ -59,5 +59,12 @@
       "replace": "",
       "why": "The Raw Files Google Drive folder is no longer shared (requested by the author)."
     }
+  ],
+  "Legacy/Public/blog.md": [
+    {
+      "find": "As of this post, all internal docs are public, except Vol 4, which we're actively working on.\n\nhttps://github.com/Deovandski/HusbandOutWorld/tree/main",
+      "replace": "As of this post, all internal docs are public in the website's Behind The Scenes mode, except Vol 4, which we're actively working on.\n\n[Turn on Behind The Scenes mode](/lore/?mode=bts)",
+      "why": "The internal docs now live in the website's Behind The Scenes mode rather than only as files on GitHub (requested by the author, issue #31)."
+    }
   ]
 }

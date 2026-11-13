@@ -554,8 +554,10 @@
     },
     {
       "slug": "final-blog-post",
-      "title": "Final Blog Post",
-      "public": "blog.md"
+      "title": "Blog",
+      "public": "blog.md",
+      "url": "/blog/",
+      "section": "Blog"
     },
     {
       "slug": "webcomic",
@@ -566,7 +568,8 @@
     }
   ],
   "redirects": {
-    "/about/light-novel-series/": "/novel/"
+    "/about/light-novel-series/": "/novel/",
+    "/about/final-blog-post/": "/blog/"
   },
   "novel_chronology": "story-chronology.md",
   "gallery_exclude": [

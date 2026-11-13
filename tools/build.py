@@ -1026,7 +1026,7 @@ class Builder:
                     f'<li><a href="{CFG["vraki_url"]}">Vraki Language app</a></li>'
                     f'<li><a href="{CFG["repo_url"]}">GitHub repository</a></li></ul>')
         idx.md_public = '# About the Series\n\n' + '\n'.join(f'- [{t}]({u}index.md)' for t, u in links)
-        idx.desc = 'About the #HusbandOutWorld series: FAQ, afterwords, the final blog post and more.'
+        idx.desc = 'About the #HusbandOutWorld series: FAQ, afterwords, the AI disclosure and more.'
         self.add(idx)
 
     # ---- lore index
@@ -1364,7 +1364,7 @@ def bts_gate(why):
 
 # --------------------------------------------------------------------------- templates
 
-NAV = [('Novel', '/novel/'), ('Webcomic', '/webcomic/'), ('World Lore', '/lore/'), ('Gallery', '/gallery/'), ('Glossary', '/glossary/'), ('About', '/about/')]
+NAV = [('Novel', '/novel/'), ('Webcomic', '/webcomic/'), ('World Lore', '/lore/'), ('Gallery', '/gallery/'), ('Glossary', '/glossary/'), ('Blog', '/blog/'), ('About', '/about/')]
 
 def nav_html():
     return ''.join(f'<a href="{u}">{t}</a>' for t, u in NAV)

@@ -38,6 +38,11 @@
     var t = e.target.closest('[data-go-bts]');
     if (t) { e.preventDefault(); askBts(); }
   });
+  // a link ending in ?mode=bts (e.g. from the Blog) opens its page and offers Behind The Scenes
+  if (/(^|[?&])mode=bts(&|$)/.test(location.search.slice(1)) && root.dataset.mode !== 'bts') {
+    try { history.replaceState(null, '', location.pathname + location.hash); } catch (e) { /* old browsers */ }
+    askBts();
+  }
 
   // ---------- reading settings
   var sd = document.getElementById('settings-dialog');
