@@ -901,9 +901,9 @@ class Builder:
                          f'<h2 class="vol-title"><a href="{vurl}">{esc(v["title"])}</a></h2>'
                          + (self.r.render(info['blurb'], base=PUB) if info.get('blurb') else '')
                          + f'<p class="vol-meta">{nch} chapters' + (f' · {esc(info["size"])}' if info.get('size') else '') + '</p>'
-                         + f'<p class="vol-actions"><a class="btn primary" href="{vurl}">Read {esc(v["title"].split(" - ")[0])}</a>'
-                         + (f' <span class="vol-stores">Get the eBook: {store_links_html(info["stores"])}</span>' if info.get('stores') else '')
-                         + '</p></div></article>')
+                         + f'<div class="vol-actions"><a class="btn primary" href="{vurl}">Read {esc(v["title"].split(" - ")[0])}</a>'
+                         + (store_links_html(info['stores']) if info.get('stores') else '')
+                         + '</div></div></article>')
             mdi.append(f'### [{v["title"]}]({vurl}index.md)\n\n{info.get("blurb", "")}\n\n{nch} chapters' + (f', {info["size"]}' if info.get('size') else ''))
         for u in CFG.get('upcoming_volumes', []):
             # announced but not written yet: no link (the status is the author's own line from the blog)
@@ -1286,7 +1286,10 @@ def series_info():
         for k, val in zip(blocks[1::2], blocks[2::2]):
             val = re.sub(r'!\[[^\]]*\]\([^)]*\)', '', val).strip()
             if k == 'Vol Size' and val.strip('? '):
-                d['size'] = val
+                # pages and illustrations only; the author dropped the word counts ("~51,000 words, " / "~39,000, ")
+                size = re.sub(r'^~?\s*[\d,.]+\s*(?:k\b)?\s*(?:words)?\s*,?\s*', '', val).rstrip('.').strip()
+                if size:
+                    d['size'] = size
             if k == 'Store Links':
                 links = re.findall(r'\[([^\]]+)\]\((https?://[^)]+)\)', val)
                 if links:
@@ -1295,7 +1298,9 @@ def series_info():
     return out
 
 def store_links_html(links):
-    return ' · '.join(f'<a href="{esc(u)}" rel="noopener">{esc(t)}</a>' for t, u in links)
+    """The eBook stores as a labelled group of buttons."""
+    return ('<div class="buy-group" role="group" aria-label="Buy the eBook"><span class="buy-label">Buy the eBook!</span>'
+            + ''.join(f'<a class="btn store" href="{esc(u)}" rel="noopener">{esc(t)}</a>' for t, u in links) + '</div>')
 
 def lede_text():
     """How far along Arc #1 is: the published volumes, plus any volume still being written."""

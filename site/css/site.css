@@ -294,7 +294,9 @@ figure.art.wide img { width: 100%; height: auto; background: #fff; border-radius
 .vol-info p { margin: 0 0 .7rem; }
 .vol-meta { color: var(--ink2); font-size: .92em; }
 .vol-actions { display: flex; flex-wrap: wrap; align-items: center; gap: .6rem 1rem; }
-.vol-stores { font-size: .9em; color: var(--ink2); }
+.buy-group { display: inline-flex; flex-wrap: wrap; align-items: center; gap: .4rem; padding: .3rem .35rem .3rem .85rem; border: 1px solid var(--line); border-radius: 999px; background: var(--bg2); }
+.buy-label { font: 700 .72em var(--sans); letter-spacing: .06em; text-transform: uppercase; color: var(--tan); margin-right: .15rem; }
+.btn.store { padding: .45em 1em; }
 .vol-row.upcoming { border-style: dashed; }
 .vol-row.upcoming .wip-badge { margin-bottom: .5rem; display: inline-block; }
 @media (max-width: 40rem) {
