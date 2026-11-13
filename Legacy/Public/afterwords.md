@@ -96,7 +96,7 @@ And now I have three new ones that I'm integrating into my soul:
 
 * “Never wrestle with pigs. You both get dirty, and the pig likes it!”
 * “I’m not dying in the waiting room of someone else’s stagnant life!”
-* “Action or inaction, it’s all seed. Mistakes and lessons feed the next harvest. You eat what you grow, even when it tastes like shit.”
+* “Action or inaction, it’s all seed. Mistakes and lessons feed the next harvest. You eat what you grow, even when it tastes like shit!”
 
 To the people in my inner circle who helped each other grow, and with whom I've developed a trusted bond: you are awesome folks; I will always be there for you, a ping away. To my awesome mother and father, I love you two! To my two illustrators, you became the sisters I never had! To my friends who supported me throughout, even just to shitpost on the story, or the ones that lent a hand with the logistics, thank you for the laughs! To my kitty Peeta, you're the goodest of boys!
 
