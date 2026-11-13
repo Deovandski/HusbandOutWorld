@@ -319,3 +319,11 @@ figure.art.wide img { width: 100%; height: auto; background: #fff; border-radius
 .chrono-section h3 { font-size: 1.05em; margin: 1.4rem 0 .5rem; }
 figure.chrono { margin: 0 0 1rem; }
 figure.chrono img { width: 100%; height: auto; border-radius: 8px; background: #fff; }
+/* announced volume page (Vol 4): chapters listed, not linked yet */
+.wip-line { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem .8rem; margin: -.2rem 0 1.2rem; font-family: var(--sans); }
+figure.art.vol-wip-cover { float: right; width: 12rem; margin: 0 0 1rem 1.4rem; }
+figure.art.vol-wip-cover img { width: 100%; height: auto; aspect-ratio: 2/3; object-fit: cover; border-radius: 8px; }
+.chapter-list.locked li { color: var(--ink2); }
+.ch-locked { cursor: default; }
+.chapter-list.locked + p, .chapter-list.locked { clear: both; }
+@media (max-width: 40rem) { figure.art.vol-wip-cover { float: none; width: 60%; margin: 0 auto 1rem; } }
