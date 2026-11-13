@@ -151,7 +151,9 @@ def build(b, m):
         desc = (p.get('description') or '').strip()
         alt = desc or f'Photo {i} from the final blog post' + (f', {when}' if when else '')
         caption = ' · '.join(x for x in (when, desc) if x)
-        tiles.append(f'<li><a class="img-link" href="{p["full"]}" data-full="{p["full"]}" data-gallery="blog" data-caption="{esc(caption)}">'
+        # one card per photo: its caption (date, then the author's description) above it, like the Cat Dad tab
+        tiles.append(f'<li><p class="photo-caption" aria-hidden="true" title="{esc(caption)}">{esc(caption or "Undated")}</p>'
+                     f'<a class="img-link" href="{p["full"]}" data-full="{p["full"]}" data-gallery="blog" data-caption="{esc(caption)}">'
                      f'<img src="{p["thumb"]}" alt="{esc(alt)}" width="{THUMB}" height="{THUMB}" loading="lazy" decoding="async"></a></li>')
     page.html = ('<h1>Blog</h1>' + b.r.render(text_md, base=m.PUB, origin=name)
                  + (f'<ul class="photo-grid" aria-label="Photos from the final blog post">{"".join(tiles)}</ul>' if tiles else '')
