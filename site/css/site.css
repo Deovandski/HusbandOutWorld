@@ -300,8 +300,20 @@ figure.art.wide img { width: 100%; height: auto; background: #fff; border-radius
 .vol-row.upcoming { border-style: dashed; }
 .vol-row.upcoming .wip-badge { margin-bottom: .5rem; display: inline-block; }
 @media (max-width: 40rem) {
-  .vol-row { grid-template-columns: 6.5rem 1fr; gap: .9rem; padding: .9rem; }
-  .vol-info h2.vol-title { font-size: 1.12em; }
+  /* phones: the cover sits beside the title and size line only; the blurb and buttons get the card's full width */
+  .vol-row { grid-template-columns: 6.5rem 1fr; column-gap: .9rem; row-gap: .45rem; padding: .9rem; align-items: start; }
+  .vol-info { display: contents; }
+  .vol-row > .vol-cover { grid-column: 1; grid-row: 1 / span 3; }
+  .vol-info > * { grid-column: 1 / -1; order: 4; }
+  .vol-info > .wip-badge { grid-column: 2; order: 1; justify-self: start; margin: 0; }
+  .vol-info > h2.vol-title { grid-column: 2; order: 2; font-size: 1.12em; margin: 0; }
+  .vol-info > .vol-meta { grid-column: 2; order: 3; margin: 0; font-size: .85em; }
+  .vol-info > p:not(.vol-meta) { margin: .5rem 0 0; }
+  .vol-info > .vol-actions { order: 5; margin-top: .4rem; }
+  .vol-actions .btn.primary { flex: 1 1 100%; text-align: center; }
+  .buy-group { display: flex; width: 100%; box-sizing: border-box; border-radius: 14px; padding: .55rem .6rem .6rem; }
+  .buy-label { flex-basis: 100%; text-align: center; margin: 0 0 .1rem; }
+  .btn.store { flex: 1; text-align: center; }
 }
 .chrono-section { margin-top: 2.5rem; scroll-margin-top: 5rem; }
 .chrono-section h3 { font-size: 1.05em; margin: 1.4rem 0 .5rem; }
