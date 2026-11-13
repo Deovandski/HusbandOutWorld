@@ -92,7 +92,7 @@ People who know me have heard my core mantras, and you can probably guess they'r
 * “I’m growing, and I will keep growing until the day I die!”
 * “Silence is the poison of the soul instead of communication, assuming you still have faith in the other person!”
 
-And now I have two new ones that I'm integrating into my soul:
+And now I have three new ones that I'm integrating into my soul:
 
 * “Never wrestle with pigs. You both get dirty, and the pig likes it!”
 * “I’m not dying in the waiting room of someone else’s stagnant life!”
