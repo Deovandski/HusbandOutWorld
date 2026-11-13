@@ -588,6 +588,9 @@ class Builder:
                     # the first picture becomes the entry's figure; the rest stay in the text
                     pub_render = re.sub(r'!\[[^\]]*\]\(' + re.escape(fi) + r'\)\s*', '', pub_render, count=1)
                     break
+            if not img_src and e['title'] in t.get('entry_image', {}):
+                # the author's pick for this entry's picture (the name match can't know the King is Itagiba)
+                img_src = self.media.file(os.path.join(BTS, t['entry_image'][e['title']]))
             if not img_src:
                 p = self.art.find(e['title'], t.get('art', []))
                 if p:
@@ -859,6 +862,42 @@ class Builder:
                 # the volume's first full-page colour illustration (2:3, the same shape as the book cover)
                 cover = self.r.resolve(chapters[0]['subs'][0]['img'], {'base': base})
             vols_html.append((v, vurl, cover, toc))
+        # announced volumes get a page too: the chapter list (not readable yet), work-in-progress label, chronology
+        series = series_info()
+        upcoming_urls = {}
+        for u in CFG.get('upcoming_volumes', []):
+            uurl = f'/novel/{u["slug"]}/'
+            upcoming_urls[u['slug']] = uurl
+            up = Page(uurl, u['title'], 'Light Novel')
+            up.sources.append(rel(os.path.join(PUB, SERIES_PAGE)))
+            info = series['vols'].get(norm(u['title']), {})
+            uc = self.covers().get(u['slug'])
+            chs = u.get('chapters', [])
+            uparts = [f'<p class="eyebrow">{esc(u["arc"])}</p>', f'<h1>{esc(u["title"])}</h1>',
+                      f'<p class="wip-line"><span class="wip-badge">Work in progress</span> <span class="muted">{esc(u["status"])}</span></p>']
+            if uc:
+                uparts.append(f'<figure class="art vol-wip-cover"><img src="{uc["thumb"]}" alt="{esc(ALT.get(uc["src"], {}).get("alt") or "Cover of " + u["title"])}" loading="lazy"></figure>')
+            if info.get('blurb'):
+                uparts.append(f'<div class="front">{self.r.render(info["blurb"], base=PUB)}</div>')
+            if chs:
+                uparts.append('<h2>Chapters</h2><p class="muted">The chapters can be read here once the volume is out.</p>'
+                              '<ol class="chapter-list locked">' + ''.join(f'<li><span class="ch-locked">{esc(c)}</span></li>' for c in chs) + '</ol>')
+            uparts.append(f'<p><a href="/novel/">← The Light Novel</a> · Catch up first: '
+                          + ' · '.join(f'<a href="/novel/{v["slug"]}/">{esc(v["title"].split(" - ")[0])}</a>' for v in CFG['volumes']) + '</p>')
+            up.md_public = (f'# {u["title"]}\n\n*Work in progress: {u["status"]}*\n\n{info.get("blurb", "")}\n\n'
+                            + ('## Chapters (not out yet)\n\n' + '\n'.join(f'- {c}' for c in chs) if chs else ''))
+            ch_html, ch_md = self.chronology_html(u['title'])
+            if ch_html:
+                uparts.append(ch_html)
+                up.md_bts += ch_md
+                up.sources.append(rel(os.path.join(PUB, CFG['novel_chronology'])))
+            up.html = '\n'.join(uparts)
+            up.desc = f'{u["title"]}, {u["arc"]} of the #HusbandOutWorld light novel: a work in progress ({u["status"]}).'
+            up.search.append({'t': u['title'], 'u': uurl, 's': 'Light Novel', 'x': up.desc, 'b': False})
+            up.jsonld = {'@context': 'https://schema.org', '@type': 'Book', 'name': u['title'], 'creativeWorkStatus': 'Incomplete',
+                         'isPartOf': {'@type': 'BookSeries', 'name': CFG['title']},
+                         'author': {'@type': 'Person', 'name': CFG['author']}, 'url': CFG['base_url'] + uurl, 'inLanguage': 'en'}
+            self.add(up)
         # story notes (behind the scenes only)
         notes = []
         for n in CFG['story_notes']:
@@ -898,32 +937,27 @@ class Builder:
                          f'<h2 class="vol-title"><a href="{vurl}">{esc(v["title"])}</a></h2>'
                          + (self.r.render(info['blurb'], base=PUB) if info.get('blurb') else '')
                          + f'<p class="vol-meta">{nch} chapters' + (f' · {esc(info["size"])}' if info.get('size') else '') + '</p>'
-                         + f'<p class="vol-actions"><a class="btn primary" href="{vurl}">Read {esc(v["title"].split(" - ")[0])}</a>'
-                         + (f' <span class="vol-stores">Get the eBook: {store_links_html(info["stores"])}</span>' if info.get('stores') else '')
-                         + '</p></div></article>')
+                         + f'<div class="vol-actions"><a class="btn primary" href="{vurl}">Read {esc(v["title"].split(" - ")[0])}</a>'
+                         + (store_links_html(info['stores']) if info.get('stores') else '')
+                         + '</div></div></article>')
             mdi.append(f'### [{v["title"]}]({vurl}index.md)\n\n{info.get("blurb", "")}\n\n{nch} chapters' + (f', {info["size"]}' if info.get('size') else ''))
         for u in CFG.get('upcoming_volumes', []):
             # announced but not written yet: no link (the status is the author's own line from the blog)
             info = series['vols'].get(norm(u['title']), {})
             uc = self.covers().get(u.get('slug', ''))
-            ucover = (f'<div class="vol-cover" aria-hidden="true"><img src="{uc["thumb"]}" alt="" loading="lazy"></div>' if uc else
-                      f'<div class="vol-cover placeholder" aria-hidden="true"><span>{esc(u["title"].split(" - ")[0])}</span></div>')
-            parts.append(f'<article class="vol-row upcoming">{ucover}<div class="vol-info">'
-                         f'<span class="wip-badge">Work in progress</span><h2 class="vol-title">{esc(u["title"])}</h2>'
+            uurl = upcoming_urls[u['slug']]
+            ucover = (f'<a class="vol-cover" href="{uurl}" tabindex="-1" aria-hidden="true"><img src="{uc["thumb"]}" alt="" loading="lazy"></a>' if uc else
+                      f'<a class="vol-cover placeholder" href="{uurl}" tabindex="-1" aria-hidden="true"><span>{esc(u["title"].split(" - ")[0])}</span></a>')
+            parts.append(f'<article class="vol-row upcoming" id="{u["slug"]}">{ucover}<div class="vol-info">'
+                         f'<span class="wip-badge">Work in progress</span><h2 class="vol-title"><a href="{uurl}">{esc(u["title"])}</a></h2>'
                          + (self.r.render(info['blurb'], base=PUB) if info.get('blurb') else '')
-                         + f'<p class="vol-meta">{esc(u["status"])}</p></div></article>')
+                         + f'<p class="vol-meta">{sum(1 for c in u.get("chapters", []) if c.lower().startswith("chapter")) or "?"} chapters planned · {esc(u["status"])}</p>'
+                         + f'<div class="vol-actions"><a class="btn" href="{uurl}">See {esc(u["title"].split(" - ")[0])}</a></div></div></article>')
             mdi.append(f'### {u["title"]} (work in progress: {u["status"]})\n\n{info.get("blurb", "")}')
         parts.append('</div>')
         idx.toc_extra_md = '\n\n' + '\n\n'.join(mdi)
         parts.append('<h2 class="layer bts">Story notes</h2><ul class="layer bts">' + ''.join(f'<li><a href="{u}">{esc(n["title"])}</a></li>' for n, u in notes) + '</ul>')
         parts.append('<p class="layer public-only more-bts">The author\'s notes for Arcs #2 to #5, and each volume\'s story chronology, are in <button class="linklike" data-go-bts>Behind The Scenes</button>.</p>')
-        # each volume's chronology now sits on its own page; a volume with no page yet (Vol 4) keeps it here
-        for u in CFG.get('upcoming_volumes', []):
-            ch_html, ch_md = self.chronology_html(u['title'])
-            if ch_html:
-                parts.append(ch_html)
-                idx.md_bts += '\n\n' + ch_md
-                idx.sources.append(rel(os.path.join(PUB, CFG['novel_chronology'])))
         idx.html = '\n'.join(parts)
         idx.md_public = '# The Light Novel\n' + idx.toc_extra_md
         idx.md_bts = '\n'.join(f'- [{n["title"]}]({u}index.md)' for n, u in notes) + idx.md_bts
@@ -1283,7 +1317,10 @@ def series_info():
         for k, val in zip(blocks[1::2], blocks[2::2]):
             val = re.sub(r'!\[[^\]]*\]\([^)]*\)', '', val).strip()
             if k == 'Vol Size' and val.strip('? '):
-                d['size'] = val
+                # pages and illustrations only; the author dropped the word counts ("~51,000 words, " / "~39,000, ")
+                size = re.sub(r'^~?\s*[\d,.]+\s*(?:k\b)?\s*(?:words)?\s*,?\s*', '', val).rstrip('.').strip()
+                if size:
+                    d['size'] = size
             if k == 'Store Links':
                 links = re.findall(r'\[([^\]]+)\]\((https?://[^)]+)\)', val)
                 if links:
@@ -1292,7 +1329,9 @@ def series_info():
     return out
 
 def store_links_html(links):
-    return ' · '.join(f'<a href="{esc(u)}" rel="noopener">{esc(t)}</a>' for t, u in links)
+    """The eBook stores as a labelled group of buttons."""
+    return ('<div class="buy-group" role="group" aria-label="Buy the eBook"><span class="buy-label">Buy the eBook!</span>'
+            + ''.join(f'<a class="btn store" href="{esc(u)}" rel="noopener">{esc(t)}</a>' for t, u in links) + '</div>')
 
 def lede_text():
     """How far along Arc #1 is: the published volumes, plus any volume still being written."""
