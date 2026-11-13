@@ -1,0 +1,120 @@
+{
+  "_about": "Photos on the Blog page (/blog/), in the order the grid shows them. Fill in, for each photo: \"date\" = the day it was taken, as YYYY-MM-DD (the website names the photo after it, e.g. 2024-06-28.webp; a second photo from the same day becomes 2024-06-28-2.webp), and \"description\" = a sentence about it (shown under the photo when it's opened, and read out by screen readers). Leave either one empty if you don't know it yet. Move entries up or down to reorder the grid. The dates already filled in were read from the photos' own camera data. The originals in Legacy/Public/images are never renamed.",
+  "photos": [
+    {
+      "file": "images/092.png",
+      "date": "",
+      "description": ""
+    },
+    {
+      "file": "images/093.jpg",
+      "date": "",
+      "description": ""
+    },
+    {
+      "file": "images/094.jpg",
+      "date": "2024-06-28",
+      "description": ""
+    },
+    {
+      "file": "images/095.jpg",
+      "date": "2024-06-05",
+      "description": ""
+    },
+    {
+      "file": "images/096.jpg",
+      "date": "",
+      "description": ""
+    },
+    {
+      "file": "images/097.jpg",
+      "date": "",
+      "description": ""
+    },
+    {
+      "file": "images/098.jpg",
+      "date": "2024-07-27",
+      "description": ""
+    },
+    {
+      "file": "images/099.jpg",
+      "date": "",
+      "description": ""
+    },
+    {
+      "file": "images/100.jpg",
+      "date": "",
+      "description": ""
+    },
+    {
+      "file": "images/101.jpg",
+      "date": "",
+      "description": ""
+    },
+    {
+      "file": "images/102.jpg",
+      "date": "",
+      "description": ""
+    },
+    {
+      "file": "images/103.jpg",
+      "date": "",
+      "description": ""
+    },
+    {
+      "file": "images/104.jpg",
+      "date": "",
+      "description": ""
+    },
+    {
+      "file": "images/105.jpg",
+      "date": "",
+      "description": ""
+    },
+    {
+      "file": "images/106.jpg",
+      "date": "",
+      "description": ""
+    },
+    {
+      "file": "images/107.png",
+      "date": "",
+      "description": ""
+    },
+    {
+      "file": "images/108.jpg",
+      "date": "",
+      "description": ""
+    },
+    {
+      "file": "images/109.jpg",
+      "date": "",
+      "description": ""
+    },
+    {
+      "file": "images/110.jpg",
+      "date": "",
+      "description": ""
+    },
+    {
+      "file": "images/111.jpg",
+      "date": "2026-07-19",
+      "description": ""
+    },
+    {
+      "file": "images/112.jpg",
+      "date": "2026-07-17",
+      "description": ""
+    },
+    {
+      "file": "images/113.jpg",
+      "date": "2026-07-19",
+      "description": ""
+    },
+    {
+      "file": "images/114.jpg",
+      "date": "2026-07-19",
+      "description": ""
+    }
+  ]
+}

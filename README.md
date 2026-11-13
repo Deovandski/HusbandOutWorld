@@ -17,7 +17,7 @@ Enjoying the story? The eBook is on [Amazon](https://www.amazon.com/dp/B0BT5XM4Q
 | Folder | What's inside |
 |---|---|
 | [Legacy](Legacy) | **The originals, made by humans, unchanged.** `Legacy/Public` is the old blog (reader-facing, light on spoilers). `Legacy/Behind The Scenes` is everything else: the light novel manuscripts, the story notes for Arcs #2 to #5, the World Lore docs, the spreadsheets, the fonts, every illustration with its source files, and the webcomic's raw pages (`Webcomic/Vol N/Chapter N/Sub N`). |
-| [content](content) | The website's page map, short AI-written summaries and alt text, all built from Legacy. |
+| [content](content) | The website's page map, short AI-written summaries and alt text, all built from Legacy. Also `blog-photos.json`: the date and description of each photo on the Blog page, filled in by the author. |
 | [tools](tools), [site](site) | The website's build script, styles and code. |
 | [AI-DISCLOSURE.md](AI-DISCLOSURE.md) | What a human made, what an AI made, and how they fit together. |
 

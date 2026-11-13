@@ -69,21 +69,43 @@
     if (path.indexOf(a.getAttribute('href')) === 0) a.setAttribute('aria-current', 'page');
   });
 
-  // ---------- lightbox
+  // ---------- lightbox (photos in a data-gallery, like the Blog's grid, get a caption and ‹ › to move through them)
   var lb = document.getElementById('lightbox');
   if (lb) {
     var lbImg = lb.querySelector('img');
+    var lbCap = lb.querySelector('.lb-cap');
+    var lbPrev = lb.querySelector('.lb-prev'), lbNext = lb.querySelector('.lb-next');
+    var group = [], at = 0;
+    function show(a) {
+      var img = a.querySelector('img');
+      lbImg.src = a.dataset.full || a.href;
+      lbImg.alt = img ? img.alt : '';
+      var cap = a.dataset.caption || '';
+      if (lbCap) { lbCap.textContent = cap; lbCap.hidden = !cap; }
+      var many = group.length > 1;
+      if (lbPrev) lbPrev.hidden = !many;
+      if (lbNext) lbNext.hidden = !many;
+      lb.hidden = false;
+    }
+    function step(d) { if (group.length > 1) { at = (at + d + group.length) % group.length; show(group[at]); } }
+    function close() { lb.hidden = true; lbImg.src = ''; }
     document.addEventListener('click', function (e) {
       var a = e.target.closest('a.img-link');
       if (!a) return;
       e.preventDefault();
-      var img = a.querySelector('img');
-      lbImg.src = a.dataset.full || a.href;
-      lbImg.alt = img ? img.alt : '';
-      lb.hidden = false;
+      group = a.dataset.gallery ? Array.prototype.slice.call(document.querySelectorAll('a.img-link[data-gallery="' + a.dataset.gallery + '"]')) : [a];
+      at = Math.max(0, group.indexOf(a));
+      show(a);
     });
-    lb.addEventListener('click', function () { lb.hidden = true; lbImg.src = ''; });
-    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') lb.hidden = true; });
+    if (lbPrev) lbPrev.addEventListener('click', function (e) { e.stopPropagation(); step(-1); });
+    if (lbNext) lbNext.addEventListener('click', function (e) { e.stopPropagation(); step(1); });
+    lb.addEventListener('click', close);
+    document.addEventListener('keydown', function (e) {
+      if (lb.hidden) return;
+      if (e.key === 'Escape') close();
+      if (e.key === 'ArrowLeft') step(-1);
+      if (e.key === 'ArrowRight') step(1);
+    });
   }
 
   // ---------- list filter (glossary)

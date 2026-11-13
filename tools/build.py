@@ -1454,7 +1454,7 @@ def page_html(p, nav):
     <div class="dialog-actions"><button class="btn primary" value="close">Done</button></div>
   </form>
 </dialog>
-<div id="lightbox" class="lightbox keep-latin" hidden><button class="lb-close" aria-label="Close">×</button><img alt=""></div>
+<div id="lightbox" class="lightbox keep-latin" hidden><button class="lb-close" aria-label="Close">×</button><button class="lb-prev" aria-label="Previous photo" hidden>‹</button><figure class="lb-fig"><img alt=""><figcaption class="lb-cap" hidden></figcaption></figure><button class="lb-next" aria-label="Next photo" hidden>›</button></div>
 <script src="{asset('/js/app.js')}" defer></script>
 {''.join(f'<script src="{asset(j)}" defer></script>' for j in getattr(p, 'extra_js', []))}
 </body>
@@ -1543,6 +1543,8 @@ def main():
     b.build_novel()
     import webcomic  # the vertical-scroll webcomic reader (tools/webcomic.py)
     webcomic.build(b, sys.modules[__name__])
+    import blog  # the Blog page and its photo grid (tools/blog.py)
+    blog.build(b, sys.modules[__name__])
     topic_pages = {t['slug']: b.build_topic(t) for t in CFG['topics']}
     b.build_lore_index(topic_pages)
     b.build_gallery()

@@ -3,7 +3,7 @@
 This is the #HusbandOutWorld series repo: the author's originals plus the website that is built from them. Read [README.md](README.md) and [AI-DISCLOSURE.md](AI-DISCLOSURE.md) first.
 
 ## Ground rules
-- **`Legacy/` holds the originals and is never edited.** The website only reads it. A display-only correction goes in `content/fixes.json`, alt text goes in `content/alt-text.json`, and the page map goes in `content/site.json`.
+- **`Legacy/` holds the originals and is never edited.** The website only reads it. A display-only correction goes in `content/fixes.json`, alt text goes in `content/alt-text.json`, and the page map goes in `content/site.json`. The Blog page's photo dates and descriptions go in `content/blog-photos.json` (the author's own words; the website names each photo after its date).
 - **Never invent lore.** Website text can be shortened, rearranged, labelled or typo-fixed, but every fact comes from Legacy. If the website and Legacy disagree, Legacy wins.
 - **Use the author's own wording.** If you see a grammar fix, offer it as a suggestion; don't make it silently.
 - **Two layers.** Public is what the old blog showed. Behind The Scenes adds the full notes and sits behind the spoiler toggle. Anything that wasn't public on the blog goes in the `bts` layer.
