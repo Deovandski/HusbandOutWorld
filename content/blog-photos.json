@@ -1,0 +1,40 @@
+{
+  "_about": "Dates and descriptions for the photos on the Blog page (/blog/). Photos come from the final blog post (images/...) and from Legacy/Public/Blog Photos/ (\"Blog Photos/<file name>\"). A photo doesn't need to be listed here to show up: list it only to give it a \"description\" (shown under the photo when it's opened, and read out by screen readers) or a \"date\" (YYYY-MM-DD, the day it was taken) when the photo's own camera data and file name don't have one. The grid runs oldest to newest; on the website each photo is named after its date (2024-06-28.webp; a second photo from the same day becomes 2024-06-28-2.webp).",
+  "photos": [
+    {
+      "file": "images/094.jpg",
+      "date": "2024-06-28",
+      "description": ""
+    },
+    {
+      "file": "images/095.jpg",
+      "date": "2024-06-05",
+      "description": ""
+    },
+    {
+      "file": "images/098.jpg",
+      "date": "2024-07-27",
+      "description": ""
+    },
+    {
+      "file": "images/111.jpg",
+      "date": "2026-07-19",
+      "description": ""
+    },
+    {
+      "file": "images/112.jpg",
+      "date": "2026-07-17",
+      "description": ""
+    },
+    {
+      "file": "images/113.jpg",
+      "date": "2026-07-19",
+      "description": ""
+    },
+    {
+      "file": "images/114.jpg",
+      "date": "2026-07-19",
+      "description": ""
+    }
+  ]
+}

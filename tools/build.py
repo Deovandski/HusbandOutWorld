@@ -24,6 +24,14 @@ PUB = os.path.join(LEGACY, 'Public')
 CONTENT = os.path.join(ROOT, 'content')
 SITE_SRC = os.path.join(ROOT, 'site')
 
+_ASSET_V = {}
+def asset(url):
+    """/css/site.css -> /css/site.css?v=<content hash>, so a browser never pairs a new page with an old cached stylesheet."""
+    if url not in _ASSET_V:
+        f = os.path.join(SITE_SRC, url.lstrip('/'))
+        _ASSET_V[url] = hashlib.sha1(open(f, 'rb').read()).hexdigest()[:10] if os.path.exists(f) else ''
+    return url + (f'?v={_ASSET_V[url]}' if _ASSET_V[url] else '')
+
 CFG = json.load(open(os.path.join(CONTENT, 'site.json')))
 ALT = json.load(open(os.path.join(CONTENT, 'alt-text.json'))) if os.path.exists(os.path.join(CONTENT, 'alt-text.json')) else {}
 FIXES = json.load(open(os.path.join(CONTENT, 'fixes.json'))) if os.path.exists(os.path.join(CONTENT, 'fixes.json')) else {}
@@ -1018,7 +1026,7 @@ class Builder:
                     f'<li><a href="{CFG["vraki_url"]}">Vraki Language app</a></li>'
                     f'<li><a href="{CFG["repo_url"]}">GitHub repository</a></li></ul>')
         idx.md_public = '# About the Series\n\n' + '\n'.join(f'- [{t}]({u}index.md)' for t, u in links)
-        idx.desc = 'About the #HusbandOutWorld series: FAQ, afterwords, the final blog post and more.'
+        idx.desc = 'About the #HusbandOutWorld series: FAQ, afterwords, the AI disclosure and more.'
         self.add(idx)
 
     # ---- lore index
@@ -1356,7 +1364,7 @@ def bts_gate(why):
 
 # --------------------------------------------------------------------------- templates
 
-NAV = [('Novel', '/novel/'), ('Webcomic', '/webcomic/'), ('World Lore', '/lore/'), ('Gallery', '/gallery/'), ('Glossary', '/glossary/'), ('About', '/about/')]
+NAV = [('Novel', '/novel/'), ('Webcomic', '/webcomic/'), ('World Lore', '/lore/'), ('Gallery', '/gallery/'), ('Glossary', '/glossary/'), ('Blog', '/blog/'), ('About', '/about/')]
 
 def nav_html():
     return ''.join(f'<a href="{u}">{t}</a>' for t, u in NAV)
@@ -1396,8 +1404,8 @@ def page_html(p, nav):
 {md_link}
 <link rel="icon" href="/media/favicon.png">
 <script>try{{var s=JSON.parse(localStorage.getItem('hoow')||'{{}}');var d=document.documentElement;if(s.mode)d.dataset.mode=s.mode;if(s.theme)d.dataset.theme=s.theme;if(s.vraki)d.classList.add('vraki');if(s.size)d.style.setProperty('--fs',s.size+'px')}}catch(e){{}}</script>
-<link rel="stylesheet" href="/css/site.css">
-{''.join(f'<link rel="stylesheet" href="{c}">' for c in getattr(p, 'extra_css', []))}
+<link rel="stylesheet" href="{asset('/css/site.css')}">
+{''.join(f'<link rel="stylesheet" href="{asset(c)}">' for c in getattr(p, 'extra_css', []))}
 {jsonld}
 </head>
 <body>
@@ -1446,9 +1454,9 @@ def page_html(p, nav):
     <div class="dialog-actions"><button class="btn primary" value="close">Done</button></div>
   </form>
 </dialog>
-<div id="lightbox" class="lightbox keep-latin" hidden><button class="lb-close" aria-label="Close">×</button><img alt=""></div>
-<script src="/js/app.js" defer></script>
-{''.join(f'<script src="{j}" defer></script>' for j in getattr(p, 'extra_js', []))}
+<div id="lightbox" class="lightbox keep-latin" hidden><button class="lb-close" aria-label="Close">×</button><button class="lb-prev" aria-label="Previous photo" hidden>‹</button><figure class="lb-fig"><img alt=""><figcaption class="lb-cap" hidden></figcaption></figure><button class="lb-next" aria-label="Next photo" hidden>›</button></div>
+<script src="{asset('/js/app.js')}" defer></script>
+{''.join(f'<script src="{asset(j)}" defer></script>' for j in getattr(p, 'extra_js', []))}
 </body>
 </html>
 '''
@@ -1535,6 +1543,8 @@ def main():
     b.build_novel()
     import webcomic  # the vertical-scroll webcomic reader (tools/webcomic.py)
     webcomic.build(b, sys.modules[__name__])
+    import blog  # the Blog page and its photo grid (tools/blog.py)
+    blog.build(b, sys.modules[__name__])
     topic_pages = {t['slug']: b.build_topic(t) for t in CFG['topics']}
     b.build_lore_index(topic_pages)
     b.build_gallery()

@@ -553,11 +553,6 @@
       "toc": true
     },
     {
-      "slug": "final-blog-post",
-      "title": "Final Blog Post",
-      "public": "blog.md"
-    },
-    {
       "slug": "webcomic",
       "title": "Webcomic",
       "public": "graphiclight-novels.md",
@@ -565,8 +560,13 @@
       "section": "Webcomic"
     }
   ],
+  "blog": {
+    "public": "blog.md",
+    "url": "/blog/"
+  },
   "redirects": {
-    "/about/light-novel-series/": "/novel/"
+    "/about/light-novel-series/": "/novel/",
+    "/about/final-blog-post/": "/blog/"
   },
   "novel_chronology": "story-chronology.md",
   "gallery_exclude": [
