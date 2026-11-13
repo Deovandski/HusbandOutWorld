@@ -24,6 +24,14 @@ PUB = os.path.join(LEGACY, 'Public')
 CONTENT = os.path.join(ROOT, 'content')
 SITE_SRC = os.path.join(ROOT, 'site')
 
+_ASSET_V = {}
+def asset(url):
+    """/css/site.css -> /css/site.css?v=<content hash>, so a browser never pairs a new page with an old cached stylesheet."""
+    if url not in _ASSET_V:
+        f = os.path.join(SITE_SRC, url.lstrip('/'))
+        _ASSET_V[url] = hashlib.sha1(open(f, 'rb').read()).hexdigest()[:10] if os.path.exists(f) else ''
+    return url + (f'?v={_ASSET_V[url]}' if _ASSET_V[url] else '')
+
 CFG = json.load(open(os.path.join(CONTENT, 'site.json')))
 ALT = json.load(open(os.path.join(CONTENT, 'alt-text.json'))) if os.path.exists(os.path.join(CONTENT, 'alt-text.json')) else {}
 FIXES = json.load(open(os.path.join(CONTENT, 'fixes.json'))) if os.path.exists(os.path.join(CONTENT, 'fixes.json')) else {}
@@ -1396,8 +1404,8 @@ def page_html(p, nav):
 {md_link}
 <link rel="icon" href="/media/favicon.png">
 <script>try{{var s=JSON.parse(localStorage.getItem('hoow')||'{{}}');var d=document.documentElement;if(s.mode)d.dataset.mode=s.mode;if(s.theme)d.dataset.theme=s.theme;if(s.vraki)d.classList.add('vraki');if(s.size)d.style.setProperty('--fs',s.size+'px')}}catch(e){{}}</script>
-<link rel="stylesheet" href="/css/site.css">
-{''.join(f'<link rel="stylesheet" href="{c}">' for c in getattr(p, 'extra_css', []))}
+<link rel="stylesheet" href="{asset('/css/site.css')}">
+{''.join(f'<link rel="stylesheet" href="{asset(c)}">' for c in getattr(p, 'extra_css', []))}
 {jsonld}
 </head>
 <body>
@@ -1447,8 +1455,8 @@ def page_html(p, nav):
   </form>
 </dialog>
 <div id="lightbox" class="lightbox keep-latin" hidden><button class="lb-close" aria-label="Close">×</button><img alt=""></div>
-<script src="/js/app.js" defer></script>
-{''.join(f'<script src="{j}" defer></script>' for j in getattr(p, 'extra_js', []))}
+<script src="{asset('/js/app.js')}" defer></script>
+{''.join(f'<script src="{asset(j)}" defer></script>' for j in getattr(p, 'extra_js', []))}
 </body>
 </html>
 '''
