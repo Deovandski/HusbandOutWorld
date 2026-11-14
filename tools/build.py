@@ -945,7 +945,7 @@ class Builder:
                          f'<h2 class="vol-title"><a href="{vurl}">{esc(v["title"])}</a></h2>'
                          + (self.r.render(info['blurb'], base=PUB) if info.get('blurb') else '')
                          + f'<p class="vol-meta">{nch} chapters' + (f' · {esc(info["size"])}' if info.get('size') else '') + '</p>'
-                         + f'<div class="vol-actions"><a class="btn primary" href="{vurl}">Read {esc(v["title"].split(" - ")[0])}</a>'
+                         + f'<div class="vol-actions{" action-panel" if info.get("stores") else ""}"><a class="btn primary" href="{vurl}">Read {esc(v["title"].split(" - ")[0])}</a>'
                          + (store_links_html(info['stores']) if info.get('stores') else '')
                          + '</div></div></article>')
             mdi.append(f'### [{v["title"]}]({vurl}index.md)\n\n{info.get("blurb", "")}\n\n{nch} chapters' + (f', {info["size"]}' if info.get('size') else ''))
