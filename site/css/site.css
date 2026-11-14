@@ -312,6 +312,7 @@ figure.art.wide img { width: 100%; height: auto; background: #fff; border-radius
 /* one action panel per volume: Read on top, then "Buy the eBook!" and the stores. Same shape at every width, so nothing wraps oddly */
 .vol-actions.action-panel { display: grid; grid-template-columns: minmax(0, 1fr); max-width: 24rem; gap: .55rem; padding: .7rem;
   border: 1px solid var(--line); border-radius: 14px; background: var(--bg2); box-sizing: border-box; }
+.vol-actions.action-panel { margin-inline: auto; width: 100%; }  /* centered in the card's text column */
 .action-panel .btn.primary { text-align: center; }
 .action-panel .buy-group { display: flex; border: 0; background: none; padding: 0; }
 .vol-row.upcoming { border-style: dashed; }
