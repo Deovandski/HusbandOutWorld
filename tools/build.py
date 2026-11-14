@@ -1506,6 +1506,7 @@ if(!d.dataset.lang){{var ok=(d.dataset.langs||'').split(' '),w=s.lang,n=navigato
   <form method="dialog">
     <h2>Settings</h2>
     <label class="setting"><span>Language</span><select data-setting="lang">{lang_options()}</select></label>
+    <p class="setting-link"><a href="{CFG.get('i18n_issue_url', CFG['repo_url'] + '/issues/50')}" rel="noopener">Want a language added?</a></p>
     <label class="setting"><span>Theme</span><select data-setting="theme"><option value="dark">Dark</option><option value="light">Light</option></select></label>
     <label class="setting"><span>Text size</span><input data-setting="size" type="range" min="14" max="26" step="1" value="18"></label>
     <label class="setting"><span>Vraki mode <small>(read everything in the Vraki script)</small> <small class="vraki-note">Vraki mode works with the English text only.</small></span><input data-setting="vraki" type="checkbox"></label>
