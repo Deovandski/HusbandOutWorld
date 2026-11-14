@@ -1144,6 +1144,15 @@ class Builder:
             if m:
                 blurb = m.group(0)
                 break
+        # the webcomic's episodes so far (tools/webcomic.py reads the same folder when it builds the reader)
+        import webcomic
+        eps = webcomic.discover(os.path.join(BTS, CFG.get('webcomic', {}).get('source', 'Webcomic')))
+        webcomic_card = ''
+        if eps:
+            chs = sorted({e['chapter'] for e in eps if e['kind'] == 'chapter'})
+            parts_ = (['the Prologue'] if any(e['kind'] == 'prologue' for e in eps) else []) + [f'Chapter {webcomic.roman_numeral(c)}' for c in chs]
+            webcomic_card = (f'<a class="home-card" href="/webcomic/"><h2>Webcomic</h2><p>Arc #1 in pictures: {" and ".join(parts_)} so far, '
+                             f'{len(eps)} episodes. Scroll down to read, like on Webtoons.</p></a>')
         p.html = f'''
 <section class="hero">
   <img class="hero-banner" src="{logo['url']}" alt="{esc(ALT.get(logo['src'], {}).get('alt', 'A Husband Out of This World'))}" width="2500" height="1626">
@@ -1155,10 +1164,12 @@ class Builder:
   {amazon_note()}
 </section>
 <section class="home-grid">
-  <a class="home-card" href="/novel/"><h2>The Light Novel</h2><p>Arc #1: Vols 1 to {len(CFG["volumes"])}, with every illustration{", and " + CFG["upcoming_volumes"][0]["title"].split(" - ")[0] + " on the way" if CFG.get("upcoming_volumes") else ""}.</p></a>
+  <a class="home-card" href="/novel/"><h2>Novel</h2><p>Arc #1: Vols 1 to {len(CFG["volumes"])}, with every illustration{", and " + CFG["upcoming_volumes"][0]["title"].split(" - ")[0] + " on the way" if CFG.get("upcoming_volumes") else ""}.</p></a>
+  {webcomic_card}
   <a class="home-card" href="/lore/"><h2>World Lore</h2><p>Kingdoms, races, soul energy, beasts and plants.</p></a>
   <a class="home-card" href="/gallery/"><h2>Gallery</h2><p>All the art by {" and ".join(CFG["artists"])}.</p></a>
   <a class="home-card" href="/glossary/"><h2>Glossary</h2><p>Every name A to Z, with the author's pronunciation.</p></a>
+  <a class="home-card" href="/blog/"><h2>Blog</h2><p>The final blog post, and photos from seven years of making the series.</p></a>
 </section>
 <section class="modes-explainer">
   <img src="{emblem['thumb']}" alt="Forway city emblem" width="160" height="160">
@@ -1171,8 +1182,9 @@ class Builder:
 </section>
 '''
         p.md_public = (f'# {CFG["title"]}\n\n{blurb}\n\n'
-                       '- [The Light Novel](/novel/index.md)\n- [World Lore](/lore/index.md)\n- [Gallery](/gallery/index.md)\n'
-                       '- [Glossary](/glossary/index.md)\n- [About](/about/index.md)\n')
+                       '- [Novel](/novel/index.md)\n' + ('- [Webcomic](/webcomic/index.md)\n' if webcomic_card else '')
+                       + '- [World Lore](/lore/index.md)\n- [Gallery](/gallery/index.md)\n'
+                       '- [Glossary](/glossary/index.md)\n- [Blog](/blog/index.md)\n- [About](/about/index.md)\n')
         p.desc = blurb[:160]
         p.jsonld = {'@context': 'https://schema.org', '@type': 'BookSeries', 'name': CFG['title'],
                     'alternateName': CFG['short_title'], 'author': {'@type': 'Person', 'name': CFG['author']},
