@@ -1,0 +1,45 @@
+{
+ "_about": "How names and recurring terms are written in this language. Every translation follows this file, so a name is always spelled the same way. Names are written by sound, never translated (the author's rule). The spellings here are first versions based on the written names: the author's own pronunciation is recorded in Legacy/Behind The Scenes/World Lore/Word Pronunciation/Unique Words Pronounciation.wav, so correct any spelling here and later translations will follow it. Add new names the first time they are translated.",
+ "rule": "Story names stay exactly as in English.",
+ "keep_as_is": [
+  "A Husband Out of This World",
+  "#HusbandOutWorld",
+  "Deovandski",
+  "Deovandski Skibinski Junior",
+  "Mitsukiven",
+  "Feiourm"
+ ],
+ "terms": {
+  "Public": "Público",
+  "Behind The Scenes": "Entre bastidores",
+  "World Lore": "Lore del mundo",
+  "Vraki script": "escritura Vraki"
+ },
+ "names": {
+  "Harry": "Harry",
+  "Maiara": "Maiara",
+  "Eori": "Eori",
+  "Eiri": "Eiri",
+  "Gabiro": "Gabiro",
+  "Kibe": "Kibe",
+  "Arukia": "Arukia",
+  "Neferteri": "Neferteri",
+  "Itagiba": "Itagiba",
+  "Huneo": "Huneo",
+  "Coema": "Coema",
+  "Dalila": "Dalila",
+  "Sanbi": "Sanbi",
+  "Forway": "Forway",
+  "Tolerideme": "Tolerideme",
+  "Gandew": "Gandew",
+  "Freeish": "Freeish",
+  "Vraki": "Vraki",
+  "Finaies": "Finaies",
+  "Buhraies": "Buhraies",
+  "Darfaries": "Darfaries",
+  "Wozefaries": "Wozefaries",
+  "Ganyrami": "Ganyrami",
+  "Soreno": "Soreno",
+  "Nari": "Nari"
+ }
+}

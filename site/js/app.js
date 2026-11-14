@@ -4,6 +4,8 @@
   var root = document.documentElement;
   var KEY = 'hoow';
   var BASE = root.dataset.base || '';  // e.g. "/HusbandOutWorld" on a GitHub project page
+  var LANG = root.dataset.lang || '';   // "" on English pages, "ja", "pt", ... on translated ones
+  var LP = LANG ? '/' + LANG : '';      // the language's address prefix
 
   function load() { try { return JSON.parse(localStorage.getItem(KEY) || '{}'); } catch (e) { return {}; } }
   function save(patch) {
@@ -48,10 +50,26 @@
   var sd = document.getElementById('settings-dialog');
   var sb = document.querySelector('.settings-btn');
   if (sb && sd) sb.addEventListener('click', function () { sd.showModal(); });
+  // ---------- language: the same page in another language (the choice is remembered)
+  function langHref(code) {
+    var path = location.pathname.slice(BASE.length);
+    if (LANG && path.indexOf(LP + '/') === 0) path = path.slice(LP.length);
+    return BASE + (code === 'en' ? '' : '/' + code) + path + location.search + location.hash;
+  }
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest('[data-lang-switch]');
+    if (a) { e.preventDefault(); save({ lang: a.dataset.langSwitch }); location.href = langHref(a.dataset.langSwitch); }
+  });
   if (sd) {
     var s = load();
     sd.querySelectorAll('[data-setting]').forEach(function (el) {
       var k = el.dataset.setting;
+      if (k === 'lang') {
+        el.value = LANG || 'en';
+        el.addEventListener('change', function () { save({ lang: el.value }); location.href = langHref(el.value); });
+        return;
+      }
+      if (k === 'vraki' && LANG) { el.checked = false; el.disabled = true; return; }  // the Vraki script spells English letters
       if (k === 'theme') el.value = root.dataset.theme || 'dark';
       if (k === 'size') el.value = s.size || 18;
       if (k === 'vraki') el.checked = root.classList.contains('vraki');
@@ -155,7 +173,7 @@
         var it = h[1];
         var li = document.createElement('li');
         var snippet = it.x || (bts ? it.xb : '') || '';
-        li.innerHTML = '<a href="' + esc(BASE + it.u) + '">' + esc(it.t) + '</a> <span class="sr-sec">' + esc(it.s) + '</span>' +
+        li.innerHTML = '<a href="' + esc(BASE + LP + it.u) + '">' + esc(it.t) + '</a> <span class="sr-sec">' + esc(it.s) + '</span>' +
           (it.b ? '<span class="sr-bts">Behind the Scenes</span>' : '') + '<br><span class="muted">' + esc(snippet.slice(0, 220)) + '</span>';
         list.appendChild(li);
       });
