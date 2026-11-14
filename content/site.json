@@ -562,7 +562,10 @@
   ],
   "blog": {
     "public": "blog.md",
-    "url": "/blog/"
+    "url": "/blog/",
+    "inline": [
+      "images/skydive.jpg"
+    ]
   },
   "redirects": {
     "/about/light-novel-series/": "/novel/",

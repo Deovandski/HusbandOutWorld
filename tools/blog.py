@@ -104,17 +104,18 @@ def build(b, m):
     meta, intro, secs = m.parse_public(name)
     md = '\n\n'.join([intro['md']] + [(f'## {s["heading"]}\n\n' if s['heading'] else '') + s['md'] for s in secs])
 
-    # every local picture in the post, in order; the text keeps none of them (they all go in the grid)
+    # every local picture in the post goes in the grid, except the ones the page map keeps in the text ("inline")
+    inline = set(cfg.get('inline', []))
     files = []
     for f in re.findall(r'!\[[^\]]*\]\(([^)\s]+)\)', md):
-        if not f.startswith('http') and f not in files and os.path.exists(os.path.join(m.PUB, f)):
+        if not f.startswith('http') and f not in files and f not in inline and os.path.exists(os.path.join(m.PUB, f)):
             files.append(f)
     drop = os.path.join(m.PUB, DROP)
     if os.path.isdir(drop):
         for f in sorted(os.listdir(drop)):
             if f.lower().endswith(PICS) and not f.startswith('.'):
                 files.append(f'{DROP}/{f}')
-    text_md = re.sub(r'!\[[^\]]*\]\([^)]*\)\s*', '', md).strip()
+    text_md = re.sub(r'!\[[^\]]*\]\(([^)]*)\)\s*', lambda mm: mm.group(0) if mm.group(1) in inline else '', md).strip()
     photos = load_manifest(m, files)
     web_names(photos)
 
@@ -155,7 +156,10 @@ def build(b, m):
         tiles.append(f'<li><p class="photo-caption" aria-hidden="true" title="{esc(caption)}">{esc(caption or "Undated")}</p>'
                      f'<a class="img-link" href="{p["full"]}" data-full="{p["full"]}" data-gallery="blog" data-caption="{esc(caption)}">'
                      f'<img src="{p["thumb"]}" alt="{esc(alt)}" width="{THUMB}" height="{THUMB}" loading="lazy" decoding="async"></a></li>')
-    page.html = ('<h1>Blog</h1>' + b.r.render(text_md, base=m.PUB, origin=name)
+    text_html = b.r.render(text_md, base=m.PUB, origin=name)
+    # a picture kept in the text stands on its own line, centered
+    text_html = re.sub(r'<p>\s*(<a class="img-link"[^>]*><img[^>]*></a>)\s*</p>', r'<figure class="blog-inline">\1</figure>', text_html)
+    page.html = ('<h1>Blog</h1>' + text_html
                  + (f'<ul class="photo-grid" aria-label="Photos from the final blog post">{"".join(tiles)}</ul>' if tiles else '')
                  + f'<p class="src">From the original blog page: <a href="{esc(meta.get("original_url", ""))}">{esc(meta.get("original_url", ""))}</a> '
                    f'(archived in <a href="{m.gh_link(os.path.join(m.PUB, name))}">{esc(m.rel(os.path.join(m.PUB, name)))}</a>)</p>')
