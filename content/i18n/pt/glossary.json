@@ -1,6 +1,6 @@
 {
  "_about": "How names and recurring terms are written in this language. Every translation follows this file, so a name is always spelled the same way. Names are written by sound, never translated (the author's rule). The spellings here are first versions based on the written names: the author's own pronunciation is recorded in Legacy/Behind The Scenes/World Lore/Word Pronunciation/Unique Words Pronounciation.wav, so correct any spelling here and later translations will follow it. Add new names the first time they are translated.",
- "rule": "Story names stay exactly as in English. That includes coined world terms written as names: creatures, plants, items, nari gels, factions, guilds, places, ranks and coins (Wood People, Sand Worms, Fost Stone, Nari Refresher, Red Winga, Sapphire, Pearl, balls). Plain words around them are translated (nari gel stays, 'soul energy' becomes 'energia da alma').",
+ "rule": "Story names stay exactly as in English. That includes coined world terms written as names: creatures, plants, items, nari gels, factions, guilds, places, ranks and coins (Wood People, Sand Worms, Fost Stone, Nari Refresher, Red Winga, Sapphire, Pearl). Plain words around them are translated (nari gel stays, 'soul energy' becomes 'energia da alma'). Exception: the currency balls is written bolas (singular bola), which keeps the double meaning; the rank stays after it (bolas sapphire, bola pearl). Faction names like Beer Balls stay as they are.",
  "keep_as_is": [
   "A Husband Out of This World",
   "#HusbandOutWorld",
@@ -10,7 +10,6 @@
   "Feiourm",
   "A.G.",
   "B.G.",
-  "balls",
   "timehunk",
   "Pearl",
   "Amethyst",
@@ -51,7 +50,8 @@
   "FAQ": "Perguntas frequentes",
   "World Timeline": "Linha do Tempo do Mundo",
   "Harry's Journey": "A Jornada de Harry",
-  "Dates": "994 A.G. Adrian 6th -> 994 A.G. Adrian 6 (month names and A.G./B.G. unchanged; no ordinal suffix)"
+  "Dates": "994 A.G. Adrian 6th -> 994 A.G. Adrian 6 (month names and A.G./B.G. unchanged; no ordinal suffix)",
+  "balls (currency)": "bolas (sing. bola)"
  },
  "names": {
   "Harry": "Harry",
