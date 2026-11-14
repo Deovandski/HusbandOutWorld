@@ -945,9 +945,10 @@ class Builder:
                          f'<h2 class="vol-title"><a href="{vurl}">{esc(v["title"])}</a></h2>'
                          + (self.r.render(info['blurb'], base=PUB) if info.get('blurb') else '')
                          + f'<p class="vol-meta">{nch} chapters' + (f' · {esc(info["size"])}' if info.get('size') else '') + '</p>'
+                         + '</div>'  # the actions are the card's own second row, under the cover and the text
                          + f'<div class="vol-actions{" action-panel" if info.get("stores") else ""}"><a class="btn primary" href="{vurl}">Read {esc(v["title"].split(" - ")[0])}</a>'
                          + (store_links_html(info['stores']) if info.get('stores') else '')
-                         + '</div></div></article>')
+                         + '</div></article>')
             mdi.append(f'### [{v["title"]}]({vurl}index.md)\n\n{info.get("blurb", "")}\n\n{nch} chapters' + (f', {info["size"]}' if info.get('size') else ''))
         for u in CFG.get('upcoming_volumes', []):
             # announced but not written yet: no link (the status is the author's own line from the blog)
@@ -960,7 +961,8 @@ class Builder:
                          f'<span class="wip-badge">Work in progress</span><h2 class="vol-title"><a href="{uurl}">{esc(u["title"])}</a></h2>'
                          + (self.r.render(info['blurb'], base=PUB) if info.get('blurb') else '')
                          + f'<p class="vol-meta">{sum(1 for c in u.get("chapters", []) if c.lower().startswith("chapter")) or "?"} chapters planned · {esc(u["status"])}</p>'
-                         + f'<div class="vol-actions"><a class="btn" href="{uurl}">See {esc(u["title"].split(" - ")[0])}</a></div></div></article>')
+                         + '</div>'
+                         + f'<div class="vol-actions"><a class="btn" href="{uurl}">See {esc(u["title"].split(" - ")[0])}</a></div></article>')
             mdi.append(f'### {u["title"]} (work in progress: {u["status"]})\n\n{info.get("blurb", "")}')
         parts.append('</div>')
         idx.toc_extra_md = '\n\n' + '\n\n'.join(mdi)
