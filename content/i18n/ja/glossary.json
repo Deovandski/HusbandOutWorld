@@ -1,0 +1,45 @@
+{
+ "_about": "How names and recurring terms are written in this language. Every translation follows this file, so a name is always spelled the same way. Names are written by sound, never translated (the author's rule). The spellings here are first versions based on the written names: the author's own pronunciation is recorded in Legacy/Behind The Scenes/World Lore/Word Pronunciation/Unique Words Pronounciation.wav, so correct any spelling here and later translations will follow it. Add new names the first time they are translated.",
+ "rule": "Story names in katakana, by sound.",
+ "keep_as_is": [
+  "A Husband Out of This World",
+  "#HusbandOutWorld",
+  "Deovandski",
+  "Deovandski Skibinski Junior",
+  "Mitsukiven",
+  "Feiourm"
+ ],
+ "terms": {
+  "Public": "公開",
+  "Behind The Scenes": "舞台裏",
+  "World Lore": "世界観",
+  "Vraki script": "ヴラキ文字"
+ },
+ "names": {
+  "Harry": "ハリー",
+  "Maiara": "マイアラ",
+  "Eori": "エオリ",
+  "Eiri": "エイリ",
+  "Gabiro": "ガビロ",
+  "Kibe": "キベ",
+  "Arukia": "アルキア",
+  "Neferteri": "ネフェルテリ",
+  "Itagiba": "イタジバ",
+  "Huneo": "フネオ",
+  "Coema": "コエマ",
+  "Dalila": "ダリラ",
+  "Sanbi": "サンビ",
+  "Forway": "フォーウェイ",
+  "Tolerideme": "トレリデメ",
+  "Gandew": "ガンデュー",
+  "Freeish": "フリーイッシュ",
+  "Vraki": "ヴラキ",
+  "Finaies": "フィナイエス",
+  "Buhraies": "ブライエス",
+  "Darfaries": "ダルファリエス",
+  "Wozefaries": "ウォゼファリエス",
+  "Ganyrami": "ガニラミ",
+  "Soreno": "ソレノ",
+  "Nari": "ナリ"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "_about": "How names and recurring terms are written in this language. Every translation follows this file, so a name is always spelled the same way. Names are written by sound, never translated (the author's rule). The spellings here are first versions based on the written names: the author's own pronunciation is recorded in Legacy/Behind The Scenes/World Lore/Word Pronunciation/Unique Words Pronounciation.wav, so correct any spelling here and later translations will follow it. Add new names the first time they are translated.",
+ "rule": "Story names in Hangul, by sound.",
+ "keep_as_is": [
+  "A Husband Out of This World",
+  "#HusbandOutWorld",
+  "Deovandski",
+  "Deovandski Skibinski Junior",
+  "Mitsukiven",
+  "Feiourm"
+ ],
+ "terms": {
+  "Public": "공개",
+  "Behind The Scenes": "비하인드",
+  "World Lore": "세계관",
+  "Vraki script": "브라키 문자"
+ },
+ "names": {
+  "Harry": "해리",
+  "Maiara": "마이아라",
+  "Eori": "에오리",
+  "Eiri": "에이리",
+  "Gabiro": "가비로",
+  "Kibe": "키베",
+  "Arukia": "아루키아",
+  "Neferteri": "네페르테리",
+  "Itagiba": "이타지바",
+  "Huneo": "후네오",
+  "Coema": "코에마",
+  "Dalila": "달릴라",
+  "Sanbi": "산비",
+  "Forway": "포웨이",
+  "Tolerideme": "톨레리데메",
+  "Gandew": "간듀",
+  "Freeish": "프리이시",
+  "Vraki": "브라키",
+  "Finaies": "피나이에스",
+  "Buhraies": "부라이에스",
+  "Darfaries": "다르파리에스",
+  "Wozefaries": "워제파리에스",
+  "Ganyrami": "가니라미",
+  "Soreno": "소레노",
+  "Nari": "나리"
+ }
+}
