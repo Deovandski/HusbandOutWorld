@@ -569,7 +569,8 @@
   },
   "redirects": {
     "/about/light-novel-series/": "/novel/",
-    "/about/final-blog-post/": "/blog/"
+    "/about/final-blog-post/": "/blog/",
+    "/about/": "/#about"
   },
   "novel_chronology": "story-chronology.md",
   "gallery_exclude": [

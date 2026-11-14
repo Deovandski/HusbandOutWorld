@@ -309,7 +309,7 @@ figure.art.wide img { width: 100%; height: auto; background: #fff; border-radius
 .buy-group { display: inline-flex; flex-wrap: wrap; justify-content: center; gap: .4rem; padding: .5rem .6rem .6rem; border: 1px solid var(--line); border-radius: 14px; background: var(--bg2); }
 .buy-label { flex-basis: 100%; text-align: center; font: 700 .72em var(--sans); letter-spacing: .06em; text-transform: uppercase; color: var(--tan); margin: 0 0 .1rem; }
 .btn.store { flex: 1; text-align: center; padding: .45em 1.1em; white-space: nowrap; }
-.vol-actions { align-items: flex-end; }
+.vol-actions { align-items: center; }  /* the Read button sits level with the middle of the eBook box */
 .vol-row.upcoming { border-style: dashed; }
 .vol-row.upcoming .wip-badge { margin-bottom: .5rem; display: inline-block; }
 @media (max-width: 40rem) {
@@ -351,3 +351,12 @@ figure.blog-inline img { width: 100%; height: auto; border-radius: 14px; box-sha
 .photo-grid img { width: 100%; height: auto; aspect-ratio: 1; object-fit: cover; border-radius: 0; transition: filter .15s; }
 .photo-grid a:hover img { filter: brightness(1.1); }
 @media (max-width: 35rem) { .photo-grid { grid-template-columns: 1fr 1fr; } }
+/* homepage: the About links */
+.home-about { margin: 2.2rem 0 1rem; }
+.home-about h2 { margin: 0 0 .8rem; }
+.home-links { display: grid; grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr)); gap: .7rem 1rem; }
+.home-link { display: flex; flex-direction: column; gap: .15rem; padding: .7rem .9rem; border: 1px solid var(--line); border-radius: var(--radius); text-decoration: none; color: var(--ink); transition: border-color .15s; }
+.home-link:hover { border-color: var(--accent); color: var(--ink); }
+.home-link strong { font: 700 .95em var(--sans); color: var(--ink); }
+.home-link span { font-size: .85em; color: var(--ink2); }
+.home-link.ext strong::after { content: "\00a0↗"; color: var(--ink2); font-weight: 400; }
