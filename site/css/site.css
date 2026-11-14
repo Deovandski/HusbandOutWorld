@@ -339,6 +339,8 @@ figure.art.vol-wip-cover img { width: 100%; height: auto; aspect-ratio: 2/3; obj
 .chapter-list.locked + p, .chapter-list.locked { clear: both; }
 @media (max-width: 40rem) { figure.art.vol-wip-cover { float: none; width: 60%; margin: 0 auto 1rem; } }
 /* Blog photos: a square grid, like the Cat Dad tab on deovandski.github.io */
+figure.blog-inline { margin: 1.2rem auto 1.6rem; max-width: 26rem; text-align: center; }
+figure.blog-inline img { width: 100%; height: auto; border-radius: 14px; box-shadow: 0 8px 24px rgba(0, 0, 0, .35); }
 .photo-grid { list-style: none; margin: 1.6rem 0 1rem; padding: 0 !important; display: grid; grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr)); gap: 1rem .75rem; }
 /* each photo and its caption share one card; subgrid lines captions and photos up across a row, even when a caption wraps */
 .photo-grid > li { margin: 0; display: grid; grid-row: span 2; grid-template-rows: subgrid; gap: .45rem; padding: .55rem .55rem .6rem;

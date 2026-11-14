@@ -65,6 +65,11 @@
       "find": "As of this post, all internal docs are public, except Vol 4, which we're actively working on.\n\nhttps://github.com/Deovandski/HusbandOutWorld/tree/main",
       "replace": "As of this post, all internal docs are public in the website's Behind The Scenes mode, except Vol 4, which we're actively working on.\n\n[Turn on Behind The Scenes mode](/lore/?mode=bts)",
       "why": "The internal docs now live in the website's Behind The Scenes mode rather than only as files on GitHub (requested by the author, issue #31)."
+    },
+    {
+      "find": "1,500 feet up in the air…. Hella good times!\n\n",
+      "replace": "1,500 feet up in the air…. Hella good times!\n\n![](images/skydive.jpg)\n\n",
+      "why": "The author's skydiving photo, shown centered under the sentence about it (requested by the author, issue #33)."
     }
   ]
 }
