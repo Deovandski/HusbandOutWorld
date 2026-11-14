@@ -1,0 +1,45 @@
+{
+ "_about": "How names and recurring terms are written in this language. Every translation follows this file, so a name is always spelled the same way. Names are written by sound, never translated (the author's rule). The spellings here are first versions based on the written names: the author's own pronunciation is recorded in Legacy/Behind The Scenes/World Lore/Word Pronunciation/Unique Words Pronounciation.wav, so correct any spelling here and later translations will follow it. Add new names the first time they are translated.",
+ "rule": "Story names in Chinese characters chosen for sound (standard transliteration characters; feminine characters such as 丽/娅/莉 for women).",
+ "keep_as_is": [
+  "A Husband Out of This World",
+  "#HusbandOutWorld",
+  "Deovandski",
+  "Deovandski Skibinski Junior",
+  "Mitsukiven",
+  "Feiourm"
+ ],
+ "terms": {
+  "Public": "公开",
+  "Behind The Scenes": "幕后",
+  "World Lore": "世界观",
+  "Vraki script": "弗拉基文字"
+ },
+ "names": {
+  "Harry": "哈利",
+  "Maiara": "迈阿拉",
+  "Eori": "埃奥丽",
+  "Eiri": "艾莉",
+  "Gabiro": "加比罗",
+  "Kibe": "基贝",
+  "Arukia": "阿露琪娅",
+  "Neferteri": "奈菲尔特丽",
+  "Itagiba": "伊塔吉巴",
+  "Huneo": "胡内奥",
+  "Coema": "科埃玛",
+  "Dalila": "达莉拉",
+  "Sanbi": "桑比",
+  "Forway": "福威",
+  "Tolerideme": "托勒里德梅",
+  "Gandew": "甘杜",
+  "Freeish": "弗里伊什",
+  "Vraki": "弗拉基",
+  "Finaies": "菲奈斯",
+  "Buhraies": "布莱斯",
+  "Darfaries": "达尔法里斯",
+  "Wozefaries": "沃泽法里斯",
+  "Ganyrami": "加尼拉米",
+  "Soreno": "索雷诺",
+  "Nari": "纳里"
+ }
+}

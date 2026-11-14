@@ -16,6 +16,9 @@ from urllib.parse import quote, unquote
 from markdown_it import MarkdownIt
 from PIL import Image
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import i18n  # the translations (tools/i18n.py)
+
 Image.MAX_IMAGE_PIXELS = None
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LEGACY = os.path.join(ROOT, 'Legacy')
@@ -1220,15 +1223,36 @@ class Builder:
     # ---- output
     def write(self):
         nav = nav_html()
+        # translations (tools/i18n.py): every page is also written once per language, from content/i18n/<lang>/
+        langs = [(l['code'], i18n.load_meta(l['code']), i18n.load_store(l['code'])) for l in i18n.languages(CFG)]
+        inv = {'pages': {}}
+        self.lang_ready = []  # (code, url) pairs translated enough to offer
         for p in self.pages:
             if p.url.endswith('.html'):
                 path = os.path.join(self.out, p.url.lstrip('/'))
             else:
                 path = os.path.join(self.out, p.url.lstrip('/'), 'index.html')
             os.makedirs(os.path.dirname(path), exist_ok=True)
-            open(path, 'w', encoding='utf-8').write(with_base(page_html(p, nav)))
+            en = page_html(p, nav)
+            if p.url.endswith('.html') or not langs:
+                open(path, 'w', encoding='utf-8').write(with_base(en))
+            else:
+                inv['pages'][p.url] = {'section': p.section, 'segments': i18n.inventory(en, p.url, p.section)}
+                cov, outs = {}, {}
+                for code, meta, store in langs:
+                    outs[code], cov[code] = i18n.translate_page(en, p.url, code, meta, store, CFG['base_url'])
+                open(path, 'w', encoding='utf-8').write(with_base(i18n.head_extras(en, p.url, cov, CFG['base_url'])))
+                for code, _, _ in langs:
+                    lp = os.path.join(self.out, code, p.url.lstrip('/'), 'index.html')
+                    os.makedirs(os.path.dirname(lp), exist_ok=True)
+                    open(lp, 'w', encoding='utf-8').write(with_base(i18n.head_extras(outs[code], p.url, cov, CFG['base_url'], this_code=code)))
+                    if cov[code] >= i18n.INDEX_COVERAGE:
+                        self.lang_ready.append((code, p.url))
             if not p.url.endswith('.html'):
                 open(os.path.join(os.path.dirname(path), 'index.md'), 'w', encoding='utf-8').write(page_md(p))
+        if langs:
+            os.makedirs(i18n.CACHE, exist_ok=True)
+            json.dump(inv, open(i18n.INVENTORY, 'w', encoding='utf-8'), ensure_ascii=False)
         # search index
         idx = [s for p in self.pages for s in p.search]
         os.makedirs(os.path.join(self.out, 'data'), exist_ok=True)
@@ -1246,7 +1270,7 @@ class Builder:
                   'section': p.section, 'spoilers': p.layer == 'bts', 'sources': p.sources} for p in self.pages if not p.url.endswith('.html')]
         json.dump(pages, open(os.path.join(self.out, 'data', 'pages.json'), 'w'), ensure_ascii=False, indent=1)
         write_llms(self.out, self.pages)
-        write_sitemap(self.out, self.pages)
+        write_sitemap(self.out, self.pages, getattr(self, 'lang_ready', []))
         open(os.path.join(self.out, 'robots.txt'), 'w').write(f'User-agent: *\nAllow: /\n\nSitemap: {CFG["base_url"]}/sitemap.xml\n')
         # static assets
         for sub in ('css', 'js', 'fonts'):
@@ -1259,7 +1283,9 @@ class Builder:
         if os.path.exists(lic):  # the Vraki typeface license asks for it to travel with the font
             shutil.copyfile(lic, os.path.join(self.out, 'fonts', 'VRAKI-FONT-LICENSE.md'))
         em = self.media.file(os.path.join(BTS, 'Illustrations', 'Emblems', 'Forway city emblem.png'))
-        for old, new in CFG.get('redirects', {}).items():
+        moved = list(CFG.get('redirects', {}).items())
+        moved += [(f'/{l["code"]}{o}', i18n.lang_url(n, l['code'])) for l in i18n.languages(CFG) for o, n in CFG.get('redirects', {}).items()]
+        for old, new in moved:
             # pages that moved: a tiny page that forwards old links (bookmarks, search results) to the new address
             path = os.path.join(self.out, old.lstrip('/'), 'index.html')
             os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -1295,7 +1321,7 @@ def glyph_grids(html_text, entry):
                 font = '' if label.lower() == 'space' or '(' in label else typed
                 g = re.sub(r'alt="[^"]*"', f'alt="{esc("Hand-drawn Vraki " + ("sign for " if not label.isalnum() else "") + label)}"', g)
                 tiles.append(f'<figure class="glyph">{g}<figcaption class="keep-latin"><span class="glyph-latin">{esc(label)}</span>'
-                             + (f'<span class="glyph-font" aria-hidden="true" title="{esc(typed)} in the Vraki typeface">{esc(font)}</span>' if font else '')
+                             + (f'<span class="glyph-font" aria-hidden="true" translate="no" title="{esc(typed)} in the Vraki typeface">{esc(font)}</span>' if font else '')
                              + '</figcaption></figure>')
         if not tiles:
             return m.group(0)
@@ -1306,7 +1332,7 @@ def scribe_html():
     """A live 'write it in Vraki' box. Vraki is written letter for letter with English, so the typeface does the work."""
     return ('<div class="scribe keep-latin"><label for="scribe-in">Type anything in English to see it written in the Vraki typeface, letter for letter:</label>'
             '<input id="scribe-in" type="text" value="Be Awesome! Do Better!" maxlength="80" autocomplete="off" spellcheck="false">'
-            '<div class="scribe-out" id="scribe-out" aria-live="polite">Be Awesome! Do Better!</div>'
+            '<div class="scribe-out" id="scribe-out" aria-live="polite" translate="no">Be Awesome! Do Better!</div>'
             '<p class="muted">The tiles below are the author\'s hand-drawn originals. The blue symbol next to each letter is the same letter in the finished Vraki typeface.</p></div>')
 
 def one_paragraph_per_line(lines):
@@ -1391,6 +1417,14 @@ NAV = [('Novel', '/novel/'), ('Webcomic', '/webcomic/'), ('World Lore', '/lore/'
 def nav_html():
     return ''.join(f'<a href="{u}">{t}</a>' for t, u in NAV)
 
+def lang_options():
+    """The Language choices, each written in its own language (never translated)."""
+    opts = ['<option value="en" lang="en" translate="no">English</option>']
+    for l in i18n.languages(CFG):
+        m = i18n.load_meta(l['code'])
+        opts.append(f'<option value="{l["code"]}" lang="{m.get("html_lang", l["code"])}" translate="no">{esc(m.get("name", l["code"]))}</option>')
+    return ''.join(opts)
+
 def page_html(p, nav):
     title = p.title if p.url == '/' else f'{p.title} · {CFG["short_title"]}'
     toc = ''
@@ -1406,11 +1440,11 @@ def page_html(p, nav):
                 (f'<a class="next" href="{p.next.url}">{esc(p.next.title.split(" · ")[0])} →</a>' if p.next else '<span></span>') + '</nav>'
     head_title = ''
     if p.section == 'World Lore' and p.url != '/lore/':
-        head_title = f'<header class="page-head"><p class="vraki-overline" aria-hidden="true">{esc(p.title)}</p><h1>{esc(p.title)}</h1></header>'
+        head_title = f'<header class="page-head"><p class="vraki-overline" aria-hidden="true" translate="no">{esc(p.title)}</p><h1>{esc(p.title)}</h1></header>'
     jsonld = f'<script type="application/ld+json">{json.dumps(p.jsonld, ensure_ascii=False)}</script>' if p.jsonld else ''
     srcs = ''
     if p.sources:
-        srcs = '<p class="page-sources">Built from: ' + ', '.join(f'<a href="{GH_BLOB}{quote(s)}">{esc(s)}</a>' for s in p.sources) + '</p>'
+        srcs = '<p class="page-sources"><span>Built from:</span> ' + ', '.join(f'<a href="{GH_BLOB}{quote(s)}" translate="no">{esc(s)}</a>' for s in p.sources) + '</p>'
     md_link = '' if p.url.endswith('.html') else f'<link rel="alternate" type="text/markdown" href="{p.url}index.md">'
     return f'''<!doctype html>
 <html lang="en" data-mode="public" data-theme="dark" data-base="{BASE}"{' data-layout="' + p.layout + '"' if getattr(p, 'layout', '') else ''}>
@@ -1425,7 +1459,8 @@ def page_html(p, nav):
 <link rel="canonical" href="{CFG['base_url']}{p.url}">
 {md_link}
 <link rel="icon" href="/media/favicon.png">
-<script>try{{var s=JSON.parse(localStorage.getItem('hoow')||'{{}}');var d=document.documentElement;if(s.mode)d.dataset.mode=s.mode;if(s.theme)d.dataset.theme=s.theme;if(s.vraki)d.classList.add('vraki');if(s.size)d.style.setProperty('--fs',s.size+'px')}}catch(e){{}}</script>
+<script>try{{var s=JSON.parse(localStorage.getItem('hoow')||'{{}}');var d=document.documentElement;if(s.mode)d.dataset.mode=s.mode;if(s.theme)d.dataset.theme=s.theme;if(s.vraki&&!d.dataset.lang)d.classList.add('vraki');if(s.size)d.style.setProperty('--fs',s.size+'px');
+if(!d.dataset.lang){{var ok=(d.dataset.langs||'').split(' '),w=s.lang,n=navigator.languages||[navigator.language||''];for(var i=0;i<n.length&&!w;i++){{var c=String(n[i]).toLowerCase().split('-')[0];if(c==='en'||ok.indexOf(c)>=0)w=c}}if(w&&w!=='en'&&ok.indexOf(w)>=0){{var b=d.dataset.base||'';location.replace(b+'/'+w+location.pathname.slice(b.length)+location.search+location.hash)}}}}}}catch(e){{}}</script>
 <link rel="stylesheet" href="{asset('/css/site.css')}">
 {''.join(f'<link rel="stylesheet" href="{asset(c)}">' for c in getattr(p, 'extra_css', []))}
 {jsonld}
@@ -1433,7 +1468,7 @@ def page_html(p, nav):
 <body>
 <a class="skip" href="#main">Skip to content</a>
 <header class="topbar keep-latin">
-  <a class="brand" href="/"><img class="brand-mark" src="/media/forway-emblem.png" alt="" width="30" height="30"><span class="brand-text">#HusbandOutWorld</span></a>
+  <a class="brand" href="/"><img class="brand-mark" src="/media/forway-emblem.png" alt="" width="30" height="30"><span class="brand-text" translate="no">#HusbandOutWorld</span></a>
   <nav class="mainnav">{nav}</nav>
   <div class="controls">
     <form class="searchbox" action="/search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the site"></form>
@@ -1441,7 +1476,7 @@ def page_html(p, nav):
     <button class="mode-switch" type="button" role="switch" aria-checked="false" title="Switch between Public and Behind The Scenes">
       <span class="mode-public">Public</span><span class="knob" aria-hidden="true"></span><span class="mode-bts">Behind The Scenes</span>
     </button>
-    <button class="settings-btn" type="button" aria-haspopup="dialog" aria-label="Reading settings">Aa</button>
+    <button class="settings-btn" type="button" aria-haspopup="dialog" aria-label="Settings" title="Settings"><svg viewBox="0 0 24 24" width="19" height="19" aria-hidden="true"><path fill="currentColor" d="M19.4 13a7.6 7.6 0 0 0 0-2l2.1-1.6a.5.5 0 0 0 .1-.6l-2-3.5a.5.5 0 0 0-.6-.2l-2.5 1a7.5 7.5 0 0 0-1.7-1l-.4-2.6a.5.5 0 0 0-.5-.5h-4a.5.5 0 0 0-.5.4l-.4 2.7c-.6.2-1.2.6-1.7 1l-2.5-1a.5.5 0 0 0-.6.2l-2 3.5a.5.5 0 0 0 .1.6L4.6 11a7.6 7.6 0 0 0 0 2l-2.1 1.6a.5.5 0 0 0-.1.6l2 3.5c.1.2.4.3.6.2l2.5-1c.5.4 1.1.8 1.7 1l.4 2.6c0 .3.2.5.5.5h4c.3 0 .5-.2.5-.4l.4-2.7c.6-.2 1.2-.6 1.7-1l2.5 1c.2.1.5 0 .6-.2l2-3.5a.5.5 0 0 0-.1-.6L19.4 13ZM12 15.5a3.5 3.5 0 1 1 0-7 3.5 3.5 0 0 1 0 7Z"/></svg></button>
   </div>
 </header>
 <div class="mode-banner layer bts keep-latin">Behind The Scenes is on: pages include the author's full notes and spoilers.</div>
@@ -1458,7 +1493,7 @@ def page_html(p, nav):
   <p>© {CFG['author']}. Art by {' and '.join(CFG['artists'])}. <em>A Husband Out of This World</em> and #HusbandOutWorld are trademarks of {CFG['author']}. Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
   Vraki typeface © 2024 Deovandski Skibinski Junior, https://husbandoutworld.com/ (<a href="/fonts/VRAKI-FONT-LICENSE.md">font license</a>).</p>
   <p>Monetized videos and posts about the series are welcome; other commercial use needs approval: <a href="https://www.linkedin.com/in/deovandski/">LinkedIn</a> or <a href="mailto:Deovandski@outlook.com">Deovandski@outlook.com</a>. <a href="{CFG['repo_url']}/blob/main/LICENSE.md#permissions-beyond-the-license">Permissions</a></p>
-  <p>This site was built with AI assistance from the author's originals. <a href="/about/ai-disclosure/">AI disclosure</a> · <a href="{CFG['repo_url']}">GitHub</a> · <a href="/llms.txt">llms.txt</a> · <a href="{p.url if not p.url.endswith('.html') else '/'}index.md">This page as Markdown</a></p>
+  <p><span>This site was built with AI assistance from the author's originals.</span> <a href="/about/ai-disclosure/">AI disclosure</a> · <a href="{CFG['repo_url']}">GitHub</a> · <a href="/llms.txt">llms.txt</a> · <a href="{p.url if not p.url.endswith('.html') else '/'}index.md">This page as Markdown</a></p>
 </footer>
 <dialog id="spoiler-dialog" class="keep-latin">
   <form method="dialog">
@@ -1469,10 +1504,11 @@ def page_html(p, nav):
 </dialog>
 <dialog id="settings-dialog" class="keep-latin">
   <form method="dialog">
-    <h2>Reading settings</h2>
+    <h2>Settings</h2>
+    <label class="setting"><span>Language</span><select data-setting="lang">{lang_options()}</select></label>
     <label class="setting"><span>Theme</span><select data-setting="theme"><option value="dark">Dark</option><option value="light">Light</option></select></label>
     <label class="setting"><span>Text size</span><input data-setting="size" type="range" min="14" max="26" step="1" value="18"></label>
-    <label class="setting"><span>Vraki mode <small>(read everything in the Vraki script)</small></span><input data-setting="vraki" type="checkbox"></label>
+    <label class="setting"><span>Vraki mode <small>(read everything in the Vraki script)</small> <small class="vraki-note">Vraki mode works with the English text only.</small></span><input data-setting="vraki" type="checkbox"></label>
     <div class="dialog-actions"><button class="btn primary" value="close">Done</button></div>
   </form>
 </dialog>
@@ -1539,8 +1575,9 @@ def write_llms(out, pages):
     open(os.path.join(out, 'llms-full.txt'), 'w', encoding='utf-8').write(head + '(Public layer only.)\n' + clean(''.join(pub)))
     open(os.path.join(out, 'llms-full-bts.txt'), 'w', encoding='utf-8').write(head + '(Public and Behind The Scenes layers. Contains spoilers.)\n' + clean(''.join(full)))
 
-def write_sitemap(out, pages):
+def write_sitemap(out, pages, lang_ready=()):
     urls = ''.join(f'<url><loc>{CFG["base_url"]}{p.url}</loc></url>' for p in pages if not p.url.endswith('.html'))
+    urls += ''.join(f'<url><loc>{CFG["base_url"]}/{code}{url}</loc></url>' for code, url in lang_ready)
     open(os.path.join(out, 'sitemap.xml'), 'w').write(f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>')
 
 # --------------------------------------------------------------------------- main
