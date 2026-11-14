@@ -25,9 +25,9 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
@@ -37,7 +37,7 @@ jobs:
           sudo apt-get install -y --no-install-recommends ffmpeg || true
 
       # Web-sized images take a while to make, so keep them between runs.
-      - uses: actions/cache@v4
+      - uses: actions/cache@v6
         with:
           path: .media-cache
           key: media-${{ github.run_id }}
@@ -46,7 +46,7 @@ jobs:
       # Tells the build where the site lives: /HusbandOutWorld on github.io,
       # or the root once a custom domain is set in Settings > Pages.
       - id: pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Build the site
         run: >
@@ -54,9 +54,14 @@ jobs:
           --base-path "${{ steps.pages.outputs.base_path }}"
           --site-url "${{ steps.pages.outputs.base_url }}"
 
-      - uses: actions/upload-pages-artifact@v3
+      # Each attempt uploads its own package, so "Re-run" never finds two with the same name.
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: _site
+          name: github-pages-${{ github.run_attempt }}
+          include-hidden-files: true  # keep .nojekyll, as before
 
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
+        with:
+          artifact_name: github-pages-${{ github.run_attempt }}
