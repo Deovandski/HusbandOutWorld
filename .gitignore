@@ -27,3 +27,4 @@ __pycache__/
 # Node tooling
 node_modules/
 package-lock.json
+.i18n-cache/

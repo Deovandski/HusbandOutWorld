@@ -1,0 +1,45 @@
+{
+ "_about": "How names and recurring terms are written in this language. Every translation follows this file, so a name is always spelled the same way. Names are written by sound, never translated (the author's rule). The spellings here are first versions based on the written names: the author's own pronunciation is recorded in Legacy/Behind The Scenes/World Lore/Word Pronunciation/Unique Words Pronounciation.wav, so correct any spelling here and later translations will follow it. Add new names the first time they are translated.",
+ "rule": "Story names in Arabic letters, by sound (ف for v, غ for hard g).",
+ "keep_as_is": [
+  "A Husband Out of This World",
+  "#HusbandOutWorld",
+  "Deovandski",
+  "Deovandski Skibinski Junior",
+  "Mitsukiven",
+  "Feiourm"
+ ],
+ "terms": {
+  "Public": "عام",
+  "Behind The Scenes": "خلف الكواليس",
+  "World Lore": "عالم القصة",
+  "Vraki script": "خط فراكي"
+ },
+ "names": {
+  "Harry": "هاري",
+  "Maiara": "مايارا",
+  "Eori": "إيوري",
+  "Eiri": "إيري",
+  "Gabiro": "غابيرو",
+  "Kibe": "كيبي",
+  "Arukia": "أروكيا",
+  "Neferteri": "نفرتيري",
+  "Itagiba": "إيتاجيبا",
+  "Huneo": "هونيو",
+  "Coema": "كويما",
+  "Dalila": "داليلا",
+  "Sanbi": "سانبي",
+  "Forway": "فورواي",
+  "Tolerideme": "توليريديمي",
+  "Gandew": "غانديو",
+  "Freeish": "فريئيش",
+  "Vraki": "فراكي",
+  "Finaies": "فينايس",
+  "Buhraies": "بورايس",
+  "Darfaries": "دارفاريس",
+  "Wozefaries": "ووزيفاريس",
+  "Ganyrami": "غانيرامي",
+  "Soreno": "سورينو",
+  "Nari": "ناري"
+ }
+}

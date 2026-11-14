@@ -567,6 +567,14 @@
       "images/skydive.jpg"
     ]
   },
+  "languages": [
+    {"code": "zh"},
+    {"code": "ja"},
+    {"code": "pt"},
+    {"code": "es"},
+    {"code": "ar"},
+    {"code": "ko"}
+  ],
   "redirects": {
     "/about/light-novel-series/": "/novel/",
     "/about/final-blog-post/": "/blog/",
