@@ -254,6 +254,7 @@ dialog h2 { margin-top: 0; font-family: var(--serif); }
 .setting { display: flex; justify-content: space-between; align-items: center; gap: 1rem; padding: .6rem 0; border-bottom: 1px solid var(--line); }
 .setting small { display: block; color: var(--ink2); font-weight: 400; }
 .setting select, .setting input[type=range] { font: inherit; }
+.setting-link { margin: 0; padding: .4rem 0 .6rem; border-bottom: 1px solid var(--line); font-size: .9em; text-align: right; }
 .lightbox { position: fixed; inset: 0; z-index: 50; background: rgba(5, 8, 9, .92); display: flex; align-items: center; justify-content: center; padding: 2rem; }
 .lightbox[hidden] { display: none; }
 .lb-fig { margin: 0; display: flex; flex-direction: column; align-items: center; gap: .7rem; }
