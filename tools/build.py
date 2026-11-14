@@ -1020,14 +1020,7 @@ class Builder:
             p.desc = 'Which parts of this website are human work, which parts an AI wrote, and how they fit together.'
             self.add(p)
             links.append(('AI Disclosure', '/about/ai-disclosure/'))
-        idx = Page('/about/', 'About the Series', 'About')
-        idx.html = ('<h1>About the Series</h1><ul class="link-list">' + ''.join(f'<li><a href="{u}">{esc(t)}</a></li>' for t, u in links) +
-                    f'<li><a href="{CFG["dnd_url"]}">D&amp;D West March Campaign</a></li>'
-                    f'<li><a href="{CFG["vraki_url"]}">Vraki Language app</a></li>'
-                    f'<li><a href="{CFG["repo_url"]}">GitHub repository</a></li></ul>')
-        idx.md_public = '# About the Series\n\n' + '\n'.join(f'- [{t}]({u}index.md)' for t, u in links)
-        idx.desc = 'About the #HusbandOutWorld series: FAQ, afterwords, the AI disclosure and more.'
-        self.add(idx)
+        # no About index page any more: its links are on the homepage ("About the series"); /about/ redirects there
 
     # ---- lore index
     def build_lore_index(self, topic_pages):
@@ -1171,6 +1164,17 @@ class Builder:
   <a class="home-card" href="/glossary/"><h2>Glossary</h2><p>Every name A to Z, with the author's pronunciation.</p></a>
   <a class="home-card" href="/blog/"><h2>Blog</h2><p>The final blog post, and photos from seven years of making the series.</p></a>
 </section>
+<section class="home-about" id="about">
+  <h2>About the series</h2>
+  <div class="home-links">
+    <a class="home-link" href="/about/faq/"><strong>FAQ</strong><span>Readers' questions, answered by the author.</span></a>
+    <a class="home-link" href="/about/afterwords/"><strong>Afterwords</strong><span>The author's notes at the end of each volume.</span></a>
+    <a class="home-link" href="/about/ai-disclosure/"><strong>AI Disclosure</strong><span>What a human made, what an AI made, and how they fit.</span></a>
+    <a class="home-link ext" href="{CFG["dnd_url"]}" rel="noopener"><strong>D&amp;D West March Campaign</strong><span>A West Marches D&amp;D 5e campaign set in the world of #HusbandOutWorld.</span></a>
+    <a class="home-link ext" href="{CFG["vraki_url"]}" rel="noopener"><strong>Vraki Language app</strong><span>The 2017 Windows app the Vraki writing grew from.</span></a>
+    <a class="home-link ext" href="{CFG["repo_url"]}" rel="noopener"><strong>GitHub repository</strong><span>Every original: manuscripts, notes, art and spreadsheets.</span></a>
+  </div>
+</section>
 <section class="modes-explainer">
   <img src="{emblem['thumb']}" alt="Forway city emblem" width="160" height="160">
   <div>
@@ -1184,7 +1188,11 @@ class Builder:
         p.md_public = (f'# {CFG["title"]}\n\n{blurb}\n\n'
                        '- [Novel](/novel/index.md)\n' + ('- [Webcomic](/webcomic/index.md)\n' if webcomic_card else '')
                        + '- [World Lore](/lore/index.md)\n- [Gallery](/gallery/index.md)\n'
-                       '- [Glossary](/glossary/index.md)\n- [Blog](/blog/index.md)\n- [About](/about/index.md)\n')
+                       '- [Glossary](/glossary/index.md)\n- [Blog](/blog/index.md)\n'
+                       '\n## About the series\n\n- [FAQ](/about/faq/index.md)\n- [Afterwords](/about/afterwords/index.md)\n'
+                       '- [AI Disclosure](/about/ai-disclosure/index.md)\n'
+                       f'- [D&D West March Campaign]({CFG["dnd_url"]})\n- [Vraki Language app]({CFG["vraki_url"]})\n'
+                       f'- [GitHub repository]({CFG["repo_url"]})\n')
         p.desc = blurb[:160]
         p.jsonld = {'@context': 'https://schema.org', '@type': 'BookSeries', 'name': CFG['title'],
                     'alternateName': CFG['short_title'], 'author': {'@type': 'Person', 'name': CFG['author']},
@@ -1376,7 +1384,7 @@ def bts_gate(why):
 
 # --------------------------------------------------------------------------- templates
 
-NAV = [('Novel', '/novel/'), ('Webcomic', '/webcomic/'), ('World Lore', '/lore/'), ('Gallery', '/gallery/'), ('Glossary', '/glossary/'), ('Blog', '/blog/'), ('About', '/about/')]
+NAV = [('Novel', '/novel/'), ('Webcomic', '/webcomic/'), ('World Lore', '/lore/'), ('Gallery', '/gallery/'), ('Glossary', '/glossary/'), ('Blog', '/blog/')]
 
 def nav_html():
     return ''.join(f'<a href="{u}">{t}</a>' for t, u in NAV)
