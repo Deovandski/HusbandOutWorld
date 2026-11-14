@@ -1,6 +1,6 @@
 {
  "_about": "How names and recurring terms are written in this language. Every translation follows this file, so a name is always spelled the same way. Names are written by sound, never translated (the author's rule). The spellings here are first versions based on the written names: the author's own pronunciation is recorded in Legacy/Behind The Scenes/World Lore/Word Pronunciation/Unique Words Pronounciation.wav, so correct any spelling here and later translations will follow it. Add new names the first time they are translated.",
- "rule": "Story names in Chinese characters chosen for sound (standard transliteration characters; feminine characters such as 丽/娅/莉 for women). This covers coined world terms too: creatures, plants, items, nari gels, spells, factions, guilds, places, ranks and coins (Wood People = 伍德皮普尔, Sapphire = 萨菲尔, Bleed Out = 布利德奥特). Multi-part personal names join with ·; one-word compound terms are written together. Japanese-origin names (Hiromi, Takeo, Yosuke…) use their usual kanji. Plain words are translated (Soul Tree = 索尔树, Nari Stones = 纳里石). The currency word balls and the unit timehunk stay in Latin letters, so the puns on balls still read. Real people (Deovandski, Mitsukiven, Feiourm), the title and pets named in the afterwords (Peeta, Fluffy, Maddog) stay in Latin letters.",
+ "rule": "Story names in Chinese characters chosen for sound (standard transliteration characters; feminine characters such as 丽/娅/莉 for women). This covers coined world terms too: creatures, plants, items, nari gels, spells, factions, guilds, places, ranks and coins (Wood People = 伍德皮普尔, Sapphire = 萨菲尔, Bleed Out = 布利德奥特). Multi-part personal names join with ·; one-word compound terms are written together. Japanese-origin names (Hiromi, Takeo, Yosuke…) use their usual kanji. Plain words are translated (Soul Tree = 索尔树, Nari Stones = 纳里石). The currency balls is 球 (萨菲尔球, 珀尔球), matching Japanese ボール; the unit timehunk stays in Latin letters. Real people (Deovandski, Mitsukiven, Feiourm), the title and pets named in the afterwords (Peeta, Fluffy, Maddog) stay in Latin letters.",
  "keep_as_is": [
   "A Husband Out of This World",
   "#HusbandOutWorld",
@@ -10,7 +10,6 @@
   "Feiourm",
   "A.G.",
   "B.G.",
-  "balls",
   "timehunk",
   "Peeta",
   "Fluffy",
@@ -61,7 +60,8 @@
   "The Prosperity Treaty": "《繁荣条约》",
   "Sigil Rings": "西吉尔环",
   "Dates": "994 A.G. Adrian 6th -> 994 A.G. 阿德里安 6日 (A.G./B.G. kept); real-world dates as 2026 年 6 月 16 日",
-  "Voice": "Lore and the afterwords in a casual, vivid voice (我 for Deo, profanity kept); site and About text formal"
+  "Voice": "Lore and the afterwords in a casual, vivid voice (我 for Deo, profanity kept); site and About text formal",
+  "balls (currency)": "球"
  },
  "names": {
   "Adi": "阿迪",
