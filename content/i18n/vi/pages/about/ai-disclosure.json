@@ -1,0 +1,274 @@
+{
+ "1014c3427fd9": {
+  "en": "The <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> workflow.",
+  "t": "Quy trình của <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a>."
+ },
+ "107d158b3254": {
+  "en": "The lore entries (human).",
+  "t": "Các mục thế giới quan (con người)."
+ },
+ "1dc04a0a44d8": {
+  "en": "The <a href=\"https://llmstxt.org/\" rel=\"noopener\">llms.txt proposal</a>, for the AI-readable index",
+  "t": "<a href=\"https://llmstxt.org/\" rel=\"noopener\">Đề xuất llms.txt</a>, cho chỉ mục AI đọc được"
+ },
+ "1fc1a617cc5f": {
+  "en": "<strong>A human decides.</strong> Deovandski directed the work, set the rules (originals stay untouched in Legacy, the website never invents lore), and chose what got committed. If something on the website contradicts Legacy, <strong>Legacy wins</strong>: please open an issue or send a PR.",
+  "t": "<strong>Con người quyết định.</strong> Deovandski chỉ đạo công việc, đặt ra các quy tắc (bản gốc giữ nguyên trong Legacy, trang web không bao giờ bịa ra thế giới quan), và chọn những gì được commit. Nếu điều gì trên trang web mâu thuẫn với Legacy, <strong>Legacy được ưu tiên</strong>: hãy mở một issue hoặc gửi PR."
+ },
+ "20b6d42dfaea": {
+  "en": "PRs are welcome, with or without AI help. If you used AI for a contribution, say so in the PR description and add a line to the table above.",
+  "t": "PR luôn được hoan nghênh, dù có hay không có sự trợ giúp của AI. Nếu bạn dùng AI cho một đóng góp, hãy nói rõ trong phần mô tả PR và thêm một dòng vào bảng ở trên."
+ },
+ "23eebfe076f3": {
+  "en": "<strong>Shortened and paraphrased</strong> them into one-paragraph public summaries, because the blog never had pages for these topics. No new facts. Each summary is labeled on the website as AI-written.",
+  "t": "<strong>Rút gọn và diễn đạt lại</strong> chúng thành các bản tóm tắt công khai một đoạn, vì blog chưa từng có trang cho các chủ đề này. Không có sự kiện mới. Mỗi bản tóm tắt đều được ghi trên trang web là do AI viết."
+ },
+ "29dccf7e2d63": {
+  "en": "AI-DISCLOSURE.md",
+  "t": "AI-DISCLOSURE.md"
+ },
+ "2adae58a0927": {
+  "en": "Every illustration on the website has a short text description (alt text) so people who use screen readers can follow along, and so search engines and AI tools can understand the pictures. Writing it means describing the art in new words, which goes beyond the \"never write anything new\" rule this project follows everywhere else. <strong>Deovandski allowed this exception for the sake of accessibility.</strong> The descriptions are in <a href=\"content/alt-text.json\">content/alt-text.json</a> and say only what is visible in each picture. They add no lore, and if one is wrong, the picture wins.",
+  "t": "Mỗi hình minh họa trên trang web đều có một đoạn mô tả ngắn (văn bản thay thế) để người dùng trình đọc màn hình có thể theo dõi, và để công cụ tìm kiếm và công cụ AI hiểu được hình ảnh. Viết chúng nghĩa là mô tả tranh bằng lời mới, vượt ra ngoài quy tắc “không bao giờ viết gì mới” mà dự án này tuân thủ ở mọi nơi khác. <strong>Deovandski cho phép ngoại lệ này vì khả năng tiếp cận.</strong> Các mô tả nằm trong <a href=\"content/alt-text.json\">content/alt-text.json</a> và chỉ nói những gì nhìn thấy trong mỗi bức tranh. Chúng không thêm thế giới quan, và nếu mô tả nào sai, bức tranh được ưu tiên."
+ },
+ "2d82a4b27a4b": {
+  "en": "Contributing",
+  "t": "Đóng góp"
+ },
+ "30fa617c63c2": {
+  "en": "The palette comes from the Forway city emblem, the headings' Vraki script from the Vraki font (human). Body font: TeX Gyre Schola (GUST Font License), the same as the <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> site.",
+  "t": "Bảng màu lấy từ huy hiệu thành phố Forway, chữ Vraki ở tiêu đề lấy từ phông chữ Vraki (con người). Phông chữ thân bài: TeX Gyre Schola (GUST Font License), giống như trang <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a>."
+ },
+ "3144d7dfc82e": {
+  "en": "Requests from Deovandski.",
+  "t": "Yêu cầu từ Deovandski."
+ },
+ "32029de7b0d1": {
+  "en": "<strong>AI system:</strong> Claude, a large language model by Anthropic, used as an assistant with access to the repo files and the Blogger export (November 2026).\n<strong>Human contribution:</strong> all source material (the novel, the story notes, the World Lore, the spreadsheets, the blog and the Vraki font, by Deovandski Skibinski Junior; all artwork, by Mitsukiven and Feiourm); the website concept (one site, a Public layer and a Behind The Scenes layer behind a spoiler warning, a Vraki mode, a Forway color palette); direction and approval of every commit.\n<strong>AI contribution:</strong> translating the website into other languages; moving the originals into Legacy and converting the blog to Markdown; designing and coding the website, its build script and its tools (search, glossary, settings); matching each blog section to its entry in the original docs; writing eight short topic summaries; writing alt text for the illustrations; writing the AI-readable files (llms.txt and the rest).\n<strong>Human modification:</strong> Deovandski reviews and requests changes.\n<strong>Accountability:</strong> Deovandski Skibinski Junior.",
+  "t": "<strong>Hệ thống AI:</strong> Claude, một mô hình ngôn ngữ lớn của Anthropic, được dùng làm trợ lý có quyền truy cập các tệp của kho và bản xuất Blogger (tháng 11 năm 2026).\n<strong>Đóng góp của con người:</strong> toàn bộ tư liệu nguồn (tiểu thuyết, ghi chú truyện, thế giới quan, bảng tính, blog và phông chữ Vraki, của Deovandski Skibinski Junior; toàn bộ tranh vẽ, của Mitsukiven và Feiourm); ý tưởng trang web (một trang, một lớp Công khai và một lớp Hậu trường sau cảnh báo tiết lộ, một chế độ Vraki, một bảng màu Forway); chỉ đạo và phê duyệt mọi commit.\n<strong>Đóng góp của AI:</strong> dịch trang web sang các ngôn ngữ khác; chuyển bản gốc vào Legacy và chuyển blog sang Markdown; thiết kế và lập trình trang web, script build và các công cụ của nó (tìm kiếm, thuật ngữ, cài đặt); ghép từng phần blog với mục tương ứng trong tài liệu gốc; viết tám bản tóm tắt chủ đề ngắn; viết văn bản thay thế cho hình minh họa; viết các tệp AI đọc được (llms.txt và các tệp còn lại).\n<strong>Sửa đổi của con người:</strong> Deovandski xem xét và yêu cầu thay đổi.\n<strong>Trách nhiệm:</strong> Deovandski Skibinski Junior."
+ },
+ "3498b16ba17c": {
+  "en": "IBM Research, <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a>",
+  "t": "IBM Research, <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a>"
+ },
+ "3f1e6d00f7b5": {
+  "en": "AI Disclosure · #HusbandOutWorld",
+  "t": "Công bố về AI · #HusbandOutWorld"
+ },
+ "4042e10300fc": {
+  "en": "Outside sources",
+  "t": "Nguồn bên ngoài"
+ },
+ "4209bbf09d38": {
+  "en": "The blog pages (Public) and the original docs (Behind The Scenes) (human).",
+  "t": "Các trang blog (Công khai) và tài liệu gốc (Hậu trường) (con người)."
+ },
+ "42a9af421456": {
+  "en": "File by file",
+  "t": "Từng tệp một"
+ },
+ "43005656bb78": {
+  "en": "content/alt-text.json",
+  "t": "content/alt-text.json"
+ },
+ "4d3adbe367b3": {
+  "en": "Written by the AI.",
+  "t": "Do AI viết."
+ },
+ "4de224197151": {
+  "en": "The <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/blob/main/AI-DISCLOSURE.md\" rel=\"noopener\">Vraki West March Campaign's</a> disclosure.",
+  "t": "Bản công bố của <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/blob/main/AI-DISCLOSURE.md\" rel=\"noopener\">Vraki West March Campaign</a>."
+ },
+ "51377d5bbc17": {
+  "en": "<a href=\"tools/build.py\">tools/build.py</a>, <a href=\"site\">site/</a> (CSS and JavaScript)",
+  "t": "<a href=\"tools/build.py\">tools/build.py</a>, <a href=\"site\">site/</a> (CSS và JavaScript)"
+ },
+ "519e39132bb9": {
+  "en": "Path",
+  "t": "Đường dẫn"
+ },
+ "5483f8f74330": {
+  "en": "Alt text, for accessibility",
+  "t": "Văn bản thay thế, vì khả năng tiếp cận"
+ },
+ "580e0634e11b": {
+  "en": "Novel pages",
+  "t": "Các trang tiểu thuyết"
+ },
+ "5ee612f77602": {
+  "en": "Matched each blog section to its entry in the docs by name. Where an entry had no blog text, used the \"Website Description\" the author wrote inside the doc. Entries with neither stay in Behind The Scenes only.",
+  "t": "Ghép từng phần blog với mục của nó trong tài liệu theo tên. Khi một mục không có văn bản blog, dùng phần “Website Description” mà tác giả viết trong tài liệu. Những mục không có cả hai chỉ nằm trong Hậu trường."
+ },
+ "623045efd08b": {
+  "en": "The old blog, from the Blogger export (human).",
+  "t": "Blog cũ, từ bản xuất Blogger (con người)."
+ },
+ "63938d803ab3": {
+  "en": "content/site.json",
+  "t": "content/site.json"
+ },
+ "666710df8f45": {
+  "en": "<strong>No AI-generated images.</strong> Every picture is existing series art. The AI only resized and converted copies for the web.",
+  "t": "<strong>Không có hình ảnh do AI tạo.</strong> Mọi bức tranh đều là tranh vẽ có sẵn của bộ truyện. AI chỉ thay đổi kích thước và chuyển đổi các bản sao cho web."
+ },
+ "6ca00e476dde": {
+  "en": "The AI read these for ideas. No text was copied from them.",
+  "t": "AI đọc những nguồn này để lấy ý tưởng. Không sao chép văn bản nào từ chúng."
+ },
+ "6e4375b0b100": {
+  "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0.",
+  "t": "© Deovandski Skibinski Junior. Cấp phép theo CC‑BY‑NC‑SA‑4.0."
+ },
+ "799d8f14e5b5": {
+  "en": "Where it comes from",
+  "t": "Nguồn gốc"
+ },
+ "80c02bfb0cd6": {
+  "en": ".github/workflows/pages.yml",
+  "t": ".github/workflows/pages.yml"
+ },
+ "81ad4da4a198": {
+  "en": "Split each volume into chapter pages and placed every subchapter illustration at the start of its subchapter. The text is shown as written.",
+  "t": "Chia mỗi tập thành các trang chương và đặt từng hình minh họa của chương nhỏ ở đầu chương nhỏ đó. Văn bản được hiển thị đúng như đã viết."
+ },
+ "85d46eb2d1a9": {
+  "en": "The structure of Legacy (human).",
+  "t": "Cấu trúc của Legacy (con người)."
+ },
+ "86eb78ccd8b9": {
+  "en": "content/fixes.json",
+  "t": "content/fixes.json"
+ },
+ "8791a730e046": {
+  "en": "Built automatically: each term, its topic, and the first sentence or two of its description, cut from the author's text.",
+  "t": "Được tạo tự động: mỗi thuật ngữ, chủ đề của nó, và một hai câu đầu trong phần mô tả, cắt từ văn bản của tác giả."
+ },
+ "894948ec60db": {
+  "en": "<strong>The translations are AI-written, and every translated page says so.</strong> The website is also offered in other languages (pick one in Settings). Claude translated the author's text ahead of time (it is not machine translation on the fly), following the author's rules: names are written by sound, never translated. Each translated page carries a banner saying it was AI-translated from the original works, with a link to the English original. English is the source; if a translation and the English disagree, the English wins.",
+  "t": "<strong>Các bản dịch do AI viết, và mọi trang được dịch đều nói rõ điều đó.</strong> Trang web cũng có ở các ngôn ngữ khác (chọn một trong Cài đặt). Claude đã dịch trước văn bản của tác giả (không phải dịch máy tức thời), theo quy tắc của tác giả: tên được viết theo âm, không bao giờ dịch. Mỗi trang được dịch đều có một biểu ngữ nói rằng nó được AI dịch từ tác phẩm gốc, kèm đường dẫn tới bản gốc tiếng Anh. Tiếng Anh là bản nguồn; nếu bản dịch và bản tiếng Anh khác nhau, bản tiếng Anh được ưu tiên."
+ },
+ "8a6ae07cd8db": {
+  "en": "The three volumes of Arc #1 (human).",
+  "t": "Ba tập của Arc #1 (con người)."
+ },
+ "8a6fbf6fab58": {
+  "en": "Generated by the build script, so AI tools and search engines can read the whole series in plain text.",
+  "t": "Được tạo bởi script build, để công cụ AI và công cụ tìm kiếm có thể đọc toàn bộ bộ truyện dưới dạng văn bản thuần."
+ },
+ "8af00ea1076b": {
+  "en": "World Lore pages",
+  "t": "Các trang thế giới quan"
+ },
+ "8ea27392922d": {
+  "en": "Moved them into this folder without editing them. The one exception: at Deovandski's request, the Vraki typeface license (<code>Logo and Font/LICENSE.md</code>) now names LinkedIn and email as the way to ask for commercial approval.",
+  "t": "Chuyển chúng vào thư mục này mà không chỉnh sửa. Ngoại lệ duy nhất: theo yêu cầu của Deovandski, giấy phép phông chữ Vraki (<code>Logo and Font/LICENSE.md</code>) giờ ghi LinkedIn và email là cách xin chấp thuận thương mại."
+ },
+ "91ea456b6a05": {
+  "en": "<strong>Translated by the AI</strong> into each language in the Settings list, paragraph by paragraph, with <a href=\"tools/i18n.py\">tools/i18n.py</a>. The name spellings in each <code>glossary.json</code> follow the author's rule (by sound, never translated). Every translated page is labeled as AI-translated.",
+  "t": "<strong>Được AI dịch</strong> sang từng ngôn ngữ trong danh sách Cài đặt, từng đoạn một, bằng <a href=\"tools/i18n.py\">tools/i18n.py</a>. Cách viết tên trong mỗi <code>glossary.json</code> theo quy tắc của tác giả (theo âm, không bao giờ dịch). Mọi trang được dịch đều được ghi là do AI dịch."
+ },
+ "94f64ad638e3": {
+  "en": "Written by the AI, for accessibility (see above).",
+  "t": "Do AI viết, vì khả năng tiếp cận (xem ở trên)."
+ },
+ "98412b1e23d5": {
+  "en": "Written by the AI: the page map that says which blog page and which original doc make up each website page.",
+  "t": "Do AI viết: bản đồ trang cho biết trang blog nào và tài liệu gốc nào tạo nên mỗi trang của trang web."
+ },
+ "9b209c48afe9": {
+  "en": "Legacy/Public",
+  "t": "Legacy/Public"
+ },
+ "9e5e679f9117": {
+  "en": "This repo's website was built with an AI assistant, <strong>Claude</strong> (by Anthropic), working from the #HusbandOutWorld originals. This page says plainly which parts are human work, which parts the AI wrote, and how the two fit together.",
+  "t": "Trang web của kho này được xây dựng với một trợ lý AI, <strong>Claude</strong> (của Anthropic), làm việc từ các bản gốc của #HusbandOutWorld. Trang này nói rõ phần nào là công sức con người, phần nào do AI viết, và hai bên khớp với nhau thế nào."
+ },
+ "a1548d56866e": {
+  "en": "The illustrations (human).",
+  "t": "Các hình minh họa (con người)."
+ },
+ "a1e543b14d18": {
+  "en": "What the AI did",
+  "t": "AI đã làm gì"
+ },
+ "a23a38130f69": {
+  "en": "content/i18n",
+  "t": "content/i18n"
+ },
+ "a4c92bca57be": {
+  "en": "<strong>The story and the world are human-made.</strong> The light novel, the story notes, the World Lore, the spreadsheets, the Vraki font and the old blog come from Deovandski Skibinski Junior, and the illustrations are by the series' artists, <strong>Mitsukiven</strong> and <strong>Feiourm</strong>. All of it lives, unchanged, in the <a href=\"Legacy\">Legacy</a> folder.",
+  "t": "<strong>Câu chuyện và thế giới do con người tạo ra.</strong> Light novel, ghi chú truyện, thế giới quan, các bảng tính, phông chữ Vraki và blog cũ đều đến từ Deovandski Skibinski Junior, còn hình minh họa là của các họa sĩ của bộ truyện, <strong>Mitsukiven</strong> và <strong>Feiourm</strong>. Tất cả đều nằm nguyên vẹn trong thư mục <a href=\"Legacy\">Legacy</a>."
+ },
+ "a650240a0c40": {
+  "en": "Everything above.",
+  "t": "Tất cả những thứ ở trên."
+ },
+ "ac9104717ef5": {
+  "en": "Which parts of this website are human work, which parts an AI wrote, and how they fit together.",
+  "t": "Những phần nào của trang web này là công sức con người, phần nào do AI viết, và chúng khớp với nhau thế nào."
+ },
+ "ade2ab20de05": {
+  "en": "<strong>The website shows the author's own words.</strong> The novel chapters, the public descriptions (from the old blog) and the Behind The Scenes notes (from the original docs) are displayed as written. The AI's job was to arrange them, not to rewrite them.",
+  "t": "<strong>Trang web hiển thị chính lời của tác giả.</strong> Các chương tiểu thuyết, phần mô tả công khai (từ blog cũ) và ghi chú Hậu trường (từ tài liệu gốc) được hiển thị đúng như đã viết. Việc của AI là sắp xếp chúng, không phải viết lại."
+ },
+ "aff9c732ee00": {
+  "en": "Attribution statement",
+  "t": "Tuyên bố ghi nhận"
+ },
+ "b1a4d2780b07": {
+  "en": "A short list of display-only corrections the build applies when it reads Legacy (for example, replacing dead Google Drive links and dropping a print-only table of contents). Each one says why. Legacy itself stays untouched.",
+  "t": "Một danh sách ngắn các chỉnh sửa chỉ dùng cho hiển thị mà bản build áp dụng khi đọc Legacy (ví dụ, thay các liên kết Google Drive đã chết và bỏ một mục lục chỉ dùng khi in). Mỗi mục đều ghi lý do. Bản thân Legacy vẫn nguyên vẹn."
+ },
+ "b3a0eb90237a": {
+  "en": "Legacy/README.md",
+  "t": "Legacy/README.md"
+ },
+ "b7adb938bc6e": {
+  "en": "AI-readable files (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, a Markdown copy of every page, and <code>data/*.json</code>)",
+  "t": "Các tệp AI đọc được (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, một bản Markdown của mỗi trang, và <code>data/*.json</code>)"
+ },
+ "bc3897d1e285": {
+  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, and ending that mantra with \"!\" like the others.",
+  "t": "Chuyển từng trang trong số 33 trang đang hoạt động từ HTML sang Markdown, từng chữ một, bằng <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Trỏ ảnh blog đến tệp tương ứng trong Behind The Scenes khi ảnh giống nhau. Các ngoại lệ: vào tháng 11 năm 2026, Deovandski đã thay đổi lời bạt Tập 4 của mình (<code>afterwords.md</code>), thêm các câu thần chú mới và viết lại phần kết để kết thúc bằng một câu trích Hávamál. AI đã gõ các chỉnh sửa đó theo chỉ đạo rõ ràng của anh, bao gồm đổi “hai câu mới” thành “ba câu mới” sau khi anh tự thêm câu thần chú về hạt giống/vụ mùa, và kết thúc câu đó bằng dấu “!” như những câu khác."
+ },
+ "c39f6c800ffc": {
+  "en": "content/summaries.json",
+  "t": "content/summaries.json"
+ },
+ "ca17d9e86677": {
+  "en": "Modeled on the questions in IBM's <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> (what AI was used, what it contributed, how much humans shaped it, and who is accountable):",
+  "t": "Dựa theo các câu hỏi trong <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> của IBM (AI nào được dùng, nó đóng góp gì, con người định hình nó đến đâu, và ai chịu trách nhiệm):"
+ },
+ "d61deee4df8a": {
+  "en": "This repo's original files (human).",
+  "t": "Các tệp gốc của kho này (con người)."
+ },
+ "df38ee0d1058": {
+  "en": "<strong>A few things are AI-written, and they're labeled.</strong> The website's code and its own text (menus, buttons, help), the short summaries for eight lore topics the blog never covered, the alt text that describes each illustration, and this page.",
+  "t": "<strong>Một vài thứ do AI viết, và đều được ghi rõ.</strong> Mã nguồn của trang web và văn bản riêng của nó (menu, nút, trợ giúp), các bản tóm tắt ngắn cho tám chủ đề thế giới quan mà blog chưa từng đề cập, văn bản thay thế mô tả từng hình minh họa, và chính trang này."
+ },
+ "e8c70a53fb62": {
+  "en": "The website's English pages, built from Legacy.",
+  "t": "Các trang tiếng Anh của trang web, được tạo từ Legacy."
+ },
+ "e8ebc8d12782": {
+  "en": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter), for the structured data in each page",
+  "t": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter), cho dữ liệu có cấu trúc trong mỗi trang"
+ },
+ "f5234aaefa0e": {
+  "en": "Eight Behind The Scenes docs: World Timeline, Villages, Land, Professions, Education, Sports, Novels, Natural and Crafted Resources (human).",
+  "t": "Tám tài liệu Behind The Scenes: World Timeline, Villages, Land, Professions, Education, Sports, Novels, Natural and Crafted Resources (con người)."
+ },
+ "f7dd5c66e939": {
+  "en": "The short version",
+  "t": "Tóm tắt ngắn"
+ },
+ "f979acb43e9b": {
+  "en": "Legacy/Behind The Scenes",
+  "t": "Legacy/Behind The Scenes"
+ },
+ "fc8a209e30ee": {
+  "en": "<strong>Designed and coded by the AI:</strong> the layout and look, the Public and Behind The Scenes layers and the spoiler warning, dark and light themes, text size, Vraki mode, search, the glossary, the gallery, the chapter reader and the lightbox. The website's own text (menus, buttons, notices) is AI-written.",
+  "t": "<strong>Do AI thiết kế và lập trình:</strong> bố cục và giao diện, các lớp Công khai và Hậu trường cùng cảnh báo tiết lộ, giao diện tối và sáng, cỡ chữ, chế độ Vraki, tìm kiếm, bảng thuật ngữ, thư viện ảnh, trình đọc chương và lightbox. Văn bản riêng của trang web (menu, nút, thông báo) do AI viết."
+ }
+}
