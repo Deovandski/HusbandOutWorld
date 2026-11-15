@@ -1,0 +1,274 @@
+{
+ "1014c3427fd9": {
+  "en": "The <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> workflow.",
+  "t": "<a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a>의 워크플로."
+ },
+ "107d158b3254": {
+  "en": "The lore entries (human).",
+  "t": "세계관 항목(사람)."
+ },
+ "1dc04a0a44d8": {
+  "en": "The <a href=\"https://llmstxt.org/\" rel=\"noopener\">llms.txt proposal</a>, for the AI-readable index",
+  "t": "AI가 읽을 수 있는 색인을 위한 <a href=\"https://llmstxt.org/\" rel=\"noopener\">llms.txt 제안</a>"
+ },
+ "1fc1a617cc5f": {
+  "en": "<strong>A human decides.</strong> Deovandski directed the work, set the rules (originals stay untouched in Legacy, the website never invents lore), and chose what got committed. If something on the website contradicts Legacy, <strong>Legacy wins</strong>: please open an issue or send a PR.",
+  "t": "<strong>결정은 사람이 합니다.</strong> Deovandski가 작업을 지휘하고, 규칙(원본은 Legacy에 손대지 않고 보관하며, 웹사이트는 절대 세계관을 지어내지 않는다)을 정하고, 무엇을 커밋할지 골랐습니다. 웹사이트의 내용이 Legacy와 어긋난다면 <strong>Legacy가 우선합니다</strong>. 이슈를 열거나 PR을 보내 주세요."
+ },
+ "20b6d42dfaea": {
+  "en": "PRs are welcome, with or without AI help. If you used AI for a contribution, say so in the PR description and add a line to the table above.",
+  "t": "AI의 도움을 받았든 아니든 PR을 환영합니다. 기여에 AI를 사용했다면 PR 설명에 그렇게 적고, 위의 표에 한 줄을 추가해 주세요."
+ },
+ "23eebfe076f3": {
+  "en": "<strong>Shortened and paraphrased</strong> them into one-paragraph public summaries, because the blog never had pages for these topics. No new facts. Each summary is labeled on the website as AI-written.",
+  "t": "블로그에 이 주제들의 페이지가 없었기 때문에, 한 단락짜리 공개 요약으로 <strong>줄이고 바꿔 썼습니다</strong>. 새로운 사실은 없습니다. 각 요약은 웹사이트에 AI가 썼다고 표시되어 있습니다."
+ },
+ "29dccf7e2d63": {
+  "en": "AI-DISCLOSURE.md",
+  "t": "AI-DISCLOSURE.md"
+ },
+ "2adae58a0927": {
+  "en": "Every illustration on the website has a short text description (alt text) so people who use screen readers can follow along, and so search engines and AI tools can understand the pictures. Writing it means describing the art in new words, which goes beyond the \"never write anything new\" rule this project follows everywhere else. <strong>Deovandski allowed this exception for the sake of accessibility.</strong> The descriptions are in <a href=\"content/alt-text.json\">content/alt-text.json</a> and say only what is visible in each picture. They add no lore, and if one is wrong, the picture wins.",
+  "t": "웹사이트의 모든 삽화에는 짧은 텍스트 설명(대체 텍스트)이 있어서, 화면 낭독기를 쓰는 사람도 내용을 따라갈 수 있고 검색 엔진과 AI 도구도 그림을 이해할 수 있습니다. 대체 텍스트를 쓴다는 것은 그림을 새로운 말로 묘사한다는 뜻이고, 이는 이 프로젝트가 다른 모든 곳에서 지키는 “새로운 것은 절대 쓰지 않는다”는 규칙을 넘어서는 일입니다. <strong>Deovandski는 접근성을 위해 이 예외를 허락했습니다.</strong> 설명은 <a href=\"content/alt-text.json\">content/alt-text.json</a>에 있으며, 각 그림에 보이는 것만 말합니다. 세계관을 덧붙이지 않으며, 설명이 틀렸다면 그림이 우선합니다."
+ },
+ "2d82a4b27a4b": {
+  "en": "Contributing",
+  "t": "기여하기"
+ },
+ "30fa617c63c2": {
+  "en": "The palette comes from the Forway city emblem, the headings' Vraki script from the Vraki font (human). Body font: TeX Gyre Schola (GUST Font License), the same as the <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> site.",
+  "t": "색상 팔레트는 포웨이 시 문장에서, 제목의 브라키 문자는 브라키 폰트에서 가져왔습니다(사람). 본문 폰트: TeX Gyre Schola(GUST Font License), <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> 사이트와 같습니다."
+ },
+ "3144d7dfc82e": {
+  "en": "Requests from Deovandski.",
+  "t": "Deovandski의 요청."
+ },
+ "3498b16ba17c": {
+  "en": "IBM Research, <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a>",
+  "t": "IBM Research, <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a>"
+ },
+ "352c3e536d9c": {
+  "en": "<strong>Translated by the AI</strong> into Chinese (Simplified), Japanese, Portuguese (Brazil), Spanish (Spain), Arabic and Korean, paragraph by paragraph, with <a href=\"tools/i18n.py\">tools/i18n.py</a>. The name spellings in each <code>glossary.json</code> follow the author's rule (by sound, never translated). Every translated page is labeled as AI-translated.",
+  "t": "<a href=\"tools/i18n.py\">tools/i18n.py</a>로 문단 단위로 중국어(간체), 일본어, 포르투갈어(브라질), 스페인어(스페인), 아랍어, 한국어로 <strong>AI가 번역</strong>했습니다. 각 <code>glossary.json</code>의 이름 표기는 작가의 규칙(소리대로, 절대 의미로 옮기지 않음)을 따릅니다. 번역된 모든 페이지에는 AI 번역이라고 표시되어 있습니다."
+ },
+ "3f1e6d00f7b5": {
+  "en": "AI Disclosure · #HusbandOutWorld",
+  "t": "AI 사용 안내 · #HusbandOutWorld"
+ },
+ "4042e10300fc": {
+  "en": "Outside sources",
+  "t": "외부 자료"
+ },
+ "4209bbf09d38": {
+  "en": "The blog pages (Public) and the original docs (Behind The Scenes) (human).",
+  "t": "블로그 페이지(공개)와 원본 문서(비하인드)(사람)."
+ },
+ "42a9af421456": {
+  "en": "File by file",
+  "t": "파일별 설명"
+ },
+ "43005656bb78": {
+  "en": "content/alt-text.json",
+  "t": "content/alt-text.json"
+ },
+ "4d3adbe367b3": {
+  "en": "Written by the AI.",
+  "t": "AI가 작성."
+ },
+ "4de224197151": {
+  "en": "The <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/blob/main/AI-DISCLOSURE.md\" rel=\"noopener\">Vraki West March Campaign's</a> disclosure.",
+  "t": "<a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/blob/main/AI-DISCLOSURE.md\" rel=\"noopener\">Vraki West March Campaign</a>의 AI 사용 안내."
+ },
+ "51377d5bbc17": {
+  "en": "<a href=\"tools/build.py\">tools/build.py</a>, <a href=\"site\">site/</a> (CSS and JavaScript)",
+  "t": "<a href=\"tools/build.py\">tools/build.py</a>, <a href=\"site\">site/</a> (CSS와 JavaScript)"
+ },
+ "519e39132bb9": {
+  "en": "Path",
+  "t": "경로"
+ },
+ "5483f8f74330": {
+  "en": "Alt text, for accessibility",
+  "t": "대체 텍스트 (접근성을 위해)"
+ },
+ "580e0634e11b": {
+  "en": "Novel pages",
+  "t": "소설 페이지"
+ },
+ "5ee612f77602": {
+  "en": "Matched each blog section to its entry in the docs by name. Where an entry had no blog text, used the \"Website Description\" the author wrote inside the doc. Entries with neither stay in Behind The Scenes only.",
+  "t": "각 블로그 섹션을 이름으로 문서의 항목과 연결했습니다. 블로그 글이 없는 항목은 작가가 문서 안에 써 둔 “Website Description”을 사용했습니다. 둘 다 없는 항목은 비하인드에만 남습니다."
+ },
+ "623045efd08b": {
+  "en": "The old blog, from the Blogger export (human).",
+  "t": "Blogger 내보내기에서 가져온 옛 블로그(사람)."
+ },
+ "63938d803ab3": {
+  "en": "content/site.json",
+  "t": "content/site.json"
+ },
+ "666710df8f45": {
+  "en": "<strong>No AI-generated images.</strong> Every picture is existing series art. The AI only resized and converted copies for the web.",
+  "t": "<strong>AI가 생성한 이미지는 없습니다.</strong> 모든 그림은 기존의 시리즈 아트입니다. AI는 웹용으로 사본의 크기를 바꾸고 변환했을 뿐입니다."
+ },
+ "6ca00e476dde": {
+  "en": "The AI read these for ideas. No text was copied from them.",
+  "t": "AI는 아이디어를 얻기 위해 이것들을 읽었습니다. 텍스트를 복사하지는 않았습니다."
+ },
+ "6e4375b0b100": {
+  "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0.",
+  "t": "© Deovandski Skibinski Junior. CC‑BY‑NC‑SA‑4.0 라이선스."
+ },
+ "799d8f14e5b5": {
+  "en": "Where it comes from",
+  "t": "출처"
+ },
+ "80c02bfb0cd6": {
+  "en": ".github/workflows/pages.yml",
+  "t": ".github/workflows/pages.yml"
+ },
+ "81ad4da4a198": {
+  "en": "Split each volume into chapter pages and placed every subchapter illustration at the start of its subchapter. The text is shown as written.",
+  "t": "각 권을 챕터 페이지로 나누고, 각 소챕터의 삽화를 그 소챕터의 시작 부분에 배치했습니다. 본문은 쓰인 그대로 표시됩니다."
+ },
+ "82a4db1fad61": {
+  "en": "<strong>The translations are AI-written, and every translated page says so.</strong> The website is also offered in Chinese, Japanese, Portuguese, Spanish, Arabic and Korean. Claude translated the author's text ahead of time (it is not machine translation on the fly), following the author's rules: names are written by sound, never translated. Each translated page carries a banner saying it was AI-translated from the original works, with a link to the English original. English is the source; if a translation and the English disagree, the English wins.",
+  "t": "<strong>번역은 AI가 했으며, 번역된 모든 페이지에 그렇게 표시되어 있습니다.</strong> 이 웹사이트는 중국어, 일본어, 포르투갈어, 스페인어, 아랍어, 한국어로도 제공됩니다. Claude가 작가의 글을 미리 번역했으며(실시간 기계 번역이 아닙니다), 작가의 규칙을 따랐습니다. 이름은 소리대로 적고, 절대 의미로 옮기지 않습니다. 번역된 각 페이지에는 원작에서 AI가 번역했다는 배너와 영어 원문으로 가는 링크가 있습니다. 원본은 영어이며, 번역과 영어가 다르면 영어가 우선합니다."
+ },
+ "85d46eb2d1a9": {
+  "en": "The structure of Legacy (human).",
+  "t": "Legacy의 구조(사람)."
+ },
+ "86eb78ccd8b9": {
+  "en": "content/fixes.json",
+  "t": "content/fixes.json"
+ },
+ "8791a730e046": {
+  "en": "Built automatically: each term, its topic, and the first sentence or two of its description, cut from the author's text.",
+  "t": "자동으로 생성: 각 용어, 그 주제, 작가의 글에서 잘라 낸 설명의 첫 한두 문장."
+ },
+ "8a6ae07cd8db": {
+  "en": "The three volumes of Arc #1 (human).",
+  "t": "아크 1의 세 권(사람)."
+ },
+ "8a6fbf6fab58": {
+  "en": "Generated by the build script, so AI tools and search engines can read the whole series in plain text.",
+  "t": "빌드 스크립트가 생성합니다. AI 도구와 검색 엔진이 시리즈 전체를 일반 텍스트로 읽을 수 있도록."
+ },
+ "8af00ea1076b": {
+  "en": "World Lore pages",
+  "t": "세계관 페이지"
+ },
+ "8ea27392922d": {
+  "en": "Moved them into this folder without editing them. The one exception: at Deovandski's request, the Vraki typeface license (<code>Logo and Font/LICENSE.md</code>) now names LinkedIn and email as the way to ask for commercial approval.",
+  "t": "편집하지 않고 이 폴더로 옮겼습니다. 단 하나의 예외: Deovandski의 요청에 따라 브라키 서체 라이선스(<code>Logo and Font/LICENSE.md</code>)에 상업적 승인을 요청하는 방법으로 LinkedIn과 이메일을 적었습니다."
+ },
+ "94f64ad638e3": {
+  "en": "Written by the AI, for accessibility (see above).",
+  "t": "접근성을 위해 AI가 작성(위 참고)."
+ },
+ "98412b1e23d5": {
+  "en": "Written by the AI: the page map that says which blog page and which original doc make up each website page.",
+  "t": "AI가 작성: 웹사이트의 각 페이지가 어떤 블로그 페이지와 어떤 원본 문서로 이루어지는지 정리한 페이지 지도."
+ },
+ "9b209c48afe9": {
+  "en": "Legacy/Public",
+  "t": "Legacy/Public"
+ },
+ "9e5e679f9117": {
+  "en": "This repo's website was built with an AI assistant, <strong>Claude</strong> (by Anthropic), working from the #HusbandOutWorld originals. This page says plainly which parts are human work, which parts the AI wrote, and how the two fit together.",
+  "t": "이 저장소의 웹사이트는 AI 어시스턴트 <strong>Claude</strong>(Anthropic 제작)가 #HusbandOutWorld 원본을 바탕으로 만들었습니다. 이 페이지는 어떤 부분이 사람의 작업이고, 어떤 부분을 AI가 썼으며, 그 둘이 어떻게 맞물리는지를 있는 그대로 설명합니다."
+ },
+ "a1548d56866e": {
+  "en": "The illustrations (human).",
+  "t": "삽화(사람)."
+ },
+ "a1e543b14d18": {
+  "en": "What the AI did",
+  "t": "AI가 한 일"
+ },
+ "a23a38130f69": {
+  "en": "content/i18n",
+  "t": "content/i18n"
+ },
+ "a4c92bca57be": {
+  "en": "<strong>The story and the world are human-made.</strong> The light novel, the story notes, the World Lore, the spreadsheets, the Vraki font and the old blog come from Deovandski Skibinski Junior, and the illustrations are by the series' artists, <strong>Mitsukiven</strong> and <strong>Feiourm</strong>. All of it lives, unchanged, in the <a href=\"Legacy\">Legacy</a> folder.",
+  "t": "<strong>이야기와 세계는 사람이 만들었습니다.</strong> 라이트 노벨, 스토리 노트, 세계관, 스프레드시트, 브라키 폰트, 옛 블로그는 Deovandski Skibinski Junior가, 삽화는 시리즈의 아티스트인 <strong>Mitsukiven</strong>과 <strong>Feiourm</strong>이 만들었습니다. 이 모든 것은 <a href=\"Legacy\">Legacy</a> 폴더에 그대로 보관되어 있습니다."
+ },
+ "a650240a0c40": {
+  "en": "Everything above.",
+  "t": "위의 모든 것."
+ },
+ "ac9104717ef5": {
+  "en": "Which parts of this website are human work, which parts an AI wrote, and how they fit together.",
+  "t": "이 웹사이트의 어떤 부분이 사람의 작업이고, 어떤 부분을 AI가 썼으며, 그 둘이 어떻게 맞물리는지."
+ },
+ "ade2ab20de05": {
+  "en": "<strong>The website shows the author's own words.</strong> The novel chapters, the public descriptions (from the old blog) and the Behind The Scenes notes (from the original docs) are displayed as written. The AI's job was to arrange them, not to rewrite them.",
+  "t": "<strong>웹사이트는 작가 자신의 글을 보여 줍니다.</strong> 소설의 각 장, 공개 설명(옛 블로그에서 가져옴), 비하인드 노트(원본 문서에서 가져옴)는 쓰인 그대로 표시됩니다. AI의 일은 그것들을 배치하는 것이었지, 다시 쓰는 것이 아니었습니다."
+ },
+ "aff9c732ee00": {
+  "en": "Attribution statement",
+  "t": "귀속 명시"
+ },
+ "b1a4d2780b07": {
+  "en": "A short list of display-only corrections the build applies when it reads Legacy (for example, replacing dead Google Drive links and dropping a print-only table of contents). Each one says why. Legacy itself stays untouched.",
+  "t": "빌드가 Legacy를 읽을 때 적용하는 표시 전용 수정 사항의 짧은 목록입니다(예를 들어 끊긴 Google Drive 링크를 바꾸고, 인쇄용 목차를 빼는 것). 각 항목에 이유가 적혀 있습니다. Legacy 자체는 그대로입니다."
+ },
+ "b3a0eb90237a": {
+  "en": "Legacy/README.md",
+  "t": "Legacy/README.md"
+ },
+ "b7adb938bc6e": {
+  "en": "AI-readable files (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, a Markdown copy of every page, and <code>data/*.json</code>)",
+  "t": "AI가 읽을 수 있는 파일(<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, 모든 페이지의 Markdown 사본, <code>data/*.json</code>)"
+ },
+ "bc3897d1e285": {
+  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, and ending that mantra with \"!\" like the others.",
+  "t": "공개되어 있던 33개 페이지를 <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>로 HTML에서 Markdown으로 한 단어도 바꾸지 않고 변환했습니다. 그림이 같은 경우 블로그 이미지를 Behind The Scenes의 해당 파일로 연결했습니다. 예외: 2026년 11월 Deovandski가 4권 후기(<code>afterwords.md</code>)를 고쳐 새 만트라를 더하고 하바말 인용으로 끝나도록 마무리를 다시 썼습니다. AI는 그의 명시적인 지시에 따라 그 수정 내용을 입력했으며, 그가 씨앗/수확 만트라를 직접 추가한 뒤 “새로운 것 두 개”를 “새로운 것 세 개”로 바꾸고, 그 만트라를 다른 것들처럼 “!”로 끝낸 것도 포함됩니다."
+ },
+ "c39f6c800ffc": {
+  "en": "content/summaries.json",
+  "t": "content/summaries.json"
+ },
+ "ca17d9e86677": {
+  "en": "Modeled on the questions in IBM's <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> (what AI was used, what it contributed, how much humans shaped it, and who is accountable):",
+  "t": "IBM의 <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a>에 나오는 질문(어떤 AI를 사용했는지, 무엇을 기여했는지, 사람이 얼마나 다듬었는지, 누가 책임지는지)을 본떴습니다:"
+ },
+ "d61deee4df8a": {
+  "en": "This repo's original files (human).",
+  "t": "이 저장소의 원본 파일(사람)."
+ },
+ "df38ee0d1058": {
+  "en": "<strong>A few things are AI-written, and they're labeled.</strong> The website's code and its own text (menus, buttons, help), the short summaries for eight lore topics the blog never covered, the alt text that describes each illustration, and this page.",
+  "t": "<strong>AI가 쓴 부분이 조금 있으며, 표시되어 있습니다.</strong> 웹사이트의 코드와 웹사이트 자체의 문구(메뉴, 버튼, 도움말), 블로그에서 다룬 적 없는 세계관 주제 여덟 개의 짧은 요약, 각 삽화를 설명하는 대체 텍스트, 그리고 이 페이지입니다."
+ },
+ "e8c70a53fb62": {
+  "en": "The website's English pages, built from Legacy.",
+  "t": "Legacy로 만든 웹사이트의 영어 페이지."
+ },
+ "e8ebc8d12782": {
+  "en": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter), for the structured data in each page",
+  "t": "각 페이지의 구조화된 데이터를 위한 <a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a>(BookSeries, Book, Chapter)"
+ },
+ "f37f3b65dd68": {
+  "en": "<strong>AI system:</strong> Claude, a large language model by Anthropic, used as an assistant with access to the repo files and the Blogger export (November 2026).\n<strong>Human contribution:</strong> all source material (the novel, the story notes, the World Lore, the spreadsheets, the blog and the Vraki font, by Deovandski Skibinski Junior; all artwork, by Mitsukiven and Feiourm); the website concept (one site, a Public layer and a Behind The Scenes layer behind a spoiler warning, a Vraki mode, a Forway color palette); direction and approval of every commit.\n<strong>AI contribution:</strong> translating the website into six languages; moving the originals into Legacy and converting the blog to Markdown; designing and coding the website, its build script and its tools (search, glossary, settings); matching each blog section to its entry in the original docs; writing eight short topic summaries; writing alt text for the illustrations; writing the AI-readable files (llms.txt and the rest).\n<strong>Human modification:</strong> Deovandski reviews and requests changes.\n<strong>Accountability:</strong> Deovandski Skibinski Junior.",
+  "t": "<strong>AI 시스템:</strong> Anthropic의 대규모 언어 모델 Claude. 저장소 파일과 Blogger 내보내기 파일에 접근할 수 있는 어시스턴트로 사용했습니다(2026년 11월).\n<strong>사람의 기여:</strong> 모든 원본 자료(소설, 스토리 노트, 세계관, 스프레드시트, 블로그, 브라키 폰트는 Deovandski Skibinski Junior, 모든 아트워크는 Mitsukiven과 Feiourm), 웹사이트 구상(하나의 사이트, 공개 레이어와 스포일러 경고 뒤의 비하인드 레이어, 브라키 모드, 포웨이 색상 팔레트), 모든 커밋에 대한 지휘와 승인.\n<strong>AI의 기여:</strong> 웹사이트를 여섯 개 언어로 번역, 원본을 Legacy로 옮기고 블로그를 Markdown으로 변환, 웹사이트와 빌드 스크립트 및 도구(검색, 용어집, 설정)의 설계와 코딩, 각 블로그 섹션을 원본 문서의 항목과 연결, 짧은 주제 요약 여덟 개 작성, 삽화의 대체 텍스트 작성, AI가 읽을 수 있는 파일(llms.txt 등) 작성.\n<strong>사람의 수정:</strong> Deovandski가 검토하고 수정을 요청합니다.\n<strong>책임:</strong> Deovandski Skibinski Junior."
+ },
+ "f5234aaefa0e": {
+  "en": "Eight Behind The Scenes docs: World Timeline, Villages, Land, Professions, Education, Sports, Novels, Natural and Crafted Resources (human).",
+  "t": "비하인드 문서 여덟 개: World Timeline, Villages, Land, Professions, Education, Sports, Novels, Natural and Crafted Resources(사람)."
+ },
+ "f7dd5c66e939": {
+  "en": "The short version",
+  "t": "요약"
+ },
+ "f979acb43e9b": {
+  "en": "Legacy/Behind The Scenes",
+  "t": "Legacy/Behind The Scenes"
+ },
+ "fc8a209e30ee": {
+  "en": "<strong>Designed and coded by the AI:</strong> the layout and look, the Public and Behind The Scenes layers and the spoiler warning, dark and light themes, text size, Vraki mode, search, the glossary, the gallery, the chapter reader and the lightbox. The website's own text (menus, buttons, notices) is AI-written.",
+  "t": "<strong>AI가 설계하고 코딩:</strong> 레이아웃과 디자인, 공개·비하인드 레이어와 스포일러 경고, 다크·라이트 테마, 글자 크기, 브라키 모드, 검색, 용어집, 갤러리, 챕터 리더, 라이트박스. 웹사이트 자체의 문구(메뉴, 버튼, 안내)는 AI가 썼습니다."
+ }
+}

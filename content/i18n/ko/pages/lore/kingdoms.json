@@ -1,0 +1,418 @@
+{
+ "01e5cde5aa69": {
+  "en": "Make sure to stop by during the White Roundies arrival! It’s pretty fun playing with them! You might even get something valuable if you play fetch with them.",
+  "t": "화이트 라운디스가 도착할 때 꼭 들러 봐! 같이 노는 게 꽤 재밌다! 같이 공 던지기 놀이를 하면 뭔가 값진 걸 얻을지도 모른다."
+ },
+ "039409e11825": {
+  "en": "Jimmie Tolerideme Whoop-Ass",
+  "t": "지미 톨레리데메 훕 애스"
+ },
+ "0850c49e1db3": {
+  "en": "Make sure to stop by during the Shake Belly festival! There's free grub! If you're willing to shake your belly for it, of course. Nothing is truly for free, after all—",
+  "t": "배 흔들기 축제 때 꼭 들러 봐! 공짜 먹을거리가 있다! 물론 그걸 위해 배를 흔들 의향이 있다면. 결국 진짜 공짜인 건 없으니까—"
+ },
+ "10d0002e163c": {
+  "en": "Main House where the current elected leader lives. Not exactly as big as an entire village, but the entire state covers about 13 square km (~5 square miles) of a private island where all elected kingdom personnel live and work inside.",
+  "t": "현재 선출된 지도자가 사는 본관. 마을 하나만큼 크진 않지만, 주 전체는 선출된 모든 왕국 관리가 안에서 살며 일하는 사유 섬의 약 13제곱킬로미터(약 5제곱마일)를 차지한다."
+ },
+ "112af9acd2b1": {
+  "en": "Just be sure not to go too wild and leave off East towards Aldemeri or Cruro, or you might never come back—unless you can defend yourself.",
+  "t": "다만 너무 신나서 동쪽으로 알데메리나 크루로 쪽으로 떠나지는 마. 스스로를 지킬 수 없다면 다시는 돌아오지 못할지도 모르니까."
+ },
+ "12f2b73c33f8": {
+  "en": "Freeish Kingdom",
+  "t": "프리이시 왕국"
+ },
+ "188d1a6ab63b": {
+  "en": "Kingdoms",
+  "t": "왕국"
+ },
+ "18c7b682f15b": {
+  "en": "Tolerideme Kingdom",
+  "t": "톨레리데메 왕국"
+ },
+ "1abcb4372c2e": {
+  "en": "Tolerideme Guards: a guard in a red uniform and cap, next to a map of Tolerideme with its pink forests.",
+  "t": "톨레리데메 경비병: 빨간 제복에 모자를 쓴 경비병. 옆에 분홍 숲이 그려진 톨레리데메 지도가 있다."
+ },
+ "210851c2dc88": {
+  "en": "Public text: kingdom-sanbi.md",
+  "t": "공개 텍스트: kingdom-sanbi.md"
+ },
+ "212d66fa6814": {
+  "en": "By the way, make sure to stop by the Grand Hall near the top of the mountain! You will love the sights! It might even make you want to move and live there, but you better be a Darfaries born in Gandew if you want to say that out loud.",
+  "t": "그런데 산꼭대기 근처의 대전당에는 꼭 들러 봐! 경치가 끝내준다! 거기로 이사해서 살고 싶어질 수도 있지만, 그 말을 크게 하고 싶다면 간듀에서 태어난 다르파리에스여야 한다."
+ },
+ "226558d6cd5d": {
+  "en": "#3 - Farplace",
+  "t": "#3 - 파플레이스"
+ },
+ "22ff5786ebdf": {
+  "en": "#7 - Sweet Siguash",
+  "t": "#7 - 스위트 시구아시"
+ },
+ "26cdef7fe97c": {
+  "en": "Gandew Common Duel Rights &amp; Law",
+  "t": "간듀 일반 결투 권리와 법"
+ },
+ "287ea8d27fcd": {
+  "en": "Sanbi names are often the most unique. Unlike other kingdoms, you can change it as much as you like. So much so, that the Sanbi Royals have a special subsidy contract with Forway to lower the cost of badge remakes for their citizens. Meanwhile, Forway officials are still dealing with the aneurysm-inducing problem of keeping track of previous names tied to the soul signature without ballooning costs.",
+  "t": "산비 사람들의 이름은 대개 가장 독특하다. 다른 왕국과 달리 원하는 만큼 바꿀 수 있다. 그 정도가 심해서 산비 왕실은 시민들의 신분패 재발급 비용을 낮추려고 포웨이와 특별 보조금 계약까지 맺었다. 한편 포웨이 관리들은 비용을 폭증시키지 않고 영혼 서명에 연결된 이전 이름들을 추적하는, 동맥류가 터질 것 같은 문제를 아직도 붙들고 있다."
+ },
+ "28dfe58bbd81": {
+  "en": "Villages",
+  "t": "마을"
+ },
+ "2b7c08c3ab75": {
+  "en": "Names",
+  "t": "이름"
+ },
+ "2d0f892a6ae9": {
+  "en": "Asa the Powerful",
+  "t": "아사 더 파워풀"
+ },
+ "2e75a7fd31cf": {
+  "en": "Sanbi Guards are flexible guards who can use knives, Nari gels, and Nari bombs to control a nuisance quickly or to get the fuck away if it’s too much for them to handle. Their large bows, combined with nari gels, allow them to have more varied battling techniques; they can be sneakier, have increased muscle mass, or even possess arrows poisoned with debilitating nari gels. There is a reason their training often emphasizes the “everything is a weapon” mentality, and so should you if you feel like disturbing the peace of their kingdom.",
+  "t": "산비 경비병은 칼, 나리 젤, 나리 폭탄을 써서 골칫거리를 재빨리 제압하거나, 감당이 안 되면 씨발 냅다 도망치는 유연한 경비병이다. 커다란 활과 나리 젤을 조합해 더 다양한 전투 기술을 쓸 수 있다. 더 은밀해지거나, 근육량을 늘리거나, 몸을 약하게 만드는 나리 젤을 바른 독화살을 가질 수도 있다. 그들의 훈련이 “모든 것이 무기다”라는 사고방식을 강조하는 데는 이유가 있고, 네가 그들 왕국의 평화를 어지럽히고 싶다면 너도 그래야 할 거다."
+ },
+ "2e856a95464e": {
+  "en": "Adrian From North Tolerideme",
+  "t": "아드리안 프롬 노스 톨레리데메"
+ },
+ "2fa94abd3be9": {
+  "en": "Named after a farmer who harvested an oversized Gyut that could fill a Darfaries stomach… Somehow.",
+  "t": "다르파리에스의 배를 채울 만큼 거대한 귯을 수확한 농부의 이름을 땄다… 어떻게든."
+ },
+ "34bb1f96428b": {
+  "en": "A village in the middle of other villages that rarely would be preyed upon by beasts.",
+  "t": "다른 마을들 한가운데에 있어서 마수의 습격을 거의 받지 않는 마을."
+ },
+ "37198f8ef78a": {
+  "en": "Eiri Sanbi Royal",
+  "t": "에이리 산비 로열"
+ },
+ "3843e9f319c9": {
+  "en": "Just be okay with their extra handsy and straightforward culture if you want to chummy up to them. They are known for living and enjoying the present. As such, they don't really have many festivals; they prefer to celebrate life every day.",
+  "t": "그들과 친해지고 싶다면, 유난히 스킨십이 많고 직설적인 문화를 받아들여야 한다. 그들은 현재를 살고 즐기는 것으로 유명하다. 그래서 축제가 별로 없다. 매일매일 삶을 축하하는 걸 더 좋아하니까."
+ },
+ "39c2f81bec4e": {
+  "en": "The Sanbi Kingdom is one of the coolest and friendliest places to be. I mean, even the King himself will talk to you if you approach him on the streets. Sanbi shit! If he sees you having a good time, he will most likely drop whatever he's doing to hang out. Do visit the bars when night falls, as there is always stuff to do and fun people to drink with! Get ready to make friends and memories for a lifetime! Even the local Cruros will share a beer with you, and if you happen to drink all of your balls away, a helpful stranger might have a place for you to crash and sober up.",
+  "t": "산비 왕국은 가장 멋지고 친근한 곳 중 하나다. 거리에서 다가가면 왕이 직접 말을 걸어 줄 정도라니까. 산비, 씨발! 네가 즐겁게 지내는 걸 보면, 왕은 아마 하던 일을 다 내려놓고 같이 어울릴 거다. 밤이 되면 꼭 술집에 가 봐. 늘 할 거리가 있고 같이 마실 재밌는 사람들이 있으니까! 평생 갈 친구와 추억을 만들 준비를 해! 현지 크루로들도 너와 맥주를 나눌 거고, 혹시 볼을 다 마셔 버렸다면 친절한 낯선 이가 쉬면서 술 깰 곳을 내줄지도 모른다."
+ },
+ "3a42db1cd8ab": {
+  "en": "Kingdoms · #HusbandOutWorld",
+  "t": "왕국 · #HusbandOutWorld"
+ },
+ "3b26ec8182e6": {
+  "en": "A village named after hunters from this area often using treetops to attack prey.",
+  "t": "이 지역 사냥꾼들이 나무 꼭대기를 이용해 사냥감을 덮치곤 해서 붙은 이름이다."
+ },
+ "3f3e60f13321": {
+  "en": "Freeish Paulin",
+  "t": "프리이시 파울린"
+ },
+ "48be0a54e3b8": {
+  "en": "Tolerideme (Toleridemian)",
+  "t": "톨레리데메 (톨레리데메 사람)"
+ },
+ "4c5383bef6e5": {
+  "en": "Bijura Moacir",
+  "t": "비주라 모아시르"
+ },
+ "4d3df9cf7ecb": {
+  "en": "#10 - Crossroads",
+  "t": "#10 - 크로스로즈"
+ },
+ "4e735053d68d": {
+  "en": "The name stuck after this village became the central place to mill grains using water milling.",
+  "t": "이 마을이 물레방아로 곡식을 빻는 중심지가 된 뒤 굳어진 이름이다."
+ },
+ "517414900cb8": {
+  "en": "A massive lone mountain in the desert holds the entire populace of Gandew, mainly composed of Darfaries and a few travelers passing by. You can stop here, but keep your hands and mouth to yourself unless you want to face off against a Darfaries citizen or a giant guard in heavy chitin armor in one of the dueling pits. Though, if fighting is your jam, then have at it! They love to crack the skull of troublemakers! Or you might score brownie points if you break their skull instead.",
+  "t": "사막에 홀로 선 거대한 산 하나에 간듀의 모든 인구가 살고 있는데, 주로 다르파리에스와 지나가는 몇몇 여행자들이다. 여기 들를 수는 있지만, 결투장 중 하나에서 다르파리에스 시민이나 두꺼운 키틴 갑옷을 입은 거인 경비병과 맞붙고 싶지 않다면 손과 입을 조심해라. 하지만 싸우는 게 취향이라면, 마음껏 해 봐! 그들은 말썽꾼의 두개골을 깨는 걸 아주 좋아하니까! 아니면 네가 그들의 두개골을 깨면 오히려 점수를 딸지도 모른다."
+ },
+ "53dbe20b6c6d": {
+  "en": "Freeish Guards are like a dollar store version of Forway guards, but their courageous spirit and sense of protecting their Kingdom more than compensates for their lighter yet versatile bone-wood armor. Whenever they remove their short swords from their forearm sleeve, you better get some distance unless you can parry and strike true like no other. They also like their Nari bombs as well to close the gap, so watch out. If that wasn’t enough, their reflex appears to be higher than average as the entire Freeish bloodline of guards developed a tradition of training on hallucinogens to increase situation awareness and reaction times from childhood.",
+  "t": "프리이시 경비병은 포웨이 경비병의 싸구려 버전 같지만, 용감한 정신과 왕국을 지키려는 사명감이 더 가볍지만 다재다능한 본 우드 갑옷을 충분히 메워 준다. 그들이 팔뚝 소매에서 단검을 뽑으면, 누구보다 정확하게 막고 받아칠 수 있는 게 아니라면 거리를 두는 게 좋다. 거리를 좁히려고 나리 폭탄도 즐겨 쓰니 조심해라. 그걸로도 모자라 반사 신경이 평균보다 좋은 것 같은데, 프리이시 경비병 혈통 전체가 어릴 때부터 환각제를 먹고 훈련해서 상황 인식과 반응 속도를 높이는 전통을 만들었기 때문이다."
+ },
+ "551419dcc187": {
+  "en": "Sanbi Kingdom emblem: a glossy blue disc with a line drawing of a whiskered fish.",
+  "t": "산비 왕국 문장: 수염 난 물고기 선화가 그려진 윤기 나는 파란 원반."
+ },
+ "557dacc52d05": {
+  "en": "Gandew (Gandewian)",
+  "t": "간듀 (간듀 사람)"
+ },
+ "5d5619d94b1a": {
+  "en": "#8- Peaceful Life",
+  "t": "#8- 피스풀 라이프"
+ },
+ "5de304af6ac7": {
+  "en": "Gandew location names: a fortress city on a desert mountain, with High-Gandew, Mid-Gandew and Low-Gandew labeled.",
+  "t": "간듀 지명: 사막 산 위의 요새 도시. 하이 간듀, 미드 간듀, 로 간듀가 표시되어 있다."
+ },
+ "5e5c9b9fb948": {
+  "en": "It was, and it still is, kinda far from everything.",
+  "t": "예나 지금이나 모든 것에서 좀 멀다."
+ },
+ "60483b9581f7": {
+  "en": "Luny Tolerideme Dirt-Lover",
+  "t": "루니 톨레리데메 더트 러버"
+ },
+ "605a1f6c73a1": {
+  "en": "Freeish Kingdom emblem: a glossy green disc with a white branching line of dots.",
+  "t": "프리이시 왕국 문장: 하얀 점들로 이루어진 갈라진 선이 그려진 윤기 나는 초록 원반."
+ },
+ "613890532d43": {
+  "en": "Sanbi (Sanbian)",
+  "t": "산비 (산비 사람)"
+ },
+ "63db7060d7db": {
+  "en": "Alford Tolerideme Dirt-Lover",
+  "t": "알퍼드 톨레리데메 더트 러버"
+ },
+ "6468002e8fca": {
+  "en": "People’s names in this democratic-focused kingdom sound similar to Brazilian names. Influences from other Kingdoms' names and cultures are not uncommon given this kingdom’s history. Rarely someone has a city name of Freeish, but rather one of the villages that makes up the kingdom.",
+  "t": "민주주의를 중시하는 이 왕국 사람들의 이름은 브라질 이름과 비슷하게 들린다. 이 왕국의 역사를 생각하면 다른 왕국의 이름과 문화에서 영향을 받은 것도 드물지 않다. 도시 이름으로 프리이시를 쓰는 사람은 드물고, 대신 왕국을 이루는 마을 중 하나를 쓴다."
+ },
+ "673ced1d807f": {
+  "en": "Sanbi Guards: a guard in blue with a bow, next to a map of the Sanbi region with its rivers and coast.",
+  "t": "산비 경비병: 활을 든 파란 옷의 경비병. 옆에 강과 해안이 그려진 산비 지역 지도가 있다."
+ },
+ "67de3c63a9bd": {
+  "en": "Guards",
+  "t": "경비병"
+ },
+ "67fa3e7070c3": {
+  "en": "#11 - Carbeyland",
+  "t": "#11 - 카베이랜드"
+ },
+ "693def86bc3e": {
+  "en": "Freeish (Freeishan)",
+  "t": "프리이시 (프리이시 사람)"
+ },
+ "6a9392c18b65": {
+  "en": "The other “original” village where Carbey was planted in mass.",
+  "t": "카베이를 대량으로 심은 또 하나의 “원조” 마을."
+ },
+ "6f83e68b68ec": {
+  "en": "Notable Kingdom Citizens",
+  "t": "왕국의 유명 시민"
+ },
+ "752160cf5ba5": {
+  "en": "Their names are often in the English name spectrum, ranging from US to UK with even some notes of Australian mixed in.",
+  "t": "그들의 이름은 대개 미국에서 영국까지, 심지어 호주 느낌도 살짝 섞인 영어 이름 범주에 속한다."
+ },
+ "757b685e125e": {
+  "en": "If you cause trouble or run your mouth, but don't want to visit the pits to square things away, then you can go instead on a free, one-way ride on the \"Goodbye Cliff\"—a colossal ballista that will launch you alongside Wozefaries and Sorefaries babies into the desert. It's a wild ride, but some adrenaline junkies prefer that over going through the inner tunnels to get out of the only down to one of the main doors because it is a long ride.",
+  "t": "말썽을 일으키거나 입을 함부로 놀렸는데 결투장에 가서 정리하고 싶지 않다면, 대신 “작별 절벽”을 공짜 편도로 탈 수 있다—워제파리에스와 소레파리에스 아기들과 함께 너를 사막으로 날려 보내는 거대한 노포다. 미친 듯한 탑승이지만, 몇몇 아드레날린 중독자들은 안쪽 터널을 지나 유일한 출구인 정문 중 하나까지 내려가는 것보다 이걸 더 좋아한다. 그쪽은 길이 기니까."
+ },
+ "75da6420e379": {
+  "en": "Do you like the smell of fish and humid, salty air? Do you prefer frugality and a sense of connection between people over material possessions? Yes? Then this is the place to be for you! Be amazed by the infinite ways they can prepare Sanbi fish; most dishes are tasty, but some can be too experimental and require an adventurous spirit to gulp it down.",
+  "t": "생선 냄새와 습하고 짭짤한 공기를 좋아해? 물질적인 소유보다 검소함과 사람들 사이의 유대감을 더 좋아해? 그래? 그럼 여기가 바로 네가 있어야 할 곳이다! 산비 물고기를 요리하는 끝없는 방법들에 놀라게 될 거다. 대부분의 요리는 맛있지만, 어떤 건 너무 실험적이라 삼키려면 모험심이 필요하다."
+ },
+ "76cacf75d908": {
+  "en": "Talking about being a Darfaries born, depending on when you visit, you might see a group of people reunited in a local community center arguing loudly while someone screams at everyone while holding a bloodied book… Don’t worry! That’s just the Blood Book ceremony. This ceremony starts with the head of the family or village opening the book and stating the expectations and promises of a given signee from last time, then the signee gives an update on what they succeeded, what they failed, and what the new expectations will be. During this time, any other participant may promise something to the signee being reviewed, or outright challenge them to a duel to, for instance, bash some sense into their head or for failing to do something promised, or even resolve any bad blood between participants. Once the signee is fully reviewed, they sign in blood to make them responsible for complying with what they stated. Once everyone is done being reviewed, the bookkeeper signs in blood and seals the book away; then, all participants have a feast to celebrate life.",
+  "t": "다르파리에스로 태어난 것에 대해 말하자면, 언제 가느냐에 따라 지역 마을 회관에 모인 한 무리의 사람들이 큰 소리로 다투는 동안 누군가 피 묻은 책을 들고 모두에게 소리치는 걸 볼 수도 있다… 걱정하지 마! 그건 그냥 피의 책 의식이다. 이 의식은 가문이나 마을의 우두머리가 책을 펴서 지난번 특정 서명자의 기대와 약속을 읽는 것으로 시작하고, 서명자는 무엇에 성공했고 무엇에 실패했는지, 새로운 기대는 무엇인지 보고한다. 이 동안 다른 참가자는 누구든 심사받는 서명자에게 뭔가를 약속하거나, 예를 들어 정신 차리게 두들겨 주려고, 약속을 지키지 못한 것 때문에, 혹은 참가자들 사이의 묵은 감정을 풀려고 대놓고 결투를 신청할 수 있다. 서명자의 심사가 다 끝나면, 그는 자신이 말한 것을 지킬 책임을 지기 위해 피로 서명한다. 모두의 심사가 끝나면 기록자가 피로 서명하고 책을 봉인한다. 그런 다음 모든 참가자가 삶을 축하하는 잔치를 연다."
+ },
+ "780ae1337876": {
+  "en": "If you come from Gandew, you might get weirded out by the relatively constant temperature. And if you have extra \"padding\" in your gut, you might not even need thick coats to keep warm, and you would fit in pretty well; most people here are \"well-rounded,\" too.",
+  "t": "간듀에서 왔다면, 비교적 일정한 기온이 이상하게 느껴질 수도 있다. 그리고 배에 “쿠션”이 좀 있다면 따뜻하게 지내려고 두꺼운 코트를 입을 필요도 없을 테고, 꽤 잘 어울릴 거다. 여기 사람들 대부분도 “둥글둥글”하니까."
+ },
+ "78d97158c99e": {
+  "en": "Freeish Guards: a guard in light bone-wood armor with a green sash, next to a map of the Freeish region.",
+  "t": "프리이시 경비병: 가벼운 본 우드 갑옷에 초록 띠를 두른 경비병. 옆에 프리이시 지역 지도가 있다."
+ },
+ "794e9fa5c554": {
+  "en": "Nooru High-Gandew Tough-Hammer",
+  "t": "누루 하이 간듀 터프 해머"
+ },
+ "7ab3245e297c": {
+  "en": "A competent person once said, \"Do not challenge a Toleridemian to a drinking contest unless you can afford a body heal on your liver.\" Even Darfaries people with their hefty body frames can be put to shame by a true Toleridemian. To be fair, they make the best beer around, so I would be drinking all the time while watching the wind comb the purple Domar Carbey fields.",
+  "t": "어느 유능한 사람이 이렇게 말했다. “간에 보디 힐을 받을 여유가 없다면 톨레리데메 사람에게 술 내기를 걸지 마라.” 육중한 체격의 다르파리에스조차 진짜 톨레리데메 사람에게는 망신을 당할 수 있다. 공정하게 말하면 그들은 이 근방에서 최고의 맥주를 만드니까, 나라도 바람이 보라색 도마르 카베이 밭을 빗질하는 걸 보면서 계속 마실 거다."
+ },
+ "8232d0b2a960": {
+  "en": "Citizen’s names often lean towards Asian Names, specifically Chinese/Japanese.",
+  "t": "시민들의 이름은 아시아계, 특히 중국·일본식 이름 쪽에 가깝다."
+ },
+ "850d36ec275d": {
+  "en": "Public text: kingdom-gandew.md",
+  "t": "공개 텍스트: kingdom-gandew.md"
+ },
+ "85d3de793b22": {
+  "en": "*More notorious than notable",
+  "t": "*유명하다기보다는 악명이 높다"
+ },
+ "872f6b19dc18": {
+  "en": "The “Original” village as some say where Carbey was planted in mass.",
+  "t": "어떤 이들은 카베이를 대량으로 심은 “원조” 마을이라고 말한다."
+ },
+ "88024ff419a3": {
+  "en": "A village named for being close to the water.",
+  "t": "물가에 가까워서 붙은 이름의 마을."
+ },
+ "8b062a07fa54": {
+  "en": "Name characteristics are often akin to Brazilian Indians' names or Indian names as well. Sanbians like cool distinct names, especially one that speaks to your soul. Be it that kinda name that makes you want to scream out loud in the middle of the street on a rainy stormy night, or the one that you proudly have to repeat over and over because nobody can fucking understand how to write or say it.",
+  "t": "이름의 특징은 흔히 브라질 원주민 이름이나 인도 이름과 비슷하다. 산비 사람들은 멋지고 독특한 이름, 특히 영혼에 와닿는 이름을 좋아한다. 폭풍우 치는 밤에 길 한복판에서 크게 외치고 싶어지는 이름이든, 아무도 씨발 어떻게 쓰고 읽는지 몰라서 자랑스럽게 몇 번이고 반복해야 하는 이름이든."
+ },
+ "8dbc73d84fc8": {
+  "en": "Watching the sunset fall over a gyut or greenbread farms commonly found in the Soil group cities is a sight to watch. Just watch out for Trunk People! Even though they may be small and cute as they innocently light up the entire city, if enough of them turn on you, you could be burned down to a crisp. Falling greenbreads are fatal for their astounding human weight and size, so look up!",
+  "t": "흙 그룹 도시들에서 흔히 볼 수 있는 귯이나 그린브레드 농장 위로 해가 지는 걸 보는 건 볼만한 광경이다. 다만 트렁크 피플을 조심해! 순진하게 도시 전체를 밝힐 때는 작고 귀여울지 몰라도, 충분히 많은 녀석들이 너에게 등을 돌리면 바삭하게 타 버릴 수 있다. 떨어지는 그린브레드는 사람만큼 엄청난 무게와 크기 때문에 치명적이니, 위를 봐라!"
+ },
+ "8f965b8cf3fb": {
+  "en": "Public text: kingdom-tolerideme.md",
+  "t": "공개 텍스트: kingdom-tolerideme.md"
+ },
+ "92e1177ea03f": {
+  "en": "Neferteri Sanbi Royal",
+  "t": "네페르테리 산비 로열"
+ },
+ "94c1033f10fa": {
+  "en": "#2 - Carbeyland",
+  "t": "#2 - 카베이랜드"
+ },
+ "94e5edef9c68": {
+  "en": "Kianna Tolerideme Whoop-Ass",
+  "t": "키아나 톨레리데메 훕 애스"
+ },
+ "952c1e753793": {
+  "en": "Contrary to all other kingdoms, residents vote on their city leader, and the leaders vote on the representative of Freeish. It seems to work for them, at least for the most part—",
+  "t": "다른 모든 왕국과 달리, 주민들은 자기 도시의 지도자를 투표로 뽑고, 그 지도자들이 프리이시의 대표를 투표로 뽑는다. 적어도 대부분은 그들에게 잘 맞는 것 같다—"
+ },
+ "982748d123d5": {
+  "en": "The name stuck as this was the main village people fleeing from Sanbi/Tolerideme would see and make a decision of where to go next.",
+  "t": "산비나 톨레리데메에서 도망쳐 온 사람들이 가장 먼저 보고 다음에 어디로 갈지 정하는 주요 마을이라서 굳어진 이름이다."
+ },
+ "9b56eb75abb8": {
+  "en": "Gandew Kingdom",
+  "t": "간듀 왕국"
+ },
+ "9ba962a6f8e5": {
+  "en": "The oldest village of the bunch of origins around the fall of Ganyrami. It came from a legend that people in the region hunted down and ate every one of the Lishies that survived the fall of Ganyrami.",
+  "t": "가니라미 몰락 즈음에 생긴 마을들 중 가장 오래된 곳. 이 지역 사람들이 가니라미 몰락에서 살아남은 리시에스를 모조리 사냥해서 먹어 치웠다는 전설에서 유래했다."
+ },
+ "a2df78213bac": {
+  "en": "Getting anywhere without an egua is tricky unless you love walking—and by that, I mean you might have to walk 20,000 steps a day to do all of your errands as everything is entirely horizontal-like as if people were mortally afraid of heights.",
+  "t": "걷는 걸 정말 좋아하는 게 아니라면 에구아 없이 어디든 가기는 까다롭다—볼일을 다 보려면 하루에 2만 보를 걸어야 할 수도 있다는 뜻이다. 사람들이 높은 곳을 죽도록 무서워하기라도 하는 것처럼 모든 게 완전히 수평으로 펼쳐져 있으니까."
+ },
+ "b3a0e240e0e9": {
+  "en": "The Freeish Kingdom is composed of a cluster of several smaller cities. It came to be during the trying times before The Prosperity Treaty existed, when many people fled the other kingdoms and their incessant thirst for war.",
+  "t": "프리이시 왕국은 여러 작은 도시들이 모여 이루어져 있다. 《번영 조약》이 생기기 전의 혹독한 시절, 많은 사람들이 다른 왕국들과 그들의 끝없는 전쟁 욕심에서 도망쳐 나오면서 생겨났다."
+ },
+ "b4e566b040f0": {
+  "en": "Satomi High-Gandew Tough-Hammer",
+  "t": "사토미 하이 간듀 터프 해머"
+ },
+ "b5e256d5c2dc": {
+  "en": "Sanbi Kingdom",
+  "t": "산비 왕국"
+ },
+ "b6c43f896939": {
+  "en": "If you come from Sanbi, you will notice they are less handy, but boy, they are brutally honest! Don't take offense; that's how things have rolled since the three smart sisters raised Tolerideme from nothing purely by intelligence, strong use of soul energy interfaces, and unapologetically sassiness.",
+  "t": "산비에서 왔다면, 그들이 스킨십은 덜하지만, 와, 잔인할 만큼 솔직하다는 걸 알게 될 거다! 기분 나빠하지 마. 영리한 세 자매가 순전히 지성과 영혼 에너지 인터페이스의 강력한 활용과 거리낌 없는 독설만으로 톨레리데메를 무에서 일으켜 세운 이후로 쭉 그래 왔으니까."
+ },
+ "b793001dc78e": {
+  "en": "People from there were the first to plant Siguash in mass.",
+  "t": "그곳 사람들이 처음으로 시구아시를 대량으로 심었다."
+ },
+ "b94b0ff5d31f": {
+  "en": "Public text: kingdom-freeish.md",
+  "t": "공개 텍스트: kingdom-freeish.md"
+ },
+ "bb386fdbe7c3": {
+  "en": "Guilds",
+  "t": "길드"
+ },
+ "bfa399aa06f9": {
+  "en": "Tolerideme Guards are considered the most chill of all the guards, but they can pack a punch with their defensive gauntlet-like weapon. Although they more often than not resort to using the Darfaries interface on themselves to cast elemental damage to force their enemies to surrender. That does make them wide open due to its slow casting, but they are always in large packs. They can use nari gels as well if they are in a pinch, so if you want to inflict damage, you better be quick and relentless about it, or you might be frozen, shocked, cooked, trampled, flogged, or smashed by giant balls of elemental spells until your spirit breaks!",
+  "t": "톨레리데메 경비병은 모든 경비병 중 가장 느긋하다고 여겨지지만, 방어용 건틀릿 같은 무기로 한 방을 날릴 수 있다. 다만 대개는 자기 몸에 다르파리에스 인터페이스를 써서 원소 피해를 주어 적이 항복하게 만든다. 시전이 느려서 빈틈이 크게 생기지만, 그들은 늘 큰 무리로 다닌다. 궁지에 몰리면 나리 젤도 쓸 수 있으니, 피해를 주고 싶다면 빠르고 가차 없이 해야 한다. 안 그러면 네 의지가 꺾일 때까지 거대한 원소 주문 구체에 얼어붙고, 감전되고, 익혀지고, 짓밟히고, 채찍질당하고, 박살 날 수도 있다!"
+ },
+ "c146ad8baef1": {
+  "en": "#5 - The Mill",
+  "t": "#5 - 더 밀"
+ },
+ "c19736a4745a": {
+  "en": "Gandew Kingdom emblem: a glossy golden disc with a dark brown mountain peak.",
+  "t": "간듀 왕국 문장: 짙은 갈색 산봉우리가 그려진 윤기 나는 금색 원반."
+ },
+ "c279bfab163c": {
+  "en": "Maicon Forway Black-Dove*",
+  "t": "마이콘 포웨이 블랙 도브*"
+ },
+ "c41c27bf1a1e": {
+  "en": "The Freeish Kingdom is known for its spacious cities that resemble living in the middle of a forest, even in the most populous ones. The cities in the middle are known as the Soil Group, and they are more skewed towards farming and fishing. The outer ones are in the Blood group and rely more on hunting. This separation did not start right from the beginning; rather, it evolved naturally, and over time, they just started using those names without even realizing it.",
+  "t": "프리이시 왕국은 사람이 가장 많은 도시에서조차 숲 한가운데 사는 것 같은 널찍한 도시들로 유명하다. 가운데 있는 도시들은 “흙 그룹”이라 불리며 농업과 어업 쪽에 더 치우쳐 있다. 바깥쪽 도시들은 “피 그룹”에 속하며 사냥에 더 의존한다. 이 구분은 처음부터 있었던 게 아니라 자연스럽게 생겨났고, 시간이 지나면서 사람들은 자기도 모르게 그 이름들을 쓰기 시작했다."
+ },
+ "c611d4db2311": {
+  "en": "#9 - Endland",
+  "t": "#9 - 엔드랜드"
+ },
+ "c939662eff57": {
+  "en": "The Freeish Kingdom is composed of a cluster of several smaller cities.",
+  "t": "프리이시 왕국은 여러 작은 도시들이 모여 이루어져 있다."
+ },
+ "c9822dd1a8ef": {
+  "en": "Itagiba Sanbi Royal",
+  "t": "이타지바 산비 로열"
+ },
+ "c9b4a88ce858": {
+  "en": "Gandew Guards: a tall guard in tan armor with a mountain emblem and a spiked club, next to a desert map of Gandew.",
+  "t": "간듀 경비병: 산 문장이 있는 황갈색 갑옷에 가시 곤봉을 든 키 큰 경비병. 옆에 간듀의 사막 지도가 있다."
+ },
+ "d1b36b2075ab": {
+  "en": "You might also take a while to get used to the architecture since most buildings are part of cavern systems, and the temperature changes can be rather harsh. Lastly, don't be worried if you hear a deathly scream; it's probably just a Wooly about to become steak.",
+  "t": "건물 대부분이 동굴 체계의 일부이고 기온 변화가 꽤 혹독할 수 있어서, 건축 양식에 익숙해지는 데도 시간이 좀 걸릴 거다. 마지막으로, 죽어 가는 듯한 비명이 들려도 걱정하지 마. 아마 울리 한 마리가 스테이크가 되려는 참일 테니까."
+ },
+ "d7674f3dac8b": {
+  "en": "Sanbi city map: a sketch of a city wall with branching roads and a central lake, labeled in Vraki.",
+  "t": "산비 시 지도: 갈라지는 길과 가운데 호수가 있는 성벽 스케치. 브라키 문자로 표시되어 있다."
+ },
+ "d877e131a24b": {
+  "en": "Tolerideme Kingdom emblem: a glossy red disc with purple wheat stalks.",
+  "t": "톨레리데메 왕국 문장: 보라색 밀 줄기가 그려진 윤기 나는 빨간 원반."
+ },
+ "da861a8f05c8": {
+  "en": "#4 - Treetop",
+  "t": "#4 - 트리톱"
+ },
+ "dbf54ad0ca49": {
+  "en": "#1 - Governor State",
+  "t": "#1 - 거버너 스테이트"
+ },
+ "e26c147a1446": {
+  "en": "The Sanbi Kingdom is also the capital name—which surely never confused anyone! As it grew from the harbor area and around the Sanbi Castle, its shape became like an inverted triangle. Over time as the kingdom grew, the monarchy department built roads to connect the capital to the surrounding villages like Sanbi West and Sanbi East. When the time came to construct the main highway between Sanbi and Forway, the southern point was chosen, including to house the Forway embassy.",
+  "t": "산비 왕국은 수도의 이름이기도 하다—이 때문에 헷갈린 사람은 분명 아무도 없겠지! 항구 지역과 산비 성 주변에서 성장했기 때문에, 모양이 거꾸로 된 삼각형처럼 되었다. 왕국이 커지면서 왕실 부서는 수도와 산비 웨스트, 산비 이스트 같은 주변 마을을 잇는 길을 만들었다. 산비와 포웨이 사이에 주요 간선 도로를 낼 때가 되자, 남쪽 끝이 선택되었고 포웨이 대사관도 거기 들어섰다."
+ },
+ "e2efd3734953": {
+  "en": "Like most things about their culture, their impeccable precision also affects their names. All names are divisible by 2, often exactly 4 or 6 characters long. Why? Because there’s no “maybe” or exceptions. It’s what the Smart Ladies did, so it’s the law.",
+  "t": "그들 문화의 대부분이 그렇듯, 그들의 흠잡을 데 없는 정확함은 이름에도 영향을 미친다. 모든 이름의 글자 수는 2로 나누어떨어지며, 대개 정확히 4글자나 6글자다. 왜냐고? “아마도”나 예외는 없으니까. 영리한 숙녀들이 그렇게 했으니, 그게 법이다."
+ },
+ "ef532f37c23f": {
+  "en": "#12 - Lishies Eater",
+  "t": "#12 - 리시에스 이터"
+ },
+ "f3ae6c39baf0": {
+  "en": "Usually, people have “High-Gandew”, “Medium-Gandew”, “Low-Gandew” as the city name. For all intents and purposes, that’s the law of the land, and you will likely be ostracized if you don’t have that on your badge. However, it seems that the culture has relaxed a bit on that front, such as people shortening “Medium-Gandew” to “Mid-Gandew” in badges and getting away with it. At this rate, they might officially accept “Mid-Gandew” when talking with the guards or kingdom personnel.",
+  "t": "보통 사람들은 도시 이름으로 “하이 간듀”, “미디엄 간듀”, “로 간듀”를 쓴다. 사실상 그게 이 땅의 법이고, 신분패에 그게 없으면 따돌림을 당할 가능성이 높다. 하지만 이 부분에서 문화가 조금 느슨해진 것 같은데, 예를 들어 신분패에 “미디엄 간듀”를 “미드 간듀”로 줄여 써도 넘어가는 경우가 있다. 이대로라면 경비병이나 왕국 관리와 이야기할 때 “미드 간듀”를 공식적으로 받아들일지도 모른다."
+ },
+ "f57ea52d7935": {
+  "en": "#6 - Big Gyut",
+  "t": "#6 - 빅 귯"
+ },
+ "f7ee3f9bbe1c": {
+  "en": "Also, they are not lazy! It's a simple matter of \"Work smarter, not harder!\" If soul energy can do it, they won't move a finger of their corpulent body to do it. In the same vein, if you decide to get into a contract with them, you better not assume they will go above and beyond for you. If it's not in the contract, it will not get done.",
+  "t": "그리고 그들은 게으르지 않다! 그냥 “더 힘들게가 아니라 더 똑똑하게 일하라!”는 것뿐이다. 영혼 에너지로 할 수 있다면, 그들은 그 뚱뚱한 몸의 손가락 하나 까딱하지 않는다. 같은 맥락에서, 그들과 계약을 맺기로 했다면 너를 위해 그 이상을 해 줄 거라고 생각하지 마라. 계약에 없으면, 안 한다."
+ },
+ "f9fc99f2836d": {
+  "en": "Freeish location names: a forest map with numbered villages from 1 to 12 around a lake.",
+  "t": "프리이시 지명: 호수 주변에 1부터 12까지 번호가 붙은 마을들이 있는 숲 지도."
+ },
+ "f9fe605e1468": {
+  "en": "Coema Half-Cruro",
+  "t": "코에마 하프 크루로"
+ },
+ "fbc2d07cce25": {
+  "en": "Gandew Guards are the most physical ones, and they’re brutal about it. If their blunt weapon touches you, you likely won’t be going anywhere for a while. They tend to travel alone for customary reasons, but you would be foolish to think they are easy pickings. Their chitin armor is tough, and they earn their paycheck with the blood and tears—of their enemies. Also, don’t expect to strike up many conversations with them when they have their helmet on; they are generally more reserved than other guards, but the issue is that their helmet locks their large tusks in place, preventing them from opening their mouths. Some still say, “Pfff—it was a design flaw with the armor, but they won’t admit it because Darfaries being Darfaries, am I right?” However, scholars proved already that it was to create a silent servitude, so it was a feature, not a bug.",
+  "t": "간듀 경비병은 가장 육체파이고, 그 방식이 잔혹하다. 그들의 둔기에 닿기만 해도 한동안 어디도 못 갈 가능성이 높다. 관습상의 이유로 혼자 다니는 경향이 있지만, 쉬운 먹잇감이라고 생각한다면 바보다. 키틴 갑옷은 튼튼하고, 그들은 피와 눈물로 월급을 번다—적의 피와 눈물로. 그리고 투구를 쓰고 있을 때 그들과 대화를 나눌 거라고 기대하지 마. 다른 경비병들보다 대체로 과묵하기도 하지만, 문제는 투구가 커다란 엄니를 고정해서 입을 못 열게 한다는 거다. 어떤 이들은 여전히 “푸—그건 갑옷의 설계 결함인데, 다르파리에스는 다르파리에스니까 인정을 안 하는 거지, 안 그래?”라고 말한다. 하지만 학자들은 이미 그게 침묵의 복종을 만들기 위한 것이었다고, 즉 버그가 아니라 기능이었다고 증명했다."
+ }
+}
