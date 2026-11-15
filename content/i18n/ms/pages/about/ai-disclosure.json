@@ -1,8 +1,4 @@
 {
- "08be1138d7f2": {
-  "en": "<strong>Translated by the AI</strong> into Chinese (Simplified), Japanese, Portuguese (Brazil), Spanish (Spain), Arabic, Korean and Malay (Malaysia), paragraph by paragraph, with <a href=\"tools/i18n.py\">tools/i18n.py</a>. The name spellings in each <code>glossary.json</code> follow the author's rule (by sound, never translated). Every translated page is labeled as AI-translated.",
-  "t": "<strong>Diterjemah oleh AI</strong> ke dalam bahasa Cina (Ringkas), Jepun, Portugis (Brazil), Sepanyol (Sepanyol), Arab, Korea dan Melayu (Malaysia), perenggan demi perenggan, dengan <a href=\"tools/i18n.py\">tools/i18n.py</a>. Ejaan nama dalam setiap <code>glossary.json</code> mengikut peraturan pengarang (mengikut bunyi, tidak sesekali diterjemah). Setiap halaman terjemahan dilabel sebagai diterjemah oleh AI."
- },
  "1014c3427fd9": {
   "en": "The <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> workflow.",
   "t": "Aliran kerja <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a>."
@@ -46,6 +42,10 @@
  "3144d7dfc82e": {
   "en": "Requests from Deovandski.",
   "t": "Permintaan daripada Deovandski."
+ },
+ "32029de7b0d1": {
+  "en": "<strong>AI system:</strong> Claude, a large language model by Anthropic, used as an assistant with access to the repo files and the Blogger export (November 2026).\n<strong>Human contribution:</strong> all source material (the novel, the story notes, the World Lore, the spreadsheets, the blog and the Vraki font, by Deovandski Skibinski Junior; all artwork, by Mitsukiven and Feiourm); the website concept (one site, a Public layer and a Behind The Scenes layer behind a spoiler warning, a Vraki mode, a Forway color palette); direction and approval of every commit.\n<strong>AI contribution:</strong> translating the website into other languages; moving the originals into Legacy and converting the blog to Markdown; designing and coding the website, its build script and its tools (search, glossary, settings); matching each blog section to its entry in the original docs; writing eight short topic summaries; writing alt text for the illustrations; writing the AI-readable files (llms.txt and the rest).\n<strong>Human modification:</strong> Deovandski reviews and requests changes.\n<strong>Accountability:</strong> Deovandski Skibinski Junior.",
+  "t": "<strong>Sistem AI:</strong> Claude, model bahasa besar oleh Anthropic, digunakan sebagai pembantu dengan akses kepada fail repo dan eksport Blogger (November 2026).\n<strong>Sumbangan manusia:</strong> semua bahan sumber (novel, nota cerita, Lore Dunia, hamparan, blog dan fon Vraki, oleh Deovandski Skibinski Junior; semua karya seni, oleh Mitsukiven dan Feiourm); konsep laman web (satu laman, lapisan Umum dan lapisan Di Sebalik Tabir di sebalik amaran bocoran, mod Vraki, palet warna Forway); arahan dan kelulusan setiap commit.\n<strong>Sumbangan AI:</strong> menterjemah laman web ke dalam bahasa lain; memindahkan karya asal ke Legacy dan menukar blog kepada Markdown; mereka bentuk dan mengekod laman web, skrip binaannya dan alatannya (carian, glosari, tetapan); memadankan setiap bahagian blog dengan entrinya dalam dokumen asal; menulis lapan ringkasan topik pendek; menulis teks alt untuk ilustrasi; menulis fail yang boleh dibaca AI (llms.txt dan yang lain).\n<strong>Pengubahsuaian manusia:</strong> Deovandski menyemak dan meminta perubahan.\n<strong>Akauntabiliti:</strong> Deovandski Skibinski Junior."
  },
  "3498b16ba17c": {
   "en": "IBM Research, <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a>",
@@ -143,6 +143,10 @@
   "en": "Built automatically: each term, its topic, and the first sentence or two of its description, cut from the author's text.",
   "t": "Dibina secara automatik: setiap istilah, topiknya, dan satu atau dua ayat pertama penerangannya, dipotong daripada teks pengarang."
  },
+ "894948ec60db": {
+  "en": "<strong>The translations are AI-written, and every translated page says so.</strong> The website is also offered in other languages (pick one in Settings). Claude translated the author's text ahead of time (it is not machine translation on the fly), following the author's rules: names are written by sound, never translated. Each translated page carries a banner saying it was AI-translated from the original works, with a link to the English original. English is the source; if a translation and the English disagree, the English wins.",
+  "t": "<strong>Terjemahan ditulis oleh AI, dan setiap halaman terjemahan menyatakannya.</strong> Laman web ini juga ditawarkan dalam bahasa lain (pilih satu dalam Tetapan). Claude menterjemah teks pengarang lebih awal (ia bukan terjemahan mesin secara langsung), mengikut peraturan pengarang: nama ditulis mengikut bunyi, tidak sesekali diterjemah. Setiap halaman terjemahan membawa sepanduk yang menyatakan ia diterjemah oleh AI daripada karya asal, dengan pautan ke versi asal bahasa Inggeris. Bahasa Inggeris ialah sumbernya; jika terjemahan dan bahasa Inggeris bercanggah, bahasa Inggeris yang diguna pakai."
+ },
  "8a6ae07cd8db": {
   "en": "The three volumes of Arc #1 (human).",
   "t": "Tiga jilid Arka #1 (manusia)."
@@ -159,9 +163,9 @@
   "en": "Moved them into this folder without editing them. The one exception: at Deovandski's request, the Vraki typeface license (<code>Logo and Font/LICENSE.md</code>) now names LinkedIn and email as the way to ask for commercial approval.",
   "t": "Memindahkannya ke dalam folder ini tanpa menyuntingnya. Satu-satunya pengecualian: atas permintaan Deovandski, lesen muka taip Vraki (<code>Logo and Font/LICENSE.md</code>) kini menyebut LinkedIn dan e-mel sebagai cara untuk meminta kelulusan komersial."
  },
- "8fd7e11fcf10": {
-  "en": "<strong>AI system:</strong> Claude, a large language model by Anthropic, used as an assistant with access to the repo files and the Blogger export (November 2026).\n<strong>Human contribution:</strong> all source material (the novel, the story notes, the World Lore, the spreadsheets, the blog and the Vraki font, by Deovandski Skibinski Junior; all artwork, by Mitsukiven and Feiourm); the website concept (one site, a Public layer and a Behind The Scenes layer behind a spoiler warning, a Vraki mode, a Forway color palette); direction and approval of every commit.\n<strong>AI contribution:</strong> translating the website into seven languages; moving the originals into Legacy and converting the blog to Markdown; designing and coding the website, its build script and its tools (search, glossary, settings); matching each blog section to its entry in the original docs; writing eight short topic summaries; writing alt text for the illustrations; writing the AI-readable files (llms.txt and the rest).\n<strong>Human modification:</strong> Deovandski reviews and requests changes.\n<strong>Accountability:</strong> Deovandski Skibinski Junior.",
-  "t": "<strong>Sistem AI:</strong> Claude, model bahasa besar oleh Anthropic, digunakan sebagai pembantu dengan akses kepada fail repo dan eksport Blogger (November 2026).\n<strong>Sumbangan manusia:</strong> semua bahan sumber (novel, nota cerita, Lore Dunia, hamparan, blog dan fon Vraki, oleh Deovandski Skibinski Junior; semua karya seni, oleh Mitsukiven dan Feiourm); konsep laman web (satu laman, lapisan Umum dan lapisan Di Sebalik Tabir di sebalik amaran bocoran, mod Vraki, palet warna Forway); arahan dan kelulusan setiap commit.\n<strong>Sumbangan AI:</strong> menterjemah laman web ke dalam tujuh bahasa; memindahkan karya asal ke Legacy dan menukar blog kepada Markdown; mereka bentuk dan mengekod laman web, skrip binaannya dan alatannya (carian, glosari, tetapan); memadankan setiap bahagian blog dengan entrinya dalam dokumen asal; menulis lapan ringkasan topik pendek; menulis teks alt untuk ilustrasi; menulis fail yang boleh dibaca AI (llms.txt dan yang lain).\n<strong>Pengubahsuaian manusia:</strong> Deovandski menyemak dan meminta perubahan.\n<strong>Akauntabiliti:</strong> Deovandski Skibinski Junior."
+ "91ea456b6a05": {
+  "en": "<strong>Translated by the AI</strong> into each language in the Settings list, paragraph by paragraph, with <a href=\"tools/i18n.py\">tools/i18n.py</a>. The name spellings in each <code>glossary.json</code> follow the author's rule (by sound, never translated). Every translated page is labeled as AI-translated.",
+  "t": "<strong>Diterjemah oleh AI</strong> ke dalam setiap bahasa dalam senarai Tetapan, perenggan demi perenggan, dengan <a href=\"tools/i18n.py\">tools/i18n.py</a>. Ejaan nama dalam setiap <code>glossary.json</code> mengikut peraturan pengarang (mengikut bunyi, tidak sesekali diterjemah). Setiap halaman terjemahan dilabel sebagai diterjemah oleh AI."
  },
  "94f64ad638e3": {
   "en": "Written by the AI, for accessibility (see above).",
@@ -238,10 +242,6 @@
  "d61deee4df8a": {
   "en": "This repo's original files (human).",
   "t": "Fail asal repo ini (manusia)."
- },
- "dc051ac061d0": {
-  "en": "<strong>The translations are AI-written, and every translated page says so.</strong> The website is also offered in Chinese, Japanese, Portuguese, Spanish, Arabic, Korean and Malay. Claude translated the author's text ahead of time (it is not machine translation on the fly), following the author's rules: names are written by sound, never translated. Each translated page carries a banner saying it was AI-translated from the original works, with a link to the English original. English is the source; if a translation and the English disagree, the English wins.",
-  "t": "<strong>Terjemahan ditulis oleh AI, dan setiap halaman terjemahan menyatakannya.</strong> Laman web ini juga ditawarkan dalam bahasa Cina, Jepun, Portugis, Sepanyol, Arab, Korea dan Melayu. Claude menterjemah teks pengarang lebih awal (ia bukan terjemahan mesin secara langsung), mengikut peraturan pengarang: nama ditulis mengikut bunyi, tidak sesekali diterjemah. Setiap halaman terjemahan membawa sepanduk yang menyatakan ia diterjemah oleh AI daripada karya asal, dengan pautan ke versi asal bahasa Inggeris. Bahasa Inggeris ialah sumbernya; jika terjemahan dan bahasa Inggeris bercanggah, bahasa Inggeris yang diguna pakai."
  },
  "df38ee0d1058": {
   "en": "<strong>A few things are AI-written, and they're labeled.</strong> The website's code and its own text (menus, buttons, help), the short summaries for eight lore topics the blog never covered, the alt text that describes each illustration, and this page.",

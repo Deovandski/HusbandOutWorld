@@ -1,8 +1,4 @@
 {
- "08be1138d7f2": {
-  "en": "<strong>Translated by the AI</strong> into Chinese (Simplified), Japanese, Portuguese (Brazil), Spanish (Spain), Arabic, Korean and Malay (Malaysia), paragraph by paragraph, with <a href=\"tools/i18n.py\">tools/i18n.py</a>. The name spellings in each <code>glossary.json</code> follow the author's rule (by sound, never translated). Every translated page is labeled as AI-translated.",
-  "t": "<strong>Traducido por la IA</strong> al chino (simplificado), japonés, portugués (Brasil), español (España), árabe, coreano y malayo (Malasia), párrafo a párrafo, con <a href=\"tools/i18n.py\">tools/i18n.py</a>. La grafía de los nombres en cada <code>glossary.json</code> sigue la regla del autor (según cómo suenan, nunca traducidos). Cada página traducida está señalada como traducida por IA."
- },
  "1014c3427fd9": {
   "en": "The <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> workflow.",
   "t": "El workflow de la <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a>."
@@ -46,6 +42,10 @@
  "3144d7dfc82e": {
   "en": "Requests from Deovandski.",
   "t": "Peticiones de Deovandski."
+ },
+ "32029de7b0d1": {
+  "en": "<strong>AI system:</strong> Claude, a large language model by Anthropic, used as an assistant with access to the repo files and the Blogger export (November 2026).\n<strong>Human contribution:</strong> all source material (the novel, the story notes, the World Lore, the spreadsheets, the blog and the Vraki font, by Deovandski Skibinski Junior; all artwork, by Mitsukiven and Feiourm); the website concept (one site, a Public layer and a Behind The Scenes layer behind a spoiler warning, a Vraki mode, a Forway color palette); direction and approval of every commit.\n<strong>AI contribution:</strong> translating the website into other languages; moving the originals into Legacy and converting the blog to Markdown; designing and coding the website, its build script and its tools (search, glossary, settings); matching each blog section to its entry in the original docs; writing eight short topic summaries; writing alt text for the illustrations; writing the AI-readable files (llms.txt and the rest).\n<strong>Human modification:</strong> Deovandski reviews and requests changes.\n<strong>Accountability:</strong> Deovandski Skibinski Junior.",
+  "t": "<strong>Sistema de IA:</strong> Claude, un modelo de lenguaje de gran tamaño de Anthropic, usado como asistente con acceso a los archivos del repositorio y a la exportación de Blogger (noviembre de 2026).\n<strong>Aportación humana:</strong> todo el material de origen (la novela, las notas de la historia, la Lore del mundo, las hojas de cálculo, el blog y la fuente Vraki, de Deovandski Skibinski Junior; todo el arte, de Mitsukiven y Feiourm); el concepto de la web (un solo sitio, una capa Pública y una capa Entre bastidores tras un aviso de spoilers, un modo Vraki, una paleta de colores de Forway); la dirección y la aprobación de cada commit.\n<strong>Aportación de la IA:</strong> traducir la web a otros idiomas; mover los originales a Legacy y convertir el blog a Markdown; diseñar y programar la web, su script de compilación y sus herramientas (búsqueda, glosario, ajustes); emparejar cada sección del blog con su entrada en los documentos originales; escribir ocho resúmenes breves de temas; escribir el texto alternativo de las ilustraciones; escribir los archivos legibles por IA (llms.txt y el resto).\n<strong>Modificación humana:</strong> Deovandski revisa y pide cambios.\n<strong>Responsabilidad:</strong> Deovandski Skibinski Junior."
  },
  "3498b16ba17c": {
   "en": "IBM Research, <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a>",
@@ -143,6 +143,10 @@
   "en": "Built automatically: each term, its topic, and the first sentence or two of its description, cut from the author's text.",
   "t": "Generado automáticamente: cada término, su tema y la primera o las dos primeras frases de su descripción, recortadas del texto del autor."
  },
+ "894948ec60db": {
+  "en": "<strong>The translations are AI-written, and every translated page says so.</strong> The website is also offered in other languages (pick one in Settings). Claude translated the author's text ahead of time (it is not machine translation on the fly), following the author's rules: names are written by sound, never translated. Each translated page carries a banner saying it was AI-translated from the original works, with a link to the English original. English is the source; if a translation and the English disagree, the English wins.",
+  "t": "<strong>Las traducciones las escribió la IA, y cada página traducida lo indica.</strong> La web también se ofrece en otros idiomas (elige uno en Ajustes). Claude tradujo el texto del autor de antemano (no es traducción automática al vuelo), siguiendo las reglas del autor: los nombres se escriben según cómo suenan, nunca se traducen. Cada página traducida lleva un aviso que indica que fue traducida por IA a partir de las obras originales, con un enlace al original en inglés. El inglés es la fuente; si una traducción y el inglés no coinciden, manda el inglés."
+ },
  "8a6ae07cd8db": {
   "en": "The three volumes of Arc #1 (human).",
   "t": "Los tres volúmenes del Arco #1 (humanos)."
@@ -159,9 +163,9 @@
   "en": "Moved them into this folder without editing them. The one exception: at Deovandski's request, the Vraki typeface license (<code>Logo and Font/LICENSE.md</code>) now names LinkedIn and email as the way to ask for commercial approval.",
   "t": "Los movió a esta carpeta sin editarlos. La única excepción: a petición de Deovandski, la licencia de la fuente Vraki (<code>Logo and Font/LICENSE.md</code>) ahora indica LinkedIn y el correo electrónico como vía para pedir la aprobación comercial."
  },
- "8fd7e11fcf10": {
-  "en": "<strong>AI system:</strong> Claude, a large language model by Anthropic, used as an assistant with access to the repo files and the Blogger export (November 2026).\n<strong>Human contribution:</strong> all source material (the novel, the story notes, the World Lore, the spreadsheets, the blog and the Vraki font, by Deovandski Skibinski Junior; all artwork, by Mitsukiven and Feiourm); the website concept (one site, a Public layer and a Behind The Scenes layer behind a spoiler warning, a Vraki mode, a Forway color palette); direction and approval of every commit.\n<strong>AI contribution:</strong> translating the website into seven languages; moving the originals into Legacy and converting the blog to Markdown; designing and coding the website, its build script and its tools (search, glossary, settings); matching each blog section to its entry in the original docs; writing eight short topic summaries; writing alt text for the illustrations; writing the AI-readable files (llms.txt and the rest).\n<strong>Human modification:</strong> Deovandski reviews and requests changes.\n<strong>Accountability:</strong> Deovandski Skibinski Junior.",
-  "t": "<strong>Sistema de IA:</strong> Claude, un modelo de lenguaje de gran tamaño de Anthropic, usado como asistente con acceso a los archivos del repositorio y a la exportación de Blogger (noviembre de 2026).\n<strong>Aportación humana:</strong> todo el material de origen (la novela, las notas de la historia, la Lore del mundo, las hojas de cálculo, el blog y la fuente Vraki, de Deovandski Skibinski Junior; todo el arte, de Mitsukiven y Feiourm); el concepto de la web (un solo sitio, una capa Pública y una capa Entre bastidores tras un aviso de spoilers, un modo Vraki, una paleta de colores de Forway); la dirección y la aprobación de cada commit.\n<strong>Aportación de la IA:</strong> traducir la web a siete idiomas; mover los originales a Legacy y convertir el blog a Markdown; diseñar y programar la web, su script de compilación y sus herramientas (búsqueda, glosario, ajustes); emparejar cada sección del blog con su entrada en los documentos originales; escribir ocho resúmenes breves de temas; escribir el texto alternativo de las ilustraciones; escribir los archivos legibles por IA (llms.txt y el resto).\n<strong>Modificación humana:</strong> Deovandski revisa y pide cambios.\n<strong>Responsabilidad:</strong> Deovandski Skibinski Junior."
+ "91ea456b6a05": {
+  "en": "<strong>Translated by the AI</strong> into each language in the Settings list, paragraph by paragraph, with <a href=\"tools/i18n.py\">tools/i18n.py</a>. The name spellings in each <code>glossary.json</code> follow the author's rule (by sound, never translated). Every translated page is labeled as AI-translated.",
+  "t": "<strong>Traducido por la IA</strong> a cada idioma de la lista de Ajustes, párrafo a párrafo, con <a href=\"tools/i18n.py\">tools/i18n.py</a>. La grafía de los nombres en cada <code>glossary.json</code> sigue la regla del autor (según cómo suenan, nunca traducidos). Cada página traducida está señalada como traducida por IA."
  },
  "94f64ad638e3": {
   "en": "Written by the AI, for accessibility (see above).",
@@ -238,10 +242,6 @@
  "d61deee4df8a": {
   "en": "This repo's original files (human).",
   "t": "Los archivos originales de este repositorio (humanos)."
- },
- "dc051ac061d0": {
-  "en": "<strong>The translations are AI-written, and every translated page says so.</strong> The website is also offered in Chinese, Japanese, Portuguese, Spanish, Arabic, Korean and Malay. Claude translated the author's text ahead of time (it is not machine translation on the fly), following the author's rules: names are written by sound, never translated. Each translated page carries a banner saying it was AI-translated from the original works, with a link to the English original. English is the source; if a translation and the English disagree, the English wins.",
-  "t": "<strong>Las traducciones las escribió la IA, y cada página traducida lo indica.</strong> La web también se ofrece en chino, japonés, portugués, español, árabe, coreano y malayo. Claude tradujo el texto del autor de antemano (no es traducción automática al vuelo), siguiendo las reglas del autor: los nombres se escriben según cómo suenan, nunca se traducen. Cada página traducida lleva un aviso que indica que fue traducida por IA a partir de las obras originales, con un enlace al original en inglés. El inglés es la fuente; si una traducción y el inglés no coinciden, manda el inglés."
  },
  "df38ee0d1058": {
   "en": "<strong>A few things are AI-written, and they're labeled.</strong> The website's code and its own text (menus, buttons, help), the short summaries for eight lore topics the blog never covered, the alt text that describes each illustration, and this page.",
