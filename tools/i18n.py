@@ -1,4 +1,4 @@
-"""Translations of the website (Chinese, Japanese, Portuguese, Spanish, Arabic, Korean, Malay, Thai, German, Vietnamese), written ahead of time and kept
+"""Translations of the website (Chinese, Japanese, Portuguese, Spanish, Arabic, Korean, Malay, Thai, German, Vietnamese, Italian), written ahead of time and kept
 in content/i18n/<lang>/. English stays the source; nothing in Legacy/ changes.
 
 How it works
