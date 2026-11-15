@@ -1,8 +1,4 @@
 {
- "08be1138d7f2": {
-  "en": "<strong>Translated by the AI</strong> into Chinese (Simplified), Japanese, Portuguese (Brazil), Spanish (Spain), Arabic, Korean and Malay (Malaysia), paragraph by paragraph, with <a href=\"tools/i18n.py\">tools/i18n.py</a>. The name spellings in each <code>glossary.json</code> follow the author's rule (by sound, never translated). Every translated page is labeled as AI-translated.",
-  "t": "<a href=\"tools/i18n.py\">tools/i18n.py</a>로 문단 단위로 중국어(간체), 일본어, 포르투갈어(브라질), 스페인어(스페인), 아랍어, 한국어, 말레이어(말레이시아)로 <strong>AI가 번역</strong>했습니다. 각 <code>glossary.json</code>의 이름 표기는 작가의 규칙(소리대로, 절대 의미로 옮기지 않음)을 따릅니다. 번역된 모든 페이지에는 AI 번역이라고 표시되어 있습니다."
- },
  "1014c3427fd9": {
   "en": "The <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> workflow.",
   "t": "<a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a>의 워크플로."
@@ -46,6 +42,10 @@
  "3144d7dfc82e": {
   "en": "Requests from Deovandski.",
   "t": "Deovandski의 요청."
+ },
+ "32029de7b0d1": {
+  "en": "<strong>AI system:</strong> Claude, a large language model by Anthropic, used as an assistant with access to the repo files and the Blogger export (November 2026).\n<strong>Human contribution:</strong> all source material (the novel, the story notes, the World Lore, the spreadsheets, the blog and the Vraki font, by Deovandski Skibinski Junior; all artwork, by Mitsukiven and Feiourm); the website concept (one site, a Public layer and a Behind The Scenes layer behind a spoiler warning, a Vraki mode, a Forway color palette); direction and approval of every commit.\n<strong>AI contribution:</strong> translating the website into other languages; moving the originals into Legacy and converting the blog to Markdown; designing and coding the website, its build script and its tools (search, glossary, settings); matching each blog section to its entry in the original docs; writing eight short topic summaries; writing alt text for the illustrations; writing the AI-readable files (llms.txt and the rest).\n<strong>Human modification:</strong> Deovandski reviews and requests changes.\n<strong>Accountability:</strong> Deovandski Skibinski Junior.",
+  "t": "<strong>AI 시스템:</strong> Anthropic의 대규모 언어 모델 Claude. 저장소 파일과 Blogger 내보내기 파일에 접근할 수 있는 어시스턴트로 사용했습니다(2026년 11월).\n<strong>사람의 기여:</strong> 모든 원본 자료(소설, 스토리 노트, 세계관, 스프레드시트, 블로그, 브라키 폰트는 Deovandski Skibinski Junior, 모든 아트워크는 Mitsukiven과 Feiourm), 웹사이트 구상(하나의 사이트, 공개 레이어와 스포일러 경고 뒤의 비하인드 레이어, 브라키 모드, 포웨이 색상 팔레트), 모든 커밋에 대한 지휘와 승인.\n<strong>AI의 기여:</strong> 웹사이트를 다른 언어로 번역, 원본을 Legacy로 옮기고 블로그를 Markdown으로 변환, 웹사이트와 빌드 스크립트 및 도구(검색, 용어집, 설정)의 설계와 코딩, 각 블로그 섹션을 원본 문서의 항목과 연결, 짧은 주제 요약 여덟 개 작성, 삽화의 대체 텍스트 작성, AI가 읽을 수 있는 파일(llms.txt 등) 작성.\n<strong>사람의 수정:</strong> Deovandski가 검토하고 수정을 요청합니다.\n<strong>책임:</strong> Deovandski Skibinski Junior."
  },
  "3498b16ba17c": {
   "en": "IBM Research, <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a>",
@@ -143,6 +143,10 @@
   "en": "Built automatically: each term, its topic, and the first sentence or two of its description, cut from the author's text.",
   "t": "자동으로 생성: 각 용어, 그 주제, 작가의 글에서 잘라 낸 설명의 첫 한두 문장."
  },
+ "894948ec60db": {
+  "en": "<strong>The translations are AI-written, and every translated page says so.</strong> The website is also offered in other languages (pick one in Settings). Claude translated the author's text ahead of time (it is not machine translation on the fly), following the author's rules: names are written by sound, never translated. Each translated page carries a banner saying it was AI-translated from the original works, with a link to the English original. English is the source; if a translation and the English disagree, the English wins.",
+  "t": "<strong>번역은 AI가 했으며, 번역된 모든 페이지에 그렇게 표시되어 있습니다.</strong> 이 웹사이트는 다른 언어로도 제공됩니다(설정에서 고를 수 있습니다). Claude가 작가의 글을 미리 번역했으며(실시간 기계 번역이 아닙니다), 작가의 규칙을 따랐습니다. 이름은 소리대로 적고, 절대 의미로 옮기지 않습니다. 번역된 각 페이지에는 원작에서 AI가 번역했다는 배너와 영어 원문으로 가는 링크가 있습니다. 원본은 영어이며, 번역과 영어가 다르면 영어가 우선합니다."
+ },
  "8a6ae07cd8db": {
   "en": "The three volumes of Arc #1 (human).",
   "t": "아크 1의 세 권(사람)."
@@ -159,9 +163,9 @@
   "en": "Moved them into this folder without editing them. The one exception: at Deovandski's request, the Vraki typeface license (<code>Logo and Font/LICENSE.md</code>) now names LinkedIn and email as the way to ask for commercial approval.",
   "t": "편집하지 않고 이 폴더로 옮겼습니다. 단 하나의 예외: Deovandski의 요청에 따라 브라키 서체 라이선스(<code>Logo and Font/LICENSE.md</code>)에 상업적 승인을 요청하는 방법으로 LinkedIn과 이메일을 적었습니다."
  },
- "8fd7e11fcf10": {
-  "en": "<strong>AI system:</strong> Claude, a large language model by Anthropic, used as an assistant with access to the repo files and the Blogger export (November 2026).\n<strong>Human contribution:</strong> all source material (the novel, the story notes, the World Lore, the spreadsheets, the blog and the Vraki font, by Deovandski Skibinski Junior; all artwork, by Mitsukiven and Feiourm); the website concept (one site, a Public layer and a Behind The Scenes layer behind a spoiler warning, a Vraki mode, a Forway color palette); direction and approval of every commit.\n<strong>AI contribution:</strong> translating the website into seven languages; moving the originals into Legacy and converting the blog to Markdown; designing and coding the website, its build script and its tools (search, glossary, settings); matching each blog section to its entry in the original docs; writing eight short topic summaries; writing alt text for the illustrations; writing the AI-readable files (llms.txt and the rest).\n<strong>Human modification:</strong> Deovandski reviews and requests changes.\n<strong>Accountability:</strong> Deovandski Skibinski Junior.",
-  "t": "<strong>AI 시스템:</strong> Anthropic의 대규모 언어 모델 Claude. 저장소 파일과 Blogger 내보내기 파일에 접근할 수 있는 어시스턴트로 사용했습니다(2026년 11월).\n<strong>사람의 기여:</strong> 모든 원본 자료(소설, 스토리 노트, 세계관, 스프레드시트, 블로그, 브라키 폰트는 Deovandski Skibinski Junior, 모든 아트워크는 Mitsukiven과 Feiourm), 웹사이트 구상(하나의 사이트, 공개 레이어와 스포일러 경고 뒤의 비하인드 레이어, 브라키 모드, 포웨이 색상 팔레트), 모든 커밋에 대한 지휘와 승인.\n<strong>AI의 기여:</strong> 웹사이트를 일곱 개 언어로 번역, 원본을 Legacy로 옮기고 블로그를 Markdown으로 변환, 웹사이트와 빌드 스크립트 및 도구(검색, 용어집, 설정)의 설계와 코딩, 각 블로그 섹션을 원본 문서의 항목과 연결, 짧은 주제 요약 여덟 개 작성, 삽화의 대체 텍스트 작성, AI가 읽을 수 있는 파일(llms.txt 등) 작성.\n<strong>사람의 수정:</strong> Deovandski가 검토하고 수정을 요청합니다.\n<strong>책임:</strong> Deovandski Skibinski Junior."
+ "91ea456b6a05": {
+  "en": "<strong>Translated by the AI</strong> into each language in the Settings list, paragraph by paragraph, with <a href=\"tools/i18n.py\">tools/i18n.py</a>. The name spellings in each <code>glossary.json</code> follow the author's rule (by sound, never translated). Every translated page is labeled as AI-translated.",
+  "t": "<a href=\"tools/i18n.py\">tools/i18n.py</a>로 문단 단위로 설정 목록에 있는 각 언어로 <strong>AI가 번역</strong>했습니다. 각 <code>glossary.json</code>의 이름 표기는 작가의 규칙(소리대로, 절대 의미로 옮기지 않음)을 따릅니다. 번역된 모든 페이지에는 AI 번역이라고 표시되어 있습니다."
  },
  "94f64ad638e3": {
   "en": "Written by the AI, for accessibility (see above).",
@@ -238,10 +242,6 @@
  "d61deee4df8a": {
   "en": "This repo's original files (human).",
   "t": "이 저장소의 원본 파일(사람)."
- },
- "dc051ac061d0": {
-  "en": "<strong>The translations are AI-written, and every translated page says so.</strong> The website is also offered in Chinese, Japanese, Portuguese, Spanish, Arabic, Korean and Malay. Claude translated the author's text ahead of time (it is not machine translation on the fly), following the author's rules: names are written by sound, never translated. Each translated page carries a banner saying it was AI-translated from the original works, with a link to the English original. English is the source; if a translation and the English disagree, the English wins.",
-  "t": "<strong>번역은 AI가 했으며, 번역된 모든 페이지에 그렇게 표시되어 있습니다.</strong> 이 웹사이트는 중국어, 일본어, 포르투갈어, 스페인어, 아랍어, 한국어, 말레이어로도 제공됩니다. Claude가 작가의 글을 미리 번역했으며(실시간 기계 번역이 아닙니다), 작가의 규칙을 따랐습니다. 이름은 소리대로 적고, 절대 의미로 옮기지 않습니다. 번역된 각 페이지에는 원작에서 AI가 번역했다는 배너와 영어 원문으로 가는 링크가 있습니다. 원본은 영어이며, 번역과 영어가 다르면 영어가 우선합니다."
  },
  "df38ee0d1058": {
   "en": "<strong>A few things are AI-written, and they're labeled.</strong> The website's code and its own text (menus, buttons, help), the short summaries for eight lore topics the blog never covered, the alt text that describes each illustration, and this page.",
