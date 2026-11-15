@@ -1,0 +1,274 @@
+{
+ "1014c3427fd9": {
+  "en": "The <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> workflow.",
+  "t": "เวิร์กโฟลว์ของ <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a>"
+ },
+ "107d158b3254": {
+  "en": "The lore entries (human).",
+  "t": "รายการตำนาน (มนุษย์)"
+ },
+ "1dc04a0a44d8": {
+  "en": "The <a href=\"https://llmstxt.org/\" rel=\"noopener\">llms.txt proposal</a>, for the AI-readable index",
+  "t": "<a href=\"https://llmstxt.org/\" rel=\"noopener\">ข้อเสนอ llms.txt</a> สำหรับดัชนีที่ AI อ่านได้"
+ },
+ "1fc1a617cc5f": {
+  "en": "<strong>A human decides.</strong> Deovandski directed the work, set the rules (originals stay untouched in Legacy, the website never invents lore), and chose what got committed. If something on the website contradicts Legacy, <strong>Legacy wins</strong>: please open an issue or send a PR.",
+  "t": "<strong>มนุษย์เป็นผู้ตัดสินใจ</strong> Deovandski กำกับงาน วางกฎ (ต้นฉบับคงอยู่ใน Legacy โดยไม่ถูกแตะต้อง เว็บไซต์ไม่แต่งตำนานขึ้นเองเด็ดขาด) และเลือกว่าจะคอมมิตอะไร หากสิ่งใดบนเว็บไซต์ขัดแย้งกับ Legacy <strong>ให้ยึด Legacy</strong>: โปรดเปิด issue หรือส่ง PR"
+ },
+ "20b6d42dfaea": {
+  "en": "PRs are welcome, with or without AI help. If you used AI for a contribution, say so in the PR description and add a line to the table above.",
+  "t": "ยินดีรับ PR ทั้งที่ใช้และไม่ใช้ AI ช่วย ถ้าคุณใช้ AI ในการมีส่วนร่วม ให้ระบุในคำอธิบาย PR และเพิ่มหนึ่งบรรทัดในตารางด้านบน"
+ },
+ "23eebfe076f3": {
+  "en": "<strong>Shortened and paraphrased</strong> them into one-paragraph public summaries, because the blog never had pages for these topics. No new facts. Each summary is labeled on the website as AI-written.",
+  "t": "<strong>ย่อและถอดความ</strong>เป็นบทสรุปสาธารณะย่อหน้าเดียว เพราะบล็อกไม่เคยมีหน้าสำหรับหัวข้อเหล่านี้ ไม่มีข้อเท็จจริงใหม่ บทสรุปแต่ละอันระบุไว้บนเว็บไซต์ว่าเขียนโดย AI"
+ },
+ "29dccf7e2d63": {
+  "en": "AI-DISCLOSURE.md",
+  "t": "AI-DISCLOSURE.md"
+ },
+ "2adae58a0927": {
+  "en": "Every illustration on the website has a short text description (alt text) so people who use screen readers can follow along, and so search engines and AI tools can understand the pictures. Writing it means describing the art in new words, which goes beyond the \"never write anything new\" rule this project follows everywhere else. <strong>Deovandski allowed this exception for the sake of accessibility.</strong> The descriptions are in <a href=\"content/alt-text.json\">content/alt-text.json</a> and say only what is visible in each picture. They add no lore, and if one is wrong, the picture wins.",
+  "t": "ภาพประกอบทุกภาพบนเว็บไซต์มีคำบรรยายสั้นๆ (alt text) เพื่อให้ผู้ใช้โปรแกรมอ่านหน้าจอติดตามได้ และเพื่อให้เสิร์ชเอนจินและเครื่องมือ AI เข้าใจภาพ การเขียนคำบรรยายนี้หมายถึงการบรรยายงานศิลป์ด้วยถ้อยคำใหม่ ซึ่งเกินกฎ \"ห้ามเขียนอะไรใหม่เด็ดขาด\" ที่โปรเจกต์นี้ยึดถือในส่วนอื่นๆ <strong>Deovandski อนุญาตข้อยกเว้นนี้เพื่อการเข้าถึง</strong> คำบรรยายอยู่ใน <a href=\"content/alt-text.json\">content/alt-text.json</a> และบอกเฉพาะสิ่งที่เห็นในภาพเท่านั้น ไม่เพิ่มตำนานใดๆ และหากมีอันไหนผิด ให้ยึดตามภาพ"
+ },
+ "2d82a4b27a4b": {
+  "en": "Contributing",
+  "t": "การมีส่วนร่วม"
+ },
+ "30fa617c63c2": {
+  "en": "The palette comes from the Forway city emblem, the headings' Vraki script from the Vraki font (human). Body font: TeX Gyre Schola (GUST Font License), the same as the <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> site.",
+  "t": "ชุดสีมาจากตราประจำเมืองฟอร์เวย์ อักษรวรากีในหัวเรื่องมาจากฟอนต์วรากี (มนุษย์) ฟอนต์เนื้อความ: TeX Gyre Schola (GUST Font License) เหมือนกับเว็บไซต์ <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a>"
+ },
+ "3144d7dfc82e": {
+  "en": "Requests from Deovandski.",
+  "t": "คำขอจาก Deovandski"
+ },
+ "32029de7b0d1": {
+  "en": "<strong>AI system:</strong> Claude, a large language model by Anthropic, used as an assistant with access to the repo files and the Blogger export (November 2026).\n<strong>Human contribution:</strong> all source material (the novel, the story notes, the World Lore, the spreadsheets, the blog and the Vraki font, by Deovandski Skibinski Junior; all artwork, by Mitsukiven and Feiourm); the website concept (one site, a Public layer and a Behind The Scenes layer behind a spoiler warning, a Vraki mode, a Forway color palette); direction and approval of every commit.\n<strong>AI contribution:</strong> translating the website into other languages; moving the originals into Legacy and converting the blog to Markdown; designing and coding the website, its build script and its tools (search, glossary, settings); matching each blog section to its entry in the original docs; writing eight short topic summaries; writing alt text for the illustrations; writing the AI-readable files (llms.txt and the rest).\n<strong>Human modification:</strong> Deovandski reviews and requests changes.\n<strong>Accountability:</strong> Deovandski Skibinski Junior.",
+  "t": "<strong>ระบบ AI:</strong> Claude โมเดลภาษาขนาดใหญ่โดย Anthropic ใช้เป็นผู้ช่วยที่เข้าถึงไฟล์ในคลังโค้ดและไฟล์ส่งออกจาก Blogger ได้ (พฤศจิกายน 2026)\n<strong>ส่วนร่วมของมนุษย์:</strong> เนื้อหาต้นทางทั้งหมด (นิยาย บันทึกเรื่องราว ตำนานโลก สเปรดชีต บล็อก และฟอนต์วรากี โดย Deovandski Skibinski Junior งานศิลป์ทั้งหมดโดย Mitsukiven และ Feiourm) แนวคิดของเว็บไซต์ (เว็บเดียว มีชั้นสาธารณะและชั้นเบื้องหลังที่ซ่อนอยู่หลังคำเตือนสปอยล์ โหมดวรากี และชุดสีฟอร์เวย์) การกำกับและอนุมัติทุกคอมมิต\n<strong>ส่วนร่วมของ AI:</strong> แปลเว็บไซต์เป็นภาษาอื่นๆ ย้ายต้นฉบับเข้า Legacy และแปลงบล็อกเป็น Markdown ออกแบบและเขียนโค้ดเว็บไซต์ สคริปต์บิลด์ และเครื่องมือต่างๆ (ค้นหา อภิธานศัพท์ การตั้งค่า) จับคู่แต่ละส่วนของบล็อกกับรายการในเอกสารต้นฉบับ เขียนบทสรุปหัวข้อสั้นๆ แปดเรื่อง เขียนข้อความแทนภาพสำหรับภาพประกอบ เขียนไฟล์ที่ AI อ่านได้ (llms.txt และอื่นๆ)\n<strong>การปรับแก้โดยมนุษย์:</strong> Deovandski ตรวจทานและขอให้แก้ไข\n<strong>ผู้รับผิดชอบ:</strong> Deovandski Skibinski Junior"
+ },
+ "3498b16ba17c": {
+  "en": "IBM Research, <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a>",
+  "t": "IBM Research, <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a>"
+ },
+ "3f1e6d00f7b5": {
+  "en": "AI Disclosure · #HusbandOutWorld",
+  "t": "การเปิดเผยการใช้ AI · #HusbandOutWorld"
+ },
+ "4042e10300fc": {
+  "en": "Outside sources",
+  "t": "แหล่งข้อมูลภายนอก"
+ },
+ "4209bbf09d38": {
+  "en": "The blog pages (Public) and the original docs (Behind The Scenes) (human).",
+  "t": "หน้าบล็อก (สาธารณะ) และเอกสารต้นฉบับ (เบื้องหลัง) (มนุษย์)"
+ },
+ "42a9af421456": {
+  "en": "File by file",
+  "t": "ทีละไฟล์"
+ },
+ "43005656bb78": {
+  "en": "content/alt-text.json",
+  "t": "content/alt-text.json"
+ },
+ "4d3adbe367b3": {
+  "en": "Written by the AI.",
+  "t": "เขียนโดย AI"
+ },
+ "4de224197151": {
+  "en": "The <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/blob/main/AI-DISCLOSURE.md\" rel=\"noopener\">Vraki West March Campaign's</a> disclosure.",
+  "t": "การเปิดเผยของ <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/blob/main/AI-DISCLOSURE.md\" rel=\"noopener\">Vraki West March Campaign</a>"
+ },
+ "51377d5bbc17": {
+  "en": "<a href=\"tools/build.py\">tools/build.py</a>, <a href=\"site\">site/</a> (CSS and JavaScript)",
+  "t": "<a href=\"tools/build.py\">tools/build.py</a>, <a href=\"site\">site/</a> (CSS และ JavaScript)"
+ },
+ "519e39132bb9": {
+  "en": "Path",
+  "t": "เส้นทาง"
+ },
+ "5483f8f74330": {
+  "en": "Alt text, for accessibility",
+  "t": "ข้อความแทนภาพ เพื่อการเข้าถึง"
+ },
+ "580e0634e11b": {
+  "en": "Novel pages",
+  "t": "หน้านิยาย"
+ },
+ "5ee612f77602": {
+  "en": "Matched each blog section to its entry in the docs by name. Where an entry had no blog text, used the \"Website Description\" the author wrote inside the doc. Entries with neither stay in Behind The Scenes only.",
+  "t": "จับคู่แต่ละส่วนของบล็อกกับรายการในเอกสารตามชื่อ ถ้ารายการใดไม่มีข้อความในบล็อก ก็ใช้ \"Website Description\" ที่ผู้เขียนเขียนไว้ในเอกสาร รายการที่ไม่มีทั้งสองอย่างจะอยู่ในเบื้องหลังเท่านั้น"
+ },
+ "623045efd08b": {
+  "en": "The old blog, from the Blogger export (human).",
+  "t": "บล็อกเก่า จากไฟล์ส่งออกของ Blogger (มนุษย์)"
+ },
+ "63938d803ab3": {
+  "en": "content/site.json",
+  "t": "content/site.json"
+ },
+ "666710df8f45": {
+  "en": "<strong>No AI-generated images.</strong> Every picture is existing series art. The AI only resized and converted copies for the web.",
+  "t": "<strong>ไม่มีภาพที่สร้างด้วย AI</strong> ทุกภาพเป็นงานศิลป์ของซีรีส์ที่มีอยู่แล้ว AI แค่ปรับขนาดและแปลงไฟล์สำเนาสำหรับเว็บ"
+ },
+ "6ca00e476dde": {
+  "en": "The AI read these for ideas. No text was copied from them.",
+  "t": "AI อ่านแหล่งเหล่านี้เพื่อหาแนวคิด ไม่ได้คัดลอกข้อความใดๆ มา"
+ },
+ "6e4375b0b100": {
+  "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0.",
+  "t": "© Deovandski Skibinski Junior เผยแพร่ภายใต้สัญญาอนุญาต CC‑BY‑NC‑SA‑4.0"
+ },
+ "799d8f14e5b5": {
+  "en": "Where it comes from",
+  "t": "มาจากไหน"
+ },
+ "80c02bfb0cd6": {
+  "en": ".github/workflows/pages.yml",
+  "t": ".github/workflows/pages.yml"
+ },
+ "81ad4da4a198": {
+  "en": "Split each volume into chapter pages and placed every subchapter illustration at the start of its subchapter. The text is shown as written.",
+  "t": "แบ่งแต่ละเล่มเป็นหน้าตามบท และวางภาพประกอบของบทย่อยแต่ละบทไว้ตอนต้นของบทย่อยนั้น ข้อความแสดงตามที่เขียนไว้"
+ },
+ "85d46eb2d1a9": {
+  "en": "The structure of Legacy (human).",
+  "t": "โครงสร้างของ Legacy (มนุษย์)"
+ },
+ "86eb78ccd8b9": {
+  "en": "content/fixes.json",
+  "t": "content/fixes.json"
+ },
+ "8791a730e046": {
+  "en": "Built automatically: each term, its topic, and the first sentence or two of its description, cut from the author's text.",
+  "t": "สร้างโดยอัตโนมัติ: แต่ละคำ หัวข้อของคำนั้น และประโยคแรกหนึ่งหรือสองประโยคของคำอธิบาย ตัดมาจากข้อความของผู้เขียน"
+ },
+ "894948ec60db": {
+  "en": "<strong>The translations are AI-written, and every translated page says so.</strong> The website is also offered in other languages (pick one in Settings). Claude translated the author's text ahead of time (it is not machine translation on the fly), following the author's rules: names are written by sound, never translated. Each translated page carries a banner saying it was AI-translated from the original works, with a link to the English original. English is the source; if a translation and the English disagree, the English wins.",
+  "t": "<strong>คำแปลเขียนโดย AI และทุกหน้าที่แปลแล้วระบุไว้</strong> เว็บไซต์นี้มีให้อ่านในภาษาอื่นด้วย (เลือกได้ในการตั้งค่า) Claude แปลข้อความของผู้เขียนไว้ล่วงหน้า (ไม่ใช่การแปลด้วยเครื่องแบบสด) ตามกฎของผู้เขียน: ชื่อเขียนตามเสียง ไม่แปลความหมายเด็ดขาด ทุกหน้าที่แปลแล้วมีแถบแจ้งว่าแปลโดย AI จากผลงานต้นฉบับ พร้อมลิงก์ไปยังต้นฉบับภาษาอังกฤษ ภาษาอังกฤษคือต้นฉบับ หากคำแปลกับภาษาอังกฤษไม่ตรงกัน ให้ยึดภาษาอังกฤษ"
+ },
+ "8a6ae07cd8db": {
+  "en": "The three volumes of Arc #1 (human).",
+  "t": "นิยายสามเล่มของภาค #1 (มนุษย์)"
+ },
+ "8a6fbf6fab58": {
+  "en": "Generated by the build script, so AI tools and search engines can read the whole series in plain text.",
+  "t": "สร้างโดยสคริปต์บิลด์ เพื่อให้เครื่องมือ AI และเสิร์ชเอนจินอ่านทั้งซีรีส์ในรูปแบบข้อความล้วนได้"
+ },
+ "8af00ea1076b": {
+  "en": "World Lore pages",
+  "t": "หน้าตำนานโลก"
+ },
+ "8ea27392922d": {
+  "en": "Moved them into this folder without editing them. The one exception: at Deovandski's request, the Vraki typeface license (<code>Logo and Font/LICENSE.md</code>) now names LinkedIn and email as the way to ask for commercial approval.",
+  "t": "ย้ายเข้ามาในโฟลเดอร์นี้โดยไม่แก้ไข ข้อยกเว้นเดียว: ตามคำขอของ Deovandski สัญญาอนุญาตแบบอักษรวรากี (<code>Logo and Font/LICENSE.md</code>) ตอนนี้ระบุ LinkedIn และอีเมลเป็นช่องทางขออนุมัติเชิงพาณิชย์"
+ },
+ "91ea456b6a05": {
+  "en": "<strong>Translated by the AI</strong> into each language in the Settings list, paragraph by paragraph, with <a href=\"tools/i18n.py\">tools/i18n.py</a>. The name spellings in each <code>glossary.json</code> follow the author's rule (by sound, never translated). Every translated page is labeled as AI-translated.",
+  "t": "<strong>แปลโดย AI</strong> เป็นทุกภาษาในรายการการตั้งค่า ทีละย่อหน้า ด้วย <a href=\"tools/i18n.py\">tools/i18n.py</a> การสะกดชื่อในแต่ละ <code>glossary.json</code> เป็นไปตามกฎของผู้เขียน (ตามเสียง ไม่แปลความหมายเด็ดขาด) ทุกหน้าที่แปลแล้วระบุว่าแปลโดย AI"
+ },
+ "94f64ad638e3": {
+  "en": "Written by the AI, for accessibility (see above).",
+  "t": "เขียนโดย AI เพื่อการเข้าถึง (ดูด้านบน)"
+ },
+ "98412b1e23d5": {
+  "en": "Written by the AI: the page map that says which blog page and which original doc make up each website page.",
+  "t": "เขียนโดย AI: แผนผังหน้าที่บอกว่าหน้าบล็อกไหนและเอกสารต้นฉบับใดประกอบเป็นแต่ละหน้าของเว็บไซต์"
+ },
+ "9b209c48afe9": {
+  "en": "Legacy/Public",
+  "t": "Legacy/Public"
+ },
+ "9e5e679f9117": {
+  "en": "This repo's website was built with an AI assistant, <strong>Claude</strong> (by Anthropic), working from the #HusbandOutWorld originals. This page says plainly which parts are human work, which parts the AI wrote, and how the two fit together.",
+  "t": "เว็บไซต์ของคลังโค้ดนี้สร้างขึ้นด้วยผู้ช่วย AI ชื่อ <strong>Claude</strong> (โดย Anthropic) โดยทำงานจากต้นฉบับของ #HusbandOutWorld หน้านี้บอกอย่างตรงไปตรงมาว่าส่วนไหนเป็นงานของมนุษย์ ส่วนไหน AI เขียน และทั้งสองส่วนประกอบเข้ากันอย่างไร"
+ },
+ "a1548d56866e": {
+  "en": "The illustrations (human).",
+  "t": "ภาพประกอบ (มนุษย์)"
+ },
+ "a1e543b14d18": {
+  "en": "What the AI did",
+  "t": "AI ทำอะไร"
+ },
+ "a23a38130f69": {
+  "en": "content/i18n",
+  "t": "content/i18n"
+ },
+ "a4c92bca57be": {
+  "en": "<strong>The story and the world are human-made.</strong> The light novel, the story notes, the World Lore, the spreadsheets, the Vraki font and the old blog come from Deovandski Skibinski Junior, and the illustrations are by the series' artists, <strong>Mitsukiven</strong> and <strong>Feiourm</strong>. All of it lives, unchanged, in the <a href=\"Legacy\">Legacy</a> folder.",
+  "t": "<strong>เรื่องราวและโลกเป็นผลงานของมนุษย์</strong> ไลต์โนเวล บันทึกเรื่องราว ตำนานโลก สเปรดชีต ฟอนต์วรากี และบล็อกเก่ามาจาก Deovandski Skibinski Junior ส่วนภาพประกอบเป็นผลงานของศิลปินประจำซีรีส์ <strong>Mitsukiven</strong> และ <strong>Feiourm</strong> ทั้งหมดเก็บไว้โดยไม่มีการแก้ไขในโฟลเดอร์ <a href=\"Legacy\">Legacy</a>"
+ },
+ "a650240a0c40": {
+  "en": "Everything above.",
+  "t": "ทุกอย่างข้างต้น"
+ },
+ "ac9104717ef5": {
+  "en": "Which parts of this website are human work, which parts an AI wrote, and how they fit together.",
+  "t": "ส่วนไหนของเว็บไซต์นี้เป็นงานของมนุษย์ ส่วนไหน AI เขียน และทั้งสองส่วนประกอบเข้ากันอย่างไร"
+ },
+ "ade2ab20de05": {
+  "en": "<strong>The website shows the author's own words.</strong> The novel chapters, the public descriptions (from the old blog) and the Behind The Scenes notes (from the original docs) are displayed as written. The AI's job was to arrange them, not to rewrite them.",
+  "t": "<strong>เว็บไซต์แสดงถ้อยคำของผู้เขียนเอง</strong> บทต่างๆ ของนิยาย คำบรรยายสาธารณะ (จากบล็อกเก่า) และบันทึกเบื้องหลัง (จากเอกสารต้นฉบับ) แสดงตามที่เขียนไว้ หน้าที่ของ AI คือจัดเรียง ไม่ใช่เขียนใหม่"
+ },
+ "aff9c732ee00": {
+  "en": "Attribution statement",
+  "t": "คำแถลงการระบุที่มา"
+ },
+ "b1a4d2780b07": {
+  "en": "A short list of display-only corrections the build applies when it reads Legacy (for example, replacing dead Google Drive links and dropping a print-only table of contents). Each one says why. Legacy itself stays untouched.",
+  "t": "รายการสั้นๆ ของการแก้ไขเพื่อการแสดงผลเท่านั้นที่บิลด์ใช้เมื่ออ่าน Legacy (เช่น แทนที่ลิงก์ Google Drive ที่ใช้ไม่ได้ และตัดสารบัญที่มีไว้สำหรับฉบับพิมพ์) แต่ละรายการบอกเหตุผล ตัว Legacy เองไม่ถูกแตะต้อง"
+ },
+ "b3a0eb90237a": {
+  "en": "Legacy/README.md",
+  "t": "Legacy/README.md"
+ },
+ "b7adb938bc6e": {
+  "en": "AI-readable files (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, a Markdown copy of every page, and <code>data/*.json</code>)",
+  "t": "ไฟล์ที่ AI อ่านได้ (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code> สำเนา Markdown ของทุกหน้า และ <code>data/*.json</code>)"
+ },
+ "bc3897d1e285": {
+  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, and ending that mantra with \"!\" like the others.",
+  "t": "แปลงหน้าที่ยังใช้งานอยู่ทั้ง 33 หน้าจาก HTML เป็น Markdown แบบคำต่อคำด้วย <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a> ชี้ภาพในบล็อกไปยังไฟล์ที่ตรงกันใน Behind The Scenes เมื่อเป็นภาพเดียวกัน ข้อยกเว้น: ในเดือนพฤศจิกายน 2026 Deovandski แก้ไขปัจฉิมลิขิตเล่ม 4 ของเขา (<code>afterwords.md</code>) โดยเพิ่มคติใหม่และเขียนตอนจบใหม่ให้ปิดท้ายด้วยคำคมจาก Hávamál AI พิมพ์การแก้ไขเหล่านั้นตามคำสั่งที่ชัดเจนของเขา รวมถึงเปลี่ยน \"two new ones\" เป็น \"three new ones\" หลังจากเขาเพิ่มคติเรื่องเมล็ดพันธุ์/การเก็บเกี่ยวเอง และปิดท้ายคติข้อนั้นด้วย \"!\" เหมือนข้ออื่นๆ"
+ },
+ "c39f6c800ffc": {
+  "en": "content/summaries.json",
+  "t": "content/summaries.json"
+ },
+ "ca17d9e86677": {
+  "en": "Modeled on the questions in IBM's <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> (what AI was used, what it contributed, how much humans shaped it, and who is accountable):",
+  "t": "อิงตามคำถามใน <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> ของ IBM (ใช้ AI อะไร AI มีส่วนร่วมอย่างไร มนุษย์มีส่วนกำหนดมากแค่ไหน และใครเป็นผู้รับผิดชอบ):"
+ },
+ "d61deee4df8a": {
+  "en": "This repo's original files (human).",
+  "t": "ไฟล์ต้นฉบับของคลังโค้ดนี้ (มนุษย์)"
+ },
+ "df38ee0d1058": {
+  "en": "<strong>A few things are AI-written, and they're labeled.</strong> The website's code and its own text (menus, buttons, help), the short summaries for eight lore topics the blog never covered, the alt text that describes each illustration, and this page.",
+  "t": "<strong>มีบางส่วนที่ AI เขียน และมีการระบุไว้</strong> ได้แก่ โค้ดของเว็บไซต์และข้อความของเว็บเอง (เมนู ปุ่ม ความช่วยเหลือ) บทสรุปสั้นๆ ของหัวข้อตำนานแปดหัวข้อที่บล็อกไม่เคยกล่าวถึง ข้อความแทนภาพ (alt text) ที่บรรยายภาพประกอบแต่ละภาพ และหน้านี้"
+ },
+ "e8c70a53fb62": {
+  "en": "The website's English pages, built from Legacy.",
+  "t": "หน้าภาษาอังกฤษของเว็บไซต์ สร้างจาก Legacy"
+ },
+ "e8ebc8d12782": {
+  "en": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter), for the structured data in each page",
+  "t": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter) สำหรับข้อมูลที่มีโครงสร้างในแต่ละหน้า"
+ },
+ "f5234aaefa0e": {
+  "en": "Eight Behind The Scenes docs: World Timeline, Villages, Land, Professions, Education, Sports, Novels, Natural and Crafted Resources (human).",
+  "t": "เอกสารเบื้องหลังแปดฉบับ: World Timeline, Villages, Land, Professions, Education, Sports, Novels, Natural and Crafted Resources (มนุษย์)"
+ },
+ "f7dd5c66e939": {
+  "en": "The short version",
+  "t": "ฉบับย่อ"
+ },
+ "f979acb43e9b": {
+  "en": "Legacy/Behind The Scenes",
+  "t": "Legacy/Behind The Scenes"
+ },
+ "fc8a209e30ee": {
+  "en": "<strong>Designed and coded by the AI:</strong> the layout and look, the Public and Behind The Scenes layers and the spoiler warning, dark and light themes, text size, Vraki mode, search, the glossary, the gallery, the chapter reader and the lightbox. The website's own text (menus, buttons, notices) is AI-written.",
+  "t": "<strong>ออกแบบและเขียนโค้ดโดย AI:</strong> เลย์เอาต์และหน้าตา ชั้นสาธารณะและเบื้องหลังพร้อมคำเตือนสปอยล์ ธีมมืดและสว่าง ขนาดตัวอักษร โหมดวรากี การค้นหา อภิธานศัพท์ แกลเลอรี ตัวอ่านบท และไลต์บ็อกซ์ ข้อความของเว็บไซต์เอง (เมนู ปุ่ม ประกาศ) เขียนโดย AI"
+ }
+}
