@@ -1,0 +1,274 @@
+{
+ "1014c3427fd9": {
+  "en": "The <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> workflow.",
+  "t": "<a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> का वर्कफ़्लो।"
+ },
+ "107d158b3254": {
+  "en": "The lore entries (human).",
+  "t": "संसार की प्रविष्टियाँ (इंसानी)।"
+ },
+ "1dc04a0a44d8": {
+  "en": "The <a href=\"https://llmstxt.org/\" rel=\"noopener\">llms.txt proposal</a>, for the AI-readable index",
+  "t": "AI के पढ़ने लायक़ सूची के लिए <a href=\"https://llmstxt.org/\" rel=\"noopener\">llms.txt प्रस्ताव</a>"
+ },
+ "1fc1a617cc5f": {
+  "en": "<strong>A human decides.</strong> Deovandski directed the work, set the rules (originals stay untouched in Legacy, the website never invents lore), and chose what got committed. If something on the website contradicts Legacy, <strong>Legacy wins</strong>: please open an issue or send a PR.",
+  "t": "<strong>फ़ैसला इंसान करता है।</strong> Deovandski ने काम का निर्देशन किया, नियम तय किए (मूल रचनाएँ Legacy में अछूती रहती हैं, वेबसाइट कभी संसार की बातें गढ़ती नहीं), और चुना कि क्या कमिट होगा। अगर वेबसाइट पर कुछ Legacy से टकराता है, तो <strong>Legacy मान्य है</strong>: कृपया एक issue खोलो या PR भेजो।"
+ },
+ "20b6d42dfaea": {
+  "en": "PRs are welcome, with or without AI help. If you used AI for a contribution, say so in the PR description and add a line to the table above.",
+  "t": "PR का स्वागत है, AI की मदद के साथ या उसके बिना। अगर तुमने किसी योगदान के लिए AI इस्तेमाल किया, तो PR के विवरण में बताओ और ऊपर की तालिका में एक पंक्ति जोड़ो।"
+ },
+ "23eebfe076f3": {
+  "en": "<strong>Shortened and paraphrased</strong> them into one-paragraph public summaries, because the blog never had pages for these topics. No new facts. Each summary is labeled on the website as AI-written.",
+  "t": "उन्हें एक-एक अनुच्छेद के सार्वजनिक सारांशों में <strong>छोटा किया और अपने शब्दों में कहा</strong>, क्योंकि ब्लॉग में इन विषयों के पेज कभी नहीं थे। कोई नया तथ्य नहीं। हर सारांश पर वेबसाइट में AI-लिखित का लेबल है।"
+ },
+ "29dccf7e2d63": {
+  "en": "AI-DISCLOSURE.md",
+  "t": "AI-DISCLOSURE.md"
+ },
+ "2adae58a0927": {
+  "en": "Every illustration on the website has a short text description (alt text) so people who use screen readers can follow along, and so search engines and AI tools can understand the pictures. Writing it means describing the art in new words, which goes beyond the \"never write anything new\" rule this project follows everywhere else. <strong>Deovandski allowed this exception for the sake of accessibility.</strong> The descriptions are in <a href=\"content/alt-text.json\">content/alt-text.json</a> and say only what is visible in each picture. They add no lore, and if one is wrong, the picture wins.",
+  "t": "वेबसाइट के हर चित्र का एक छोटा पाठ-वर्णन (वैकल्पिक पाठ) है, ताकि स्क्रीन रीडर इस्तेमाल करने वाले लोग साथ चल सकें, और सर्च इंजन और AI टूल्स तस्वीरों को समझ सकें। इसे लिखने का मतलब है चित्रों का नए शब्दों में वर्णन करना, जो उस \"कभी कुछ नया मत लिखो\" नियम से आगे जाता है जिसका यह प्रोजेक्ट बाक़ी हर जगह पालन करता है। <strong>Deovandski ने सुलभता के लिए यह छूट दी।</strong> वर्णन <a href=\"content/alt-text.json\">content/alt-text.json</a> में हैं और सिर्फ़ वही बताते हैं जो हर तस्वीर में दिखता है। वे संसार में कुछ नहीं जोड़ते, और अगर कोई ग़लत हो, तो तस्वीर मान्य है।"
+ },
+ "2d82a4b27a4b": {
+  "en": "Contributing",
+  "t": "योगदान"
+ },
+ "30fa617c63c2": {
+  "en": "The palette comes from the Forway city emblem, the headings' Vraki script from the Vraki font (human). Body font: TeX Gyre Schola (GUST Font License), the same as the <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> site.",
+  "t": "रंग-पैलेट फ़ॉरवे शहर के प्रतीक-चिह्न से आया है, शीर्षकों की व्राकी लिपि व्राकी फ़ॉन्ट से (इंसानी)। मुख्य फ़ॉन्ट: TeX Gyre Schola (GUST Font License), वही जो <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> साइट पर है।"
+ },
+ "3144d7dfc82e": {
+  "en": "Requests from Deovandski.",
+  "t": "Deovandski के अनुरोध।"
+ },
+ "32029de7b0d1": {
+  "en": "<strong>AI system:</strong> Claude, a large language model by Anthropic, used as an assistant with access to the repo files and the Blogger export (November 2026).\n<strong>Human contribution:</strong> all source material (the novel, the story notes, the World Lore, the spreadsheets, the blog and the Vraki font, by Deovandski Skibinski Junior; all artwork, by Mitsukiven and Feiourm); the website concept (one site, a Public layer and a Behind The Scenes layer behind a spoiler warning, a Vraki mode, a Forway color palette); direction and approval of every commit.\n<strong>AI contribution:</strong> translating the website into other languages; moving the originals into Legacy and converting the blog to Markdown; designing and coding the website, its build script and its tools (search, glossary, settings); matching each blog section to its entry in the original docs; writing eight short topic summaries; writing alt text for the illustrations; writing the AI-readable files (llms.txt and the rest).\n<strong>Human modification:</strong> Deovandski reviews and requests changes.\n<strong>Accountability:</strong> Deovandski Skibinski Junior.",
+  "t": "<strong>AI प्रणाली:</strong> Claude, Anthropic का एक बड़ा भाषा मॉडल, जिसे रिपॉज़िटरी की फ़ाइलों और Blogger एक्सपोर्ट तक पहुँच के साथ सहायक के रूप में इस्तेमाल किया गया (नवंबर 2026)।\n<strong>मानवीय योगदान:</strong> सारी मूल सामग्री (उपन्यास, कहानी के नोट्स, संसार, स्प्रेडशीट, ब्लॉग और व्राकी फ़ॉन्ट, Deovandski Skibinski Junior द्वारा; सारे चित्र, Mitsukiven और Feiourm द्वारा); वेबसाइट की परिकल्पना (एक साइट, एक सार्वजनिक परत और स्पॉइलर चेतावनी के पीछे एक पर्दे के पीछे वाली परत, एक व्राकी मोड, एक फ़ॉरवे रंग-पैलेट); हर कमिट का निर्देशन और मंज़ूरी।\n<strong>AI का योगदान:</strong> वेबसाइट का दूसरी भाषाओं में अनुवाद; मूल रचनाओं को Legacy में ले जाना और ब्लॉग को Markdown में बदलना; वेबसाइट, उसकी बिल्ड स्क्रिप्ट और उसके टूल्स (खोज, शब्दावली, सेटिंग्स) का डिज़ाइन और कोड; ब्लॉग के हर हिस्से को मूल दस्तावेज़ों में उसकी प्रविष्टि से मिलाना; विषयों के आठ छोटे सारांश लिखना; चित्रों का वैकल्पिक पाठ लिखना; AI के पढ़ने लायक़ फ़ाइलें लिखना (llms.txt और बाक़ी)।\n<strong>मानवीय संशोधन:</strong> Deovandski समीक्षा करते हैं और बदलाव माँगते हैं।\n<strong>जवाबदेही:</strong> Deovandski Skibinski Junior।"
+ },
+ "3498b16ba17c": {
+  "en": "IBM Research, <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a>",
+  "t": "IBM Research, <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a>"
+ },
+ "3f1e6d00f7b5": {
+  "en": "AI Disclosure · #HusbandOutWorld",
+  "t": "AI प्रकटीकरण · #HusbandOutWorld"
+ },
+ "4042e10300fc": {
+  "en": "Outside sources",
+  "t": "बाहरी स्रोत"
+ },
+ "4209bbf09d38": {
+  "en": "The blog pages (Public) and the original docs (Behind The Scenes) (human).",
+  "t": "ब्लॉग के पेज (सार्वजनिक) और मूल दस्तावेज़ (पर्दे के पीछे) (इंसानी)।"
+ },
+ "42a9af421456": {
+  "en": "File by file",
+  "t": "फ़ाइल दर फ़ाइल"
+ },
+ "43005656bb78": {
+  "en": "content/alt-text.json",
+  "t": "content/alt-text.json"
+ },
+ "4d3adbe367b3": {
+  "en": "Written by the AI.",
+  "t": "AI द्वारा लिखा गया।"
+ },
+ "4de224197151": {
+  "en": "The <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/blob/main/AI-DISCLOSURE.md\" rel=\"noopener\">Vraki West March Campaign's</a> disclosure.",
+  "t": "<a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D/blob/main/AI-DISCLOSURE.md\" rel=\"noopener\">Vraki West March Campaign</a> का प्रकटीकरण।"
+ },
+ "51377d5bbc17": {
+  "en": "<a href=\"tools/build.py\">tools/build.py</a>, <a href=\"site\">site/</a> (CSS and JavaScript)",
+  "t": "<a href=\"tools/build.py\">tools/build.py</a>, <a href=\"site\">site/</a> (CSS और JavaScript)"
+ },
+ "519e39132bb9": {
+  "en": "Path",
+  "t": "पथ"
+ },
+ "5483f8f74330": {
+  "en": "Alt text, for accessibility",
+  "t": "सुलभता के लिए वैकल्पिक पाठ"
+ },
+ "580e0634e11b": {
+  "en": "Novel pages",
+  "t": "उपन्यास के पेज"
+ },
+ "5ee612f77602": {
+  "en": "Matched each blog section to its entry in the docs by name. Where an entry had no blog text, used the \"Website Description\" the author wrote inside the doc. Entries with neither stay in Behind The Scenes only.",
+  "t": "ब्लॉग के हर हिस्से को नाम से दस्तावेज़ों में उसकी प्रविष्टि से मिलाया। जहाँ किसी प्रविष्टि का ब्लॉग पाठ नहीं था, वहाँ वह \"Website Description\" इस्तेमाल किया जो लेखक ने दस्तावेज़ में लिखा था। जिन प्रविष्टियों में दोनों में से कुछ नहीं, वे सिर्फ़ पर्दे के पीछे में रहती हैं।"
+ },
+ "623045efd08b": {
+  "en": "The old blog, from the Blogger export (human).",
+  "t": "पुराना ब्लॉग, Blogger एक्सपोर्ट से (इंसानी)।"
+ },
+ "63938d803ab3": {
+  "en": "content/site.json",
+  "t": "content/site.json"
+ },
+ "666710df8f45": {
+  "en": "<strong>No AI-generated images.</strong> Every picture is existing series art. The AI only resized and converted copies for the web.",
+  "t": "<strong>कोई AI-निर्मित चित्र नहीं।</strong> हर तस्वीर सीरीज़ का मौजूदा चित्र है। AI ने बस वेब के लिए उनकी कॉपियों का आकार बदला और उन्हें बदला।"
+ },
+ "6ca00e476dde": {
+  "en": "The AI read these for ideas. No text was copied from them.",
+  "t": "AI ने इन्हें विचारों के लिए पढ़ा। इनसे कोई पाठ कॉपी नहीं किया गया।"
+ },
+ "6e4375b0b100": {
+  "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0.",
+  "t": "© Deovandski Skibinski Junior। CC‑BY‑NC‑SA‑4.0 के तहत लाइसेंस।"
+ },
+ "799d8f14e5b5": {
+  "en": "Where it comes from",
+  "t": "कहाँ से आया"
+ },
+ "80c02bfb0cd6": {
+  "en": ".github/workflows/pages.yml",
+  "t": ".github/workflows/pages.yml"
+ },
+ "81ad4da4a198": {
+  "en": "Split each volume into chapter pages and placed every subchapter illustration at the start of its subchapter. The text is shown as written.",
+  "t": "हर खंड को अध्याय-पेजों में बाँटा और हर उप-अध्याय का चित्र उसके उप-अध्याय की शुरुआत में रखा। पाठ वैसे ही दिखाया गया है जैसे लिखा गया था।"
+ },
+ "85d46eb2d1a9": {
+  "en": "The structure of Legacy (human).",
+  "t": "Legacy की संरचना (इंसानी)।"
+ },
+ "86eb78ccd8b9": {
+  "en": "content/fixes.json",
+  "t": "content/fixes.json"
+ },
+ "8791a730e046": {
+  "en": "Built automatically: each term, its topic, and the first sentence or two of its description, cut from the author's text.",
+  "t": "अपने-आप बनाया गया: हर शब्द, उसका विषय, और उसके वर्णन का पहला एक-दो वाक्य, लेखक के पाठ से लिया गया।"
+ },
+ "8839c9eb7b2f": {
+  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, ending that mantra with \"!\" like the others, and rewording one sentence near the end about raising a family.",
+  "t": "33 लाइव पेजों में से हर एक को <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a> से HTML से Markdown में, शब्दशः, बदला। जहाँ तस्वीरें एक जैसी थीं, वहाँ ब्लॉग की तस्वीरों को Behind The Scenes की मेल खाती फ़ाइल से जोड़ा। अपवाद: नवंबर 2026 में Deovandski ने खंड 4 का अपना उपसंहार (<code>afterwords.md</code>) बदला, नए मंत्र जोड़े और अंत को Hávamál के एक उद्धरण पर ख़त्म करने के लिए दोबारा लिखा। AI ने उनके स्पष्ट निर्देश पर ये बदलाव टाइप किए, जिनमें उनके ख़ुद बीज/फ़सल वाला मंत्र जोड़ने के बाद \"दो नए\" को \"तीन नए\" करना, उस मंत्र को बाक़ियों की तरह \"!\" पर ख़त्म करना, और परिवार पालने के बारे में अंत के पास का एक वाक्य दोबारा लिखना शामिल है।"
+ },
+ "894948ec60db": {
+  "en": "<strong>The translations are AI-written, and every translated page says so.</strong> The website is also offered in other languages (pick one in Settings). Claude translated the author's text ahead of time (it is not machine translation on the fly), following the author's rules: names are written by sound, never translated. Each translated page carries a banner saying it was AI-translated from the original works, with a link to the English original. English is the source; if a translation and the English disagree, the English wins.",
+  "t": "<strong>अनुवाद AI ने लिखे हैं, और हर अनूदित पेज यह बताता है।</strong> वेबसाइट दूसरी भाषाओं में भी उपलब्ध है (सेटिंग्स में कोई चुनो)। Claude ने लेखक के पाठ का अनुवाद पहले से किया (यह चलते-फिरते मशीन अनुवाद नहीं है), लेखक के नियमों का पालन करते हुए: नाम उनकी ध्वनि के अनुसार लिखे जाते हैं, कभी अनुवादित नहीं होते। हर अनूदित पेज पर एक बैनर है जो बताता है कि इसका अनुवाद मूल रचनाओं से AI ने किया है, साथ में अंग्रेज़ी मूल का लिंक। स्रोत अंग्रेज़ी है; अगर अनुवाद और अंग्रेज़ी में फ़र्क़ हो, तो अंग्रेज़ी मान्य है।"
+ },
+ "8a6ae07cd8db": {
+  "en": "The three volumes of Arc #1 (human).",
+  "t": "आर्क #1 के तीन खंड (इंसानी)।"
+ },
+ "8a6fbf6fab58": {
+  "en": "Generated by the build script, so AI tools and search engines can read the whole series in plain text.",
+  "t": "बिल्ड स्क्रिप्ट से बनाई गईं, ताकि AI टूल्स और सर्च इंजन पूरी सीरीज़ सादे पाठ में पढ़ सकें।"
+ },
+ "8af00ea1076b": {
+  "en": "World Lore pages",
+  "t": "संसार के पेज"
+ },
+ "8ea27392922d": {
+  "en": "Moved them into this folder without editing them. The one exception: at Deovandski's request, the Vraki typeface license (<code>Logo and Font/LICENSE.md</code>) now names LinkedIn and email as the way to ask for commercial approval.",
+  "t": "उन्हें बिना बदले इस फ़ोल्डर में ले गया। एकमात्र अपवाद: Deovandski के अनुरोध पर, व्राकी टाइपफ़ेस लाइसेंस (<code>Logo and Font/LICENSE.md</code>) अब व्यावसायिक अनुमति माँगने के तरीक़े के रूप में LinkedIn और ईमेल बताता है।"
+ },
+ "91ea456b6a05": {
+  "en": "<strong>Translated by the AI</strong> into each language in the Settings list, paragraph by paragraph, with <a href=\"tools/i18n.py\">tools/i18n.py</a>. The name spellings in each <code>glossary.json</code> follow the author's rule (by sound, never translated). Every translated page is labeled as AI-translated.",
+  "t": "सेटिंग्स की सूची की हर भाषा में <strong>AI द्वारा अनुवादित</strong>, अनुच्छेद दर अनुच्छेद, <a href=\"tools/i18n.py\">tools/i18n.py</a> के साथ। हर <code>glossary.json</code> में नामों की वर्तनी लेखक के नियम का पालन करती है (ध्वनि के अनुसार, कभी अनुवादित नहीं)। हर अनूदित पेज पर AI-अनूदित का लेबल है।"
+ },
+ "94f64ad638e3": {
+  "en": "Written by the AI, for accessibility (see above).",
+  "t": "AI द्वारा लिखा गया, सुलभता के लिए (ऊपर देखो)।"
+ },
+ "98412b1e23d5": {
+  "en": "Written by the AI: the page map that says which blog page and which original doc make up each website page.",
+  "t": "AI द्वारा लिखा गया: पेजों का नक़्शा, जो बताता है कि वेबसाइट का हर पेज कौन-से ब्लॉग पेज और कौन-से मूल दस्तावेज़ से बना है।"
+ },
+ "9b209c48afe9": {
+  "en": "Legacy/Public",
+  "t": "Legacy/Public"
+ },
+ "9e5e679f9117": {
+  "en": "This repo's website was built with an AI assistant, <strong>Claude</strong> (by Anthropic), working from the #HusbandOutWorld originals. This page says plainly which parts are human work, which parts the AI wrote, and how the two fit together.",
+  "t": "इस रिपॉज़िटरी की वेबसाइट एक AI सहायक, <strong>Claude</strong> (Anthropic का), की मदद से #HusbandOutWorld की मूल रचनाओं से बनाई गई। यह पेज साफ़-साफ़ बताता है कि कौन-से हिस्से इंसान का काम हैं, कौन-से AI ने लिखे, और दोनों कैसे जुड़ते हैं।"
+ },
+ "a1548d56866e": {
+  "en": "The illustrations (human).",
+  "t": "चित्र (इंसानी)।"
+ },
+ "a1e543b14d18": {
+  "en": "What the AI did",
+  "t": "AI ने क्या किया"
+ },
+ "a23a38130f69": {
+  "en": "content/i18n",
+  "t": "content/i18n"
+ },
+ "a4c92bca57be": {
+  "en": "<strong>The story and the world are human-made.</strong> The light novel, the story notes, the World Lore, the spreadsheets, the Vraki font and the old blog come from Deovandski Skibinski Junior, and the illustrations are by the series' artists, <strong>Mitsukiven</strong> and <strong>Feiourm</strong>. All of it lives, unchanged, in the <a href=\"Legacy\">Legacy</a> folder.",
+  "t": "<strong>कहानी और दुनिया इंसान की बनाई हुई हैं।</strong> लाइट नॉवेल, कहानी के नोट्स, संसार, स्प्रेडशीट, व्राकी फ़ॉन्ट और पुराना ब्लॉग Deovandski Skibinski Junior के हैं, और चित्र सीरीज़ की कलाकारों, <strong>Mitsukiven</strong> और <strong>Feiourm</strong>, के हैं। यह सब बिना बदलाव के <a href=\"Legacy\">Legacy</a> फ़ोल्डर में रखा है।"
+ },
+ "a650240a0c40": {
+  "en": "Everything above.",
+  "t": "ऊपर का सब कुछ।"
+ },
+ "ac9104717ef5": {
+  "en": "Which parts of this website are human work, which parts an AI wrote, and how they fit together.",
+  "t": "इस वेबसाइट के कौन-से हिस्से इंसान का काम हैं, कौन-से AI ने लिखे, और वे कैसे जुड़ते हैं।"
+ },
+ "ade2ab20de05": {
+  "en": "<strong>The website shows the author's own words.</strong> The novel chapters, the public descriptions (from the old blog) and the Behind The Scenes notes (from the original docs) are displayed as written. The AI's job was to arrange them, not to rewrite them.",
+  "t": "<strong>वेबसाइट लेखक के अपने शब्द दिखाती है।</strong> उपन्यास के अध्याय, सार्वजनिक विवरण (पुराने ब्लॉग से) और पर्दे के पीछे के नोट्स (मूल दस्तावेज़ों से) वैसे ही दिखाए गए हैं जैसे लिखे गए थे। AI का काम उन्हें सजाना था, दोबारा लिखना नहीं।"
+ },
+ "aff9c732ee00": {
+  "en": "Attribution statement",
+  "t": "श्रेय-विवरण"
+ },
+ "b1a4d2780b07": {
+  "en": "A short list of display-only corrections the build applies when it reads Legacy (for example, replacing dead Google Drive links and dropping a print-only table of contents). Each one says why. Legacy itself stays untouched.",
+  "t": "सिर्फ़ प्रदर्शन वाले सुधारों की एक छोटी सूची, जो बिल्ड Legacy को पढ़ते वक़्त लागू करती है (जैसे, Google Drive के मृत लिंक बदलना और सिर्फ़ छपाई के लिए बनी विषय-सूची हटाना)। हर एक का कारण लिखा है। Legacy ख़ुद अछूता रहता है।"
+ },
+ "b3a0eb90237a": {
+  "en": "Legacy/README.md",
+  "t": "Legacy/README.md"
+ },
+ "b7adb938bc6e": {
+  "en": "AI-readable files (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, a Markdown copy of every page, and <code>data/*.json</code>)",
+  "t": "AI के पढ़ने लायक़ फ़ाइलें (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, हर पेज की Markdown कॉपी, और <code>data/*.json</code>)"
+ },
+ "c39f6c800ffc": {
+  "en": "content/summaries.json",
+  "t": "content/summaries.json"
+ },
+ "ca17d9e86677": {
+  "en": "Modeled on the questions in IBM's <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> (what AI was used, what it contributed, how much humans shaped it, and who is accountable):",
+  "t": "IBM के <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> के सवालों पर आधारित (कौन-सा AI इस्तेमाल हुआ, उसने क्या योगदान दिया, इंसानों ने उसे कितना ढाला, और ज़िम्मेदार कौन है):"
+ },
+ "d61deee4df8a": {
+  "en": "This repo's original files (human).",
+  "t": "इस रिपॉज़िटरी की मूल फ़ाइलें (इंसानी)।"
+ },
+ "df38ee0d1058": {
+  "en": "<strong>A few things are AI-written, and they're labeled.</strong> The website's code and its own text (menus, buttons, help), the short summaries for eight lore topics the blog never covered, the alt text that describes each illustration, and this page.",
+  "t": "<strong>कुछ चीज़ें AI ने लिखी हैं, और उन पर लेबल लगा है।</strong> वेबसाइट का कोड और उसका अपना पाठ (मेन्यू, बटन, मदद), संसार के उन आठ विषयों के छोटे सारांश जिन्हें ब्लॉग ने कभी कवर नहीं किया, हर चित्र का वर्णन करने वाला वैकल्पिक पाठ, और यह पेज।"
+ },
+ "e8c70a53fb62": {
+  "en": "The website's English pages, built from Legacy.",
+  "t": "वेबसाइट के अंग्रेज़ी पेज, Legacy से बने।"
+ },
+ "e8ebc8d12782": {
+  "en": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter), for the structured data in each page",
+  "t": "हर पेज के संरचित डेटा के लिए <a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter)"
+ },
+ "f5234aaefa0e": {
+  "en": "Eight Behind The Scenes docs: World Timeline, Villages, Land, Professions, Education, Sports, Novels, Natural and Crafted Resources (human).",
+  "t": "पर्दे के पीछे के आठ दस्तावेज़: World Timeline, Villages, Land, Professions, Education, Sports, Novels, Natural and Crafted Resources (इंसानी)।"
+ },
+ "f7dd5c66e939": {
+  "en": "The short version",
+  "t": "संक्षेप में"
+ },
+ "f979acb43e9b": {
+  "en": "Legacy/Behind The Scenes",
+  "t": "Legacy/Behind The Scenes"
+ },
+ "fc8a209e30ee": {
+  "en": "<strong>Designed and coded by the AI:</strong> the layout and look, the Public and Behind The Scenes layers and the spoiler warning, dark and light themes, text size, Vraki mode, search, the glossary, the gallery, the chapter reader and the lightbox. The website's own text (menus, buttons, notices) is AI-written.",
+  "t": "<strong>AI ने डिज़ाइन और कोड किया:</strong> लेआउट और रूप-रंग, सार्वजनिक और पर्दे के पीछे वाली परतें और स्पॉइलर चेतावनी, गहरी और हल्की थीम, अक्षरों का आकार, व्राकी मोड, खोज, शब्दावली, गैलरी, अध्याय-रीडर और चित्र-दर्शक। वेबसाइट का अपना पाठ (मेन्यू, बटन, सूचनाएँ) AI ने लिखा है।"
+ }
+}
