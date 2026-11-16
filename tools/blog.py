@@ -147,10 +147,11 @@ def build(b, m):
     page.sources = [m.rel(os.path.join(m.PUB, name)), 'content/' + MANIFEST]
     tiles = []
     photos = [p for p in photos if not p.get('broken')]
-    for i, p in enumerate(photos, 1):
+    for p in photos:
         when = pretty(p.get('date', ''))
         desc = (p.get('description') or '').strip()
-        alt = desc or f'Photo {i} from the final blog post' + (f', {when}' if when else '')
+        # no position number: adding a photo would renumber every later one and change its text in every translation
+        alt = desc or 'Photo from the final blog post' + (f', {when}' if when else '')
         caption = ' · '.join(x for x in (when, desc) if x)
         # one card per photo: its caption (date, then the author's description) above it, like the Cat Dad tab
         tiles.append(f'<li><p class="photo-caption" aria-hidden="true" title="{esc(caption)}">{esc(caption or "Undated")}</p>'
