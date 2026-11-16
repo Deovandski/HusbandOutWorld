@@ -143,6 +143,10 @@
   "en": "Built automatically: each term, its topic, and the first sentence or two of its description, cut from the author's text.",
   "t": "يُبنى تلقائيًا: كل مصطلح، وموضوعه، وأول جملة أو جملتين من وصفه، مقتطعة من نص المؤلف."
  },
+ "8839c9eb7b2f": {
+  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, ending that mantra with \"!\" like the others, and rewording one sentence near the end about raising a family.",
+  "t": "حوّل كل صفحة من الصفحات الـ 33 المنشورة من HTML إلى Markdown كلمة بكلمة، باستخدام <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. ووجّه صور المدونة إلى الملف المطابق في Behind The Scenes حيث كانت الصور متطابقة. الاستثناءات: في نوفمبر 2026 غيّر Deovandski كلمته الختامية للمجلد 4 (<code>afterwords.md</code>)، فأضاف شعارات جديدة وأعاد كتابة الخاتمة لتنتهي باقتباس من الهافامال. كتب الذكاء الاصطناعي تلك التعديلات بتوجيه صريح منه، بما في ذلك تغيير «اثنين جديدين» إلى «ثلاثة جديدة» بعد أن أضاف هو نفسه شعار البذرة/الحصاد، وإنهاء ذلك الشعار بـ «!» مثل البقية، وإعادة صياغة جملة قرب النهاية عن تكوين أسرة."
+ },
  "894948ec60db": {
   "en": "<strong>The translations are AI-written, and every translated page says so.</strong> The website is also offered in other languages (pick one in Settings). Claude translated the author's text ahead of time (it is not machine translation on the fly), following the author's rules: names are written by sound, never translated. Each translated page carries a banner saying it was AI-translated from the original works, with a link to the English original. English is the source; if a translation and the English disagree, the English wins.",
   "t": "<strong>الترجمات من عمل الذكاء الاصطناعي، وكل صفحة مترجمة تذكر ذلك.</strong> الموقع متاح أيضًا بلغات أخرى (اختر إحداها من الإعدادات). ترجم Claude نص المؤلف مسبقًا (ليست ترجمة آلية فورية)، متبعًا قواعد المؤلف: تُكتب الأسماء حسب نطقها، ولا تُترجم أبدًا. تحمل كل صفحة مترجمة شريطًا يذكر أنها مترجمة بالذكاء الاصطناعي عن الأعمال الأصلية، مع رابط إلى الأصل الإنجليزي. الإنجليزية هي المصدر؛ وإن اختلفت الترجمة عن الإنجليزية، فالإنجليزية هي المعتمدة."
@@ -226,10 +230,6 @@
  "b7adb938bc6e": {
   "en": "AI-readable files (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, a Markdown copy of every page, and <code>data/*.json</code>)",
   "t": "الملفات القابلة للقراءة آليًا (<code>llms.txt</code>، <code>llms-full.txt</code>، <code>llms-full-bts.txt</code>، ونسخة Markdown من كل صفحة، و<code>data/*.json</code>)"
- },
- "bc3897d1e285": {
-  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, and ending that mantra with \"!\" like the others.",
-  "t": "حوّل كل صفحة من الصفحات الـ 33 المنشورة من HTML إلى Markdown كلمة بكلمة، باستخدام <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. ووجّه صور المدونة إلى الملف المطابق في Behind The Scenes حيث كانت الصور متطابقة. الاستثناءات: في نوفمبر 2026 غيّر Deovandski كلمته الختامية للمجلد 4 (<code>afterwords.md</code>)، فأضاف شعارات جديدة وأعاد كتابة الخاتمة لتنتهي باقتباس من الهافامال. كتب الذكاء الاصطناعي تلك التعديلات بتوجيه صريح منه، بما في ذلك تغيير «اثنين جديدين» إلى «ثلاثة جديدة» بعد أن أضاف هو نفسه شعار البذرة/الحصاد، وإنهاء ذلك الشعار بـ «!» مثل البقية."
  },
  "c39f6c800ffc": {
   "en": "content/summaries.json",

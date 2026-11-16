@@ -143,6 +143,10 @@
   "en": "Built automatically: each term, its topic, and the first sentence or two of its description, cut from the author's text.",
   "t": "สร้างโดยอัตโนมัติ: แต่ละคำ หัวข้อของคำนั้น และประโยคแรกหนึ่งหรือสองประโยคของคำอธิบาย ตัดมาจากข้อความของผู้เขียน"
  },
+ "8839c9eb7b2f": {
+  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, ending that mantra with \"!\" like the others, and rewording one sentence near the end about raising a family.",
+  "t": "แปลงหน้าที่ยังใช้งานอยู่ทั้ง 33 หน้าจาก HTML เป็น Markdown แบบคำต่อคำด้วย <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a> ชี้ภาพในบล็อกไปยังไฟล์ที่ตรงกันใน Behind The Scenes เมื่อเป็นภาพเดียวกัน ข้อยกเว้น: ในเดือนพฤศจิกายน 2026 Deovandski แก้ไขปัจฉิมลิขิตเล่ม 4 ของเขา (<code>afterwords.md</code>) โดยเพิ่มคติใหม่และเขียนตอนจบใหม่ให้ปิดท้ายด้วยคำคมจาก Hávamál AI พิมพ์การแก้ไขเหล่านั้นตามคำสั่งที่ชัดเจนของเขา รวมถึงเปลี่ยน \"two new ones\" เป็น \"three new ones\" หลังจากเขาเพิ่มคติเรื่องเมล็ดพันธุ์/การเก็บเกี่ยวเอง ปิดท้ายคติข้อนั้นด้วย \"!\" เหมือนข้ออื่นๆ และเรียบเรียงประโยคหนึ่งใกล้ตอนจบเรื่องการสร้างครอบครัวใหม่"
+ },
  "894948ec60db": {
   "en": "<strong>The translations are AI-written, and every translated page says so.</strong> The website is also offered in other languages (pick one in Settings). Claude translated the author's text ahead of time (it is not machine translation on the fly), following the author's rules: names are written by sound, never translated. Each translated page carries a banner saying it was AI-translated from the original works, with a link to the English original. English is the source; if a translation and the English disagree, the English wins.",
   "t": "<strong>คำแปลเขียนโดย AI และทุกหน้าที่แปลแล้วระบุไว้</strong> เว็บไซต์นี้มีให้อ่านในภาษาอื่นด้วย (เลือกได้ในการตั้งค่า) Claude แปลข้อความของผู้เขียนไว้ล่วงหน้า (ไม่ใช่การแปลด้วยเครื่องแบบสด) ตามกฎของผู้เขียน: ชื่อเขียนตามเสียง ไม่แปลความหมายเด็ดขาด ทุกหน้าที่แปลแล้วมีแถบแจ้งว่าแปลโดย AI จากผลงานต้นฉบับ พร้อมลิงก์ไปยังต้นฉบับภาษาอังกฤษ ภาษาอังกฤษคือต้นฉบับ หากคำแปลกับภาษาอังกฤษไม่ตรงกัน ให้ยึดภาษาอังกฤษ"
@@ -226,10 +230,6 @@
  "b7adb938bc6e": {
   "en": "AI-readable files (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, a Markdown copy of every page, and <code>data/*.json</code>)",
   "t": "ไฟล์ที่ AI อ่านได้ (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code> สำเนา Markdown ของทุกหน้า และ <code>data/*.json</code>)"
- },
- "bc3897d1e285": {
-  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, and ending that mantra with \"!\" like the others.",
-  "t": "แปลงหน้าที่ยังใช้งานอยู่ทั้ง 33 หน้าจาก HTML เป็น Markdown แบบคำต่อคำด้วย <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a> ชี้ภาพในบล็อกไปยังไฟล์ที่ตรงกันใน Behind The Scenes เมื่อเป็นภาพเดียวกัน ข้อยกเว้น: ในเดือนพฤศจิกายน 2026 Deovandski แก้ไขปัจฉิมลิขิตเล่ม 4 ของเขา (<code>afterwords.md</code>) โดยเพิ่มคติใหม่และเขียนตอนจบใหม่ให้ปิดท้ายด้วยคำคมจาก Hávamál AI พิมพ์การแก้ไขเหล่านั้นตามคำสั่งที่ชัดเจนของเขา รวมถึงเปลี่ยน \"two new ones\" เป็น \"three new ones\" หลังจากเขาเพิ่มคติเรื่องเมล็ดพันธุ์/การเก็บเกี่ยวเอง และปิดท้ายคติข้อนั้นด้วย \"!\" เหมือนข้ออื่นๆ"
  },
  "c39f6c800ffc": {
   "en": "content/summaries.json",
