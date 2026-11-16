@@ -143,6 +143,10 @@
   "en": "Built automatically: each term, its topic, and the first sentence or two of its description, cut from the author's text.",
   "t": "자동으로 생성: 각 용어, 그 주제, 작가의 글에서 잘라 낸 설명의 첫 한두 문장."
  },
+ "8839c9eb7b2f": {
+  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, ending that mantra with \"!\" like the others, and rewording one sentence near the end about raising a family.",
+  "t": "공개되어 있던 33개 페이지를 <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>로 HTML에서 Markdown으로 한 단어도 바꾸지 않고 변환했습니다. 그림이 같은 경우 블로그 이미지를 Behind The Scenes의 해당 파일로 연결했습니다. 예외: 2026년 11월 Deovandski가 4권 후기(<code>afterwords.md</code>)를 고쳐 새 만트라를 더하고 하바말 인용으로 끝나도록 마무리를 다시 썼습니다. AI는 그의 명시적인 지시에 따라 그 수정 내용을 입력했으며, 그가 씨앗/수확 만트라를 직접 추가한 뒤 “새로운 것 두 개”를 “새로운 것 세 개”로 바꾸고, 그 만트라를 다른 것들처럼 “!”로 끝낸 것, 끝부분의 가정을 꾸리는 것에 관한 한 문장을 고쳐 쓴 것도 포함됩니다."
+ },
  "894948ec60db": {
   "en": "<strong>The translations are AI-written, and every translated page says so.</strong> The website is also offered in other languages (pick one in Settings). Claude translated the author's text ahead of time (it is not machine translation on the fly), following the author's rules: names are written by sound, never translated. Each translated page carries a banner saying it was AI-translated from the original works, with a link to the English original. English is the source; if a translation and the English disagree, the English wins.",
   "t": "<strong>번역은 AI가 했으며, 번역된 모든 페이지에 그렇게 표시되어 있습니다.</strong> 이 웹사이트는 다른 언어로도 제공됩니다(설정에서 고를 수 있습니다). Claude가 작가의 글을 미리 번역했으며(실시간 기계 번역이 아닙니다), 작가의 규칙을 따랐습니다. 이름은 소리대로 적고, 절대 의미로 옮기지 않습니다. 번역된 각 페이지에는 원작에서 AI가 번역했다는 배너와 영어 원문으로 가는 링크가 있습니다. 원본은 영어이며, 번역과 영어가 다르면 영어가 우선합니다."
@@ -226,10 +230,6 @@
  "b7adb938bc6e": {
   "en": "AI-readable files (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, a Markdown copy of every page, and <code>data/*.json</code>)",
   "t": "AI가 읽을 수 있는 파일(<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, 모든 페이지의 Markdown 사본, <code>data/*.json</code>)"
- },
- "bc3897d1e285": {
-  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, and ending that mantra with \"!\" like the others.",
-  "t": "공개되어 있던 33개 페이지를 <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>로 HTML에서 Markdown으로 한 단어도 바꾸지 않고 변환했습니다. 그림이 같은 경우 블로그 이미지를 Behind The Scenes의 해당 파일로 연결했습니다. 예외: 2026년 11월 Deovandski가 4권 후기(<code>afterwords.md</code>)를 고쳐 새 만트라를 더하고 하바말 인용으로 끝나도록 마무리를 다시 썼습니다. AI는 그의 명시적인 지시에 따라 그 수정 내용을 입력했으며, 그가 씨앗/수확 만트라를 직접 추가한 뒤 “새로운 것 두 개”를 “새로운 것 세 개”로 바꾸고, 그 만트라를 다른 것들처럼 “!”로 끝낸 것도 포함됩니다."
  },
  "c39f6c800ffc": {
   "en": "content/summaries.json",

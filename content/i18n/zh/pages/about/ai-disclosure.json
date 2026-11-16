@@ -143,6 +143,10 @@
   "en": "Built automatically: each term, its topic, and the first sentence or two of its description, cut from the author's text.",
   "t": "自动生成：每个术语、其主题，以及从作者文字中截取的描述的前一两句。"
  },
+ "8839c9eb7b2f": {
+  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, ending that mantra with \"!\" like the others, and rewording one sentence near the end about raising a family.",
+  "t": "使用 <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a> 将 33 个已发布页面逐字从 HTML 转换为 Markdown。在图片相同的情况下，将博客图片指向 Behind The Scenes 中对应的文件。例外：2026 年 11 月，Deovandski 修改了他的第 4 卷后记（<code>afterwords.md</code>），加入了新的箴言，并将结尾改写为以一段《至高者箴言》的引文结束。AI 在他的明确指示下输入了这些修改，包括在他自己加入种子/收获的箴言后把“两条新的”改为“三条新的”，像其他箴言一样以“！”结束这条箴言，以及改写了结尾附近一句关于组建家庭的话。"
+ },
  "894948ec60db": {
   "en": "<strong>The translations are AI-written, and every translated page says so.</strong> The website is also offered in other languages (pick one in Settings). Claude translated the author's text ahead of time (it is not machine translation on the fly), following the author's rules: names are written by sound, never translated. Each translated page carries a banner saying it was AI-translated from the original works, with a link to the English original. English is the source; if a translation and the English disagree, the English wins.",
   "t": "<strong>译文由 AI 撰写，每个翻译页面都会注明。</strong>本网站还提供其他语言版本（可在设置中选择）。Claude 事先翻译了作者的文字（不是即时机器翻译），并遵循作者的规则：名字按读音书写，从不意译。每个翻译页面都带有一条横幅，说明它是由 AI 根据原作翻译的，并附有英文原文的链接。英文是原始来源；如果译文与英文不一致，以英文为准。"
@@ -226,10 +230,6 @@
  "b7adb938bc6e": {
   "en": "AI-readable files (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, a Markdown copy of every page, and <code>data/*.json</code>)",
   "t": "供 AI 读取的文件（<code>llms.txt</code>、<code>llms-full.txt</code>、<code>llms-full-bts.txt</code>、每个页面的 Markdown 副本，以及 <code>data/*.json</code>）"
- },
- "bc3897d1e285": {
-  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, and ending that mantra with \"!\" like the others.",
-  "t": "使用 <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a> 将 33 个已发布页面逐字从 HTML 转换为 Markdown。在图片相同的情况下，将博客图片指向 Behind The Scenes 中对应的文件。例外：2026 年 11 月，Deovandski 修改了他的第 4 卷后记（<code>afterwords.md</code>），加入了新的箴言，并将结尾改写为以一段《至高者箴言》的引文结束。AI 在他的明确指示下输入了这些修改，包括在他自己加入种子/收获的箴言后把“两条新的”改为“三条新的”，以及像其他箴言一样以“！”结束这条箴言。"
  },
  "c39f6c800ffc": {
   "en": "content/summaries.json",
