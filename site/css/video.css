@@ -1,0 +1,6 @@
+/* Reusable component: captioned video player (.hv-video), written by video_figure() in tools/build.py.
+   Usage: <figure class="hv-video"><video controls src="clip.mp4"></video><figcaption>Caption</figcaption></figure>
+   Theme it with --hv-video-max (max width), --hv-video-radius and --hv-video-bg; each has a fallback. */
+.hv-video { margin: 1rem auto 1.4rem; max-width: var(--hv-video-max, 26rem); }
+.hv-video video { display: block; width: 100%; height: auto; border-radius: var(--hv-video-radius, 10px); background: var(--hv-video-bg, var(--bg2, #000)); }
+.hv-video figcaption { text-align: center; font: .72em var(--sans, sans-serif); color: var(--ink2, inherit); margin-top: .3rem; }

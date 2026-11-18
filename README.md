@@ -37,6 +37,12 @@ python tools/build.py
 
 The site lands in `_site/`. GitHub Actions builds and publishes it on every push to `main`.
 
+### Reusable components
+
+| Component | Files | What it does |
+|---|---|---|
+| Video player (`.hv-video`) | `video_figure()` in [tools/build.py](tools/build.py), [site/css/video.css](site/css/video.css) | A captioned, never-autoplaying video. In markdown, `![caption](clip.mp4)` becomes one. |
+
 ### Spot something wrong, or want to make a change?
 
 Create an issue or feel free to send a PR!

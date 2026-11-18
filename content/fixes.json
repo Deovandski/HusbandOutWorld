@@ -71,5 +71,12 @@
       "replace": "1,500 feet up in the air…. Hella good times!\n\n![](images/skydive.jpg)\n\n",
       "why": "The author's skydiving photo, shown centered under the sentence about it (requested by the author, issue #33)."
     }
+  ],
+  "Legacy/Public/science-darfaries-interface.md": [
+    {
+      "find": "Video versions\n\nApplying command\n\n  \n\nFeeding energy\n\n  \n  \n  \n\n## Using The Interface - Release\n\nTo release the spell, unclench the fingers. To add motion to the spell, cock your arm, then throw it towards the target to transfer the inertia into the spell.\n",
+      "replace": "## Using The Interface - Release\n\nTo release the spell, unclench the fingers. To add motion to the spell, cock your arm, then throw it towards the target to transfer the inertia into the spell.\n\n#### Darfaries Interface Video showcase\n\n![Full Darfaries Interface - Sigil and Nari stone mode](Videos/Full%20Darfaries%20Interface%20-Sigil%20and%20Nari%20stone%20mode%20.mp4)\n\n![Full Darfaries Interface - scribling and soul energy stone mode](Videos/Full%20Darfaries%20Interface%20-%20scribling%20and%20soul%20energy%20stone%20mode.mp4)\n",
+      "why": "The blog's videos never made it into the doc (only their labels did). The author supplied them (issue #78): the empty \"Video versions\" labels are removed and the two videos get their own section after Using The Interface - Release. It is a level-4 heading so it stays right under that section instead of being matched to the \"Darfaries Interface\" entry."
+    }
   ]
 }
