@@ -1,0 +1,13 @@
+{
+ "_about": "Embedded pictures the website shows blurred (display only; Legacy itself is never edited). Keyed by the picture's build key: the first 14 characters of the SHA-1 of its bytes. \"blur\" is a percentage: 100 blurs by 6% of the picture's longer side, so 50 blurs by 3%. Each entry says where the picture is and why.",
+ "d3c1b2c45f8a4c": {
+  "blur": 50,
+  "where": "Legacy/Behind The Scenes/Light Novel/Arc #2 - Hifuna Beast.md, [image4], after \"Katsuki looking at her sister from the metal frame window...\"",
+  "why": "Explicit scene; the author asked for it to be blurred by 50% (issue #79)."
+ },
+ "8f6ea16d489d75": {
+  "blur": 50,
+  "where": "Legacy/Behind The Scenes/Light Novel/Arc #3 - Tasty Lie.md, [image4], after \"July slowly fell backwards, pulling Harry to be on top of her...\"",
+  "why": "Explicit scene; the author asked for it to be blurred by 50% (issue #79)."
+ }
+}

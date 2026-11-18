@@ -8,13 +8,14 @@ content/ holds the page map, alt text and typo fixes. Nothing here writes lore.
 
 Usage: python tools/build.py [--out _site] [--cache .media-cache] [--no-images]
 """
-import argparse, base64, hashlib, html, json, os, re, shutil, sys, unicodedata
+import argparse, base64, hashlib, html, io, json, os, re, shutil, sys, unicodedata
+from collections import Counter
 from concurrent.futures import ProcessPoolExecutor
 from difflib import SequenceMatcher
 from urllib.parse import quote, unquote
 
 from markdown_it import MarkdownIt
-from PIL import Image
+from PIL import Image, ImageFilter
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import i18n  # the translations (tools/i18n.py)
@@ -38,6 +39,16 @@ def asset(url):
 CFG = json.load(open(os.path.join(CONTENT, 'site.json')))
 ALT = json.load(open(os.path.join(CONTENT, 'alt-text.json'))) if os.path.exists(os.path.join(CONTENT, 'alt-text.json')) else {}
 FIXES = json.load(open(os.path.join(CONTENT, 'fixes.json'))) if os.path.exists(os.path.join(CONTENT, 'fixes.json')) else {}
+SUB_HEADING_MAX = 4           # a heading inside entries that shows up this many times is template, not a term (search index)
+BLUR = json.load(open(os.path.join(CONTENT, 'blur.json'))) if os.path.exists(os.path.join(CONTENT, 'blur.json')) else {}
+
+def blur_image(raw, percent):
+    """A blurred PNG of an image, for display only (content/blur.json). 100% blurs by 6% of the longer side."""
+    im = Image.open(io.BytesIO(raw))
+    im = im.convert('RGBA' if im.mode in ('RGBA', 'LA', 'P') else 'RGB')
+    out = io.BytesIO()
+    im.filter(ImageFilter.GaussianBlur(max(im.size) * 0.06 * percent / 100)).save(out, 'PNG')
+    return out.getvalue()
 
 def read_legacy(path):
     """Read a Legacy file and apply its display-only fixes from content/fixes.json."""
@@ -187,10 +198,13 @@ class Media:
             return None
         raw = base64.b64decode(m.group(1))
         key = hashlib.sha1(raw).hexdigest()[:14]
+        blur = BLUR.get(key, {}).get('blur')
+        if blur:
+            key += f'-b{blur}'  # a new name, so a cached unblurred copy is never reused
         if key not in self.info:
             p = os.path.join(self.cache, key + '.src')
             if not os.path.exists(p):
-                open(p, 'wb').write(raw)
+                open(p, 'wb').write(blur_image(raw, blur) if blur else raw)
             self.jobs[key] = ('file', p)
             self.info[key] = {'src': origin + ' (embedded image)', 'url': f'/media/{key}.webp', 'thumb': f'/media/{key}-t.webp'}
         return self.info[key]
@@ -243,6 +257,21 @@ class Renderer:
         # (a bound method gets re-bound on Python 3.12 and loses this object).
         self.md.add_render_rule('image', lambda renderer, tokens, idx, options, env: self._image(tokens, idx, options, env))
         self.md.add_render_rule('link_open', lambda renderer, tokens, idx, options, env: self._link_open(tokens, idx, options, env))
+        self.md.add_render_rule('heading_open', lambda renderer, tokens, idx, options, env: self._heading_open(tokens, idx, options, env))
+
+    def _heading_open(self, tokens, idx, options, env):
+        """Give headings inside a lore entry an id ("<entry>--<heading>"), so search can link straight to them."""
+        ids = env.get('ids')
+        if ids is not None and idx + 1 < len(tokens):
+            text = clean_heading(tokens[idx + 1].content)
+            if text:
+                base = ids['prefix'] + '--' + slugify(text)
+                a, n = base, 2
+                while a in ids['used']:
+                    a, n = f'{base}-{n}', n + 1
+                ids['used'].add(a)
+                tokens[idx].attrSet('id', a)
+        return self.md.renderer.renderToken(tokens, idx, options, env)
 
     def _image(self, tokens, idx, options, env):
         t = tokens[idx]
@@ -280,11 +309,39 @@ class Renderer:
                     break
         return self.media.file(p)
 
-    def render(self, text, base=ROOT, origin='', refs=None):
+    def render(self, text, base=ROOT, origin='', refs=None, ids=None):
         if refs:
             text = re.sub(r'!\[([^\]]*)\]\[(image\d+)\]', lambda m: f'![{m.group(1)}]({refs[m.group(2)]})' if m.group(2) in refs else '', text)
         text = re.sub(r'!\[[^\]]*\]\[image\d+\]', '', text)  # references with no image behind them
-        return self.md.render(text, {'base': base, 'origin': origin})
+        return self.md.render(text, {'base': base, 'origin': origin, 'ids': ids})
+
+def heading_sections(block):
+    """(id, title, text below it) for every heading with an id in a block of rendered HTML."""
+    out = []
+    for m in re.finditer(r'<h([1-6]) id="([^"]+)">(.*?)</h\1>(.*?)(?=<h[1-6][ >]|$)', block, re.S):
+        title = html.unescape(re.sub(r'<[^>]+>', '', m.group(3))).strip()
+        text = html.unescape(re.sub(r'<[^>]+>', ' ', m.group(4)))
+        out.append((m.group(2), title, first_sentences(text, 300)))
+    return out
+
+def sub_heading_search(pub_html, bts_html, url, section, entry_title, entry_bts):
+    """Search results for the headings inside a lore entry (e.g. "Sigil Rings" inside Darfaries Interface),
+    so a term that is a heading, not an entry of its own, can still be found. Public first; a heading
+    only in the full notes is Behind The Scenes."""
+    items, seen = {}, {norm(entry_title)}
+    for block, bts in ((pub_html, entry_bts), (bts_html, True)):
+        for anchor, title, text in heading_sections(block):
+            k = norm(title)
+            if not k or k in seen and k not in items:
+                continue
+            if k in items:
+                if bts and not items[k]['xb']:
+                    items[k]['xb'] = text
+                continue
+            seen.add(k)
+            items[k] = {'t': title, 'u': url + '#' + anchor, 's': section,
+                        'x': '' if bts else text, 'xb': text, 'b': bts, 'sub': True}
+    return list(items.values())
 
 def default_alt(src):
     stem = os.path.splitext(os.path.basename(src))[0]
@@ -461,8 +518,8 @@ class Builder:
         return (f'<figure class="art"><a class="img-link" href="{info["url"]}" data-full="{info["url"]}">'
                 f'<img src="{info["thumb"]}" alt="{esc(alt)}" loading="lazy"{w}></a>{cap}</figure>')
 
-    def md_bts_block(self, md, refs, origin):
-        return self.r.render(fix_typos(md, origin), base=os.path.join(ROOT, os.path.dirname(origin)), origin=origin, refs=refs)
+    def md_bts_block(self, md, refs, origin, ids=None):
+        return self.r.render(fix_typos(md, origin), base=os.path.join(ROOT, os.path.dirname(origin)), origin=origin, refs=refs, ids=ids)
 
     # ---- lore topics
     def build_topic(self, t):
@@ -615,12 +672,15 @@ class Builder:
             page.toc.append((anchor, e['title'], layer, 'entry'))
             h = [f'<section class="entry layer {layer}" id="{anchor}">', f'<h3>{esc(e["title"])}</h3>']
             fig = self.figure(img_src)
+            ids = {'prefix': anchor, 'used': set()}
+            pub_html = bts_html = ''
             if pub_md:
-                h.append(f'<div class="layer public">{fig}{self.r.render(pub_render, base=PUB)}'
+                pub_html = self.r.render(pub_render, base=PUB, ids=ids)
+                h.append(f'<div class="layer public">{fig}{pub_html}'
                          f'<p class="src src-pub">Public text: {esc(pub_src)}</p></div>')
             if rest.strip() or wd:
                 bts_md = rest if pub_md == wd else e['body']
-                bts_html = self.md_bts_block(bts_md, e["refs"], e["origin"])
+                bts_html = self.md_bts_block(bts_md, e["refs"], e["origin"], ids=ids)
                 if t.get('glyph_tables'):
                     bts_html = glyph_grids(bts_html, e['title'])
                 if e['title'] == t.get('scribe_in'):
@@ -646,6 +706,9 @@ class Builder:
             page.search.append({'t': e['title'], 'u': url + '#' + anchor, 's': t['title'],
                                 'x': first_sentences(pub_md or '', 300), 'xb': first_sentences(e['body'], 400),
                                 'b': layer == 'bts'})
+            section = t['title'] if norm(e['title']) == norm(t['title']) else f'{t["title"]} · {e["title"]}'
+            page.search.extend(sub_heading_search(pub_html, bts_html, url, section,
+                                                  e['title'], layer == 'bts'))
         bts_now = False
         for s in leftovers:
             anchor = slugify(s['heading'] or s['page'])
@@ -1255,6 +1318,13 @@ class Builder:
             json.dump(inv, open(i18n.INVENTORY, 'w', encoding='utf-8'), ensure_ascii=False)
         # search index
         idx = [s for p in self.pages for s in p.search]
+        # a heading that repeats across many entries ("Economic Value", "Food/Drink", "None") is a field of the
+        # docs' template, not a term anyone searches for, so only the rarer headings inside entries are kept
+        sub_count = Counter(norm(s['t']) for s in idx if s.get('sub'))
+        idx = [s for s in idx if not s.get('sub') or (sub_count[norm(s['t'])] < SUB_HEADING_MAX
+                                                       and norm(s['t']) not in ('none', 'tbd', 'na'))]
+        for s in idx:
+            s.pop('sub', None)
         os.makedirs(os.path.join(self.out, 'data'), exist_ok=True)
         json.dump(idx, open(os.path.join(self.out, 'data', 'search.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
         json.dump(self.glossary, open(os.path.join(self.out, 'data', 'glossary.json'), 'w'), ensure_ascii=False, indent=1)
