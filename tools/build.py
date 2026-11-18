@@ -39,6 +39,8 @@ def asset(url):
 CFG = json.load(open(os.path.join(CONTENT, 'site.json')))
 ALT = json.load(open(os.path.join(CONTENT, 'alt-text.json'))) if os.path.exists(os.path.join(CONTENT, 'alt-text.json')) else {}
 FIXES = json.load(open(os.path.join(CONTENT, 'fixes.json'))) if os.path.exists(os.path.join(CONTENT, 'fixes.json')) else {}
+MD_MAX = 150_000              # a page's Markdown twin bigger than this splits its Behind The Scenes layer by category
+BUNDLE_MAX = 300_000          # the smaller full-text files in /llms/ stay under this where a page allows (bytes)
 SUB_HEADING_MAX = 4           # a heading inside entries that shows up this many times is template, not a term (search index)
 BLUR = json.load(open(os.path.join(CONTENT, 'blur.json'))) if os.path.exists(os.path.join(CONTENT, 'blur.json')) else {}
 
@@ -1312,7 +1314,10 @@ class Builder:
                     if cov[code] >= i18n.INDEX_COVERAGE:
                         self.lang_ready.append((code, p.url))
             if not p.url.endswith('.html'):
-                open(os.path.join(os.path.dirname(path), 'index.md'), 'w', encoding='utf-8').write(page_md(p))
+                files = page_md_files(p)
+                p.md_parts = [name for name in files if name != 'index.md']
+                for name, text in files.items():
+                    open(os.path.join(os.path.dirname(path), name), 'w', encoding='utf-8').write(text)
         if langs:
             os.makedirs(i18n.CACHE, exist_ok=True)
             json.dump(inv, open(i18n.INVENTORY, 'w', encoding='utf-8'), ensure_ascii=False)
@@ -1339,8 +1344,8 @@ class Builder:
         pages = [{'url': CFG['base_url'] + p.url, 'markdown': CFG['base_url'] + p.url + 'index.md', 'title': p.title,
                   'section': p.section, 'spoilers': p.layer == 'bts', 'sources': p.sources} for p in self.pages if not p.url.endswith('.html')]
         json.dump(pages, open(os.path.join(self.out, 'data', 'pages.json'), 'w'), ensure_ascii=False, indent=1)
-        write_llms(self.out, self.pages)
-        write_sitemap(self.out, self.pages, getattr(self, 'lang_ready', []))
+        bundles = write_llms(self.out, self.pages)
+        write_sitemap(self.out, self.pages, getattr(self, 'lang_ready', []), bundles)
         open(os.path.join(self.out, 'robots.txt'), 'w').write(f'User-agent: *\nAllow: /\n\nSitemap: {CFG["base_url"]}/sitemap.xml\n')
         # static assets
         for sub in ('css', 'js', 'fonts'):
@@ -1564,6 +1569,7 @@ if(!d.dataset.lang){{var ok=(d.dataset.langs||'').split(' '),w=s.lang,n=navigato
   Vraki typeface © 2024 Deovandski Skibinski Junior, https://husbandoutworld.com/ (<a href="/fonts/VRAKI-FONT-LICENSE.md">font license</a>).</p>
   <p>Monetized videos and posts about the series are welcome; other commercial use needs approval: <a href="https://www.linkedin.com/in/deovandski/">LinkedIn</a> or <a href="mailto:Deovandski@outlook.com">Deovandski@outlook.com</a>. <a href="{CFG['repo_url']}/blob/main/LICENSE.md#permissions-beyond-the-license">Permissions</a></p>
   <p><span>This site was built with AI assistance from the author's originals.</span> <a href="/about/ai-disclosure/">AI disclosure</a> · <a href="{CFG['repo_url']}">GitHub</a> · <a href="/llms.txt">llms.txt</a> · <a href="{p.url if not p.url.endswith('.html') else '/'}index.md">This page as Markdown</a></p>
+  <p class="ai-files">Full text for AI tools: <a href="/llms-full.txt">llms-full.txt</a> · <a href="/llms-full-bts.txt">llms-full-bts.txt</a> (spoilers)</p>
 </footer>
 <dialog id="spoiler-dialog" class="keep-latin">
   <form method="dialog">
@@ -1590,21 +1596,107 @@ if(!d.dataset.lang){{var ok=(d.dataset.langs||'').split(' '),w=s.lang,n=navigato
 </html>
 '''
 
-def page_md(p):
-    head = (f'---\ntitle: "{p.title}"\nurl: {CFG["base_url"]}{p.url}\nsection: {p.section}\n'
-            f'spoilers: {"yes (Behind The Scenes only)" if p.layer == "bts" else "public layer first, Behind The Scenes after"}\n'
-            f'sources: [{", ".join(p.sources)}]\n---\n\n')
+def page_md(p, bts=None, public=None, title=None, extra_head=''):
+    bts = p.md_bts if bts is None else bts
+    public = p.md_public if public is None else public
+    head = (f'---\ntitle: "{title or p.title}"\nurl: {CFG["base_url"]}{p.url}\nsection: {p.section}\n'
+            f'spoilers: {"yes (Behind The Scenes only)" if p.layer == "bts" or not public.strip() else "public layer first, Behind The Scenes after"}\n'
+            f'sources: [{", ".join(p.sources)}]\n{extra_head}---\n\n')
     out = head
-    if p.md_public.strip():
-        out += '<!-- PUBLIC LAYER: as published for readers -->\n\n' + p.md_public.strip() + '\n\n'
-    if p.md_bts.strip():
-        out += '<!-- BEHIND THE SCENES LAYER: the author\'s full notes, contains spoilers -->\n\n' + p.md_bts.strip() + '\n'
+    if public.strip():
+        out += '<!-- PUBLIC LAYER: as published for readers -->\n\n' + public.strip() + '\n\n'
+    if bts.strip():
+        out += '<!-- BEHIND THE SCENES LAYER: the author\'s full notes, contains spoilers -->\n\n' + bts.strip() + '\n'
     out = md_absolute(out)
     out = re.sub(r'\[image\d+\]: <data:[^>]+>', '', out)
     out = re.sub(r'\(data:image/[^)]+\)', '(embedded-image)', out)
     return out
 
+def page_md_files(p):
+    """A page's Markdown twin as {file name: text}. A twin over MD_MAX bytes keeps its Public layer in index.md and
+    splits its Behind The Scenes layer into one file per category (bts-<category>.md), which index.md links to,
+    so readers that cut off long files still get all of it."""
+    full = page_md(p)
+    if len(full.encode('utf-8')) <= MD_MAX:
+        return {'index.md': full}
+    chunks = re.split(r'(?m)^(?=## )', p.md_bts.strip())
+    intro, cats = chunks[0], chunks[1:]
+    if len(cats) < 2:
+        return {'index.md': full}
+    files, links = {}, []
+    for c in cats:
+        cat = clean_heading(c.split('\n', 1)[0][3:])
+        name = f'bts-{slugify(cat)}.md'
+        files[name] = page_md(p, bts=c, public='', title=f'{p.title}: {cat} (Behind The Scenes)',
+                              extra_head=f'part_of: {CFG["base_url"]}{p.url}index.md\n')
+        links.append(f'- [{cat}]({p.url}{name})')
+    note = ('The full notes for this page are long, so they are split into one file per category:\n\n' + '\n'.join(links))
+    return {'index.md': page_md(p, bts=(intro.strip() + '\n\n' + note).strip()), **files}
+
+def size_label(n):
+    return f'{n / 1e6:.1f} MB' if n >= 1e6 else f'{max(1, round(n / 1e3))} KB'
+
+def bundle_group(p):
+    """(file name, label) of the smaller full-text bundle a page goes in."""
+    m = re.match(r'/novel/(vol-\d+)/', p.url)
+    if m:
+        vol = next((v for v in CFG['volumes'] + CFG.get('upcoming_volumes', []) if v.get('slug') == m.group(1)), {})
+        return f'novel-{m.group(1)}', f'Light Novel, {vol.get("title", m.group(1))}'
+    if any(p.url == f'/novel/{n["slug"]}/' for n in CFG['story_notes']):
+        return 'story-notes', 'Story notes for the unreleased arcs'
+    m = re.match(r'/lore/([^/]+)/', p.url)
+    if m:
+        for g in CFG['lore_groups']:
+            if m.group(1) in g['topics']:
+                return f'lore-{slugify(g["title"])}', f'World Lore: {g["title"]}'
+    if p.url.startswith('/glossary/'):
+        return 'glossary', 'Glossary'
+    return 'site', 'Home, novel overview, World Lore overview, Webcomic, Gallery, Blog and About'
+
+def split_bundles(out, pages, head):
+    """Write the full text again as smaller files in /llms/ (one per section, each under BUNDLE_MAX bytes where a page
+    allows), Public and Behind The Scenes versions. Returns [(label, url, bytes, bts)]."""
+    groups, labels = {}, {}
+    for p in pages:
+        name, label = bundle_group(p)
+        groups.setdefault(name, []).append(p)
+        labels[name] = label
+    os.makedirs(os.path.join(out, 'llms'), exist_ok=True)
+    made = []
+    for bts in (False, True):
+        for name, ps in groups.items():
+            texts = [(f'\n\n---\nURL: {CFG["base_url"]}{p.url}\n\n' +
+                      (page_md(p) if bts else md_absolute(p.md_public.strip())))
+                     for p in ps if bts or p.md_public.strip()]
+            if not texts:
+                continue
+            chunks, cur = [], ''
+            for t in texts:
+                if cur and len((cur + t).encode('utf-8')) > BUNDLE_MAX:
+                    chunks.append(cur)
+                    cur = ''
+                cur += t
+            if chunks and len(cur.encode('utf-8')) < BUNDLE_MAX // 10:
+                chunks[-1] += cur  # a short last piece rides along with the one before it
+            else:
+                chunks.append(cur)
+            for i, body in enumerate(chunks, 1):
+                fname = name + (f'-part-{i}' if len(chunks) > 1 else '') + ('-bts' if bts else '') + '.txt'
+                label = labels[name] + (f' (part {i} of {len(chunks)})' if len(chunks) > 1 else '')
+                note = '(Public and Behind The Scenes layers. Contains spoilers.)' if bts else '(Public layer only.)'
+                text = head + f'Part: {label}. {note}\n' + re.sub(r'\(data:image/[^)]+\)', '(embedded-image)', body)
+                open(os.path.join(out, 'llms', fname), 'w', encoding='utf-8').write(text)
+                made.append((label, f'/llms/{fname}', len(text.encode('utf-8')), bts))
+    return made
+
 def write_llms(out, pages):
+    pub_text, full_text, head = full_text_bundles(pages)
+    open(os.path.join(out, 'llms-full.txt'), 'w', encoding='utf-8').write(pub_text)
+    open(os.path.join(out, 'llms-full-bts.txt'), 'w', encoding='utf-8').write(full_text)
+    sizes = {'pub': len(pub_text.encode('utf-8')), 'bts': len(full_text.encode('utf-8'))}
+    order = {'Home': 0, 'Light Novel': 1, 'Webcomic': 1.5, 'World Lore': 2, 'Glossary': 3, 'Gallery': 4, 'About': 5}
+    bundles = split_bundles(out, sorted([p for p in pages if not p.url.endswith('.html') and p.section != 'Search'],
+                                        key=lambda p: order.get(p.section, 9)), head)
     by = {}
     for p in pages:
         if p.url.endswith('.html'):
@@ -1621,18 +1713,29 @@ def write_llms(out, pages):
              f'License: CC BY-NC-SA 4.0 (copyright only, no trademark rights). Monetized videos, streams and social media posts about the series are allowed with credit; '
              f'other commercial use needs approval (LinkedIn: https://www.linkedin.com/in/deovandski/, email: Deovandski@outlook.com). Built with AI assistance from the author\'s originals: {CFG["base_url"]}/about/ai-disclosure/', '',
              '## Full text bundles', '',
-             f'- [Public layer, everything]({CFG["base_url"]}/llms-full.txt): the novel and the public lore in one file',
-             f'- [Everything, including Behind The Scenes]({CFG["base_url"]}/llms-full-bts.txt): adds the full notes (spoilers)',
-             f'- [Glossary JSON]({CFG["base_url"]}/data/glossary.json), [Image list with alt text]({CFG["base_url"]}/data/images.json), [Page list]({CFG["base_url"]}/data/pages.json)', '']
+             'Many readers stop partway through a long file. If yours does, use the smaller files by section below, or each page\'s `index.md` twin.', '',
+             f'- [Public layer, everything]({CFG["base_url"]}/llms-full.txt) ({size_label(sizes["pub"])}): the novel and the public lore in one file',
+             f'- [Everything, including Behind The Scenes]({CFG["base_url"]}/llms-full-bts.txt) ({size_label(sizes["bts"])}): adds the full notes (spoilers)',
+             f'- [Glossary JSON]({CFG["base_url"]}/data/glossary.json), [Image list with alt text]({CFG["base_url"]}/data/images.json), [Page list]({CFG["base_url"]}/data/pages.json)', '',
+             f'### By section, Public layer (about {size_label(BUNDLE_MAX)} or less each)', '',
+             *[f'- [{label}]({CFG["base_url"]}{u}) ({size_label(n)})' for label, u, n, b in bundles if not b], '',
+             '### By section, including Behind The Scenes (spoilers)', '',
+             *[f'- [{label}]({CFG["base_url"]}{u}) ({size_label(n)})' for label, u, n, b in bundles if b], '']
     for sec in ('Light Novel', 'Webcomic', 'World Lore', 'Gallery', 'Glossary', 'About'):
         if sec not in by:
             continue
         lines.append(f'## {sec}\n')
         for p in by[sec]:
             tag = ' (Behind The Scenes, spoilers)' if p.layer == 'bts' else ''
-            lines.append(f'- [{p.title}]({CFG["base_url"]}{p.url}index.md){tag}: {p.desc}')
+            parts = getattr(p, 'md_parts', [])
+            more = f' Its full notes are split into {len(parts)} files, linked from that page.' if parts else ''
+            lines.append(f'- [{p.title}]({CFG["base_url"]}{p.url}index.md){tag}: {p.desc}{more}')
         lines.append('')
     open(os.path.join(out, 'llms.txt'), 'w', encoding='utf-8').write('\n'.join(lines))
+    return bundles
+
+def full_text_bundles(pages):
+    """The two all-in-one files: (Public text, Public + Behind The Scenes text, the header both start with)."""
     pub, full = [], []
     order = {'Home': 0, 'Light Novel': 1, 'Webcomic': 1.5, 'World Lore': 2, 'Glossary': 3, 'Gallery': 4, 'About': 5}
     for p in sorted([p for p in pages if not p.url.endswith('.html') and p.section != 'Search'], key=lambda p: order.get(p.section, 9)):
@@ -1643,12 +1746,17 @@ def write_llms(out, pages):
     head = (f'# {CFG["title"]}: full text\n\nSource: {CFG["base_url"]}. Copyright © {CFG["author"]}; "A Husband Out of This World" and '
             f'"#HusbandOutWorld" are trademarks of {CFG["author"]}. License: CC BY-NC-SA 4.0. eBook: {CFG["amazon_url"]}\n')
     clean = lambda s: re.sub(r'\(data:image/[^)]+\)', '(embedded-image)', s)
-    open(os.path.join(out, 'llms-full.txt'), 'w', encoding='utf-8').write(head + '(Public layer only.)\n' + clean(''.join(pub)))
-    open(os.path.join(out, 'llms-full-bts.txt'), 'w', encoding='utf-8').write(head + '(Public and Behind The Scenes layers. Contains spoilers.)\n' + clean(''.join(full)))
+    return (head + '(Public layer only.)\n' + clean(''.join(pub)),
+            head + '(Public and Behind The Scenes layers. Contains spoilers.)\n' + clean(''.join(full)), head)
 
-def write_sitemap(out, pages, lang_ready=()):
-    urls = ''.join(f'<url><loc>{CFG["base_url"]}{p.url}</loc></url>' for p in pages if not p.url.endswith('.html'))
-    urls += ''.join(f'<url><loc>{CFG["base_url"]}/{code}{url}</loc></url>' for code, url in lang_ready)
+def write_sitemap(out, pages, lang_ready=(), bundles=()):
+    pages = [p for p in pages if not p.url.endswith('.html')]
+    locs = [p.url for p in pages]
+    locs += [f'/{code}{url}' for code, url in lang_ready]
+    # the files for AI readers: llms.txt, the full-text bundles and every page's Markdown twin
+    locs += ['/llms.txt', '/llms-full.txt', '/llms-full-bts.txt'] + [u for _, u, _, _ in bundles]
+    locs += [p.url + name for p in pages for name in ['index.md'] + getattr(p, 'md_parts', [])]
+    urls = ''.join(f'<url><loc>{CFG["base_url"]}{quote(u)}</loc></url>' for u in locs)
     open(os.path.join(out, 'sitemap.xml'), 'w').write(f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>')
 
 # --------------------------------------------------------------------------- main
