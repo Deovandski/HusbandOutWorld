@@ -186,6 +186,18 @@ class Media:
             self.info[key] = {'src': rel(path), 'url': f'/media/{key}.webp', 'thumb': f'/media/{key}-t.webp'}
         return self.info[key]
 
+    def video(self, path):
+        """Copy a video (mp4/webm) into the site as is, named by its content, and return its URL. Videos are
+        small and already web-ready, so they are copied even in a --no-images build."""
+        if not os.path.exists(path):
+            return None
+        key = self._key(rel(path) + ':' + str(os.path.getsize(path)))
+        ext = os.path.splitext(path)[1].lower()
+        dst = os.path.join(self.out, 'media', key + ext)
+        if not os.path.exists(dst):
+            shutil.copyfile(path, dst)
+        return {'src': rel(path), 'url': f'/media/{key}{ext}'}
+
     def derived(self, path, label):
         """Register a picture the build made itself (e.g. one cover cut out of a strip), labelled with its source."""
         key = self._key(label + ':' + str(os.path.getsize(path)))
@@ -279,6 +291,9 @@ class Renderer:
         t = tokens[idx]
         src = t.attrGet('src') or ''
         alt = self.md.renderer.renderInlineAsText(t.children or [], options, env)
+        if src.lower().endswith(VIDEO_EXT):  # ![caption](clip.mp4) becomes a video player
+            v = self.video_file(src, env)
+            return video_figure(v['url'], alt or default_alt(v['src'])) if v else ''
         info = self.resolve(src, env)
         if not info:
             if src.startswith('http'):
@@ -311,11 +326,17 @@ class Renderer:
                     break
         return self.media.file(p)
 
+    def video_file(self, src, env):
+        if src.startswith('http'):
+            return None
+        return self.media.video(os.path.normpath(os.path.join(env.get('base', ROOT), unquote(src))))
+
     def render(self, text, base=ROOT, origin='', refs=None, ids=None):
         if refs:
             text = re.sub(r'!\[([^\]]*)\]\[(image\d+)\]', lambda m: f'![{m.group(1)}]({refs[m.group(2)]})' if m.group(2) in refs else '', text)
         text = re.sub(r'!\[[^\]]*\]\[image\d+\]', '', text)  # references with no image behind them
-        return self.md.render(text, {'base': base, 'origin': origin, 'ids': ids})
+        out = self.md.render(text, {'base': base, 'origin': origin, 'ids': ids})
+        return re.sub(r'<p>(<figure class="hv-video">.*?</figure>)</p>', r'\1', out)  # a figure can't sit inside a <p>
 
 def heading_sections(block):
     """(id, title, text below it) for every heading with an id in a block of rendered HTML."""
@@ -344,6 +365,20 @@ def sub_heading_search(pub_html, bts_html, url, section, entry_title, entry_bts)
             items[k] = {'t': title, 'u': url + '#' + anchor, 's': section,
                         'x': '' if bts else text, 'xb': text, 'b': bts, 'sub': True}
     return list(items.values())
+
+VIDEO_EXT = ('.mp4', '.webm')
+
+def video_figure(url, caption):
+    """Reusable component: a captioned video player (styles in site/css/video.css).
+
+    Usage: video_figure('/media/abc.mp4', 'Feeding energy') -> <figure class="hv-video">...</figure>
+    In Legacy or content markdown, write ![caption](path/to/clip.mp4) and the renderer calls this.
+    Options: url (the video file), caption (shown under the player and used as its accessible name).
+    It never autoplays, shows the browser's own keyboard-friendly controls, loads only the first frame
+    until played (preload="metadata"), and offers a download link where video can't play."""
+    c = esc(caption)
+    return (f'<figure class="hv-video"><video controls preload="metadata" playsinline aria-label="{c}" src="{esc(url)}">'
+            f'<a href="{esc(url)}">{c} (video)</a></video><figcaption>{c}</figcaption></figure>')
 
 def default_alt(src):
     stem = os.path.splitext(os.path.basename(src))[0]
@@ -1537,7 +1572,7 @@ def page_html(p, nav):
 <script>try{{var s=JSON.parse(localStorage.getItem('hoow')||'{{}}');var d=document.documentElement;if(s.mode)d.dataset.mode=s.mode;if(s.theme)d.dataset.theme=s.theme;if(s.vraki&&!d.dataset.lang)d.classList.add('vraki');if(s.size)d.style.setProperty('--fs',s.size+'px');
 if(!d.dataset.lang){{var ok=(d.dataset.langs||'').split(' '),w=s.lang,n=navigator.languages||[navigator.language||''];for(var i=0;i<n.length&&!w;i++){{var c=String(n[i]).toLowerCase().split('-')[0];if(c==='en'||ok.indexOf(c)>=0)w=c}}if(w&&w!=='en'&&ok.indexOf(w)>=0){{var b=d.dataset.base||'';location.replace(b+'/'+w+location.pathname.slice(b.length)+location.search+location.hash)}}}}}}catch(e){{}}</script>
 <link rel="stylesheet" href="{asset('/css/site.css')}">
-{''.join(f'<link rel="stylesheet" href="{asset(c)}">' for c in getattr(p, 'extra_css', []))}
+{''.join(f'<link rel="stylesheet" href="{asset(c)}">' for c in getattr(p, 'extra_css', []) + (['/css/video.css'] if 'class="hv-video"' in p.html else []))}
 {jsonld}
 </head>
 <body>
