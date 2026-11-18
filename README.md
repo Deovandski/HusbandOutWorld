@@ -17,7 +17,7 @@ Enjoying the story? The eBook is on [Amazon](https://www.amazon.com/dp/B0BT5XM4Q
 | Folder | What's inside |
 |---|---|
 | [Legacy](Legacy) | **The originals, made by humans, unchanged.** `Legacy/Public` is the old blog (reader-facing, light on spoilers). `Legacy/Behind The Scenes` is everything else: the light novel manuscripts, the story notes for Arcs #2 to #5, the World Lore docs, the spreadsheets, the fonts, every illustration with its source files, and the webcomic's raw pages (`Webcomic/Vol N/Chapter N/Sub N`). |
-| [content](content) | The website's page map, short AI-written summaries and alt text, all built from Legacy. Also `blur.json`: pictures the website shows blurred (the originals in Legacy stay as they are). Also `blog-photos.json`: descriptions (and any missing dates) for the photos on the Blog page. New Blog photos go in [Legacy/Public/Blog Photos](Legacy/Public/Blog%20Photos). |
+| [content](content) | The website's page map, short AI-written summaries and alt text, all built from Legacy. Also `blur.json`: pictures the website shows blurred, without changing Legacy. Also `blog-photos.json`: descriptions (and any missing dates) for the photos on the Blog page. New Blog photos go in [Legacy/Public/Blog Photos](Legacy/Public/Blog%20Photos). |
 | [content/i18n](content/i18n) | The website's translations (Chinese, Japanese, Portuguese, Spanish, Arabic, Korean, Malay, Thai, German, Vietnamese, Italian, French, Hindi, Indonesian), written ahead of time by AI. See [tools/i18n.py](tools/i18n.py). |
 | [tools](tools), [site](site) | The website's build script, styles and code. |
 | [AI-DISCLOSURE.md](AI-DISCLOSURE.md) | What a human made, what an AI made, and how they fit together. |
