@@ -596,5 +596,36 @@
   "webcomic": {
     "source": "Webcomic",
     "blog_page": "graphiclight-novels.md"
+  },
+  "app": {
+    "_about": "Installable app (PWA): tools/pwa.py writes the manifest, icons and service worker from these settings. Change 'version' to make every installed copy drop what it saved and start over.",
+    "name": "A Husband Out of This World",
+    "short_name": "#HusbandOutWorld",
+    "description": "Read the #HusbandOutWorld light novel and explore its world: the novel, the webcomic and the World Lore.",
+    "theme_color": "#101719",
+    "background_color": "#101719",
+    "logo": "Legacy/Behind The Scenes/Illustrations/Emblems/Forway city emblem.png",
+    "save_visited_pages": true,
+    "version": "v1",
+    "shortcuts": [
+      {
+        "name": "Novel",
+        "url": "/novel/",
+        "description": "Read the light novel",
+        "image": "Legacy/Behind The Scenes/Light Novel/Arc #1 - Dubious Contract/Vol1/0_1.png"
+      },
+      {
+        "name": "Webcomic",
+        "url": "/webcomic/",
+        "description": "Read the webcomic",
+        "image": "Legacy/Public/images/264.png"
+      },
+      {
+        "name": "World Lore",
+        "url": "/lore/",
+        "description": "Explore the world of Vraki",
+        "image": "Legacy/Behind The Scenes/Illustrations/World Map/World Map (Final).png"
+      }
+    ]
   }
 }

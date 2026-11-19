@@ -19,6 +19,7 @@ from PIL import Image, ImageFilter
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import i18n  # the translations (tools/i18n.py)
+import pwa  # the installable app: manifest, icons, service worker (tools/pwa.py)
 
 Image.MAX_IMAGE_PIXELS = None
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -1569,6 +1570,7 @@ def page_html(p, nav):
 <link rel="canonical" href="{CFG['base_url']}{p.url}">
 {md_link}
 <link rel="icon" href="/media/favicon.png">
+{pwa.head_tags(CFG['app']['theme_color']) if CFG.get('app') else ''}
 <script>try{{var s=JSON.parse(localStorage.getItem('hoow')||'{{}}');var d=document.documentElement;if(s.mode)d.dataset.mode=s.mode;if(s.theme)d.dataset.theme=s.theme;if(s.vraki&&!d.dataset.lang)d.classList.add('vraki');if(s.size)d.style.setProperty('--fs',s.size+'px');
 if(!d.dataset.lang){{var ok=(d.dataset.langs||'').split(' '),w=s.lang,n=navigator.languages||[navigator.language||''];for(var i=0;i<n.length&&!w;i++){{var c=String(n[i]).toLowerCase().split('-')[0];if(c==='en'||ok.indexOf(c)>=0)w=c}}if(w&&w!=='en'&&ok.indexOf(w)>=0){{var b=d.dataset.base||'';location.replace(b+'/'+w+location.pathname.slice(b.length)+location.search+location.hash)}}}}}}catch(e){{}}</script>
 <link rel="stylesheet" href="{asset('/css/site.css')}">
@@ -1834,6 +1836,16 @@ def main():
         im.thumbnail((64, 64)); im.save(os.path.join(a.out, 'media', 'favicon.png'))
     except Exception as ex:
         print('favicon failed', ex)
+    app = CFG.get('app')
+    if app:  # installable app (PWA): manifest, icons, service worker
+        pwa.write(a.out, base=BASE, name=app['name'], short_name=app['short_name'], description=app['description'],
+                  theme_color=app['theme_color'], background_color=app['background_color'],
+                  logo=os.path.join(ROOT, app['logo']),
+                  shortcuts=[{**sc, 'image': os.path.join(ROOT, sc['image'])} for sc in app.get('shortcuts', [])],
+                  homes=['/'],  # a language's home page (/ja/ ...) is saved on its first visit
+                  cache_prefix='hoow', version=app.get('version', 'v1'),
+                  save_visited_pages=app.get('save_visited_pages', True),
+                  extra_files=['/media/favicon.png', '/media/forway-emblem.png'])
     print(f'pages: {len(b.pages)}, images: {len(b.media.info)}, glossary terms: {len(b.glossary)}')
 
 if __name__ == '__main__':
