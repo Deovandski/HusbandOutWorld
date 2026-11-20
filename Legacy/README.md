@@ -10,6 +10,7 @@ The [website](https://www.husbandoutworld.com) is built from these files. Its bu
 |---|---|---|
 | [Public](Public) | The reader-facing version: the 33 pages of the old #HusbandOutWorld blog, as they were published. Light on spoilers. | The Blogger export (Google Takeout, November 2026), converted from HTML to Markdown word for word. |
 | [Behind The Scenes](Behind%20The%20Scenes) | Everything else: the full light novel manuscripts, the author's story notes for Arcs #2 to #5, the complete World Lore documentation, the spreadsheets and formulas, the fonts, and every illustration with its source files. **Full of spoilers.** | This repo's original files, moved here unchanged. |
+| [Behind The Scenes/World Lore Q&A](Behind%20The%20Scenes/World%20Lore%20Q%26A) | Questions and answers about the world, from Deovandski's review comments on the ghostwriter's Vol 4 drafts, with the World Lore additions he approved. | Written by an AI (Claude) from his comments, at his direct instruction. See [AI-DISCLOSURE.md](../AI-DISCLOSURE.md). |
 
 ## Notes on the blog copy (Public)
 

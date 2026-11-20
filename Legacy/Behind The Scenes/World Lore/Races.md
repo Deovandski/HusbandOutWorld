@@ -254,6 +254,7 @@
   * Considered an abomination by Darfaries. Genetically speaking, they are the result of the different genes conflicting with each other  
   * Small Kid-like loli capable of flight.  
     * When flying, a red flame appears on their Darfaries tattoo.  
+      * It is not a real tattoo: Sorefaries have Darfaries veins. It's in the soul itself, like Wozefaries and Darfaries. (See World Lore Q&A › Vol 4 Draft 2, Q3.)  
   * Their sweat produces an odor that is floristic  
 * **Scientific History**  
   * Lishies \+ Buhraies  

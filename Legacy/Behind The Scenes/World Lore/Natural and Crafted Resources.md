@@ -41,6 +41,9 @@
   * Fauna, especially beasts, seem to avoid places containing it when it is submerged in water.  
 * **Usage**  
   * Lightsource. Requires water & salt to work.  
+  * No wick, flame or smoke. The hissing a lit fost stone makes comes from the water and salt reacting with the stone, which gives off light and steam.  
+  * There's no "turning off the lights". To put one out, you pour out the water to stop the reaction.  
+  * Where there's no fost stone, people use torches burning animal fat. Torches aren't usually used inside homes. Gandew and Sundeath use more torches than elsewhere because they are far from where fost stones are mined. (See World Lore Q&A › Vol 4 Draft 2, Q1.)  
   * Keep monsters at bay.  
 * **Visual Reference**  
   * ![][image1]![][image2]
@@ -159,7 +162,7 @@
 | Item | Isekai History | Cost/Item |
 | :---: | ----- | :---: |
 | **Sigil Rings** | **Soul Wood Black Wood** | See Economy Calculator |
-| **Fost Lamp** ![][image7] ![][image8] | A fost stone about the size of a fist encased in glass and wood with an opening on top. They glow brighter than a candle when in contact with saltwater. The fist-sized stone lasts a year or so when used primarily at night. | \~20 Pearls/simple one |
+| **Fost Lamp** ![][image7] ![][image8] | A fost stone about the size of a fist encased in glass and wood with an opening on top. They glow brighter than a candle when in contact with saltwater. The fist-sized stone lasts a year or so when used primarily at night. Oil lamps don't exist in Vraki. A big, new fost lamp is unusually bright (like a dentist's office) and can cost as much as a handful of amethysts, a steep price for common folk. | \~20 Pearls/simple one |
 
 # 
 

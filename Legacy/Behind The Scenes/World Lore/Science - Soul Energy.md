@@ -28,11 +28,15 @@ Website info triumphs here.
   * When a person dies (heart stops, brain stops, etc.), the soul remains connected to the flesh due to genetic material (if there is still a connection).  
     * If there is no genetic material left, then the soul is completely unliked.  
     * If the genetic material is worn down, resuscitation may be impaired.  
+      * Reviving someone forces the soul to reconnect to the flesh. When the strands connecting body and soul are weakened (the body is almost fully decomposed, or the person is very young or very old), they can't take that stress, and the revival fails.  
+      * A failed revival doesn't mean the soul is gone. It is just too weak to reconnect to the flesh, and the soul itself keeps decaying over time.  
+      * There is no "nari decay". (See World Lore Q&A › Vol 4 Draft 2, Q4.)  
     * When a person is **dead**, they experience a dream-like state, usually of their strongest memories repeating in a loop or of their strongest desire.  
   * As the person's body ages and their genetic material decays, so does the soul's connection to the living flesh.  
   * A disconnected soul will slowly decay back into quantum foam (a.k.a Soul Death)  
     * The more Soul Energy capacity and stronger memories an individual has at the time of death, the longer it takes for the soul to dissipate fully.   
     * See Power Time. Replace Hours with Years for an average decay time.  
+  * This is partly why some people are so keen on Soul Research despite its dangers, and why everyone frowns on it: scientists believe the soul is still there even when someone doesn't revive. There hasn't been massive progress in forcing a binding connection to the soul, or in "refueling" it. (See World Lore Q&A › Vol 4 Draft 2, Q4.)  
   * See Soul Bind for additional info, including side effects of resuscitation  
 * Soul Energy Expansion  
   * The ability to expand one’s soul's ability to store more soul energy.   

@@ -166,6 +166,7 @@ Everyone buys these gels, with adventurers usually buying more than commoners. A
   * **Tier II (Localized): Antidote for Tier II changes**  
   * **Tier III (Regional): Antidote for Tier III changes**  
   * **Tier IV (Whole Body): Antidote for Tier IV changes**  
+  * **Also reverts tattoos. (See World Lore Q&A › Vol 4 Draft 2, Q3.)**  
 * **Cost**  
   * **40\~70 Pearls for \~200g**
 

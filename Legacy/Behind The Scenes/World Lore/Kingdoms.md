@@ -21,6 +21,7 @@
     * Also includes the villages from Deltacross through backdoor votes.  
   * Royalty (elected person) Marking   
     * Village Leader: Right hand is tattooed with a green circle. A painful process to remind the leader that this job must be taken seriously.  
+      * Healing (Body Restore or Nari Refresher) removes the tattoo, so they have to re-ink it. Same for the governor's. (See World Lore Q&A › Vol 4 Draft 2, Q3.)  
     * The governor’s right side of his face is tattooed. Kinda like below
 
       ![][image4]
