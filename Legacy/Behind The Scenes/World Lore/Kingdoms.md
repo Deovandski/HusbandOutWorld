@@ -1,3 +1,7 @@
+# **\--Documentation Notation--**
+
+* Religion is not a thing in Vraki: it is an agnostic world, where science and soul energy are the foundation. There are no churches or priests, no "hell", no witches and no curses. Each kingdom's Customs section lists traditions, not religion. Cults do exist, just like bandit groups. (See World Lore Q&A › Vol 4 Draft 2, Q6.)  
+
 # **\--Freeish (Freeishan)--**
 
 * **Isekai History**  
@@ -21,6 +25,7 @@
     * Also includes the villages from Deltacross through backdoor votes.  
   * Royalty (elected person) Marking   
     * Village Leader: Right hand is tattooed with a green circle. A painful process to remind the leader that this job must be taken seriously.  
+      * Healing (Body Restore or Nari Refresher) removes the tattoo, so they have to re-ink it. Same for the governor's. (See World Lore Q&A › Vol 4 Draft 2, Q3.)  
     * The governor’s right side of his face is tattooed. Kinda like below
 
       ![][image4]
@@ -31,7 +36,7 @@
 * **Society Composition**  
   * Mostly Humans, some Cruro and Wozefaries/Sorefaries. Almost no Darfaries, as they prefer to live in Blood city for hunting.  
     * Blood groups tend to have more people prone to fighting.  
-* **Religion**  
+* **Customs**  
   * Fauna, Flora & Beast. Nature in general.  
   * Basically a mix of other beliefs.  
 * **Culture**  
@@ -239,8 +244,10 @@
   * There is no queen. Women cannot fight for a King’s spot.  
 * **Society Composition**  
   * Gandew Kingdom only accepts Darfaries to live permanently. Wozefaries and Sorefaries are thrown out of the Goodbye Cliff.  
+    * For Gandew, perfection is being Darfaries.  
+    * Wozefaries can dampen the fall by activating the Darfaries Interface as an antigravity spell. Sorefaries can fly. (See World Lore Q&A › Vol 4 Draft 2, Q18.)  
   * Gandew Kingdom accepts all visitors.  
-* **Religion**  
+* **Customs**  
   * Worship the ancient Darfaries who took up the sword and cleansed the mountain of the other species.  
   * They believe that all spirits are forever alive and will be lost in the desert if their bodies don’t undergo the proper rituals.  
     * \*From visions of people hallucinating in the heat.  
@@ -476,12 +483,19 @@
   * True Sanbi King, if the fish breaks the deal they have.  
 * **Society Composition**  
   * Mostly humans, and a few Wozefaries, Sorefaries & Cruros  
-* **Religion**  
+* **Customs**  
   * See Novels \> The True Sanbi King  
   * They pray for the sea every day so that it does not swallow their fisherman  
   * Their burial rituals are closely tied to giving back what they took from the sea  
   * ‘Our soul is tied to the sea.”  
+* **Sanbi Castle**  
+  * No marble: walls are a fine white plaster, common across the Sanbi Kingdom.  
+  * No war room. There's a bar (Vol 2, Chapter 1) and the Monarchy office, where Neferteri prefers to negotiate.  
+  * The Sanbi Royals hold a weekly meeting, like a standup: Neferteri, Itagiba, Eiri and Kibe. The King-maid (head of the economic office) pre-writes the topics, reads them out and records the votes. The Queen dismisses the meeting. (See World Lore Q&A › Vol 4 Draft 2, Q12.)  
 * **Culture**  
+  * Sanbi people are closer to Brazilians on a random weekend than to ancient Greeks: news spreads as bar talk, not forums.  
+  * A Sanbi rave can go on so long, with so much booze, that people get stampeded to death and are revived once the party is over.  
+  * Sanbi Castle maids are paid very well, and it feels like family, so few walk away. (See World Lore Q&A › Vol 4 Draft 2, Q13.)  
   * Emotional sustenance. Give in to what your heart desires  
   * Very handsy people.  
   * Frugal people  
@@ -527,7 +541,7 @@
 * **Guards**  
   * Sanbi Guards are flexible guards who can use knives, Nari gels, and Nari bombs to control a nuisance quickly or to get the fuck away if it’s too much for them to handle. Their large bows, combined with nari gels, allow them to have more varied battling techniques; they can be sneakier, have increased muscle mass, or even possess arrows poisoned with debilitating nari gels. There is a reason their training often emphasizes the “everything is a weapon” mentality, and so should you if you feel like disturbing the peace of their kingdom.  
 * **News**  
-  * Any official announcement is made by gathering the populace for an event around the Sanbi Kingdom palace, or whatever else is appropriated for the occasion. Everything is an excuse to get together. Otherwise, information is relayed to guards, and if people want to know something, just ask a guard or a village elder whenever they get the news. There’s not much written on post walls, etc.  
+  * Any official announcement is made by gathering the populace for an event around Sanbi Castle, or whatever else is appropriated for the occasion. Everything is an excuse to get together. Otherwise, information is relayed to guards, and if people want to know something, just ask a guard or a village elder whenever they get the news. There’s not much written on post walls, etc.  
   * If there’s a need to do so, such as a wanted poster, Sanbi Kingdom uses the Embassy services—basically for convenience.  
 * **Local Courier Services**  
   * Sanbi Kingdom offers kingdom-managed courier services anywhere within the kingdom for a flat rate of 1 Pearl. Timing is not the best as no WIngas are used (Human transforming into Large Winga and transporting the message themselves in emergency cases.) Emails are only one-way, and if the address is incorrect or the person is not found, the mail is forwarded to the castle where it is stored for a while before being disposed of.  
@@ -716,7 +730,7 @@
 * **Society Composition**  
   * Obese humans, and overweight humans are fairly common. The poorest are more easily visible than the rich. Some Darfaries, but also overweight as well. Rarely Wozefaries/Sorefaries.  
   * Humans on average are shorter than Harry’s height.  
-* **Religion**  
+* **Customs**  
   * They revere the three smart ladies and aim to be as smart and fat as they are.  
   * They don’t really care for what happens after they die as they rather focus on revival for as long as possible.  
 * **Culture**  

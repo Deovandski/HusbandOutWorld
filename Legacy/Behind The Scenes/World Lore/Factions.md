@@ -15,6 +15,10 @@
       * \*Of a given brothel. Still under Laura as a proxy business owner.  
   * See characters \- Emelia (Forway Branch)  
   * See characters \-    
+* **Upkeep**  
+  * Upper-class by design: that is how Laura attracts high-interest clients and extracts information to sell on the black market or hold as blackmail.  
+  * A sick worker is healed and put back to work.  
+  * Hired mercenaries are not members and don't wear the choker. They carry a metallic square badge stamped with Red Winga. (See World Lore Q&A › Vol 4 Draft 2, Q17.)  
 * **Area of operation**  
   * Their entertainment houses are centered around Forway, where they serve an upscale clientele and gather information on targets.  
   * Their proxies are often side businesses that agents interact with.   
@@ -255,6 +259,9 @@
   * They are specializing in research into eternal life since their plans are going very slowly.  
     * Their goal is to usher in a new age of prosperity by finishing what the courtroom scientist started, but did not have the balls to finish—topple all the kingdoms.  
   * Not the same as Hidden Sorenos, but somewhat similar goals.  
+  * To most people they are an urban legend. The core people are few and far between, but they still have pull through the Forway ranks.  
+  * Whoever is left is mostly focused on research into keeping their souls alive for as long as possible, while some are trying to crack the truth about, establish contact with, if not dominate, the ancient species above Hifuna (another urban legend, but based in truth).  
+  * If you are under their gaze, you can disappear without a trace and never be seen again. Some of what people blame on them is true; some is wrongly attributed to them. (See World Lore Q&A › Vol 4 Draft 2, Q7.)  
 * **Area of operation**  
   * All regions due to Sapphires being widely accepted.  
 * **Recruitment**  

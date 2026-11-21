@@ -3,6 +3,7 @@
 * See **Races** for species considered at near or higher than Humans intelligence.  
 * See **Beasts** for mildly intelligent species or highly dangerous beasts.  
 * See **Fauna** for low-intelligence species.  
+* Elves and the other Tolkien races don't exist in Vraki. (See World Lore Q&A › Vol 4 Draft 2, Q8.)  
 * See [Race Soul Average](https://docs.google.com/spreadsheets/d/1q9UrwKl55S2Re40Ll8fPAq2Hu42qh93gK2v6FgDcSy0/edit#gid=1088297602) for Growth, Lifespan, Soul Recharge/Day & Tier Average. 
 
 # 
@@ -254,6 +255,8 @@
   * Considered an abomination by Darfaries. Genetically speaking, they are the result of the different genes conflicting with each other  
   * Small Kid-like loli capable of flight.  
     * When flying, a red flame appears on their Darfaries tattoo.  
+      * It is not a real tattoo: Sorefaries have Darfaries veins. It's in the soul itself, like Wozefaries and Darfaries. (See World Lore Q&A › Vol 4 Draft 2, Q3.)  
+    * They fly by using the interface itself as lift, with their feet free-floating to help with their center of mass. (See World Lore Q&A › Vol 4 Draft 2, Q18.)  
   * Their sweat produces an odor that is floristic  
 * **Scientific History**  
   * Lishies \+ Buhraies  

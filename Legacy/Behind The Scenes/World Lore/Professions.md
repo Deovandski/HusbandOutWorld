@@ -375,6 +375,7 @@
 
 * **Isekai History**  
   * Created by Sanbi Kingdom as a plot device to hide what actually happened to Harry (Neferteri created this whole thing to ensure Eori would have Harry exclusively for her.)  
+  * The public Sanbi Eye was Sinoi wearing Harry's fake skin. Only Neferteri knew. (See World Lore Q&A › Vol 4 Draft 2, Q27.)  
 * **Requirements**  
   * Listen to people’s requests and relay it as an official request to Sanbi Kingdom. Basically, a “on-the-go” substitute for the King/Queen to ensure everyone is heard.  
 * **Skill Cost**  

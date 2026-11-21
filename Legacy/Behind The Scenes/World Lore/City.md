@@ -536,6 +536,7 @@
 * **Isekai History**  
   * See World Timeline.   
   * This is a city bristling with research, academia, and rich people.  
+  * Forway style is gothic, like the Addams Family: e.g., metal bathtubs, black with red corners. Forway is also known for its bureaucracy. (See World Lore Q&A › Vol 4 Draft 2, Q19.)  
   * Rich people live in the city where a badge is required. Poor people live around where a badge is not required.  
 * **Royalty/Politics**  
   * The central command between all kingdoms and cities. Security is tightened to show the power of Forway leaders, especially when it comes time for the Prosperity Treaty \#6 meeting  

@@ -15,6 +15,8 @@
   * Most known soul energy interfaces and actions, such as healing, reviving, and elemental, can be bought at any Soul Energy shop.  
   * Blank sigil rings are forbidden to prevent accidents.  
   * \*Except Courtroom scientists, and Aquamarine/Sapphire Adventurers who can experiment with new Soul Energy interfaces.
+  * A sigil ring has one spell carved into it, such as Body Restore or Shock Create.  
+  * Nari sticks (nari stones chained together) are the fuel for the spell. A single-use nari stick is spent in one cast. Nari sticks are not cheap. (See World Lore Q&A › Vol 4 Draft 2, Q2.)
 
 * # Interface Shells
 
@@ -159,6 +161,9 @@
   * A lack of proper concentration and sufficient Nari power caused all the soul and body genetic information to suddenly meld, triggering a White Hole event.  
     * All the Soul Recharges fused into a single being.  
   * In the white hole event, a nearly decayed soul (Harry) was bound by pure chance.  
+  * Gabiro was trying to bind a specific soul, but another soul (Harry's) was bound instead. What was left of the soul tied to the bagarisa corpse used in the "summoning ritual" (Vol 1, Chapter 1) was wildly different from Harry's soul.  
+  * When the explosion happened, Gabiro's own soul was fused into the mix, and Harry's soul absorbed the capacity of all three. That is how Harry woke up able to speak Vraki, the common language, and why he later develops a custom interface (Vol 4). (See World Lore Q&A › Vol 4 Draft 2, Q5.)  
+  * White Fire events are not quite an urban legend: they are known among scientists and in research. They were better known in the old times, before Forway really became a thing and resentment against messing with the soul became commonplace. (See World Lore Q&A › Vol 4 Draft 2, Q30.)  
 * **Interface**  
   * ![][image8]  
 * **Tiers**  
@@ -181,9 +186,21 @@ Body Manipulation soul energy interface actions are rather easier to perform, bu
       * Severe damage will cause the body to use a lot of energy to heal.  
     * If no genetic information remains, see the Soul Category or other interfaces for options.  
     * If the target has died and the heart hasn’t come back, apply Storm Create at Tier II or more, depending on how fat the person is.  
+      * Shock Create also works and is easier on the body. Storm Create also creates a localized storm that harms the skin, so it is more of a "punishment revival". (See World Lore Q&A › Vol 4 Draft 2, Q2.)  
     * This does not address external factors causing damage, such as worms.  
       * Merely restores the base genetic info.  
     * Black Honey, or other energy-dense food, must be given to the target if health regeneration is not taking place.  
+    * Revival, step by step (as Morika does it in Vol 4):  
+      * Nari Refresher, injected with a glass syringe, undoes nari gel body mods.  
+      * Body Restore through a sigil ring, fueled by nari sticks.  
+      * When the body runs out of fuel, Black Honey finishes the healing so the target doesn't turn skeletal from undernourishment.  
+      * Shock Create restarts the heart.  
+    * Restore and Create started out as two different spells, but the logograms are an interface to raw soul energy whose meaning all users share as fact, and over time both came to mean the same thing: regrow what is missing from the body, be it a finger, or everything else if only a finger is left. (See World Lore Q&A › Vol 4 Draft 2, Q2.)  
+    * Healing matches the flesh to how the soul looks, so old scars don't exist in Vraki unless someone is too poor for nari gels or the Darfaries Interface.  
+    * Tattoos are reverted (removed) as soon as Body Restore is used. (See World Lore Q&A › Vol 4 Draft 2, Q3.)  
+    * Five bottles of Black Honey are like eating tens of 2,000-calorie junk food meals. It is expensive, but there is plenty to go around.  
+    * Body parts for later use are kept in jars of a viscous red jelly: finely ground nari stone mixed with blood.  
+    * A piece of someone's flesh can be grown with Body Restore to see their real body (e.g., to identify a disguised intruder). (See World Lore Q&A › Vol 4 Draft 2, Q20.)  
     * Disassembly attempts to explode the body.  
   * **CREATE/DESTROY**  
     * Creates attempts to recreate the body of the target, born at the site where the spell was initiated.   
