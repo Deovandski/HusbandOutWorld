@@ -6,10 +6,13 @@
   * The reason the embassies came into existence is to allow Forway's influence to reach all involved cities/kingdoms.  
   * The area within the embassy's marked boundary is officially Forway City territory.  
   * Forway guards are always present. They even have Big Wingas (guards wearing Big Winga nari gel) to protect the embassy.
+  * **Forway generals:** every embassy has one, and generals carry the gem ranks too. City embassies usually have a Pearl or Amethyst-General, kingdom embassies an Aquamarine-General (e.g., the Forway embassy in Sanbi). Sapphire Generals work on a Forway level, so their decisions impact everyone. Kingdoms with voting power help decide who becomes Sapphire General. There are no archdukes in Vraki. (See World Lore Q&A › Vol 4 Draft 2, Q9.)  
 
 * # Location
 
   * Every kingdom/majorly recognized city has an embassy, and they all report to the Forway City Palace.   
+  * Every embassy smells of stamp wax and sweaty adventurers coming and going (sending and receiving Winga letters is one of their core jobs).  
+  * Every embassy has a blackboard with the entire Forway Prosperity Treaty carved into it in clear white lettering. (See World Lore Q&A › Vol 4 Draft 2, Q19.)  
   * Floor plan:  
     * Floor 1: Adventurer lounge and quest boards. Where people can come in to place quests.  
     * Floor 2: ?  
@@ -132,6 +135,8 @@
     * Kingdoms can have their own contract authority, and they are considered just as legal as Forway contracts.  
   * All contracts have nullification clauses, and they must be located in the back of the contract.  
   * To verify a contract is legit, one would place the corresponding person's badge in the signature field. If the blood signature matches the person in question, the badge base (where the thumb is placed) will light up.
+  * There are no household crests on documents; the blood signature is the seal. A contract made on someone's behalf needs that person's blood.  
+  * People moving contract-bound individuals carry their contracts, plus a letter to the Forway officials inspecting cargo stating who is contracted to deliver whom. (See World Lore Q&A › Vol 4 Draft 2, Q10.)  
 
 * # News
 
@@ -149,6 +154,7 @@ They also have weekly printouts available on every Forday that cover the week av
     * Has the Buhraies castle decided to spill a bunch of undead garbage once again? Has a Kingdom official been taken hostage? Do you have a lot of money and want something done quickly, or do you want everyone to know about it? Then this is what happens when you pay out of the ass for news. Alongside the quest board and shoutcasting at Monnalow, the captain will immediately send shoutcasts across the kingdom's main cities/villages to gather all available adventurers to assist with your request (if necessary) or just shout out the news as-is.  
     * **Cost:** 1 Aquamarine to post \+ rewards.   
       * Posting might be delayed a bit while they investigate before releasing it to adventurers.  
+    * Once shoutcast, it can't be taken back. The embassy can only soft-de-escalate a posted search, not shut it down. Whoever posted it can withdraw it, but has to announce the withdrawal publicly, and embarrassment follows, plus likely punishment from Forway depending on what they did. A kingdom that issues an emergency "for the lolz" is heavily punished by Forway, given the power of the other kingdoms, with sanctions and the withdrawal of "comparative advantage" rulings. (See World Lore Q&A › Vol 4 Draft 2, Q11.)  
   * **Type 4: Emergency**  
     * For when shits the fan, such as an external invasion or an army of Hifuna monsters, somehow decides to march down towards Forway. This has never happened since Forway was established, so it’s just a news type in theory. Some higher-ups in Forway even pushed for the removal of it since it costs resources, keeping every embassy at the ready for an emergency level of alert (which most likely isn’t.) It includes being able to staff at least a hundred adventurers with lodging, food, and fighting resources within three days, being able to defend itself from a Tier X spell, etc
 

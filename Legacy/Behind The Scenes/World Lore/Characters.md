@@ -34,6 +34,7 @@
     * Scratch his beard/belly  
     * Participates in convos, asks things.  
     * Does not depend on Nari stones as much due to his high recharge rate, but cannot use Darfaries interface.  
+    * In Vol 4, he shows for the first time an interface of his own that alters soul energy into fire from the tips of his middle and ring fingers. (See World Lore Q&A › Vol 4 Draft 2, Q5.)  
   * **Verbal**  
     * Could/Would/Maybe/Hmm/Ahh Usage  
     * Try not to be pushy  
@@ -59,6 +60,7 @@
   * Harry’s name in his previous life was Desmond.  
   * In 978 A.G. Desmond (in a previous universe) died from a heart attack after drinking too much coffee, eating too much tacos, and working long hours.  
   * 1039 A.G. His decaying soul was bound back to flesh in another universe, of which he woke up without having any idea of where he was…  
+  * Publicly, people know he came out of one of the castle towers after the "silent" explosion, but nobody saw him being brought into the castle. He is the "missing piece" for understanding what Gabiro was up to. The official story is that his worth is being the Sanbi Eye, and Sanbi blamed Gabiro for the soul mess, but rumors persist. (See World Lore Q&A › Vol 4 Draft 2, Q30.)  
 * **Stats**  
   * **Book 1**  
     * **Age**: 20\. \*In Soul Capacity: 1  
@@ -357,6 +359,10 @@
   * He wore a Sweet Stingy cosplay to gather Black honey. Seeing how empowering it felt, he gathered enough money for about a year and a half to create a unique Chitin looking armor that compensates for his low reflexes and to hide his face.  
     * People are trying to figure out who this crazy warrior is, but nobody knows it actually is Morika.  
     * He becomes an alter persona when wearing the set or armor.  
+  * Very subservient to Neferteri and models himself on her: no logbook, he keeps his notes and reports in his head, rehearsed to give the Queen the right amount of information without wasting her time.  
+  * Doesn't play mind games and isn't the experimental type: when he acts, he knows the outcome from practice.  
+  * Very autistic and stuck doing things a certain way (e.g., killing with the spike of his Stinger helmet).  
+  * Even in disguise, he gives himself away by how instantly ready to fight and how aware of his surroundings he is. (See World Lore Q&A › Vol 4 Draft 2, Q22.)  
 * **Stats**  
   * **Book 1**  
     * **Age**: 25  
@@ -1963,6 +1969,7 @@
   * Doesn’t like thirty smalladi-long subs for some reason.  
 * **Isekai History (Prior to Story)**  
   * Born in Crossroads, and grew up amongst the city elites, and their way of life. He is now trying to increase his status, and wealth by any means possible.  
+  * Infamous at Red Winga as a "twink" kind of guy. They hate his guts, but every time he surfaces he has new information on someone, so he is quite useful. (See World Lore Q&A › Vol 4 Draft 2, Q17.)  
 * **Stats**  
   * **Book \-**  
     * **Age**: \-  
@@ -2234,6 +2241,9 @@
   * When he was 20 years old, he met his destiny while passing by Sundeath. The most exotic and beautiful girl he had ever seen. They had some troubles since she was going to become the next pharaoh, but she decided to flee it all and live in Sanbi with her true love.   
     * Became King on 1,015 A.G.  
   * He loves them all equally, but wishes had at least one prince.  
+  * Wears a white cape. No beard, maybe fine stubble.  
+  * Traveled as an adventurer under a fake name and appearance (adventurers are the easiest people to spot in Vraki).  
+  * Only knows Harry as the Sanbi Eye, nothing about the experiments or Eori. He approved Gabiro's project because Maiara wanted a husband "to her specifications". (See World Lore Q&A › Vol 4 Draft 2, Q24.)  
 * **Stats**  
   * **Book 1**  
     * **Age**: 45  
@@ -2268,6 +2278,7 @@
 * **Tags**  
   * **Action**  
     * She likes to sit by herself, and think. She tends to occupy her hands with something, usually adjusting her bracelets as she ponders on.  
+    * Doesn't wear sleeves; wears metallic rings. (See World Lore Q&A › Vol 4 Draft 2, Q21.)  
     * Start sub with “1039 A.G. Paulin 21st, Freeday at about Sunnuhigh—”  
   * **Verbal**  
     * Kind, neutral tone with well enunciated words with no pauses between words, but rather sentences. She thinks through what she wants to say, but most things she thinks through her head never comes out.  
@@ -2283,7 +2294,10 @@
     * Fair  
     * Creative  
     * Write down, paper trail, contracts is her thing.  
+      * Contracts, yes: she uses them to extract duties and make sure people act according to the terms. But her own plans and mental machinations stay only in her head; she avoids writing them down so they don't leak to prying eyes. (See World Lore Q&A › Vol 4 Draft 2, Q21.)  
   * **Negative Traits**  
+    * Uses narcissistic manipulation tactics (e.g., switching to fawning).  
+    * Would rather die than publicly take accountability and appear weak. When cornered, her instinct is to destroy all evidence. (See World Lore Q&A › Vol 4 Draft 2, Q21.)  
     * Secretive  
     * Self-indulgent  
     * Vague  
@@ -2295,12 +2309,16 @@
   * She loves wine, and veggies in general. Domar bread is passion.  
     * Her perfume is made from rose water mixed with wine notes.  
   * She doesn't like when something interferes with her plans. Especially if Itagiba gets too drunk in his speeches.  
+  * Part of her hates the fishery smell all over Sanbi, but she learned to put up with it. Her perfume is popular in Sundeath. (See World Lore Q&A › Vol 4 Draft 2, Q21.)  
 * **Isekai History (Prior to Story)**  
   * Grew up to become the next pharaoh until she met the love of her life.  
     * She disliked the idea because it would mean she could only marry one of her brothers, and she kinda disliked all of them to begin with.  
   * The more Gamal resisted her love, the more intense it grew until she fled to Sanbi with Itagiba. Soon after Itagiba was given the throne and her experience and education immensely helped him and Sanbi kingdom  
   * By becoming the Queen of Sanbi, she began to gather a group of loyal followers that did her bidding, specifically to keep the image of her, and her children in check.  
     * She did mostly give up on Yacamim & Maiara though.  
+  * She was sick of Sundeath, fell in love with the fantasy when she saw Itagiba, and was whisked away to Sanbi.  
+  * Her siblings still hold a grudge. One of her brothers recently died, not of old age, but because she didn't marry him and he stayed stuck in limerence for decades.  
+  * She thinks little of Harry as a person. (See World Lore Q&A › Vol 4 Draft 2, Q21.)  
 * **Stats**  
   * **Book 1**  
     * **Age**: 40  
@@ -2458,6 +2476,7 @@
 * **Intelligence**  
   * Very intelligent, and systematic with her Nari gel experiments, but she needs a catalyst and motivator to push her mind & will forward, otherwise she stalls and barely progresses.  
   * She can cook like no other, but Neferteri has suppressed that because a Princess shouldn’t be making food.  
+    * She can cook and likes it, but it was instilled in her that cooking is beneath her, so having others cook for her became natural. Having Harry under her control, doing everything to appease her (he did the cooking in the lab), was very enticing to her narcissistic brain. (See World Lore Q&A › Vol 4 Draft 2, Q26.)  
   * She needs an outlet for her creative side.  
 * **Tags**  
   * **Action**  
@@ -2497,6 +2516,9 @@
     * This bottled up some of her inner demons that can still come out at a time, and because of Eiri it became a half-breed between Lewdness and anger  
     * As she grew up, she also took an interest in dissecting animals, and studying them. She then began creating Nari gels, but finding people to test was harder than before, especially without creating a fuss. Her mother aided this side of her by having her do this non-princess stuff far from the public eye.  
   * She is pursuing to become a Courtroom Scientist since she loves Soul Energy interfaces, and has an innate ability for it. Will likely become the next Courtroom-Scientist-Apprentice. However, her mother wants her to become the next Queen instead.  
+  * Purple hair. Doesn't wear gloves.  
+  * OCD and controlling like her mother, but far more into sexual perversion and self-indulgence, while Neferteri is into controlling people's minds. Vulgar.  
+  * Favorite pajamas are pink. (See World Lore Q&A › Vol 4 Draft 2, Q26.)  
 * **Stats**  
   * **Book 1**  
     * **Age**: 18  
@@ -2624,6 +2646,9 @@
     * He has been researching into the Soul to recreate the same Wozefaries person, but manipulate her memories so that she loves him.  
   * He never had a wife/kids, and has no desire to do so as there is only one person he loves.  
   *   
+  * A loud-mouthed prick who only cared about himself. Harry never met him.  
+  * After the "silent" explosion in one of the castle towers, he later turned into a Fanchaki during a White Fire event.  
+  * Researchers are digging through his published works to understand his soul research. Some have figured out he was trying to reshape a soul to behave and look exactly as wanted, and suspect Neferteri directed it. (See World Lore Q&A › Vol 4 Draft 2, Q30.)  
 * **Stats**  
   * **Book 1**  
     * **Age**: 102  
@@ -2689,6 +2714,11 @@
     * The carefree air to him is too much.  
     * Gabiro one day noticed his spell power being high for his age, and decided to hire him as an apprentice.  
   * Since then he is the apprentice, but he has not learned as much as an apprentice should. Part is that just doesn't care about anything in particular enough.  
+  * Stays silent and only speaks when spoken to, like a doormat. His usual reply is "Eh" (mild interest or mild disinterest, you can't tell).  
+  * Conveniently forgets tasks, or stops thinking of them as tasks at all.  
+  * Doesn't like how Time Quicken feels.  
+  * Neferteri passes orders to the guards through him.  
+  * Itagiba never thought highly of him: in his view, of all the crap Gabiro did, getting Kibe as his apprentice was probably the worst one. (See World Lore Q&A › Vol 4 Draft 2, Q25.)  
 * **Stats**  
   * **Book 1**  
     * **Age**: 50  
@@ -2764,6 +2794,10 @@
   * Coema knew she would grow into the role of King-maid, and gave her a chance as maid (1,036 A.G.).  
   * Due to her outstanding knowledge, looks, and playfulness, she was promoted to King-Maid on the day before her birthday (1,038 A.G Asa 9th.) by her mother Coema.  
   * 1038 A.G. Asa 77th Eiri found and hired Arukia on the drop of the hat when she passed by Forway.  
+  * Since Vol 1, she is no longer as subservient. She has more sass and pushes back, and would do it again to protect the people she cares for. Neferteri can still get her to comply with sweet talk and moves that seem good for her maids (and Harry).  
+  * As King-maid, she has no control over the general or the city guard.  
+  * Sanbi gossips that she is becoming "Coema 2.0", which is kinda true. Neferteri hates it.  
+  * Knows every maid's name, even how to spell it. (See World Lore Q&A › Vol 4 Draft 2, Q23.)  
 * **Stats**  
   * **Book 1**  
     * **Age**: 22  
@@ -2831,6 +2865,8 @@
     * She met a lovely gentleman from Forway, and had Eiri. But time passed and their love extinguished.  
     * She was rather carefree with her maids, but to her credit it helped form a league of maids that are very loyal to Sanbi Kingdom.  
   * Now she is retired, and helps out the city, and people, that she loves. Especially Cruros.  
+  * Neferteri passionately dislikes her: Coema often challenged her authority and dismantled her mind games, more directly and intensely than Neferteri's cold, superior style.  
+  * Moved to Newland. (See World Lore Q&A › Vol 4 Draft 2, Q23.)  
 * **Stats**  
   * **Book \-**  
     * **Age**: \-  
@@ -2906,6 +2942,57 @@
 
     
 
+
+# 
+
+# **Ukim Sanbi**
+
+* **Website Description**  
+  * **Ukim (1023 A.G. Asa 39th)** is the newest maid at Sanbi Castle, working the night shift and asking more questions than anyone thought possible. Friendly, curious and always humming, she wants to learn the job, the castle, and maybe a little of the drama too.  
+* **Race**  
+  * Human  
+* **Birthday**  
+  * 1023 A.G. Asa 39th  
+* **Sexuality**  
+  * Not decided yet.  
+* **Myers-Briggs Type**  
+  * ENFP  
+* **Intelligence**  
+  * Quick learner. Eager to understand the new job, and how everyone and everything in the castle works.  
+* **Tags**  
+  * **Action**  
+    * Leans in, probes. The intrusive, curious type.  
+    * Bright, energetic movements. Carries more than she should and refuses help.  
+  * **Verbal**  
+    * Friendly, cheerful and blunt. Laughs things off.  
+    * Not as anxious as Sora.  
+  * **Positive Traits**  
+    * Friendly  
+    * Curious  
+    * Eager to learn  
+    * Energetic  
+    * Cheerful  
+  * **Negative Traits**  
+    * Intrusive  
+    * Nosy about the drama  
+    * Sassy  
+* **Likes/Dislikes**  
+  * Loves music and singing while she works.  
+  * Likes learning the new job, and some of the drama.  
+* **Appearance**  
+  * Bright cyan eyes. Long teal twin-tails.  
+* **Isekai History (Prior to Story)**  
+  * A new maid at Sanbi Castle, on the night shift. Called "Meya" in an early draft of Vol 4. (See World Lore Q&A › Vol 4 Draft 2, Q28.)  
+* **Stats**  
+  * **Book 4**  
+    * **Age**: 16  
+    * **Height**: 158cm  
+    * **Weight**: 42kg  
+* **Soul Energy Capabilities**  
+  * **Interface**  
+    * Darfaries  
+  * **Additional Skills**  
+    * None
 
 # 
 
@@ -3189,6 +3276,8 @@
   * He has worked closely with Sanbi Royals a whole lot.  
   * He was the one who got Itagiba Harry’s badge  
     * He didn’t know all the details. All he knew is that it was a random hobo being revived and needed a badge for the competition next morning. He trusted Itagiba, so he didn’t require Harry to be present at the Embassy.  
+  * Very direct. Doesn't hesitate and doesn't back down.  
+  * Has a quid-pro-quo contract with Neferteri: he gives her information, and she is bound to back his rise through the ranks, give him the information he asks for, and nudge kingdoms with voting power to make him Sapphire General. (See World Lore Q&A › Vol 4 Draft 2, Q29.)  
 * **Stats**  
   * **Book 3**  
     * **Age**: 46  
@@ -3241,6 +3330,7 @@
 * **Isekai History (Prior to Story)**  
   * Born to a simple family. Went to school due to Sinoi signing a contract with Neferteri in exchange to him becoming a close informant/contractor with sealed lips.  
   * Neferteri pushed Eiri towards Itanema, and she hired her.  
+  * Always silent, almost invisible in the background. (See World Lore Q&A › Vol 4 Draft 2, Q27.)  
 * **Stats**  
   * **Book 1**  
     * **Age**: 27  
@@ -3295,6 +3385,8 @@
 * **Isekai History (Prior to Story)**  
   * A simple man, with a simple life. His wife died early on, and without much resources, he decided that he wanted more for his only daughter. He seeked an audience with Nefeterteri and she arranged for Itanema to have a better life at the cost of Sinoi doing anything she wanted.  
   * Does not dwell in the why of doing something. Is not probing at all as he simply does not care.  
+  * While the real Harry was being experimented on, Sinoi wore Harry's fake skin (Fake Skin nari gel) and walked around as the Sanbi Eye, representing the kingdom. Only Neferteri knew.  
+  * In Vol 4 he has gone missing. Neferteri presumes a third party, or that he soul-died without anyone noticing, since he is old. (See World Lore Q&A › Vol 4 Draft 2, Q27.)  
 * **Stats**  
   * **Book 2**  
     * **Age**: 74  

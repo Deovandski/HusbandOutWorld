@@ -24,32 +24,32 @@ Every World Lore line added from this file ends with "(See World Lore Q&A › Vo
 | Q2 | Sigil rings, nari sticks, revival | Applied |
 | Q3 | Scars and tattoos | Applied |
 | Q4 | Soul death and failed revivals | Applied |
-| Q5 | Gabiro's experiment and Harry's soul | Waiting for approval |
-| Q6 | Religion, priests, hell, witches, curses | Waiting for approval |
-| Q7 | The Black Sapphires as an urban legend | Waiting for approval |
-| Q8 | Dogs, goats and pigeons | Waiting for approval |
-| Q9 | Archdukes and Forway generals | Waiting for approval |
-| Q10 | Contracts, blood signatures and crests | Waiting for approval |
-| Q11 | Shoutcasts and Kingdom Alerts | Waiting for approval |
-| Q12 | Sanbi Castle and the royal meeting | Waiting for approval |
-| Q13 | Sanbi people and their parties | Waiting for approval |
-| Q14 | Time Quicken | Waiting for approval |
-| Q15 | Mind Enabler | Waiting for approval |
-| Q16 | Nari gel disguises and resistance | Waiting for approval |
-| Q17 | Red Winga | Waiting for approval |
-| Q18 | Goodbye Cliff | Waiting for approval |
-| Q19 | Forway embassies and Forway style | Waiting for approval |
-| Q20 | Black Honey and keeping body parts | Waiting for approval |
-| Q21 | Neferteri | Waiting for approval |
-| Q22 | Morika | Waiting for approval |
-| Q23 | Eiri and Coema | Waiting for approval |
-| Q24 | Itagiba | Waiting for approval |
-| Q25 | Kibe | Waiting for approval |
-| Q26 | Eori | Waiting for approval |
-| Q27 | Sinoi and Itanema | Waiting for approval |
-| Q28 | Ukim | Waiting for approval |
-| Q29 | Lofinghy | Waiting for approval |
-| Q30 | What the public knows about Gabiro and Harry | Waiting for approval |
+| Q5 | Gabiro's experiment and Harry's soul | Applied |
+| Q6 | Religion, priests, hell, witches, curses | Applied |
+| Q7 | The Black Sapphires as an urban legend | Applied |
+| Q8 | Dogs, goats and pigeons | Applied |
+| Q9 | Archdukes and Forway generals | Applied |
+| Q10 | Contracts, blood signatures and crests | Applied |
+| Q11 | Shoutcasts and Kingdom Alerts | Applied |
+| Q12 | Sanbi Castle and the royal meeting | Applied |
+| Q13 | Sanbi people and their parties | Applied |
+| Q14 | Time Quicken | Applied |
+| Q15 | Mind Enabler | Applied |
+| Q16 | Nari gel disguises and resistance | Applied |
+| Q17 | Red Winga | Applied |
+| Q18 | Goodbye Cliff | Applied |
+| Q19 | Forway embassies and Forway style | Applied |
+| Q20 | Black Honey and keeping body parts | Applied |
+| Q21 | Neferteri | Applied |
+| Q22 | Morika | Applied |
+| Q23 | Eiri and Coema | Applied |
+| Q24 | Itagiba | Applied |
+| Q25 | Kibe | Applied |
+| Q26 | Eori | Applied |
+| Q27 | Sinoi and Itanema | Applied |
+| Q28 | Ukim | Applied |
+| Q29 | Lofinghy | Applied |
+| Q30 | What the public knows about Gabiro and Harry | Applied |
 
 ---
 
@@ -280,8 +280,8 @@ In *Science - Darfaries Interface.md › Soul Create (Book I Chapter I Gabiro's 
 2. Harry's Characters entry says he "cannot use Darfaries interface." Should it mention the custom interface now, or wait for Vol 4 (spoiler)?
 
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
-- Notes:
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
+- Notes: (1) We can mention it. The Bagarisa corpse used in the "summoning ritual" appeared in detail on Vol 1 chapter 1. Gabiro's soul fusing into Harry's wasn't specifically mentioned, but we can explain it in details on Behind The Scenes. (2) Vol 4 shows for the first time that Harry has an interface to alter soul energy into fire from the tip of his middle and ring fingers. We can go ahead and mention this despite Vol 4 not yet been published.
 
 ---
 
@@ -330,8 +330,8 @@ In *Language.md › Misc*, add:
 2. Is "Sanbi shit" said everywhere, or mostly in Sanbi?
 
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
-- Notes:
+- [ ] Approved as written · [x] Approved with changes · [ ] Rejected
+- Notes: (1) Let's rename to Customs. I used the wrong wording when I said religion. Religion is truly not a thing. Cults are though, just like bandit groups. (2) Mostly Sanbi, or by people who came from there. It's a telltale sign someone spent time there, alongside being more carefree, and loudmouth. Not dissimilar from when an American lives long enough in Brazil and abosorbs the warthm of the culture.
 
 ---
 
@@ -360,8 +360,8 @@ In *Factions.md › Black Sapphires › Isekai History*, add:
 1. "Whoever is left" suggests the group has shrunk. Should that go in as written, next to "now expanded to a couple of Forway city officials"?
 
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
-- Notes:
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
+- Notes: The core people of Black Sapphires is far and few, but they still have pull through the Forway ranks. The leftovers members are mostly focused on their research in extending their soul's aliveness for as much as possible, while some are trying to crack the truth and establish contact, if not dominate, the ancient species above Hifuna (which is another kinda of urban legend, but based in truth.)
 
 ---
 
@@ -393,8 +393,8 @@ At the top of *Fauna.md*, add:
 1. You only said goats don't exist. Do dogs and pigeons not exist either, or were those swaps just for these scenes?
 
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
-- Notes:
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
+- Notes: (1) Correct. Dogs and cats do not exist, like pigeons. Also extends to Elves and other Tolkien races.
 
 ---
 
@@ -432,8 +432,8 @@ In *Embassies & Guilds.md*, near the Forway guards, add:
 2. Which kingdoms have a vote for Sapphire General, and who has the final say (Forway City)?
 
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
-- Notes:
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
+- Notes: (All have generals, with cities usually being Pearl or Amethyst and kingdom embassies being Aquamarine. Sapphire generals work on a Forway level and therefore their decisions impact everyone.)
 
 ---
 
@@ -465,7 +465,7 @@ In *Embassies & Guilds.md*, after the badge verification line, add:
   * People moving contract-bound individuals carry their contracts, plus a letter to the Forway officials inspecting cargo stating who is contracted to deliver whom.
 ```
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
 - Notes:
 
 ---
@@ -500,8 +500,8 @@ In *Embassies & Guilds.md › Type 3: Kingdom Alert*, add:
 1. Is there a fee for a public withdrawal, or is "the price" the embarrassment?
 
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
-- Notes:
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
+- Notes: (1) The person who posted the quest can withdraw, but embarrasment will follow, and likely punishment for Forway depending on what they do. If a Kingdom issues an emergency "for the lolz", Forway, given the power of the other kingdoms, will heavily punish the offending kingdom with sanctions, and withdraw of "comparitive advantage" rulings.
 
 ---
 
@@ -548,8 +548,8 @@ In *Kingdoms.md › Sanbi*, add:
 2. The fanchaki farm cost: is that a royal farm, or Sanbi farming in general? Where should it go (Economy.md, or Fauna.md › Fanchaki)?
 
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
-- Notes:
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
+- Notes: (1) Correct. Sanbi Castle. Please patch the wording as it was a mistake on my end. (2) Economy. There are normal fanchaki farms spreadout, with Freeish and Blood getting the comparative advantage for large scale farming.
 
 ---
 
@@ -582,7 +582,7 @@ In *Kingdoms.md › Sanbi › Culture*, add:
   * Sanbi Castle maids are paid very well, and it feels like family, so few walk away.
 ```
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
 - Notes:
 
 ---
@@ -609,8 +609,8 @@ In *Science - Nari Gels.md › Time Quicken › Isekai History*, add:
   * **Legal. Free for kingdom back-office staff. Like a powerful version of nicotine.**
 ```
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
-- Notes:
+- [ ] Approved as written · [x] Approved with changes · [ ] Rejected
+- Notes: Anyone can buy it. There are nari shops accross towns.
 
 ---
 
@@ -637,7 +637,7 @@ In *Science - Nari Gels.md › Mind Enabler › Isekai History*, add:
   * **Smells like preserved meat or bloody sausage. Tastes like grainy toothpaste and raw old meat, and fatty, since it's brain matter.**
 ```
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
 - Notes:
 
 ---
@@ -677,8 +677,8 @@ At the top of *Science - Nari Gels.md*, add:
 1. Does resistance work for every gel, or mainly for the ones that knock you out or alter the mind?
 
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
-- Notes:
+- [ ] Approved as written · [x] Approved with changes · [ ] Rejected
+- Notes: (1) Basically for every gel. For instance, if the person is constantly changing "skin" to look like someone else will start to notice their body taking longer to shift appearance, being more painful (even on the highest qualities of nari gels as purity of the gel means the effect are more clean, and stronger.) It's the physical flesh growing imune, and overuse of nari gel can start to leech into the soul. For instance, adventurers that insist in looking a certain way will notice that with enough time, when they use nari refresher, their bodies will be on the spectrum of appearance between how they were born with, and what they looked like for the longest time. In some sense it's like the nari gel causes a ghosting imprint on the soul, which might impact the connnection strength between soul and body.
 
 ---
 
@@ -722,8 +722,8 @@ In *Characters.md › Maicon*, add to his Isekai History:
 1. Maicon's middle name: Forway (docs) or Crossroads (comment #88)?
 
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
-- Notes:
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
+- Notes: (1) Forway.
 
 ---
 
@@ -757,7 +757,7 @@ In *Races.md › Sorefaries*, add:
     * They fly by using the interface itself as lift, with their feet free-floating to help with their center of mass.
 ```
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
 - Notes:
 
 ---
@@ -799,8 +799,8 @@ In *City.md › Forway*, add:
 2. Are there no candles in Vraki at all, or just no candle wax in that room? (The draft also had crates stamped "candles".)
 
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
-- Notes:
+- [ ] Approved as written · [x] Approved with changes · [ ] Rejected
+- Notes: (1) every embassy. (2) No candles. Wax exists but it is intended for stamps on letters (like Winga mail being provided by Forway.)
 
 ---
 
@@ -833,7 +833,7 @@ In *Science - Darfaries Interface.md › Body VERB › Restore*, add:
     * A piece of someone's flesh can be grown with Body Restore to see their real body (e.g., to identify a disguised intruder).
 ```
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
 - Notes:
 
 ---
@@ -880,8 +880,8 @@ In *Characters.md › Neferteri*, add:
 1. **Conflict:** "avoids writing stuff down" (#3) vs "Write down, paper trail, contracts is her thing" in her traits. Maybe both: contracts in blood, but no notes about her plans? Tell me how to word it.
 
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
-- Notes:
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
+- Notes: (1) You got it. Contracts between her and people is done so that she can extract the duties and ensure the person will act in accordance to the terms. But her own plans, and mental machinations are only inside of her brain.
 
 ---
 
@@ -919,7 +919,7 @@ In *Characters.md › Morika*, add:
 * Even in disguise, he gives himself away by how instantly ready to fight and how aware of his surroundings he is.
 ```
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
 - Notes:
 
 ---
@@ -964,7 +964,7 @@ In *Characters.md › Coema*, add:
 * Moved to Newland.
 ```
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
 - Notes:
 
 ---
@@ -1000,7 +1000,7 @@ In *Characters.md › Itagiba*, add:
 * Only knows Harry as the Sanbi Eye, nothing about the experiments or Eori. He approved Gabiro's project because Maiara wanted a husband "to her specifications".
 ```
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
 - Notes:
 
 ---
@@ -1041,8 +1041,8 @@ In *Characters.md › Kibe*, add:
 1. Itagiba's line "of all the crap Gabiro has done, getting Kibe as his apprentice was probably the worst one" is a character's opinion. Leave it out of the docs?
 
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
-- Notes:
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
+- Notes: (1) leave in but you can reword as Itgaiba's opinion of Kibe. He never tought highly of him.
 
 ---
 
@@ -1080,8 +1080,8 @@ In *Characters.md › Eori*, add:
 1. "Eori didn't cook" vs "She can cook like no other, but Neferteri has suppressed that." Is it that she can cook but never did in the lab (Harry cooked)? If so, the docs are fine and only the lab detail is new.
 
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
-- Notes:
+- [ ] Approved as written · [x] Approved with changes · [ ] Rejected
+- Notes: She certainly can cook, and like it, but it was distilled into her that it is beneath her to cook, so it became natural to her to put others to cook for her. Seeing Harry under her control, doing everything to appease her was very enticing to her narcissitic brain.
 
 ---
 
@@ -1128,8 +1128,8 @@ In *Characters.md › Itanema*, add:
 1. Sinoi going missing is a Vol 4 spoiler. Is it fine in the Behind The Scenes docs now, or should it wait until Vol 4 is published?
 
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
-- Notes:
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
+- Notes: (1) It's fine now.
 
 ---
 
@@ -1169,8 +1169,8 @@ In *Characters.md*, add a new entry after Sora:
 2. Keep the Hatsune Miku reference in the docs, or leave it as a note to the illustrator only?
 
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
-- Notes:
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
+- Notes: (1) Ukim Sanbi. Human. 1023 Asa 39. Fill in the rest of her usual fields from the info provided and what you can find online about Hatsune Miku. (2) Remove it. Such direct ref was for the illustrator and ghostwriter.
 
 ---
 
@@ -1200,7 +1200,7 @@ In *Characters.md › Lofinghy*, add:
 * Has a quid-pro-quo contract with Neferteri: he gives her information, and she is bound to back his rise through the ranks, give him the information he asks for, and nudge kingdoms with voting power to make him Sapphire General.
 ```
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
 - Notes:
 
 ---
@@ -1247,5 +1247,96 @@ In *Characters.md › Harry*, add:
 2. "old-mouthed prick" in #133: did you mean "loud-mouthed"?
 
 **Approval notes**
-- [ ] Approved as written · [ ] Approved with changes · [ ] Rejected
-- Notes:
+- [x] Approved as written · [ ] Approved with changes · [ ] Rejected
+- Notes: (1) Not quite urban legend, but more of a thing know between scientists, and in researches. It was more well know in the old times, before Forway really became a thing and resentment against messing with the soul became common place. (2) Yes.
+
+**Applied**
+- *Science - Darfaries Interface.md › Soul Create (Gabiro's version):* the two lines as proposed, naming the bagarisa corpse used in the "summoning ritual" (Vol 1, Chapter 1).
+- *Characters.md › Harry*, under "cannot use Darfaries interface": In Vol 4, he shows for the first time an interface of his own that alters soul energy into fire from the tips of his middle and ring fingers.
+
+**Applied**
+- *Kingdoms.md:* the four **Religion** headings renamed to **Customs**, and a new Documentation Notation at the top: Religion is not a thing in Vraki: it is an agnostic world, where science and soul energy are the foundation. There are no churches or priests, no "hell", no witches and no curses. Each kingdom's Customs section lists traditions, not religion. Cults do exist, just like bandit groups.
+- *Sports, Games and Passtime.md › Soul Energy Art:* the street-performer line as proposed.
+- *Language.md › Misc:* "Sanbi shit" is a common saying, used where someone from our world would say "hell". It's mostly said in Sanbi or by people who came from there: a telltale sign someone spent time there, alongside being more carefree and loudmouthed.
+
+**Applied**
+- *Factions.md › Black Sapphires › Isekai History:* To most people they are an urban legend. The core people are few and far between, but they still have pull through the Forway ranks. Whoever is left is mostly focused on research into keeping their souls alive for as long as possible, while some are trying to crack the truth about, establish contact with, if not dominate, the ancient species above Hifuna (another urban legend, but based in truth). Plus the "under their gaze" line as proposed.
+
+**Applied**
+- *Fauna.md › Documentation Notation:* no goats (use Legunia), no dogs or cats (use Bagarisa where a dog would go), no pigeons (use wild Wingas).
+- *Races.md › Documentation Notation:* Elves and the other Tolkien races don't exist in Vraki.
+
+**Applied**
+- *Embassies & Guilds.md*, after the Forway guards: every embassy has a general, and generals carry the gem ranks too. City embassies usually have a Pearl or Amethyst-General, kingdom embassies an Aquamarine-General (e.g., Sanbi). Sapphire Generals work on a Forway level, so their decisions impact everyone. Kingdoms with voting power help decide who becomes Sapphire General. There are no archdukes in Vraki.
+
+**Applied**
+- *Embassies & Guilds.md*, after the badge verification line: the two lines as proposed.
+
+**Applied**
+- *Embassies & Guilds.md › Type 3: Kingdom Alert:* as proposed, plus: whoever posted it can withdraw it, but embarrassment follows, plus likely punishment from Forway depending on what they did. A kingdom that issues an emergency "for the lolz" is heavily punished with sanctions and the withdrawal of "comparative advantage" rulings.
+
+**Applied**
+- *Kingdoms.md › Sanbi:* a new **Sanbi Castle** section with the three lines as proposed.
+- *Kingdoms.md › Sanbi › News:* "the Sanbi Kingdom palace" now reads "Sanbi Castle".
+- *Economy.md › Comparative Advantage:* Example: fanchaki farms are spread out everywhere, but Freeish and Blood have the comparative advantage for large-scale farming. Raising larger fanchakis (like Sanbi's experimental farm) costs more than their meat sells for.
+
+**Applied**
+- *Kingdoms.md › Sanbi › Culture:* the three lines as proposed.
+
+**Applied**
+- *Science - Nari Gels.md › Time Quicken:* Legal. Anyone can buy it at the nari shops across towns, and it's free for kingdom back-office staff. Like a powerful version of nicotine.
+
+**Applied**
+- *Science - Nari Gels.md › Mind Enabler:* the line as proposed.
+
+**Applied**
+- *Science - Nari Gels.md › Fake Skin › Usage:* the line as proposed.
+- *Science - Nari Gels.md*, intro: **Resistance:** the physical flesh can grow immune to basically every nari gel. Someone constantly changing "skin" will notice their body taking longer to shift, and more pain, even with the highest-quality gels (a purer gel gives cleaner, stronger effects). Overuse can also leach into the soul: adventurers who insist on looking a certain way find that Nari Refresher returns their body to somewhere between how they were born and how they looked for the longest. It's like a ghosting imprint on the soul, which might impact the connection strength between soul and body.
+
+**Applied**
+- *Factions.md › Red Winga:* a new **Upkeep** section with the three lines as proposed.
+- *Characters.md › Maicon Forway Black-Dove:* the line as proposed. His name stays Forway.
+
+**Applied**
+- *Kingdoms.md › Gandew* and *Races.md › Sorefaries:* the lines as proposed.
+
+**Applied**
+- *Embassies & Guilds.md › Location:* both lines, for every embassy.
+- *City.md › Forway:* the line as proposed.
+- *Natural and Crafted Resources.md › Fost Stone:* There are no candles in Vraki. Wax exists, but it is for stamping letters (like the Winga mail Forway provides).
+
+**Applied**
+- *Science - Darfaries Interface.md › Body VERB › Restore:* the three lines as proposed.
+
+**Applied**
+- *Characters.md › Neferteri:* the lines as proposed, each in its section (Tags › Action, Negative Traits, Likes/Dislikes, Isekai History).
+- Under "Write down, paper trail, contracts is her thing": Contracts, yes: she uses them to extract duties and make sure people act according to the terms. But her own plans and mental machinations stay only in her head; she avoids writing them down so they don't leak to prying eyes.
+
+**Applied**
+- *Characters.md › Morika:* the four lines as proposed.
+
+**Applied**
+- *Characters.md › Eiri* and *› Coema:* the lines as proposed.
+
+**Applied**
+- *Characters.md › Itagiba:* the three lines as proposed.
+
+**Applied**
+- *Characters.md › Kibe:* the four lines as proposed, plus: Itagiba never thought highly of him: in his view, of all the crap Gabiro did, getting Kibe as his apprentice was probably the worst one.
+
+**Applied**
+- *Characters.md › Eori:* the three lines as proposed.
+- Under "She can cook like no other": She can cook and likes it, but it was instilled in her that cooking is beneath her, so having others cook for her became natural. Having Harry under her control, doing everything to appease her (he did the cooking in the lab), was very enticing to her narcissistic brain.
+
+**Applied**
+- *Characters.md › Sinoi*, *› Itanema* and *Professions.md › Sanbi Eye:* the lines as proposed.
+
+**Applied**
+- *Characters.md:* a new **Ukim Sanbi** entry after Sora. Human, born 1023 A.G. Asa 39th. The usual fields are filled in from your comments and from the character you pointed to (16 years old, 158cm, 42kg, bright cyan eyes, long teal twin-tails, loves music and singing; ENFP), without naming her. "Sexuality" says "Not decided yet."
+
+**Applied**
+- *Characters.md › Lofinghy:* the two lines as proposed.
+
+**Applied**
+- *Characters.md › Gabiro* and *› Harry:* the lines as proposed ("loud-mouthed").
+- *Science - Darfaries Interface.md › Soul Create:* White Fire events are not quite an urban legend: they are known among scientists and in research. They were better known in the old times, before Forway really became a thing and resentment against messing with the soul became commonplace.

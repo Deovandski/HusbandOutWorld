@@ -161,6 +161,9 @@
   * A lack of proper concentration and sufficient Nari power caused all the soul and body genetic information to suddenly meld, triggering a White Hole event.  
     * All the Soul Recharges fused into a single being.  
   * In the white hole event, a nearly decayed soul (Harry) was bound by pure chance.  
+  * Gabiro was trying to bind a specific soul, but another soul (Harry's) was bound instead. What was left of the soul tied to the bagarisa corpse used in the "summoning ritual" (Vol 1, Chapter 1) was wildly different from Harry's soul.  
+  * When the explosion happened, Gabiro's own soul was fused into the mix, and Harry's soul absorbed the capacity of all three. That is how Harry woke up able to speak Vraki, the common language, and why he later develops a custom interface (Vol 4). (See World Lore Q&A › Vol 4 Draft 2, Q5.)  
+  * White Fire events are not quite an urban legend: they are known among scientists and in research. They were better known in the old times, before Forway really became a thing and resentment against messing with the soul became commonplace. (See World Lore Q&A › Vol 4 Draft 2, Q30.)  
 * **Interface**  
   * ![][image8]  
 * **Tiers**  
@@ -195,6 +198,9 @@ Body Manipulation soul energy interface actions are rather easier to perform, bu
     * Restore and Create started out as two different spells, but the logograms are an interface to raw soul energy whose meaning all users share as fact, and over time both came to mean the same thing: regrow what is missing from the body, be it a finger, or everything else if only a finger is left. (See World Lore Q&A › Vol 4 Draft 2, Q2.)  
     * Healing matches the flesh to how the soul looks, so old scars don't exist in Vraki unless someone is too poor for nari gels or the Darfaries Interface.  
     * Tattoos are reverted (removed) as soon as Body Restore is used. (See World Lore Q&A › Vol 4 Draft 2, Q3.)  
+    * Five bottles of Black Honey are like eating tens of 2,000-calorie junk food meals. It is expensive, but there is plenty to go around.  
+    * Body parts for later use are kept in jars of a viscous red jelly: finely ground nari stone mixed with blood.  
+    * A piece of someone's flesh can be grown with Body Restore to see their real body (e.g., to identify a disguised intruder). (See World Lore Q&A › Vol 4 Draft 2, Q20.)  
     * Disassembly attempts to explode the body.  
   * **CREATE/DESTROY**  
     * Creates attempts to recreate the body of the target, born at the site where the spell was initiated.   

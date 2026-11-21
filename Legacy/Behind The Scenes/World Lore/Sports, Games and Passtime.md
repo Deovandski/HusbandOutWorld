@@ -92,6 +92,7 @@
   * Officially held in Forway city, but in some other places as well  
 * **Rules**  
   * The person uses everything available in the Soul Energy interface books to entertain guests creatively.
+  * Also done on the street, e.g., someone wowing kids by touching different powers to make different kinds of flames, like a flamethrower or firework show. (See World Lore Q&A › Vol 4 Draft 2, Q6.)  
 
 # 
 

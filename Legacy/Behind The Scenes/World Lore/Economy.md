@@ -8,6 +8,7 @@
 
 * The ability of members of an economical region to carry out a particular economic activity more efficiently than members of another economical region  
 * \*D.T.C must be accounted for when claiming in favor of or against.
+* Example: fanchaki farms are spread out everywhere, but Freeish and Blood have the comparative advantage for large-scale farming. Raising larger fanchakis (like Sanbi's experimental farm) costs more than their meat sells for. (See World Lore Q&A › Vol 4 Draft 2, Q12.)  
 
 # **Economical Regions**
 

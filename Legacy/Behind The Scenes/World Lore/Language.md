@@ -39,6 +39,8 @@ Old Vraki is old English, but with some random stuff thrown in.
 
 # **Misc**
 
+* "Sanbi shit" is a common saying, used where someone from our world would say "hell". It's mostly said in Sanbi or by people who came from there: a telltale sign someone spent time there, alongside being more carefree and loudmouthed. (See World Lore Q&A › Vol 4 Draft 2, Q6.)  
+
 | Space | . | , | \! | ? | / |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | ![][image41] | ![][image42] | ![][image43] | ![][image44] | ![][image45] | ![][image46] |

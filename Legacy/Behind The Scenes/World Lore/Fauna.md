@@ -4,6 +4,7 @@
 * See **Beasts** for mildly intelligent species or highly dangerous beasts.  
 * See **Fauna** for low-intelligence species.  
 * This list is not complete; rather, it includes species that impact the economy/story to a greater extent.  
+* **Earth animals that don't exist in Vraki** (for writers): no goats (use Legunia), no dogs or cats (use Bagarisa where a dog would go), no pigeons (use wild Wingas). (See World Lore Q&A › Vol 4 Draft 2, Q8.)  
 * Adventurers hunting Fauna/Beats butcher the corpses prior to hauling them in order to reduce cost.   
 * See Economy Calculator for Prices.
 

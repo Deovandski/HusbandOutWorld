@@ -44,6 +44,7 @@
   * No wick, flame or smoke. The hissing a lit fost stone makes comes from the water and salt reacting with the stone, which gives off light and steam.  
   * There's no "turning off the lights". To put one out, you pour out the water to stop the reaction.  
   * Where there's no fost stone, people use torches burning animal fat. Torches aren't usually used inside homes. Gandew and Sundeath use more torches than elsewhere because they are far from where fost stones are mined. (See World Lore Q&A › Vol 4 Draft 2, Q1.)  
+  * There are no candles in Vraki. Wax exists, but it is for stamping letters (like the Winga mail Forway provides). (See World Lore Q&A › Vol 4 Draft 2, Q19.)  
   * Keep monsters at bay.  
 * **Visual Reference**  
   * ![][image1]![][image2]

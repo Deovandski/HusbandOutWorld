@@ -6,6 +6,8 @@ A wide range of nari gels fulfills most poisons, body, and mental status modific
 
 On the plus side, your liver will eventually process and expel the nari gel changes, so if you are solo and put yourself in jeopardy, sit back and relax\! If you don’t die from it, you will eventually be able to get back up and do it again\! On average, the coarser, cheaper stuff tends to take longer to be expelled, so keep this in mind. Either way, do it enough times; your body might start to accept the changes as a new reality, changing your meaning of normal forever.  It won’t be cheap unless you get high on your nari gels.
 
+**Resistance:** the physical flesh can grow immune to basically every nari gel. Someone constantly changing "skin" to look like someone else will notice their body taking longer to shift, and more pain, even with the highest-quality gels (a purer gel gives cleaner, stronger effects). Overuse can also leach into the soul: adventurers who insist on looking a certain way find that, with enough time, Nari Refresher returns their body to somewhere between how they were born and how they looked for the longest. It's like the nari gel leaves a ghosting imprint on the soul, which might impact the connection strength between soul and body. (See World Lore Q&A › Vol 4 Draft 2, Q16.)
+
 Scientists, usually alongside businesspeople, try to outperform each other with the latest and most extraordinary recipes. Unfortunately, this market has gained a reputation for being cutthroat. Sometimes, the neck-breaking research speed or shady cost-cutting in testing can lead to unaware buyers being “alpha-testers“ of new products and their claims.
 
 ​
@@ -130,6 +132,7 @@ Everyone buys these gels, with adventurers usually buying more than commoners. A
   * **Forbidden by Forway, so expect to pay out of the ass in the black market. It is made from ground Nari, Koalin brain matter, eyes, and a mustache, mixed with its own blood to make it extra nasty. The effects of the Nari gel will vary from person to person, even with the exact dosage, which is rather unheard of in this interface. Ranging from a drunken, forgetful, or enabled mind state to memory loss, personality changes, or full-blown blackout, this nari gel, in the wrong hands, can make its prey do all of its worst bindings\! The worst part is that the person afflicted by it might not remember a single thing that happened, but some still have that feeling of doom or suffer PTSD with trigger items despite not knowing why. Scientists believe this nari gel affects the soul-flesh connection.**  
 * **Isekai History**  
   * **Made from ground Nari with Koalin brain matter, eyes, \+ mustache mixed with blood**  
+  * **Smells like preserved meat or bloody sausage. Tastes like grainy toothpaste and raw old meat, and fatty, since it's brain matter. (See World Lore Q&A › Vol 4 Draft 2, Q15.)**  
   * **This item is forbidden by Forway. Found on Blackmarkets**  
 * **Inventor**  
   * **Sexual Predators at some point during B.G.**  
@@ -201,6 +204,7 @@ Everyone buys these gels, with adventurers usually buying more than commoners. A
   * **Made from ground Nari with Soul wood seeds mixed with Cocona water. The seeds are not ground in most versions offered because most people prefer that they slowly release their effects on the body. From a warm "wake-up coffee without the need to poop" feeling to get through a busy day, to triggering a constant fight or flight, to having the feel that time around you slows down, or to extremes of tearing your body apart and triggering a brain aneurysm, this nari gel can overclock your body to the point your brain quite literally explodes. Plenty of custom versions exist to tweak what needs to be overclocked or to compensate for its downsides. Virtually every adventurer depended on one of these to get through a tough battle.**  
 * **Isekai History**  
   * **Made from ground Nari with Soul wood seeds mixed with cocona water. The reason the seeds are not ground on most versions of this is so that they are slowly released on the body. See Fauna for taste.**  
+  * **Legal. Anyone can buy it at the nari shops across towns, and it's free for kingdom back-office staff. Like a powerful version of nicotine. (See World Lore Q&A › Vol 4 Draft 2, Q14.)**  
 * **Inventor**  
   * **Hunters at some point during B.G.**  
 * **Subversions**  
@@ -335,6 +339,7 @@ Everyone buys these gels, with adventurers usually buying more than commoners. A
   * **Tier II (Localized): Flesh/tendons mold to the target while bones, etc still remain the same. Pain is common**  
   * **Tier III (Regional): Body structure changes to target. Further pain.**  
   * **Tier IV (Whole Body): Identical to target. Excruciating pain ensues.**  
+  * **Freshly changed skin looks like a fresh baby face, as if the person just came out of a week-long spa. (See World Lore Q&A › Vol 4 Draft 2, Q16.)**  
 * **Cost**  
   * **25\~350+ Pearls for \~200g (Depending on the body part, and who it is from.)**
 
