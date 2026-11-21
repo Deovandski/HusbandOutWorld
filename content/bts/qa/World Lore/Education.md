@@ -10,21 +10,25 @@ Every question asked of the author and his answer (word for word), every gap fil
 
 ## Questions for the author
 
-Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing, or keeps the raw wording. Asked as one batch on 2026-11-21.
+Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing, or keeps the raw wording. Asked as one batch on 2026-11-21 and answered the same day.
 
-### ED1. Who "attends classes more often than not"? (open)
+### ED1. Who "attends classes more often than not"? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Fundamental School › Isekai History: "Kids of Profession Tier I \~ II become apprentices of the same job types until around 18 years old, when they are promoted to masters. They attend classes more often than not."
 - **Why:** Does it mean the Tier I–II apprentices still go to fundamental school classes most of the time (alongside their apprenticeship), or that Tier III–VI children attend more often than not?
-- **Answer:**
-- **Change to the abridged text:** Keeps the raw wording for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Yes.
+- **Change to the abridged text:** "…until they're promoted to masters at around 18, though most of them still attend classes."
 
-### ED2. Breakfast at Sunnilow, dinner at Sunnohigh? (open)
+### ED2. Breakfast at Sunnilow, dinner at Sunnohigh? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Specialized School › Cost: "Includes room, breakfast at Sunnilow & dinner at Sunnohigh (simple meals)"
 - **Why:** In the UOM spreadsheet, Sunnilow is about 9–10:30 am and Sunnohigh about 1:30–3 pm. Vol 1 calls "between Sunnolow and Sunnohigh" a late lunch. Is the second meal lunch, or should dinner be at another time (Sunnuhigh is 4:30–6 pm, Monnalow 6–7:30 pm)?
-- **Answer:**
-- **Change to the abridged text:** Keeps "breakfast at Sunnilow and dinner at Sunnohigh" for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Second meal is late lunch as some kids don't eat afterwards.
+- **Change to the abridged text:** "breakfast at Sunnilow and a late lunch at Sunnohigh (some students don't eat after that)."
 
 ---
 

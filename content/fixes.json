@@ -32,6 +32,11 @@
       "find": "Interface action. See [Soul Energy Interfaces](https://drive.google.com/drive/folders/1TT6vrtFEBw978eQbAbDNOt_WKXqYurn7)",
       "replace": "Interface action. See [Darfaries Interface](/lore/darfaries-interface/)",
       "why": "The Google Drive folder no longer exists; this links to the matching interface page on this website instead."
+    },
+    {
+      "find": "| **\\\\** | **\\+** | **\\-** | **\\*** | % |  |\n| ![][image47] | ![][image48] | ![][image48] | ![][image49] | ![][image49] |  |",
+      "replace": "| **\\\\** | **\\+** | **\\*** |  |  |  |\n| ![][image47] | ![][image48] | ![][image49] |  |  |  |",
+      "why": "The author's decision (issue #103, L3): \"-\" and \"%\" reused the \"+\" and \"*\" pictures by mistake (their real glyphs were added later), so they are removed from the hand-drawn originals."
     }
   ],
   "Legacy/Public/afterwords.md": [
@@ -77,6 +82,30 @@
       "find": "Video versions\n\nApplying command\n\n  \n\nFeeding energy\n\n  \n  \n  \n\n## Using The Interface - Release\n\nTo release the spell, unclench the fingers. To add motion to the spell, cock your arm, then throw it towards the target to transfer the inertia into the spell.\n",
       "replace": "## Using The Interface - Release\n\nTo release the spell, unclench the fingers. To add motion to the spell, cock your arm, then throw it towards the target to transfer the inertia into the spell.\n\n#### Darfaries Interface Video showcase\n\n![Full Darfaries Interface - Sigil and Nari stone mode](Videos/Full%20Darfaries%20Interface%20-Sigil%20and%20Nari%20stone%20mode%20.mp4)\n\n![Full Darfaries Interface - scribling and soul energy stone mode](Videos/Full%20Darfaries%20Interface%20-%20scribling%20and%20soul%20energy%20stone%20mode.mp4)\n",
       "why": "The blog's videos never made it into the doc (only their labels did). The author supplied them (issue #78): the empty \"Video versions\" labels are removed and the two videos get their own section after Using The Interface - Release. It is a level-4 heading so it stays right under that section instead of being matched to the \"Darfaries Interface\" entry."
+    }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Economy.md": [
+    {
+      "find": "[Economy Calculator](https://docs.google.com/spreadsheets/d/1B2yVrHxkGOt3NyOCpsv9X4KACSwIW1pqzUheZw43e1s/edit#gid=166097431)",
+      "replace": "[Economy Calculator](Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx)",
+      "why": "Points to the spreadsheet's copy in this repository instead of Google Drive (the author's rule: link to the website or the repository, not Google Drive)."
+    }
+  ],
+  "Legacy/Behind The Scenes/World Lore/World Map, Name, Vraki Calendar & UOM, etc.md": [
+    {
+      "find": "[World Calendar & UOM.](https://docs.google.com/spreadsheets/d/1tJy2C_-z7Xsqmm1GEYcYjMLbCUYr6D0gb0TM2Vo5200/edit#gid=1805800130)",
+      "replace": "[World Calendar & UOM.](Legacy/Behind%20The%20Scenes/Spreadsheets/World%20Calendar%20%26%20UOM.xlsx)",
+      "why": "Points to the spreadsheet's copy in this repository instead of Google Drive (the author's rule: link to the website or the repository, not Google Drive)."
+    },
+    {
+      "find": "[Isekai World Calendar](https://docs.google.com/spreadsheets/d/1tJy2C_-z7Xsqmm1GEYcYjMLbCUYr6D0gb0TM2Vo5200/edit#gid=0)",
+      "replace": "[Isekai World Calendar](Legacy/Behind%20The%20Scenes/Spreadsheets/World%20Calendar%20%26%20UOM.xlsx)",
+      "why": "Points to the spreadsheet's copy in this repository instead of Google Drive (the author's rule: link to the website or the repository, not Google Drive)."
+    },
+    {
+      "find": "prosperity treaty came into effect in 671 A.G.",
+      "replace": "prosperity treaty came into effect in 680 A.G.",
+      "why": "The author's decision (issue #103, W3): the World Timeline's 680 A.G. is the official year the Prosperity Treaty came into effect."
     }
   ]
 }

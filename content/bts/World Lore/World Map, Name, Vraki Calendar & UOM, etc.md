@@ -14,6 +14,8 @@ Adrian (the same courtroom scientist who helped create the calendar) standardize
 | | Smalladi | 1 cm |
 | | Tinyadi | 1 mm |
 | Weight | Bagabone | 1 kg |
+| | Sorebone | 10 g |
+| | Tiny Sorebone | 1 g |
 | Volume | Chakiblood | 1 L |
 | | Soreblood | 1 mL |
 | Time | Timehunk | 3 hours |
@@ -109,6 +111,8 @@ The whole calendar, with a day-by-day comparison to the Gregorian calendar, is i
 
 # Seasons
 
+Δ is the height above the sea.
+
 Average temperature:
 
 | | Δ0 km | Δ2 km | Δ4 km | Δ6 km | Δ8 km |
@@ -131,7 +135,7 @@ Average humidity:
 
 # Name Schema
 
-To make names, contracts and negotiations easier, Forway introduced a naming schema for every kingdom child born after the Prosperity Treaty came into effect.
+To make names, contracts and negotiations easier, Forway introduced a naming schema for every kingdom child born after the Prosperity Treaty came into effect in 680 A.G.
 
 A full name is **NAME PLACE GUILD**:
 

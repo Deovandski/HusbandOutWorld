@@ -7,21 +7,12 @@ status: questions answered 2026-11-21 (see content/bts/qa/World Lore/Science - N
 
 Goods are sorted into four tiers by how they look to a common person in Vraki: from cheap things anyone buys, to things only the very rich can afford (a common person might buy something as expensive as one sapphire once in their lifetime; for a really rich person, that's ordinary). The boundaries between tiers are blurry on purpose: it's a spectrum, and the tiers just help picture it.
 
-# Tier I (Cheap Goods)
+Nari bombs by tier:
 
-No nari bombs in this tier.
-
-# Tier II (Common Goods)
-
-No nari bombs in this tier.
-
-# Tier III (Expensive Goods)
-
-Not assigned for nari bombs yet.
-
-# Tier IV (Nobility Goods)
-
-Not assigned for nari bombs yet.
+- **Tier I (Cheap Goods):** none.
+- **Tier II (Common Goods):** Signal/Smoke Bombs.
+- **Tier III (Expensive Goods):** none.
+- **Tier IV (Nobility Goods):** none.
 
 # Signal/Smoke Bombs
 

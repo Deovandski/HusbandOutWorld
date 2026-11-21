@@ -10,35 +10,43 @@ Every question asked of the author and his answer (word for word), every gap fil
 
 ## Questions for the author
 
-Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing. Asked as one batch on 2026-11-21.
+Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing. Asked as one batch on 2026-11-21; W2–W4 answered the same day, W1 waits on context.
 
-### W1. Whose units did Adrian pick: Blood's or Tolerideme's? (open)
+### W1. Whose units did Adrian pick: Blood's or Tolerideme's? (open, context sent)
 - **Asked:** 2026-11-21
 - **Legacy text:** Vraki UOM: "decided to standardize all UOMs based on the best UOMs being used around—which all happened to be from Blood due to their constant hunting nature." The public Economy & UOMs page: "the most accurate one in existence—which happened to be the Tolerideme Kingdom, coincidentally where he was from."
 - **Why:** The two disagree. Which is right?
-- **Answer:**
-- **Change to the abridged text:** Says only "choosing the best ones already in use" until answered.
+- **Reply:** 2026-11-21
+- **Reply (verbatim):**
+  > Can you give me the paragraphs/URL where I say that? Need more context to make a decision.
+- **Change to the abridged text:** Still says only "choosing the best ones already in use". Both passages were sent to the author for context.
 
-### W2. How heavy is a Sorebone? (open)
+### W2. How heavy is a Sorebone? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** `World Calendar & UOM.xlsx` › UOM: "Gram | Sorebone | 0.01" and "Miligram | Tiny Sorebone | 0.001" (in kg).
 - **Why:** A gram is 0.001 kg, so the labels and numbers disagree: is a Sorebone 10 g (0.01 kg) or 1 g? And a Tiny Sorebone 1 g or 1 mg?
-- **Answer:**
-- **Change to the abridged text:** Shows only the Bagabone (1 kg) for weight until answered.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Sorebone is 10g. Tiny Sorebone is a gram. Make that official (but check if I mention about it on the novels. If I mention about it on the novels, then overrides us. Otherwise if only on the Behind The Scenes/Public doc, then er can officialy correct.)
+- **Change to the abridged text:** Checked: the novels never mention Sorebone (they use only "largeadi"), so the author's values are official. The units table adds Sorebone 10 g and Tiny Sorebone 1 g. The spreadsheet is unchanged.
 
-### W3. When did the Prosperity Treaty come into effect? (open)
+### W3. When did the Prosperity Treaty come into effect? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Name Schema: "any kingdom child born after the prosperity treaty came into effect in 671 A.G." World Timeline: "The Prosperity Treaty Period (680 A.G. - Current)".
 - **Why:** 671 or 680 A.G.?
-- **Answer:**
-- **Change to the abridged text:** Leaves the year out until answered.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > World Timeline. Make that official.
+- **Change to the abridged text:** Name Schema now says 680 A.G., and the raw note on the website is corrected too (`content/fixes.json`). Legacy is unchanged.
 
-### W4. What does Δ mean in the season tables? (open)
+### W4. What does Δ mean in the season tables? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Seasons: columns "Δ0km … Δ8km", and "\*If close to water like Sanbi Kingdom. If not, treat like Δ1km".
 - **Why:** Is Δ the altitude (height above the sea), or the distance from the sea? A one-line explanation would help readers.
-- **Answer:**
-- **Change to the abridged text:** Keeps "Δ" as written for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Height above the sea.
+- **Change to the abridged text:** Added before the tables: "Δ is the height above the sea."
 
 ---
 
@@ -60,7 +68,16 @@ Status: **open** until answered. An open question means the abridged text leaves
 - **Settled by:** the published novel (Vol 1), which wins over the rest of Legacy.
 - **Abridged text:** Forrday is the 5th day, the weekend.
 
-Also see W1, W2 and W3.
+### Sorebone weight (settled)
+- **Sources:** `World Calendar & UOM.xlsx` labels Sorebone "Gram" with 0.01 kg, and Tiny Sorebone "Miligram" with 0.001 kg. No novel mentions either.
+- **Settled by:** the author's decision (W2): Sorebone is 10 g, Tiny Sorebone 1 g.
+
+### Prosperity Treaty year (settled)
+- **Sources:** Name Schema (671 A.G.) vs World Timeline (680 A.G.). No novel gives the year.
+- **Settled by:** the author's decision (W3): 680 A.G.
+
+### Whose units (open, W1)
+- **Sources:** this doc (Blood) vs the public Economy & UOMs page (Tolerideme).
 
 ## Left out on purpose
 

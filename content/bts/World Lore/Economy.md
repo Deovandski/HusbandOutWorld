@@ -1,6 +1,6 @@
 ---
 source: Legacy/Behind The Scenes/World Lore/Economy.md
-status: questions asked 2026-11-21 (see content/bts/qa/World Lore/Economy.md)
+status: questions answered 2026-11-21 (see content/bts/qa/World Lore/Economy.md)
 ---
 
 # Economy › Isekai History
@@ -17,12 +17,12 @@ A region has a comparative advantage when its members can carry out a particular
 
 | Between | Distance |
 |---|---|
-| Sanbi and Tolerideme regions | 1,000 km |
-| Freeish and Sanbi regions | 2,000 km |
-| Freeish and Tolerideme regions | 3,000 km |
-| Gandew and Sanbi regions | 3,000 km |
-| Freeish and Gandew regions | 3,293 km |
-| Gandew and Tolerideme regions | 4,000 km |
+| Sanbi and Tolerideme regions | ~1,000 km |
+| Freeish and Sanbi regions | ~2,000 km |
+| Freeish and Tolerideme regions | ~3,000 km |
+| Gandew and Sanbi regions | ~3,000 km |
+| Freeish and Gandew regions | ~3,300 km |
+| Gandew and Tolerideme regions | ~4,000 km |
 
 The full numbers are in the [Economy spreadsheet](Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx) (Distance Cost Calculator).
 
@@ -68,7 +68,7 @@ Expenses take about 75% of earnings, so a Tier I worker keeps about 3 Pearls a d
 
 # Weekly Salary
 
-The average weekly pay assumes pay for every work day: about 4 a week. Some professions don't accrue pay on days off.
+The average weekly pay assumes pay for every work day: 4 a week, with Forrday off. Some professions don't accrue pay on days off.
 
 | Pearls per week | Tier I | Tier II | Tier III | Tier IV | Tier V | Tier VI |
 |---|---|---|---|---|---|---|
@@ -99,7 +99,7 @@ Over a year (73 weeks), that's 3,504 Pearls at Tier I, up to 35,040 for a Tier V
 - **Where it comes from:** mined from Flatland City to Blood City, deep inside the mountains (about 1 km down).
 - **Size:** slightly bigger than a fingernail, about 2 cm across.
 - **Worth:** 50 Pearls.
-- **What it buys:** 1 nari stone; common household items like a table or fost lamps; fancier food and drinks; average armor and weapons; a better travel experience; average lodging, often with breakfast; new cheap clothing, or somewhat more refined clothing; most nari gels at higher effect tiers; Tier IV to VI Soul Energy; sigil rings; a Winga companion.
+- **What it buys:** 1 nari stone; common household items like a table or fost lamps; fancier food and drinks; average armor and weapons; a better travel experience; maps (more complex ones cost an Aquamarine); average lodging, often with breakfast; new cheap clothing, or somewhat more refined clothing; most nari gels at higher effect tiers; Tier IV to VI Soul Energy; sigil rings; a Winga companion.
 
 # Pearl
 

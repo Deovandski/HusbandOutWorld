@@ -12,35 +12,43 @@ The doc has "Isekai History" under both Economy and Balls Currency, so the abrid
 
 ## Questions for the author
 
-Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing. Asked as one batch on 2026-11-21.
+Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing. Asked as one batch on 2026-11-21 and answered the same day.
 
-### EC1. Link the salary and distance numbers to the repository spreadsheet? (open)
+### EC1. Link the salary and distance numbers to the repository spreadsheet? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Daily Salary / Weekly Salary: "See [Economy Calculator](https://docs.google.com/spreadsheets/d/1B2y…)"
 - **Why:** The abridged text puts the main numbers from `Spreadsheets/Formulas - Economy.xlsx` in tables and links to that file in the repository instead of the Google Sheet (the raw notes keep the Google link). OK, or should it link to the Google Sheet?
-- **Answer:**
-- **Change to the abridged text:** Links to the repository copy for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Yep. Also add to your internal docs to always point to to the website or repo, and avoiding external references to Google Drive.
+- **Change to the abridged text:** Keeps the links to the repository copy. The raw notes now also point there (`content/fixes.json`), and CLAUDE.md has the rule: link to the website or the repository, never Google Drive.
 
-### EC2. A week's pay: 4 days? (open)
+### EC2. A week's pay: 4 days? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Weekly Salary: "Average Weekly salary assumes pay for every day." The spreadsheet: "Salary Per Week (~4 Days)".
 - **Why:** A week has 5 days, with Forrday as the weekend. I wrote "pay for every work day: about 4 a week". Right?
-- **Answer:**
-- **Change to the abridged text:** Says about 4 work days a week for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Yes.
+- **Change to the abridged text:** "pay for every work day: 4 a week, with Forrday off."
 
-### EC3. How much is a map? (open)
+### EC3. How much is a map? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Amethyst › Indirect Conversions: "Maps are usually priced at this rate for Aquamarine for more complex ones."
 - **Why:** I read it as "maps usually cost about an Amethyst; more complex ones an Aquamarine". Is that right?
-- **Answer:**
-- **Change to the abridged text:** Maps are left out until answered.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Yes.
+- **Change to the abridged text:** Maps added under Amethyst: "maps (more complex ones cost an Aquamarine)".
 
-### EC4. Freeish to Gandew: 3,293 km? (open)
+### EC4. Freeish to Gandew: 3,293 km? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** `Formulas - Economy.xlsx` › Distance Cost Calculator: Freeish Region ↔ Gandew Region 3293 km (every other region pair is a round number).
 - **Why:** Is 3,293 km intended, or a placeholder?
-- **Answer:**
-- **Change to the abridged text:** Shows 3,293 km for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > What would be the whole number for this? Also, we can put "~" on the whole number to make distances easy to display.
+- **Change to the abridged text:** Rounded to ~3,300 km (the nearest hundred), and every region distance now has "~" (~1,000 km, ~2,000 km, …). The spreadsheet is unchanged.
 
 ---
 
@@ -67,4 +75,3 @@ Status: **open** until answered. An open question means the abridged text leaves
 ## Left out on purpose
 
 - "D.T.C" read as "D.C.T" (Distance Cost Tier), and "Kingdown" as "Kingdom" (typos).
-- Maps, until EC3 is answered.

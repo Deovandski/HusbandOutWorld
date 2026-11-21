@@ -1,13 +1,13 @@
 ---
 source: Legacy/Behind The Scenes/World Lore/Education.md
-status: questions asked 2026-11-21 (see content/bts/qa/World Lore/Education.md)
+status: questions answered 2026-11-21 (see content/bts/qa/World Lore/Education.md)
 ---
 
 # Fundamental School
 
 Every kingdom and city has fundamental schools, where children learn reading and basic math.
 
-- **Who goes:** children from Profession Tiers III to VI usually start at around age 6. Children from Tiers I and II become apprentices in the same line of work instead, until they're promoted to masters at around 18. They attend classes more often than not.
+- **Who goes:** children from Profession Tiers III to VI usually start at around age 6. Children from Tiers I and II become apprentices in the same line of work instead, until they're promoted to masters at around 18, though most of them still attend classes.
 - **Skipping it:** anyone can take a replacement test at any school instead, to prove they have the fundamental knowledge.
 - **Cost:** about 1 Aquamarine, paid to your local school. Some places do it differently:
   - **Gandew:** free for Darfaries children (among many other free things, like Wooly Gyut Milk), who are trained heavily in the Gandew ways of living.
@@ -33,7 +33,7 @@ After fundamental school, children may go on to a specialized school. All nine a
 - **Adventurer School (#E8):** how Forway uses adventurers, and how best to keep the peace under Forway's control of the region: for example, a deep understanding of how each kingdom behaves, and threats not disclosed to the public. Usually taken together with Combat School or Soul Energy School.
 - **Soul Energy School (#E9):** Soul Energy and every available interface, while students grow their soul so they don't have to rely on nari stones. It's mostly research, for people who love Soul Energy but are afraid of becoming adventurers. Some study it to research on the go, or to find new niches that make money by supporting parties.
 
-**Cost:** 5 Sapphire for the whole program, including a room and simple meals: breakfast at Sunnilow and dinner at Sunnohigh.
+**Cost:** 5 Sapphire for the whole program, including a room and simple meals: breakfast at Sunnilow and a late lunch at Sunnohigh (some students don't eat after that).
 
 **Length:** about 4 years. Adventurer School takes only half a year.
 

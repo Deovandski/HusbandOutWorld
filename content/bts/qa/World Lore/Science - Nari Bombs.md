@@ -10,7 +10,7 @@ Every question asked of the author and his answer (word for word), every gap fil
 
 ## Questions for the author
 
-Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing. Asked as one batch on 2026-11-21 and answered the same day.
+Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing. Asked as one batch on 2026-11-21 and answered the same day (NB3, a follow-up, too).
 
 ### NB1. What does "Distance Cost Tier" mean? (answered)
 - **Asked:** 2026-11-21
@@ -30,12 +30,14 @@ Status: **open** until answered. An open question means the abridged text leaves
   > Yes. Water is the catalyst to start the smoke.
 - **Change to the abridged text:** Added: water is the catalyst that starts the smoke.
 
-### NB3. Which cost tier are nari bombs? (open, follow-up to NB1)
+### NB3. Which cost tier are nari bombs? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Signal/Smoke Bombs › Cost: "10\~30 Pearls for \~100g". Distance Cost Tier listed nari gels (copy/paste).
 - **Why:** With the nari gels dropped, the doc no longer says which tier nari bombs belong to. Which one (or ones) do signal/smoke bombs fall in?
-- **Answer:**
-- **Change to the abridged text:** Tiers III and IV say "Not assigned for nari bombs yet" for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Common goods
+- **Change to the abridged text:** The Distance Cost Tier section now lists nari bombs by tier: Tier II (Common Goods) has Signal/Smoke Bombs; Tiers I, III and IV have none. (The tiers are bullets inside that section in the raw doc, not entries, so they are written there instead of as separate sections.)
 
 ---
 

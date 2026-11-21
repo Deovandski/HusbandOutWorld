@@ -623,7 +623,7 @@ class Builder:
             blocks, refs = parse_lore(path)
             origin = rel(path)
             abridged = load_abridged(src)
-            category = None
+            category, used = None, set()
             for b in blocks:
                 b['origin'], b['refs'] = origin, refs
                 if b['kind'] == 'intro':
@@ -632,6 +632,7 @@ class Builder:
                     b['abridged'] = abridged[f"{norm(category['title'])}/{norm(b['title'])}"]
                 else:
                     b['abridged'] = abridged.get(norm(b['title']))
+                used.update(k for k, v in abridged.items() if v is b['abridged'])
                 if b['kind'] == 'intro':
                     if b['abridged'] is not None:
                         b['body'] = b['abridged']   # the intro is replaced outright (often a note to self)
@@ -647,6 +648,8 @@ class Builder:
                         category['entries'].append(b)
                     else:
                         entries.append(b)
+            for k in abridged.keys() - used:   # a heading in content/bts that matches no category or entry
+                print(f'warning: abridged section "{k}" in content/bts/{src} matches no category or entry', file=sys.stderr)
         # A to Z within each category (author's rule, see CLAUDE.md). Notes about the docs themselves
         # (Documentation Notation, Distance Cost Tier, Isekai History) stay first. Topics whose order means
         # something (a timeline, tiers, colour order) set "order": "source" in content/site.json.
