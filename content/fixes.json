@@ -107,5 +107,12 @@
       "replace": "prosperity treaty came into effect in 680 A.G.",
       "why": "The author's decision (issue #103, W3): the World Timeline's 680 A.G. is the official year the Prosperity Treaty came into effect."
     }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Races.md": [
+    {
+      "find": "[Race Soul Average](https://docs.google.com/spreadsheets/d/1q9UrwKl55S2Re40Ll8fPAq2Hu42qh93gK2v6FgDcSy0/edit#gid=1088297602)",
+      "replace": "[Race Soul Average](Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Soul%20Energy.xlsx)",
+      "why": "Points to the spreadsheet's copy in this repository (sheet \"Race Soul Avg\") instead of Google Sheets (the author's rule: link to the website or the repository, not Google Drive)."
+    }
   ]
 }
