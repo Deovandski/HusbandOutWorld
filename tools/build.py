@@ -590,6 +590,12 @@ class Builder:
         return (f'<figure class="art"><a class="img-link" href="{info["url"]}" data-full="{info["url"]}">'
                 f'<img src="{info["thumb"]}" alt="{esc(alt)}" loading="lazy"{w}></a>{cap}</figure>')
 
+    def abridged_block(self, abridged_md, raw_md, refs, origin, ids=None):
+        """Abridged Behind The Scenes text (issue #103), the AI note, and the raw notes behind a toggle (kept in English)."""
+        raw_html = self.md_bts_block(raw_md, refs, origin)
+        return (self.md_bts_block(abridged_md, refs, origin, ids=ids) + ABRIDGED_NOTE +
+                f'<details class="raw-notes" translate="no" lang="en"><summary>Show the original notes</summary>{raw_html}</details>')
+
     def md_bts_block(self, md, refs, origin, ids=None):
         return self.r.render(fix_typos(md, origin), base=os.path.join(ROOT, os.path.dirname(origin)), origin=origin, refs=refs, ids=ids)
 
@@ -708,7 +714,9 @@ class Builder:
                 body.append(f'<h2 class="category layer {cls}" id="{anchor}">{esc(b["title"])}</h2>')
                 page.toc.append((anchor, b['title'], cls, 'cat'))
                 if b['body'].strip():
-                    body.append(f'<div class="layer bts cat-notes">{self.md_bts_block(b["body"], b["refs"], b["origin"])}</div>')
+                    notes = (self.abridged_block(b['abridged'], b['body'], b['refs'], b['origin']) if b.get('abridged')
+                             else self.md_bts_block(b["body"], b["refs"], b["origin"]))
+                    body.append(f'<div class="layer bts cat-notes">{notes}</div>')
                     page.md_bts += f'## {b["title"]}\n\n{b["body"]}\n\n'
                 else:
                     page.md_bts += f'## {b["title"]}\n\n'
@@ -757,10 +765,7 @@ class Builder:
             if rest.strip() or wd:
                 bts_md = rest if pub_md == wd else e['body']
                 if e.get('abridged'):
-                    # abridged text first (AI-assisted, labeled), the raw Legacy notes behind a toggle (kept in English)
-                    raw_html = self.md_bts_block(bts_md, e["refs"], e["origin"])
-                    bts_html = (self.md_bts_block(e['abridged'], e["refs"], e["origin"], ids=ids) + ABRIDGED_NOTE +
-                                f'<details class="raw-notes" translate="no" lang="en"><summary>Show the original notes</summary>{raw_html}</details>')
+                    bts_html = self.abridged_block(e['abridged'], bts_md, e["refs"], e["origin"], ids=ids)
                 else:
                     bts_html = self.md_bts_block(bts_md, e["refs"], e["origin"], ids=ids)
                 if t.get('glyph_tables'):
