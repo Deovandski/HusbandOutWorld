@@ -1,11 +1,11 @@
 ---
 source: Legacy/Behind The Scenes/World Lore/World Map, Name, Vraki Calendar & UOM, etc.md
-status: questions asked 2026-11-21 (see content/bts/qa/World Lore/World Map, Name, Vraki Calendar & UOM, etc.md)
+status: questions answered 2026-11-21 (see content/bts/qa/World Lore/World Map, Name, Vraki Calendar & UOM, etc.md)
 ---
 
 # Vraki UOM
 
-Adrian (the same courtroom scientist who helped create the calendar) standardized every unit of measure, choosing the best ones already in use.
+Adrian (the same courtroom scientist who helped create the calendar) standardized every unit of measure. He was from Tolerideme, and the units' accuracy comes from Tolerideme's culture and its desire to standardize. Adrian also loved hunting, especially near Blood, so the units are named after it: Sorebone, for example, comes from "Soreno bones".
 
 | Measure | Vraki unit | About |
 |---|---|---|

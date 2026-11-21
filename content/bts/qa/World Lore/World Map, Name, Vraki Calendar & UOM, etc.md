@@ -10,16 +10,20 @@ Every question asked of the author and his answer (word for word), every gap fil
 
 ## Questions for the author
 
-Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing. Asked as one batch on 2026-11-21; W2–W4 answered the same day, W1 waits on context.
+Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing. Asked as one batch on 2026-11-21 and answered the same day (W1 after the author asked for context).
 
-### W1. Whose units did Adrian pick: Blood's or Tolerideme's? (open, context sent)
+### W1. Whose units did Adrian pick: Blood's or Tolerideme's? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Vraki UOM: "decided to standardize all UOMs based on the best UOMs being used around—which all happened to be from Blood due to their constant hunting nature." The public Economy & UOMs page: "the most accurate one in existence—which happened to be the Tolerideme Kingdom, coincidentally where he was from."
 - **Why:** The two disagree. Which is right?
 - **Reply:** 2026-11-21
 - **Reply (verbatim):**
   > Can you give me the paragraphs/URL where I say that? Need more context to make a decision.
-- **Change to the abridged text:** Still says only "choosing the best ones already in use". Both passages were sent to the author for context.
+- **Context sent:** both passages in full (the Vraki UOM note in this doc, and the public Economy & UOMs page, section Vraki UOMs), plus the World Timeline's "Adrian From North Tolerideme" (650 A.G.).
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Adrian is from Tolerideme, so the accuracy of it comes from the Tolerideme culture, and the desire to standardize. Adrian did love hunting, specially near Blood, so the name of the standards came from that, such as Sorebone coming from "Soreno bones"
+- **Change to the abridged text:** Vraki UOM now says Adrian was from Tolerideme, the units' accuracy comes from Tolerideme's culture and desire to standardize, and their names come from his hunting near Blood (Sorebone from "Soreno bones"). The raw note stays as written behind the toggle.
 
 ### W2. How heavy is a Sorebone? (answered)
 - **Asked:** 2026-11-21
@@ -76,8 +80,9 @@ Status: **open** until answered. An open question means the abridged text leaves
 - **Sources:** Name Schema (671 A.G.) vs World Timeline (680 A.G.). No novel gives the year.
 - **Settled by:** the author's decision (W3): 680 A.G.
 
-### Whose units (open, W1)
+### Whose units (settled)
 - **Sources:** this doc (Blood) vs the public Economy & UOMs page (Tolerideme).
+- **Settled by:** the author's decision (W1): both are true in part. The accuracy comes from Tolerideme (Adrian's home); the names come from his hunting near Blood.
 
 ## Left out on purpose
 
