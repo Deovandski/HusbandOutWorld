@@ -7,6 +7,7 @@ This is the #HusbandOutWorld series repo: the author's originals plus the websit
 - **Never invent lore.** Website text can be shortened, rearranged, labelled or typo-fixed, but every fact comes from Legacy. If the website and Legacy disagree, Legacy wins.
 - **Use the author's own wording.** If you see a grammar fix, offer it as a suggestion; don't make it silently.
 - **Two layers.** Public is what the old blog showed. Behind The Scenes adds the full notes and sits behind the spoiler toggle. Anything that wasn't public on the blog goes in the `bts` layer.
+- **Never remove `google0c08003a2b869d98.html`** (repo root). It verifies the site in Google Search Console, which checks it again from time to time; without it the site stops being verified. The build copies it to the site's root unchanged (`root_files()` in `tools/build.py`); don't edit it, move it or put it in `Legacy/`.
 
 ## World Lore format (always)
 - **Topics on the World Lore page are A to Z within each group** ("The World", "Peoples", "Soul Energy & Science", "Nature"). The build sorts them by their displayed title, and `content/site.json` lists them in the same order. When you add a topic, put it in its alphabetical place.
