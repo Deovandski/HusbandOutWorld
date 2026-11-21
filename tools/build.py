@@ -592,9 +592,11 @@ class Builder:
 
     def abridged_block(self, abridged_md, raw_md, refs, origin, ids=None):
         """Abridged Behind The Scenes text (issue #103), the AI note, and the raw notes behind a toggle (kept in English)."""
-        raw_html = self.md_bts_block(raw_md, refs, origin)
-        return (self.md_bts_block(abridged_md, refs, origin, ids=ids) + ABRIDGED_NOTE +
-                f'<details class="raw-notes" translate="no" lang="en"><summary>Show the original notes</summary>{raw_html}</details>')
+        html_out = self.md_bts_block(abridged_md, refs, origin, ids=ids) + ABRIDGED_NOTE
+        if raw_md.strip():   # a section heading with no raw notes of its own has nothing to show
+            raw_html = self.md_bts_block(raw_md, refs, origin)
+            html_out += f'<details class="raw-notes" translate="no" lang="en"><summary>Show the original notes</summary>{raw_html}</details>'
+        return html_out
 
     def md_bts_block(self, md, refs, origin, ids=None):
         return self.r.render(fix_typos(md, origin), base=os.path.join(ROOT, os.path.dirname(origin)), origin=origin, refs=refs, ids=ids)
@@ -713,7 +715,7 @@ class Builder:
                 anchor = 'cat-' + slugify(b['title'])
                 body.append(f'<h2 class="category layer {cls}" id="{anchor}">{esc(b["title"])}</h2>')
                 page.toc.append((anchor, b['title'], cls, 'cat'))
-                if b['body'].strip():
+                if b['body'].strip() or b.get('abridged'):
                     notes = (self.abridged_block(b['abridged'], b['body'], b['refs'], b['origin']) if b.get('abridged')
                              else self.md_bts_block(b["body"], b["refs"], b["origin"]))
                     body.append(f'<div class="layer bts cat-notes">{notes}</div>')

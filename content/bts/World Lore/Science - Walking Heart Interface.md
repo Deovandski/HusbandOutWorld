@@ -1,6 +1,6 @@
 ---
 source: Legacy/Behind The Scenes/World Lore/Science - Walking Heart Interface.md
-status: draft, questions open (see content/bts/qa/World Lore/Science - Walking Heart Interface.md)
+status: questions answered 2026-11-21 (see content/bts/qa/World Lore/Science - Walking Heart Interface.md)
 ---
 
 # Walking Heart Interface
@@ -38,6 +38,7 @@ As long as the person still has a soul, the stone keeps feeding off it to power 
 
 # Intelligence (Blue)
 
+- **Emotions:** neutral and balanced, and at worst emotionless: robotic, almost catatonic, a blank slate.
 - **Benefits:** memory, intellectual processing, planning, understanding knowledge.
 - **Drawbacks:** loses strength, agility, dexterity and stamina; likely a shorter lifespan.
 
@@ -50,5 +51,5 @@ As long as the person still has a soul, the stone keeps feeding off it to power 
 # Agility (Purple)
 
 - **Emotions likely to run rampant:** fear, terror, grief.
-- **Benefits:** faster healing.
+- **Benefits:** faster reflexes; faster healing.
 - **Drawback:** strength.

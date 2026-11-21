@@ -1,6 +1,6 @@
 ---
 source: Legacy/Behind The Scenes/World Lore/Soul Energy - Buhraies Interface.md
-status: draft, questions open (see content/bts/qa/World Lore/Soul Energy - Buhraies Interface.md)
+status: questions answered 2026-11-21 (see content/bts/qa/World Lore/Soul Energy - Buhraies Interface.md)
 ---
 
 # Buhraies Interface
@@ -11,7 +11,7 @@ Soul energy shapes the spell using logograms drawn from the knowledge shared by 
 
 #### Interface shells
 
-When a spell is cast, five rings appear around the hand holding it. Each shell holds a limited number of soul energy tiers:
+When a spell is cast, five rings appear around the hand holding it. Each shell, on its own, holds a limited number of soul energy tiers:
 
 | Shell | Tiers |
 |---|---|
@@ -20,6 +20,8 @@ When a spell is cast, five rings appear around the hand holding it. Each shell h
 | III | 18 |
 | IV | 32 |
 | V (largest, farthest from the hand) | 50 |
+
+Nobody has ever maxed it out to know what would happen. The current theory is that going past the theoretical maximum would make the whole thing explode, possibly in a White Hole event.
 
 #### Casting a spell
 
@@ -64,4 +66,4 @@ Alters the target's body DNA according to the caster's desires.
 
 ![][image7]
 
-**Tiers:** the mass affected (in kg) follows the General Power Effects. Because it changes the genetic information, not the soul, the change stays even after Body Restore, as long as the genetic information isn't lost.
+**Tiers:** the mass affected follows the General Power Effects: 0.1 kg at Tier I, doubling with every tier (51.2 kg at Tier X). Because it changes the genetic information, not the soul, the change stays even after Body Restore, as long as the genetic information isn't lost.

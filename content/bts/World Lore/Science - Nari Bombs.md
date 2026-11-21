@@ -1,12 +1,31 @@
 ---
 source: Legacy/Behind The Scenes/World Lore/Science - Nari Bombs.md
-status: draft, questions open (see content/bts/qa/World Lore/Science - Nari Bombs.md)
-note: Distance Cost Tier is left raw until NB1 is answered.
+status: questions answered 2026-11-21 (see content/bts/qa/World Lore/Science - Nari Bombs.md)
 ---
+
+# Distance Cost Tier
+
+Goods are sorted into four tiers by how they look to a common person in Vraki: from cheap things anyone buys, to things only the very rich can afford (a common person might buy something as expensive as one sapphire once in their lifetime; for a really rich person, that's ordinary). The boundaries between tiers are blurry on purpose: it's a spectrum, and the tiers just help picture it.
+
+# Tier I (Cheap Goods)
+
+No nari bombs in this tier.
+
+# Tier II (Common Goods)
+
+No nari bombs in this tier.
+
+# Tier III (Expensive Goods)
+
+Not assigned for nari bombs yet.
+
+# Tier IV (Nobility Goods)
+
+Not assigned for nari bombs yet.
 
 # Signal/Smoke Bombs
 
-Adventurers use smoke bombs to signal each other. A bomb is set off alongside a Mist Create spell and fired upward, or dropped in water. Forway Law made the colors official, and misusing them is punished:
+Adventurers use smoke bombs to signal each other. A bomb is set off alongside a Mist Create spell and fired upward, or dropped in water: water is the catalyst that starts the smoke. Forway Law made the colors official, and misusing them is punished:
 
 | Color | Meaning |
 |---|---|

@@ -10,21 +10,25 @@ Every question asked of the author and his answer (word for word), every gap fil
 
 ## Questions for the author
 
-Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing. Asked as one batch on 2026-11-21.
+Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing. Asked as one batch on 2026-11-21 and answered the same day.
 
-### WH1. What does "Increased Reflection time" mean? (open)
+### WH1. What does "Increased Reflection time" mean? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Agility (Purple) › Benefits: "Increased Reflection time"
 - **Why:** Is it faster reflexes (a quicker reaction time)? Or something else, like time to think?
-- **Answer:**
-- **Change to the abridged text:** Left out until answered (only "faster healing" is kept).
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > yes.
+- **Change to the abridged text:** Agility benefits now include faster reflexes.
 
-### WH2. What happens to the emotions of a blue (Intelligence) stone? (open)
+### WH2. What happens to the emotions of a blue (Intelligence) stone? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Intelligence (Blue) › Emotions (likely to go rampant): "Neutral · Balanced · \*Emotionless"
 - **Why:** The other colors list emotions that run rampant. For blue, do people become neutral and balanced, and at worst emotionless? What does the asterisk on "Emotionless" mean?
-- **Answer:**
-- **Change to the abridged text:** Left out until answered.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > the asterisks it was me further defining it. Emotionless, robotic, almost catatonic, tabula rasa is what I meant to say.
+- **Change to the abridged text:** Intelligence (Blue) now has: neutral and balanced, and at worst emotionless: robotic, almost catatonic, a blank slate.
 
 ---
 
