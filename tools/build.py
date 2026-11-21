@@ -431,6 +431,30 @@ def parse_lore(path):
         del b['lines']
     return blocks, refs
 
+ABRIDGED = os.path.join(CONTENT, 'bts')   # abridged Behind The Scenes text (issue #103)
+
+def load_abridged(src):
+    """The abridged version of a Behind The Scenes doc, if there is one: {norm(entry title): Markdown}.
+    content/bts/<same path as under Legacy/Behind The Scenes>, with one "# <entry title>" per abridged entry.
+    "# _intro" replaces the doc's intro (empty hides it). Entries not listed fall back to the raw Legacy text."""
+    path = os.path.join(ABRIDGED, src)
+    if not os.path.exists(path):
+        return {}
+    text = open(path, encoding='utf-8').read()
+    text = re.sub(r'^---\n.*?\n---\n', '', text, count=1, flags=re.S)   # front matter: notes for editors
+    out, cur = {}, None
+    for line in text.split('\n'):
+        m = re.match(r'^# (.+?)\s*$', line)
+        if m:
+            cur = norm(m.group(1)) if m.group(1) != '_intro' else '_intro'
+            out[cur] = []
+        elif cur is not None:
+            out[cur].append(line)
+    return {k: '\n'.join(v).strip('\n') for k, v in out.items()}
+
+ABRIDGED_NOTE = ('<p class="abridged-note">Abridged from the author\'s original notes with the help of AI: his ramblings and '
+                 'brain dumps rewritten into a more readable form. The original notes are below, and kept in the repository.</p>')
+
 WD_RE = re.compile(r'^(\s*)[*-] \*\*(?:Website Description|Web Description)\*\*\s*$', re.I)
 
 def extract_website_description(body):
@@ -587,10 +611,14 @@ class Builder:
             page.sources.append(rel(path))
             blocks, refs = parse_lore(path)
             origin = rel(path)
+            abridged = load_abridged(src)
             category = None
             for b in blocks:
                 b['origin'], b['refs'] = origin, refs
+                b['abridged'] = abridged.get('_intro' if b['kind'] == 'intro' else norm(b['title']))
                 if b['kind'] == 'intro':
+                    if b['abridged'] is not None:
+                        b['body'] = b['abridged']   # the intro is replaced outright (often a note to self)
                     if b['body'].strip():
                         intro_bts.append(b)
                 elif b['kind'] == 'category':
@@ -728,7 +756,13 @@ class Builder:
                          f'<p class="src src-pub">Public text: {esc(pub_src)}</p></div>')
             if rest.strip() or wd:
                 bts_md = rest if pub_md == wd else e['body']
-                bts_html = self.md_bts_block(bts_md, e["refs"], e["origin"], ids=ids)
+                if e.get('abridged'):
+                    # abridged text first (AI-assisted, labeled), the raw Legacy notes behind a toggle (kept in English)
+                    raw_html = self.md_bts_block(bts_md, e["refs"], e["origin"])
+                    bts_html = (self.md_bts_block(e['abridged'], e["refs"], e["origin"], ids=ids) + ABRIDGED_NOTE +
+                                f'<details class="raw-notes" translate="no" lang="en"><summary>Show the original notes</summary>{raw_html}</details>')
+                else:
+                    bts_html = self.md_bts_block(bts_md, e["refs"], e["origin"], ids=ids)
                 if t.get('glyph_tables'):
                     bts_html = glyph_grids(bts_html, e['title'])
                 if e['title'] == t.get('scribe_in'):
@@ -738,7 +772,8 @@ class Builder:
                     if info:
                         self.used_art.add(info['src'])
                         bts_html += self.figure(info, os.path.splitext(os.path.basename(ap))[0]).replace('<figure class="art">', '<figure class="art wide">')
-                h.append(f'<div class="layer bts">{"" if pub_md else fig}<p class="bts-label">Behind the Scenes · full notes</p>'
+                label = 'Behind the Scenes · notes, abridged' if e.get('abridged') else 'Behind the Scenes · full notes'
+                h.append(f'<div class="layer bts">{"" if pub_md else fig}<p class="bts-label">{label}</p>'
                          f'{bts_html}'
                          f'<p class="src">Source: <a href="{gh_link(os.path.join(ROOT, e["origin"]))}">{esc(e["origin"])}</a></p></div>')
             h.append('</section>')
@@ -752,7 +787,7 @@ class Builder:
                                       'public': bool(pub_md), 'desc': gl_desc,
                                       'category': (e.get('category') or {}).get('title', '')})
             page.search.append({'t': e['title'], 'u': url + '#' + anchor, 's': t['title'],
-                                'x': first_sentences(pub_md or '', 300), 'xb': first_sentences(e['body'], 400),
+                                'x': first_sentences(pub_md or '', 300), 'xb': first_sentences(e.get('abridged') or e['body'], 400),
                                 'b': layer == 'bts'})
             section = t['title'] if norm(e['title']) == norm(t['title']) else f'{t["title"]} · {e["title"]}'
             page.search.extend(sub_heading_search(pub_html, bts_html, url, section,
