@@ -19,6 +19,10 @@
   "en": "As you feed a specific command and energy into the interface, you will see balls representing the command. You can never mix and match commands; only one command + energy + release may be executed. Below is a plain reference of the different ball statuses",
   "t": "เมื่อคุณป้อนคำสั่งและพลังงานเฉพาะเข้าสู่อินเทอร์เฟซ คุณจะเห็นบอลที่แทนคำสั่งนั้น คุณผสมคำสั่งไม่ได้เด็ดขาด ทำได้เพียงหนึ่งคำสั่ง + พลังงาน + ปล่อย ด้านล่างคือข้อมูลอ้างอิงอย่างง่ายของสถานะบอลแบบต่างๆ"
  },
+ "11aa2b4fa9b9": {
+  "en": "Full Darfaries Interface - scribling and soul energy stone mode (video)",
+  "t": "อินเทอร์เฟซดาร์แฟรีส์ฉบับเต็ม - โหมดขีดเขียนและหินพลังวิญญาณ (วิดีโอ)"
+ },
  "12ef1365e090": {
   "en": "But hey, at least your best friend might be honored to be stuffed and cooked—vorarephilia is a thing anyways.",
   "t": "แต่เฮ้ อย่างน้อยเพื่อนรักของคุณอาจรู้สึกเป็นเกียรติที่ได้ถูกยัดไส้และปรุงสุก—ยังไงวอราเรฟิเลียก็มีอยู่จริง"
@@ -143,6 +147,10 @@
   "en": "Forway considered banning non-logogram usage of this interface in the early 800s A.G., but the scientific community's pushback was too strong. Community opinion shifted in the early 900s A.G. after many scientific tragedies occurred without clear progress. By the late 900s A.G., only fringe scientists like Gabiro Sundeath (also known as Gabiro Sanbi Royal) seemed to be still investigating it.",
   "t": "ฟอร์เวย์เคยพิจารณาห้ามการใช้อินเทอร์เฟซนี้โดยไม่มีโลโกแกรมในต้นทศวรรษ 800 A.G. แต่แรงต้านจากวงการวิทยาศาสตร์รุนแรงเกินไป ความเห็นของวงการเปลี่ยนไปในต้นทศวรรษ 900 A.G. หลังเกิดโศกนาฏกรรมทางวิทยาศาสตร์มากมายโดยไม่มีความก้าวหน้าชัดเจน พอถึงปลายทศวรรษ 900 A.G. ดูเหมือนจะเหลือแค่นักวิทยาศาสตร์นอกกระแสอย่างกาบีโร ซันเดธ (หรือที่รู้จักในชื่อกาบีโร ซันบี รอยัล) ที่ยังศึกษามันอยู่"
  },
+ "7c67e01db87c": {
+  "en": "Full Darfaries Interface - Sigil and Nari stone mode",
+  "t": "อินเทอร์เฟซดาร์แฟรีส์ฉบับเต็ม - โหมดซิจิลและหินนาริ"
+ },
  "7df913eb7771": {
   "en": "Ring #2: 8",
   "t": "วงแหวน #2: 8"
@@ -150,10 +158,6 @@
  "804cb96bfdea": {
   "en": "To release the spell, unclench the fingers. To add motion to the spell, cock your arm, then throw it towards the target to transfer the inertia into the spell.",
   "t": "เพื่อปล่อยคาถา ให้คลายนิ้วที่กำอยู่ เพื่อเพิ่มการเคลื่อนที่ให้คาถา ให้ง้างแขนแล้วขว้างไปยังเป้าหมายเพื่อถ่ายแรงเฉื่อยเข้าสู่คาถา"
- },
- "83892db6fdb4": {
-  "en": "Applying command",
-  "t": "การใส่คำสั่ง"
  },
  "889505c1f708": {
   "en": "This widely-known interface came up as a merger between the ancient species Fuhraies’s, Buhraies’s, and Lishies’s genetics and their own interfaces.",
@@ -171,10 +175,6 @@
   "en": "Sigil rings are a modern and quicker way to interact with the Darfaries Interface. Without it, one must draw the logograms into the skin of their palm, which can be a lengthy process, even for seasoned adventurers. Dangerous, too, as if you draw something unclear as it could cause the interface to default to your thoughts, and you needlessly turn your best friend into a fanchaki all because you thought about what’s cooking for dinner while casting it. And if you’re really messing with the soul, even if by accident, you might never find a way to undo it.",
   "t": "แหวนซิจิลเป็นวิธีที่ทันสมัยและเร็วกว่าในการใช้อินเทอร์เฟซดาร์แฟรีส์ หากไม่มี คนเราต้องวาดโลโกแกรมลงบนผิวฝ่ามือ ซึ่งอาจใช้เวลานาน แม้แต่สำหรับนักผจญภัยผู้ช่ำชอง อันตรายด้วย เพราะถ้าคุณวาดอะไรไม่ชัด มันอาจทำให้อินเทอร์เฟซหันไปใช้ความคิดของคุณแทน แล้วคุณก็เปลี่ยนเพื่อนรักเป็นฟานชากิโดยใช่เหตุ เพียงเพราะคุณนึกถึงเมนูมื้อเย็นขณะร่าย และถ้าคุณไปยุ่งกับวิญญาณจริงๆ แม้โดยบังเอิญ คุณอาจไม่มีวันหาทางแก้ได้"
  },
- "a2a069ddeee8": {
-  "en": "Feeding energy",
-  "t": "การป้อนพลังงาน"
- },
  "a2b9afce0d53": {
   "en": "Ring #4: 32*",
   "t": "วงแหวน #4: 32*"
@@ -187,6 +187,10 @@
   "en": "Using The Interface - Release",
   "t": "การใช้อินเทอร์เฟซ - การปล่อย"
  },
+ "a8fe88bccc82": {
+  "en": "Full Darfaries Interface - scribling and soul energy stone mode",
+  "t": "อินเทอร์เฟซดาร์แฟรีส์ฉบับเต็ม - โหมดขีดเขียนและหินพลังวิญญาณ"
+ },
  "ad789405eb37": {
   "en": "Compound objects",
   "t": "วัตถุผสม"
@@ -194,6 +198,10 @@
  "b4801c89826b": {
   "en": "Due to their size, Darfaries cannot fly, but they can somewhat dampen their fall from approximately three-story buildings. Wozefaries can dampen their fall from up to ten-story buildings, while Sorefaries can control their attitude at will, and even carry some weight with them. The weight depends on the Sorefaries’ strength, dexterity, and soul energy capacity.",
   "t": "ด้วยขนาดตัว ดาร์แฟรีส์จึงบินไม่ได้ แต่พวกเขาลดแรงตกจากอาคารสูงประมาณสามชั้นได้บ้าง โวซแฟรีส์ลดแรงตกจากอาคารสูงถึงสิบชั้นได้ ส่วนซอร์แฟรีส์ควบคุมท่าทางได้ตามใจ และยังแบกน้ำหนักไปด้วยได้บ้าง น้ำหนักขึ้นอยู่กับความแข็งแรง ความคล่องแคล่ว และความจุพลังวิญญาณของซอร์แฟรีส์ตนนั้น"
+ },
+ "c0074aa34b2d": {
+  "en": "Darfaries Interface Video showcase",
+  "t": "วิดีโอสาธิตอินเทอร์เฟซดาร์แฟรีส์"
  },
  "c8c7488b1383": {
   "en": "Environmental changes, especially creation, destruction, and manipulation of elemental properties such as water, fire, terrain, and gravity, are commonly performed through this interface.",
@@ -215,10 +223,6 @@
   "en": "Public text: science-darfaries-interface.md",
   "t": "ข้อความสาธารณะ: science-darfaries-interface.md"
  },
- "d9aac905e22d": {
-  "en": "Video versions",
-  "t": "ฉบับวิดีโอ"
- },
  "de1369b50eb5": {
   "en": "Not to say humans can’t use this interface. They certainly can! Although, only if they have shared blood with Darfaries or Wozefaries in their family.",
   "t": "ไม่ใช่ว่ามนุษย์ใช้อินเทอร์เฟซนี้ไม่ได้ ใช้ได้แน่นอน! แต่ต้องมีสายเลือดร่วมกับดาร์แฟรีส์หรือโวซแฟรีส์ในครอบครัวเท่านั้น"
@@ -226,6 +230,10 @@
  "ded446aabbba": {
   "en": "Now you must make a fist with your other hand. If you can use this interface, a distinct group of five rings will surge from the white flames in your arms and expand outward, with the smallest ring closer to your wrist.",
   "t": "ตอนนี้คุณต้องกำหมัดด้วยมืออีกข้าง ถ้าคุณใช้อินเทอร์เฟซนี้ได้ จะมีวงแหวนห้าวงอันโดดเด่นพุ่งออกมาจากเปลวไฟสีขาวที่แขนและขยายออก โดยวงที่เล็กที่สุดอยู่ใกล้ข้อมือ"
+ },
+ "e5df83155e66": {
+  "en": "Full Darfaries Interface - Sigil and Nari stone mode (video)",
+  "t": "อินเทอร์เฟซดาร์แฟรีส์ฉบับเต็ม - โหมดซิจิลและหินนาริ (วิดีโอ)"
  },
  "e693f60ced95": {
   "en": "It is a simple trial in which random passersby are asked to use the experimental sigil ring. If any result is a miscast, the compound object is not approved.",

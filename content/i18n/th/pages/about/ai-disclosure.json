@@ -1,4 +1,8 @@
 {
+ "06672e9dc70f": {
+  "en": "The Forway city emblem and three existing illustrations (human), used for the app icon and the shortcut icons. The code is adapted from the Deovandski site's app (PR #160).",
+  "t": "ตราประจำเมืองฟอร์เวย์และภาพประกอบที่มีอยู่แล้วสามภาพ (ฝีมือมนุษย์) ใช้ทำไอคอนแอปและไอคอนทางลัด โค้ดดัดแปลงมาจากแอปของเว็บไซต์ Deovandski (PR #160)"
+ },
  "1014c3427fd9": {
   "en": "The <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> workflow.",
   "t": "เวิร์กโฟลว์ของ <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a>"
@@ -35,6 +39,10 @@
   "en": "Contributing",
   "t": "การมีส่วนร่วม"
  },
+ "2d88e0a6c449": {
+  "en": "Written by the AI at his direct instruction. Each entry pairs a line or two of the draft with his comments (word for word) and answer, notes what the World Lore already says, proposes additions, and records his approval. The World Lore lines added this way are listed in each entry's \"Applied\" section rather than here.",
+  "t": "เขียนโดย AI ตามคำสั่งโดยตรงของเขา แต่ละรายการจับคู่บรรทัดหนึ่งหรือสองบรรทัดจากร่างกับความเห็นของเขา (คำต่อคำ) และคำตอบ บันทึกว่าตำนานโลกระบุอะไรไว้แล้ว เสนอส่วนเพิ่มเติม และบันทึกการอนุมัติของเขา บรรทัดตำนานโลกที่เพิ่มด้วยวิธีนี้ระบุไว้ในส่วน \"Applied\" ของแต่ละรายการแทนที่จะอยู่ที่นี่"
+ },
  "30fa617c63c2": {
   "en": "The palette comes from the Forway city emblem, the headings' Vraki script from the Vraki font (human). Body font: TeX Gyre Schola (GUST Font License), the same as the <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> site.",
   "t": "ชุดสีมาจากตราประจำเมืองฟอร์เวย์ อักษรวรากีในหัวเรื่องมาจากฟอนต์วรากี (มนุษย์) ฟอนต์เนื้อความ: TeX Gyre Schola (GUST Font License) เหมือนกับเว็บไซต์ <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a>"
@@ -70,6 +78,14 @@
  "43005656bb78": {
   "en": "content/alt-text.json",
   "t": "content/alt-text.json"
+ },
+ "443dc8f2889c": {
+  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, ending that mantra with \"!\" like the others, and rewording one sentence near the end about raising a family. Later the same month, again at his direct instruction, the AI replaced the Vol 4 afterword's ghostwriter paragraph (\"If this series somehow explodes…\") with his new version, which adds how the collaboration with the ghostwriter went, and replaced the paragraph after it (\"And no. I didn't use AI…\") with his new version, which lists more of what Claude was used for.",
+  "t": "แปลงหน้าที่ยังใช้งานอยู่ทั้ง 33 หน้าจาก HTML เป็น Markdown แบบคำต่อคำด้วย <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a> ชี้ภาพในบล็อกไปยังไฟล์ที่ตรงกันใน Behind The Scenes เมื่อเป็นภาพเดียวกัน ข้อยกเว้น: ในเดือนพฤศจิกายน 2026 Deovandski แก้ไขปัจฉิมลิขิตเล่ม 4 ของเขา (<code>afterwords.md</code>) โดยเพิ่มคติใหม่และเขียนตอนจบใหม่ให้ปิดท้ายด้วยคำคมจาก Hávamál AI พิมพ์การแก้ไขเหล่านั้นตามคำสั่งที่ชัดเจนของเขา รวมถึงเปลี่ยน \"two new ones\" เป็น \"three new ones\" หลังจากเขาเพิ่มคติเรื่องเมล็ดพันธุ์/การเก็บเกี่ยวเอง ปิดท้ายคติข้อนั้นด้วย \"!\" เหมือนข้ออื่นๆ และเรียบเรียงประโยคหนึ่งใกล้ตอนจบเรื่องการสร้างครอบครัวใหม่ ต่อมาในเดือนเดียวกัน ตามคำสั่งโดยตรงของเขาอีกครั้ง AI ได้แทนที่ย่อหน้าเรื่องนักเขียนเงาในปัจฉิมลิขิตเล่ม 4 (\"ถ้าซีรีส์นี้ระเบิดดังขึ้นมาได้…\") ด้วยฉบับใหม่ของเขา ซึ่งเพิ่มเรื่องว่าการร่วมงานกับนักเขียนเงาเป็นอย่างไร และแทนที่ย่อหน้าถัดไป (\"และไม่ ผมไม่ได้ใช้ AI…\") ด้วยฉบับใหม่ของเขา ซึ่งระบุสิ่งที่ใช้ Claude ทำมากขึ้น"
+ },
+ "480d6113fe94": {
+  "en": "<strong>Written by the AI:</strong> the app manifest, the icon generator (resizes and crops copies; the originals are only read), the service worker that keeps opened pages readable offline, and its offline notice.",
+  "t": "<strong>เขียนโดย AI:</strong> แมนิเฟสต์ของแอป ตัวสร้างไอคอน (ย่อขยายและครอปสำเนา ส่วนต้นฉบับถูกอ่านเท่านั้น) service worker ที่ทำให้หน้าที่เคยเปิดยังอ่านได้แบบออฟไลน์ และข้อความแจ้งเมื่อออฟไลน์"
  },
  "4d3adbe367b3": {
   "en": "Written by the AI.",
@@ -119,6 +135,10 @@
   "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0.",
   "t": "© Deovandski Skibinski Junior เผยแพร่ภายใต้สัญญาอนุญาต CC‑BY‑NC‑SA‑4.0"
  },
+ "70e52c0d9602": {
+  "en": "Deovandski's review comments on the ghostwriter's Vol 4 drafts, and his approval notes.",
+  "t": "ความเห็นตรวจทานของ Deovandski ต่อร่างเล่ม 4 ของนักเขียนเงา และบันทึกการอนุมัติของเขา"
+ },
  "799d8f14e5b5": {
   "en": "Where it comes from",
   "t": "มาจากไหน"
@@ -143,10 +163,6 @@
   "en": "Built automatically: each term, its topic, and the first sentence or two of its description, cut from the author's text.",
   "t": "สร้างโดยอัตโนมัติ: แต่ละคำ หัวข้อของคำนั้น และประโยคแรกหนึ่งหรือสองประโยคของคำอธิบาย ตัดมาจากข้อความของผู้เขียน"
  },
- "8839c9eb7b2f": {
-  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, ending that mantra with \"!\" like the others, and rewording one sentence near the end about raising a family.",
-  "t": "แปลงหน้าที่ยังใช้งานอยู่ทั้ง 33 หน้าจาก HTML เป็น Markdown แบบคำต่อคำด้วย <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a> ชี้ภาพในบล็อกไปยังไฟล์ที่ตรงกันใน Behind The Scenes เมื่อเป็นภาพเดียวกัน ข้อยกเว้น: ในเดือนพฤศจิกายน 2026 Deovandski แก้ไขปัจฉิมลิขิตเล่ม 4 ของเขา (<code>afterwords.md</code>) โดยเพิ่มคติใหม่และเขียนตอนจบใหม่ให้ปิดท้ายด้วยคำคมจาก Hávamál AI พิมพ์การแก้ไขเหล่านั้นตามคำสั่งที่ชัดเจนของเขา รวมถึงเปลี่ยน \"two new ones\" เป็น \"three new ones\" หลังจากเขาเพิ่มคติเรื่องเมล็ดพันธุ์/การเก็บเกี่ยวเอง ปิดท้ายคติข้อนั้นด้วย \"!\" เหมือนข้ออื่นๆ และเรียบเรียงประโยคหนึ่งใกล้ตอนจบเรื่องการสร้างครอบครัวใหม่"
- },
  "894948ec60db": {
   "en": "<strong>The translations are AI-written, and every translated page says so.</strong> The website is also offered in other languages (pick one in Settings). Claude translated the author's text ahead of time (it is not machine translation on the fly), following the author's rules: names are written by sound, never translated. Each translated page carries a banner saying it was AI-translated from the original works, with a link to the English original. English is the source; if a translation and the English disagree, the English wins.",
   "t": "<strong>คำแปลเขียนโดย AI และทุกหน้าที่แปลแล้วระบุไว้</strong> เว็บไซต์นี้มีให้อ่านในภาษาอื่นด้วย (เลือกได้ในการตั้งค่า) Claude แปลข้อความของผู้เขียนไว้ล่วงหน้า (ไม่ใช่การแปลด้วยเครื่องแบบสด) ตามกฎของผู้เขียน: ชื่อเขียนตามเสียง ไม่แปลความหมายเด็ดขาด ทุกหน้าที่แปลแล้วมีแถบแจ้งว่าแปลโดย AI จากผลงานต้นฉบับ พร้อมลิงก์ไปยังต้นฉบับภาษาอังกฤษ ภาษาอังกฤษคือต้นฉบับ หากคำแปลกับภาษาอังกฤษไม่ตรงกัน ให้ยึดภาษาอังกฤษ"
@@ -163,13 +179,13 @@
   "en": "World Lore pages",
   "t": "หน้าตำนานโลก"
  },
- "8ea27392922d": {
-  "en": "Moved them into this folder without editing them. The one exception: at Deovandski's request, the Vraki typeface license (<code>Logo and Font/LICENSE.md</code>) now names LinkedIn and email as the way to ask for commercial approval.",
-  "t": "ย้ายเข้ามาในโฟลเดอร์นี้โดยไม่แก้ไข ข้อยกเว้นเดียว: ตามคำขอของ Deovandski สัญญาอนุญาตแบบอักษรวรากี (<code>Logo and Font/LICENSE.md</code>) ตอนนี้ระบุ LinkedIn และอีเมลเป็นช่องทางขออนุมัติเชิงพาณิชย์"
- },
  "91ea456b6a05": {
   "en": "<strong>Translated by the AI</strong> into each language in the Settings list, paragraph by paragraph, with <a href=\"tools/i18n.py\">tools/i18n.py</a>. The name spellings in each <code>glossary.json</code> follow the author's rule (by sound, never translated). Every translated page is labeled as AI-translated.",
   "t": "<strong>แปลโดย AI</strong> เป็นทุกภาษาในรายการการตั้งค่า ทีละย่อหน้า ด้วย <a href=\"tools/i18n.py\">tools/i18n.py</a> การสะกดชื่อในแต่ละ <code>glossary.json</code> เป็นไปตามกฎของผู้เขียน (ตามเสียง ไม่แปลความหมายเด็ดขาด) ทุกหน้าที่แปลแล้วระบุว่าแปลโดย AI"
+ },
+ "94cb765d473b": {
+  "en": "Moved them into this folder without editing them. The one exception: at Deovandski's request, the Vraki typeface license (<code>Logo and Font/LICENSE.md</code>) now names LinkedIn and email as the way to ask for commercial approval. Also at his request (\"Bypass due to content mod\", issue #79), two explicit pictures embedded in the story notes (Arc #2 and Arc #3, <code>[image4]</code> in each) were replaced with copies blurred by 50%. Also the World Lore additions Deovandski approved in <a href=\"Legacy/Behind%20The%20Scenes/World%20Lore%20Q%26A\">World Lore Q&amp;A</a> (in the repo, each added line points back to its entry; the website leaves those pointers out).",
+  "t": "ย้ายเข้ามาในโฟลเดอร์นี้โดยไม่แก้ไข ข้อยกเว้นเดียว: ตามคำขอของ Deovandski สัญญาอนุญาตแบบอักษรวรากี (<code>Logo and Font/LICENSE.md</code>) ตอนนี้ระบุ LinkedIn และอีเมลเป็นช่องทางขออนุมัติเชิงพาณิชย์ ตามคำขอของเขาเช่นกัน (\"Bypass due to content mod\", issue #79) ภาพโจ่งแจ้งสองภาพที่ฝังอยู่ในบันทึกเรื่อง (Arc #2 และ Arc #3 คือ <code>[image4]</code> ในแต่ละไฟล์) ถูกแทนที่ด้วยสำเนาที่เบลอ 50% และยังรวมถึงส่วนที่เพิ่มในตำนานโลกที่ Deovandski อนุมัติใน <a href=\"Legacy/Behind%20The%20Scenes/World%20Lore%20Q%26A\">World Lore Q&amp;A</a> (ใน repo แต่ละบรรทัดที่เพิ่มจะชี้กลับไปยังรายการของมัน ส่วนเว็บไซต์ตัดตัวชี้เหล่านั้นออก)"
  },
  "94f64ad638e3": {
   "en": "Written by the AI, for accessibility (see above).",
@@ -215,6 +231,10 @@
   "en": "<strong>The website shows the author's own words.</strong> The novel chapters, the public descriptions (from the old blog) and the Behind The Scenes notes (from the original docs) are displayed as written. The AI's job was to arrange them, not to rewrite them.",
   "t": "<strong>เว็บไซต์แสดงถ้อยคำของผู้เขียนเอง</strong> บทต่างๆ ของนิยาย คำบรรยายสาธารณะ (จากบล็อกเก่า) และบันทึกเบื้องหลัง (จากเอกสารต้นฉบับ) แสดงตามที่เขียนไว้ หน้าที่ของ AI คือจัดเรียง ไม่ใช่เขียนใหม่"
  },
+ "ae796b80756f": {
+  "en": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (installable app)",
+  "t": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (แอปที่ติดตั้งได้)"
+ },
  "aff9c732ee00": {
   "en": "Attribution statement",
   "t": "คำแถลงการระบุที่มา"
@@ -230,6 +250,10 @@
  "b7adb938bc6e": {
   "en": "AI-readable files (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, a Markdown copy of every page, and <code>data/*.json</code>)",
   "t": "ไฟล์ที่ AI อ่านได้ (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code> สำเนา Markdown ของทุกหน้า และ <code>data/*.json</code>)"
+ },
+ "b94e00dc84fc": {
+  "en": "Legacy/Behind The Scenes/World Lore Q&amp;A",
+  "t": "Legacy/Behind The Scenes/World Lore Q&amp;A"
  },
  "c39f6c800ffc": {
   "en": "content/summaries.json",

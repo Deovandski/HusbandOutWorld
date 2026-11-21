@@ -1,4 +1,8 @@
 {
+ "06672e9dc70f": {
+  "en": "The Forway city emblem and three existing illustrations (human), used for the app icon and the shortcut icons. The code is adapted from the Deovandski site's app (PR #160).",
+  "t": "El emblema de la ciudad de Forway y tres ilustraciones existentes (humanas), usados para el icono de la app y los iconos de acceso directo. El código está adaptado de la app del sitio de Deovandski (PR #160)."
+ },
  "1014c3427fd9": {
   "en": "The <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> workflow.",
   "t": "El workflow de la <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a>."
@@ -35,6 +39,10 @@
   "en": "Contributing",
   "t": "Cómo contribuir"
  },
+ "2d88e0a6c449": {
+  "en": "Written by the AI at his direct instruction. Each entry pairs a line or two of the draft with his comments (word for word) and answer, notes what the World Lore already says, proposes additions, and records his approval. The World Lore lines added this way are listed in each entry's \"Applied\" section rather than here.",
+  "t": "Escrito por la IA siguiendo sus instrucciones directas. Cada entrada empareja una o dos líneas del borrador con sus comentarios (palabra por palabra) y su respuesta, anota lo que ya dice la lore del mundo, propone añadidos y deja constancia de su aprobación. Las líneas de la lore del mundo añadidas así aparecen en la sección «Applied» de cada entrada, no aquí."
+ },
  "30fa617c63c2": {
   "en": "The palette comes from the Forway city emblem, the headings' Vraki script from the Vraki font (human). Body font: TeX Gyre Schola (GUST Font License), the same as the <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> site.",
   "t": "La paleta viene del emblema de la ciudad de Forway, y la escritura Vraki de los títulos, de la fuente Vraki (humanas). Fuente del texto: TeX Gyre Schola (GUST Font License), la misma que la web de la <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a>."
@@ -70,6 +78,14 @@
  "43005656bb78": {
   "en": "content/alt-text.json",
   "t": "content/alt-text.json"
+ },
+ "443dc8f2889c": {
+  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, ending that mantra with \"!\" like the others, and rewording one sentence near the end about raising a family. Later the same month, again at his direct instruction, the AI replaced the Vol 4 afterword's ghostwriter paragraph (\"If this series somehow explodes…\") with his new version, which adds how the collaboration with the ghostwriter went, and replaced the paragraph after it (\"And no. I didn't use AI…\") with his new version, which lists more of what Claude was used for.",
+  "t": "Convirtió cada una de las 33 páginas publicadas de HTML a Markdown, palabra por palabra, con <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Apuntó las imágenes del blog al archivo equivalente en Behind The Scenes cuando las imágenes eran las mismas. Las excepciones: en noviembre de 2026, Deovandski cambió su posfacio del Vol 4 (<code>afterwords.md</code>), añadiendo nuevos mantras y reescribiendo el cierre para terminar con una cita del Hávamál. La IA tecleó esos cambios por indicación expresa suya, incluido cambiar «dos nuevos» por «tres nuevos» después de que él mismo añadiera el mantra de la semilla y la cosecha, terminar ese mantra con «!» como los demás, y reformular una frase cerca del final sobre formar una familia. Más tarde ese mismo mes, de nuevo por indicación directa suya, la IA sustituyó el párrafo del escritor fantasma del posfacio del Vol 4 («Si esta serie de alguna forma peta…») por su nueva versión, que añade cómo fue la colaboración con el escritor fantasma, y sustituyó el párrafo siguiente («Y no. No usé IA…») por su nueva versión, que enumera más cosas para las que se usó a Claude."
+ },
+ "480d6113fe94": {
+  "en": "<strong>Written by the AI:</strong> the app manifest, the icon generator (resizes and crops copies; the originals are only read), the service worker that keeps opened pages readable offline, and its offline notice.",
+  "t": "<strong>Escrito por la IA:</strong> el manifiesto de la app, el generador de iconos (redimensiona y recorta copias; los originales solo se leen), el service worker que mantiene legibles sin conexión las páginas abiertas, y su aviso de sin conexión."
  },
  "4d3adbe367b3": {
   "en": "Written by the AI.",
@@ -119,6 +135,10 @@
   "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0.",
   "t": "© Deovandski Skibinski Junior. Con licencia CC‑BY‑NC‑SA‑4.0."
  },
+ "70e52c0d9602": {
+  "en": "Deovandski's review comments on the ghostwriter's Vol 4 drafts, and his approval notes.",
+  "t": "Los comentarios de revisión de Deovandski sobre los borradores del Vol 4 del escritor fantasma, y sus notas de aprobación."
+ },
  "799d8f14e5b5": {
   "en": "Where it comes from",
   "t": "De dónde viene"
@@ -143,10 +163,6 @@
   "en": "Built automatically: each term, its topic, and the first sentence or two of its description, cut from the author's text.",
   "t": "Generado automáticamente: cada término, su tema y la primera o las dos primeras frases de su descripción, recortadas del texto del autor."
  },
- "8839c9eb7b2f": {
-  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, ending that mantra with \"!\" like the others, and rewording one sentence near the end about raising a family.",
-  "t": "Convirtió cada una de las 33 páginas publicadas de HTML a Markdown, palabra por palabra, con <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Apuntó las imágenes del blog al archivo equivalente en Behind The Scenes cuando las imágenes eran las mismas. Las excepciones: en noviembre de 2026, Deovandski cambió su posfacio del Vol 4 (<code>afterwords.md</code>), añadiendo nuevos mantras y reescribiendo el cierre para terminar con una cita del Hávamál. La IA tecleó esos cambios por indicación expresa suya, incluido cambiar «dos nuevos» por «tres nuevos» después de que él mismo añadiera el mantra de la semilla y la cosecha, terminar ese mantra con «!» como los demás, y reformular una frase cerca del final sobre formar una familia."
- },
  "894948ec60db": {
   "en": "<strong>The translations are AI-written, and every translated page says so.</strong> The website is also offered in other languages (pick one in Settings). Claude translated the author's text ahead of time (it is not machine translation on the fly), following the author's rules: names are written by sound, never translated. Each translated page carries a banner saying it was AI-translated from the original works, with a link to the English original. English is the source; if a translation and the English disagree, the English wins.",
   "t": "<strong>Las traducciones las escribió la IA, y cada página traducida lo indica.</strong> La web también se ofrece en otros idiomas (elige uno en Ajustes). Claude tradujo el texto del autor de antemano (no es traducción automática al vuelo), siguiendo las reglas del autor: los nombres se escriben según cómo suenan, nunca se traducen. Cada página traducida lleva un aviso que indica que fue traducida por IA a partir de las obras originales, con un enlace al original en inglés. El inglés es la fuente; si una traducción y el inglés no coinciden, manda el inglés."
@@ -163,13 +179,13 @@
   "en": "World Lore pages",
   "t": "Páginas de la Lore del mundo"
  },
- "8ea27392922d": {
-  "en": "Moved them into this folder without editing them. The one exception: at Deovandski's request, the Vraki typeface license (<code>Logo and Font/LICENSE.md</code>) now names LinkedIn and email as the way to ask for commercial approval.",
-  "t": "Los movió a esta carpeta sin editarlos. La única excepción: a petición de Deovandski, la licencia de la fuente Vraki (<code>Logo and Font/LICENSE.md</code>) ahora indica LinkedIn y el correo electrónico como vía para pedir la aprobación comercial."
- },
  "91ea456b6a05": {
   "en": "<strong>Translated by the AI</strong> into each language in the Settings list, paragraph by paragraph, with <a href=\"tools/i18n.py\">tools/i18n.py</a>. The name spellings in each <code>glossary.json</code> follow the author's rule (by sound, never translated). Every translated page is labeled as AI-translated.",
   "t": "<strong>Traducido por la IA</strong> a cada idioma de la lista de Ajustes, párrafo a párrafo, con <a href=\"tools/i18n.py\">tools/i18n.py</a>. La grafía de los nombres en cada <code>glossary.json</code> sigue la regla del autor (según cómo suenan, nunca traducidos). Cada página traducida está señalada como traducida por IA."
+ },
+ "94cb765d473b": {
+  "en": "Moved them into this folder without editing them. The one exception: at Deovandski's request, the Vraki typeface license (<code>Logo and Font/LICENSE.md</code>) now names LinkedIn and email as the way to ask for commercial approval. Also at his request (\"Bypass due to content mod\", issue #79), two explicit pictures embedded in the story notes (Arc #2 and Arc #3, <code>[image4]</code> in each) were replaced with copies blurred by 50%. Also the World Lore additions Deovandski approved in <a href=\"Legacy/Behind%20The%20Scenes/World%20Lore%20Q%26A\">World Lore Q&amp;A</a> (in the repo, each added line points back to its entry; the website leaves those pointers out).",
+  "t": "Los movió a esta carpeta sin editarlos. La única excepción: a petición de Deovandski, la licencia de la fuente Vraki (<code>Logo and Font/LICENSE.md</code>) ahora indica LinkedIn y el correo electrónico como vía para pedir la aprobación comercial. También a petición suya («Bypass due to content mod», issue #79), dos imágenes explícitas incrustadas en las notas de la historia (Arc #2 y Arc #3, <code>[image4]</code> en cada una) se sustituyeron por copias difuminadas al 50 %. También las adiciones a la lore del mundo que Deovandski aprobó en <a href=\"Legacy/Behind%20The%20Scenes/World%20Lore%20Q%26A\">World Lore Q&amp;A</a> (en el repo, cada línea añadida remite a su entrada; la web omite esas referencias)."
  },
  "94f64ad638e3": {
   "en": "Written by the AI, for accessibility (see above).",
@@ -215,6 +231,10 @@
   "en": "<strong>The website shows the author's own words.</strong> The novel chapters, the public descriptions (from the old blog) and the Behind The Scenes notes (from the original docs) are displayed as written. The AI's job was to arrange them, not to rewrite them.",
   "t": "<strong>La web muestra las palabras del propio autor.</strong> Los capítulos de la novela, las descripciones públicas (del blog antiguo) y las notas de Entre bastidores (de los documentos originales) se muestran tal como se escribieron. El trabajo de la IA fue ordenarlos, no reescribirlos."
  },
+ "ae796b80756f": {
+  "en": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (installable app)",
+  "t": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (app instalable)"
+ },
  "aff9c732ee00": {
   "en": "Attribution statement",
   "t": "Declaración de atribución"
@@ -230,6 +250,10 @@
  "b7adb938bc6e": {
   "en": "AI-readable files (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, a Markdown copy of every page, and <code>data/*.json</code>)",
   "t": "Archivos legibles por IA (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, una copia en Markdown de cada página y <code>data/*.json</code>)"
+ },
+ "b94e00dc84fc": {
+  "en": "Legacy/Behind The Scenes/World Lore Q&amp;A",
+  "t": "Legacy/Behind The Scenes/World Lore Q&amp;A"
  },
  "c39f6c800ffc": {
   "en": "content/summaries.json",

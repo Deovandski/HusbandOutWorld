@@ -1,4 +1,8 @@
 {
+ "06672e9dc70f": {
+  "en": "The Forway city emblem and three existing illustrations (human), used for the app icon and the shortcut icons. The code is adapted from the Deovandski site's app (PR #160).",
+  "t": "फ़ॉरवे शहर का प्रतीक-चिह्न और तीन मौजूदा चित्र (इंसानों के बनाए), जो ऐप आइकन और शॉर्टकट आइकनों के लिए इस्तेमाल हुए। कोड Deovandski साइट के ऐप से लेकर ढाला गया है (PR #160)।"
+ },
  "1014c3427fd9": {
   "en": "The <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> workflow.",
   "t": "<a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> का वर्कफ़्लो।"
@@ -35,6 +39,10 @@
   "en": "Contributing",
   "t": "योगदान"
  },
+ "2d88e0a6c449": {
+  "en": "Written by the AI at his direct instruction. Each entry pairs a line or two of the draft with his comments (word for word) and answer, notes what the World Lore already says, proposes additions, and records his approval. The World Lore lines added this way are listed in each entry's \"Applied\" section rather than here.",
+  "t": "AI द्वारा उनके सीधे निर्देश पर लिखा गया। हर प्रविष्टि मसौदे की एक-दो पंक्तियों को उनकी टिप्पणियों (शब्दशः) और जवाब के साथ रखती है, बताती है कि संसार में पहले से क्या लिखा है, जोड़ सुझाती है, और उनकी मंज़ूरी दर्ज करती है। इस तरह जोड़ी गई संसार की पंक्तियाँ यहाँ नहीं, बल्कि हर प्रविष्टि के \"Applied\" भाग में दी गई हैं।"
+ },
  "30fa617c63c2": {
   "en": "The palette comes from the Forway city emblem, the headings' Vraki script from the Vraki font (human). Body font: TeX Gyre Schola (GUST Font License), the same as the <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> site.",
   "t": "रंग-पैलेट फ़ॉरवे शहर के प्रतीक-चिह्न से आया है, शीर्षकों की व्राकी लिपि व्राकी फ़ॉन्ट से (इंसानी)। मुख्य फ़ॉन्ट: TeX Gyre Schola (GUST Font License), वही जो <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> साइट पर है।"
@@ -70,6 +78,14 @@
  "43005656bb78": {
   "en": "content/alt-text.json",
   "t": "content/alt-text.json"
+ },
+ "443dc8f2889c": {
+  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, ending that mantra with \"!\" like the others, and rewording one sentence near the end about raising a family. Later the same month, again at his direct instruction, the AI replaced the Vol 4 afterword's ghostwriter paragraph (\"If this series somehow explodes…\") with his new version, which adds how the collaboration with the ghostwriter went, and replaced the paragraph after it (\"And no. I didn't use AI…\") with his new version, which lists more of what Claude was used for.",
+  "t": "33 लाइव पेजों में से हर एक को <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a> से HTML से Markdown में, शब्दशः, बदला। जहाँ तस्वीरें एक जैसी थीं, वहाँ ब्लॉग की तस्वीरों को Behind The Scenes की मेल खाती फ़ाइल से जोड़ा। अपवाद: नवंबर 2026 में Deovandski ने खंड 4 का अपना उपसंहार (<code>afterwords.md</code>) बदला, नए मंत्र जोड़े और अंत को Hávamál के एक उद्धरण पर ख़त्म करने के लिए दोबारा लिखा। AI ने उनके स्पष्ट निर्देश पर ये बदलाव टाइप किए, जिनमें उनके ख़ुद बीज/फ़सल वाला मंत्र जोड़ने के बाद \"दो नए\" को \"तीन नए\" करना, उस मंत्र को बाक़ियों की तरह \"!\" पर ख़त्म करना, और परिवार पालने के बारे में अंत के पास का एक वाक्य दोबारा लिखना शामिल है। उसी महीने बाद में, फिर उनके सीधे निर्देश पर, AI ने खंड 4 के उपसंहार में घोस्टराइटर वाले अनुच्छेद (\"अगर यह सीरीज़ किसी तरह धमाका कर दे…\") को उनके नए संस्करण से बदला, जिसमें घोस्टराइटर के साथ सहयोग कैसा रहा यह जोड़ा गया है, और उसके बाद वाले अनुच्छेद (\"और नहीं। मैंने कहानी लिखने या गढ़ने के लिए AI का इस्तेमाल नहीं किया…\") को उनके नए संस्करण से बदला, जो गिनाता है कि Claude का और किन कामों में इस्तेमाल हुआ।"
+ },
+ "480d6113fe94": {
+  "en": "<strong>Written by the AI:</strong> the app manifest, the icon generator (resizes and crops copies; the originals are only read), the service worker that keeps opened pages readable offline, and its offline notice.",
+  "t": "<strong>AI द्वारा लिखा गया:</strong> ऐप मैनिफ़ेस्ट, आइकन जनरेटर (प्रतियों का आकार बदलता और उन्हें काटता है; मूल फ़ाइलें सिर्फ़ पढ़ी जाती हैं), सर्विस वर्कर जो खोले गए पेजों को ऑफ़लाइन भी पढ़ने लायक़ रखता है, और उसकी ऑफ़लाइन सूचना।"
  },
  "4d3adbe367b3": {
   "en": "Written by the AI.",
@@ -119,6 +135,10 @@
   "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0.",
   "t": "© Deovandski Skibinski Junior। CC‑BY‑NC‑SA‑4.0 के तहत लाइसेंस।"
  },
+ "70e52c0d9602": {
+  "en": "Deovandski's review comments on the ghostwriter's Vol 4 drafts, and his approval notes.",
+  "t": "खंड 4 के लिए घोस्टराइटर के मसौदों पर Deovandski की समीक्षा टिप्पणियाँ, और उनके मंज़ूरी के नोट्स।"
+ },
  "799d8f14e5b5": {
   "en": "Where it comes from",
   "t": "कहाँ से आया"
@@ -143,10 +163,6 @@
   "en": "Built automatically: each term, its topic, and the first sentence or two of its description, cut from the author's text.",
   "t": "अपने-आप बनाया गया: हर शब्द, उसका विषय, और उसके वर्णन का पहला एक-दो वाक्य, लेखक के पाठ से लिया गया।"
  },
- "8839c9eb7b2f": {
-  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, ending that mantra with \"!\" like the others, and rewording one sentence near the end about raising a family.",
-  "t": "33 लाइव पेजों में से हर एक को <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a> से HTML से Markdown में, शब्दशः, बदला। जहाँ तस्वीरें एक जैसी थीं, वहाँ ब्लॉग की तस्वीरों को Behind The Scenes की मेल खाती फ़ाइल से जोड़ा। अपवाद: नवंबर 2026 में Deovandski ने खंड 4 का अपना उपसंहार (<code>afterwords.md</code>) बदला, नए मंत्र जोड़े और अंत को Hávamál के एक उद्धरण पर ख़त्म करने के लिए दोबारा लिखा। AI ने उनके स्पष्ट निर्देश पर ये बदलाव टाइप किए, जिनमें उनके ख़ुद बीज/फ़सल वाला मंत्र जोड़ने के बाद \"दो नए\" को \"तीन नए\" करना, उस मंत्र को बाक़ियों की तरह \"!\" पर ख़त्म करना, और परिवार पालने के बारे में अंत के पास का एक वाक्य दोबारा लिखना शामिल है।"
- },
  "894948ec60db": {
   "en": "<strong>The translations are AI-written, and every translated page says so.</strong> The website is also offered in other languages (pick one in Settings). Claude translated the author's text ahead of time (it is not machine translation on the fly), following the author's rules: names are written by sound, never translated. Each translated page carries a banner saying it was AI-translated from the original works, with a link to the English original. English is the source; if a translation and the English disagree, the English wins.",
   "t": "<strong>अनुवाद AI ने लिखे हैं, और हर अनूदित पेज यह बताता है।</strong> वेबसाइट दूसरी भाषाओं में भी उपलब्ध है (सेटिंग्स में कोई चुनो)। Claude ने लेखक के पाठ का अनुवाद पहले से किया (यह चलते-फिरते मशीन अनुवाद नहीं है), लेखक के नियमों का पालन करते हुए: नाम उनकी ध्वनि के अनुसार लिखे जाते हैं, कभी अनुवादित नहीं होते। हर अनूदित पेज पर एक बैनर है जो बताता है कि इसका अनुवाद मूल रचनाओं से AI ने किया है, साथ में अंग्रेज़ी मूल का लिंक। स्रोत अंग्रेज़ी है; अगर अनुवाद और अंग्रेज़ी में फ़र्क़ हो, तो अंग्रेज़ी मान्य है।"
@@ -163,13 +179,13 @@
   "en": "World Lore pages",
   "t": "संसार के पेज"
  },
- "8ea27392922d": {
-  "en": "Moved them into this folder without editing them. The one exception: at Deovandski's request, the Vraki typeface license (<code>Logo and Font/LICENSE.md</code>) now names LinkedIn and email as the way to ask for commercial approval.",
-  "t": "उन्हें बिना बदले इस फ़ोल्डर में ले गया। एकमात्र अपवाद: Deovandski के अनुरोध पर, व्राकी टाइपफ़ेस लाइसेंस (<code>Logo and Font/LICENSE.md</code>) अब व्यावसायिक अनुमति माँगने के तरीक़े के रूप में LinkedIn और ईमेल बताता है।"
- },
  "91ea456b6a05": {
   "en": "<strong>Translated by the AI</strong> into each language in the Settings list, paragraph by paragraph, with <a href=\"tools/i18n.py\">tools/i18n.py</a>. The name spellings in each <code>glossary.json</code> follow the author's rule (by sound, never translated). Every translated page is labeled as AI-translated.",
   "t": "सेटिंग्स की सूची की हर भाषा में <strong>AI द्वारा अनुवादित</strong>, अनुच्छेद दर अनुच्छेद, <a href=\"tools/i18n.py\">tools/i18n.py</a> के साथ। हर <code>glossary.json</code> में नामों की वर्तनी लेखक के नियम का पालन करती है (ध्वनि के अनुसार, कभी अनुवादित नहीं)। हर अनूदित पेज पर AI-अनूदित का लेबल है।"
+ },
+ "94cb765d473b": {
+  "en": "Moved them into this folder without editing them. The one exception: at Deovandski's request, the Vraki typeface license (<code>Logo and Font/LICENSE.md</code>) now names LinkedIn and email as the way to ask for commercial approval. Also at his request (\"Bypass due to content mod\", issue #79), two explicit pictures embedded in the story notes (Arc #2 and Arc #3, <code>[image4]</code> in each) were replaced with copies blurred by 50%. Also the World Lore additions Deovandski approved in <a href=\"Legacy/Behind%20The%20Scenes/World%20Lore%20Q%26A\">World Lore Q&amp;A</a> (in the repo, each added line points back to its entry; the website leaves those pointers out).",
+  "t": "उन्हें बिना बदले इस फ़ोल्डर में ले गया। एकमात्र अपवाद: Deovandski के अनुरोध पर, व्राकी टाइपफ़ेस लाइसेंस (<code>Logo and Font/LICENSE.md</code>) अब व्यावसायिक अनुमति माँगने के तरीक़े के रूप में LinkedIn और ईमेल बताता है। उन्हीं के अनुरोध पर (\"Bypass due to content mod\", इश्यू #79), कहानी के नोट्स में लगी दो स्पष्ट तस्वीरें (Arc #2 और Arc #3, दोनों में <code>[image4]</code>) 50% धुँधली की गई प्रतियों से बदली गईं। साथ ही संसार में वे जोड़ भी, जिन्हें Deovandski ने <a href=\"Legacy/Behind%20The%20Scenes/World%20Lore%20Q%26A\">World Lore Q&amp;A</a> में मंज़ूरी दी (रिपॉज़िटरी में हर जोड़ी गई पंक्ति अपनी प्रविष्टि की ओर इशारा करती है; वेबसाइट वे इशारे हटा देती है)।"
  },
  "94f64ad638e3": {
   "en": "Written by the AI, for accessibility (see above).",
@@ -215,6 +231,10 @@
   "en": "<strong>The website shows the author's own words.</strong> The novel chapters, the public descriptions (from the old blog) and the Behind The Scenes notes (from the original docs) are displayed as written. The AI's job was to arrange them, not to rewrite them.",
   "t": "<strong>वेबसाइट लेखक के अपने शब्द दिखाती है।</strong> उपन्यास के अध्याय, सार्वजनिक विवरण (पुराने ब्लॉग से) और पर्दे के पीछे के नोट्स (मूल दस्तावेज़ों से) वैसे ही दिखाए गए हैं जैसे लिखे गए थे। AI का काम उन्हें सजाना था, दोबारा लिखना नहीं।"
  },
+ "ae796b80756f": {
+  "en": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (installable app)",
+  "t": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (इंस्टॉल करने लायक़ ऐप)"
+ },
  "aff9c732ee00": {
   "en": "Attribution statement",
   "t": "श्रेय-विवरण"
@@ -230,6 +250,10 @@
  "b7adb938bc6e": {
   "en": "AI-readable files (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, a Markdown copy of every page, and <code>data/*.json</code>)",
   "t": "AI के पढ़ने लायक़ फ़ाइलें (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, हर पेज की Markdown कॉपी, और <code>data/*.json</code>)"
+ },
+ "b94e00dc84fc": {
+  "en": "Legacy/Behind The Scenes/World Lore Q&amp;A",
+  "t": "Legacy/Behind The Scenes/World Lore Q&amp;A"
  },
  "c39f6c800ffc": {
   "en": "content/summaries.json",
