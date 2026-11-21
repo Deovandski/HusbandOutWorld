@@ -68,19 +68,23 @@ Status: **open** until answered. An open question means the abridged text leaves
   > have examples sections. We can keep the nerdy DB comparison, but if you have another real-world comparison for normies, add too.
 - **Change to the abridged text:** New "Examples" subsection: the programming comparison, plus an everyday one (the soul is an architect's archive, genes are the blueprint, the body is the house; a damaged house is rebuilt from the blueprint, matching how healing restores the body from the soul's genetic information).
 
-### Q7. What's the average human recharge rate? (open, follow-up to Q2)
+### Q7. What's the average human recharge rate? (answered, follow-up to Q2)
 - **Asked:** 2026-11-21
 - **Legacy text:** `Spreadsheets/Formulas - Soul Energy.xlsx`, sheet "Race Soul Avg + Char Calculator", row "Soul Recharge/Day": Humans (Low) **3**, Humans (High) **40** soul units a day. The doc itself says "a single Nari's worth… a day".
 - **Why:** You asked me to confirm "humans on average recover 1 soul unit a day" against the World Lore, and the spreadsheet doesn't match: it gives humans 3 to 40 a day. (Other races in the same row: Wozefaries 10–25, Darfaries 5–15, Sorefaries 150–250, Finaies 30–60.) Which should the abridged text use: about 1 a day on average, or the spreadsheet's 3–40?
-- **Answer:**
-- **Change to the abridged text:** for now, no number.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Energy spreadsheet is right and I'm wrong. Glad my past self did the hard work on the spreadsheet to set that in stone.
+- **Change to the abridged text:** Recharging now has a table of average recharge per race in soul units a day, from the spreadsheet (Humans 3–40).
 
-### Q8. Badge tiers above X? (open, follow-up to Q3)
+### Q8. Badge tiers above X? (answered, follow-up to Q3)
 - **Asked:** 2026-11-21
 - **Legacy text:** Vol 1, Chapter III: the gauges go from 1 to 10. `Formulas - Soul Energy.xlsx`: tiers go from I to XVII.
 - **Why:** If the badge numbers are tiers, what does it show for someone above Tier X (the light maxed out at 10, or something else)? Or is Tier X effectively the top for living people?
-- **Answer:**
-- **Change to the abridged text:** for now, it only says the numbers are soul energy tiers.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > max out at 10. Also I believe I wrote down but basically no Darfaries, human alive today, maybe except black sapphires can cast a level 10 spell. This enormous amount of soul energy, specially going upwards of level 15 was something the ancient species had. Now it's kinda like a leftover, with most people not even batting an eye about what tier 10 truly means. The curious ones are usually the ones who become scientists while the average person don't even really check their soul reservoir in the badge on the daily.
+- **Change to the abridged text:** The badge line now says the light maxes out at 10, that most people don't check it day to day or think about what Tier X means, and that the curious become scientists. Tiers now says no Darfaries or human alive today can cast Tier X (except maybe the Black Sapphires), and that the upper tiers, especially XV and above, belonged to the ancient species. Note: I couldn't find this written down elsewhere in Legacy. The closest are Economy.md (a Sapphire can buy "Tier IX+ Soul Energy") and the Darfaries Interface Body VERB tiers, which stop at Tier IX. So the source for this is the answer itself.
 
 ---
 
@@ -92,16 +96,17 @@ Status: **open** until answered. An open question means the abridged text leaves
 | Darfaries, Wozefaries and Sorefaries sense soul energy "through their Darfaries veins" | "Some species can use their organs to sense soul energy" | Races.md: Darfaries veins "allow them to finely sense Soul Energy disturbances"; World Lore Q&A › Vol 4 Draft 2, Q3 (Sorefaries have Darfaries veins) |
 | Tiers I to XVII; each doubles power, duration (1 hour at Tier I) and cost; 20 casts to move up | "See Formulas - Soul Energy" | `Spreadsheets/Formulas - Soul Energy.xlsx`, sheet "Soul Energy Tiers" (General Power Effects, Power Time, Soul Cost, "Casts to upgrade tier: 20") |
 | Nari stones per tier: one at Tier I, two at Tier II, four at Tier III | (none) | Science - Darfaries Interface.md › Option B) Use Nari Stone |
+| Average recharge per race (soul units a day) | "a single Nari's worth of soul energy is replenished a day" | `Formulas - Soul Energy.xlsx` › Race Soul Avg + Char Calculator › Soul Recharge/Day, confirmed by the author (Q7) |
 | Average decay time per tier: about 1 year at Tier I, doubling to 65,536 years at Tier XVII | "See Power Time. Replace Hours with Years" | `Formulas - Soul Energy.xlsx` › Soul Energy Tiers › Power Time (Hours), confirmed by the author (Q4) |
 | How soul energy turns into a spell, per interface | "Rules vary based on the interface being used." | Science - Darfaries Interface.md (logograms on the palm or a sigil ring); Science - Nari Gels.md (consumed or injected) |
 | "soul death (the technical term is *detachment*)" | Two separate notes | Same doc, Soul Energy Expansion: "detachment (a.k.a. the technical term for soul death)" |
 
 ## Discrepancies
 
-### Human recharge rate (open)
+### Human recharge rate (settled)
 - **Sources:** the author's answer to Q2 ("Humans on average recover 1 soul unit a day (confirm from word lore for me.)") vs `Formulas - Soul Energy.xlsx` (Humans: 3 low, 40 high soul units a day).
-- **Which wins:** under the source order, the author's decision wins. But his answer asked for a check against the World Lore, so it's asked again as Q7 instead of being settled here.
-- **Abridged text meanwhile:** gives no number.
+- **Settled by:** the author's decision (Q7): "Energy spreadsheet is right and I'm wrong."
+- **Abridged text:** uses the spreadsheet's rates (Humans 3–40 a day).
 
 ## Left out on purpose
 

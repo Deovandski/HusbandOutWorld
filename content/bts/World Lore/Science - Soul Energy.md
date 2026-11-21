@@ -1,6 +1,6 @@
 ---
 source: Legacy/Behind The Scenes/World Lore/Science - Soul Energy.md
-status: Q1–Q6 answered 2026-11-21; follow-ups Q7–Q8 open (see content/bts/qa/World Lore/Science - Soul Energy.md)
+status: all questions answered (Q1–Q8, 2026-11-21); see content/bts/qa/World Lore/Science - Soul Energy.md
 note: Abridged Behind The Scenes text shown on the website (issue #103). One "# <entry title>" per entry of the Legacy doc; anything not listed here falls back to the raw Legacy text. Every filled gap and every author answer is recorded in the Q&A file.
 ---
 
@@ -83,14 +83,30 @@ Still, grabbing a nari stick to power a spell is far easier than putting your ow
 
 Soul energy is measured in soul units, and one nari stone holds roughly one soul unit. It recharges through emotions and eating. How fast depends on the race, and differs between people of the same race, partly through nature and partly through nurture, as well as on how intense someone's emotions are. Eating a living being pulls some of its soul energy into the one eating it.
 
+Average recharge, in soul units a day:
+
+| Race | Low | High |
+|---|---|---|
+| Humans | 3 | 40 |
+| Darfaries | 5 | 15 |
+| Wozefaries | 10 | 25 |
+| Sorefaries | 150 | 250 |
+| Cruros | 1 | 10 |
+| Finaies | 30 | 60 |
+| Fuhraies | 30 | 60 |
+| Buhraies | 4 | 8 |
+| Lishies | 1 | 5 |
+
 #### Measuring and sensing
 
-- **Your badge** shows how much soul energy you have right now: press your thumb on the base of its two thermometer-like gauges, and a red light rises along their scale. The numbers are soul energy tiers: 1 to 5 on the thin gauge, 6 to 10 on the thick one, spaced logarithmically. Touching the badge doesn't drain any soul energy.
+- **Your badge** shows how much soul energy you have right now: press your thumb on the base of its two thermometer-like gauges, and a red light rises along their scale. The numbers are soul energy tiers: 1 to 5 on the thin gauge, 6 to 10 on the thick one, spaced logarithmically, and the light maxes out at 10. Touching the badge doesn't drain any soul energy. Most people don't even check their soul reservoir on their badge day to day, and hardly anyone stops to think about what Tier X truly means. The curious ones usually become scientists.
 - **Sensing spells** depends on the species and the interface. Darfaries, Wozefaries and Sorefaries can sense soul energy with their own bodies, through their Darfaries veins.
 
 #### Tiers
 
 Spells come in tiers, from Tier I to Tier XVII, and each tier doubles the one before it: twice the power, twice as long (one hour at Tier I, two at Tier II, and so on), and twice the cost, in soul energy or in nari stones (one stone at Tier I, two at Tier II, four at Tier III…). Moving up to the next tier takes 20 casts at the current one.
+
+No Darfaries or human alive today can cast a Tier X spell, except maybe the Black Sapphires. The enormous soul energy of the upper tiers, especially Tier XV and above, belonged to the ancient species. What's left today is a leftover of it.
 
 # Interfaces
 
