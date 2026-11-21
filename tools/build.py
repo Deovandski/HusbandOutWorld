@@ -435,7 +435,8 @@ ABRIDGED = os.path.join(CONTENT, 'bts')   # abridged Behind The Scenes text (iss
 
 def load_abridged(src):
     """The abridged version of a Behind The Scenes doc, if there is one: {norm(entry title): Markdown}.
-    content/bts/<same path as under Legacy/Behind The Scenes>, with one "# <entry title>" per abridged entry.
+    content/bts/<same path as under Legacy/Behind The Scenes>, with one "# <entry title>" per abridged entry
+    ("# <category> › <entry title>" when the same title appears under two categories).
     "# _intro" replaces the doc's intro (empty hides it). Entries not listed fall back to the raw Legacy text."""
     path = os.path.join(ABRIDGED, src)
     if not os.path.exists(path):
@@ -446,7 +447,9 @@ def load_abridged(src):
     for line in text.split('\n'):
         m = re.match(r'^# (.+?)\s*$', line)
         if m:
-            cur = norm(m.group(1)) if m.group(1) != '_intro' else '_intro'
+            h = m.group(1)
+            # "# <category> › <entry>" scopes an entry whose title repeats under another category
+            cur = '_intro' if h == '_intro' else '/'.join(norm(x) for x in h.split(' › ', 1))
             out[cur] = []
         elif cur is not None:
             out[cur].append(line)
@@ -623,7 +626,12 @@ class Builder:
             category = None
             for b in blocks:
                 b['origin'], b['refs'] = origin, refs
-                b['abridged'] = abridged.get('_intro' if b['kind'] == 'intro' else norm(b['title']))
+                if b['kind'] == 'intro':
+                    b['abridged'] = abridged.get('_intro')
+                elif b['kind'] == 'entry' and category and f"{norm(category['title'])}/{norm(b['title'])}" in abridged:
+                    b['abridged'] = abridged[f"{norm(category['title'])}/{norm(b['title'])}"]
+                else:
+                    b['abridged'] = abridged.get(norm(b['title']))
                 if b['kind'] == 'intro':
                     if b['abridged'] is not None:
                         b['body'] = b['abridged']   # the intro is replaced outright (often a note to self)
