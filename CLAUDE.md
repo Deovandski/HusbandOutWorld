@@ -42,5 +42,12 @@ If a piece of UI could be useful twice, in this repo or in another of Deovandski
 - **Look before you build:** check the reusable components here and in the other repos first. The same rule is in Deovandski/Deovandski (`src/components/reusable/`: `SplitFlap`, a split-flap board, and `LedClock`, an LED countdown), Deovandski-repo-template, HusbandOutWorld, vraki-windows and Vraki-West-March-Campaign-D-D. Copy and adapt an existing component instead of starting over, and note where it came from.
 - **Extract when you touch it:** when you change one-off UI that fits this rule, pull it out into a reusable component in the same PR.
 
+## Pictures are clickable
+Every picture on the website opens bigger when pressed, in the one photo viewer (`site/js/photo-viewer.js`, `site/css/photo-viewer.css`, and `photo_viewer_html()` in the build, already on every page). The same standard is in Deovandski/Deovandski, Deovandski-repo-template, Vraki-West-March-Campaign-D-D and sinoi-the-fisherman.
+- **Pictures the build writes** go in `<a class="img-link" href="…" data-full="…">` as they do now. Add `data-gallery="name"` to step through a set with ‹ ›, and `data-caption` for a caption (the Blog's holds the date).
+- **Any other `<img>` with alt text opens by itself**, and so does a link straight to an image file. Give every content picture real alt text (from `content/alt-text.json`); `alt=""` means decorative, and those don't open.
+- **Dates:** without a `data-caption`, the viewer shows the alt text and then the date, in the page's language, when it knows one: `data-date="YYYY-MM-DD"` (or `data-date-label`), or a `YYYY-MM-DD` at the start of the file name.
+- **Opt out** with `data-no-zoom` on a picture or its container. The webcomic reader (`.wc-strip`), the header and nav are already skipped.
+
 ## Pull requests
 One PR per issue, with `Closes #N` in the body. Say what changed in plain words, list any judgment calls, and list anything the author still has to do.
