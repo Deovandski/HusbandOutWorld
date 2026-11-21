@@ -53,6 +53,8 @@ def blur_image(raw, percent):
     im.filter(ImageFilter.GaussianBlur(max(im.size) * 0.06 * percent / 100)).save(out, 'PNG')
     return out.getvalue()
 
+QA_POINTER = re.compile(r' ?\(See World Lore Q&A › [^)]*\)')
+
 def read_legacy(path):
     """Read a Legacy file and apply its display-only fixes from content/fixes.json."""
     text = open(path, encoding='utf-8').read()
@@ -60,6 +62,9 @@ def read_legacy(path):
         if fx['find'] not in text:
             print(f'warning: fix not found in {rel(path)}: {fx["find"][:60]!r}', file=sys.stderr)
         text = text.replace(fx['find'], fx['replace'])
+    # "(See World Lore Q&A › …)" pointers trace a World Lore line back to its Q&A entry in the repo; the website
+    # leaves them out (AI-DISCLOSURE.md explains the Q&A instead)
+    text = QA_POINTER.sub('', text)
     return text
 
 SUMMARIES = json.load(open(os.path.join(CONTENT, 'summaries.json'))) if os.path.exists(os.path.join(CONTENT, 'summaries.json')) else {}
@@ -67,8 +72,12 @@ TYPOS = json.load(open(os.path.join(CONTENT, 'typos.json'))) if os.path.exists(o
 GH_BLOB = CFG['repo_url'] + '/blob/main/'
 BASE = ''  # path the site is served under, e.g. "/HusbandOutWorld" on a GitHub project page; "" on a custom domain
 
+REPO_HREF = re.compile(r'href="((?:Legacy|content|tools|site|\.github)(?:/[^"]*)?|(?:AI-DISCLOSURE|README|LICENSE|CLAUDE)\.md[^"]*)"')
+
 def with_base(html_text):
-    """Prefix every site-internal link (href="/...", src="/...") with BASE."""
+    """Prefix every site-internal link (href="/...", src="/...") with BASE. Links to repo paths (e.g. "Legacy/...",
+    from AI-DISCLOSURE.md) point at GitHub. Done here, after translation, so the translated text keeps its hash."""
+    html_text = REPO_HREF.sub(lambda m: 'href="' + GH_BLOB + m.group(1) + '"', html_text)
     if not BASE:
         return html_text
     html_text = re.sub(r'(http-equiv="refresh" content="0; url=)/(?!/)', lambda m: f'{m.group(1)}{BASE}/', html_text)
@@ -1121,8 +1130,8 @@ class Builder:
         if os.path.exists(path):
             text = read_legacy(path)
             p = Page('/about/ai-disclosure/', 'AI Disclosure', 'About')
-            p.html = self.r.render(text, base=ROOT)
-            p.md_public = text
+            p.html = self.r.render(text, base=ROOT)  # repo-path links are pointed at GitHub in with_base()
+            p.md_public = re.sub(r'\]\((?!https?:|/|#|mailto:)([^)]+)\)', lambda m: '](' + GH_BLOB + m.group(1) + ')', text)
             p.desc = 'Which parts of this website are human work, which parts an AI wrote, and how they fit together.'
             self.add(p)
             links.append(('AI Disclosure', '/about/ai-disclosure/'))

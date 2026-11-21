@@ -14,7 +14,7 @@ Each entry has:
 
 Comments that are only about the writing (tone, pacing, matching the illustrations, who says which line) aren't in this file. It only covers facts about the world and its people.
 
-Every World Lore line added from this file ends with "(See World Lore Q&A › Vol 4 Draft 2, Q#.)" so it can be traced back here.
+Every World Lore line added from this file ends with "(See World Lore Q&A › Vol 4 Draft 2, Q#.)" so it can be traced back here. The website leaves these pointers out.
 
 ## Contents
 
@@ -1304,6 +1304,7 @@ In *Characters.md › Harry*, add:
 - *Embassies & Guilds.md › Location:* both lines, for every embassy.
 - *City.md › Forway:* the line as proposed.
 - *Natural and Crafted Resources.md › Fost Stone:* There are no candles in Vraki. Wax exists, but it is for stamping letters (like the Winga mail Forway provides).
+- *Natural and Crafted Resources.md › Fost Lamp*, follow-up at Deovandski's request: "They glow brighter than a candle (just for the sake of comparison: candles as we know them are not a thing in Vraki) when in contact with saltwater."
 
 **Applied**
 - *Science - Darfaries Interface.md › Body VERB › Restore:* the three lines as proposed.
