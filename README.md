@@ -26,7 +26,7 @@ Everything on the website comes from Legacy. It is shortened, rearranged or labe
 
 ### For AI tools
 
-The website publishes the whole series as plain text: [llms.txt](https://www.husbandoutworld.com/llms.txt) (index), [llms-full.txt](https://www.husbandoutworld.com/llms-full.txt) (Public layer) and [llms-full-bts.txt](https://www.husbandoutworld.com/llms-full-bts.txt) (everything). The same text also comes in smaller files by section (each about 300 KB or less), listed with their sizes in llms.txt, for readers that stop partway through a long file. Every page also has a Markdown copy at its address plus `index.md`; a very long one (Characters) splits its full notes into one file per category. All of these are in the sitemap.
+The website publishes the whole series as plain text: [llms.txt](https://www.husbandoutworld.com/llms.txt) (index), [llms-full.txt](https://www.husbandoutworld.com/llms-full.txt) (Public layer) and [llms-full-bts.txt](https://www.husbandoutworld.com/llms-full-bts.txt) (everything). The same text also comes in smaller files by section (each about 300 KB or less), listed with their sizes in llms.txt, for readers that stop partway through a long file. Every page also has a Markdown copy at its address plus `index.md`; a very long one (Characters) splits its full notes into one file per category. Translated pages that are ready (90% or more) have a Markdown twin in their language too, listed per language in llms.txt. All of these are in the sitemap.
 
 ### Build the website yourself
 

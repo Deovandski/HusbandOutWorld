@@ -19,6 +19,7 @@ from PIL import Image, ImageFilter
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import i18n  # the translations (tools/i18n.py)
+import mdtwin  # Markdown twins of translated pages (tools/mdtwin.py)
 import pwa  # the installable app: manifest, icons, service worker (tools/pwa.py)
 
 Image.MAX_IMAGE_PIXELS = None
@@ -1317,6 +1318,19 @@ class Builder:
                     'license': 'https://creativecommons.org/licenses/by-nc-sa/4.0/'}
         self.add(p)
 
+    def write_translated_twin(self, code, meta, p, page_html_text):
+        """index.md for a translated page (issue #76): its text as Markdown, with a header saying it is AI-translated."""
+        title, body = mdtwin.page_markdown(page_html_text, CFG['base_url'])
+        banner = re.sub(r'<[^>]+>', '', meta.get('banner', '')).strip()
+        head = (f'---\ntitle: "{title.replace(chr(34), chr(39))}"\nurl: {CFG["base_url"]}/{code}{p.url}\n'
+                f'language: {meta.get("name", code)} ({code})\ntranslation: "{banner.replace(chr(34), chr(39))}"\n'
+                f'original: {CFG["base_url"]}{p.url}index.md\nsection: {p.section}\n'
+                f'spoilers: {"yes (Behind The Scenes only)" if p.layer == "bts" else "public text first; Behind The Scenes blocks are marked"}\n---\n\n')
+        path = os.path.join(self.out, code, p.url.lstrip('/'), 'index.md')
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        open(path, 'w', encoding='utf-8').write(head + body)
+        return title
+
     def build_search_page(self):
         p = Page('/search/', 'Search', 'Search')
         p.html = ('<h1>Search</h1><input id="search-page-input" class="filter" type="search" placeholder="Search the novel and the lore…" aria-label="Search">'
@@ -1337,6 +1351,7 @@ class Builder:
         langs = [(l['code'], i18n.load_meta(l['code']), i18n.load_store(l['code'])) for l in i18n.languages(CFG)]
         inv = {'pages': {}}
         self.lang_ready = []  # (code, url) pairs translated enough to offer
+        self.lang_twins = {}  # code -> [(page, translated title)] that got a Markdown twin
         for p in self.pages:
             if p.url.endswith('.html'):
                 path = os.path.join(self.out, p.url.lstrip('/'))
@@ -1352,12 +1367,17 @@ class Builder:
                 for code, meta, store in langs:
                     outs[code], cov[code] = i18n.translate_page(en, p.url, code, meta, store, CFG['base_url'])
                 open(path, 'w', encoding='utf-8').write(with_base(i18n.head_extras(en, p.url, cov, CFG['base_url'])))
-                for code, _, _ in langs:
+                for code, meta, _ in langs:
                     lp = os.path.join(self.out, code, p.url.lstrip('/'), 'index.html')
                     os.makedirs(os.path.dirname(lp), exist_ok=True)
-                    open(lp, 'w', encoding='utf-8').write(with_base(i18n.head_extras(outs[code], p.url, cov, CFG['base_url'], this_code=code)))
+                    html_out = outs[code]
                     if cov[code] >= i18n.INDEX_COVERAGE:
                         self.lang_ready.append((code, p.url))
+                        # a page translated enough to offer also gets a Markdown twin in its language
+                        title = self.write_translated_twin(code, meta, p, html_out)
+                        self.lang_twins.setdefault(code, []).append((p, title))
+                        html_out = html_out.replace(f'href="{p.url}index.md"', f'href="/{code}{p.url}index.md"')
+                    open(lp, 'w', encoding='utf-8').write(with_base(i18n.head_extras(html_out, p.url, cov, CFG['base_url'], this_code=code)))
             if not p.url.endswith('.html'):
                 files = page_md_files(p)
                 p.md_parts = [name for name in files if name != 'index.md']
@@ -1389,8 +1409,8 @@ class Builder:
         pages = [{'url': CFG['base_url'] + p.url, 'markdown': CFG['base_url'] + p.url + 'index.md', 'title': p.title,
                   'section': p.section, 'spoilers': p.layer == 'bts', 'sources': p.sources} for p in self.pages if not p.url.endswith('.html')]
         json.dump(pages, open(os.path.join(self.out, 'data', 'pages.json'), 'w'), ensure_ascii=False, indent=1)
-        bundles = write_llms(self.out, self.pages)
-        write_sitemap(self.out, self.pages, getattr(self, 'lang_ready', []), bundles)
+        bundles = write_llms(self.out, self.pages, getattr(self, 'lang_twins', {}))
+        write_sitemap(self.out, self.pages, getattr(self, 'lang_ready', []), bundles, getattr(self, 'lang_twins', {}))
         open(os.path.join(self.out, 'robots.txt'), 'w').write(f'User-agent: *\nAllow: /\n\nSitemap: {CFG["base_url"]}/sitemap.xml\n')
         # static assets
         for sub in ('css', 'js', 'fonts'):
@@ -1735,7 +1755,24 @@ def split_bundles(out, pages, head):
                 made.append((label, f'/llms/{fname}', len(text.encode('utf-8')), bts))
     return made
 
-def write_llms(out, pages):
+def write_lang_llms(out, lang_twins):
+    """/<lang>/llms.txt for each language with Markdown twins. Returns [(code, name, count)]."""
+    names = {l['code']: l.get('name', l['code']) for l in i18n.languages(CFG)}
+    made = []
+    for code, items in sorted(lang_twins.items()):
+        meta = i18n.load_meta(code)
+        name = meta.get('name', names.get(code, code))
+        lines = [f'# {CFG["title"]} ({CFG["short_title"]}): {name}', '',
+                 f'> {re.sub(r"<[^>]+>", "", meta.get("banner", "")).strip()}', '',
+                 f'Pages translated well enough to offer in {name}, each as Markdown. The English original of every page is listed in {CFG["base_url"]}/llms.txt.', '']
+        for p, title in items:
+            lines.append(f'- [{title}]({CFG["base_url"]}/{code}{p.url}index.md)' + (' (Behind The Scenes, spoilers)' if p.layer == 'bts' else ''))
+        os.makedirs(os.path.join(out, code), exist_ok=True)
+        open(os.path.join(out, code, 'llms.txt'), 'w', encoding='utf-8').write('\n'.join(lines) + '\n')
+        made.append((code, name, len(items)))
+    return made
+
+def write_llms(out, pages, lang_twins=None):
     pub_text, full_text, head = full_text_bundles(pages)
     open(os.path.join(out, 'llms-full.txt'), 'w', encoding='utf-8').write(pub_text)
     open(os.path.join(out, 'llms-full-bts.txt'), 'w', encoding='utf-8').write(full_text)
@@ -1777,6 +1814,11 @@ def write_llms(out, pages):
             more = f' Its full notes are split into {len(parts)} files, linked from that page.' if parts else ''
             lines.append(f'- [{p.title}]({CFG["base_url"]}{p.url}index.md){tag}: {p.desc}{more}')
         lines.append('')
+    langs = write_lang_llms(out, lang_twins or {})
+    if langs:
+        lines += ['## Other languages', '',
+                  'AI-translated versions of the pages, as Markdown (only pages translated well enough to offer):', '']
+        lines += [f'- [{name}]({CFG["base_url"]}/{code}/llms.txt): {n} pages' for code, name, n in langs] + ['']
     open(os.path.join(out, 'llms.txt'), 'w', encoding='utf-8').write('\n'.join(lines))
     return bundles
 
@@ -1795,13 +1837,15 @@ def full_text_bundles(pages):
     return (head + '(Public layer only.)\n' + clean(''.join(pub)),
             head + '(Public and Behind The Scenes layers. Contains spoilers.)\n' + clean(''.join(full)), head)
 
-def write_sitemap(out, pages, lang_ready=(), bundles=()):
+def write_sitemap(out, pages, lang_ready=(), bundles=(), lang_twins=None):
     pages = [p for p in pages if not p.url.endswith('.html')]
     locs = [p.url for p in pages]
     locs += [f'/{code}{url}' for code, url in lang_ready]
     # the files for AI readers: llms.txt, the full-text bundles and every page's Markdown twin
     locs += ['/llms.txt', '/llms-full.txt', '/llms-full-bts.txt'] + [u for _, u, _, _ in bundles]
     locs += [p.url + name for p in pages for name in ['index.md'] + getattr(p, 'md_parts', [])]
+    for code, items in sorted((lang_twins or {}).items()):
+        locs += [f'/{code}/llms.txt'] + [f'/{code}{p.url}index.md' for p, _ in items]
     urls = ''.join(f'<url><loc>{CFG["base_url"]}{quote(u)}</loc></url>' for u in locs)
     open(os.path.join(out, 'sitemap.xml'), 'w').write(f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>')
 
