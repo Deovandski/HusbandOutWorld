@@ -1,4 +1,8 @@
 {
+ "06672e9dc70f": {
+  "en": "The Forway city emblem and three existing illustrations (human), used for the app icon and the shortcut icons. The code is adapted from the Deovandski site's app (PR #160).",
+  "t": "포웨이 도시 문장과 기존 삽화 세 점(사람이 그림). 앱 아이콘과 바로 가기 아이콘에 사용했습니다. 코드는 Deovandski 사이트의 앱(PR #160)을 가져와 고쳤습니다."
+ },
  "1014c3427fd9": {
   "en": "The <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> workflow.",
   "t": "<a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a>의 워크플로."
@@ -35,6 +39,10 @@
   "en": "Contributing",
   "t": "기여하기"
  },
+ "2d88e0a6c449": {
+  "en": "Written by the AI at his direct instruction. Each entry pairs a line or two of the draft with his comments (word for word) and answer, notes what the World Lore already says, proposes additions, and records his approval. The World Lore lines added this way are listed in each entry's \"Applied\" section rather than here.",
+  "t": "그의 직접 지시에 따라 AI가 작성. 각 항목은 초고의 한두 줄을 그의 코멘트(원문 그대로) 및 답변과 짝지어, 세계관에 이미 적힌 내용을 적고, 추가 내용을 제안하고, 그의 승인을 기록합니다. 이렇게 추가된 세계관 줄은 여기가 아니라 각 항목의 “Applied” 섹션에 나와 있습니다."
+ },
  "30fa617c63c2": {
   "en": "The palette comes from the Forway city emblem, the headings' Vraki script from the Vraki font (human). Body font: TeX Gyre Schola (GUST Font License), the same as the <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> site.",
   "t": "색상 팔레트는 포웨이 시 문장에서, 제목의 브라키 문자는 브라키 폰트에서 가져왔습니다(사람). 본문 폰트: TeX Gyre Schola(GUST Font License), <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> 사이트와 같습니다."
@@ -70,6 +78,14 @@
  "43005656bb78": {
   "en": "content/alt-text.json",
   "t": "content/alt-text.json"
+ },
+ "443dc8f2889c": {
+  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, ending that mantra with \"!\" like the others, and rewording one sentence near the end about raising a family. Later the same month, again at his direct instruction, the AI replaced the Vol 4 afterword's ghostwriter paragraph (\"If this series somehow explodes…\") with his new version, which adds how the collaboration with the ghostwriter went, and replaced the paragraph after it (\"And no. I didn't use AI…\") with his new version, which lists more of what Claude was used for.",
+  "t": "공개되어 있던 33개 페이지를 <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>로 HTML에서 Markdown으로 한 단어도 바꾸지 않고 변환했습니다. 그림이 같은 경우 블로그 이미지를 Behind The Scenes의 해당 파일로 연결했습니다. 예외: 2026년 11월 Deovandski가 4권 후기(<code>afterwords.md</code>)를 고쳐 새 만트라를 더하고 하바말 인용으로 끝나도록 마무리를 다시 썼습니다. AI는 그의 명시적인 지시에 따라 그 수정 내용을 입력했으며, 그가 씨앗/수확 만트라를 직접 추가한 뒤 “새로운 것 두 개”를 “새로운 것 세 개”로 바꾸고, 그 만트라를 다른 것들처럼 “!”로 끝낸 것, 끝부분의 가정을 꾸리는 것에 관한 한 문장을 고쳐 쓴 것도 포함됩니다. 같은 달 말, 다시 그의 직접 지시에 따라 AI는 4권 후기의 대필 작가 단락(“만약 이 시리즈가 어떻게든 대박이 난다면…”)을 대필 작가와의 협업이 어땠는지를 더한 그의 새 버전으로 바꾸고, 그다음 단락(“그리고 아니야. 이야기를 쓰거나 구상하는 데 AI를 쓰지 않았어…”)을 Claude를 어디에 썼는지 더 많이 나열한 그의 새 버전으로 바꿨습니다."
+ },
+ "480d6113fe94": {
+  "en": "<strong>Written by the AI:</strong> the app manifest, the icon generator (resizes and crops copies; the originals are only read), the service worker that keeps opened pages readable offline, and its offline notice.",
+  "t": "<strong>AI가 작성:</strong> 앱 매니페스트, 아이콘 생성기(사본의 크기를 바꾸고 잘라냄; 원본은 읽기만 함), 열어 본 페이지를 오프라인에서도 읽을 수 있게 해 주는 서비스 워커, 그리고 그 오프라인 안내."
  },
  "4d3adbe367b3": {
   "en": "Written by the AI.",
@@ -119,6 +135,10 @@
   "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0.",
   "t": "© Deovandski Skibinski Junior. CC‑BY‑NC‑SA‑4.0 라이선스."
  },
+ "70e52c0d9602": {
+  "en": "Deovandski's review comments on the ghostwriter's Vol 4 drafts, and his approval notes.",
+  "t": "4권 대필 작가 초고에 대한 Deovandski의 검토 코멘트와 승인 메모."
+ },
  "799d8f14e5b5": {
   "en": "Where it comes from",
   "t": "출처"
@@ -143,10 +163,6 @@
   "en": "Built automatically: each term, its topic, and the first sentence or two of its description, cut from the author's text.",
   "t": "자동으로 생성: 각 용어, 그 주제, 작가의 글에서 잘라 낸 설명의 첫 한두 문장."
  },
- "8839c9eb7b2f": {
-  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, ending that mantra with \"!\" like the others, and rewording one sentence near the end about raising a family.",
-  "t": "공개되어 있던 33개 페이지를 <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>로 HTML에서 Markdown으로 한 단어도 바꾸지 않고 변환했습니다. 그림이 같은 경우 블로그 이미지를 Behind The Scenes의 해당 파일로 연결했습니다. 예외: 2026년 11월 Deovandski가 4권 후기(<code>afterwords.md</code>)를 고쳐 새 만트라를 더하고 하바말 인용으로 끝나도록 마무리를 다시 썼습니다. AI는 그의 명시적인 지시에 따라 그 수정 내용을 입력했으며, 그가 씨앗/수확 만트라를 직접 추가한 뒤 “새로운 것 두 개”를 “새로운 것 세 개”로 바꾸고, 그 만트라를 다른 것들처럼 “!”로 끝낸 것, 끝부분의 가정을 꾸리는 것에 관한 한 문장을 고쳐 쓴 것도 포함됩니다."
- },
  "894948ec60db": {
   "en": "<strong>The translations are AI-written, and every translated page says so.</strong> The website is also offered in other languages (pick one in Settings). Claude translated the author's text ahead of time (it is not machine translation on the fly), following the author's rules: names are written by sound, never translated. Each translated page carries a banner saying it was AI-translated from the original works, with a link to the English original. English is the source; if a translation and the English disagree, the English wins.",
   "t": "<strong>번역은 AI가 했으며, 번역된 모든 페이지에 그렇게 표시되어 있습니다.</strong> 이 웹사이트는 다른 언어로도 제공됩니다(설정에서 고를 수 있습니다). Claude가 작가의 글을 미리 번역했으며(실시간 기계 번역이 아닙니다), 작가의 규칙을 따랐습니다. 이름은 소리대로 적고, 절대 의미로 옮기지 않습니다. 번역된 각 페이지에는 원작에서 AI가 번역했다는 배너와 영어 원문으로 가는 링크가 있습니다. 원본은 영어이며, 번역과 영어가 다르면 영어가 우선합니다."
@@ -163,13 +179,13 @@
   "en": "World Lore pages",
   "t": "세계관 페이지"
  },
- "8ea27392922d": {
-  "en": "Moved them into this folder without editing them. The one exception: at Deovandski's request, the Vraki typeface license (<code>Logo and Font/LICENSE.md</code>) now names LinkedIn and email as the way to ask for commercial approval.",
-  "t": "편집하지 않고 이 폴더로 옮겼습니다. 단 하나의 예외: Deovandski의 요청에 따라 브라키 서체 라이선스(<code>Logo and Font/LICENSE.md</code>)에 상업적 승인을 요청하는 방법으로 LinkedIn과 이메일을 적었습니다."
- },
  "91ea456b6a05": {
   "en": "<strong>Translated by the AI</strong> into each language in the Settings list, paragraph by paragraph, with <a href=\"tools/i18n.py\">tools/i18n.py</a>. The name spellings in each <code>glossary.json</code> follow the author's rule (by sound, never translated). Every translated page is labeled as AI-translated.",
   "t": "<a href=\"tools/i18n.py\">tools/i18n.py</a>로 문단 단위로 설정 목록에 있는 각 언어로 <strong>AI가 번역</strong>했습니다. 각 <code>glossary.json</code>의 이름 표기는 작가의 규칙(소리대로, 절대 의미로 옮기지 않음)을 따릅니다. 번역된 모든 페이지에는 AI 번역이라고 표시되어 있습니다."
+ },
+ "94cb765d473b": {
+  "en": "Moved them into this folder without editing them. The one exception: at Deovandski's request, the Vraki typeface license (<code>Logo and Font/LICENSE.md</code>) now names LinkedIn and email as the way to ask for commercial approval. Also at his request (\"Bypass due to content mod\", issue #79), two explicit pictures embedded in the story notes (Arc #2 and Arc #3, <code>[image4]</code> in each) were replaced with copies blurred by 50%. Also the World Lore additions Deovandski approved in <a href=\"Legacy/Behind%20The%20Scenes/World%20Lore%20Q%26A\">World Lore Q&amp;A</a> (in the repo, each added line points back to its entry; the website leaves those pointers out).",
+  "t": "편집하지 않고 이 폴더로 옮겼습니다. 단 하나의 예외: Deovandski의 요청에 따라 브라키 서체 라이선스(<code>Logo and Font/LICENSE.md</code>)에 상업적 승인을 요청하는 방법으로 LinkedIn과 이메일을 적었습니다. 역시 그의 요청에 따라(“Bypass due to content mod”, 이슈 #79), 스토리 노트에 들어 있던 노골적인 그림 두 장(Arc #2와 Arc #3, 각각의 <code>[image4]</code>)을 50% 흐리게 처리한 사본으로 바꿨습니다. 또한 Deovandski가 <a href=\"Legacy/Behind%20The%20Scenes/World%20Lore%20Q%26A\">World Lore Q&amp;A</a>에서 승인한 세계관 추가 내용도 포함됩니다(저장소에서는 추가된 각 줄이 해당 항목을 가리키며, 웹사이트에서는 그 표시를 뺍니다)."
  },
  "94f64ad638e3": {
   "en": "Written by the AI, for accessibility (see above).",
@@ -215,6 +231,10 @@
   "en": "<strong>The website shows the author's own words.</strong> The novel chapters, the public descriptions (from the old blog) and the Behind The Scenes notes (from the original docs) are displayed as written. The AI's job was to arrange them, not to rewrite them.",
   "t": "<strong>웹사이트는 작가 자신의 글을 보여 줍니다.</strong> 소설의 각 장, 공개 설명(옛 블로그에서 가져옴), 비하인드 노트(원본 문서에서 가져옴)는 쓰인 그대로 표시됩니다. AI의 일은 그것들을 배치하는 것이었지, 다시 쓰는 것이 아니었습니다."
  },
+ "ae796b80756f": {
+  "en": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (installable app)",
+  "t": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (설치 가능한 앱)"
+ },
  "aff9c732ee00": {
   "en": "Attribution statement",
   "t": "귀속 명시"
@@ -230,6 +250,10 @@
  "b7adb938bc6e": {
   "en": "AI-readable files (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, a Markdown copy of every page, and <code>data/*.json</code>)",
   "t": "AI가 읽을 수 있는 파일(<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, 모든 페이지의 Markdown 사본, <code>data/*.json</code>)"
+ },
+ "b94e00dc84fc": {
+  "en": "Legacy/Behind The Scenes/World Lore Q&amp;A",
+  "t": "Legacy/Behind The Scenes/World Lore Q&amp;A"
  },
  "c39f6c800ffc": {
   "en": "content/summaries.json",

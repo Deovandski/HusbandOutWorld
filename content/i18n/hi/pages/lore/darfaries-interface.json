@@ -19,6 +19,10 @@
   "en": "As you feed a specific command and energy into the interface, you will see balls representing the command. You can never mix and match commands; only one command + energy + release may be executed. Below is a plain reference of the different ball statuses",
   "t": "जैसे-जैसे तुम इंटरफ़ेस में एक ख़ास आदेश और ऊर्जा डालते हो, तुम्हें आदेश को दिखाती गेंदें दिखेंगी। तुम आदेशों को कभी मिला नहीं सकते; सिर्फ़ एक आदेश + ऊर्जा + छोड़ना चलाया जा सकता है। नीचे गेंदों की अलग-अलग अवस्थाओं का एक सरल संदर्भ है"
  },
+ "11aa2b4fa9b9": {
+  "en": "Full Darfaries Interface - scribling and soul energy stone mode (video)",
+  "t": "पूरा डारफ़ेरीज़ इंटरफ़ेस - घसीट-लिखाई और आत्मा-ऊर्जा पत्थर मोड (वीडियो)"
+ },
  "12ef1365e090": {
   "en": "But hey, at least your best friend might be honored to be stuffed and cooked—vorarephilia is a thing anyways.",
   "t": "पर चलो, कम से कम तुम्हारा सबसे अच्छा दोस्त भरकर पकाए जाने पर सम्मानित महसूस कर सकता है—वैसे भी वोरारेफ़ीलिया जैसी चीज़ होती है।"
@@ -143,6 +147,10 @@
   "en": "Forway considered banning non-logogram usage of this interface in the early 800s A.G., but the scientific community's pushback was too strong. Community opinion shifted in the early 900s A.G. after many scientific tragedies occurred without clear progress. By the late 900s A.G., only fringe scientists like Gabiro Sundeath (also known as Gabiro Sanbi Royal) seemed to be still investigating it.",
   "t": "फ़ॉरवे ने 800 के दशक A.G. की शुरुआत में बिना लोगोग्राम के इस इंटरफ़ेस के इस्तेमाल पर रोक लगाने पर विचार किया, पर वैज्ञानिक समुदाय का विरोध बहुत ज़्यादा था। 900 के दशक A.G. की शुरुआत में, बिना किसी साफ़ प्रगति के कई वैज्ञानिक हादसों के बाद, समुदाय की राय बदल गई। 900 के दशक A.G. के आख़िर तक, सिर्फ़ गबीरो सनडेथ (जिसे गबीरो सनबी रॉयल भी कहते हैं) जैसे हाशिये के वैज्ञानिक ही इसका अध्ययन करते लगते थे।"
  },
+ "7c67e01db87c": {
+  "en": "Full Darfaries Interface - Sigil and Nari stone mode",
+  "t": "पूरा डारफ़ेरीज़ इंटरफ़ेस - मुहर और नरी पत्थर मोड"
+ },
  "7df913eb7771": {
   "en": "Ring #2: 8",
   "t": "छल्ला #2: 8"
@@ -150,10 +158,6 @@
  "804cb96bfdea": {
   "en": "To release the spell, unclench the fingers. To add motion to the spell, cock your arm, then throw it towards the target to transfer the inertia into the spell.",
   "t": "जादू छोड़ने के लिए उँगलियाँ ढीली करो। जादू को गति देने के लिए, अपनी बाँह पीछे खींचो, फिर उसे निशाने की ओर फेंको ताकि जड़त्व जादू में चला जाए।"
- },
- "83892db6fdb4": {
-  "en": "Applying command",
-  "t": "आदेश लगाना"
  },
  "889505c1f708": {
   "en": "This widely-known interface came up as a merger between the ancient species Fuhraies’s, Buhraies’s, and Lishies’s genetics and their own interfaces.",
@@ -171,10 +175,6 @@
   "en": "Sigil rings are a modern and quicker way to interact with the Darfaries Interface. Without it, one must draw the logograms into the skin of their palm, which can be a lengthy process, even for seasoned adventurers. Dangerous, too, as if you draw something unclear as it could cause the interface to default to your thoughts, and you needlessly turn your best friend into a fanchaki all because you thought about what’s cooking for dinner while casting it. And if you’re really messing with the soul, even if by accident, you might never find a way to undo it.",
   "t": "मुहर वाली अँगूठियाँ डारफ़ेरीज़ इंटरफ़ेस से काम लेने का एक आधुनिक और तेज़ तरीक़ा हैं। उनके बिना हथेली की त्वचा पर लोगोग्राम बनाने पड़ते हैं, जिसमें मँजे हुए साहसियों को भी समय लग सकता है। और यह ख़तरनाक भी है: अगर तुम कुछ धुँधला बनाओ, तो इंटरफ़ेस तुम्हारे विचारों का सहारा ले सकता है, और तुम जादू चलाते समय बस रात के खाने के बारे में सोचने की वजह से अपने सबसे अच्छे दोस्त को बेवजह फ़ानचाकी में बदल दोगे। और अगर तुमने सच में आत्मा को छू लिया, अनजाने में भी, तो शायद उसे रद्द करने का तरीक़ा कभी न मिले।"
  },
- "a2a069ddeee8": {
-  "en": "Feeding energy",
-  "t": "ऊर्जा लाना"
- },
  "a2b9afce0d53": {
   "en": "Ring #4: 32*",
   "t": "छल्ला #4: 32*"
@@ -187,6 +187,10 @@
   "en": "Using The Interface - Release",
   "t": "इंटरफ़ेस का इस्तेमाल - छोड़ना"
  },
+ "a8fe88bccc82": {
+  "en": "Full Darfaries Interface - scribling and soul energy stone mode",
+  "t": "पूरा डारफ़ेरीज़ इंटरफ़ेस - घसीट-लिखाई और आत्मा-ऊर्जा पत्थर मोड"
+ },
  "ad789405eb37": {
   "en": "Compound objects",
   "t": "संयुक्त वस्तुएँ"
@@ -194,6 +198,10 @@
  "b4801c89826b": {
   "en": "Due to their size, Darfaries cannot fly, but they can somewhat dampen their fall from approximately three-story buildings. Wozefaries can dampen their fall from up to ten-story buildings, while Sorefaries can control their attitude at will, and even carry some weight with them. The weight depends on the Sorefaries’ strength, dexterity, and soul energy capacity.",
   "t": "अपने आकार के कारण डारफ़ेरीज़ उड़ नहीं सकते, पर लगभग तीन मंज़िला इमारतों से गिरने पर आंशिक रूप से अपना गिरना धीमा कर सकते हैं। वोज़फ़ेरीज़ दस मंज़िल तक की इमारतों से गिरना धीमा कर सकते हैं, जबकि सोरफ़ेरीज़ अपनी मर्ज़ी से अपनी जगह नियंत्रित कर सकते हैं, और थोड़ा वज़न भी उठा सकते हैं। वज़न सोरफ़ेरीज़ की ताक़त, फुर्ती और आत्मा-ऊर्जा की क्षमता पर निर्भर करता है।"
+ },
+ "c0074aa34b2d": {
+  "en": "Darfaries Interface Video showcase",
+  "t": "डारफ़ेरीज़ इंटरफ़ेस वीडियो प्रदर्शन"
  },
  "c8c7488b1383": {
   "en": "Environmental changes, especially creation, destruction, and manipulation of elemental properties such as water, fire, terrain, and gravity, are commonly performed through this interface.",
@@ -215,10 +223,6 @@
   "en": "Public text: science-darfaries-interface.md",
   "t": "सार्वजनिक पाठ: science-darfaries-interface.md"
  },
- "d9aac905e22d": {
-  "en": "Video versions",
-  "t": "वीडियो संस्करण"
- },
  "de1369b50eb5": {
   "en": "Not to say humans can’t use this interface. They certainly can! Although, only if they have shared blood with Darfaries or Wozefaries in their family.",
   "t": "ऐसा नहीं कि इंसान यह इंटरफ़ेस इस्तेमाल नहीं कर सकते। बिल्कुल कर सकते हैं! पर सिर्फ़ तभी जब उनके परिवार में डारफ़ेरीज़ या वोज़फ़ेरीज़ के साथ साझा ख़ून हो।"
@@ -226,6 +230,10 @@
  "ded446aabbba": {
   "en": "Now you must make a fist with your other hand. If you can use this interface, a distinct group of five rings will surge from the white flames in your arms and expand outward, with the smallest ring closer to your wrist.",
   "t": "अब तुम्हें दूसरे हाथ की मुट्ठी भींचनी होगी। अगर तुम यह इंटरफ़ेस इस्तेमाल कर सकते हो, तो तुम्हारी बाँहों की सफ़ेद लपटों से पाँच छल्लों का एक अलग समूह निकलेगा और बाहर की ओर फैलेगा, सबसे छोटा छल्ला तुम्हारी कलाई के सबसे पास।"
+ },
+ "e5df83155e66": {
+  "en": "Full Darfaries Interface - Sigil and Nari stone mode (video)",
+  "t": "पूरा डारफ़ेरीज़ इंटरफ़ेस - मुहर और नरी पत्थर मोड (वीडियो)"
  },
  "e693f60ced95": {
   "en": "It is a simple trial in which random passersby are asked to use the experimental sigil ring. If any result is a miscast, the compound object is not approved.",

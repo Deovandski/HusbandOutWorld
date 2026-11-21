@@ -1,4 +1,8 @@
 {
+ "06672e9dc70f": {
+  "en": "The Forway city emblem and three existing illustrations (human), used for the app icon and the shortcut icons. The code is adapted from the Deovandski site's app (PR #160).",
+  "t": "Lambang bandar Forway dan tiga ilustrasi sedia ada (buatan manusia), digunakan untuk ikon aplikasi dan ikon pintasan. Kodnya diadaptasi daripada aplikasi laman Deovandski (PR #160)."
+ },
  "1014c3427fd9": {
   "en": "The <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> workflow.",
   "t": "Aliran kerja <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a>."
@@ -35,6 +39,10 @@
   "en": "Contributing",
   "t": "Menyumbang"
  },
+ "2d88e0a6c449": {
+  "en": "Written by the AI at his direct instruction. Each entry pairs a line or two of the draft with his comments (word for word) and answer, notes what the World Lore already says, proposes additions, and records his approval. The World Lore lines added this way are listed in each entry's \"Applied\" section rather than here.",
+  "t": "Ditulis oleh AI atas arahan langsung beliau. Setiap entri memadankan satu atau dua baris draf dengan komen beliau (perkataan demi perkataan) dan jawapannya, mencatat apa yang sudah dinyatakan oleh Lore Dunia, mencadangkan tambahan, dan merekodkan kelulusan beliau. Baris Lore Dunia yang ditambah dengan cara ini disenaraikan dalam bahagian \"Applied\" setiap entri, bukan di sini."
+ },
  "30fa617c63c2": {
   "en": "The palette comes from the Forway city emblem, the headings' Vraki script from the Vraki font (human). Body font: TeX Gyre Schola (GUST Font License), the same as the <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a> site.",
   "t": "Palet warna datang daripada lambang bandar Forway, tulisan Vraki pada tajuk daripada fon Vraki (manusia). Fon badan: TeX Gyre Schola (GUST Font License), sama seperti laman <a href=\"https://github.com/Deovandski/Vraki-West-March-Campaign-D-D\" rel=\"noopener\">Vraki West March Campaign</a>."
@@ -70,6 +78,14 @@
  "43005656bb78": {
   "en": "content/alt-text.json",
   "t": "content/alt-text.json"
+ },
+ "443dc8f2889c": {
+  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, ending that mantra with \"!\" like the others, and rewording one sentence near the end about raising a family. Later the same month, again at his direct instruction, the AI replaced the Vol 4 afterword's ghostwriter paragraph (\"If this series somehow explodes…\") with his new version, which adds how the collaboration with the ghostwriter went, and replaced the paragraph after it (\"And no. I didn't use AI…\") with his new version, which lists more of what Claude was used for.",
+  "t": "Menukar setiap satu daripada 33 halaman aktif daripada HTML kepada Markdown, perkataan demi perkataan, dengan <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Menghalakan imej blog kepada fail yang sepadan dalam Behind The Scenes apabila gambarnya sama. Pengecualiannya: pada November 2026 Deovandski mengubah kata penutup Jilid 4 beliau (<code>afterwords.md</code>), menambah mantera baharu dan menulis semula penutupnya supaya berakhir dengan petikan Hávamál. AI menaip suntingan itu atas arahan jelas beliau, termasuk menukar \"two new ones\" kepada \"three new ones\" selepas beliau sendiri menambah mantera benih/tuaian, menamatkan mantera itu dengan \"!\" seperti yang lain, dan mengolah semula satu ayat berhampiran penghujung tentang membina keluarga. Kemudian pada bulan yang sama, sekali lagi atas arahan langsung beliau, AI menggantikan perenggan penulis bayangan dalam kata penutup Jilid 4 (\"Jika siri ini entah bagaimana meletup…\") dengan versi baharu beliau, yang menambah bagaimana kerjasama dengan penulis bayangan itu berjalan, dan menggantikan perenggan selepasnya (\"Dan tidak. Saya tidak menggunakan AI…\") dengan versi baharu beliau, yang menyenaraikan lebih banyak perkara yang dibuat dengan Claude."
+ },
+ "480d6113fe94": {
+  "en": "<strong>Written by the AI:</strong> the app manifest, the icon generator (resizes and crops copies; the originals are only read), the service worker that keeps opened pages readable offline, and its offline notice.",
+  "t": "<strong>Ditulis oleh AI:</strong> manifes aplikasi, penjana ikon (mengubah saiz dan memangkas salinan; fail asal hanya dibaca), service worker yang memastikan halaman yang dibuka kekal boleh dibaca di luar talian, dan notis luar taliannya."
  },
  "4d3adbe367b3": {
   "en": "Written by the AI.",
@@ -119,6 +135,10 @@
   "en": "© Deovandski Skibinski Junior. Licensed under CC‑BY‑NC‑SA‑4.0.",
   "t": "© Deovandski Skibinski Junior. Dilesenkan di bawah CC‑BY‑NC‑SA‑4.0."
  },
+ "70e52c0d9602": {
+  "en": "Deovandski's review comments on the ghostwriter's Vol 4 drafts, and his approval notes.",
+  "t": "Komen semakan Deovandski pada draf Jilid 4 penulis bayangan, dan nota kelulusan beliau."
+ },
  "799d8f14e5b5": {
   "en": "Where it comes from",
   "t": "Dari mana asalnya"
@@ -143,10 +163,6 @@
   "en": "Built automatically: each term, its topic, and the first sentence or two of its description, cut from the author's text.",
   "t": "Dibina secara automatik: setiap istilah, topiknya, dan satu atau dua ayat pertama penerangannya, dipotong daripada teks pengarang."
  },
- "8839c9eb7b2f": {
-  "en": "Converted each of the 33 live pages from HTML to Markdown, word for word, with <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Pointed blog images at the matching file in Behind The Scenes where the pictures were the same. The exceptions: in November 2026 Deovandski changed his Vol 4 afterword (<code>afterwords.md</code>), adding new mantras and rewriting the closing to end with a Hávamál quote. The AI typed those edits in at his explicit direction, including changing \"two new ones\" to \"three new ones\" after he added the seed/harvest mantra himself, ending that mantra with \"!\" like the others, and rewording one sentence near the end about raising a family.",
-  "t": "Menukar setiap satu daripada 33 halaman aktif daripada HTML kepada Markdown, perkataan demi perkataan, dengan <a href=\"tools/import_blogger.py\">tools/import_blogger.py</a>. Menghalakan imej blog kepada fail yang sepadan dalam Behind The Scenes apabila gambarnya sama. Pengecualiannya: pada November 2026 Deovandski mengubah kata penutup Jilid 4 beliau (<code>afterwords.md</code>), menambah mantera baharu dan menulis semula penutupnya supaya berakhir dengan petikan Hávamál. AI menaip suntingan itu atas arahan jelas beliau, termasuk menukar \"two new ones\" kepada \"three new ones\" selepas beliau sendiri menambah mantera benih/tuaian, menamatkan mantera itu dengan \"!\" seperti yang lain, dan mengolah semula satu ayat berhampiran penghujung tentang membina keluarga."
- },
  "894948ec60db": {
   "en": "<strong>The translations are AI-written, and every translated page says so.</strong> The website is also offered in other languages (pick one in Settings). Claude translated the author's text ahead of time (it is not machine translation on the fly), following the author's rules: names are written by sound, never translated. Each translated page carries a banner saying it was AI-translated from the original works, with a link to the English original. English is the source; if a translation and the English disagree, the English wins.",
   "t": "<strong>Terjemahan ditulis oleh AI, dan setiap halaman terjemahan menyatakannya.</strong> Laman web ini juga ditawarkan dalam bahasa lain (pilih satu dalam Tetapan). Claude menterjemah teks pengarang lebih awal (ia bukan terjemahan mesin secara langsung), mengikut peraturan pengarang: nama ditulis mengikut bunyi, tidak sesekali diterjemah. Setiap halaman terjemahan membawa sepanduk yang menyatakan ia diterjemah oleh AI daripada karya asal, dengan pautan ke versi asal bahasa Inggeris. Bahasa Inggeris ialah sumbernya; jika terjemahan dan bahasa Inggeris bercanggah, bahasa Inggeris yang diguna pakai."
@@ -163,13 +179,13 @@
   "en": "World Lore pages",
   "t": "Halaman Lore Dunia"
  },
- "8ea27392922d": {
-  "en": "Moved them into this folder without editing them. The one exception: at Deovandski's request, the Vraki typeface license (<code>Logo and Font/LICENSE.md</code>) now names LinkedIn and email as the way to ask for commercial approval.",
-  "t": "Memindahkannya ke dalam folder ini tanpa menyuntingnya. Satu-satunya pengecualian: atas permintaan Deovandski, lesen muka taip Vraki (<code>Logo and Font/LICENSE.md</code>) kini menyebut LinkedIn dan e-mel sebagai cara untuk meminta kelulusan komersial."
- },
  "91ea456b6a05": {
   "en": "<strong>Translated by the AI</strong> into each language in the Settings list, paragraph by paragraph, with <a href=\"tools/i18n.py\">tools/i18n.py</a>. The name spellings in each <code>glossary.json</code> follow the author's rule (by sound, never translated). Every translated page is labeled as AI-translated.",
   "t": "<strong>Diterjemah oleh AI</strong> ke dalam setiap bahasa dalam senarai Tetapan, perenggan demi perenggan, dengan <a href=\"tools/i18n.py\">tools/i18n.py</a>. Ejaan nama dalam setiap <code>glossary.json</code> mengikut peraturan pengarang (mengikut bunyi, tidak sesekali diterjemah). Setiap halaman terjemahan dilabel sebagai diterjemah oleh AI."
+ },
+ "94cb765d473b": {
+  "en": "Moved them into this folder without editing them. The one exception: at Deovandski's request, the Vraki typeface license (<code>Logo and Font/LICENSE.md</code>) now names LinkedIn and email as the way to ask for commercial approval. Also at his request (\"Bypass due to content mod\", issue #79), two explicit pictures embedded in the story notes (Arc #2 and Arc #3, <code>[image4]</code> in each) were replaced with copies blurred by 50%. Also the World Lore additions Deovandski approved in <a href=\"Legacy/Behind%20The%20Scenes/World%20Lore%20Q%26A\">World Lore Q&amp;A</a> (in the repo, each added line points back to its entry; the website leaves those pointers out).",
+  "t": "Memindahkannya ke dalam folder ini tanpa menyuntingnya. Satu-satunya pengecualian: atas permintaan Deovandski, lesen muka taip Vraki (<code>Logo and Font/LICENSE.md</code>) kini menyebut LinkedIn dan e-mel sebagai cara untuk meminta kelulusan komersial. Juga atas permintaan beliau (\"Bypass due to content mod\", isu #79), dua gambar eksplisit yang tertanam dalam nota cerita (Arc #2 dan Arc #3, <code>[image4]</code> dalam setiap satu) digantikan dengan salinan yang dikaburkan sebanyak 50%. Juga tambahan Lore Dunia yang diluluskan Deovandski dalam <a href=\"Legacy/Behind%20The%20Scenes/World%20Lore%20Q%26A\">World Lore Q&amp;A</a> (dalam repo, setiap baris yang ditambah merujuk kembali kepada entrinya; laman web meninggalkan rujukan itu)."
  },
  "94f64ad638e3": {
   "en": "Written by the AI, for accessibility (see above).",
@@ -215,6 +231,10 @@
   "en": "<strong>The website shows the author's own words.</strong> The novel chapters, the public descriptions (from the old blog) and the Behind The Scenes notes (from the original docs) are displayed as written. The AI's job was to arrange them, not to rewrite them.",
   "t": "<strong>Laman web ini memaparkan kata-kata pengarang sendiri.</strong> Bab-bab novel, penerangan umum (daripada blog lama) dan nota Di Sebalik Tabir (daripada dokumen asal) dipaparkan seperti yang ditulis. Tugas AI ialah menyusunnya, bukan menulis semula."
  },
+ "ae796b80756f": {
+  "en": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (installable app)",
+  "t": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (aplikasi yang boleh dipasang)"
+ },
  "aff9c732ee00": {
   "en": "Attribution statement",
   "t": "Kenyataan atribusi"
@@ -230,6 +250,10 @@
  "b7adb938bc6e": {
   "en": "AI-readable files (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, a Markdown copy of every page, and <code>data/*.json</code>)",
   "t": "Fail yang boleh dibaca AI (<code>llms.txt</code>, <code>llms-full.txt</code>, <code>llms-full-bts.txt</code>, salinan Markdown setiap halaman, dan <code>data/*.json</code>)"
+ },
+ "b94e00dc84fc": {
+  "en": "Legacy/Behind The Scenes/World Lore Q&amp;A",
+  "t": "Legacy/Behind The Scenes/World Lore Q&amp;A"
  },
  "c39f6c800ffc": {
   "en": "content/summaries.json",
