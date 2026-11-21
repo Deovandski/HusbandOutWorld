@@ -163,7 +163,7 @@
 | Item | Isekai History | Cost/Item |
 | :---: | ----- | :---: |
 | **Sigil Rings** | **Soul Wood Black Wood** | See Economy Calculator |
-| **Fost Lamp** ![][image7] ![][image8] | A fost stone about the size of a fist encased in glass and wood with an opening on top. They glow brighter than a candle when in contact with saltwater. The fist-sized stone lasts a year or so when used primarily at night. Oil lamps don't exist in Vraki. A big, new fost lamp is unusually bright (like a dentist's office) and can cost as much as a handful of amethysts, a steep price for common folk. | \~20 Pearls/simple one |
+| **Fost Lamp** ![][image7] ![][image8] | A fost stone about the size of a fist encased in glass and wood with an opening on top. They glow brighter than a candle (just for the sake of comparison: candles as we know them are not a thing in Vraki) when in contact with saltwater. The fist-sized stone lasts a year or so when used primarily at night. Oil lamps don't exist in Vraki. A big, new fost lamp is unusually bright (like a dentist's office) and can cost as much as a handful of amethysts, a steep price for common folk. | \~20 Pearls/simple one |
 
 # 
 
