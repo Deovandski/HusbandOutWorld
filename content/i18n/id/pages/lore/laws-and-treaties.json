@@ -63,6 +63,10 @@
   "en": "Defenders cannot move from their position and must withstand the brunt of the attack but can counter or attack back if they do not move from their location.",
   "t": "Yang bertahan tidak boleh berpindah dari posisinya dan harus menahan sebagian besar serangan, tetapi boleh menangkis atau membalas selama tidak bergeser dari tempatnya."
  },
+ "2bfc57e15ee9": {
+  "en": "A turn only encompasses ONE attack, such as a single weapon swing, a stab, or a fist punch.",
+  "t": "Satu giliran hanya terdiri dari SATU serangan, seperti satu ayunan senjata, satu tusukan, atau satu pukulan."
+ },
  "2d753779301b": {
   "en": "King-Fest Addendum",
   "t": "Adendum King-Fest"
@@ -118,10 +122,6 @@
  "4b5e84be0e45": {
   "en": "Check",
   "t": "Pemeriksaan"
- },
- "4d92136bafac": {
-  "en": "A turn only encompasses ONE attack, such as a single weapon swing, a stab, or a first punch.",
-  "t": "Satu giliran hanya terdiri dari SATU serangan, seperti satu ayunan senjata, satu tusukan, atau satu pukulan pertama."
  },
  "521d044bb4e3": {
   "en": "Sub 1) Essential goods to the four kingdoms' safety, commonwealth, and stability will be managed by Forway to reduce costs and improve trading. Subsidies shall be funded with taxpayer money.",
@@ -179,6 +179,10 @@
   "en": "Section #1",
   "t": "Pasal #1"
  },
+ "7ba0ff79f7b2": {
+  "en": "Sub 4) The accepted UOM for transactions shall be the Vraki UOM across all kingdoms.",
+  "t": "Ayat 4) Satuan ukur yang diakui untuk transaksi di semua kerajaan adalah satuan ukur Vraki."
+ },
  "7c197735d0f3": {
   "en": "The duelers switch roles (attacker vs. defender) on every turn.",
   "t": "Para petarung bertukar peran (penyerang dan yang bertahan) di setiap giliran."
@@ -186,10 +190,6 @@
  "7c259436798e": {
   "en": "For marriage duels, a “win” is establishing a lifelong bond, and “loss” is determining they aren’t meant for each other.",
   "t": "Untuk duel pernikahan, \"menang\" berarti menjalin ikatan seumur hidup, dan \"kalah\" berarti memastikan bahwa mereka bukan jodoh."
- },
- "7d7689771f34": {
-  "en": "Sub 4) The accepted UOM for transactions shall be the Vraki OUM across all kingdoms.",
-  "t": "Ayat 4) Satuan ukur yang diakui untuk transaksi di semua kerajaan adalah satuan ukur Vraki."
  },
  "8a9356ede77d": {
   "en": "Section #3",
@@ -226,10 +226,6 @@
  "a8d6aed71f1e": {
   "en": "Sub 1) All cities and Kingdoms are prohibited from mass producing an item for trading if it does not have a comparative advantage over a given good in its economic region. Violation is subjected to forfeiture and hefty fines as a percentage of a given kingdom's earnings.",
   "t": "Ayat 1) Semua kota dan Kerajaan dilarang memproduksi suatu barang secara massal untuk diperdagangkan jika tidak memiliki keunggulan komparatif atas barang tersebut di wilayah ekonominya. Pelanggaran dikenai penyitaan dan denda berat berupa persentase dari pendapatan kerajaan yang bersangkutan."
- },
- "afb35e64a8e9": {
-  "en": "Sub 2) All services and goods must be exchanged through Ball's currency.",
-  "t": "Ayat 2) Semua jasa dan barang harus dipertukarkan dengan mata uang Bola."
  },
  "b169a7688d58": {
   "en": "Loser vs. Winner",
@@ -346,6 +342,10 @@
  "eb1af86e02c7": {
   "en": "The Prosperity Treaty (Prosperity Law)",
   "t": "Perjanjian Kemakmuran (Hukum Kemakmuran)"
+ },
+ "eefc05ace94a": {
+  "en": "Sub 2) All services and goods must be exchanged through Balls currency.",
+  "t": "Ayat 2) Semua jasa dan barang harus dipertukarkan dengan mata uang Bola."
  },
  "ef70286eae31": {
   "en": "Temporary detention of kingdom citizens is allowed at most for six weeks, with one of these requirements being met.",

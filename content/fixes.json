@@ -114,5 +114,46 @@
       "replace": "[Race Soul Average](Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Soul%20Energy.xlsx)",
       "why": "Points to the spreadsheet's copy in this repository (sheet \"Race Soul Avg\") instead of Google Sheets (the author's rule: link to the website or the repository, not Google Drive)."
     }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Professions.md": [
+    {
+      "find": "# **Innkeeper & Barkeppers**",
+      "replace": "# **Innkeeper & Barkeepers**",
+      "why": "The author's decision (issue #103, P3): typo fix."
+    }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Laws and Treaties.md": [
+    {
+      "find": "the Vraki OUM",
+      "replace": "the Vraki UOM",
+      "why": "The author's decision (issue #103, LT1): typo fix."
+    },
+    {
+      "find": "through Ball's currency",
+      "replace": "through Balls currency",
+      "why": "The author's decision (issue #103, LT1): typo fix."
+    },
+    {
+      "find": "or a first punch",
+      "replace": "or a fist punch",
+      "why": "The author's decision (issue #103, LT1): typo fix."
+    }
+  ],
+  "Legacy/Public/law-treaties.md": [
+    {
+      "find": "the Vraki OUM",
+      "replace": "the Vraki UOM",
+      "why": "The author's decision (issue #103, LT1): typo fix."
+    },
+    {
+      "find": "through Ball's currency",
+      "replace": "through Balls currency",
+      "why": "The author's decision (issue #103, LT1): typo fix."
+    },
+    {
+      "find": "or a first punch",
+      "replace": "or a fist punch",
+      "why": "The author's decision (issue #103, LT1): typo fix."
+    }
   ]
 }

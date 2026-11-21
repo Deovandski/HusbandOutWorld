@@ -63,6 +63,10 @@
   "en": "Defenders cannot move from their position and must withstand the brunt of the attack but can counter or attack back if they do not move from their location.",
   "t": "Verteidiger dürfen sich nicht von ihrer Position bewegen und müssen die Wucht des Angriffs aushalten, dürfen aber kontern oder zurückschlagen, wenn sie sich nicht von ihrem Platz bewegen."
  },
+ "2bfc57e15ee9": {
+  "en": "A turn only encompasses ONE attack, such as a single weapon swing, a stab, or a fist punch.",
+  "t": "Eine Runde umfasst nur EINEN Angriff, etwa einen einzelnen Waffenschwung, einen Stich oder einen Faustschlag."
+ },
  "2d753779301b": {
   "en": "King-Fest Addendum",
   "t": "Nachtrag zum King-Fest"
@@ -118,10 +122,6 @@
  "4b5e84be0e45": {
   "en": "Check",
   "t": "Prüfung"
- },
- "4d92136bafac": {
-  "en": "A turn only encompasses ONE attack, such as a single weapon swing, a stab, or a first punch.",
-  "t": "Eine Runde umfasst nur EINEN Angriff, etwa einen einzelnen Waffenschwung, einen Stich oder einen ersten Faustschlag."
  },
  "521d044bb4e3": {
   "en": "Sub 1) Essential goods to the four kingdoms' safety, commonwealth, and stability will be managed by Forway to reduce costs and improve trading. Subsidies shall be funded with taxpayer money.",
@@ -179,6 +179,10 @@
   "en": "Section #1",
   "t": "Abschnitt #1"
  },
+ "7ba0ff79f7b2": {
+  "en": "Sub 4) The accepted UOM for transactions shall be the Vraki UOM across all kingdoms.",
+  "t": "Unterabschnitt 4) Die anerkannte Maßeinheit für Transaktionen ist in allen Königreichen die Vraki-Maßeinheit."
+ },
  "7c197735d0f3": {
   "en": "The duelers switch roles (attacker vs. defender) on every turn.",
   "t": "Die Duellanten tauschen in jeder Runde die Rollen (Angreifer gegen Verteidiger)."
@@ -186,10 +190,6 @@
  "7c259436798e": {
   "en": "For marriage duels, a “win” is establishing a lifelong bond, and “loss” is determining they aren’t meant for each other.",
   "t": "Bei Heiratsduellen bedeutet ein „Sieg“, eine lebenslange Bindung einzugehen, und eine „Niederlage“, festzustellen, dass sie nicht füreinander bestimmt sind."
- },
- "7d7689771f34": {
-  "en": "Sub 4) The accepted UOM for transactions shall be the Vraki OUM across all kingdoms.",
-  "t": "Unterabschnitt 4) Die anerkannte Maßeinheit für Transaktionen ist in allen Königreichen die Vraki-Maßeinheit."
  },
  "8a9356ede77d": {
   "en": "Section #3",
@@ -226,10 +226,6 @@
  "a8d6aed71f1e": {
   "en": "Sub 1) All cities and Kingdoms are prohibited from mass producing an item for trading if it does not have a comparative advantage over a given good in its economic region. Violation is subjected to forfeiture and hefty fines as a percentage of a given kingdom's earnings.",
   "t": "Unterabschnitt 1) Allen Städten und Königreichen ist es verboten, eine Ware für den Handel in Massen zu produzieren, wenn sie bei dieser Ware in ihrer Wirtschaftsregion keinen komparativen Vorteil haben. Verstöße werden mit Beschlagnahmung und hohen Geldstrafen in Höhe eines Prozentsatzes der Einnahmen des betreffenden Königreichs geahndet."
- },
- "afb35e64a8e9": {
-  "en": "Sub 2) All services and goods must be exchanged through Ball's currency.",
-  "t": "Unterabschnitt 2) Alle Dienstleistungen und Waren müssen in der Währung Kugeln getauscht werden."
  },
  "b169a7688d58": {
   "en": "Loser vs. Winner",
@@ -346,6 +342,10 @@
  "eb1af86e02c7": {
   "en": "The Prosperity Treaty (Prosperity Law)",
   "t": "Der Wohlstandsvertrag (Wohlstandsgesetz)"
+ },
+ "eefc05ace94a": {
+  "en": "Sub 2) All services and goods must be exchanged through Balls currency.",
+  "t": "Unterabschnitt 2) Alle Dienstleistungen und Waren müssen in der Währung Kugeln getauscht werden."
  },
  "ef70286eae31": {
   "en": "Temporary detention of kingdom citizens is allowed at most for six weeks, with one of these requirements being met.",

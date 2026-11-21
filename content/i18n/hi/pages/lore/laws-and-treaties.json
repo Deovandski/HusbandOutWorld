@@ -63,6 +63,10 @@
   "en": "Defenders cannot move from their position and must withstand the brunt of the attack but can counter or attack back if they do not move from their location.",
   "t": "रक्षक अपनी जगह नहीं छोड़ सकते और उन्हें हमले का ज़्यादातर हिस्सा झेलना होगा, पर अगर वे अपनी जगह से न हिलें तो रोक या पलटवार कर सकते हैं।"
  },
+ "2bfc57e15ee9": {
+  "en": "A turn only encompasses ONE attack, such as a single weapon swing, a stab, or a fist punch.",
+  "t": "एक बारी में सिर्फ़ एक हमला होता है, जैसे हथियार का एक वार, एक भोंक या एक घूँसा।"
+ },
  "2d753779301b": {
   "en": "King-Fest Addendum",
   "t": "किंग-फ़ेस्ट का परिशिष्ट"
@@ -118,10 +122,6 @@
  "4b5e84be0e45": {
   "en": "Check",
   "t": "जाँच"
- },
- "4d92136bafac": {
-  "en": "A turn only encompasses ONE attack, such as a single weapon swing, a stab, or a first punch.",
-  "t": "एक बारी में सिर्फ़ एक हमला होता है, जैसे हथियार का एक वार, एक भोंक या पहला घूँसा।"
  },
  "521d044bb4e3": {
   "en": "Sub 1) Essential goods to the four kingdoms' safety, commonwealth, and stability will be managed by Forway to reduce costs and improve trading. Subsidies shall be funded with taxpayer money.",
@@ -179,6 +179,10 @@
   "en": "Section #1",
   "t": "धारा #1"
  },
+ "7ba0ff79f7b2": {
+  "en": "Sub 4) The accepted UOM for transactions shall be the Vraki UOM across all kingdoms.",
+  "t": "उपधारा 4) सभी राज्यों में लेन-देन के लिए स्वीकृत माप की इकाई व्राकी माप की इकाई होगी।"
+ },
  "7c197735d0f3": {
   "en": "The duelers switch roles (attacker vs. defender) on every turn.",
   "t": "द्वंद्व-योद्धा हर बारी में अपनी भूमिकाएँ (हमलावर और रक्षक) बदलते हैं।"
@@ -186,10 +190,6 @@
  "7c259436798e": {
   "en": "For marriage duels, a “win” is establishing a lifelong bond, and “loss” is determining they aren’t meant for each other.",
   "t": "विवाह-द्वंद्वों में, \"जीतने\" का मतलब उम्र भर का बंधन बनाना है, और \"हारने\" का मतलब यह तय होना कि वे एक-दूसरे के लिए नहीं बने।"
- },
- "7d7689771f34": {
-  "en": "Sub 4) The accepted UOM for transactions shall be the Vraki OUM across all kingdoms.",
-  "t": "उपधारा 4) सभी राज्यों में लेन-देन के लिए स्वीकृत माप की इकाई व्राकी माप की इकाई होगी।"
  },
  "8a9356ede77d": {
   "en": "Section #3",
@@ -226,10 +226,6 @@
  "a8d6aed71f1e": {
   "en": "Sub 1) All cities and Kingdoms are prohibited from mass producing an item for trading if it does not have a comparative advantage over a given good in its economic region. Violation is subjected to forfeiture and hefty fines as a percentage of a given kingdom's earnings.",
   "t": "उपधारा 1) सभी शहरों और सभी राज्यों को व्यापार के लिए किसी वस्तु का बड़े पैमाने पर उत्पादन करने की मनाही है, अगर अपने आर्थिक क्षेत्र में उस वस्तु पर उनकी तुलनात्मक बढ़त नहीं है। किसी भी उल्लंघन पर ज़ब्ती और संबंधित राज्य की आय के प्रतिशत के रूप में गिना गया भारी जुर्माना होगा।"
- },
- "afb35e64a8e9": {
-  "en": "Sub 2) All services and goods must be exchanged through Ball's currency.",
-  "t": "उपधारा 2) सभी सेवाओं और वस्तुओं का लेन-देन गेंदों की मुद्रा से होना चाहिए।"
  },
  "b169a7688d58": {
   "en": "Loser vs. Winner",
@@ -346,6 +342,10 @@
  "eb1af86e02c7": {
   "en": "The Prosperity Treaty (Prosperity Law)",
   "t": "समृद्धि संधि (समृद्धि क़ानून)"
+ },
+ "eefc05ace94a": {
+  "en": "Sub 2) All services and goods must be exchanged through Balls currency.",
+  "t": "उपधारा 2) सभी सेवाओं और वस्तुओं का लेन-देन गेंदों की मुद्रा से होना चाहिए।"
  },
  "ef70286eae31": {
   "en": "Temporary detention of kingdom citizens is allowed at most for six weeks, with one of these requirements being met.",

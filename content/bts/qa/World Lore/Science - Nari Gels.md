@@ -14,12 +14,14 @@ Isekai History is already polished prose, and the 30 gels are left as written fo
 
 Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing, or keeps the raw wording. Asked as one batch on 2026-11-21.
 
-### NG1. Whose soul pays the daily cost? (open)
+### NG1. Whose soul pays the daily cost? (open, context sent)
 - **Asked:** 2026-11-21
 - **Legacy text:** Sustained Soul Consumption: "Do note that there is no upfront Soul cost, as the Soul energy required for action is contained within the gel itself. Tier I Avg (Cosmetic) \~1 Nari Soul/Day …"
 - **Why:** Is the ~1 to ~8 nari soul a day drawn from the gel's own stored energy (so the effect fades once it runs out), or from the user's soul while the effect lasts?
-- **Answer:**
-- **Change to the abridged text:** Keeps the raw wording ("nari soul a day") for now.
+- **Reply:** 2026-11-21
+- **Reply (verbatim):**
+  > Can you give me context on what the ~1 to ~8 soul a day is coming from? context wise?
+- **Change to the abridged text:** Keeps the raw wording; context sent.
 
 ---
 

@@ -10,28 +10,34 @@ Every question asked of the author and his answer (word for word), every gap fil
 
 ## Questions for the author
 
-Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing, or keeps the raw wording. Asked as one batch on 2026-11-21.
+Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing, or keeps the raw wording. Asked as one batch on 2026-11-21 and answered the same day.
 
-### P1. "Isolated to a neighbor"? (open)
+### P1. "Isolated to a neighbor"? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Tier III Professions: "The fourth richest people in the world. Their power is isolated to a neighbor."
 - **Why:** Did you mean a neighborhood?
-- **Answer:**
-- **Change to the abridged text:** Says "Their power reaches a neighbor at most" for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Yes.
+- **Change to the abridged text:** "Their power reaches a neighborhood at most."
 
-### P2. What else does a maid do? (open)
+### P2. What else does a maid do? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Maid › Requirements: "Housekeeping," (the line ends with a comma). Its history mentions "managing the home, correspondence, etc."
 - **Why:** Is anything missing after "Housekeeping" (correspondence, for example)?
-- **Answer:**
-- **Change to the abridged text:** Says "housekeeping" only for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > It depends on the household and prestige of the maid. There are more "normal" maids, to someone like Eiri as King-maid where her job extends into financial, cooking, cleaning and tax....
+- **Change to the abridged text:** Maid duties: housekeeping, and how far it goes depends on the household and the maid's prestige, from more "normal" maids up to someone like Eiri, a King-Maid, whose job extends into finances, cooking, cleaning and taxes.
 
-### P3. Typo in a title (open)
+### P3. Typo in a title (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** "Innkeeper & Barkeppers"
 - **Why:** The title comes from your doc, so the website shows it as written. OK to show it as "Innkeeper & Barkeepers" (a display-only fix in `content/fixes.json`)?
-- **Answer:**
-- **Change to the abridged text:** None yet.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Sure
+- **Change to the abridged text:** The title shows as "Innkeeper & Barkeepers" (`content/fixes.json`); the abridged heading matches.
 
 ---
 

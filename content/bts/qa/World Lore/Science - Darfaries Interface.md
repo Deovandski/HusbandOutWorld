@@ -10,56 +10,70 @@ Every question asked of the author and his answer (word for word), every gap fil
 
 ## Questions for the author
 
-Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing, or keeps the raw wording. Asked as one batch on 2026-11-21.
+Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing, or keeps the raw wording. Asked as one batch on 2026-11-21; D1–D5 answered the same day, D6 partly, D7 waits on context.
 
-### D1. A knife opens the Buhraies interface? (open)
+### D1. A knife opens the Buhraies interface? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Isekai History: "You can use a knife to access the Buhraies interface, bypassing the guardrails."
 - **Why:** In batch 2 you said Darfaries can't use the ancient species' interfaces (Language, L2). Is the knife the exception (a Darfaries can reach the Buhraies interface underneath by cutting, bypassing the guardrails), or does it mean something else?
-- **Answer:**
-- **Change to the abridged text:** Keeps the raw sentence for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > See vol 1 where Gabiro uses the knife to bypass the guardrail. The logograms are the fact the guardrail, and trying to bypass the guardrail is dangerous because an empty logogram requires the user to force immense concentration. All races that have the darfaries interface can attempt to override the guardrails, but the likelihood of doing so is not in their odds. So for the common folk, it's basically akin to being unable to access the "ancient roots" of the interface.
+- **Change to the abridged text:** New paragraph: the logograms are the guardrails; every race with the Darfaries interface can try to override them with a knife (as Gabiro does in the Vol 1 prologue), but it's dangerous (an empty logogram forces immense concentration) and the odds aren't in their favor, so for common folk it's like being unable to reach the "ancient roots" of the interface.
 
-### D2. "Non-logographic use"? (open)
+### D2. "Non-logographic use"? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Step 1, Option B) Drawn Logograms: "Forway considered banning the non-logographic use of this interface in the early 800 A.G."
 - **Why:** Option B is drawing the logograms by hand. Does "non-logographic use" mean using the interface without a sigil ring (drawing by hand), or something else?
-- **Answer:**
-- **Change to the abridged text:** Keeps "non-logographic use" for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Yes. Not only to not let people drawn the logograms by hand to prevent mistakes and misuse, or accidental White Hole in the rare event, but even more so to avoid having anyone using the interface without the logograms, the guardrails.
+- **Change to the abridged text:** Option B now says Forway considered banning use without a sigil ring: partly to stop hand-drawn logograms (mistakes, misuse, the rare accidental White Hole), but even more to stop anyone using the interface without logograms at all.
 
-### D3. Buhraies veins or Darfaries veins? (open)
+### D3. Buhraies veins or Darfaries veins? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Step 3, Option A: "the Buhraies veins in their hand light up with Soul Flame"
 - **Why:** The same sentence is in the Buhraies doc. The Gandew duel law and Races.md call the veins between the middle and ring fingers "Darfaries veins". Which is right for this interface?
-- **Answer:**
-- **Change to the abridged text:** Keeps "Buhraies veins" for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Darfaries Veins for any race that came after the ancient species: Darfaries, Wozefaries, sorefaries and humans.
+- **Change to the abridged text:** "the Darfaries veins in their hand light up … (every race that came after the ancient species has them: Darfaries, Wozefaries, Sorefaries and humans)".
 
-### D4. White Hole or White Fire? (open)
+### D4. White Hole or White Fire? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Soul Create: "triggering a White Hole event" … "White Fire events are not quite an urban legend"
 - **Why:** Are these the same event under two names? If so, which name should the website use?
-- **Answer:**
-- **Change to the abridged text:** Keeps both as written for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Both are the same, basically when the soul energy does not convert properly to the desired outcome and backfires, explodes, or becomes nothing instead of something.
+- **Change to the abridged text:** Soul Create explains it once: "A White Hole (also called White Fire) is what happens when soul energy doesn't convert properly into the desired outcome: it backfires, explodes, or becomes nothing instead of something."
 
-### D5. "All the Soul Recharges fused into a single being"? (open)
+### D5. "All the Soul Recharges fused into a single being"? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Soul Create: "All the Soul Recharges fused into a single being."
 - **Why:** What fused: the soul energy of everyone involved (Gabiro, the bagarisa soul, Harry)?
-- **Answer:**
-- **Change to the abridged text:** Keeps the raw sentence for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Yes.
+- **Change to the abridged text:** "the soul energy of everyone involved fused into a single being."
 
-### D6. "The % increase is divided by multiple skills"? (open)
+### D6. "The % increase is divided by multiple skills"? (partly answered, context sent)
 - **Asked:** 2026-11-21
 - **Legacy text:** Soul Create › Tiers: "Increase the soul qualities of the summon according to the power used, and flesh. The % increase is divided by multiple skills."
 - **Why:** What are the "skills" here, and how is the increase divided?
-- **Answer:**
-- **Change to the abridged text:** Keeps the raw sentence for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Honestly I am struggling to remember this one.. Pull in more context for me. I do remember that overall the Soul Energy tiers is somewhat logarithmic or at least expands on a rate I defined somewhere. Soul Create Tiers I think is tied to the more soul energy you put into it, the higher the success rate of creating a soul to your specifications (except researchers don't fully understand the process, and in reality you don't create a soul from this spell, but rather you try to pull a disconnected soul to the flesh you want, which of course will meld with its own leftover soul connections and create a final hybrid mix... Sex and giving birth is somewhat in that process as well, as giving a newlife is basically mixing two souls and giving a part of yourself for a newborn to form.)
+- **Change to the abridged text:** Tiers now say the more soul energy (and flesh) put in, the higher the chance of getting a soul to your specifications, plus a paragraph on what really happens (pulling a disconnected soul into the flesh, melding into a hybrid; birth as mixing two souls). "The % increase is divided among multiple skills" stays as written until the author decides; context sent.
 
-### D7. Cat. Material ends mid-sentence (open)
+### D7. Cat. Material ends mid-sentence (open, context sent)
 - **Asked:** 2026-11-21
 - **Legacy text:** Cat. Material: "Material Manipulation is an experimental research branch from Darfaries with the intention of manipulating the world around. Using"
 - **Why:** What came after "Using"?
-- **Answer:**
-- **Change to the abridged text:** The dangling "Using" is left out for now.
+- **Reply:** 2026-11-21
+- **Reply (verbatim):**
+  > Give me context.
+- **Change to the abridged text:** The dangling "Using" stays out; context sent.
 
 ---
 

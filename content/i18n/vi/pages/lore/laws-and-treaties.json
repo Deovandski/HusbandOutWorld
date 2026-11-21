@@ -63,6 +63,10 @@
   "en": "Defenders cannot move from their position and must withstand the brunt of the attack but can counter or attack back if they do not move from their location.",
   "t": "Bên phòng thủ không được di chuyển khỏi vị trí và phải chịu trọn sức đòn tấn công nhưng có thể phản đòn hoặc đánh trả nếu không rời khỏi chỗ đứng."
  },
+ "2bfc57e15ee9": {
+  "en": "A turn only encompasses ONE attack, such as a single weapon swing, a stab, or a fist punch.",
+  "t": "Một lượt chỉ bao gồm MỘT đòn tấn công, như một lần vung vũ khí, một nhát đâm, hoặc một cú đấm."
+ },
  "2d753779301b": {
   "en": "King-Fest Addendum",
   "t": "Phụ lục King-Fest"
@@ -118,10 +122,6 @@
  "4b5e84be0e45": {
   "en": "Check",
   "t": "Kiểm tra"
- },
- "4d92136bafac": {
-  "en": "A turn only encompasses ONE attack, such as a single weapon swing, a stab, or a first punch.",
-  "t": "Một lượt chỉ bao gồm MỘT đòn tấn công, như một lần vung vũ khí, một nhát đâm, hoặc một cú đấm đầu tiên."
  },
  "521d044bb4e3": {
   "en": "Sub 1) Essential goods to the four kingdoms' safety, commonwealth, and stability will be managed by Forway to reduce costs and improve trading. Subsidies shall be funded with taxpayer money.",
@@ -179,6 +179,10 @@
   "en": "Section #1",
   "t": "Điều #1"
  },
+ "7ba0ff79f7b2": {
+  "en": "Sub 4) The accepted UOM for transactions shall be the Vraki UOM across all kingdoms.",
+  "t": "Khoản 4) Đơn vị đo được chấp nhận cho giao dịch sẽ là đơn vị đo Vraki trên khắp mọi vương quốc."
+ },
  "7c197735d0f3": {
   "en": "The duelers switch roles (attacker vs. defender) on every turn.",
   "t": "Những người đấu đổi vai (tấn công và phòng thủ) mỗi lượt."
@@ -186,10 +190,6 @@
  "7c259436798e": {
   "en": "For marriage duels, a “win” is establishing a lifelong bond, and “loss” is determining they aren’t meant for each other.",
   "t": "Với các trận đấu hôn nhân, “thắng” là thiết lập một mối gắn kết trọn đời, và “thua” là xác định họ không dành cho nhau."
- },
- "7d7689771f34": {
-  "en": "Sub 4) The accepted UOM for transactions shall be the Vraki OUM across all kingdoms.",
-  "t": "Khoản 4) Đơn vị đo được chấp nhận cho giao dịch sẽ là đơn vị đo Vraki trên khắp mọi vương quốc."
  },
  "8a9356ede77d": {
   "en": "Section #3",
@@ -226,10 +226,6 @@
  "a8d6aed71f1e": {
   "en": "Sub 1) All cities and Kingdoms are prohibited from mass producing an item for trading if it does not have a comparative advantage over a given good in its economic region. Violation is subjected to forfeiture and hefty fines as a percentage of a given kingdom's earnings.",
   "t": "Khoản 1) Mọi thành phố và Vương quốc bị cấm sản xuất hàng loạt một mặt hàng để buôn bán nếu không có lợi thế so sánh về mặt hàng đó trong khu vực kinh tế của mình. Vi phạm sẽ bị tịch thu và phạt nặng theo phần trăm doanh thu của vương quốc liên quan."
- },
- "afb35e64a8e9": {
-  "en": "Sub 2) All services and goods must be exchanged through Ball's currency.",
-  "t": "Khoản 2) Mọi dịch vụ và hàng hóa phải được trao đổi bằng tiền tệ Bi."
  },
  "b169a7688d58": {
   "en": "Loser vs. Winner",
@@ -346,6 +342,10 @@
  "eb1af86e02c7": {
   "en": "The Prosperity Treaty (Prosperity Law)",
   "t": "Hiệp ước Thịnh vượng (Luật Thịnh vượng)"
+ },
+ "eefc05ace94a": {
+  "en": "Sub 2) All services and goods must be exchanged through Balls currency.",
+  "t": "Khoản 2) Mọi dịch vụ và hàng hóa phải được trao đổi bằng tiền tệ Bi."
  },
  "ef70286eae31": {
   "en": "Temporary detention of kingdom citizens is allowed at most for six weeks, with one of these requirements being met.",

@@ -115,7 +115,7 @@ See [Badges, Embassies & Guilds](/lore/embassies-and-guilds/).
 
 **History:** as prosperity created wealthy people, they wanted someone else to handle running the home, correspondence, etc.
 
-**Duties:** housekeeping.
+**Duties:** housekeeping. How far it goes depends on the household and the maid's prestige: from more "normal" maids, up to someone like Eiri, a King-Maid, whose job extends into finances, cooking, cleaning and taxes.
 
 **Training:** Fundamental School and Cooking School.
 
@@ -193,7 +193,7 @@ See [Badges, Embassies & Guilds](/lore/embassies-and-guilds/).
 
 # Tier III Professions
 
-The fourth richest people in the world. Their power reaches a neighbor at most.
+The fourth richest people in the world. Their power reaches a neighborhood at most.
 
 **Average pay:** 3 Pearls an hour for apprentices, 4 for masters.
 
@@ -243,7 +243,7 @@ See [Badges, Embassies & Guilds](/lore/embassies-and-guilds/).
 
 **Training:** Fundamental School.
 
-# Innkeeper & Barkeppers
+# Innkeeper & Barkeepers
 
 **History:** someone has to take care of the people traveling through cities.
 

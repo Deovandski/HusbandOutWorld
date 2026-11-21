@@ -5,7 +5,9 @@ status: questions asked 2026-11-21 (see content/bts/qa/World Lore/Science - Darf
 
 # Darfaries Interface
 
-The Buhraies created this interface as an enhancement to their own soul energy interface, in an attempt to control the Darfaries as a versatile army of foot soldiers. You can use a knife to access the Buhraies interface, bypassing the guardrails.
+The Buhraies created this interface as an enhancement to their own soul energy interface, in an attempt to control the Darfaries as a versatile army of foot soldiers.
+
+The logograms are the guardrails. Every race with the Darfaries interface can try to override them by using a knife to reach the Buhraies interface underneath, as Gabiro does in the Vol 1 prologue. It's dangerous: an empty logogram forces the user into immense concentration, and the odds aren't in their favor. So for common folk, it's basically like being unable to reach the "ancient roots" of the interface.
 
 Soul energy shapes the spell using logograms drawn from the knowledge shared by the people nearby.
 
@@ -47,7 +49,7 @@ Either way, a miscast explodes in soul flame in the caster's hands.
 
    ![][image1]
 
-   Or draw the logograms by hand. Forway considered banning this non-logographic use in the early 800s A.G., but the scientific community pushed back too hard. Opinion shifted in the early 900s A.G., after many scientific tragedies with no clear progress, and by the late 900s A.G. only fringe scientists like Gabiro Sundeath (also known as Gabiro Sanbi Royal) still seemed to be investigating it.
+   Or draw the logograms by hand. In the early 800s A.G., Forway considered banning the use of the interface without a sigil ring: partly to stop people drawing logograms by hand, which invites mistakes, misuse and, in rare cases, an accidental White Hole, but even more to stop anyone using the interface without logograms (the guardrails) at all. The scientific community pushed back too hard. Opinion shifted in the early 900s A.G., after many scientific tragedies with no clear progress, and by the late 900s A.G. only fringe scientists like Gabiro Sundeath (also known as Gabiro Sanbi Royal) still seemed to be investigating it.
 
    ![][image2]
 
@@ -60,7 +62,7 @@ Either way, a miscast explodes in soul flame in the caster's hands.
    ![][image4]
 
 3. **Infuse soul energy.** The casting hand takes in energy when the caster "eats" with it. A spell is only stable at a soul energy tier, so energy always fills up to the next tier (after a partial charge, it adds the difference). The energy can come from:
-   - **Someone's soul energy:** when the person touches their middle and ring fingers, the Buhraies veins in their hand light up with soul flame, and the caster's other hand "eats" the flames.
+   - **Someone's soul energy:** when the person touches their middle and ring fingers, the Darfaries veins in their hand light up with soul flame (every race that came after the ancient species has them: Darfaries, Wozefaries, Sorefaries and humans), and the caster's other hand "eats" the flames.
 
      ![][image5]
 
@@ -98,13 +100,15 @@ Among researchers, a faint rumor calls it "Uncontrolled Create".
 
 Creates a soul with specific soul genetic information, using flesh as the base. The incantation tries to picture the target and think aloud about its characteristics.
 
-**What happened in Vol 1, Chapter 1:** Gabiro was trying to bind a specific soul. A lack of proper concentration and not enough nari power made all the soul and body genetic information suddenly meld, triggering a White Hole event, and all the soul recharges fused into a single being. In that event, a nearly decayed soul (Harry's) was bound by pure chance. What was left of the soul tied to the bagarisa corpse used in the "summoning ritual" was wildly different from Harry's. When the explosion happened, Gabiro's own soul was fused into the mix too, and Harry's soul absorbed the capacity of all three. That's how Harry woke up able to speak Vraki, the common language, and why he later develops a custom interface (Vol 4).
+**What happened in Vol 1, Chapter 1:** Gabiro was trying to bind a specific soul. A lack of proper concentration and not enough nari power made all the soul and body genetic information suddenly meld, triggering a White Hole event, and the soul energy of everyone involved fused into a single being. In that event, a nearly decayed soul (Harry's) was bound by pure chance. What was left of the soul tied to the bagarisa corpse used in the "summoning ritual" was wildly different from Harry's. When the explosion happened, Gabiro's own soul was fused into the mix too, and Harry's soul absorbed the capacity of all three. That's how Harry woke up able to speak Vraki, the common language, and why he later develops a custom interface (Vol 4).
 
-White Fire events aren't quite an urban legend: scientists and researchers know about them. They were better known in the old days, before Forway really became a thing and resentment against messing with the soul became commonplace.
+A White Hole (also called White Fire) is what happens when soul energy doesn't convert properly into the desired outcome: it backfires, explodes, or becomes nothing instead of something. These events aren't quite an urban legend: scientists and researchers know about them. They were better known in the old days, before Forway really became a thing and resentment against messing with the soul became commonplace.
 
 ![][image8]
 
-**Tiers:** the more power used, and the more flesh, the better the summon's soul qualities. The % increase is divided among multiple skills. It also de-ages the target soul.
+**Tiers:** the more soul energy (and flesh) put in, the higher the chance of getting a soul to your specifications. The % increase is divided among multiple skills. It also de-ages the target soul.
+
+Researchers don't fully understand the process. In reality, the spell doesn't create a soul: it tries to pull a disconnected soul into the flesh you want, where it melds with that flesh's own leftover soul connections into a final hybrid. Sex and giving birth are somewhat like that process too: giving new life is basically mixing two souls, giving part of yourself for a newborn to form.
 
 # Cat. Body
 
