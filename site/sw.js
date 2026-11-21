@@ -8,7 +8,8 @@
 //     (set SAVE_VISITED_PAGES to false to save only the home pages);
 //   - the CSS, scripts, fonts, the app manifest and the app icons.
 // What it never saves: pictures (the gallery, the webcomic, chapter illustrations) or anything from
-// other websites, so it can't fill the phone's storage.
+// other websites, so it can't fill the phone's storage. Files in SKIP (like a site-verification file) are
+// left entirely to the browser.
 //
 // Pages come from the network first. If there's no answer within 4 seconds (or no signal), the saved
 // copy is used when there is one. Everything is per device and stays there until the browser clears it.
@@ -22,6 +23,7 @@ const NETWORK_TIMEOUT_MS = 4000;
 const SCOPE = new URL(self.registration.scope);
 const HOMES = __HOMES__.map((p) => new URL(p, SCOPE).href);          // the home page (and language homes)
 const EXTRA = __EXTRA__.map((p) => new URL(p, SCOPE).href);          // manifest, icons, favicon
+const SKIP = __SKIP__.map((p) => new URL(p, SCOPE).href);            // never answered or saved by the worker
 const SAVED_KINDS = ['style', 'script', 'font', 'manifest'];
 
 // Same-origin stylesheets and scripts a page needs to draw itself (pictures are left out on purpose).
@@ -119,6 +121,7 @@ self.addEventListener('fetch', (event) => {
   if (request.method !== 'GET') return;
   const url = new URL(request.url);
   if (url.origin !== SCOPE.origin || !url.href.startsWith(SCOPE.href)) return; // other websites: hands off
+  if (SKIP.includes(url.origin + url.pathname)) return; // e.g. a site-verification file: always the real one
 
   if (request.mode === 'navigate') {
     event.respondWith(networkFirst(request, pageKey(url)));

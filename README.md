@@ -37,6 +37,8 @@ python tools/build.py
 
 The site lands in `_site/`. GitHub Actions builds and publishes it on every push to `main`. `python tools/check_site.py _site` checks that every page's pictures are in the build and shows the site's size against GitHub Pages' 1 GB limit (the publish run does this too, and shows the sizes on its summary page).
 
+`google0c08003a2b869d98.html` at the repo root verifies the site in Google Search Console. The build publishes it unchanged at the site's root. **Never remove it**: Search Console checks it again from time to time, and the site stops being verified without it.
+
 ### Reusable components
 
 | Component | Files | What it does |
