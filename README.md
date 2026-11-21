@@ -35,7 +35,7 @@ pip install -r tools/requirements.txt
 python tools/build.py
 ```
 
-The site lands in `_site/`. GitHub Actions builds and publishes it on every push to `main`.
+The site lands in `_site/`. GitHub Actions builds and publishes it on every push to `main`. `python tools/check_site.py _site` checks that every page's pictures are in the build and shows the site's size against GitHub Pages' 1 GB limit (the publish run does this too, and shows the sizes on its summary page).
 
 ### Reusable components
 

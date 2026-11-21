@@ -25,7 +25,17 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      # The build never reads the art programs' source files (.xcf, .clip, .tif: about
+      # 2.3 GB of the repo), so the runner doesn't download them. They stay in the repo.
       - uses: actions/checkout@v7
+        with:
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /*
+            !*.xcf
+            !*.clip
+            !*.tif
 
       - uses: actions/setup-python@v7
         with:
@@ -53,6 +63,14 @@ jobs:
           python tools/build.py --out _site --cache .media-cache
           --base-path "${{ steps.pages.outputs.base_path }}"
           --site-url "${{ steps.pages.outputs.base_url }}"
+
+      # Every picture on every page is in the build, and the site fits in Pages' 1 GB.
+      # The sizes show on the run's summary page.
+      - name: Check pictures and size
+        run: >
+          python tools/check_site.py _site
+          --base-path "${{ steps.pages.outputs.base_path }}"
+          --summary "$GITHUB_STEP_SUMMARY"
 
       # Each attempt uploads its own package, so "Re-run" never finds two with the same name.
       - uses: actions/upload-pages-artifact@v5

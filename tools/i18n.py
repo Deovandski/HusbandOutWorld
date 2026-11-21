@@ -40,8 +40,8 @@ SKIP_TAGS = {'script', 'style', 'svg', 'noscript', 'template', 'code', 'pre', 't
 ATTRS = ('alt', 'title', 'aria-label', 'placeholder')
 SHARED_MIN_PAGES = 5          # a segment on at least this many pages lives in _shared.json
 INDEX_COVERAGE = 0.9          # a language version is offered (auto-select, search engines) once this much is translated
-ASSET_DIRS = ('media', 'css', 'js', 'fonts', 'data')
-ASSET_EXT = ('.md', '.txt', '.xml', '.json', '.webp', '.png', '.jpg', '.jpeg', '.gif', '.woff2', '.pdf')
+ASSET_DIRS = ('media', 'css', 'js', 'fonts', 'data', 'icons')
+ASSET_EXT = ('.md', '.txt', '.xml', '.json', '.webp', '.png', '.jpg', '.jpeg', '.gif', '.woff2', '.pdf', '.webmanifest')
 LETTER = re.compile(r'[^\W\d_]')
 
 
