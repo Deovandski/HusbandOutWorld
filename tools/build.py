@@ -379,6 +379,19 @@ def sub_heading_search(pub_html, bts_html, url, section, entry_title, entry_bts)
 
 VIDEO_EXT = ('.mp4', '.webm')
 
+def photo_viewer_html():
+    """Reusable component: the photo viewer every picture opens in (script site/js/photo-viewer.js, styles
+    site/css/photo-viewer.css). One per page, written into the page shell. Its words ("Enlarge", Close,
+    Previous/Next photo) are in this markup so the translations cover them."""
+    return ('<dialog id="photo-viewer" class="photo-viewer keep-latin" aria-label="Photo">'
+            '<span class="pv-enlarge" hidden>Enlarge</span>'
+            '<button type="button" class="pv-close" aria-label="Close">×</button>'
+            '<button type="button" class="pv-prev" aria-label="Previous photo" hidden>‹</button>'
+            '<figure class="pv-fig"><img alt=""><figcaption class="pv-cap"><span class="pv-text"></span><time class="pv-date" hidden></time></figcaption></figure>'
+            '<button type="button" class="pv-next" aria-label="Next photo" hidden>›</button>'
+            '</dialog>')
+
+
 def video_figure(url, caption):
     """Reusable component: a captioned video player (styles in site/css/video.css).
 
@@ -1603,6 +1616,7 @@ def page_html(p, nav):
 <script>try{{var s=JSON.parse(localStorage.getItem('hoow')||'{{}}');var d=document.documentElement;if(s.mode)d.dataset.mode=s.mode;if(s.theme)d.dataset.theme=s.theme;if(s.vraki&&!d.dataset.lang)d.classList.add('vraki');if(s.size)d.style.setProperty('--fs',s.size+'px');
 if(!d.dataset.lang){{var ok=(d.dataset.langs||'').split(' '),w=s.lang,n=navigator.languages||[navigator.language||''];for(var i=0;i<n.length&&!w;i++){{var c=String(n[i]).toLowerCase().split('-')[0];if(c==='en'||ok.indexOf(c)>=0)w=c}}if(w&&w!=='en'&&ok.indexOf(w)>=0){{var b=d.dataset.base||'';location.replace(b+'/'+w+location.pathname.slice(b.length)+location.search+location.hash)}}}}}}catch(e){{}}</script>
 <link rel="stylesheet" href="{asset('/css/site.css')}">
+<link rel="stylesheet" href="{asset('/css/photo-viewer.css')}">
 {''.join(f'<link rel="stylesheet" href="{asset(c)}">' for c in getattr(p, 'extra_css', []) + (['/css/video.css'] if 'class="hv-video"' in p.html else []))}
 {jsonld}
 </head>
@@ -1655,8 +1669,9 @@ if(!d.dataset.lang){{var ok=(d.dataset.langs||'').split(' '),w=s.lang,n=navigato
     <div class="dialog-actions"><button class="btn primary" value="close">Done</button></div>
   </form>
 </dialog>
-<div id="lightbox" class="lightbox keep-latin" hidden><button class="lb-close" aria-label="Close">×</button><button class="lb-prev" aria-label="Previous photo" hidden>‹</button><figure class="lb-fig"><img alt=""><figcaption class="lb-cap" hidden></figcaption></figure><button class="lb-next" aria-label="Next photo" hidden>›</button></div>
+{photo_viewer_html()}
 <script src="{asset('/js/app.js')}" defer></script>
+<script src="{asset('/js/photo-viewer.js')}" defer></script>
 {''.join(f'<script src="{asset(j)}" defer></script>' for j in getattr(p, 'extra_js', []))}
 </body>
 </html>

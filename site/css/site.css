@@ -244,7 +244,7 @@ figure figcaption { text-align: center; font: .72em var(--sans); color: var(--in
 .search-results .sr-bts { font: 700 10px var(--sans); color: var(--bts); border: 1px solid var(--bts); border-radius: 999px; padding: 0 .4rem; margin-left: .3rem; }
 .link-list li { margin: .4rem 0; }
 
-/* footer, dialogs, lightbox */
+/* footer, dialogs (the photo viewer is in photo-viewer.css) */
 .footer { border-top: 1px solid var(--line); padding: 1.5rem 1.2rem 2.5rem; text-align: center; font: 13px var(--sans); color: var(--ink2); }
 dialog .btn { font-size: 15px; }
 dialog { border: 1px solid var(--line); border-radius: var(--radius); background: var(--card); color: var(--ink); max-width: 28rem; padding: 1.4rem 1.6rem; font-family: var(--sans); }
@@ -256,16 +256,6 @@ dialog h2 { margin-top: 0; font-family: var(--serif); }
 .setting small { display: block; color: var(--ink2); font-weight: 400; }
 .setting select, .setting input[type=range] { font: inherit; }
 .setting-link { margin: 0; padding: .4rem 0 .6rem; border-bottom: 1px solid var(--line); font-size: .9em; text-align: right; }
-.lightbox { position: fixed; inset: 0; z-index: 50; background: rgba(5, 8, 9, .92); display: flex; align-items: center; justify-content: center; padding: 2rem; }
-.lightbox[hidden] { display: none; }
-.lb-fig { margin: 0; display: flex; flex-direction: column; align-items: center; gap: .7rem; }
-.lightbox img { max-height: 86vh; max-width: 88vw; border-radius: 8px; }
-.lb-cap { color: #eee; font: .95em var(--sans); text-align: center; max-width: 40rem; }
-.lb-prev, .lb-next { position: absolute; top: 50%; transform: translateY(-50%); width: 3rem; height: 3rem; border-radius: 50%; border: 0; background: rgba(255, 255, 255, .12); color: #fff; font-size: 2rem; line-height: 1; cursor: pointer; }
-.lb-prev { left: 1rem; } .lb-next { right: 1rem; }
-.lb-prev:hover, .lb-next:hover { background: rgba(255, 255, 255, .25); }
-.lb-prev[hidden], .lb-next[hidden], .lb-cap[hidden] { display: none; }
-.lb-close { position: absolute; top: 1rem; right: 1.2rem; font-size: 2rem; background: none; border: 0; color: #fff; cursor: pointer; }
 
 /* Vraki mode: the whole page in the Vraki script (controls stay readable) */
 html.vraki body { font-family: "Vraki", var(--serif); letter-spacing: .02em; }
@@ -402,4 +392,3 @@ html[dir="rtl"] .layer.bts:not(.entry):not(h2):not(li):not(ul):not(.topic-card):
 html[dir="rtl"] .mode-switch .knob::after { left: auto; right: 2px; }
 html[dir="rtl"][data-mode="bts"] .mode-switch .knob::after { transform: translateX(-16px); }
 html[dir="rtl"] .pager .prev, html[dir="rtl"] .pager .next { direction: rtl; }
-html[dir="rtl"] .lb-prev { left: auto; right: 1rem; } html[dir="rtl"] .lb-next { right: auto; left: 1rem; }
