@@ -1451,6 +1451,13 @@ class Builder:
             shutil.copyfile(os.path.join(ROOT, f), os.path.join(self.out, f))  # byte for byte
         return em
 
+def css_colors(theme, *names):
+    """Colour values from site/css/site.css (html[data-theme="<theme>"] { --name: value; }), so pages the
+    build writes outside the stylesheet (the offline page) use the same palette without a copy of it."""
+    css = open(os.path.join(SITE_SRC, 'css', 'site.css'), encoding='utf-8').read()
+    block = re.search(r'html\[data-theme="%s"\]\s*\{([^}]*)\}' % re.escape(theme), css).group(1)
+    return [re.search(r'--%s:\s*([^;]+);' % re.escape(n), block).group(1).strip() for n in names]
+
 def root_files():
     """Files at the repo root that are published unchanged at the site's root: CNAME (custom domain) and
     Google Search Console's verification file (google<code>.html). Never remove the Google file: Search
@@ -1921,7 +1928,8 @@ def main():
                   cache_prefix='hoow', version=app.get('version', 'v1'),
                   save_visited_pages=app.get('save_visited_pages', True),
                   extra_files=['/media/favicon.png', '/media/forway-emblem.png'],
-                  skip_files=['/' + f for f in root_files() if f.endswith('.html')])  # Search Console's file
+                  skip_files=['/' + f for f in root_files() if f.endswith('.html')],  # Search Console's file
+                  offline_colors=css_colors('dark', 'bg', 'ink', 'link'))  # one source: site.css
     print(f'pages: {len(b.pages)}, images: {len(b.media.info)}, glossary terms: {len(b.glossary)}')
 
 if __name__ == '__main__':

@@ -9,6 +9,12 @@ This is the #HusbandOutWorld series repo: the author's originals plus the websit
 - **Two layers.** Public is what the old blog showed. Behind The Scenes adds the full notes and sits behind the spoiler toggle. Anything that wasn't public on the blog goes in the `bts` layer.
 - **Never remove `google0c08003a2b869d98.html`** (repo root). It verifies the site in Google Search Console, which checks it again from time to time; without it the site stops being verified. The build copies it to the site's root unchanged (`root_files()` in `tools/build.py`); don't edit it, move it or put it in `Legacy/`.
 
+## One source (no copies)
+Anything shown in more than one place comes from one source, never pasted twice.
+- **Text:** the novel, lore, glossary, search index, Markdown twins, `llms.txt` and the 14 translations are all built from `Legacy/` by `tools/build.py`. The Public and Behind The Scenes layers of a page are two views of the same doc. Don't copy Legacy text into `content/` or `site/`; `content/` only holds what Legacy doesn't have (fixes, alt text, summaries, the page map).
+- **UI:** a widget used twice is one reusable component (see below), not two pasted copies. Colours and sizes live in `site/css/site.css`; code that needs them outside the stylesheet reads them from there (like `css_colors()` for the offline page).
+- If a copy really has to stay, say why in the PR and get Deovandski's OK.
+
 ## World Lore format (always)
 - **Topics on the World Lore page are A to Z within each group** ("The World", "Peoples", "Soul Energy & Science", "Nature"). The build sorts them by their displayed title, and `content/site.json` lists them in the same order. When you add a topic, put it in its alphabetical place.
 - **Entries on a topic page are A to Z within each category.** The build sorts them, and the notes about the docs themselves (Documentation Notation, Distance Cost Tier, Isekai History) stay first. A topic whose order means something (a timeline, tiers, a colour wheel, a calendar) sets `"order": "source"` in `content/site.json` so it keeps the doc's order. Right now that's: the-world, history, harry, professions, walking-heart, the three interfaces, language, soul-energy, laws-and-treaties, economy, nari-gels, nari-bombs, education, races.

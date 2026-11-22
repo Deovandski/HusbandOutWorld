@@ -14,7 +14,8 @@ Usage (after the site's pages are written):
               homes=['/'],                                  # pages saved when the app installs
               cache_prefix='hoow', version='v1', save_visited_pages=True,
               extra_files=['/media/favicon.png'],                # more small files to keep offline
-              skip_files=['/google0123abcd.html'])               # files the worker never touches
+              skip_files=['/google0123abcd.html'],               # files the worker never touches
+              offline_colors=('#101719', '#efe7dc', '#9db8ff'))  # "You're offline" page: background, text, link
 
 and put pwa.head_tags(theme_color) in every page's <head>. Its addresses start with "/", like the
 rest of the page, so the site's own base-path rewrite applies to them; the registration script reads
@@ -61,7 +62,8 @@ def _fit(img, size, scale, background=None):
 
 def write(out, base='', name='', short_name='', description='', theme_color='#000000',
           background_color='#000000', logo=None, shortcuts=(), homes=('/',), cache_prefix='site',
-          version='v1', save_visited_pages=True, lang='en', extra_files=(), skip_files=()):
+          version='v1', save_visited_pages=True, lang='en', extra_files=(), skip_files=(),
+          offline_colors=('#ffffff', '#111111', '#0645ad')):
     base = base.rstrip('/') + '/'
     icons_dir = os.path.join(out, 'icons')
     os.makedirs(icons_dir, exist_ok=True)
@@ -110,6 +112,7 @@ def write(out, base='', name='', short_name='', description='', theme_color='#00
         '__HOMES__': json.dumps([h.lstrip('/') for h in homes]),
         '__EXTRA__': json.dumps(extra + [p.lstrip('/') for p in extra_files]),
         '__SKIP__': json.dumps([p.lstrip('/') for p in skip_files]),
+        '__OFFLINE_COLORS__': json.dumps(list(offline_colors)),
     }.items():
         sw = sw.replace(key, value)
     with open(os.path.join(out, 'sw.js'), 'w', encoding='utf-8') as f:
