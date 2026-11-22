@@ -21,7 +21,7 @@ note: the timeline keeps its structure (each people, its Times, and their Period
   - They tried several times to invade by sea, but every attempt was massacred. ~3,150 B.G.: the Great Sea War ended in a massive loss for them, but they at least managed to destroy part of the Buhraies Plains East Dip.
 - **The Hifuna Conquer Period (~3,000 to ~2,500 B.G.):**
   - They spent so long planning another comeback that, in the end, they couldn't fix their own mess: Hifuna. They mounted the largest army they could muster, but suffered massive losses crossing it.
-  - ~2,650 B.G.: a secret assault went through the desert, but the desert killed off most of the army, and what was left was easily massacred when it reached the Fuhraies. (Legacy says the Buhraies mounted it; see the Q&A.)
+  - ~2,650 B.G.: they mounted a secret assault through the desert to massacre the Fuhraies, but the desert killed off most of the army, and the Fuhraies holed up inside their newly created mountain, Fuhrair, so what was left was easily massacred.
 - **The Replanning Period (~2,500 B.G. to today):** they've grown so conservative that they're still planning, or rather, watching what happens in the south and discussing it among themselves as if it were a TV show.
 
 # Fuhraies
@@ -40,7 +40,7 @@ note: the timeline keeps its structure (each people, its Times, and their Period
 - **Red Snow Period (~3,000 to ~2,100 B.G.):**
   - Since their battle with the Buhraies was a stalemate, the Lishies began fighting, or rather bullying, the Fuhraies too. That also ended in a stalemate, and negotiations never went anywhere either.
   - Sick of the skirmishes, some Fuhraies left Old Fuhrair for the biggest mountain to the north and founded Fuhrair.
-  - ~2,650 B.G.: a secret assault through the desert was mostly wiped out by the desert itself, so the Fuhraies easily defended themselves. (Legacy says the Buhraies mounted it; see the Q&A.)
+  - ~2,650 B.G.: the Finaies mounted a secret assault through the desert to massacre the Fuhraies, but the desert took care of most of them, and the Fuhraies holed up inside their newly created mountain, Fuhrair, and easily defended themselves.
   - The endless skirmishes slowed and lost their intensity. The Fuhraies assumed they had finally won.
 
 #### Cold Fall Time (~2,100 to ~500 B.G.)
@@ -100,7 +100,7 @@ note: the timeline keeps its structure (each people, its Times, and their Period
 - **First Subjugation Period (~5,000 to ~4,500 B.G.):** with the Finaies out of the picture and the Lishies out of reach, their society flourished. Having modified Wingas into Big Wingas and Yabuca trees into Wood People and bent them to their will, they researched how to subjugate the other two races. Wingarest became the home of the Big Wingas. The Wood People were created by altering the souls of Yabuca trees, then confined to small forests across the Buhraies Plains, where they produced food and lumber in a controlled way. Their goal: subjugate and experiment on the Finaies in the north, and fix and terraform Hifuna.
 - **Lishies Subjugation Period (~4,500 to ~3,500 B.G.):** they tried to subjugate the Lishies, but not only did it fail, it led the Lishies to discover how to get up onto the Buhraies Plains. The Lishies were hard to fight there, and the peaceful life on the plains was over: the Buhraies researched how to keep the Lishies at bay while skirmishing nearly every week. ~3,575 B.G.: the Lishies launched a war against the Buhraies, and both sides were decimated as the battle raged on.
 - **Fuhraies Subjugation Period (~3,500 to ~3,000 B.G.):**
-  - Frustrated that their subjugation efforts had gone nowhere, the Buhraies began targeting the Fuhraies, but that only led to fighting. The Lishies attacked as well, since they didn't know what power the Buhraies were after to turn the tide. (See the Q&A.)
+  - Frustrated that the subjugation of the Lishies had gone nowhere, the Buhraies began targeting the Fuhraies, but that only led to fighting. The Lishies attacked as well, since they didn't know what power the Buhraies were after to turn the tide.
   - ~3,150 B.G.: the Finaies launched their biggest strike from the sea. The Buhraies Plains East Dip lost the most land. It was repaired, but by a different generation from the one that built it, so their ratios and practices didn't match the original ones.
 - **Fake Battle Period (~3,000 to ~2,100 B.G.):**
   - Realizing the Lishies were focused on the Fuhraies, the Buhraies kept faking an endless skirmish with the Fuhraies to keep the Lishies away from their true plot: terraforming what is now Endlessfog and experimenting with summoning species. Bruntos came about then.
@@ -138,7 +138,10 @@ note: the timeline keeps its structure (each people, its Times, and their Period
 
 # Darfaries
 
-#### Transformation Time (~200 B.G. to ~270 A.G.)
+#### Transformation Time (~805 B.G. to ~270 A.G.)
+
+Small changes started around ~805 B.G., but the new species really began to form and take shape around ~300 to ~200 B.G.
+
 
 - **Lishies & Buhraies Shift Period (~805 B.G. to ~0 A.G.):** the children of these species began to crossbreed, but they couldn't breed back with either parent species: these mixed children could only breed with one another, which sped up the rapid growth of the three new species: the Darfaries, the Wozefaries and the Sorefaries.
 - **Population Expansion Period (~0 to ~250 A.G.):** the Darfaries and Wozefaries kept growing until they were the largest populations on the mountain. Conflicts between species, especially between the new and the old, rose for lack of space.
@@ -152,7 +155,7 @@ note: the timeline keeps its structure (each people, its Times, and their Period
 
 # Wozefaries & Sorefaries
 
-#### Transformation Time (~200 B.G. to ~270 A.G.)
+#### Transformation Time (~805 B.G. to ~270 A.G.)
 
 The same as the Darfaries': born from the crossbreeding of Lishies and Buhraies on the mountain, then sent flying off the Goodbye Cliff toward Flatland once the Darfaries took over (see Transformation Time under Darfaries).
 
@@ -209,7 +212,7 @@ The same as the Darfaries': born from the crossbreeding of Lishies and Buhraies 
   - 575 A.G.: on a dark, cloudy night, a few people saw someone in robe-like clothing walking drunkenly around Tastyleaf, and a guard saw them head toward the swamp. The guard warned it was dangerous, but the person replied, "I have a literal awesome fucking idea," and kept walking. The Cruros showed up soon after.
   - 640 A.G.: an incredibly smart man named Freeish Paulin felt compelled to change things, so he began building a secret base in what is now Forway City to overthrow the kingdoms.
   - 648 A.G.: Paulin was betrayed and sold to the Gandew Kingdom to be assassinated. But as the King of Gandew learned what Paulin was trying to do, he came to agree with most of it, overthrowing the current kingdoms included, mainly because he realized that otherwise everyone would end up dead and nothing would be solved. He still had to have Paulin killed to save face with the people, but Paulin had given him all his connections, so the king began building a new base in what is now the Freeish Kingdom. He entrusted one of his closest allies (and mistresses) with leading the organization, and made her Courtroom Scientist under the guise of "better war preparations".
-  - 650 A.G.: the courtroom scientists of Gandew (Asa the Powerful), Tolerideme (Adrian from North Tolerideme) and Sanbi (Bijura Moacir) met at the hidden base to plan the overthrow. They slowly conditioned the people to accept their ideas and stirred up revolts ("the greed of the heroes was controlling the people"), until the kingdoms lost their grip on their people and could no longer wage war on each other. Then the rebellion truly began, and it toppled all three kingdoms. The King of Gandew was executed in front of everyone, calm and relieved despite it all (some people don't believe he was that kind and selfless). The King of Tolerideme was starved to death. The King of Sanbi was publicly spanked in humiliation, then dropped alive into the ocean.
+  - 650 A.G.: the courtroom scientists of Gandew (Asa the Powerful), Tolerideme (Adrian from North Tolerideme) and Sanbi (Bijura Moacir) met at the hidden base to plan the overthrow. They slowly conditioned the people to accept their ideas and stirred up revolts ("the greed of the heroes was controlling the people"), until the kingdoms lost their grip on their people and could no longer wage war on each other. Then the rebellion truly began, and it toppled all three kingdoms. The King of Gandew was executed in front of everyone, calm and relieved despite it all (some people don't believe he was that kind and selfless). The book Prosperity Treaty's Heroes tells this part from another perspective, in [Books of Vraki](/lore/in-world-books/). The King of Tolerideme was starved to death. The King of Sanbi was publicly spanked in humiliation, then dropped alive into the ocean.
 - **The Prosperity Treaty Period (680 A.G. to today):**
   - The plan succeeded, and the courtroom scientists became the new kings. They wrote the Prosperity Treaty and Forway law so that no more wars over greed would break out.
   - They created a common currency, formalized a calendar starting from the year Ganyrami fell (Adrian helped drive both the calendar and the units of measurement), and built other tools to put everyone on the same page and make trade easier.

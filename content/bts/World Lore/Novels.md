@@ -139,6 +139,8 @@ In 650 A.G., the courtroom scientists of the Gandew, Tolerideme and Sanbi Kingdo
 
 The plan succeeded, and the courtroom scientists became the new kings. They wrote the Prosperity Treaty and Forway law so that no more wars over greed would break out between them. They created a common currency, formalized a calendar starting from the year Ganyrami fell, and built other tools to put everyone on the same page and make trade easier. Embassies were founded soon after, and all ruins and major cities became Forway property. Sundeath tried to stay out of it all, but gave in under the sheer pressure from Forway; in exchange, it has Pharaohs as city leaders.
 
+The [World Timeline](/lore/history/) tells these events from another perspective.
+
 - **Characters:** Freeish Paulin; Asa the Powerful; Adrian from North Tolerideme; Bijura Moacir.
 - **Era:** 650 A.G. on.
 
