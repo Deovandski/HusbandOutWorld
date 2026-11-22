@@ -610,3 +610,146 @@ Born in Crossroads as Maicon Crossroads Black-Dove (he updated his badge to Forw
 - **Flaws:** greedy; lustful; uncharitable; narcissistic; naughty; a killjoy; intrusive, sometimes far too intrusive; fixed on his objectives; superficial.
 - **Likes and dislikes:** fine dining and drinks; loves fancy fruity drinks. Hates being mistaken for a Toleridemian, yet loves being big, since it gives him a sense of a barrier between himself and others (not that he's aware of it): food as a source of security and feeling good. For some reason, he doesn't like thirty-smalladi-long subs.
 - **Interface:** Darfaries.
+
+# Nooru High-Gandew Tough-Hammer
+
+Born and raised in the Gandew Kingdom, he was one of the few to go outside out of self-interest, but what he wanted was to frolic with Wozefaries, which is unusual for someone like him. When rumors started, he decided to become king so he could do as he pleased, especially since the previous king was overly xenophobic. He fought the previous king in the pit and barely won, and the king also gave him his beautiful daughter, [Satomi](#satomi-high-gandew-tough-hammer), in marriage. He accepted to save face, but deep inside he knew he wanted a Wozefaries to play with.
+
+Over the years, he enacted rules more favorable to the Darfaries, like allowing them to marry other species if they move out and never come back. Satomi grew suspicious of his "business encounters", and eventually caught him frolicking with Wozefaries. Now she punches him and breaks one of his tusks every time he's healed; he made up an excuse that it's to look tough and to remember his place since the day he won his first duel. He still likes them, but he's afraid he'll lose his other tusk if he dares another "business encounter".
+
+- **Race:** Darfaries.
+- **Birthday:** 919 A.G. Adrian 19th.
+- **Attracted to:** cute Wozefaries, on the down low; big, strong Darfaries, officially.
+- **Myers-Briggs:** ESFP.
+- **Intelligence:** average for his species. He doesn't know as much history as you'd expect from a king, so he finds ways to let his wife speak instead.
+- **Habits:** likes to lean back and talk while scratching his beard, one foot over the other, elbows on the arms of the chair. He often nods along, mostly to help the speaker feel a bond.
+- **Speech:** relaxed, like a father two beers in. Playful with his words, but not with profanity. He points out flaws in what others say, but with a counterpoint, so he doesn't come off as an asshole.
+- **Strengths:** playful; friendly; enthusiastic; fearless, except with his wife; inventive; relaxed; discreet; sympathetic; not stuck in tradition, yet resolute in helping Gandew and its people, even those kicked down the mountain; helpful; communist.
+- **Flaws:** lustful; secretive; passive with his wife; too self-conscious at times, especially about keeping his secrets from leaking.
+- **Likes and dislikes:** likes nice people, especially those who aren't hellbent on tradition, or who like Wozefaries. Loves meat and Gyut milk, though he rarely drinks it, since it makes him the butt of jokes: Gyut milk is free for infants.
+- **Interface:** Darfaries.
+
+# Satomi High-Gandew Tough-Hammer
+
+The first and only child of the previous king, and one of the most beautiful Darfaries around: in other words, YUGE! MUSCULAR! Still kind of cute, though! She was set on becoming a blacksmith, but her plans were foiled when her father gave her away in marriage to [Nooru](#nooru-high-gandew-tough-hammer). Nooru still encouraged her to blacksmith in her free time, and she loves it more than him. [Hiromi](#hiromi-high-gandew-tough-hammer) was born soon after, but she doesn't really care for him compared to blacksmithing. She always respected and appreciated Nooru for encouraging her passion, until she discovered it was his way of making time to frolic with Wozefaries. Now she punishes him every time he heals.
+
+- **Race:** Darfaries.
+- **Birthday:** 949 A.G. Moacir 11th.
+- **Attracted to:** Darfaries men: strong, resolute and powerful.
+- **Myers-Briggs:** ISTJ.
+- **Intelligence:** keenly aware of the history of the Gandew Kingdom and its citizens. Nothing else matters to her.
+- **Habits:** cracks her knuckles, rubs her shoulders and so on, from constant blacksmithing and hard work; a neutral, almost resting-bitch face, though she isn't that bitchy: she just keeps her distance from people she doesn't care for (anyone who isn't Darfaries).
+- **Speech:** short and sweet; straight to the point, and sincere in her xenophobic values. Doesn't care what others think, especially people outside Gandew.
+- **Strengths:** caring; traditional; responsible; sincere; thoughtful; capable; captivating; upright.
+- **Flaws:** narrow-minded; charmless; dogmatic about Gandew's ways and culture, and quixotic about it; xenophobic; pompous and patronizing toward non-Darfaries.
+- **Likes and dislikes:** loves Gandew and its people. Hates her husband's "dark side", but doesn't want to disturb the status quo, so she keeps it hidden. Loves strong beer; hates milk.
+- **Interface:** Darfaries.
+
+# Tarou Mid-Gandew Strong-Leg
+
+Born in Forway to a middle-class family, he's a man with a long history of connections and deals throughout Forway; some panned out, others didn't. He isn't filthy rich, but bring him any daring plan, legal or not, and he'll throw in some money, at least to make more connections.
+
+- **Race:** Darfaries.
+- **Birthday:** 899 A.G. Asa 56th.
+- **Attracted to:** Darfaries women, especially younger ones.
+- **Myers-Briggs:** ENFP.
+- **Intelligence:** a good business sense, but his daring side sometimes gets the better of him.
+- **Habits:** likes to have something in hand, especially a wine glass he swirls and slowly sips from, eyes on the moving liquid while his mind runs through the possibilities; his body language stays semi-tense.
+- **Speech:** sometimes talks aloud, sometimes mumbles to himself. A husky voice that sounds like an ultimatum, though it likely isn't: good to listen to, like an old broadcaster. Loud and imperative, with clear enunciation; he likes to stand above others in a conversation and keep himself at its center. He doesn't talk much: direct and to the point, and he doesn't care for the minute details.
+- **Strengths:** open-minded about deals; a listener; fair; daring; unassuming; uncomplaining; versatile; respectable; a negotiator; level-headed.
+- **Flaws:** greedy; elitist; a sellout; self-serving; uncharitable; untrustworthy.
+- **Likes and dislikes:** loves business opportunities and drinking, and chews Steen leaves in his spare time. Dislikes people sneaking around his business: he'd rather they come talk to him directly and maybe negotiate a better deal.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 2 | 140 | 240 cm | 130 kg |
+
+# Itagiba Sanbi Royal
+
+The only son of the Royal guild of the Sanbi Kingdom; his father, Celerino, and his mother, both extremely jokey free spirits, passed away some time ago. He spent a good chunk of his teens exploring instead of going to school to become a better leader, so there are likely at least a few illegitimate children of his out there. He made friends along the way, but never told them who he was: he traveled as an adventurer under a fake name, "Juno Triangle Trader", and a fake appearance (adventurers are the easiest people to spot in Vraki). In 1013 A.G. he met [Gabiro](#gabiro-sanbi-royal) while visiting a brewery where Gabiro worked.
+
+At 20, passing through Sundeath, he met his destiny: [Neferteri](#neferteri-sanbi-royal), the most exotic and beautiful girl he had ever seen. They had some trouble, since she was to become the next Pharaoh, but she chose to flee it all and live in Sanbi with her true love. He became king in 1015 A.G. He loves his daughters all equally, but wishes he'd had at least one prince. He wears a white cape, with no beard, maybe fine stubble.
+
+He knows [Harry](#harry-sanbi) only as the Sanbi Eye, and nothing about the experiments or [Eori](#eori-sanbi-royal). He approved Gabiro's project because [Maiara](#maiara-sanbi-royal) wanted a husband "to her specifications".
+
+- **Race:** human.
+- **Birthday:** 994 A.G. Paulin 5th.
+- **Attracted to:** an independent, beautiful woman who doesn't want him just because he is (or was going to be) King of Sanbi.
+- **Myers-Briggs:** ESTJ.
+- **Intelligence:** focused on short-term goals and tasks, getting things done. He knows the kingdom's history, but isn't invested in telling it: it's all about the people, and keeping the kingdom going so he can take it easy at the end of the day.
+- **Habits:** personal, and can get handsy, but his personality makes it work, so most people don't feel invaded; moves around more than most, and likes to stand and walk; looks people in the eye with a sincere, warm smile.
+- **Speech:** jokey, friendly and relaxed; informal ("It's fine!", "Let's do that!"). A leader who likes to hand out tasks while keeping for himself what he likes: talking. Oral contracts are his thing. He can get moody, and easily persuaded, when drunk.
+- **Strengths:** friendly; caring; mischievous; ecchi (especially when drunk); action-oriented; capable; charming; optimistic; "let it be"; self-important, especially if someone tries to compete; open-minded.
+- **Flaws:** procrastinates on anything not due soon; facetious; not very bright, and doesn't think things through carefully; acts on the spur of the moment.
+- **Likes and dislikes:** loves Fanchaki (eating them), beer, good times and a good dinner with family; competing with people.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 1 | 45 | 186 cm | 78 kg |
+| 2 | 45 | 186 cm | 78 kg |
+
+# Neferteri Sanbi Royal
+
+She grew up to become the next Pharaoh, until she met the love of her life. She disliked the idea of being Pharaoh anyway: she could only marry one of her brothers, and she more or less disliked all of them. She was sick of Sundeath, and fell in love with the fantasy the moment she saw [Itagiba](#itagiba-sanbi-royal). The more [Gamal](#gamal-sundeath-pharaohs) resisted her love, the stronger it grew, until she fled to Sanbi with Itagiba. Soon after, Itagiba was given the throne, and her experience and education helped him and the Sanbi Kingdom immensely.
+
+As Queen of Sanbi, she gathered a group of loyal followers who do her bidding, mainly to keep her image, and her children's, in check, though she has mostly given up on [Yacamim](#yacamim-sanbi-royal) and [Maiara](#maiara-sanbi-royal). Her siblings still hold a grudge: one of her brothers recently died, not of old age, but because she didn't marry him, and he stayed stuck in limerence for decades. She thinks little of [Harry](#harry-sanbi) as a person.
+
+- **Race:** human.
+- **Birthday:** 999 A.G. Moacir 42nd (see the Q&A).
+- **Attracted to:** confident, charismatic, funny men who get the job done.
+- **Myers-Briggs:** INTJ.
+- **Intelligence:** very good at seeing every possible outcome from what she knows, and even the second-best options, so no chance goes unused. She'll fight with all her strength for what she wants.
+- **Habits:** likes to sit alone and think, keeping her hands busy, usually adjusting her bracelets as she ponders. She doesn't wear sleeves, and wears metal rings.
+- **Speech:** a kind, neutral tone, with well-enunciated words and no pauses between words, only between sentences. She thinks through what she wants to say, but most of what she thinks never comes out.
+- **Strengths:** idealistic; organized; charismatic; elegant; charming; a long-term planner; loving, wishing the best for her kingdom; emotionally mature; fair; creative. Paper trails and contracts are her thing: she uses contracts to extract duties and make sure people act according to the terms, but her own plans and mental machinations stay in her head; she avoids writing them down, so they can't leak to prying eyes.
+- **Flaws:** uses narcissistic manipulation tactics (switching to fawning, for example); would rather die than publicly take responsibility and look weak, and when cornered, her instinct is to destroy all evidence; secretive; self-indulgent; vague; cunning; seems plodding to outsiders who don't understand how her mind works; can come across as emotionless.
+- **Likes and dislikes:** loves her family, even Itagiba when he gets drunk: she complains, but by now she accepts it's part of who he is. Loves wine and vegetables in general, and Domar bread is her passion. Her perfume, rose water with notes of wine, is popular in Sundeath. She dislikes anything that interferes with her plans, especially Itagiba getting too drunk during his speeches. Part of her hates the fishy smell all over Sanbi, but she has learned to put up with it.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 1 | 40 | 176 cm | 61 kg |
+| 2 | 40 | 176 cm | 61 kg |
+
+# Yacamim Sanbi Royal
+
+The first of [Itagiba](#itagiba-sanbi-royal) and [Neferteri](#neferteri-sanbi-royal)'s identical twins. She looks a lot like her father: a bit too literally, though. She loves going out exploring and fighting. She's engaged to [Hiromi](#hiromi-high-gandew-tough-hammer), First Prince of Gandew, after he defeated her in a duel during a brawl between the two at The Dead Wozen tavern, on 1038 A.G. Paulin 98th (Sunnulow). She'll be the next Queen of Sanbi, but for now she's known as the "Manly Princess".
+
+- **Race:** human.
+- **Birthday:** 1015 A.G. Moacir 6th.
+- **Attracted to:** a muscly man who can go mano a mano with her and keep up with her pace.
+- **Myers-Briggs:** ESFJ.
+- **Intelligence:** combat, exploring and cooking what she loves are her thing. If she sets out to do something, it will get done, even if it means making someone bleed.
+- **Habits:** always on the move; doesn't like sitting idle, especially chatting with no goal in mind. She likes to act, doing several things at once, and wears her uniform when she goes exploring, to attract bandits and make things more interesting.
+- **Speech:** gets nasty-mouthed sometimes, especially when someone strays from her plans; otherwise careless and curt. Somehow, an air of elegance surrounds her curt voice.
+- **Strengths:** active, always on to the next item on her endless to-do list; honest; energetic; sporting; self-confident; witty; skillful; well-rounded; somewhat mature about her feelings, but too self-indulgent.
+- **Flaws:** self-indulgent; forgetful; belligerent; tense.
+- **Likes and dislikes:** loves a fight, or any competition, but only when there's an interesting fight to be had. Hates anyone who gets in her way, and having to deal with pathetic pussies. Likes strong drinks.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 2 | 24 | 186 cm | 69 kg |
+
+# Maiara Sanbi Royal
+
+The second of [Itagiba](#itagiba-sanbi-royal) and [Neferteri](#neferteri-sanbi-royal)'s identical twins. She looks a lot like her father: a bit too literally, though. Maiara tries to follow in her sister [Yacamim](#yacamim-sanbi-royal)'s footsteps, even looking for a husband the same way. But everyone likes her sister more, so she tries to make up for it by looking a lot more frightening: in a sense, she's trying to make herself unique, but going about it the wrong way. She plays [Homeegg](/lore/pastimes/#homeegg) for Sanbi teams.
+
+- **Race:** human.
+- **Birthday:** 1015 A.G. Moacir 6th.
+- **Attracted to:** bisexual. She likes someone who cares about her more than anyone else, and not too big.
+- **Myers-Briggs:** ENFJ.
+- **Intelligence:** smart enough, but her narrow-minded drive to be her sister is slowly chipping away at her sanity and her sense of self.
+- **Habits:** aggressive movements; looks people in the eye with certainty, or away in disgust. When her sister is in the room, she seems put in her place; when she isn't, Maiara tries to be more visible, and more like her sister, but it never quite works, since it always seems forced.
+- **Speech:** verbally aggressive: she likes pushing people's buttons and finding ways to look more impressive, at the center of attention, at least when her sister isn't around. She hums more than most, and tries to look aggressive when she loses an argument: instead of replying, she resorts to violence. A conversation starter who likes to turn things into games.
+- **Strengths:** caring; logical; efficient; loves her sister, and wants to be on her level, but different, though not too different; daring.
+- **Flaws:** jealous of her sister; temperamental, especially when someone pokes her sore spot about being lesser than her sister; aggressive, to make up for her lack of skill; pathetic, as she keeps trying to be like her sister instead of herself; demanding; narrow-minded.
+- **Likes and dislikes:** loves competing, and fruit. She doesn't get along with [Eori](#eori-sanbi-royal).
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 1 | 24 | 186 cm | 72 kg |
+| 2 | 24 | 186 cm | 72 kg |

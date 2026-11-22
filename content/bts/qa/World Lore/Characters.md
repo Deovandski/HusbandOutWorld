@@ -143,6 +143,25 @@ Status: **answered** 2026-11-22.
 - **Plainer wording:** Clodoveu's "putting food on the bodies of twinks and licking off it" as "food play with twinks"; Wilson's leaning toward asexual is kept without the crude part.
 - Typos read as meant: "Cear" as clear; "Enervated" as listless; "Curios" as curious; "Irrascible" as irascible; "Incissive" as incisive; "Additional Skills" inside Maicon's Intelligence line dropped (a template slip).
 
+## Batch 4: Gandew, and the first Sanbi royals (asked 2026-11-22)
+
+Nooru, Satomi, Tarou, Itagiba, Neferteri, Yacamim, Maiara.
+
+Status: **open** until answered.
+
+### CH12. Neferteri's age when she met Itagiba
+- **Legacy text:** Neferteri "999 A.G. Moacir 42nd" (Book 1 age 40); Itagiba "994 A.G. Paulin 5th", who met her "when he was 20 years old" and became king in 1015 A.G.; the twins Yacamim and Maiara "1015 A.G. Moacir 6th".
+- **Why:** That makes Neferteri 15 when they met and 16 when the twins were born. Should her birthday (and Book 1 age) change, or Itagiba's age when they met?
+
+### CH13. Huneo: Sanbi Sandour or Sanbi Royal? (from CH10)
+- **Legacy text:** `Legacy/Public/characters.md`: "Huneo Sanbi Sandour"; Characters.md: "Huneo Sanbi Royal".
+- **Why:** Which is current, or did his badge change (like Arukia's and Maicon's)?
+
+### Judgment calls in batch 4
+- **Nooru:** "frolicing with lolis" and "He still likes lolitas" are written as Wozefaries, the way the rest of his entry describes them ("his desire was to frolic with Wozefaries"; "a way for Nooru to have time to frolic with Wozefaries").
+- **Neferteri:** "Start sub with “1039 A.G. Paulin 21st, Freeday at about Sunnuhigh—”" is left out, like Arukia's (a writer's note, CH11).
+- Satomi: "keeping distance with people she does care for (anyone not Darfaries.)" read as "doesn't care for".
+
 ---
 
 ## The author's pushback on minors and toned-down wording (2026-11-22)
@@ -159,13 +178,14 @@ Status: **answered** 2026-11-22.
 |---|---|---|
 | Fernan's entry names his son Jonem and links to him | "His wife lives in Blood City with Magi's little brother." | Characters.md (Jonem) |
 | Morika's armor persona links to The Stinger | (the Website Description) | Characters.md (Morika › Website Description) |
+| Maiara's Homeegg links to Sports, Games and Pastimes | "She plays Homeegg for Sanbi teams." | Sports, Games and Passtime.md |
 | Lofingha's father is Lofinghy | "her father" | Characters.md (Lofingha › Website Description: "her father Lofinghy") |
 | Laura's Book 3 age: 30 | "-Reconfirm" | worked out from her birthday (1009 A.G. Asa 72nd) and the Documentation Notation (Book 3 in 1039 A.G.) |
 | Katsuki, Katsumi and Laura link to the Red Winga | "See Bandits > Red Winga"; "rescued in the desert by Red Winga" | Factions page (Red Winga) |
 
 ## Discrepancies
 
-See CH1 to CH11.
+See CH1 to CH13.
 
 ## Left out on purpose
 
