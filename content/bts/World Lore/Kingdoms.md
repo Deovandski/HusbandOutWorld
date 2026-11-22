@@ -98,7 +98,7 @@ Names in this democratic kingdom sound like Brazilian names, and influences from
 #### Points of interest
 
 - **Governor State (#1):** the main house, where the current elected leader lives. Not as big as a whole village, but the whole state covers about 13 km² (about 5 square miles) of a private island where all the elected kingdom personnel live and work.
-- **Carbeyland (#2):** the "original" village, some say, where Carbey was first planted en masse.
+- **Carbeyland (#2):** the "original" village, some say, where Carbey was first planted en masse. The other Carbeyland (#11) says the same: both call themselves the original, the first true village that founded what is now Freeish, and they resent each other to this day.
 - **Farplace (#3):** it was, and still is, kind of far from everything.
 - **Treetop (#4):** named after the area's hunters, who often attack prey from the treetops.
 - **The Mill (#5):** the name stuck after it became the center of water-powered grain milling.
@@ -107,7 +107,7 @@ Names in this democratic kingdom sound like Brazilian names, and influences from
 - **Peaceful Life (#8):** in the middle of the other villages, so beasts rarely prey on it.
 - **Endland (#9):** named for being close to the water.
 - **Crossroads (#10):** the first village people fleeing Sanbi or Tolerideme would see, where they decided where to go next.
-- **Carbeyland (#11):** the other "original" village where Carbey was first planted en masse.
+- **Carbeyland (#11):** the other "original" village where Carbey was first planted en masse (see Carbeyland #2).
 - **Lishies Eater (#12):** the oldest village of the bunch, from around the fall of Ganyrami. Legend says the people here hunted down and ate every Lishie that survived the fall.
 
 #### Festivals
@@ -150,7 +150,7 @@ Only Darfaries may live in the Gandew Kingdom permanently; Wozefaries and Sorefa
 
 They worship the ancient Darfaries who took up the sword and cleansed the mountain of the other species. They believe all spirits live forever, and get lost in the desert if their bodies don't go through the proper rituals (from visions of people hallucinating in the heat).
 
-They get along with other species but keep their privacy; they rarely make friends, but when they do, it's for life. They avoid using Soul Energy for anything they can do by hand, so they don't grow dependent on it, since the ancient Darfaries cleaned the mountain with their bare hands (not quite 100% true). That runs through the rest of their society, including their reputation for preserved, non-refrigerated food. They have a Mountain Greeting. Communists, and very clean people despite the sand. Boots and sandals stay in one spot inside the home, like in Japanese homes.
+They get along with other species but keep their privacy; they rarely make friends, but when they do, it's for life. They avoid using Soul Energy for anything they can do by hand, so they don't grow dependent on it, since the ancient Darfaries cleaned the mountain with their bare hands (not quite 100% true). That runs through the rest of their society, including their reputation for preserved, non-refrigerated food. They greet with the Mountain Greeting, which Hiromi teaches Harry in Vol 2: hands up and feet spread apart, they come belly to belly and hand to hand, spreading their feet wider (or lowering a hand) to level with someone shorter. Communists, and very clean people despite the sand. Boots and sandals stay in one spot inside the home, like in Japanese homes.
 
 **The Blood Book:** families gather in the spring, and villages in the fall. The head of the family or village opens the book and reads out the expectations and promises made last time for each signee. The signee says what they succeeded at, what they failed at, and what the new expectations will be. Meanwhile, anyone else may promise something to the signee, or challenge them to a duel: to bash some sense into their head, for failing to do something they promised, or to settle bad blood between them. Once reviewed, the signee signs in blood, making them responsible for what they stated. When everyone has been reviewed, the bookkeeper signs in blood, seals the book, and everyone feasts to celebrate life.
 
@@ -201,7 +201,7 @@ Drinking cups are two-handled bowls. Real-world comparison: the Scottish [quaich
 
   ![][image27]
 
-- **Milk String:** the seller casts spells inside a hole to fill it with ice, then layers milk, sugar, Rakuja and Gyut over it to make custom strings of frozen milk. You can find it in Forway too, with lots more flavors. See "Roller Kufti".
+- **Milk String:** the seller casts spells inside a hole to fill it with ice, then layers milk, sugar, Rakuja and Gyut over it to make custom strings of frozen milk. You can find it in Forway too, with lots more flavors. Real-world comparison: roller kulfi, an Indian street dessert where kulfi cream is poured onto a rotating, ice-filled roller, freezes instantly, and is scraped off into a bowl.
 
   ![][image28]
 
@@ -248,7 +248,7 @@ Names often lean toward Asian names, especially Chinese and Japanese. City names
 #### Festivals
 
 - **Weapon Fest:** every Adrian, to see who makes the toughest weapon in each category.
-- **King Fest:** every Asa, a major trial by combat among everyone who thinks they're worthy of the king's position. The king is healed, alongside the fighters, before every fight; the loser has to "lick his wounds", or get someone to lick them. The winner faces the king, and must rip out both of his tusks after killing him.
+- **King Fest:** every Asa, a major trial by combat among everyone who thinks they're worthy of the king's position. In ordinary fights, for fun or to the death, everyone is healed before every fight, and the loser has to "lick his wounds", or get someone to lick them. Challenging the king for the throne is different: there can be several challengers, so the king is healed between all their fights, but the challengers aren't. That stops an endless torrent of challenges from forcing the king off his throne by sheer attrition, breaking his spirit instead of beating him in a fair fight. The winner faces the king, and must rip out both of his tusks after killing him.
 
 #### Burial
 
@@ -447,7 +447,7 @@ They love their rituals of social interaction, like the Tamada culture of Georgi
 
 #### Daily life
 
-- **Clothing:** colorful, for slightly colder weather. Hats (like Aurora's) show their profession, life, etc.; some even show off their wealth. Heavy use of Tibou.
+- **Clothing:** colorful, often with vertical stripes, for slightly colder weather (see the Tolerideme character designs). Hats (like Aurora's) show their profession, life, etc.; some even show off their wealth. Heavy use of Tibou.
 - **Education:** fundamental school focuses on three tracks: general, farmland and alcohol. Meals at fundamental school are free for citizens.
 - **Crime and law:** follows Forway Law, but every punishment is starvation: the more severe the punishment, the longer the criminal starves.
 

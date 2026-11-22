@@ -12,49 +12,61 @@ Each kingdom is one block in the raw doc, so each is abridged as one section wit
 
 ## Questions for the author
 
-Status: **open** until answered. Asked as one batch on 2026-11-21.
+Status: **open** until answered. Asked as one batch on 2026-11-21 and answered the same day.
 
-### K1. Freeish: two Carbeylands? (open)
+### K1. Freeish: two Carbeylands? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Points Of Interests: "Carbeyland (#2) The “Original” village, as some say, where Carbey was planted in mass." and "Carbeyland (#11) The other “original” village where Carbey was planted in mass."
 - **Why:** Is that on purpose (two villages with the same name, both claiming to be the original), or should one be renamed?
-- **Answer:**
-- **Change to the abridged text:** Keeps both as written for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > They both call themselves that, and they hold resentment to each other to this day as each believes they are the original village, as in the first true village that established what is now Freeish.
+- **Change to the abridged text:** Carbeyland #2 now says both call themselves the original (the first true village that founded Freeish) and resent each other to this day; #11 points to it.
 
-### K2. Gandew: what is the Mountain Greeting? (open)
+### K2. Gandew: what is the Mountain Greeting? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Culture: "Mountain Greeting."
 - **Why:** The doc names it but doesn't describe it. What does it look like?
-- **Answer:**
-- **Change to the abridged text:** Says "They have a Mountain Greeting" for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > See Vol 2 Chapter 1. That's what Hiromi teaches Harry with the belly and the hands up motions.
+- **Change to the abridged text:** Described from Vol 2, Chapter I: hands up, feet spread apart, belly to belly and hand to hand, spreading the feet wider (or lowering a hand, as Hiromi does with Kaiana) to level with someone shorter.
 
-### K3. Gandew King Fest: who gets healed? (open)
+### K3. Gandew King Fest: who gets healed? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Kingdoms › King Fest: "The king is healed alongside the fighters before every fight." Laws and Treaties › King-Fest Addendum: "The current King shall be healed between duels, but he is not responsible for healing any Darfaries who decide to stand up to the King during the festival."
 - **Why:** Are the challengers healed between fights too, or only the king?
-- **Answer:**
-- **Change to the abridged text:** Keeps the Kingdoms wording for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > There is a diff here. For normal "for fun" fighting and killing each other, everyone gets healed. But if someone challenges the king for a fight to take over his throne as a challenger, and there could be multiple attempts at challenging his throne, so the king is granted heal between all the fights coming from challengers but not the challegenrs themselves to prevent an infinite torrent of challenges and forcing the king to give up his throne by sheer fighting and breaking his spirit rather than a legit fight.
+- **Change to the abridged text:** King Fest now distinguishes ordinary fights (everyone healed) from throne challenges (the king healed between challengers, the challengers not), and why. This agrees with the King-Fest Addendum in Laws and Treaties.
 
-### K4. Gandew Milk String: "Roller Kufti"? (open)
+### K4. Gandew Milk String: "Roller Kufti"? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Milk String: "More info: Roller Kufti"
 - **Why:** Is this a real-world reference (for example rolled ice cream, or kulfi)? I can turn it into a short real-world comparison like the others.
-- **Answer:**
-- **Change to the abridged text:** Keeps "See Roller Kufti" for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Yes. Real world ref.
+- **Change to the abridged text:** Real-world comparison added: roller kulfi (an Indian street dessert: kulfi cream poured onto a rotating, ice-filled roller, frozen instantly and scraped into a bowl). Sources: blog.delhifoodwalks.com/roller-kulfi, curlytales.com (roller coaster kulfi).
 
-### K5. Sanbi Castle: the sketch notes (open)
+### K5. Sanbi Castle: the sketch notes (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** "\*Trying to mitigate by reducing size after a contract bookcase." "\*Glass on the side ends too. No balcony." "\*In blue, chimney"
 - **Why:** These read like notes on the castle illustrations. Should any of them be on the website as facts (for example "glass windows on the side ends, no balcony"), or stay in the original notes only?
-- **Answer:**
-- **Change to the abridged text:** Left out of the abridged text for now (still in the original notes).
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Stay in legacy only. People can see the castle themselves throughout the illustrations.
+- **Change to the abridged text:** None: the sketch notes stay in the original notes only.
 
-### K6. Tolerideme clothing: "Colorful/lists"? (open)
+### K6. Tolerideme clothing: "Colorful/lists"? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Clothing: "Colorful/lists. For slightly colder weather."
 - **Why:** Did you mean colorful stripes?
-- **Answer:**
-- **Change to the abridged text:** Says "colorful" for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Yes. Often vertical stripes. See character designs from Tolerideme for additional descriptions
+- **Change to the abridged text:** "colorful, often with vertical stripes … (see the Tolerideme character designs)".
 
 ---
 
@@ -68,7 +80,9 @@ Status: **open** until answered. Asked as one batch on 2026-11-21.
 
 ## Discrepancies
 
-See K3 (who is healed at King Fest).
+### King Fest healing (settled)
+- **Sources:** Kingdoms ("The king is healed alongside the fighters before every fight") vs Laws and Treaties › King-Fest Addendum (the king is healed between duels, not the challengers).
+- **Settled by:** the author's decision (K3): both are right for different fights.
 
 ## Left out on purpose
 
