@@ -442,3 +442,164 @@ When she was a kid, her mother seemed to be a lazy, uncaring Darfaries, the woma
 | Book | Age | Height | Weight |
 |---|---|---|---|
 | ? | ? | 193 cm | 104 kg |
+
+# Arukia Long-Bridge
+
+Born in Long-Bridge, Arukia had a peaceful but mundane and poor childhood. Wanting more of the world, and of herself, she ran away from her parents and ended up in Forway, like many girls do (see Vol 3, Chapter 4). She had some tough times in Forway before [Emelia](#emelia-lakeeye-rich-flower) found her. Emelia saw how manipulative she was, and how much money she squeezed out of begging, so she brought her into the flower shop and gave her harder and harder tasks to test her as an agent. Arukia did so well that Emelia paid for her schooling in tailoring, cooking and accounting, so she could become an agent inside a rich household, if not a kingdom. Her willingness to do anything to get ahead, and her knack for hiding her secrets, paid off: she became one of the youngest agents of the [Red Winga](/lore/factions/#red-winga).
+
+Her contract with the Red Winga:
+
+- She provides information to the Red Winga. The better the information, the more of the Red Winga's investment in her it repays.
+- A non-disclosure clause: she can't mention the contract to anyone outside the Red Winga.
+- The contract isn't legal as such, but some crooks in Forway will forge another contract on top of it to make Forway act if needed.
+- Anything spent on Arukia is split 50/50.
+
+Her abilities weren't quite up to expectations, but her manipulation skills got her through school at the top of her class. Still early in her career, [Eiri](#eiri-sanbi-royal) saw her and hired her on the spot as a near-perfect maid for Sanbi: Eiri found and hired her on 1038 A.G. Asa 77th, and on Asa 83rd Arukia stopped at her parents' place to sleep on the way to the Sanbi Kingdom. It turned out to be a bit more complicated than that, but oh well.
+
+- **Race:** human.
+- **Birthday:** 1021 A.G. Paulin 11th.
+- **Attracted to:** humans who are clearly in shape, romantic, playful and tall, with long hair.
+- **Myers-Briggs:** ESFP.
+- **Intelligence:** smart when given a mission or goal. When it comes to her own decisions, she's aimless: she wants a rich life, but that's so vague she can't find a path to it, so she ends up unhappy and blames everyone else for her own mistakes. She wants the money, not the hard path to it: unlike [Kibe](#kibe-sanbi-royal), who just wants to spend money, Arukia wants to hoard it, to feel in control and free. She holds herself back more under her "Arukia the maid" disguise; under a fake skin, she feels freer to act on her own terms.
+- **Habits:** ignores personal space; disarms men with cuteness and playfulness; tsundere; says "Paulin 51st, Freeday!" (see the Q&A); "tsk".
+- **Speech:** a cutesy voice, but moody and stingy with her words, and mean when people won't be herded into telling her what she wants. Rarely curses. Under a fake skin, she feels freer to trample over others to get what she wants; she's not very prone to violence, but she can put on a serious face. She likes to think other people's work is slop, and gives people nicknames: [Eori](#eori-sanbi-royal) is "Dead Stump", Emelia is "Flower Hoe" and [Neferteri](#neferteri-sanbi-royal) is "Stuck-up Queen". She doesn't read aloud, but thinks aloud when she's alone; in public she keeps her cool. Often says "tsk", "sheesh", "meh", "argh" and "Damn it!". She reads in short bursts, interspersing the words with her thoughts.
+- **Strengths:** flexible; resourceful; logical; punctual; sensitive; quick-witted; strong; playful; slightly ecchi; willing (more so as maid Arukia).
+- **Flaws:** unhappy; secretive; moody and easily annoyed; stingy; superficial; stubborn; insulting; disloyal; aimless in her life goals; careless; a procrastinator; quick-tempered.
+- **Likes and dislikes:** likes looking pretty, and loves teasing men to bend them to her will. Likes Lonllow and cute Bruntos, and bonded with a girly one.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 1 | 18 | 164 cm | 52 kg |
+| 2 | 18 | 164 cm | 52 kg |
+
+# Emelia Lakeeye Rich-Flower
+
+Her story is similar to [Arukia](#arukia-long-bridge)'s, except that it was [Laura](#laura-forway-white-bell) herself who took an interest in her. Laura gave her some freedom, so Emelia set up a front for her real business, to help with her dealings for the [Red Winga](/lore/factions/#red-winga): Emelia's Flowery Paradise, a flower shop in downtown Forway.
+
+- **Race:** human.
+- **Birthday:** 1018 A.G. Asa 44th.
+- **Attracted to:** women, especially strong-looking ones, so her partners are usually Darfaries women. She has a thing for Arukia, too.
+- **Myers-Briggs:** ISTJ.
+- **Intelligence:** quite smart at following instructions, and discreet with what she's given; very obedient, and knows her boundaries.
+- **Habits:** plays with her hair and crosses her arms; looks away while her tone stays clear and sincere; seems dull, almost uninterested, when that's usually not the case. Straight to the point with her Red Winga partners; with customers, she puts on a facade to keep them simping over her.
+- **Speech:** clear and sincere, trying to be helpful with her judgment. She means no harm, but her tone can come across as harsh. With customers she puts on a facade: far more confident and resolute.
+- **Strengths:** firm; considerate; gentle; optimistic; punctual; obedient; loyal; to the point when talking business, and quite playful with her words with customers.
+- **Flaws:** dull; listless; willful; vague.
+- **Likes and dislikes:** loves her family, and is trying to bring them all to live in Forway, though she doesn't make enough yet; for now, she can at least save for emergencies. Loves flowers and the scent they give off when they bloom. Loves Laura for the opportunity she gave her.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| ? | ? | 157 cm | 66 kg |
+
+# Nailah Rebula
+
+Her parents came from Sundeath and ended up in a village nearby. She married a man from a local village too, [Severino](#severino-rebula), and they had a son, [Vitor](#vitor-rebula). Life is simple, but good.
+
+- **Race:** human.
+- **Birthday:** 1015 A.G. Paulin 28th (see the Q&A).
+- **Attracted to:** men with beards and long hair, and a strong, dependable personality.
+- **Myers-Briggs:** INFP.
+- **Intelligence:** her parents taught her to read. She has a simple mindset, and her knowledge leans toward woodcarving.
+- **Habits:** loving with her family, more neutral with strangers; likes to have her back to a wall, or to be seated, to feel protected.
+- **Speech:** a motherly voice, on the simple side. She tries to talk things through, but never decides what anyone should do, and agrees with people just to keep the peace, even when she disagrees: "Sure", "That sounds good", "Should be fine".
+- **Strengths:** sensitive; creative; harmonious and calm; peaceful; loving; hardworking; clean.
+- **Flaws:** shy; selfish; hesitant; forgetful; doesn't like to travel; dependent.
+- **Likes and dislikes:** likes her village, her friends and her family. Dislikes mess, especially at home.
+- **Interface:** Darfaries.
+
+# Severino Rebula
+
+He grew up in the nearby villages with strict, hardworking parents, followed in their footsteps and became a woodcutter. He lives in Rebula with [Nailah](#nailah-rebula) and their son, [Vitor](#vitor-rebula).
+
+- **Race:** human.
+- **Birthday:** 1007 A.G. Adrian 79th.
+- **Attracted to:** clean, tidy Sundeath women.
+- **Myers-Briggs:** ESFJ.
+- **Intelligence:** a man set in his ways: preceptive, and willing to lay down how things have to be. He can't read, but he can certainly read people who try to outwit him. A talented logger.
+- **Habits:** his eyes judge as he drills someone with questions, and he might "whip them into shape" if he sees them doing something wrong, or something he thinks is wrong. Points fingers in people's faces.
+- **Speech:** a fatherly tone; clear-cut; a bold voice with a demanding, almost commanding tone. Clears his throat often, especially when he's annoyed.
+- **Strengths:** helpful; active; productive; passionate; stern; empathetic; encouraging; idealistic; stoic; valiant; a sense of justice.
+- **Flaws:** protective; judgmental, since he's idealistic to a fault; tense; demanding; punishing.
+- **Likes and dislikes:** loves working; goal-focused. Despite his tone, he helps those in need, but hates anyone who thinks they can take advantage of him or his family. Loves pies.
+- **Interface:** Darfaries.
+
+# Vitor Rebula
+
+The son of [Nailah](#nailah-rebula) and [Severino](#severino-rebula), raised in a peaceful home.
+
+- **Race:** human.
+- **Birthday:** 1025 A.G. Asa 2nd.
+- **Myers-Briggs:** ISFP.
+- **Intelligence:** emotionally intelligent, but never speaks up.
+- **Habits:** likes to stay close to his parents, and does what they ask without delay. When it comes to his own wishes, he's less straightforward and gets hesitant: an embarrassed smile, averted eyes, scratching one hand with the other. He puts something between himself and people he isn't comfortable with yet.
+- **Speech:** pauses a lot; noncommittal, except when it comes to helping, especially his parents. Avoids names, since he forgets them.
+- **Strengths:** helpful, like his father; idealistic; curious; clean; hardworking; shy; loving.
+- **Flaws:** hesitant; forgetful; reserved; dependent.
+- **Likes and dislikes:** loves pies too, especially fruity ones for dessert.
+- **Interface:** Darfaries.
+
+# Clodoveu Big-Gyut
+
+His mother is from Tolerideme and his father from Gandew, and they had him in Freeish (in Big-Gyut), so he grew up with three cultures, and made his own mix of what he decided was best for him. He had a fundamental education, but his constant daydreaming kept him job-hopping, stuck as an apprentice. His parents kicked him out to see the world and maybe mature a bit. He went hungry fast, and that's when [Kozaku](#kozaku-forway) noticed him and brought him into the Blue Wozens. His daydreaming means he's basically just a body on the team, rather than someone who brings in lots of loot.
+
+- **Race:** human and Darfaries.
+- **Birthday:** 984 A.G. Moacir 24th.
+- **Attracted to:** gay, into human and Wozefaries twinks.
+- **Myers-Briggs:** INFP.
+- **Intelligence:** smart, but since he lives in his own world, he often fails to make himself heard.
+- **Habits:** neutral, despite his large, imposing build; often looks people up and down, sizing them up, and gets close to smell them too; keeps a straight face.
+- **Speech:** deadpan, honest answers; neutral. He cuts off aggression with honesty, and ends up cutting off sarcasm and jokes with it too.
+- **Strengths:** cares for those he considers family; creative; upright; willing; understanding; tolerant; patient; persuasive (he knows how to defuse [Marcus](#marcus-big-gyut) and [Wilson](#wilson-big-gyut)); gregarious.
+- **Flaws:** a killjoy; a procrastinator; boring; detached; daydreams too much, especially about what-ifs, and ends up not doing anything; shameless.
+- **Likes and dislikes:** likes harmony. Really likes food play with twinks.
+- **Interface:** Darfaries.
+
+# Marcus Big-Gyut
+
+From Big-Gyut. He grew up in a poor household and ended up in a life of crime, since that seemed like the only option. A friend of [Clodoveu](#clodoveu-big-gyut)'s.
+
+- **Race:** human.
+- **Birthday:** 997 A.G. Moacir 49th.
+- **Attracted to:** big, well-built, muscular women who treat him like a naughty kid.
+- **Myers-Briggs:** ESFJ.
+- **Intelligence:** street smarts. He can't read, but knows how to pull information out of people.
+- **Habits:** finger-pointing; forceful; no chill; stiff; irascible; ready to punch someone's lights out.
+- **Speech:** a coarse, older voice; curses when things don't go his way. Always planning the next move, he tries to be the leader and dole out tasks.
+- **Strengths:** efficient; steadfast; straightforward; discreet; incisive.
+- **Flaws:** abrasive; arrogant; boastful; self-indulgent; temperamental; not detail-oriented; truculent.
+- **Likes and dislikes:** hates people above him, or anyone who makes a point of being above him. Likes most food, except what clearly tastes funky, and especially raw things.
+- **Interface:** Darfaries.
+
+# Wilson Big-Gyut
+
+The middle child of parents too busy with the younger kids and work to give him attention. A neighborhood friend talked him into stealing something, and he thought it was pretty cool: money for doing basically nothing (other than stealing). He was barely making ends meet when [Clodoveu](#clodoveu-big-gyut) got in touch and brought him into the Blue Wozens. One day he crossed paths with [Fernan](#fernan-blood-blue-flower-red-bone) and his Black Sapphire colleagues, and tried to steal Fernan's bow. He got his face punched to oblivion and back for it, so he used his memory, and his money, to recreate the bow as closely as he could.
+
+- **Race:** human.
+- **Birthday:** 1019 A.G. Moacir 19th.
+- **Attracted to:** slender women about his height, though he leans toward asexual: his material possessions comfort him more than any woman does.
+- **Myers-Briggs:** ESTP.
+- **Intelligence:** dumb, but funny. He doesn't plan ahead, beyond making money and spending it all on material things.
+- **Habits:** sarcastic; laughs and shrugs carelessly; picks his nose and farts around people; likes to poke fun.
+- **Speech:** jovial, with a lazy tone; careless; clicks his tongue, says "phew" and the like; a cackling laugh; curses.
+- **Strengths:** funny; liberal; enthusiastic; curious; humorous; plucky and courageous; self-confident.
+- **Flaws:** lazy; careless; dumb; materialistic; greedy.
+- **Likes and dislikes:** bows, arrows, nari gels, cool or exotic Soul Energy items and the like. He likes food, but nothing ever really tickles his fancy.
+- **Interface:** Darfaries.
+
+# Maicon Forway Black-Dove
+
+Born in Crossroads, he grew up among the city's elite and their way of life, and now tries to raise his status and wealth by any means possible. He's infamous at the [Red Winga](/lore/factions/#red-winga) as a "twink" kind of guy. They hate his guts, but every time he surfaces he has new information on someone, so he's quite useful.
+
+- **Race:** human.
+- **Birthday:** 1011 A.G. Adrian 75th.
+- **Attracted to:** a predator who targets children.
+- **Myers-Briggs:** ESTJ.
+- **Intelligence:** very smart at negotiating and at looking out for himself; some street smarts.
+- **Habits:** a creepy smile toward certain people; he can somewhat suppress his body language.
+- **Speech:** likes to poke and probe; eats while talking; known for invading personal space; likes to say "Exactly!" and "Yeah! Exactly!"; a breathy voice.
+- **Strengths:** a negotiator; incisive; logical; organized; knowledgeable; self-confident; straightforward; well-read; well-rounded; responsive; a leader.
+- **Flaws:** greedy; lustful; uncharitable; narcissistic; naughty; a killjoy; intrusive, sometimes far too intrusive; fixed on his objectives; superficial.
+- **Likes and dislikes:** fine dining and drinks; loves fancy fruity drinks. Hates being mistaken for a Toleridemian, yet loves being big, since it gives him a sense of a barrier between himself and others (not that he's aware of it): food as a source of security and feeling good. For some reason, he doesn't like thirty-smalladi-long subs.
+- **Interface:** Darfaries.

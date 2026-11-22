@@ -102,6 +102,35 @@ Status: **answered** 2026-11-22.
 - **Kozaku:** his Sexuality line ("Materialistic/Hoarding what his mind desires") is kept under "Attracted to", as written.
 - **Biny:** the aside "like a queue of action a certain someone I know does" is shortened to "like a queue of actions".
 
+## Batch 3: Forway Villages and Freeish (asked 2026-11-22)
+
+Arukia, Emelia, Nailah, Severino, Vitor, Clodoveu, Marcus, Wilson, Maicon.
+
+Status: **open** until answered.
+
+### CH9. Nailah's age when Vitor was born
+- **Legacy text:** Nailah "1015 A.G. Paulin 28th"; Severino "1007 A.G. Adrian 79th"; their son Vitor "1025 A.G. Asa 2nd".
+- **Why:** That makes Nailah 10 (and Severino 18) when Vitor was born. Which birthday should change, and to what age?
+
+### CH10. Names on the public page vs the notes
+- **Legacy text:** `Legacy/Public/characters.md` vs Characters.md:
+  - Arukia **Sanbi** vs Arukia **Long-Bridge**
+  - Maicon **Crossroads** Black-Dove vs Maicon **Forway** Black-Dove
+  - **Binaata** Forway Cliff-Jumper vs **Biny** Forway Cliff-Jumper
+  - Coema **Half-Cruro** vs Coema **Sanbi Half-Cruro** (the same for Kiko and Zico)
+  - Huneo Sanbi **Sandour** vs Huneo Sanbi **Royal**
+- **Why:** The Name Schema puts where someone lives in their name, so both could be right at different times (Arukia was born in Long-Bridge and now works in Sanbi; Maicon was born in Crossroads). Which names are current? Should the notes and the public page match?
+
+### CH11. Arukia: "Start sub with 'Paulin 51th, Freeday!'"
+- **Legacy text:** Tags › Action: "Start sub with “Paulin 51th, Freeday!""
+- **Why:** What does it mean (a catchphrase, or a note for how her chapters open)? The abridged text says she says it, for now.
+
+### Judgment calls in batch 3
+- **Maicon:** his notes describe a predator who targets children. The abridged text says only that ("a predator who targets children") and leaves out the specifics in his Sexuality, Habits and Likes lines; the raw notes behind the toggle keep them.
+- **"Attracted to" for minors:** left out for Vitor (born 1025, 14 in 1039).
+- **Plainer wording:** Clodoveu's "putting food on the bodies of twinks and licking off it" as "food play with twinks"; Wilson's leaning toward asexual is kept without the crude part.
+- Typos read as meant: "Cear" as clear; "Enervated" as listless; "Curios" as curious; "Irrascible" as irascible; "Incissive" as incisive; "Additional Skills" inside Maicon's Intelligence line dropped (a template slip).
+
 ---
 
 ## Gaps filled from other Legacy sources
@@ -116,7 +145,7 @@ Status: **answered** 2026-11-22.
 
 ## Discrepancies
 
-See CH1 to CH8.
+See CH1 to CH11.
 
 ## Left out on purpose
 
