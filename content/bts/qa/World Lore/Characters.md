@@ -147,15 +147,23 @@ Status: **answered** 2026-11-22.
 
 Nooru, Satomi, Tarou, Itagiba, Neferteri, Yacamim, Maiara.
 
-Status: **open** until answered.
+Status: **answered** 2026-11-22.
 
 ### CH12. Neferteri's age when she met Itagiba
 - **Legacy text:** Neferteri "999 A.G. Moacir 42nd" (Book 1 age 40); Itagiba "994 A.G. Paulin 5th", who met her "when he was 20 years old" and became king in 1015 A.G.; the twins Yacamim and Maiara "1015 A.G. Moacir 6th".
 - **Why:** That makes Neferteri 15 when they met and 16 when the twins were born. Should her birthday (and Book 1 age) change, or Itagiba's age when they met?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > C12: leave as-is. That is fantasy and accurate against historical records of medieval/Egypt lore so shock value to today's societal normatives is part of the series lore for this.
+- **Change to the abridged text:** none; Neferteri's birthday stays 999 A.G. Moacir 42nd. Added to CLAUDE.md as a standing rule: lore that shocks today's norms is on purpose.
 
 ### CH13. Huneo: Sanbi Sandour or Sanbi Royal? (from CH10)
 - **Legacy text:** `Legacy/Public/characters.md`: "Huneo Sanbi Sandour"; Characters.md: "Huneo Sanbi Royal".
 - **Why:** Which is current, or did his badge change (like Arukia's and Maicon's)?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > C13: Huneo Sanbi Sandour is his current name as of vol 4. See notes on future books and when Kibe hires Huneo as his apprentice, Huneo will get the Royal "treatment"
+- **Change to the abridged text:** goes in Huneo's entry (next batch): Huneo Sanbi Sandour as of Vol 4; he gets the Royal "treatment" once Kibe takes him on as an apprentice (Light Novel › Arc #2 - Hifuna Beast: "Apprentice Kibe.").
 
 ### Judgment calls in batch 4
 - **Nooru:** "frolicing with lolis" and "He still likes lolitas" are written as Wozefaries, the way the rest of his entry describes them ("his desire was to frolic with Wozefaries"; "a way for Nooru to have time to frolic with Wozefaries").
@@ -171,6 +179,12 @@ Status: **open** until answered.
   >
   > You can't remove all the spark and sassy either.
 - **Change:** the minors get their line back as "Fascinated by" (Vitor, Jonem, Posaqui, Hanako); Mimi's "Fatherly figure" reads "Drawn to: fatherly figures". The spark is back for the adults: July ("she sucked off pretty much every man in the guild who wanted to be sucked"; "goes for the balls not long after a chat. She likes to milk them."), Katsumi ("she loves getting creamed: \"proof of love\", as she calls it"), Clodoveu ("putting food on twinks' bodies and licking it off") and Wilson ("more comfort than the insides of a woman ever could"). Maicon stays as written in batch 3 (a predator who targets children, without specifics).
+
+## The author's ruling on sass and spice (2026-11-22)
+
+- **Answer (verbatim):**
+  > Write up on your internal ruling that we should never remove the "sassy", spice from this series. If we make it clinical then it becomes bland and boring.
+- **Change:** a standing rule in CLAUDE.md ("Keep the sass and spice"), applied to every abridged doc from here on.
 
 ## Gaps filled from other Legacy sources
 

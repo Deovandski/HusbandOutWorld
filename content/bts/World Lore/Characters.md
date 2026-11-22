@@ -697,7 +697,7 @@ She grew up to become the next Pharaoh, until she met the love of her life. She 
 As Queen of Sanbi, she gathered a group of loyal followers who do her bidding, mainly to keep her image, and her children's, in check, though she has mostly given up on [Yacamim](#yacamim-sanbi-royal) and [Maiara](#maiara-sanbi-royal). Her siblings still hold a grudge: one of her brothers recently died, not of old age, but because she didn't marry him, and he stayed stuck in limerence for decades. She thinks little of [Harry](#harry-sanbi) as a person.
 
 - **Race:** human.
-- **Birthday:** 999 A.G. Moacir 42nd (see the Q&A).
+- **Birthday:** 999 A.G. Moacir 42nd.
 - **Attracted to:** confident, charismatic, funny men who get the job done.
 - **Myers-Briggs:** INTJ.
 - **Intelligence:** very good at seeing every possible outcome from what she knows, and even the second-best options, so no chance goes unused. She'll fight with all her strength for what she wants.
