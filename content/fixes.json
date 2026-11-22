@@ -155,5 +155,12 @@
       "replace": "or a fist punch",
       "why": "The author's decision (issue #103, LT1): typo fix."
     }
+  ],
+  "Legacy/Behind The Scenes/World Lore/City.md": [
+    {
+      "find": "Between Sanbi/Tolerideme due to colder weather.",
+      "replace": "Between Sanbi/Tolerideme: warm and humid, but colder at night than Sanbi (not as cold as Tolerideme).",
+      "why": "The author's decision (issue #103, City C4): Endlessfog is warm and humid all year; it only gets colder at night than Sanbi, not as cold as Tolerideme."
+    }
   ]
 }

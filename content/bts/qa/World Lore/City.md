@@ -12,16 +12,19 @@ Each of the 14 cities is one block in the raw doc, so each is abridged as one se
 
 ## Questions for the author
 
-Status: **open** until answered. Asked as one batch on 2026-11-22; answered the same day except C1 (context sent) and the clothing half of C4.
+Status: **open** until answered. Asked as one batch on 2026-11-22 and answered the same day (C1 and the clothing half of C4 after follow-ups).
 
-### C1. Cruro tribes #7 and #8 (open, context sent)
+### C1. Cruro tribes #7 and #8 (answered)
 - **Asked:** 2026-11-22
 - **Legacy text:** Points Of Interests › Cruro Tribes: "#7 & #8 Have some sort of alliance and"
 - **Why:** The line stops after "and". What comes next?
 - **Reply:** 2026-11-22
 - **Reply (verbatim):**
   > any context around it?
-- **Change to the abridged text:** None yet. Searched all of Legacy: nothing else mentions tribes #7 and #8 or their alliance (the novels' Cruros, like Coema's companions in Arc #4, aren't tied to a tribe number). Context sent; still says "have some sort of alliance".
+- **Answered (follow-up):** 2026-11-22
+- **Answer (verbatim):**
+  > drop the trailing and.
+- **Change to the abridged text:** "have some sort of alliance." (the trailing "and" is dropped). Nothing else in Legacy mentions tribes #7 and #8.
 
 ### C2. Cruro: "Mostly crocus, dumb crocus"? (answered)
 - **Asked:** 2026-11-22
@@ -41,14 +44,18 @@ Status: **open** until answered. Asked as one batch on 2026-11-22; answered the 
   > yes! See the vraki calendar.
 - **Change to the abridged text:** "on the last day of summer (Paulin 110th, when Delta Bar's season ends)" (Paulin has 110 days, per the Vraki Calendar).
 
-### C4. Endlessfog: five guilds, and colder clothing? (partly answered)
+### C4. Endlessfog: five guilds, and colder clothing? (answered)
 - **Asked:** 2026-11-22
 - **Legacy text:** Economy: "the cooperation between the five guilds"; Guilds lists four harvest guilds (#2 to #5). Clothing: "Between Sanbi/Tolerideme due to colder weather." History: "the weather is unusually warm and humid all year long."
 - **Why:** Which is the fifth guild? And should the clothing be for warm, humid weather instead?
 - **Answered:** 2026-11-22
 - **Answer (verbatim):**
   > have the fifth guild be a transportation guild. If the faming guilds are mentioned by name and there's none for the fifth guild, then have them be called "fivs" as it become a short hand as they were the last guild welcomed in and the farming guild kinda put themselves above them
-- **Change to the abridged text:** Added "The Fivs": the transportation guild, with no proper name; "Fivs" is the shorthand because they were the last (fifth) guild welcomed in, and the farming guilds put themselves above them. Economy says "the five guilds" again. The clothing half (warm and humid weather) is still open.
+- **Change to the abridged text:** Added "The Fivs": the transportation guild, with no proper name; "Fivs" is the shorthand because they were the last (fifth) guild welcomed in, and the farming guilds put themselves above them. Economy says "the five guilds" again. 
+- **Answered (follow-up):** 2026-11-22
+- **Answer (verbatim):**
+  > yes. Make that official. It gets colder at night compared to Sanbi, but not as cold as Tolerideme.
+- **Change (follow-up):** Clothing is now "for warm, humid weather, between Sanbi and Tolerideme styles: it gets colder at night than in Sanbi, but not as cold as Tolerideme." Made official: the raw note on the website is corrected too (`content/fixes.json`); Legacy is unchanged.
 
 ### C5. Tastyleaf: the WhiteLeaf tree? (answered)
 - **Asked:** 2026-11-22

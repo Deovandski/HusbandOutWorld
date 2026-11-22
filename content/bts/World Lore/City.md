@@ -199,7 +199,7 @@ Mostly Bruntos, with humans coordinating with them. People are often paler than 
 
 #### Daily life
 
-- **Clothing:** between Sanbi and Tolerideme, for colder weather.
+- **Clothing:** for warm, humid weather, between Sanbi and Tolerideme styles: it gets colder at night than in Sanbi, but not as cold as Tolerideme.
 - **Education:** follows Forway, but also teaches how to cooperate, especially with the Bruntos.
 - **Crime and law:** like the Sanbi Kingdom.
 - **Local embassy quests:** Newland exploration.
