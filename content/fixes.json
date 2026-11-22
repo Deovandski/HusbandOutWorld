@@ -179,5 +179,27 @@
       "replace": "(\\~0.4x an adult: \\~360kg body weight, \\~36kg comfortable on its back, \\~72kg at most.)",
       "why": "Child Egua loads under the official Egua load rule (issue #103)."
     }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Beasts.md": [
+    {
+      "find": "  * Forway uses them for \n",
+      "replace": "  * Forway guards ride them to fly around without having to use a nari gel themselves to achieve flight. They are used for quick transportation of goods, scouting and flyovers.  \n",
+      "why": "Finishes the sentence with the author's answer (issue #103, Beasts Q&A B1), made official."
+    },
+    {
+      "find": "      * Due to how hard it is to get,   \n",
+      "replace": "      * Due to how hard it is to get: Flingas usually don't land south of Hifuna, fly high, and are evasive too.  \n",
+      "why": "Finishes the sentence with the author's answer (issue #103, Beasts Q&A B1), made official."
+    },
+    {
+      "find": "    * Every year around 5 Big Winga eggs are laid.  \n  * **Other**  \n    * None.  \n* **Soul Energy Capabilities**  \n  * **Interface**  \n    * Head feathers  \n  * **Skills**  \n    * Generate Light  \n    * Sense Lifeforms  \n    * Generate Air Shield",
+      "replace": "    * Every year around 5 Big Winga eggs are laid (somewhere in between Wingas and Flingas).  \n  * **Other**  \n    * None.  \n* **Soul Energy Capabilities**  \n  * **Interface**  \n    * Head feathers  \n  * **Skills**  \n    * Sense Lifeforms  \n    * Generate Air Shield  \n    * Louder than usual Shriek  \n    * Making the beak/claws cut through anything by strengthening it to diamond level.",
+      "why": "Big Wingas inherit the Winga's skills, not the Flinga's, and their birth cycle sits between the two (issue #103, Beasts Q&A B2), made official."
+    },
+    {
+      "find": "Every year around 2 macaws eggs are laid.",
+      "replace": "Every year around 2 Flinga eggs are laid.",
+      "why": "\"macaws\" was a leftover from the Big Winga entry (issue #103, Beasts Q&A B2), made official."
+    }
   ]
 }

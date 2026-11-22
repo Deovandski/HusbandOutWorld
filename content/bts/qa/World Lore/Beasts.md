@@ -41,6 +41,8 @@ See Fauna N1.
 - **Read as:** "forest guard" means the Forway guard. Legacy (Beasts and `Legacy/Public/badges-embassies.md`) says the Big Winga a guard rides is often another Forway guard transformed with a nari gel, so the rider needs no nari gel to fly.
 - **Change to the abridged text:** Big Wingas get a "Uses" line (riding mounts for Forway guards; quick transportation of goods, scouting, flyovers). Flinga Head Feathers: "Just plain hard to get: Flingas rarely land south of Hifuna, fly high and are evasive."
 
+**Made official** (2026-11-22, the author: "Make that official."): `content/fixes.json` finishes both sentences in the raw notes.
+
 ### B2. Flinga copied from Big Wingas? (answered)
 - **Legacy text:** Flinga › Reproduction: "Every year around 2 macaws eggs are laid." Flinga and Big Wingas share the Interface "Head feathers" and the Skills "Generate Light; Sense Lifeforms; Generate Air Shield".
 - **Answered:** 2026-11-22
@@ -51,6 +53,7 @@ See Fauna N1.
   - Big Wingas › Skills: the Winga's (Sense Lifeforms; Generate Air Shield; Louder-than-usual shriek; diamond-strength beak and claws).
   - Big Wingas › Reproduction: their existing ~5 eggs a year and summer-long hatching already sit between the Winga (~20 eggs, under a month) and the Flinga (~2 eggs), so the numbers stay, now labeled as in between.
   - Flinga › Reproduction: "Around 2 Flinga eggs are laid each year" ("macaws" read as a leftover from the Big Winga entry).
+- **Made official** (2026-11-22, the author: "Make that official."): `content/fixes.json` gives the raw Big Wingas the Winga's skills, notes their birth cycle as in between, and corrects the raw Flinga eggs.
 
 ## Judgment calls in the polish (2026-11-22)
 
