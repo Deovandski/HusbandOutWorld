@@ -142,7 +142,7 @@ He's very subservient to [Neferteri](#neferteri-sanbi-royal) and models himself 
 
 # July Forway Tea-Drinkers
 
-July fled Freeish and found her way to Forway, where she became the youngest member ever accepted into the Tea-Drinkers. She left because her parents, back in the village where she grew up, didn't take kindly to "him" being her: they thought it was an excuse to get out of farming, and didn't believe she was serious. Her close-quarters combat skills are unmatched in the guild, but there's a good chance her charisma, and making men feel good, helped her get in: she slept with pretty much every man in the guild who wanted to.
+July fled Freeish and found her way to Forway, where she became the youngest member ever accepted into the Tea-Drinkers. She left because her parents, back in the village where she grew up, didn't take kindly to "him" being her: they thought it was an excuse to get out of farming, and didn't believe she was serious. Her close-quarters combat skills are unmatched in the guild, but there's a good chance her charisma, and making men feel good, helped her get in: she sucked off pretty much every man in the guild who wanted to be sucked.
 
 You can fully trust her as a party member, but don't pry into her past or try to feed her any nari gel: she literally killed someone for daring to squirt Nari Refresher into her mouth. She did warn him to stop, but he didn't.
 
@@ -151,7 +151,7 @@ You can fully trust her as a party member, but don't pry into her past or try to
 - **Attracted to:** she's voracious. Born male, she keeps using nari gels to maintain her cute, feminine appearance.
 - **Myers-Briggs:** ENFP. If a perceived "fake" outer shell now matches the "true" inner self, is the outer shell actually fake, or simply a representation of the truth?
 - **Intelligence:** good street smarts, and a very capable adventurer. Her emotions can get out of control if someone pushes the wrong buttons, but at least she warns you before exploding. Her pet, Mugi, is extremely cuddly and rather smart: like a cat, but more cooperative, and it understands basic actions.
-- **Habits:** touchy, and quick to make a move on men soon after talking.
+- **Habits:** touchy, and she goes for the balls not long after a chat. She likes to milk them.
 - **Speech:** not very direct in her words, but her body language is very direct.
 - **Strengths:** persuasive; charming; beautiful; girly; trustworthy; energetic.
 - **Flaws:** pushy; secretive; easily bored, especially with men; aggressive when someone intrudes on her memories or boundaries.
@@ -184,6 +184,7 @@ Born in Sanbi and raised by a poor family in the slums, he talked his way into a
 
 - **Race:** human; born male, effeminate.
 - **Birthday:** 1023 A.G. Asa 33rd.
+- **Fascinated by:** girls, or other very effeminate boys.
 - **Myers-Briggs:** ENFJ.
 - **Intelligence:** great social skills, but not much in combat; he tends to weasel his way out of fights.
 - **Habits:** always stops to admire himself in a mirror; avoids fighting or getting physically involved, despite always carrying weapons; looks people in the eye and touches their arm, but avoids letting anyone touch his face.
@@ -221,6 +222,7 @@ To her surprise, that same adventurer, [Fernan](#fernan-blood-blue-flower-red-bo
 
 - **Race:** human, with Wozefaries.
 - **Birthday:** 1029 A.G. Paulin 7th.
+- **Fascinated by:** neat, clean-looking Wozefaries girls.
 - **Myers-Briggs:** INTJ.
 - **Intelligence:** a bookworm, but lacks street smarts, and he's not as sharp when it comes to verbal attacks: his sister wipes the floor with him in arguments, mainly because he's slow to respond.
 - **Habits:** clean, and you can smell it from afar; judgmental, and shows what he's feeling; likes to stand up and walk around to think.
@@ -256,7 +258,7 @@ Her story starts like her twin [Katsuki](#katsuki-flatland-long-blue)'s, but her
 
 - **Race:** Wozefaries.
 - **Birthday:** 1019 A.G. Asa 80th.
-- **Attracted to:** she has a high sex drive, and likes aggressive men who make a plaything of her; she loves the sexual side of her job. She also has a thing for men who don't fall for her playfulness: she sees herself as a true beauty all men must fall for.
+- **Attracted to:** she has a high sex drive, and likes aggressive men who make a plaything of her; she loves the sexual side of her job. She also has a thing for men who don't fall for her playfulness: she sees herself as a true beauty all men must fall for. And she loves getting creamed: "proof of love", as she calls it.
 - **Myers-Briggs:** ESFJ.
 - **Intelligence:** can't read, but her street smarts, especially at bending men to her will, are really useful.
 - **Habits:** lewd; touchy; teasing.
@@ -296,6 +298,7 @@ Born to Darfaries parents who threw her off the Goodbye Cliff, she was rescued b
 
 - **Race:** Wozefaries.
 - **Birthday:** 1024 A.G. Asa 12th.
+- **Fascinated by:** pretty, strong boys who are charming and highly confident.
 - **Myers-Briggs:** ESFP.
 - **Intelligence:** she knows her way around the kitchen, but dealing with people is her strong suit. She doesn't know much about anything else, mostly because she doesn't seem to care. She acts like a big sister: she cares, but won't console you or give advice the way a mother would. She hopes to inherit the restaurant when Yosuke passes away, to keep it running.
 - **Habits:** props herself against the wall for the real talks; gestures, with a big sister's condescending tone, but she means well; gets angry if people mess with her stuff.
@@ -311,6 +314,7 @@ Born to Darfaries parents who threw her off the Goodbye Cliff, she was rescued b
 
 - **Race:** Sorefaries.
 - **Birthday:** 1024 A.G. Asa 12th.
+- **Drawn to:** fatherly figures.
 - **Myers-Briggs:** ESFP.
 - **Intelligence:** what she lacks in intelligence, she makes up for in friendliness. She's like a monkey that gets its hand stuck in the cookie jar every single time, and keeps doing it anyway. Like a cat that talks.
 - **Habits:** usually flying around; loves sitting on people's shoulders, for a higher view of the world.
@@ -409,7 +413,7 @@ He grew up in Gandew as your usual Gandew-proud Darfaries, until a booze-filled 
 
 # Biny Forway Cliff-Jumper
 
-Born in Forway to parents who lived paycheck to paycheck, he had to start working early and figure out what he wanted to do with his life. He never felt adventuring was his thing, so he worked his ass off at a desk job doing grunt work in the black castle. He saved enough to open a guild that takes on adventurers and invests in them, in exchange for 30% of every quest they do, with at least 2 quests a week (exceptions depend on the quest and its payout). He can advise on what quests a given adventurer should or can take, or even give insider tips on the best quests about to become available.
+**Binaata** is his full name; Biny is a nickname. Born in Forway to parents who lived paycheck to paycheck, he had to start working early and figure out what he wanted to do with his life. He never felt adventuring was his thing, so he worked his ass off at a desk job doing grunt work in the black castle. He saved enough to open a guild that takes on adventurers and invests in them, in exchange for 30% of every quest they do, with at least 2 quests a week (exceptions depend on the quest and its payout). He can advise on what quests a given adventurer should or can take, or even give insider tips on the best quests about to become available.
 
 - **Race:** human.
 - **Birthday:** 994 A.G. Paulin 1st.
@@ -456,12 +460,14 @@ Her contract with the Red Winga:
 
 Her abilities weren't quite up to expectations, but her manipulation skills got her through school at the top of her class. Still early in her career, [Eiri](#eiri-sanbi-royal) saw her and hired her on the spot as a near-perfect maid for Sanbi: Eiri found and hired her on 1038 A.G. Asa 77th, and on Asa 83rd Arukia stopped at her parents' place to sleep on the way to the Sanbi Kingdom. It turned out to be a bit more complicated than that, but oh well.
 
+Her badge kept her birth name, Arukia Long-Bridge, because the Red Winga wanted her to have a solid backstory in case they needed that framing for a big job. The Sanbi Kingdom job was that job, so her badge was updated to **Arukia Sanbi**.
+
 - **Race:** human.
 - **Birthday:** 1021 A.G. Paulin 11th.
 - **Attracted to:** humans who are clearly in shape, romantic, playful and tall, with long hair.
 - **Myers-Briggs:** ESFP.
 - **Intelligence:** smart when given a mission or goal. When it comes to her own decisions, she's aimless: she wants a rich life, but that's so vague she can't find a path to it, so she ends up unhappy and blames everyone else for her own mistakes. She wants the money, not the hard path to it: unlike [Kibe](#kibe-sanbi-royal), who just wants to spend money, Arukia wants to hoard it, to feel in control and free. She holds herself back more under her "Arukia the maid" disguise; under a fake skin, she feels freer to act on her own terms.
-- **Habits:** ignores personal space; disarms men with cuteness and playfulness; tsundere; says "Paulin 51st, Freeday!" (see the Q&A); "tsk".
+- **Habits:** ignores personal space; disarms men with cuteness and playfulness; tsundere; "tsk".
 - **Speech:** a cutesy voice, but moody and stingy with her words, and mean when people won't be herded into telling her what she wants. Rarely curses. Under a fake skin, she feels freer to trample over others to get what she wants; she's not very prone to violence, but she can put on a serious face. She likes to think other people's work is slop, and gives people nicknames: [Eori](#eori-sanbi-royal) is "Dead Stump", Emelia is "Flower Hoe" and [Neferteri](#neferteri-sanbi-royal) is "Stuck-up Queen". She doesn't read aloud, but thinks aloud when she's alone; in public she keeps her cool. Often says "tsk", "sheesh", "meh", "argh" and "Damn it!". She reads in short bursts, interspersing the words with her thoughts.
 - **Strengths:** flexible; resourceful; logical; punctual; sensitive; quick-witted; strong; playful; slightly ecchi; willing (more so as maid Arukia).
 - **Flaws:** unhappy; secretive; moody and easily annoyed; stingy; superficial; stubborn; insulting; disloyal; aimless in her life goals; careless; a procrastinator; quick-tempered.
@@ -498,7 +504,7 @@ Her story is similar to [Arukia](#arukia-long-bridge)'s, except that it was [Lau
 Her parents came from Sundeath and ended up in a village nearby. She married a man from a local village too, [Severino](#severino-rebula), and they had a son, [Vitor](#vitor-rebula). Life is simple, but good.
 
 - **Race:** human.
-- **Birthday:** 1015 A.G. Paulin 28th (see the Q&A).
+- **Birthday:** 1004 A.G. Paulin 28th.
 - **Attracted to:** men with beards and long hair, and a strong, dependable personality.
 - **Myers-Briggs:** INFP.
 - **Intelligence:** her parents taught her to read. She has a simple mindset, and her knowledge leans toward woodcarving.
@@ -531,6 +537,7 @@ The son of [Nailah](#nailah-rebula) and [Severino](#severino-rebula), raised in 
 
 - **Race:** human.
 - **Birthday:** 1025 A.G. Asa 2nd.
+- **Fascinated by:** Sundeath girls, tidy ones too.
 - **Myers-Briggs:** ISFP.
 - **Intelligence:** emotionally intelligent, but never speaks up.
 - **Habits:** likes to stay close to his parents, and does what they ask without delay. When it comes to his own wishes, he's less straightforward and gets hesitant: an embarrassed smile, averted eyes, scratching one hand with the other. He puts something between himself and people he isn't comfortable with yet.
@@ -553,7 +560,7 @@ His mother is from Tolerideme and his father from Gandew, and they had him in Fr
 - **Speech:** deadpan, honest answers; neutral. He cuts off aggression with honesty, and ends up cutting off sarcasm and jokes with it too.
 - **Strengths:** cares for those he considers family; creative; upright; willing; understanding; tolerant; patient; persuasive (he knows how to defuse [Marcus](#marcus-big-gyut) and [Wilson](#wilson-big-gyut)); gregarious.
 - **Flaws:** a killjoy; a procrastinator; boring; detached; daydreams too much, especially about what-ifs, and ends up not doing anything; shameless.
-- **Likes and dislikes:** likes harmony. Really likes food play with twinks.
+- **Likes and dislikes:** likes harmony. Really likes putting food on twinks' bodies and licking it off.
 - **Interface:** Darfaries.
 
 # Marcus Big-Gyut
@@ -578,7 +585,7 @@ The middle child of parents too busy with the younger kids and work to give him 
 
 - **Race:** human.
 - **Birthday:** 1019 A.G. Moacir 19th.
-- **Attracted to:** slender women about his height, though he leans toward asexual: his material possessions comfort him more than any woman does.
+- **Attracted to:** slender women about his height, though he leans toward asexual: his material possessions bring him more comfort than the insides of a woman ever could.
 - **Myers-Briggs:** ESTP.
 - **Intelligence:** dumb, but funny. He doesn't plan ahead, beyond making money and spending it all on material things.
 - **Habits:** sarcastic; laughs and shrugs carelessly; picks his nose and farts around people; likes to poke fun.
@@ -590,7 +597,7 @@ The middle child of parents too busy with the younger kids and work to give him 
 
 # Maicon Forway Black-Dove
 
-Born in Crossroads, he grew up among the city's elite and their way of life, and now tries to raise his status and wealth by any means possible. He's infamous at the [Red Winga](/lore/factions/#red-winga) as a "twink" kind of guy. They hate his guts, but every time he surfaces he has new information on someone, so he's quite useful.
+Born in Crossroads as Maicon Crossroads Black-Dove (he updated his badge to Forway Black-Dove as an adult), he grew up among the city's elite and their way of life, and now tries to raise his status and wealth by any means possible. He's infamous at the [Red Winga](/lore/factions/#red-winga) as a "twink" kind of guy. They hate his guts, but every time he surfaces he has new information on someone, so he's quite useful.
 
 - **Race:** human.
 - **Birthday:** 1011 A.G. Adrian 75th.

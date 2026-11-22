@@ -106,11 +106,15 @@ Status: **answered** 2026-11-22.
 
 Arukia, Emelia, Nailah, Severino, Vitor, Clodoveu, Marcus, Wilson, Maicon.
 
-Status: **open** until answered.
+Status: **answered** 2026-11-22.
 
 ### CH9. Nailah's age when Vitor was born
 - **Legacy text:** Nailah "1015 A.G. Paulin 28th"; Severino "1007 A.G. Adrian 79th"; their son Vitor "1025 A.G. Asa 2nd".
 - **Why:** That makes Nailah 10 (and Severino 18) when Vitor was born. Which birthday should change, and to what age?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > Ch9: have Naila be of age. I don't believe there any in lore mentions of her.
+- **Change to the abridged text:** Nailah's birthday is 1004 A.G. Paulin 28th (20 when Vitor was born). Checked: no other Legacy doc mentions her. **Made official** (her public description shows the date): `content/fixes.json` in the raw notes and `Legacy/Public/characters.md`, with the translated public paragraph re-keyed in all fourteen languages.
 
 ### CH10. Names on the public page vs the notes
 - **Legacy text:** `Legacy/Public/characters.md` vs Characters.md:
@@ -120,10 +124,18 @@ Status: **open** until answered.
   - Coema **Half-Cruro** vs Coema **Sanbi Half-Cruro** (the same for Kiko and Zico)
   - Huneo Sanbi **Sandour** vs Huneo Sanbi **Royal**
 - **Why:** The Name Schema puts where someone lives in their name, so both could be right at different times (Arukia was born in Long-Bridge and now works in Sanbi; Maicon was born in Crossroads). Which names are current? Should the notes and the public page match?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > Ch10: use the novel and world lore. Someone can have a birth name so to speak, and then move and update their badge. Arukia name remained the same from when she was born as Red Winga also wanted to have a solid backstory for her if they needed that framing for a big job.... In this case the Sanbi Kingdom job. That's why her badge got updated to Sanbi. Maicon updated to Forway Black-Dove when he was an adult. Binaata is the full name, Biny is a nickname. For the Sanbi Half-Cruro study the name structure. That's because they are in the same guild.
+- **Change to the abridged text:** Arukia: her badge kept her birth name (Long-Bridge) for the Red Winga's backstory, and was updated to Arukia Sanbi for the Sanbi Kingdom job. Maicon: born Maicon Crossroads Black-Dove, updated to Forway Black-Dove as an adult. Biny: Binaata is his full name, Biny a nickname. Coema, Kiko and Zico: by the Name Schema (NAME PLACE GUILD), "Sanbi Half-Cruro" is Sanbi (their place) plus the Half-Cruro guild they share; it goes in their entries in the Sanbi batch. Huneo (Sandour or Royal) wasn't answered; asked again in the Sanbi batch. No novel gives these surnames (searched the Light Novel folder).
 
 ### CH11. Arukia: "Start sub with 'Paulin 51th, Freeday!'"
 - **Legacy text:** Tags › Action: "Start sub with “Paulin 51th, Freeday!""
 - **Why:** What does it mean (a catchphrase, or a note for how her chapters open)? The abridged text says she says it, for now.
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > Ch11: writers note as to how things write out when the sub starts with her. Leave it out from the abridge notes.
+- **Change to the abridged text:** removed from the abridged text (a writer's note on how a chapter section starting with her is written); the raw notes keep it.
 
 ### Judgment calls in batch 3
 - **Maicon:** his notes describe a predator who targets children. The abridged text says only that ("a predator who targets children") and leaves out the specifics in his Sexuality, Habits and Likes lines; the raw notes behind the toggle keep them.
@@ -132,6 +144,14 @@ Status: **open** until answered.
 - Typos read as meant: "Cear" as clear; "Enervated" as listless; "Curios" as curious; "Irrascible" as irascible; "Incissive" as incisive; "Additional Skills" inside Maicon's Intelligence line dropped (a template slip).
 
 ---
+
+## The author's pushback on minors and toned-down wording (2026-11-22)
+
+- **Answer (verbatim):**
+  > For Vitor. I push back. Have him say something along the lines of "he is fascinated by..."
+  >
+  > You can't remove all the spark and sassy either.
+- **Change:** the minors get their line back as "Fascinated by" (Vitor, Jonem, Posaqui, Hanako); Mimi's "Fatherly figure" reads "Drawn to: fatherly figures". The spark is back for the adults: July ("she sucked off pretty much every man in the guild who wanted to be sucked"; "goes for the balls not long after a chat. She likes to milk them."), Katsumi ("she loves getting creamed: \"proof of love\", as she calls it"), Clodoveu ("putting food on twinks' bodies and licking it off") and Wilson ("more comfort than the insides of a woman ever could"). Maicon stays as written in batch 3 (a predator who targets children, without specifics).
 
 ## Gaps filled from other Legacy sources
 

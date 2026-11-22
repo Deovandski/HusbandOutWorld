@@ -283,6 +283,11 @@
       "find": "974 A.G. Paulin 69th",
       "replace": "979 A.G. Paulin 69th",
       "why": "Ryo is 60 in Book 2 (1039 A.G.), the author's decision (issue #103, Characters Q&A CH6)."
+    },
+    {
+      "find": "1015 A.G. Paulin 28th",
+      "replace": "1004 A.G. Paulin 28th",
+      "why": "Nailah is of age (20) when Vitor is born in 1025 A.G., the author's decision (issue #103, Characters Q&A CH9)."
     }
   ],
   "Legacy/Public/characters.md": [
@@ -300,6 +305,11 @@
       "find": "974 A.G. Paulin 69th",
       "replace": "979 A.G. Paulin 69th",
       "why": "Ryo is 60 in Book 2 (1039 A.G.), the author's decision (issue #103, Characters Q&A CH6)."
+    },
+    {
+      "find": "1015 A.G. Paulin 28th",
+      "replace": "1004 A.G. Paulin 28th",
+      "why": "Nailah is of age (20) when Vitor is born in 1025 A.G., the author's decision (issue #103, Characters Q&A CH9)."
     }
   ]
 }
