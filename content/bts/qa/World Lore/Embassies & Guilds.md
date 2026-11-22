@@ -54,6 +54,9 @@ Status: **open** until answered. An open question means the abridged text leaves
 ### Badge corner balls for non-adventurers (settled)
 - **Sources:** the public Badges & Embassies page ("four small peals unless you are an adventurer") vs Vol 1 (Eiri's badge has "iron balls at the corners") and this doc ("iron-shaped balls represent a normal citizen").
 - **Settled by:** the published novel (Vol 1): iron balls.
+- **Author (verbatim, 2026-11-21):**
+  > I agree with using iron since that is what the vol says so we must comply. Pearl is a possibility because all adventures starts as pearls, and move on up the rank to amethyst etc.
+- **Abridged text:** iron for a regular citizen; adventurers' corner balls match their rank, starting at Pearl.
 
 ## Left out on purpose
 
