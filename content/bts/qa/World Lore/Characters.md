@@ -57,6 +57,35 @@ Status: **answered** 2026-11-22.
 - Typos read as meant: "Hue is Francisco's only son" as "He"; "Wam" as "warm"; "Nefertari" as "Neferteri"; "Sweet Stingy cosplay" as a Sweet Sting costume.
 - Magi, Fernan, Takeo, July, Akemi and Jonem have no stats table (the raw ones are empty).
 
+## Batch 2: Flatland and Forway (asked 2026-11-22)
+
+Katsuki, Katsumi, Ryo, Hanako, Mimi, Kozaku, Laura, Yosuke, Rimir, Francisco, Biny, Lofingha.
+
+Status: **open** until answered.
+
+### CH5. Katsuki and Katsumi's age in Book 4
+- **Legacy text:** both born "1017 A.G. Asa 80th"; Book 4 age "20". The Documentation Notation puts Books 1 to 3 in 1039 A.G.
+- **Why:** Born in 1017, they'd be 22 in 1039. Is Book 4 set around 1037, or should the birth year be 1019, or the age 22?
+
+### CH6. Ryo's age in Book 2
+- **Legacy text:** Birthday "974 A.G. Paulin 69th."; Book 2 age "60".
+- **Why:** Book 2 is in 1039 A.G., which makes him 65 (or born in 979). Which one?
+
+### CH7. Katsuki: "but necessarily Darfaries"
+- **Legacy text:** Sexuality: "Kinder males, of higher stature, but necessarily Darfaries."
+- **Why:** Read as "but **not** necessarily Darfaries" (the abridged text, for now)?
+
+### CH8. Hanako and Mimi: sisters?
+- **Legacy text:** both born "1024 A.G. Asa 12th" to Darfaries parents who threw them off the Goodbye Cliff; rescued by Flatland together. Hanako is a Wozefaries, Mimi a Sorefaries.
+- **Why:** Are they twin sisters? (The abridged text doesn't say.)
+
+### Judgment calls in batch 2
+- **Twins:** Katsuki and Katsumi are written as twins: the notes call them the "second children" of Satomi and Nooru, with the same birthday, and Katsumi's story is "just like Katsuki" (Katsuki is a Wozefaries, so the twins are Hiromi's younger sisters).
+- **"Attracted to" for minors:** left out for Hanako and Mimi (born 1024, 15 in 1039).
+- **Explicit wording:** Katsumi's most explicit line ("She loves getting creamed, or the 'proof of love' as she says.") is left out of the abridged text; the raw notes keep it. Other sexual details are kept, in plainer words (Laura's "lonely, innocent boys" as "young men", since she "whips them up into men").
+- **Kozaku:** his Sexuality line ("Materialistic/Hoarding what his mind desires") is kept under "Attracted to", as written.
+- **Biny:** the aside "like a queue of action a certain someone I know does" is shortened to "like a queue of actions".
+
 ---
 
 ## Gaps filled from other Legacy sources
@@ -65,10 +94,13 @@ Status: **answered** 2026-11-22.
 |---|---|---|
 | Fernan's entry names his son Jonem and links to him | "His wife lives in Blood City with Magi's little brother." | Characters.md (Jonem) |
 | Morika's armor persona links to The Stinger | (the Website Description) | Characters.md (Morika › Website Description) |
+| Lofingha's father is Lofinghy | "her father" | Characters.md (Lofingha › Website Description: "her father Lofinghy") |
+| Laura's Book 3 age: 30 | "-Reconfirm" | worked out from her birthday (1009 A.G. Asa 72nd) and the Documentation Notation (Book 3 in 1039 A.G.) |
+| Katsuki, Katsumi and Laura link to the Red Winga | "See Bandits > Red Winga"; "rescued in the desert by Red Winga" | Factions page (Red Winga) |
 
 ## Discrepancies
 
-See CH1 to CH4.
+See CH1 to CH8.
 
 ## Left out on purpose
 

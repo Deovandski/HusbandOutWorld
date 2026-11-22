@@ -223,3 +223,216 @@ To her surprise, that same adventurer, [Fernan](#fernan-blood-blue-flower-red-bo
 - **Flaws:** argumentative: he loves pointing out the flaws in other people's facts, and can be a bit much; judgmental; moody; petulant; cowardly; thinks he's smarter than he is; sanctimonious at times, like thinking historians are better than adventurers.
 - **Likes and dislikes:** hates blood, guts and anything dirty or messy. Loves reading and writing, and arguing and correcting people whenever he can. Loves sweets and baked goods. Hates Bagarisa nose with cheese.
 - **Interface:** Darfaries.
+
+# Katsuki Flatland Long-Blue
+
+Born in Gandew, the second children of [Satomi](#satomi-high-gandew-tough-hammer) and [Nooru](#nooru-high-gandew-tough-hammer) along with her twin, [Katsumi](#katsumi-flatland-long-blue), but thrown off the cliff and rescued in the desert by the [Red Winga](/lore/factions/#red-winga). Under the Red Winga's "protection", she grew up in Forway doing odd jobs for the madams, until she came of age and was persuaded to sign a contract to become an agent (mostly because of her sister). A few weeks later, the two of them fled, but they were caught and punished for it. She resents that Flatland never rescued them instead, but she never does anything to change her situation; in fact, she piles on so much pessimism that her sister loses heart about it.
+
+- **Race:** Wozefaries.
+- **Birthday:** 1017 A.G. Asa 80th.
+- **Attracted to:** kinder, taller men, but not necessarily Darfaries (see the Q&A). Romantic by nature.
+- **Myers-Briggs:** ISTJ.
+- **Intelligence:** taught herself to read. She's on the cunning side, but for lack of street smarts and knowledge of the world, especially of what being independent truly means, she ends up reserved, if not pessimistic, in how she thinks.
+- **Habits:** she has built a wall between her work persona and her true self, and lets out a long sigh with her eyes closed as she switches between them. Her work persona is direct, forceful and sometimes aggressive: the "bad cop". Her true self is quiet, reserved and cute, and rarely speaks.
+- **Speech:** she has a tic of starting her brief sentences with "One. {X}. Two. {X}." to push past her introversion. Otherwise she stays quiet.
+- **Strengths:** highly intuitive; direct; perceptive; realistic; fair; impartial; loving toward her sister.
+- **Flaws:** pushy; pessimistic; picky; resentful (about not acting, though she never does); cold; coarse; passive; powerless; grumpy.
+- **Likes and dislikes:** hates rich people, the Red Winga and lustful bastards. Likes abusing the nari gels she's given to escape reality.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 4 | 20 | 153 cm | 47 kg |
+
+# Katsumi Flatland Long-Blue
+
+Her story starts like her twin [Katsuki](#katsuki-flatland-long-blue)'s, but her friendly, spirited nature helped land them both an agent role. That is, until Katsumi truly tasted freedom and decided to flee it all. Now they're locked in a room, hidden from everyone. She hates [Arukia](#arukia-long-bridge) and the [Red Winga](/lore/factions/#red-winga), and tries to escape at every chance she gets, but her pessimistic sister shoots it down every time, especially since Katsumi is the one who got them into this situation in the first place.
+
+- **Race:** Wozefaries.
+- **Birthday:** 1017 A.G. Asa 80th.
+- **Attracted to:** she has a high sex drive, and likes aggressive men who make a plaything of her; she loves the sexual side of her job. She also has a thing for men who don't fall for her playfulness: she sees herself as a true beauty all men must fall for.
+- **Myers-Briggs:** ESFJ.
+- **Intelligence:** can't read, but her street smarts, especially at bending men to her will, are really useful.
+- **Habits:** lewd; touchy; teasing.
+- **Speech:** lewd; friendly, but fair; can be aggressive when she wants to. Speaks in simple language, doesn't use names and often forgets them; says "c'mon" and "hmmm", in a high-pitched voice.
+- **Strengths:** liberal; pioneering; sympathetic; dynamic; friendly; quick-witted, especially at talking her and her sister out of trouble; positive; stoic.
+- **Flaws:** self-indulgent; insecure; shameless; predatory; doesn't think things through.
+- **Likes and dislikes:** loves sex; likes getting high on nari gel. Loves dried fruit, and being out in the sun (after [Ryo](#ryo-flatland-long-blue) rescues her).
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 4 | 20 | 153 cm | 47 kg |
+
+# Ryo Flatland Long-Blue
+
+The son of a human and a Wozefaries, merchants who taught him the ropes. He took after them and made a fair amount of money through various ventures, but also lost a decent amount on failed projects. What matters is that he's adaptable, and will eventually take on whatever business proposal someone brings him.
+
+- **Race:** Wozefaries.
+- **Birthday:** 974 A.G. Paulin 69th.
+- **Attracted to:** Wozefaries, especially ones with a high sex drive.
+- **Myers-Briggs:** INFJ.
+- **Intelligence:** above average; he went to a specialty school for accounting. Not great at street smarts or relationships, though.
+- **Habits:** leans forward, eager to listen and to speak; participative.
+- **Speech:** seeks information and likes to talk things through, but gets temperamental when the other side isn't sharing, or he notices they're holding back. Loves discussing hypotheticals like no one else, and goes off on tangents about possible business scenarios: the "what if" guy.
+- **Strengths:** secretive; harmonious; curious; organized; compassionate; gentle; open-minded; cool as a cucumber; doesn't let other people's status affect him.
+- **Flaws:** temperamental; changeable; contemptuous, intolerant and impatient when he gets temperamental; quick to act without really thinking things through.
+- **Likes and dislikes:** likes money, but above all the deals that make it: bargaining thrills him! He indulges his sexual appetite once in a while, but [Katsumi](#katsumi-flatland-long-blue) lit the fire of his passion like no girl ever had.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 2 | 60 | 160 cm | 54 kg |
+
+# Hanako Flatland
+
+Born to Darfaries parents who threw her off the Goodbye Cliff, she was rescued by Flatland. She and [Mimi](#mimi-flatland) lived a simple life working for the town and its taverns, until they met [Yosuke](#yosuke-forway-wood-people-picker) on his travels. Mimi bonded with him, so Hanako came along, and now they work together as a family.
+
+- **Race:** Wozefaries.
+- **Birthday:** 1024 A.G. Asa 12th.
+- **Myers-Briggs:** ESFP.
+- **Intelligence:** she knows her way around the kitchen, but dealing with people is her strong suit. She doesn't know much about anything else, mostly because she doesn't seem to care. She acts like a big sister: she cares, but won't console you or give advice the way a mother would. She hopes to inherit the restaurant when Yosuke passes away, to keep it running.
+- **Habits:** props herself against the wall for the real talks; gestures, with a big sister's condescending tone, but she means well; gets angry if people mess with her stuff.
+- **Speech:** short and sweet. She speaks her mind.
+- **Strengths:** practical; tidy; sincere; honest; eloquent; clear-headed; instinctive; a hoarder, and protective of her loot.
+- **Flaws:** blunt; finicky; sanctimonious; judgmental; vague; ignorant; boastful; apathetic about anything outside her immediate view; harsh.
+- **Likes and dislikes:** likes cleaning, especially her own things. Hates people poking around her stuff, especially borrowing without asking (usually Mimi). She expects people to do better and improve, and when they don't, she can be a bit too harsh.
+- **Interface:** Darfaries.
+
+# Mimi Flatland
+
+Born to Darfaries parents who threw her off the Goodbye Cliff, she was rescued by Flatland. She and [Hanako](#hanako-flatland) lived a simple life working for the town and its taverns, until they met [Yosuke](#yosuke-forway-wood-people-picker) on his travels. Mimi bonded with him, and since Hanako wouldn't leave her on her own, she came along too; now they work together as a family.
+
+- **Race:** Sorefaries.
+- **Birthday:** 1024 A.G. Asa 12th.
+- **Myers-Briggs:** ESFP.
+- **Intelligence:** what she lacks in intelligence, she makes up for in friendliness. She's like a monkey that gets its hand stuck in the cookie jar every single time, and keeps doing it anyway. Like a cat that talks.
+- **Habits:** usually flying around; loves sitting on people's shoulders, for a higher view of the world.
+- **Speech:** doesn't know big words; slow to respond.
+- **Strengths:** friendly; hardworking; caring; dynamic; stoic (partly because she's forgetful); clumsy.
+- **Flaws:** a slow learner; dim-witted; disobedient; forgetful; superficial; quick-tempered; impulsive; gets frustrated over things she can't control.
+- **Likes and dislikes:** loves sweets, playing with people's hair, and helping. Doesn't like being called out on something she should know but forgot, and can burst into tears if people keep prodding her.
+- **Interface:** Darfaries.
+
+# Kozaku Forway
+
+Born in Forway City to mixed-blood parents who had left the Gandew Kingdom and made their living in whatever jobs they could find, with little education but great physical strength. The discrimination and smugness of pure-blood Darfaries toward his mixed blood always rubbed him the wrong way. One day he signed a contract with a rich man without reading the fine print, and members of the rich man's family harassed him over it, which made him hate everyone even more. In time, he founded what is now known as the Blue Wozens with two other people, and struck back at the family.
+
+He plunged into a life of crime, and one day found a Walking Heart stone that melded with him perfectly. He didn't know the extent of its effects, though, and it has permanently changed him. With no going back, he kept expanding the Blue Wozens to hoard more shit, while trying to control his bursts of anger so the stone doesn't take him over completely. He has since lost track of why he founded the Blue Wozens in the first place.
+
+- **Race:** mixed blood (human and Darfaries).
+- **Birthday:** 931 A.G. Adrian 70th.
+- **Attracted to:** material things: hoarding whatever his mind desires. The Walking Heart stone corrupted his mind.
+- **Myers-Briggs:** INFJ.
+- **Intelligence:** quite smart at planning raids and heists and managing bandit groups, but not emotionally intelligent at all.
+- **Habits:** aggressive and quick to snap; his fists often clench, ready to kill anyone who steps out of line; hits things; commanding; likes to stand higher than everyone else.
+- **Speech:** an aggressive, impatient tone; demanding, and belligerent when someone doesn't follow his plan 100%.
+- **Strengths:** organized; keen; objective; scrupulous; thorough.
+- **Flaws:** mean; aggressive; intolerant; unkind; jealous; a hoarder; anxious.
+- **Likes and dislikes:** likes obedience, and following the plan; hoarding more stuff. Hates disobedience, insubordination, and above all any attempt to tarnish his image.
+- **Interface:** Darfaries, plus a Walking Heart stone.
+- **Skills:** his muscles tense and his veins pop, and then he can rip someone's head off with a single punch. He can keep punching without stopping, but he could easily die if no one stops him before he spends all his Soul Energy.
+
+# Laura Forway White-Bell
+
+Laura started out as a prostitute, but she was astute: she built connections and pulled strings until she could open her own brothel. Over time she opened a few more, and started doing shadier business behind the scenes to expand into other sectors. She's now one of the richest businesswomen in Forway, and hardly anyone knows it, since her proxies "own" her businesses instead of her.
+
+- **Race:** human.
+- **Birthday:** 1009 A.G. Asa 72nd.
+- **Attracted to:** she's the dominant one. She seeks out lonely, innocent young men and whips them into men.
+- **Myers-Briggs:** ESTP.
+- **Intelligence:** her street smarts are among the highest, if such a thing could be reliably measured. She has dealt with people long enough to know what they might really be thinking behind their words.
+- **Habits:** hand movements; sensual; intriguing and teasing, yet very observant, as if analyzing the foundations of whoever she's talking to.
+- **Speech:** delicate, yet precise; she doesn't waste time. She brings people under her command through loyalty, built over years of service, slowly adding more for them to do. Somewhat like [Neferteri](#neferteri-sanbi-royal), but she talks less, lets others hash things out and think for themselves, and is far less controlling and far more trusting. Hates being talked over: her expression chills even further, or she excuses herself and leaves.
+- **Strengths:** careful; educated; ambitious; keen; eloquent; modest, to keep the size of her business hidden.
+- **Flaws:** picky; dogmatic: her principles are the truth, and everyone working under her must follow them or pay the consequences (see the [Red Winga](/lore/factions/#red-winga)); callous; greedy; cold; crafty; deceitful; uses people for her own goals.
+- **Likes and dislikes:** likes spirits and strong liquors, especially fruity ones, and refined cheeses, meats and the like. Hates fish, even the smell of it.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 3 | 30 (from her birthday) | 151 cm | 54 kg |
+
+# Yosuke Forway Wood-People-Picker
+
+Born in Forway to a Sundeath mother and a well-off Wozefaries father. He grew up exploring the world's cuisines and came to love the diversity of food, which he explores in his restaurant, The Wood People Picker.
+
+- **Race:** Wozefaries.
+- **Birthday:** 959 A.G. Adrian 8th.
+- **Attracted to:** Wozefaries ladies, but cooking is his passion, so he never found a wife.
+- **Myers-Briggs:** ESFJ.
+- **Intelligence:** many years of experience in cooking, and in life in general; life has taught him to recognize the good and bad in people.
+- **Habits:** puts his hands behind his back; likes to smile faintly and stand still while talking to people, giving them one chance to say yes or no; picky and carefully observant in anything to do with the kitchen.
+- **Speech:** likes to poke for information, but not enough to be bothersome; reads a lot between the lines and in body language; likes calling people by nicknames of his own. Can get blunt, and demands that something be redone until it satisfies him.
+- **Strengths:** friendly, though he can flip to verbally aggressive; enthusiastic; positive; fairly trusting; frank; polished; principled; charismatic; charitable.
+- **Flaws:** fanatical; blunt; truculent, especially about cooking; an overworker; expects others to dance to his rhythm, especially in his kitchen.
+- **Likes and dislikes:** loves food, and above all its variety.
+- **Interface:** Darfaries.
+
+# Rimir Forway
+
+A true Forway boy, meaning he grew up on the streets. You'd expect him to be street-smart and quick-witted, but he's the opposite: he doesn't seem to have strong motivations, or he'll just do his own thing. [Yosuke](#yosuke-forway-wood-people-picker) saw a chance to make him the restaurant's next chef by introducing him to lots of different food, but maybe he doesn't have the skills to be an innovator, just a doer.
+
+- **Race:** human.
+- **Birthday:** 1012 A.G. Moacir 43rd.
+- **Attracted to:** alpha males; he likes being ordered around. A power bottom.
+- **Myers-Briggs:** ISFJ.
+- **Intelligence:** a really good memory for following directions, but he needs them step by step: almost robotic, he gets lost as soon as anything is left open.
+- **Habits:** follows directions to a tee, even when they're wrong.
+- **Speech:** says "Yes, Chef!" all the time. Doesn't ask questions; just does as he's told.
+- **Strengths:** focused; efficient; reliable; self-disciplined; upright; thorough; principled; quick.
+- **Flaws:** hesitant; fanatical; finicky; insistent; passive; inflexible; aimless.
+- **Likes and dislikes:** dislikes vagueness and room for interpretation. Loves a sense of order, and a queue of things to do.
+- **Interface:** Darfaries.
+
+# Francisco Forway Tea-Drinkers
+
+He grew up in Gandew as your usual Gandew-proud Darfaries, until a booze-filled dungeon party on his twentieth birthday ended in mystery, and he lost his parents and friends in one fell swoop: they went too deep and got lost. Separated from his parents, he found his way back, but couldn't recover their bodies to bring them back from the dead. He stumbled through life, through many hardships mostly brought on by his own state of mind: drugs, alcohol, living in the slums, begging and more. He got a new chance at life when a human courtesan he slept with gave birth to a child, [Takeo](#takeo-forway-tea-drinkers). With a mouth to feed, he joined the Tea-Drinkers guild, and found himself a family.
+
+- **Race:** Darfaries.
+- **Birthday:** 857 A.G. Paulin 51st.
+- **Attracted to:** courtesans. He has trouble keeping long-term relationships.
+- **Myers-Briggs:** ESTP.
+- **Intelligence:** average, with more knowledge of the Tea-Drinkers' business: he keeps the books and carries things around. He knows a good chunk of Forway like the palm of his hand.
+- **Habits:** some hand gestures; smiling; laid-back.
+- **Speech:** speaks softly, and doesn't pry much into others.
+- **Strengths:** trusting; not pushy; loving and family-centered; agreeable; friendly; positive.
+- **Flaws:** too trusting; too soft; unambitious.
+- **Likes and dislikes:** drinks tea, after developing a taste for it, and fruit too. Doesn't eat as much meat as other Darfaries.
+- **Interface:** Darfaries.
+
+# Biny Forway Cliff-Jumper
+
+Born in Forway to parents who lived paycheck to paycheck, he had to start working early and figure out what he wanted to do with his life. He never felt adventuring was his thing, so he worked his ass off at a desk job doing grunt work in the black castle. He saved enough to open a guild that takes on adventurers and invests in them, in exchange for 30% of every quest they do, with at least 2 quests a week (exceptions depend on the quest and its payout). He can advise on what quests a given adventurer should or can take, or even give insider tips on the best quests about to become available.
+
+- **Race:** human.
+- **Birthday:** 994 A.G. Paulin 1st.
+- **Attracted to:** young women with a good head on their shoulders, human and Wozefaries alike.
+- **Myers-Briggs:** INTJ.
+- **Intelligence:** a smart negotiator.
+- **Habits:** focuses on one thing at a time; likes to keep his mouth or hands busy.
+- **Speech:** hangs when he's supposed to start a conversation, usually thinking about something. If you talk to him while he's doing something, he doesn't reply until he has finished it, like a queue of actions, and the same goes for whatever he's thinking about. Likes striking up conversations with adventurers to fund them.
+- **Strengths:** stable; strong; mature; independent; generous, investing in adventurers; resourceful; a delegator; persuasive, sometimes a bit much.
+- **Flaws:** inefficient; cunning; overthinks; tasteless; materialistic; predatory.
+- **Likes and dislikes:** cigars and Steen.
+- **Interface:** Darfaries.
+
+# Lofingha Forway Amethyst-Captain
+
+When she was a kid, her mother seemed to be a lazy, uncaring Darfaries, the woman her father, [Lofinghy](#lofinghy-sanbi-forway-aquamarine-general), had fallen in love with. They clashed more and more until things couldn't work anymore, and they separated. She took it to heart and set out to root out laziness in people, and she'll fight to make it happen, even if it pushes people away in the end. She cares about her people and her kingdom.
+
+- **Race:** human.
+- **Birthday:** 1007 A.G. Asa 84th.
+- **Attracted to:** women. She likes to control men in bondage: a sadist, a dominatrix.
+- **Myers-Briggs:** ESFJ.
+- **Intelligence:** as smart as her father, but with lower emotional intelligence: she's quicker to snap and use her fists instead of words.
+- **Habits:** likes to punch; likes bondage, and uses it to punish people.
+- **Speech:** curt and to the point. As strong-willed as her father, but she doesn't spend as long thinking.
+- **Strengths:** convinced of her morals; idealistic; passionate; sincere; sporting; powerful; tough but fair; energetic; encouraging; confident; loyal.
+- **Flaws:** intolerant; insensitive; tactless; temperamental; cruel; angry.
+- **Likes and dislikes:** loves seeing people grow under her wing, and seeing her morals take root in them, and the loyalty that comes from it. Hates laziness and unwillingness.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| ? | ? | 193 cm | 104 kg |
