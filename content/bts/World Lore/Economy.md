@@ -13,7 +13,9 @@ A region has a comparative advantage when its members can carry out a particular
 
 **Example:** fanchaki farms are spread out everywhere, but Freeish and Blood have the comparative advantage for large-scale farming. Raising larger fanchakis (like Sanbi's experimental farm) costs more than their meat sells for.
 
-**Moving goods.** Shipping costs about 1 Pearl per kg for every 120 km for Tier I (cheap) goods, 84 km for Tier II (common), 58.8 km for Tier III (expensive) and 29.4 km for Tier IV (nobility), assuming a full egua cart. An egua pulls up to 150 kg of cargo and covers about 30 km a day pulling it (about 65 km a day when ridden).
+**Moving goods.** Shipping costs about 1 Pearl per kg for every 120 km for Tier I (cheap) goods, 84 km for Tier II (common), 58.8 km for Tier III (expensive) and 29.4 km for Tier IV (nobility).
+
+The price covers more than the egua's work. On rough routes, cargo goes on a pack egua's back: up to about 150 kg, at about 30 km a day (about 65 km a day when ridden). Where the roads allow carts, one egua pulls far more (about 900 kg on a dirt road, about 1,800 kg on a good road; see [Load and strain](/lore/fauna/#egua--load-and-strain) on the Egua), so hauling gets cheaper. Shipping prices stay the same anyway, because they also pay for protection, insurance and the shipper's profit.
 
 | Between | Distance |
 |---|---|

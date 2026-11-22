@@ -59,3 +59,13 @@ The 10% / 20% in the gait table is already a share of the Egua's ~900 kg body we
   - **Option B: carts everywhere.** Use the strain rule for carts, so one Egua moves ~900 kg on a dirt road, about 6 times the cargo. Shipping would get about 6 times cheaper, and every Distance Cost Tier number would need recalculating.
 
 Questions for the author: Option A or B? And should the website explain the strain rule on the Egua entry, or keep it as a note for writers here?
+
+## The author's decision (2026-11-22)
+
+> N2: We can have both. Some roads they can use carts others not. Plus there are other fees into shipping not discussed like protection fee, insurance, profit etc that will cover the gap now that shipping is less expensive as the éguas can pull a lot more when pulling carts.
+>
+> So from distance cost tier it is basically the same as we can explain the cost away, and we're just updating the calculations that led to that tier calculation.
+
+- **Both:** pack Eguas on routes where carts can't go, carts where the roads allow them.
+- **Distance Cost Tier:** prices stay the same. Cheaper hauling by cart is balanced by the other shipping fees (protection, insurance, profit).
+- **On the website:** the strain rule is on the Egua entry (Fauna › Egua › Load and strain), and the Economy shipping note explains the two kinds of route.

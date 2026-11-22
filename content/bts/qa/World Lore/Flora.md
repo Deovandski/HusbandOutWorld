@@ -28,7 +28,17 @@ None.
 
 None found.
 
+### Basi berries (left as written)
+- **Legacy text:** Basi › Growth: "One bush produces ~1kg of berries per harvest season." Basi Berries: "yielding between 1 and 2 kg of acai berries."
+- **Abridged text:** keeps both; they overlap at ~1 kg.
+
+## Judgment calls in the polish (2026-11-22)
+
+- **Habitat heights** ("~0km - ~1km", "< 1km height") read as height above sea level, following the author's answer W4 for the World Map ("Height above the sea"), and written "~0–1 km above sea level".
+- **Real-world comparisons:** Child Beer's Wikipedia link became a note on small beer; "like Farinha" became a note on farinha, the toasted cassava flour of Brazilian cooking.
+- "Grounded" read as "ground" (Ground TastyLeaf, Ground Soul Wood); "BuzetaJuice" as "Buzeta Juice".
+
 ## Left out on purpose
 
 - The Website Description of each entry (the public text, already on the page).
-- Empty values ("None", "-", "--", "See above", "See Item Visual Reference").
+- Empty values ("None", "-", "--", "See above", "See Item Visual Reference", "(Visual reference: See below.)", since the picture follows right after).

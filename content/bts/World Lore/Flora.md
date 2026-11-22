@@ -9,15 +9,15 @@ note: entries are restructured into one layout (description, a list of facts, th
 A common plant used in nari gels and teas. Depending on how much you take, it can soothe the stomach, or cause diarrhea and vomiting.
 
 - **Inspired by:** Dandelion.
-- **Habitat:** ~0 km on Lower plains, especially in plains.
-- **Tastes like:** Lemony like.
+- **Habitat:** ~0 km above sea level, on the lower plains.
+- **Tastes like:** Lemony.
 - **Growth:** Several months in the wild.
 - **Interface:** Petals.
 - **Skills:** Faint Luminescence.
 
 #### Economic value
 
-- **Girdol Flowers**: (Visual reference: See below.)
+- **Girdol Flowers**:
 
 ![][image1]
 
@@ -26,14 +26,14 @@ A common plant used in nari gels and teas. Depending on how much you take, it ca
 A wild plant often chewed like gum or used in teas and nari gels, with a calming effect. Set on fire, it smells strongly of weed. Nobody has figured out how to domesticate it yet. It's high in fiber and can be used for clothing.
 
 - **Inspired by:** Cannabis sativa.
-- **Habitat:** ~0km - ~1km. In the wild.
+- **Habitat:** ~0–1 km above sea level, in the wild.
 - **Tastes like:** Minty, but more grassy and oily. Somewhat chewy.
 - **Growth:** Several months in the wild.
 
 #### Economic value
 
-- **Steen Leaves**: (Visual reference: See below.)
-- **Steen Fiber**: (Visual reference: See below.)
+- **Steen Leaves**:
+- **Steen Fiber**:
 
 ![][image2]
 
@@ -42,13 +42,13 @@ A wild plant often chewed like gum or used in teas and nari gels, with a calming
 One of the most sought-after plants, for making soap and shampoo out of its shells. Not really used in teas, though some like it. The cotton-like fiber inside the case is used for fabric.
 
 - **Inspired by:** Yucca Glauca.
-- **Habitat:** ~0km - ~1km. Farmed in the grasslands.
+- **Habitat:** ~0–1 km above sea level; farmed in the grasslands.
 - **Tastes like:** Lavender with coconut soap.
 - **Growth:** One month in the wild.
 
 #### Economic value
 
-- **Tibou Flowers**: (Visual reference: See below.)
+- **Tibou Flowers**:
 
 ![][image3]
 
@@ -59,16 +59,16 @@ One of the most sought-after plants, for making soap and shampoo out of its shel
 A rarer wild plant commonly used for sleep, in nari gels, or as a sedative. Its petals are so yellow they're reflective. Smoked, it gives a strong laid-back vibe, like sitting still for hours just watching time pass: you feel hungry, but it doesn't bother you; people can punch you, and that doesn't bother you either. People also tend to hallucinate vividly, completely forgetting their physical presence.
 
 - **Inspired by:** Sassafras.
-- **Habitat:** ~0km - ~1km.
+- **Habitat:** ~0–1 km above sea level.
 - **Tastes like:** White Cheddar.
 - **Growth:** Three months in the wild.
 - **Interface:** Petals.
 - **Skills:** Spray Sleep Spell in Self-Defense.
-- **Visual reference:** *Yellow petals.
+- **Visual reference:** Yellow petals.
 
 #### Economic value
 
-- **Magina Flowers**: (Visual reference: See below.)
+- **Magina Flowers**:
 
 ![][image5]
 
@@ -77,13 +77,13 @@ A rarer wild plant commonly used for sleep, in nari gels, or as a sedative. Its 
 A common plant, used for cooking.
 
 - **Inspired by:** Piper Nigrum.
-- **Habitat:** ~0km - ~1km.
-- **Tastes like:** Seeds taste like Black Pepper mixed with Cumin taste. More black pepper as the older it gets (deep wine), with cumin, the younger it is (pink)
-- **Growth:** One Month in the wild, another three months for maturation.
+- **Habitat:** ~0–1 km above sea level.
+- **Tastes like:** The seeds taste like black pepper mixed with cumin: more black pepper the older they get (deep wine), more cumin the younger they are (pink).
+- **Growth:** One month in the wild, then another three months to mature.
 
 #### Economic value
 
-- **Magina Flowers**: (Visual reference: See below.)
+- **Magina Flowers**:
 
 ![][image6]
 
@@ -92,15 +92,15 @@ A common plant, used for cooking.
 A common plant, used for cooking.
 
 - **Inspired by:** Phalaenopsis orchid.
-- **Habitat:** ~0km - ~1km. More common towards the forests near Freeish.
-- **Tastes like:** Neutral, watery, or mildly fresh flavor.
+- **Habitat:** ~0–1 km above sea level; more common toward the forests near Freeish.
+- **Tastes like:** Neutral, watery or mildly fresh.
 - **Growth:** Two months in the wild.
-- **Interface:** Transparent Petals.
+- **Interface:** Transparent petals.
 - **Skills:** Biolight.
 
 #### Economic value
 
-- **Emerenthy Flowers**: (Visual reference: See below.)
+- **Emerenthy Flowers**:
 
 ![][image7]
 
@@ -110,18 +110,18 @@ Found on beaches all over the four kingdoms, since humans found it near Lukewarm
 
 - **Inspired by:** Coconut.
 - **Habitat:** Beaches.
-- **Tastes like:** Coconut, but saltier. Almost like Beef jerky, salty depending on what you open. Surroundings can further alter taste.
-- **Growth:** ~15 Years until maturation. ~50 fruits per tree/year.
+- **Tastes like:** Coconut, but saltier; some are almost as salty as beef jerky, depending on which one you open. Their surroundings can alter the taste further.
+- **Growth:** ~15 years to mature, then ~50 fruits per tree a year.
 - **Interface:** Fruit.
 - **Skills:** Harden.
 
 #### Economic value
 
-- **Cocona Water**: See above. Not much is found as the cocona flesh takes over most of the inside. If someone opens a cocona with all Soul Tree water, Freeish legends say they are extremely lucky because it will extend their life—that is, if they chug the entire umami water. Fact not proven by science. The water/flesh ratio comes in several colors, and each color corresponds to certain buffs/debuffs it will give.
+- **Cocona Water**: There isn’t much of it, since the cocona flesh takes up most of the inside. Freeish legends say that anyone who opens a cocona full of Soul Tree water is extremely lucky, because it will extend their life (as long as they chug all of that umami water); science hasn’t proven it. The water and flesh come in several colors, and each color gives certain buffs or debuffs.
 
   ![][image8]
 
-- **Dried Cocona**: Sell to other kingdoms, on the road, snacks, etc. Same as water, it comes in several colors.
+- **Dried Cocona**: Sold to other kingdoms, eaten on the road, as a snack, etc. Like the water, it comes in several colors.
 
   ![][image9]
 
@@ -131,23 +131,23 @@ Found on beaches all over the four kingdoms, since humans found it near Lukewarm
 
 A vine that only grows at higher altitudes, where it's slightly colder.
 
-- **Inspired by:** Maracuja; Fruit is ~2x bigger.
-- **Habitat:** ~2km - ~4km. Found naturally on the base of Fuhrair, Old Fuhrair, & Gandew. Sometimes Tolerideme as well, but it rarely works.
-- **Tastes like:** Tart flavor. Like as if a banana were crossbred with a lime alongside an orange. The seeds inside don’t add much flavor, but their crunchiness enhances the experience and mellows the tart a bit.
-- **Growth:** It constantly produces Rakuja, but each vine takes ~3 months to yield ~400 units. They require a lot of fertilizer, especially fishmeal.
+- **Inspired by:** Maracuja (passion fruit), but the fruit is ~2× bigger.
+- **Habitat:** ~2–4 km above sea level. Found naturally at the base of Fuhrair, Old Fuhrair and Gandew; sometimes in Tolerideme as well, though it rarely takes.
+- **Tastes like:** Tart, as if a banana were crossbred with a lime and an orange. The seeds inside don’t add much flavor, but their crunch adds to the experience and mellows the tartness a bit.
+- **Growth:** Produces Rakuja constantly, but each vine takes ~3 months to yield ~400 fruits. The vines need a lot of fertilizer, especially fish meal.
 
 #### Economic value
 
-- **Rakuja Fruit**: More of an expensive fruit in the Kingdom. Often enjoyed by higher classes. Not much in the wild.
-- **Dried Rakuja**: Often done for food stock, selling to other kingdoms, baking in food, or on-the-road snacks.
+- **Rakuja Fruit**: A rather expensive fruit in the Kingdom, often enjoyed by the upper classes. There isn’t much of it in the wild.
+- **Dried Rakuja**: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack.
 
   ![][image11]
 
-- **Rakuja Juice**: Refreshing Juice.
+- **Rakuja Juice**: A refreshing juice.
 
   ![][image12]
 
-- **Rakuja Hard Juice**: Fermented Juice. Fizzy, less sweet, but less tart as well.
+- **Rakuja Hard Juice**: Fermented juice: fizzy, less sweet, but less tart as well.
 
   ![][image13]
 
@@ -160,16 +160,16 @@ A vine that only grows at higher altitudes, where it's slightly colder.
 A wild tree whose fruit, if opened carefully, has a great inside.
 
 - **Inspired by:** Mangosteen.
-- **Habitat:** ~0km - ~1km. Wild species are found around deeper forests and in people’s backyards.
-- **Tastes like:** Shell is bitter. Inner fruit is milky caramel with earthy tones.
-- **Growth:** It is produced during the Summer.
+- **Habitat:** ~0–1 km above sea level. Wild ones grow in the deeper forests and in people’s backyards.
+- **Tastes like:** The shell is bitter; the fruit inside is milky caramel with earthy tones.
+- **Growth:** Fruits in the summer.
 - **Interface:** Tree.
-- **Skills:** Drop Fruits.
+- **Skills:** Drop Fruit.
 
 #### Economic value
 
-- **Gosutam Fruit**: Often, a tree that people will plant in the backyard is rather expensive for how little fruit you can eat.
-- **Dried Gosutam**: Often done for food stock, selling to other kingdoms, baking in food, or on-the-road snacks.
+- **Gosutam Fruit**: People often plant this tree in their backyards; the fruit is rather expensive for how little of it you can eat.
+- **Dried Gosutam**: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack.
 
   ![][image16]
 
@@ -177,7 +177,7 @@ A wild tree whose fruit, if opened carefully, has a great inside.
 
   ![][image17]
 
-- **Gosutam Hard Juice**: Fermented Juice. Fizzy, less-milky caramel and earthy tones give it a nice balance without being too overpowering.
+- **Gosutam Hard Juice**: Fermented juice: fizzy, with less milky caramel; the earthy tones give it a nice balance without being overpowering.
 
   ![][image18]
 
@@ -188,15 +188,15 @@ A wild tree whose fruit, if opened carefully, has a great inside.
 A wild fruit popular with adventurers, known for mutating in the wild into new variants. Its flavor is unlike anything else in this world, almost as if it didn't belong there. The Buhraies brought it to life with genetic engineering, and the main variety they made is still the most popular and the hardiest; the second is Wood Yabuca. Many species exist in the wild, and some fear it will eventually crowd out every fruit but Yabucas.
 
 - **Inspired by:** Cosmic apples (the main variety).
-- **Habitat:** ~0km - ~1km. Everywhere in terms of breeds, but the Yabuca that people want is only found in the south, where it is farmed intensively. Yabuca variety (also referred to as the traditional variety) is farmed in the Freeish Kingdom.
-- **Tastes like:** Slightly sweet, fleshy, with carrot notes.
+- **Habitat:** ~0–1 km above sea level. Some variety grows everywhere, but the Yabuca people want (the Yabuca variety, also called the traditional variety) is only found in the south, where it is farmed intensively in the Freeish Kingdom.
+- **Tastes like:** Slightly sweet and fleshy, with carrot notes.
 - **Growth:** Throughout the year.
 - **Skills:** Adrenaline Inducer.
 
 #### Economic value
 
 - **Yabuca Fruit**:
-- **Dried Yabuca**: Often done for food stock, selling to other kingdoms, baking in food, or on-the-road snacks.
+- **Dried Yabuca**: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack.
 
   ![][image20]
 
@@ -204,7 +204,7 @@ A wild fruit popular with adventurers, known for mutating in the wild into new v
 
   ![][image21]
 
-- **Yabuca Hard Juice**: Fermented Juice.
+- **Yabuca Hard Juice**: Fermented juice.
 
   ![][image22]
 
@@ -215,14 +215,14 @@ A wild fruit popular with adventurers, known for mutating in the wild into new v
 A large Yabuca variant, created when the Buhraies mutated Wood People from Yabuca trees. Up to about 26 cm.
 
 - **Inspired by:** Birgit Bonnier Apples.
-- **Habitat:** ~1km - ~2km. Buhraies Plains.
-- **Tastes like:** Slightly sweet, fleshy with a taste similar to Raspberry and apples.
+- **Habitat:** ~1–2 km above sea level, on the Buhraies Plains.
+- **Tastes like:** Slightly sweet and fleshy, a little like raspberries and apples.
 - **Growth:** Throughout the year.
 
 #### Economic value
 
 - **Yabuca Fruit**:
-- **Wood Dried Yabuca**: Often done for food stock, selling to other kingdoms, baking in food, or on-the-road snacks.
+- **Wood Dried Yabuca**: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack.
 
   ![][image24]
 
@@ -230,7 +230,7 @@ A large Yabuca variant, created when the Buhraies mutated Wood People from Yabuc
 
   ![][image25]
 
-- **Wood Yabuca Hard Juice**: Fermented Juice.
+- **Wood Yabuca Hard Juice**: Fermented juice.
 
   ![][image26]
 
@@ -242,13 +242,13 @@ A further mutation of Wood Yabuca. Some call it the random fruit, since the Walk
 
 - **Inspired by:** Ghost Apple.
 - **Habitat:** Hifuna.
-- **Tastes like:** Like water mixed with hints of dirt. Plus a plasticky feel in the mouth that reminds me of mixing glue.
+- **Tastes like:** Water with hints of dirt, plus a plasticky feel in the mouth, like mixing glue.
 - **Growth:** Throughout the year.
 
 #### Economic value
 
 - **Hifuna Yabuca Fruit**:
-- **Hifuna Yabuca Concentrated Fruit**: See Above. A concentrated form usually sold as a drinkable potion amongst adventurers going to Hifuna as a last option. Some use it more than they should.
+- **Hifuna Yabuca Concentrated Fruit**: A concentrated form, usually sold as a drinkable potion to adventurers going to Hifuna, as a last resort. Some use it more than they should.
 
 ![][image28]
 
@@ -256,12 +256,12 @@ A further mutation of Wood Yabuca. Some call it the random fruit, since the Walk
 
 A wild, cactus-like tree whose fruit looks like a smaller Greenbread. Its brown shell smells pungent, like the fart of someone who ate too many eggs; rubbing it in sand removes the smell and reveals the delectable inside.
 
-- **Inspired by:** Prickly Pear taste.
-- **Habitat:** ~0km - ~1km. Transitional zone of the desert.
-- **Tastes like:** Strawberry/Raspberry.
+- **Inspired by:** Prickly pear (the taste).
+- **Habitat:** ~0–1 km above sea level, in the desert’s transitional zone.
+- **Tastes like:** Strawberry or raspberry.
 - **Growth:** All year round.
 - **Interface:** Spikes.
-- **Skills:** Grow Spikes; Sweat induction.
+- **Skills:** Grow Spikes; Sweat Induction.
 
 #### Economic value
 
@@ -269,7 +269,7 @@ A wild, cactus-like tree whose fruit looks like a smaller Greenbread. Its brown 
 
   ![][image29]
 
-- **Dried Purplebread**: Often done for food stock, selling to other kingdoms, baking into food, or as on-the-road snacks.
+- **Dried Purplebread**: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack.
 
   ![][image30]
 
@@ -277,7 +277,7 @@ A wild, cactus-like tree whose fruit looks like a smaller Greenbread. Its brown 
 
   ![][image31]
 
-- **Purplebread Hard Juice**: Fermented Juice.
+- **Purplebread Hard Juice**: Fermented juice.
 
   ![][image32]
 
@@ -291,15 +291,15 @@ A huge tree in the large forests around the Freeish Kingdom and Blood City. Its 
 
 - **Inspired by:** Jackfruit.
 - **Habitat:** Forests in the south.
-- **Tastes like:** Soft, mildly sweet with a melon/honeydew mix of banana and pineapple.
-- **Growth:** Takes several years to grow into a full tree. Produces throughout the year.
+- **Tastes like:** Soft and mildly sweet: melon or honeydew mixed with banana and pineapple.
+- **Growth:** Takes several years to grow into a full tree, then fruits throughout the year.
 - **Interface:** Fruit.
-- **Skills:** Explode when fully ripe.
+- **Skills:** Explodes when fully ripe.
 
 #### Economic value
 
 - **Greenbread Fruit**:
-- **Dried Greenbread**: Often done for food stock, selling to other kingdoms, baking into food, or as on-the-road snacks.
+- **Dried Greenbread**: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack.
 
   ![][image35]
 
@@ -307,7 +307,7 @@ A huge tree in the large forests around the Freeish Kingdom and Blood City. Its 
 
   ![][image36]
 
-- **Greenbread Hard Juice**: Fermented Juice. A Fizzy drink with light melon flavor. The greenbread breadfruit's crust is cut and fermented for a few days.
+- **Greenbread Hard Juice**: Fermented juice: a fizzy drink with a light melon flavor, made by cutting the greenbread breadfruit’s crust and fermenting it for a few days.
 
   ![][image37]
 
@@ -323,12 +323,12 @@ A local fruit from the dense forests and both islands. Its ancient-species name 
 
 - **Inspired by:** Papaya.
 - **Tastes like:** Papaya.
-- **Growth:** Takes a few years to bear fruit, then it does every summer.
+- **Growth:** Takes a few years to bear fruit, then fruits every summer.
 
 #### Economic value
 
 - **Tenderthrough Fruit**:
-- **Dried Tenderthrough**: Often done for food stock, selling to other kingdoms, baking in food, or on-the-road snacks. *One should be careful if snacking on-the-go.
+- **Dried Tenderthrough**: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack. Be careful snacking on it on the go.
 
   ![][image40]
 
@@ -336,11 +336,11 @@ A local fruit from the dense forests and both islands. Its ancient-species name 
 
   ![][image41]
 
-- **Tenderthrough Hard Juice**: Fermented Juice.
+- **Tenderthrough Hard Juice**: Fermented juice.
 
   ![][image42]
 
-- **Tenderthrough Seed**: Used for getting rid of all kinds of worms and other ailments.
+- **Tenderthrough Seed**: Used to get rid of all kinds of worms and other ailments.
 
   ![][image43]
 
@@ -352,23 +352,23 @@ A local fruit from the dense forests and both islands. Its ancient-species name 
 
 Brought over by the Buhraies while working on summoning, after Yabucas, but it didn't seem as successful: it's extremely finicky to grow on farmland, and fragile even in the wild. Maybe that's partly why the Buhraies created a special environment for it: the island of Endlessfog (see Endlessfog).
 
-- **Inspired by:** Banana + Caramel flavor.
+- **Inspired by:** Banana, with a caramel flavor.
 - **Tastes like:** Banana.
-- **Growth:** Takes about 6 months for a harvest.
-- **Visual reference:** *Exterior only. Inside is the same as normal banana.
+- **Growth:** About 6 months to a harvest.
+- **Visual reference:** Exterior only; the inside is the same as a normal banana.
 
 #### Economic value
 
 - **Lonllow Fruit**:
-- **Dried Lonllow**: Often done for food stock, selling to other kingdoms, baking in food, or on-the-road snacks.
+- **Dried Lonllow**: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack.
 
   ![][image46]
 
-- **Lonllow Juice**: Kinda good. Better in vitamin shakes.
+- **Lonllow Juice**: Kind of good; better in vitamin shakes.
 
   ![][image47]
 
-- **Lonllow Hard Juice**: Fermented Juice.
+- **Lonllow Hard Juice**: Fermented juice.
 
   ![][image48]
 
@@ -378,17 +378,17 @@ Brought over by the Buhraies while working on summoning, after Yabucas, but it d
 
 - **Inspired by:** Mango Buceta.
 - **Tastes like:** Mango.
-- **Growth:** Takes about 10 months for a harvest.
+- **Growth:** About 10 months to a harvest.
 
 #### Economic value
 
 - **Buzeta Fruit**:
-- **Dried Buzeta**: Often done for food stock, selling to other kingdoms, baking in food or on-the-road snacks.
-- **BuzetaJuice**: Pretty good. Better in vitamin shakes.
+- **Dried Buzeta**: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack.
+- **Buzeta Juice**: Pretty good; better in vitamin shakes.
 
   ![][image47]
 
-- **Buzeta Hard Juice**: Fermented Juice.
+- **Buzeta Hard Juice**: Fermented juice.
 
 ![][image50]
 
@@ -396,19 +396,19 @@ Brought over by the Buhraies while working on summoning, after Yabucas, but it d
 
 An incredibly thick, tall tree: 104 meters tall and about 45 meters across. Its white leaves fall every fall. It makes no seeds or spores, and cuttings never grow. It also lights up when it rains, and helps keep Hifuna's beasts away from the settlement. Some say it's an offshoot of the Wood People, listening and reacting to its surroundings, especially feelings, though not everyone agrees.
 
-- **Inspired by:** Linden (The tilia family).
-- **Habitat:** TastyLeaf. Single massive tree.
-- **Tastes like:** Lettuce with black pepper, salt, garlic, onion, jalapeno & green curry.
-- **Growth:** Leaves fall every fall. The tree grows slightly as well.
+- **Inspired by:** Linden (the Tilia family).
+- **Habitat:** TastyLeaf: a single, massive tree.
+- **Tastes like:** Lettuce with black pepper, salt, garlic, onion, jalapeño and green curry.
+- **Growth:** Its leaves drop every fall, and the tree grows slightly each year.
 - **Skills:** Barrier Shield; Light Up; Absorb water.
 
 #### Economic value
 
-- **Fresh Leaves**: Often used in Sandwiches. Leaves don’t last as long if not dried, so this treat is only available fresh in Tastyleaf.
+- **Fresh Leaves**: Often used in sandwiches. The leaves don’t last long unless dried, so this treat is only available fresh in TastyLeaf.
 
   ![][image51]
 
-- **Grounded TastyLeaf**: Often used in spices. The leaves are dried and grounded, which allows them to last much longer.
+- **Ground TastyLeaf**: Often used in spices. The leaves are dried and ground, so they last much longer.
 
   ![][image52]
 
@@ -419,22 +419,22 @@ An incredibly thick, tall tree: 104 meters tall and about 45 meters across. Its 
 Deep green inside, with rather metallic, shiny bark. It's an example of flora that somehow escaped Vraki and ended up in our world: the Buhraies were messing around with sending things into the soul realm, and that's how this tree made its way here. Trunk People love this tree!
 
 - **Inspired by:** Eucalyptus deglupta.
-- **Habitat:** Found around Blood City and Freeish. Not really found elsewhere in the kingdoms. They are lone trees that sprout up from small colorful seeds. Trunk People love to live on them.
-- **Tastes like:** Lettuce with black pepper, salt, garlic, onion & jalapeno.
-- **Growth:** Leaves fall every fall. Tree grows slightly as well.
+- **Habitat:** Around Blood City and Freeish, and hardly anywhere else in the kingdoms. They are lone trees that sprout from small, colorful seeds. Trunk People love to live on them.
+- **Tastes like:** Lettuce with black pepper, salt, garlic, onion and jalapeño.
+- **Growth:** Its leaves drop every fall, and the tree grows slightly each year.
 - **Skills:** Barrier Shield; Light Up; Absorb water.
 
 #### Economic value
 
-- **Soul Wood**: Used often with Nari stones, sigils, and containers holding Soul Energy to prevent Soul Energy leakage.
+- **Soul Wood**: Often used with nari stones, sigils and containers that hold Soul Energy, to keep the Soul Energy from leaking.
 
   ![][image54]
 
-- **Soul Wood Seeds**: Used in nari gels or consumed on their own to provide caffeine. It tastes kinda bitter at first, then it gets slightly sweeter and develops a nutmeg and vanilla-like taste as you keep sucking on it.
+- **Soul Wood Seeds**: Used in nari gels, or eaten on their own for the caffeine. They taste kind of bitter at first, then slightly sweeter, with a nutmeg and vanilla-like taste as you keep sucking on them.
 
   ![][image55]
 
-- **Grounded Soul Wood**: Often used in spices to add a nutmeg/vanilla-like taste. If the seeds are baked, the vanilla taste disappears and makes the nutmeg far stronger; when added in large quantities, it can have antiseptic properties. Is basically the world's coffee.
+- **Ground Soul Wood**: Often used in spices for a nutmeg and vanilla-like taste. Baking the seeds takes away the vanilla and makes the nutmeg far stronger; in large amounts, it can be antiseptic. Basically the world’s coffee.
 
   ![][image52]
 
@@ -445,15 +445,15 @@ Deep green inside, with rather metallic, shiny bark. It's an example of flora th
 Highly sought after: a single small or medium tree can cost a whole sapphire, so it's been driven to near extinction. Some believe the Buhraies made it to screw with the Lishies, the humans hiding in the forest, or both. Some scientists believe it was a soul energy storage device instead, seeded around by the Buhraies for a full-force invasion that never happened, since it looks like a dead tree and soaks up soul energy from its surroundings. Today it's better known as black wood.
 
 - **Inspired by:** Dalbergia melaxylon.
-- **Habitat:** Rarely found between Flatland and Forway. Virtually always found as lone trees, and never found amongst other trees.
-- **Tastes like:** wood.
-- **Growth:** Slowly growth. Nobody knows exactly how it reproduces or finds a new place to appear. Some guesses are that they are interconnected somehow, like a fungus.
-- **Interface:** Black Wood.
-- **Skills:** Soul energy leech.
+- **Habitat:** Rarely found, between Flatland and Forway. Virtually always a lone tree, never among other trees.
+- **Tastes like:** Wood.
+- **Growth:** Slow. Nobody knows exactly how it reproduces or picks a new place to appear; some guess the trees are somehow interconnected, like a fungus.
+- **Interface:** Black wood.
+- **Skills:** Soul Energy Leech.
 
 #### Economic value
 
-- **Soul Wood**: Has a dark color to it, and is dense. Used often with Nari stones, sigils, and containers holding soul energy to prevent Soul Energy leakage.
+- **Soul Wood**: Dark and dense. Often used with nari stones, sigils and containers that hold Soul Energy, to keep the Soul Energy from leaking.
 
   ![][image57]
 
@@ -464,14 +464,14 @@ Highly sought after: a single small or medium tree can cost a whole sapphire, so
 A bushy plant that grows on low ground. Any animal that eats it ends up with slightly sweet meat.
 
 - **Inspired by:** Acerola.
-- **Habitat:** Found across the kingdom in non-desert areas < 1km height. Farmed more intensively in the Freeish Kingdom.
+- **Habitat:** Across the kingdoms in non-desert areas below 1 km above sea level; farmed more intensively in the Freeish Kingdom.
 - **Tastes like:** Acerola, but sweeter.
-- **Growth:** ~1 Year until established. One bush provides ~1 kilo of berries per day for ~10 days during harvest season.
+- **Growth:** ~1 year to establish. One bush gives ~1 kg of berries a day for ~10 days during the harvest season.
 
 #### Economic value
 
-- **Gyut Berries**: It takes ~30 minutes to 1 hour to pick 1 kg of berries, making the bush big. It is a staple good, and is used to determine the value of Ball currency. Each berry is about the size of a fingertip.
-- **Dried Gyut**: Often done for food stock, selling to other kingdoms, baking in food or on-the-road snacks.
+- **Gyut Berries**: The bushes are big: picking 1 kg of berries takes ~30 minutes to 1 hour. A staple good, used to set the value of the Balls currency. Each berry is about the size of a fingertip.
+- **Dried Gyut**: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack.
 
   ![][image58]
 
@@ -479,7 +479,7 @@ A bushy plant that grows on low ground. Any animal that eats it ends up with sli
 
   ![][image59]
 
-- **Gyut Hard Juice**: Fermented Juice.
+- **Gyut Hard Juice**: Fermented juice.
 
   ![][image60]
 
@@ -494,14 +494,14 @@ A bushy plant that grows on low ground. Any animal that eats it ends up with sli
 A bushy plant that grows in the wild.
 
 - **Inspired by:** Siriguela.
-- **Habitat:** Found across the kingdom in non-desert areas < 1km height, especially in forests.
+- **Habitat:** Across the kingdoms in non-desert areas below 1 km above sea level, especially in forests.
 - **Tastes like:** Mango, but smaller and sweeter with a hint of pomegranate. Very soft.
-- **Growth:** One bush produces ~1/2kg of berries per day for ~10 days during the harvest season.
+- **Growth:** One bush gives ~0.5 kg of berries a day for ~10 days during the harvest season.
 
 #### Economic value
 
-- **Siguash Berries**: It takes ~60 minutes to harvest 1 kg of berries, giving each bush less fruit than Gyut. It is a staple good, and is used to determine the value of Ball currency. Each berry is about the size of a fingertip.
-- **Dried Siguash**: Often done for food stock, selling to other kingdoms, baking in food, or on-the-road snacks. (Visual reference: Like Cherry tomatoes. But yellowish.)
+- **Siguash Berries**: Each bush has less fruit than a Gyut bush, so harvesting 1 kg of berries takes ~60 minutes. A staple good, used to set the value of the Balls currency. Each berry is about the size of a fingertip.
+- **Dried Siguash**: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack. (Visual reference: like cherry tomatoes, but yellowish.)
 
   ![][image64]
 
@@ -509,7 +509,7 @@ A bushy plant that grows in the wild.
 
   ![][image65]
 
-- **Siguash Hard Juice**: Fermented Juice.
+- **Siguash Hard Juice**: Fermented juice.
 
   ![][image66]
 
@@ -521,15 +521,15 @@ A bushy plant that grows in the wild.
 
 A bushy plant that grows in the wild, and is farmed intensively in Freeish.
 
-- **Inspired by:** Acai (but as a bushy plant instead.).
-- **Habitat:** More often found in the south, near Freeish. Farmed heavily over there. Other kingdoms don’t seem to really partake on it.
-- **Tastes like:** Acai. Earth, slightly bitter, like mixing pomegranate with strong dark chocolate.
-- **Growth:** One bush produces ~1kg of berries per harvest season.
+- **Inspired by:** Açaí, but as a bush.
+- **Habitat:** Mostly in the south, near Freeish, where it is farmed heavily. The other kingdoms don’t really partake in it.
+- **Tastes like:** Açaí: earthy and slightly bitter, like pomegranate mixed with strong dark chocolate.
+- **Growth:** One bush gives ~1 kg of berries per harvest season.
 
 #### Economic value
 
-- **Basi Berries**: It takes 4 hours to strip a bush tree of all its berries, yielding between 1 and 2 kg of acai berries. Things can be halved or sped up if you use a shaker. Each berry is about the size of a fingertip and needs to be separated from the hair-like structure.
-- **Basi Pulp**: Separating the pulp from the fruit. It’s a thick paste. Eaten with both salty or sweet stuff.
+- **Basi Berries**: Stripping a bush of all its berries takes 4 hours and yields 1 to 2 kg; a shaker can cut that time in half. Each berry is about the size of a fingertip and has to be separated from the hair-like structure.
+- **Basi Pulp**: The pulp, separated from the fruit: a thick paste, eaten with both salty and sweet things.
 
   ![][image69]
 
@@ -540,40 +540,40 @@ Used to make beer, bread, and everything in between.
 - **Inspired by:** Wheat.
 - **Habitat:** Throughout the entire lower region, except the desert.
 - **Tastes like:** Wheat.
-- **Growth:** Yields ~150 kg of Carbey per acre. Acre = 20 meters × 200 meters. Yields ~125 kg of Carbey Flour per acre.
+- **Growth:** ~150 kg of Carbey per acre (an acre here is 20 m × 200 m), which makes ~125 kg of Carbey flour.
 
 #### Economic value
 
-- **Carbey**: Used for feeding Eguas, or making more stuff. (Visual reference: See below.)
+- **Carbey**: Used to feed Eguas, or to make other things.
 - **Carbey Flour**: See Carbey.
 
   ![][image70]
 
-- **Bread**: It’s Bread. Texture close to French bread.
+- **Bread**: It’s bread, with a texture close to French bread.
 
   ![][image71]
 
-- **Breadplate**: Bread is used as a plate. Often eaten or given to the poor.
+- **Breadplate**: Bread used as a plate; often eaten afterward or given to the poor.
 
   ![][image72]
 
-- **Gyut Bread**: Bread mixed with Gyut berries. A staple dessert for the poor throughout the four kingdoms, originally invented on Freeish.
+- **Gyut Bread**: Bread mixed with Gyut berries. A staple dessert for the poor throughout the four kingdoms, first invented in Freeish.
 
   ![][image73]
 
-- **Beer**: A highly nutritious drink with low alcohol content enjoyed by everyone.
+- **Beer**: A highly nutritious, low-alcohol drink enjoyed by everyone.
 
   ![][image74]
 
-- **Child Beer**: A weak, mildly sweet, and very nutritious version of beer meant for children. [https://en.wikipedia.org/wiki/Small_beer](https://en.wikipedia.org/wiki/Small_beer)
+- **Child Beer**: A weak, mildly sweet and very nutritious beer meant for children. (Real-world comparison: [small beer](https://en.wikipedia.org/wiki/Small_beer), the weak beer once drunk daily by children and adults alike.)
 
   ![][image75]
 
-- **Man Beer**: An incredibly strong version of the beer.
+- **Man Beer**: An incredibly strong beer.
 
   ![][image76]
 
-- **Ale**: Like beer, but with slightly higher alcohol.
+- **Ale**: Like beer, but slightly stronger.
 
   ![][image77]
 
@@ -584,18 +584,18 @@ Used to make beer, bread, and everything in between.
 A version of Carbey that one of the three smart sisters created by crossbreeding it with Wood People. Used to make beer, bread and everything in between, and more nutritious and tastier than Carbey.
 
 - **Inspired by:** Wheat.
-- **Habitat:** Buhraies Plains. Tolerideme Kingdom.
-- **Tastes like:** Carbey. Hints of Parmesan cheese.
-- **Growth:** Yields ~300 kg of Carbey per acre. Acre = 20 meters × 200 meters. Yields ~250 kg of Carbey Flour per acre.
+- **Habitat:** The Buhraies Plains, in the Tolerideme Kingdom.
+- **Tastes like:** Carbey, with hints of Parmesan cheese.
+- **Growth:** ~300 kg per acre (an acre here is 20 m × 200 m), which makes ~250 kg of flour.
 
 #### Economic value
 
-- **Domar Carbey**: Tolerideme has the upper hand in planting it for trading. (Visual reference: See below.)
+- **Domar Carbey**: Tolerideme has the upper hand in planting it for trading.
 - **Domar Carbey Flour**: See Domar Carbey.
 
   ![][image79]
 
-- **Domar Bread**: It’s Bread. Texture close to French bread.
+- **Domar Bread**: It’s bread, with a texture close to French bread.
 
   ![][image80]
 
@@ -603,19 +603,19 @@ A version of Carbey that one of the three smart sisters created by crossbreeding
 
   ![][image81]
 
-- **Domar Beer**: A highly nutritious drink with low alcohol content enjoyed by everyone.
+- **Domar Beer**: A highly nutritious, low-alcohol drink enjoyed by everyone.
 
   ![][image82]
 
-- **Domar Child Beer**: A weak, mildly sweet, and very nutritious version of beer meant for children. [https://en.wikipedia.org/wiki/Small_beer](https://en.wikipedia.org/wiki/Small_beer)
+- **Domar Child Beer**: A weak, mildly sweet and very nutritious beer meant for children. (Real-world comparison: [small beer](https://en.wikipedia.org/wiki/Small_beer), the weak beer once drunk daily by children and adults alike.)
 
   ![][image82]
 
-- **Domar Man Beer**: An incredibly strong version of the beer.
+- **Domar Man Beer**: An incredibly strong beer.
 
   ![][image83]
 
-- **Domar Ale**: Like beer, but with slightly higher alcohol.
+- **Domar Ale**: Like beer, but slightly stronger.
 
   ![][image84]
 
@@ -643,15 +643,15 @@ Used in the Smooth Gut nari gel, and for its digestive properties, especially fo
 A fungus often used to slow the heartbeat, found in rotting trees.
 
 - **Inspired by:** Chaga (Inonotus obliquus).
-- **Habitat:** 0km. Muddy, Deep forest of the south.
+- **Habitat:** ~0 km above sea level, in the muddy, deep forests of the south.
 - **Tastes like:** Roasted Grapes.
-- **Growth:** Several month.
+- **Growth:** Several months.
 - **Interface:** Fungus.
 - **Skills:** Pacifier.
 
 #### Economic value
 
-- **Lakata Caps**: (Visual reference: See below.)
+- **Lakata Caps**:
 
 ![][image88]
 
@@ -660,15 +660,15 @@ A fungus often used to slow the heartbeat, found in rotting trees.
 A mushroom often used in the Bleed Out nari gel.
 
 - **Inspired by:** Reishi (Ganoderma lucidum).
-- **Habitat:** 0km. Muddy, Deep forest of the south.
+- **Habitat:** ~0 km above sea level, in the muddy, deep forests of the south.
 - **Tastes like:** Blood Oranges.
 - **Growth:** One month.
 - **Interface:** Mushroom.
-- **Skills:** Melt *When damaged; Bleed *When damaged.
+- **Skills:** Melt and Bleed (both when damaged).
 
 #### Economic value
 
-- **Panita Caps**: (Visual reference: See below.)
+- **Panita Caps**:
 
 ![][image89]
 
@@ -677,15 +677,15 @@ A mushroom often used in the Bleed Out nari gel.
 A fungus similar to Lakata, but far too poisonous (it causes auditory and visual hallucinations).
 
 - **Inspired by:** Exsudoporus frostii.
-- **Habitat:** 0km. Muddy, Deep forest of the south.
+- **Habitat:** ~0 km above sea level, in the muddy, deep forests of the south.
 - **Tastes like:** Mushroomy apples.
-- **Growth:** Several month.
+- **Growth:** Several months.
 - **Interface:** Fungus.
 - **Skills:** Hallucinate.
 
 #### Economic value
 
-- **Tyr Caps**: (Visual reference: See below.)
+- **Tyr Caps**:
 
 ![][image90]
 
@@ -694,22 +694,22 @@ A fungus similar to Lakata, but far too poisonous (it causes auditory and visual
 Poisonous raw: it has to soak in the river for 2 days, then dry in the sun.
 
 - **Inspired by:** Cassava.
-- **Habitat:** A root found in the lower lands. Heavily farmed in Freeish.
+- **Habitat:** A root found in the lowlands; heavily farmed in Freeish.
 - **Tastes like:** Cassava.
-- **Growth:** ~2 Seasons.
+- **Growth:** ~2 seasons.
 
 #### Economic value
 
-- **Cadioca Roots**: One of the basis of food in the kingdoms. (Visual reference: See below.)
+- **Cadioca Roots**: One of the staple foods of the kingdoms.
 - **Cadioca Flour**: Just like Domar Carbey flour.
 
   ![][image91]
 
-- **Cadioca Coarse Flour**: Used to eat with all kinds of things, like Farinha.
+- **Cadioca Coarse Flour**: Eaten with all kinds of things. (Real-world comparison: farinha, the toasted cassava flour of Brazilian cooking.)
 
   ![][image92]
 
-- **Fried Cadioca**: A popular food throughout the kingdom, also invented in the Freeish Kingdom.
+- **Fried Cadioca**: A popular food throughout the kingdoms, also invented in the Freeish Kingdom.
 
   ![][image93]
 
@@ -720,13 +720,13 @@ Poisonous raw: it has to soak in the river for 2 days, then dry in the sun.
 A root found in the desert of Gandew.
 
 - **Inspired by:** Ginger.
-- **Habitat:** Found buried in the desert (closer to transitional zones)
+- **Habitat:** Buried in the desert, closer to the transitional zones.
 - **Tastes like:** Ginger.
-- **Growth:** ~2 Seasons.
+- **Growth:** ~2 seasons.
 
 #### Economic value
 
-- **Lolish Roots**: (Visual reference: See below.)
+- **Lolish Roots**:
 
 ![][image95]
 

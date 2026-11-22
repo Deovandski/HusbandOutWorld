@@ -51,11 +51,25 @@ None.
 
 ## Discrepancies
 
-Settled in N1 and N3; N2 waits on the proposal.
+Settled in N1, N2 and N3, and the Ptaina question below.
 
-### Ptaina reproduction (open)
-- **Legacy text:** Ptaina › Reproduction: "Tens of Sanbies per year." (copied from the Sanbi entry?)
-- **Abridged text:** keeps it for now; to ask with the next batch.
+### N2 answer: the Egua load rule
+- **Asked:** Option A (pack Eguas only) or B (carts everywhere), and should the strain rule appear on the Egua entry? See [Fauna - Egua load proposal.md](Fauna%20-%20Egua%20load%20proposal.md).
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > N2: We can have both. Some roads they can use carts others not. Plus there are other fees into shipping not discussed like protection fee, insurance, profit etc that will cover the gap now that shipping is less expensive as the éguas can pull a lot more when pulling carts.
+  >
+  > So from distance cost tier it is basically the same as we can explain the cost away, and we're just updating the calculations that led to that tier calculation.
+- **Change to the abridged text:** the Egua entry gets a "Load and strain" section (the strain rule, the gait table as the 10% and 20% columns, and the 0.4 rule for children), since the author is "updating the calculations". The Economy shipping note explains both pack and cart routes and the extra fees (see the Economy Q&A).
+- **Superseded:** Tamed Child Egua, "~0.4x load ~ 240kg": the strain rule gives a child ~360 kg of body weight, ~36 kg comfortable on its back and ~72 kg at most, so the abridged line points to Load and strain instead of 240 kg.
+
+### Ptaina reproduction
+- **Legacy text:** Ptaina › Reproduction: "Tens of Sanbies per year." (the same line as the Sanbi entry)
+- **Asked:** Is it copied? How many Ptaina a year?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > And for Ptainas. It was supposed to say "hundreds of Ptainas per year but most become food for other fish along the way"
+- **Change to the abridged text:** "Hundreds of Ptainas per year, but most become food for other fish along the way."
 
 ## Left out on purpose
 

@@ -72,6 +72,16 @@ Status: **open** until answered. An open question means the abridged text leaves
 - **Sources:** `Formulas - Economy.xlsx` › Salary Calculator, "Salary Per Year (73 Weeks) (Sapphire)": 51.16 Sapphire for Tier I, but 3,504 Pearls is about 0.7 Sapphire (the formula multiplies by 73 weeks twice).
 - **Abridged text:** gives the yearly pay in Pearls only.
 
+### Egua cargo and shipping (settled by the Egua load proposal)
+- **Legacy text:** `Formulas - Economy.xlsx`: an Egua pulls up to 150 kg of cargo, about 30 km a day.
+- **Discrepancy:** the strain rule in [Fauna - Egua load proposal.md](Fauna%20-%20Egua%20load%20proposal.md) lets a cart Egua pull ~900 kg on a dirt road.
+- **Answered:** 2026-11-22 (Fauna Q&A, N2)
+- **Answer (verbatim):**
+  > N2: We can have both. Some roads they can use carts others not. Plus there are other fees into shipping not discussed like protection fee, insurance, profit etc that will cover the gap now that shipping is less expensive as the éguas can pull a lot more when pulling carts.
+  >
+  > So from distance cost tier it is basically the same as we can explain the cost away, and we're just updating the calculations that led to that tier calculation.
+- **Change to the abridged text:** the 150 kg is cargo on a pack Egua's back on rough routes; carts pull far more where roads allow; shipping prices stay the same because they also pay for protection, insurance and the shipper's profit. The Distance Cost Tier figures are unchanged.
+
 ## Left out on purpose
 
 - "D.T.C" read as "D.C.T" (Distance Cost Tier), and "Kingdown" as "Kingdom" (typos).

@@ -8,19 +8,19 @@ note: entries are restructured into one layout (description, a list of facts, th
 
 A bigger, more voracious version of any fauna, beast or race that has lived in Hifuna long enough: usually with hair fallen out, a bigger size, and some body parts bigger or smaller than others.
 
-- **Inspired by:** Radiation Mutation.
-- **Habitat:** Hifuna, while some make their way down to lower terrains and cause havoc.
-- **Tastes like:** See the originating species. Irradiated foods repeatedly smell rotten, metallic, bloody, burnt, grassy, and generally off. The taste is described as sulfur, singed hair, burnt feathers, burnt oil, and rancid fat. Meats can turn green, brown, red, or yellow. Some give off a yellow saliva-like excretion. [https://www.centerforfoodsafety.org/files/food_irradiation_gross_failure.pdf](https://www.centerforfoodsafety.org/files/food_irradiation_gross_failure.pdf)
-- **Food:** See the originating species. Often, other Hifuna species accumulate radiation.
-- **Intelligence:** Often ~50% of original intelligence at the expense of being way more dangerous. They are also more aggressive—including species commonly found to be defensive/amicable.
+- **Inspired by:** Radiation mutation.
+- **Habitat:** Hifuna, though some make their way down to lower ground and cause havoc.
+- **Tastes like:** The originating species, gone bad: it smells rotten, metallic, bloody, burnt, grassy and generally off, and tastes of sulfur, singed hair, burnt feathers, burnt oil and rancid fat. The meat can turn green, brown, red or yellow, and some gives off a yellow, saliva-like ooze. (Real-world comparison: this is how irradiated food has been described; see the [Center for Food Safety report](https://www.centerforfoodsafety.org/files/food_irradiation_gross_failure.pdf).)
+- **Food:** The same as the originating species; often other Hifuna species, which build up radiation.
+- **Intelligence:** Often ~50% of the original intelligence, but far more dangerous. They are also more aggressive, even species that are usually defensive or friendly.
 - **Reproduction:** Often incapable.
-- **Other:** Explosive growth as the cells mutate.
-- **Interface:** Same in most cases.
-- **Skills:** Often a more powerful version of the existing skills.
+- **Other:** Explosive growth as their cells mutate.
+- **Interface:** Usually the same as the originating species.
+- **Skills:** Often more powerful versions of the original skills.
 
 #### Economic value
 
-- **Extermination**: Usually, single pieces of it (often the head) are torn off and brought back to prove the hunt was completed, because the meat and other body parts are usually too irradiated to be of any use. See Embassy Quests for more details.
+- **Extermination**: Usually one piece (often the head) is torn off and brought back as proof of the hunt, because the meat and other body parts are usually too irradiated to be of any use. See Embassy Quests for more details.
 
   ![][image1]
 
@@ -30,21 +30,21 @@ A worm that burrows into the ground and attacks passersby, a relative of the Nar
 
 - **Inspired by:** Eunice aphroditois.
 - **Habitat:** Desert.
-- **Tastes like:** Strong, Earthy, Nutty flavor.
-- **Food:** Smaller people, mammals, etc. Anything that moves and steps too close.
+- **Tastes like:** Strong, earthy and nutty.
+- **Food:** Smaller people, mammals, etc.: anything that moves and steps too close.
 - **Intelligence:** Instinctual, bee-like.
-- **Reproduction:** Worms have both sexes; Every year, several worms are born.
-- **Other:** Grows indefinitely at about ~10cm/Year, but most stop growing at this size due to caloric intake restrictions versus energy to predate.
+- **Reproduction:** Each worm has both sexes; several worms are born every year.
+- **Other:** Grows indefinitely, about ~10 cm a year, but most stop around this size, because they can’t eat enough to make up for the energy hunting takes.
 - **Interface:** Shell.
-- **Skills:** They can harden parts of their bodies; Generate Acid; Cloak; Increase size,.
+- **Skills:** Harden parts of their bodies; Generate Acid; Cloak; Increase Size.
 
 #### Economic value
 
-- **Sand Worm Meat**: Meat cut by a butcher. Not really desirable meat, so this is mostly sold as a by-product of killing Sand Worms for their chitin.
+- **Sand Worm Meat**: Meat cut by a butcher. Not very desirable, so it’s mostly sold as a by-product of killing Sand Worms for their chitin.
 
   ![][image2]
 
-- **Sand Worm Jerky**: Jerky prepared by a butcher. Not really desirable by many people due to its strong gamey flavor. Usually served up to poorer people.
+- **Sand Worm Jerky**: Jerky prepared by a butcher. Few people want it, because of its strong, gamey flavor; it’s usually served to poorer people.
 
   ![][image3]
 
@@ -54,35 +54,35 @@ A worm that burrows into the ground and attacks passersby, a relative of the Nar
 
 Endless experiments with what's now known as the Walking Heart stone left tons of zombies of different species in Bahyum Castle, and it somehow keeps creating more.
 
-- **Inspired by:** The Return of the Living Dead Trioxin Zombie.
+- **Inspired by:** The Trioxin zombies of *The Return of the Living Dead*.
 - **Habitat:** Bahyum Castle, sometimes invading the Buhraies Plains.
 - **Tastes like:** Rotten dried meat.
 - **Food:** Soul Energy from Bahyum Castle.
-- **Intelligence:** Depends on experiment. Mindless~Wolf.
-- **Reproduction:** Through Soul Energy. All depends on Bahyum Castle.
+- **Intelligence:** Depends on the experiment: from mindless to wolf.
+- **Reproduction:** Through Soul Energy; it all depends on Bahyum Castle.
 - **Interface:** Walking Heart.
-- **Skills:** Slow Regen; Halted Decomposition; Decompose target; Steal Soul Energy; + Original skills.
+- **Skills:** Slow Regen; Halted Decomposition; Decompose Target; Steal Soul Energy; plus the original skills.
 
 #### Economic value
 
-- **Extermination**: Usually, singular pieces of it (often the head) are torn off and brought back to prove the hunt was completed. See Embassy Quests for more details.
+- **Extermination**: Usually one piece (often the head) is torn off and brought back as proof of the hunt. See Embassy Quests for more details.
 
 # Walking {X} Skin
 
 Endless experiments with what's now known as the Walking Heart stone left tons of zombies in Bahyum Castle. They're slower and dumber than Walking Flesh.
 
-- **Inspired by:** The Return of the Living Dead Trioxin Zombie.
+- **Inspired by:** The Trioxin zombies of *The Return of the Living Dead*.
 - **Habitat:** Bahyum Castle, sometimes invading the Buhraies Plains.
 - **Tastes like:** Bone-dry, flaky skin.
 - **Food:** Soul Energy from Bahyum Castle.
-- **Intelligence:** Depends on experiment. Mindless~Wolf.
+- **Intelligence:** Depends on the experiment: from mindless to wolf.
 - **Reproduction:** Impossible.
 - **Interface:** Walking Heart.
-- **Skills:** Slow Regen; Halted Decomposition; Decompose target; Steal Soul Energy.
+- **Skills:** Slow Regen; Halted Decomposition; Decompose Target; Steal Soul Energy.
 
 #### Economic value
 
-- **Extermination**: Usually, singular pieces of it (often the Walking heart stone with the head bone) are torn off and brought back to prove the hunt was completed. See Embassy Quests for more details.
+- **Extermination**: Usually one piece (often the Walking Heart stone with the head bone) is torn off and brought back as proof of the hunt. See Embassy Quests for more details.
 
 # Walking Flathead
 
@@ -90,36 +90,35 @@ Endless experiments with what's now known as the Walking Heart stone left a few 
 
 - **Inspired by:** Ghouls.
 - **Habitat:** Bahyum Castle.
-- **Tastes like:** Bone. Dry flaky skin.
+- **Tastes like:** Bone, and dry, flaky skin.
 - **Food:** Soul Energy from Bahyum Castle.
 - **Intelligence:** Lion.
-- **Reproduction:** Attacking Flesh animals and laying worms on them.
-- **Other:** None.
-- **Interface:** Flat Head.
+- **Reproduction:** By attacking flesh animals and laying worms in them.
+- **Interface:** Flat head.
 - **Skills:** Slow Regen; Halted Decomposition; See the Soul Energy of creatures.
 
 #### Economic value
 
-- **Walking Flathead Claws**: Often used for weapons or sharp tools.
-- **Walking Flathead Tongue**: Often used for nari gels.
+- **Walking Flathead Claws**: Often used for weapons and sharp tools.
+- **Walking Flathead Tongue**: Often used in nari gels.
 
 # Wood People
 
 The Buhraies created them by altering the souls of Yabuca trees, then confined them to small forests across the Buhraies Plains to produce food and lumber in a controlled way. Their blood, or sap, is pink. Wood People's bodies are used for all kinds of things, especially buildings, but you have to get one somewhere before you cut it down, or trick it into following you like a herd; otherwise, you float the corpse down a river or stream, or use several Eguas to haul it a short distance (under 100 km). Jamming a Fost stone into their tops paralyzes them in place, which is how walls of Wood People are made.
 
-- **Inspired by:** Trees, kinda; It uses its vines, ground vibrations, and wind vibrations to map its surroundings. They are drawn to Fost stones because they can somewhat sense a direction in them.
+- **Inspired by:** Trees, kind of. They map their surroundings with their vines and with vibrations in the ground and the wind. They are drawn to Fost stones, because they can somewhat sense a direction in them.
 - **Habitat:** Buhraies Plains.
 - **Tastes like:** Wood.
-- **Food:** Sun.
-- **Intelligence:** They are rather mindless, and so act purely on instinct. They only defend themselves by using their vine. They are drawn to Fost stones. However, if you shove a Fost Stone in the top of the trunk, you paralyze them.
-- **Reproduction:** Through cloning themselves by splitting right down the middle. However, they only tend to do it when there is enough space around them.
-- **Other:** Growth at ~30cm.
+- **Food:** Sunlight.
+- **Intelligence:** Rather mindless; they act purely on instinct and only use their vines to defend themselves. They are drawn to Fost stones, but shoving a Fost stone into the top of the trunk paralyzes them.
+- **Reproduction:** They clone themselves by splitting right down the middle, but usually only when there is enough space around them.
+- **Other:** Grows ~30 cm.
 - **Interface:** Vines.
-- **Skills:** Fast Strike (Causes a hole in the target’s flesh) by altering the physical properties of their vines.
+- **Skills:** Fast Strike (punches a hole in the target’s flesh) by altering the physical properties of their vines.
 
 #### Economic value
 
-- **Wood People Wood**: Has great durability and a dark red wood color. Has a strong musk of woods if it gets soaked.
+- **Wood People Wood**: Very durable, with a dark red color. It gives off a strong, woody musk when soaked.
 
   ![][image4]
 
@@ -131,7 +130,7 @@ The Buhraies created them by altering the souls of Yabuca trees, then confined t
 
   ![][image6]
 
-- **Wood People Vines**: Often used for ropes, constructions, etc. It is quite elastic, almost like rubber.
+- **Wood People Vines**: Often used for ropes, construction, etc. Quite elastic, almost like rubber.
 
   ![][image7]
 
@@ -139,50 +138,47 @@ The Buhraies created them by altering the souls of Yabuca trees, then confined t
 
 See World Timeline.
 
-- **Inspired by:** Trees, kinda; It uses its vines, ground vibrations, and wind vibrations to map its surroundings; It can also sense Soul energy using its leaves.
+- **Inspired by:** Trees, kind of. They map their surroundings with their vines and with vibrations in the ground and the wind, and they can also sense Soul Energy with their leaves.
 - **Habitat:** Hifuna.
 - **Tastes like:** Wood.
-- **Food:** Sun, blood, and guts (more specifically, the soul energy within it.)
-- **Intelligence:** They are rather mindless, and so act purely on instinct. They go out of their way to attack people if they see anything around, even other Hifuna People. However, if you shove a Fost Stone in the top of the trunk, you paralyze them.
-- **Reproduction:** Through cloning themselves by splitting right down the middle. However, they only tend to do it when there is enough space around them.
-- **Other:** Growth at ~30cm.
+- **Food:** Sunlight, blood and guts (more specifically, the Soul Energy in them).
+- **Intelligence:** Rather mindless; they act purely on instinct and go out of their way to attack anything they see, even other Hifuna People. Shoving a Fost stone into the top of the trunk paralyzes them.
+- **Reproduction:** They clone themselves by splitting right down the middle, but usually only when there is enough space around them.
+- **Other:** Grows ~30 cm.
 - **Interface:** Vines.
-- **Skills:** Fast Strike (Causes a hole in the target’s flesh) by altering the physical properties of their vines; Their attacks are much stronger than Wood People's, plus additional skills in the vines like making sonic booms, creating razor-sharp edges, and even creating spikes that it launches towards you.
-- **Interface:** Branches.
-- **Skills:** Don't forget the exploding branches too! It can tear them off and chuck them toward you.
+- **Skills:** Fast Strike (punches a hole in the target’s flesh) by altering the physical properties of their vines. Their attacks are much stronger than Wood People’s, and their vines have more skills: sonic booms, razor-sharp edges, and even spikes they launch at you.
+- **Interface:** Branches, too.
+- **Skills:** And don’t forget the exploding branches! They can tear them off and chuck them at you.
 
 #### Economic value
 
-- **Hifuna People Wood**: Still has the same reddish tone to it, but it is plagued with Hifuna disease, so most people won’t use it for crafting.
-- **Hifuna People Sap**: Processed sap is sometimes used in nari gels.
+- **Hifuna People Wood**: The same reddish tone, but plagued with Hifuna disease, so most people won’t use it for crafting.
+- **Hifuna People Sap**: Processed sap, sometimes used in nari gels.
 
   ![][image5]
 
 - **Hifuna People Leaves**: Sun-dried, clean leaves mostly used for crafting.
-- **Hifuna People Vines**: Often used for ropes, constructions, etc. It is quite elastic, almost like rubber.
+- **Hifuna People Vines**: Often used for ropes, construction, etc. Quite elastic, almost like rubber.
 
 # Teefyro
 
 - **Habitat:** Hifuna.
 - **Interface:** Teeth.
-- **Skills:** Teeth launch in front of him.
+- **Skills:** Launches its teeth forward.
 
-#### Economic value
-
-- **?**
 
 # Koalin
 
 A cousin of the Soreno, rarely tamed. Usually a hunter takes a baby away from its mother; it bonds with them and becomes a pet. Getting it to bond with someone else is nearly impossible.
 
 - **Inspired by:** Capybara.
-- **Habitat:** Lives throughout the lower lands. More often spotted in the grasslands to the East.
+- **Habitat:** Throughout the lowlands; most often spotted in the grasslands to the east.
 - **Tastes like:** Pork.
-- **Food:** Grass and some plants.
+- **Food:** Grass and some other plants.
 - **Intelligence:** Capybara/Golden Retriever.
-- **Reproduction:** Female Koalins give birth every year to 5-7 babies.
-- **Interface:** Beard (Male only).
-- **Skills:** Eye catch; Bigger Looking; Hypnosis.
+- **Reproduction:** Females give birth to 5–7 babies every year.
+- **Interface:** Beard (males only).
+- **Skills:** Eye Catch; Bigger Looking; Hypnosis.
 
 #### Economic value
 
@@ -195,57 +191,49 @@ A cousin of the Soreno, rarely tamed. Usually a hunter takes a baby away from it
   ![][image9]
 
 - **Koalin Hide/Fur**: Hide/fur, prepared by a butcher for artisans to work on.
-- **Koalin Brains + eyes + Moustache**: Used for Mind Enabler, which is illegal. If anyone is carrying these to sell, they will be brought in for questioning.
+- **Koalin Brains, Eyes and Moustache**: Used for Mind Enabler, which is illegal. Anyone carrying these to sell will be brought in for questioning.
 
 # Sweet Sting
 
 A few Shapeshifters assimilated bees and began building hives west of Blood City. What makes them special: they're much bigger than normal bees, and they make an extremely tasty black honey. The females make honey from tree sap and build massive anthill-like structures to store it. If a male stings you, your sense of taste is overwhelmed with sweetness while you scream in agony.
 
 - **Inspired by:** Megachile pluto.
-- **Habitat:** Sweetlake is the biggest nest.
-- **Tastes like:** Nutty, smoky, slightly sweet.
+- **Habitat:** The biggest nest is in Sweetlake.
+- **Tastes like:** Nutty, smoky and slightly sweet.
 - **Food:** Nectar.
-- **Intelligence:** Instinctual and highly defensive of their natural spots.
+- **Intelligence:** Instinctual, and highly defensive of their spots.
 - **Reproduction:** Males are much smaller than females, and they do most of the work. Females defend the colony and gather pollen.
-- **Other:** None.
-- **Interface:** Mouth pinchers. Black flame emerges from the black stripes in the pinches.
-- **Skills:** Launch a copy of the pinchers forward.
+- **Interface:** Mouth pincers; a black flame comes out of the black stripes on them.
+- **Skills:** Launch a copy of their pincers forward.
 
 #### Economic value
 
-- **Black Honey**: Black Honey is one of the best-tasting honeys in the kingdom. It is highly caloric, and some even say it is addictive. Often used to speed up Body Heal.
+- **Black Honey**: One of the best-tasting honeys in the kingdoms. Very high in calories; some even say it’s addictive. Often used to speed up Body Heal.
 
   ![][image10]
 
-- **Sweet Sting Poison**: Often used for nari gels.
+- **Sweet Sting Poison**: Often used in nari gels.
 
 # Crazed Muckman
 
-- **Habitat:** West of blood into Freeish, rarely seen much farther out east of close to Forway.
+- **Habitat:** From west of Blood into Freeish; rarely seen much farther east, near Forway.
 
-#### Economic value
-
-- **?**
 
 # Sucker Lady
 
 - **Habitat:** Hifuna.
 
-#### Economic value
-
-- **?**
 
 # Big Wingas
 
 Much larger Wingas that lived in Wingarest: physically altered Wingas the Buhraies used to fly around. Some still exist, but they're a rare sight, since they grew afraid of the humans who hunted them nearly to extinction. Their meat isn't as sweet as Winga meat, since Big Wingas developed a taste for meat too. You'll commonly see them with Forway guards, but those are guards wearing the nari gel.
 
 - **Inspired by:** Macaw.
-- **Habitat:** Rarely seen throughout the four kingdoms. Now often using Wingarest to live. Forway uses them for.
+- **Habitat:** Rarely seen throughout the four kingdoms; now they often live in Wingarest.
 - **Tastes like:** Same as Winga.
-- **Food:** Same as Winga, but they also eat bigger fruits, specifically green bread.
+- **Food:** Same as Winga, but they also eat bigger fruits, especially greenbread.
 - **Intelligence:** Same as Winga.
-- **Reproduction:** ~3 or 4 pairs of Winga couples get together for a swing party, then they all build a shared nest to care for the eggs. It takes the entire summer for them to hatch; Every year around 5 Big Winga eggs are laid.
-- **Other:** None.
+- **Reproduction:** About 3 or 4 Winga couples get together for a swing party, then build a shared nest to care for the eggs, which take the whole summer to hatch. Around 5 Big Winga eggs are laid each year.
 - **Interface:** Head feathers.
 - **Skills:** Generate Light; Sense Lifeforms; Generate Air Shield.
 
@@ -264,44 +252,43 @@ Much larger Wingas that lived in Wingarest: physically altered Wingas the Buhrai
 
   ![][image13]
 
-- **Big Winga Tamed**: A great hunter companion for Aquamarine adventurers, or as a pet for richer people. Rare to find, and costly to raise, but at least they live long.
+- **Big Winga Tamed**: A great hunting companion for Aquamarine adventurers, or a pet for richer people. Rare to find and costly to raise, but at least they live long.
 
 # Trunk People
 
 A mutated tree branch that sparked to life. They're very protective of their surroundings and will use their interface if they feel threatened. They communicate only by casting different colors of light, since they can't hear, and their hair is pollen. They live in the trunks of Live Wood trees. In and around the Freeish Kingdom, people often use them as public lights on large Soul Wood trees, and some use them inside their homes too. They can also be used as a seed, to plant the tree wherever the owner wants.
 
-- **Inspired by:** Mutated Tree Branches.
-- **Habitat:** South West.
+- **Inspired by:** Mutated tree branches.
+- **Habitat:** The southwest.
 - **Tastes like:** Wood.
 - **Food:** Tree sap.
 - **Intelligence:** Monkey. They can plan ahead, attack, defend, form families, recognize people, and communicate with others.
-- **Reproduction:** Flower in the head with pollen; Every summer.
-- **Other:** None.
+- **Reproduction:** Every summer, through a flower with pollen on their heads.
 - **Interface:** Arm branches.
-- **Skills:** Light Flames; Light Explosion (blind).
+- **Skills:** Light Flames; Light Explosion (blinds).
 
 #### Economic value
 
-- **Trunk People Hair**: Used on nari gels.
-- **Trunk People Arms**: Used on Nari.
+- **Trunk People Hair**: Used in nari gels.
+- **Trunk People Arms**: Used in nari gels.
 
 # Shapeshifter
 
 One of the last ancient-species experiments still in the world, from when one of the ancient species tested rocks in the forest. Many years later, the rocks began to grow and take on a jelly-like look; many years after that, some began assimilating nearby living beings and turning into them, while others assimilated each other to share experiences.
 
-- **Inspired by:** Bryozoan Colony - Natural Appearance.
+- **Inspired by:** The natural look of a bryozoan colony.
 - **Habitat:** Mostly west of Blood City.
 - **Tastes like:** Slightly salty jelly.
-- **Food:** Dead matter. Opportunistic.
-- **Intelligence:** Rather instinctual, but slowly developing a sense of being. Some of these rocks are intelligent enough to understand some words from adventurers.
-- **Reproduction:** They can duplicate themselves at the cost of halving their mass, but most rocks combine themselves with other rocks first then halve their mass. That way they can share their life experiences.
-- **Other:** Maybe it is a single life-form entity, but each piece is trying to act independently to gather information.
-- **Interface:** Internal Organs.
+- **Food:** Dead matter; opportunistic.
+- **Intelligence:** Rather instinctual, but slowly developing a sense of self. Some of these rocks are smart enough to understand a few words from adventurers.
+- **Reproduction:** They can duplicate themselves at the cost of half their mass, but most rocks first combine with other rocks and then split, so they can share their life experiences.
+- **Other:** Maybe it’s a single life form, with each piece acting independently to gather information.
+- **Interface:** Internal organs.
 - **Skills:** Transmogrify.
 
 #### Economic value
 
-- **Jelly Blob**: Usually a part of the Shapeshifter that has been cut off, and put on a glass for transport. More expensive because they're hard to catch.
+- **Jelly Blob**: Usually a piece cut off a Shapeshifter and put in a jar for transport. Expensive, because they’re hard to catch.
 
 # Monica Swarm
 
@@ -309,13 +296,12 @@ A swarm of Monica butterflies that groups up and flees bad weather. Their blue l
 
 None. See Fauna › Monica.
 
-- **Inspired by:** Butterfly Swarm.
-- **Habitat:** Lower plains.
+- **Inspired by:** A swarm of butterflies.
+- **Habitat:** The lower plains.
 - **Tastes like:** See Fauna > Monica.
 - **Food:** See Fauna > Monica.
 - **Intelligence:** Butterfly.
-- **Reproduction:** Attacking certain trees for their sap.
-- **Other:** None.
+- **Reproduction:** By attacking certain trees for their sap.
 - **Interface:** See Fauna > Monica.
 
 # Flinga
@@ -323,49 +309,48 @@ None. See Fauna › Monica.
 Big birds only ever seen flying high in the air, except during winter (most years). Nobody knows how they eat, sleep, etc. Nobody except the Finaies, who made a pact with the Flingas to watch over the south and plan a comeback. In 1039 A.G., Flingas were seen flying around in winter, something that hadn't happened in quite a while.
 
 - **Inspired by:** Pteranodon.
-- **Habitat:** Seeing flying around the entire region.
-- **Tastes like:** Tough Chicken.
-- **Food:** Large Berries/Fruits.
+- **Habitat:** Seen flying all over the region.
+- **Tastes like:** Tough chicken.
+- **Food:** Large berries and fruits.
 - **Intelligence:** Dolphin.
 - **Reproduction:** Every year around 2 macaws eggs are laid.
-- **Other:** None.
 - **Interface:** Head feathers.
 - **Skills:** Generate Light; Sense Lifeforms; Generate Air Shield.
 
 #### Economic value
 
-- **Flinga Meat**: Meat cut by a butcher. A refined, rare product that some people in Forway insist on having even though there is nothing special about it.
+- **Flinga Meat**: Meat cut by a butcher. A refined, rare product that some people in Forway insist on having, even though there’s nothing special about it.
 
   ![][image11]
 
-- **Flinga Jerky**: Jerky prepared by a butcher. A refined, rare product that some people in Forway insist on having even though there is nothing special about it.
+- **Flinga Jerky**: Jerky prepared by a butcher. A refined, rare product that some people in Forway insist on having, even though there’s nothing special about it.
 
   ![][image12]
 
-- **Flinga Head Feathers**: Bundle of head feathers used for nari gel. Due to how hard it is to get,.
-- **Flinga Egg**: Some eggs are rarely found, but Humans/Darfaries/etc. were never able to hatch them.
+- **Flinga Head Feathers**: A bundle of head feathers, used in nari gels.
+- **Flinga Egg**: Rarely found, and Humans, Darfaries and others have never managed to hatch one.
 
   ![][image14]
 
-- **Flinga Tamed**: No one in the four kingdoms has managed to tame a Flinga yet. Managing to tame one would greatly impact transportation and therefore, costs, expansion.
+- **Flinga Tamed**: No one in the four kingdoms has managed to tame a Flinga yet. Taming one would have a huge impact on transportation, and so on costs and expansion.
 
 # Nari Worms
 
 With no predators, this worm grew large and specialized in burrowing and eating stone, using an organ that casts Soul Energy through a unique interface. The acids in its stomach mix with the hair-thin nari veins into its shell, which it replaces every few months as it grows. Humans hunt down the shed shells and grind them for all kinds of uses. Killing the worms is prohibited by Forway and Blood law.
 
 - **Inspired by:** Worms.
-- **Habitat:** Underground around the mountains of Blood city. See Nari Caverns for more information.
-- **Tastes like:** Metallic, earthy.
+- **Habitat:** Underground, around the mountains of Blood City (see Nari Caverns).
+- **Tastes like:** Metallic and earthy.
 - **Food:** Rocks.
-- **Intelligence:** Comparable to a snake. It is mostly instinctual, but responds to certain foods. Communicate through pheromones and sound.
-- **Reproduction:** Due to their size and longevity they rarely reproduce and generate offspring. When they do, it is at most three or four and it takes months for them to hatch.
-- **Other:** Grows indefinitely, but seems to stop around this height due to caloric requirements.
+- **Intelligence:** Comparable to a snake: mostly instinctual, but they respond to certain foods. They communicate through pheromones and sound.
+- **Reproduction:** Because of their size and long lives, they rarely reproduce; when they do, it’s three or four eggs at most, which take months to hatch.
+- **Other:** Grows indefinitely, but seems to stop around this size because of how much it would need to eat.
 - **Interface:** Shell.
-- **Skills:** They can harden parts of their bodies; Generate Acid.
+- **Skills:** Harden parts of their bodies; Generate Acid.
 
 #### Economic value
 
-- **Nari Worm Meat**: Meat cut by a butcher. Horrible taste.
+- **Nari Worm Meat**: Meat cut by a butcher. It tastes horrible.
 
   ![][image15]
 
@@ -373,15 +358,15 @@ With no predators, this worm grew large and specialized in burrowing and eating 
 
   ![][image3]
 
-- **Nari Worm Chitin**: Chitin from when Nari worms shed their skin. When heated, the smell coming from it is slightly oily, with a mildewy, earthy finish—like a distant cousin of cockroaches.
+- **Nari Worm Chitin**: Chitin from when Nari Worms shed their skin. When heated, it smells slightly oily, with a mildewy, earthy finish, like a distant cousin of cockroaches.
 
   ![][image16]
 
-- **Nari Worm Egg**: A rare find with tons of Soul Energy built into it. It replenishes about Tier III while acting as Nari Refresher as well. Is somewhat delicate and will rather randomly hatch to a tiny Nari worm.
+- **Nari Worm Egg**: A rare find, packed with Soul Energy. It replenishes about Tier III and also works as a Nari Refresher. Somewhat delicate, and it may hatch into a tiny Nari Worm at random.
 
   ![][image17]
 
-- **Nari Stones**: See Nari Caverns. Because some species do not have enough Soul Energy within their bodies for higher tier spells, they use the energy stored within the Nari stones to cast Soul Energy. Forway considers this stone of utmost importance to the balance of life. Transport costs are waived, as adventurers take responsibility to move such important goods. Upon grinding the Nari worm shell, it is heated up into small stones that recombine into a crystalline, diamond-like shape. It is then inserted into Soul wood and polished to give it a pointed edge for easier stacking. Nari Stones can be chained into one another to hasten spell cast time, and storage. Upon use, the stone becomes diamond-like as the blue hue fades. Some chuck it in the ground as waste, but most people sell it in bulk for it to be melted into alternative glass that feels somewhat plasticky and is less translucent.
+- **Nari Stones**: See Nari Caverns. Some species don’t have enough Soul Energy in their bodies for higher-tier spells, so they cast with the energy stored in Nari stones. Forway considers the stone of the utmost importance to the balance of life, and waives its transport costs, since adventurers take on the responsibility of moving such important goods. To make one, the Nari Worm shell is ground and heated into small stones that recombine into a crystalline, diamond-like shape, which is set into Soul Wood and polished to a point for easier stacking. Nari stones can be chained together to speed up casting and to store more. Once used, the blue hue fades and the stone turns diamond-like. Some people toss the spent stones on the ground as waste, but most sell them in bulk, to be melted into a glass that feels somewhat plasticky and is less translucent.
 
   ![][image18]
 
@@ -390,11 +375,11 @@ With no predators, this worm grew large and specialized in burrowing and eating 
 Brought over by the Buhraies as summoning experiments, then soon left to their fate on what is now Endlessfog. As their population grew, so did their tribes and their wars, until a single Brunto led an army of conquest and united all the tribes under one leader, now honored by the Endlessfog statue (see Endlessfog). Killing them is prohibited by Endlessfog law, which doesn't apply in greater Forway, especially the Freeish Region.
 
 - **Inspired by:** Chimpanzee.
-- **Habitat:** Endlessfog island. Freeish Region (some escaped into the wild through boat commerce.)
-- **Tastes like:** Not tender, and somewhat greasy. Also kinda bland.
-- **Food:** Omnivorous, insects, fruits, etc.
-- **Intelligence:** Chimpanzee. They haven’t discovered the fire yet, but make use of some tools, specially if trained by humans. Great for adventurers who need a cargo mate in very rough terrain.
-- **Reproduction:** Throughout the year, more during Summer.
+- **Habitat:** Endlessfog Island, and the Freeish region (some escaped into the wild through trade by boat).
+- **Tastes like:** Not tender, somewhat greasy, and kind of bland.
+- **Food:** Omnivores: insects, fruits, etc.
+- **Intelligence:** Chimpanzee. They haven’t discovered fire yet, but they use some tools, especially if trained by humans. Great for adventurers who need a cargo mate on very rough terrain.
+- **Reproduction:** Throughout the year, more in the summer.
 
 #### Economic value
 
@@ -406,20 +391,20 @@ Brought over by the Buhraies as summoning experiments, then soon left to their f
 
 A seal-like mammal that lives in the far south most of the year. They're often killed in winter, when they move to northern waters to fatten up for spring, though most people frown on it, since they seem too intelligent, especially people who think like Endlessfog's residents.
 
-- **Inspired by:** Seal/Penguin.
-- **Habitat:** Whiteland for most of the year, Four kingdoms shores during the Winter to eat tons of fish before they go back south to procreate during Spring.
-- **Tastes like:** Fishy, duck-like.
+- **Inspired by:** Seals and penguins.
+- **Habitat:** Whiteland for most of the year; in the winter they come to the shores of the four kingdoms to eat tons of fish, then go back south to breed in the spring.
+- **Tastes like:** Fishy and duck-like.
 - **Food:** Fish.
-- **Intelligence:** Much higher than a dog, with a very specific kind of intelligence. Does have their own cultures, and social norms. They can’t speak/understand Vraki, but they can understand actions, such as pointing to the sea while holding a big slice of meat. They might seem to exchange items randomly, but the better the meat, the higher chances they will try to payback the goodness. Sometimes they make odd vocal sounds that sound like Vraki. It’s like they are trying to learn, or atl east repeat back what they heard from people talking.
-- **Reproduction:** Every year in Spring after they fatten up on the warmer water during winter.
-- **Interface:** The hair around their necks vibrates, creating a rumbling sound when above water.
-- **Skills:** They can use Soul Energy to detect things around them; Create sound blast waves that can deafen anyone nearby. They use that to stun their prey.
+- **Intelligence:** Much higher than a dog’s, and of a very specific kind. They have their own cultures and social norms. They can’t speak or understand Vraki, but they understand actions, like pointing to the sea while holding a big slice of meat. Their trades might seem random, but the better the meat, the more likely they are to pay back the kindness. Sometimes they make odd sounds that sound like Vraki, as if they were trying to learn, or at least repeat what they heard people say.
+- **Reproduction:** Every spring, after fattening up in the warmer waters during the winter.
+- **Interface:** The hair around their necks, which vibrates and makes a rumbling sound above water.
+- **Skills:** Use Soul Energy to detect things around them; Create sound blast waves that can deafen anyone nearby, which they use to stun their prey.
 
 #### Economic value
 
-- **White Roundies Meat**: Some people like it, but eating it is often considered weird because of its unusual taste. Way more expensive/unavailable except for winter.
+- **White Roundies Meat**: Some people like it, but eating it is often considered weird because of its unusual taste. Much more expensive, or simply unavailable, outside the winter.
 
   ![][image19]
 
-- **White Roundies Hair Strands**: Used for nari gel.
+- **White Roundies Hair Strands**: Used in nari gels.
 

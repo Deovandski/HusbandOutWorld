@@ -31,7 +31,20 @@ No questions in this batch; see Fauna N1 (Monica or Monika).
 
 See Fauna N1.
 
+### Unfinished sentences (open, asked in the next batch)
+- **Big Wingas › Habitat:** "Now often using Wingarest to live. Forway uses them for" (the sentence stops). The abridged text leaves the unfinished part out.
+- **Flinga Head Feathers:** "Bundle of head feathers used for nari gel. Due to how hard it is to get," (the sentence stops). The abridged text leaves the unfinished part out.
+
+### Flinga copied from Big Wingas? (open, asked in the next batch)
+- **Legacy text:** Flinga › Reproduction: "Every year around 2 macaws eggs are laid." Interface "Head feathers" and Skills "Generate Light; Sense Lifeforms; Generate Air Shield", the same as Big Wingas (which are inspired by macaws; the Flinga is inspired by the Pteranodon).
+- **Abridged text:** keeps them as written for now.
+
+## Judgment calls in the polish (2026-11-22)
+
+- **Real-world comparison:** Hash {X}'s Center for Food Safety link became a note saying this is how irradiated food has been described.
+- "Mindless~Wolf" read as "from mindless to wolf"; "Growth at ~30cm" as "Grows ~30 cm"; "pinchers" as "pincers".
+
 ## Left out on purpose
 
 - The Website Description of each entry (the public text, already on the page).
-- Empty values ("None", "-", "--", "See above", "See Item Visual Reference").
+- Empty values ("None", "-", "--", "See above", "See Item Visual Reference"), and the empty "?" products of Teefyro, Crazed Muckman and Sucker Lady (their Economic value heading goes too).

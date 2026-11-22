@@ -52,9 +52,24 @@ A heavy horse with a hippopotamus-like head. Herbivores that didn't mind being a
 - **Food:** Mainly about 20 kg of grass, hay or Carbey a day.
 - **Intelligence:** Horse.
 - **Reproduction:** Females give birth once a year.
-- **Other:** Gallop (~30 km/h); 5km @ ~10% Load (Max Load of ~90 kilos); Canter (~20 km/h); 15km @ ~10% Load (Max Load of ~90 kilos); 5km @ ~20% Load (Max Load of ~180 kilos); Trot (~10 km/h); 35km @ ~10% Load (Max Load of ~90 kilos); 15km @ ~20% Load (Max Load of ~180 kilos); Gait (~7 km/h); 65km @ ~10% Load (Max Load of ~90 kilos); 35km @ ~20% Load (Max Load of ~180 kilos).
 - **Interface:** Hair on legs.
 - **Skills:** Water Walk; Dirt Repel; Increase/decrease size of legs; Eject their privates or intestines through their asshole (very specific, but that's how they got away from certain predators).
+
+#### Load and strain
+
+An adult Egua weighs about 900 kg. **Strain** is the share of that body weight it's working against: more weight means more strain, and so does going faster. Up to 10% strain is comfortable all day; 20% is the maximum.
+
+- **Carrying on its back:** strain = load ÷ 900 kg. So 90 kg is 10% strain, and 180 kg (20%) is the most an Egua can carry.
+- **Pulling a cart:** strain = (cart + cargo + driver) × road factor ÷ 900 kg. The road factor is 0.05 on a good, hard road, 0.10 on a dirt road and 0.15 on soft ground, mud or sand. A full day at 10% strain means about 1,800 kg on a good road, 900 kg on a dirt road or 600 kg in sand.
+- **Distance a day:** ≈ the distance at 10% strain × (10% ÷ strain), never more than ~65 km.
+- **Child Eguas:** about 0.4 of an adult in everything: ~360 kg of body weight, ~36 kg comfortable on its back, ~72 kg at most.
+
+| Gait | Speed | Distance at 10% strain (~90 kg) | Distance at 20% strain (~180 kg) |
+|---|---|---|---|
+| Gallop | ~30 km/h | ~5 km | — |
+| Canter | ~20 km/h | ~15 km | ~5 km |
+| Trot | ~10 km/h | ~35 km | ~15 km |
+| Gait (walk) | ~7 km/h | ~65 km | ~35 km |
 
 #### Economic value
 
@@ -72,7 +87,7 @@ A heavy horse with a hippopotamus-like head. Herbivores that didn't mind being a
   ![][image4]
 
 - **Tamed Adult Egua**: An adult Egua, ready to work.
-- **Tamed Child Egua**: Can work, but with smaller loads (about 0.4 of an adult's, ~240 kg). Adventurers tend to buy young Eguas to carry some of their gear and loot as they walk alongside them.
+- **Tamed Child Egua**: Can work, but with smaller loads (about 0.4 of an adult's; see Load and strain above). Adventurers tend to buy young Eguas to carry some of their gear and loot as they walk alongside them.
 
 # Legunia
 
@@ -380,7 +395,7 @@ A fish from the deeper ocean that stuns and messes with other fish, for food and
 - **Tastes like:** Tuna.
 - **Food:** Gulps down smaller fish.
 - **Intelligence:** Tuna/Shark.
-- **Reproduction:** Tens of Sanbies per year.
+- **Reproduction:** Hundreds of Ptainas per year, but most become food for other fish along the way.
 - **Interface:** Hair on head and chin.
 - **Skills:** Sense Surroundings.
 
