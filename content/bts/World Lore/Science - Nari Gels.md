@@ -17,7 +17,9 @@ Nari gels by tier:
 
 # Sustained Soul Consumption
 
-There's no upfront soul cost: the soul energy the effect needs is contained in the gel itself. On average, an effect uses:
+There's no upfront soul cost: the soul energy the effect needs is contained in the gel itself. But some nari gels put a constant tax on the user's soul, like an ability in an RPG that costs a % of your total mana or slows your mana regen. While the effect lasts, the soul energy you generate each day (in soul units) is reduced by its daily consumption. If you don't generate enough, your soul energy drains; near zero, the body-to-soul connection starts to detach, you lose consciousness, and soul death soon follows. So these gels are only truly worth it for adventurers or researchers with stronger soul regeneration.
+
+On average, the daily consumption by tier:
 
 | Tier | Nari soul a day |
 |---|---|

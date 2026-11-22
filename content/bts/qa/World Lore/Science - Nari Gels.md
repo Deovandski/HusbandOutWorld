@@ -12,16 +12,19 @@ Isekai History is already polished prose, and the 30 gels are left as written fo
 
 ## Questions for the author
 
-Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing, or keeps the raw wording. Asked as one batch on 2026-11-21.
+Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing, or keeps the raw wording. Asked as one batch on 2026-11-21 and answered the same day, after the author asked for context.
 
-### NG1. Whose soul pays the daily cost? (open, context sent)
+### NG1. Whose soul pays the daily cost? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Sustained Soul Consumption: "Do note that there is no upfront Soul cost, as the Soul energy required for action is contained within the gel itself. Tier I Avg (Cosmetic) \~1 Nari Soul/Day …"
 - **Why:** Is the ~1 to ~8 nari soul a day drawn from the gel's own stored energy (so the effect fades once it runs out), or from the user's soul while the effect lasts?
 - **Reply:** 2026-11-21
 - **Reply (verbatim):**
   > Can you give me context on what the ~1 to ~8 soul a day is coming from? context wise?
-- **Change to the abridged text:** Keeps the raw wording; context sent.
+- **Answered (follow-up):** 2026-11-21
+- **Answer (verbatim):**
+  > Gotcha. Some nari gels generate a taxing, constant soul consumption akin to RPG games where an ability grants benefit at the cost of % of the total mana, or slower mana regen. This is similar where if you use one of those nari gels, your capacity to generate soul energy (in soul units) is reduced by the penalty of the soul energy being consumed daily... And if you don't generate enough, your soul energy will be drained, and if you reach near 0, you will begin to detach from body to soul connection, losing conscience and soon after soul die. So this type of skills is only truly worth for adventurers or researchers with stronger soul regenerations
+- **Change to the abridged text:** Sustained Soul Consumption now explains the tax: some gels reduce the soul energy you generate each day by their daily consumption (like an RPG ability that costs % of total mana or slows regen); if you don't generate enough, soul energy drains, and near zero the body-to-soul connection detaches, then soul death. Worth it only for adventurers or researchers with stronger soul regeneration.
 
 ---
 

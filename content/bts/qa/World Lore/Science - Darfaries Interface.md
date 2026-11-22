@@ -10,7 +10,7 @@ Every question asked of the author and his answer (word for word), every gap fil
 
 ## Questions for the author
 
-Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing, or keeps the raw wording. Asked as one batch on 2026-11-21; D1–D5 answered the same day, D6 partly, D7 waits on context.
+Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing, or keeps the raw wording. Asked as one batch on 2026-11-21; all answered the same day (D6 and D7 after the author asked for context).
 
 ### D1. A knife opens the Buhraies interface? (answered)
 - **Asked:** 2026-11-21
@@ -57,23 +57,29 @@ Status: **open** until answered. An open question means the abridged text leaves
   > Yes.
 - **Change to the abridged text:** "the soul energy of everyone involved fused into a single being."
 
-### D6. "The % increase is divided by multiple skills"? (partly answered, context sent)
+### D6. "The % increase is divided by multiple skills"? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Soul Create › Tiers: "Increase the soul qualities of the summon according to the power used, and flesh. The % increase is divided by multiple skills."
 - **Why:** What are the "skills" here, and how is the increase divided?
 - **Answered:** 2026-11-21
 - **Answer (verbatim):**
   > Honestly I am struggling to remember this one.. Pull in more context for me. I do remember that overall the Soul Energy tiers is somewhat logarithmic or at least expands on a rate I defined somewhere. Soul Create Tiers I think is tied to the more soul energy you put into it, the higher the success rate of creating a soul to your specifications (except researchers don't fully understand the process, and in reality you don't create a soul from this spell, but rather you try to pull a disconnected soul to the flesh you want, which of course will meld with its own leftover soul connections and create a final hybrid mix... Sex and giving birth is somewhat in that process as well, as giving a newlife is basically mixing two souls and giving a part of yourself for a newborn to form.)
-- **Change to the abridged text:** Tiers now say the more soul energy (and flesh) put in, the higher the chance of getting a soul to your specifications, plus a paragraph on what really happens (pulling a disconnected soul into the flesh, melding into a hybrid; birth as mixing two souls). "The % increase is divided among multiple skills" stays as written until the author decides; context sent.
+- **Answered (follow-up):** 2026-11-21
+- **Answer (verbatim):**
+  > I see. The specific line of "% increase is divided by multiple skills" was me saying that the more things you seek in a soul, the more diluted its power over those skills are. Say if you want someone good in singing, baking and herding, whatever energy you poured into it most likely be evenly distributed, but at times you can get erratic distribution of soul energy between the skills (which is caused by the "capture" and summoning of the soul finding someone in soul decay that matches the requirements of the summoner.)
+- **Change to the abridged text:** Tiers now explain the dilution: the more things sought in a soul, the more its power is diluted across them (singing, baking and herding split evenly), sometimes erratically, because the spell captures a decaying soul that matches the requirements. Also the earlier answer (the more soul energy, the higher the chance; what really happens).
 
-### D7. Cat. Material ends mid-sentence (open, context sent)
+### D7. Cat. Material ends mid-sentence (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Cat. Material: "Material Manipulation is an experimental research branch from Darfaries with the intention of manipulating the world around. Using"
 - **Why:** What came after "Using"?
 - **Reply:** 2026-11-21
 - **Reply (verbatim):**
   > Give me context.
-- **Change to the abridged text:** The dangling "Using" stays out; context sent.
+- **Answered (follow-up):** 2026-11-21
+- **Answer (verbatim):**
+  > I think the ". Using" was meant to say " using" so no dot. I think that dot was supposed to be a comma.
+- **Change to the abridged text:** No change: the abridged note already ends at "meant to manipulate the world around", without the stray "Using".
 
 ---
 

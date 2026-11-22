@@ -106,7 +106,7 @@ A White Hole (also called White Fire) is what happens when soul energy doesn't c
 
 ![][image8]
 
-**Tiers:** the more soul energy (and flesh) put in, the higher the chance of getting a soul to your specifications. The % increase is divided among multiple skills. It also de-ages the target soul.
+**Tiers:** the more soul energy (and flesh) put in, the higher the chance of getting a soul to your specifications. The more things you seek in a soul, the more its power is diluted across those skills: ask for someone good at singing, baking and herding, and the energy poured in will most likely be spread evenly among the three. At times the distribution comes out erratic, because the spell "captures" and summons a soul in decay that happens to match the summoner's requirements. It also de-ages the target soul.
 
 Researchers don't fully understand the process. In reality, the spell doesn't create a soul: it tries to pull a disconnected soul into the flesh you want, where it melds with that flesh's own leftover soul connections into a final hybrid. Sex and giving birth are somewhat like that process too: giving new life is basically mixing two souls, giving part of yourself for a newborn to form.
 
