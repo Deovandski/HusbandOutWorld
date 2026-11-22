@@ -10,14 +10,16 @@ Every question asked of the author and his answer (word for word), every gap fil
 
 ## Questions for the author
 
-Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing, or keeps the raw wording. Asked as one batch on 2026-11-21.
+Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing, or keeps the raw wording. Asked as one batch on 2026-11-21; E1 answered the same day, E2 and E3 still open.
 
-### E1. Sanbi guards in every embassy? (open)
+### E1. Sanbi guards in every embassy? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Location › Floor 5: "where the sanbi guards get and release wingas."
 - **Why:** This describes every embassy. Did you mean "the guards" (Sanbi guards only in Sanbi)?
-- **Answer:**
-- **Change to the abridged text:** Says "the guards" for now.
+- **Answered:** 2026-11-21
+- **Answer (verbatim):**
+  > Embassy Floor 5 is where Forway guards get and release wingas. And it is in every embassy. Good catch
+- **Change to the abridged text:** "Forway guards receive and release wingas here."
 
 ### E2. Embassy Captain and Forway general: the same role? (open)
 - **Asked:** 2026-11-21

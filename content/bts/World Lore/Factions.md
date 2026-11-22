@@ -35,13 +35,13 @@ Guilds of women adventurers who banded together into a super guild to help each 
 
 **Recruitment:** woman to woman.
 
-**Identification:** their insignia, worn on dog tags; they wear their badge proudly on their right arm.
+**Identification:** they wear their insignia on dog tags, and their badge proudly on their right arm.
 
-**Members:** 50+, and they all seem to have equal voices.
+**Members:** 50+ by Forway's investigation, and they all seem to have equal voices. Publicly, Pussy Power claims a very specific 273 (as of Asa 1039 A.G.); Forway hasn't researched it in depth either, but believes the number is likely inflated.
 
 # Black Magina
 
-The best-known faction behind Mind Enabler, which Forway banned. They rose to "success" by never killing anyone: all their attacks are carried out with nari gels, using Nagina to put everyone to sleep. They hold firmly to never killing anyone, no matter how problematic the person is. They run on a franchise model, to keep a constant supply and stop other gangs from supplying Magina.
+Magina (a drug that's smoked) is how they got into the black market business; they then expanded naturally into banned nari gels to diversify, and they're the best-known faction behind Mind Enabler, which Forway banned. They're criminals, but they're not stupid. They rose to "success" by never killing anyone: all their attacks are carried out with nari gels, using Magina to put everyone to sleep. They hold firmly to never killing anyone, no matter how problematic the person is. They run on a franchise model, to keep a constant supply and stop other gangs from supplying Magina.
 
 **Area of operation:** the Freeish outskirts.
 

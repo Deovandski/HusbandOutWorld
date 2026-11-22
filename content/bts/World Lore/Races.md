@@ -44,7 +44,7 @@ An ancient race (see the World Timeline), focused on battling and hunting. They 
 - **Food:** meat.
 - **Nature:** brutes; everything was solved through violence.
 - **Language:** Vraki.
-- **Reproduction:** about 6 months' gestation, 1 to 3 babies.
+- **Reproduction:** about 6 months' gestation, 1 to 3 babies. Lishies + humans = nothing.
 - **Interface and skills:** none.
 
 # Buhraies
@@ -73,11 +73,11 @@ A new race (see the World Timeline), from Lishies + Buhraies. They can be born w
 
 The whole species shows the marks of controlled flight: soul-energy organs in the form of veins across the upper body. They aren't actually veins, but nerves, and the skin there is more sensitive than normal. Darfaries, Wozefaries and Sorefaries all have them; Darfaries have the largest.
 
-- The veins burn with a base white flame that converts soul energy directly. When dampening a fall (or flying), a black flame appears on them. The black flame adjusts its strength on its own if the person thinks of it like a jetpack, or a spaceship's monopropellant thruster. Their feet dangle, so they steer with their whole arms.
+- The veins burn with a base white flame that converts soul energy directly, and show white fire when casting spells. When dampening a fall or flying, a black flame appears on them. The color can differ for someone who developed their own interface, or really messed with their own Darfaries interface and somehow didn't die in the dangerous process. The black flame adjusts its strength on its own if the person thinks of it like a jetpack, or a spaceship's monopropellant thruster. Their feet dangle, so they steer with their whole arms.
 
   ![][image1]
 
-- Because of their size, Darfaries can't fly, but they can somewhat dampen a fall from about three stories up.
+- Darfaries are too big for the interface to do much, so they can't fly, but it isn't nothing: if they're not too heavy, it softens a fall a bit, so they take about 80% of the fall damage instead of 100%.
 - They can feel any leftover soul energy signature as a tingling, by smell, by taste, or in their sexual organs.
 - They can neutralize any kind of soul energy by putting their saliva on it.
 - With the most prominent veins, Darfaries finely sense soul energy disturbances around them, plus a rough feel for humidity, wind and air pressure. As they say, if a Darfaries tells you to buy an umbrella, you'd better buy one!
@@ -100,7 +100,7 @@ A new race (see the World Timeline), from Lishies + Buhraies. Several recessive 
 
 A new race (see the World Timeline), from Lishies + Buhraies. Genetically, they're the result of different genes conflicting with each other, and Darfaries consider them an abomination. Several recessive genes mean that, mixed with other species, some features may show while others don't. They can be born with a wide range of hair and eye colors; females tend to have lighter hues and males darker ones. They're small, childlike, and capable of flight. Their sweat smells floral.
 
-What looks like a tattoo isn't one: Sorefaries have Darfaries veins, in the soul itself, like Wozefaries and Darfaries. A red flame appears on them when they fly. They fly using the interface itself as lift, with their feet floating free to help with their center of mass.
+What looks like a tattoo isn't one: Sorefaries have Darfaries veins, in the soul itself, like Wozefaries and Darfaries. Like Darfaries, they show a black flame on them when they fly (as in the Vol 1 illustration). They fly using the interface itself as lift, with their feet floating free to help with their center of mass.
 
 - **Habitat:** Flatland City, and all over the kingdoms thanks to adventurers.
 - **Food:** omnivores.
@@ -108,7 +108,7 @@ What looks like a tattoo isn't one: Sorefaries have Darfaries veins, in the soul
 - **Language:** Vraki.
 - **Reproduction:** sterile, because of a conflict between some recessive genes.
 - **Interface:** the Darfaries Interface.
-- **Skills:** the Darfaries veins (see Darfaries), with the same flames, senses and saliva. Sorefaries can control their attitude at will.
+- **Skills:** the Darfaries veins (see Darfaries), with the same flames, senses and saliva. Sorefaries can control their altitude at will.
 
 # Humans (Naked Bruntos)
 
@@ -128,7 +128,7 @@ See the World Timeline and Cruro. Crocus became their pets. They make weird thro
 
 - **Habitat:** most live among themselves in Cruro; a few go out exploring.
 - **Food:** carnivores.
-- **Intelligence:** most are about as smart as a dog and act mostly on instinct. The few intelligent ones communicate through drawings, and some become tribe leaders. A few highly intelligent ones go out to explore and mingle with humans: they still can't speak or listen, but draw pictures to converse, and understand concepts like money, law and work. Guardedness is a universal trait.
+- **Intelligence:** most are about as smart as a dog and act mostly on instinct. The few intelligent ones communicate through drawings, and some become tribe leaders. A few highly intelligent ones go out to explore and mingle with humans, and understand concepts like money, law and work. Most Cruros aren't deaf: the smarter ones hear Vraki just fine but struggle to enunciate anything, so they scribble it down (a group of Cruros writing in their journals and showing each other, in Vol 2) or use head movements. Some people communicate with them through different noises that stand for different things, depending on how much friendship and history they share. Guardedness is a universal trait.
 - **Language:** Vraki, through writing. Otherwise none, though some grunts work among themselves as generic cues (happy, sad).
 - **Reproduction:** every year, a female lays a dozen or so eggs.
 - **Interface:** the Cruros Interface, inherited from the Crocus (see Fauna › Crocus), but using their hair: it lifts into the air like static and waves as soul fire envelops it, rushing through their body into the target, or through their own body to physically tweak them. They still have the invisibility skill, but most can't hold it for more than a few minutes, unlike the Crocus.

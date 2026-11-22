@@ -13,13 +13,13 @@ A common sport in Forway, played with a nari gel that allows flight.
 
 # Fast Fish
 
-Held in a few places, but most famous between Waterfall and the Sanbi Kingdom. People compete to see who travels the farthest.
+A nari gel-powered swimming race, held in a few places but most famous between Waterfall and the Sanbi Kingdom: people compete to see who swims the farthest. Like an olympiad, it shows who has the best body, mind and nari gel.
 
 **Rules:** anything goes, except flight or gravity Soul Energy interfaces.
 
 # Fast Bird
 
-Held in a few places, but usually in Forway City.
+A nari gel-powered flying race, held in a few places but usually in Forway City. Like an olympiad, it shows who has the best body, mind and nari gel.
 
 **Rules:** certain Soul Energy interfaces and nari gels are allowed.
 
@@ -27,7 +27,7 @@ Held in a few places, but usually in Forway City.
 
 Held in a few places, but usually in Sanbi.
 
-**Rules:** Fish Catch Fish is fishing while able to swim. Depending on the competition, the winner is decided by the size of the catch, the time, or the quantity.
+**Rules:** Fish Catch Fish is literally fishing with your hands and skills, swimming with the power of nari gels. Depending on the competition, the winner is decided by the size of the catch, the time, or the quantity.
 
 # Gandew Duels
 
@@ -85,13 +85,13 @@ More common in Forway: a fancier version of Stealball for richer people who love
 
 ![][image3]
 
-**Rules:** like Stealball, but on a table with ground nari stones added, and with three players. A Table Manager applies effects to the table and sets dead zones where the table wins the balls. The players fight each other, or team up against the table; if they team up, the table can make an underhanded proposal, or raise the difficulty while raising the pot. Table powers include bounce, slow, fasten and sink zones, splitting a ball, and a hard ball that won't move.
+**Rules:** like Stealball, but on a table with ground nari stones added, and with three players. A Table Manager applies effects to the table and sets dead zones where the table wins the balls. The players fight each other, or team up against the table; if they team up, the table can make an underhanded proposal, or raise the difficulty while raising the pot. Table powers include bounce, slow, fast and sink zones, splitting a ball, and a hard ball that won't move.
 
 # Wood Hammering
 
 Usually played in taverns.
 
-**Rules:** Hammerschlagen.
+**Rules:** based on Hammerschlagen, a German game not many people know: players take turns driving a nail into a wooden stump, and the first to sink theirs all the way wins. Using different types of wood, like Soul Wood or a Rakuja tree, makes it harder.
 
 # Bone Sack
 

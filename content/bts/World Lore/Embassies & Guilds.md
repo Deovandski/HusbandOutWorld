@@ -15,7 +15,7 @@ Every kingdom and major recognized city has an embassy, and they all report to t
 |---|---|
 | 1 | Adventurer lounge and quest boards, where people come in to post quests |
 | 3 and 4 | Administration |
-| 5 | Open concept: you can see the horizon, and the guards receive and release wingas here. All mail is sent and received on this floor. |
+| 5 | Open concept: you can see the horizon, and Forway guards receive and release wingas here. All mail is sent and received on this floor. |
 | 6 | Winga rest |
 
 #### Who runs it
