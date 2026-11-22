@@ -43,6 +43,7 @@ Status: **answered** 2026-11-22. Asked as one batch on 2026-11-22.
   - **Black Wood**, from the Black Sapphire Tree: "More commonly known today as black wood"; its Interface is "Black Wood"; "its perfectly black wood can prevent soul energy leakage like no other tree, even better than the soul tree itself" (Flora, Website Description); black wood badges for city officials, kingdom and embassy representatives (Embassies & Guilds; "Black wood Nari badges" in `Legacy/Public/badges-embassies.md`).
   - **Nari wood:** not found anywhere. The closest are "Black wood Nari badges" and Nari stones set into Soul Wood.
 - **Change to the abridged text:** the Black Sapphire Tree's product in Flora is named "Black Wood" (its "Soul Wood" heading was a leftover from the Soul Tree entry; its description, dark and dense, is the black wood's). Soul Wood and Black Wood here gain the badge details and the "even better than Soul Wood" line. No Nari wood is added.
+- **Made official** (2026-11-22, the author: "Make it official."): `content/fixes.json` renames the raw Black Sapphire Tree product to Black Wood.
 
 ---
 

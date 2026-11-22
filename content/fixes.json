@@ -201,5 +201,12 @@
       "replace": "Every year around 2 Flinga eggs are laid.",
       "why": "\"macaws\" was a leftover from the Big Winga entry (issue #103, Beasts Q&A B2), made official."
     }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Flora.md": [
+    {
+      "find": "  * ### **Soul Wood**\n\n    * **Isekai History**  \n      * Has a dark color to it, and is dense",
+      "replace": "  * ### **Black Wood**\n\n    * **Isekai History**  \n      * Has a dark color to it, and is dense",
+      "why": "The Black Sapphire Tree's product is black wood; \"Soul Wood\" was a leftover from the Soul Tree entry (issue #103, Natural and Crafted Resources Q&A R3), made official."
+    }
   ]
 }
