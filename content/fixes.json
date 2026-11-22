@@ -162,5 +162,22 @@
       "replace": "Between Sanbi/Tolerideme: warm and humid, but colder at night than Sanbi (not as cold as Tolerideme).",
       "why": "The author's decision (issue #103, City C4): Endlessfog is warm and humid all year; it only gets colder at night than Sanbi, not as cold as Tolerideme."
     }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Fauna.md": [
+    {
+      "find": "  * ### **Ptaina Fish Roe**\n\n    * **Isekai History**  \n      * A treat to some.  \n    * **Visual Reference**  \n      * ![][image32]  \n* **Tastes Like**  \n  * Tuna  \n* **Alimentation**  \n  * Gulps down smaller fish  \n* **Intelligence**  \n  * Tuna/Shark  \n* **Stats**  \n  * **Reproduction**  \n    * Tens of Sanbies per year.",
+      "replace": "  * ### **Ptaina Fish Roe**\n\n    * **Isekai History**  \n      * A treat to some.  \n    * **Visual Reference**  \n      * ![][image32]  \n* **Tastes Like**  \n  * Tuna  \n* **Alimentation**  \n  * Gulps down smaller fish  \n* **Intelligence**  \n  * Tuna/Shark  \n* **Stats**  \n  * **Reproduction**  \n    * Hundreds of Ptainas per year, but most become food for other fish along the way.",
+      "why": "Ptaina's reproduction was copied from the Sanbi entry; the author's correction, made official (issue #103)."
+    },
+    {
+      "find": "35km @ \\~20% Load (Max Load of \\~180 kilos)  \n* **Soul Energy Capabilities**",
+      "replace": "35km @ \\~20% Load (Max Load of \\~180 kilos)  \n    * Strain: the share of the Egua's \\~900 kg body weight it works against (more weight or more speed, more strain). Up to \\~10% all day, \\~20% at most.  \n      * Carrying on its back: strain = load ÷ 900 kg.  \n      * Pulling a cart: strain = (cart + cargo + driver) × road factor ÷ 900 kg. Road factor: 0.05 on a good road, 0.10 on a dirt road, 0.15 in mud or sand.  \n      * Distance a day ≈ distance at \\~10% × (10% ÷ strain), never more than \\~65 km.  \n* **Soul Energy Capabilities**",
+      "why": "The Egua load rule (strain) the author approved and made official (issue #103; see content/bts/qa/World Lore/Fauna - Egua load proposal.md)."
+    },
+    {
+      "find": "(\\~0.4x load \\~ 240kg.)",
+      "replace": "(\\~0.4x an adult: \\~360kg body weight, \\~36kg comfortable on its back, \\~72kg at most.)",
+      "why": "Child Egua loads under the official Egua load rule (issue #103)."
+    }
   ]
 }

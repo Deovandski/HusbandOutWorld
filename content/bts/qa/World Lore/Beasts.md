@@ -31,13 +31,26 @@ No questions in this batch; see Fauna N1 (Monica or Monika).
 
 See Fauna N1.
 
-### Unfinished sentences (open, asked in the next batch)
-- **Big Wingas › Habitat:** "Now often using Wingarest to live. Forway uses them for" (the sentence stops). The abridged text leaves the unfinished part out.
-- **Flinga Head Feathers:** "Bundle of head feathers used for nari gel. Due to how hard it is to get," (the sentence stops). The abridged text leaves the unfinished part out.
+### B1. Unfinished sentences (answered)
+- **Legacy text:** Big Wingas › Habitat: "Now often using Wingarest to live. Forway uses them for" (the sentence stops). Flinga Head Feathers: "Bundle of head feathers used for nari gel. Due to how hard it is to get," (the sentence stops).
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > B1) Big winga are used by Forway guard to fly around withoit the forest guard themselves having to use nari gel to achieve flight. They are used for quick transportation of goods, scout, fly overs.
+  >
+  > Fling head feathers is just plain hard to get since those birds usually don't land south of Hifuna, fly high, and are evasive too.
+- **Read as:** "forest guard" means the Forway guard. Legacy (Beasts and `Legacy/Public/badges-embassies.md`) says the Big Winga a guard rides is often another Forway guard transformed with a nari gel, so the rider needs no nari gel to fly.
+- **Change to the abridged text:** Big Wingas get a "Uses" line (riding mounts for Forway guards; quick transportation of goods, scouting, flyovers). Flinga Head Feathers: "Just plain hard to get: Flingas rarely land south of Hifuna, fly high and are evasive."
 
-### Flinga copied from Big Wingas? (open, asked in the next batch)
-- **Legacy text:** Flinga › Reproduction: "Every year around 2 macaws eggs are laid." Interface "Head feathers" and Skills "Generate Light; Sense Lifeforms; Generate Air Shield", the same as Big Wingas (which are inspired by macaws; the Flinga is inspired by the Pteranodon).
-- **Abridged text:** keeps them as written for now.
+### B2. Flinga copied from Big Wingas? (answered)
+- **Legacy text:** Flinga › Reproduction: "Every year around 2 macaws eggs are laid." Flinga and Big Wingas share the Interface "Head feathers" and the Skills "Generate Light; Sense Lifeforms; Generate Air Shield".
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > B2) let's have big winga be somewhere in between flingas wingas in regards to birth cycle. Also have big winga inherit the wings skills, not flinga ones.
+- **Read as:** the shared skills are the Flinga's; Big Wingas take the Winga's skills instead. `Legacy/Public/beasts.md` backs this up: Big Wingas are likely the result of the Buhraies "messing with wingas and flingas".
+- **Change to the abridged text:**
+  - Big Wingas › Skills: the Winga's (Sense Lifeforms; Generate Air Shield; Louder-than-usual shriek; diamond-strength beak and claws).
+  - Big Wingas › Reproduction: their existing ~5 eggs a year and summer-long hatching already sit between the Winga (~20 eggs, under a month) and the Flinga (~2 eggs), so the numbers stay, now labeled as in between.
+  - Flinga › Reproduction: "Around 2 Flinga eggs are laid each year" ("macaws" read as a leftover from the Big Winga entry).
 
 ## Judgment calls in the polish (2026-11-22)
 

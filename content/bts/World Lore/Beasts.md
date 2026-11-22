@@ -230,12 +230,13 @@ Much larger Wingas that lived in Wingarest: physically altered Wingas the Buhrai
 
 - **Inspired by:** Macaw.
 - **Habitat:** Rarely seen throughout the four kingdoms; now they often live in Wingarest.
+- **Uses:** Forway guards ride them to fly around without needing a nari gel themselves (the Big Winga under them is often another guard transformed with one). They're used for quick transportation of goods, scouting and flyovers.
 - **Tastes like:** Same as Winga.
 - **Food:** Same as Winga, but they also eat bigger fruits, especially greenbread.
 - **Intelligence:** Same as Winga.
-- **Reproduction:** About 3 or 4 Winga couples get together for a swing party, then build a shared nest to care for the eggs, which take the whole summer to hatch. Around 5 Big Winga eggs are laid each year.
+- **Reproduction:** Somewhere between Wingas and Flingas: about 3 or 4 couples get together for a swing party, then build a shared nest to care for the eggs, which take the whole summer to hatch. Around 5 Big Winga eggs are laid each year (Wingas lay about 20, Flingas about 2).
 - **Interface:** Head feathers.
-- **Skills:** Generate Light; Sense Lifeforms; Generate Air Shield.
+- **Skills:** The same as Wingas: Sense Lifeforms; Generate Air Shield; Louder-than-usual shriek; strengthening the beak and claws to diamond level, so they cut through anything.
 
 #### Economic value
 
@@ -313,7 +314,7 @@ Big birds only ever seen flying high in the air, except during winter (most year
 - **Tastes like:** Tough chicken.
 - **Food:** Large berries and fruits.
 - **Intelligence:** Dolphin.
-- **Reproduction:** Every year around 2 macaws eggs are laid.
+- **Reproduction:** Around 2 Flinga eggs are laid each year.
 - **Interface:** Head feathers.
 - **Skills:** Generate Light; Sense Lifeforms; Generate Air Shield.
 
@@ -327,7 +328,7 @@ Big birds only ever seen flying high in the air, except during winter (most year
 
   ![][image12]
 
-- **Flinga Head Feathers**: A bundle of head feathers, used in nari gels.
+- **Flinga Head Feathers**: A bundle of head feathers, used in nari gels. Just plain hard to get: Flingas rarely land south of Hifuna, fly high and are evasive.
 - **Flinga Egg**: Rarely found, and Humans, Darfaries and others have never managed to hatch one.
 
   ![][image14]
