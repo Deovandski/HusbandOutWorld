@@ -208,5 +208,17 @@
       "replace": "  * ### **Black Wood**\n\n    * **Isekai History**  \n      * Has a dark color to it, and is dense",
       "why": "The Black Sapphire Tree's product is black wood; \"Soul Wood\" was a leftover from the Soul Tree entry (issue #103, Natural and Crafted Resources Q&A R3), made official."
     }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Novels.md": [
+    {
+      "find": "  * \\~960 B.G. \\- \\~940 B.G.",
+      "replace": "  * \\~939 B.G. \\- \\~920 B.G.",
+      "why": "Logical Arrow moves after 939 B.G., when Walking Heart stones were found (issue #103, Novels Q&A NV2), made official."
+    },
+    {
+      "find": "  * \\~840 B.G. \\- \\~850 B.G.",
+      "replace": "  * \\~840 A.G. \\- \\~850 A.G.",
+      "why": "The Sapphire Counter is A.G.: the balls currency came after the Prosperity Treaty (issue #103, Novels Q&A NV3), made official."
+    }
   ]
 }

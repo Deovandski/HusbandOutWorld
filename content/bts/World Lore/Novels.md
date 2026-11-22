@@ -58,12 +58,12 @@ With her natural dexterity and analytical mind, she paired with a blue and green
 
 # The Smart Ladies
 
-The Buhraies unchained the Wood People, and over the years they massacred humans across the Buhraies Plains, until humans found a way to use some Wood People as a barrier against the others. One of the villages that formed was led by three ladies, who came up with scientific ways to farm the land better. It was not an easy job, and the stress made them binge eat and gain weight quickly. As the successful villages around what is now Tolerideme grew stable, people looked up to them, and roundness became the norm.
+Long before, the Buhraies had unchained the Wood People, who massacred humans across the Buhraies Plains over the years, until humans found a way to use some Wood People as a barrier against the others. The three ladies came onto the scene much later: one of the villages was led by them, who came up with scientific ways to farm the land better. It was not an easy job, and the stress made them binge eat and gain weight quickly. As the successful villages around what is now Tolerideme grew stable, people looked up to them, and roundness became the norm.
 
 When they died, they were cremated with Wood People wood, and their ashes were spread across the land for good luck. Tolerideme is what it is today because of what they did.
 
 - **Characters:** Evedyn, Everyn and Evelyn.
-- **Era:** ~810 to ~750 A.G. (as written; see the Q&A).
+- **Era:** ~750 to ~810 A.G.
 
 # The True Sanbi King
 

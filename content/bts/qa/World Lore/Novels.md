@@ -14,7 +14,7 @@ Every question asked of the author and his answer (word for word), every gap fil
 
 ## Questions for the author
 
-Status: **NV2 to NV4 answered** 2026-11-22; NV1 open. Asked as one batch on 2026-11-22.
+Status: **answered** 2026-11-22. Asked as one batch on 2026-11-22.
 
 ### NV1. The Smart Ladies: A.G. or B.G.?
 - **Legacy text:** The Smart Ladies › Approximated Age: "~810 A.G. - 750 A.G."
@@ -22,7 +22,11 @@ Status: **NV2 to NV4 answered** 2026-11-22; NV1 open. Asked as one batch on 2026
 - **Answered:** 2026-11-22
 - **Answer (verbatim):**
   > NV1: where does it say that their story started with unchaining the wood people?
-- **Change to the abridged text:** none yet. Sent back the source lines: the entry's own first line, "Buhraies unchained Wood People's behavior, causing a massacre of Humans across the Buhraies plains over the years. However, humans found a way to use Wood People as a barrier against the other Wood People.", and World Timeline.md (The Hazing of Aldemeri Period): "~855 B.G. Buhraies unchained Wood People, which decimated most humans in the plains". Still open.
+- **Change to the abridged text:** none yet. Sent back the source lines: the entry's own first line, "Buhraies unchained Wood People's behavior, causing a massacre of Humans across the Buhraies plains over the years. However, humans found a way to use Wood People as a barrier against the other Wood People.", and World Timeline.md (The Hazing of Aldemeri Period): "~855 B.G. Buhraies unchained Wood People, which decimated most humans in the plains". 
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > Also the unchaining of wood people by Buhraies is a separated event. I believe the smart ladies came later into the scene, with their skills helping growing Tolerideme to what it is today.
+- **Change to the abridged text:** the era stays A.G. (written ~750 to ~810 A.G.); the unchaining is told as something that happened long before, and the ladies came onto the scene much later.
 
 ### NV2. Logical Arrow before Walking Heart stones were found?
 - **Legacy text:** Logical Arrow › Approximated Age: "~960 B.G. - ~940 B.G."; Elijah pairs with a blue and green Walking Heart stone.
@@ -31,6 +35,7 @@ Status: **NV2 to NV4 answered** 2026-11-22; NV1 open. Asked as one batch on 2026
 - **Answer (verbatim):**
   > Nv2: agreed.
 - **Change to the abridged text:** Logical Arrow's era is ~939 to ~920 B.G.
+- **Made official** (2026-11-22, the author: "Make it if official."): `content/fixes.json` corrects the raw era.
 
 ### NV3. The Sapphire Counter: B.G. or A.G.?
 - **Legacy text:** The Sapphire Counter › Approximated Age: "~840 B.G. - ~850 B.G."; an accountant hoarding "all the balls".
@@ -39,6 +44,7 @@ Status: **NV2 to NV4 answered** 2026-11-22; NV1 open. Asked as one batch on 2026
 - **Answer (verbatim):**
   > Nv3: yes .
 - **Change to the abridged text:** The Sapphire Counter's era is ~840 to ~850 A.G.
+- **Made official** (2026-11-22): `content/fixes.json` corrects the raw era.
 
 ### NV4. "Freekish Triangle Love"
 - **Legacy text:** the title "Freekish Triangle Love".
