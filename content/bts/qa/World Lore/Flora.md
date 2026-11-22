@@ -32,6 +32,10 @@ None found.
 - **Legacy text:** Basi › Growth: "One bush produces ~1kg of berries per harvest season." Basi Berries: "yielding between 1 and 2 kg of acai berries."
 - **Abridged text:** keeps both; they overlap at ~1 kg.
 
+### Black Sapphire Tree's product: Soul Wood → Black Wood
+- **Legacy text:** Black Sapphire Tree › Economic value: "Soul Wood" ("Has a dark color to it, and is dense").
+- **Settled:** see Natural and Crafted Resources Q&A, R3 (the author: "I think we have both soul wood and black wood… Check the trees."). The abridged product is named "Black Wood".
+
 ## Judgment calls in the polish (2026-11-22)
 
 - **Habitat heights** ("~0km - ~1km", "< 1km height") read as height above sea level, following the author's answer W4 for the World Map ("Height above the sea"), and written "~0–1 km above sea level".

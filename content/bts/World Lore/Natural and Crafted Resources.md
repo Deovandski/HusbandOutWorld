@@ -13,6 +13,8 @@ Goods are sorted into four tiers, which set how much it costs to ship them (see 
 - **Tier III (Expensive Goods):** rare mineral resources (gold, titanium); higher-quality armor and weapons.
 - **Tier IV (Nobility Goods):** custom armor and weapons; household items, or any item of extremely high craft or quality.
 
+**Why gems are Tier II:** sapphires, aquamarines and amethysts are the currency, and from a shipping and handling perspective, currency is a common good. Security is what makes it special: only Forway moves large amounts of currency between cities and kingdoms, in heavily fortified wagons, and for the bandits salivating over those wagons, it's basically Tier IV.
+
 # Fost Stone
 
 A stone found in the sediment of the Buhraies lake, on the Buhraies Plains, and all the way from Waterfall City to the Sanbi Kingdom. Closer to the ocean, the riverbed lights up where the rocks get too close to salt water. Fauna, and beasts especially, seem to avoid places where it lies underwater.
@@ -47,11 +49,11 @@ Wood People wood is very durable, with a dark red color, and gives off a strong,
 
 # Soul Wood
 
-The wood of the Soul Tree, a lone tree with metallic, shiny bark that grows around Blood City and Freeish (see [Soul Tree](/lore/flora/#soul-tree)). It's often used with nari stones, sigils and containers that hold Soul Energy, to keep the Soul Energy from leaking. Its seeds give caffeine, and ground, they're basically the world's coffee.
+The wood of the Soul Tree, a lone tree with metallic, shiny bark that grows around Blood City and Freeish (see [Soul Tree](/lore/flora/#soul-tree)). It's often used with nari stones, sigils and containers that hold Soul Energy, to keep the Soul Energy from leaking, and most badges are made of it (hence their greenish color). Its seeds give caffeine, and ground, they're basically the world's coffee.
 
 # Black Wood
 
-The wood of the Black Sapphire Tree, a rare lone tree found between Flatland and Forway that looks dead and soaks up Soul Energy from its surroundings (see [Black Sapphire Tree](/lore/flora/#black-sapphire-tree)). Dark and dense, it's used with nari stones, sigils and Soul Energy containers to keep the Soul Energy from leaking. A single small or medium tree can cost a whole sapphire.
+The wood of the Black Sapphire Tree, a rare lone tree found between Flatland and Forway that looks dead and soaks up Soul Energy from its surroundings (see [Black Sapphire Tree](/lore/flora/#black-sapphire-tree)). Dark and dense, it keeps Soul Energy from leaking like no other wood, even better than Soul Wood; it's used with nari stones, sigils and Soul Energy containers to keep the Soul Energy from leaking. A single small or medium tree can cost a whole sapphire. Black wood badges are given to city officials, kingdom representatives and embassy representatives.
 
 # Winga Dust
 

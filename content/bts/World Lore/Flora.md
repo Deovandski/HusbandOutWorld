@@ -453,7 +453,7 @@ Highly sought after: a single small or medium tree can cost a whole sapphire, so
 
 #### Economic value
 
-- **Soul Wood**: Dark and dense. Often used with nari stones, sigils and containers that hold Soul Energy, to keep the Soul Energy from leaking.
+- **Black Wood**: Dark and dense. Often used with nari stones, sigils and containers that hold Soul Energy, to keep the Soul Energy from leaking.
 
   ![][image57]
 

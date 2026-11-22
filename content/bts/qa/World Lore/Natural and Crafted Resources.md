@@ -14,19 +14,35 @@ Every question asked of the author and his answer (word for word), every gap fil
 
 ## Questions for the author
 
-Status: **open** until answered. Asked as one batch on 2026-11-22.
+Status: **answered** 2026-11-22. Asked as one batch on 2026-11-22.
 
 ### R1. Gems as Tier II (Common Goods)?
 - **Legacy text:** Distance Cost Tier › Tier II (Common Goods): "Expensive Mineral Resources: Nari Stones, Sapphire, Aquamarine, Amethyst". Tier III (Expensive Goods): "Rare Mineral resources: Gold, Titanium".
 - **Why:** The Nari Gels doc says a common person might buy something as expensive as one sapphire once in their lifetime, and the Ore Base Price Calculator prices a sapphire far above gold. Is Tier II on purpose (for example, because gems are the currency and light to ship), or should the gems move up?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > R1) Yes. Gems setup as and for currency is basically a common good from a shipment, handling perspective. Security wise that's where it becomes special as basically only heavily fortified wagons and only Forway themselves move large quantities of currency around the cities/kingdoms which when that happens then it's basically Tier IV for how bandits etc would be salivating for that... So make a note about that.
+- **Change to the abridged text:** a "Why gems are Tier II" note under the tiers: currency is a common good for shipping and handling; only Forway moves large amounts, in heavily fortified wagons, and to bandits that's basically Tier IV.
 
 ### R2. Titanium
 - **Legacy text:** Tier III: "Gold, Titanium".
 - **Why:** Titanium appears nowhere else in Legacy (the spreadsheets have gold, copper, iron and steel, but no titanium). Keep it as a Vraki metal, or drop it?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > R2) keep it.
+- **Change to the abridged text:** none; titanium stays in Tier III.
 
 ### R3. Black Sapphire Tree's wood: Soul Wood or Black Wood?
 - **Legacy text:** Flora › Black Sapphire Tree › Economic value: "Soul Wood" ("Has a dark color to it, and is dense…"). This doc and the spreadsheets call it Black Wood (sigil rings in Soul Wood or Black Wood).
 - **Why:** Should the Black Sapphire Tree's product be named "Black Wood" in Flora?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > R3) I think we have both soul wood and black wood... Maybe nari wood too? Check the trees. See what you pull up
+- **What Legacy has** (searched every Markdown file, the novels included):
+  - **Soul Wood**, from the Soul Tree: Flora (Soul Tree products: Soul Wood, Soul Wood Seeds, Ground Soul Wood); badges are "normally made out of soul wood, hence its greenish color" (`Legacy/Public/badges-embassies.md`); Nari stones are set into Soul Wood (Beasts); Trunk People light up big Soul Wood trees (Beasts, Kingdoms).
+  - **Black Wood**, from the Black Sapphire Tree: "More commonly known today as black wood"; its Interface is "Black Wood"; "its perfectly black wood can prevent soul energy leakage like no other tree, even better than the soul tree itself" (Flora, Website Description); black wood badges for city officials, kingdom and embassy representatives (Embassies & Guilds; "Black wood Nari badges" in `Legacy/Public/badges-embassies.md`).
+  - **Nari wood:** not found anywhere. The closest are "Black wood Nari badges" and Nari stones set into Soul Wood.
+- **Change to the abridged text:** the Black Sapphire Tree's product in Flora is named "Black Wood" (its "Soul Wood" heading was a leftover from the Soul Tree entry; its description, dark and dense, is the black wood's). Soul Wood and Black Wood here gain the badge details and the "even better than Soul Wood" line. No Nari wood is added.
 
 ---
 
