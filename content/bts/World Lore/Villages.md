@@ -11,13 +11,13 @@ A village near the road between Forway and Deltacross, serving people traveling 
 
 # Cliffbay
 
-A small village where the Ganyrami water meets the ocean. It has a lighthouse.
+A small village where the Ganyrami water meets the ocean. It has a lighthouse. It looks almost eerily identical to Cocona Island: people who visit one are often honestly confused by how much it looks like the other.
 
 ![][image2]
 
 # Cocona Island
 
-A small village where the Ganyrami water meets the ocean. It has a lighthouse.
+A small village where the Ganyrami water meets the ocean. It has a lighthouse. It looks almost eerily identical to Cliffbay: people who visit one are often honestly confused by how much it looks like the other.
 
 ![][image3]
 
@@ -55,7 +55,7 @@ A small village by two rivers. It floods every spring, so every house is built o
 
 # New Freeish
 
-It floods every spring, so every house is built off the ground.
+It floods every spring, as the river flow changes and the snow melts, so every house is built off the ground.
 
 ![][image9]
 
@@ -261,7 +261,7 @@ Usually one or two people in this "village", who dare to stay isolated long enou
 
 # Sanbi East
 
-A village east of Sanbi. The Smith family (father and son) suck at their job.
+A village east of Sanbi. Its blacksmiths, a father and son, suck at their job.
 
 ![][image23]
 

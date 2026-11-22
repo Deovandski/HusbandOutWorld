@@ -13,7 +13,7 @@ Not much is left since the fall of Aldemeri. Some bandits and Cruros live around
 
 # Bahyum
 
-See the World Timeline. Now a moody castle is basically all that remains, after Wood People and humans destroyed or ransacked most things. A nearby village of the same name exists thanks to the flow of adventurers.
+The Buhraies built Bahyum as their biggest research station ever (about 1,500 to 855 B.G.), trying to create an automated army factory, but they struggled to control it: it always had a life of its own. Around 855 B.G., a coordinated attack by the Lishies and the Naked Bruntos (humans), plus sabotage inside the castle, put the Buhraies in a pinch. Now a moody castle is basically all that remains, after Wood People and humans destroyed or ransacked most things. A nearby village of the same name exists thanks to the flow of adventurers.
 
 #### Moody Castle
 
@@ -29,17 +29,17 @@ A massive castle in ruins, a favorite place for adventurers, bandits and researc
 
 # Buhraies Plains
 
-See the World Timeline. A cliff about 2 km high on average, which doesn't fall apart through erosion: erosion doesn't affect it, soul energy does.
+Facing the Lishies' overwhelming numbers, the Buhraies terraformed a large section of the plains up off the ground, grinding Finaies bodies into the earth, to create a safe zone; extra earth came from where Lukewarm Lake is now. Around 5,215 B.G., the Finaies retreated after failing to bring the plains down, and humans took control of them when Ganyrami fell (about 0 B.G.). The plains are a cliff about 2 km high on average, which doesn't fall apart through erosion: erosion doesn't affect it, soul energy does.
 
 #### Buhraies Plains East Dip
 
-See the World Timeline. Like this, but much bigger and taller:
+Around 3,150 B.G., the Great Sea War destroyed part of it: the East Dip lost the most land in that invasion, and the later repairs, by a different generation, didn't match the original ratios and practices. Around 1,650 B.G., the Naked Bruntos made it crumble, and Wood People fell and slowly began to spread. The humans the Buhraies brought onto the plains later found their way out through the unstable East Dip. Like this, but much bigger and taller:
 
 ![][image4]
 
 #### Buhraies Plains South Dip
 
-See the World Timeline.
+One of the first roads was built up the South Dip into Tolerideme. In 572 A.G., Tolerideme blew the road up after losing too many men in the war against Sanbi.
 
 ![][image5]
 
@@ -71,7 +71,7 @@ Several houses high up the mountain, with no doors, just holes for windows. Unde
 
 # Hifuna
 
-See the World Timeline. Radioactive leftovers seeped into the local ecosystem, changing the species' DNA and making local life much more aggressive and unfit to eat. It's also where Walking Heart stones form.
+Around 5,215 B.G., the Finaies sacrificed themselves to create a barrier between the northern and southern continents: Hifuna. Radioactive leftovers seeped into the local ecosystem, changing the species' DNA and making local life much more aggressive and unfit to eat. It's also where Walking Heart stones form: irradiated rocks mixed into Hifuna, which the Buhraies discovered around 2,450 B.G.
 
 **Visual references:**
 
@@ -79,7 +79,7 @@ See the World Timeline. Radioactive leftovers seeped into the local ecosystem, c
 
 # Lukewarm
 
-See the World Timeline. Also known as Lukewarm Lake, Buhraies Lake or Buhraies Lukewarm Lake. Known for its Fihi, which developed a taste for human flesh.
+The Buhraies took earth from here to build up the Buhraies Plains, and made an underground structure that pipes the lake's water into Wingarest. Also known as Lukewarm Lake, Buhraies Lake or Buhraies Lukewarm Lake. Known for its Fihi, which developed a taste for human flesh.
 
 **Visual reference:**
 
@@ -87,7 +87,7 @@ See the World Timeline. Also known as Lukewarm Lake, Buhraies Lake or Buhraies L
 
 # Lishin
 
-See the World Timeline. A large city with lots of big buildings, some a few stories tall. Its central location made it a hub for travelers, then for armies, before it became Forway City.
+The Lishies' central city: a large city with lots of big buildings, some a few stories tall. Its central location made it the humans' target for attacking any other civilization; around 525 B.G., they provoked an all-out war between Ganyrami and Lishin, and Lishin fell. Being so central, it became a hub for travelers, then for armies, before it became Forway City.
 
 - **The Ancient Four-Story Tall Building:** the last four-story-tall Lishies building.
 - **The Ancient Plaza:** a small plaza surrounded by several buildings.
@@ -133,7 +133,7 @@ The planet's south pole. White Roundies live there, alongside some other mammals
 
 # Woodland
 
-A piece of land west of Sweetlake: a densely populated forest. Loads of Tree Trunks are found here; they seem to grow more active the farther southwest you go, almost as if they'd been trained to keep humans out. Large flowers grow here too.
+A piece of land west of Sweetlake: a densely populated forest. Loads of Trunk People (see Beasts) are found here; they seem to grow more active the farther southwest you go, almost as if they'd been trained to keep humans out. Large flowers grow here too.
 
 ![][image18]
 
