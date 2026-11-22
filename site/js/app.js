@@ -106,7 +106,7 @@
     var data = null;
     var q0 = new URLSearchParams(location.search).get('q') || '';
     box.value = q0;
-    fetch(BASE + '/data/search.json').then(function (r) { return r.json(); }).then(function (d) { data = d; run(); });
+    fetch(BASE + '/data/search.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }).then(function (d) { data = d; run(); });
     box.addEventListener('input', run);
     document.addEventListener('modechange', run);
     function esc(s) { return String(s || '').replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
