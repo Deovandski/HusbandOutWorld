@@ -220,5 +220,22 @@
       "replace": "  * \\~840 A.G. \\- \\~850 A.G.",
       "why": "The Sapphire Counter is A.G.: the balls currency came after the Prosperity Treaty (issue #103, Novels Q&A NV3), made official."
     }
+  ],
+  "Legacy/Behind The Scenes/World Lore/World Timeline.md": [
+    {
+      "find": "Greedy Humans Period (\\~570 A.G \\- \\~671 A.G.)",
+      "replace": "Greedy Humans Period (\\~570 A.G \\- \\~680 A.G.)",
+      "why": "The Prosperity Treaty starts in 680 A.G., the author's decision W3 (issue #103, see the World Map Q&A)."
+    },
+    {
+      "find": "The Prosperity Treaty Period (\\~671 A.G. \\- Current)",
+      "replace": "The Prosperity Treaty Period (\\~680 A.G. \\- Current)",
+      "why": "The Prosperity Treaty starts in 680 A.G., the author's decision W3 (issue #103, see the World Map Q&A)."
+    },
+    {
+      "find": "The Prosperity Treaty Period (671 \\- Current)",
+      "replace": "The Prosperity Treaty Period (680 \\- Current)",
+      "why": "The Prosperity Treaty starts in 680 A.G., the author's decision W3 (issue #103, see the World Map Q&A)."
+    }
   ]
 }
