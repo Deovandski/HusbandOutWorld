@@ -87,7 +87,7 @@ A tribe leader's word is final. To become tribe leader, you fight the current on
 
 #### Society and culture
 
-Mostly Crocus and dumb Cruros, a few intelligent ones, and rarely a highly intelligent one who stays. No religion. Tribal: a young Cruro's rite of passage is to kill one Wood Person, bring the body back to build a hut, and tame a Crocus.
+Mostly Crocus and dumb Cruros, a few intelligent Cruros, and rarely a highly intelligent one who stays. No religion. Tribal: a young Cruro's rite of passage is to kill one Wood Person, bring the body back to build a hut, and tame a Crocus.
 
 #### Food
 
@@ -164,7 +164,7 @@ Mostly humans, some Wozefaries and a few other species, with a significant numbe
 #### Festivals
 
 - **Egua Uniform Contest:** every Asa and Adrian, a contest to design new uniforms for the eguas; they must be waterproof and suit the weather. The winner's name goes on a board displayed at the crossing buildings.
-- **Drink in the Delta contest:** on the last day, Delta Bar holds a massive contest to see who can drink the most without leaving their spot. Peeing in the water isn't frowned upon; it's encouraged, to spare your bladder.
+- **Drink in the Delta contest:** on the last day of summer (Paulin 110th, when Delta Bar's season ends), it holds a massive contest to see who can drink the most without leaving their spot. Peeing in the water isn't frowned upon; it's encouraged, to spare your bladder.
 - **Old Bone:** every Paulin, the Calm Water Resort hosts a festival for the old people living there, with tons of music, fight choreography, bards' tales, etc.
 
 **Burial:** no widely followed ritual. Some throw the bodies into the delta so they're carried out to sea; others follow the customs of where they came from.
@@ -203,13 +203,14 @@ Mostly Bruntos, with humans coordinating with them. People are often paler than 
 - **Education:** follows Forway, but also teaches how to cooperate, especially with the Bruntos.
 - **Crime and law:** like the Sanbi Kingdom.
 - **Local embassy quests:** Newland exploration.
-- **Economy:** exports Lonllows all year long; the harvest guilds' cooperation keeps a constant supply flowing through the kingdoms.
+- **Economy:** exports Lonllows all year long; the five guilds' cooperation keeps a constant supply flowing through the kingdoms.
 - **Marriage:** made official by the village leader. Then the couple (who must buy or build a house first) goes to the House of Bruntos to bond with one and bring it home.
 - **Names:** like the Sanbi Kingdom.
 
 #### Guilds
 
 - **Asa, Paulin, Moacir and Adrian Lonllow Harvest (#2 to #5):** each guild coordinates the harvest in its own month of the year.
+- **The Fivs:** the transportation guild that moves the Lonllows. It has no proper name: "Fivs" became the shorthand because they were the last (fifth) guild welcomed in, and the farming guilds kind of put themselves above them.
 
 #### Points of interest
 
@@ -315,7 +316,7 @@ Mixed, in people and beliefs, though money is becoming the religion. A big city:
 
 - **Forway Palace:** at the city center; entering requires a badge. The lower floors are the embassy, the upper floors are restricted to Sapphire adventurers and kingdom and city officials, and underground is research and experimentation. They cross-check names against books and other people if they suspect someone.
 - **Forway and You:** the biggest journal, issued weekly on Freeday, with news, fashion and more.
-- **Emelia's Flowery Paradise:** in Forway's southwest district, with a bakery nearby.
+- **Emelia's Flowery Paradise:** Emelia's flower shop, one of Red Winga's proxy businesses (see Factions), in Forway's southwest district, with a bakery nearby.
 - **Broken Knuckle:** the tavern where Honati worked.
 - **Specialized Schools (#E types):** see Education.
 - **The Wood People Picker (#1):** Yosuke Forway's restaurant, outside the gates.
@@ -534,7 +535,7 @@ Mostly humans, plus a significant number of Wozefaries, from back when they were
 
 #### Daily life
 
-- **Clothing:** similar to Sanbi, but made from Croro leather.
+- **Clothing:** similar to Sanbi, but made from Crocus leather (the animal, not the Cruros, though some humans have done that too: killing and skinning too-smart-for-their-own-good Cruros who tried to swindle a far more cunning, or angrier, human, and wearing them).
 - **Education:** Forway provides basic education free to citizens who sign a contract to stay on Tastyleaf for the rest of their lives, to give the tree some protection, at least until someone figures out how to clone it.
 - **Crime and law:** like Forway, but for major cases, the criminal is forced to go out and fight beasts; if they survive, their punishment is absolved.
 - **Local embassy quests:** Newland exploration, Crocus extermination, Cruro reconnaissance, checking on Hifuna.
@@ -557,7 +558,7 @@ Mostly humans, plus a significant number of Wozefaries, from back when they were
 
 #### Festivals
 
-- **Picking Festival:** every fall, when the WhiteLeaf tree begins to shed its leaves, people from the four guilds compete to gather the most leaves, using wind Soul Energy to move them.
+- **Picking Festival:** every fall, when the Tastyleaf tree begins to shed its leaves, people from the four guilds compete to gather the most leaves, using wind Soul Energy to move them.
 
 **Burial:** mostly thrown into the sea, some cremation. Some adventurers' bodies are sent back to where they came from.
 
@@ -687,7 +688,7 @@ The village elders keep things afloat, since Forway doesn't seem to care much. *
 
 #### Society and culture
 
-Mostly humans, some Darfaries, and some adventurers who settled here for Winga hunting. No real beliefs, just respect for their food source. They have Tolerideme's laziness: everything is chill and calm, and everyone is sleepy all the time, without a care in the world.
+Mostly humans, some Darfaries, and some adventurers who settled here for Winga hunting. No real beliefs, just respect for their food source. They have Tolerideme's laziness: everything is chill and calm, and everyone is sleepy all the time, without a care in the world. It feels like a dreamy little town lost in time, a remote corner at the end of the road, a long ride from anywhere, where the days drift by, people linger at the market, and nobody hurries for anything.
 
 #### Food
 

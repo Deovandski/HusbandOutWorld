@@ -12,63 +12,79 @@ Each of the 14 cities is one block in the raw doc, so each is abridged as one se
 
 ## Questions for the author
 
-Status: **open** until answered. Asked as one batch on 2026-11-22.
+Status: **open** until answered. Asked as one batch on 2026-11-22; answered the same day except C1 (context sent) and the clothing half of C4.
 
-### C1. Cruro tribes #7 and #8 (open)
+### C1. Cruro tribes #7 and #8 (open, context sent)
 - **Asked:** 2026-11-22
 - **Legacy text:** Points Of Interests › Cruro Tribes: "#7 & #8 Have some sort of alliance and"
 - **Why:** The line stops after "and". What comes next?
-- **Answer:**
-- **Change to the abridged text:** Says "have some sort of alliance" for now.
+- **Reply:** 2026-11-22
+- **Reply (verbatim):**
+  > any context around it?
+- **Change to the abridged text:** None yet. Searched all of Legacy: nothing else mentions tribes #7 and #8 or their alliance (the novels' Cruros, like Coema's companions in Arc #4, aren't tied to a tribe number). Context sent; still says "have some sort of alliance".
 
-### C2. Cruro: "Mostly crocus, dumb crocus"? (open)
+### C2. Cruro: "Mostly crocus, dumb crocus"? (answered)
 - **Asked:** 2026-11-22
 - **Legacy text:** Society Composition: "Mostly crocus, dumb crocus, a few intelligent ones, and rarely a highly intelligent one that stays around."
 - **Why:** Did you mean mostly Crocus and dumb Cruros, then a few intelligent Cruros?
-- **Answer:**
-- **Change to the abridged text:** Says "Mostly Crocus and dumb Cruros" for now.
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > yes! Good catch!
+- **Change to the abridged text:** "Mostly Crocus and dumb Cruros, a few intelligent Cruros".
 
-### C3. Deltacross: "On the last day" of what? (open)
+### C3. Deltacross: "On the last day" of what? (answered)
 - **Asked:** 2026-11-22
 - **Legacy text:** Drink in the Delta contest: "On the last day, Delta Bar opens a massive contest". Delta Bar: "Only opened during the summer."
 - **Why:** The last day of summer (Delta Bar's season)?
-- **Answer:**
-- **Change to the abridged text:** Keeps "on the last day" for now.
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > yes! See the vraki calendar.
+- **Change to the abridged text:** "on the last day of summer (Paulin 110th, when Delta Bar's season ends)" (Paulin has 110 days, per the Vraki Calendar).
 
-### C4. Endlessfog: five guilds, and colder clothing? (open)
+### C4. Endlessfog: five guilds, and colder clothing? (partly answered)
 - **Asked:** 2026-11-22
 - **Legacy text:** Economy: "the cooperation between the five guilds"; Guilds lists four harvest guilds (#2 to #5). Clothing: "Between Sanbi/Tolerideme due to colder weather." History: "the weather is unusually warm and humid all year long."
 - **Why:** Which is the fifth guild? And should the clothing be for warm, humid weather instead?
-- **Answer:**
-- **Change to the abridged text:** Says "the harvest guilds" and keeps the clothing line for now.
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > have the fifth guild be a transportation guild. If the faming guilds are mentioned by name and there's none for the fifth guild, then have them be called "fivs" as it become a short hand as they were the last guild welcomed in and the farming guild kinda put themselves above them
+- **Change to the abridged text:** Added "The Fivs": the transportation guild, with no proper name; "Fivs" is the shorthand because they were the last (fifth) guild welcomed in, and the farming guilds put themselves above them. Economy says "the five guilds" again. The clothing half (warm and humid weather) is still open.
 
-### C5. Tastyleaf: the WhiteLeaf tree? (open)
+### C5. Tastyleaf: the WhiteLeaf tree? (answered)
 - **Asked:** 2026-11-22
 - **Legacy text:** Picking Festival: "Every Fall, the WhiteLeaf tree begins to shed its leaves"
 - **Why:** WhiteLeaf is the hotel. Did you mean the Tastyleaf tree?
-- **Answer:**
-- **Change to the abridged text:** Keeps "WhiteLeaf tree" for now.
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > yes. Correct.
+- **Change to the abridged text:** "when the Tastyleaf tree begins to shed its leaves".
 
-### C6. Tastyleaf: "Croro leather"? (open)
+### C6. Tastyleaf: "Croro leather"? (answered)
 - **Asked:** 2026-11-22
 - **Legacy text:** Clothing: "Similar to Sanbi, but made from Croro leather instead."
 - **Why:** Crocus leather?
-- **Answer:**
-- **Change to the abridged text:** Keeps "Croro leather" for now.
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > yes, crocus the animal, not the race cruros (although some have done that, specifically killing, skinning and using them as clothing when the too smart for their own good cruros tried to swindle a far more cunning, or angrier human"
+- **Change to the abridged text:** "made from Crocus leather (the animal, not the Cruros, though some humans have done that too …)".
 
-### C7. Forway: "Emelia's Flowery Paradise back"? (open)
+### C7. Forway: "Emelia's Flowery Paradise back"? (answered)
 - **Asked:** 2026-11-22
 - **Legacy text:** Points Of Interests: "Emelia's Flowery Paradise back"
 - **Why:** What does "back" mean here (a back room, a back entrance)?
-- **Answer:**
-- **Change to the abridged text:** Says "Emelia's Flowery Paradise" for now.
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > any context? The back looks to be a brain fart.
+- **Change to the abridged text:** Context found: Emelia runs a flower shop in Forway that is one of Red Winga's proxy businesses (Factions › Red Winga; Characters › Arukia and Emelia; Arc #4). "back" is dropped; the entry says "Emelia's flower shop, one of Red Winga's proxy businesses (see Factions)".
 
-### C8. Wingarest: "To Deo: Ferreira Gomes/Oiapoque" (open)
+### C8. Wingarest: "To Deo: Ferreira Gomes/Oiapoque" (answered)
 - **Asked:** 2026-11-22
 - **Legacy text:** Culture: "\*To Deo: Ferreira Gomes/Oiapoque."
 - **Why:** A note to yourself naming two towns in Amapá, Brazil. Should it become a real-world comparison ("like the sleepy towns of Ferreira Gomes and Oiapoque"), or stay in the original notes only?
-- **Answer:**
-- **Change to the abridged text:** Left out for now.
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > pull some descriptions of it where it seems like a dreamy, sleepy, lost in time city. The actual names you can leave just in my notes.
+- **Change to the abridged text:** Added a mood line, without the town names: "a dreamy little town lost in time, a remote corner at the end of the road, a long ride from anywhere, where the days drift by, people linger at the market, and nobody hurries for anything." Drawn from travel descriptions of the two towns (tranquil, laid-back, remote, small-town charm; sources: travelpal.ai and trek.zone).
 
 ---
 
@@ -77,6 +93,7 @@ Status: **open** until answered. Asked as one batch on 2026-11-22.
 | Abridged text | Raw note | Source |
 |---|---|---|
 | "From Vol 2:" before the finger cake quote | The quote, unattributed | Vol 2 (published novel) |
+| Emelia's Flowery Paradise is her flower shop, a Red Winga proxy business | "Emelia's Flowery Paradise back" | Factions.md › Red Winga; Characters.md › Arukia, Emelia |
 | Blood food prices link to the Economy spreadsheet | "See Economy Calculator" | `Spreadsheets/Formulas - Economy.xlsx` |
 
 ## Discrepancies
