@@ -53,8 +53,17 @@ Status: **answered** 2026-11-22. Asked as one batch on 2026-11-22.
 ### Made official, and T1's mountain (2026-11-22)
 - **Answer (verbatim):**
   > Make that official. And T1 back then was Fuhraier. Darfaries changed later as a way to claim it as theirs.
-- **Change:** the abridged T1 lines add "(the Darfaries changed its name later, as a way to claim it as theirs)". `content/fixes.json` makes T1, T2 and T3 official in the raw notes (T4 needs no change to the raw notes).
-- **Open point (asked):** Land.md still describes Fuhrair as "the largest Fuhraies civilization", now empty, and the Timeline has the Gandew mountain built in ~495 B.G. by the Buhraies, Lishies and Fuhraies. The website doesn't say what Fuhrair was renamed to until the author confirms.
+- **Follow-up (verbatim), after checking the geography:**
+  > We have Fuhrair, old Fuhrair and Gandew mountains. Gandew mountains is out to the west. Fuhrair and Old Fuhrair is in the central mountains separating the desert to the west from the lands the east where Forway lives in the center of the map and Freeish Kingdom to the south.
+  >
+  > One of the ancient species fled to the desert and raised a mountain from the ground... Which one was it again?
+- **What the Timeline says:** the Buhraies proposed the mountain; the Buhraies, Lishies and Fuhraies fled into the desert and built it together in ~495 B.G. (Last Breath Time › New Home and Mountain Pact Periods). Fuhrair and Old Fuhrair were the Fuhraies' own, and Fuhrair kept its name, so the Fuhraies held out against the Finaies in ~2,650 B.G. in Fuhrair.
+- **Decision (verbatim):**
+  > Agreed on Darfaries calling the mountain as Gandew after they kicked the ancient spices out and claimed it as their own.
+  >
+  > Any other discrepancy on this? Otherwise Make it official.
+- **Change:** T1 says the Fuhraies holed up in Fuhrair (the renaming remark is gone). Darfaries › Mountain Overtake Period adds: "With the ancient species kicked out, the Darfaries named the mountain Gandew after their first king, claiming it as their own." `content/fixes.json` makes T1, T2, T3 and the naming official in the raw notes (T4 needs no change).
+- **Checked for other discrepancies:** Kingdoms (Gandew Mountain ~6 km tall), Land (Fuhrair, the empty Fuhraies civilization), Races (Fuhraies may still hide around Fuhrair or Old Fuhrair), Fauna (Wozen in Old Fuhrair's mountains), Flora (Rakuja at the base of Fuhrair, Old Fuhrair and Gandew) and `Legacy/Public/kingdom-gandew.md` ("a massive lone mountain in the desert") all agree. The only related name is the book "Cleansing the Lone Mountain" (~250 A.G.), which reads naturally as the mountain before it was named Gandew.
 
 ## Gaps filled from other Legacy sources
 

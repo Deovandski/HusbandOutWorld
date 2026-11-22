@@ -239,12 +239,12 @@
     },
     {
       "find": "\\~2,650 B.G. The Buhraies mounted a secret assault through the desert, but the desert killed off most of them. Upon reaching the Fuhraies, the army left over was easily massacred.",
-      "replace": "\\~2,650 B.G. The Finaies mounted a secret assault through the desert to massacre the Fuhraies, but the desert killed off most of them. The Fuhraies holed up inside their newly created mountain, Fuhrair (the Darfaries changed its name later as a way to claim it as theirs), and the army left over was easily massacred.",
+      "replace": "\\~2,650 B.G. The Finaies mounted a secret assault through the desert to massacre the Fuhraies, but the desert killed off most of them. The Fuhraies holed up inside their newly created mountain, Fuhrair, and the army left over was easily massacred.",
       "why": "T1: the Finaies mounted the ~2,650 B.G. desert assault; the Fuhraies holed up in Fuhrair (issue #103, World Timeline Q&A), made official."
     },
     {
       "find": "\\~2,650 B.G. The Buhraies mounted a secret assault through the desert, but the desert took care of most of them, leaving the Fuhraies to easily defend themselves.",
-      "replace": "\\~2,650 B.G. The Finaies mounted a secret assault through the desert to massacre the Fuhraies, but the desert took care of most of them. The Fuhraies holed up inside their newly created mountain, Fuhrair (the Darfaries changed its name later as a way to claim it as theirs), and easily defended themselves.",
+      "replace": "\\~2,650 B.G. The Finaies mounted a secret assault through the desert to massacre the Fuhraies, but the desert took care of most of them. The Fuhraies holed up inside their newly created mountain, Fuhrair, and easily defended themselves.",
       "why": "T1, as above, made official."
     },
     {
@@ -261,6 +261,11 @@
       "find": "* **Lishies & Buhraies Shift Period (\\~805 B.G \\- \\~0 A.G.)**  \n",
       "replace": "* **Lishies & Buhraies Shift Period (\\~805 B.G \\- \\~0 A.G.)**  \n  * Smaller changes started around \\~805 B.G., but the new species really started to form and shape strongly around \\~300 into \\~200 B.G.  \n",
       "why": "T3: the author's note on when the species took shape (issue #103, World Timeline Q&A), made official."
+    },
+    {
+      "find": "  * That was when the first king (Gandew) established the Goodbye Cliff, where all Wozefaries & Sorefaries were sent flying towards Flatland. Anyone who does not accept such methodology must leave.",
+      "replace": "  * That was when the first king (Gandew) established the Goodbye Cliff, where all Wozefaries & Sorefaries were sent flying towards Flatland. Anyone who does not accept such methodology must leave.  \n  * With the ancient species kicked out, the Darfaries named the mountain Gandew after their first king, claiming it as their own.",
+      "why": "The author's decision on how the desert mountain got its name (issue #103, World Timeline Q&A, T1 follow-up), made official."
     }
   ]
 }
