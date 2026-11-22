@@ -10,7 +10,7 @@ Every question asked of the author and his answer (word for word), every gap fil
 
 ## Questions for the author
 
-Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing, or keeps the raw wording. Asked as one batch on 2026-11-21 and answered the same day (S5 needs a follow-up).
+Status: **open** until answered. An open question means the abridged text leaves that point out rather than guessing, or keeps the raw wording. Asked as one batch on 2026-11-21 and answered the same day (S5 after a follow-up).
 
 ### S1. What are Fast Fish and Fast Bird? (answered)
 - **Asked:** 2026-11-21
@@ -48,14 +48,17 @@ Status: **open** until answered. An open question means the abridged text leaves
   > Yes.
 - **Change to the abridged text:** "bounce, slow, fast and sink zones".
 
-### S5. Keep the two YouTube links? (partly answered, follow-up asked)
+### S5. Keep the two YouTube links? (answered)
 - **Asked:** 2026-11-21
 - **Legacy text:** Flat Steel: "https://www.youtube.com/shorts/vJta5qDQBCM"; Music playing/Bands: "https://www.youtube.com/watch?v=R16cVvg2OyY"
 - **Why:** They look like inspiration references. Should the abridged text show them (for example "Inspired by this video"), or leave them only in the original notes?
 - **Answered:** 2026-11-21
 - **Answer (verbatim):**
   > Leave them only in the original notes. Add additional notes from looking at the videos, figuring out the source of it, and giving an overall explainer.
-- **Change to the abridged text:** The links stay only in the original notes. Explainer not added yet: the Flat Steel short shows as unavailable on YouTube (deleted, private or restricted), and the music video can't be opened from here, so neither could be watched. Asked the author to describe them or name their source.
+- **Answered (follow-up):** 2026-11-21
+- **Answer (verbatim):**
+  > Search more online based on the names I describe as the references. And I can confirm one of the YT links are dead so we can ignore the videos.
+- **Change to the abridged text:** The videos are ignored (links stay in the original notes only). From the references, added "Real-world comparison" notes: Stealball is much like Ringer, the classic marbles game (shoot marbles out of a ring, keep what you knock out); the music is like bardcore/tavernwave (medieval-style remakes of modern songs). Hammerschlagen's explanation was tightened from its rules (one swing per turn with the wedge end; first nail flush wins). Sources: en.wikipedia.org/wiki/Bardcore, en.wikipedia.org/wiki/Hammerschlagen, nationalmarblestournament.org (Ringer).
 
 ---
 

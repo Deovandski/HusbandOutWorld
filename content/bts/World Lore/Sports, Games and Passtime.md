@@ -79,6 +79,8 @@ Usually played among friends.
 
 **Rules:** draw a large square on the ground and put an equal number of balls (amethyst or higher) in the center. Then use pearl balls to knock the balls in the center out of the square and steal them. In poorer communities, pearl balls go in the center and small rocks do the stealing.
 
+**Real-world comparison:** much like Ringer, the classic marbles game, where players shoot marbles out of a ring and keep the ones they knock out.
+
 # Flat Steel
 
 More common in Forway: a fancier version of Stealball for richer people who love the game but don't want to be seen playing it on public streets.
@@ -91,7 +93,7 @@ More common in Forway: a fancier version of Stealball for richer people who love
 
 Usually played in taverns.
 
-**Rules:** based on Hammerschlagen, a German game not many people know: players take turns driving a nail into a wooden stump, and the first to sink theirs all the way wins. Using different types of wood, like Soul Wood or a Rakuja tree, makes it harder.
+**Rules:** based on Hammerschlagen (also called Stump), a German game not many people know. Each player starts with a nail half driven into a waist-high stump; on your turn, you get a single swing at your nail with the wedge end of the hammer, and the first to drive theirs flush into the wood wins. Using different types of wood, like Soul Wood or a Rakuja tree, makes it harder.
 
 # Bone Sack
 
@@ -114,6 +116,8 @@ It started with carved wooden statues and evolved over time. One statue in a gro
 # Music playing/Bands
 
 Music is still medieval, but with some vibes from today's notes and rhythms; no electric guitars or anything like that.
+
+**Real-world comparison:** bardcore (or tavernwave), medieval-style remakes of modern songs played on lutes, pipes, hurdy-gurdies and the like.
 
 # Drinking/Eating/Tavern-Hopping
 
