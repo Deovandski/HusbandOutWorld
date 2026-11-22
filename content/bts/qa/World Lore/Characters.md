@@ -170,6 +170,31 @@ Status: **answered** 2026-11-22.
 - **Neferteri:** "Start sub with “1039 A.G. Paulin 21st, Freeday at about Sunnuhigh—”" is left out, like Arukia's (a writer's note, CH11).
 - Satomi: "keeping distance with people she does care for (anyone not Darfaries.)" read as "doesn't care for".
 
+## Batch 5: the rest of Sanbi (asked 2026-11-22)
+
+Eori, Nina, Gabiro, Kibe, Eiri, Coema, Sora, Ukim, Kiko, Zico, Huneo, Namia, Lofinghy.
+
+Status: **open** until answered.
+
+### CH14. Eiri's birthday: Asa 10th or Paulin 74th?
+- **Legacy text:** Isekai History: "Born 1,017 A.G. Asa 10th"; promoted to King-maid "on the day before her birthday (1,038 A.G Asa 9th.)". Birthday field (and `Legacy/Public/characters.md`): "1017 A.G. Paulin 74th".
+- **Why:** Which is her birthday? (The abridged text keeps Paulin 74th and leaves the day out of her story, for now.)
+
+### CH15. Sora's age
+- **Legacy text:** Birthday "1025 A.G Moacir 75th"; Book 1 and 2 age "14".
+- **Why:** You told me earlier (while translating the novel) that Sora is of age. Should her birthday and age change? (The abridged text keeps 14, with her attraction line as "Fascinated by", for now.)
+
+### CH16. Huneo and Kibe: who is whose apprentice?
+- **Legacy text:** the author's CH13 answer: "when Kibe hires Huneo as his apprentice, Huneo will get the Royal "treatment"". Light Novel › Arc #2 - Hifuna Beast: Huneo says "Apprentice Kibe." and, to Eori, "As my second apprentice, I demand you to apologize".
+- **Why:** In Arc #2, Huneo reads as the master, with Kibe and Eori as his apprentices. Which way is it? (The abridged text follows the CH13 answer for now.)
+
+### Judgment calls in batch 5
+- **Nina** (7 in 1039): her Sexuality line ("Daddy figures, specifically closer to her father in qualities") reads "Looks up to: father figures, especially ones like her own father".
+- **Minors' "Fascinated by":** Sora and Zico (16); Ukim's line was "Not decided yet", so it's left out.
+- **Kiko:** "Reminds me of Eucliwood Hellscythe." became a real-world comparison note (the anime *Is This a Zombie?*).
+- **Lofinghy and Lofingha:** born 993 and 1007, so he was 14 when she was born; left as written under the author's C12 ruling.
+- "(See World Lore Q&A › Vol 4 Draft 2, Qn.)" pointers dropped; "almost got curled" read as "almost culled"; "she was perished by bandits" as "killed by bandits"; Sora's "Smells like" line (a novel excerpt) summarized.
+
 ---
 
 ## The author's pushback on minors and toned-down wording (2026-11-22)
@@ -193,13 +218,14 @@ Status: **answered** 2026-11-22.
 | Fernan's entry names his son Jonem and links to him | "His wife lives in Blood City with Magi's little brother." | Characters.md (Jonem) |
 | Morika's armor persona links to The Stinger | (the Website Description) | Characters.md (Morika › Website Description) |
 | Maiara's Homeegg links to Sports, Games and Pastimes | "She plays Homeegg for Sanbi teams." | Sports, Games and Passtime.md |
+| Coema is in the Half-Cruro name because she helped Kiko's guild shine | (Coema's entry doesn't say) | Characters.md (Kiko: "Coema helped him make the guild shine"); the author's CH10 answer |
 | Lofingha's father is Lofinghy | "her father" | Characters.md (Lofingha › Website Description: "her father Lofinghy") |
 | Laura's Book 3 age: 30 | "-Reconfirm" | worked out from her birthday (1009 A.G. Asa 72nd) and the Documentation Notation (Book 3 in 1039 A.G.) |
 | Katsuki, Katsumi and Laura link to the Red Winga | "See Bandits > Red Winga"; "rescued in the desert by Red Winga" | Factions page (Red Winga) |
 
 ## Discrepancies
 
-See CH1 to CH13.
+See CH1 to CH16.
 
 ## Left out on purpose
 
