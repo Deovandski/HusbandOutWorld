@@ -45,7 +45,7 @@ Consumed by vengeance, he paired with a mostly red Walking Heart stone. With pur
 An accountant's adventures in a company scheme that blew up and landed him in jail. Kind of like the Enron scandal, but with less partying: more like one guy silently trying to hoard all the balls for himself, like a dragon.
 
 - **Characters:** unknown.
-- **Era:** ~850 to ~840 B.G.
+- **Era:** ~840 to ~850 A.G.
 
 # Logical Arrow
 
@@ -54,7 +54,7 @@ A girl whose parents hid her the moment the Lishies struck and ate her entire vi
 With her natural dexterity and analytical mind, she paired with a blue and green Walking Heart stone, which gave her full control of the bow and extra intelligence, and she began leading small armies against the Lishies, strategically and with great success. But she overstressed her body without feeding it enough emotions, and one day she dropped dead. (Nari stones were only discovered years later.)
 
 - **Characters:** Elijah.
-- **Era:** ~960 to ~940 B.G.
+- **Era:** ~939 to ~920 B.G.
 
 # The Smart Ladies
 
@@ -76,7 +76,7 @@ He told everyone what had happened; some fishermen did just that, and it worked.
 
 # Freekish Triangle Love
 
-A book examining [Triangle City](/lore/cities/#triangle) and how bent it was on keeping everything under control.
+A book examining [Triangle City](/lore/cities/#triangle) and how bent it was on keeping everything under control. The title is a play on the word Freeish.
 
 - **Characters:** the guilds of Triangle City (the three royal guilds that control the island are Ronaldo Lazyeye, Purple-Magina and Angry-Jin).
 - **Era:** ~700 B.G.

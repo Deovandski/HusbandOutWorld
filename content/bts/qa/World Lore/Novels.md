@@ -14,23 +14,39 @@ Every question asked of the author and his answer (word for word), every gap fil
 
 ## Questions for the author
 
-Status: **open** until answered. Asked as one batch on 2026-11-22.
+Status: **NV2 to NV4 answered** 2026-11-22; NV1 open. Asked as one batch on 2026-11-22.
 
 ### NV1. The Smart Ladies: A.G. or B.G.?
 - **Legacy text:** The Smart Ladies › Approximated Age: "~810 A.G. - 750 A.G."
 - **Why:** The book opens with the Buhraies unchaining the Wood People, which the World Timeline puts at ~855 B.G. (The Hazing of Aldemeri Period), and Tolerideme was already a city by the Indulgence Period (0 to 120 A.G.). That points to ~810 to ~750 **B.G.** Should it be B.G.? (The abridged text keeps A.G. for now.)
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > NV1: where does it say that their story started with unchaining the wood people?
+- **Change to the abridged text:** none yet. Sent back the source lines: the entry's own first line, "Buhraies unchained Wood People's behavior, causing a massacre of Humans across the Buhraies plains over the years. However, humans found a way to use Wood People as a barrier against the other Wood People.", and World Timeline.md (The Hazing of Aldemeri Period): "~855 B.G. Buhraies unchained Wood People, which decimated most humans in the plains". Still open.
 
 ### NV2. Logical Arrow before Walking Heart stones were found?
 - **Legacy text:** Logical Arrow › Approximated Age: "~960 B.G. - ~940 B.G."; Elijah pairs with a blue and green Walking Heart stone.
 - **Why:** Strong Walking Heart and the World Timeline say humans found the stones in 939 B.G., after Elijah's death in ~940 B.G. Should her era move later (for example ~939 to ~920 B.G.), or did someone pair with a stone before 939 B.G.?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > Nv2: agreed.
+- **Change to the abridged text:** Logical Arrow's era is ~939 to ~920 B.G.
 
 ### NV3. The Sapphire Counter: B.G. or A.G.?
 - **Legacy text:** The Sapphire Counter › Approximated Age: "~840 B.G. - ~850 B.G."; an accountant hoarding "all the balls".
 - **Why:** The balls currency was created after the Prosperity Treaty (650 A.G.), and a company and jail fit the A.G. kingdoms better. Should it be ~840 to ~850 **A.G.**?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > Nv3: yes .
+- **Change to the abridged text:** The Sapphire Counter's era is ~840 to ~850 A.G.
 
 ### NV4. "Freekish Triangle Love"
 - **Legacy text:** the title "Freekish Triangle Love".
 - **Why:** A typo for "Freakish", or a word play on Freeish?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > Nv4: play on the word freeish
+- **Change to the abridged text:** the title stays "Freekish Triangle Love", with a note that it's a play on the word Freeish.
 
 ---
 
