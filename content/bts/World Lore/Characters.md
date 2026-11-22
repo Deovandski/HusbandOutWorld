@@ -753,3 +753,264 @@ The second of [Itagiba](#itagiba-sanbi-royal) and [Neferteri](#neferteri-sanbi-r
 |---|---|---|---|
 | 1 | 24 | 186 cm | 72 kg |
 | 2 | 24 | 186 cm | 72 kg |
+
+# Eori Sanbi Royal
+
+[Itagiba](#itagiba-sanbi-royal) kept wanting a prince, and so Eori came into this world. She inherited a far more feminine appeal than her two older sisters, so her mother pressured her a bit to behave more like a princess. That bottled up some inner demons that can still come out at times, and thanks to [Eiri](#eiri-sanbi-royal), they became a cross between lewdness and anger. Growing up, she also took an interest in dissecting and studying animals, then began making nari gels, though finding test subjects without creating a fuss got harder. Her mother supported that side of her by having her do the non-princess stuff far from the public eye.
+
+She's working toward becoming Courtroom Scientist, since she loves Soul Energy interfaces and has an innate talent for them, and will likely become the next Courtroom Scientist Apprentice; her mother, though, wants her to become the next queen instead. Purple hair; doesn't wear gloves. OCD and controlling like her mother, but far more into sexual perversion and self-indulgence, where [Neferteri](#neferteri-sanbi-royal) is into controlling people's minds. Vulgar. Her favorite pajamas are pink.
+
+- **Race:** human.
+- **Birthday:** 1021 A.G. Moacir 47th.
+- **Attracted to:** defenseless, weak men she can whip into shape (her idea of shape).
+- **Myers-Briggs:** ISTJ.
+- **Intelligence:** very smart and systematic in her nari gel experiments, but she needs a catalyst to push her mind and will forward, or she stalls and barely progresses. She can cook like no other and likes it, but Neferteri suppressed that, since a princess shouldn't be making food; having others cook for her became natural. So having [Harry](#harry-sanbi) under her control, doing everything to please her (he did the cooking in the lab), was very enticing to her narcissistic brain. She needs an outlet for her creativity.
+- **Habits:** in public, she crosses her arms more than anyone and keeps her distance, subtle about showing her true self. Alone with her "bitch", she's aggressive and lustful: handsy, with a stare that penetrates like no other. Her lustful breaths and her warmth tell the rest of the story.
+- **Speech:** a neutral, somewhat cold tone in public; with her "bitch", very straightforward, almost lunatic. During experiments, lust pours through her veins, and her voice.
+- **Strengths:** systematic; organized; scientific; practical; tenacious; affectionate and lustful; daring; persuasive; confident.
+- **Flaws:** smug; impatient; demanding; dependent; impulsive; selfish; narcissistic.
+- **Likes and dislikes:** loves experimenting and being in control: from cooking to nari gels, she wants it all. Loves jabbing at [Yacamim](#yacamim-sanbi-royal) and [Maiara](#maiara-sanbi-royal), since both are way too free compared to her. Likes wearing a different belt depending on her mood (or pajamas). Hates how her mother keeps suppressing her for the sake of the kingdom: she wants control over her destiny, but isn't sure how to break free like her sisters. Are they even really free of it all? Who knows.
+
+  ![][image1]
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 1 | 18 | 175 cm | 65 kg |
+| 2 | 18 | 175 cm | 65 kg |
+
+# Nina Sanbi Royal
+
+A happy accident one night ;). Unlike all the other girls, she's pure sweetness: she got the good stuff from both parents, though greed took over a bit.
+
+- **Race:** human.
+- **Birthday:** 1032 A.G. Asa 80th.
+- **Looks up to:** father figures, especially ones like her own father.
+- **Myers-Briggs:** ESTP.
+- **Intelligence:** pushes boundaries in her own favor; not afraid to learn or try things.
+- **Habits:** points, laughs, throws her hands up. Very physically active, and not afraid to show her raw emotions.
+- **Speech:** innocent and caring, in simple language, but she turns fierce and protective if someone takes what's hers. Sometimes trips over words when excited.
+- **Strengths:** productive; active; funny; caring; affectionate; adventurous; open; decisive; ambitious; a negotiator.
+- **Flaws:** greedy; protective; forgetful.
+- **Likes and dislikes:** loves Rakujas, fruit and sweets in general, and never misses a chance to barter.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 1 | 7 | 105 cm | 24 kg |
+
+# Gabiro Sanbi Royal
+
+Left to die as a baby in Flatland City, to unknown parents assumed to be from Sundeath, he was raised by the city among the Sorefaries, and worked his hardest to help the city that raised him: he wanted to repay everyone's help, never wanting to be in anyone's debt. As a teen, he loved a Wozefaries named Asuka, who never loved him back and turned him down in front of everyone. He fled, and decided to get his revenge by becoming the best scientist ever.
+
+He worked in Sundeath for a while and published a few books nobody seemed to care for, maybe because the ideas were wild, or the uses so out there that nobody could grasp them. Then, in 987 A.G., the one and only Gabiro Sanbi Royal formalized the Darfaries interface verbs and added Transmute and Entangle, creating a new version from the older interfaces. You could say he stole Right, Up, Down, Left and Rolls from other scientists, but he was the one who brought a uniformity no other scientist had in mind, so he took home all the glory.
+
+He stumbled into work at a brewery, where [Itagiba](#itagiba-sanbi-royal) came over to talk after seeing his crazy setup; one thing led to another, and Gabiro decided to start a new life in the Sanbi Kingdom (he met Itagiba in 1013 A.G. and moved to Sanbi in 1015 A.G.). He became one of the greatest scientists of the past centuries, at the cost of keeping everyone at a distance. He has been researching the soul to recreate that same Wozefaries, Asuka, but with her memories manipulated so that she loves him. He never had a wife or kids, and has no wish to, since there's only one person he loves.
+
+A loud-mouthed prick who only cared about himself; [Harry](#harry-sanbi) never met him. After the "silent" explosion in one of the castle towers, he later turned into a Fanchaki during a White Fire event. Researchers are digging through his published works to understand his soul research; some have figured out he was trying to reshape a soul to behave and look exactly as wanted, and suspect [Neferteri](#neferteri-sanbi-royal) directed it.
+
+- **Race:** human, with Wozefaries.
+- **Birthday:** 937 A.G. Paulin 78th.
+- **Attracted to:** girly Wozefaries.
+- **Myers-Briggs:** ENFJ.
+- **Intelligence:** brilliant at everything to do with Soul Energy, especially the soul. But he worries too much about misuse to share his work before it's complete, and besides, he wants to be the first to use it.
+- **Habits:** somewhat aggressive, enough to hurt people a bit physically; sighs and mumbles a lot around [Kibe](#kibe-sanbi-royal).
+- **Speech:** curses; asks questions, but gives up as soon as his mind catches up and works out the answer; choice words. Hates repeating himself.
+- **Strengths:** idealistic; organized, in some ways, and likes to encrypt his work; responsible; a communicator, in his own way, and he does love his connection with the other Sanbi Royals, in his own way; pioneering; frank; educated.
+- **Flaws:** insulting; thin-skinned; outrageous; opinionated: he thinks everything can be done in an instant, then backs himself into a corner for lack of time, but never asks for more, and always figures something out, even if it means passing the buck for others to figure shit out; difficult; vague; crazy, a lunatic; secretive.
+- **Likes and dislikes:** hates alcohol ("That shit will interfere with my research."). Loves sausage and chewy food, since chewing helps him think, and often chews Lolish roots on the go. Likes people who understand him without needing many words.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 1 | 102 | 166 cm | 48 kg |
+
+# Kibe Sanbi Royal
+
+Left at an orphanage in Sanbi. One day [Gabiro](#gabiro-sanbi-royal) noticed his spell power was high for his age and took him on as an apprentice. Kibe came to depend on Gabiro, and also became quick to decide without thinking things through; the carefree air about him is too much. He has been the apprentice ever since, but hasn't learned as much as an apprentice should, partly because he doesn't care enough about anything in particular. He stays silent and only speaks when spoken to, like a doormat, and his usual reply is "Eh" (mild interest or mild disinterest; you can't tell). He conveniently forgets tasks, or stops thinking of them as tasks at all. He doesn't like how Time Quicken feels. [Neferteri](#neferteri-sanbi-royal) passes orders to the guards through him. [Itagiba](#itagiba-sanbi-royal) never thought highly of him: of all the crap Gabiro did, taking Kibe as his apprentice was probably the worst.
+
+- **Race:** human.
+- **Birthday:** 989 A.G. Adrian 20th.
+- **Attracted to:** gay; he likes really tall, muscly guys, and prefers humans. Earning his own income let him keep it secret, though nobody would care, except [Eiri](#eiri-sanbi-royal), who pokes fun at him for being so uptight about it.
+- **Myers-Briggs:** ESFJ.
+- **Intelligence:** smart enough to be an assistant, but not the best one around: his mind always drifts back to whatever he deems important, which rarely lines up 100% with his job.
+- **Habits:** fairly neutral. He doesn't respond aggressively, and sincerely replies with some kind of blame; freezes in danger; mumbles instead of getting aggressive; prefers solitude.
+- **Speech:** "Sure, Gabiro." Somewhat monotone. He goes along, and sincerely asks just enough to get the ball rolling and do his job, but no more than he needs, since he might not remember it anyway.
+- **Strengths:** Gabiro's caretaker, and a partner of sorts, though not as involved or helpful as you'd expect; sincere; agreeable; non-authoritarian; responsive; modest; clean.
+- **Flaws:** hates change; dependent on others; aimless; artificial; blunt; narcissistic; a killjoy; lazy; a bit impatient; passes the buck as quickly as possible; uncaring; pessimistic.
+- **Likes and dislikes:** loves peace and quiet. Likes eating dinner alone, or with Gabiro while they research.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 1 | 50 | 175 cm | 66 kg |
+| 2 | 50 | 175 cm | 66 kg |
+
+# Eiri Sanbi Royal
+
+Born in Sanbi (see the Q&A for the day) and raised there by parents with a Tier III profession: her mother, [Coema](#coema-sanbi-half-cruro), was the King-maid before her. She loved helping in the kitchen and decided to become a chef (1028 A.G.). At school, she took a few off-the-clock "cooking lessons" on how to warm up boys' sausages, and one of the boys was an accountant: she fell in love with accounting instead of the boy, and graduated in both (1036 A.G.). Coema knew she would grow into the role of King-maid and gave her a chance as a maid (1036 A.G.). Thanks to her outstanding knowledge, looks and playfulness, Coema promoted her to King-maid on 1038 A.G. Asa 9th, the day before her birthday. On 1038 A.G. Asa 77th, passing through Forway, she found [Arukia](#arukia-long-bridge) and hired her at the drop of a hat.
+
+Since Vol 1, she's no longer as subservient: she has more sass, pushes back, and would do it again to protect the people she cares about. [Neferteri](#neferteri-sanbi-royal) can still get her to comply with sweet talk and moves that look good for her maids (and Harry). As King-maid, she has no control over the general or the city guard. Sanbi gossips that she's becoming "Coema 2.0", which is kind of true, and Neferteri hates it. She knows every maid's name, and even how to spell it.
+
+- **Race:** human.
+- **Birthday:** 1017 A.G. Paulin 74th (see the Q&A).
+- **Attracted to:** Darfaries and human men, as long as they know how to please a woman's wavering heart.
+- **Myers-Briggs:** ESFP.
+- **Intelligence:** very smart at accounting and anything maid-related. She can organize people like no other, and does her best to create a loving environment for her maids.
+- **Habits:** keeps her gloves on most of the time, but takes them off when dealing with people, especially to help them. Anxious: she wants to care for people, first and foremost, and may bite her nails when too many thoughts cloud her mind, one of the reasons she wears gloves. Her body hints at her emotions like an open book. Remembers things at odd times. Phantasia. Imitates some of the people she's close to.
+- **Speech:** playful, with a beautiful, charming voice that soothes the soul, almost motherly. She uses names, talks directly, and uses intonation and pauses; her emotions do affect her voice.
+- **Strengths:** playful; ecchi (unfazed by male genitals); friendly; flexible; personable; spontaneous; sympathetic; tidy; caring; trusting.
+- **Flaws:** somewhat wavering; gets stuck in some emotions, and takes a while to climb out of emotional pits; insecure; indecisive; facetious; gullible; disruptive, talking over people.
+- **Likes and dislikes:** loves a good joke or comment, with no no-go zone for funny remarks. Dislikes anyone being pushy with her maids, or with anyone else; she likes people to have their freedom. Loves fish and being clean, and fruity sweets, especially crunchy finger cakes or anything like them.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 1 | 22 | 175 cm | 62 kg |
+| 2 | 22 | 175 cm | 62 kg |
+
+# Coema Sanbi Half-Cruro
+
+Coema grew up in Sanbi and was King-maid before handing the position to [Eiri](#eiri-sanbi-royal). She created and standardized the Sanbi maid uniform. She met a lovely gentleman from Forway and had Eiri, but as time passed, their love burned out. She was rather carefree with her maids, but to her credit, it formed a league of maids very loyal to the Sanbi Kingdom. Now retired, she helps out the city and the people she loves, especially Cruros: she's a friend of [Kiko](#kiko-sanbi-half-cruro), and helped his Half-Cruro guild shine (hence the Half-Cruro in her name). [Neferteri](#neferteri-sanbi-royal) passionately dislikes her: Coema often challenged her authority and dismantled her mind games, more directly and intensely than Neferteri's cold, superior style. She has moved to Newland.
+
+- **Race:** human.
+- **Birthday:** 987 A.G. Paulin 29th.
+- **Attracted to:** a cougar. She likes handsome men, who just happen to be younger.
+- **Myers-Briggs:** ESFJ.
+- **Intelligence:** as smart as Eiri; perceptive of context, and knows what to say.
+- **Habits:** perceptive like Eiri, but handsier, like [Itagiba](#itagiba-sanbi-royal); likes to be comfortable; an adulterous smirk.
+- **Speech:** upfront, yet unserious. She prefers one-on-one conversations to extract the information she needs, and avoids hypotheticals: she just goes for what she thinks is best right now.
+- **Strengths:** conscientious; empathetic; romantic; willing; independent; a busybody.
+- **Flaws:** shameless; ecchi (she'll play with male genitals without batting an eye); patronizing; compulsive; disruptive.
+- **Likes and dislikes:** loves relaxing, talking with people and socializing in general; loves prying into her daughter's affairs; loves helping people, especially if it bothers the people she hates. Doesn't like fatty foods.
+- **Interface:** Darfaries.
+
+# Sora Sanbi Blue-Glass
+
+Born in the Sanbi Kingdom to Wozefaries parents from Flatland City, who built a soap shop that paid for Sora's education, and she became a maid at the kingdom. She's extremely good with finances and cooking, so [Eiri](#eiri-sanbi-royal) grabbed her before anyone else could sink their fangs in. Sora accepted, finished school earlier than everyone, and went back to the Sanbi Kingdom.
+
+- **Race:** Wozefaries.
+- **Birthday:** 1025 A.G. Moacir 75th (see the Q&A).
+- **Fascinated by:** tall, handsome human men who are kind to her and treat her well; she has that prince-like wish.
+- **Myers-Briggs:** INFP.
+- **Intelligence:** very smart with accounting and numbers in general, but her social skills took a hit. She also picked up cooking like a pro along the way.
+- **Habits:** avoids eye contact; keeps her hands to herself; helps those she feels neutral about. If she notices someone might have feelings for her, her head implodes from sheer embarrassment, imagining the wedding.
+- **Speech:** a soft, girly voice. She can get embarrassed and misspeak, or simply flee, flipping between normal-ish speech and full embarrassment on a dime. Adds "mister", "lady" and so on; she likes to make polite speeches, but isn't as versed with words as [Neferteri](#neferteri-sanbi-royal).
+- **Strengths:** intelligent; helpful; disciplined; punctual; hardworking; motivating.
+- **Flaws:** socially invisible and quiet, though she can push against it when she must; the spotlight effect, especially about other people's feelings; weak; too embarrassed at times; anxiety central.
+- **Likes and dislikes:** likes Tolerideme and Sanbi food, numbers and food. Not fond of pushy people. She smells of gentle body soap over her natural Wozefaries scent: girly, on the sweet side.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 1 | 14 | 145 cm | 41 kg |
+| 2 | 14 | 145 cm | 41 kg |
+
+# Ukim Sanbi
+
+A new maid at Sanbi Castle, on the night shift. She was called "Meya" in an early draft of Vol 4.
+
+- **Race:** human.
+- **Birthday:** 1023 A.G. Asa 39th.
+- **Myers-Briggs:** ENFP.
+- **Intelligence:** a quick learner, eager to understand the new job and how everyone and everything in the castle works.
+- **Habits:** leans in and probes: the intrusive, curious type. Bright, energetic movements; carries more than she should and refuses help.
+- **Speech:** friendly, cheerful and blunt; laughs things off. Not as anxious as [Sora](#sora-sanbi-blue-glass).
+- **Strengths:** friendly; curious; eager to learn; energetic; cheerful.
+- **Flaws:** intrusive; nosy about the drama; sassy.
+- **Likes and dislikes:** loves music, and sings while she works. Likes learning the new job, and some of the drama.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 4 | 16 | 158 cm | 42 kg |
+
+# Kiko Sanbi Half-Cruro
+
+A big, tough-looking and intelligent Cruro who fled Cruroland for a new life. Forway culture seeped into him, and with his drive, he made a fortune with other Cruros when he founded the Half-Cruro guild. His friend [Coema](#coema-sanbi-half-cruro) helped the guild shine. (His name follows the Name Schema: Sanbi, his place, and Half-Cruro, his guild.)
+
+- **Race:** Cruro.
+- **Birthday:** 1018 A.G. Adrian 37th.
+- **Attracted to:** THICC Cruro girls.
+- **Myers-Briggs:** ENTJ.
+- **Intelligence:** average human intelligence, with street smarts, especially for sniffing out good deals.
+- **Habits:** keeps eye contact, with rhythmic blinking and a mostly still posture, almost robotic. When he snaps out of it, he furiously writes Vraki words in his book. (Real-world comparison: Eucliwood Hellscythe, from the anime *Is This a Zombie?*, who also speaks mostly through writing.) He's rarely seen making grunts.
+- **Speech:** nearly none.
+- **Strengths:** a listener; a thinker; quiet; focused; objective; witty; selfless, especially for his guild; ambitious; driven.
+- **Flaws:** guarded; predatory, especially in his deals; materialistic; greedy; controlling and micromanaging, with something of a tribal-leader mentality.
+- **Likes and dislikes:** loves seafood, meat and anything else that ever walked this earth. Doesn't care much for vegetables or fruit.
+- **Interface:** Cruro.
+
+# Zico Sanbi Half-Cruro
+
+He grew up in a village where he was almost culled. His mother fled with him, but she was killed by bandits, and the kid found his way to a village where he became the village pet, of sorts. Word spread, and [Kiko](#kiko-sanbi-half-cruro) eventually brought him under the Half-Cruro guild's care. Zico still visits that village every so often to say hi.
+
+- **Race:** Cruro.
+- **Birthday:** 1023 A.G. Asa 69th.
+- **Fascinated by:** cute Cruro girls, and Wozefaries.
+- **Myers-Briggs:** ESFJ.
+- **Intelligence:** still wet behind the ears, with tons to learn working under Kiko, and can't quite manage on his own yet. A bit dumb, in other words.
+- **Habits:** writes while others talk, and waves his notebook around for attention if nobody is "listening" to him.
+- **Speech:** grunts in response as he scribbles away; he manages to say yes or no, or show excitement and some other emotions, with grunts. Some people get weirded out; others don't.
+- **Strengths:** active; talkative; friendly; quick.
+- **Flaws:** guarded; sometimes too eager to pull the trigger on deals; hurried; forgetful; foolish; innocent; neglectful.
+- **Likes and dislikes:** loves meat, especially seared over coal with Tastyleaf sprinkled on top.
+- **Interface:** Cruro.
+
+# Huneo Sanbi Royal
+
+His badge reads **Huneo Sanbi Sandour** as of Vol 4: he's from a rich Forway family with deep ties to, and history with, the Sanbi Kingdom, in the Sandour guild (Sanbi Dock Four). He gets the Royal "treatment" in the future books, once [Kibe](#kibe-sanbi-royal) takes him on as his apprentice (see the Q&A).
+
+His parents had many children, which left them carefree with them, for lack of time. Growing up that way, he always thought the laid-back, carefree approach of the Sanbi Royals needed to change. With no way into the royal family, he did the next best thing and became a Sanbi guard, and thanks to his righteousness, he quickly became the best guard captain of the Sanbi Kingdom.
+
+- **Race:** Wozefaries.
+- **Birthday:** 1016 A.G. Adrian 13th.
+- **Attracted to:** a woman on the same wavelength as him, whatever she looks like; he values personality above all else.
+- **Myers-Briggs:** ENTP.
+- **Intelligence:** knows a great deal about the intricacies of the law, and always tries to learn more. The same can't be said for street smarts, or for reading the thoughts behind people's words.
+- **Habits:** likes to stand around, point and stare; firm in his speech. Even his sitting is upright: firm posture, broad shoulders, and a loud voice, almost as if on purpose.
+- **Speech:** uses formal titles, job titles and so on, then the name. Spins things as "I did this", even when others did it under his direction. Tells people to their faces what they should be doing, and whips out his specific knowledge to prove how things must be done, or how he thinks they must, though he'd never say so, being too stuck-up to imagine other ways to approach a problem. He probes with questions to make sure people understand how it must be done.
+- **Strengths:** righteous; law and order; idealistic; respectful; decisive; outspoken; a leader; honest, to a fault; self-righteous.
+- **Flaws:** uptight; too idealistic; self-important; black and white, with no gray zone.
+- **Likes and dislikes:** honesty from people; frank conversations.
+- **Interface:** Darfaries.
+
+# Namia Sundeath
+
+Born in Sundeath and raised in one of the Pharaoh's servant families, she crossed paths with [Neferteri](#neferteri-sanbi-royal) on one of her visits and decided to follow her instead. She has worked in Sanbi ever since. Not an adventurer.
+
+- **Race:** human.
+- **Birthday:** 1015 A.G. Paulin 27th.
+- **Attracted to:** men.
+- **Myers-Briggs:** ISTJ.
+- **Intelligence:** quite smart, and thoughtful about her words and actions, to best serve her queen. She wants to be like her, rather than to be her.
+- **Habits:** stoic; she walks and acts toward her goals. If you're in her way, you get one chance to move before she kills you.
+- **Speech:** soft-spoken and flat. She says what's on her mind to best serve her queen, and only gives ultimatums.
+- **Strengths:** responsible; sincere; analytical; hardworking; trustworthy; disciplined; persistent; rational; mature.
+- **Flaws:** reserved; detached; blunt; passive; grim; neurotic; cold.
+- **Likes and dislikes:** loves being praised by her queen. Hates things getting in her way, and hates dealing with people, talking with them and being exposed, so she loves using nari gels. No one knows her original appearance anymore, since she seems to be slowly tweaking it to look more like Neferteri.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| ? | ? | 132 cm | 42 kg |
+
+# Lofinghy Sanbi Forway Aquamarine-General
+
+He has worked closely with the Sanbi Royals a great deal. He's the one who got [Harry](#harry-sanbi)'s badge for [Itagiba](#itagiba-sanbi-royal), without knowing the details: all he knew was that a random hobo had been revived and needed a badge for the competition the next morning, and since he trusted Itagiba, he didn't require Harry to be present at the embassy. Very direct: he doesn't hesitate and doesn't back down. He has a quid pro quo contract with [Neferteri](#neferteri-sanbi-royal): he gives her information, and she's bound to back his rise through the ranks, give him the information he asks for, and nudge the kingdoms with voting power to make him Sapphire General. His daughter is [Lofingha](#lofingha-forway-amethyst-captain).
+
+- **Race:** human.
+- **Birthday:** 993 A.G. Adrian 51st.
+- **Attracted to:** stronger, independent women, Darfaries or not.
+- **Myers-Briggs:** ESTJ.
+- **Intelligence:** a memory for the law like no other. Strong-willed about what he thinks is right, and he'll go to great lengths to explain it.
+- **Habits:** moves his hands; pauses to think, still as a stone until his mind is resolute and absolute about what to say.
+- **Speech:** resolute and straight to the point, breaking his sentences up; the drunker he gets, the longer the pauses, until he stops talking altogether. He's willing to fight with words, and makes sure your morals line up with his: sharp-toothed, cutting through the bullshit.
+- **Strengths:** compassionate; a listener; thorough; responsible; objective; heroic; confident; capable; articulate; restrained about unnecessary fights; convinced of his morals.
+- **Flaws:** abrasive; tense; fixed; dogmatic; difficult; blunt.
+- **Likes and dislikes:** likes strong-willed people, and loves to debate: say "I don't agree", and expect to be talking with him for the next timehunk. Likes fine drinks, especially "Purply Smart Lambic Beer".
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 3 | 46 | 175 cm | 90 kg |
