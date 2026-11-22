@@ -16,23 +16,39 @@ Every question asked of the author and his answer (word for word), every gap fil
 
 Harry, Magi, Fernan, Hiromi, Morika, Takeo, July, Kaiana, Posaqui, Akemi, Jonem.
 
-Status: **open** until answered.
+Status: **answered** 2026-11-22.
 
 ### CH1. Takeo: Darfaries or human?
 - **Legacy text:** Race "Darfaries"; Interface "Darfaries". Isekai History: "Takeo is technically human as he lacks the Darfaries' veins. He is conflicted as to whether or not that fact is true."
 - **Why:** Should Race say human (looks like a Darfaries), or Darfaries as written?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > Ch1: yes.
+- **Change to the abridged text:** Race: "human, though he looks like a Darfaries."
 
 ### CH2. Akemi: born in Blood City or Flatland?
 - **Legacy text:** "Akemi's parents were from flatland, but found themselves in Blood city later where she was born. Grew up in Flatland city." Later: "many years later ended up in blood city."
 - **Why:** Born in Blood City and raised in Flatland, then back to Blood City? Or born and raised in Flatland?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > Ch2: anything else mentioned about this anywhere else? If not, born in Blood, raised in flatland and young adult she found her way back there. Make fun of it like some people are just "destined" for something and doesn't matter what happens it seems that they keep getting grabbed back to a specific place.
+- **Change to the abridged text:** checked first: no other Legacy doc says where Akemi was born or raised (City.md only notes the Blue-Flower-Red-Bone guild was created when she and Fernan married; `Legacy/Public/characters.md` doesn't say). The abridged text: born in Blood City, raised in Flatland City, back in Blood City as a young adult, with "Some people are just \"destined\" for a place: no matter what happens, it keeps grabbing them back."
 
 ### CH3. Akemi's birth year
 - **Legacy text:** Akemi "1004 A.G. Asa 64th"; Magi "1020 A.G. Asa 3rd"; Fernan "994 A.G. Adrian 6th".
 - **Why:** That makes Akemi 16 when Magi was born, after a first quest and "many years" as a historian. Is 1004 right?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > Ch3: tweak Akemis Birthday so that she had Magi at 26. Make it official.
+- **Change to the abridged text:** Birthday 993 A.G. Asa 64th (Magi was born on 1020 A.G. Asa 3rd, when Akemi was 26). **Made official:** `content/fixes.json` corrects "1004 A.G. Asa 64th" in the raw Characters notes and in `Legacy/Public/characters.md`, and the translated public paragraph is re-keyed with 993 in all fourteen languages.
 
 ### CH4. Posaqui's age
 - **Legacy text:** Birthday "1023 A.G. Asa 33"; Book 3 age "?"; an Amethyst adventurer and one of Neferteri's agents.
 - **Why:** 1023 makes him 16 in 1039. Is that right?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > Ch4: yes. He is an young starter. Make reference that despite being precocial (or whatever the wording is) he is incredibly talented and serious with his contracts, making him look older for basically everyone.
+- **Change to the abridged text:** "He's a young starter, only 16 in 1039, but despite being so precocious, he's incredibly talented and serious about his contracts, which makes almost everyone think he's older." Book 3 age: 16.
 
 ### Judgment calls in batch 1
 - **"Attracted to" for minors:** left out for Jonem (born 1029, 10 in 1039) and Posaqui (16 in 1039); the raw notes behind the toggle keep the line.

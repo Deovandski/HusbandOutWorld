@@ -267,5 +267,19 @@
       "replace": "  * That was when the first king (Gandew) established the Goodbye Cliff, where all Wozefaries & Sorefaries were sent flying towards Flatland. Anyone who does not accept such methodology must leave.  \n  * With the ancient species kicked out, the Darfaries named the mountain Gandew after their first king, claiming it as their own.",
       "why": "The author's decision on how the desert mountain got its name (issue #103, World Timeline Q&A, T1 follow-up), made official."
     }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Characters.md": [
+    {
+      "find": "1004 A.G. Asa 64th",
+      "replace": "993 A.G. Asa 64th",
+      "why": "Akemi's birthday moved so she had Magi at 26 (the author's decision, issue #103, Characters Q&A CH3), made official."
+    }
+  ],
+  "Legacy/Public/characters.md": [
+    {
+      "find": "1004 A.G. Asa 64th",
+      "replace": "993 A.G. Asa 64th",
+      "why": "Akemi's birthday moved so she had Magi at 26 (the author's decision, issue #103, Characters Q&A CH3), made official."
+    }
   ]
 }

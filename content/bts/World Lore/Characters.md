@@ -122,7 +122,7 @@ He's very subservient to [Neferteri](#neferteri-sanbi-royal) and models himself 
 
 [Francisco](#francisco-forway-tea-drinkers)'s only son. Passersby take him for a Darfaries after one glance at his height and thick, protruding teeth, but Takeo is technically human, since he lacks the Darfaries veins, and he's conflicted about whether that's true. He's known for being too reserved and polite with everyone, often going as far as leaving parties over any small conflict rather than hashing it out. At the same time, he seems far too eager to use his finger clipper to extract information from anyone he deems suspicious. Some adventurers suspect he eats more Hifuna Yabucas than he should.
 
-- **Race:** Darfaries (see the Q&A).
+- **Race:** human, though he looks like a Darfaries.
 - **Birthday:** 969 A.G. Asa 23rd.
 - **Attracted to:** maybe a human girl as big as him; he wants to find someone in a situation like his.
 - **Myers-Briggs:** ISFP.
@@ -174,7 +174,7 @@ A bit sassy and straightforward, like [Itagiba](#itagiba-sanbi-royal): she's his
 
 # Posaqui Sanbi
 
-Born in Sanbi and raised by a poor family in the slums, he talked his way into a better life, and landed a contract as one of [Neferteri](#neferteri-sanbi-royal)'s agents. In Vol 3, as her agent, he's the random guy stirring things up in Chapter 1.
+Born in Sanbi and raised by a poor family in the slums, he talked his way into a better life, and landed a contract as one of [Neferteri](#neferteri-sanbi-royal)'s agents. He's a young starter, only 16 in 1039, but despite being so precocious, he's incredibly talented and serious about his contracts, which makes almost everyone think he's older. In Vol 3, as her agent, he's the random guy stirring things up in Chapter 1.
 
 - **Race:** human; born male, effeminate.
 - **Birthday:** 1023 A.G. Asa 33rd.
@@ -189,16 +189,16 @@ Born in Sanbi and raised by a poor family in the slums, he talked his way into a
 
 | Book | Age | Height | Weight |
 |---|---|---|---|
-| 3 | ? | 144 cm | 50 kg |
+| 3 | 16 | 144 cm | 50 kg |
 
 # Akemi Blood Blue-Flower-Red-Bone
 
-[Magi](#magi-blood-blue-flower-red-bone)'s mother. Her parents were from Flatland, but later ended up in Blood City, where she was born; she grew up in Flatland City (see the Q&A). She grew up overhearing adventure stories in the bar where she worked and wanted to become an adventurer, but on her first quest she realized she didn't have the physique, or the will, for it (she also hated the outdoors). Then a perfect example of an adventurer, in her eyes, came up and asked if she was okay. She explained, and he patted her shoulder and suggested she become a historian: all the history, with barely any danger. She agreed, and many years later ended up in Blood City.
+[Magi](#magi-blood-blue-flower-red-bone)'s mother. Her parents were from Flatland, but later ended up in Blood City, where she was born. She grew up in Flatland City, overhearing adventure stories in the bar where she worked and wanted to become an adventurer, but on her first quest she realized she didn't have the physique, or the will, for it (she also hated the outdoors). Then a perfect example of an adventurer, in her eyes, came up and asked if she was okay. She explained, and he patted her shoulder and suggested she become a historian: all the history, with barely any danger. She agreed, and as a young adult she found her way back to Blood City. Some people are just "destined" for a place: no matter what happens, it keeps grabbing them back.
 
 To her surprise, that same adventurer, [Fernan](#fernan-blood-blue-flower-red-bone), passed by her again one day and asked how she was doing. She said she'd followed his advice, and he giddily asked if he could give her another piece of advice: go on a date with him! They grew closer, and Magi and her little brother were born. Akemi knows a fair amount of history, but her real interest lies in the occult and forbidden knowledge. Her clothes show some wear, since she's saving every ball she can for her son's specialty school.
 
 - **Race:** Wozefaries.
-- **Birthday:** 1004 A.G. Asa 64th (see the Q&A).
+- **Birthday:** 993 A.G. Asa 64th (she had Magi at 26).
 - **Attracted to:** humans: charming, jovial and dependent, who care about her more than anyone else.
 - **Myers-Briggs:** INTJ.
 - **Intelligence:** above average, especially in history and the occult.
