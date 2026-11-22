@@ -273,6 +273,16 @@
       "find": "1004 A.G. Asa 64th",
       "replace": "993 A.G. Asa 64th",
       "why": "Akemi's birthday moved so she had Magi at 26 (the author's decision, issue #103, Characters Q&A CH3), made official."
+    },
+    {
+      "find": "1017 A.G. Asa 80th",
+      "replace": "1019 A.G. Asa 80th",
+      "why": "Katsuki and Katsumi are 20 in Book 4 (1039 A.G.), the author's decision (issue #103, Characters Q&A CH5)."
+    },
+    {
+      "find": "974 A.G. Paulin 69th",
+      "replace": "979 A.G. Paulin 69th",
+      "why": "Ryo is 60 in Book 2 (1039 A.G.), the author's decision (issue #103, Characters Q&A CH6)."
     }
   ],
   "Legacy/Public/characters.md": [
@@ -280,6 +290,16 @@
       "find": "1004 A.G. Asa 64th",
       "replace": "993 A.G. Asa 64th",
       "why": "Akemi's birthday moved so she had Magi at 26 (the author's decision, issue #103, Characters Q&A CH3), made official."
+    },
+    {
+      "find": "1017 A.G. Asa 80th",
+      "replace": "1019 A.G. Asa 80th",
+      "why": "Katsuki and Katsumi are 20 in Book 4 (1039 A.G.), the author's decision (issue #103, Characters Q&A CH5)."
+    },
+    {
+      "find": "974 A.G. Paulin 69th",
+      "replace": "979 A.G. Paulin 69th",
+      "why": "Ryo is 60 in Book 2 (1039 A.G.), the author's decision (issue #103, Characters Q&A CH6)."
     }
   ]
 }

@@ -61,23 +61,39 @@ Status: **answered** 2026-11-22.
 
 Katsuki, Katsumi, Ryo, Hanako, Mimi, Kozaku, Laura, Yosuke, Rimir, Francisco, Biny, Lofingha.
 
-Status: **open** until answered.
+Status: **answered** 2026-11-22.
 
 ### CH5. Katsuki and Katsumi's age in Book 4
 - **Legacy text:** both born "1017 A.G. Asa 80th"; Book 4 age "20". The Documentation Notation puts Books 1 to 3 in 1039 A.G.
 - **Why:** Born in 1017, they'd be 22 in 1039. Is Book 4 set around 1037, or should the birth year be 1019, or the age 22?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > Ch5: change birth date to match 20 on book 4. [...] Vol 3 and 4 are also set in 1039 a.g
+- **Change to the abridged text:** Katsuki and Katsumi: Birthday 1019 A.G. Asa 80th. **Made official** (the public description shows the same date, so the website stays consistent): `content/fixes.json` corrects it in the raw notes and `Legacy/Public/characters.md`, and the translated public paragraphs are re-keyed in all fourteen languages. The abridged Documentation Notation now says Books 1 to 4 all take place in 1039 A.G.
 
 ### CH6. Ryo's age in Book 2
 - **Legacy text:** Birthday "974 A.G. Paulin 69th."; Book 2 age "60".
 - **Why:** Book 2 is in 1039 A.G., which makes him 65 (or born in 979). Which one?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > Ch6: 60 in book 2. Change Birthday to match.
+- **Change to the abridged text:** Ryo: Birthday 979 A.G. Paulin 69th. **Made official** the same way as CH5.
 
 ### CH7. Katsuki: "but necessarily Darfaries"
 - **Legacy text:** Sexuality: "Kinder males, of higher stature, but necessarily Darfaries."
 - **Why:** Read as "but **not** necessarily Darfaries" (the abridged text, for now)?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > Ch7:yes.
+- **Change to the abridged text:** "kinder, taller men, but not necessarily Darfaries".
 
 ### CH8. Hanako and Mimi: sisters?
 - **Legacy text:** both born "1024 A.G. Asa 12th" to Darfaries parents who threw them off the Goodbye Cliff; rescued by Flatland together. Hanako is a Wozefaries, Mimi a Sorefaries.
 - **Why:** Are they twin sisters? (The abridged text doesn't say.)
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > Ch8: no. I believe hanako is wozefaries and mimi is sorefaries. From memories, they were both throw from goodbye cliff. So they became sisters due to circumstances in a way. No one knows their parents other than parents themselves...
+- **Change to the abridged text:** both entries add: "Hanako and Mimi aren't related by blood: both were thrown off the Goodbye Cliff, and they became sisters through circumstance. No one knows who their parents are, except the parents themselves."
 
 ### Judgment calls in batch 2
 - **Twins:** Katsuki and Katsumi are written as twins: the notes call them the "second children" of Satomi and Nooru, with the same birthday, and Katsumi's story is "just like Katsuki" (Katsuki is a Wozefaries, so the twins are Hiromi's younger sisters).
@@ -105,4 +121,4 @@ See CH1 to CH8.
 ## Left out on purpose
 
 - The Website Description of each character (the public text, already shown on the page).
-- The Documentation Notation stays as written.
+- The Documentation Notation is abridged with the author's answer to CH5 (Books 1 to 4 in 1039 A.G.) and a link to the characters' Soul Energy spreadsheet.

@@ -4,6 +4,12 @@ status: abridged in batches; batch 1 (Adventurers and Blood) asked 2026-11-22 (s
 note: each character gets their backstory first, then a list of facts (race, birthday, who they're attracted to, Myers-Briggs type, intelligence, habits, speech, strengths, flaws, likes and dislikes, Soul Energy), then their stats by book. The Website Description is the public text, shown above the Behind The Scenes notes. Characters not yet abridged fall back to the raw notes.
 ---
 
+# Documentation Notation
+
+- **Backstory ("Isekai History (Prior to Story)"):** up to 1039 A.G. Paulin 14th. For what happens after, see the book outline.
+- **When the books are set:** Books 1 to 4 all take place in 1039 A.G.
+- **Lifespan, Soul Energy capacity and so on:** in the [Soul Energy spreadsheet for characters](Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Soul%20Energy%20-%20Characters.xlsx).
+
 # Harry Sanbi
 
 In his previous life, Harry was Desmond. In 978 A.G., in another universe, Desmond died of a heart attack after drinking too much coffee, eating too many tacos and working long hours. In 1039 A.G., his decaying soul was bound back to flesh in this universe, and he woke up with no idea where he was…
@@ -229,8 +235,8 @@ To her surprise, that same adventurer, [Fernan](#fernan-blood-blue-flower-red-bo
 Born in Gandew, the second children of [Satomi](#satomi-high-gandew-tough-hammer) and [Nooru](#nooru-high-gandew-tough-hammer) along with her twin, [Katsumi](#katsumi-flatland-long-blue), but thrown off the cliff and rescued in the desert by the [Red Winga](/lore/factions/#red-winga). Under the Red Winga's "protection", she grew up in Forway doing odd jobs for the madams, until she came of age and was persuaded to sign a contract to become an agent (mostly because of her sister). A few weeks later, the two of them fled, but they were caught and punished for it. She resents that Flatland never rescued them instead, but she never does anything to change her situation; in fact, she piles on so much pessimism that her sister loses heart about it.
 
 - **Race:** Wozefaries.
-- **Birthday:** 1017 A.G. Asa 80th.
-- **Attracted to:** kinder, taller men, but not necessarily Darfaries (see the Q&A). Romantic by nature.
+- **Birthday:** 1019 A.G. Asa 80th.
+- **Attracted to:** kinder, taller men, but not necessarily Darfaries. Romantic by nature.
 - **Myers-Briggs:** ISTJ.
 - **Intelligence:** taught herself to read. She's on the cunning side, but for lack of street smarts and knowledge of the world, especially of what being independent truly means, she ends up reserved, if not pessimistic, in how she thinks.
 - **Habits:** she has built a wall between her work persona and her true self, and lets out a long sigh with her eyes closed as she switches between them. Her work persona is direct, forceful and sometimes aggressive: the "bad cop". Her true self is quiet, reserved and cute, and rarely speaks.
@@ -249,7 +255,7 @@ Born in Gandew, the second children of [Satomi](#satomi-high-gandew-tough-hammer
 Her story starts like her twin [Katsuki](#katsuki-flatland-long-blue)'s, but her friendly, spirited nature helped land them both an agent role. That is, until Katsumi truly tasted freedom and decided to flee it all. Now they're locked in a room, hidden from everyone. She hates [Arukia](#arukia-long-bridge) and the [Red Winga](/lore/factions/#red-winga), and tries to escape at every chance she gets, but her pessimistic sister shoots it down every time, especially since Katsumi is the one who got them into this situation in the first place.
 
 - **Race:** Wozefaries.
-- **Birthday:** 1017 A.G. Asa 80th.
+- **Birthday:** 1019 A.G. Asa 80th.
 - **Attracted to:** she has a high sex drive, and likes aggressive men who make a plaything of her; she loves the sexual side of her job. She also has a thing for men who don't fall for her playfulness: she sees herself as a true beauty all men must fall for.
 - **Myers-Briggs:** ESFJ.
 - **Intelligence:** can't read, but her street smarts, especially at bending men to her will, are really useful.
@@ -269,7 +275,7 @@ Her story starts like her twin [Katsuki](#katsuki-flatland-long-blue)'s, but her
 The son of a human and a Wozefaries, merchants who taught him the ropes. He took after them and made a fair amount of money through various ventures, but also lost a decent amount on failed projects. What matters is that he's adaptable, and will eventually take on whatever business proposal someone brings him.
 
 - **Race:** Wozefaries.
-- **Birthday:** 974 A.G. Paulin 69th.
+- **Birthday:** 979 A.G. Paulin 69th.
 - **Attracted to:** Wozefaries, especially ones with a high sex drive.
 - **Myers-Briggs:** INFJ.
 - **Intelligence:** above average; he went to a specialty school for accounting. Not great at street smarts or relationships, though.
@@ -286,7 +292,7 @@ The son of a human and a Wozefaries, merchants who taught him the ropes. He took
 
 # Hanako Flatland
 
-Born to Darfaries parents who threw her off the Goodbye Cliff, she was rescued by Flatland. She and [Mimi](#mimi-flatland) lived a simple life working for the town and its taverns, until they met [Yosuke](#yosuke-forway-wood-people-picker) on his travels. Mimi bonded with him, so Hanako came along, and now they work together as a family.
+Born to Darfaries parents who threw her off the Goodbye Cliff, she was rescued by Flatland. She and [Mimi](#mimi-flatland) lived a simple life working for the town and its taverns, until they met [Yosuke](#yosuke-forway-wood-people-picker) on his travels. Mimi bonded with him, so Hanako came along, and now they work together as a family. Hanako and Mimi aren't related by blood: both were thrown off the Goodbye Cliff, and they became sisters through circumstance. No one knows who their parents are, except the parents themselves.
 
 - **Race:** Wozefaries.
 - **Birthday:** 1024 A.G. Asa 12th.
@@ -301,7 +307,7 @@ Born to Darfaries parents who threw her off the Goodbye Cliff, she was rescued b
 
 # Mimi Flatland
 
-Born to Darfaries parents who threw her off the Goodbye Cliff, she was rescued by Flatland. She and [Hanako](#hanako-flatland) lived a simple life working for the town and its taverns, until they met [Yosuke](#yosuke-forway-wood-people-picker) on his travels. Mimi bonded with him, and since Hanako wouldn't leave her on her own, she came along too; now they work together as a family.
+Born to Darfaries parents who threw her off the Goodbye Cliff, she was rescued by Flatland. She and [Hanako](#hanako-flatland) lived a simple life working for the town and its taverns, until they met [Yosuke](#yosuke-forway-wood-people-picker) on his travels. Mimi bonded with him, and since Hanako wouldn't leave her on her own, she came along too; now they work together as a family. Mimi and Hanako aren't related by blood: both were thrown off the Goodbye Cliff, and they became sisters through circumstance. No one knows who their parents are, except the parents themselves.
 
 - **Race:** Sorefaries.
 - **Birthday:** 1024 A.G. Asa 12th.
