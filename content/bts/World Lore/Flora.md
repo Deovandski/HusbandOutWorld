@@ -6,7 +6,7 @@ note: entries are restructured into one layout (description, a list of facts, th
 
 # Girdol
 
-A common plant used in Nari gels and teas. Can be soothing for the stomach or cause diarrhea and puke depending on the amount ingested.
+A common plant used in nari gels and teas. Depending on how much you take, it can soothe the stomach, or cause diarrhea and vomiting.
 
 - **Inspired by:** Dandelion.
 - **Habitat:** ~0 km on Lower plains, especially in plains.
@@ -23,7 +23,7 @@ A common plant used in Nari gels and teas. Can be soothing for the stomach or ca
 
 # Steen
 
-A wild plant often chewed like gum or used in teas/Nari gels. Has a calming effect. If lit up on fire, it has a strong weed smell. People haven’t figured out a way to domesticate this plant yet. It has high fiber content and can be used for clothing.
+A wild plant often chewed like gum or used in teas and nari gels, with a calming effect. Set on fire, it smells strongly of weed. Nobody has figured out how to domesticate it yet. It's high in fiber and can be used for clothing.
 
 - **Inspired by:** Cannabis sativa.
 - **Habitat:** ~0km - ~1km. In the wild.
@@ -39,7 +39,7 @@ A wild plant often chewed like gum or used in teas/Nari gels. Has a calming effe
 
 # Tibou
 
-One of the most sought-after plants to make soap and shampoos out of the shells. Not really used in teas, but some do like it. The cotton-like fiber protected by the case is used in fabric.
+One of the most sought-after plants, for making soap and shampoo out of its shells. Not really used in teas, though some like it. The cotton-like fiber inside the case is used for fabric.
 
 - **Inspired by:** Yucca Glauca.
 - **Habitat:** ~0km - ~1km. Farmed in the grasslands.
@@ -56,7 +56,7 @@ One of the most sought-after plants to make soap and shampoos out of the shells.
 
 # Magina
 
-A rarer wild plant that is commonly used for sleeping, Nari Gels, or as a sedative. Its yellow petals are so yellow that they are reflective. When smoked, it gives a strong “laid-back” vibe. Like sitting still somewhere for hours, just watching time pass. You feel hungry, but that doesn’t bother you. People can punch you, and that doesn’t bother you. People tend to hallucinate vividly as well, completely forgetting about their physical presence.
+A rarer wild plant commonly used for sleep, in nari gels, or as a sedative. Its petals are so yellow they're reflective. Smoked, it gives a strong laid-back vibe, like sitting still for hours just watching time pass: you feel hungry, but it doesn't bother you; people can punch you, and that doesn't bother you either. People also tend to hallucinate vividly, completely forgetting their physical presence.
 
 - **Inspired by:** Sassafras.
 - **Habitat:** ~0km - ~1km.
@@ -74,7 +74,7 @@ A rarer wild plant that is commonly used for sleeping, Nari Gels, or as a sedati
 
 # Nica
 
-A common plant that is commonly used for cooking.
+A common plant, used for cooking.
 
 - **Inspired by:** Piper Nigrum.
 - **Habitat:** ~0km - ~1km.
@@ -89,7 +89,7 @@ A common plant that is commonly used for cooking.
 
 # Emerenthy
 
-A common plant that is commonly used for cooking.
+A common plant, used for cooking.
 
 - **Inspired by:** Phalaenopsis orchid.
 - **Habitat:** ~0km - ~1km. More common towards the forests near Freeish.
@@ -106,7 +106,7 @@ A common plant that is commonly used for cooking.
 
 # Cocona
 
-Found throughout the beaches of the four kingdoms after humans found the plant near Lukewarm Lake and started to bring it everywhere with them. Farmed intensively on Deltacross due to its proximity to Forway. Coconas are double the size of coconuts.
+Found on beaches all over the four kingdoms, since humans found it near Lukewarm Lake and started taking it everywhere. Farmed intensively in Deltacross, being close to Forway. Coconas are twice the size of coconuts.
 
 - **Inspired by:** Coconut.
 - **Habitat:** Beaches.
@@ -129,7 +129,7 @@ Found throughout the beaches of the four kingdoms after humans found the plant n
 
 # Rakuja
 
-Vine that grows only at higher altitudes due to slightly colder climates.
+A vine that only grows at higher altitudes, where it's slightly colder.
 
 - **Inspired by:** Maracuja; Fruit is ~2x bigger.
 - **Habitat:** ~2km - ~4km. Found naturally on the base of Fuhrair, Old Fuhrair, & Gandew. Sometimes Tolerideme as well, but it rarely works.
@@ -157,7 +157,7 @@ Vine that grows only at higher altitudes due to slightly colder climates.
 
 # Gosutam
 
-A wild tree that produces a fruit that, if carefully opened, will yield great insides.
+A wild tree whose fruit, if opened carefully, has a great inside.
 
 - **Inspired by:** Mangosteen.
 - **Habitat:** ~0km - ~1km. Wild species are found around deeper forests and in people’s backyards.
@@ -185,7 +185,7 @@ A wild tree that produces a fruit that, if carefully opened, will yield great in
 
 # Yabuca
 
-A wild fruit popular among adventurers, known for its tendency to mutate in the wild and create some variants. Its flavor is unlike anything else in this world, almost as if it didn’t belong there. Buhraies brought it to life using genetic engineering. The main variety they brought remains the most popular and most resistant. The second is Wood Yabuca. Many species exist in the wild, but some fear it will eventually reduce the fruit variety to only Yabucas.
+A wild fruit popular with adventurers, known for mutating in the wild into new variants. Its flavor is unlike anything else in this world, almost as if it didn't belong there. The Buhraies brought it to life with genetic engineering, and the main variety they made is still the most popular and the hardiest; the second is Wood Yabuca. Many species exist in the wild, and some fear it will eventually crowd out every fruit but Yabucas.
 
 - **Inspired by:** Cosmic apples (the main variety).
 - **Habitat:** ~0km - ~1km. Everywhere in terms of breeds, but the Yabuca that people want is only found in the south, where it is farmed intensively. Yabuca variety (also referred to as the traditional variety) is farmed in the Freeish Kingdom.
@@ -212,7 +212,7 @@ A wild fruit popular among adventurers, known for its tendency to mutate in the 
 
 # Wood Yabuca
 
-A large variant from Yabuca fruit, caused when Buhraies mutated Wood People from Yabuca trees. As big as ~26 cm.
+A large Yabuca variant, created when the Buhraies mutated Wood People from Yabuca trees. Up to about 26 cm.
 
 - **Inspired by:** Birgit Bonnier Apples.
 - **Habitat:** ~1km - ~2km. Buhraies Plains.
@@ -238,7 +238,7 @@ A large variant from Yabuca fruit, caused when Buhraies mutated Wood People from
 
 # Hifuna Yabuca
 
-A further mutation from Wood Yabuca. Some call it the random fruit, since eating it can cause unpredictable effects on the user from the Walking Heartstone. Can send the person on a moody trip with emotions growing untamed. Can help in a desperate situation. If the person hits a “good” one, they will go berserk and rampage for days on before they pass out, if they don’t just drop dead. People who have done it in the past say the berserker feeling was like being in a trance, far better than any other nari gel. Forway banned its use due to the fatalities and character corruption that often occur. As big as ~26 cm.
+A further mutation of Wood Yabuca. Some call it the random fruit, since the Walking Heart stone in it has unpredictable effects on whoever eats it: it can send them on a moody trip, their emotions running wild, which can help in a desperate situation. If they hit a "good" one, they go berserk and rampage for days before passing out, if they don't just drop dead. People who've done it say the berserker feeling was like being in a trance, far better than any nari gel. Forway banned it because of the deaths and the corruption of character that often follow. Up to about 26 cm.
 
 - **Inspired by:** Ghost Apple.
 - **Habitat:** Hifuna.
@@ -254,7 +254,7 @@ A further mutation from Wood Yabuca. Some call it the random fruit, since eating
 
 # Purplebread
 
-A wild cactus-like tree that produces a smaller version of the greenbread, or at least in appearance. The brown shell smells pungent, like a fart of someone who ate too many eggs. If you rub it in the sand, it removes the smell and reveals the delectable interior.
+A wild, cactus-like tree whose fruit looks like a smaller Greenbread. Its brown shell smells pungent, like the fart of someone who ate too many eggs; rubbing it in sand removes the smell and reveals the delectable inside.
 
 - **Inspired by:** Prickly Pear taste.
 - **Habitat:** ~0km - ~1km. Transitional zone of the desert.
@@ -287,7 +287,7 @@ A wild cactus-like tree that produces a smaller version of the greenbread, or at
 
 # Greenbread
 
-Huge tree that grows in the large forests around the Freeish Kingdom and Blood City. Produces a fruit that tastes like melon pan. Only a few at a time, and it is hard to reach. Fruits are the size of humans. Its leaves have a tangy, chlorophyll-accented note. A staple product from Freeish Kingdown on its Greenbread fields.
+A huge tree in the large forests around the Freeish Kingdom and Blood City. Its fruit tastes like melon pan, grows only a few at a time, is hard to reach, and is the size of a human. Its leaves have a tangy, chlorophyll note. A staple product of the Freeish Kingdom's Greenbread fields.
 
 - **Inspired by:** Jackfruit.
 - **Habitat:** Forests in the south.
@@ -319,7 +319,7 @@ Huge tree that grows in the large forests around the Freeish Kingdom and Blood C
 
 # Tenderthrough
 
-A local fruit that is found in the dense forests and on both islands. The name from Ancient Species got lost. So this name stuck because it is tender and goes right through.
+A local fruit from the dense forests and both islands. Its ancient-species name was lost, so this one stuck, because it's tender and goes right through you.
 
 - **Inspired by:** Papaya.
 - **Tastes like:** Papaya.
@@ -350,7 +350,7 @@ A local fruit that is found in the dense forests and on both islands. The name f
 
 # Lonllow
 
-Brought over by Buhraies while working with Summoning. Came after Yabucas, but it didn’t seem to be as successful. It is extremely finicky and picky to grow in farmland. Also, fragile even in the wild. Maybe that’s partly why Buhraies created a special environment for it by creating the endlessfog island. See Endlessfog for more info.
+Brought over by the Buhraies while working on summoning, after Yabucas, but it didn't seem as successful: it's extremely finicky to grow on farmland, and fragile even in the wild. Maybe that's partly why the Buhraies created a special environment for it: the island of Endlessfog (see Endlessfog).
 
 - **Inspired by:** Banana + Caramel flavor.
 - **Tastes like:** Banana.
@@ -394,12 +394,12 @@ Brought over by Buhraies while working with Summoning. Came after Yabucas, but i
 
 # Tastyleaf
 
-An incredibly girthy and tall tree measuring 104 meters tall and a diameter of about 45 meters. It has white leaves that fall every Fall. No seeds or spores are generated, and stem cuttings do not seem to work as they never grow. The tree also lights up when it rains and helps keep beasts from Hifuna away from their settlement. Some people say it’s an offshoot of Wood People, and it listens and reacts to its surroundings, especially feelings. However, not everyone agrees with it.
+An incredibly thick, tall tree: 104 meters tall and about 45 meters across. Its white leaves fall every fall. It makes no seeds or spores, and cuttings never grow. It also lights up when it rains, and helps keep Hifuna's beasts away from the settlement. Some say it's an offshoot of the Wood People, listening and reacting to its surroundings, especially feelings, though not everyone agrees.
 
 - **Inspired by:** Linden (The tilia family).
 - **Habitat:** TastyLeaf. Single massive tree.
 - **Tastes like:** Lettuce with black pepper, salt, garlic, onion, jalapeno & green curry.
-- **Growth:** Leaves fall every Fall. The tree grows slightly as well.
+- **Growth:** Leaves fall every fall. The tree grows slightly as well.
 - **Skills:** Barrier Shield; Light Up; Absorb water.
 
 #### Economic value
@@ -416,12 +416,12 @@ An incredibly girthy and tall tree measuring 104 meters tall and a diameter of a
 
 # Soul Tree
 
-Has a deep green interior, with the bark rather metallic/shiny. They are an example of flora that somehow escaped the isekai world and ended up back on IRL. Buhraies were mucking around with the idea of dispatching things into the soul realm, and that’s how this tree made its way into IRL. Trunk people love this tree!
+Deep green inside, with rather metallic, shiny bark. It's an example of flora that somehow escaped Vraki and ended up in our world: the Buhraies were messing around with sending things into the soul realm, and that's how this tree made its way here. Trunk People love this tree!
 
 - **Inspired by:** Eucalyptus deglupta.
-- **Habitat:** Found around Blood City and Freeish. Not really found elsewhere in the kingdoms. They are lone trees that sprout up from small colorful seeds. Tunk people love to live on them.
+- **Habitat:** Found around Blood City and Freeish. Not really found elsewhere in the kingdoms. They are lone trees that sprout up from small colorful seeds. Trunk People love to live on them.
 - **Tastes like:** Lettuce with black pepper, salt, garlic, onion & jalapeno.
-- **Growth:** Leaves fall every Fall. Tree grows slightly as well.
+- **Growth:** Leaves fall every fall. Tree grows slightly as well.
 - **Skills:** Barrier Shield; Light Up; Absorb water.
 
 #### Economic value
@@ -430,7 +430,7 @@ Has a deep green interior, with the bark rather metallic/shiny. They are an exam
 
   ![][image54]
 
-- **Soul Wood Seeds**: Used in Nari gels or consumed on their own to provide caffeine. It tastes kinda bitter at first, then it gets slightly sweeter and develops a nutmeg and vanilla-like taste as you keep sucking on it.
+- **Soul Wood Seeds**: Used in nari gels or consumed on their own to provide caffeine. It tastes kinda bitter at first, then it gets slightly sweeter and develops a nutmeg and vanilla-like taste as you keep sucking on it.
 
   ![][image55]
 
@@ -442,7 +442,7 @@ Has a deep green interior, with the bark rather metallic/shiny. They are an exam
 
 # Black Sapphire Tree
 
-Highly sought after, a single small or medium tree can be as costly as a whole sapphire. Because of that, it has been driven to near extinction. Some believe it was an attempt by the ancient species Buhraies to screw with either the Lishies, or the humans that hid in the forest, or both. Some scientists believe it was a soul energy storage device instead. Buhraies were seeding around for a future full-force invasion that never happened because it looks like a dead tree, and it soaks up soul energy from its surroundings. More commonly known today as black wood.
+Highly sought after: a single small or medium tree can cost a whole sapphire, so it's been driven to near extinction. Some believe the Buhraies made it to screw with the Lishies, the humans hiding in the forest, or both. Some scientists believe it was a soul energy storage device instead, seeded around by the Buhraies for a full-force invasion that never happened, since it looks like a dead tree and soaks up soul energy from its surroundings. Today it's better known as black wood.
 
 - **Inspired by:** Dalbergia melaxylon.
 - **Habitat:** Rarely found between Flatland and Forway. Virtually always found as lone trees, and never found amongst other trees.
@@ -461,7 +461,7 @@ Highly sought after, a single small or medium tree can be as costly as a whole s
 
 # Gyut
 
-A bushy plant that grows on lower terrains. Any animal that eats it will make their meat slightly sweet.
+A bushy plant that grows on low ground. Any animal that eats it ends up with slightly sweet meat.
 
 - **Inspired by:** Acerola.
 - **Habitat:** Found across the kingdom in non-desert areas < 1km height. Farmed more intensively in the Freeish Kingdom.
@@ -491,7 +491,7 @@ A bushy plant that grows on lower terrains. Any animal that eats it will make th
 
 # Siguash
 
-Bushy plant that grows in the wild.
+A bushy plant that grows in the wild.
 
 - **Inspired by:** Siriguela.
 - **Habitat:** Found across the kingdom in non-desert areas < 1km height, especially in forests.
@@ -519,7 +519,7 @@ Bushy plant that grows in the wild.
 
 # Basi
 
-Bushy plant that grows in the wild, or farmed intensively in Freeish.
+A bushy plant that grows in the wild, and is farmed intensively in Freeish.
 
 - **Inspired by:** Acai (but as a bushy plant instead.).
 - **Habitat:** More often found in the south, near Freeish. Farmed heavily over there. Other kingdoms don’t seem to really partake on it.
@@ -528,7 +528,7 @@ Bushy plant that grows in the wild, or farmed intensively in Freeish.
 
 #### Economic value
 
-- **Basi Berries**: It takes 4 hours to strip a bush tree of all its berries, yielding between 1 and 2 kg of acai berries. Things can be halved/speeden up if you use a shaker. Each berry is about the size of a fingertip and needs to be separated from the hair-like structure.
+- **Basi Berries**: It takes 4 hours to strip a bush tree of all its berries, yielding between 1 and 2 kg of acai berries. Things can be halved or sped up if you use a shaker. Each berry is about the size of a fingertip and needs to be separated from the hair-like structure.
 - **Basi Pulp**: Separating the pulp from the fruit. It’s a thick paste. Eaten with both salty or sweet stuff.
 
   ![][image69]
@@ -581,7 +581,7 @@ Used to make beer, bread, and everything in between.
 
 # Domar Carbey
 
-A version of the Carbey created by one of the three smart sisters by crossbreeding with Wood People. Used to make beer, bread, and everything in between. More nutritional than Carbey, and tastes better as well.
+A version of Carbey that one of the three smart sisters created by crossbreeding it with Wood People. Used to make beer, bread and everything in between, and more nutritious and tastier than Carbey.
 
 - **Inspired by:** Wheat.
 - **Habitat:** Buhraies Plains. Tolerideme Kingdom.
@@ -623,7 +623,7 @@ A version of the Carbey created by one of the three smart sisters by crossbreedi
 
 # Lehuj
 
-Used for Smooth Gut Nari, and for its digestive properties, specifically liver. Also great as a hangover remedy.
+Used in the Smooth Gut nari gel, and for its digestive properties, especially for the liver. Also great as a hangover remedy.
 
 - **Inspired by:** Blue Festuca.
 - **Habitat:** Throughout the entire lower region, except the desert.
@@ -640,7 +640,7 @@ Used for Smooth Gut Nari, and for its digestive properties, specifically liver. 
 
 # Lakata
 
-A fungus is often used for slowing down the heartbeat. Found in rotting trees.
+A fungus often used to slow the heartbeat, found in rotting trees.
 
 - **Inspired by:** Chaga (Inonotus obliquus).
 - **Habitat:** 0km. Muddy, Deep forest of the south.
@@ -657,7 +657,7 @@ A fungus is often used for slowing down the heartbeat. Found in rotting trees.
 
 # Panita
 
-A mushroom often used for Bleed out Nari gel.
+A mushroom often used in the Bleed Out nari gel.
 
 - **Inspired by:** Reishi (Ganoderma lucidum).
 - **Habitat:** 0km. Muddy, Deep forest of the south.
@@ -674,7 +674,7 @@ A mushroom often used for Bleed out Nari gel.
 
 # Tyr
 
-A fungus similar to lakata, but it is far too poisonous (creates audio/visual hallucinations)
+A fungus similar to Lakata, but far too poisonous (it causes auditory and visual hallucinations).
 
 - **Inspired by:** Exsudoporus frostii.
 - **Habitat:** 0km. Muddy, Deep forest of the south.
@@ -691,7 +691,7 @@ A fungus similar to lakata, but it is far too poisonous (creates audio/visual ha
 
 # Cadioca
 
-Poisonous if eaten raw. Needs to be soaked in the river for 2 Days, then dried in the sun.
+Poisonous raw: it has to soak in the river for 2 days, then dry in the sun.
 
 - **Inspired by:** Cassava.
 - **Habitat:** A root found in the lower lands. Heavily farmed in Freeish.

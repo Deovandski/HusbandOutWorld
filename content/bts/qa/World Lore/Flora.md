@@ -6,6 +6,8 @@
 
 Every question asked of the author and his answer (word for word), every gap filled from elsewhere in Legacy (with its source), every discrepancy and how it was settled, and what was left out. Source order: (1) the author's decision, (2) the published novels, (3) the rest of Legacy.
 
+**Polish (the author's standing instruction, 2026-11-22: "Polish grammar, typos always."):** the descriptions were polished for grammar and typos, and the fact lines got a lighter pass.
+
 **How this one was abridged:** the nature docs (Fauna, Flora, Beasts) all follow one template, so each entry was restructured into the same readable layout, with the author's wording kept: the Isekai History as a short description, then a list of facts (Inspired by, Habitat, Tastes like, Food, Intelligence, Reproduction, Interface, Skills, and any other fields), then the products under "Economic value" with their pictures. "Scientific History" is labeled "Inspired by". Empty values ("None", "-", "See above") and the Website Description (the public text, already shown on the page) are left out. Documentation Notation and Distance Cost Tier stay as written. Every picture in the doc is kept.
 
 ---

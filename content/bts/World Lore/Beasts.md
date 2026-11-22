@@ -6,7 +6,7 @@ note: entries are restructured into one layout (description, a list of facts, th
 
 # Hash {X}
 
-Bigger & more veracious version of {Fauna}, {Beasts}, {Races} that lived in the Hifuna for long enough. Usually with fallen hair, bigger size, some body parts bigger/smaller than others.
+A bigger, more voracious version of any fauna, beast or race that has lived in Hifuna long enough: usually with hair fallen out, a bigger size, and some body parts bigger or smaller than others.
 
 - **Inspired by:** Radiation Mutation.
 - **Habitat:** Hifuna, while some make their way down to lower terrains and cause havoc.
@@ -26,7 +26,7 @@ Bigger & more veracious version of {Fauna}, {Beasts}, {Races} that lived in the 
 
 # Sand Worms
 
-A worm that burrows itself and attacks passersby. It is a relative of the Nari worms. They are the main source of Chitin in the kingdoms.
+A worm that burrows into the ground and attacks passersby, a relative of the Nari Worms, and the kingdoms' main source of chitin.
 
 - **Inspired by:** Eunice aphroditois.
 - **Habitat:** Desert.
@@ -40,26 +40,26 @@ A worm that burrows itself and attacks passersby. It is a relative of the Nari w
 
 #### Economic value
 
-- **Sand Worm Meat**: Butcher cuts meat. Not really desirable meat, so this is mostly sold as a by-product of killing Sand Worms for their chitin.
+- **Sand Worm Meat**: Meat cut by a butcher. Not really desirable meat, so this is mostly sold as a by-product of killing Sand Worms for their chitin.
 
   ![][image2]
 
-- **Sand Worm Jerky**: Butcher prepared jerky. Not really desirable by many people due to its strong gamey flavor. Usually served up to poorer people.
+- **Sand Worm Jerky**: Jerky prepared by a butcher. Not really desirable by many people due to its strong gamey flavor. Usually served up to poorer people.
 
   ![][image3]
 
-- **Sand Worm Chitin**: Butcher prepared Chitin for artisans to work on.
+- **Sand Worm Chitin**: Chitin, prepared by a butcher for artisans to work on.
 
 # Walking {X} Flesh
 
-An endless amount of experimentation with what is now known as the Walking Heart Stone left tons of zombies of different species in Bahyum Castle. It somehow can create more.
+Endless experiments with what's now known as the Walking Heart stone left tons of zombies of different species in Bahyum Castle, and it somehow keeps creating more.
 
 - **Inspired by:** The Return of the Living Dead Trioxin Zombie.
 - **Habitat:** Bahyum Castle, sometimes invading the Buhraies Plains.
 - **Tastes like:** Rotten dried meat.
 - **Food:** Soul Energy from Bahyum Castle.
 - **Intelligence:** Depends on experiment. Mindless~Wolf.
-- **Reproduction:** Through Soul Energy. All depends on Bayhum Castle.
+- **Reproduction:** Through Soul Energy. All depends on Bahyum Castle.
 - **Interface:** Walking Heart.
 - **Skills:** Slow Regen; Halted Decomposition; Decompose target; Steal Soul Energy; + Original skills.
 
@@ -69,7 +69,7 @@ An endless amount of experimentation with what is now known as the Walking Heart
 
 # Walking {X} Skin
 
-An endless amount of experimentation with what is now known as the Walking Heart Stone left tons of zombies in Bahyum Castle. They are slower and dumber than Walking Flesh.
+Endless experiments with what's now known as the Walking Heart stone left tons of zombies in Bahyum Castle. They're slower and dumber than Walking Flesh.
 
 - **Inspired by:** The Return of the Living Dead Trioxin Zombie.
 - **Habitat:** Bahyum Castle, sometimes invading the Buhraies Plains.
@@ -86,7 +86,7 @@ An endless amount of experimentation with what is now known as the Walking Heart
 
 # Walking Flathead
 
-An endless amount of experimentation with what is now known as the Walking Heart Stone left a few Walking Flatheads in Bahyum Castle. They are incredibly hard to kill.
+Endless experiments with what's now known as the Walking Heart stone left a few Walking Flatheads in Bahyum Castle. They're incredibly hard to kill.
 
 - **Inspired by:** Ghouls.
 - **Habitat:** Bahyum Castle.
@@ -101,11 +101,11 @@ An endless amount of experimentation with what is now known as the Walking Heart
 #### Economic value
 
 - **Walking Flathead Claws**: Often used for weapons or sharp tools.
-- **Walking Flathead Tongue**: Often used for Nari gels.
+- **Walking Flathead Tongue**: Often used for nari gels.
 
 # Wood People
 
-See World Timeline. Their blood/Sap is pink. Wood People’s bodies are used for all kinds of things, specifically buildings, but you gotta transport it somewhere to cut it down first. Or trick it to follow you like a herd. Otherwise, you are either using a river/stream to move the corpse, or using multiple eguas to carry a short distance (< 100km) A barrier of Wood People can be formed by using Fost Stone jammed in their tops to paralyze them in place.
+The Buhraies created them by altering the souls of Yabuca trees, then confined them to small forests across the Buhraies Plains to produce food and lumber in a controlled way. Their blood, or sap, is pink. Wood People's bodies are used for all kinds of things, especially buildings, but you have to get one somewhere before you cut it down, or trick it into following you like a herd; otherwise, you float the corpse down a river or stream, or use several Eguas to haul it a short distance (under 100 km). Jamming a Fost stone into their tops paralyzes them in place, which is how walls of Wood People are made.
 
 - **Inspired by:** Trees, kinda; It uses its vines, ground vibrations, and wind vibrations to map its surroundings. They are drawn to Fost stones because they can somewhat sense a direction in them.
 - **Habitat:** Buhraies Plains.
@@ -123,7 +123,7 @@ See World Timeline. Their blood/Sap is pink. Wood People’s bodies are used for
 
   ![][image4]
 
-- **Wood People Sap**: Processed sap, often used in Nari gels.
+- **Wood People Sap**: Processed sap, often used in nari gels.
 
   ![][image5]
 
@@ -154,7 +154,7 @@ See World Timeline.
 #### Economic value
 
 - **Hifuna People Wood**: Still has the same reddish tone to it, but it is plagued with Hifuna disease, so most people won’t use it for crafting.
-- **Hifuna People Sap**: Processed sap is sometimes used in Nari gels.
+- **Hifuna People Sap**: Processed sap is sometimes used in nari gels.
 
   ![][image5]
 
@@ -173,7 +173,7 @@ See World Timeline.
 
 # Koalin
 
-A cousin of the Soreno species. Rare cases of being tamed. Usually, babies are separated from their mothers who are retrieved by the hunter. It forms a bond with them and becomes a pet. Attempting to rebond with someone else is nearly impossible.
+A cousin of the Soreno, rarely tamed. Usually a hunter takes a baby away from its mother; it bonds with them and becomes a pet. Getting it to bond with someone else is nearly impossible.
 
 - **Inspired by:** Capybara.
 - **Habitat:** Lives throughout the lower lands. More often spotted in the grasslands to the East.
@@ -186,20 +186,20 @@ A cousin of the Soreno species. Rare cases of being tamed. Usually, babies are s
 
 #### Economic value
 
-- **Koalin Meat**: Butcher cut meat.
+- **Koalin Meat**: Meat cut by a butcher.
 
   ![][image8]
 
-- **Koalin Jerky**: Butcher prepared jerky.
+- **Koalin Jerky**: Jerky prepared by a butcher.
 
   ![][image9]
 
-- **Koalin Hide/Fur**: Butcher prepared hide/fur for artisans to work on.
+- **Koalin Hide/Fur**: Hide/fur, prepared by a butcher for artisans to work on.
 - **Koalin Brains + eyes + Moustache**: Used for Mind Enabler, which is illegal. If anyone is carrying these to sell, they will be brought in for questioning.
 
 # Sweet Sting
 
-A few Shapeshifters assimilated bees and began creating beehives to the west of Blood City. However, what makes them special is that they are much larger than normal bees, and they produce a black honey that is extremely tasty. Female bees use the sap of trees to make honey and build massive anthill-like constructs to store honey. If you get bit by the male sting, your sense of taste is overpowered with a sweet taste while you scream in agony.
+A few Shapeshifters assimilated bees and began building hives west of Blood City. What makes them special: they're much bigger than normal bees, and they make an extremely tasty black honey. The females make honey from tree sap and build massive anthill-like structures to store it. If a male stings you, your sense of taste is overwhelmed with sweetness while you scream in agony.
 
 - **Inspired by:** Megachile pluto.
 - **Habitat:** Sweetlake is the biggest nest.
@@ -217,7 +217,7 @@ A few Shapeshifters assimilated bees and began creating beehives to the west of 
 
   ![][image10]
 
-- **Sweet Sting Poison**: Often used for Nari gels.
+- **Sweet Sting Poison**: Often used for nari gels.
 
 # Crazed Muckman
 
@@ -237,7 +237,7 @@ A few Shapeshifters assimilated bees and began creating beehives to the west of 
 
 # Big Wingas
 
-Much larger Wingas that lived in the Wingarest. Were physically manipulated versions of the Wingas used by the Buhraies to fly around. Some of them still exist, but are a rare sight as they grew fearful of humans who hunted them down to near extinction. Their meat does not taste as sweet as Winga meat as Big developed a taste for meat as well. They are commonly found with Forway guards, but that’s a guard wearing nari gel.
+Much larger Wingas that lived in Wingarest: physically altered Wingas the Buhraies used to fly around. Some still exist, but they're a rare sight, since they grew afraid of the humans who hunted them nearly to extinction. Their meat isn't as sweet as Winga meat, since Big Wingas developed a taste for meat too. You'll commonly see them with Forway guards, but those are guards wearing the nari gel.
 
 - **Inspired by:** Macaw.
 - **Habitat:** Rarely seen throughout the four kingdoms. Now often using Wingarest to live. Forway uses them for.
@@ -251,15 +251,15 @@ Much larger Wingas that lived in the Wingarest. Were physically manipulated vers
 
 #### Economic value
 
-- **Big Winga Meat**: Butcher cut meat.
+- **Big Winga Meat**: Meat cut by a butcher.
 
   ![][image11]
 
-- **Big Winga Jerky**: Butcher prepared jerky.
+- **Big Winga Jerky**: Jerky prepared by a butcher.
 
   ![][image12]
 
-- **Big Winga Feathers**: Butcher prepared feathers for artisans to work on.
+- **Big Winga Feathers**: Feathers, prepared by a butcher for artisans to work on.
 - **Big Winga Egg**: A treat for many people due to its sweet taste.
 
   ![][image13]
@@ -268,26 +268,26 @@ Much larger Wingas that lived in the Wingarest. Were physically manipulated vers
 
 # Trunk People
 
-A mutated tree branch that sparkled life. They are very protective of their surroundings and will use their interface if they feel threatened. They communicate only by casting different colors of light. They cannot hear. Their hair is pollen. They live in trunks of Live Wood trees. Often used by people in the Freeish kingdom and around as a public light source on large Soul Wood trees. Some use it inside their homes as well. *Usage as a seed to plant wherever the owner wants the tree.
+A mutated tree branch that sparked to life. They're very protective of their surroundings and will use their interface if they feel threatened. They communicate only by casting different colors of light, since they can't hear, and their hair is pollen. They live in the trunks of Live Wood trees. In and around the Freeish Kingdom, people often use them as public lights on large Soul Wood trees, and some use them inside their homes too. They can also be used as a seed, to plant the tree wherever the owner wants.
 
 - **Inspired by:** Mutated Tree Branches.
 - **Habitat:** South West.
 - **Tastes like:** Wood.
 - **Food:** Tree sap.
 - **Intelligence:** Monkey. They can plan ahead, attack, defend, form families, recognize people, and communicate with others.
-- **Reproduction:** Flower in the head with pollen; Every Summer.
+- **Reproduction:** Flower in the head with pollen; Every summer.
 - **Other:** None.
 - **Interface:** Arm branches.
 - **Skills:** Light Flames; Light Explosion (blind).
 
 #### Economic value
 
-- **Trunk People Hair**: Used on Nari gels.
+- **Trunk People Hair**: Used on nari gels.
 - **Trunk People Arms**: Used on Nari.
 
 # Shapeshifter
 
-One of the last remaining ancient species experiments in this world occurred when one of the ancient species tested rocks in the forest. Many years later, the rocks began to grow and develop a jelly-like appearance. Many years later some of these rocks began to assimilate nearby living beings and transform into them while others began to assimilate with themselves to share experiences.
+One of the last ancient-species experiments still in the world, from when one of the ancient species tested rocks in the forest. Many years later, the rocks began to grow and take on a jelly-like look; many years after that, some began assimilating nearby living beings and turning into them, while others assimilated each other to share experiences.
 
 - **Inspired by:** Bryozoan Colony - Natural Appearance.
 - **Habitat:** Mostly west of Blood City.
@@ -305,9 +305,9 @@ One of the last remaining ancient species experiments in this world occurred whe
 
 # Monica Swarm
 
-A swarm of Monarch butterflies that groups up and flees away from bad weather. The combination of their blue lights creates a wall of blue in the distance, signaling to anyone in the way to protect themselves from the incoming storm. They can devour a rotting corpse in a few hours, depending on the size of the swarm.
+A swarm of Monica butterflies that groups up and flees bad weather. Their blue lights together make a wall of blue in the distance, warning anyone in the way to take cover from the coming storm. Depending on the size of the swarm, they can devour a rotting corpse in a few hours.
 
-None. See Fauna > Monica
+None. See Fauna › Monica.
 
 - **Inspired by:** Butterfly Swarm.
 - **Habitat:** Lower plains.
@@ -320,7 +320,7 @@ None. See Fauna > Monica
 
 # Flinga
 
-Big flying birds that are only seen flying up in the air except during winter (under most years). Nobody knows how they eat, sleep, etc. *Nobody except for Finaies. See World Timeline.
+Big birds only ever seen flying high in the air, except during winter (most years). Nobody knows how they eat, sleep, etc. Nobody except the Finaies, who made a pact with the Flingas to watch over the south and plan a comeback. In 1039 A.G., Flingas were seen flying around in winter, something that hadn't happened in quite a while.
 
 - **Inspired by:** Pteranodon.
 - **Habitat:** Seeing flying around the entire region.
@@ -334,15 +334,15 @@ Big flying birds that are only seen flying up in the air except during winter (u
 
 #### Economic value
 
-- **Flinga Meat**: Butcher cut meat. A refined, rare product that some people in Forway insist on having even though there is nothing special about it.
+- **Flinga Meat**: Meat cut by a butcher. A refined, rare product that some people in Forway insist on having even though there is nothing special about it.
 
   ![][image11]
 
-- **Flinga Jerky**: Butcher prepared jerky. A refined, rare product that some people in Forway insist on having even though there is nothing special about it.
+- **Flinga Jerky**: Jerky prepared by a butcher. A refined, rare product that some people in Forway insist on having even though there is nothing special about it.
 
   ![][image12]
 
-- **Flinga Head Feathers**: Bundle of head feathers used for Nari gel. Due to how hard it is to get,.
+- **Flinga Head Feathers**: Bundle of head feathers used for nari gel. Due to how hard it is to get,.
 - **Flinga Egg**: Some eggs are rarely found, but Humans/Darfaries/etc. were never able to hatch them.
 
   ![][image14]
@@ -351,7 +351,7 @@ Big flying birds that are only seen flying up in the air except during winter (u
 
 # Nari Worms
 
-With the lack of predators, this worm began to grow large and specialize in burrowing and eating stone using an organ that casts Soul Energy through a unique interface. The acids in its stomach mix with the existing hair-strand-sized Nari veins into its shell, which it replaces every few months as it grows bigger. Humans hunt down the shells left behind and ground them for various uses. Killing them is prohibited by Forway/Blood law.
+With no predators, this worm grew large and specialized in burrowing and eating stone, using an organ that casts Soul Energy through a unique interface. The acids in its stomach mix with the hair-thin nari veins into its shell, which it replaces every few months as it grows. Humans hunt down the shed shells and grind them for all kinds of uses. Killing the worms is prohibited by Forway and Blood law.
 
 - **Inspired by:** Worms.
 - **Habitat:** Underground around the mountains of Blood city. See Nari Caverns for more information.
@@ -365,11 +365,11 @@ With the lack of predators, this worm began to grow large and specialize in burr
 
 #### Economic value
 
-- **Nari Worm Meat**: Butcher cut meat. Horrible taste.
+- **Nari Worm Meat**: Meat cut by a butcher. Horrible taste.
 
   ![][image15]
 
-- **Nari Worm Jerky**: Butcher prepared jerky. Not really desirable.
+- **Nari Worm Jerky**: Jerky prepared by a butcher. Not really desirable.
 
   ![][image3]
 
@@ -387,7 +387,7 @@ With the lack of predators, this worm began to grow large and specialize in burr
 
 # Bruntos
 
-Brought over by Buhraies as summoning experiments, but were left to their own demise soon after into what is now Endlessfog. As their population expanded, so did their tribes and the number of wars until a single Brunto led an army of conquest and unified all tribes under a single leadership. Now represented in the Endlessfog statue. See the city history for more info. Killing them is prohibited by Endlessfog law. Does not apply to greater Forway, especially the Freeish Region.
+Brought over by the Buhraies as summoning experiments, then soon left to their fate on what is now Endlessfog. As their population grew, so did their tribes and their wars, until a single Brunto led an army of conquest and united all the tribes under one leader, now honored by the Endlessfog statue (see Endlessfog). Killing them is prohibited by Endlessfog law, which doesn't apply in greater Forway, especially the Freeish Region.
 
 - **Inspired by:** Chimpanzee.
 - **Habitat:** Endlessfog island. Freeish Region (some escaped into the wild through boat commerce.)
@@ -398,13 +398,13 @@ Brought over by Buhraies as summoning experiments, but were left to their own de
 
 #### Economic value
 
-- **Bruntos Meat**: Butcher cut meat.
+- **Bruntos Meat**: Meat cut by a butcher.
 
   ![][image15]
 
 # White Roundies
 
-A seal-like mammal that lives in the far south most of the year. Often killed during the winter when they move to northern waters during winter to fatten up for spring. Usually frowned upon by most people as they seem too intelligent, specifically people like-minded to endlessfog residents.
+A seal-like mammal that lives in the far south most of the year. They're often killed in winter, when they move to northern waters to fatten up for spring, though most people frown on it, since they seem too intelligent, especially people who think like Endlessfog's residents.
 
 - **Inspired by:** Seal/Penguin.
 - **Habitat:** Whiteland for most of the year, Four kingdoms shores during the Winter to eat tons of fish before they go back south to procreate during Spring.
@@ -421,5 +421,5 @@ A seal-like mammal that lives in the far south most of the year. Often killed du
 
   ![][image19]
 
-- **White Roundies Hair Strands**: Used for Nari gel.
+- **White Roundies Hair Strands**: Used for nari gel.
 
