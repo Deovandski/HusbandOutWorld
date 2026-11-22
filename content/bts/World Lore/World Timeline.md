@@ -21,7 +21,7 @@ note: the timeline keeps its structure (each people, its Times, and their Period
   - They tried several times to invade by sea, but every attempt was massacred. ~3,150 B.G.: the Great Sea War ended in a massive loss for them, but they at least managed to destroy part of the Buhraies Plains East Dip.
 - **The Hifuna Conquer Period (~3,000 to ~2,500 B.G.):**
   - They spent so long planning another comeback that, in the end, they couldn't fix their own mess: Hifuna. They mounted the largest army they could muster, but suffered massive losses crossing it.
-  - ~2,650 B.G.: they mounted a secret assault through the desert to massacre the Fuhraies, but the desert killed off most of the army, and the Fuhraies holed up inside their newly created mountain, Fuhrair, so what was left was easily massacred.
+  - ~2,650 B.G.: they mounted a secret assault through the desert to massacre the Fuhraies, but the desert killed off most of the army, and the Fuhraies holed up inside their newly created mountain, Fuhrair (the Darfaries changed its name later, as a way to claim it as theirs), so what was left was easily massacred.
 - **The Replanning Period (~2,500 B.G. to today):** they've grown so conservative that they're still planning, or rather, watching what happens in the south and discussing it among themselves as if it were a TV show.
 
 # Fuhraies
@@ -40,7 +40,7 @@ note: the timeline keeps its structure (each people, its Times, and their Period
 - **Red Snow Period (~3,000 to ~2,100 B.G.):**
   - Since their battle with the Buhraies was a stalemate, the Lishies began fighting, or rather bullying, the Fuhraies too. That also ended in a stalemate, and negotiations never went anywhere either.
   - Sick of the skirmishes, some Fuhraies left Old Fuhrair for the biggest mountain to the north and founded Fuhrair.
-  - ~2,650 B.G.: the Finaies mounted a secret assault through the desert to massacre the Fuhraies, but the desert took care of most of them, and the Fuhraies holed up inside their newly created mountain, Fuhrair, and easily defended themselves.
+  - ~2,650 B.G.: the Finaies mounted a secret assault through the desert to massacre the Fuhraies, but the desert took care of most of them, and the Fuhraies holed up inside their newly created mountain, Fuhrair (the Darfaries changed its name later, as a way to claim it as theirs), and easily defended themselves.
   - The endless skirmishes slowed and lost their intensity. The Fuhraies assumed they had finally won.
 
 #### Cold Fall Time (~2,100 to ~500 B.G.)

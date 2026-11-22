@@ -50,6 +50,12 @@ Status: **answered** 2026-11-22. Asked as one batch on 2026-11-22.
 
 ---
 
+### Made official, and T1's mountain (2026-11-22)
+- **Answer (verbatim):**
+  > Make that official. And T1 back then was Fuhraier. Darfaries changed later as a way to claim it as theirs.
+- **Change:** the abridged T1 lines add "(the Darfaries changed its name later, as a way to claim it as theirs)". `content/fixes.json` makes T1, T2 and T3 official in the raw notes (T4 needs no change to the raw notes).
+- **Open point (asked):** Land.md still describes Fuhrair as "the largest Fuhraies civilization", now empty, and the Timeline has the Gandew mountain built in ~495 B.G. by the Buhraies, Lishies and Fuhraies. The website doesn't say what Fuhrair was renamed to until the author confirms.
+
 ## Gaps filled from other Legacy sources
 
 | Abridged text | Raw note | Source |
