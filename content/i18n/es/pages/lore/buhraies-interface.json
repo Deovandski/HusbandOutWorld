@@ -1,7 +1,39 @@
 {
+ "1e5e2991dedc": {
+  "en": "<strong>Tiers:</strong> the mass affected follows the General Power Effects: 0.1 kg at Tier I, doubling with every tier (51.2 kg at Tier X). Because it changes the genetic information, not the soul, the change stays even after Body Restore, as long as the genetic information isn't lost.",
+  "t": "<strong>Niveles:</strong> la masa afectada sigue los Efectos de Poder Generales: 0,1 kg en el Nivel I, y se duplica con cada nivel (51,2 kg en el Nivel X). Como cambia la información genética y no el alma, el cambio se mantiene incluso después de un Body Restore, siempre que no se pierda la información genética."
+ },
+ "29070357c173": {
+  "en": "Soul Energy - Buhraies Interface (World Lore illustration)",
+  "t": "Energía del alma - Interfaz Buhraies (ilustración del Lore del mundo)"
+ },
+ "2c0fd516e171": {
+  "en": "<strong>Draw the spell.</strong> Cut the target logogram into your skin with something sharp (see Language › Buhraies Interface Language), or just cut two empty squares, which has to be done with a knife.",
+  "t": "<strong>Dibuja el hechizo.</strong> Grábate en la piel el logograma del objetivo con algo afilado (ver Idioma › Idioma de la Interfaz Buhraies), o simplemente graba dos cuadrados vacíos, lo que hay que hacer con un cuchillo."
+ },
+ "31d48e291ac1": {
+  "en": "<strong>Tiers:</strong> the higher the tier, the more it increases the soul qualities of the summon, with the increase split across several skills. Only tiers above X had a noticeable effect, and only once the soul reconnected to new flesh, if it worked.",
+  "t": "<strong>Niveles:</strong> cuanto más alto el nivel, más aumenta las cualidades del alma de la invocación, y el aumento se reparte entre varias habilidades. Solo los niveles por encima del X tenían un efecto apreciable, y solo una vez que el alma se reconectaba a carne nueva, si funcionaba."
+ },
  "3705910a532f": {
   "en": "A \"fleshy\" focused evolution to the Finaies interface! Its capabilities outgrew Finaies in raw power and eventually led Buhraies to force themselves to become powerful enough to reshape the land and other creatures to their liking.",
   "t": "¡Una evolución «carnal» de la interfaz Finaies! Sus capacidades superaron a la Finaies en fuerza bruta y acabaron llevando a los Buhraies a forzarse a ser lo bastante poderosos como para remodelar la tierra y a otras criaturas a su gusto."
+ },
+ "3ae348503d46": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Buhraies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Buhraies Interface.md</a>",
+  "t": "Fuente: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Buhraies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Buhraies Interface.md</a>"
+ },
+ "48ba5cb16a12": {
+  "en": "Alters the target's body DNA according to the caster's desires.",
+  "t": "Altera el ADN del cuerpo del objetivo según los deseos del lanzador."
+ },
+ "552e97590e22": {
+  "en": "Soul VERB",
+  "t": "Soul VERB"
+ },
+ "58266576143d": {
+  "en": "Alters the target's soul DNA according to the caster's desires.",
+  "t": "Altera el ADN del alma del objetivo según los deseos del lanzador."
  },
  "5fed524a49f2": {
   "en": "That is, unless you’re doing a freeform! You will not have the pain of carving your palm, but it might cost your soul or the souls of people around you. Despite Buhraies having a natural inkling for controlling free-forming, including being able to shape the very land to their will, that same power was likely their demise.",
@@ -11,13 +43,33 @@
   "en": "You must carve the logograms into the skin of one of your palms, then clench your fingers to start the interface while keeping the palm visible.",
   "t": "Tienes que grabar los logogramas en la piel de una de tus palmas y luego cerrar los dedos para iniciar la interfaz, manteniendo la palma a la vista."
  },
+ "6351722bd568": {
+  "en": "Soul Spectrum",
+  "t": "Soul Spectrum"
+ },
+ "76a6e41714ed": {
+  "en": "Soul energy shapes the spell using logograms drawn from the knowledge shared by the souls of the people nearby.",
+  "t": "La energía del alma da forma al hechizo usando logogramas sacados del conocimiento que comparten las almas de la gente cercana."
+ },
  "7f9bd04a4f99": {
   "en": "A \"fleshy\" focused evolution to the Finaies interface! Its capabilities outgrew Finaies in raw power and eventually led Buhraies to force themselves to become…",
   "t": "¡Una evolución «carnal» de la interfaz Finaies! Sus capacidades superaron a la Finaies en fuerza bruta y acabaron llevando a los Buhraies a forzarse a ser…"
  },
+ "7fed7d4ad2e4": {
+  "en": "The Buhraies developed this interface as the blood they drank mutated their bodies, and because they wanted more power. Its logograms are the guardrails: cast without them, and you are altering the soul itself.",
+  "t": "Los Buhraies desarrollaron esta interfaz a medida que la sangre que bebían mutaba sus cuerpos, y porque querían más poder. Sus logogramas son las barandillas: lanza sin ellos y estarás alterando el alma misma."
+ },
  "93c6a70f8e61": {
   "en": "Public text: science-buhraies-interface.md",
   "t": "Texto público: science-buhraies-interface.md"
+ },
+ "9aa1e6e34620": {
+  "en": "Nobody has ever maxed it out to know what would happen. The current theory is that going past the theoretical maximum would make the whole thing explode, possibly in a White Hole event.",
+  "t": "Nadie lo ha llevado nunca al máximo para saber qué pasaría. La teoría actual es que pasar del máximo teórico haría que todo explotara, posiblemente en un evento de White Hole."
+ },
+ "a078821d2b2e": {
+  "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Buhraies shells appear as you do.",
+  "t": "<strong>Inicia el hechizo.</strong> Aprieta los dedos de la mano que sostiene el hechizo y la energía del alma. Las capas Buhraies aparecen al hacerlo."
  },
  "a23b9db367c5": {
   "en": "3 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
@@ -35,8 +87,28 @@
   "en": "091 (images illustration)",
   "t": "091 (ilustración de imágenes)"
  },
+ "dd527ba2bcfb": {
+  "en": "<strong>Target:</strong> what the spell acts on. With no target, the soul energy falls back on the caster's own idea of how it should apply itself, and a miscast explodes in soul flame in the caster's hand.",
+  "t": "<strong>Objetivo:</strong> aquello sobre lo que actúa el hechizo. Sin objetivo, la energía del alma recurre a la idea que tenga el propio lanzador de cómo debe aplicarse, y un lanzamiento fallido estalla en llama del alma en la mano del lanzador."
+ },
+ "dfcfe195c9f1": {
+  "en": "An analysis of the soul. Research with it can find soul harmony, and the Buhraies used it to selectively breed people and enhance their power.",
+  "t": "Un análisis del alma. Investigando con él se puede encontrar la armonía del alma, y los Buhraies lo usaban para criar a la gente de forma selectiva y potenciar su poder."
+ },
  "e3cc5a5f7427": {
   "en": "All Buhraies show the markings of controlled flight and built-in spell-casting mechanisms using specialized nerves attuned to soul energy that appear as veins, at least to the untrained eye, throughout the body. These reddened nerves run up and down their body.",
   "t": "Todos los Buhraies muestran las marcas del vuelo controlado y de mecanismos integrados para lanzar hechizos, mediante nervios especializados sintonizados con la energía del alma que, al menos a ojos inexpertos, parecen venas por todo el cuerpo. Estos nervios enrojecidos les recorren el cuerpo de arriba abajo."
+ },
+ "e5d418c7583e": {
+  "en": "<strong>Verb:</strong> what you want to do. You have to think it clearly; a lack of concentration means a miscast, an explosion, or even blowback.",
+  "t": "<strong>Verbo:</strong> lo que quieres hacer. Tienes que pensarlo con claridad; la falta de concentración supone un lanzamiento fallido, una explosión o incluso un retroceso."
+ },
+ "f2508a76391f": {
+  "en": "<strong>Infuse soul energy.</strong> The casting hand takes in energy when the caster \"eats\" with it. Touching the middle and ring fingers lights up the Buhraies veins in that hand with soul flame, and when the other hand \"eats\", the flames are absorbed. A spell is only stable at a soul energy tier, so energy always fills up to the next tier (after a partial charge, it adds the difference).",
+  "t": "<strong>Infunde energía del alma.</strong> La mano que lanza absorbe energía cuando el lanzador «come» con ella. Al tocarse el dedo corazón y el anular, las venas Buhraies de esa mano se encienden con llama del alma, y cuando la otra mano «come», las llamas se absorben. Un hechizo solo es estable en un nivel de energía del alma, así que la energía siempre se llena hasta el siguiente nivel (tras una carga parcial, añade la diferencia)."
+ },
+ "f6eb3327d46d": {
+  "en": "When a spell is cast, five rings appear around the hand holding it. Each shell, on its own, holds a limited number of soul energy tiers:",
+  "t": "Al lanzar un hechizo, aparecen cinco anillos alrededor de la mano que lo sostiene. Cada capa, por sí sola, contiene un número limitado de niveles de energía del alma:"
  }
 }
