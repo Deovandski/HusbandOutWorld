@@ -1,7 +1,39 @@
 {
+ "1e5e2991dedc": {
+  "en": "<strong>Tiers:</strong> the mass affected follows the General Power Effects: 0.1 kg at Tier I, doubling with every tier (51.2 kg at Tier X). Because it changes the genetic information, not the soul, the change stays even after Body Restore, as long as the genetic information isn't lost.",
+  "t": "<strong>ティア：</strong>影響を受ける質量は一般的な力の効果に従い、ティア I で 0.1 kg、ティアごとに倍になる（ティア X で 51.2 kg）。魂ではなく遺伝情報を変えるので、遺伝情報が失われないかぎり、ボディ・リストアのあとでも変化は残る。"
+ },
+ "29070357c173": {
+  "en": "Soul Energy - Buhraies Interface (World Lore illustration)",
+  "t": "魂のエネルギー - ブライエスのインターフェース（世界観イラスト）"
+ },
+ "2c0fd516e171": {
+  "en": "<strong>Draw the spell.</strong> Cut the target logogram into your skin with something sharp (see Language › Buhraies Interface Language), or just cut two empty squares, which has to be done with a knife.",
+  "t": "<strong>呪文を描く。</strong>何か鋭いもので対象の表語文字を皮膚に刻む（言語 › ブライエスのインターフェース言語を参照）か、空の四角を二つ刻むだけでもいい。後者はナイフでやらなければならない。"
+ },
+ "31d48e291ac1": {
+  "en": "<strong>Tiers:</strong> the higher the tier, the more it increases the soul qualities of the summon, with the increase split across several skills. Only tiers above X had a noticeable effect, and only once the soul reconnected to new flesh, if it worked.",
+  "t": "<strong>ティア：</strong>ティアが高いほど召喚体の魂の性質が強まり、その強化はいくつかのスキルに分配される。目に見える効果があったのはティア X より上だけで、それも魂が新しい肉体に再びつながってから、うまくいった場合に限られた。"
+ },
  "3705910a532f": {
   "en": "A \"fleshy\" focused evolution to the Finaies interface! Its capabilities outgrew Finaies in raw power and eventually led Buhraies to force themselves to become powerful enough to reshape the land and other creatures to their liking.",
   "t": "フィナイエス・インターフェースを「肉体」寄りに進化させたもの！ 純粋な力ではフィナイエスを上回り、やがてブライエスは、土地や他の生き物を好きなように作り変えられるほど強くなるよう、自らを追い込んでいった。"
+ },
+ "3ae348503d46": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Buhraies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Buhraies Interface.md</a>",
+  "t": "出典：<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Buhraies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Buhraies Interface.md</a>"
+ },
+ "48ba5cb16a12": {
+  "en": "Alters the target's body DNA according to the caster's desires.",
+  "t": "術者の望みどおりに対象の体の DNA を変える。"
+ },
+ "552e97590e22": {
+  "en": "Soul VERB",
+  "t": "Soul VERB"
+ },
+ "58266576143d": {
+  "en": "Alters the target's soul DNA according to the caster's desires.",
+  "t": "術者の望みどおりに対象の魂の DNA を変える。"
  },
  "5fed524a49f2": {
   "en": "That is, unless you’re doing a freeform! You will not have the pain of carving your palm, but it might cost your soul or the souls of people around you. Despite Buhraies having a natural inkling for controlling free-forming, including being able to shape the very land to their will, that same power was likely their demise.",
@@ -11,13 +43,33 @@
   "en": "You must carve the logograms into the skin of one of your palms, then clench your fingers to start the interface while keeping the palm visible.",
   "t": "片方の手のひらの皮膚に表語文字を刻み、その手のひらを見せたまま指を握り込んでインターフェースを起動しなければならない。"
  },
+ "6351722bd568": {
+  "en": "Soul Spectrum",
+  "t": "魂のスペクトル"
+ },
+ "76a6e41714ed": {
+  "en": "Soul energy shapes the spell using logograms drawn from the knowledge shared by the souls of the people nearby.",
+  "t": "魂のエネルギーは、近くにいる人々の魂が共有する知識から引き出した表語文字を使って呪文を形作る。"
+ },
  "7f9bd04a4f99": {
   "en": "A \"fleshy\" focused evolution to the Finaies interface! Its capabilities outgrew Finaies in raw power and eventually led Buhraies to force themselves to become…",
   "t": "フィナイエス・インターフェースを「肉体」寄りに進化させたもの！ 純粋な力ではフィナイエスを上回り、やがてブライエスは自らを…"
  },
+ "7fed7d4ad2e4": {
+  "en": "The Buhraies developed this interface as the blood they drank mutated their bodies, and because they wanted more power. Its logograms are the guardrails: cast without them, and you are altering the soul itself.",
+  "t": "ブライエスは、飲んだ血が体を変異させたことから、そしてより大きな力を求めたことから、このインターフェースを発展させた。その表語文字は安全柵だ。それなしで唱えれば、魂そのものを変えることになる。"
+ },
  "93c6a70f8e61": {
   "en": "Public text: science-buhraies-interface.md",
   "t": "公開テキスト：science-buhraies-interface.md"
+ },
+ "9aa1e6e34620": {
+  "en": "Nobody has ever maxed it out to know what would happen. The current theory is that going past the theoretical maximum would make the whole thing explode, possibly in a White Hole event.",
+  "t": "それを最大まで満たして何が起きるか確かめた者はいない。現在の説では、理論上の最大値を超えると全体が爆発し、ホワイトホール現象を起こすかもしれないという。"
+ },
+ "a078821d2b2e": {
+  "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Buhraies shells appear as you do.",
+  "t": "<strong>呪文を始める。</strong>呪文と魂のエネルギーを持つ手の指を握りしめる。そうするとブライエスの殻が現れる。"
  },
  "a23b9db367c5": {
   "en": "3 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
@@ -35,8 +87,28 @@
   "en": "091 (images illustration)",
   "t": "091（イラスト画像）"
  },
+ "dd527ba2bcfb": {
+  "en": "<strong>Target:</strong> what the spell acts on. With no target, the soul energy falls back on the caster's own idea of how it should apply itself, and a miscast explodes in soul flame in the caster's hand.",
+  "t": "<strong>対象：</strong>呪文が作用するもの。対象がない場合、魂のエネルギーは、それをどう適用すべきかという術者自身の考えに頼り、唱え損ねると術者の手の中で魂の炎となって爆発する。"
+ },
+ "dfcfe195c9f1": {
+  "en": "An analysis of the soul. Research with it can find soul harmony, and the Buhraies used it to selectively breed people and enhance their power.",
+  "t": "魂の分析。これを使った研究で魂の調和を見つけることができ、ブライエスはそれを使って人々を選択的に交配させ、その力を高めた。"
+ },
  "e3cc5a5f7427": {
   "en": "All Buhraies show the markings of controlled flight and built-in spell-casting mechanisms using specialized nerves attuned to soul energy that appear as veins, at least to the untrained eye, throughout the body. These reddened nerves run up and down their body.",
   "t": "ブライエスはみな、制御された飛行と、魂のエネルギーに同調した特殊な神経を使う呪文詠唱の仕組みが体に組み込まれている印を持っている。その神経は、少なくとも素人目には、全身を走る血管のように見える。この赤みを帯びた神経が体中を上下に走っている。"
+ },
+ "e5d418c7583e": {
+  "en": "<strong>Verb:</strong> what you want to do. You have to think it clearly; a lack of concentration means a miscast, an explosion, or even blowback.",
+  "t": "<strong>動詞：</strong>やりたいこと。はっきりと思い描かなければならない。集中が欠けると、唱え損ね、爆発、さらには跳ね返りが起きる。"
+ },
+ "f2508a76391f": {
+  "en": "<strong>Infuse soul energy.</strong> The casting hand takes in energy when the caster \"eats\" with it. Touching the middle and ring fingers lights up the Buhraies veins in that hand with soul flame, and when the other hand \"eats\", the flames are absorbed. A spell is only stable at a soul energy tier, so energy always fills up to the next tier (after a partial charge, it adds the difference).",
+  "t": "<strong>魂のエネルギーを注ぐ。</strong>詠唱する手は、術者がその手で「食べる」とエネルギーを取り込む。中指と薬指を触れ合わせると、その手のブライエスの血管が魂の炎で光り、もう一方の手が「食べる」と炎が吸収される。呪文は魂のエネルギーのティアでしか安定しないので、エネルギーはいつも次のティアまで満たされる（途中まで充填していた場合は、その差を足す）。"
+ },
+ "f6eb3327d46d": {
+  "en": "When a spell is cast, five rings appear around the hand holding it. Each shell, on its own, holds a limited number of soul energy tiers:",
+  "t": "呪文を唱えると、それを持つ手の周りに五つの輪が現れる。それぞれの殻は、単独では限られた数の魂のエネルギーのティアしか保持できない："
  }
 }

@@ -359,6 +359,14 @@
   "en": "<strong>Tastes like:</strong> See Fauna &gt; Monica.",
   "t": "<strong>味：</strong>動物 &gt; モニカを参照。"
  },
+ "538b29264865": {
+  "en": "<strong>Nari Worm Chitin</strong>: Chitin from when Nari Worms shed their skin. When heated, it smells slightly oily, with a mildewy, earthy finish, like a distant cousin of cockroaches.",
+  "t": "<strong>ナリワームのキチン質</strong>：ナリワームが脱皮したときのキチン質。熱するとほんのり油っぽい匂いがして、かび臭く土っぽい後味が残る。ゴキブリの遠い親戚のようだ。"
+ },
+ "53d4eed1d9b5": {
+  "en": "<strong>Skills:</strong> Use Soul Energy to detect things around them; Create sound blast waves that can deafen anyone nearby, which they use to stun their prey.",
+  "t": "<strong>スキル：</strong>魂のエネルギーで周囲のものを探知する。近くにいる者の耳を聞こえなくするほどの音の衝撃波を作り出し、それで獲物を気絶させる。"
+ },
  "54c367b1869a": {
   "en": "<strong>Habitat:</strong> Bahyum Castle.",
   "t": "<strong>生息地：</strong>バヒュム城。"
@@ -382,6 +390,10 @@
  "5b8171d86bca": {
   "en": "Male and female Flingas: tall dark-blue beasts with long curved horns and red crests, plus a close-up of a head, next to Harry.",
   "t": "オスとメスのフリンガ：長く曲がった角と赤いトサカを持つ、背の高い濃い青の魔獣。頭部のアップと、ハリーとともに。"
+ },
+ "5bac2a3e6f47": {
+  "en": "<strong>Habitat:</strong> Whiteland for most of the year; in the winter they come to the shores of the four kingdoms to eat tons of fish, then go back south to breed in the spring.",
+  "t": "<strong>生息地：</strong>一年の大半はホワイトランド。冬になると四王国の海岸に来て大量の魚を食べ、春に繁殖するために南へ戻る。"
  },
  "5d97b7b1f3a8": {
   "en": "<strong>Flinga Meat</strong>: Meat cut by a butcher. A refined, rare product that some people in Forway insist on having, even though there’s nothing special about it.",
@@ -443,6 +455,10 @@
   "en": "Trunk People: a youngling and an adult tree creature with leafy green heads in a forest, on a height chart.",
   "t": "トランクピープル：森の中にいる、葉の茂った緑の頭を持つ木の生き物の子どもと成体。身長比較の表付き。"
  },
+ "6dc66fe048ae": {
+  "en": "<strong>Tastes like:</strong> Fishy and duck-like.",
+  "t": "<strong>味：</strong>魚っぽく、カモのよう。"
+ },
  "6dcff1a618d7": {
   "en": "<strong>Inspired by:</strong> The natural look of a bryozoan colony.",
   "t": "<strong>モデル：</strong>コケムシの群体の自然な見た目。"
@@ -474,6 +490,10 @@
  "734c760d73c6": {
   "en": "<strong>Uses:</strong> Forway guards ride them to fly around without needing a nari gel themselves (the Big Winga under them is often another guard transformed with one). They're used for quick transportation of goods, scouting and flyovers.",
   "t": "<strong>用途：</strong>フォーウェイの衛兵は、自分でナリジェルを使わずに飛び回るために、彼らに乗る（下にいるビッグウィンガは、たいていナリジェルで変身した別の衛兵だ）。物資の迅速な輸送、偵察、上空飛行に使われる。"
+ },
+ "7382ab3ff705": {
+  "en": "<strong>White Roundies Hair Strands</strong>: Used in nari gels.",
+  "t": "<strong>ホワイトラウンディーズの毛</strong>：ナリジェルに使われる。"
  },
  "7632aa3679a9": {
   "en": "<strong>Big Winga Feathers</strong>: Feathers, prepared by a butcher for artisans to work on.",
@@ -547,6 +567,10 @@
   "en": "<strong>Hifuna People Wood</strong>: The same reddish tone, but plagued with Hifuna disease, so most people won’t use it for crafting.",
   "t": "<strong>ヒフナピープルの木材</strong>：同じ赤みがかった色合いだが、ヒフナ病に冒されているので、ほとんどの人は工作に使わない。"
  },
+ "81857ff25203": {
+  "en": "<strong>Nari Worm Egg</strong>: A rare find, packed with Soul Energy. It replenishes about Tier III and also works as a Nari Refresher. Somewhat delicate, and it may hatch into a tiny Nari Worm at random.",
+  "t": "<strong>ナリワームの卵</strong>：めったに見つからない、魂のエネルギーがぎっしり詰まった卵。およそティアIII分を回復し、ナリ・リフレッシャーとしても働く。ややデリケートで、ランダムに小さなナリワームがかえることがある。"
+ },
  "81ae2bfa4c4e": {
   "en": "<strong>Jelly Blob</strong>: Usually a piece cut off a Shapeshifter and put in a jar for transport. Expensive, because they’re hard to catch.",
   "t": "<strong>ゼリーのかたまり</strong>：たいていシェイプシフターから切り取った一部を、運ぶために瓶に入れたもの。捕まえるのが難しいので高価だ。"
@@ -570,6 +594,10 @@
  "8646424e8834": {
   "en": "<strong>Skills:</strong> Slow Regen; Halted Decomposition; Decompose Target; Steal Soul Energy.",
   "t": "<strong>スキル：</strong>ゆっくりした再生、腐敗の停止、対象を腐敗させる、魂のエネルギーを盗む。"
+ },
+ "87fe827ea783": {
+  "en": "<strong>Nari Stones</strong>: See Nari Caverns. Some species don’t have enough Soul Energy in their bodies for higher-tier spells, so they cast with the energy stored in Nari stones. Forway considers the stone of the utmost importance to the balance of life, and waives its transport costs, since adventurers take on the responsibility of moving such important goods. To make one, the Nari Worm shell is ground and heated into small stones that recombine into a crystalline, diamond-like shape, which is set into Soul Wood and polished to a point for easier stacking. Nari stones can be chained together to speed up casting and to store more. Once used, the blue hue fades and the stone turns diamond-like. Some people toss the spent stones on the ground as waste, but most sell them in bulk, to be melted into a glass that feels somewhat plasticky and is less translucent.",
+  "t": "<strong>ナリストーン</strong>：ナリ・カヴァーンズを参照。体に高ティアの呪文を使えるほどの魂のエネルギーがない種もいるので、彼らはナリストーンに蓄えられたエネルギーで呪文を唱える。フォーウェイはこの石を生命のバランスにとってこの上なく重要なものとみなし、その輸送費を免除している。冒険者がこれほど重要な品を運ぶ責任を引き受けるからだ。作るには、ナリワームの殻をすりつぶして熱し、小さな石にする。石は再結合してダイヤモンドのような結晶の形になり、それをソウルウッドにはめ込んで、積み重ねやすいように先を尖らせて磨く。ナリストーンはつなげて詠唱を速めたり、より多く蓄えたりできる。使い終わると青みが消え、石はダイヤモンドのようになる。使い終わった石をごみとして地面に捨てる人もいるが、たいていはまとめて売られ、溶かされて、やや樹脂っぽい手触りの、透明度の低いガラスになる。"
  },
  "88387cc837bb": {
   "en": "<strong>Flinga Jerky</strong>: Jerky prepared by a butcher. A refined, rare product that some people in Forway insist on having, even though there’s nothing special about it.",
@@ -635,9 +663,17 @@
   "en": "<strong>Skills:</strong> Harden parts of their bodies; Generate Acid; Cloak; Increase Size.",
   "t": "<strong>スキル：</strong>体の一部を硬化させる、酸を生み出す、姿を隠す、体を大きくする。"
  },
+ "9b1905acada7": {
+  "en": "<strong>Intelligence:</strong> Much higher than a dog’s, and of a very specific kind. They have their own cultures and social norms. They can’t speak or understand Vraki, but they understand actions, like pointing to the sea while holding a big slice of meat. Their trades might seem random, but the better the meat, the more likely they are to pay back the kindness. Sometimes they make odd sounds that sound like Vraki, as if they were trying to learn, or at least repeat what they heard people say.",
+  "t": "<strong>知能：</strong>犬よりはるかに高く、とても独特な種類の知能だ。独自の文化と社会規範を持っている。ヴラキ語を話したり理解したりはできないが、大きな肉の切れ端を持ちながら海を指さすような行動は理解する。彼らの取引はでたらめに見えるかもしれないが、肉がよいほど、その親切にお返しをしてくれる可能性が高くなる。ときどきヴラキ語のように聞こえる奇妙な音を出す。まるで学ぼうとしているか、少なくとも人が言ったことを繰り返そうとしているかのようだ。"
+ },
  "9c96138b628e": {
   "en": "<strong>Reproduction:</strong> Females give birth to 5–7 babies every year.",
   "t": "<strong>繁殖：</strong>メスは毎年 5〜7 匹の赤ちゃんを産む。"
+ },
+ "9e08f4c26423": {
+  "en": "<strong>White Roundies Meat</strong>: Some people like it, but eating it is often considered weird because of its unusual taste. Much more expensive, or simply unavailable, outside the winter.",
+  "t": "<strong>ホワイトラウンディーズの肉</strong>：好きな人もいるが、変わった味なので、食べるのはたいてい奇妙だと思われている。冬以外はずっと高いか、そもそも手に入らない。"
  },
  "9eece3967a5b": {
   "en": "<strong>Extermination</strong>: Usually one piece (often the Walking Heart stone with the head bone) is torn off and brought back as proof of the hunt. See Embassy Quests for more details.",
@@ -743,6 +779,10 @@
   "en": "<strong>Inspired by:</strong> Chimpanzee.",
   "t": "<strong>モデル：</strong>チンパンジー。"
  },
+ "b50deeb8ddf5": {
+  "en": "<strong>Inspired by:</strong> Seals and penguins.",
+  "t": "<strong>モデル：</strong>アザラシとペンギン。"
+ },
  "b521396978a6": {
   "en": "Endless experiments with what's now known as the Walking Heart stone left tons of zombies of different species in Bahyum Castle, and it somehow keeps creating more.",
   "t": "今ではウォーキングハートの石として知られるものを使った果てしない実験の結果、バヒュム城にはさまざまな種のゾンビが大量に残され、なぜかいまだに増え続けている。"
@@ -767,6 +807,10 @@
   "en": "Hifuna People",
   "t": "ヒフナピープル"
  },
+ "bf8dfb4caa32": {
+  "en": "<strong>Reproduction:</strong> Every spring, after fattening up in the warmer waters during the winter.",
+  "t": "<strong>繁殖：</strong>毎年春、冬の間に暖かい海で太ったあとで。"
+ },
  "c2018b90555e": {
   "en": "<strong>Intelligence:</strong> Lion.",
   "t": "<strong>知能：</strong>ライオン。"
@@ -774,6 +818,10 @@
  "c21ad57d8448": {
   "en": "<strong>Tastes like:</strong> Strong, earthy and nutty.",
   "t": "<strong>味：</strong>濃厚で、土っぽく、ナッツのよう。"
+ },
+ "c2d3c43fbc94": {
+  "en": "<strong>Food:</strong> Fish.",
+  "t": "<strong>食べ物：</strong>魚。"
  },
  "c45a08fc875b": {
   "en": "Hash {X}",
@@ -939,6 +987,10 @@
   "en": "Male and female White Roundies: gray seal-like creatures with long whiskers and pale tails, next to Harry.",
   "t": "オスとメスのホワイトラウンディーズ：長いヒゲと淡い色の尾を持つ、アザラシのような灰色の生き物。ハリーとともに。"
  },
+ "ee952739d3ca": {
+  "en": "<strong>Interface:</strong> The hair around their necks, which vibrates and makes a rumbling sound above water.",
+  "t": "<strong>インターフェース：</strong>首の周りの毛。振動して、水上でごろごろという音を立てる。"
+ },
  "ef4e11ca8495": {
   "en": "Beasts · #HusbandOutWorld",
   "t": "魔獣 · #HusbandOutWorld"
@@ -994,6 +1046,10 @@
  "f5e978a4f160": {
   "en": "White Roundies are gentle mammals from the far south known as Whiteland, often coming up to the shores of Freeish but sometimes as far as Sanbi during the winter to feast on their heart, given the winter in Whiteland is far colder than the Four Kingdoms' winter. Don't let their cute nature fool you, though! They are incredibly intelligent, with some scientists dedicating their lives to investigating their culture alone. It is commonly accepted that this beast is likely on track to become their own race in the far future, but people disagree on what is the turning point. For some, the fact we can't understand their language is the most significant differentiator from Cruros. Others fight that argument on the grounds that they might be even more intelligent than us, and we don't understand them. Others think this whole back-and-forth is a waste of time and prefer to play catch, rub their bellies to hear the rumbling noise that sounds like a pur they make with their neck sensory tentacles, or straight up make companions out of them. If you're one of these people, there's a whole festival around their arrival in Freeish Kingdom you cannot miss out on.",
   "t": "ホワイトラウンディーズは、ホワイトランドと呼ばれる極南の地に住むおとなしい哺乳類で、よくフリーイッシュの海岸にやってくる。ホワイトランドの冬は四王国の冬よりずっと寒いので、冬の間はごちそうを求めてサンビまで来ることもある。でも、かわいい見た目にだまされちゃいけない！ ものすごく賢くて、その文化の研究だけに一生を捧げる科学者もいるほどだ。この魔獣は遠い将来、独自の種族になる道を歩んでいる可能性が高いというのが通説だが、何がその転換点になるのかは意見が分かれる。私たちが彼らの言葉を理解できないことこそがクルロとの最大の違いだと言う者もいる。それに対して、彼らは私たちより賢いのかもしれず、理解できていないのは私たちのほうだと反論する者もいる。こんな議論は時間の無駄だと考えて、ボール遊びをしたり、首の感覚触手で出すゴロゴロという音を聞くためにお腹をなでたり、あっさり相棒にしたりする者もいる。そういうタイプなら、フリーイッシュ王国には彼らの到来を祝う祭りがまるごとあるから、見逃せないぞ。"
+ },
+ "f70be7341df5": {
+  "en": "A seal-like mammal that lives in the far south most of the year. They're often killed in winter, when they move to northern waters to fatten up for spring, though most people frown on it, since they seem too intelligent, especially people who think like Endlessfog's residents.",
+  "t": "一年の大半を遥か南で暮らす、アザラシのような哺乳類。春に備えて太るために北の海へ移動する冬によく殺されるが、ほとんどの人はそれに眉をひそめる。賢すぎるように見えるからだ。とくにエンドレスフォグの住民のように考える人はそうだ。"
  },
  "f884107d2275": {
   "en": "<strong>Habitat:</strong> Seen flying all over the region.",
