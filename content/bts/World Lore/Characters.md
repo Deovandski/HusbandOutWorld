@@ -848,12 +848,12 @@ Left at an orphanage in Sanbi. One day [Gabiro](#gabiro-sanbi-royal) noticed his
 
 # Eiri Sanbi Royal
 
-Born in Sanbi (see the Q&A for the day) and raised there by parents with a Tier III profession: her mother, [Coema](#coema-sanbi-half-cruro), was the King-maid before her. She loved helping in the kitchen and decided to become a chef (1028 A.G.). At school, she took a few off-the-clock "cooking lessons" on how to warm up boys' sausages, and one of the boys was an accountant: she fell in love with accounting instead of the boy, and graduated in both (1036 A.G.). Coema knew she would grow into the role of King-maid and gave her a chance as a maid (1036 A.G.). Thanks to her outstanding knowledge, looks and playfulness, Coema promoted her to King-maid on 1038 A.G. Asa 9th, the day before her birthday. On 1038 A.G. Asa 77th, passing through Forway, she found [Arukia](#arukia-long-bridge) and hired her at the drop of a hat.
+Born in Sanbi on 1017 A.G. Asa 10th and raised there by parents with a Tier III profession: her mother, [Coema](#coema-sanbi-half-cruro), was the King-maid before her. She loved helping in the kitchen and decided to become a chef (1028 A.G.). At school, she took a few off-the-clock "cooking lessons" on how to warm up boys' sausages, and one of the boys was an accountant: she fell in love with accounting instead of the boy, and graduated in both (1036 A.G.). Coema knew she would grow into the role of King-maid and gave her a chance as a maid (1036 A.G.). Thanks to her outstanding knowledge, looks and playfulness, Coema promoted her to King-maid on 1038 A.G. Asa 9th, the day before her birthday. On 1038 A.G. Asa 77th, passing through Forway, she found [Arukia](#arukia-long-bridge) and hired her at the drop of a hat.
 
 Since Vol 1, she's no longer as subservient: she has more sass, pushes back, and would do it again to protect the people she cares about. [Neferteri](#neferteri-sanbi-royal) can still get her to comply with sweet talk and moves that look good for her maids (and Harry). As King-maid, she has no control over the general or the city guard. Sanbi gossips that she's becoming "Coema 2.0", which is kind of true, and Neferteri hates it. She knows every maid's name, and even how to spell it.
 
 - **Race:** human.
-- **Birthday:** 1017 A.G. Paulin 74th (see the Q&A).
+- **Birthday:** 1017 A.G. Asa 10th.
 - **Attracted to:** Darfaries and human men, as long as they know how to please a woman's wavering heart.
 - **Myers-Briggs:** ESFP.
 - **Intelligence:** very smart at accounting and anything maid-related. She can organize people like no other, and does her best to create a loving environment for her maids.
@@ -890,8 +890,8 @@ Coema grew up in Sanbi and was King-maid before handing the position to [Eiri](#
 Born in the Sanbi Kingdom to Wozefaries parents from Flatland City, who built a soap shop that paid for Sora's education, and she became a maid at the kingdom. She's extremely good with finances and cooking, so [Eiri](#eiri-sanbi-royal) grabbed her before anyone else could sink their fangs in. Sora accepted, finished school earlier than everyone, and went back to the Sanbi Kingdom.
 
 - **Race:** Wozefaries.
-- **Birthday:** 1025 A.G. Moacir 75th (see the Q&A).
-- **Fascinated by:** tall, handsome human men who are kind to her and treat her well; she has that prince-like wish.
+- **Birthday:** 1020 A.G. Moacir 75th.
+- **Attracted to:** tall, handsome human men who are kind to her and treat her well; she has that prince-like wish.
 - **Myers-Briggs:** INFP.
 - **Intelligence:** very smart with accounting and numbers in general, but her social skills took a hit. She also picked up cooking like a pro along the way.
 - **Habits:** avoids eye contact; keeps her hands to herself; helps those she feels neutral about. If she notices someone might have feelings for her, her head implodes from sheer embarrassment, imagining the wedding.
@@ -903,8 +903,8 @@ Born in the Sanbi Kingdom to Wozefaries parents from Flatland City, who built a 
 
 | Book | Age | Height | Weight |
 |---|---|---|---|
-| 1 | 14 | 145 cm | 41 kg |
-| 2 | 14 | 145 cm | 41 kg |
+| 1 | 18 | 145 cm | 41 kg |
+| 2 | 18 | 145 cm | 41 kg |
 
 # Ukim Sanbi
 
@@ -959,7 +959,7 @@ He grew up in a village where he was almost culled. His mother fled with him, bu
 
 # Huneo Sanbi Royal
 
-His badge reads **Huneo Sanbi Sandour** as of Vol 4: he's from a rich Forway family with deep ties to, and history with, the Sanbi Kingdom, in the Sandour guild (Sanbi Dock Four). He gets the Royal "treatment" in the future books, once [Kibe](#kibe-sanbi-royal) takes him on as his apprentice (see the Q&A).
+His badge reads **Huneo Sanbi Sandour** as of Vol 4: he's from a rich Forway family with deep ties to, and history with, the Sanbi Kingdom, in the Sandour guild (Sanbi Dock Four). He gets the Royal "treatment" in the future books: as tradition goes, he starts as [Kibe](#kibe-sanbi-royal)'s apprentice, but with [Neferteri](#neferteri-sanbi-royal)'s blessing, he cracks the whip and takes charge.
 
 His parents had many children, which left them carefree with them, for lack of time. Growing up that way, he always thought the laid-back, carefree approach of the Sanbi Royals needed to change. With no way into the royal family, he did the next best thing and became a Sanbi guard, and thanks to his righteousness, he quickly became the best guard captain of the Sanbi Kingdom.
 

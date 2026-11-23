@@ -174,23 +174,35 @@ Status: **answered** 2026-11-22.
 
 Eori, Nina, Gabiro, Kibe, Eiri, Coema, Sora, Ukim, Kiko, Zico, Huneo, Namia, Lofinghy.
 
-Status: **open** until answered.
+Status: **answered** 2026-11-22.
 
 ### CH14. Eiri's birthday: Asa 10th or Paulin 74th?
 - **Legacy text:** Isekai History: "Born 1,017 A.G. Asa 10th"; promoted to King-maid "on the day before her birthday (1,038 A.G Asa 9th.)". Birthday field (and `Legacy/Public/characters.md`): "1017 A.G. Paulin 74th".
 - **Why:** Which is her birthday? (The abridged text keeps Paulin 74th and leaves the day out of her story, for now.)
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > Ch14: good catch. Asa 10th. Make it official for her bday.
+- **Change to the abridged text:** Birthday 1017 A.G. Asa 10th, back in her story too. **Made official:** `content/fixes.json` in the raw notes and `Legacy/Public/characters.md`; the translated public paragraph is re-keyed in all fourteen languages, with the month and day changed in each (Paulin 74 → Asa 10).
 
 ### CH15. Sora's age
 - **Legacy text:** Birthday "1025 A.G Moacir 75th"; Book 1 and 2 age "14".
 - **Why:** You told me earlier (while translating the novel) that Sora is of age. Should her birthday and age change? (The abridged text keeps 14, with her attraction line as "Fascinated by", for now.)
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > Ch15: have her of age, 18. Make it official (crosscheck the novels though. If the novels somehow mention Sora being another age, then novels are already published and they set in stone what is true.)
+- **Change to the abridged text:** checked first: no novel or public page gives Sora's age (searched the Light Novel folder and `Legacy/Public`; Vol 1 only calls her "tiny Sora", Vol 3 "my sweet little Sora"). Birthday 1020 A.G. Moacir 75th, which makes her 18 in Books 1 and 2 (summer, Paulin, of 1039 A.G.); her line is "Attracted to" again. **Made official:** `content/fixes.json` corrects the birthday in the raw notes and `Legacy/Public/characters.md`, and the raw Book 1 and 2 ages (14 → 18); the translated public paragraph is re-keyed in all fourteen languages.
 
 ### CH16. Huneo and Kibe: who is whose apprentice?
 - **Legacy text:** the author's CH13 answer: "when Kibe hires Huneo as his apprentice, Huneo will get the Royal "treatment"". Light Novel › Arc #2 - Hifuna Beast: Huneo says "Apprentice Kibe." and, to Eori, "As my second apprentice, I demand you to apologize".
 - **Why:** In Arc #2, Huneo reads as the master, with Kibe and Eori as his apprentices. Which way is it? (The abridged text follows the CH13 answer for now.)
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > Ch16: forgot about what Neferteri does on this. Huneo does start as Kibe's apprentice as per tradition, but Huneo, with Neferteri's blessing crack the whip around and gets in charge.
+- **Change to the abridged text:** "as tradition goes, he starts as Kibe's apprentice, but with Neferteri's blessing, he cracks the whip and takes charge."
 
 ### Judgment calls in batch 5
 - **Nina** (7 in 1039): her Sexuality line ("Daddy figures, specifically closer to her father in qualities") reads "Looks up to: father figures, especially ones like her own father".
-- **Minors' "Fascinated by":** Sora and Zico (16); Ukim's line was "Not decided yet", so it's left out.
+- **Minors' "Fascinated by":** Zico (16; Sora is 18 after CH15); Ukim's line was "Not decided yet", so it's left out.
 - **Kiko:** "Reminds me of Eucliwood Hellscythe." became a real-world comparison note (the anime *Is This a Zombie?*).
 - **Lofinghy and Lofingha:** born 993 and 1007, so he was 14 when she was born; left as written under the author's C12 ruling.
 - "(See World Lore Q&A › Vol 4 Draft 2, Qn.)" pointers dropped; "almost got curled" read as "almost culled"; "she was perished by bandits" as "killed by bandits"; Sora's "Smells like" line (a novel excerpt) summarized.

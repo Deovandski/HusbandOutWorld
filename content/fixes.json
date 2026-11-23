@@ -288,6 +288,21 @@
       "find": "1015 A.G. Paulin 28th",
       "replace": "1004 A.G. Paulin 28th",
       "why": "Nailah is of age (20) when Vitor is born in 1025 A.G., the author's decision (issue #103, Characters Q&A CH9)."
+    },
+    {
+      "find": "1017 A.G. Paulin 74th",
+      "replace": "1017 A.G. Asa 10th",
+      "why": "Eiri's birthday is Asa 10th, as her backstory says, the author's decision (issue #103, Characters Q&A CH14), made official."
+    },
+    {
+      "find": "1025 A.G Moacir 75th",
+      "replace": "1020 A.G Moacir 75th",
+      "why": "Sora is of age (18) in Books 1 and 2 (1039 A.G.), the author's decision (issue #103, Characters Q&A CH15), made official; no novel gives her age."
+    },
+    {
+      "find": "**Age**: 14  \n    * **Height**: 145cm",
+      "replace": "**Age**: 18  \n    * **Height**: 145cm",
+      "why": "Sora is of age (18) in Books 1 and 2 (1039 A.G.), the author's decision (issue #103, Characters Q&A CH15), made official; no novel gives her age."
     }
   ],
   "Legacy/Public/characters.md": [
@@ -310,6 +325,16 @@
       "find": "1015 A.G. Paulin 28th",
       "replace": "1004 A.G. Paulin 28th",
       "why": "Nailah is of age (20) when Vitor is born in 1025 A.G., the author's decision (issue #103, Characters Q&A CH9)."
+    },
+    {
+      "find": "1017 A.G. Paulin 74th",
+      "replace": "1017 A.G. Asa 10th",
+      "why": "Eiri's birthday is Asa 10th, as her backstory says, the author's decision (issue #103, Characters Q&A CH14), made official."
+    },
+    {
+      "find": "1025 A.G Moacir 75th",
+      "replace": "1020 A.G Moacir 75th",
+      "why": "Sora is of age (18) in Books 1 and 2 (1039 A.G.), the author's decision (issue #103, Characters Q&A CH15), made official; no novel gives her age."
     }
   ]
 }
