@@ -1,4 +1,36 @@
 {
+ "0044e37fe1da": {
+  "en": "<strong>Sanbi Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>桑比鱼肉</strong>：屠夫切好的肉。"
+ },
+ "014e2ebcc276": {
+  "en": "A classic case of convergent evolution.",
+  "t": "一个典型的趋同进化案例。"
+ },
+ "0291cae0f9b8": {
+  "en": "<strong>Interface:</strong> Hair on the head and chin.",
+  "t": "<strong>界面：</strong>头上和下巴上的毛。"
+ },
+ "039f5679c3f6": {
+  "en": "<strong>Hide/Fur</strong>: Hide/fur, prepared by a butcher for artisans to work on; incredibly flexible to work with.",
+  "t": "<strong>兽皮/毛皮</strong>：兽皮/毛皮，由屠夫处理好，供工匠加工；加工起来非常有弹性。"
+ },
+ "0469898a5d6d": {
+  "en": "<strong>Ptaina Oil</strong>: Used in beer, in food, for greasing things, etc.",
+  "t": "<strong>普泰纳鱼油</strong>：用于啤酒、食物、润滑东西等。"
+ },
+ "046cbe8c1a3a": {
+  "en": "~15 km",
+  "t": "~15 公里"
+ },
+ "04e62b3dcc96": {
+  "en": "<strong>Barina Lungs</strong>: Useful for nari gels.",
+  "t": "<strong>巴里纳肺</strong>：对纳里凝胶有用。"
+ },
+ "04ee21f55656": {
+  "en": "<strong>Legunia Egg</strong>: More of an upscale culinary ingredient than everyday food, because of its stronger taste and smell.",
+  "t": "<strong>莱古尼亚蛋</strong>：与其说是日常食物，不如说是一种高档的烹饪食材，因为它的味道和气味更重。"
+ },
  "053d9599488e": {
   "en": "<strong>Skills:</strong> Its carapace can flip between Walking Heart modes at will, activating the Walking Heart by inflating it with blood, though it can't seem to keep that up for long.",
   "t": "<strong>技能：</strong>它的甲壳可以随意在沃金哈特的各种模式之间切换，通过充血来激活沃金哈特，不过它似乎没法维持太久。"
@@ -7,9 +39,53 @@
   "en": "Fauna",
   "t": "动物"
  },
+ "06051c61df2d": {
+  "en": "<strong>Skills:</strong> Gravity Down; Oil Up.",
+  "t": "<strong>技能：</strong>格拉维蒂当；油脂增生。"
+ },
+ "0658a4d6291b": {
+  "en": "<strong>Interface:</strong> Spikes on back; See Races &gt; Cruro.",
+  "t": "<strong>界面：</strong>背上的刺；见种族 &gt; 克鲁罗。"
+ },
+ "0661c4022922": {
+  "en": "<strong>Tastes like:</strong> Chewy, rubbery chicken.",
+  "t": "<strong>味道：</strong>有嚼劲、像橡胶一样的鸡肉。"
+ },
+ "06be860b4b3e": {
+  "en": "<strong>Food:</strong> Berries &amp; Fruits.",
+  "t": "<strong>食物：</strong>浆果和水果。"
+ },
  "07435648d9f3": {
   "en": "Cinikas, meanwhile, are not exactly as extraordinary unless there's a swarm of them and you're a sweaty Wozefaries or Sorefaries; then you're big trouble as they will swarm you, paralyze you, and lick your sweet sweat. The soul energy interface of a single Cinika is not that powerful, but when there's a swarm of them, they might overwhelm even a Hifuna beast. They also behave distinctly differently in reaction to pressure and humidity changes—actually, that is extraordinary! If you see them make a tight-closed swarm and flutter around like they are seeking shelter, then for sure, there's a nasty storm brewing on the horizon.",
   "t": "而西尼卡就没那么了不起了，除非它们成群结队，而你又恰好是个满身大汗的沃泽法里斯或索雷法里斯；那样你就有大麻烦了，因为它们会成群围住你，让你动弹不得，然后舔你那香甜的汗水。单只西尼卡的灵魂能量界面并不怎么强大，但当它们成群结队时，就连希富纳魔兽都可能招架不住。它们对气压和湿度变化的反应也截然不同——其实，这才是了不起的地方！如果你看到它们紧紧地聚成一团，像在寻找避难所一样四处飞舞，那肯定有一场可怕的风暴正在地平线上酝酿。"
+ },
+ "0753b4a20179": {
+  "en": "~35 km",
+  "t": "~35 公里"
+ },
+ "080be8501b1b": {
+  "en": "<strong>Skills:</strong> Sense Surroundings; Communicate in radio waves; Emit strong radio waves that cause migraines in most people; Inflate/expand their lips, then rupture them out of their bodies as fake prey. Usually as an escape maneuver; They can do the same with their tails and grow them extra long to evade beasts/hunters.",
+  "t": "<strong>技能：</strong>感知周围环境；用无线电波交流；发出能让大多数人偏头痛的强烈无线电波；把嘴唇充气膨胀，然后让它们从身体上破裂脱落，当作假猎物。通常是作为逃跑手段；它们也能对尾巴这么做，让尾巴长得特别长来躲避魔兽/猎人。"
+ },
+ "08187a6acb2d": {
+  "en": "<strong>Wozen Nose</strong>: Used in nari gels.",
+  "t": "<strong>沃增鼻子</strong>：用于纳里凝胶。"
+ },
+ "085a75e4aa78": {
+  "en": "<strong>Reproduction:</strong> Every 6 months.",
+  "t": "<strong>繁殖：</strong>每 6 个月一次。"
+ },
+ "08756e3e421f": {
+  "en": "<strong>Tamed Legunia</strong>: A great pet, and that's about it: it flees at the first sign of danger, and it isn't very smart or social.",
+  "t": "<strong>驯服的莱古尼亚</strong>：一只很棒的宠物，仅此而已：一有危险的迹象它就逃，而且不怎么聪明，也不怎么合群。"
+ },
+ "08b1ecdb061a": {
+  "en": "<strong>Fihi Corpse</strong>: Freshly killed nearby and stored in a wagon with ice, ready for the butcher shops or to be shipped out.",
+  "t": "<strong>菲希尸体</strong>：在附近刚杀死，装在放了冰的马车里，准备送到肉铺或者运出去。"
+ },
+ "08c2c67ed670": {
+  "en": "<strong>Tamed Fanchaki</strong>: Some keep them as pets, but they're mostly livestock. Some use them as bait for predators, especially for their Soul Energy abilities.",
+  "t": "<strong>驯服的凡查基</strong>：有些人把它们当宠物养，但它们大多是家禽。有些人用它们来引诱捕食者，尤其是因为它们的灵魂能量能力。"
  },
  "08cd94ec60ad": {
   "en": "Barina",
@@ -23,13 +99,65 @@
   "en": "Crocus is the progenitor species of the Cruros. Nothing exactly special about them other than they look hella cute, chunky, and bite like a mean motherfucker. Someone said they tamed one and got it as a pet, but there's no recorded proof. If any crazy scientists figure it out, Forway will have a new pet craze.",
   "t": "克罗卡斯是克鲁罗的祖先物种。除了它们看起来可爱得要命、胖乎乎的、咬起人来像个狠毒的混蛋之外，并没有什么特别之处。有人说他们驯服了一只当宠物养，但没有任何记录证明。如果有哪个疯狂的科学家弄明白了，福威就会掀起一股新的宠物热潮。"
  },
+ "0b2c64e4b62c": {
+  "en": "<strong>Reproduction:</strong> About 10 are born every few months.",
+  "t": "<strong>繁殖：</strong>每隔几个月出生大约 10 只。"
+ },
+ "0bf9b2f261b8": {
+  "en": "<strong>Barina Venom Glands</strong>: Used in nari gels.",
+  "t": "<strong>巴里纳毒腺</strong>：用于纳里凝胶。"
+ },
  "0c24c85d2564": {
   "en": "<strong>Food:</strong> Flower nectar.",
   "t": "<strong>食物：</strong>花蜜。"
  },
+ "0c8277ae3994": {
+  "en": "<strong>Reproduction:</strong> Every few months.",
+  "t": "<strong>繁殖：</strong>每隔几个月。"
+ },
+ "0dbf69cc4c24": {
+  "en": "<strong>Reproduction:</strong> Tens of Sanbi fish a year.",
+  "t": "<strong>繁殖：</strong>每年几十条桑比鱼。"
+ },
+ "115bbcf5dd6f": {
+  "en": "<strong>Interface:</strong> Jumping Feet; Microwave detection (whiskers); Can spot objects in the walls/dirt. It’s like an infrared camera of sorts.",
+  "t": "<strong>界面：</strong>跳跃的脚；微波探测（胡须）；能发现墙里/土里的物体。它就像某种红外摄像机。"
+ },
+ "11ec1babc73d": {
+  "en": "<strong>Interface:</strong> Wattle.",
+  "t": "<strong>界面：</strong>肉垂。"
+ },
+ "1281489bcdfb": {
+  "en": "<strong>Skills:</strong> High Jump; Super Speed.",
+  "t": "<strong>技能：</strong>高跳；超高速。"
+ },
+ "128ffeb49119": {
+  "en": "<strong>Wooly Dried Milk</strong>: Milk often dried for transport to the rest of the kingdoms.",
+  "t": "<strong>伍利奶粉</strong>：奶常常被干燥成粉，方便运到其他王国。"
+ },
  "140e208733de": {
   "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Fauna.md\">Legacy/Behind The Scenes/World Lore/Fauna.md</a>",
   "t": "来源：<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Fauna.md\">Legacy/Behind The Scenes/World Lore/Fauna.md</a>"
+ },
+ "151d88477aac": {
+  "en": "<strong>Tastes like:</strong> Chicken meat near the bone, fattier and stronger.",
+  "t": "<strong>味道：</strong>靠近骨头的鸡肉，更肥、味道更重。"
+ },
+ "1542647c4a28": {
+  "en": "<strong>Habitat:</strong> Oceans, mostly near deltas.",
+  "t": "<strong>栖息地：</strong>海洋，主要在三角洲附近。"
+ },
+ "16695cfd09d5": {
+  "en": "<strong>Skills:</strong> Speedy Reaction; Fake Body.",
+  "t": "<strong>技能：</strong>快速反应；费克博迪。"
+ },
+ "1690d73235ec": {
+  "en": "<strong>Legunia Fat</strong>: A delicacy, like duck fat, used in lots of cooking.",
+  "t": "<strong>莱古尼亚脂肪</strong>：一种美味，像鸭油一样，在很多菜里用到。"
+ },
+ "16e720a9a4f9": {
+  "en": "<strong>Tastes like:</strong> Chicken, but hard, only good for stew, and it doesn't freeze well. It smells clean and mild, almost like fresh tuna without the ocean smell: more like faint wet grass, like being downwind of someone cutting grass.",
+  "t": "<strong>味道：</strong>鸡肉，但很硬，只适合炖，而且不耐冻。它闻起来干净、温和，几乎像没有海腥味的新鲜金枪鱼：更像淡淡的湿草味，就像站在有人割草的下风处。"
  },
  "17d4b0096fcf": {
   "en": "Lansha",
@@ -43,17 +171,53 @@
   "en": "Ptaina",
   "t": "普泰纳"
  },
+ "19b16e9c735f": {
+  "en": "<strong>Inspired by:</strong> Fennec Fox; Horned Lizard.",
+  "t": "<strong>灵感来源：</strong>耳廓狐；角蜥。"
+ },
+ "1a705d073f31": {
+  "en": "<strong>Intelligence:</strong> Alligator.",
+  "t": "<strong>智力：</strong>鳄鱼。"
+ },
  "1b00bcc07773": {
   "en": "Winga is famous for being a social companion with a remarkable memory of landscapes and people's faces; they are the backbone of the interkingdom Winga mail courier services. Some, on the other hand, find its sweet meat a delicacy! Even the wild ones taste just as great too! Watch out for their interface if you decide to hunt them yourself—they will shriek so loud to make your ears bleed to strengthen their beak and claws to cut through anything to break free. Oh! Almost forgot! You will be in deep shit if you hunt down a Winga working for Forway.",
   "t": "温加以作为社交伙伴而闻名，对地形和人脸有着非凡的记忆力；它们是王国间温加邮件信使服务的支柱。另一方面，有些人觉得它香甜的肉是一种美味！就连野生的也一样好吃！如果你决定自己去猎杀它们，就要小心它们的界面——它们会尖叫得让你耳朵流血，以此强化喙和爪子，能切开任何东西挣脱出来。哦！差点忘了！如果你猎杀了为福威工作的温加，你就麻烦大了。"
+ },
+ "1b24bb431e26": {
+  "en": "<strong>Habitat:</strong> Throughout the four kingdoms and their cities, and in the wild, mostly in open fields.",
+  "t": "<strong>栖息地：</strong>遍布四王国和它们的城市，以及野外，大多在开阔的田野上。"
  },
  "1e204423cd31": {
   "en": "Barina: a small black-and-yellow frog-like creature with a spiny blue tail, at about knee height.",
   "t": "巴里纳：一只黑黄相间的小型蛙状生物，长着带刺的蓝色尾巴，大约到膝盖高。"
  },
+ "1e4f10ae7904": {
+  "en": "<strong>Tamed Adult Egua</strong>: An adult Egua, ready to work.",
+  "t": "<strong>驯服的成年埃瓜</strong>：一头成年埃瓜，可以干活了。"
+ },
+ "1ee37fbe724d": {
+  "en": "<strong>Habitat:</strong> Nowadays they only live in the Gandew Kingdom, and in the wild in the high mountains that border the desert (Old Fuhrair), at about 4 to 6 km. They would suffocate in their own fur at altitudes &lt; 4km, or the humidity would spoil their fur. They were meant for high altitudes.",
+  "t": "<strong>栖息地：</strong>如今它们只生活在甘杜王国，以及与沙漠接壤的高山（旧弗莱尔）的野外，海拔约 4 到 6 公里。在海拔 &lt; 4 公里的地方，它们会被自己的毛闷死，或者湿气会让它们的毛坏掉。它们天生就是为高海拔准备的。"
+ },
+ "205eb12c794b": {
+  "en": "<strong>Skills:</strong> Shooting the spikes off their back in self-defense; Harden Skin; Invisibility (bending light around themselves, slightly distorted), which often lasts for hours, since they usually stay still.",
+  "t": "<strong>技能：</strong>为了自卫射出背上的刺；硬化皮肤；隐形（让光绕过自己弯曲，有轻微的扭曲），常常能持续好几个小时，因为它们通常一动不动。"
+ },
+ "20c0fb61694d": {
+  "en": "<strong>Ptaina Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>普泰纳肉</strong>：屠夫切好的肉。"
+ },
  "20c90d695153": {
   "en": "Fauna · #HusbandOutWorld",
   "t": "动物 · #HusbandOutWorld"
+ },
+ "22ae8bca0cdd": {
+  "en": "<strong>Interface:</strong> Eyes/Ears.",
+  "t": "<strong>界面：</strong>眼睛/耳朵。"
+ },
+ "23ec7a1af084": {
+  "en": "<strong>Wozen Jerky</strong>: Jerky prepared by a butcher. Not really desirable by many people due to its strong gamey flavor. Usually served up to poorer people.",
+  "t": "<strong>沃增肉干</strong>：屠夫做的肉干。因为膻味重，没多少人想要。通常卖给比较穷的人。"
  },
  "25be17d8e5c2": {
   "en": "<strong>Cuisine</strong>: See Freeish Kingdom.",
@@ -63,21 +227,85 @@
   "en": "Fanchaki",
   "t": "凡查基"
  },
+ "260fc1f74452": {
+  "en": "<strong>Reproduction:</strong> Every year; 7 eggs laid, of which only a few reach adulthood.",
+  "t": "<strong>繁殖：</strong>每年一次；产 7 枚蛋，只有几只能长到成年。"
+ },
+ "26417dd405ab": {
+  "en": "<strong>Tastes like:</strong> Light chicken or white fish.",
+  "t": "<strong>味道：</strong>清淡的鸡肉或白鱼。"
+ },
+ "2680a4a5913e": {
+  "en": "~7 km/h",
+  "t": "~7 公里/小时"
+ },
+ "268e9914ffdc": {
+  "en": "<strong>Sanbi Fish Roe</strong>: A treat for some.",
+  "t": "<strong>桑比鱼籽</strong>：对有些人来说是美味。"
+ },
+ "275857ac51bd": {
+  "en": "<strong>Tastes like:</strong> Honey turkey breast, but not as tender.",
+  "t": "<strong>味道：</strong>蜂蜜火鸡胸肉，但没那么嫩。"
+ },
+ "27b8bbffa474": {
+  "en": "~10 km/h",
+  "t": "~10 公里/小时"
+ },
+ "27c5117f780e": {
+  "en": "<strong>Fihi Skin</strong>: Skin prepared by a butcher. A common treat of the people in the lower regions. Usually fried.",
+  "t": "<strong>菲希鱼皮</strong>：屠夫处理好的鱼皮。低地人们常吃的零食。通常是油炸的。"
+ },
+ "2808f68554ff": {
+  "en": "<strong>Fatupari Meat</strong>: Meat cut by a butcher. Cheap, since most people hate it; it's mostly eaten by poorer people, or by some weirdos who swear by its taste.",
+  "t": "<strong>法图帕里肉</strong>：屠夫切好的肉。很便宜，因为大多数人讨厌它；主要是比较穷的人吃，或者一些对它的味道赞不绝口的怪人。"
+ },
+ "281967452d11": {
+  "en": "<strong>Wooly Hide/Fur/Pelt</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>伍利兽皮/毛皮/毛皮革</strong>：兽皮/毛皮，由屠夫处理好，供工匠加工。"
+ },
  "28c2e029ba4d": {
   "en": "<strong>Habitat:</strong> Ponds. Someone dumped Walking Hearts into a pond near the Freeish Kingdom; the worms ate them, and it altered their souls.",
   "t": "<strong>栖息地：</strong>池塘。有人把沃金哈特倒进了弗里伊什王国附近的一个池塘里；蠕虫吃了它们，于是改变了灵魂。"
+ },
+ "28e799875885": {
+  "en": "<strong>Reproduction:</strong> One to three Woolies a year.",
+  "t": "<strong>繁殖：</strong>每年一到三只伍利。"
  },
  "2c129c23a434": {
   "en": "Legunia is a desert bird that mimics a sand worm in everything it does, except it eats berries and such instead of other mammals. You can use the hump in their backs as an easy “indicator species” of how survivable the desert currently is. If their hump is deflatable, you should get out while you still can, unless you know exactly what you’re doing. Hunting them down for food and water is easier said than done. Then can easily be miles away before your second shot.",
   "t": "莱古尼亚是一种沙漠鸟类，它所做的一切都在模仿桑德沃姆，只是它吃的是浆果之类的东西，而不是其他哺乳动物。你可以把它们背上的驼峰当作一个简单的“指示物种”，来判断沙漠目前还能不能活下去。如果它们的驼峰瘪了，你就应该趁还来得及赶紧离开，除非你确切知道自己在做什么。猎杀它们来获取食物和水说起来容易做起来难。在你射出第二箭之前，它们就可能已经轻松跑出好几英里了。"
  },
+ "2d2cb022bc3d": {
+  "en": "Speed",
+  "t": "速度"
+ },
  "2e7c4501a51f": {
   "en": "<strong>Skills:</strong> Water Walk; Dirt Repel; Increase/decrease size of legs; Eject their privates or intestines through their asshole (very specific, but that's how they got away from certain predators).",
   "t": "<strong>技能：</strong>水上行走；排斥泥土；增大/缩小腿的尺寸；从屁眼里喷出私处或肠子（非常具体，但它们就是靠这个逃脱某些捕食者的）。"
  },
+ "2ec7dfe9217b": {
+  "en": "<strong>Skills:</strong> Distant Hearing; Cloak detection; Blood Shield (self-defense only).",
+  "t": "<strong>技能：</strong>远距离听觉；识破隐身；血之护盾（仅限自卫）。"
+ },
+ "2f12699f173c": {
+  "en": "<strong>Skills:</strong> Launching themselves at a target; Air Buoyancy.",
+  "t": "<strong>技能：</strong>朝目标弹射自己；空中浮力。"
+ },
+ "305016cbc048": {
+  "en": "<strong>Sayna Hide/Carapace</strong>: Hide/fur, prepared by a butcher for artisans to work on. Rare to find.",
+  "t": "<strong>赛纳兽皮/甲壳</strong>：兽皮/毛皮，由屠夫处理好，供工匠加工。很难找到。"
+ },
  "3105ba0cdecb": {
   "en": "Wozens are pests that wander mostly in the denser forests around Freeish, but it is not unusual to see them attack people at night in the plains close to Forway. They are predators, so their interface usage makes them near impossible to be seen or heard as they prowl around. Once they decide on a victim, they can jump several times their height, and once their jaw shuts tight on your flesh, there's no letting go as it casts attraction on its teeth. Their pelt and some body parts like eyes are certainly valuable, but its incredibly tough and gamey meat is not—except for people in the slums, or poorer villages, so if you have space to haul it to your nearest butcher, then do so! Some places even consider it as charitable tax write-offs!",
   "t": "沃增是一种害兽，主要在弗里伊什周围较茂密的森林里游荡，但在福威附近的平原上看到它们夜里袭击人也并不罕见。它们是捕食者，所以它们对界面的使用让它们在四处潜行时几乎不可能被看到或听到。一旦它们选定了猎物，它们能跳起自身高度好几倍的距离，而一旦它们的下巴紧紧咬住你的肉，就绝不会松口，因为它会在牙齿上施放吸引。它们的毛皮和一些身体部位，比如眼睛，当然很值钱，但它那极其坚韧、野味浓重的肉可不值钱——除了对贫民窟或较穷村庄的人来说，所以如果你有地方把它拖到最近的肉铺，那就去吧！有些地方甚至把它算作可以抵税的慈善捐赠！"
+ },
+ "31cef8928785": {
+  "en": "<strong>Food:</strong> Primarily Gyut Berries.",
+  "t": "<strong>食物：</strong>主要是久特浆果。"
+ },
+ "322914c82758": {
+  "en": "<strong>Food:</strong> Insects and small rodents.",
+  "t": "<strong>食物：</strong>昆虫和小型啮齿动物。"
  },
  "339c23234c8e": {
   "en": "Fatupari, based on their size, would assume they would be classified as Beasts, but not only are they kinda dumb relative to other beasts, but they are also easier to dispatch than one thinks. If you tear their pink webbing, they can't use any magic against you. Or you can fight them fairly if you want to take it up a notch for whatever reason. Either way, some random weirdos swear by its distinctively bitter taste—like soaking wild pheasant breasts in quinine and cooking it until it's stringy and tough for shits and giggles. At least their hide and webbing are usual for a myriad of things for their rugged and water-repellant properties; plus, it looks pretty snazzy too!",
@@ -95,6 +323,34 @@
   "en": "Monikas are loner butterflies tightly associated with death and decay. Their interface is considered the best at identifying corpses, especially if the corpse is tied to a soul pool with a lot of soul energy. They also have the ability to turn desired volatile compounds of scents into a visual representation that aids in understanding its concentration and source—known as Monika sight, a nari gel concoction customized with the desired volatile compound, turned even exceptional if paired with Wozen Smell for both finding things like dead adventurers, detect poisonous things like traps, or even track down live animals or humans by using the droppings or sweat. Adventurers on the brink of death often implore to be found by these peaceful-looking butterflies—at least some do until they remember the cost of revival.",
   "t": "莫妮卡是独来独往的蝴蝶，与死亡和腐烂紧密相关。它们的界面被认为最擅长识别尸体，尤其是当尸体与一个有大量灵魂能量的灵魂池相连时。它们还能把想要的挥发性气味化合物转化为视觉图像，帮助人们了解其浓度和来源——这被称为莫妮卡赛特，一种用想要的挥发性化合物定制的纳里凝胶调配物，如果再搭配沃增斯梅尔，效果就会更加出色，既能用来寻找死去的冒险者等东西，也能探测陷阱之类的有毒之物，甚至还能利用粪便或汗水追踪活的动物或人类。濒临死亡的冒险者常常祈求能被这些看起来很平和的蝴蝶发现——至少有些人会这样，直到他们想起复活的费用。"
  },
+ "3866bfafb0fe": {
+  "en": "<strong>Intelligence:</strong> Like a rabbit or so. Tends to be in groups. Tends to be defensive/run away. When you get close to it, it tends to hiss. If attacked, it screams like a dying human.",
+  "t": "<strong>智力：</strong>大概像兔子。往往成群。往往是防御型的/会逃跑。你靠近它时，它往往会发出嘶嘶声。如果受到攻击，它会像个垂死的人一样尖叫。"
+ },
+ "3866f1ec044e": {
+  "en": "~30 km/h",
+  "t": "~30 公里/小时"
+ },
+ "3ba25d3a3411": {
+  "en": "Created by a Buhraies who fell in love with a Lishie and had to prove himself, with something that would help the Lishies, to be accepted into the mountains. A hybrid of cow and sheep DNA that only thrives at high altitudes, where it's colder and drier. Its milk and wool are a staple of Gandew's economy, and so is its meat, from older females, or males without the best genes or health. When dying or giving birth, it lets out a massive scream that can be heard for kilometers.",
+  "t": "由一个爱上了一个利希斯、不得不证明自己的布莱斯创造出来，他得拿出一样能帮助利希斯的东西，才能被山里接纳。一种牛和羊 DNA 的杂交体，只能在更冷、更干燥的高海拔地区茁壮成长。它的奶和毛是甘杜经济的支柱，它的肉也是，取自年老的雌性，或者基因、健康状况不是最好的雄性。临死或分娩时，它会发出一声能传出好几公里的巨大尖叫。"
+ },
+ "3c194790829e": {
+  "en": "<strong>Inspired by:</strong> Kushlukia.",
+  "t": "<strong>灵感来源：</strong>Kushlukia。"
+ },
+ "3cd1c71de2fe": {
+  "en": "<strong>Wozen Meat</strong>: Meat cut by a butcher. Not very desirable, so it's mostly sold as a by-product of killing Wozens for their pelts.",
+  "t": "<strong>沃增肉</strong>：屠夫切好的肉。不太受欢迎，所以大多是作为为了毛皮猎杀沃增的副产品出售。"
+ },
+ "3d3824559256": {
+  "en": "<strong>Food:</strong> Gulps down smaller fish.",
+  "t": "<strong>食物：</strong>吞食较小的鱼。"
+ },
+ "3e49d79b0624": {
+  "en": "<strong>Inspired by:</strong> Babirusa.",
+  "t": "<strong>灵感来源：</strong>鹿豚。"
+ },
  "3e8bdb039dee": {
   "en": "Legunia: a tall brown-and-cream bird with a long neck and a fan-like crest.",
   "t": "莱古尼亚：一只长着长脖子和扇形羽冠的棕色与米色相间的高大鸟类。"
@@ -103,17 +359,93 @@
   "en": "Male and female Sorenos: small round brown rodents with white bellies, at about knee height.",
   "t": "雄性和雌性索雷诺：肚子白白的圆滚滚的棕色小型啮齿动物，大约到膝盖高。"
  },
+ "4070ae935aaf": {
+  "en": "<strong>Tamed Child Egua</strong>: Can work, but with smaller loads (about 0.4 of an adult's; see Load and strain above). Adventurers tend to buy young Eguas to carry some of their gear and loot as they walk alongside them.",
+  "t": "<strong>驯服的幼年埃瓜</strong>：能干活，但负载较小（大约是成年的 0.4；见上面的负载与负担）。冒险者往往会买年幼的埃瓜，在走路时帮他们驮一些装备和战利品。"
+ },
+ "42052b2fa751": {
+  "en": "<strong>Reproduction:</strong> Every year; ~3 eggs laid, of which only a few reach adulthood.",
+  "t": "<strong>繁殖：</strong>每年一次；产 ~3 枚蛋，只有几只能长到成年。"
+ },
+ "445fca514b10": {
+  "en": "<strong>Skills:</strong> Shocking targets in front of them.",
+  "t": "<strong>技能：</strong>电击前方的目标。"
+ },
  "4519d490ec5c": {
   "en": "<strong>Tastes like:</strong> Dirt. Very earthy.",
   "t": "<strong>味道：</strong>泥土。非常有泥土味。"
+ },
+ "4556ee6c7b54": {
+  "en": "<strong>Food:</strong> Rodents.",
+  "t": "<strong>食物：</strong>啮齿动物。"
  },
  "4647df281022": {
   "en": "An adult Egua weighs about 900 kg. <strong>Strain</strong> is the share of that body weight it's working against: more weight means more strain, and so does going faster. Up to 10% strain is comfortable all day; 20% is the maximum.",
   "t": "一头成年埃瓜重约 900 公斤。<strong>负担</strong>是它对抗的那部分体重所占的比例：重量越大，负担越重，速度越快负担也越重。10% 以内的负担可以舒服地干一整天；20% 是最大值。"
  },
+ "46698ab0fa79": {
+  "en": "<strong>Tamed Winga</strong>: A great hunter companion, or pet.",
+  "t": "<strong>驯服的温加</strong>：一个很棒的狩猎伙伴，或者宠物。"
+ },
+ "47180e6bf534": {
+  "en": "<strong>Tastes like:</strong> Fatty chicken, very tender.",
+  "t": "<strong>味道：</strong>肥美的鸡肉，非常嫩。"
+ },
+ "4865428de0f8": {
+  "en": "<strong>Inspired by:</strong> Gopher/Gerbil; Hops around like a gerbil.",
+  "t": "<strong>灵感来源：</strong>地鼠/沙鼠；像沙鼠一样蹦蹦跳跳。"
+ },
+ "4a0b4c2ccf85": {
+  "en": "<strong>Intelligence:</strong> Parrot.",
+  "t": "<strong>智力：</strong>鹦鹉。"
+ },
+ "4a6203e8226d": {
+  "en": "<strong>Skills:</strong> Cloak (temperature and vision); Hearing; Long-distance communication; Imitating animal voices; Shooting themselves in any direction with a quick motion.",
+  "t": "<strong>技能：</strong>隐身（温度和视觉上）；听觉；远距离通信；模仿动物的声音；以快速的动作把自己朝任何方向弹射出去。"
+ },
+ "4a6c485608b8": {
+  "en": "<strong>Wooly Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>伍利肉干</strong>：屠夫做的肉干。"
+ },
  "4a70f16255ca": {
   "en": "Sayna",
   "t": "赛纳"
+ },
+ "4b7574850a69": {
+  "en": "<strong>Wooly Horns</strong>: Horns, prepared by a butcher for artisans to work on.",
+  "t": "<strong>伍利角</strong>：角，由屠夫处理好，供工匠加工。"
+ },
+ "4bfb4d81087a": {
+  "en": "<strong>Inspired by:</strong> Chinese Alligator.",
+  "t": "<strong>灵感来源：</strong>扬子鳄。"
+ },
+ "4c2ef3dc6f45": {
+  "en": "<strong>Interface:</strong> Ears.",
+  "t": "<strong>界面：</strong>耳朵。"
+ },
+ "4ccfb2775cda": {
+  "en": "<strong>Intelligence:</strong> Anaconda.",
+  "t": "<strong>智力：</strong>森蚺。"
+ },
+ "4d0a0eed90cb": {
+  "en": "<strong>Tamed Adult Soreno</strong>: They take a while to train properly, but they can relay conversations over long distances without other humans hearing, because of their high pitch. A secret trick of the Hidden Sorenos gang.",
+  "t": "<strong>驯服的成年索雷诺</strong>：它们要花一段时间才能训练好，但它们能在远距离传递对话而不被其他人听到，因为它们的音调很高。这是希登索雷诺斯帮派的一个秘密技巧。"
+ },
+ "4d7055021ed1": {
+  "en": "<strong>Inspired by:</strong> Cow &amp; Sheep.",
+  "t": "<strong>灵感来源：</strong>牛和羊。"
+ },
+ "4dafbcd2ed94": {
+  "en": "<strong>Bagarisa Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>巴加里萨肉干</strong>：屠夫做的肉干。"
+ },
+ "4f1dae52b2ee": {
+  "en": "<strong>Sanbi Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>桑比鱼肉干</strong>：屠夫做的肉干。"
+ },
+ "509148b74cd4": {
+  "en": "<strong>Egua Hide/Fur</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>埃瓜兽皮/毛皮</strong>：兽皮/毛皮，由屠夫处理好，供工匠加工。"
  },
  "52011a660ccb": {
   "en": "Yuyta",
@@ -123,9 +455,25 @@
   "en": "Ptaina’s gelatinous thingy in its head has rays of purplish light coming out within that will never send you good vibes. In the opposite, actually. It can send ultrasonic vibrations that can tear your insides—if you’re in the water, of course. It’s not as powerful on land except you’re dumb enough to touch it. Plus, they can mess with your compass and your sense of orientation, and give you a nasty headache, too! The raw meat has a more pungent taste and rougher texture, kinda like shark meat, so people usually season and stew the fuck out of it. Or you’re too poor to buy good stuff and have to eat Ptaina to survive. Or you’re so goddam rich that you think it’s a delicacy.",
   "t": "普泰纳头上那个胶状的东西里会射出紫色的光线，那光线永远不会给你带来好感觉。实际上恰恰相反。它能发出超声波振动，把你的内脏撕裂——当然，前提是你在水里。在陆地上它就没那么强大了，除非你蠢到去碰它。再说，它们还能干扰你的指南针和方向感，还会让你头疼得要命！生肉的味道更刺鼻，口感更粗糙，有点像鲨鱼肉，所以人们通常会大量调味，然后狠狠地炖。或者你穷得买不起好东西，只能吃普泰纳活命。又或者你有钱得要命，觉得它是一道美味。"
  },
+ "55b2034d4d36": {
+  "en": "<strong>Inspired by:</strong> Elephant with Hippopotamus.",
+  "t": "<strong>灵感来源：</strong>大象加河马。"
+ },
+ "55ba512805c6": {
+  "en": "<strong>Legunia Feathers</strong>: Feathers, prepared by a butcher for artisans to work on.",
+  "t": "<strong>莱古尼亚羽毛</strong>：羽毛，由屠夫处理好，供工匠加工。"
+ },
  "55f513d86654": {
   "en": "<strong>Tier I (Cheap Goods):</strong> freshly killed animals, plus elemental Soul Energy interface actions for storage.",
   "t": "<strong>I 级（便宜货）：</strong>刚宰杀的动物，加上用于保存的元素灵魂能量界面动作。"
+ },
+ "56500fb78d75": {
+  "en": "<strong>Reproduction:</strong> Hundreds of Ptainas per year, but most become food for other fish along the way.",
+  "t": "<strong>繁殖：</strong>每年几百条普泰纳，但大多数在途中成了其他鱼的食物。"
+ },
+ "578d54e46391": {
+  "en": "<strong>Intelligence:</strong> Dog, great for a companion. Golden Retriever. Goofy.",
+  "t": "<strong>智力：</strong>狗，非常适合当伙伴。金毛寻回犬。傻乎乎的。"
  },
  "57c9e45d2e4a": {
   "en": "Load and strain",
@@ -139,6 +487,14 @@
   "en": "<strong>Intelligence:</strong> Horse.",
   "t": "<strong>智力：</strong>马。"
  },
+ "595bdb8f427c": {
+  "en": "Night hunters, known for snacking on humans when given the chance. They run fast and are skilled in close combat with their claws. They tend to be defensive, except at night, when they come out to hunt.",
+  "t": "夜间猎手，以一有机会就拿人类当点心而闻名。它们跑得快，擅长用爪子近身搏斗。它们往往是防御型的，除了在夜里出来狩猎的时候。"
+ },
+ "5b6f20dad83c": {
+  "en": "<strong>Fihi Oil</strong>: Used in beer, in food, for greasing things, etc.",
+  "t": "<strong>菲希鱼油</strong>：用于啤酒、食物、润滑东西等。"
+ },
  "5c0f1a625789": {
   "en": "Herbivores",
   "t": "草食动物"
@@ -147,9 +503,37 @@
   "en": "Fihi looks closer to a mammal than a fish, but I assure you it's a fish. It's even kinda cute, except when it opens its beak and reveals an esophagus that looks closer to turtles that will hunt you in your nightmares. They are commonly found on Buhraies plains, but much bigger ones have been spotted on Lukewarm Lake, and the bigger they get, the more aggressive they become. It's a fun catch, with meat akin to catfish, so special preparation is needed to tame the fishy taste. Or you can sell it! Fihis are used for nari gels to extract their ability to control elemental energy, whether absorbing, creating, or releasing it.",
   "t": "菲希看起来更像哺乳动物而不是鱼，但我向你保证它是鱼。它甚至还挺可爱的，除了当它张开嘴巴、露出一条更像海龟的食道的时候，那会在你的噩梦里追着你不放。它们常见于布莱斯平原，但在卢克沃姆湖曾发现过大得多的个体，而且它们长得越大就越有攻击性。钓它很有乐趣，它的肉类似鲶鱼，所以需要特别的处理来去除鱼腥味。或者你可以把它卖掉！菲希被用来制作纳里凝胶，以提取它们控制元素能量的能力，无论是吸收、创造还是释放。"
  },
+ "5d11f12d5446": {
+  "en": "<strong>Tastes like:</strong> Deer with notes of olive oil.",
+  "t": "<strong>味道：</strong>带橄榄油香气的鹿肉。"
+ },
+ "5d5f32140738": {
+  "en": "<strong>Fatupari Hide</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>法图帕里兽皮</strong>：兽皮/毛皮，由屠夫处理好，供工匠加工。"
+ },
+ "5d8891303f1e": {
+  "en": "<strong>Habitat:</strong> Lukewarm Buhraies Lake and the Buhraies region. The Fihi in Lukewarm Buhraies Lake are much bigger, and they eat humans.",
+  "t": "<strong>栖息地：</strong>卢克沃姆布莱斯湖和布莱斯地区。卢克沃姆布莱斯湖里的菲希要大得多，而且吃人。"
+ },
+ "5ef2142ac7d3": {
+  "en": "<strong>Habitat:</strong> Mainly in the ocean to the east of the Sanbi Kingdom.",
+  "t": "<strong>栖息地：</strong>主要在桑比王国以东的海洋里。"
+ },
+ "60b48d0dc6ce": {
+  "en": "<strong>Food:</strong> Mainly seeds and insects.",
+  "t": "<strong>食物：</strong>主要是种子和昆虫。"
+ },
  "6163ffb69538": {
   "en": "<strong>Medallions</strong>: Used for some nari gels, but also chopped up and grilled; part of the Freeish Region's cuisine.",
   "t": "<strong>圆片</strong>：用于某些纳里凝胶，也会被切碎烤着吃；是弗里伊什地区菜肴的一部分。"
+ },
+ "62bac2942e06": {
+  "en": "<strong>Intelligence:</strong> Cow.",
+  "t": "<strong>智力：</strong>牛。"
+ },
+ "636aa1543a40": {
+  "en": "<strong>Interface:</strong> Nose.",
+  "t": "<strong>界面：</strong>鼻子。"
  },
  "640820e7cb76": {
   "en": "Fanchaki is a mutation from Chaki and is proof of one of the first, if not the first, successful Buhraies soul tampering, according to historians. Their capability of breeding quicker, growing stronger and better using their interface for defense must have been fundamental to somehow survive the savage Lishies and then humans—because the Chakis are long extinct. Their marbled, tender purple meat became a staple on everyone's menu after The Prosperity Treaty brought more substantial trading across the kingdoms and even turned some adventurers away from adventuring into just hunting these fat bastards to keep up with demand.",
@@ -159,6 +543,22 @@
   "en": "Fihi",
   "t": "菲希"
  },
+ "663b306bc2a2": {
+  "en": "<strong>Interface:</strong> Tail/Ears/Mouth.",
+  "t": "<strong>界面：</strong>尾巴/耳朵/嘴。"
+ },
+ "66a6f2b95292": {
+  "en": "<strong>Inspired by:</strong> Chicken.",
+  "t": "<strong>灵感来源：</strong>鸡。"
+ },
+ "68e5d6c7ae9b": {
+  "en": "<strong>Tastes like:</strong> Earthy and sandy, like fox meat, with a minty taste similar to lamb, but not as tough as you'd imagine. A delicacy, eaten only by some people, since most think they're too cute to eat. Sundeath worships them.",
+  "t": "<strong>味道：</strong>带泥土和沙子味，像狐狸肉，带有一种类似羊羔肉的薄荷味，但没有你想象的那么硬。一种美味，只有一些人吃，因为大多数人觉得它们太可爱了，下不了口。桑德斯崇拜它们。"
+ },
+ "6a9782185aab": {
+  "en": "<strong>Skills:</strong> Sense Lifeforms; Generate Air Shield; Louder-than-usual shriek; strengthening the beak and claws to diamond level, so they cut through anything.",
+  "t": "<strong>技能：</strong>感知生命体；生成空气护盾；比平时更响的尖叫；把喙和爪子强化到钻石级别，什么都能切开。"
+ },
  "6a9d76361231": {
   "en": "Fauna by tier:",
   "t": "按等级划分的动物："
@@ -167,13 +567,41 @@
   "en": "<strong>Skills:</strong> Detect Pressure; Detect Humidity; Detect Temperature; Paralyze.",
   "t": "<strong>技能：</strong>感知气压；感知湿度；感知温度；麻痹。"
  },
+ "6b75b1784232": {
+  "en": "<strong>Distance a day:</strong> ≈ the distance at 10% strain × (10% ÷ strain), never more than ~65 km.",
+  "t": "<strong>每日距离：</strong>≈ 10% 负担下的距离 ×（10% ÷ 负担），最多不超过 ~65 公里。"
+ },
+ "6d00c02a20a5": {
+  "en": "<strong>Legunia Jerky</strong>: Jerky prepared by a butcher, with a notoriously stronger taste.",
+  "t": "<strong>莱古尼亚肉干</strong>：屠夫做的肉干，味道出了名地重。"
+ },
+ "6d18339bb512": {
+  "en": "<strong>Winga Feathers</strong>: Feathers, prepared by a butcher for artisans to work on.",
+  "t": "<strong>温加羽毛</strong>：羽毛，由屠夫处理好，供工匠加工。"
+ },
+ "6e4159fbe1fe": {
+  "en": "Distance at 20% strain (~180 kg)",
+  "t": "20% 负担下的距离（~180 公斤）"
+ },
+ "6f203f6dcc34": {
+  "en": "Their antennae always glow blue. They gather near rotting bodies, usually a sign that a predator is nearby. They prefer bodies with more soul energy, so they can also lead people to dead adventurers. Monica is the usual spelling, though some people, usually in and around Freeish, spell it Monika.",
+  "t": "它们的触角总是发着蓝光。它们聚集在腐烂的尸体附近，这通常意味着附近有捕食者。它们更喜欢灵魂能量多的尸体，所以也能把人引到死去的冒险者那里。莫妮卡是通常的拼法，不过有些人，通常是在弗里伊什及其周边，拼作 Monika。"
+ },
  "6f81b5e5f4da": {
   "en": "Male and female Wozens: lean dog-like animals, one red with dark spots and one orange with tiger stripes.",
   "t": "雄性和雌性沃增：身形瘦长的狗状动物，一只是带深色斑点的红色，一只是带虎纹的橙色。"
  },
+ "6f81f2a34e04": {
+  "en": "<strong>Inspired by:</strong> Vulpes Vulpes.",
+  "t": "<strong>灵感来源：</strong>赤狐（Vulpes vulpes）。"
+ },
  "700bc8fe10e3": {
   "en": "<strong>Carrying on its back:</strong> strain = load ÷ 900 kg. So 90 kg is 10% strain, and 180 kg (20%) is the most an Egua can carry.",
   "t": "<strong>背驮：</strong>负担 = 负载 ÷ 900 公斤。所以 90 公斤是 10% 的负担，180 公斤（20%）是一头埃瓜能驮的最大重量。"
+ },
+ "714ef9f9b031": {
+  "en": "<strong>Habitat:</strong> Most common in the dense forests along the coast and around Freeish and Blood.",
+  "t": "<strong>栖息地：</strong>最常见于沿海以及弗里伊什和布拉德周围的密林。"
  },
  "715817193298": {
   "en": "<strong>Tier II (Common Goods):</strong> processed meat, plus elemental Soul Energy interface actions for storage; feathers and fur of large animals, and other animal parts.",
@@ -187,6 +615,10 @@
   "en": "<strong>Reproduction:</strong> By themselves or with other Culuim.",
   "t": "<strong>繁殖：</strong>自己繁殖，或者和其他库卢伊姆一起。"
  },
+ "74c9aadd00aa": {
+  "en": "<strong>Food:</strong> Omnivore: mostly grass, but likes to snack on Sorenos once in a while.",
+  "t": "<strong>食物：</strong>杂食：主要吃草，但偶尔喜欢拿索雷诺当点心。"
+ },
  "76726706af4a": {
   "en": "<strong>Tier III (Expensive Goods):</strong> jerky, plus elemental Soul Energy interface actions for storage; feathers and fur of smaller animals, especially higher-quality ones; tamed or live fauna; rare animal parts.",
   "t": "<strong>III 级（昂贵货）：</strong>肉干，加上用于保存的元素灵魂能量界面动作；小型动物的羽毛和皮毛，尤其是品质更高的；驯服的或活的动物；稀有的动物部位。"
@@ -199,9 +631,33 @@
   "en": "Cinika: a bright turquoise butterfly with black-veined wings and long tail streamers.",
   "t": "西尼卡：一只鲜艳的绿松石色蝴蝶，翅膀上有黑色脉纹，拖着长长的尾带。"
  },
+ "77934e38268c": {
+  "en": "<strong>Winga Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>温加肉干</strong>：屠夫做的肉干。"
+ },
+ "77d49eed8479": {
+  "en": "Gait",
+  "t": "步态"
+ },
+ "79d266236d29": {
+  "en": "<strong>Monica Butterflies</strong>: Freshly killed nearby and stored in a wagon with ice, ready for the butcher shops or to be shipped out.",
+  "t": "<strong>莫妮卡蝴蝶</strong>：在附近刚杀死，装在放了冰的马车里，准备送到肉铺或者运出去。"
+ },
+ "7a3b86bb05ba": {
+  "en": "<strong>Reproduction:</strong> Every fall, 2 or 3 Saynas are born.",
+  "t": "<strong>繁殖：</strong>每年秋天，会生 2 到 3 只赛纳。"
+ },
+ "7a3c51af3a4c": {
+  "en": "<strong>Fihi Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>菲希肉</strong>：屠夫切好的肉。"
+ },
  "7aeb69b7c757": {
   "en": "<strong>Food:</strong> Mainly about 20 kg of grass, hay or Carbey a day.",
   "t": "<strong>食物：</strong>主要是每天约 20 公斤的草、干草或卡贝。"
+ },
+ "7b190f73177e": {
+  "en": "<strong>Fihi Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>菲希肉干</strong>：屠夫做的肉干。"
  },
  "7b9856128610": {
   "en": "Wingas: male and female blue parrot-like birds with colorful wing bands, next to a larger pink Tolerideme Winga.",
@@ -210,6 +666,10 @@
  "7bb9c6f60656": {
   "en": "Male and female Lanshas: small gray elephant-like animals with large ears, one rearing up.",
   "t": "雄性和雌性兰沙：长着大耳朵的灰色小象状动物，其中一只用后腿站立。"
+ },
+ "7d9f5ef9d7d1": {
+  "en": "<strong>Inspired by:</strong> Emerald Tree Boa.",
+  "t": "<strong>灵感来源：</strong>翡翠树蚺。"
  },
  "7db75d5f2142": {
   "en": "Winga/Pink Winga",
@@ -223,25 +683,69 @@
   "en": "Male and female Crocus: upright gray-green reptiles with spiky backs and long tails.",
   "t": "雄性和雌性克罗卡斯：直立的灰绿色爬行动物，背上有尖刺，拖着长尾巴。"
  },
+ "8082a21f083d": {
+  "en": "<strong>Wooly Gyut Dried Milk</strong>: Milk often dried for transport to the rest of the kingdoms.",
+  "t": "<strong>伍利久特奶粉</strong>：奶常常被干燥成粉，方便运到其他王国。"
+ },
+ "81096b8135bd": {
+  "en": "<strong>Skills:</strong> Super Smell; Sound Bounce (makes them impossible to hear); Light Bounce (makes them darker than their surroundings); Super Jump; Jaw Clench (they cast Attract once they bite their prey, so they won't let go).",
+  "t": "<strong>技能：</strong>超级嗅觉；声音反弹（让人完全听不到它们）；光线反弹（让它们比周围更暗）；超级跳跃；咬合锁死（一咬住猎物就施放吸引，这样就不会松口）。"
+ },
  "82e94d931d4c": {
   "en": "<strong>Tastes like:</strong> Bland, old-tasting beef, with a texture like a tougher top sirloin, since only old Eguas are eaten.",
   "t": "<strong>味道：</strong>寡淡、有老味的牛肉，口感像更硬的上等后腰牛排，因为只有老埃瓜才被吃。"
+ },
+ "8499b8bf1e3c": {
+  "en": "<strong>Wozen Pelt</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>沃增毛皮</strong>：兽皮/毛皮，由屠夫处理好，供工匠加工。"
+ },
+ "84a08ea3c124": {
+  "en": "<strong>Food:</strong> About 18 kg of Domar Carbey a day, plus about 2 kg of Gyut berries for richer milk; about 20 kg of Carbey a day for meat production.",
+  "t": "<strong>食物：</strong>每天约 18 公斤多马尔卡贝，外加约 2 公斤久特浆果让奶更浓；产肉用的每天约 20 公斤卡贝。"
+ },
+ "84edbcad2a64": {
+  "en": "<strong>Tamed Adult Sayna</strong>: They take a while to train properly, especially to use their skills on command, because of their energetic, goofy nature.",
+  "t": "<strong>驯服的成年赛纳</strong>：它们要花一段时间才能训练好，尤其是听命令使用技能，因为它们天性活泼又傻乎乎的。"
  },
  "8561960acacb": {
   "en": "Crocus",
   "t": "克罗卡斯"
  },
+ "85a05be55b0e": {
+  "en": "<strong>Skills:</strong> Sense Surroundings.",
+  "t": "<strong>技能：</strong>感知周围环境。"
+ },
+ "85dd7e93abf9": {
+  "en": "<strong>Reproduction:</strong> Lays one egg every day; fertilized eggs hatch in about 21 days.",
+  "t": "<strong>繁殖：</strong>每天下一个蛋；受精蛋大约 21 天孵化。"
+ },
  "87e293098ca7": {
   "en": "<strong>Habitat:</strong> Lower plains.",
   "t": "<strong>栖息地：</strong>较低的平原。"
+ },
+ "885cd7219ff1": {
+  "en": "<strong>Wooly Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>伍利肉</strong>：屠夫切好的肉。"
  },
  "88eaf8a4d441": {
   "en": "Ptaina: a red fish with a huge toothy grin and a glowing bubble on its head, about 45 cm long.",
   "t": "普泰纳：一条红色的鱼，咧着满是牙齿的大嘴，头上有一个发光的泡泡，大约 45 厘米长。"
  },
+ "8abfb6164e9b": {
+  "en": "<strong>Tastes like:</strong> Eel.",
+  "t": "<strong>味道：</strong>鳗鱼。"
+ },
+ "8afd1457616b": {
+  "en": "<strong>Legunia Meat</strong>: Meat cut by a butcher. Same price as Winga, since there's more meat per body, and a stronger taste.",
+  "t": "<strong>莱古尼亚肉</strong>：屠夫切好的肉。和温加一样的价格，因为每只身上的肉更多，味道也更重。"
+ },
  "8cd22c540fdb": {
   "en": "Public text: Website Description in Legacy/Behind The Scenes/World Lore/Fauna.md",
   "t": "公开文本：Legacy/Behind The Scenes/World Lore/Fauna.md 中的 Website Description"
+ },
+ "8d32f817b48e": {
+  "en": "<strong>Egua Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>埃瓜肉干</strong>：屠夫做的肉干。"
  },
  "8d463a231ed8": {
   "en": "<strong>Reproduction:</strong> Females give birth once a year.",
@@ -251,6 +755,14 @@
   "en": "Monika: a pale-blue butterfly with rounded wings.",
   "t": "莫妮卡：一只翅膀圆圆的淡蓝色蝴蝶。"
  },
+ "8e756c99fadf": {
+  "en": "<strong>Food:</strong> Loves eating Bagarisa, and snacks on humans given the chance.",
+  "t": "<strong>食物：</strong>爱吃巴加里萨，一有机会就拿人类当点心。"
+ },
+ "9004aef13e49": {
+  "en": "It has existed since recorded history began. Nothing too special about them.",
+  "t": "自有历史记载以来就存在。它们没什么太特别的。"
+ },
  "914b8e28a156": {
   "en": "Egua",
   "t": "埃瓜"
@@ -259,33 +771,117 @@
   "en": "Fatupari: a two-headed green sea serpent with pink fins and red eyes.",
   "t": "法图帕里：一条有粉色鳍和红色眼睛的双头绿色海蛇。"
  },
+ "91593e4c2e4f": {
+  "en": "~65 km",
+  "t": "~65 公里"
+ },
  "91599f7a416f": {
   "en": "Soreno",
   "t": "索雷诺"
+ },
+ "92799f74bb00": {
+  "en": "<strong>Tastes like:</strong> Tuna.",
+  "t": "<strong>味道：</strong>金枪鱼。"
+ },
+ "9328b74027bf": {
+  "en": "<strong>Wozen Eye</strong>: Used in nari gels.",
+  "t": "<strong>沃增眼睛</strong>：用于纳里凝胶。"
  },
  "93e19d37b157": {
   "en": "<strong>Inspired by:</strong> Protorohippus; Hippopotamus; Ardennes Heavy Horse Breed.",
   "t": "<strong>灵感来源：</strong>原始马（Protorohippus）；河马；阿登重挽马。"
  },
+ "94c0af4386c3": {
+  "en": "<strong>Wooly Milk</strong>: Females fed only Carbey produce about 8 liters of milk a day, tasting somewhere between cow's and sheep's milk. Mostly available only in Gandew.",
+  "t": "<strong>伍利奶</strong>：只喂卡贝的雌性每天产大约 8 升奶，味道介于牛奶和羊奶之间。基本上只有在甘杜才有。"
+ },
+ "95086f8a6bfa": {
+  "en": "<strong>Intelligence:</strong> Tuna/Shark.",
+  "t": "<strong>智力：</strong>金枪鱼/鲨鱼。"
+ },
+ "95d1550b230b": {
+  "en": "<strong>Winga Egg</strong>: A treat for many, thanks to its sweet taste.",
+  "t": "<strong>温加蛋</strong>：因为味道甜，很多人把它当作美味。"
+ },
  "961908588296": {
   "en": "Culuim: a small worm-like creature arched in two humps, red underneath and blue on top, about 30 cm long.",
   "t": "库卢伊姆：一只拱成两个驼峰的小蠕虫状生物，下面是红色，上面是蓝色，大约 30 厘米长。"
+ },
+ "97268c91b00b": {
+  "en": "<strong>Habitat:</strong> Deep forests in the south.",
+  "t": "<strong>栖息地：</strong>南方的密林。"
+ },
+ "974b626235ec": {
+  "en": "<strong>Interface:</strong> Tail.",
+  "t": "<strong>界面：</strong>尾巴。"
+ },
+ "980834a67a71": {
+  "en": "<strong>Lansha Meat</strong>: Tastes like lamb. Every Cruro's favorite.",
+  "t": "<strong>兰沙肉</strong>：尝起来像羊羔肉。每只克鲁罗的最爱。"
  },
  "98c1c7d6f123": {
   "en": "Cinikas, meanwhile, are not exactly as extraordinary unless there's a swarm of them and you're a sweaty Wozefaries or Sorefaries; then you're big trouble as…",
   "t": "而西尼卡就没那么了不起了，除非它们成群结队，而你又恰好是个满身大汗的沃泽法里斯或索雷法里斯；那样你就有大麻烦了，因为……"
  },
+ "9a016e52b46d": {
+  "en": "<strong>Sayna Meat</strong>: Meat cut by a butcher. A delicacy for some rich folks, and nourishment for some in the desert.",
+  "t": "<strong>赛纳肉</strong>：屠夫切好的肉。对某些有钱人来说是美味，对沙漠里的某些人来说是养分。"
+ },
+ "9bb90fb73f19": {
+  "en": "<strong>Food:</strong> Mainly fish, but any other animal that passes by.",
+  "t": "<strong>食物：</strong>主要是鱼，但任何路过的其他动物也吃。"
+ },
+ "9be79bf71f99": {
+  "en": "<strong>Child Eguas:</strong> about 0.4 of an adult in everything: ~360 kg of body weight, ~36 kg comfortable on its back, ~72 kg at most.",
+  "t": "<strong>幼年埃瓜：</strong>各方面大约是成年埃瓜的 0.4：体重 ~360 公斤，背上舒适负载 ~36 公斤，最多 ~72 公斤。"
+ },
+ "9bfdf81a5df9": {
+  "en": "<strong>Food:</strong> Insects.",
+  "t": "<strong>食物：</strong>昆虫。"
+ },
+ "9c21b19c301a": {
+  "en": "<strong>Inspired by:</strong> Platypus, electric eel.",
+  "t": "<strong>灵感来源：</strong>鸭嘴兽、电鳗。"
+ },
+ "9c7d7a961d3d": {
+  "en": "<strong>Habitat:</strong> Mostly in the dense forests around Blood City and the Freeish Kingdom.",
+  "t": "<strong>栖息地：</strong>主要在布拉德城和弗里伊什王国周围的密林里。"
+ },
  "9dfd01727122": {
   "en": "<strong>Inspired by:</strong> Worms (average).",
   "t": "<strong>灵感来源：</strong>蠕虫（一般的）。"
+ },
+ "9e3441475fe9": {
+  "en": "<strong>Pulling a cart:</strong> strain = (cart + cargo + driver) × road factor ÷ 900 kg. The road factor is 0.05 on a good, hard road, 0.10 on a dirt road and 0.15 on soft ground, mud or sand. A full day at 10% strain means about 1,800 kg on a good road, 900 kg on a dirt road or 600 kg in sand.",
+  "t": "<strong>拉车：</strong>负担 =（车 + 货物 + 车夫）× 道路系数 ÷ 900 公斤。在坚硬的好路上道路系数是 0.05，土路上是 0.10，软地、泥地或沙地上是 0.15。以 10% 的负担干一整天，意味着好路上大约 1,800 公斤，土路上 900 公斤，沙地上 600 公斤。"
+ },
+ "a0f9018b2064": {
+  "en": "<strong>Fanchaki Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>凡查基肉干</strong>：屠夫做的肉干。"
+ },
+ "a10d066313db": {
+  "en": "<strong>Food:</strong> Insects and grain.",
+  "t": "<strong>食物：</strong>昆虫和谷物。"
  },
  "a11dc364d78f": {
   "en": "Bagarisas compete with Fanchakis to be the most-eaten animal in the four kingdoms. Well, to be fair, they didn't have much choice in participating in that competition, but it's their fault that their irresistibly earthy, mushroom-accented meat that isn't too gamey appeases the palate of all races. They are always in packs, and they will not hold back in lighting up their tusks in flames to rush toward you. They are also skilled with ranged attacks by generating a flaming ball between their tusks, then creating a gust of hot wind that begins in the red crest at the tip of their tails and speeds up towards their head. The bagarisa can tilt its head up to make the hot air strike the ball of flame and turn it into a fireball. If that wasn't enough, they also have a distinct musk of shrimp brine that can make a lot of people gag profusely—dealing with that is one of the many things they teach adventures in the one and only adventurers school in Forway. They also teach them that if they are going for a clean shot, then they need an extra long arrow to perforate the two hearts it has in the chest and lower gut.",
   "t": "巴加里萨和凡查基在争夺四王国中被吃得最多的动物这一称号。嗯，说句公道话，它们参加这场比赛也是身不由己，但谁让它们那带着泥土气息和蘑菇香味、又不太腥膻的肉让所有种族都欲罢不能呢。它们总是成群结队，会毫不犹豫地点燃獠牙上的火焰朝你冲过来。它们还擅长远程攻击：在獠牙之间生成一个火球，然后制造一股热风，从尾巴尖的红色头冠开始，加速吹向头部。巴加里萨可以把头抬起来，让热空气撞上火球，把它变成一颗火焰弹。如果这还不够，它们身上还有一股独特的虾卤般的麝香味，能让很多人干呕不止——如何应对这一点，是福威那所独一无二的冒险者学校教给冒险者的众多东西之一。他们还教导冒险者，如果想一击毙命，就需要一支加长的箭，才能射穿它胸部和下腹部的两颗心脏。"
  },
+ "a16b00e09b42": {
+  "en": "Birds native to the deserts, where they spend most of their lives; they come down to the lower plains for the breeding season.",
+  "t": "原产于沙漠的鸟，一生大部分时间都在沙漠里度过；繁殖季节会下到较低的平原。"
+ },
+ "a1f7ad199ac1": {
+  "en": "<strong>Ptaina Fish Meal</strong>: Unused fish parts, or fish unfit for human consumption, turned into fish meal: usually whatever is left over after extracting the oil.",
+  "t": "<strong>普泰纳鱼粉</strong>：没用上的鱼的部位，或者不适合人吃的鱼，被做成鱼粉：通常是提取鱼油后剩下的东西。"
+ },
  "a28b148b2cec": {
   "en": "Cinika",
   "t": "西尼卡"
+ },
+ "a31218bfa119": {
+  "en": "<strong>Skills:</strong> Detect Temperature; Detect Soul Energy; Enhance Smell/Turn certain smells visible.",
+  "t": "<strong>技能：</strong>感知温度；感知灵魂能量；增强嗅觉/让某些气味变得可见。"
  },
  "a36483e8f6e6": {
   "en": "Fatupari",
@@ -295,21 +891,113 @@
   "en": "Male and female Fanchakis: plump black chicken-like birds with white-edged feathers and red faces.",
   "t": "雄性和雌性凡查基：羽毛带白边、脸是红色的胖乎乎的黑色鸡状鸟类。"
  },
+ "a739131c6074": {
+  "en": "<strong>Habitat:</strong> Mostly in the swamps from Sanbi to Tastyleaf.",
+  "t": "<strong>栖息地：</strong>主要在从桑比到泰斯蒂利夫的沼泽里。"
+ },
  "aad2aeaf73ba": {
   "en": "<strong>Earth animals that don't exist in Vraki</strong> (for writers): no goats (use Legunia), no dogs or cats (use a Bagarisa where a dog would go), no pigeons (use wild Wingas). (World Lore Q&amp;A › Vol 4 Draft 2, Q8.)",
   "t": "<strong>弗拉基不存在的地球动物</strong>（写给作者们）：没有山羊（用莱古尼亚），没有狗或猫（在该用狗的地方用巴加里萨），没有鸽子（用野生温加）。（世界观问答 › 第 4 卷第 2 稿，Q8。）"
+ },
+ "ab44bcf4ec19": {
+  "en": "<strong>Winga Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>温加肉</strong>：屠夫切好的肉。"
  },
  "ab65bffd7d33": {
   "en": "Sanbi is the staple of which kingdom? If you didn't answer Sanbi, then oh boy, you might have been smoking too much Magina. If you plan to visit, then give \"The True Sanbi King\" novel a read first, or you might be baffled as to why people put the dead old people in small boats and push them off their docks (sometimes not quite so dead if the fishing is weak but that's neither here nor there.) Either way, only that fisherman's family seems to have the prowess or pure luck to catch these darn tasty fish! You're welcome to try, though! But you'll likely only catch meat from their lips as they swell and shed it off, or suffer a massive headache as it's always keen to tap into its soul energy interface to fend off predators.",
   "t": "桑比是哪个王国的主食？如果你的答案不是桑比，那哦天哪，你可能抽了太多玛吉纳。如果你打算去那里，那就先读一读小说《真·桑比王》，否则你可能会困惑为什么人们要把死去的老人放进小船里，从码头推出去（如果渔获不好，有时候人还没完全死透，不过这无关紧要。）不管怎样，似乎只有那个渔夫的家族有本事——或者纯粹是运气——能钓到这些该死的美味鱼！不过欢迎你去试试！但你很可能只会钓到它们嘴唇上的肉，因为它们的嘴唇会肿起来然后脱落，或者你会头疼得要命，因为它总是热衷于动用自己的灵魂能量界面来抵御捕食者。"
  },
+ "ab9d6b2075a0": {
+  "en": "<strong>Winga Dust</strong>: Usually ground, using other beaks and claws to do it. They must have been strengthened by the Winga before they were removed, and the effect lasts for years before it starts to wear off. The coating can be as strong as diamond until the effect wears off.",
+  "t": "<strong>温加粉</strong>：通常用别的喙和爪子来磨。它们必须在取下之前由温加强化过，这种效果能持续好几年才开始减弱。在效果减弱之前，涂层可以像钻石一样坚硬。"
+ },
+ "abbcc9d2e5d1": {
+  "en": "A fish from the deeper ocean that stuns and messes with other fish, for food and maybe for fun.",
+  "t": "一种来自深海的鱼，会把其他鱼电晕、捉弄它们，为了吃，也许也是为了好玩。"
+ },
+ "abc9c825c542": {
+  "en": "<strong>Habitat:</strong> Ponds.",
+  "t": "<strong>栖息地：</strong>池塘。"
+ },
+ "ac6e9c8cf058": {
+  "en": "<strong>Intelligence:</strong> Like elephants or Hippos. By themselves, they are chill and timid, but in a group, they are more aggressive and territorial.",
+  "t": "<strong>智力：</strong>像大象或河马。单独的时候它们悠闲又胆小，但成群时就更具攻击性、领地意识更强。"
+ },
+ "adebdf04e687": {
+  "en": "A fish famous for controlling elemental energy: absorbing, creating or releasing it.",
+  "t": "一种以控制元素能量而闻名的鱼：吸收、创造或释放能量。"
+ },
+ "ae2df3ced076": {
+  "en": "Gallop",
+  "t": "袭步"
+ },
+ "ae79095d0fcb": {
+  "en": "<strong>Intelligence:</strong> Wild Boar.",
+  "t": "<strong>智力：</strong>野猪。"
+ },
+ "b14a3a047e09": {
+  "en": "Big flying birds that eat Gyut berries, and their meat tastes sweet. They settle high in the trees to rest and breed, and may attack humans who come too close, depending on past encounters. They're famous for flying fast and high, which makes them hard to hunt. Tamed, they make loyal companions, and since they recognize people's faces and places, they make a great courier service. Pink Wingas, which some call Tolerideme Wingas, are incredibly hard to find, since they camouflage themselves really well.",
+  "t": "吃久特浆果的大型飞鸟，它们的肉尝起来是甜的。它们栖息在高高的树上休息和繁殖，可能会攻击靠得太近的人类，取决于过去的遭遇。它们以飞得又快又高而出名，这让它们很难被猎到。驯服后，它们是忠诚的伙伴，而且因为它们能认出人脸和地方，所以是很好的信使。粉色温加，有人称之为托勒里德梅温加，极难找到，因为它们伪装得非常好。"
+ },
+ "b2357f57439e": {
+  "en": "<strong>Food:</strong> Trees, leaves and plants.",
+  "t": "<strong>食物：</strong>树、树叶和植物。"
+ },
+ "b31876f752d9": {
+  "en": "Distance at 10% strain (~90 kg)",
+  "t": "10% 负担下的距离（~90 公斤）"
+ },
+ "b361f1ddd348": {
+  "en": "<strong>Sanbi Scales</strong>: Scales, prepared by a butcher for artisans to work on.",
+  "t": "<strong>桑比鱼鳞片</strong>：鳞片，由屠夫处理好，供工匠加工。"
+ },
+ "b4f93a988d4e": {
+  "en": "<strong>Fihi Fish Meal</strong>: Unused fish parts, or fish unfit for human consumption, turned into fish meal: usually whatever is left over after extracting the oil.",
+  "t": "<strong>菲希鱼粉</strong>：没用上的鱼的部位，或者不适合人吃的鱼，被做成鱼粉：通常是提取鱼油后剩下的东西。"
+ },
+ "b5013d989d78": {
+  "en": "<strong>Food:</strong> Organic matter, dead things, etc.",
+  "t": "<strong>食物：</strong>有机物、死物等。"
+ },
+ "b6440b2c0bd2": {
+  "en": "Small mammals that eat insects and grain. They prefer insects, so in small numbers they're great pest control; in large numbers, they become pests themselves. Hunters and Pearl adventurers are constantly hired to keep them in check.",
+  "t": "吃昆虫和谷物的小型哺乳动物。它们更喜欢昆虫，所以数量少时是很好的害虫防治；数量多了，它们自己就成了害虫。猎人和珀尔级冒险者经常被雇来控制它们的数量。"
+ },
+ "b68dfac1563a": {
+  "en": "<strong>Sanbi Fish Meal</strong>: Unused fish parts, or fish unfit for human consumption, turned into fish meal: usually whatever is left over after extracting the oil.",
+  "t": "<strong>桑比鱼粉</strong>：没用上的鱼的部位，或者不适合人吃的鱼，被做成鱼粉：通常是提取鱼油后剩下的东西。"
+ },
  "b6e1bd12e4b2": {
   "en": "<strong>Food:</strong> Ground.",
   "t": "<strong>食物：</strong>土。"
  },
+ "b771573a1570": {
+  "en": "<strong>Interface:</strong> Feet &amp; beak.",
+  "t": "<strong>界面：</strong>脚和喙。"
+ },
+ "b82c3e966676": {
+  "en": "<strong>Inspired by:</strong> Rats &amp; Shrews.",
+  "t": "<strong>灵感来源：</strong>老鼠和鼩鼱。"
+ },
  "b952669231be": {
   "en": "Legunia",
   "t": "莱古尼亚"
+ },
+ "b9703b7af938": {
+  "en": "~20 km/h",
+  "t": "~20 公里/小时"
+ },
+ "ba86c5147701": {
+  "en": "<strong>Egua Hoof/Leg hair</strong>: Used in nari gels. Taken from dead Eguas, or sometimes from damaged hooves before healing is cast.",
+  "t": "<strong>埃瓜蹄/腿毛</strong>：用于纳里凝胶。取自死去的埃瓜，有时取自施放治疗前受损的蹄子。"
+ },
+ "bd819a3d6000": {
+  "en": "<strong>Habitat:</strong> Throughout the Lower and Buhraies Plains, with a larger population in Wingarest.",
+  "t": "<strong>栖息地：</strong>遍布低地平原和布莱斯平原，在温加雷斯特数量更多。"
+ },
+ "bd83994dd2c7": {
+  "en": "<strong>Intelligence:</strong> Predatory Fish/Eel.",
+  "t": "<strong>智力：</strong>掠食性鱼类/鳗鱼。"
  },
  "bdd0e53e27c7": {
   "en": "Monikas are loner butterflies tightly associated with death and decay. Their interface is considered the best at identifying corpses, especially if the corpse is tied to a soul pooled with lots of soul energy. They also have the ability to turn desired volatile compounds of scents into a visual representation that aids in understanding its concentration and source—known as Monika sight, a nari gel concoction customized with the desired volatile compound, turned even exceptional if paired with Wozen Smell for both finding things like dead adventurers, detect poisonous things like traps, or even track down live animals or humans by using the droppings or sweat. Adventurers on the brink of death often implore to be found by these peaceful-looking butterflies—at least some do until they remember the cost of revival.",
@@ -319,9 +1007,65 @@
   "en": "Soreno is favored by scientists who avoid human experimentation or can't contract one to experiment on. It is not exactly a close match to the real thing, but it's good enough to iterate through experiments quickly and cheaply,  publish papers, and make a name for yourself! Some are on the other spectrum—with often pearl adventurers tasked to keep the Soreno population in cities, especially in grain silos, on the delicate balance between pest control and being a pest themselves. Plus, it's cheap meat for these pearl adventurers who are probably in so much debt that any single pearl they can avoid wasting now is amethysts off their loan due to their jacked-up interests. The caveat is that the meat smells and tastes like stale piss and that you will likely need to heal yourself if you slip up and don't cook it well done—or have difficulty catching them as they cloak themselves in both sight and heat signatures, and talk to one another in such a high pitch tone you will either need a Sayna or use nari gel to alter your ears to a Soreno. They also imitate other animals and can dash an arm's length as quickly as a blink of an eye in almost any direction a few times too.",
   "t": "索雷诺深受那些避免用人类做实验、或者签不到人来做实验的科学家青睐。它和真人并不完全相似，但已经足够好，可以快速而廉价地反复做实验、发表论文、为自己闯出名声！另一些人则站在另一端——通常是珀尔级冒险者，他们的任务是让城市里——尤其是粮仓里——的索雷诺数量保持在一种微妙的平衡中，介于防治害虫和自己变成害虫之间。再说，对于这些珀尔级冒险者来说，这是便宜的肉，他们大概欠了太多债，现在能少浪费一颗珀尔，就等于因为高得离谱的利息而少欠好几颗阿米西斯特的贷款。问题是，它的肉闻起来和尝起来都像陈尿，而且如果你一不小心没把它煮透，你很可能需要治疗自己——或者你会很难抓到它们，因为它们会在视觉和热信号上都隐身，还用极高的音调互相交流，以至于你要么需要一只赛纳，要么得用纳里凝胶把你的耳朵改造成索雷诺的耳朵。它们还会模仿其他动物，并能在眨眼之间朝几乎任何方向冲出一臂之远，还能连冲好几次。"
  },
+ "be7b971aef88": {
+  "en": "Yuyta meat",
+  "t": "尤伊塔肉"
+ },
+ "bf2e419868c8": {
+  "en": "Looks like a fox, but is as rocky as a horned lizard. Very friendly with humans, and a good addition to an adventurer's party. It makes a cute sound: \"Pohw-pohhhhwww!\"",
+  "t": "长得像狐狸，却像角蜥一样满是石头般的鳞甲。对人类非常友好，是冒险者队伍的好帮手。它会发出一种可爱的声音：“噗呜——噗呜呜呜呜！”"
+ },
+ "bff3359ad9d1": {
+  "en": "<strong>Food:</strong> Grass.",
+  "t": "<strong>食物：</strong>草。"
+ },
+ "c17066c19ce4": {
+  "en": "Canter",
+  "t": "跑步"
+ },
  "c182cbeda856": {
   "en": "<strong>Intelligence:</strong> Worm.",
   "t": "<strong>智力：</strong>蠕虫。"
+ },
+ "c2d5e9d12b16": {
+  "en": "The Sanbi Kingdom is named after this fish, its main food source and economy. It's famous for taking all of a normal human's strength to reel in: even muscular fishermen catch at most 2 adults a day, if they're lucky, unless they tap into nari gels and the like. More in the novel The True Sanbi King.",
+  "t": "桑比王国就是以这种鱼命名的，它是王国的主要食物来源和经济支柱。它出了名地要用尽一个普通人全部的力气才能拉上来：即使是肌肉发达的渔夫，运气好的话一天最多也只能钓到 2 条成年鱼，除非他们借助纳里凝胶之类的东西。更多内容见小说《真正的桑比之王》。"
+ },
+ "c341b3850c53": {
+  "en": "<strong>Ptaina Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>普泰纳肉干</strong>：屠夫做的肉干。"
+ },
+ "c393d69f7c61": {
+  "en": "<strong>Sayna Jerky</strong>: Jerky prepared by a butcher. Rare to find to its taste.",
+  "t": "<strong>赛纳肉干</strong>：屠夫做的肉干。很难找到合口味的。"
+ },
+ "c40eb11148e4": {
+  "en": "<strong>Tastes like:</strong> Lamb/Goat.",
+  "t": "<strong>味道：</strong>羊羔肉/山羊肉。"
+ },
+ "c42130ff5cc3": {
+  "en": "A native of the Cruro lands, sometimes found as far south as Waterfall, or as far up as Tastyleaf.",
+  "t": "原产于克鲁罗的土地，有时最南能在沃特福尔找到，最北能到泰斯蒂利夫。"
+ },
+ "c4c548507778": {
+  "en": "<strong>Hide</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>兽皮</strong>：兽皮/毛皮，由屠夫处理好，供工匠加工。"
+ },
+ "c50f91f11623": {
+  "en": "<strong>Skills:</strong> Blood Heal; Flaming Tusks (balls of flame created between the tusks); a gust of hot air, built up from the tail and shot through the hair crest, which combined with the flame creates a flamethrower effect.",
+  "t": "<strong>技能：</strong>血之治愈；火焰獠牙（在獠牙之间生成火球）；从尾巴积聚、从毛冠里喷出的一股热风，和火焰结合起来就形成喷火器的效果。"
+ },
+ "c52792714823": {
+  "en": "<strong>Inspired by:</strong> Frog.",
+  "t": "<strong>灵感来源：</strong>青蛙。"
+ },
+ "c571c8aaec73": {
+  "en": "<strong>Tastes like:</strong> Beef with a slight note of mutton.",
+  "t": "<strong>味道：</strong>带一点羊膻味的牛肉。"
+ },
+ "c643a9a65315": {
+  "en": "<strong>Bagarisa Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>巴加里萨肉</strong>：屠夫切好的肉。"
  },
  "c67a6b41df1f": {
   "en": "Monica",
@@ -339,13 +1083,45 @@
   "en": "Sayna is a \"smol\" creature that made the desert its habitat. Worshiped in some sense by the Sundeath citizens as it is crucial in reducing the number of deaths by sand worms. Its enormous ears and cuteness make it a highly sought-after companion for adventurers and traders alike—so much so that about two-fifths of export from Sundeath each year are trained Saynas. The city also exports sayna meat as well, but only more affluent folks who enjoy tasting things more than admiring their cuteness can afford it. The ruling pharaohs—a weird name they call the ruler—tried to intervene with a trade blockade to prevent overhunting, but the city ruler cracked under the might of Forway's guards and law.",
   "t": "赛纳是一种把沙漠当成栖息地的“小小”生物。它在某种意义上受到桑德斯市民的崇拜，因为它对减少桑德沃姆造成的死亡人数至关重要。它巨大的耳朵和可爱的样子让它成为冒险者和商人都非常抢手的伙伴——以至于桑德斯每年大约五分之二的出口都是训练好的赛纳。这座城市也出口赛纳肉，但只有那些更喜欢品尝而不是欣赏可爱的富裕人士才买得起。统治者法老——他们这么称呼统治者，名字挺奇怪的——曾试图通过贸易封锁来进行干预，以防止过度捕猎，但这位城市统治者在福威卫兵和法律的威力下屈服了。"
  },
+ "c6e037db4d85": {
+  "en": "<strong>Interface:</strong> Fins on sides.",
+  "t": "<strong>界面：</strong>两侧的鳍。"
+ },
+ "c8cdebaf733c": {
+  "en": "<strong>Intelligence:</strong> Frog.",
+  "t": "<strong>智力：</strong>青蛙。"
+ },
  "c9b04316ba1a": {
   "en": "Public text: fauna.md",
   "t": "公开文本：fauna.md"
  },
+ "caa0a1a96a34": {
+  "en": "<strong>Wooly Gyut Milk</strong>: Females produce about 10 liters a day, and the milk looks and tastes like caramel when they're fed Gyut berries. Free for Darfaries children.",
+  "t": "<strong>伍利久特奶</strong>：雌性每天产大约 10 升，喂久特浆果时，奶看起来、尝起来都像焦糖。对达尔法里斯孩子免费。"
+ },
  "cb7a989df4da": {
   "en": "Culuim proves that Hifuna should always be considered a threat to the soul, even if you live as far away as the Freeish Kingdom. This story started when an asshole adventurer from Big Gyut returned from Hifuna with a bag of Walking Hearts ready to sell in the black market. He probably was smiling wide with excitement about making it back without being caught, but then one of his guild mates rattled on him to the guards—because of an affair like usual. Instead of turning the bag in, the asshole adventurer buried it near a pond to get rid of the evidence—the rest is history as worms ate the contaminated soul, and a new species was born. Forway tried to exterminate it, but it was to no avail, so they shifted to focus instead to ensure that it didn't present a danger to the public. Luckily that was the case, and soon after, it somehow became a popular street food for people in a pinch because of its girth size and abundant nature. They taste like dirt, and the flesh is pretty chewy, but with enough seasoning, it goes down nicely after some beers. Scientists love them even more for being an animal model for the effects of Walking Heart.",
   "t": "库卢伊姆证明了希富纳永远都应该被视为对灵魂的威胁，哪怕你住得远在弗里伊什王国。这个故事始于一个来自比格·久特的混蛋冒险者从希富纳带回了一袋沃金哈特，准备在黑市上卖掉。他大概正因为没被抓到就回来了而兴奋得咧嘴大笑，但随后他的一个公会伙伴向卫兵告发了他——和往常一样，是因为一段婚外情。那个混蛋冒险者没有交出袋子，而是把它埋在一个池塘边，想销毁证据——剩下的就是历史了：蠕虫吃掉了被污染的灵魂，一个新物种诞生了。福威试图消灭它，但毫无用处，于是转而专注于确保它不会对公众构成危险。幸运的是，它确实不构成危险，不久之后，它不知怎么就因为体型粗大、数量充足而成了手头拮据的人们爱吃的流行街头小吃。它们吃起来像泥土，肉也相当有嚼劲，但只要调料放够，喝几杯啤酒后就很好下咽。科学家们更爱它们，因为它们是研究沃金哈特效果的动物模型。"
+ },
+ "cd5c8dbd9c7e": {
+  "en": "A pig- and deer-like mammal whose meat isn't too gamy: a bit earthy, with hints of mushroom. Famous for shrugging off arrows, since an instant kill means shooting both of its hearts: one in the chest, and another in the gut, which has its own pathways that can also power the hind legs. Its musk smells like shrimp brine.",
+  "t": "一种像猪又像鹿的哺乳动物，肉不太膻：有点泥土味，带着蘑菇的香气。它以不怕箭而出名，因为要一击毙命就得射中它的两颗心脏：一颗在胸腔，另一颗在肚子里，后者有自己的通路，也能给后腿提供动力。它的麝香闻起来像虾的卤水。"
+ },
+ "ceb3008882ba": {
+  "en": "<strong>Ptaina Fish Roe</strong>: A treat for some.",
+  "t": "<strong>普泰纳鱼籽</strong>：对有些人来说是美味。"
+ },
+ "ceec885211ca": {
+  "en": "<strong>Barina Leg Meat</strong>: Meat cut by a butcher, often used in Freeish Kingdom dishes.",
+  "t": "<strong>巴里纳腿肉</strong>：屠夫切好的肉，常用于弗里伊什王国的菜肴。"
+ },
+ "cefd76615954": {
+  "en": "Gait (walk)",
+  "t": "步态（慢步）"
+ },
+ "cf2876144923": {
+  "en": "Trot",
+  "t": "快步"
  },
  "cfdc5df49da6": {
   "en": "Male and female Saynas: small spotted fox-like animals with very large ears.",
@@ -355,37 +1131,157 @@
   "en": "Yuytas might look friendly to some, but they are not keen on human contact. If you poach a baby one from its mother, you might get a solid companion, but you wouldn't count on it. They are not as intelligent as cats, yet just as finicky. Their most desirable trait, aside from their tuna-like meat that has a faint freshly cut grass rather than oceanic notes, is the whiskers for nari gels, as with those, it allows you to see or feel stuff behind walls. They hang out in groups, and you can see them jumping about, enjoying their lives with their big plumpy butts for all to see. Hunters, and villagers at large, use these creatures' butts as a barometer for harvest quality. It's like what they say, \"Winter's gonna suck ass when you see a flappy butt flapping on Fall!\"",
   "t": "尤伊塔在有些人看来也许很友好，但它们并不喜欢和人接触。如果你从母亲身边偷走一只幼崽，你也许能得到一个可靠的伙伴，但别指望。它们没有猫聪明，却和猫一样挑剔。除了它们那类似金枪鱼、却带着淡淡的新割青草味而不是海洋气息的肉之外，它们最受欢迎的特征是用于纳里凝胶的胡须，因为有了它们，你就能看到或感觉到墙后面的东西。它们成群活动，你能看到它们蹦蹦跳跳，享受生活，把又大又圆的屁股展示给所有人看。猎人，乃至广大村民，都把这些生物的屁股当作收成好坏的晴雨表。就像人们说的：“秋天要是看到软塌塌的屁股在晃，冬天就要糟透了！”"
  },
+ "d1317ad4680b": {
+  "en": "A frog known for staying underwater for a long time and for the toxins on its back. Its tail is useful for nari gels too.",
+  "t": "一种青蛙，以能在水下待很久、背上有毒素而闻名。它的尾巴对纳里凝胶也有用。"
+ },
+ "d2236ce106ac": {
+  "en": "<strong>Interface:</strong> Hair on head and chin.",
+  "t": "<strong>界面：</strong>头上和下巴上的毛。"
+ },
  "d3f1d96b05ca": {
   "en": "A small cyan butterfly that spreads everywhere every spring. Known for attacking Wozefaries and Sorefaries in swarms and paralyzing them to lick their sweat. One of the most popular butterflies around: when they swarm and flee, adventurers and commoners know bad weather is coming.",
   "t": "一种小小的青色蝴蝶，每年春天到处都是。以成群攻击沃泽法里斯和索雷法里斯、把它们麻痹后舔它们的汗水而闻名。它是这一带最出名的蝴蝶之一：当它们成群逃走时，冒险者和普通人就知道坏天气要来了。"
+ },
+ "d4d4721c833c": {
+  "en": "<strong>Inspired by:</strong> Black Drum Fish.",
+  "t": "<strong>灵感来源：</strong>黑鼓鱼。"
+ },
+ "d5ac19f2411a": {
+  "en": "<strong>Inspired by:</strong> Flamingo with Winga mix.",
+  "t": "<strong>灵感来源：</strong>火烈鸟和温加的混合。"
  },
  "d5e22df7e97b": {
   "en": "Wozen",
   "t": "沃增"
  },
+ "d6d432b15cb4": {
+  "en": "<strong>Interface:</strong> Horns.",
+  "t": "<strong>界面：</strong>角。"
+ },
  "d73ce8370633": {
   "en": "Egua became the foundation of trading across the four Kingdoms, and if you think more about it, the core reason why the prosperity treaty is prosperous. Sure, Gravity Repel is still used to decrease the weight of goods, but then you have to deal with volume too through World Decrease. The cost alone would make things prohibitively expensive to trade, but that's not all! The fact that not every good can handle having its density altered by factors of ten, if not hundreds, makes using Soul Energy for everything a pain in the ass. All of this brings back the point that with its interface that allows it to walk on water, endurance to carry a lot of weight, and friction control over muddy terrain, it truly is an essential asset in keeping the balls flowing by enriching trading and making wars unlikely. Some people, mostly Forway and Freeish folks, plus some adventurers here and there still like to indulge in Egua's meat for its meatier notes and low-fat content that makes tasty beef jerky. Just beware of its capabilities to eject its intestines from its bunghole when in self-defense—it's entertainingly bizarre to watch a Wozen, or anything for that matter, give up chasing an Egua when the shower of shit and guts starts to rain towards them.",
   "t": "埃瓜成了四王国之间贸易的基础，再仔细想想，它也是《繁荣条约》之所以繁荣的核心原因。当然，格拉维蒂里佩尔仍然被用来减轻货物的重量，但接下来你还得通过沃尔德迪克里斯来处理体积。光是费用就会让贸易贵得令人望而却步，但这还不是全部！并不是每种货物都能承受密度被改变十倍、甚至上百倍，这让凡事都用灵魂能量变得非常麻烦。这一切又回到了这一点：凭借能让它在水上行走的界面、能驮很多重量的耐力，以及在泥泞地形上控制摩擦力的能力，它确实是让球持续流通的重要资产，它让贸易繁荣，也让战争变得不太可能。有些人——主要是福威和弗里伊什的人，再加上零星的一些冒险者——仍然喜欢享用埃瓜的肉，因为它肉味更浓、脂肪含量低，能做成美味的牛肉干。只是要小心它在自卫时从屁眼里喷出肠子的能力——看着一只沃增，或者任何东西，在屎和内脏像阵雨一样朝它们洒下来时放弃追赶埃瓜，那场面既诡异又好笑。"
+ },
+ "d87d047b29d2": {
+  "en": "<strong>Skills:</strong> Reverberate Voice; Create Light.",
+  "t": "<strong>技能：</strong>声音回响；生成光。"
+ },
+ "d886ec863afa": {
+  "en": "<strong>Habitat:</strong> Cruro lands.",
+  "t": "<strong>栖息地：</strong>克鲁罗的土地。"
+ },
+ "d88e42687f14": {
+  "en": "<strong>Habitat:</strong> Throughout the lower region.",
+  "t": "<strong>栖息地：</strong>遍布低地地区。"
  },
  "da13c60d054c": {
   "en": "Grass",
   "t": "草类"
  },
+ "db42cb0cab14": {
+  "en": "<strong>Crocus Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>克罗卡斯肉</strong>：屠夫切好的肉。"
+ },
+ "e096ca9e3833": {
+  "en": "<strong>Intelligence:</strong> Rats.",
+  "t": "<strong>智力：</strong>老鼠。"
+ },
+ "e179b32e7576": {
+  "en": "<strong>Reproduction:</strong> Tens of Fihi a year.",
+  "t": "<strong>繁殖：</strong>每年几十条菲希。"
+ },
+ "e26709a487ee": {
+  "en": "<strong>Intelligence:</strong> Leopard.",
+  "t": "<strong>智力：</strong>豹。"
+ },
+ "e448b3b39740": {
+  "en": "<strong>Fihi Fish Roe</strong>: A treat for some.",
+  "t": "<strong>菲希鱼籽</strong>：对有些人来说是美味。"
+ },
+ "e54948829158": {
+  "en": "<strong>Tastes like:</strong> Gamy and tough.",
+  "t": "<strong>味道：</strong>膻、硬。"
+ },
+ "e556b83aaed6": {
+  "en": "<strong>Interface:</strong> Its skin is tougher than normal fish skin, including being able to dissipate elemental energy—or rather, absorb it like a shield.",
+  "t": "<strong>界面：</strong>它的皮比普通鱼皮更坚韧，还能驱散元素能量——或者更确切地说，像盾牌一样吸收它。"
+ },
  "e6431f6bf11c": {
   "en": "Yuyta: a white rodent with big front teeth, shown from the front, the back and as a head close-up.",
   "t": "尤伊塔：一只长着大门牙的白色啮齿动物，分别画出了正面、背面和头部特写。"
+ },
+ "e76195943c36": {
+  "en": "A Buhraies subjugation experiment: the Buhraies took a few chakis (chickens) and transformed them into fanchakis. As usual, both escaped containment, but the chakis went extinct, eaten up by the fauna and the Lishies. Fanchakis breed fast (like rats), so they survived and spread like wildfire, even with the Lishies hunting them by the thousands.",
+  "t": "一次布莱斯的驯服实验：布莱斯拿了几只查基（鸡），把它们改造成了凡查基。和往常一样，两者都逃出了收容，但查基灭绝了，被动物和利希斯吃光了。凡查基繁殖得很快（像老鼠一样），所以它们活了下来，像野火一样蔓延开来，即使利希斯成千上万地猎杀它们。"
+ },
+ "e76e5b4d4fd2": {
+  "en": "<strong>Egua Meat</strong>: Meat cut by a butcher. Relatively cheap, since it comes from older Eguas that no longer carry cargo or people.",
+  "t": "<strong>埃瓜肉</strong>：屠夫切好的肉。相对便宜，因为它来自不再驮货或载人的老埃瓜。"
+ },
+ "e77b78c71d82": {
+  "en": "<strong>Fanchaki Meat</strong>: Meat cut by a butcher. The kingdoms' favorite meat, for how good it tastes for the price.",
+  "t": "<strong>凡查基肉</strong>：屠夫切好的肉。王国最受欢迎的肉，因为以这个价格来说它好吃极了。"
  },
  "e80edef60f16": {
   "en": "Lansha is a Cruro favorite! So much so, you often can trade anything you want from them with a simple succulent chunk of grilled Lansha—or if the cruro is pretty savage, it will just snatch it from you, and your hand too! The meat's flavor is akin to goat or lamb. It takes getting used to, but once you do, it goes well with anything. Catching one and cooking it can be tricky if you don’t know what you’re doing. Their main defense is coating their bodies with a sour secretion that makes biting them impossible to stomach. Hunting them down requires skill to one-shot their brain, and even more skill to skin them and their sour glands.",
   "t": "兰沙是克鲁罗的最爱！以至于你常常只用一块多汁的烤兰沙，就能从他们那里换到任何你想要的东西——或者如果那个克鲁罗相当野蛮，它会直接从你手里抢走，连你的手一起！它的肉味类似山羊肉或羊羔肉。需要一段时间来适应，但一旦适应了，配什么都好吃。如果你不知道自己在做什么，抓一只来烹饪可能会很棘手。它们的主要防御手段是在身上涂满一种酸味分泌物，让人根本咬不下去。猎杀它们需要一枪命中大脑的本事，而给它们剥皮、去掉酸腺则需要更高的本事。"
  },
+ "e942eadd436d": {
+  "en": "<strong>Intelligence:</strong> Cockatoo.",
+  "t": "<strong>智力：</strong>凤头鹦鹉。"
+ },
+ "e9521d3eb018": {
+  "en": "See Cruro for more information!",
+  "t": "更多信息见克鲁罗！"
+ },
+ "e96e6f7d86ec": {
+  "en": "<strong>Tastes like:</strong> Bitter; only goes down in a heavily seasoned soup, though some people swear by its taste.",
+  "t": "<strong>味道：</strong>苦；只有放在重口味的汤里才能咽下去，不过有些人对它的味道赞不绝口。"
+ },
+ "e98e294b8c11": {
+  "en": "<strong>Tastes like:</strong> Bitter, and smells like urine. The meat is given to wild animals or used as fertilizer, though some Pearl adventurers still eat it, because it's free meat.",
+  "t": "<strong>味道：</strong>苦，闻起来有尿味。肉被拿去喂野生动物或者当肥料，不过有些珀尔级冒险者还是会吃，因为这是免费的肉。"
+ },
+ "e99b71a69b07": {
+  "en": "One of the most terrifying snakes around for its size... but looks aren't everything.",
+  "t": "就它的体型而言，是这一带最吓人的蛇之一……但外表并不代表一切。"
+ },
+ "e9bfc573cd1f": {
+  "en": "<strong>Reproduction:</strong> Every summer; 25 eggs laid, of which only a few reach adulthood.",
+  "t": "<strong>繁殖：</strong>每年夏天；产 25 枚卵，只有几只能长到成年。"
+ },
+ "ea1f882e807e": {
+  "en": "<strong>Sanbi Oil</strong>: Used in beer, in food, for greasing things, etc.",
+  "t": "<strong>桑比鱼油</strong>：用于啤酒、食物、润滑东西等。"
+ },
+ "ea2a96791612": {
+  "en": "<strong>Fanchaki Egg</strong>: A common food.",
+  "t": "<strong>凡查基蛋</strong>：一种常见的食物。"
+ },
+ "ea918f305a68": {
+  "en": "<strong>Interface:</strong> Hair on Back/Tusks on fronts.",
+  "t": "<strong>界面：</strong>背上的毛/前面的獠牙。"
+ },
  "edb2fa9e8d54": {
   "en": "Wooly is truly a staple of Gandew. The fact that there aren't many other places it can survive due to its demanding nature is strong enough by itself to warrant Gandew gaining the comparative advantage from Forway—but that isn't the only fact either. Darfaries acquired several unique masteries over the generations over the entire spectrum of by-products! From herding them in Mid-Gandew to processing their milk into varieties of cheeses, creating wet and dry-aged beef that is to soul die for, and even soft, warm wool and clothing! Toleridemians are the heaviest consumers, both in the literal and figurative sense, of these tantalizing exports, and try as they might, they cannot compete with Gandew on that front. Buhraies Plains is just not high enough for these creatures to feel at home, and whatever they produced so far under \"research\" was laughable.",
   "t": "伍利真的是甘杜的支柱。它因为要求苛刻而很难在其他地方生存，光这一点就足以让甘杜获得相对于福威的比较优势——但这还不是唯一的原因。达尔法里斯在世世代代的发展中，掌握了它整个副产品范围内的几项独特绝活！从在米德·甘杜放牧，到把它们的奶加工成各种奶酪，制作让人愿意灵魂死去来换的湿式和干式熟成牛肉，甚至还有柔软温暖的羊毛和衣物！托勒里德梅人是这些诱人出口商品最大的消费者，无论是字面意义上还是比喻意义上，不管怎么努力，他们在这方面都无法和甘杜竞争。布莱斯平原的海拔就是不够高，这些生物在那里没法感到自在，而他们迄今为止在“研究”名义下生产出来的东西简直可笑。"
  },
+ "ee3e2adc67b2": {
+  "en": "<strong>Bagarisa Hide/Fur</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>巴加里萨兽皮/毛皮</strong>：兽皮/毛皮，由屠夫处理好，供工匠加工。"
+ },
  "ef97b49d1a9a": {
   "en": "<strong>Inspired by:</strong> Butterfly.",
   "t": "<strong>灵感来源：</strong>蝴蝶。"
+ },
+ "efecdea30ac3": {
+  "en": "~5 km",
+  "t": "~5 公里"
+ },
+ "effdb360e78b": {
+  "en": "<strong>Reproduction:</strong> Every spring; ~30 eggs laid, of which only a few reach adulthood.",
+  "t": "<strong>繁殖：</strong>每年春天；产 ~30 枚蛋，只有几只能长到成年。"
  },
  "f03bfe0fce40": {
   "en": "Culuim",
@@ -395,9 +1291,53 @@
   "en": "<strong>Interface:</strong> Hair on legs.",
   "t": "<strong>界面：</strong>腿上的毛。"
  },
+ "f14bb452ecbf": {
+  "en": "<strong>Ptaina Scales</strong>: Scales, prepared by a butcher for artisans to work on.",
+  "t": "<strong>普泰纳鳞片</strong>：鳞片，由屠夫处理好，供工匠加工。"
+ },
+ "f5f3755cabe6": {
+  "en": "<strong>Habitat:</strong> Mostly the forests of the Sanbi region and up the coast.",
+  "t": "<strong>栖息地：</strong>主要在桑比地区的森林里，以及沿海往北的地方。"
+ },
  "f8bfebcf4201": {
   "en": "<strong>Habitat:</strong> Throughout the four kingdoms; wild ones live on the plains around Forway City.",
   "t": "<strong>栖息地：</strong>遍布四王国；野生的住在福威城周围的平原上。"
+ },
+ "f8eb6490e08e": {
+  "en": "<strong>Fanchaki Feathers</strong>: Feathers, prepared by a butcher for artisans to work on.",
+  "t": "<strong>凡查基羽毛</strong>：羽毛，由屠夫处理好，供工匠加工。"
+ },
+ "faacfbb4d60d": {
+  "en": "<strong>Reproduction:</strong> Females give birth to 2 or 3 babies every 3 months.",
+  "t": "<strong>繁殖：</strong>雌性每 3 个月生 2 到 3 只幼崽。"
+ },
+ "fb53a27c3daf": {
+  "en": "<strong>Reproduction:</strong> 3 or 4 Winga couples get together for a swing party, then build a shared nest to care for the eggs, which hatch in less than a month. About 20 Winga eggs are laid every year.",
+  "t": "<strong>繁殖：</strong>3 到 4 对温加凑在一起开一场换伴派对，然后搭一个共同的巢来照料蛋，蛋不到一个月就能孵出。每年大约产 20 枚温加蛋。"
+ },
+ "fb6c2dca1fec": {
+  "en": "<strong>Reproduction:</strong> Every year, they tend to have about 2 or 3 baby Wozens.",
+  "t": "<strong>繁殖：</strong>每年，它们往往会生大约 2 到 3 只沃增幼崽。"
+ },
+ "fbf4f9e2165d": {
+  "en": "<strong>Fatupari Jerky</strong>: Jerky prepared by a butcher. See Fatupari Meat.",
+  "t": "<strong>法图帕里肉干</strong>：屠夫做的肉干。见法图帕里肉。"
+ },
+ "fc575baee407": {
+  "en": "<strong>Intelligence:</strong> Chicken.",
+  "t": "<strong>智力：</strong>鸡。"
+ },
+ "fcfafdd5bf13": {
+  "en": "<strong>Crocus Eggs</strong>: An interesting food for some.",
+  "t": "<strong>克罗卡斯蛋</strong>：对有些人来说是一种有趣的食物。"
+ },
+ "fd7cb8d7ed78": {
+  "en": "<strong>Crocus Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>克罗卡斯肉干</strong>：屠夫做的肉干。"
+ },
+ "ff51f79062c7": {
+  "en": "<strong>Skills:</strong> Cloak; Toxin Air Diffusion.",
+  "t": "<strong>技能：</strong>隐身；毒气扩散。"
  },
  "ff5a6de9851b": {
   "en": "A heavy horse with a hippopotamus-like head. Herbivores that didn't mind being around other species, they were quickly domesticated. They love being petted and understand basic instructions, but hurting them, physically or emotionally, makes them violent. Their Soul Energy interface lets them walk on water naturally, which makes them the basis of transportation across the Shared Delta. Humans respect their friendliness so much that Eguas are often given human burials. Some people do eat their meat, but mostly when the opportunity arises (older Eguas, for example).",
