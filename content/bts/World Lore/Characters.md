@@ -665,6 +665,16 @@ Born in Forway to a middle-class family, he's a man with a long history of conne
 |---|---|---|---|
 | 2 | 140 | 240 cm | 130 kg |
 
+# Lick
+
+A round, hairy dude who goes by "Lick, from the guild My-Veiny-Balls", a prank name. He doesn't reveal his real name to anyone and refuses to sign contracts, but he's a master craftsman, so people put up with his bullshit. He's the distributor behind the Harry nari gels coming out of Sanbi: he sells them so cheap that nobody knows how he turns a profit, and he looked as if he had zero experience trading (Arc #4, Books 14 and 15).
+
+- **Race:** WIP.
+- **Birthday:** WIP.
+- **Attracted to:** WIP.
+- **Myers-Briggs:** WIP.
+- **Interface:** WIP.
+
 # Itagiba Sanbi Royal
 
 The only son of the Royal guild of the Sanbi Kingdom; his father, Celerino, and his mother, both extremely jokey free spirits, passed away some time ago. He spent a good chunk of his teens exploring instead of going to school to become a better leader, so there are likely at least a few illegitimate children of his out there. He made friends along the way, but never told them who he was: he traveled as an adventurer under a fake name, "Juno Triangle Trader", and a fake appearance (adventurers are the easiest people to spot in Vraki). In 1013 A.G. he met [Gabiro](#gabiro-sanbi-royal) while visiting a brewery where Gabiro worked.

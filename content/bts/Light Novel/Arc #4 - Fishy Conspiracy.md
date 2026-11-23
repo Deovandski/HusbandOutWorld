@@ -338,7 +338,7 @@ She'll appear more, to instigate Eori and Eiri onto a "good" path… (still open
 #### Ryo and Katsuki at {WIP-ryoDistributor}'s
 
 - {WIP-ryoDistributor} and Ryo meet, and Ryo introduces his business partner. {WIP-ryoDistributor} explains the gels came from the Sanbi Kingdom: some random guy is mass-producing them and sending them to the four corners of the world.
-- Ryo: "Do you think they're turning a profit?" {WIP-ryoDistributor}: "If they use Cruro labor and didn't pay this guy, then maybe a Pearl per nari gel? My prices here are shipping plus 25%, and it's barely selling." "What's the price of knowing who sold to you?" {WIP-ryoDistributor} pulls a contract from his table. "It's on the house. Looks can be deceiving, but {WIP-sanbiGelSeller} looked like he had zero experience trading. He even looked like he didn't care whether he turned a profit."
+- Ryo: "Do you think they're turning a profit?" {WIP-ryoDistributor}: "If they use Cruro labor and didn't pay this guy, then maybe a Pearl per nari gel? My prices here are shipping plus 25%, and it's barely selling." "What's the price of knowing who sold to you?" {WIP-ryoDistributor} pulls a contract from his table. "It's on the house. Looks can be deceiving, but [Lick](/lore/characters/#lick) looked like he had zero experience trading. He even looked like he didn't care whether he turned a profit."
 - Ryo: "Really?" *Then this is a classic case of sending a message, but to whom? The Red Winga? Could they be sending a message to my girls? This could be the chance to cut ties with the Red Winga for good.* He contracts {WIP-ryoDistributor} to spread the new whorehouse flyers to all the villages for him. He was going to find someone in Forway, but {WIP-ryoDistributor} has proved good in the past.
 
 # Book 14 - Nari Gel Bait › Epilogue
@@ -352,7 +352,7 @@ She'll appear more, to instigate Eori and Eiri onto a "good" path… (still open
 
 #### Eiri and Sora at a stand; Harry's face (just as he was, fat and all) is one of the items for sale
 
-- The vendors say it's from their distributor, and if they have a problem, they should take it up with him. They ask who he is. "A round, hairy dude called Lick, from the guild My-Veiny-Balls." He laughs as [Eiri](/lore/characters/#eiri-sanbi-royal) and [Sora](/lore/characters/#sora-sanbi-blue-glass) walk away.
+- The vendors say it's from their distributor, and if they have a problem, they should take it up with him. They ask who he is. "A round, hairy dude called [Lick](/lore/characters/#lick), from the guild My-Veiny-Balls." (A prank name: he never reveals his real name, and refuses to sign contracts, but he's a master craftsman, so people put up with his bullshit.) The vendor laughs as [Eiri](/lore/characters/#eiri-sanbi-royal) and [Sora](/lore/characters/#sora-sanbi-blue-glass) walk away.
 - They realize Harry must be alive somewhere, and they need to talk with Coema to find out where. Sora argues it's pointless: the search quest never did anything, and Coema hasn't found Arukia yet. Eiri: "We must try! Can you imagine what Harry went through after he was kidnapped, right after starting his job as the Sanbi Eye?"
 
 #### Eiri and Sora with Coema
@@ -413,7 +413,7 @@ She'll appear more, to instigate Eori and Eiri onto a "good" path… (still open
 #### Ryo and Coema hug, Katsuki at his side (both in their normal appearance); a few Cruros around
 
 - Coema: "And who might you be?" Ryo: "My lovely assistant, Katsuki." Katsuki doesn't speak. Coema: "Did a Cruro eat your tongue?" Katsuki, embarrassed: "One—no." "One?" Ryo: "It's how she gets the words out. Give it a few minutes and you'll understand what she means. By the way, looks like the Newland expedition turned out pretty rewarding."
-- Coema: "Ryo, it's not too late to take me up on my offer." Ryo laughs, pulls Katsuki close and rubs her belly. "Tempting, yes, but I'll have to pass." Coema watches his hand. "I see. Well, I assume you came to see me for something other than my stories?" Ryo looks at Katsuki. "Go on."
+- Coema: "Ryo, it's not too late to take me up on my offer." (What the offer is stays between Ryo and Coema.) Ryo laughs, pulls Katsuki close and rubs her belly. "Tempting, yes, but I'll have to pass." Coema watches his hand. "I see. Well, I assume you came to see me for something other than my stories?" Ryo looks at Katsuki. "Go on."
 - Katsuki explains that she wants to buy Harry from her. Coema: "I see. So you two thought the Half-Cruro guild was making nari gels out of him?" Ryo: "Who else would go to the lengths of sending Cruros all over?" "True dat. It is our guild distributing them, but we aren't making them."
 - Katsuki cries: she wants to help Harry. Ryo explains that she and her sister had a falling-out with him, and she wants to rebuild bridges, and recaps what happened. Coema: "Arukia filled in some of the other details too."
 - A loud bang on the door. The Cruros prepare for battle. Coema: "Well, someone was smarter than us." The door opens, and a stranger leaps inside, straight at Coema; she doesn't flinch as the Cruros protect her. The stranger screams: "You fucking bitch! You lied! You used me!" Coema: "Who are you?"
@@ -462,10 +462,10 @@ She'll appear more, to instigate Eori and Eiri onto a "good" path… (still open
 - As they follow, Coema: "So Eori hired you, but do you have ulterior motives too?" Magi thinks of her vanished father, then glances at Coema, a mature woman who has likely lived through a whole lot. "My father disappeared, just like Harry." She furrows her brow. *A conspiracy that, I now think, some rich piece of shit was just laughing off.*
 - Coema: "Sorry to hear that. What was your guild again?" "Blue-Flower-Red-Bone." "I see. The name sounds familiar for some reason. Once this is all said and done, come see me for tea, and we can look through the Half-Cruro guild books." "Are you part of that guild?" "But of course. [Kiko](/lore/characters/#kiko-sanbi-half-cruro) founded it to enlighten the lives of the smarter Cruros coming from Cruroland. Why wouldn't I want to support such a great cause?" Magi: "Sure." She looks back at the carts. *While making a buttload of money. I bet you wouldn't care if the guild weren't so rich.*
 
-#### Eori, near dawn, jacked, flies over a house she's been to before
+#### Eori, near dawn, jacked, flies over the hideout where she once kept Harry
 
-- Eori: *I can't believe she's taking that bitch's body to my house!* Anger flares. She swoops in, crashing through a window on the upper floor. "Morika" (actually XX) climbs the stairs.
-- Eori and Morika fight. She gets the upper hand by using the environment against XX, then kills him. She ties his hands and feet and uses a Nari Refresher on the body, which turns back into XX. Eori, in a fury, stomps on its brain, splattering it across the floor.
+- Eori: *I can't believe she's taking that bitch's body to my house!* Anger flares. She swoops in, crashing through a window on the upper floor. "Morika" (actually {WIP-morikaDecoy}) climbs the stairs.
+- Eori and Morika fight. She gets the upper hand by using the environment against {WIP-morikaDecoy}, then kills him. She ties his hands and feet and uses a Nari Refresher on the body, which turns back into {WIP-morikaDecoy}. Eori, in a fury, stomps on its brain, splattering it across the floor.
 - She goes downstairs to search for Harry, but only finds Arukia's body against the wall. Her anger builds toward Arukia for everything she did to Harry, and to her. She drags the body downstairs, adds more nari gel, and tries to revive her. Nothing. Eori punches Arukia in the chest, breaking her ribs, and keeps punching as tears stream from her eyes.
 
 # Book 15 - A Game of Minari › Epilogue

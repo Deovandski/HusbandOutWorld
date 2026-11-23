@@ -306,3 +306,9 @@ See CH1 to CH21.
 
 - The Website Description of each character (the public text, already shown on the page).
 - The Documentation Notation is abridged with the author's answer to CH5 (Books 1 to 4 in 1039 A.G.) and a link to the characters' Soul Energy spreadsheet.
+
+## Lick (2026-11-23, from Arc #4 A4-15)
+
+> A4-15: Yes. Prank name. He does not reveal his actual to anyone and refuses to sign contracts, but he is a master craftsman so people put up with his bullshit (write a character entry for him, and for the stuff not yet know about the character leave it as WIP like age.)
+
+New entry, under Sanbi (where he sells from). Sources: the author's answer; Arc #4 Book 15 Prologue ("a round, and hairy dude called Lick, from the guild My-veiny-balls"); Book 14 Chapter 4 ("LLK looked as if he had zero experience trading… did not care if he turned a profit"). Unknowns (race, birthday, attraction, Myers-Briggs, interface) are WIP. Added to the raw display via `content/fixes.json` and to the abridged Characters.

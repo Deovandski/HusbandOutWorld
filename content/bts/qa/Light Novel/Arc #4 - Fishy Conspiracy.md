@@ -100,3 +100,21 @@ Questions:
 - **A4-16:** Chapter 3: Coema tells Ryo "it's not too late to take me up on my offer", and he pats Katsuki's belly and passes. What was the offer?
 - **A4-17:** Chapter 5: the decoy "Morika (actually is XX)" whom Eori kills. A name, or {WIP-…}? And "my house": the house where Eori kept Harry before (Chapter 1's setup looks like it)?
 - **A4-18:** Chapter 4 to 5: Morika bashes Arukia's head in, and Eori can't revive her ("Nothing"). Is Arukia dead for good, or does someone bring her back later?
+
+Author's answers (batch 4):
+> A4-15: Yes. Prank name. He does not reveal his actual to anyone and refuses to sign contracts, but he is a master craftsman so people put up with his bullshit (write a character entry for him, and for the stuff not yet know about the character leave it as WIP like age.)
+> A4-16: it is not know. Only between Ryo and Coema (unless you find something I wrote about it on the notes)
+> A4-17: keep wip. Also it is the hideout she kept Harry before.
+> A4-18: can you bring up more info as to why she can't revive her? Arukia will be alive in the end.
+
+Applied:
+- A4-15: Lick = Book 14's "LLK" (the Book 14 text now names and links him instead of {WIP-sanbiGelSeller}); not Morika. New character entry **Lick** (World Lore › Characters, under Sanbi), in the raw display via `content/fixes.json` and in the abridged Characters; race, birthday, attraction, Myers-Briggs and interface are WIP. Book 15's prologue explains the prank name.
+- A4-16: searched Legacy; the offer appears nowhere else. Added "(What the offer is stays between Ryo and Coema.)"
+- A4-17: the decoy is {WIP-morikaDecoy}; the house is "the hideout where she once kept Harry".
+
+A4-18: why Eori can't revive "Arukia" (what Legacy says):
+- Book 16, Chapter 2 (raw notes): the real Arukia is alive, chained in Neferteri's hideout while Morika tortures her; a messenger reports that "safehouse X" (Eori's old hideout) was invaded upstairs and the decoy X killed. So the body Eori finds in her old hideout is most likely **not Arukia**: it's another decoy, like the five Morikas.
+- Revival rules (Science › Soul Energy; Darfaries Interface): a young adult's revival is "virtually guaranteed", so a fresh Arukia should have come back. A revival fails when the soul can't reconnect to its flesh: soul death (detachment), worn-down genetic material (a body almost fully decomposed), or someone very young or very old.
+- Eori skips the first step: she uses Nari Refresher on the fake Morika (which reveals him), but on "Arukia" she only adds more nari gel. Nari Refresher would have undone the body mods and shown whose body it really was.
+
+- **A4-19:** Suggested explanation: the body in Eori's old hideout is a decoy, an already soul-dead corpse (or one too far gone) dressed up as Arukia with nari gel, so no revival can work; Eori, blinded by anger, never uses Nari Refresher on it, so she doesn't find out. Okay to add that as a note in Chapter 5?
