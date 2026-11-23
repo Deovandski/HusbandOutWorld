@@ -9,3 +9,9 @@ Filled from the site:
 Questions:
 - **SA-1:** Arc #3's summary says it "ends with being found, and with Magi's help, they flee Forway", but in the notes Magi finds Harry in Arc #4 (Book 13), and nobody flees Forway yet. Keep the summary as written, or move that ending to Arc #4?
 - **SA-2:** Arc #4 has no summary. Want one written from Books 12 to 16 (for you to approve), or keep "No summary yet"?
+
+Author's answers:
+> Sa-1 move to arc #4.
+> Sa-2: keep as no summary yet.
+
+Applied: Arc #3 now only "starts with Desmond waking up from a coma and deciding to flee his past as Harry"; Arc #4 reads "No summary yet, except how it ends: Harry is found, and flees Forway with Magi's help." (Abridged only; the raw outline is unchanged.)

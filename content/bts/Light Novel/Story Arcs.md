@@ -14,11 +14,11 @@ Starts with Harry waking up in the forest, and ends with him exploding after bec
 
 # Arc #3 - Tasty Lie
 
-Starts with Desmond waking up from a coma and deciding to flee his past as Harry, and ends with him being found, and fleeing Forway with Magi's help. Story notes: [Books 9 to 11](/novel/arc-3/).
+Starts with Desmond waking up from a coma and deciding to flee his past as Harry. Story notes: [Books 9 to 11](/novel/arc-3/).
 
 # Arc #4 - Fishy Conspiracy
 
-No summary yet. Story notes: [Books 12 to 16](/novel/arc-4/).
+No summary yet, except how it ends: Harry is found, and flees Forway with Magi's help. Story notes: [Books 12 to 16](/novel/arc-4/).
 
 # Arc #5 - New Life
 
