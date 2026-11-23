@@ -1,4 +1,8 @@
 {
+ "03acadced801": {
+  "en": "<strong>Nari stones:</strong> one stone for Tier I, two for Tier II, four for Tier III, and so on. Once used, a nari stone turns diamond-like as its blue hue fades.",
+  "t": "<strong>纳里石：</strong>I 级一块，II 级两块，III 级四块，以此类推。用过之后，纳里石的蓝色会褪去，变得像钻石一样。"
+ },
  "07b9494886d6": {
   "en": "Using The Interface - Feed",
   "t": "使用界面 - 注入"
@@ -15,33 +19,101 @@
   "en": "This is where some progress has been made in extending the interface framework! Nobody has successfully transformed the OBJECT and VERB structure of the interface—but they have been able to increase the information density of the object while retaining consistent casting.",
   "t": "在扩展界面框架方面，这里取得了一些进展！还没有人成功改变界面的“对象和动词”结构——但他们已经能够在保持稳定施法的同时，提高对象的信息密度。"
  },
+ "0d754b757652": {
+  "en": "Copper → Zinc",
+  "t": "铜 → 锌"
+ },
  "0dd08d5e4d8c": {
   "en": "As you feed a specific command and energy into the interface, you will see balls representing the command. You can never mix and match commands; only one command + energy + release may be executed. Below is a plain reference of the different ball statuses",
   "t": "当你向界面输入特定的指令和能量时，你会看到代表该指令的球。指令永远不能混搭；只能执行一个指令 + 能量 + 释放。以下是不同球状态的简单参考"
+ },
+ "0e4e80712ada": {
+  "en": "Shock VERB",
+  "t": "肖克 VERB"
+ },
+ "10668848ecf1": {
+  "en": "Gold → Mercury",
+  "t": "金 → 汞"
+ },
+ "117351fd0784": {
+  "en": "Healing with Body Restore",
+  "t": "用博迪里斯托尔治疗"
  },
  "11aa2b4fa9b9": {
   "en": "Full Darfaries Interface - scribling and soul energy stone mode (video)",
   "t": "完整达尔法里斯界面 - 涂写与灵魂能量石模式（视频）"
  },
+ "11cd9fd209af": {
+  "en": "Missing legs or arms",
+  "t": "失去腿或手臂"
+ },
+ "124ba39cf2f3": {
+  "en": "Earth VERB",
+  "t": "厄斯 VERB"
+ },
  "12ef1365e090": {
   "en": "But hey, at least your best friend might be honored to be stuffed and cooked—vorarephilia is a thing anyways.",
   "t": "不过嘿，至少你最好的朋友也许会因为被填馅烹饪而感到荣幸——反正吞食癖也是存在的。"
+ },
+ "132a84ea1843": {
+  "en": "<strong>Create:</strong> tries to recreate the target's body, born where the spell was started. It must be fed Black Honey to grow the clone, and it stays lifeless unless the original is killed, since only one being can connect to a soul. Cloning yourself shortens your lifespan and raises your cancer risk, because the soul's link is forced to thin out, so it's heavily discouraged.",
+  "t": "<strong>创造：</strong>试图在咒语启动的地方重新创造出目标的身体。必须喂它黑蜜来让克隆体长大，而且除非原体被杀，否则它始终没有生命，因为只有一个生命体能连接一个灵魂。克隆自己会缩短寿命、增加患癌风险，因为灵魂的连接被迫变得稀薄，所以强烈不建议这么做。"
+ },
+ "1364798c2866": {
+  "en": "Nari Refresher, injected with a glass syringe, undoes nari gel body mods.",
+  "t": "用玻璃注射器注射纳里里弗雷舍，撤销纳里凝胶的身体改造。"
  },
  "13ef126e315c": {
   "en": "To not have any significant amount means you likely came from a bloodline that lived far remote or perhaps outside the four kingdoms, as free commerce and right of passage are perfectly positive correlations with mixing biological fluids between species.",
   "t": "如果你没有相当数量的这种血统，那很可能意味着你来自一个生活在偏远地区、或者也许在四王国之外的血脉，因为自由贸易和通行权与物种之间体液的混合完全呈正相关。"
  },
+ "154544b93e9e": {
+  "en": "Spells in this category can be released into an object, or in the air, or as a projectile if you cock your arm back and release the spell as you push it forward.",
+  "t": "这个类别的咒语可以释放到物体里、空气中，或者把手臂往后拉、往前推的同时释放咒语，作为投射物。"
+ },
+ "19e2f002b0a7": {
+  "en": "This is where some progress has been made in extending the interface. Nobody has managed to change its OBJECT and VERB structure, but people have packed more information into the object while keeping the casting consistent. Forway hasn't approved a new compound object for sigil rings in a while: there's a single requirement, but it's incredibly tough to meet. Random passersby are asked to use the experimental sigil ring, and if any of them miscasts, the compound object isn't approved.",
+  "t": "这就是在扩展界面方面取得了一些进展的地方。没人能改变它“对象与动词”的结构，但人们已经在保持施法稳定的同时，往对象里塞进了更多信息。福威已经有一段时间没批准过新的西吉尔环复合对象了：要求只有一个，却极难满足。随机找来的路人会被要求使用实验性的西吉尔环，只要其中任何一个人施法失误，这个复合对象就不会获批。"
+ },
+ "1e9148fad723": {
+  "en": "Cat. Elemental",
+  "t": "类别：元素"
+ },
+ "2142eb994fdb": {
+  "en": "Among researchers, a faint rumor calls it \"Uncontrolled Create\".",
+  "t": "在研究者之间流传着一个模糊的传言，称它为“失控的创造”。"
+ },
  "23d178528dd4": {
   "en": "Ring #5 (closest to elbow): 50*",
   "t": "第 5 环（最靠近手肘）：50*"
+ },
+ "254617659d40": {
+  "en": "One or two deeper cuts and minor blood loss",
+  "t": "一两处较深的割伤和轻微失血"
  },
  "26d10a4d512d": {
   "en": "Instead of fingers, you can use nari stones sticks to feed power without using yours, or someone else's, Soul Energy.",
   "t": "除了手指，你还可以用纳里石棒来注入能量，而不必使用你自己或别人的灵魂能量。"
  },
+ "277f47c12f8c": {
+  "en": "<strong>Tiers:</strong> the more soul energy (and flesh) put in, the higher the chance of getting a soul to your specifications. The more things you seek in a soul, the more its power is diluted across those skills: ask for someone good at singing, baking and herding, and the energy poured in will most likely be spread evenly among the three. At times the distribution comes out erratic, because the spell \"captures\" and summons a soul in decay that happens to match the summoner's requirements. It also de-ages the target soul.",
+  "t": "<strong>等级：</strong>投入的灵魂能量（和血肉）越多，得到一个符合你规格的灵魂的几率就越高。你在一个灵魂身上追求的东西越多，它的力量就越会被分散到这些技能上：如果你要一个擅长唱歌、烘焙和放牧的人，注入的能量很可能会平均分配到这三项上。有时分配会变得很不稳定，因为咒语“捕获”并召唤了一个恰好符合召唤者要求的正在腐朽的灵魂。它还会让目标灵魂变年轻。"
+ },
  "2853d1cbd2ea": {
   "en": "Simple Objects",
   "t": "简单对象"
+ },
+ "2874ac07bfa0": {
+  "en": "Ice VERB",
+  "t": "艾斯 VERB"
+ },
+ "2ca369f05b2d": {
+  "en": "Nari sticks (nari stones chained together) fuel the spell. A single-use nari stick is spent in one cast, and they aren't cheap.",
+  "t": "纳里棒（串在一起的纳里石）为咒语提供能量。一次性的纳里棒施一次法就耗尽了，而且它们并不便宜。"
+ },
+ "2dba29a226b6": {
+  "en": "<strong>Destroy:</strong> tries to destroy the target's whole body. At low tiers it only causes internal or external bleeding; medium tiers can cause convulsions; high tiers cause an explosion.",
+  "t": "<strong>毁灭：</strong>试图摧毁目标的整个身体。低等级时只会造成内出血或外出血；中等级可能引起抽搐；高等级会引发爆炸。"
  },
  "2e99783c4368": {
   "en": "Controlled Flight",
@@ -51,6 +123,18 @@
   "en": "This widely-known interface came up as a merger between the ancient species Fuhraies’s, Buhraies’s, and Lishies’s genetics and their own interfaces. One would assume that would lead to one of the most potent, versatile interfaces that would be as, if not more, powerful than Buhraies interface. In some ways, it is as it gels incredibly well with sigil rings or drawing logograms on it, as you don’t even have to think about it once you get the hand coordination just right. However, this came at the expense that if you do not draw a logogram, it is nearly impossible to control it.",
   "t": "这种广为人知的界面，是古老种族弗莱斯、布莱斯和利希斯的基因与他们自己的界面融合而来。人们会以为，这将造就一种最强大、最多用途的界面，和布莱斯界面一样强大，甚至更强。在某些方面确实如此，因为它与西吉尔环或在上面画语标文字配合得非常好，一旦手部协调做对了，你甚至都不用去想。然而，代价是如果你不画语标文字，就几乎不可能控制它。"
  },
+ "304bfc2c3ef8": {
+  "en": "Among certain researchers, a faint rumor says it can also be used as \"Uncontrolled Create\", with bigger potential gains and risks.",
+  "t": "在某些研究者之间流传着一个模糊的传言，说它也可以被当作“失控的创造”来用，潜在的收获和风险都更大。"
+ },
+ "308ba49d2897": {
+  "en": "Casting a spell",
+  "t": "施放咒语"
+ },
+ "30c372919601": {
+  "en": "Near-instant regeneration, if there's enough fat or Black Honey to heal with",
+  "t": "近乎瞬间的再生，前提是有足够的脂肪或黑蜜来治疗"
+ },
  "35e10a8d52ff": {
   "en": "Variant Verbs",
   "t": "变体动词"
@@ -59,17 +143,53 @@
   "en": "Such a feat did claim a lot of street creds among scientists but also a lot of enemies. Not enemies in the traditional sense, as we’re talking a bunch of nerdy scientists that fight with pens and papers rather than bloody means… Except for some who tried to get physical with Gabiro, but when he was younger, he was not as defenseless as one might expect from a shut-in.",
   "t": "这样的壮举确实在科学家中为他赢得了很多声望，但也树了很多敌人。不是传统意义上的敌人，因为我们说的是一群用笔和纸而不是用血腥手段战斗的书呆子科学家……除了一些试图和加比罗动手的人，但他年轻时，可不像人们以为的宅男那样毫无还手之力。"
  },
+ "37e04d60d2e6": {
+  "en": "<strong>What happened in Vol 1, Chapter 1:</strong> Gabiro was trying to bind a specific soul. A lack of proper concentration and not enough nari power made all the soul and body genetic information suddenly meld, triggering a White Hole event, and the soul energy of everyone involved fused into a single being. In that event, a nearly decayed soul (Harry's) was bound by pure chance. What was left of the soul tied to the bagarisa corpse used in the \"summoning ritual\" was wildly different from Harry's. When the explosion happened, Gabiro's own soul was fused into the mix too, and Harry's soul absorbed the capacity of all three. That's how Harry woke up able to speak Vraki, the common language, and why he later develops a custom interface (Vol 4).",
+  "t": "<strong>第 1 卷第一章发生了什么：</strong>加比罗当时试图绑定一个特定的灵魂。由于注意力不够集中，纳里的能量也不足，所有的灵魂和身体遗传信息突然融合在一起，引发了一次白洞事件，所有参与者的灵魂能量融合成了一个生命体。在这次事件中，一个几乎已经腐朽的灵魂（哈利的）纯粹出于偶然被绑定了。“召唤仪式”中使用的巴加里萨尸体所连着的残余灵魂，和哈利的截然不同。爆炸发生时，加比罗自己的灵魂也被融了进去，而哈利的灵魂吸收了这三者的容量。这就是为什么哈利醒来时能说弗拉基语这种通用语言，也是为什么他后来发展出了一个定制的界面（第 4 卷）。"
+ },
+ "38819f04d9eb": {
+  "en": "Blank sigil rings are forbidden, to prevent accidents. Only courtroom scientists and Aquamarine or Sapphire adventurers may use them, to experiment with new spells.",
+  "t": "空白的西吉尔环是被禁止的，以防发生意外。只有宫廷科学家和阿夸马林级或萨菲尔级冒险者可以使用，用来试验新咒语。"
+ },
+ "398793d966e2": {
+  "en": "Manganese → Iron",
+  "t": "锰 → 铁"
+ },
+ "3a54978fb627": {
+  "en": "Platinum → Gold",
+  "t": "铂 → 金"
+ },
+ "3c410b0a889e": {
+  "en": "Dust VERB",
+  "t": "达斯特 VERB"
+ },
  "3d33ae375a2b": {
   "en": "The rings themselves can only hold so much, although as far as everyone knows, nobody except probably Buhraies or perhaps only the primordial species Finaies could cast such a spell at a world-changing scale.",
   "t": "这些环本身能容纳的能量是有限的，不过据大家所知，除了大概布莱斯、或者也许只有原初种族菲奈斯之外，没有人能以改变世界的规模施放这样的法术。"
+ },
+ "3e4dc5c341ad": {
+  "en": "A piece of someone's flesh can be grown with Body Restore to see their real body (to identify a disguised intruder, for example).",
+  "t": "用博迪里斯托尔培养某人的一块血肉，就能看到他真实的身体（比如用来识别伪装的入侵者）。"
+ },
+ "3fe9f0d4a994": {
+  "en": "<strong>Create:</strong> tries to create objects from the target using all the elements around. Have the elements it's made of nearby to improve the odds.",
+  "t": "<strong>创造：</strong>试图利用周围所有的元素，从目标中创造出物体。把构成它的元素放在附近可以提高成功率。"
  },
  "402c5a0d838c": {
   "en": "21 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "本页另有 21 个条目仅在<button class=\"linklike\" data-go-bts>幕后</button>中提供。"
  },
+ "408579690be8": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts other bodies. With no target, the soul flame simply evaporates.",
+  "t": "<strong>排斥/吸引：</strong>目标排斥或吸引其他物体。没有目标时，灵魂之火就会直接蒸发。"
+ },
  "42463c89d747": {
   "en": "Using The Interface - Setup",
   "t": "使用界面 - 准备"
+ },
+ "42c245d29157": {
+  "en": "Material manipulation is an experimental Darfaries research branch, meant to manipulate the world around.",
+  "t": "物质操控是达尔法里斯研究中的一个实验性分支，旨在操控周围的世界。"
  },
  "430a66b55695": {
   "en": "{BodyPart} VERB",
@@ -79,9 +199,41 @@
   "en": "It has been a while since Forway approved a new compound object for sigil rings. There is a single requirement, but succeeding is incredibly tough!",
   "t": "福威已经有一段时间没有批准新的复合对象用于西吉尔环了。要求只有一个，但要成功却难如登天！"
  },
+ "450b29b2cf51": {
+  "en": "<strong>Someone's soul energy:</strong> when the person touches their middle and ring fingers, the Darfaries veins in their hand light up with soul flame (every race that came after the ancient species has them: Darfaries, Wozefaries, Sorefaries and humans), and the caster's other hand \"eats\" the flames.",
+  "t": "<strong>某人的灵魂能量：</strong>当这个人触碰中指和无名指时，他手上的达尔法里斯脉络就会亮起灵魂之火（古老物种之后出现的每个种族都有：达尔法里斯、沃泽法里斯、索雷法里斯和人类），施法者的另一只手就会“吃”掉这些火焰。"
+ },
  "450d017ad77c": {
   "en": "Then stick out your middle and ring fingers and touch them on the logograms of the open palm.",
   "t": "然后伸出中指和无名指，触碰张开的手掌上的语标文字。"
+ },
+ "458fa8521bce": {
+  "en": "<strong>Increase/Decrease:</strong> the target grows or shrinks, but its weight stays the same, since its density changes. If the density goes up too much, the item shrinks into infinity and disappears forever. It can harm an item whose function depends on its density. It can turn one metal into another through fusion, but it explodes most of the time.",
+  "t": "<strong>增大/缩小：</strong>目标变大或变小，但重量保持不变，因为它的密度发生了变化。如果密度增加得太多，物品会缩小到无穷小，永远消失。它可能会损坏功能依赖于密度的物品。它可以通过聚变把一种金属变成另一种，但大多数时候会爆炸。"
+ },
+ "46020650f5bc": {
+  "en": "<strong>Disassemble:</strong> tries to explode the body.",
+  "t": "<strong>拆解：</strong>试图让身体爆炸。"
+ },
+ "460f450c5a7f": {
+  "en": "<strong>Increase/Decrease:</strong> behaves like Create/Destroy.",
+  "t": "<strong>增大/缩小：</strong>和创造/毁灭的效果一样。"
+ },
+ "47fb12785962": {
+  "en": "A missing head",
+  "t": "失去头"
+ },
+ "48b4259f25a7": {
+  "en": "<strong>Destroy:</strong> explodes the target into a shower of extremely fine particles and gas, basically a fine dust; at lower tiers, it might only destroy the object's outer shell.",
+  "t": "<strong>毁灭：</strong>把目标炸成一阵极细的颗粒和气体，基本上就是细尘；在较低的等级，它可能只会摧毁物体的外壳。"
+ },
+ "4966438ddf0f": {
+  "en": "Researchers don't fully understand the process. In reality, the spell doesn't create a soul: it tries to pull a disconnected soul into the flesh you want, where it melds with that flesh's own leftover soul connections into a final hybrid. Sex and giving birth are somewhat like that process too: giving new life is basically mixing two souls, giving part of yourself for a newborn to form.",
+  "t": "研究者们并不完全理解这个过程。实际上，这个咒语并不会创造灵魂：它试图把一个断开连接的灵魂拉进你想要的血肉里，让它和那具血肉自己残留的灵魂连接融合，形成最终的混合体。性爱和生育在某种程度上也像这个过程：赋予新生命基本上就是混合两个灵魂，把自己的一部分交出去，让一个新生儿成形。"
+ },
+ "4e20ac3a2fdc": {
+  "en": "Shock Create restarts the heart. Storm Create at Tier II or more also works (higher the fatter the person), but it creates a localized storm that harms the skin, so it's more of a \"punishment revival\".",
+  "t": "肖克克里埃特让心脏重新跳动。II 级或以上的斯托姆克里埃特也行（人越胖等级越高），但它会造成一场局部风暴，伤害皮肤，所以更像是一种“惩罚性复活”。"
  },
  "4e68b482c7fd": {
   "en": "If you see one of those in a sigil, then for sure it was manufactured before 987 A.G! Some even collect those as trinkets, which increased their price, which then brought fakes to be manufactured. Seeing the shitstorm developing, Forway officialized production of the old versions, which dismantled the market for it, and the problem was solved! Still, lots of people were pissed, but at least it stopped the grift.",
@@ -95,17 +247,57 @@
   "en": "Cat. Body",
   "t": "类别 身体"
  },
+ "503bdeb70c12": {
+  "en": "Multiple broken bones and major blood loss",
+  "t": "多处骨折和大量失血"
+ },
+ "5255c62e691b": {
+  "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Darfaries shells appear as you do. With a sigil ring:",
+  "t": "<strong>启动咒语。</strong>握紧持有咒语和灵魂能量的那只手的手指。你这样做的时候，达尔法里斯壳就会出现。用西吉尔环时："
+ },
+ "528b9fb4db2c": {
+  "en": "<strong>Increase/Decrease:</strong> the whole body grows or shrinks.",
+  "t": "<strong>增大/缩小：</strong>整个身体变大或变小。"
+ },
+ "55f999e07aab": {
+  "en": "Restore and Create started out as two different spells. But the logograms are an interface to raw soul energy, whose meaning all users share as fact, and over time both came to mean the same thing: regrow what's missing from the body, be it a finger, or everything else if only a finger is left. If no genetic information remains, see Cat. Soul or other interfaces.",
+  "t": "恢复和创造起初是两个不同的咒语。但语标文字是通往原始灵魂能量的界面，它们的含义被所有使用者当作事实共享，随着时间推移，两者变成了同一个意思：长出身体缺失的部分，可以是一根手指，也可以是在只剩一根手指时长出其余的一切。如果没有留下任何遗传信息，见类别：灵魂或其他界面。"
+ },
  "560c3c8d4c6b": {
   "en": "Ring #1 (closest to wrist): 2",
   "t": "第 1 环（最靠近手腕）：2"
+ },
+ "57a8586e6216": {
+  "en": "Interface shells",
+  "t": "界面壳"
  },
  "583b25caa114": {
   "en": "Healing is also often performed through this interface due to its abundant nature or as a way to heal a living soul being affected by the nari gel interface without resetting its effects, as one interface cannot reset or manipulate another interface.",
   "t": "治疗也常常通过这种界面进行，因为它很常见，或者作为一种在不重置纳里凝胶界面效果的情况下治疗受其影响的活体灵魂的方法，因为一种界面无法重置或操纵另一种界面。"
  },
+ "595c54a14320": {
+  "en": "The mass affected follows the General Power Effects: 0.1 kg at Tier I, doubling with every tier (51.2 kg at Tier X).",
+  "t": "受影响的质量遵循一般威力效果：I 级 0.1 公斤，每升一级翻一倍（X 级 51.2 公斤）。"
+ },
+ "599af3d37f22": {
+  "en": "Mud VERB",
+  "t": "马德 VERB"
+ },
  "59ddf0bbb393": {
   "en": "Darfaries interface status: a glowing light-blue ring around a forearm with small colored icons orbiting it.",
   "t": "达尔法里斯界面状态：一个发光的浅蓝色环绕在前臂上，周围有彩色的小图标环绕运行。"
+ },
+ "5bd44ebe63cd": {
+  "en": "Tier",
+  "t": "等级"
+ },
+ "5c0704ac369f": {
+  "en": "A missing torso",
+  "t": "失去躯干"
+ },
+ "5c447d60de4b": {
+  "en": "V (largest, farthest from the hand)",
+  "t": "V（最大，离手最远）"
  },
  "5cb6d6625907": {
   "en": "Darfaries Interface · #HusbandOutWorld",
@@ -119,9 +311,21 @@
   "en": "Interface \"Balls\"",
   "t": "界面“球”"
  },
+ "5e59f0f13ed9": {
+  "en": "If healing isn't happening, the target must be fed Black Honey or another energy-dense food. Five bottles of Black Honey are like eating tens of 2,000-calorie junk food meals. It's expensive, but there's plenty to go around.",
+  "t": "如果治疗没有发生，就必须喂目标黑蜜或其他高能量食物。五瓶黑蜜相当于吃了几十顿 2,000 卡路里的垃圾食品。它很贵，但供应充足。"
+ },
  "5e6cc8d41ac1": {
   "en": "987 A.G, the one and only Gabiro Sanbi Royal, landed the formalization of Darfaries interface verbs and the addition of both Transmute and Entangle by creating a new version from the older interfaces. You could say he stole Right, Up, Down, Left, &amp; Rolls from other scientists claiming it, but he was the one who created a uniformity that no other scientists had in mind, so he took home all the glory.",
   "t": "987 A.G，独一无二的加比罗·桑比·罗亚尔通过在旧界面的基础上创造出一个新版本，完成了达尔法里斯界面动词的规范化，并加入了“嬗变”和“纠缠”。你可以说他从其他声称拥有这些的科学家那里偷来了“右、上、下、左和滚动”，但他才是那个创造出其他科学家都没想到的统一性的人，所以所有的荣耀都归了他。"
+ },
+ "61c1c4f2478a": {
+  "en": "The Buhraies either were more efficient with this interface or used something else that gave them a leg up. Forway made the Transmute symbol official purely to help research.",
+  "t": "布莱斯要么在使用这种界面时更有效率，要么用了别的东西让他们占了上风。福威把嬗变符号正式化，纯粹是为了帮助研究。"
+ },
+ "6462a34fdd62": {
+  "en": "Put lost limbs close to the body, so regrowing them doesn't take as much energy. Severe damage makes the body use a lot of energy to heal.",
+  "t": "把断掉的肢体放在身体附近，这样再生时不会消耗那么多能量。严重的损伤会让身体消耗大量能量来愈合。"
  },
  "66d73579e999": {
   "en": "176 (images illustration)",
@@ -131,25 +335,105 @@
   "en": "You must apply the logograms to the skin of one of your palms, or use sigil rings, then clench your fingers to start the interface while keeping the palm visible.",
   "t": "你必须把语标文字涂在一只手掌的皮肤上，或者使用西吉尔环，然后握紧手指来启动界面，同时让手掌保持可见。"
  },
+ "68fd817c6916": {
+  "en": "A sigil ring brings forth a spell: its logograms make soul energy mutate and do what the caster wants.",
+  "t": "西吉尔环能召出一个咒语：它的语标文字让灵魂能量变异，去做施法者想做的事。"
+ },
+ "69722a5e4037": {
+  "en": "Gravity VERB",
+  "t": "格拉维蒂 VERB"
+ },
  "69776ca57e19": {
   "en": "*At least that’s what scientists calculated, as no official Forway record of an exceedingly high-tier spell being cast exists.",
   "t": "*至少科学家是这么计算的，因为福威没有任何关于施放极高级别法术的官方记录。"
+ },
+ "6b174442593e": {
+  "en": "What each tier can heal:",
+  "t": "每个等级能治疗什么："
+ },
+ "6b805f489c01": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts everything around it (gravity still affects it). With no target, the soul flame simply evaporates.",
+  "t": "<strong>排斥/吸引：</strong>目标排斥或吸引周围的一切（仍然受重力影响）。没有目标时，灵魂之火就会直接蒸发。"
  },
  "6bb5f88148f9": {
   "en": "Ring #3: 18",
   "t": "第 3 环：18"
  },
+ "6bf9374ceec0": {
+  "en": "Body VERB",
+  "t": "博迪 VERB"
+ },
+ "6cf9bf72fbec": {
+  "en": "<strong>Restore/Disassemble:</strong> draws the element into the target from its surroundings, or explodes it out of the target into its surroundings.",
+  "t": "<strong>恢复/拆解：</strong>从周围把元素吸进目标，或者把元素从目标里炸到周围。"
+ },
  "6d5c5b3cf877": {
   "en": "Using the Darfaries Interface is a process of its own. Though, like riding an egua, once you learn it, it just becomes second nature.",
   "t": "使用达尔法里斯界面本身就是一个过程。不过，就像骑埃瓜一样，一旦学会了，就会变成第二天性。"
+ },
+ "6d7e4622451a": {
+  "en": "Body manipulation spells are easier to cast, but they can be risky if the caster doesn't know the side effects. Some people may develop side effects not listed here.",
+  "t": "身体操控咒语更容易施放，但如果施法者不了解副作用，可能会有风险。有些人可能会出现这里没有列出的副作用。"
+ },
+ "6d98ffb6c2df": {
+  "en": "When the body runs out of fuel, Black Honey finishes the healing, so the target doesn't turn skeletal from undernourishment.",
+  "t": "当身体耗尽燃料时，用黑蜜完成治疗，免得目标因营养不良而变得骨瘦如柴。"
+ },
+ "6fadfb89a110": {
+  "en": "<strong>Verb:</strong> the change being applied. With no verb, the soul energy falls back on the caster's own idea of what it should do.",
+  "t": "<strong>动词：</strong>施加的变化。没有动词时，灵魂能量会退回到施法者自己对它该做什么的想象上。"
+ },
+ "703d02d20cde": {
+  "en": "In short: choose the spell, put energy into it, and release it. A spell has two parts:",
+  "t": "简而言之：选择咒语，往里面注入能量，然后释放它。一个咒语有两个部分："
+ },
+ "705649a46934": {
+  "en": "Frozen Earth VERB",
+  "t": "弗罗森厄斯 VERB"
+ },
+ "7135a4e587c8": {
+  "en": "Ash VERB",
+  "t": "阿什 VERB"
+ },
+ "724c8389bd95": {
+  "en": "Steam VERB",
+  "t": "斯蒂姆 VERB"
  },
  "73b453b0f98a": {
   "en": "Forway considered banning non-logogram usage of this interface in the early 800s A.G., but the scientific community's pushback was too strong. Community opinion shifted in the early 900s A.G. after many scientific tragedies occurred without clear progress. By the late 900s A.G., only fringe scientists like Gabiro Sundeath (also known as Gabiro Sanbi Royal) seemed to be still investigating it.",
   "t": "福威曾在 800 年代初（A.G.）考虑禁止不使用语标文字来使用这种界面，但科学界的反对太强烈了。900 年代初（A.G.），在发生了许多没有明显进展的科学悲剧之后，舆论发生了转变。到了 900 年代末（A.G.），似乎只有像加比罗·桑德斯（又名加比罗·桑比·罗亚尔）这样的边缘科学家还在研究它。"
  },
+ "756bf4c104c4": {
+  "en": "<strong>Uses:</strong> mainly to entangle the sounds reaching people's ears, so they all hear the same thing. It can be overwhelming: sounds echo when people are close to each other, and it gets harder to tell where sounds other than voices are coming from.",
+  "t": "<strong>用途：</strong>主要用来纠缠传到人们耳朵里的声音，让他们都听到同样的东西。这可能会让人吃不消：当人们靠得很近时，声音会产生回响，而且除了人声以外的声音会更难分辨来自哪里。"
+ },
+ "76c79f05025e": {
+  "en": "Sigil rings",
+  "t": "西吉尔环"
+ },
+ "76f489077f50": {
+  "en": "Storm VERB",
+  "t": "斯托姆 VERB"
+ },
+ "7802ad32f0ce": {
+  "en": "Verbs",
+  "t": "动词"
+ },
+ "78c2d1c75d87": {
+  "en": "Either way, a miscast explodes in soul flame in the caster's hands.",
+  "t": "无论哪种情况，施法失误都会在施法者手中爆出灵魂之火。"
+ },
+ "7a91c4983d68": {
+  "en": "World VERB",
+  "t": "沃尔德 VERB"
+ },
  "7c67e01db87c": {
   "en": "Full Darfaries Interface - Sigil and Nari stone mode",
   "t": "完整达尔法里斯界面 - 西吉尔与纳里石模式"
+ },
+ "7cde42e1eb31": {
+  "en": "Transmute",
+  "t": "嬗变"
  },
  "7df913eb7771": {
   "en": "Ring #2: 8",
@@ -159,21 +443,69 @@
   "en": "To release the spell, unclench the fingers. To add motion to the spell, cock your arm, then throw it towards the target to transfer the inertia into the spell.",
   "t": "要释放法术，松开手指即可。要给法术加上运动，就把手臂向后拉，然后朝目标一甩，把惯性传给法术。"
  },
+ "83a077984fe7": {
+  "en": "The Buhraies created this interface as an enhancement to their own soul energy interface, in an attempt to control the Darfaries as a versatile army of foot soldiers.",
+  "t": "布莱斯创造这种界面，是作为他们自己的灵魂能量界面的增强版，企图把达尔法里斯控制成一支多面手的步兵大军。"
+ },
+ "840823ff59c1": {
+  "en": "<strong>Restore:</strong> shapes the item into the desired object by combining elements around the caster, basically the reverse of chemical reactions. Have the elements it's made of nearby to improve the odds; otherwise the repaired object may break again if the new connections aren't strong.",
+  "t": "<strong>恢复：</strong>通过组合施法者周围的元素，把物品塑造成想要的物体，基本上是化学反应的逆过程。把构成它的元素放在附近可以提高成功率；否则，如果新的连接不牢固，修好的物体可能会再次坏掉。"
+ },
+ "845f813c2b56": {
+  "en": "<strong>Tiers:</strong> the mass affected follows the General Power Effects (0.1 kg at Tier I, doubling with every tier).",
+  "t": "<strong>等级：</strong>受影响的质量遵循一般威力效果（I 级 0.1 公斤，每升一级翻一倍）。"
+ },
+ "85e7149e86b7": {
+  "en": "<strong>Revival, step by step</strong> (as Morika does it in Vol 4):",
+  "t": "<strong>复活步骤</strong>（就像莫里卡在第 4 卷中做的那样）："
+ },
  "889505c1f708": {
   "en": "This widely-known interface came up as a merger between the ancient species Fuhraies’s, Buhraies’s, and Lishies’s genetics and their own interfaces.",
   "t": "这种广为人知的界面，是古老种族弗莱斯、布莱斯和利希斯的基因与他们自己的界面融合而来。"
+ },
+ "8a4a4532c533": {
+  "en": "<strong>Apply the energy.</strong> Touch what you want to apply it to with your palm and straighten your fingers, or release the spell as it is for a ranged attack. Cock your arm and time it right for extra range. The caster's body feels the weight of the spell, like firing a gun.",
+  "t": "<strong>施加能量。</strong>用手掌触碰你想施加的对象并伸直手指，或者为了远程攻击直接把咒语释放出去。把手臂往后拉、抓准时机，可以打得更远。施法者的身体会感受到咒语的分量，就像开枪一样。"
+ },
+ "8ca6193582e9": {
+  "en": "Water VERB",
+  "t": "沃特 VERB"
+ },
+ "8d204a0435e5": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Darfaries%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Darfaries Interface.md</a>",
+  "t": "来源：<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Darfaries%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Darfaries Interface.md</a>"
  },
  "8f6687bd0076": {
   "en": "The “Veins”",
   "t": "“血管”"
  },
+ "930585f35c72": {
+  "en": "<strong>Choose the spell</strong> (see Language › Darfaries Interface Language). Either put on a sigil ring:",
+  "t": "<strong>选择咒语</strong>（见语言 › 达尔法里斯界面语言）。要么戴上一枚西吉尔环："
+ },
+ "95ca95757aa4": {
+  "en": "Cat. Soul",
+  "t": "类别：灵魂"
+ },
+ "984bfe340ee0": {
+  "en": "Healing matches the flesh to how the soul looks, so old scars don't exist in Vraki unless someone is too poor for nari gels or the Darfaries Interface. Tattoos are removed as soon as Body Restore is used.",
+  "t": "治疗会让血肉和灵魂的样子相匹配，所以在弗拉基不存在旧伤疤，除非某人穷得用不起纳里凝胶或达尔法里斯界面。只要一用博迪里斯托尔，纹身就会被去掉。"
+ },
  "995e5279ac7d": {
   "en": "To add more power, repeat this action. Be aware that each “eating“ motion attempts to bring the spell to the next stable tier, or energy level, so awareness of the increased soul energy needed between each higher tier is essential.",
   "t": "要增加更多能量，就重复这个动作。要注意，每一次“吃”的动作都会尝试把法术提升到下一个稳定的级别，也就是能量等级，所以必须意识到每升高一级所需的灵魂能量都在增加。"
  },
+ "9bd96337042b": {
+  "en": "Nickel → Copper",
+  "t": "镍 → 铜"
+ },
  "9f156873d1d5": {
   "en": "Sigil rings are a modern and quicker way to interact with the Darfaries Interface. Without it, one must draw the logograms into the skin of their palm, which can be a lengthy process, even for seasoned adventurers. Dangerous, too, as if you draw something unclear as it could cause the interface to default to your thoughts, and you needlessly turn your best friend into a fanchaki all because you thought about what’s cooking for dinner while casting it. And if you’re really messing with the soul, even if by accident, you might never find a way to undo it.",
   "t": "西吉尔环是与达尔法里斯界面交互的一种现代、更快捷的方式。没有它，就必须把语标文字画在手掌的皮肤上，这可能是个漫长的过程，即使对经验丰富的冒险者也是如此。而且还很危险，因为如果你画的东西不清楚，界面就可能默认按你的想法来执行，你就会因为施法时想着晚饭吃什么，而白白把你最好的朋友变成一只凡查基。而如果你真的在折腾灵魂，哪怕是意外，你也可能永远找不到办法把它恢复原状。"
+ },
+ "a2719cb8ed6e": {
+  "en": "Every elemental spell works the same way:",
+  "t": "每个元素咒语的作用方式都一样："
  },
  "a2b9afce0d53": {
   "en": "Ring #4: 32*",
@@ -183,45 +515,169 @@
   "en": "Darfaries Interface",
   "t": "达尔法里斯界面"
  },
+ "a37a0f7da74e": {
+  "en": "Iron → Cobalt",
+  "t": "铁 → 钴"
+ },
+ "a565144f956c": {
+  "en": "Creates a soul with specific soul genetic information, using flesh as the base. The incantation tries to picture the target and think aloud about its characteristics.",
+  "t": "以血肉为基础，创造出带有特定灵魂遗传信息的灵魂。咒语的念法是努力想象目标的样子，并把它的特征说出来。"
+ },
  "a669783c12a0": {
   "en": "Using The Interface - Release",
   "t": "使用界面 - 释放"
+ },
+ "a6eb045a1ff1": {
+  "en": "<strong>Create/Destroy:</strong> Create does nothing. Destroy explodes the target into a shower of extremely fine particles and gas, basically a fine dust; at lower tiers, it might only destroy the object's outer shell.",
+  "t": "<strong>创造/毁灭：</strong>创造什么都不做。毁灭把目标炸成一阵极细的颗粒和气体，基本上就是细尘；在较低的等级，它可能只会摧毁物体的外壳。"
+ },
+ "a7eb38f676c7": {
+  "en": "<strong>Restore:</strong> soul energy uses the target's soul genetic information to find what's out of place in their body, and corrects it using stored energy to fuel the changes. More below.",
+  "t": "<strong>恢复：</strong>灵魂能量利用目标的灵魂遗传信息找出他身体里不对的地方，并用储存的能量为这些变化提供燃料来修正。详见下文。"
  },
  "a8fe88bccc82": {
   "en": "Full Darfaries Interface - scribling and soul energy stone mode",
   "t": "完整达尔法里斯界面 - 涂写与灵魂能量石模式"
  },
+ "aa288905b03d": {
+  "en": "I (smallest, closest to the hand)",
+  "t": "I（最小，离手最近）"
+ },
+ "aa39015fda61": {
+  "en": "Science - Darfaries Interface (World Lore illustration)",
+  "t": "科学 - 达尔法里斯界面（世界观插图）"
+ },
+ "ad0f7e005000": {
+  "en": "Body Restore, through a sigil ring fueled by nari sticks.",
+  "t": "通过一枚由纳里棒供能的西吉尔环施放博迪里斯托尔。"
+ },
  "ad789405eb37": {
   "en": "Compound objects",
   "t": "复合对象"
+ },
+ "aeaf0ba689f9": {
+  "en": "Cobalt → Nickel",
+  "t": "钴 → 镍"
+ },
+ "b325204b56ca": {
+  "en": "The best-known spells (healing, reviving, elemental and more) can be bought at any Soul Energy shop.",
+  "t": "最有名的咒语（治疗、复活、元素等等）在任何灵魂能量商店都能买到。"
  },
  "b4801c89826b": {
   "en": "Due to their size, Darfaries cannot fly, but they can somewhat dampen their fall from approximately three-story buildings. Wozefaries can dampen their fall from up to ten-story buildings, while Sorefaries can control their attitude at will, and even carry some weight with them. The weight depends on the Sorefaries’ strength, dexterity, and soul energy capacity.",
   "t": "由于体型的原因，达尔法里斯不会飞，但他们能在一定程度上减缓从大约三层楼高处坠落的冲击。沃泽法里斯能减缓从最高十层楼高处坠落的冲击，而索雷法里斯能随意控制自己的姿态，甚至还能带着一些重量。能带多重取决于索雷法里斯的力量、灵巧和灵魂能量容量。"
  },
+ "b647f1de4ac0": {
+  "en": "Bruises",
+  "t": "瘀伤"
+ },
+ "b92c87f1b12d": {
+  "en": "Soul energy shapes the spell using logograms drawn from the knowledge shared by the people nearby.",
+  "t": "灵魂能量借助语标文字塑造咒语，这些语标文字取自附近人们所共享的知识。"
+ },
+ "ba9989c6673e": {
+  "en": "<strong>Subject:</strong> the target of the spell. With no subject, the soul energy falls back on the caster's own idea of how it should apply itself.",
+  "t": "<strong>主语：</strong>咒语的目标。没有主语时，灵魂能量会退回到施法者自己对它该如何施加的想象上。"
+ },
+ "baded418ca13": {
+  "en": "A White Hole (also called White Fire) is what happens when soul energy doesn't convert properly into the desired outcome: it backfires, explodes, or becomes nothing instead of something. These events aren't quite an urban legend: scientists and researchers know about them. They were better known in the old days, before Forway really became a thing and resentment against messing with the soul became commonplace.",
+  "t": "白洞（也叫白火）是灵魂能量没能正确转化为预期结果时发生的事：它会反噬、爆炸，或者化为乌有而不是变成某种东西。这些事件并不完全是都市传说：科学家和研究者都知道它们。在过去，在福威真正成气候、人们普遍反感乱动灵魂之前，它们更为人所知。"
+ },
+ "bc6f4bc6da01": {
+  "en": "Heals",
+  "t": "治疗"
+ },
+ "bdc1fd5d3c0f": {
+  "en": "Shell",
+  "t": "壳"
+ },
+ "be58ecb5f9ad": {
+  "en": "Drawn logograms are forbidden inside city and kingdom perimeters, because of the risk of explosions and miscasts:",
+  "t": "由于有爆炸和施法失误的风险，在城市和王国范围内禁止手画语标文字："
+ },
  "c0074aa34b2d": {
   "en": "Darfaries Interface Video showcase",
   "t": "达尔法里斯界面视频展示"
+ },
+ "c0a448a02870": {
+  "en": "Water Gravity VERB",
+  "t": "沃特格拉维蒂 VERB"
+ },
+ "c4ebb12ada7e": {
+  "en": "Soul Create (Book I Chapter I Gabiro’s version)",
+  "t": "索尔克里埃特（第 1 卷第一章 加比罗的版本）"
+ },
+ "c4f55f2d0048": {
+  "en": "<strong>Restore/Disassemble:</strong> Restore doesn't put things back together from their pieces; it just makes the object look newer. Disassemble does the reverse: it rusts an item. It's basically the reverse of chemical reactions.",
+  "t": "<strong>恢复/拆解：</strong>恢复不会把碎片拼回原样；它只会让物体看起来更新。拆解则相反：它会让物品生锈。基本上是化学反应的逆过程。"
+ },
+ "c6838a9cbc77": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts the element. With no target, the soul flame simply evaporates.",
+  "t": "<strong>排斥/吸引：</strong>目标排斥或吸引这种元素。没有目标时，灵魂之火就会直接蒸发。"
  },
  "c8c7488b1383": {
   "en": "Environmental changes, especially creation, destruction, and manipulation of elemental properties such as water, fire, terrain, and gravity, are commonly performed through this interface.",
   "t": "环境的改变，尤其是对水、火、地形和重力等元素属性的创造、破坏和操纵，通常都是通过这种界面来进行的。"
  },
+ "cac2d50e5374": {
+  "en": "It only restores the base genetic information; it doesn't deal with whatever is causing the damage, such as worms.",
+  "t": "它只恢复基础的遗传信息；它不会处理造成损伤的东西，比如蠕虫。"
+ },
  "cb864e0c3c67": {
   "en": "Keeping your fingers clenched on the hand you used the logograms on, you must now trap the fingers, or nari stone stick, then reverse the motion while keeping the fingers clenched. This sort of “eating“ motion will suck the power and create a ball into one of the rings that will temporarily hold power. Do not worry about how fast it zips around. The rings will keep it in check until you release the spell in the final step.",
   "t": "保持画了语标文字的那只手的手指握紧，你现在必须夹住手指或纳里石棒，然后在保持手指握紧的同时反向运动。这种“吃”的动作会吸取能量，在其中一个环里生成一个暂时储存能量的球。别担心它转得有多快。在最后一步释放法术之前，这些环会把它控制住。"
+ },
+ "cbe94eef3d69": {
+  "en": "<strong>Infuse soul energy.</strong> The casting hand takes in energy when the caster \"eats\" with it. A spell is only stable at a soul energy tier, so energy always fills up to the next tier (after a partial charge, it adds the difference). The energy can come from:",
+  "t": "<strong>注入灵魂能量。</strong>施法者用施法的手“吃”东西时，这只手就会吸收能量。咒语只有在一个完整的灵魂能量等级上才稳定，所以能量总是会补满到下一个等级（部分充能后，会补上差额）。能量可以来自："
+ },
+ "cd5fc47831e2": {
+  "en": "Entangle",
+  "t": "纠缠"
+ },
+ "d08ae5111258": {
+  "en": "Minor cuts and minor blood loss",
+  "t": "轻微割伤和轻微失血"
  },
  "d3ffc8903c8c": {
   "en": "Darfaries, Wozefaries, and Sorefaries show the markings of controlled flight and built-in spell-casting mechanisms using specialized nerves attuned to soul energy that appear as veins, at least to the untrained eye, throughout the upper body. These reddened nerves always ran up their hands and arms and met in the back with a distinct capillary branching appearance.",
   "t": "达尔法里斯、沃泽法里斯和索雷法里斯身上都带有可控飞行和内置施法机制的印记，这些机制使用与灵魂能量同调的特化神经，至少在外行看来，它们就像遍布上半身的血管。这些发红的神经总是沿着手和手臂向上延伸，在背部汇合，呈现出独特的毛细血管分支外观。"
  },
+ "d41f0dd4cd5a": {
+  "en": "<strong>Uses:</strong> active research is trying to figure out how the Buhraies used it to shape the land and do all kinds of shit with it. Some researchers think it could outright make gold, which seems possible, since people have transmuted these (it just doesn't make much economic sense):",
+  "t": "<strong>用途：</strong>人们正在积极研究，试图弄清布莱斯是如何用它来塑造大地、用它干各种事情的。一些研究者认为它可以直接造出金子，这似乎是可能的，因为人们已经嬗变过这些东西（只是在经济上不太划算）："
+ },
+ "d50e6f0c1670": {
+  "en": "The logograms are the guardrails. Every race with the Darfaries interface can try to override them by using a knife to reach the Buhraies interface underneath, as Gabiro does in the Vol 1 prologue. It's dangerous: an empty logogram forces the user into immense concentration, and the odds aren't in their favor. So for common folk, it's basically like being unable to reach the \"ancient roots\" of the interface.",
+  "t": "语标文字就是护栏。每个拥有达尔法里斯界面的种族都可以试着用刀触及底下的布莱斯界面来绕过它们，就像加比罗在第 1 卷序章里做的那样。这很危险：空的语标文字迫使使用者极度集中注意力，而胜算并不在他们这边。所以对普通人来说，这基本上就像是无法触及界面的“古老根源”。"
+ },
  "d5fc3c0d596b": {
   "en": "Currently, 26 Simple Objects are widely accepted, as in Forway-approved, for Sigil rings. They are mostly inherited from previous interfaces and haven’t changed in hundreds of years.",
   "t": "目前，有 26 个简单对象被广泛接受——也就是经过福威批准——可用于西吉尔环。它们大多继承自以前的界面，几百年来都没有变过。"
  },
+ "d7506f50f91f": {
+  "en": "Cat. Material",
+  "t": "类别：物质"
+ },
+ "d8d1f53225ee": {
+  "en": "Gabiro brought Entangle back from the history books. Many had tried before him, but the side effects were always too strong; Gabiro understood how it worked in principle far better than anyone. Most people don't use it day to day, but it's a fundamental tool for the adventurers and guards who protect them.",
+  "t": "加比罗把纠缠从历史书里重新带了回来。在他之前很多人都尝试过，但副作用总是太强；加比罗对它的原理理解得比任何人都透彻。大多数人日常并不用它，但对冒险者和保护他们的卫兵来说，它是一个基本工具。"
+ },
+ "d90ca37eeeb8": {
+  "en": "{Object} VERB",
+  "t": "{Object} VERB"
+ },
  "d91500bfa542": {
   "en": "Public text: science-darfaries-interface.md",
   "t": "公开文本：science-darfaries-interface.md"
+ },
+ "dcc44733ccdb": {
+  "en": "Minor broken bones and medium blood loss",
+  "t": "轻微骨折和中度失血"
+ },
+ "ddf5082031ec": {
+  "en": "Each ring has one spell carved into it, such as Body Restore or Shock Create.",
+  "t": "每个环上刻着一个咒语，比如博迪里斯托尔或肖克克里埃特。"
  },
  "de1369b50eb5": {
   "en": "Not to say humans can’t use this interface. They certainly can! Although, only if they have shared blood with Darfaries or Wozefaries in their family.",
@@ -230,6 +686,10 @@
  "ded446aabbba": {
   "en": "Now you must make a fist with your other hand. If you can use this interface, a distinct group of five rings will surge from the white flames in your arms and expand outward, with the smallest ring closer to your wrist.",
   "t": "现在你必须用另一只手握拳。如果你能使用这种界面，一组明显的五个环会从你手臂上的白色火焰中涌出并向外扩展，最小的环离手腕最近。"
+ },
+ "e0c1969b54cd": {
+  "en": "When a spell is cast, five rings appear around the hand holding it. Each shell holds a limited number of soul energy tiers:",
+  "t": "施放咒语时，五个环会出现在握着咒语的那只手周围。每一层壳能容纳有限等级的灵魂能量："
  },
  "e5df83155e66": {
   "en": "Full Darfaries Interface - Sigil and Nari stone mode (video)",
@@ -243,6 +703,10 @@
   "en": "This is where some scientists spent their entire lives trying to claim a new verb to be accepted by Forway, but all their works became food for paper rot and forgotten to history because of a single man who broke through the hundreds of years stalemate.",
   "t": "这正是一些科学家穷尽一生想让福威接受一个新动词的地方，但他们所有的工作都成了纸蠹的食物，被历史遗忘，因为有一个人打破了几百年的僵局。"
  },
+ "e8d0433850e4": {
+  "en": "Fire VERB",
+  "t": "法耶尔 VERB"
+ },
  "ef47633dff56": {
   "en": "Given Darfaries sport the most prominent Darfaries veins, its sheer additional volume allows them to finely sense soul energy disturbances around them, plus a rough sensation of humidity, wind, and barometric pressure—it’s like how they say, if a Darfaries tells you to buy an umbrella, you better buy one!",
   "t": "由于达尔法里斯拥有最显著的达尔法里斯血管，这额外的体积让他们能精细地感知周围的灵魂能量扰动，还能大致感觉到湿度、风和气压——就像人们说的，如果一个达尔法里斯叫你买伞，你最好去买一把！"
@@ -250,5 +714,21 @@
  "f329090850be": {
   "en": "Shared Blood",
   "t": "共享血统"
+ },
+ "f5526de22a80": {
+  "en": "Or draw the logograms by hand. In the early 800s A.G., Forway considered banning the use of the interface without a sigil ring: partly to stop people drawing logograms by hand, which invites mistakes, misuse and, in rare cases, an accidental White Hole, but even more to stop anyone using the interface without logograms (the guardrails) at all. The scientific community pushed back too hard. Opinion shifted in the early 900s A.G., after many scientific tragedies with no clear progress, and by the late 900s A.G. only fringe scientists like Gabiro Sundeath (also known as Gabiro Sanbi Royal) still seemed to be investigating it.",
+  "t": "要么用手画出语标文字。在 800 年代初（A.G.），福威曾考虑禁止在没有西吉尔环的情况下使用界面：部分是为了阻止人们用手画语标文字，因为那容易导致错误、滥用，极少数情况下还会意外引发白洞，但更多是为了阻止任何人完全不用语标文字（护栏）来使用界面。科学界的反对太强烈了。到了 900 年代初（A.G.），在许多没有明显进展的科学悲剧之后，舆论发生了转变，到 900 年代后期（A.G.），似乎只有像加比罗·桑德斯（也就是加比罗·桑比·罗亚尔）这样的边缘科学家还在研究它。"
+ },
+ "f6bd920f19f0": {
+  "en": "Lava VERB",
+  "t": "拉瓦 VERB"
+ },
+ "f7e4312c3e9b": {
+  "en": "Body parts for later use are kept in jars of a viscous red jelly: finely ground nari stone mixed with blood.",
+  "t": "留着以后用的身体部位保存在装满粘稠红色果冻的罐子里：磨得很细的纳里石混合血液。"
+ },
+ "ff5ced0ff9c1": {
+  "en": "Wind VERB",
+  "t": "温德 VERB"
  }
 }
