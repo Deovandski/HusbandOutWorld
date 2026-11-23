@@ -380,5 +380,12 @@
       "replace": "and the issue of arrest of the Adventurer.**  \n      * **Only valid for adventurers doing investigations and with a good lead/information, to prevent adventurers from unnecessarily hogging the badge.**",
       "why": "Author's ruling (Arc #4 A4-4, 2026-11-23): limit badge retrieval to adventurers investigating with a good lead."
     }
+  ],
+  "Legacy/Behind The Scenes/Light Novel/Arc #4 - Fishy Conspiracy.md": [
+    {
+      "find": "She continued punching as tears flowed from her eyes.",
+      "replace": "She continued punching as tears flowed from her eyes.  \n  * Author's note: The body is not Arukia. It is a decoy, an already soul-dead corpse made up as Arukia with Nari gel, so no revival would ever work. Blinded by anger, Eori never uses Nari Refresher on it, so she does not find out (the real Arukia is alive with Neferteri, see Book 16). Later, Eori realizes she didn't even do the simple check, and grows regret for having those emotional fits.",
+      "why": "Author's ruling (Arc #4 A4-18/A4-19, 2026-11-23): add the decoy note to the raw notes."
+    }
   ]
 }

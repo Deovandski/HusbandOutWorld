@@ -136,3 +136,25 @@ Questions:
 - **A4-20:** "Neferteri was inside the building in XX Village." I used {WIP-neferteriVillage}. Okay?
 - **A4-21:** Chapter 2: "Arukia looks at Harry". So Harry is held in the same hideout as Arukia (the basement from Book 15, Chapter 1)?
 - **A4-22:** Chapter 1: the "Neferteri" they pass on the road "is someone else". Another of Neferteri's decoys, like the five Morikas?
+
+Author's answers (batch 5):
+> Add to the raw notes about the decoy note.
+>
+> A4-20: okay.
+> A4-21: can you give me more context around it? I believe so.
+> A4-22: yes.
+
+Applied:
+- Decoy note (A4-19) is now also in the raw display, after "She continued punching as tears flowed from her eyes." (`content/fixes.json`).
+- A4-20: kept {WIP-neferteriVillage}.
+- A4-22: "(it's someone else: another of Neferteri's decoys, like the five Morikas)".
+
+A4-21, context gathered (where is Harry?):
+- Book 15, Ch 1: Harry wakes in a basement set up much like Eori's old prison for him. Neferteri and Morika "come downstairs" to see him; Neferteri orders the Harry gels from his blood; later Morika brings food downstairs and calls him "a failed experiment".
+- Book 15, Ch 5: Eori raids her old hideout (the one where she once kept Harry) and searches downstairs for Harry, but only finds the "Arukia" decoy. So Harry isn't there.
+- Book 15, Epilogue: Magi follows the real cart to a solitary home in a small village; Neferteri is inside, waiting to interrogate whoever is brought in.
+- Book 16, Ch 1: Magi confirms Neferteri is in that building, and Coema plans the assault "to rescue Harry & Arukia" there (so the group assumes Harry is there too).
+- Book 16, Ch 2: Neferteri, Morika and Arukia in "the hideout" (Harry isn't in the scene heading), but "Arukia looks at Harry" right as Neferteri calls him "this failed experiment" (Morika's words for Harry in Book 15).
+- Story Arcs: Arc #4 has no summary ("?"); Arc #5 starts with Harry keeping his new name and going adventuring.
+
+- **A4-23:** So: Harry's basement prison is in Neferteri's village hideout, the same place Arukia is interrogated, and Harry is chained in the room during Chapter 2. Shall I add him to that scene heading ("Neferteri, Morika, Arukia, and a chained Harry")?

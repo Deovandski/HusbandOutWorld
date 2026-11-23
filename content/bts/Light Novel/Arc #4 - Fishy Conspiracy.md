@@ -492,7 +492,7 @@ Not written yet.
 
 - Ryo: "I knew Queen Neferteri liked to steer the conversation her way, but all of this is news to me." Eori: "Try living under her, then." "I'll pass—by the way, if you don't mind me asking, what will you do if Harry doesn't want to come with you?"
 - Eori looks ticked off and doesn't reply. Magi, on her other side, looks at her too. Eori: "Harry is mine, and he knows it." Ryo and Magi look at her. "He—he even said he loved me." Ryo: "He did? Wow." Magi, suspicious: "If he loved you, then why was he faking his name?" Eori gets angry. "That's between me and Harry! Arukia was the one who split us up!"
-- Ryo: "I think she's coming. Talk about something else." They pass by "Neferteri" (it's someone else), and Eori makes deep eye contact.
+- Ryo: "I think she's coming. Talk about something else." They pass by "Neferteri" (it's someone else: another of Neferteri's decoys, like the five Morikas), and Eori makes deep eye contact.
 
 #### Magi, Eori (in a fake body), Ryo and a few Cruros prepare to ambush the house
 
