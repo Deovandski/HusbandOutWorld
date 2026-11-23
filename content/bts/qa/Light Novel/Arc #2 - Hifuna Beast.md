@@ -35,6 +35,24 @@ Status: **answered** 2026-11-22.
 - Harry's numbers (#7-A, #8-A, #8-B) are kept: each is a different Harry.
 - Typos read as meant: "take over the cargo" as "take over the post" (Portuguese *cargo*); "Oh which I will officially introduce" as "On which note, I'll officially introduce"; "Wozes" and "Bagarises" as Wozens and Bagarisas.
 
+## Book 6 - Sabbatical (asked 2026-11-22)
+
+Status: **open** until answered.
+
+### B6-1. Arukia in the maids' dormitory?
+- **Legacy text:** Chapter 4: "Arukia “Did Eori really say that? That’s so sweet!”", in the same scene where the maids talk about Arukia in the third person ("Then why Arukia never contacted us?"), and Eiri says "We lost Arukia". Book 5's epilogue has Neferteri investigating Arukia's disappearance.
+- **Why:** Arukia is missing by then. Which maid says that line (Ukim, maybe)? The abridged text says "one of the maids" for now.
+
+### B6-2. The tipsy adventurer at the bar
+- **Legacy text:** Prologue: "a kinda drunk female adventurer just sits by Hiromi", then "Hiromi hugs the guy" and "Let the guy peddle his stuff".
+- **Why:** A woman or a man? The abridged text makes her a woman throughout, for now.
+
+### Judgment calls in Book 6
+- **Names from other docs:** the "Gwent-like game" is Minari (Sports, Games and Passtime: "like Gwent, but with carved statues"); Maiara's "eggfly" is Homeegg (her Characters entry: "She plays Homeegg for Sanbi teams").
+- **"FROM BEFORE PROLOGUE BOOK 1. See Webtoon."** links to the website's Webcomic page.
+- **Katsuki's scene** is told plainly, without the explicit details ("while the Black Magina field boss has his way with her"; "until she feels him finish inside her"); the art note is kept as an art note, and so is the broken-mirror note in Chapter 5.
+- Typos read as meant: "EIEI SPILLS THE BEANS" as Eiri; "scort" as escort; "gastly"/"gathly" as ghostly; "coks" as cocks; "sansation" as sensation.
+
 ---
 
 ## Gaps filled from other Legacy sources
@@ -43,7 +61,9 @@ Status: **answered** 2026-11-22.
 |---|---|---|
 | The young captain is Huneo | "{JWK} Name" | the same doc (Chapter 4, next scene) |
 | Links to the characters | (names only) | Characters page |
+| Minari, for the "Gwent-like game" | "playing the Gwent-like game" | Sports, Games and Passtime.md (Minari) |
+| Homeegg, for "eggfly" | "Maiara's accomplishments on eggfly" | Characters.md (Maiara: "She plays Homeegg for Sanbi teams.") |
 
 ## Left out on purpose
 
-- Nothing from Book 5 is left out; the long prose passages are condensed into beats.
+- Nothing from Books 5 and 6 is left out; the long prose passages are condensed into beats.
