@@ -241,7 +241,7 @@ She'll appear more, to instigate Eori and Eiri onto a "good" path… (still open
 
 #### Eori has an altercation with Morika, who has basically put her under house arrest
 
-- Eori flips her shit and goes back to her dorm. She remembers Coema's letter, and it clicks: someone is holding Harry hostage, using his fake body. She's pissed she didn't heal him, or interrogate him. She uses her roommate, and nari gel, to escape.
+- Eori flips her shit and goes back to her dorm. She remembers Coema's letter, and it clicks: someone is holding Harry hostage, using his fake body. She's pissed she didn't heal him, or interrogate him. She "wears" a fake skin and mask made from her roommate, {WIP-eoriRoommate}, so she can escape looking like her.
 
 #### Eori, her appearance changed with nari gels, in a cheap room
 
@@ -253,7 +253,7 @@ She'll appear more, to instigate Eori and Eiri onto a "good" path… (still open
 
 #### Magi out on a boring quest
 
-- More of [Magi](/lore/characters/#magi-blood-blue-flower-red-bone) on the job. She starts to fall asleep and reaches for her Mind Quicken, but she's run out. She falls asleep, falls out of the tree, and wakes up surrounded by Bagarisas.
+- More of [Magi](/lore/characters/#magi-blood-blue-flower-red-bone) on the job. She starts to fall asleep and reaches for her Mind Quicken (another spelling of [Time Quicken](/lore/nari-gels/#nari-gels--time-quicken)), but she's run out. She falls asleep, falls out of the tree, and wakes up surrounded by Bagarisas.
 
 #### Magi, covered in dirt, passes Yosuke's restaurant with whatever she's carrying
 
@@ -287,14 +287,14 @@ She'll appear more, to instigate Eori and Eiri onto a "good" path… (still open
 
 #### Ryo and the sisters stand in front of a rundown old resort with an assistant
 
-- Ryo: "This is the best you found?" Assistant: "That's the best I could find. If you'd given me 5 more Sapphires, I could have haggled for something else." "Well, I do like a challenge. Anyway, I guess we should introduce ourselves." He does.
+- Ryo: "This is the best you found?" His assistant, {WIP-ryoAssistant}: "That's the best I could find. If you'd given me 5 more Sapphires, I could have haggled for something else." "Well, I do like a challenge. Anyway, I guess we should introduce ourselves." He does.
 - Assistant: "I heard all about it in the letter. You two are indeed quite cute. With that in mind, here's a gift I bought." She brings out a kimono-like outfit for each of them. Ryo: "Actually, I forgot to tell you: only Katsumi will be running this place. Katsuki wants to travel with me instead." "You want to travel with her instead. I know how this goes."
 - Ryo hugs them both. "I'd take both, but Katsumi has a dream of her own, and this place will help her get there. All right, let's take a tour." The assistant shows them around the dump.
 
 #### Ryo does the budget with Katsuki while Katsumi shows off her things, construction going on around them
 
 - The assistant looks turned on by [Katsumi](/lore/characters/#katsumi-flatland-long-blue), who teases her, then looks at Ryo. "Are you asking me for permission? I told you, it's your place, it's your life. Have fun!" Katsumi fakes a kiss and plays with her some more, rubs her butt on the assistant, and they kiss.
-- A construction guy walks in, looking turned on. Ryo laughs. "Damn! This place is gonna do nicely. How can I help ya?" "We're finishing prepping the walls. Have you decided on the color scheme?" "Crap, I forgot to ask you about that." Katsumi decides on a name on the spot, plus the color scheme. Ryo: "There's your answer."
+- A construction guy walks in, looking turned on. Ryo laughs. "Damn! This place is gonna do nicely. How can I help ya?" "We're finishing prepping the walls. Have you decided on the color scheme?" "Crap, I forgot to ask you about that." Katsumi decides on a name on the spot, {WIP-katsumiWhorehouse}, plus the color scheme. Ryo: "There's your answer."
 - The contractor leaves. Ryo: "Have you found your girls yet?" "I'm working on it. I only have time to review one or two a day." "Hmmm. Can I watch the auditions?" "But you can't participate, or I won't be able to review their fuckability." "In all my years, I've never heard that. Seems legit."
 
 #### Ryo in front of the finished place, with Katsumi, Katsuki and two adventurers
@@ -327,19 +327,19 @@ She'll appear more, to instigate Eori and Eiri onto a "good" path… (still open
 #### Ryo and Katsuki at lunch in a restaurant north of Forway; Katsuki devours even more Barinas
 
 - Ryo is mesmerized by her ability to eat [Barinas](/lore/fauna/#barina) like no one else; Katsuki is so focused she doesn't even offer him any. "You like Barinas that much?" [Katsuki](/lore/characters/#katsuki-flatland-long-blue), frog juice dripping down her chin, nods and keeps going.
-- Ryo: *Maybe she's pregnant after all. It would explain puking her guts out at dawn, then eating like a Bagarisa the rest of the day.* "Not to dredge up your past, but have you ever gotten pregnant?" Katsuki pauses for a second. "One. Nari. Two. Gel." "Got it. The Red Winga kept giving you nari gel to keep that from happening. Well, no more alcohol for you." He takes away her glass, raising a finger to the sky.
+- Ryo: *Maybe she's pregnant after all. It would explain puking her guts out at dawn, then eating like a Bagarisa the rest of the day.* "Not to dredge up your past, but have you ever gotten pregnant?" Katsuki pauses for a second. "One. Nari. Two. Gel." (Ryo is the father.) "Got it. The Red Winga kept giving you nari gel to keep that from happening. Well, no more alcohol for you." He takes away her glass, raising a finger to the sky.
 - A server comes over. "Whatcha want?" Ryo: "Can we have some juice instead?" The server lists the juices. Ryo looks at Katsuki, eating with a sad face as she eyes the beer jug. "Anything tickle your fancy?" "One—beer." "No deal." She picks a juice. Ryo starts drinking the beer; Katsuki gives him puppy eyes. He puts it aside. "Okay. I'll stop drinking it with you." Katsuki brightens with a smile.
 
 #### Same scene, but a guy goes table to table selling nari gel
 
 - The guy tries to sell them nari gel. Katsuki realizes one of the faces is Harry, and chokes on her food. Ryo is about to get up when she raises her hand; after a few more coughs, she seems back to normal. The guy says he has a new nari gel that prevents that from happening. Ryo: "But she can't. She's pregnant."
-- Katsuki points at one face. "One—Harry." "Oh! You know the guy?" Ryo: "We know him. Yes. Can you tell me where you got it?" "I'll tell you if you buy one. I'll even do buy one, get one free." "What kind of info is this?" "My distributor, of course!" Ryo smiles. "XXX?" The guy looks surprised. "How the heck do you know him?" Ryo pulls out a couple of Pearls. "I've lived long enough."
+- Katsuki points at one face. "One—Harry." "Oh! You know the guy?" Ryo: "We know him. Yes. Can you tell me where you got it?" "I'll tell you if you buy one. I'll even do buy one, get one free." "What kind of info is this?" "My distributor, of course!" Ryo smiles. "{WIP-ryoDistributor}?" The guy looks surprised. "How the heck do you know him?" Ryo pulls out a couple of Pearls. "I've lived long enough."
 
-#### Ryo and Katsuki at XXX's
+#### Ryo and Katsuki at {WIP-ryoDistributor}'s
 
-- XXX and Ryo meet, and Ryo introduces his business partner. XXX explains the gels came from the Sanbi Kingdom: some random guy is mass-producing them and sending them to the four corners of the world.
-- Ryo: "Do you think they're turning a profit?" XXX: "If they use Cruro labor and didn't pay this guy, then maybe a Pearl per nari gel? My prices here are shipping plus 25%, and it's barely selling." "What's the price of knowing who sold to you?" XXX pulls a contract from his table. "It's on the house. Looks can be deceiving, but LLK looked like he had zero experience trading. He even looked like he didn't care whether he turned a profit."
-- Ryo: "Really?" *Then this is a classic case of sending a message, but to whom? The Red Winga? Could they be sending a message to my girls? This could be the chance to cut ties with the Red Winga for good.* He contracts XXX to spread the new whorehouse flyers to all the villages for him. He was going to find someone in Forway, but XXX has proved good in the past.
+- {WIP-ryoDistributor} and Ryo meet, and Ryo introduces his business partner. {WIP-ryoDistributor} explains the gels came from the Sanbi Kingdom: some random guy is mass-producing them and sending them to the four corners of the world.
+- Ryo: "Do you think they're turning a profit?" {WIP-ryoDistributor}: "If they use Cruro labor and didn't pay this guy, then maybe a Pearl per nari gel? My prices here are shipping plus 25%, and it's barely selling." "What's the price of knowing who sold to you?" {WIP-ryoDistributor} pulls a contract from his table. "It's on the house. Looks can be deceiving, but {WIP-sanbiGelSeller} looked like he had zero experience trading. He even looked like he didn't care whether he turned a profit."
+- Ryo: "Really?" *Then this is a classic case of sending a message, but to whom? The Red Winga? Could they be sending a message to my girls? This could be the chance to cut ties with the Red Winga for good.* He contracts {WIP-ryoDistributor} to spread the new whorehouse flyers to all the villages for him. He was going to find someone in Forway, but {WIP-ryoDistributor} has proved good in the past.
 
 # Book 14 - Nari Gel Bait › Epilogue
 

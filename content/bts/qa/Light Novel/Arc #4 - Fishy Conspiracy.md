@@ -71,3 +71,19 @@ Questions:
 - **A4-12:** Chapter 4: Ryo's distributor contact "XXX", and "LLK", the inexperienced seller from Sanbi. Names, or {WIP-…}? Is LLK someone we know?
 - **A4-13:** Chapter 4: Ryo realizes Katsuki is pregnant (morning sickness, eating like a Bagarisa). By Ryo? The notes don't say.
 - **A4-14:** Chapter 1: "Eori seems kind, controlling, antisocial." I read it as "kind of controlling, and antisocial". Or did you mean she seems kind too?
+
+Author's answers (batch 3):
+> A4-9: I meant to say there as in in Eori " wears" a fake skin and mask out of her roommate so she can make the escape appearing as her.
+> A4-10: You could say it's an alternative spelling.
+> A4-11: use wip.
+> A4-12: use wip.
+> A4-13: he is.
+> A4-14: kind of controlling, antisocial.
+
+Applied:
+- A4-9: Eori "wears" a fake skin and mask made from her roommate, {WIP-eoriRoommate}, so she can escape looking like her.
+- A4-10: "Mind Quicken (another spelling of Time Quicken)", linked to Nari Gels.
+- A4-11: {WIP-ryoAssistant}; the whorehouse is {WIP-katsumiWhorehouse}.
+- A4-12: XXX → {WIP-ryoDistributor}; LLK → {WIP-sanbiGelSeller}.
+- A4-13: "(Ryo is the father.)"
+- A4-14: kept "kind of controlling, and antisocial".
