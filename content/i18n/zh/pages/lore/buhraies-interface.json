@@ -1,7 +1,39 @@
 {
+ "1e5e2991dedc": {
+  "en": "<strong>Tiers:</strong> the mass affected follows the General Power Effects: 0.1 kg at Tier I, doubling with every tier (51.2 kg at Tier X). Because it changes the genetic information, not the soul, the change stays even after Body Restore, as long as the genetic information isn't lost.",
+  "t": "<strong>等级：</strong>受影响的质量遵循一般威力效果：I 级 0.1 公斤，每升一级翻一倍（X 级 51.2 公斤）。因为它改变的是遗传信息而不是灵魂，所以即使用了博迪里斯托尔，只要遗传信息没有丢失，变化就会保留。"
+ },
+ "29070357c173": {
+  "en": "Soul Energy - Buhraies Interface (World Lore illustration)",
+  "t": "灵魂能量 - 布莱斯界面（世界观插图）"
+ },
+ "2c0fd516e171": {
+  "en": "<strong>Draw the spell.</strong> Cut the target logogram into your skin with something sharp (see Language › Buhraies Interface Language), or just cut two empty squares, which has to be done with a knife.",
+  "t": "<strong>画出咒语。</strong>用锋利的东西把目标语标文字刻在皮肤上（见语言 › 布莱斯界面语言），或者只刻两个空方框，这必须用刀来刻。"
+ },
+ "31d48e291ac1": {
+  "en": "<strong>Tiers:</strong> the higher the tier, the more it increases the soul qualities of the summon, with the increase split across several skills. Only tiers above X had a noticeable effect, and only once the soul reconnected to new flesh, if it worked.",
+  "t": "<strong>等级：</strong>等级越高，召唤物的灵魂素质提升越多，提升会分摊到几项技能上。只有 X 级以上才有明显效果，而且只有在灵魂重新连接到新的血肉上之后才见效——如果成功的话。"
+ },
  "3705910a532f": {
   "en": "A \"fleshy\" focused evolution to the Finaies interface! Its capabilities outgrew Finaies in raw power and eventually led Buhraies to force themselves to become powerful enough to reshape the land and other creatures to their liking.",
   "t": "菲奈斯界面以“肉体”为重点的进化！它的纯粹力量超越了菲奈斯，最终导致布莱斯逼迫自己变得足够强大，能够随心所欲地重塑土地和其他生物。"
+ },
+ "3ae348503d46": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Buhraies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Buhraies Interface.md</a>",
+  "t": "来源：<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Buhraies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Buhraies Interface.md</a>"
+ },
+ "48ba5cb16a12": {
+  "en": "Alters the target's body DNA according to the caster's desires.",
+  "t": "按照施法者的意愿改变目标的身体 DNA。"
+ },
+ "552e97590e22": {
+  "en": "Soul VERB",
+  "t": "Soul VERB"
+ },
+ "58266576143d": {
+  "en": "Alters the target's soul DNA according to the caster's desires.",
+  "t": "按照施法者的意愿改变目标的灵魂 DNA。"
  },
  "5fed524a49f2": {
   "en": "That is, unless you’re doing a freeform! You will not have the pain of carving your palm, but it might cost your soul or the souls of people around you. Despite Buhraies having a natural inkling for controlling free-forming, including being able to shape the very land to their will, that same power was likely their demise.",
@@ -11,13 +43,33 @@
   "en": "You must carve the logograms into the skin of one of your palms, then clench your fingers to start the interface while keeping the palm visible.",
   "t": "你必须把语标文字刻在一只手掌的皮肤上，然后握紧手指来启动界面，同时让手掌保持可见。"
  },
+ "6351722bd568": {
+  "en": "Soul Spectrum",
+  "t": "灵魂光谱"
+ },
+ "76a6e41714ed": {
+  "en": "Soul energy shapes the spell using logograms drawn from the knowledge shared by the souls of the people nearby.",
+  "t": "灵魂能量借助语标文字塑造咒语，这些语标文字取自附近人们的灵魂所共享的知识。"
+ },
  "7f9bd04a4f99": {
   "en": "A \"fleshy\" focused evolution to the Finaies interface! Its capabilities outgrew Finaies in raw power and eventually led Buhraies to force themselves to become…",
   "t": "菲奈斯界面以“肉体”为重点的进化！它的纯粹力量超越了菲奈斯，最终导致布莱斯逼迫自己变得……"
  },
+ "7fed7d4ad2e4": {
+  "en": "The Buhraies developed this interface as the blood they drank mutated their bodies, and because they wanted more power. Its logograms are the guardrails: cast without them, and you are altering the soul itself.",
+  "t": "布莱斯开发这种界面，是因为他们喝下的血让身体发生了突变，也因为他们想要更多力量。它的语标文字就是护栏：不用它们施法，你改变的就是灵魂本身。"
+ },
  "93c6a70f8e61": {
   "en": "Public text: science-buhraies-interface.md",
   "t": "公开文本：science-buhraies-interface.md"
+ },
+ "9aa1e6e34620": {
+  "en": "Nobody has ever maxed it out to know what would happen. The current theory is that going past the theoretical maximum would make the whole thing explode, possibly in a White Hole event.",
+  "t": "从来没人把它推到极限，所以不知道会发生什么。目前的理论是，超过理论最大值会让整个东西爆炸，可能引发一次白洞事件。"
+ },
+ "a078821d2b2e": {
+  "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Buhraies shells appear as you do.",
+  "t": "<strong>启动咒语。</strong>握紧持有咒语和灵魂能量的那只手的手指。你这样做的时候，布莱斯壳就会出现。"
  },
  "a23b9db367c5": {
   "en": "3 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
@@ -35,8 +87,28 @@
   "en": "091 (images illustration)",
   "t": "091（插图）"
  },
+ "dd527ba2bcfb": {
+  "en": "<strong>Target:</strong> what the spell acts on. With no target, the soul energy falls back on the caster's own idea of how it should apply itself, and a miscast explodes in soul flame in the caster's hand.",
+  "t": "<strong>目标：</strong>咒语作用的对象。没有目标时，灵魂能量会退回到施法者自己对它该如何施加的想象上，施法失误会在施法者手中爆出灵魂之火。"
+ },
+ "dfcfe195c9f1": {
+  "en": "An analysis of the soul. Research with it can find soul harmony, and the Buhraies used it to selectively breed people and enhance their power.",
+  "t": "对灵魂的分析。用它做研究可以找到灵魂和谐，布莱斯用它来选择性地培育人，增强他们的力量。"
+ },
  "e3cc5a5f7427": {
   "en": "All Buhraies show the markings of controlled flight and built-in spell-casting mechanisms using specialized nerves attuned to soul energy that appear as veins, at least to the untrained eye, throughout the body. These reddened nerves run up and down their body.",
   "t": "所有布莱斯身上都带有可控飞行和内置施法机制的印记，这些机制使用与灵魂能量同调的特化神经，至少在外行看来，它们就像遍布全身的血管。这些发红的神经在他们全身上下延伸。"
+ },
+ "e5d418c7583e": {
+  "en": "<strong>Verb:</strong> what you want to do. You have to think it clearly; a lack of concentration means a miscast, an explosion, or even blowback.",
+  "t": "<strong>动词：</strong>你想做什么。你必须清晰地想着它；注意力不集中就会施法失误、爆炸，甚至反噬。"
+ },
+ "f2508a76391f": {
+  "en": "<strong>Infuse soul energy.</strong> The casting hand takes in energy when the caster \"eats\" with it. Touching the middle and ring fingers lights up the Buhraies veins in that hand with soul flame, and when the other hand \"eats\", the flames are absorbed. A spell is only stable at a soul energy tier, so energy always fills up to the next tier (after a partial charge, it adds the difference).",
+  "t": "<strong>注入灵魂能量。</strong>施法者用施法的手“吃”东西时，这只手就会吸收能量。触碰中指和无名指会让那只手上的布莱斯脉络亮起灵魂之火，当另一只手“吃”的时候，火焰就会被吸收。咒语只有在一个完整的灵魂能量等级上才稳定，所以能量总是会补满到下一个等级（部分充能后，会补上差额）。"
+ },
+ "f6eb3327d46d": {
+  "en": "When a spell is cast, five rings appear around the hand holding it. Each shell, on its own, holds a limited number of soul energy tiers:",
+  "t": "施放咒语时，五个环会出现在握着咒语的那只手周围。每一层壳单独只能容纳有限等级的灵魂能量："
  }
 }

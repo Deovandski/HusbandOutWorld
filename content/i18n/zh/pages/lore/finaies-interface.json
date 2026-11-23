@@ -1,7 +1,27 @@
 {
+ "0a2af398fe47": {
+  "en": "Ice",
+  "t": "冰"
+ },
+ "0a48d44e337c": {
+  "en": "<strong>Shape the spell.</strong> Draw its logogram in the air (see Language › Finaies Interface Language), then hold the left hand's two fingers with the other hand for the element to appear.",
+  "t": "<strong>塑造咒语。</strong>在空中画出它的语标文字（见语言 › 菲奈斯界面语言），然后用另一只手握住左手的两根手指，让元素出现。"
+ },
+ "1273827574a8": {
+  "en": "Ash",
+  "t": "灰"
+ },
+ "142b5758f344": {
+  "en": "Wind",
+  "t": "风"
+ },
  "2359f9fd7d5a": {
   "en": "The primordial interface of what we know as the Darfaries interface nowadays. Some say it’s the start of all interfaces as well, but that never left the ranting books of scientists as proof of that has been quite elusive.",
   "t": "这是我们如今所知的达尔法里斯界面的原初界面。有人说它也是所有界面的起源，但这种说法从未走出科学家们的牢骚书，因为一直很难找到证据。"
+ },
+ "2d2b9fe1f9fe": {
+  "en": "Creates a ball of lava.",
+  "t": "生成一个熔岩球。"
  },
  "2d56d7adc9a6": {
   "en": "Finaies Interface · #HusbandOutWorld",
@@ -15,16 +35,140 @@
   "en": "Why is the interface symbology so small and specific? The consensus believes that it is related to the nature-focused and simplistic minds of Finaies.",
   "t": "为什么这种界面的符号体系如此小而具体？普遍的看法认为，这与菲奈斯注重自然、思维简单的特点有关。"
  },
+ "3749c8439c7a": {
+  "en": "Storm",
+  "t": "风暴"
+ },
+ "4a00822dbc67": {
+  "en": "Ball size (cm)",
+  "t": "球的大小（厘米）"
+ },
+ "4c32a85dc8ec": {
+  "en": "Creates a ball of mud.",
+  "t": "生成一个泥球。"
+ },
+ "4d1dbb53b348": {
+  "en": "<strong>Hold.</strong> Keep the fingers clenched to power up the holding hand. The longer you hold, the stronger the spell, and the more soul energy it costs. Other Finaies can touch you to give you soul energy and power the spell up faster.",
+  "t": "<strong>按住。</strong>保持手指紧握，给按住的那只手充能。按得越久，咒语越强，消耗的灵魂能量也越多。其他菲奈斯可以碰你，给你灵魂能量，让咒语充能更快。"
+ },
+ "4ebc18247e08": {
+  "en": "Steam",
+  "t": "蒸汽"
+ },
+ "4f3226d88153": {
+  "en": "Creates a ball of wind.",
+  "t": "生成一个风球。"
+ },
+ "604b6f188c5d": {
+  "en": "Creates a ball of water.",
+  "t": "生成一个水球。"
+ },
+ "64a9807143ef": {
+  "en": "Creates a ball of ice.",
+  "t": "生成一个冰球。"
+ },
+ "674982955154": {
+  "en": "Shock",
+  "t": "电击"
+ },
+ "78baebfcb4b5": {
+  "en": "Fire",
+  "t": "火"
+ },
+ "7914569e33cc": {
+  "en": "The ball's size follows the General Power Effects: 0.1 cm at Tier I, doubling with every tier.",
+  "t": "球的大小遵循一般威力效果：I 级 0.1 厘米，每升一级翻一倍。"
+ },
+ "795fe475b669": {
+  "en": "Spells in this category are released in the air, or as a projectile if you cock your arm back and release the spell as you push it forward.",
+  "t": "这个类别的咒语释放到空气中，或者把手臂往后拉、往前推的同时释放咒语，作为投射物。"
+ },
+ "7ef5d32f52cd": {
+  "en": "Creates a ball of ash.",
+  "t": "生成一个灰球。"
+ },
+ "8017fe7bff1c": {
+  "en": "Creates a ball of shock.",
+  "t": "生成一个电击球。"
+ },
+ "8820d95a1ff1": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Finaies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Finaies Interface.md</a>",
+  "t": "来源：<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Finaies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Finaies Interface.md</a>"
+ },
  "8a7ee68cd8b1": {
   "en": "Unlike complex casting rituals of specific interfaces such as Darfaries and Buhraies, their interface resembles animals like Bagarisa. The casting is done with a simple, singular hand movement matching the desired output, and voila! The spell comes out swiftly and aggressively out of their stubbed hands.",
   "t": "与达尔法里斯和布莱斯等特定界面的复杂施法仪式不同，他们的界面类似于巴加里萨等动物的界面。施法只需一个与想要的效果相符的简单、单一的手部动作，然后瞧！法术就会从他们短粗的手中迅猛而凶狠地冒出来。"
+ },
+ "8be71aeae090": {
+  "en": "Creates a ball of frozen earth.",
+  "t": "生成一个冻土球。"
+ },
+ "8d45a32dc1bd": {
+  "en": "Soul Energy - Finaies Interface (World Lore illustration)",
+  "t": "灵魂能量 - 菲奈斯界面（世界观插图）"
+ },
+ "9134ec5b6078": {
+  "en": "Creates a ball of fire.",
+  "t": "生成一个火球。"
+ },
+ "95a1423259bb": {
+  "en": "Creates a ball of earth.",
+  "t": "生成一个土球。"
+ },
+ "9c0cf1058f68": {
+  "en": "Frozen Earth",
+  "t": "冻土"
+ },
+ "a074430f352b": {
+  "en": "Earth",
+  "t": "土"
+ },
+ "a1b06dfc3df5": {
+  "en": "<strong>Release.</strong> Separate your fingers to release the spell, or cock your arm back for a ranged attack.",
+  "t": "<strong>释放。</strong>分开手指释放咒语，或者把手臂往后拉进行远程攻击。"
+ },
+ "b9a3fb9ac695": {
+  "en": "Lava",
+  "t": "熔岩"
+ },
+ "ca30ca77ff43": {
+  "en": "In short: draw the spell in the air, hold to charge it, then release.",
+  "t": "简而言之：在空中画出咒语，按住来充能，然后释放。"
  },
  "cbf8ef1393dd": {
   "en": "The primordial interface of what we know as the Darfaries interface nowadays.",
   "t": "这是我们如今所知的达尔法里斯界面的原初界面。"
  },
+ "cfad124318ab": {
+  "en": "Creates a ball of dust.",
+  "t": "生成一个尘球。"
+ },
+ "de9b1be49dae": {
+  "en": "Water",
+  "t": "水"
+ },
  "e0f540f92c72": {
   "en": "Casting",
   "t": "施法"
+ },
+ "eaff7cfcc0b1": {
+  "en": "Mud",
+  "t": "泥"
+ },
+ "f596e6062c48": {
+  "en": "Dust",
+  "t": "尘"
+ },
+ "f74808bef3bb": {
+  "en": "Creates a ball of steam.",
+  "t": "生成一个蒸汽球。"
+ },
+ "fbe443348c64": {
+  "en": "Creates a ball of storm.",
+  "t": "生成一个风暴球。"
+ },
+ "fd20e268a43c": {
+  "en": "A natural evolution of the Finaies that lets them use a basic, elemental soul energy interface. A Finaies draws the spell's logogram in the air with the left hand, and soul energy shapes the spell from that movement. Finaies hands have only two fingers, branch-like.",
+  "t": "菲奈斯的一种自然进化，让他们能使用一种基础的元素灵魂能量界面。菲奈斯用左手在空中画出咒语的语标文字，灵魂能量就从这个动作中塑造出咒语。菲奈斯的手只有两根手指，像树枝一样。"
  }
 }

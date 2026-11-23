@@ -1,43 +1,651 @@
 {
+ "00de2536d47e": {
+  "en": "<strong>First Subjugation Period (~5,000 to ~4,500 B.G.):</strong> with the Finaies out of the picture and the Lishies out of reach, their society flourished. Having modified Wingas into Big Wingas and Yabuca trees into Wood People and bent them to their will, they researched how to subjugate the other two races. Wingarest became the home of the Big Wingas. The Wood People were created by altering the souls of Yabuca trees, then confined to small forests across the Buhraies Plains, where they produced food and lumber in a controlled way. Their goal: subjugate and experiment on the Finaies in the north, and fix and terraform Hifuna.",
+  "t": "<strong>第一次征服时期（~5,000 到 ~4,500 B.G.）：</strong>菲奈斯不再碍事，利希斯又够不着，他们的社会繁荣起来。他们把温加改造成大温加、把亚布卡树改造成伍德皮普尔，让它们服从自己的意志，之后又研究如何征服另外两个种族。温加雷斯特成了大温加的家。伍德皮普尔是通过改变亚布卡树的灵魂创造出来的，然后被关在布莱斯平原各处的小森林里，以受控的方式生产食物和木材。他们的目标：征服北方的菲奈斯并拿他们做实验，修复和改造希富纳。"
+ },
+ "01e35785d15a": {
+  "en": "The Buhraies decided to test everything they knew about subjugation on the Fuhraies, but it didn't work, and they fought. Or rather, the Fuhraies kept defending themselves from the Buhraies' weak attacks: being fleshy, the Buhraies weren't used to such cold weather and altitude. Negotiations never worked.",
+  "t": "布莱斯决定把他们所知道的关于征服的一切都拿来在弗莱斯身上试验，但没有奏效，于是双方打了起来。或者更确切地说，弗莱斯一直在抵御布莱斯软弱的进攻：由于是血肉之躯，布莱斯不习惯如此寒冷的天气和高海拔。谈判从来没有成功过。"
+ },
+ "01e61492a86b": {
+  "en": "Once a person's heart is replaced with a stone, they can only feel the emotion set in it. Most who tried it died, going berserk or taking their own lives, among other reasons. The few who could live with a stone became legends. The stone also seeps into the person's soul, corrupting it and causing many symptoms, including being impossible to revive.",
+  "t": "一个人的心脏一旦被换成石头，就只能感受到石头里设定的那种情绪。大多数尝试的人都死了，有的狂暴，有的自尽，还有别的原因。少数能和石头共存的人成了传奇。石头还会渗入这个人的灵魂，腐蚀它，导致许多症状，包括无法被复活。"
+ },
+ "027433560234": {
+  "en": "<strong>Mountain Overtake Period (~250 to ~270 A.G.):</strong> the Darfaries killed everyone, their history included. But Wozefaries and Sorefaries kept being born: their blood was tainted forever, and some Darfaries grew uneasy about killing their own babies for the sake of purity. That's when the first king, Gandew, established the Goodbye Cliff, from which every Wozefaries and Sorefaries was sent flying toward Flatland. Anyone who didn't accept it had to leave. With the ancient species kicked out, the Darfaries named the mountain Gandew after their first king, claiming it as their own.",
+  "t": "<strong>夺山时期（~250 到 ~270 A.G.）：</strong>达尔法里斯杀光了所有人，连同他们的历史。但沃泽法里斯和索雷法里斯仍在不断出生：他们的血永远被玷污了，一些达尔法里斯对为了纯洁而杀死自己的婴儿感到不安。就在那时，第一位国王甘杜设立了再见悬崖，每一个沃泽法里斯和索雷法里斯都从那里被朝着弗拉特兰发射出去。任何不接受的人都必须离开。古老物种被赶走后，达尔法里斯以他们第一位国王的名字把这座山命名为甘杜，宣告它归自己所有。"
+ },
+ "02ff2cf75787": {
+  "en": "The Last Breath Time (~855 B.G. to ~380 A.G.)",
+  "t": "最后喘息时代（~855 B.G. 到 ~380 A.G.）"
+ },
+ "043219ba4522": {
+  "en": "<strong>Lishies Subjugation Period (~4,500 to ~3,500 B.G.):</strong> they tried to subjugate the Lishies, but not only did it fail, it led the Lishies to discover how to get up onto the Buhraies Plains. The Lishies were hard to fight there, and the peaceful life on the plains was over: the Buhraies researched how to keep the Lishies at bay while skirmishing nearly every week. ~3,575 B.G.: the Lishies launched a war against the Buhraies, and both sides were decimated as the battle raged on.",
+  "t": "<strong>利希斯征服时期（~4,500 到 ~3,500 B.G.）：</strong>他们试图征服利希斯，但不仅失败了，还让利希斯发现了如何登上布莱斯平原。在那里很难和利希斯作战，平原上的和平生活结束了：布莱斯一边研究如何把利希斯挡在外面，一边几乎每周都在打小仗。~3,575 B.G.：利希斯对布莱斯发动了战争，随着战斗愈演愈烈，双方都伤亡惨重。"
+ },
+ "0637cad88a3e": {
+  "en": "~6,000 to ~5,000 B.G.: the Buhraies created their plains and separated themselves. The Lishies kept trying to reach them for payback, but without a Soul Energy interface, they couldn't.",
+  "t": "~6,000 到 ~5,000 B.G.：布莱斯创造了他们的平原，把自己隔离开来。利希斯一直想去找他们报仇，但没有灵魂能量界面，他们去不了。"
+ },
+ "09dc8c9ecef5": {
+  "en": "~805 B.G.: a massive civil war broke out in Aldemeri, which burned for days, all instigated by humans. Some residents less inclined toward war fled to other cities (or to Flatland) and tried to stop another civil war. Several Lishies fled into what is now Flatland and made a pact with the Buhraies after a battle that thinned both sides.",
+  "t": "~805 B.G.：阿尔德梅里爆发了一场大规模内战，烧了好几天，全是人类煽动的。一些不那么好战的居民逃到了其他城市（或者弗拉特兰），并试图阻止另一场内战。几个利希斯逃进了如今的弗拉特兰，在一场让双方都元气大伤的战斗之后，和布莱斯订立了盟约。"
+ },
+ "0c595776a51f": {
+  "en": "Human Period (~270 to ~570 A.G.):",
+  "t": "人类时期（~270 到 ~570 A.G.）："
+ },
+ "101601bc2208": {
+  "en": "The Greed Period (120 to 680 A.G.):",
+  "t": "贪婪时期（120 到 680 A.G.）："
+ },
+ "130c253cf332": {
+  "en": "Embassies were founded soon after, and all ruins and major cities became Forway property. Sundeath tried to stay out of it all, but gave in under the sheer pressure from Forway; in exchange, it has Pharaohs as city leaders.",
+  "t": "大使馆很快就建立起来了，所有遗迹和主要城市都成了福威的财产。桑德斯试图置身事外，但在福威巨大的压力下屈服了；作为交换，它由法老斯担任城市领袖。"
+ },
+ "1392a673412a": {
+  "en": "<strong>Muscle Development Period (~15,000 to ~10,000 B.G.):</strong> the Finaies in the deep forest developed a taste for meat, and their bodies changed slightly, then a lot, as they became excellent hunters. The females preferred beefy, fleshy men, so they steered evolution toward losing the Finaies interface altogether. The Lishies became a new species.",
+  "t": "<strong>肌肉发育时期（~15,000 到 ~10,000 B.G.）：</strong>密林深处的菲奈斯开始喜欢吃肉，他们的身体先是有了些微变化，然后变化越来越大，成了出色的猎手。雌性更喜欢壮实、多肉的男人，所以她们引导进化朝着完全失去菲奈斯界面的方向发展。利希斯成了一个新物种。"
+ },
+ "16c02402ed23": {
+  "en": "Summoning Period (~2,100 to ~1,900 B.G.):",
+  "t": "召唤时期（~2,100 到 ~1,900 B.G.）："
+ },
+ "171588837ff0": {
+  "en": "<strong>Greedy Humans Period (~570 to ~680 A.G.):</strong> many Wozefaries and Sorefaries spread throughout the kingdoms. Some knew how to grease the wheels to get a good life; others ended up as slaves (see The Greed Period under Humans).",
+  "t": "<strong>贪婪人类时期（~570 到 ~680 A.G.）：</strong>许多沃泽法里斯和索雷法里斯扩散到各个王国。有些懂得疏通关系，过上了好日子；其他人则沦为奴隶（见人类条目下的贪婪时期）。"
+ },
+ "182cd4f6ad3e": {
+  "en": "Later on, they made a pact with the Flingas to watch over the south and plan a comeback.",
+  "t": "后来，他们和弗林加立了约，让它们监视南方，并策划东山再起。"
+ },
+ "19965731952c": {
+  "en": "~495 B.G.: humans took over Flatland as the ancient species fled into the desert.",
+  "t": "~495 B.G.：随着古老物种逃进沙漠，人类接管了弗拉特兰。"
+ },
+ "1a7b2d5e3430": {
+  "en": "Mountain Pact Period (~500 B.G. to ~250 A.G.):",
+  "t": "山之盟约时期（~500 B.G. 到 ~250 A.G.）："
+ },
+ "1a868485ea58": {
+  "en": "In this period, they discovered the power of souls and Walking Heart stones and created an endless army with them. One of the humans brought back to life was really good at mineralogy, so his knowledge was extracted, and with it, English names for minerals stuck in the Vraki language: gold, iron, magnesium and so on.",
+  "t": "在这个时期，他们发现了灵魂和沃金哈特石的力量，并用它们造出了一支无穷无尽的军队。其中一个被复活的人类非常擅长矿物学，于是他的知识被提取了出来，矿物的英文名也因此留在了弗拉基语里：gold、iron、magnesium 等等。"
+ },
+ "1c09e211ee4f": {
+  "en": "<strong>The Pact (~500 B.G.):</strong> seeing how voracious the humans' attacks were, the Fuhraies agreed to a pact with the Buhraies, and from then on their story is intertwined with the Buhraies' (see The Last Breath Time under Buhraies).",
+  "t": "<strong>盟约（~500 B.G.）：</strong>看到人类的进攻如此凶猛，弗莱斯同意和布莱斯订立盟约，从此他们的故事和布莱斯的交织在一起（见布莱斯条目下的最后喘息时代）。"
+ },
+ "1e82c76b5508": {
+  "en": "Licking their wounds (mostly emotional) after losing Endlessfog Island to Lishies they thought too dumb to plan anything, they stopped all battles and focused on research.",
+  "t": "在把恩德莱斯福格岛输给了他们以为蠢到什么都计划不了的利希斯之后，他们舔着伤口（主要是情感上的），停止了所有战斗，专注于研究。"
+ },
  "1ecccecfeb06": {
   "en": "Finaies",
   "t": "菲奈斯"
+ },
+ "2002e841c7c2": {
+  "en": "More earth came from where the Lukewarm Buhraies Lake is now. They built an underground structure that pipes its water to Wingarest.",
+  "t": "更多的土来自如今卢克沃姆布莱斯湖所在的地方。他们建了一座地下结构，把湖水引到温加雷斯特。"
+ },
+ "22eb166e9fb3": {
+  "en": "Toughening Up Time (~15,000 to ~4,500 B.G.)",
+  "t": "强壮起来时代（~15,000 到 ~4,500 B.G.）"
+ },
+ "256c6905e619": {
+  "en": "Fost stones formed during the process, from Soul Energy interfering deep within the land. The Buhraies used them as a light source; the Lishies eventually learned about them, but never used them widely, since fire pits were easier.",
+  "t": "在这个过程中，灵魂能量在地下深处的干扰形成了福斯特石。布莱斯把它们当作光源；利希斯最终也知道了它们，但从未广泛使用，因为火坑更简单。"
+ },
+ "26bbb2f10eaf": {
+  "en": "<strong>The Prosperity Treaty Period (680 A.G. to today):</strong> the Darfaries, Wozefaries and Sorefaries became equal to humans under the law (see The Prosperity Treaty Period under Humans).",
+  "t": "<strong>繁荣条约时期（680 A.G. 至今）：</strong>达尔法里斯、沃泽法里斯和索雷法里斯在法律上和人类平等了（见人类条目下的繁荣条约时期）。"
+ },
+ "26e73987c5b3": {
+  "en": "~2,100 B.G.: the Lishies found a way to take the island back and began eating the Bruntos as a peculiar food source. But the fog meant they couldn't eat them all, so once they had had their fill, the island was mostly abandoned.",
+  "t": "~2,100 B.G.：利希斯找到了夺回那座岛的方法，开始把布伦托斯当作一种奇特的食物来源吃。但雾气让他们没法把它们全吃光，所以等他们吃够了，那座岛基本上就被遗弃了。"
+ },
+ "2920cc2a7ea1": {
+  "en": "The mountain pact was made, along with a new gesture to go with it, the Mountain Greeting: hands up, touching noses (if you can), staring into each other's eyes, and shaking bellies together.",
+  "t": "山之盟约订立了，还附带了一个与之配套的新手势，山之问候：举起双手，碰碰鼻子（如果碰得到的话），盯着对方的眼睛，一起晃肚子。"
+ },
+ "2a4fa5aa0d02": {
+  "en": "<strong>The Hazing of Aldemeri Period (~900 to ~805 B.G.):</strong> humans struck back at the Lishies by pitting them against one another. They managed to provoke a war between Lishin and the Buhraies, all while killing Buhraies and sabotaging Bahyum Castle. With the power of the stones, humans worked directly, and indirectly from the shadows, to bring Aldemeri down. ~855 B.G.: the Buhraies unchained the Wood People, which wiped out most humans on the plains, but didn't slow human activity in the southern plains. ~805 B.G.: Aldemeri fell.",
+  "t": "<strong>阿尔德梅里欺凌时期（~900 到 ~805 B.G.）：</strong>人类通过让利希斯自相残杀来反击。他们成功挑起了利欣和布莱斯之间的战争，同时还在杀布莱斯、破坏巴休姆城堡。凭借石头的力量，人类直接地，以及间接地从暗处，努力把阿尔德梅里拉下马。~855 B.G.：布莱斯解开了伍德皮普尔的束缚，这几乎消灭了平原上的大多数人类，但并没有减缓人类在南部平原的活动。~805 B.G.：阿尔德梅里陷落了。"
  },
  "2ad01d13f817": {
   "en": "Fuhraies: a tall tree-like being with a shaggy blue mane and a root-like lower body.",
   "t": "弗莱斯：一个长着蓬乱蓝色鬃毛、下半身像树根一样的高大树状生物。"
  },
+ "2b02c5ebf4c0": {
+  "en": "<strong>The Revolution Period (~50,000 to ~10,000 B.G.):</strong> as different groups were exposed to different environments on the southern continent, the land they lived on shaped them into distinct specialized groups. Three new races formed from them: the Fuhraies, the Lishies and the Buhraies. They spread quickly and began clashing with one another over territory.",
+  "t": "<strong>变革时期（~50,000 到 ~10,000 B.G.）：</strong>随着不同的群体在南大陆暴露于不同的环境，他们所生活的土地把他们塑造成了各具特色的专门群体。从中形成了三个新种族：弗莱斯、利希斯和布莱斯。他们迅速扩散，开始为了领土互相冲突。"
+ },
+ "2ce1faab243d": {
+  "en": "With Ganyrami fallen, and the desert treacherous and offering few resources, humans slowed their attacks and shifted toward daily life. For a brief time, humans were so spread out that conflicts were rare, and the use of Walking Heart stones faded as times grew peaceful.",
+  "t": "随着加尼拉米陷落，而沙漠又险恶、资源匮乏，人类放缓了进攻，转向日常生活。在一段短暂的时间里，人类分布得如此分散，冲突很少，随着日子变得和平，沃金哈特石的使用也逐渐消失了。"
+ },
+ "2d236710a727": {
+  "en": "The Path of No Return Period (~900 to ~500 B.G.):",
+  "t": "不归路时期（~900 到 ~500 B.G.）："
+ },
  "2e47846ebd08": {
   "en": "The history of Vraki, race by race. It starts with the primordial Finaies, who spread across the northern continent and later the south. Over tens of thousands of years their offshoots, the Fuhraies, Lishies and Buhraies, split off and fought over territory. The timeline then follows the Darfaries, Wozefaries and Sorefaries and, finally, the humans. Dates are counted in years before Ganyrami (B.G.) and after it (A.G.).",
   "t": "弗拉基的历史，按种族逐一讲述。它从原初的菲奈斯开始，他们遍布北方大陆，后来又扩展到南方。在数万年的时间里，他们的分支——弗莱斯、利希斯和布莱斯——分化出来，并为争夺领土而战。年表随后讲述了达尔法里斯、沃泽法里斯和索雷法里斯，最后是人类。年份以加尼拉米之前（B.G.）和之后（A.G.）来计算。"
+ },
+ "3027887b08bb": {
+  "en": "Some tried to figure out why the Buhraies were on the defensive, but found nothing useful. Some Lishies even began to forget the Buhraies and Fuhraies existed.",
+  "t": "有些人试图弄清楚布莱斯为什么处于守势，但没发现什么有用的东西。有些利希斯甚至开始忘记布莱斯和弗莱斯的存在。"
+ },
+ "31853b7e87fb": {
+  "en": "The Devolution Time (~10,000 B.G. to today)",
+  "t": "退化时代（~10,000 B.G. 至今）"
+ },
+ "31e9064c054d": {
+  "en": "<strong>The Landscaping Period (~100,000 to ~50,000 B.G.):</strong> self-aware and able to move around, they spread south, conquered the entire continent and shaped the land to look like the north.",
+  "t": "<strong>造景时期（~100,000 到 ~50,000 B.G.）：</strong>有了自我意识、能够四处移动之后，他们向南扩散，征服了整个大陆，并把土地塑造成北方的样子。"
+ },
+ "333e1b6a8d3c": {
+  "en": "The Hifuna Conquer Period (~3,000 to ~2,500 B.G.):",
+  "t": "希富纳征服时期（~3,000 到 ~2,500 B.G.）："
+ },
+ "34a611a9d263": {
+  "en": "The Buhraies realized the Wood People and humans had basically taken over the land. They used the last of their strength to cast a spell at the moon itself to make all living things visible, since humans hid, bundled together, at night, but the spell wasn't strong enough and failed.",
+  "t": "布莱斯意识到伍德皮普尔和人类基本上已经占领了这片土地。他们用最后的力量对着月亮本身施放了一个咒语，想让所有生物都现形，因为人类夜里会挤成一团躲起来，但这个咒语不够强，失败了。"
+ },
+ "354a16b98c0f": {
+  "en": "Blood Research Time (~5,000 to ~2,100 B.G.)",
+  "t": "血之研究时代（~5,000 到 ~2,100 B.G.）"
+ },
+ "36eafde28664": {
+  "en": "The remnants of the Buhraies, Lishies and Fuhraies now shared a single mountain and interbred, so more and more Darfaries, Wozefaries and Sorefaries were born, and Vraki became the official language. (The Fuhraies couldn't interbreed with the others, since all the other species are fleshy.) The Buhraies developed the Darfaries interface in this period, trying to control the Darfaries as foot soldiers.",
+  "t": "布莱斯、利希斯和弗莱斯的残余如今共享一座山并互相通婚，所以越来越多的达尔法里斯、沃泽法里斯和索雷法里斯诞生了，弗拉基语成了官方语言。（弗莱斯无法和其他种族通婚，因为其他物种都是血肉之躯。）布莱斯在这个时期开发了达尔法里斯界面，试图把达尔法里斯控制成步兵。"
+ },
+ "39b8a3267ae0": {
+  "en": "The Evolution Time (unknown to ~10,000 B.G.)",
+  "t": "进化时代（未知 到 ~10,000 B.G.）"
+ },
+ "3bc984882122": {
+  "en": "Wozefaries &amp; Sorefaries",
+  "t": "沃泽法里斯和索雷法里斯"
+ },
+ "3ca713996d24": {
+  "en": "<strong>Windless Snow Period (~5,215 to ~3,500 B.G.):</strong> a period of peace, with plentiful resources and unoccupied snowy land as far as the eye could see, since the other two races had plenty of land of their own to grow into.",
+  "t": "<strong>无风之雪时期（~5,215 到 ~3,500 B.G.）：</strong>一段和平的时期，资源丰富，放眼望去都是无人占据的雪地，因为另外两个种族自己就有大量的土地可以发展。"
+ },
+ "43892718a38a": {
+  "en": "The same as the Darfaries': born from the crossbreeding of Lishies and Buhraies on the mountain, then sent flying off the Goodbye Cliff toward Flatland once the Darfaries took over (see Transformation Time under Darfaries).",
+  "t": "和达尔法里斯一样：诞生于利希斯和布莱斯在山上的杂交，然后在达尔法里斯掌权后被从再见悬崖朝着弗拉特兰发射出去（见达尔法里斯条目下的变形时代）。"
+ },
+ "43a3004b8416": {
+  "en": "Some human settlements grew into villages, then cities. As the population grew, bandits showed up, so the Sanbi and Tolerideme Kingdoms formed around the mighty adventurers who protected them (not the same as Forway adventurers); at this point, both were cities rather than villages. Roads began to connect these places, including one of the first roads up the Buhraies Plains South Dip into Tolerideme.",
+  "t": "一些人类定居点发展成了村庄，然后是城市。随着人口增长，强盗出现了，于是桑比王国和托勒里德梅王国围绕着保护它们的强大冒险者（和福威的冒险者不是一回事）形成了；那时，两者都已经是城市而不是村庄了。道路开始连接这些地方，包括最早的一条从布莱斯平原南洼地向上通往托勒里德梅的道路。"
+ },
+ "49609307701a": {
+  "en": "Humans",
+  "t": "人类"
  },
  "4a24e602a5cb": {
   "en": "The history of Vraki, race by race. It starts with the primordial Finaies, who spread across the northern continent and later the south.",
   "t": "弗拉基的历史，按种族逐一讲述。它从原初的菲奈斯开始，他们遍布北方大陆，后来又扩展到南方。"
  },
+ "4b08ef99fc63": {
+  "en": "The Buhraies brought several humans to the islands of the Buhraies Plains and taught them Vraki and other research-related skills. They stayed on the middle islands, along with other scientific studies. Buhraies blood was mixed into human blood, letting humans cast spells, some more than others.",
+  "t": "布莱斯把几个人类带到布莱斯平原的岛上，教他们弗拉基语和其他与研究相关的技能。他们和其他科学研究一起留在中间的那些岛上。布莱斯的血被混进人类的血里，让人类能够施法，有些人比别人更强。"
+ },
+ "4ccab7d8b228": {
+  "en": "572 A.G.: Tolerideme blew up the road up the Buhraies Plains South Dip after losing too many men in the war against Sanbi.",
+  "t": "572 A.G.：托勒里德梅在对桑比的战争中损失了太多人手后，炸毁了从布莱斯平原南洼地向上的那条路。"
+ },
+ "513e4fe9f930": {
+  "en": "Bahyum Castle Period (~1,500 to ~855 B.G.):",
+  "t": "巴休姆城堡时期（~1,500 到 ~855 B.G.）："
+ },
+ "54df17c5ef76": {
+  "en": "Gandew Time (~270 A.G. to today)",
+  "t": "甘杜时代（~270 A.G. 至今）"
+ },
+ "57614479dd2e": {
+  "en": "1039 A.G., Paulin 14th (Gannday): Harry is summoned.",
+  "t": "1039 A.G.，保林 14日（甘日）：哈利被召唤。"
+ },
+ "59252160795d": {
+  "en": "<strong>Lishies &amp; Buhraies Shift Period (~805 B.G. to ~0 A.G.):</strong> the children of these species began to crossbreed, but they couldn't breed back with either parent species: these mixed children could only breed with one another, which sped up the rapid growth of the three new species: the Darfaries, the Wozefaries and the Sorefaries.",
+  "t": "<strong>利希斯与布莱斯转变时期（~805 B.G. 到 ~0 A.G.）：</strong>这两个物种的孩子开始杂交，但他们无法和任何一方的父母物种繁殖：这些混血孩子只能彼此繁殖，这加速了三个新物种的迅速增长：达尔法里斯、沃泽法里斯和索雷法里斯。"
+ },
+ "59b700651583": {
+  "en": "Tribes formed around what they still remembered of themselves on the Buhraies Plains, and in the lower plains too, as villages spread. The Lishies began hunting humans.",
+  "t": "部落围绕着他们对自己在布莱斯平原时期仍记得的东西形成，随着村庄的扩散，在较低的平原上也是如此。利希斯开始猎杀人类。"
+ },
+ "59e2f04e027a": {
+  "en": "Rumors of ancient species look-alikes began to float around. At the time, the Gandew Kingdom killed any human who wandered too close to the mountain. ~97 A.G.: humans mounted an assault, but the mountain was so well protected that they gave up.",
+  "t": "关于长得像古老物种的东西的流言开始流传。那时，甘杜王国会杀死任何走得离山太近的人类。~97 A.G.：人类发动了一次进攻，但那座山防守得太好了，他们放弃了。"
+ },
+ "5a55fd2e45e7": {
+  "en": "~2,100 B.G.: they finally lost the island to the Lishies, who had figured out how to deal with the fog, as the Buhraies were no longer as focused on their research there.",
+  "t": "~2,100 B.G.：他们最终把那座岛输给了利希斯，利希斯找到了对付雾气的办法，而布莱斯已经不再那么专注于那里的研究了。"
+ },
+ "5ad561d5fcff": {
+  "en": "They created a common currency, formalized a calendar starting from the year Ganyrami fell (Adrian helped drive both the calendar and the units of measurement), and built other tools to put everyone on the same page and make trade easier.",
+  "t": "他们创造了一种通用货币，把从加尼拉米陷落那年开始的历法正式确定下来（阿德里安推动了历法和度量单位的制定），还打造了其他工具，让所有人步调一致，让贸易更容易。"
+ },
+ "5c38bd246335": {
+  "en": "640 A.G.: an incredibly smart man named Freeish Paulin felt compelled to change things, so he began building a secret base in what is now Forway City to overthrow the kingdoms.",
+  "t": "640 A.G.：一个叫弗里伊什·保林、聪明得惊人的人觉得自己必须改变现状，于是他开始在如今的福威城建造一个秘密基地，好推翻各个王国。"
+ },
+ "5ded7946b220": {
+  "en": "New Home Period (~855 to ~500 B.G.):",
+  "t": "新家时期（~855 到 ~500 B.G.）："
+ },
+ "5e1316444d98": {
+  "en": "Not as dumb as the Buhraies thought, the Lishies began playing 4D chess: they faked battles with the Buhraies while planning to take over the island.",
+  "t": "利希斯并不像布莱斯想的那么蠢，他们开始下四维象棋：一边和布莱斯打假仗，一边策划夺取那座岛。"
+ },
+ "5ec9927b2e0d": {
+  "en": "~5,215 B.G.: the Finaies, having failed to bring down the Buhraies Plains, retreated and created Hifuna.",
+  "t": "~5,215 B.G.：菲奈斯没能攻破布莱斯平原，撤退并创造了希富纳。"
+ },
+ "5f61edf113ea": {
+  "en": "The Prosperity Treaty Period (680 A.G. to today):",
+  "t": "繁荣条约时期（680 A.G. 至今）："
+ },
+ "60885bdb1799": {
+  "en": "Fake Battle Period (~3,000 to ~2,100 B.G.):",
+  "t": "假战时期（~3,000 到 ~2,100 B.G.）："
+ },
+ "62a122deaf37": {
+  "en": "They developed a tribal, territorial nature, which forced them to spread out quickly to avoid too much internal conflict. In doing so, they clashed with the Buhraies so often that they got to know the Buhraies' blood Soul Energy and found ways to fight it.",
+  "t": "他们形成了部落式的、领地性的天性，这迫使他们迅速扩散，以避免过多的内部冲突。在这个过程中，他们和布莱斯冲突得如此频繁，以至于熟悉了布莱斯的血之灵魂能量，并找到了对抗它的方法。"
+ },
+ "64eb49650b23": {
+  "en": "~150 A.G.: Whiteland was discovered.",
+  "t": "~150 A.G.：怀特兰被发现。"
+ },
+ "659f004a65c6": {
+  "en": "They kept up constant skirmishes and raids to collect more bodies for an all-out war. ~3,575 B.G.: the Lishies launched a war against the Buhraies, and both sides were decimated as the battle raged on.",
+  "t": "他们不断地进行小冲突和袭击，收集更多尸体，为全面战争做准备。~3,575 B.G.：利希斯对布莱斯发动了战争，随着战斗愈演愈烈，双方都伤亡惨重。"
+ },
  "6661bb44c1eb": {
   "en": "World Timeline · #HusbandOutWorld",
   "t": "世界年表 · #HusbandOutWorld"
+ },
+ "67cfa0486fb1": {
+  "en": "<strong>The Hazing of Lishin Period (~805 to ~525 B.G.):</strong> with Aldemeri out of the picture, humans focused on Lishin, the hub for attacking any other civilization. They failed to trigger another civil war, but managed to start an all-out war between Ganyrami and Lishin, then took over the remnants with a war of their own. ~525 B.G.: Lishin fell.",
+  "t": "<strong>利欣欺凌时期（~805 到 ~525 B.G.）：</strong>阿尔德梅里不再碍事后，人类把注意力集中在利欣上，它是进攻任何其他文明的枢纽。他们没能挑起另一场内战，但成功地在加尼拉米和利欣之间挑起了一场全面战争，然后用他们自己的一场战争接管了残余。~525 B.G.：利欣陷落了。"
+ },
+ "68be08773055": {
+  "en": "The Hazing of Ganyrami Period (~525 to 0 B.G.):",
+  "t": "加尼拉米欺凌时期（~525 到 0 B.G.）："
+ },
+ "696b692d9b1c": {
+  "en": "570 A.G.: the Kingdom of Tolerideme was winning its war against Sanbi, so it marched on Gandew, and a great war between the three kingdoms began. Flatland became a resting spot for soldiers, especially for exchanging information. The Darfaries were now as flexible as humans in warfare, so it wasn't easy; wars kept coming one after another, mostly ending in stalemates.",
+  "t": "570 A.G.：托勒里德梅王国在对桑比的战争中占了上风，于是向甘杜进军，三个王国之间的一场大战开始了。弗拉特兰成了士兵们的歇脚点，尤其是交换情报的地方。达尔法里斯如今在战争中和人类一样灵活，所以这并不容易；战争一场接一场，大多以僵局告终。"
+ },
+ "6accfdb2f93f": {
+  "en": "<strong>Sundeath Period (~270 to ~380 A.G.):</strong> a group of ancient species gathered and created a second mountain, now known as Sundeath. They summoned Naked Bruntos again, but the humans soon rebelled and, with the help of other humans who taught them Vraki and about the world, wiped out the ancient species.",
+  "t": "<strong>桑德斯时期（~270 到 ~380 A.G.）：</strong>一群古老物种聚集起来，造出了第二座山，如今被称为桑德斯。他们又召唤了裸布伦托斯，但人类很快就造反了，在其他教他们弗拉基语和世界知识的人类的帮助下，消灭了古老物种。"
+ },
+ "6b1a8980963a": {
+  "en": "<strong>The Replanning Period (~2,500 B.G. to today):</strong> they've grown so conservative that they're still planning, or rather, watching what happens in the south and discussing it among themselves as if it were a TV show.",
+  "t": "<strong>重新规划时期（~2,500 B.G. 至今）：</strong>他们变得如此保守，至今还在规划，或者更确切地说，在看着南方发生的事，彼此之间讨论，就好像那是一部电视剧。"
+ },
+ "6b815e85c7d7": {
+  "en": "Overtaking Subjugation Period (~3,500 to ~2,100 B.G.):",
+  "t": "反客为主时期（~3,500 到 ~2,100 B.G.）："
+ },
+ "6b9e468317c2": {
+  "en": "Before Ganyrami Time (~2,100 B.G. to 0 A.G.)",
+  "t": "加尼拉米之前时代（~2,100 B.G. 到 0 A.G.）"
+ },
+ "7472d25f6686": {
+  "en": "~495 B.G.: they all fled into the desert to build a mountain to protect themselves from what they called a plague of Naked Bruntos.",
+  "t": "~495 B.G.：他们全都逃进沙漠，建造一座山来保护自己，免受他们所说的裸布伦托斯瘟疫之害。"
+ },
+ "7604d58b9061": {
+  "en": "~500 B.G.: the remnants of the Buhraies and Lishies made a pact with the Fuhraies. The Naked Bruntos' attacks on what is now Flatland kept growing exponentially. The humans couldn't take the land, but the Buhraies drained most of their Soul Energy, and many Lishies died from having all their blood sucked out just to keep fending off the humans. Mortified by the humans' strength, the Fuhraies didn't think twice about going as far west as they could when the Buhraies proposed building a large mountain.",
+  "t": "~500 B.G.：布莱斯和利希斯的残余和弗莱斯订立了盟约。裸布伦托斯对如今弗拉特兰的进攻呈指数级增长。人类拿不下这片土地，但布莱斯耗尽了大部分灵魂能量，许多利希斯因为全身的血都被吸干而死，只是为了继续抵挡人类。弗莱斯被人类的力量吓坏了，当布莱斯提议建造一座大山时，他们毫不犹豫地尽可能往西去。"
+ },
+ "77407956faad": {
+  "en": "Cold Fall Time (~2,100 to ~500 B.G.)",
+  "t": "寒冷衰落时代（~2,100 到 ~500 B.G.）"
+ },
+ "7782a8d4ad63": {
+  "en": "Blue Snow Period (~3,500 to ~3,000 B.G.):",
+  "t": "蓝雪时期（~3,500 到 ~3,000 B.G.）："
+ },
+ "78dc33deecc7": {
+  "en": "Rise of the Flesh Time (~15,000 to ~5,000 B.G.)",
+  "t": "血肉崛起时代（~15,000 到 ~5,000 B.G.）"
+ },
+ "78eacb0f1273": {
+  "en": "<strong>Blood &amp; Soul Energy Period (~10,000 to ~6,000 B.G.):</strong> the Buhraies developed their own blood interface. Their hunger for more power led them to clash with the Finaies to the north and the Lishies to the south at the same time. The constant battling made them flesh out their abilities further, while the Lishies grew resistant to them, ending in a stalemate.",
+  "t": "<strong>血与灵魂能量时期（~10,000 到 ~6,000 B.G.）：</strong>布莱斯发展出了他们自己的血之界面。他们对更强力量的渴望，让他们同时和北方的菲奈斯、南方的利希斯发生冲突。不断的战斗让他们进一步充实了自己的能力，而利希斯则对他们产生了抵抗力，最终陷入僵局。"
+ },
+ "7a04caf1f542": {
+  "en": "<strong>The Unknown Period (unknown to ~100,000 B.G.):</strong> what is known about the Finaies today came about in this period: the ability to move around, sexual reproduction, Soul Energy abilities and so on. They lived north of Hifuna, on the planet's northern continent.",
+  "t": "<strong>未知时期（未知 到 ~100,000 B.G.）：</strong>如今关于菲奈斯所知的一切都源于这个时期：移动能力、有性繁殖、灵魂能量能力等等。他们生活在希富纳以北，这颗星球的北大陆上。"
+ },
+ "7c5b44147b60": {
+  "en": "Tribal Period (~1,900 to ~1,500 B.G.):",
+  "t": "部落时期（~1,900 到 ~1,500 B.G.）："
+ },
+ "7c95291f6c13": {
+  "en": "Bloodsport Period (~2,100 to ~1,500 B.G.):",
+  "t": "血腥运动时期（~2,100 到 ~1,500 B.G.）："
+ },
+ "817b1976f3b1": {
+  "en": "Interfighting Period (~2,100 to ~1,100 B.G.):",
+  "t": "内斗时期（~2,100 到 ~1,100 B.G.）："
+ },
+ "8336ed4927b2": {
+  "en": "<strong>Isolated Period (~270 to ~570 A.G.):</strong> Gandew kept out of human affairs while making use of the Goodbye Cliff. Flatland City came to be in this period. ~375 A.G.: the Gandew Common Duel Rights &amp; Law was established, and it evolved over the years.",
+  "t": "<strong>孤立时期（~270 到 ~570 A.G.）：</strong>甘杜远离人类的事务，同时利用着再见悬崖。弗拉特兰城就是在这个时期出现的。~375 A.G.：甘杜普通决斗权利与法律确立，并在这些年里不断演变。"
+ },
+ "871727959770": {
+  "en": "The Lishies were steadily losing ground to the Naked Bruntos' invasion south and east of the Buhraies Plains.",
+  "t": "在布莱斯平原的南面和东面，利希斯在裸布伦托斯的入侵下节节败退。"
+ },
+ "875b931a4bf6": {
+  "en": "~3,150 B.G.: the Finaies launched their biggest strike from the sea. The Buhraies Plains East Dip lost the most land. It was repaired, but by a different generation from the one that built it, so their ratios and practices didn't match the original ones.",
+  "t": "~3,150 B.G.：菲奈斯从海上发动了最大规模的打击。布莱斯平原东洼地失去的土地最多。它被修复了，但修复者和建造者不是同一代人，所以他们的比例和做法和原来的不一样。"
+ },
+ "8f0206f4f23b": {
+  "en": "~1,650 B.G.: Naked Bruntos started to appear, but the Lishies treated them like any other animal: something to hunt for dinner. They tasted great, too, so the Lishies began herding humans and fattening them up like cattle. Unaware of how intelligent humans were, the Lishies let them grow and prosper under their noses, as often as the humans planned their escape.",
+  "t": "~1,650 B.G.：裸布伦托斯开始出现，但利希斯把他们当作和别的动物一样的东西：可以猎来当晚餐。他们还很好吃，所以利希斯开始像养牛一样圈养人类、把他们养肥。利希斯不知道人类有多聪明，任由他们在自己眼皮底下成长繁荣，而人类也一次次地策划逃跑。"
+ },
+ "8f96d175e396": {
+  "en": "<strong>Population Expansion Period (~0 to ~250 A.G.):</strong> the Darfaries and Wozefaries kept growing until they were the largest populations on the mountain. Conflicts between species, especially between the new and the old, rose for lack of space.",
+  "t": "<strong>人口扩张时期（~0 到 ~250 A.G.）：</strong>达尔法里斯和沃泽法里斯不断增长，直到成为山上人口最多的种族。由于空间不足，物种之间的冲突，尤其是新旧之间的冲突，越来越多。"
  },
  "94f88c976209": {
   "en": "Finaies: two tree-like women with leafy green hair and root-like legs, one reaching out with small seeds.",
   "t": "菲奈斯：两个长着绿叶般头发、腿像树根一样的树状女人，其中一个伸出手，手里有小种子。"
  },
+ "963ef2c9a4bf": {
+  "en": "The kingdoms began competing with each other.",
+  "t": "各个王国开始互相竞争。"
+ },
+ "984ba7a694c8": {
+  "en": "<strong>The Calm Period (~2,100 to ~600 B.G.):</strong> the skirmishes between the Fuhraies and the Buhraies and Lishies finally ended, ushering in a period of calm. They shored up their defenses as much as they could, but over time their battle fangs dulled.",
+  "t": "<strong>平静时期（~2,100 到 ~600 B.G.）：</strong>弗莱斯与布莱斯和利希斯之间的小冲突终于结束了，迎来了一段平静的时期。他们尽可能地加固了防御，但随着时间推移，他们的战斗獠牙变钝了。"
+ },
+ "985ff25eb683": {
+  "en": "They looked for ways off the Buhraies Plains and eventually found the Buhraies Plains East Dip, which was growing unstable. ~1,650 B.G.: they provoked a massive landslide and used it to escape in droves.",
+  "t": "他们寻找离开布莱斯平原的路，最终找到了正在变得不稳定的布莱斯平原东洼地。~1,650 B.G.：他们引发了一场大规模的山体滑坡，借此成群结队地逃了出去。"
+ },
+ "9870c3a7d4a3": {
+  "en": "They noticed humans spreading like rats, but didn't care: at least the researchers who mattered truly believed humans were powerless.",
+  "t": "他们注意到人类像老鼠一样扩散，但并不在乎：至少那些说了算的研究者真心相信人类毫无力量。"
+ },
+ "9cdf7b22c8a8": {
+  "en": "Sick of the skirmishes, some Fuhraies left Old Fuhrair for the biggest mountain to the north and founded Fuhrair.",
+  "t": "厌倦了小冲突，一些弗莱斯离开了旧弗莱尔，前往北边最大的山，建立了弗莱尔。"
+ },
+ "9eec3d0900f7": {
+  "en": "They tried several times to invade by sea, but every attempt was massacred. ~3,150 B.G.: the Great Sea War ended in a massive loss for them, but they at least managed to destroy part of the Buhraies Plains East Dip.",
+  "t": "他们好几次试图从海上入侵，但每次都遭到屠杀。~3,150 B.G.：大海战以他们的惨败告终，但他们至少摧毁了布莱斯平原东洼地的一部分。"
+ },
+ "9f745374a285": {
+  "en": "With a constant stream of new babies, and the older ones growing up, the bandit leader became the leader of the biggest village in the oasis: Flatland. He poured all his resources into building the village, hoping to use the Wozefaries and Sorefaries as slaves in his mines. Wozefaries and Sorefaries slowly spread through the kingdoms, though many people were racist toward them and most were slaves. Some began changing public opinion by using their abilities and Soul Energy to help.",
+  "t": "随着新的婴儿源源不断，年长的也渐渐长大，强盗首领成了绿洲中最大村庄的首领：弗拉特兰。他把所有的资源都投入到村庄的建设中，希望把沃泽法里斯和索雷法里斯当作奴隶在他的矿里使用。沃泽法里斯和索雷法里斯慢慢扩散到各个王国，不过很多人对他们有种族歧视，大多数都是奴隶。有些人开始用自己的能力和灵魂能量帮助别人，改变了公众的看法。"
+ },
+ "a03a0902557c": {
+  "en": "The Lishies clashed with the Buhraies again and discovered how to use Buhraies bodies as a Soul Energy interface to fly up onto the Buhraies Plains, since the plains were far too high to climb, and carving a path always led to a skirmish that took too long.",
+  "t": "利希斯再次和布莱斯发生冲突，并发现了如何把布莱斯的尸体当作灵魂能量界面，飞上布莱斯平原，因为平原太高了爬不上去，而开辟一条路总会引发一场耗时太久的小冲突。"
+ },
+ "a0abd79df70f": {
+  "en": "Frustrated that the subjugation of the Lishies had gone nowhere, the Buhraies began targeting the Fuhraies, but that only led to fighting. The Lishies attacked as well, since they didn't know what power the Buhraies were after to turn the tide.",
+  "t": "由于对利希斯的征服毫无进展而沮丧，布莱斯开始把目标转向弗莱斯，但这只引发了战斗。利希斯也发动了进攻，因为他们不知道布莱斯想要什么力量来扭转局势。"
+ },
+ "a1fc70d6245e": {
+  "en": "Fuhraies Subjugation Period (~3,500 to ~3,000 B.G.):",
+  "t": "弗莱斯征服时期（~3,500 到 ~3,000 B.G.）："
+ },
+ "a2d2cd377c0b": {
+  "en": "~420 A.G.: Newland was discovered.",
+  "t": "~420 A.G.：纽兰被发现。"
+ },
+ "a58bfabe1c7b": {
+  "en": "Landscaping Period (~6,000 to ~5,000 B.G.):",
+  "t": "造景时期（~6,000 到 ~5,000 B.G.）："
+ },
+ "a8a4c0b61e02": {
+  "en": "The Lishies spread through the forest, especially toward the southwest, where food was abundant. Where there was enough food and strong tribal leadership, their population grew denser and even tamer.",
+  "t": "利希斯在森林里扩散，尤其是朝着食物丰富的西南方向。在食物充足、部落领导强有力的地方，他们的人口变得更密集，甚至更温顺了。"
+ },
+ "a8ca9bf9cebd": {
+  "en": "<strong>Lishin Cattle Period (~1,500 to ~1,000 B.G.):</strong> the Lishies bred and fattened humans by the thousands for food, and with so many humans, some were always escaping. The human population exploded all over the lowlands. A small group escaped south and founded what is now Endlessfog and Triangle City.",
+  "t": "<strong>利欣牲畜时期（~1,500 到 ~1,000 B.G.）：</strong>利希斯成千上万地繁殖、养肥人类作为食物，人类这么多，总有人在逃跑。人类人口在整个低地爆炸式增长。一小群人逃到了南方，建立了如今的恩德莱斯福格和特赖安格尔城。"
+ },
+ "ac84c46b2c5d": {
+  "en": "~490 A.G.: Old Fuhrair became a mining town.",
+  "t": "~490 A.G.：旧弗莱尔成了一个采矿镇。"
+ },
+ "b009a6725fc7": {
+  "en": "~2,650 B.G.: the Buhraies didn't care about the failed Finaies invasion of the Fuhraies.",
+  "t": "~2,650 B.G.：布莱斯并不在乎菲奈斯对弗莱斯失败的入侵。"
+ },
+ "b039e6ab43c2": {
+  "en": "The plan succeeded, and the courtroom scientists became the new kings. They wrote the Prosperity Treaty and Forway law so that no more wars over greed would break out.",
+  "t": "计划成功了，宫廷科学家们成了新的国王。他们写下了《繁荣条约》和福威法律，以免再爆发因贪婪而起的战争。"
+ },
  "b0ddaa9241b6": {
   "en": "Fuhraies",
   "t": "弗莱斯"
+ },
+ "b24ad641d3f9": {
+  "en": "Completely drained of Soul Energy, the Buhraies gave up and fled west, to where Flatland is now. Some Lishies came to the same place, and a war between them left both sides with measly numbers, until a ceasefire. With so few left, the Buhraies made a cooperation pact with the Lishies: they would suck the Lishies' blood to mount an assault to retake their plains. It never worked, since they were always on the defensive for lack of numbers.",
+  "t": "灵魂能量完全耗尽，布莱斯放弃了，向西逃到了如今弗拉特兰所在的地方。一些利希斯也来到了同一个地方，他们之间的一场战争让双方都只剩下寥寥无几的人，直到停战。由于所剩无几，布莱斯和利希斯订立了合作盟约：他们会吸利希斯的血，来发动一次夺回平原的进攻。这从来没成功过，因为人数不足，他们总是处于守势。"
+ },
+ "b25ffe77fc5e": {
+  "en": "That's when the Naked Bruntos (humans) came about. While testing their war skills, the Buhraies discovered a hunting sport, and especially how tasty human blood was when the humans were frightened and running for their lives. Some also found it tasty when Naked Bruntos were extremely lustful for their tiny beauty. This led to tons of research, and to mixing Buhraies blood into humans.",
+  "t": "裸布伦托斯（人类）就是在那时候出现的。在测试战争技能时，布莱斯发现了一种狩猎运动，尤其是发现了当人类被吓坏、拼命逃命时，人血有多好喝。有些人还发现，当裸布伦托斯对他们娇小的美貌欲火中烧时，人血也很好喝。这引出了大量的研究，以及把布莱斯的血混进人类体内。"
+ },
+ "b2c5dbdc4eaf": {
+  "en": "~0 B.G.: Ganyrami fell. The lower plains and the Buhraies Plains were now under human control.",
+  "t": "~0 B.G.：加尼拉米陷落了。较低的平原和布莱斯平原如今都在人类的控制之下。"
+ },
+ "b3ea7c798526": {
+  "en": "~2,650 B.G.: the Finaies mounted a secret assault through the desert to massacre the Fuhraies, but the desert took care of most of them, and the Fuhraies holed up inside their newly created mountain, Fuhrair, and easily defended themselves.",
+  "t": "~2,650 B.G.：菲奈斯穿越沙漠发动了一次秘密突袭，想屠杀弗莱斯，但沙漠收拾了他们中的大部分，而弗莱斯躲进了他们新造的山——弗莱尔——里，轻而易举地守住了自己。"
+ },
+ "b436774afc98": {
+  "en": "~97 A.G.: they fended off an assault from the Naked Bruntos.",
+  "t": "~97 A.G.：他们击退了裸布伦托斯的一次进攻。"
+ },
+ "b45a2f35b8bd": {
+  "en": "They spent so long planning another comeback that, in the end, they couldn't fix their own mess: Hifuna. They mounted the largest army they could muster, but suffered massive losses crossing it.",
+  "t": "他们花了太长时间策划又一次卷土重来，结果到头来，他们没能收拾自己造成的烂摊子：希富纳。他们集结了能集结的最大军队，但在穿越它时损失惨重。"
+ },
+ "b46259ebc9cb": {
+  "en": "The Buhraies found themselves in what is now Flatland. Resources were scarce, so the Lishies didn't care for it, but more Lishies arrived as humans toppled their cities, especially after the fall of Aldemeri (~805 B.G.). They interbred, and the first Darfaries, Wozefaries and Sorefaries were born.",
+  "t": "布莱斯来到了如今的弗拉特兰。那里资源匮乏，所以利希斯并不在乎它，但随着人类推翻了他们的城市，尤其是在阿尔德梅里陷落（~805 B.G.）之后，越来越多的利希斯来到了这里。他们互相通婚，第一批达尔法里斯、沃泽法里斯和索雷法里斯诞生了。"
+ },
+ "b4ac062d267f": {
+  "en": "~525 B.G.: a massive war broke out between Ganyrami and Lishin, also provoked by humans after they failed to start another civil war. Lishin fell, and humans picked over the remains.",
+  "t": "~525 B.G.：加尼拉米和利欣之间爆发了一场大战，这也是人类在没能挑起另一场内战之后挑起的。利欣陷落了，人类瓜分了残余。"
+ },
+ "b5758530b037": {
+  "en": "650 A.G.: the courtroom scientists of Gandew (Asa the Powerful), Tolerideme (Adrian from North Tolerideme) and Sanbi (Bijura Moacir) met at the hidden base to plan the overthrow. They slowly conditioned the people to accept their ideas and stirred up revolts (\"the greed of the heroes was controlling the people\"), until the kingdoms lost their grip on their people and could no longer wage war on each other. Then the rebellion truly began, and it toppled all three kingdoms. The King of Gandew was executed in front of everyone, calm and relieved despite it all (some people don't believe he was that kind and selfless). The book Prosperity Treaty's Heroes tells this part from another perspective, in <a href=\"/lore/in-world-books/\">Books of Vraki</a>. The King of Tolerideme was starved to death. The King of Sanbi was publicly spanked in humiliation, then dropped alive into the ocean.",
+  "t": "650 A.G.：甘杜（阿萨·帕瓦富尔）、托勒里德梅（北托勒里德梅的阿德里安）和桑比（比茹拉·莫阿西尔）的宫廷科学家们在秘密基地会面，策划推翻王国。他们慢慢地让人民接受他们的想法，并煽动叛乱（“英雄们的贪婪在控制人民”），直到各个王国失去了对人民的控制，再也无法互相开战。然后叛乱真正开始了，推翻了全部三个王国。甘杜国王在众人面前被处决，尽管如此，他依然平静而释然（有些人不相信他有那么善良无私）。《繁荣条约的英雄们》一书从另一个视角讲述了这一段，见<a href=\"/lore/in-world-books/\">弗拉基之书</a>。托勒里德梅国王被活活饿死。桑比国王被当众打屁股羞辱，然后被活着扔进了大海。"
  },
  "b7f90ebb90d6": {
   "en": "Lishies",
   "t": "利希斯"
  },
+ "b8478f6617cf": {
+  "en": "<strong>Up the Mountain Period (~20,000 to ~10,000 B.G.):</strong> the Finaies near the snowy mountains acclimated to the colder regions at higher altitudes and, over time, moved farther toward the peaks. As they did, their bodies changed: their biological rhythm slowed, and they grew calmer, almost as if they were depressed.",
+  "t": "<strong>上山时期（~20,000 到 ~10,000 B.G.）：</strong>雪山附近的菲奈斯适应了高海拔的寒冷地区，随着时间推移，越来越往山顶迁移。在这个过程中，他们的身体发生了变化：生物节律变慢了，他们变得更平静，几乎像是得了抑郁症。"
+ },
+ "b9443a3576a4": {
+  "en": "Small changes started around ~805 B.G., but the new species really began to form and take shape around ~300 to ~200 B.G.",
+  "t": "微小的变化始于 ~805 B.G. 左右，但新物种真正开始成形是在 ~300 到 ~200 B.G. 左右。"
+ },
+ "b97d10f57711": {
+  "en": "Transformation Time (~805 B.G. to ~270 A.G.)",
+  "t": "变形时代（~805 B.G. 到 ~270 A.G.）"
+ },
+ "bd2713797352": {
+  "en": "<strong>Gridlock Period (~10,000 to ~5,215 B.G.):</strong> the Fuhraies now had no trouble fending the Finaies off from their homes, but they were stuck in a deadlock, since they couldn't leave the cold regions anymore: anything above 0 ºC was unbearable for them. ~5,215 B.G.: Hifuna was created, and with it, peace came to the Fuhraies.",
+  "t": "<strong>僵局时期（~10,000 到 ~5,215 B.G.）：</strong>弗莱斯如今可以轻松地把菲奈斯挡在家门外，但他们陷入了僵局，因为他们再也离不开寒冷地区了：任何 0 ºC 以上的温度都让他们无法忍受。~5,215 B.G.：希富纳被创造出来，和平也随之降临到弗莱斯身上。"
+ },
+ "bd9aff4b8cd1": {
+  "en": "The endless skirmishes slowed and lost their intensity. The Fuhraies assumed they had finally won.",
+  "t": "无休止的小冲突逐渐放缓，强度也减弱了。弗莱斯以为他们终于赢了。"
+ },
+ "bd9fdc47d05b": {
+  "en": "648 A.G.: Paulin was betrayed and sold to the Gandew Kingdom to be assassinated. But as the King of Gandew learned what Paulin was trying to do, he came to agree with most of it, overthrowing the current kingdoms included, mainly because he realized that otherwise everyone would end up dead and nothing would be solved. He still had to have Paulin killed to save face with the people, but Paulin had given him all his connections, so the king began building a new base in what is now the Freeish Kingdom. He entrusted one of his closest allies (and mistresses) with leading the organization, and made her Courtroom Scientist under the guise of \"better war preparations\".",
+  "t": "648 A.G.：保林遭到背叛，被卖给甘杜王国去暗杀。但当甘杜国王得知保林想做的事情后，他认同了其中的大部分，包括推翻现有的王国，主要是因为他意识到，否则所有人最后都会死，什么问题都解决不了。为了在人民面前保全面子，他还是不得不处死保林，但保林把自己所有的人脉都交给了他，于是国王开始在如今的弗里伊什王国建造一座新基地。他把领导这个组织的任务托付给了他最亲密的盟友之一（也是他的情妇），并以“更好地备战”为幌子，让她当上了宫廷科学家。"
+ },
+ "bdac01b655c8": {
+  "en": "The Indulgence Period (0 to 120 A.G.):",
+  "t": "放纵时期（0 到 120 A.G.）："
+ },
+ "bdde2cea62ef": {
+  "en": "<strong>The Naked Bruntos Period (~600 to ~500 B.G.):</strong> seeing the rage of the Naked Bruntos (humans), and how quickly the other two races were falling, the rest of their civilization fled into Fuhrair and once again beefed up their defenses as much as they could, mostly to hide from the Naked Bruntos.",
+  "t": "<strong>裸布伦托斯时期（~600 到 ~500 B.G.）：</strong>看到裸布伦托斯（人类）的狂暴，以及另外两个种族沦陷得有多快，他们文明的其余部分逃进了弗莱尔，再次尽可能地加强防御，主要是为了躲避裸布伦托斯。"
+ },
+ "be76e8c1e677": {
+  "en": "Naked Bruntos Time (~2,100 to ~855 B.G.)",
+  "t": "裸布伦托斯时代（~2,100 到 ~855 B.G.）"
+ },
+ "bf5323f8aa98": {
+  "en": "~2,450 B.G.: the Buhraies discovered the Walking Heart stones, irradiated rocks found in Hifuna.",
+  "t": "~2,450 B.G.：布莱斯发现了沃金哈特石，一种在希富纳发现的受辐射的岩石。"
+ },
+ "c117213fbf5e": {
+  "en": "With the Lishies' overwhelming numbers looming, the Buhraies raised a large section of the plains off the ground, grinding Finaies bodies into the earth, to create a safe zone from the Lishies: the Buhraies Plains, a cliff about 2 km high on average that doesn't erode.",
+  "t": "面对利希斯压倒性的数量威胁，布莱斯把平原的一大片区域从地面上抬了起来，把菲奈斯的尸体碾进土里，造出一片躲避利希斯的安全区：布莱斯平原，一座平均约 2 公里高、不会被侵蚀的悬崖。"
+ },
+ "c2bcadaa45d0": {
+  "en": "The Isolation Period (~5,215 to ~3,000 B.G.):",
+  "t": "隔离时期（~5,215 到 ~3,000 B.G.）："
+ },
+ "c41412034a26": {
+  "en": "Clashing Time (~4,500 B.G. to ~0 A.G.)",
+  "t": "冲突时代（~4,500 B.G. 到 ~0 A.G.）"
+ },
+ "c451f8ccff48": {
+  "en": "After Ganyrami Time (0 to 939 A.G.)",
+  "t": "加尼拉米之后时代（0 到 939 A.G.）"
+ },
+ "c7d7101bcef9": {
+  "en": "~1,650 B.G.: Naked Bruntos made the Buhraies Plains East Dip crumble, and several Wood People fell and slowly began to spread; some became unchained. The Buhraies didn't care: it meant more trouble for the Lishies, and a chance to see how things would work themselves out, since Naked Bruntos couldn't be smart or powerful enough to do any harm in return.",
+  "t": "~1,650 B.G.：裸布伦托斯让布莱斯平原东洼地崩塌了，几个伍德皮普尔掉了下去，慢慢开始扩散；有些挣脱了束缚。布莱斯并不在乎：这意味着利希斯会有更多麻烦，也是一个观察事情会如何发展的机会，因为裸布伦托斯不可能聪明或强大到能反过来造成任何伤害。"
+ },
+ "c7ed0674b31f": {
+  "en": "~438 B.G.: Nari stones were discovered, helping the fight as a Soul Energy replacement.",
+  "t": "~438 B.G.：纳里石被发现，作为灵魂能量的替代品帮助了战斗。"
+ },
+ "c8a695ca29d5": {
+  "en": "Red Snow Period (~3,000 to ~2,100 B.G.):",
+  "t": "红雪时期（~3,000 到 ~2,100 B.G.）："
+ },
+ "c942c085708a": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/World%20Timeline.md\">Legacy/Behind The Scenes/World Lore/World Timeline.md</a>",
+  "t": "来源：<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/World%20Timeline.md\">Legacy/Behind The Scenes/World Lore/World Timeline.md</a>"
+ },
+ "ca2e3707a447": {
+  "en": "~338 B.G.: nari gels were discovered, though mostly used to poison enemies rather than to heal.",
+  "t": "~338 B.G.：纳里凝胶被发现，不过主要用来毒害敌人，而不是治疗。"
+ },
+ "ca543d7a9984": {
+  "en": "~855 B.G.: the Buhraies activated their last defense by unchaining the Wood People (removing the Fost stone from the top of each one), but the Wood People mindlessly attacked everyone and everything. Over the years they multiplied rapidly, killing countless humans as they spread, until humans figured out how to use Fost stones to their advantage and built villages surrounded by Wood People.",
+  "t": "~855 B.G.：布莱斯启动了他们最后的防御，解开了伍德皮普尔的束缚（拿掉每一个顶部的福斯特石），但伍德皮普尔不分青红皂白地攻击所有人、所有东西。这些年来它们迅速繁衍，在扩散中杀死了无数人类，直到人类弄明白如何利用福斯特石为己所用，建起了被伍德皮普尔环绕的村庄。"
+ },
+ "cc32f41a6d54": {
+  "en": "Cold Growth Time (~20,000 to ~5,215 B.G.)",
+  "t": "寒冷成长时代（~20,000 到 ~5,215 B.G.）"
+ },
+ "cd4beed3bdd3": {
+  "en": "Eat the Land Period (~10,000 to ~4,500 B.G.):",
+  "t": "吞食大地时期（~10,000 到 ~4,500 B.G.）："
+ },
+ "cdd3216418bc": {
+  "en": "They built their biggest research station ever, Bahyum, and tried to create an automated army factory there, but struggled to control it: it always had a life of its own.",
+  "t": "他们建造了有史以来最大的研究站巴休姆，试图在那里打造一座自动化军队工厂，但很难控制它：它总是有自己的生命。"
+ },
+ "ce82c8e10039": {
+  "en": "<strong>Expulsion Period (~250 to ~270 A.G.):</strong> ~250 A.G.: the remaining Buhraies attempted a coup, but it failed. The Lishies tried too, but there were so few of them that the Darfaries easily defended themselves. The Darfaries wiped out every other species on the mountain. Some fled farther west, but all likely met their end.",
+  "t": "<strong>驱逐时期（~250 到 ~270 A.G.）：</strong>~250 A.G.：剩下的布莱斯企图发动政变，但失败了。利希斯也试过，但他们人太少了，达尔法里斯轻而易举就守住了。达尔法里斯消灭了山上所有的其他物种。有些逃到了更西边，但很可能都死了。"
+ },
+ "cee81695cb1a": {
+  "en": "Prosperity Time (~270 A.G. to today)",
+  "t": "繁荣时代（~270 A.G. 至今）"
+ },
+ "cef33b9080b5": {
+  "en": "~5,215 B.G.: the Finaies retreated.",
+  "t": "~5,215 B.G.：菲奈斯撤退了。"
+ },
+ "cff0487a3a55": {
+  "en": "~5,215 B.G.: given the extent of their losses, they decided to sacrifice themselves to create a barrier between the northern and southern continents, now known as Hifuna. They spent most of their army creating a curtain of radioactive meteors.",
+  "t": "~5,215 B.G.：鉴于损失惨重，他们决定牺牲自己，在北大陆和南大陆之间造出一道屏障，如今被称为希富纳。他们耗费了大部分军队，造出了一道放射性陨石的帷幕。"
+ },
+ "d1a138231894": {
+  "en": "~470 A.G.: a past Sanbi King decided to build a city at the Waterfall, then a small village, as a war measure against Tolerideme: flooding them, which somewhat worked.",
+  "t": "~470 A.G.：一位过去的桑比国王决定在沃特福尔——当时还是一个小村庄——建一座城市，作为对付托勒里德梅的战争手段：淹了他们，这在某种程度上奏效了。"
+ },
+ "d20adf2eb7c6": {
+  "en": "~3,150 B.G.: the Finaies launched a massive strike from the sea, but the Lishies were less affected than the Buhraies, since most Lishies lived down south.",
+  "t": "~3,150 B.G.：菲奈斯从海上发动了一次大规模打击，但利希斯受到的影响比布莱斯小，因为大多数利希斯住在南边。"
+ },
+ "d3268f99d230": {
+  "en": "~2,650 B.G.: the Buhraies were terraforming Endlessfog right under their noses while the Lishies were busy preparing to fight off the Finaies, in case they were a powerful menace this time.",
+  "t": "~2,650 B.G.：当利希斯忙着准备抵御菲奈斯，以防他们这次成为强大的威胁时，布莱斯正在他们眼皮底下改造恩德莱斯福格。"
+ },
+ "d7bd6ff955cb": {
+  "en": "~2,650 B.G.: they mounted a secret assault through the desert to massacre the Fuhraies, but the desert killed off most of the army, and the Fuhraies holed up inside their newly created mountain, Fuhrair, so what was left was easily massacred.",
+  "t": "~2,650 B.G.：他们穿越沙漠发动了一次秘密突袭，想屠杀弗莱斯，但沙漠杀死了大部分军队，而弗莱斯躲进了他们新造的山——弗莱尔——里，所以剩下的人轻而易举就被屠杀了。"
+ },
+ "d8b6c7033b6d": {
+  "en": "Over time, Flatland grew into the center of the oasis, with many economic activities, such as training Sorefaries as hunting companions.",
+  "t": "随着时间推移，弗拉特兰发展成了绿洲的中心，有许多经济活动，比如把索雷法里斯训练成狩猎伙伴。"
+ },
+ "dd8c6c4f3990": {
+  "en": "Most were hunted, and some disappeared, never to be seen again. Some fell through the cracks and lived hidden in the forests, away from the Buhraies' fangs, until they could escape. They camouflaged themselves with tree leaves and dirt, and stole food from the Buhraies' homes as they spread like rats. The Buhraies knew about it, but did nothing: they were more curious than anything.",
+  "t": "大多数人被猎杀了，有些人消失了，再也没人见过。有些人钻了空子，躲在森林里，远离布莱斯的獠牙，直到能够逃走。他们用树叶和泥土伪装自己，一边像老鼠一样扩散，一边从布莱斯的家里偷食物。布莱斯知道这件事，但什么也没做：他们更多的是好奇。"
+ },
+ "ddb02ad4c826": {
+  "en": "270 to 380 A.G.: humans helped free Sundeath from the ancient species, and it became a refuge from the skirmishes between the human kingdoms. Wozefaries and Sorefaries slowly spread through the kingdoms, though many people were racist toward them and most were slaves; some began changing public opinion by using their abilities and Soul Energy to help.",
+  "t": "270 到 380 A.G.：人类帮助桑德斯从古老物种手中解放出来，它成了躲避人类王国之间冲突的避难所。沃泽法里斯和索雷法里斯慢慢扩散到各个王国，不过很多人对他们有种族歧视，大多数都是奴隶；有些人开始用自己的能力和灵魂能量帮助别人，改变了公众的看法。"
+ },
+ "de85a86098f3": {
+  "en": "Since their battle with the Buhraies was a stalemate, the Lishies began fighting, or rather bullying, the Fuhraies too. That also ended in a stalemate, and negotiations never went anywhere either.",
+  "t": "由于和布莱斯的战斗陷入僵持，利希斯也开始和弗莱斯打仗，或者更确切地说，欺负弗莱斯。这也以僵局告终，谈判同样毫无进展。"
+ },
+ "deb2494ccd95": {
+  "en": "<strong>The Prosperity Treaty Period (~680 A.G. to today):</strong> the Darfaries, Wozefaries and Sorefaries became equal to humans under the law, but kept some traditions, which was allowed, since each kingdom could have its own laws as long as they obeyed the Prosperity Treaty (see The Prosperity Treaty Period under Humans).",
+  "t": "<strong>繁荣条约时期（~680 A.G. 至今）：</strong>达尔法里斯、沃泽法里斯和索雷法里斯在法律上和人类平等了，但保留了一些传统，这是允许的，因为只要遵守繁荣条约，每个王国都可以有自己的法律（见人类条目下的繁荣条约时期）。"
+ },
+ "df3e3e83035b": {
+  "en": "A group of bandits venturing near the desert mountain hole found Wozefaries and Sorefaries dying from falls they couldn't control, predator attacks or starvation. The bandit leader at the time decided to take care of them, to increase his number of Soul Energy–capable people: a move way ahead of his time, since most people would have killed anything that looked like an ancient species.",
+  "t": "一群在沙漠山洞附近冒险的强盗发现了一些沃泽法里斯和索雷法里斯，他们因为无法控制的坠落、捕食者的袭击或饥饿而奄奄一息。当时的强盗首领决定照顾他们，以增加能使用灵魂能量的人手：这一步远远领先于他的时代，因为大多数人会杀掉任何看起来像古老物种的东西。"
+ },
+ "e090e3e81c16": {
+  "en": "<strong>The Cleansing Period (~10,000 to ~5,215 B.G.):</strong> the Finaies back in the north became aware of a disturbance in the natural order of the world, or at least what they deemed natural. They sent scouts, then armies, but to no avail: their offspring's specialization triumphed over their generalist nature.",
+  "t": "<strong>清洗时期（~10,000 到 ~5,215 B.G.）：</strong>北方的菲奈斯察觉到世界的自然秩序受到了扰乱，或者至少是他们认为自然的秩序。他们派出了侦察兵，然后是军队，但都无济于事：他们后代的专门化战胜了他们的通才天性。"
+ },
+ "e0f404626a83": {
+  "en": "The sons and daughters of those adventurers were born into lives of luxury and serenity, so they grew greedy for even more, and killing over it was no big deal. Wars between the two kingdoms began; Walking Heart stones came back into use, especially in the armies, and there was carnage everywhere.",
+  "t": "那些冒险者的儿女生来就过着奢华安宁的生活，所以他们变得贪得无厌，为此杀人也不算什么大事。两个王国之间的战争开始了；沃金哈特石又被重新使用，尤其是在军队里，到处都是屠杀。"
+ },
  "e692bba8dfd4": {
   "en": "Lishies: a muscular bald woman and man with pale markings, in brown leather and teal wraps.",
   "t": "利希斯：一个肌肉发达的光头女人和一个光头男人，身上有浅色纹路，穿着棕色皮衣和青绿色裹布。"
  },
+ "e6ad90c5c0a5": {
+  "en": "Cold Defense Time (~5,215 to ~2,100 B.G.)",
+  "t": "寒冷防御时代（~5,215 到 ~2,100 B.G.）"
+ },
+ "e6d6a7b09e30": {
+  "en": "The Lishies realized the Buhraies were trying to subjugate the Fuhraies, so they tried to kill the Fuhraies off first to prevent it. They seemed stuck in a fruitless battle when they suddenly realized they had lost Endlessfog Island.",
+  "t": "利希斯意识到布莱斯试图征服弗莱斯，于是他们试图先把弗莱斯杀光来阻止这件事。他们似乎陷入了一场徒劳的战斗，这时他们突然意识到自己失去了恩德莱斯福格岛。"
+ },
  "e7ae78ac0155": {
   "en": "World Timeline",
   "t": "世界年表"
+ },
+ "eb9b6c5c158e": {
+  "en": "The Lishies hunted and ate humans so voraciously that humans felt they were going extinct. They reached for anything that could turn the tide, and in 939 B.G. they found it: Walking Heart stones, discovered by stealing information from the Buhraies (see the book Strong Walking Heart in <a href=\"/lore/in-world-books/\">Books of Vraki</a>).",
+  "t": "利希斯如此贪婪地猎杀和吃人，以至于人类觉得自己要灭绝了。他们伸手去抓任何能扭转局势的东西，并在 939 B.G. 找到了：沃金哈特石，是通过从布莱斯那里窃取情报发现的（见<a href=\"/lore/in-world-books/\">弗拉基之书</a>中的《强大的沃金哈特》一书）。"
  },
  "ee638c2f8dd2": {
   "en": "Darfaries: a tall long-haired woman and a tall man in long fur-trimmed robes with scarves.",
@@ -47,12 +655,76 @@
   "en": "Summary written by AI from the author's notes (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/World%20Timeline.md\">World Timeline.md</a>). <a href=\"/about/ai-disclosure/\">AI disclosure</a>",
   "t": "由 AI 根据作者笔记撰写的摘要（<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/World%20Timeline.md\">World Timeline.md</a>）。<a href=\"/about/ai-disclosure/\">AI 使用说明</a>"
  },
+ "ef37a4bdf4c6": {
+  "en": "As the bandit leader grew old, his children fought for power, along with some old gang members who wanted more for their work. A gang war broke out until most of them were dead. It ended when the remaining members split the riches among themselves and disbanded the bandit gang, by then the size of a militia. Some stayed behind for a more normal life; others traveled far and wide in search of fortune.",
+  "t": "随着强盗首领年纪渐长，他的孩子们为了权力争斗，还有一些想为自己的付出得到更多的老帮派成员。一场帮派战争爆发了，直到他们中的大多数人都死了。战争结束于剩下的成员瓜分了财富，解散了这个当时已有民兵规模的强盗帮派。有些人留了下来，过上更正常的生活；其他人则远走四方寻找财富。"
+ },
+ "ef7b8f2545b3": {
+  "en": "<strong>Blood Feast Period (~15,000 to ~10,000 B.G.):</strong> the Finaies near what is now Tolerideme began feasting on the blood and bone marrow of fauna and beasts. The variety of blood triggered a mutation in their bodies: the birth of the Buhraies.",
+  "t": "<strong>血宴时期（~15,000 到 ~10,000 B.G.）：</strong>如今托勒里德梅附近的菲奈斯开始以动物和魔兽的血液和骨髓为食。各种各样的血液引发了他们身体的突变：布莱斯诞生了。"
+ },
+ "f03c94b1fe5f": {
+  "en": "Lishin Food Period (~1,000 to ~900 B.G.):",
+  "t": "利欣食物时期（~1,000 到 ~900 B.G.）："
+ },
+ "f0626f0e4732": {
+  "en": "Wingas became their friends and let humans communicate with each other, while Big Wingas were usually dangerous and territorial.",
+  "t": "温加成了他们的朋友，让人类能够互相通信，而大温加通常很危险，领地性很强。"
+ },
+ "f12850036462": {
+  "en": "With the Buhraies and Fuhraies on the defensive, the Lishies fought for power among themselves, to the point where several wars broke out between tribes.",
+  "t": "布莱斯和弗莱斯都处于守势，利希斯开始在内部争权夺利，以至于部落之间爆发了好几场战争。"
+ },
+ "f14ca1f5ebd6": {
+  "en": "<strong>Wild Bruntos Extermination Period (~1,100 to ~900 B.G.):</strong> several Lishin tribes set out to eat every wild Brunto in sight, as they realized how many of these \"animals\" were roaming around. It seemed too late to find every single one, but they were making steady progress, until humans fought back in ways other than physical…",
+  "t": "<strong>野生布伦托斯灭绝时期（~1,100 到 ~900 B.G.）：</strong>几个利欣部落意识到到处游荡的这种“动物”有多少，便着手吃光视线内的每一只野生布伦托。要找到每一只似乎已经太晚了，但他们正在稳步推进，直到人类用肉体以外的方式进行了反击……"
+ },
+ "f258b3856cbd": {
+  "en": "1039 A.G.: Flingas are seen flying around in winter, something that hasn't happened in quite a while.",
+  "t": "1039 A.G.：有人看到弗林加在冬天四处飞，这种事已经很久没发生过了。"
+ },
+ "f425b1359d9e": {
+  "en": "~855 B.G.: Lishin and other tribes attacked the Buhraies, thinking it was the perfect time, but that was false information from the humans.",
+  "t": "~855 B.G.：利欣和其他部落以为时机正好，进攻了布莱斯，但那是人类散布的假消息。"
+ },
  "f5a292affe89": {
   "en": "7 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "本页另有 7 个条目仅在<button class=\"linklike\" data-go-bts>幕后</button>中提供。"
  },
+ "f6eef97d60e8": {
+  "en": "Realizing the Lishies were focused on the Fuhraies, the Buhraies kept faking an endless skirmish with the Fuhraies to keep the Lishies away from their true plot: terraforming what is now Endlessfog and experimenting with summoning species. Bruntos came about then.",
+  "t": "意识到利希斯专注于弗莱斯，布莱斯就一直和弗莱斯打一场没完没了的假小仗，好让利希斯远离他们真正的阴谋：改造如今的恩德莱斯福格，并试验召唤物种。布伦托斯就是那时候出现的。"
+ },
+ "f7d0ddca7dc2": {
+  "en": "575 A.G.: on a dark, cloudy night, a few people saw someone in robe-like clothing walking drunkenly around Tastyleaf, and a guard saw them head toward the swamp. The guard warned it was dangerous, but the person replied, \"I have a literal awesome fucking idea,\" and kept walking. The Cruros showed up soon after.",
+  "t": "575 A.G.：在一个乌云密布的黑夜，几个人看到有个穿着长袍般衣服的人醉醺醺地在泰斯蒂利夫附近走来走去，一个卫兵看到那人朝沼泽走去。卫兵警告说那里很危险，但那人回答：“我有一个他妈的真正绝妙的主意”，然后继续往前走。不久之后克鲁罗就出现了。"
+ },
+ "f8f417902c6b": {
+  "en": "~855 B.G.: a coordinated attack from the Lishies and the Naked Bruntos, plus a sudden turn for the worse inside Bahyum Castle (sabotage), put the Buhraies in a pinch. Too stubborn to fight together, they began losing ground to the Naked Bruntos and the Lishies.",
+  "t": "~855 B.G.：利希斯和裸布伦托斯的一次协同进攻，加上巴休姆城堡内部突然恶化（破坏），让布莱斯陷入了困境。他们太固执，不肯一起作战，开始在裸布伦托斯和利希斯面前节节败退。"
+ },
+ "f99d4d5e4c46": {
+  "en": "Resisting Subjugation Period (~4,500 to ~3,500 B.G.):",
+  "t": "抵抗征服时期（~4,500 到 ~3,500 B.G.）："
+ },
+ "fbeb4f4f67ed": {
+  "en": "~3,150 B.G.: the Finaies invaded by sea, but the Fuhraies were too far away to be affected, as the Buhraies and Lishies killed every invader.",
+  "t": "~3,150 B.G.：菲奈斯从海上入侵，但弗莱斯离得太远，没受到影响，因为布莱斯和利希斯杀光了每一个入侵者。"
+ },
+ "fbeea82c2801": {
+  "en": "<strong>Fall From Grace Period (~500 B.G. to ~0 A.G.):</strong> humans worked their way through countless tribes until Ganyrami, the biggest city of the ancient species, was the species' last stronghold. Amid chaos, infighting and disorganization, humans killed off the entire city: the historic Fall of Ganyrami. The Lishin blood lives on in The Last Breath Time (under Buhraies), and some Lishies might have survived in the southwestern woodland.",
+  "t": "<strong>失宠时期（~500 B.G. 到 ~0 A.G.）：</strong>人类一路扫荡了无数部落，直到加尼拉米这座古老物种最大的城市成了这个物种最后的据点。在混乱、内斗和无组织中，人类杀光了整座城市：历史上的加尼拉米陷落。利欣的血脉在最后喘息时代（布莱斯条目下）中延续，而且可能有一些利希斯在西南的林地里幸存了下来。"
+ },
+ "fc77dbf3d976": {
+  "en": "~570 A.G.: Endlessfog and Triangle City grew with all the people fleeing the wars, and so did what is now the Freeish Kingdom. Blood City grew out of a village full of hunters, and Deltacross grew from the constant flow of people traveling toward Freeish.",
+  "t": "~570 A.G.：恩德莱斯福格和特赖安格尔城因为所有逃离战争的人而发展壮大，如今的弗里伊什王国也是如此。布拉德城从一个满是猎人的村庄发展起来，德尔塔克罗斯则因为前往弗里伊什的源源不断的人流而发展起来。"
+ },
  "fe7c4e06281a": {
   "en": "Sorefaries: three small young people in casual clothes, one in a pink outfit with a red cap.",
   "t": "索雷法里斯：三个穿着休闲服装的矮小年轻人，其中一个穿着粉色服装、戴着红帽子。"
+ },
+ "fef34d1750da": {
+  "en": "<strong>Greedy Humans Period (~570 to ~680 A.G.):</strong> Tolerideme, winning its war against Sanbi, marched on Gandew in 570 A.G., and a great war between the three kingdoms began. The Darfaries were now as flexible as humans in warfare, so it wasn't easy, and war after war mostly ended in stalemate (see The Greed Period under Humans).",
+  "t": "<strong>贪婪人类时期（~570 到 ~680 A.G.）：</strong>托勒里德梅在对桑比的战争中获胜后，于 570 A.G. 向甘杜进军，三个王国之间的一场大战开始了。达尔法里斯如今在战争中和人类一样灵活，所以这并不容易，一场接一场的战争大多以僵局告终（见人类条目下的贪婪时期）。"
  }
 }

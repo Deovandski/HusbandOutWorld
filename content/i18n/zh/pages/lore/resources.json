@@ -1,11 +1,211 @@
 {
+ "02b88522b961": {
+  "en": "Bagarisa Fur Toothbrush",
+  "t": "巴加里萨毛牙刷"
+ },
+ "08b561d3f1c8": {
+  "en": "~20 Pearls for a simple one",
+  "t": "简单的一盏 ~20 颗珀尔"
+ },
+ "0cacdf04aae4": {
+  "en": "<strong>Tier I (Cheap Goods):</strong> natural resources; paper and vellum.",
+  "t": "<strong>I 级（便宜货）：</strong>自然资源；纸张和羊皮纸。"
+ },
+ "0f3899a6f453": {
+  "en": "Fost Stone",
+  "t": "福斯特石"
+ },
+ "14f8d549c5d9": {
+  "en": "~5 Pearls",
+  "t": "~5 颗珀尔"
+ },
+ "17770172fb8f": {
+  "en": "~2 Pearls",
+  "t": "~2 颗珀尔"
+ },
+ "1918925582d5": {
+  "en": "Wood People sap",
+  "t": "伍德皮普尔的树汁"
+ },
+ "1a2ed0c8f120": {
+  "en": "<strong>Where there's none:</strong> people burn animal-fat torches, though not usually inside homes. Gandew and Sundeath use more torches than anywhere else, because they're far from where fost stones are mined.",
+  "t": "<strong>没有福斯特石的地方：</strong>人们会烧动物油脂火把，不过通常不在家里烧。甘杜和桑德斯用的火把比其他任何地方都多，因为它们离开采福斯特石的地方很远。"
+ },
+ "1adb8bc81b63": {
+  "en": "A custom-made weapon of chitin and finely crafted Bone Wood, with Winga beaks and claws for close-quarters combat (CQC). It works as a bow, but also as a melee weapon if needed.",
+  "t": "一件用几丁质和精工骨木定制的武器，带有温加的喙和爪子，用于近身格斗（CQC）。它是一把弓，但必要时也可以当近战武器用。"
+ },
+ "1e5106d75f3c": {
+  "en": "Wood ~10 Pearls; Bone Wood ~20 Pearls; chitin ~40 Pearls; iron ~85 Pearls; steel ~2 Amethysts; gold ~4 Aquamarines",
+  "t": "木头 ~10 颗珀尔；骨木 ~20 颗珀尔；几丁质 ~40 颗珀尔；铁 ~85 颗珀尔；钢 ~2 颗阿米西斯特；金 ~4 颗阿夸马林"
+ },
+ "1e7081d736f4": {
+  "en": "Trees",
+  "t": "树木"
+ },
+ "1f9c51d4d790": {
+  "en": "<strong>Simple Journal</strong> (6×9, 50 pages)",
+  "t": "<strong>简易日记本</strong>（6×9，50 页）"
+ },
+ "23f033a801a0": {
+  "en": "Natural Resources",
+  "t": "自然资源"
+ },
+ "24e56b632ea6": {
+  "en": "~15 Pearls",
+  "t": "~15 颗珀尔"
+ },
+ "2504ce24727b": {
+  "en": "A Tier I worker (master level) saving half their pay needs, on average, about 450 working days for a full iron set, 660 for steel, 310 for Bone Wood, 260 for chitin and about 150 for Tibou or leather. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Equipment Price Calculator).",
+  "t": "一个 I 级工人（师傅级）存下一半薪水，平均需要大约 450 个工作日才能买一整套铁甲，钢甲 660 天，骨木 310 天，几丁质 260 天，蒂布或皮革大约 150 天。见<a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">经济表格</a>（Equipment Price Calculator）。"
+ },
+ "2ac93d2e4e96": {
+  "en": "Toothpaste",
+  "t": "牙膏"
+ },
+ "3033ea8c6184": {
+  "en": "<strong>Tier III (Expensive Goods):</strong> rare mineral resources (gold, titanium); higher-quality armor and weapons.",
+  "t": "<strong>III 级（昂贵货）：</strong>稀有的矿物资源（金、钛）；品质较高的盔甲和武器。"
+ },
+ "31e653361e0e": {
+  "en": "Made of Soul Wood or Black Wood.",
+  "t": "用灵魂木或黑木做的。"
+ },
+ "32dc4384ef54": {
+  "en": "Soul Energy Related",
+  "t": "灵魂能量相关"
+ },
+ "32e3377c4e63": {
+  "en": "~9 Pearls",
+  "t": "~9 颗珀尔"
+ },
+ "33a29dab963f": {
+  "en": "<strong>Ice Preserver</strong> (a fridge-freezer): made of wood and clay (~1 Amethyst), or iron, wood and clay (~1 Aquamarine).",
+  "t": "<strong>冰柜</strong>（冰箱冷冻柜）：用木头和黏土做的（~1 颗阿米西斯特），或者用铁、木头和黏土做的（~1 颗阿夸马林）。"
+ },
+ "37619fc13053": {
+  "en": "White",
+  "t": "白色"
+ },
+ "3862ac04f34f": {
+  "en": "<strong>Sword:</strong> iron ~683–767; steel ~1,008–1,092; Bone Wood ~285–596; chitin ~185–521.",
+  "t": "<strong>剑：</strong>铁 ~683–767；钢 ~1,008–1,092；骨木 ~285–596；几丁质 ~185–521。"
+ },
+ "3889502093b8": {
+  "en": "~1 Pearl",
+  "t": "~1 颗珀尔"
+ },
+ "394d220c45d2": {
+  "en": "Cost a bottle",
+  "t": "每瓶价格"
+ },
+ "39a8bd07a18b": {
+  "en": "Iron and steel cost the same everywhere except Tolerideme, where they're a little pricier. Bone Wood is cheapest in Freeish and Chitin in Gandew. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Weapon &amp; Household Price Calculator).",
+  "t": "铁和钢在各地价格都一样，只有托勒里德梅稍贵一点。骨木在弗里伊什最便宜，几丁质在甘杜最便宜。见<a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">经济表格</a>（Weapon &amp; Household Price Calculator）。"
+ },
+ "3c9be150028c": {
+  "en": "Bathroom Related",
+  "t": "浴室用品"
+ },
  "3e86255de7aa": {
   "en": "Natural & Crafted Resources · #HusbandOutWorld",
   "t": "天然与加工资源 · #HusbandOutWorld"
  },
+ "4424d0dd18ef": {
+  "en": "Charcoal, sometimes wrapped in wood to look fancy (see <a href=\"/lore/characters/#kiko-sanbi-half-cruro\">Kiko</a>).",
+  "t": "木炭，有时会包上木头，看起来更体面（见<a href=\"/lore/characters/#kiko-sanbi-half-cruro\">基科</a>）。"
+ },
+ "4616570b68e6": {
+  "en": "Walking Heart",
+  "t": "沃金哈特"
+ },
+ "4765bbc0170f": {
+  "en": "<strong>Used for:</strong> construction and furniture; decorating armor and weapons.",
+  "t": "<strong>用途：</strong>建筑和家具；装饰盔甲和武器。"
+ },
+ "48481822223b": {
+  "en": "<strong>Paper</strong> (a bundle of ~10 loose pages)",
+  "t": "<strong>纸</strong>（一沓 ~10 张散页）"
+ },
+ "49e8ea38afbd": {
+  "en": "<strong>Used for:</strong> weapons; tools.",
+  "t": "<strong>用途：</strong>武器；工具。"
+ },
+ "4d76a703efd4": {
+  "en": "Writing Stick",
+  "t": "书写棒"
+ },
+ "4ef827bf0b4e": {
+  "en": "Paper, leather and glue",
+  "t": "纸、皮革和胶水"
+ },
+ "4fe8d925db58": {
+  "en": "A special chitin armor designed after the <a href=\"/lore/beasts/#sweet-sting\">Sweet Sting</a>, used for CQC and impaling. <a href=\"/lore/characters/#morika-tolerideme\">Morika</a> once wore a Sweet Sting costume to gather Black Honey and liked how empowering it felt, so he saved for about a year and a half to have it made. It makes up for his slow reflexes and hides his face. He becomes another persona in it, <a href=\"/lore/characters/#the-stinger\">The Stinger</a>, and kills with the spike of his Stinger helmet.",
+  "t": "一套仿照<a href=\"/lore/beasts/#sweet-sting\">斯威特斯廷</a>设计的特制几丁质盔甲，用于近身格斗和刺穿。<a href=\"/lore/characters/#morika-tolerideme\">莫里卡</a>有一次穿着斯威特斯廷服装去采黑蜜，喜欢上了那种充满力量的感觉，于是他攒了大约一年半的钱让人做了这套盔甲。它弥补了他迟钝的反应，还能遮住他的脸。穿上它，他就变成了另一个人格——<a href=\"/lore/characters/#the-stinger\">斯廷格</a>，用斯廷格头盔上的尖刺杀人。"
+ },
+ "51c64938ac53": {
+  "en": "The Tibou plant, with animal fat and other ingredients.",
+  "t": "蒂布植物，加上动物油脂和其他原料。"
+ },
+ "52996fa554f2": {
+  "en": "Household",
+  "t": "家居"
+ },
+ "54076359fdc7": {
+  "en": "Pink",
+  "t": "粉色"
+ },
+ "54132c44f968": {
+  "en": "Tibou Soap",
+  "t": "蒂布肥皂"
+ },
+ "5757b2155f92": {
+  "en": "What the materials alone cost, shipping included, in Pearls. The range runs from the cheapest region to the most expensive; crafting costs come on top.",
+  "t": "仅材料本身的费用（含运费），以珀尔计。范围从最便宜的地区到最贵的地区；制作费用另算。"
+ },
+ "57ae620e41ee": {
+  "en": "Seal Stamp",
+  "t": "封印章"
+ },
  "59cb822763ff": {
   "en": "15 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "本页另有 15 个条目仅在<button class=\"linklike\" data-go-bts>幕后</button>中提供。"
+ },
+ "5ca532404946": {
+  "en": "<strong>Wine/Mead Mug:</strong> gotta be fancy. Wood ~13 Pearls; Bone Wood ~16 Pearls; chitin ~23 Pearls; iron ~29 Pearls; steel ~2 Amethysts; gold ~3 Aquamarines.",
+  "t": "<strong>葡萄酒／蜂蜜酒杯：</strong>得讲究点。木头 ~13 颗珀尔；骨木 ~16 颗珀尔；几丁质 ~23 颗珀尔；铁 ~29 颗珀尔；钢 ~2 颗阿米西斯特；金 ~3 颗阿夸马林。"
+ },
+ "5d70259efbb0": {
+  "en": "Inks/Dyes",
+  "t": "墨水／染料"
+ },
+ "5e49b52715ce": {
+  "en": "A stone found in the sediment of the Buhraies lake, on the Buhraies Plains, and all the way from Waterfall City to the Sanbi Kingdom. Closer to the ocean, the riverbed lights up where the rocks get too close to salt water. Fauna, and beasts especially, seem to avoid places where it lies underwater.",
+  "t": "一种在布莱斯平原上的布莱斯湖沉积物中，以及从沃特福尔城一直到桑比王国一带发现的石头。越靠近海洋，石头离咸水太近的地方，河床就会亮起来。动物，尤其是魔兽，似乎会避开水下有这种石头的地方。"
+ },
+ "5f5a2affd95f": {
+  "en": "A plain piece of charcoal ~0–2 Pearls; a charcoal stick ~7 Pearls; a refined charcoal stick ~30 Pearls",
+  "t": "一块普通的木炭 ~0–2 颗珀尔；一根炭笔 ~7 颗珀尔；一根精制炭笔 ~30 颗珀尔"
+ },
+ "635af13363af": {
+  "en": "<strong>Bread Plate/Bowl:</strong> made of bread (~0–2 Pearls). It soaks up the juices of your food, and is given to the poor afterward.",
+  "t": "<strong>面包盘／碗：</strong>用面包做的（~0–2 颗珀尔）。它会吸收食物的汁水，吃完后送给穷人。"
+ },
+ "64ae43e8fe76": {
+  "en": "Cost",
+  "t": "价格"
+ },
+ "69f060ea9f2e": {
+  "en": "Usually iron or another metal that can withstand the water pressure. Pull it, and water flows from the pipe.",
+  "t": "通常是铁或其他能承受水压的金属。一拉，水就从管子里流出来。"
+ },
+ "6acdd3ea77dc": {
+  "en": "<strong>Tier IV (Nobility Goods):</strong> custom armor and weapons; household items, or any item of extremely high craft or quality.",
+  "t": "<strong>IV 级（贵族货）：</strong>定制的盔甲和武器；家居用品，或任何工艺或品质极高的物品。"
+ },
+ "6b0c0b7d6913": {
+  "en": "Leather",
+  "t": "皮革"
  },
  "6e97b1eafd0e": {
   "en": "The materials and goods of Vraki, from natural resources like Fost Stone (a stone that lights up in salt water and keeps beasts away) and Bone Wood, to…",
@@ -15,20 +215,284 @@
   "en": "Winga",
   "t": "温加"
  },
+ "7414e4da6d8b": {
+  "en": "Natural and Crafted Resources (World Lore illustration)",
+  "t": "自然与人造资源（世界观插图）"
+ },
  "756046544fb1": {
   "en": "Summary written by AI from the author's notes (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Natural and Crafted Resources.md</a>). <a href=\"/about/ai-disclosure/\">AI disclosure</a>",
   "t": "由 AI 根据作者笔记撰写的摘要（<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Natural and Crafted Resources.md</a>）。<a href=\"/about/ai-disclosure/\">AI 使用说明</a>"
+ },
+ "76478bf1274b": {
+  "en": "<strong>No switch:</strong> there's no \"turning off the lights\". To put one out, you pour out the water to stop the reaction.",
+  "t": "<strong>没有开关：</strong>没有“关灯”这回事。要熄灭它，就把水倒掉，让反应停止。"
  },
  "77299e0e6193": {
   "en": "Natural &amp; Crafted Resources",
   "t": "天然与加工资源"
  },
+ "7a1649119e6a": {
+  "en": "<strong>Picker:</strong> a two-pronged fork on one end and a spoon on the other. Each person commonly has their own and takes it with them; some decorate theirs or have their name carved on it to make it unique. Wood ~5 Pearls; Bone Wood ~10 Pearls; chitin ~17 Pearls; iron ~25 Pearls; steel ~1 Amethyst; gold ~1 Aquamarine.",
+  "t": "<strong>皮克：</strong>一头是两齿叉、另一头是勺子。每个人通常都有自己的一把，随身带着；有些人会装饰自己的，或者把名字刻在上面，让它独一无二。木头 ~5 颗珀尔；骨木 ~10 颗珀尔；几丁质 ~17 颗珀尔；铁 ~25 颗珀尔；钢 ~1 颗阿米西斯特；金 ~1 颗阿夸马林。"
+ },
+ "7d141a438f76": {
+  "en": "<strong>Used for:</strong> construction and furniture; armor; weapons.",
+  "t": "<strong>用途：</strong>建筑和家具；盔甲；武器。"
+ },
+ "7d44bc449c2a": {
+  "en": "Blue",
+  "t": "蓝色"
+ },
+ "7d6a8b1e4781": {
+  "en": "<strong>No candles:</strong> there are no candles in Vraki. Wax exists, but it's for sealing letters (like the Winga mail Forway provides).",
+  "t": "<strong>没有蜡烛：</strong>弗拉基没有蜡烛。蜡是有的，但它是用来封信的（比如福威提供的温加邮件）。"
+ },
+ "7d8dcf0d9ced": {
+  "en": "<strong>Longsword:</strong> iron ~1,464–1,644; steel ~2,160–2,340; Bone Wood ~611–1,277; chitin ~396–1,116.",
+  "t": "<strong>长剑：</strong>铁 ~1,464–1,644；钢 ~2,160–2,340；骨木 ~611–1,277；几丁质 ~396–1,116。"
+ },
+ "80ae57ffe1d6": {
+  "en": "~11 Pearls",
+  "t": "~11 颗珀尔"
+ },
  "81e16785271f": {
   "en": "The materials and goods of Vraki, from natural resources like Fost Stone (a stone that lights up in salt water and keeps beasts away) and Bone Wood, to weapons, armor and household items. Goods are sorted into four cost tiers by how expensive they are to move, from cheap goods like paper up to custom nobility pieces.",
   "t": "弗拉基的材料与物品，从福斯特石（一种在盐水中会发光、能驱赶魔兽的石头）和骨木等天然资源，到武器、盔甲和家居用品。物品按运输成本高低分为四个费用等级，从纸张之类的廉价商品，到定制的贵族用品。"
  },
+ "81ebd1383e1b": {
+  "en": "<a class=\"img-link\" href=\"/media/57be02b5784726.webp\" data-full=\"/media/57be02b5784726.webp\"><img src=\"/media/57be02b5784726.webp\" alt=\"Natural and Crafted Resources (World Lore illustration)\" loading=\"lazy\"></a> (slightly grainier) <a class=\"img-link\" href=\"/media/e19e5abc32069d.webp\" data-full=\"/media/e19e5abc32069d.webp\"><img src=\"/media/e19e5abc32069d.webp\" alt=\"Natural and Crafted Resources (World Lore illustration)\" loading=\"lazy\"></a>",
+  "t": "<a class=\"img-link\" href=\"/media/57be02b5784726.webp\" data-full=\"/media/57be02b5784726.webp\"><img src=\"/media/57be02b5784726.webp\" alt=\"自然与人造资源（世界观插图）\" loading=\"lazy\"></a>（颗粒感稍强）<a class=\"img-link\" href=\"/media/e19e5abc32069d.webp\" data-full=\"/media/e19e5abc32069d.webp\"><img src=\"/media/e19e5abc32069d.webp\" alt=\"自然与人造资源（世界观插图）\" loading=\"lazy\"></a>"
+ },
+ "835c092f5294": {
+  "en": "Fost Lamp",
+  "t": "福斯特灯"
+ },
+ "8564fe3b4b67": {
+  "en": "Iron",
+  "t": "铁"
+ },
+ "8613e2c6eb2d": {
+  "en": "<strong>Tier II (Common Goods):</strong> expensive mineral resources (Nari stones, sapphires, aquamarines, amethysts); Black Honey; sigil rings; lower-quality armor and weapons; inks and dyes.",
+  "t": "<strong>II 级（普通货）：</strong>昂贵的矿物资源（纳里石、萨菲尔、阿夸马林、阿米西斯特）；黑蜜；西吉尔戒指；品质较低的盔甲和武器；墨水和染料。"
+ },
+ "86c7738b66fa": {
+  "en": "Wood, Bone Wood, chitin, iron, steel or gold",
+  "t": "木头、骨木、几丁质、铁、钢或金"
+ },
+ "8a2f4b2b3d66": {
+  "en": "Chitin",
+  "t": "几丁质"
+ },
+ "8e5c5f44a3db": {
+  "en": "Corals (Cruroland)",
+  "t": "珊瑚（克鲁罗兰）"
+ },
+ "8fe87962b633": {
+  "en": "Sweet Sting wax and ink dye",
+  "t": "斯威特斯廷的蜡和墨水染料"
+ },
+ "91157d355643": {
+  "en": "Wood People wood is very durable, with a dark red color, and gives off a strong, woody musk when soaked (see <a href=\"/lore/beasts/#wood-people\">Wood People</a>).",
+  "t": "伍德皮普尔木非常耐用，颜色暗红，浸泡后会散发出浓郁的木质麝香味（见<a href=\"/lore/beasts/#wood-people\">伍德皮普尔</a>）。"
+ },
+ "92bf1c1e2196": {
+  "en": "<strong>Beer Mug:</strong> getting drunk requires the proper tools. Wood ~15 Pearls; Bone Wood ~20 Pearls; chitin ~28 Pearls; iron ~35 Pearls; steel ~3 Amethysts; gold ~5 Aquamarines.",
+  "t": "<strong>啤酒杯：</strong>喝醉需要合适的工具。木头 ~15 颗珀尔；骨木 ~20 颗珀尔；几丁质 ~28 颗珀尔；铁 ~35 颗珀尔；钢 ~3 颗阿米西斯特；金 ~5 颗阿夸马林。"
+ },
+ "92fe15c90db7": {
+  "en": "The wood of the Soul Tree, a lone tree with metallic, shiny bark that grows around Blood City and Freeish (see <a href=\"/lore/flora/#soul-tree\">Soul Tree</a>). It's often used with nari stones, sigils and containers that hold Soul Energy, to keep the Soul Energy from leaking, and most badges are made of it (hence their greenish color). Its seeds give caffeine, and ground, they're basically the world's coffee.",
+  "t": "索尔树的木头，这是一种树皮带金属光泽、闪闪发亮的孤树，生长在布拉德城和弗里伊什周围（见<a href=\"/lore/flora/#soul-tree\">索尔树</a>）。它常和纳里石、西吉尔以及盛放灵魂能量的容器一起使用，防止灵魂能量泄漏，大多数身份牌也是用它做的（所以它们带点绿色）。它的种子含咖啡因，磨碎后基本上就是这个世界的咖啡。"
+ },
+ "937d89baf2b3": {
+  "en": "Plants mixed with salt and alcohol; some mix in wine, etc. A green syrup of mint, green tea and citrus that can numb your tongue if you use too much.",
+  "t": "植物混上盐和酒；有些还会混进葡萄酒等等。一种由薄荷、绿茶和柑橘做成的绿色糖浆，用多了会让你的舌头发麻。"
+ },
+ "9500b232835e": {
+  "en": "A full set of armor (helmet, chest, arms and legs), materials alone, shipping included, in Pearls, from the cheapest region to the most expensive:",
+  "t": "一整套盔甲（头盔、胸甲、臂甲和腿甲），仅材料（含运费），以珀尔计，从最便宜的地区到最贵的地区："
+ },
+ "970e3bbf2f8b": {
+  "en": "<strong>Dagger:</strong> iron ~293–329; steel ~432–468; Bone Wood ~122–255; chitin ~79–223.",
+  "t": "<strong>匕首：</strong>铁 ~293–329；钢 ~432–468；骨木 ~122–255；几丁质 ~79–223。"
+ },
+ "9a63061471e2": {
+  "en": "Black Wood",
+  "t": "黑木"
+ },
  "9b445d328e30": {
   "en": "Natural &amp; Crafted Resources · #HusbandOutWorld",
   "t": "天然与加工资源 · #HusbandOutWorld"
+ },
+ "9d680d4bfc10": {
+  "en": "Wood People Paper",
+  "t": "伍德皮普尔纸"
+ },
+ "9e988d0ed278": {
+  "en": "When <a href=\"/lore/characters/#fernan-blood-blue-flower-red-bone\">Fernan</a> disappeared, so did his bow: his daughter <a href=\"/lore/characters/#magi-blood-blue-flower-red-bone\">Magi</a> wants to find him, or at least his bow. Wilson Big-Gyut once tried to steal it and got punched for it, so he recreated it as closely as he could from memory.",
+  "t": "<a href=\"/lore/characters/#fernan-blood-blue-flower-red-bone\">费尔南</a>失踪时，他的弓也跟着不见了：他的女儿<a href=\"/lore/characters/#magi-blood-blue-flower-red-bone\">玛姬</a>想找到他，或者至少找到他的弓。威尔逊·比格久特曾经想偷它，结果挨了一拳，于是他凭记忆尽可能地把它复制了出来。"
+ },
+ "9ea7f4f324fb": {
+  "en": "Wood &amp; Wood People Wood",
+  "t": "木头与伍德皮普尔木"
+ },
+ "9f85bed5d7aa": {
+  "en": "Keeps monsters at bay.",
+  "t": "能让怪物不敢靠近。"
+ },
+ "a6c4186ee9cf": {
+  "en": "~20–40 Pearls a bottle",
+  "t": "每瓶 ~20–40 颗珀尔"
+ },
+ "a709ff5b2aa3": {
+  "en": "~35 Pearls",
+  "t": "~35 颗珀尔"
+ },
+ "a7e223624109": {
+  "en": "Bone Wood",
+  "t": "骨木"
+ },
+ "aae8079e464c": {
+  "en": "The wood of the Black Sapphire Tree, a rare lone tree found between Flatland and Forway that looks dead and soaks up Soul Energy from its surroundings (see <a href=\"/lore/flora/#black-sapphire-tree\">Black Sapphire Tree</a>). Dark and dense, it keeps Soul Energy from leaking like no other wood, even better than Soul Wood; it's used with nari stones, sigils and Soul Energy containers to keep the Soul Energy from leaking. A single small or medium tree can cost a whole sapphire. Black wood badges are given to city officials, kingdom representatives and embassy representatives.",
+  "t": "布莱克萨菲尔树的木头，这是一种在弗拉特兰和福威之间发现的稀有孤树，看起来像死了一样，会吸收周围的灵魂能量（见<a href=\"/lore/flora/#black-sapphire-tree\">布莱克萨菲尔树</a>）。它颜色深、质地密，防止灵魂能量泄漏的能力是其他木头比不上的，甚至比灵魂木还好；它和纳里石、西吉尔以及灵魂能量容器一起使用，防止灵魂能量泄漏。一棵中小型的树就可能值一整颗萨菲尔。黑木身份牌发给城市官员、王国代表和大使馆代表。"
+ },
+ "adbc3d28d91a": {
+  "en": "<strong>Why gems are Tier II:</strong> sapphires, aquamarines and amethysts are the currency, and from a shipping and handling perspective, currency is a common good. Security is what makes it special: only Forway moves large amounts of currency between cities and kingdoms, in heavily fortified wagons, and for the bandits salivating over those wagons, it's basically Tier IV.",
+  "t": "<strong>为什么宝石是 II 级：</strong>萨菲尔、阿夸马林和阿米西斯特是货币，从运输和装卸的角度来看，货币是一种普通商品。让它特别的是安保：只有福威会用重兵把守的马车在城市和王国之间运送大量货币，而对那些眼馋这些马车的强盗来说，它基本上就是 IV 级。"
+ },
+ "b163ade34cf8": {
+  "en": "Bagarisa fur and wood: a wooden toothbrush with stiff red bristles.",
+  "t": "巴加里萨的毛和木头：一把带硬红刷毛的木牙刷。"
+ },
+ "b1a3970a58ca": {
+  "en": "Fernan’s Bow",
+  "t": "费尔南之弓"
+ },
+ "b1fc5d10fc8c": {
+  "en": "Armor",
+  "t": "盔甲"
+ },
+ "b2602a6c00ce": {
+  "en": "Made from",
+  "t": "原料"
+ },
+ "b406fb57b29f": {
+  "en": "Black",
+  "t": "黑色"
+ },
+ "b569f8e73d21": {
+  "en": "Winga beaks and claws, ground up with other beaks and claws. They all have to be strengthened by a Winga before they're removed, and the effect lasts for years before it starts to wear off (see <a href=\"/lore/fauna/#winga-pink-winga\">Winga</a>). Used to make tools that \"cut through anything\", since the dust makes them as hard as diamond: usually a coating is applied, then replaced every few years.",
+  "t": "温加的喙和爪子，用别的喙和爪子磨碎。它们都必须在取下之前被温加强化过，效果能持续好几年才开始减弱（见<a href=\"/lore/fauna/#winga-pink-winga\">温加</a>）。用来制作“无坚不摧”的工具，因为这种粉末能让它们像钻石一样坚硬：通常是涂上一层涂层，每隔几年更换一次。"
+ },
+ "bbfdc67480be": {
+  "en": "<strong>Bow:</strong> iron ~586–658; steel ~864–936; Bone Wood ~244–511; chitin ~158–446.",
+  "t": "<strong>弓：</strong>铁 ~586–658；钢 ~864–936；骨木 ~244–511；几丁质 ~158–446。"
+ },
+ "bd7eac52298a": {
+  "en": "Soul Wood ~22–102 Pearls; Black Wood ~62–158 Pearls (materials and shipping)",
+  "t": "灵魂木 ~22–102 颗珀尔；黑木 ~62–158 颗珀尔（材料和运费）"
+ },
+ "c2f03233d800": {
+  "en": "Lapis lazuli, mined just like amethyst",
+  "t": "青金石，和阿米西斯特一样开采"
+ },
+ "c4b60d49642e": {
+  "en": "Writing Related",
+  "t": "书写用品"
+ },
+ "ca06fcec99c8": {
+  "en": "Water System Pull-Gate Handle",
+  "t": "供水系统拉闸手柄"
+ },
+ "ccbd5f06d3c9": {
+  "en": "~10 Pearls",
+  "t": "~10 颗珀尔"
+ },
+ "d0ae9aaba06a": {
+  "en": "Morika’s Armor",
+  "t": "莫里卡的盔甲"
+ },
+ "d4b2c60f333d": {
+  "en": "Black, fist-sized stones that form in the irradiated zones of Hifuna, with glowing colors inside that tell what powers they will likely grant. Whoever replaces their heart with one becomes undead, if they survive the binding. Forway has banned them. See <a href=\"/lore/walking-heart/\">Walking Heart Interface</a>.",
+  "t": "黑色的、拳头大小的石头，形成于希富纳的辐射区，里面有发光的颜色，显示它们可能会赋予什么力量。用它取代自己心脏的人，如果在结合中活了下来，就会成为不死者。福威已经禁止了它们。见<a href=\"/lore/walking-heart/\">沃金哈特界面</a>。"
+ },
+ "d4e7d7d330f0": {
+  "en": "Flowers",
+  "t": "花"
+ },
+ "d51ab0c09f09": {
+  "en": "Soul Wood",
+  "t": "灵魂木"
+ },
+ "d5a4bf79be82": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Legacy/Behind The Scenes/World Lore/Natural and Crafted Resources.md</a>",
+  "t": "来源：<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Legacy/Behind The Scenes/World Lore/Natural and Crafted Resources.md</a>"
+ },
+ "d8169782b57c": {
+  "en": "Material",
+  "t": "材料"
+ },
+ "db530238cd9e": {
+  "en": "A fist-sized fost stone in a glass and wood case with an opening on top. In contact with salt water, it glows brighter than a candle would (candles aren't a thing in Vraki, and neither are oil lamps). The stone lasts about a year when used mostly at night. A big, new fost lamp is unusually bright (like a dentist's office) and can cost as much as a handful of amethysts, a steep price for common folk.",
+  "t": "一块拳头大小的福斯特石，装在一个顶部开口的玻璃木盒里。接触到咸水后，它发出的光比蜡烛还亮（弗拉基没有蜡烛，也没有油灯）。主要在夜间使用的话，石头能用大约一年。一盏又大又新的福斯特灯亮得出奇（像牙科诊所一样），价格可能高达一把阿米西斯特，对普通人来说是个高价。"
+ },
+ "dfe272d8b6f7": {
+  "en": "Kitchen/Dining Table",
+  "t": "厨房／餐桌"
+ },
+ "e3d189693c16": {
+  "en": "Winga Writing Feather",
+  "t": "温加羽毛笔"
+ },
+ "e51d781719a1": {
+  "en": "Seal Wax",
+  "t": "封蜡"
+ },
+ "e7a3fffa3295": {
+  "en": "Goods are sorted into four tiers, which set how much it costs to ship them (see <a href=\"/lore/economy/\">Economy</a>).",
+  "t": "商品分为四个等级，等级决定运输它们的费用（见<a href=\"/lore/economy/\">经济</a>）。"
+ },
+ "e9a14adf2735": {
+  "en": "Full set",
+  "t": "整套"
+ },
+ "ecdda59aea5e": {
+  "en": "Item",
+  "t": "物品"
+ },
+ "ee432e447835": {
+  "en": "~12 Pearls",
+  "t": "~12 颗珀尔"
+ },
+ "f0d67dc167ae": {
+  "en": "~28 Pearls",
+  "t": "~28 颗珀尔"
+ },
+ "f32d0645a833": {
+  "en": "Weapons",
+  "t": "武器"
+ },
+ "f351cf27d401": {
+  "en": "~20 Pearls, plus tubing",
+  "t": "~20 颗珀尔，另加管子"
+ },
+ "f596d7e234c5": {
+  "en": "A mixture of bone, iron, ground Nari and Greenbread fruit core. Less flexible than most wood, but it lasts much longer, and mixed with other materials, it can be made more flexible for armor and weapons.",
+  "t": "骨头、铁、磨碎的纳里和格林布雷德果核的混合物。比大多数木头的柔韧性差，但耐用得多，和其他材料混合后，可以做得更柔韧，用于盔甲和武器。"
+ },
+ "f709e0f9691d": {
+  "en": "Winga Dust",
+  "t": "温加粉"
+ },
+ "f8c94a3b4b1e": {
+  "en": "What it is",
+  "t": "是什么"
+ },
+ "f958260588e1": {
+  "en": "Steel",
+  "t": "钢"
+ },
+ "fb764acb28a3": {
+  "en": "<strong>Light source:</strong> it needs water and salt to work. There's no wick, flame or smoke; the hissing a lit fost stone makes is the water and salt reacting with the stone, which gives off light and steam.",
+  "t": "<strong>光源：</strong>它需要水和盐才能工作。没有灯芯、火焰或烟；点亮的福斯特石发出的嘶嘶声，是水和盐与石头发生反应，产生光和蒸汽。"
  }
 }

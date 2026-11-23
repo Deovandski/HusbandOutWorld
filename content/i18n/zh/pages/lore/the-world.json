@@ -1,87 +1,751 @@
 {
+ "00640566f143": {
+  "en": "Boilfeel",
+  "t": "沸感"
+ },
+ "00f84293c735": {
+  "en": "Largeadi",
+  "t": "拉吉阿迪"
+ },
+ "0327058117a2": {
+  "en": "Monnolow",
+  "t": "蒙诺洛"
+ },
+ "067cecfa46a5": {
+  "en": "10 g",
+  "t": "10 g"
+ },
+ "072dd1aa11aa": {
+  "en": "800 to 1,000 ºC",
+  "t": "800 到 1,000 ºC"
+ },
+ "082bc378cd60": {
+  "en": "Month",
+  "t": "月份"
+ },
+ "08d62754f0ec": {
+  "en": "Δ0 km*",
+  "t": "Δ0 km*"
+ },
+ "095b5fb3dcd7": {
+  "en": "1 kg",
+  "t": "1 kg"
+ },
+ "098d63035968": {
+  "en": "Lead Meltfeel",
+  "t": "铅熔感"
+ },
  "09df91ed37ab": {
   "en": "To read the Time Keeper properly, start from the bottom (6 o’clock), where the separation between yellow and navy blue sections represents sunrise. The entire yellow chunk is Sunna, equivalent to a timehunk, or about three hours. The Vraki writing within it breaks down the timehunk into half timehunks called Sunnalow and Sunnahigh.",
   "t": "要正确读取泰姆基珀，从底部（6 点钟方向）开始，黄色和藏青色区域之间的分界代表日出。整个黄色部分是苏纳，相当于一个 timehunk，大约三个小时。其中的弗拉基文字把这个 timehunk 分成半个 timehunk，称为苏纳洛和苏纳海。"
+ },
+ "0a4171b127ab": {
+  "en": "Weekend",
+  "t": "周末"
+ },
+ "0a8b0e6ef0fd": {
+  "en": "-15 ºC",
+  "t": "-15 ºC"
+ },
+ "0d3ae782c548": {
+  "en": "Sunnohigh",
+  "t": "苏诺海"
+ },
+ "0db1b7a0dfab": {
+  "en": "Vraki unit",
+  "t": "弗拉基单位"
+ },
+ "0dfd35b99042": {
+  "en": "<strong>The months</strong> are named after the three courtroom scientists, plus the man who kickstarted the rebellion that led to the Prosperity Treaty (Freeish Paulin):",
+  "t": "<strong>月份</strong>以三位宫廷科学家，加上发起了促成《繁荣条约》的叛乱的那个人（弗里伊什·保林）命名："
+ },
+ "0fb90882f795": {
+  "en": "6:00 to 7:30 pm",
+  "t": "晚上 6:00 到 7:30"
+ },
+ "1097b553dcf8": {
+  "en": "Night",
+  "t": "黑夜"
+ },
+ "1184a7d28d1a": {
+  "en": "1:30 to 3:00 am",
+  "t": "凌晨 1:30 到 3:00"
+ },
+ "11c2a61f1901": {
+  "en": "80 to 100 ºC",
+  "t": "80 到 100 ºC"
+ },
+ "12d9ddc7883a": {
+  "en": "Δ is the height above the sea.",
+  "t": "Δ 是海拔高度。"
+ },
+ "15b3dc66acf0": {
+  "en": "Brass Meltfeel",
+  "t": "黄铜熔感"
  },
  "160e1e286a9e": {
   "en": "050 (images illustration)",
   "t": "050（插图）"
  },
+ "185e83377611": {
+  "en": "25 ºC",
+  "t": "25 ºC"
+ },
+ "18f6ba55b582": {
+  "en": "Soreblood",
+  "t": "索尔布拉德"
+ },
+ "19ee7b45b717": {
+  "en": "Warmfeel",
+  "t": "暖感"
+ },
+ "1aac4c4313ef": {
+  "en": "0 ºC",
+  "t": "0 ºC"
+ },
+ "1c1b51cb273d": {
+  "en": "60 to 80 ºC",
+  "t": "60 到 80 ºC"
+ },
+ "1c6abfa41006": {
+  "en": "-10 ºC",
+  "t": "-10 ºC"
+ },
  "1d25c0f1357e": {
   "en": "Time, Calendar &amp; Units",
   "t": "时间、历法与单位"
+ },
+ "1d5aed97e212": {
+  "en": "200 to 400 ºC",
+  "t": "200 到 400 ºC"
  },
  "1d5f0fb7e72e": {
   "en": "On every Asa 1st, Forway also releases a lunar mapping for Hunters, farmers, adventurers, and others that depend on the lunar phases to gauge environmental tendencies for a measly twenty pearls.",
   "t": "每年阿萨 1日，福威还会发布一份月相图，供猎人、农民、冒险者以及其他依靠月相来判断环境趋势的人使用，只要区区二十颗珀尔。"
  },
+ "1ec76278c94b": {
+  "en": "Δ8 km",
+  "t": "Δ8 km"
+ },
+ "1f5b5fdf4102": {
+  "en": "1 mL",
+  "t": "1 mL"
+ },
+ "24615d93d230": {
+  "en": "Winter",
+  "t": "冬"
+ },
+ "25d38a0fc40a": {
+  "en": "Half Timehunk",
+  "t": "半泰姆汉克"
+ },
+ "27cba1e2173f": {
+  "en": "Tinyadi",
+  "t": "泰尼阿迪"
+ },
+ "27d882d46a38": {
+  "en": "Seasons",
+  "t": "季节"
+ },
+ "2b13b43ff8d5": {
+  "en": "Tolerideme, the second kingdom to join",
+  "t": "托勒里德梅，第二个加入的王国"
+ },
+ "2d51499cc55a": {
+  "en": "1 cm",
+  "t": "1 cm"
+ },
+ "2df7b525a980": {
+  "en": "Asa (Spring)",
+  "t": "阿萨（春）"
+ },
+ "31f678daf2ab": {
+  "en": "Forway City created and standardized the calendar (see the World Timeline). Every Asa 1st, Forway also releases a lunar mapping, for a measly twenty pearls, for hunters, farmers, adventurers and anyone else who reads the lunar phases to gauge environmental tendencies.",
+  "t": "福威城创建并统一了历法（见世界年表）。每年阿萨月 1 日，福威还会发布一份月相图，只要区区二十颗珀尔，提供给猎人、农夫、冒险者，以及其他任何通过月相来判断环境趋势的人。"
+ },
+ "3239b0395e71": {
+  "en": "Sunnulow",
+  "t": "苏努洛"
+ },
+ "32d4ee6d2347": {
+  "en": "<strong>Guild:</strong> the guild's name; if they're in several guilds, any of them. If they're in no guild, this part is skipped. When the guild is named CITY-GUILD and the city is already the badge owner's place, the city isn't written twice: Itagiba Sanbi Royal, not Itagiba Sanbi Sanbi-Royal.",
+  "t": "<strong>公会：</strong>公会的名字；如果加入了好几个公会，任选其一。如果没加入公会，这部分就省略。当公会名为“城市-公会”，而这座城市已经是身份牌主人的地点时，城市名就不写两遍：写伊塔吉巴·桑比·罗亚尔，而不是伊塔吉巴·桑比·桑比·罗亚尔。"
+ },
+ "331b99f024a7": {
+  "en": "<strong>Place:</strong> the city of origin or main residence, often where the person's main guild is.",
+  "t": "<strong>地点：</strong>出生的城市或主要居住地，通常是这个人主要公会所在的地方。"
+ },
  "33c3abe62dd5": {
   "en": "Sunnalow, Sunnahigh, Sunnilow, Sunnihigh, Sunnolow, Sunnohigh, Sunnulow, Sunnuhigh.",
   "t": "苏纳洛、苏纳海、苏尼洛、苏尼海、苏诺洛、苏诺海、苏努洛、苏努海。"
+ },
+ "342b21d5b1e2": {
+  "en": "45 minutes",
+  "t": "45 分钟"
+ },
+ "36011c46dc52": {
+  "en": "Monnilow",
+  "t": "蒙尼洛"
  },
  "3764c59684cf": {
   "en": "5 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "本页另有 5 个条目仅在<button class=\"linklike\" data-go-bts>幕后</button>中提供。"
  },
+ "3951fbf20b84": {
+  "en": "Name Schema",
+  "t": "命名规则"
+ },
+ "3b18e8e33250": {
+  "en": "Volume",
+  "t": "容积"
+ },
+ "3beb3c2a430e": {
+  "en": "Magnesium Meltfeel",
+  "t": "镁熔感"
+ },
+ "3c5674635b4b": {
+  "en": "9:00 to 10:30 pm",
+  "t": "晚上 9:00 到 10:30"
+ },
+ "3d8f75b6b7c3": {
+  "en": "Adrian (Winter)",
+  "t": "阿德里安（冬）"
+ },
+ "3e62b97e840c": {
+  "en": "Adrian (the same courtroom scientist who helped create the calendar) standardized every unit of measure. He was from Tolerideme, and the units' accuracy comes from Tolerideme's culture and its desire to standardize. Adrian also loved hunting, especially near Blood, so the units are named after it: Sorebone, for example, comes from \"Soreno bones\".",
+  "t": "阿德里安（就是帮助制定历法的那位宫廷科学家）统一了所有的度量单位。他来自托勒里德梅，这些单位的精确性源于托勒里德梅的文化和它对标准化的追求。阿德里安还热爱打猎，尤其是在布拉德附近，所以这些单位都以狩猎来命名：比如索尔博恩，就来自“索雷诺的骨头”（Soreno bones）。"
+ },
  "3e90f4f9258f": {
   "en": "Going clockwise from the start (6 o’clock), you would read out the time as follows:",
   "t": "从起点（6 点钟方向）开始顺时针读，你会这样读出时间："
+ },
+ "3fe7e14f9c72": {
+  "en": "Monnihigh",
+  "t": "蒙尼海"
+ },
+ "405f9861c810": {
+  "en": "Vraki UOM",
+  "t": "弗拉基度量单位"
  },
  "40819a282455": {
   "en": "Each day of the week is named after one of the respective kingdoms, with Forrday being named after Forway and declared the end of the week (weekend).",
   "t": "一周中的每一天都以相应的王国命名，其中福日以福威命名，并被定为一周的最后一天（周末）。"
  },
+ "423208095dd7": {
+  "en": "Distance",
+  "t": "距离"
+ },
+ "46026dc598fa": {
+  "en": "9:00 to 10:30 am",
+  "t": "上午 9:00 到 10:30"
+ },
+ "463e2c643444": {
+  "en": "Hotfeel",
+  "t": "热感"
+ },
+ "464e77c2b377": {
+  "en": "Day &amp; Night",
+  "t": "白天与黑夜"
+ },
+ "4668d10a06bb": {
+  "en": "1 m",
+  "t": "1 m"
+ },
  "473e4c41cb04": {
   "en": "The edge between red and light green (12 o’clock) represents sundown, and if you continue to read out clockwise, the half timehunks are:",
   "t": "红色和浅绿色之间的边界（12 点钟方向）代表日落，如果你继续顺时针读，半个 timehunk 依次是："
+ },
+ "4b89709e3579": {
+  "en": "Δ6 km",
+  "t": "Δ6 km"
+ },
+ "4ca980c6077f": {
+  "en": "Monnalow",
+  "t": "蒙纳洛"
  },
  "4d39b159c4d0": {
   "en": "Kingdom’s culture over how close they keep track of their Time Keepers varies substantially. The most common example is that Sanbians are rarely on time, while Toleridemians are unnecessarily punctual.",
   "t": "各王国对泰姆基珀的守时程度在文化上差异很大。最常见的例子是，桑比人很少准时，而托勒里德梅人则准时得没有必要。"
  },
+ "4d8b36b2cab2": {
+  "en": "Δ4 km",
+  "t": "Δ4 km"
+ },
+ "5003a5790b63": {
+  "en": "Sunnalow",
+  "t": "苏纳洛"
+ },
  "5179743b6fd7": {
   "en": "Vraki Calendar &amp; Birth Age",
   "t": "弗拉基历与出生年龄"
+ },
+ "522469bfc43d": {
+  "en": "<strong>A week</strong> has 5 days, each named after a kingdom (or Forway):",
+  "t": "<strong>一周</strong>有 5 天，每一天以一个王国（或福威）命名："
+ },
+ "533ab897774d": {
+  "en": "Adi",
+  "t": "阿迪"
+ },
+ "54b569290e9a": {
+  "en": "2. Tollday",
+  "t": "2. 托尔日"
+ },
+ "557f1d12eb9c": {
+  "en": "600 to 800 ºC",
+  "t": "600 到 800 ºC"
+ },
+ "55b9dbfb57a2": {
+  "en": "Smalladi",
+  "t": "斯莫拉迪"
+ },
+ "55bfabd5ca83": {
+  "en": "Zinc Meltfeel",
+  "t": "锌熔感"
+ },
+ "5801218a701d": {
+  "en": "3:00 to 4:30 pm",
+  "t": "下午 3:00 到 4:30"
+ },
+ "580b511c179b": {
+  "en": "6:00 to 7:30 am",
+  "t": "上午 6:00 到 7:30"
+ },
+ "5815f22f5440": {
+  "en": "Adrian",
+  "t": "阿德里安"
+ },
+ "5866b42f41c2": {
+  "en": "Nobody knows how old the planet is, but it's estimated to be billions of years old. The world map made by the Four Kingdoms covers the southern part of the planet.",
+  "t": "没人知道这颗星球有多古老，但据估计有数十亿年。四王国绘制的世界地图覆盖了这颗星球的南部。"
  },
  "599fa08312b8": {
   "en": "The Vraki calendar was adopted as the official calendar when The Prosperity Treaty was signed.",
   "t": "《繁荣条约》签订时，弗拉基历被采用为官方历法。"
  },
+ "5b15093d169f": {
+  "en": "7:30 to 9:00 pm",
+  "t": "晚上 7:30 到 9:00"
+ },
+ "5bc9fb0a1a2d": {
+  "en": "1,500 ºC and up",
+  "t": "1,500 ºC 及以上"
+ },
+ "5c1ae82c2954": {
+  "en": "Fall",
+  "t": "秋"
+ },
+ "5c3702a61c8e": {
+  "en": "Work day",
+  "t": "工作日"
+ },
+ "5ee6a94131da": {
+  "en": "Sanbi, the third",
+  "t": "桑比，第三个"
+ },
+ "612ffc7bff03": {
+  "en": "World Map, Name, Vraki Calendar & UOM, etc (World Lore illustration)",
+  "t": "世界地图、命名、弗拉基历法与度量单位等（世界观插图）"
+ },
+ "61ef45277576": {
+  "en": "1 g",
+  "t": "1 g"
+ },
+ "62255f5671e8": {
+  "en": "Season",
+  "t": "季节"
+ },
+ "6265176cc349": {
+  "en": "<strong>A year</strong> has 4 months, 73 weeks and 365 days.",
+  "t": "<strong>一年：</strong>有 4 个月、73 周、365 天。"
+ },
+ "63c727b431e1": {
+  "en": "noon to 1:30 pm",
+  "t": "中午到下午 1:30"
+ },
+ "63d26e829107": {
+  "en": "3 hours",
+  "t": "3 小时"
+ },
+ "683e7e78122c": {
+  "en": "Chakiblood",
+  "t": "查基布拉德"
+ },
+ "69c0b81540bd": {
+  "en": "Weight",
+  "t": "重量"
+ },
+ "6a849eea10ba": {
+  "en": "5 ºC",
+  "t": "5 ºC"
+ },
  "6a997a7b9c20": {
   "en": "Public text: time-calendar.md",
   "t": "公开文本：time-calendar.md"
+ },
+ "6b21fb791ac0": {
+  "en": "About",
+  "t": "约等于"
  },
  "6b28109e511a": {
   "en": "The start of the calendar is determined by the fall of Ganyrami; hence this new era is called After Ganyrami (A.G.), and everything prior to it is called Before Ganyrami (B.G.)",
   "t": "历法的起点由加尼拉米的陷落决定；因此这个新时代被称为加尼拉米之后（A.G.），而在此之前的一切则被称为加尼拉米之前（B.G.）"
  },
+ "6bc4eb60f3d6": {
+  "en": "1.5 hours",
+  "t": "1.5 小时"
+ },
+ "6c82e6dd8680": {
+  "en": "Time",
+  "t": "时间"
+ },
+ "6cdd71655f64": {
+  "en": "Sunnuhigh",
+  "t": "苏努海"
+ },
+ "6e6edbd4ce19": {
+  "en": "Δ2 km",
+  "t": "Δ2 km"
+ },
+ "6fa4f2555fc3": {
+  "en": "5. Forrday",
+  "t": "5. 福日"
+ },
+ "754bd3e319de": {
+  "en": "11.25 minutes",
+  "t": "11.25 分钟"
+ },
+ "786808fab79b": {
+  "en": "Gold Meltfeel",
+  "t": "金熔感"
+ },
+ "79c629b0c7b8": {
+  "en": "<strong>Name:</strong> given by the parents at birth. How unique names are, and what they sound like, varies by region.",
+  "t": "<strong>名字：</strong>由父母在出生时取。名字有多独特、听起来像什么，因地区而异。"
+ },
+ "7b9d5cbba6ee": {
+  "en": "100 to 200 ºC",
+  "t": "100 到 200 ºC"
+ },
+ "7c92fc5cf65f": {
+  "en": "Summer",
+  "t": "夏"
+ },
+ "7d75266a53b9": {
+  "en": "Weeks",
+  "t": "周数"
+ },
  "7d7d858d2707": {
   "en": "*A mapping to the Gregorian calendar can be seen in blue.",
   "t": "*与公历的对应关系以蓝色显示。"
+ },
+ "81fffacbe869": {
+  "en": "Goodfeel",
+  "t": "舒感"
+ },
+ "85aef9b195fe": {
+  "en": "1 km",
+  "t": "1 km"
+ },
+ "86e13ebffa37": {
+  "en": "Sunnahigh",
+  "t": "苏纳海"
  },
  "874cb5da6c59": {
   "en": "Time, Calendar & Units · #HusbandOutWorld",
   "t": "时间、历法与单位 · #HusbandOutWorld"
  },
+ "87f637981db6": {
+  "en": "Named after",
+  "t": "命名来源"
+ },
  "8814add2a8ad": {
   "en": "Monnalow, Monnahigh, Monnilow, Monnihigh, Monnolow, Monnohigh, Monnulow, Monnuhigh.",
   "t": "蒙纳洛、蒙纳海、蒙尼洛、蒙尼海、蒙诺洛、蒙诺海、蒙努洛、蒙努海。"
+ },
+ "883d3ef46ab0": {
+  "en": "10:30 pm to midnight",
+  "t": "晚上 10:30 到午夜"
+ },
+ "88e3ffa7a0fc": {
+  "en": "15 ºC",
+  "t": "15 ºC"
+ },
+ "8932f1da88eb": {
+  "en": "1. Freeday",
+  "t": "1. 弗里日"
+ },
+ "896139ca858c": {
+  "en": "Icefeel",
+  "t": "冰感"
+ },
+ "89677615c2ec": {
+  "en": "Spring",
+  "t": "春"
  },
  "8ab4f98c8e68": {
   "en": "048 (images illustration)",
   "t": "048（插图）"
  },
+ "8b9613e1368b": {
+  "en": "1 mm",
+  "t": "1 mm"
+ },
+ "8c5742107502": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/World%20Map%2C%20Name%2C%20Vraki%20Calendar%20%26%20UOM%2C%20etc.md\">Legacy/Behind The Scenes/World Lore/World Map, Name, Vraki Calendar &amp; UOM, etc.md</a>",
+  "t": "来源：<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/World%20Map%2C%20Name%2C%20Vraki%20Calendar%20%26%20UOM%2C%20etc.md\">Legacy/Behind The Scenes/World Lore/World Map, Name, Vraki Calendar &amp; UOM, etc.md</a>"
+ },
  "8d62793b7022": {
   "en": "Akin to a sundial, the Time Keeper tells the time of day by shining it with sunlight or moonlight. Shortly after, you will be able to tell the time based on which section is growing bioluminescent.",
   "t": "泰姆基珀类似日晷，通过阳光或月光照射来显示一天中的时间。不久之后，你就能根据哪个区域在发出生物荧光来判断时间。"
+ },
+ "91bdbe40263e": {
+  "en": "Monnulow",
+  "t": "蒙努洛"
+ },
+ "931275a2bca5": {
+  "en": "midnight to 1:30 am",
+  "t": "午夜到凌晨 1:30"
+ },
+ "93f2bc4f34ec": {
+  "en": "3. Sannday",
+  "t": "3. 桑日"
+ },
+ "957fab35724e": {
+  "en": "4:30 to 6:00 pm",
+  "t": "下午 4:30 到 6:00"
+ },
+ "987b9ced08d4": {
+  "en": "Day",
+  "t": "白天"
+ },
+ "98d4b5922c55": {
+  "en": "Small Timehunk",
+  "t": "斯莫泰姆汉克"
+ },
+ "9a39d7403f0b": {
+  "en": "A full name is <strong>NAME PLACE GUILD</strong>:",
+  "t": "全名是<strong>名字 地点 公会</strong>："
+ },
+ "9a964b1f2e91": {
+  "en": "If you focus moonlight on a small point, any living being glows within its shine (more in the World Timeline). The night is laid out like the day, with the same low and high halves.",
+  "t": "如果把月光聚焦到一个小点上，任何活的生命在它的光照下都会发光（更多内容见世界年表）。夜晚的划分和白天一样，也有低半段和高半段。"
+ },
+ "9aec85cccb53": {
+  "en": "Moacir (Fall)",
+  "t": "莫阿西尔（秋）"
+ },
+ "9b272e538a31": {
+  "en": "Quarter Timehunk",
+  "t": "四分之一泰姆汉克"
+ },
+ "9b9fdce88e1e": {
+  "en": "10:30 am to noon",
+  "t": "上午 10:30 到中午"
+ },
+ "9d038dc6301e": {
+  "en": "30 ºC",
+  "t": "30 ºC"
+ },
+ "a0adbb339710": {
+  "en": "Monnahigh",
+  "t": "蒙纳海"
+ },
+ "a3c41dfac1aa": {
+  "en": "3:00 to 4:30 am",
+  "t": "凌晨 3:00 到 4:30"
  },
  "a42da8a6ed07": {
   "en": "Time can be further divided into quarter, small, and tiny timehunks, but one would use a Time Counter (akin to a sand clock) to do so, as day-to-day interactions are often expressed as “Let’s meet at Moonahigh for some fun time.”",
   "t": "时间还可以进一步分为四分之一、小和极小的 timehunk，但要做到这一点，就得用泰姆康特（类似沙漏），因为日常交往中，人们通常会说“我们蒙纳海见，一起找点乐子吧。”"
  },
+ "a4fe01fec5dc": {
+  "en": "Coldfeel",
+  "t": "冷感"
+ },
+ "a62001eccad5": {
+  "en": "4:30 to 6:00 am",
+  "t": "凌晨 4:30 到 6:00"
+ },
+ "a64c61a321b9": {
+  "en": "0 to 20 ºC",
+  "t": "0 到 20 ºC"
+ },
+ "a6d9bc0aec05": {
+  "en": "<strong>Birth age:</strong> a person's age is the number of years they've been alive as of the current year. The day and month they were born don't matter.",
+  "t": "<strong>出生年龄：</strong>一个人的年龄就是截至当年他已经活了多少年。出生的日期和月份无关紧要。"
+ },
+ "a9b6a1b01682": {
+  "en": "40 to 60 ºC",
+  "t": "40 到 60 ºC"
+ },
+ "ab20f9f8aed2": {
+  "en": "Average temperature:",
+  "t": "平均气温："
+ },
+ "ab478f3efc84": {
+  "en": "Map",
+  "t": "地图"
+ },
+ "af93c4561130": {
+  "en": "20 ºC",
+  "t": "20 ºC"
+ },
+ "b138c327dc56": {
+  "en": "Vraki",
+  "t": "弗拉基"
+ },
+ "b1d0a74ecfe2": {
+  "en": "10 ºC",
+  "t": "10 ºC"
+ },
+ "b1f43e144f06": {
+  "en": "Everything is in the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/World%20Calendar%20%26%20UOM.xlsx\">World Calendar &amp; UOM spreadsheet</a> (UOM tab).",
+  "t": "一切都在<a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/World%20Calendar%20%26%20UOM.xlsx\">世界历法与度量单位表格</a>（UOM 标签页）里。"
+ },
  "b4667d2ad6ef": {
   "en": "Time, Calendar &amp; Units · #HusbandOutWorld",
   "t": "时间、历法与单位 · #HusbandOutWorld"
+ },
+ "b4e38f0f3094": {
+  "en": "Δ0 km",
+  "t": "Δ0 km"
+ },
+ "b9096bc00e67": {
+  "en": "Bagabone",
+  "t": "巴加博恩"
+ },
+ "b95b502e5e9c": {
+  "en": "400 to 600 ºC",
+  "t": "400 到 600 ºC"
+ },
+ "ba2a27c917f2": {
+  "en": "below 0 ºC",
+  "t": "0 ºC 以下"
+ },
+ "bbeafdd0b5be": {
+  "en": "Sunnihigh",
+  "t": "苏尼海"
+ },
+ "bc9a069aa370": {
+  "en": "Tiny Sorebone",
+  "t": "泰尼索尔博恩"
+ },
+ "c105925b739e": {
+  "en": "1:30 to 3:00 pm",
+  "t": "下午 1:30 到 3:00"
+ },
+ "c2ee60e46d14": {
+  "en": "For the Four Kingdoms themselves, see the Four Kingdoms map; for the unknown regions, its metadata map. Both are in the art on this page.",
+  "t": "关于四王国本身，见四王国地图；关于未知区域，见它的元数据地图。两张都在本页的插图里。"
+ },
+ "c48183639a25": {
+  "en": "Temperature is named by how it feels, or by what it melts:",
+  "t": "温度按照感觉，或者按照它能熔化什么来命名："
+ },
+ "c4c3b395aac2": {
+  "en": "Paulin",
+  "t": "保林"
+ },
+ "c50d3c6d69a5": {
+  "en": "Monnuhigh",
+  "t": "蒙努海"
+ },
+ "c8c210a838a7": {
+  "en": "Monnohigh",
+  "t": "蒙诺海"
+ },
+ "c931c2b3d432": {
+  "en": "1,000 to 1,500 ºC",
+  "t": "1,000 到 1,500 ºC"
+ },
+ "cc07c88a6444": {
+  "en": "Sunnilow",
+  "t": "苏尼洛"
+ },
+ "cd9bb2359c6e": {
+  "en": "The Freeish Kingdom, which gets the first day of the working week because the rebellion began there",
+  "t": "弗里伊什王国，因为叛乱是从那里开始的，所以它拥有工作周的第一天"
+ },
+ "d1ec353c55bb": {
+  "en": "Sunnolow",
+  "t": "苏诺洛"
+ },
+ "d219ae24c6ee": {
+  "en": "To make names, contracts and negotiations easier, Forway introduced a naming schema for every kingdom child born after the Prosperity Treaty came into effect in 680 A.G.",
+  "t": "为了让名字、契约和谈判更方便，福威为《繁荣条约》于 680 A.G. 生效之后出生的每一个王国孩子，引入了一套命名规则。"
+ },
+ "d2c64f7edf44": {
+  "en": "Moacir",
+  "t": "莫阿西尔"
+ },
+ "d35d1b098262": {
+  "en": "Forway (\"Forward Day\"): all embassies are closed to the public",
+  "t": "福威（“前进之日”）：所有大使馆都不对公众开放"
+ },
+ "d422dd74af8c": {
+  "en": "1 L",
+  "t": "1 L"
+ },
+ "d4756da146e8": {
+  "en": "Asa",
+  "t": "阿萨"
+ },
+ "d4fd0a232ee5": {
+  "en": "Measure",
+  "t": "度量"
+ },
+ "d62f9077000f": {
+  "en": "*Only close to water, like the Sanbi Kingdom. Otherwise, treat it like Δ1 km.",
+  "t": "*仅限靠近水的地方，比如桑比王国。否则，按 Δ1 km 处理。"
+ },
+ "dbbbde6d447e": {
+  "en": "The Gandew Kingdom, the last kingdom to join",
+  "t": "甘杜王国，最后一个加入的王国"
+ },
+ "dd203b21dde6": {
+  "en": "Vraki's sun behaves much like ours. The day is split into four timehunks, each divided in two: a low and a high half (times are approximate, since they shift with the seasons). Low and high refer to the ratio of nari crystals in the mixture for each chunk.",
+  "t": "弗拉基的太阳和我们的差不多。一天分为四个泰姆汉克，每个再一分为二：低半段和高半段（时间是大致的，因为会随季节变化）。低和高指的是每一段混合物中纳里晶体的比例。"
+ },
+ "e00ce628e70c": {
+  "en": "-20 ºC",
+  "t": "-20 ºC"
+ },
+ "e36b8379325a": {
+  "en": "Sorebone",
+  "t": "索尔博恩"
+ },
+ "e3bce32d1813": {
+  "en": "Tiny Timehunk",
+  "t": "泰尼泰姆汉克"
+ },
+ "e4399bdb8eb0": {
+  "en": "7:30 to 9:00 am",
+  "t": "上午 7:30 到 9:00"
+ },
+ "e60820dff6a3": {
+  "en": "Paulin (Summer)",
+  "t": "保林（夏）"
+ },
+ "e7520d121b1a": {
+  "en": "Average humidity:",
+  "t": "平均湿度："
+ },
+ "e89ad2b981ab": {
+  "en": "4. Gannday",
+  "t": "4. 甘日"
+ },
+ "e89ad650b515": {
+  "en": "The moon is like Earth's, except for its color. The night sky uses the moon's color palette (#61f878). See the Time Keeper for more.",
+  "t": "月亮和地球的一样，只是颜色不同。夜空使用月亮的调色板（#61f878）。更多内容见泰姆基珀。"
+ },
+ "eb49a60dd9eb": {
+  "en": "Timehunk",
+  "t": "泰姆汉克"
+ },
+ "ee082afae4c5": {
+  "en": "20 to 40 ºC",
+  "t": "20 到 40 ºC"
  },
  "efcfa06e2090": {
   "en": "The Vraki calendar was adopted as the official calendar when The Prosperity Treaty was signed. Adrian, who spearheaded standardizing UOMs, also assisted in creating a standardized calendar. Wanting to immortalize themselves, he found a way to split a year amongst the courtroom scientist that created The Prosperity Treaty.",
@@ -90,5 +754,29 @@
  "f3d2efd02782": {
   "en": "Time Keeper",
   "t": "泰姆基珀"
+ },
+ "f45916418176": {
+  "en": "-5 ºC",
+  "t": "-5 ºC"
+ },
+ "f6bb0f468a85": {
+  "en": "Days",
+  "t": "天数"
+ },
+ "f70037cdb687": {
+  "en": "Meltfeel",
+  "t": "熔感"
+ },
+ "f87a7d72cc18": {
+  "en": "Steel Meltfeel",
+  "t": "钢熔感"
+ },
+ "fd4d4fe7fdd8": {
+  "en": "22.5 minutes",
+  "t": "22.5 分钟"
+ },
+ "fd7a1415ea75": {
+  "en": "The whole calendar, with a day-by-day comparison to the Gregorian calendar, is in the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/World%20Calendar%20%26%20UOM.xlsx\">World Calendar &amp; UOM spreadsheet</a>.",
+  "t": "完整的历法，以及与公历的逐日对照，都在<a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/World%20Calendar%20%26%20UOM.xlsx\">世界历法与度量单位表格</a>里。"
  }
 }
