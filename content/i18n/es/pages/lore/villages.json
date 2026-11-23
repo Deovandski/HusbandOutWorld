@@ -1,4 +1,8 @@
 {
+ "0013ecdd6cce": {
+  "en": "A village east of Sanbi. Its blacksmiths, a father and son, suck at their job.",
+  "t": "Una aldea al este de Sanbi. Sus herreros, un padre y un hijo, son malísimos en su trabajo."
+ },
  "025d108f6ea1": {
   "en": "Saltwater",
   "t": "Saltwater"
@@ -7,9 +11,21 @@
   "en": "Todame",
   "t": "Todame"
  },
+ "076779d7d8cc": {
+  "en": "A small village by two rivers. It floods every spring, so every house is built off the ground.",
+  "t": "Una pequeña aldea junto a dos ríos. Se inunda cada primavera, así que todas las casas están construidas elevadas del suelo."
+ },
+ "0de63bd59d9f": {
+  "en": "A village west of Northpoint, founded by someone who was nearly the Lishies' food, though it never grew much, for whatever reason. It has a lighthouse.",
+  "t": "Una aldea al oeste de Northpoint, fundada por alguien que estuvo a punto de ser la comida de los Lishies, aunque nunca creció mucho, por la razón que sea. Tiene un faro."
+ },
  "159a1c3c92ce": {
   "en": "Tolame",
   "t": "Tolame"
+ },
+ "1600c59ad2d1": {
+  "en": "A village not too far from Forway City, where Harry and Dalila got on a wagon. It's called Jack Wood because its early residents were famous for robbing travelers by blocking the road with trees (hijack, jack).",
+  "t": "Una aldea no muy lejos de Forway City, donde Harry y Dalila se subieron a una carreta. Se llama Jack Wood porque sus primeros habitantes eran famosos por robar a los viajeros bloqueando el camino con árboles (hijack, jack)."
  },
  "164be3a324db": {
   "en": "Torame",
@@ -35,13 +51,33 @@
   "en": "Summary written by AI from the author's notes (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Villages.md\">Villages.md</a>). <a href=\"/about/ai-disclosure/\">AI disclosure</a>",
   "t": "Resumen escrito por IA a partir de las notas del autor (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Villages.md\">Villages.md</a>). <a href=\"/about/ai-disclosure/\">Uso de IA</a>"
  },
+ "2cd87c6f70bd": {
+  "en": "A village north of Sanbi. Sometimes saltwater and water from the waterfall mix in the harbor and make the water light up. It has a lighthouse.",
+  "t": "Una aldea al norte de Sanbi. A veces el agua salada y el agua de la cascada se mezclan en el puerto y hacen que el agua se ilumine. Tiene un faro."
+ },
+ "35ecd1f08177": {
+  "en": "A village east of Sanbi. The village chief, Tupinamba, is old and cranky but realistic: when he says something is shit, it's because it is. He seems about as old as Gabiro, but a bit fatter and taller.",
+  "t": "Una aldea al este de Sanbi. El jefe de la aldea, Tupinamba, es viejo y cascarrabias pero realista: cuando dice que algo es una mierda, es porque lo es. Parece más o menos igual de viejo que Gabiro, pero algo más gordo y más alto."
+ },
+ "3cf7066fe8f0": {
+  "en": "It floods every spring, as the river flow changes and the snow melts, so every house is built off the ground.",
+  "t": "Se inunda cada primavera, porque cambia el caudal del río y se derrite la nieve, así que todas las casas están construidas elevadas del suelo."
+ },
  "4175524e9250": {
   "en": "Minala",
   "t": "Minala"
  },
+ "41e6b1c41ef1": {
+  "en": "A village next to Bahyum; see Bahyum under Land for more, including the castle mood tracker.",
+  "t": "Una aldea junto a Bahyum; ver Bahyum en Tierras para más, incluido el registro del humor del castillo."
+ },
  "4291c6875b62": {
   "en": "Totame",
   "t": "Totame"
+ },
+ "4f75c386ee02": {
+  "en": "A really old village in the middle of nowhere. There's a fair amount of inbreeding.",
+  "t": "Una aldea antiquísima en medio de la nada. Hay bastante endogamia."
  },
  "544ef03fd71c": {
   "en": "Banhia",
@@ -51,6 +87,10 @@
   "en": "Tomame",
   "t": "Tomame"
  },
+ "58b46653244f": {
+  "en": "Usually one or two people in this \"village\", who dare to stay isolated long enough to get rich. Its lighthouse keeps boats from straying too far northeast by accident, and boats coming from Newland from going too far south.",
+  "t": "Suele haber una o dos personas en esta «aldea», que se atreven a quedarse aisladas el tiempo suficiente para hacerse ricas. Su faro impide que los barcos se desvíen por accidente demasiado al noreste, y que los barcos que vienen de Newland se vayan demasiado al sur."
+ },
  "5a2eae7c1c93": {
   "en": "Tofame",
   "t": "Tofame"
@@ -58,6 +98,10 @@
  "5b68530e46b5": {
   "en": "Otherside",
   "t": "Otherside"
+ },
+ "5b7dc6d64e31": {
+  "en": "A village on the left edge of Endlessfog Island. It has a lighthouse.",
+  "t": "Una aldea en el borde izquierdo de la isla de Endlessfog. Tiene un faro."
  },
  "5c874ea7ca09": {
   "en": "Tohame",
@@ -67,9 +111,21 @@
   "en": "Long Bridge",
   "t": "Long Bridge"
  },
+ "5f8f9e1f2bb7": {
+  "en": "A small village on Ganyrami Bay. It has a lighthouse.",
+  "t": "Una pequeña aldea en la Ganyrami Bay. Tiene un faro."
+ },
+ "63056165b37d": {
+  "en": "A village on the island on the other side: the goal for many, a long time ago, as they fled the Lishies' hungry mouths.",
+  "t": "Una aldea en la isla del otro lado: el objetivo de muchos, hace mucho tiempo, cuando huían de las bocas hambrientas de los Lishies."
+ },
  "66317632fdc8": {
   "en": "Fastwater",
   "t": "Fastwater"
+ },
+ "6fc4cc7dea18": {
+  "en": "A village between Sanbi and Forway. Back in the day, crossing the river was a must, so a village grew around this resting point. The village elder, Tomanius, is a caring older guy. The bridge is four times as long as the reference, a bit like the one in Skyrim.",
+  "t": "Una aldea entre Sanbi y Forway. Antiguamente era obligatorio cruzar el río, así que creció una aldea alrededor de este punto de descanso. El anciano de la aldea, Tomanius, es un señor mayor muy atento. El puente es cuatro veces más largo que el de la referencia, un poco como el de Skyrim."
  },
  "70306a42ee97": {
   "en": "Green Sea",
@@ -79,9 +135,17 @@
   "en": "Lakeeye",
   "t": "Lakeeye"
  },
+ "72d405bed437": {
+  "en": "A village southeast of Forway, near Likenia.",
+  "t": "Una aldea al sureste de Forway, cerca de Likenia."
+ },
  "77eeb2f03e9d": {
   "en": "45 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "Hay 45 entradas más de esta página que solo están en <button class=\"linklike\" data-go-bts>Entre bastidores</button>."
+ },
+ "8028cee75734": {
+  "en": "A village east of Sanbi, not far from where Eori kept Harry hostage. The basement of Eori's hideout:",
+  "t": "Una aldea al este de Sanbi, no lejos de donde Eori tuvo a Harry como rehén. El sótano del escondite de Eori:"
  },
  "844edd56f865": {
   "en": "Villages · #HusbandOutWorld",
@@ -103,6 +167,14 @@
   "en": "Jack Wood",
   "t": "Jack Wood"
  },
+ "8e7c1c5547fc": {
+  "en": "North of Tolerideme. Wood People are forced into place, forming a wall with Fost Stone.",
+  "t": "Al norte de Tolerideme. A los Wood People se les obliga a quedarse en su sitio, formando un muro con Fost Stone."
+ },
+ "8f687d534f83": {
+  "en": "A village near Flatland, where a bandit group used broken weapons in their attacks, until adventurers flattened them a long time ago.",
+  "t": "Una aldea cerca de Flatland, donde un grupo de bandidos usaba armas rotas en sus ataques, hasta que unos aventureros los aplastaron hace mucho tiempo."
+ },
  "93f7ba85c7ed": {
   "en": "Freeish Region",
   "t": "Región de Freeish"
@@ -114,6 +186,18 @@
  "965d6eddc523": {
   "en": "Bahyum",
   "t": "Bahyum"
+ },
+ "968f0599653f": {
+  "en": "A village south of Sanbi. It has a lighthouse.",
+  "t": "Una aldea al sur de Sanbi. Tiene un faro."
+ },
+ "976739e9be2b": {
+  "en": "A small village off Deltacross. It has a Gandew lighthouse.",
+  "t": "Una pequeña aldea frente a Deltacross. Tiene un faro de Gandew."
+ },
+ "98c7cb4f62c5": {
+  "en": "A village east of Sanbi.",
+  "t": "Una aldea al este de Sanbi."
  },
  "993afbf1792a": {
   "en": "Rebula",
@@ -127,6 +211,10 @@
   "en": "An old lady, Fiera, took care of every passerby, whatever their origin or destination, and some like-minded people decided to stay and help strangers too.",
   "t": "Una anciana, Fiera, cuidaba de todo el que pasaba, fuera cual fuera su origen o su destino, y algunas personas de ideas afines decidieron quedarse y ayudar también a los desconocidos."
  },
+ "a7972ad7eb55": {
+  "en": "A village near where two rivers meet, for people who wanted a peaceful life, but not too far from civilization.",
+  "t": "Una aldea cerca de donde se juntan dos ríos, para gente que quería una vida tranquila, pero no demasiado lejos de la civilización."
+ },
  "a8bdbf7926eb": {
   "en": "Arukia in Arc 1: two outfits of a brown-haired young woman, a black-and-blue maid dress and a casual blue top with a purple skirt.",
   "t": "Arukia en el Arco 1: dos conjuntos de una joven de pelo castaño, un vestido de criada negro y azul y un top azul informal con falda morada."
@@ -135,6 +223,10 @@
   "en": "Villages (World Lore illustration)",
   "t": "Aldeas (ilustración del Lore del mundo)"
  },
+ "aa99df9d1268": {
+  "en": "A village east of Sanbi, south of Green Sea. The village chief, Manbola, is an old lady who's chill with everything, just living life.",
+  "t": "Una aldea al este de Sanbi, al sur de Green Sea. La jefa de la aldea, Manbola, es una anciana a la que todo le parece bien, que simplemente vive la vida."
+ },
  "bb32aa7791df": {
   "en": "Fostwater",
   "t": "Fostwater"
@@ -142,6 +234,10 @@
  "bc510c5ac0fc": {
   "en": "Tosame",
   "t": "Tosame"
+ },
+ "bfaff2cad3b8": {
+  "en": "A village on the north point of the bay. It has a lighthouse.",
+  "t": "Una aldea en la punta norte de la bahía. Tiene un faro."
  },
  "bfe6f52444a9": {
   "en": "Cliffbay",
@@ -179,6 +275,10 @@
   "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Villages.md\">Legacy/Behind The Scenes/World Lore/Villages.md</a>",
   "t": "Fuente: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Villages.md\">Legacy/Behind The Scenes/World Lore/Villages.md</a>"
  },
+ "c85613d7f49b": {
+  "en": "A village quite far from Forway City, which Harry and Dalila passed through. Nailah, Severino and Vitor live here. Since it's deep in the forest, the village is fortified with walls.",
+  "t": "Una aldea bastante lejos de Forway City, por la que pasaron Harry y Dalila. Aquí viven Nailah, Severino y Vitor. Como está en lo hondo del bosque, la aldea está fortificada con murallas."
+ },
  "c918beef2c0c": {
   "en": "Tojame",
   "t": "Tojame"
@@ -186,6 +286,14 @@
  "c96e19027eee": {
   "en": "Togame",
   "t": "Togame"
+ },
+ "cc3de8998411": {
+  "en": "A village under Tolerideme's \"protection\", acting like an extension of the kingdom.",
+  "t": "Una aldea bajo la «protección» de Tolerideme, que funciona como una extensión del reino."
+ },
+ "cd8fa1407db5": {
+  "en": "<strong>Food:</strong> Fiera's baked pies, from recipes passed down through the generations. Deliciously moist.",
+  "t": "<strong>Comida:</strong> las tartas al horno de Fiera, de recetas que pasan de generación en generación. Deliciosamente jugosas."
  },
  "cd94d22e162b": {
   "en": "Fiera’s Hut",
@@ -206,6 +314,14 @@
  "d7018b5be1b1": {
   "en": "Cocona: a palm tree with rainbow-colored fronds and several colorful nut-like fruits.",
   "t": "Cocona: una palmera de hojas con los colores del arcoíris y varios frutos de colores parecidos a nueces."
+ },
+ "d77003e40ffb": {
+  "en": "A village on the skinny part of the island. Nobody knows why the name Sandwich stuck.",
+  "t": "Una aldea en la parte estrecha de la isla. Nadie sabe por qué se quedó el nombre de Sandwich."
+ },
+ "da39c22fbdeb": {
+  "en": "Not a very inventive name, but quite descriptive and honest. It has a lighthouse.",
+  "t": "No es un nombre muy original, pero sí bastante descriptivo y honesto. Tiene un faro."
  },
  "dcd640303d5c": {
   "en": "Rich Island",

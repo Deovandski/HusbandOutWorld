@@ -1,7 +1,43 @@
 {
+ "0a1a7c383620": {
+  "en": "Their skin, eyes included, changes to the color of their enhancement group. Kozaku Forway, the Darfaries who leads the Blue Wozens, is one: the stone melded with him perfectly, then corrupted his mind.",
+  "t": "Su piel, ojos incluidos, cambia al color de su grupo de mejora. Kozaku Forway, el Darfaries que lidera a los Blue Wozens, es uno: la piedra se fusionó con él a la perfección, y luego le corrompió la mente."
+ },
+ "0b81ef926400": {
+  "en": "Science - Walking Heart Interface (World Lore illustration)",
+  "t": "Ciencia - Interfaz Walking Heart (ilustración del Lore del mundo)"
+ },
+ "181edb28f3a4": {
+  "en": "When they feel a strong emotion that matches a color bound to their soul, a flame of that color rises from their chest.",
+  "t": "Cuando sienten una emoción fuerte que coincide con un color vinculado a su alma, les sube del pecho una llama de ese color."
+ },
  "1b6034ca7bd4": {
   "en": "Intelligence (Blue)",
   "t": "Inteligencia (azul)"
+ },
+ "1c55928c621d": {
+  "en": "<strong>Emotions likely to run rampant:</strong> anxiety, jealousy, hoarding.",
+  "t": "<strong>Emociones que probablemente se desborden:</strong> ansiedad, celos, acaparamiento."
+ },
+ "1f6bc60236d0": {
+  "en": "Forway banned their use because of the deaths and the corruption of character they often cause. And since the person becomes undead, they give up their rights as a citizen.",
+  "t": "Forway prohibió su uso por las muertes y la corrupción del carácter que suelen causar. Y como la persona se convierte en no muerta, renuncia a sus derechos como ciudadana."
+ },
+ "207aaa09247c": {
+  "en": "Living with one",
+  "t": "Vivir con una"
+ },
+ "2be3ffef43f3": {
+  "en": "<strong>Benefits:</strong> memory, intellectual processing, planning, understanding knowledge.",
+  "t": "<strong>Ventajas:</strong> memoria, procesamiento intelectual, planificación, comprensión del conocimiento."
+ },
+ "2fbb9d1ee2a3": {
+  "en": "<strong>Emotions likely to run rampant:</strong> depression, embarrassment, sadness.",
+  "t": "<strong>Emociones que probablemente se desborden:</strong> depresión, vergüenza, tristeza."
+ },
+ "30f716793368": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Walking%20Heart%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Walking Heart Interface.md</a>",
+  "t": "Fuente: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Walking%20Heart%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Walking Heart Interface.md</a>"
  },
  "32318a007431": {
   "en": "Walking Hearts",
@@ -10,6 +46,14 @@
  "33f7b9aa1b1f": {
   "en": "Increased memory and intellectual processing that can extend into becoming a great strategist, but at the cost of strength, agility, dexterity, and stamina. And if that’s not enough, there is a risk of growing emotionless and completely detached.",
   "t": "Más memoria y capacidad intelectual, que pueden convertirte en un gran estratega, pero a costa de la fuerza, la agilidad, la destreza y el aguante. Y por si fuera poco, existe el riesgo de volverse frío y completamente desapegado."
+ },
+ "39673b3a8ca2": {
+  "en": "<strong>Drawback:</strong> dexterity.",
+  "t": "<strong>Inconveniente:</strong> la destreza."
+ },
+ "3af3d06a85b9": {
+  "en": "<strong>Benefits:</strong> fine motor coordination; ranged weapons strike truer; harder to notice, if they train their walk, since they no longer breathe.",
+  "t": "<strong>Ventajas:</strong> coordinación motora fina; las armas a distancia aciertan mejor; más difícil de detectar, si entrena su forma de caminar, ya que ya no respira."
  },
  "4324b6c71f52": {
   "en": "Walking Hearts are stones created by geological processes within the irradiated zones of Hifuna. They usually develop to about the size of a fist and are pure black. Within the blackness, specific other colors radiate. These different colors tell what type of stone it is and what kinds of power it will likely grant the wearer if someone replaces their heart with it.",
@@ -23,6 +67,18 @@
   "en": "Able to run further and faster. Able to fight for more extended periods and increased efficiency of using Soul Energy, but at the cost of dexterity, and the development of anxiety and jealousy issues, which can further develop into becoming a hoarder.",
   "t": "Puedes correr más lejos y más rápido. Puedes luchar durante más tiempo y usar la Energía del alma con más eficiencia, pero a costa de la destreza y de desarrollar problemas de ansiedad y celos, que pueden derivar en acumulación compulsiva."
  },
+ "482ae4090c22": {
+  "en": "Their heart no longer beats, and they no longer eat, drink, breathe or sleep. They recharge only through emotions, or by stabbing a nari stone into their heart.",
+  "t": "Su corazón ya no late, y ya no comen, ni beben, ni respiran, ni duermen. Solo se recargan con las emociones, o clavándose una nari stone en el corazón."
+ },
+ "48bff0c7c530": {
+  "en": "A stone holds five groups of enhancement: red, yellow, green, blue and purple. The person's mind and the stone's color ratios have to become one. If they don't, the person never wakes up. If they do, the stone binds to the person's soul and they become undead, and the color of their skin shows which powers are bound to them. A stone grants one to three enhancements from a group.",
+  "t": "Una piedra contiene cinco grupos de mejora: rojo, amarillo, verde, azul y morado. La mente de la persona y las proporciones de color de la piedra tienen que hacerse una. Si no, la persona no despierta nunca. Si lo hacen, la piedra se vincula al alma de la persona y esta se convierte en no muerta, y el color de su piel muestra qué poderes tiene vinculados. Una piedra concede de una a tres mejoras de un grupo."
+ },
+ "494b68464bcd": {
+  "en": "<strong>Emotions likely to run rampant:</strong> revenge, anger, berserker rage.",
+  "t": "<strong>Emociones que probablemente se desborden:</strong> venganza, ira, furia de berserker."
+ },
  "57df5930ce7a": {
   "en": "Dexterity (Green)",
   "t": "Destreza (verde)"
@@ -30,6 +86,10 @@
  "5ff2002caaf7": {
   "en": "Strength (Red)",
   "t": "Fuerza (rojo)"
+ },
+ "64ae3e7c0336": {
+  "en": "<strong>Emotions likely to run rampant:</strong> fear, terror, grief.",
+  "t": "<strong>Emociones que probablemente se desborden:</strong> miedo, terror, duelo."
  },
  "735f6e4c06e2": {
   "en": "Easy to gain strength and build up muscle at the cost of agility and the development of anger issues, to the point of going, berserker.",
@@ -39,9 +99,25 @@
   "en": "Walking Heart appearance: a man shown four times with red, orange, green and purple skin, and a multicolored heart-stone about 13 cm across.",
   "t": "Aspecto del Walking Heart: un hombre mostrado cuatro veces con la piel roja, naranja, verde y morada, y una piedra corazón multicolor de unos 13 cm."
  },
+ "7afa05c5d226": {
+  "en": "<strong>Benefits:</strong> runs without getting tired; can fight or work for hours on end; uses soul energy more efficiently.",
+  "t": "<strong>Ventajas:</strong> corre sin cansarse; puede luchar o trabajar durante horas; usa la energía del alma con más eficiencia."
+ },
+ "7d35a0793e8f": {
+  "en": "<strong>Drawbacks:</strong> loses strength, agility, dexterity and stamina; likely a shorter lifespan.",
+  "t": "<strong>Inconvenientes:</strong> pierde fuerza, agilidad, destreza y resistencia; probablemente una vida más corta."
+ },
  "7eebda879787": {
   "en": "Walking Hearts Benefits &amp; Risks",
   "t": "Beneficios &amp; riesgos de los Walking Hearts"
+ },
+ "9367f991e3b2": {
+  "en": "<strong>Benefits:</strong> extra strength; builds muscle easily.",
+  "t": "<strong>Ventajas:</strong> fuerza extra; gana músculo con facilidad."
+ },
+ "973e53f7f1b4": {
+  "en": "How a stone binds",
+  "t": "Cómo se vincula una piedra"
  },
  "97eda47ff757": {
   "en": "Agility (Purple)",
@@ -51,17 +127,49 @@
   "en": "Walking Heart Interface",
   "t": "Interfaz Walking Heart"
  },
+ "9a484adf5f9c": {
+  "en": "<strong>Emotions:</strong> neutral and balanced, and at worst emotionless: robotic, almost catatonic, a blank slate.",
+  "t": "<strong>Emociones:</strong> neutras y equilibradas y, en el peor de los casos, sin emociones: robótico, casi catatónico, una pizarra en blanco."
+ },
+ "a4b182b0a1b0": {
+  "en": "<strong>Drawback:</strong> stamina.",
+  "t": "<strong>Inconveniente:</strong> la resistencia."
+ },
  "a518d97cdc78": {
   "en": "Forway banned their usage due to the fatalities and corruption of one’s character that often occurs. Legally speaking, the lack of pulse also implies a certain death status. Their souls haven’t died yet, so they can’t be marked as soul dead and their rights as citizens removed. Lawmakers were not keen on the idea, though, and they classified people using any Buhraies or Walking Heart technology that causes soul corruption to be undead and be treated the same as soul dead.",
   "t": "Forway prohibió su uso por las muertes y la corrupción del carácter que suelen provocar. Legalmente hablando, la falta de pulso también implica cierto estado de muerte. Sus almas aún no han muerto, así que no se les puede declarar muertos del alma ni retirarles sus derechos como ciudadanos. Pero a los legisladores no les gustó la idea, y clasificaron a quienes usan cualquier tecnología Buhraies o de Walking Heart que cause corrupción del alma como no muertos, a los que se trata igual que a los muertos del alma."
+ },
+ "a8b5b593473b": {
+  "en": "Walking Hearts are stones that form in the irradiated zones of Hifuna. They usually grow to about the size of a fist and are black, but colors glow within the black, and those colors tell what type of stone it is and what powers it will likely grant whoever replaces their heart with it.",
+  "t": "Los Walking Hearts son piedras que se forman en las zonas irradiadas de Hifuna. Suelen crecer hasta más o menos el tamaño de un puño y son negras, pero dentro del negro brillan colores, y esos colores indican de qué tipo es la piedra y qué poderes es probable que conceda a quien sustituya su corazón por ella."
+ },
+ "c20c21de2e4f": {
+  "en": "<strong>Drawback:</strong> agility.",
+  "t": "<strong>Inconveniente:</strong> la agilidad."
  },
  "c81ded4d937f": {
   "en": "Increased healing, reflection time, and controlling the sense of time, but at the cost of strength and the development of a constant fear of everything and every one, this fear can terrorize the person to their core.",
   "t": "Más curación, más tiempo de reflejos y control de la percepción del tiempo, pero a costa de la fuerza y de desarrollar un miedo constante a todo y a todos, un miedo que puede aterrorizar a la persona hasta lo más hondo."
  },
+ "d5998a8b2ab6": {
+  "en": "As long as the person still has a soul, the stone keeps feeding off it to power the body.",
+  "t": "Mientras a la persona le quede alma, la piedra sigue alimentándose de ella para dar energía al cuerpo."
+ },
  "e5587824652a": {
   "en": "Stamina (Yellow)",
   "t": "Aguante (amarillo)"
+ },
+ "e65b439f2b46": {
+  "en": "The stones are impure by nature, so one person can rarely develop two colors at once.",
+  "t": "Las piedras son impuras por naturaleza, así que es raro que una persona desarrolle dos colores a la vez."
+ },
+ "e8ad92da0615": {
+  "en": "<strong>Drawback:</strong> strength.",
+  "t": "<strong>Inconveniente:</strong> la fuerza."
+ },
+ "ee6ed38c825d": {
+  "en": "<strong>Benefits:</strong> faster reflexes; faster healing.",
+  "t": "<strong>Ventajas:</strong> reflejos más rápidos; curación más rápida."
  },
  "f8d4a14019c0": {
   "en": "Walking Heart Interface · #HusbandOutWorld",
