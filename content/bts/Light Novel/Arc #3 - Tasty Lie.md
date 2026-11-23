@@ -37,18 +37,18 @@ Author's to-do: after his soul splits, Harry loses the ability to understand any
 
 ![][image2]
 
-- XX (the bandit Katsumi killed in Book 7, Chapter 5): "Hey, do you know where we are?" The Black Magina guy: "I have no fucking idea. I just woke up! The door is locked!" He looks around and moves closer. "XX, we need to escape through the window!" His worried voice seeps into Harry's ears, waking him.
-- XX: "Why? Who are you?" "What are you talking about?" "I said, who the fuck are you?" The Black Magina guy grabs him by the shoulders. "You don't remember? Magina guy? I'm the Black Magina guy! I've known you for, like, twenty years!"
-- XX slaps his hands away. "You're lying! Touch me again and you'll meet the darkness." The Black Magina guy grabs his shoulders again, tighter this time, leaning in and raising his voice. "Are you fucking with me? You're not throwing me under the Egua! You're not innocent either! You were the first one abusing them!"
+- {WIP-katsumiBandit} (the bandit Katsumi killed in Book 7, Chapter 5, now revived): "Hey, do you know where we are?" {WIP-blackMaginaGuy}: "I have no fucking idea. I just woke up! The door is locked!" He looks around and moves closer. "{WIP-katsumiBandit}, we need to escape through the window!" His worried voice seeps into Harry's ears, waking him.
+- {WIP-katsumiBandit}: "Why? Who are you?" "What are you talking about?" "I said, who the fuck are you?" {WIP-blackMaginaGuy} grabs him by the shoulders. "You don't remember? Magina guy? I'm {WIP-blackMaginaGuy}! I've known you for, like, twenty years!"
+- {WIP-katsumiBandit} slaps his hands away. "You're lying! Touch me again and you'll meet the darkness." {WIP-blackMaginaGuy} grabs his shoulders again, tighter this time, leaning in and raising his voice. "Are you fucking with me? You're not throwing me under the Egua! You're not innocent either! You were the first one abusing them!"
 
 #### Harry sits up in bed, looking at the door; Takeo has steel pliers ready
 
 - The door opens and shuts just as loudly. Harry sits in bed, trying to place all these familiar faces and places; everything is hazy, because his vision is shit.
-- The Magina guy: "Who the fuck are you? What are you doing to us?" Takeo locks the door. "Let's talk." The Magina guy looks at the clicking steel pliers and goes to hit him, but he's too weak: Takeo punches him aside, and he hits the wall and falls to the floor, his head bleeding. YY hesitates to strike back, but Takeo lands a blow to his face that sends him flying toward Harry.
+- {WIP-katsumiBandit}: "Who the fuck are you? What are you doing to us?" Takeo locks the door. "Let's talk." He looks at the clicking steel pliers and goes to hit him, but he's too weak: Takeo punches him aside, and he hits the wall and falls to the floor, his head bleeding. {WIP-blackMaginaGuy} hesitates to strike back, but Takeo lands a blow to his face that sends him flying toward Harry.
 - Panic races through Harry's heart. He looks at his hands and feels a sense of power overwhelming him. In one swift move, he's out of bed and tumbling to the back of the room, putting distance between himself and this monstrous figure. Takeo smiles and clicks his pliers, and the room goes silent.
 - Harry focuses all his power into his hands, but nothing happens. The tingle in his spine that radiates down through his body is all there, but no flame comes out. Takeo lets out a single, mocking gasp of laughter. "Is that a new CQC?" "Huh?" "Close Quarters Combat. Show me!" Harry looks at his normal-looking hands and concentrates again. Nothing. "I—dunno. Haaa—"
 - Takeo grabs the two bandits by the hair and turns them toward Harry. "Do you know these two?" Harry shakes his head, straining to see their faces. "I—I—no. I—I don't know them." He keeps his distance. Takeo pulls their heads up to his height. "And you two? Do you know him?" Through their pained groans comes a strong, negative-sounding murmur.
-- Takeo looks back at Harry. "Want to go first or last?" "La—last?" Takeo sets the pliers on the Magina guy's fingers. He clips them slowly, savoring the bones breaking, as the man screams in agony. He eats the finger, shakes his head, and spits the half-chewed finger back in the bandit's face.
+- Takeo looks back at Harry. "Want to go first or last?" "La—last?" Takeo sets the pliers on {WIP-katsumiBandit}'s fingers. He clips them slowly, savoring the bones breaking, as the man screams in agony. He eats the finger, shakes his head, and spits the half-chewed finger back in the bandit's face.
 - Harry tries the window, but it's sealed tight. Meanwhile, Takeo does the same to the other bandit, but instead of spitting it out, he savors it longer. "That's a good blend of Freeish and Sanbi."
 
 #### Takeo pins Harry against the wall with his arm and snaps off his fingers
@@ -98,7 +98,7 @@ Author's to-do: after his soul splits, Harry loses the ability to understand any
 
 #### Eori's punishment begins at the Sanbi docks
 
-- A crowd swarms the docks to watch Eori push a kayak into the water by herself; Kibe follows. Eori's will is iron.
+- A crowd swarms the docks to watch Eori push a kayak into the water by herself; Kibe follows. Eori's will is iron. (It starts as swimming, but Eori uses her wits, and pity, to manipulate her way into a paddle boat.)
 
 #### A day in, Eori is cold and hungry while Kibe enjoys a nice dinner
 
@@ -141,19 +141,19 @@ Author's to-do: after his soul splits, Harry loses the ability to understand any
 - Dalila, quietly eating, looks at Harry, then back at her food, taking another bite of the tender, juicy, slightly gamy Bagarisa. She starts staring intently at Harry's plate. "I can eat it for you." Nailah: "Desmond, can you give your Bagarisa to Dalila? I don't want to see food wasted."
 - Harry nods and slides his plate over. She stabs her picker into the meat, and Harry feels a stab in his heart, as if it were his own flesh. Vitor gets pissed off and does the same, and now Dalila has a stack of Bagarisa to eat, which brings a slight smile to her face. Harry looks at her smile. *I'm sorry.*
 - Nailah looks at her husband. "I think she'd have a better time somewhere without so many memories." Severino: "I was talking with Desmond earlier today. Maybe next time Yosuke stops by, we can see if he needs an assistant?" Dalila looks at them, Bagarisa juice on her chin, mouth full. "Who's that?" "The chef of The Wood People Picker."
-- For the first time, Dalila's eyes sparkle with life. She gulps down her food, her mood lifting a little. "Are you serious?" "Of course. He's one of our favorite clients." Nailah: "I'll ask VV to carry a message to Yosuke before she sets off."
+- For the first time, Dalila's eyes sparkle with life. She gulps down her food, her mood lifting a little. "Are you serious?" "Of course. He's one of our favorite clients." Nailah: "I'll ask {WIP-nailahMessenger} to carry a message to Yosuke before she sets off."
 
 # Book 9 - A Forced Restart › Chapter 4 - Anything is a contract away
 
 #### Ryo and an adventurer on the road with two Saynas that look like the sisters; one of them is silent as a rock
 
-- Adventurer: "Why are you going to such lengths for these two?" [Ryo](/lore/characters/#ryo-flatland-long-blue): "'Cause I love 'em. Simple as that." "Even though they're Red Winga whores?" One of the [Saynas](/lore/fauna/#sayna) scratches him. Ryo: "I agree with Katsumi! No need to shit-talk a legitimate profession."
+- The adventurer, {WIP-rioAdventGuard}: "Why are you going to such lengths for these two?" [Ryo](/lore/characters/#ryo-flatland-long-blue): "'Cause I love 'em. Simple as that." "Even though they're Red Winga whores?" One of the [Saynas](/lore/fauna/#sayna) scratches him. Ryo: "I agree with Katsumi! No need to shit-talk a legitimate profession."
 - The adventurer holds the Sayna up and looks it in the eyes. "My point is, you two are [Red Winga](/lore/factions/#red-winga) property! You signed the contract, so now the Forway guards can come hunting you down!" Ryo: "Not for long. I have my connections." "Leave me out of it. The last thing I want is trouble at the embassy." "A promise is a promise. Our contract ends as soon as we set foot in Forway." "Is that a whole battalion of Forway guards?" "You'd better believe it…"
 
 #### Ryo, the sisters (in nari gel form) and the adventurer are stopped by a Forway captain
 
 - The guards talk about how cute the Saynas are: one is very playful, the other very quiet. Ryo says a friend of his is getting into breeding them, and he got first dibs.
-- The guards ask if they saw anything weird in the forest, or talked with anyone who did. Ryo: "We saw tons of broken carts on the road with nobody in sight, so we fled toward Forway." "Did you see the explosion?" "We heard a rumble in the sky, but apparently we were too far south of it. We fled to [Deltacross](/lore/cities/#deltacross)." The captain asks if they're looking for family members. Ryo: "No, just passing through, on my way back home to Flatland." The adventurer holds back and keeps up the lie.
+- The guards ask if they saw anything weird in the forest, or talked with anyone who did. Ryo: "We saw tons of broken carts on the road with nobody in sight, so we fled toward Forway." "Did you see the explosion?" "We heard a rumble in the sky, but apparently we were too far south of it. We fled to [Deltacross](/lore/cities/#deltacross)." The captain asks if they're looking for family members. Ryo: "No, just passing through, on my way back home to Flatland." The adventurer holds back and keeps up the lie. (Forway, then Deltacross: Ryo's story slips, because it's all a lie for the guards.)
 - The guards let them go. Adventurer: "Why did you lie?" Ryo: "Of course I would. The Red Winga is bigger than you think."
 
 #### Ryo and the sisters in a Forway hotel room
@@ -168,12 +168,12 @@ Author's to-do: after his soul splits, Harry loses the ability to understand any
 
 - Severino: "Good job, you two. We got some fine wood today." Harry: "For sure. I'm beat." Vitor: "Can we keep this between us?" Severino and Harry listen closely. Vitor tries to say something, but the words just aren't there.
 - Severino: "Let me guess. You wanted to ask why Dalila eats so much?" Vitor fiddles with his thumbs, silently agreeing. "She's from Broken-Tree. Didn't I already tell you the story of the three sisters?" "I know—but she's not cute anymore." Severino and Harry laugh out loud, and Vitor punches Harry in the stomach. "This is serious!" Severino: "I know plenty of Tolerideme boys—maybe even Gandew boys—who'd go crazy for her." Vitor looks down.
-- Harry: *I think I understand her position, but there's no way I can talk about it without raising suspicion.* "Can I ask what the story's about?" Severino tells the story of the three sisters, who came along and revolutionized Tolerideme's farming with Soul Energy and fish meal mixed with human poop.
+- Harry: *I think I understand her position, but there's no way I can talk about it without raising suspicion.* "Can I ask what the story's about?" Severino tells the story of the three sisters, who came along and revolutionized Tolerideme's farming with Soul Energy and fish meal mixed with human poop. The tie-in: whatever their bodies looked like, those sisters had bright minds and wills as strong as rock. Severino is pushing Harry (and Vitor) to think about the mind behind the body, not just the looks.
 
 #### Dalila eats viciously; Harry and everyone else eat too
 
 - Vitor looks at Dalila with worry: she's barely breathing as she shovels food into her face. Maybe she isn't even tasting it, like a dog gulping down food without chewing. He wants to say something, looks at his father, and his father shakes his head. Vitor looks down.
-- Nailah: "I made plenty today. Thank you, Dalila and Desmond." Severino: "It's been a great help. Tomorrow we're going to sell a lot at XX. On that note, Nailah?" Nailah remembers something. "By the way, VV came back from Forway. Yosuke wants to hire both of you." Dalila stops eating for a second, and a big, greasy smile spreads across her face.
+- Nailah: "I made plenty today. Thank you, Dalila and Desmond." Severino: "It's been a great help. Tomorrow we're going to sell a lot at {VillageSouthOfForway}. On that note, Nailah?" Nailah remembers something. "By the way, {WIP-nailahMessenger} came back from Forway. Yosuke wants to hire both of you." Dalila stops eating for a second, and a big, greasy smile spreads across her face.
 - Harry is about to take a spoonful when he realizes he's part of this conversation too, and looks at Nailah curiously. "I mentioned Desmond as well. It'll be a nice change of pace for both of you." Severino: "You did mention you've never been to Forway." Harry smiles. "Thanks!"
 
 #### Dalila, Harry and the Rebula family at an emptied market, the wagon empty too; Severino hands each of them a pouch
@@ -195,7 +195,7 @@ Author's to-do: after his soul splits, Harry loses the ability to understand any
 
 - The captain takes out a clean Steen branch and starts chewing as everyone waits in silence. Takeo looks at the guards, then at the captain, who's enjoying his chew. "Are you going to issue a quest for me or not?"
 - The captain savors his Steen a bit longer before spitting into a nearby bucket. "How did the biopsy go?" Guard: "It's a big, strong, alpha Bagarisa, but it's just a Bagarisa."
-- The captain moves the stick from one corner of his mouth to the other, takes it out (one end is full of teeth marks), snips that end off with scissors and puts it back in his mouth. "We had something not as bad as this before. A scientist was experimenting with nari gels full of all kinds of crap. He went berserk and killed about 20 people at XXX." The stick rolls to the other side of his mouth, and he interlocks his fingers. "But I don't remember him exploding like a Hifuna beast. In fact, he reverted when the guards pinned him down and injected him with a ton of Nari Refresher."
+- The captain moves the stick from one corner of his mouth to the other, takes it out (one end is full of teeth marks), snips that end off with scissors and puts it back in his mouth. "We had something not as bad as this before. A scientist was experimenting with nari gels full of all kinds of crap. He went berserk and killed about 20 people slightly north of [Blood](/lore/cities/#blood)." The stick rolls to the other side of his mouth, and he interlocks his fingers. "But I don't remember him exploding like a Hifuna beast. In fact, he reverted when the guards pinned him down and injected him with a ton of Nari Refresher."
 - A brief silence. A guard raises his hand, and the captain nods for him to speak. "Captain, could it be that we need more adventurers hunting by the Lukewarm Lake?" The captain carefully considers it. "Takeo? Any insights?"
 - Takeo snaps back from his own finger-snapping thoughts. "I didn't taste anything weird." "Did you even ask anything?" "Why would I? People lie, but their souls don't." The captain takes his feet off the desk, pulls out a specific contract with sapphires set in its corners, and starts scribbling. "Fair point. I'm gonna give you a Sapphire-level quest."
 - The guards all look surprised, and Takeo looks pretty interested too. "What am I supposed to do?" The captain keeps writing as if he hadn't heard. A guard leans over and whispers: "He doesn't answer until he finishes whatever he's doing."
