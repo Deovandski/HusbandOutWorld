@@ -123,8 +123,8 @@ She'll appear more, to instigate Eori and Eiri onto a "good" path… (still open
 
 #### Magi at the Embassy at the crack of dawn; the clerk has a copy of the badge
 
-- Clerk: "I looked at your contract history. You've never done one of these?" Magi: "Why were you investigating me? I didn't do anything wrong." "Well, you look like a shambles, and you're taking all the boring quests." Magi doesn't look pleased. "I have my reasons. Just give me the contract."
-- She hesitates to sign, but does. She takes Harry's badge and puts it away. She feels the pressure of how badly losing it (10,500 Sapphires?) would screw her over: she'd likely spend the rest of her life working for Forway for free.
+- The clerk, {WIP-embassyClerk}: "I looked at your contract history. You've never done one of these?" Magi: "Why were you investigating me? I didn't do anything wrong." "Well, you look like a shambles, and you're taking all the boring quests." Magi doesn't look pleased. "I have my reasons. Just give me the contract."
+- She hesitates to sign, but does. She takes Harry's badge and puts it away. She feels the pressure of how badly losing it (3 Sapphires) would screw her over: she'd likely spend the rest of her life working for Forway for free.
 
 # Book 13 - A Fateful Day › Chapter 1 - Catering
 
@@ -202,7 +202,7 @@ She'll appear more, to instigate Eori and Eiri onto a "good" path… (still open
 - Meanwhile, Magi glances at Harry, lost in thought. He was afraid of Eori. *Nari Refresher barely changed his appearance, and he clearly fled from Eori. There's clearly something going on here.* She touches the pocket where the badge is hidden. *What if this badge is fake?* She pictures being hanged for saying that out loud.
 - They turn the corner to the restaurant. Magi takes out the key and hands it to Harry, looking away. "I did my part." Harry sees the bloodied Magi turn to leave with a sad expression. "Hey, pink adventurer, don't you want to come in and wash your clothes? You did heal me, right?" Magi, slightly blushing, points to the holes in her uniform. "I can't, or I'll wear them out even more." Harry, seeing her cute face: "I can make you supper too." Magi's stomach growls. She has no choice but to accept.
 
-#### Magi, in soaked clothes and cold, waits at the table while Harry, in his #13 clothes, cooks
+#### Magi, in soaked clothes and cold, waits at the table while Harry, in his #13 clothes (the numbers tie in to the illustrations), cooks
 
 - Harry, straining his eyes, carefully flips things in his wok. "They kicked me out of the kitchen, but I've been watching them. I think I'm getting the hang of it now." Magi, hiding her shivering, asks point-blank: "Desmond from Rebula. How did you get that name?"
 - Harry spills something and cleans it up as he answers. "I got the name Desmond from someone I knew. Rebula is where I woke up after—" He seems to be mincing his words. "After what?" "Hmmm—never mind. I don't remember much." Magi looks suspicious. "Or you don't want to say?" "Well, I really don't remember some stuff, but other stuff I do. Saying it out loud sounds weird, since I'm not even Harry. I mean, I don't want to make things worse for people now—"
@@ -220,7 +220,7 @@ She'll appear more, to instigate Eori and Eiri onto a "good" path… (still open
 
 #### Magi, tired, returns the badge to the clerk
 
-- A sweet old clerk: "You look terrible, honey." "I just want to return this badge, and deposit these Pearls into the guild." Magi shows her own badge next. "Blue-Flower-Red-Bone? Oh! What a delight! How's your father? He was quite the gentleman, even back when he was an Amethyst, like you."
+- {WIP-embassyClerk}, the sweet old clerk from that morning: "You look terrible, honey." "I just want to return this badge, and deposit these Pearls into the guild." Magi shows her own badge next. "Blue-Flower-Red-Bone? Oh! What a delight! How's your father? He was quite the gentleman, even back when he was an Amethyst, like you."
 - Magi tries to hold back her emotions, but sadness peeks through. "You know him?" "But of course, my dear. I was at the Blood branch of the Embassy for twenty-some years before I was promoted to manage this branch. Say, it's been a while since I heard about him. Did he retire?" "He—he disappeared."
 - The sweet old clerk, now voiding the contract: "That's terrible. I hope he's proud of you, fighting to become a Sapphire adventurer too. Sign here." Magi signs. "Anything else, Adventurer Magi?" Magi looks at her, reminded of her late grandma on her father's side, who was just as sweet. "Do you have any easy-money quests?" The clerk offers some, and Magi accepts a few more boring ones.
 

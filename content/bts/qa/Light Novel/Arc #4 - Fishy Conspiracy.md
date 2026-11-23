@@ -45,3 +45,13 @@ Questions:
 - **A4-6:** Prologue: Magi fears what losing the badge would cost: "(10,500?) Sapphires". Is that the number (10 times the quest reward, so the reward is 1,050 Sapphires)?
 - **A4-7:** Chapter 3: the "sweet old clerk" who knew Fernan at the Blood branch and now manages this branch. A name, or {WIP-…}? Is she the same clerk who gave Magi the badge that morning (the notes call that one "he")?
 - **A4-8:** Harry dies in the alley and Magi revives him with Create Shock. Does that make him Harry #15 (he's #14 in Book 10)? The notes don't number him in Book 13.
+
+Author's answers (batch 2):
+> A4-6: make it a 3 sapphires.
+> A4-7: use wip and have as same person.
+> A4-8: those Harry numbers are tie in into illustrations not how many times he has revived. Keep #14
+
+Applied:
+- A4-6: "losing it (3 Sapphires)". The raw notes still say "(10,500?)" (not made official in the raw display).
+- A4-7: the morning clerk and the sweet old clerk are the same person, {WIP-embassyClerk}. (Book 12's Embassy clerk, a "guy", is left as written.)
+- A4-8: no new number; the Book 13 scene keeps "#13 clothes", with a note that the numbers tie in to the illustrations. Arc #2's front-matter note ("each one is a different Harry") corrected to match.
