@@ -1,6 +1,6 @@
 ---
 source: Legacy/Behind The Scenes/Light Novel/Arc #4 - Fishy Conspiracy.md
-status: abridged in batches, one book at a time; Books 12 to 15 drafted 2026-11-23 (see content/bts/qa/Light Novel/Arc #4 - Fishy Conspiracy.md)
+status: abridged; Books 12 to 16 drafted 2026-11-23 (Book 16 is unfinished in the notes) (see content/bts/qa/Light Novel/Arc #4 - Fishy Conspiracy.md)
 note: same format as Arcs #2 and #3. Each chapter becomes a polished list of story beats in the author's voice, keeping the draft dialogue that carries a joke or a character's voice. Books not yet abridged fall back to the raw notes.
 ---
 
@@ -467,6 +467,7 @@ She'll appear more, to instigate Eori and Eiri onto a "good" path… (still open
 - Eori: *I can't believe she's taking that bitch's body to my house!* Anger flares. She swoops in, crashing through a window on the upper floor. "Morika" (actually {WIP-morikaDecoy}) climbs the stairs.
 - Eori and Morika fight. She gets the upper hand by using the environment against {WIP-morikaDecoy}, then kills him. She ties his hands and feet and uses a Nari Refresher on the body, which turns back into {WIP-morikaDecoy}. Eori, in a fury, stomps on its brain, splattering it across the floor.
 - She goes downstairs to search for Harry, but only finds Arukia's body against the wall. Her anger builds toward Arukia for everything she did to Harry, and to her. She drags the body downstairs, adds more nari gel, and tries to revive her. Nothing. Eori punches Arukia in the chest, breaking her ribs, and keeps punching as tears stream from her eyes.
+- The body isn't Arukia. It's a decoy: an already soul-dead corpse made up as Arukia with nari gel, so no revival could ever work. Blinded by anger, Eori never uses a Nari Refresher on it, so she doesn't find out (the real Arukia is alive, with Neferteri; see Book 16). Later, Eori realizes she didn't even do that simple check, and grows to regret her emotional fits.
 
 # Book 15 - A Game of Minari › Epilogue
 
@@ -475,3 +476,40 @@ She'll appear more, to instigate Eori and Eiri onto a "good" path… (still open
 - Magi is sleepy, her arms are sore and her body is cranky, but her mind is strong-willed. She keeps following the cart as it heads to a solitary home in a small village. The cart stops, and Magi lands on a branch of a nearby tree as the man looks around, drawing his weapon.
 - Magi keeps silent. She watches him carry the body inside, looks around for anyone else, and finds no one. She flies to the chimney of the house, where she hears a distinctly familiar voice: the voice of a queen. "Were you followed, as I expected?" Morika: "Yes, my Queen. We split up into different hideouts, as requested." Neferteri: "Thank you. Now let's find out what happened." "My Queen, forgive my question, but are you sure you want to take part in the interrogation?" "I want to see this matter resolved quickly, so yes."
 - Magi has to decide: stay, or go back and raise the alarm. She takes off.
+
+# Book 16 - Pursuit of Happiness › Prologue
+
+Not written yet.
+
+# Book 16 - Pursuit of Happiness › Chapter 1 - Going the Extra Mile
+
+#### Magi, looking wiped out, back at the meeting spot with Eori (in a fake body), Coema, Ryo, Katsuki and a few Cruros
+
+- They ask why she took so long. She explains that Morika was being extra careful, but she confirmed Neferteri was inside the building in {WIP-neferteriVillage}.
+- Coema plans an assault to rescue Harry and Arukia. She sends word to Eiri and Sora to declare Eori missing and call an emergency meeting, while the rest of them split up to get both Harry and Arukia out, and imprison Neferteri.
+
+#### Magi, Eori (in a fake body), Ryo and a few Cruros on the road
+
+- Ryo: "I knew Queen Neferteri liked to steer the conversation her way, but all of this is news to me." Eori: "Try living under her, then." "I'll pass—by the way, if you don't mind me asking, what will you do if Harry doesn't want to come with you?"
+- Eori looks ticked off and doesn't reply. Magi, on her other side, looks at her too. Eori: "Harry is mine, and he knows it." Ryo and Magi look at her. "He—he even said he loved me." Ryo: "He did? Wow." Magi, suspicious: "If he loved you, then why was he faking his name?" Eori gets angry. "That's between me and Harry! Arukia was the one who split us up!"
+- Ryo: "I think she's coming. Talk about something else." They pass by "Neferteri" (it's someone else), and Eori makes deep eye contact.
+
+#### Magi, Eori (in a fake body), Ryo and a few Cruros prepare to ambush the house
+
+Not finished yet.
+
+# Book 16 - Pursuit of Happiness › Chapter 2 - Falling Apart
+
+#### Neferteri, Morika and Arukia in the hideout
+
+- Morika has a prod heating in the fire. Arukia is chained up, with stab wounds in her belly. Morika gets ready to stab again, but Neferteri raises a hand to stop him; Morika holds back and carefully places the prod back in the fire.
+- Neferteri approaches Arukia. "Your disappearance wasn't a coincidence. If you simply cooperate with me, I'm willing to put this behind us." Arukia spits on the ground. "I served you for months! I know what you're capable of!" "Enlighten me." "You're gonna torch me once you have what you need, so fuck off!" Neferteri smiles slightly.
+- Arukia: "You only care about yourself! If you hadn't done what you did to Harry, I wouldn't have had to do the things I did!" "So you were forced by an outsider. Who?" Arukia looks at her and doesn't answer.
+- Neferteri sighs and sits down. "I am the Queen of Sanbi. I protect my people. Harry is not one of us. You're not one of us." "What are you saying?" "This failed experiment was supposed to be a shining example of a warrior, to help us defend against Forway, and the likes of you."
+- Arukia looks at Harry, then back at Neferteri. "Why are you trying to defend against Forway? The Prosperity Treaty exists for a reason." "Until it doesn't. It's a piece of paper, backed by the promises of men and women, which turn into backstabbing over the simplest arguments."
+- "My Queen! I have urgent news!" someone calls from the door. Neferteri goes on: "Whoever ordered you to attack my daughter did so over a petty argument. I am simply using my leverage to protect my daughter, and the citizens of the Sanbi Kingdom, against the likes of you." Arukia: "And I'm gonna protect myself from the likes of you." "That's unfortunate. Morika, please continue."
+
+#### Neferteri and a messenger
+
+- Messenger: "My Queen, someone invaded the safehouse (Eori's old hideout), on the upper floor. The invader fought with {WIP-morikaDecoy} and killed him, then left without taking anything." Neferteri: "As I expected." *Eori wouldn't be capable of doing all this alone.*
+- A second messenger: "My Queen, you've also been summoned to an emergency meeting." Neferteri snaps out of her thoughts. "For what reason?" "Eori's disappearance." "Who called the meeting?" "The King's maid, my Queen." Neferteri: *Someone at the Forway school must have leaked it to her—or are they acting according to a plan?* The messenger notices Neferteri has gone pale. "My Queen?" Neferteri snaps out of her thoughts… (the notes end here).

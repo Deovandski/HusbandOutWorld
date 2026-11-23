@@ -118,3 +118,21 @@ A4-18: why Eori can't revive "Arukia" (what Legacy says):
 - Eori skips the first step: she uses Nari Refresher on the fake Morika (which reveals him), but on "Arukia" she only adds more nari gel. Nari Refresher would have undone the body mods and shown whose body it really was.
 
 - **A4-19:** Suggested explanation: the body in Eori's old hideout is a decoy, an already soul-dead corpse (or one too far gone) dressed up as Arukia with nari gel, so no revival can work; Eori, blinded by anger, never uses Nari Refresher on it, so she doesn't find out. Okay to add that as a note in Chapter 5?
+
+Author's answer:
+> A4-18 & a4-19: love the idea. And then Eori later realizing she didn't even did the simple check and growing regret for having those emotional fits.
+
+Applied: a note at the end of Chapter 5's hideout scene: the body is a decoy, an already soul-dead corpse made up as Arukia with nari gel, so no revival could work; Eori never uses Nari Refresher on it; the real Arukia is alive with Neferteri (Book 16); later Eori realizes she skipped that simple check, and grows to regret her emotional fits. (Abridged text only; the raw notes are unchanged.)
+
+## Book 16 - Pursuit of Happiness (batch 5)
+
+The notes for this book are unfinished: the Prologue is "?" (→ "Not written yet."), the ambush scene stops at "Ryo: 'I" (→ "Not finished yet."), and Chapter 2 ends mid-line.
+
+Filled from Legacy and earlier answers:
+- "safehouse X" → the safehouse (Eori's old hideout, A4-17); "fought with X" → {WIP-morikaDecoy}. The messengers "Y" and "Z" → "a messenger" and "a second messenger".
+- Polished: "stab pains in their bellies" → "stab wounds in her belly"; the doubled "if you simply cooperate" kept once.
+
+Questions:
+- **A4-20:** "Neferteri was inside the building in XX Village." I used {WIP-neferteriVillage}. Okay?
+- **A4-21:** Chapter 2: "Arukia looks at Harry". So Harry is held in the same hideout as Arukia (the basement from Book 15, Chapter 1)?
+- **A4-22:** Chapter 1: the "Neferteri" they pass on the road "is someone else". Another of Neferteri's decoys, like the five Morikas?
