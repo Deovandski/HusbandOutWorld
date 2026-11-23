@@ -239,19 +239,31 @@ Status: **answered** 2026-11-22.
 
 Jimmie, Kianna, Isabel, Brandi, Ariana, Amelia, Alford, Luny, Aurora, Dalila, Melada, Honati, Laramy. With this batch, every character in the doc has an abridged entry.
 
-Status: **open** until answered.
+Status: **answered** 2026-11-22.
 
 ### CH19. Brandi's birth year
 - **Legacy text:** Birthday "1039 A.G. Asa 69th"; Habits: "His hand plays with one another as he fumbles the words out."; Speech: "“My mom told me” type of thing."; Likes: "Mother's Milk, Domar barley. Baby food."
 - **Why:** Born in 1039, he'd be a newborn during the books, yet he talks. Is he a baby (so the speech lines are for later), or should he be born a few years earlier?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > CH19: newborn. Those speech lines are references for later series. No need to to port those over to the abridge version as they are meant for the writers. But, if there's an interesting observation to be done, then sure.
+- **Change to the abridged text:** he's a newborn during the books; the habits, speech, intelligence, strengths and flaws lines are left out (writers' notes for later), and one observation is kept: "When he grows up: a shy mama's boy in the making: warm and kind, a bit lazy, and forever saying \"My mom told me…\"."
 
 ### CH20. When Aurora had Alford's child
 - **Legacy text:** Alford: "Had an affair with Aurora which led to Aurora having a kid about 8 years ago". Aurora: "On 1,034 A.G. she had an affair and child with Alford".
 - **Why:** 1034 is 5 years before 1039. Which is right? (The abridged text uses 1034 and leaves "about 8 years ago" out, for now.)
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > CH20: Make it official. 8 years ago (from 1039 AG)
+- **Change to the abridged text:** Aurora had the child in 1031 A.G. (about 8 years before 1039 A.G.), in both entries. **Made official:** `content/fixes.json` corrects Aurora's raw "On 1,034 A.G." to 1,031.
 
 ### CH21. Dalila's parents
 - **Legacy text:** Dalila: "Her parents are traders"; Flaws: "Losing her parents caused her to be depressed". Laramy: a traveling merchant from Broken-Tree, "Cuddly with his wife and daughter"; Honati, his wife.
 - **Why:** The abridged text reads Dalila as Laramy and Honati's daughter. Is that right?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > CH21: Correct
+- **Change to the abridged text:** none needed.
 
 ### Judgment calls in batch 7
 - **Minors:** Dalila (12 in 1039): "Dad-figure, dependable men" reads "Drawn to: dependable father figures", and "She likes to touch, be touched" reads "affectionate, she likes physical closeness with the people she trusts". "Fascinated by" for Ariana (5), Amelia (3) and Brandi.

@@ -1205,15 +1205,11 @@ She grew up in a family of Domar producers, met [Jimmie](#jimmie-tolerideme-whoo
 An orgy led to [Isabel](#isabel-tolerideme-whoop-ass) giving birth to Brandi. A paternity test pointed to [Jimmie](#jimmie-tolerideme-whoop-ass), so he's taking care of him too (as in paying child support). Jimmie and Isabel's first son.
 
 - **Race:** human.
-- **Birthday:** 1039 A.G. Asa 69th (see the Q&A).
-- **Fascinated by:** big women.
+- **Birthday:** 1039 A.G. Asa 69th: a newborn during the books.
+- **Fascinated by:** big women (starting with his mother's milk).
 - **Myers-Briggs:** ISFJ.
-- **Intelligence:** average.
-- **Habits:** a shy posture; likes being around family; his hands play with each other as he fumbles the words out.
-- **Speech:** "My mom told me…": he relies on his mother a lot.
-- **Strengths:** warm; kind.
-- **Flaws:** shy; lazy.
 - **Likes and dislikes:** his mother's milk, Domar barley, baby food.
+- **When he grows up:** a shy mama's boy in the making: warm and kind, a bit lazy, and forever saying "My mom told me…".
 - **Interface:** Darfaries.
 
 # Ariana Tolerideme Whoop-Ass
@@ -1250,7 +1246,7 @@ An orgy led to [Isabel](#isabel-tolerideme-whoop-ass) giving birth to Brandi. A 
 
 # Alford Tolerideme Dirt-Lover
 
-Born and raised in Tolerideme, in one of the best and largest farming guilds. Thanks to his charisma and deep knowledge of farming, he became Farm King at 20, which is rather young. He met his partner, [Luny](#luny-tolerideme-dirt-lover), when she started as the new Courtroom Scientist ten years ago: he saw in her a depth of knowledge and an appreciation for farming nobody else had. Still, he joins orgies here and there in secret. Luny doesn't seem to want kids, perhaps because the "wife" thing isn't a thing in Tolerideme. He had an affair with [Aurora](#aurora-tolerideme), which led to her having a child (see the Q&A), and worked out a deal with [Itagiba](#itagiba-sanbi-royal) and [Eiri](#eiri-sanbi-royal) so Luny wouldn't find out.
+Born and raised in Tolerideme, in one of the best and largest farming guilds. Thanks to his charisma and deep knowledge of farming, he became Farm King at 20, which is rather young. He met his partner, [Luny](#luny-tolerideme-dirt-lover), when she started as the new Courtroom Scientist ten years ago: he saw in her a depth of knowledge and an appreciation for farming nobody else had. Still, he joins orgies here and there in secret. Luny doesn't seem to want kids, perhaps because the "wife" thing isn't a thing in Tolerideme. He had an affair with [Aurora](#aurora-tolerideme), which led to her having a child about 8 years ago (1031 A.G.), and worked out a deal with [Itagiba](#itagiba-sanbi-royal) and [Eiri](#eiri-sanbi-royal) so Luny wouldn't find out.
 
 - **Race:** human.
 - **Birthday:** 980 A.G. Moacir 71st.
@@ -1286,7 +1282,7 @@ Born and raised in Forway City to merchant parents, who sometimes took her on th
 
 # Aurora Tolerideme
 
-She grew up in Tolerideme and worked various jobs over the years. In 1034 A.G., she had an affair, and a child, with [Alford](#alford-tolerideme-dirt-lover). To keep [Luny](#luny-tolerideme-dirt-lover) from finding out, Alford made a deal with [Itagiba](#itagiba-sanbi-royal) (and [Eiri](#eiri-sanbi-royal)) to get Aurora a job in Sanbi, where she raises her child in secret. Alford visits once in a while for "business purposes", both to check on the child and to have fun with Aurora.
+She grew up in Tolerideme and worked various jobs over the years. In 1031 A.G., she had an affair, and a child, with [Alford](#alford-tolerideme-dirt-lover). To keep [Luny](#luny-tolerideme-dirt-lover) from finding out, Alford made a deal with [Itagiba](#itagiba-sanbi-royal) (and [Eiri](#eiri-sanbi-royal)) to get Aurora a job in Sanbi, where she raises her child in secret. Alford visits once in a while for "business purposes", both to check on the child and to have fun with Aurora.
 
 - **Race:** human.
 - **Birthday:** 988 A.G. Asa 31st.

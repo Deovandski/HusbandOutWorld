@@ -308,6 +308,11 @@
       "find": "989 A.G. Adrian 25th",
       "replace": "979 A.G. Adrian 25th",
       "why": "Naunet was born in 979 A.G.; 989 was a typo (the author's decision, issue #103, Characters Q&A CH17), made official."
+    },
+    {
+      "find": "  * On 1,034 A.G. she had an affair and child with Alford",
+      "replace": "  * On 1,031 A.G. she had an affair and child with Alford",
+      "why": "Aurora had Alford's child about 8 years before 1039 A.G., as Alford's notes say (the author's decision, issue #103, Characters Q&A CH20), made official."
     }
   ],
   "Legacy/Public/characters.md": [
