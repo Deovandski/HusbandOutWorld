@@ -12,15 +12,23 @@ Every question asked of the author and his answer (word for word), every gap fil
 
 ## Book 5 - Wild Side (asked 2026-11-22)
 
-Status: **open** until answered.
+Status: **answered** 2026-11-22.
 
 ### B5-1. Neferteri and Huneo's takeover
 - **Legacy text:** Chapter 4: Neferteri is the only one who doesn't approve Huneo, drills him with questions and stays suspicious ("The law was followed to the letter, albeit pretty hastily. My voting has no bearing on the matter."). The author's CH16 answer (Characters Q&A): "Huneo, with Neferteri's blessing crack the whip around and gets in charge."
 - **Why:** Does her blessing come later (Book 7's "Sanbi's Second Courtroom Scientist Apprentice", for example), or should Book 5 soften her suspicion? The abridged text follows the notes for now.
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > B5-1 Book 7 she changes her mind... Plus it's fair to say she is playing a bit of "cu doce" as we would say in portuguese in regards to Book 4 as she sense Huneo is not someone easily controllable, but the she learns how to unleash the wild bull in the china shop and try to minimize damage while getting the dirty things she needs to get done without getting her hands dirty.
+- **Change to the abridged text:** Book 5 keeps her suspicion, and Chapter 4 adds that she's playing a bit coy (*cu doce*), sensing Huneo isn't easily controlled, and that she changes her mind in Book 7, once she learns to unleash the bull in the china shop. ("Book 4" in the answer read as this book, Book 5, where the scene is.)
 
 ### B5-2. "A dead fetus"
 - **Legacy text:** Chapter 6: "Tears flowed from Neferteri as a flashback to a dead fetus creeped back into her memory."
 - **Why:** Is that a child Neferteri lost (maybe the prince Itagiba wanted)? No other Legacy doc mentions it; the abridged text keeps the line as written.
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > B5-2: That's from Vol 4 you do not have access at the moment but soon. Basically When Arukia killed Eori on Vol 3, Eori was pregnant so when she was revived by Morika the fetus was rejected and expelled from her body. Neferteri saw the corpse of the fetus, her would be first grandchild. She told Morika to properly dispose of it
+- **Change to the abridged text:** the line now explains the memory: Eori was pregnant when Arukia killed her in Vol 3; when Morika revived her, her body rejected and expelled the fetus; Neferteri saw the corpse of her would-be first grandchild and told Morika to dispose of it properly. (Source: the author's answer, from Vol 4, not yet in the repository.)
 
 ### Judgment calls in Book 5
 - **"{JWK} Name"** (a placeholder for the young guard captain who becomes Kibe's apprentice) is filled in as Huneo, from the next scene ("Kibe & Huneo at the meeting").

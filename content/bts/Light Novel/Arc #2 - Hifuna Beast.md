@@ -102,6 +102,7 @@ If enough people ever harass Deo into finishing the story, these notes are the b
 - Everyone approves except Neferteri, who drills Huneo with questions. [Eiri](/lore/characters/#eiri-sanbi-royal) asks if she suspects him; Neferteri says it's all happening too fast.
 - She clears her throat. "The law was followed to the letter, albeit hastily. My vote has no bearing on the matter. Shall we continue?"
 - Huneo: "Arranging the ceremony. I'd like it done in two days." [Itagiba](/lore/characters/#itagiba-sanbi-royal): "That soon? There won't be enough time to advertise it." Neferteri stays silent, still suspicious. Huneo points at his massive list of reforms. "There's no time to be jerking around."
+- Neferteri is playing a bit coy (*cu doce*, as they say in Portuguese): she senses Huneo isn't someone she can easily control. She changes her mind in Book 7, once she learns how to unleash the bull in the china shop, minimizing the damage while he gets her dirty work done without her getting her hands dirty.
 - Eiri asks for a day off to see [Coema](/lore/characters/#coema-sanbi-half-cruro) off. Neferteri can't stand hearing the name; she grips her badge and tells Eiri not to bring Coema here.
 
 #### Kibe and Huneo at the ceremony
@@ -147,7 +148,7 @@ If enough people ever harass Deo into finishing the story, these notes are the b
 
 - Nina comes in holding a contract, smiling ear to ear, climbs onto a chair and, chest puffed out, unrolls it, trying to sound like a guard reading a sentence: "With the afore—mentioned clause—sules, Queen Neferteri shall terminate the contract, and the research funding."
 - Neferteri calmly applauds. "Thank you, Princess Nina. Based on y—" Eori feels the end of the line coming; she bursts into tears, crying like a child caught stealing candy.
-- Neferteri stands and hugs her. "As Queen of Sanbi, I hereby relieve you of your research duties." Tears run down her face as the memory of a dead fetus creeps back. "I'm sorry, Eori. I should have known."
+- Neferteri stands and hugs her. "As Queen of Sanbi, I hereby relieve you of your research duties." Tears run down her face as the memory of a dead fetus creeps back: Eori was pregnant when [Arukia](/lore/characters/#arukia-long-bridge) killed her in Vol 3, and when Morika revived her, her body rejected and expelled the fetus. Neferteri saw the corpse of what would have been her first grandchild, and told Morika to dispose of it properly. "I'm sorry, Eori. I should have known."
 - "Harry? I love him. I want him!" "The search quest has been created." "Thank you, Mom. What will happen to the contracts I signed?" "I'll deal with them. Nina, shall we all put our disguises on and go back to the castle?" "Yeahhh!" A crying Nina joins in a group hug.
 
 # Book 5 - Wild Side › Epilogue
