@@ -90,3 +90,17 @@ Questions:
 - **B7-3:** Chapter 2, "the XX Nari Gel" that bulks Harry up. Is there a name for it? Nari Gels has no muscle gel, so the abridged text just says "that nari gel".
 - **B7-4:** "I like both twinks and Woolies." Woolies are the cow-sheep of Gandew in Fauna. Is it a joke about the animal, or slang for burly, hairy men? Should I add a short note?
 - **B7-5:** Kozaku: Book 7 says he sought out a stone in the Hifuna region and replaced his heart with it; Characters says he found one that melded with him. Fine to keep both as written?
+
+Author's answers (batch 4):
+> B7-1: Yes. No name on her yet. Have her name be "{WIP-oldHagLootHouse}"
+> B7-2: No name other than "Wozen lady" to call her "{WIP-wozenLady}" And I am not sure for Desmond but I guess a different one.
+> B7-3: yep. leave as that nari bulking up gel.
+> B7-4: Slang for burly, hairy men.
+> B7-5: Yes. Once he plopped the stone in, it melded with him
+
+Applied:
+- B7-1: Marcus's question restored as "Where is {WIP-oldHagLootHouse}?"; Clodoveu's report to Kozaku uses the same name. Chapter 4 still describes her as the old lady guarding the loot house.
+- B7-2: Clodoveu's line now reads "{WIP-wozenLady}? Nah."; elsewhere she stays "the Wozen lady". Desmond: likely a different Desmond, not Harry's past life; left as written, with no note.
+- B7-3: "that nari bulking-up gel".
+- B7-4: added "(Woolies: slang for burly, hairy men.)"
+- B7-5: Kozaku's stone: "replaced his heart with it, and once it was in, it melded with him."
