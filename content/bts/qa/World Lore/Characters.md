@@ -211,15 +211,23 @@ Status: **answered** 2026-11-22.
 
 Itanema, Sinoi, Perderhora, Gamal, Naunet, Anpu, Bata.
 
-Status: **open** until answered.
+Status: **answered** 2026-11-22.
 
 ### CH17. Naunet's birthday
 - **Legacy text:** Naunet "989 A.G. Adrian 25th"; her children Anpu and Bata "995 A.G. Moacir 30th" and Neferteri "999 A.G. Moacir 42nd"; Gamal "974 A.G. Asa 58th".
 - **Why:** That makes Naunet 6 when the twins were born and 10 when Neferteri was born. Which year should she be born (for example 974, like Gamal)?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > CH17: Make Naunet born at 979. 989 was a clear mistype.
+- **Change to the abridged text:** Birthday 979 A.G. Adrian 25th. **Made official:** `content/fixes.json` in the raw notes and `Legacy/Public/characters.md`; the translated public paragraph is re-keyed in all fourteen languages.
 
 ### CH18. Perderhora's age
 - **Legacy text:** Birthday "Paulin 25 769 A.G"; stats: "70 (against 1039 A.G)".
 - **Why:** 769 A.G. makes him 270 in 1039. Was he born in 969 A.G. (70), or is he 270?
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > CH18: He looks 70, but he is 270 instead. He is someone where his soul got mangled from his odd soul energy reservoir and the way he lives. No one truly know how old he is in the Vraki world, and he is kinda of an urban legend as well.
+- **Change to the abridged text:** Birthday stays 769 A.G.; the entry adds that he looks 70 but is really 270, his soul mangled by his odd Soul Energy reservoir and the way he lives, that no one in Vraki truly knows his age, and that he's something of an urban legend. Stats: "270 in 1039 A.G. (looks 70)".
 
 ### Judgment calls in batch 6
 - **Bata:** his entry repeats Anpu's word for word, so the abridged Bata points to Anpu's entry ("the same as Anpu's, on purpose") instead of repeating it.

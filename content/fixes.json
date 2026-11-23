@@ -303,6 +303,11 @@
       "find": "**Age**: 14  \n    * **Height**: 145cm",
       "replace": "**Age**: 18  \n    * **Height**: 145cm",
       "why": "Sora is of age (18) in Books 1 and 2 (1039 A.G.), the author's decision (issue #103, Characters Q&A CH15), made official; no novel gives her age."
+    },
+    {
+      "find": "989 A.G. Adrian 25th",
+      "replace": "979 A.G. Adrian 25th",
+      "why": "Naunet was born in 979 A.G.; 989 was a typo (the author's decision, issue #103, Characters Q&A CH17), made official."
     }
   ],
   "Legacy/Public/characters.md": [
@@ -335,6 +340,11 @@
       "find": "1025 A.G Moacir 75th",
       "replace": "1020 A.G Moacir 75th",
       "why": "Sora is of age (18) in Books 1 and 2 (1039 A.G.), the author's decision (issue #103, Characters Q&A CH15), made official; no novel gives her age."
+    },
+    {
+      "find": "989 A.G. Adrian 25th",
+      "replace": "979 A.G. Adrian 25th",
+      "why": "Naunet was born in 979 A.G.; 989 was a typo (the author's decision, issue #103, Characters Q&A CH17), made official."
     }
   ]
 }

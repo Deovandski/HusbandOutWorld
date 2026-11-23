@@ -1067,7 +1067,7 @@ Which is a pity, since out of seemingly nowhere the entire farm was destroyed an
 Manhia, an exotic-food farmer from Forway, wanted to bring back the recipes he craved so much and sought out the family, only to find Perderhora was all that was left. Asking nicely didn't work, so he captured him and brought him to [Gabiro](#gabiro-sanbi-royal), who shared his interest in soul research and had become his pen pal. Gabiro ran all kinds of experiments to "fix" Perderhora's soul, but only made it worse: now he can't talk, though at least he gained more interfaces and grew in power. Manhia then decided to parade Perderhora around in freak shows instead, after forcing him to get a badge and sign a contract (some have said it isn't legal). During one of those trips, near Deltacross, members of the [Pussy Power](/lore/factions/#pussy-power) faction pounced on the caravan and freed all the freak show members. Perderhora escaped in the chaos, and has never been seen again.
 
 - **Race:** Buhraies.
-- **Birthday:** 769 A.G. Paulin 25th (see the Q&A).
+- **Birthday:** 769 A.G. Paulin 25th. He looks 70, but he's really 270: his soul got mangled by his odd Soul Energy reservoir and the way he lives. No one in Vraki truly knows how old he is, and he's something of an urban legend.
 - **Attracted to:** asexual.
 - **Myers-Briggs:** ISFP.
 - **Intelligence:** like a very intelligent Bagarisa with a cat's survival instincts and social habits; in other words, less social than a Bagarisa. Years in the wild, plus Gabiro's experiments, have taken a great toll: what's left of his humanity is a mere fragment of a normal Buhraies'.
@@ -1081,7 +1081,7 @@ Manhia, an exotic-food farmer from Forway, wanted to bring back the recipes he c
 
 | Book | Age | Height | Weight |
 |---|---|---|---|
-| Arc 2 inset | 70 (in 1039 A.G.) | 140 cm | 35 kg |
+| Arc 2 inset | 270 in 1039 A.G. (looks 70) | 140 cm | 35 kg |
 
 # Gamal Sundeath Pharaohs
 
@@ -1104,7 +1104,7 @@ The 9th Pharaoh, and [Neferteri](#neferteri-sanbi-royal)'s father.
 The 9th Pharaoh's wife, and [Neferteri](#neferteri-sanbi-royal)'s mother. She grew up close to her brother, [Gamal](#gamal-sundeath-pharaohs), now her husband of many years.
 
 - **Race:** human.
-- **Birthday:** 989 A.G. Adrian 25th (see the Q&A).
+- **Birthday:** 979 A.G. Adrian 25th.
 - **Attracted to:** her brother Gamal, since he's what feeds her Soul Energy.
 - **Myers-Briggs:** INTP.
 - **Intelligence:** just like Neferteri: she replies smartly and takes part in conversations, with a strong presence of mind.
