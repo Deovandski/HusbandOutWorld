@@ -37,15 +37,23 @@ Status: **answered** 2026-11-22.
 
 ## Book 6 - Sabbatical (asked 2026-11-22)
 
-Status: **open** until answered.
+Status: **answered** 2026-11-22.
 
 ### B6-1. Arukia in the maids' dormitory?
 - **Legacy text:** Chapter 4: "Arukia “Did Eori really say that? That’s so sweet!”", in the same scene where the maids talk about Arukia in the third person ("Then why Arukia never contacted us?"), and Eiri says "We lost Arukia". Book 5's epilogue has Neferteri investigating Arukia's disappearance.
 - **Why:** Arukia is missing by then. Which maid says that line (Ukim, maybe)? The abridged text says "one of the maids" for now.
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > B6-1 Ukim came to the scene after Arukia left, so we can her being the curious type digging deeper. So yes, she is the one asking questions. And no, Arukia is not in the dorm.
+- **Change to the abridged text:** the line is Ukim's, "the new maid who came after Arukia left, and the curious type", digging deeper.
 
 ### B6-2. The tipsy adventurer at the bar
 - **Legacy text:** Prologue: "a kinda drunk female adventurer just sits by Hiromi", then "Hiromi hugs the guy" and "Let the guy peddle his stuff".
 - **Why:** A woman or a man? The abridged text makes her a woman throughout, for now.
+- **Answered:** 2026-11-22
+- **Answer (verbatim):**
+  > B6-2 woman. that was a mistake on my end with the "the guy"
+- **Change to the abridged text:** none needed (a woman throughout).
 
 ### Judgment calls in Book 6
 - **Names from other docs:** the "Gwent-like game" is Minari (Sports, Games and Passtime: "like Gwent, but with carved statues"); Maiara's "eggfly" is Homeegg (her Characters entry: "She plays Homeegg for Sanbi teams").
