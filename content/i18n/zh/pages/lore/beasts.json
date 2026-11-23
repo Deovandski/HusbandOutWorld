@@ -1,4 +1,12 @@
 {
+ "0035d8454125": {
+  "en": "<strong>Intelligence:</strong> Monkey. They can plan ahead, attack, defend, form families, recognize people, and communicate with others.",
+  "t": "<strong>智力：</strong>猴子。它们能提前计划、进攻、防守、组建家庭、认人，还能和同伴交流。"
+ },
+ "004a42cb08b0": {
+  "en": "<strong>Reproduction:</strong> Somewhere between Wingas and Flingas: about 3 or 4 couples get together for a swing party, then build a shared nest to care for the eggs, which take the whole summer to hatch. Around 5 Big Winga eggs are laid each year (Wingas lay about 20, Flingas about 2).",
+  "t": "<strong>繁殖：</strong>介于温加和弗林加之间：大约 3 到 4 对凑在一起开一场换伴派对，然后搭一个共同的巢来照料蛋，蛋要孵整整一个夏天。每年大约产 5 枚大温加蛋（温加约 20 枚，弗林加约 2 枚）。"
+ },
  "017e994c4257": {
   "en": "Two Big Wingas: huge blue parrot-like birds with red crests and rainbow-banded feathers, shown next to Harry for scale.",
   "t": "两只大温加：巨大的蓝色鹦鹉般的鸟，长着红色羽冠和彩虹条纹的羽毛，旁边有哈利作为大小参照。"
@@ -6,6 +14,22 @@
  "01da0414b35d": {
   "en": "Bruntos",
   "t": "布伦托斯"
+ },
+ "026c72b11c9a": {
+  "en": "<strong>Reproduction:</strong> Around 2 Flinga eggs are laid each year.",
+  "t": "<strong>繁殖：</strong>每年大约产 2 枚弗林加蛋。"
+ },
+ "02c5d96c04e2": {
+  "en": "<strong>Koalin Hide/Fur</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>科阿林兽皮/毛皮</strong>：兽皮/毛皮，由屠夫处理好，供工匠加工。"
+ },
+ "03c03fde9344": {
+  "en": "<strong>Interface:</strong> Beard (males only).",
+  "t": "<strong>界面：</strong>胡须（仅限雄性）。"
+ },
+ "04edcec10fdd": {
+  "en": "<strong>Skills:</strong> Often more powerful versions of the original skills.",
+  "t": "<strong>技能：</strong>通常是原有技能的更强版本。"
  },
  "060bb756d097": {
   "en": "<strong>Hifuna People</strong> are like the crazy cousin and are proof that Hifuna will fuck anyone up, including something as sturdy as a tree. They will slice and beat everything in their sight, including their own, to a mashed-potato consistency, then squat on top of it to absorb its nutrients. Wood People could also do that, but no one has seen them do it. It's a grim fate fighting these beasts; a Sapphire adventurer will have to be quick on its feet to evade how much soul energy Hifuna People pour into their interface—their attacks are much stronger than Wood People's, plus additional skills in the vines like making sonic booms, creating razor-sharp edges, and creating spikes that it launches towards you, not to be scoffed at. Don't forget the exploding branches too! It can tear them off itself and chuck them toward you in desperation. On the plus side, Hifuna Yabucas sells well on the black market! Not that we condone doing so, of course—",
@@ -23,13 +47,93 @@
   "en": "Walking Flathead, or simply Flathead. All textbooks keep it simple: If you see one, you're fucked. Everyone at this point assumes they are the Bahyum castle's leaders, acting like its physical manifestation. How many are there? Nobody knows. What species did they transform from? Nobody knows either. What some do know is that whatever the fuck this thing is, it must have been part of the reason Buhraies lost control over their own castle, holding countless scientific experimentations, and likely also a factor that forced them to withdraw into Gandew Mountain. What adventurers and guards do know is that if you manage to kill one and drag its body to a seller, you can live like a king for a whole year. Odds are not on your side, so most likely, you will become a walking flesh and then walking skin for eternity—think of the plus side! You will become part of something greater than yourself! Just like working a corporate job!",
   "t": "沃金·弗拉特黑德，或者简称弗拉特黑德。所有教科书都说得很简单：如果你看到一只，你就完蛋了。如今大家都认为它们是巴休姆城堡的首领，就像城堡的实体化身。有多少只？没人知道。它们是由什么种族变来的？也没人知道。有些人知道的是，不管这玩意儿他妈的到底是什么，它肯定是布莱斯失去对自己城堡控制的原因之一——那座城堡里进行过无数科学实验——很可能也是迫使他们退守甘杜山的因素之一。冒险者和卫兵知道的是，如果你能杀死一只并把尸体拖到商人那里，你就能像国王一样过上一整年。不过胜算不在你这边，所以你多半会变成沃金·弗莱什，然后永远变成沃金·斯金——往好处想！你会成为比你自己更伟大的东西的一部分！就像在大公司上班一样！"
  },
+ "09c85b376a38": {
+  "en": "<strong>Other:</strong> Maybe it’s a single life form, with each piece acting independently to gather information.",
+  "t": "<strong>其他：</strong>也许它是单一的生命形式，每一块都独立行动来收集信息。"
+ },
+ "0a7fd7ebb990": {
+  "en": "<strong>Habitat:</strong> Bahyum Castle, sometimes invading the Buhraies Plains.",
+  "t": "<strong>栖息地：</strong>巴休姆城堡，有时会入侵布莱斯平原。"
+ },
+ "0bb55a138139": {
+  "en": "<strong>Sand Worm Jerky</strong>: Jerky prepared by a butcher. Few people want it, because of its strong, gamey flavor; it’s usually served to poorer people.",
+  "t": "<strong>桑德沃姆肉干</strong>：屠夫做的肉干。因为味道浓烈、膻味重，没几个人想要；通常卖给比较穷的人。"
+ },
+ "0cb8d28a7735": {
+  "en": "<strong>Tier II (Common Goods):</strong> processed meat, plus elemental interface actions for longer storage; feathers and fur of large animals, and other animal parts.",
+  "t": "<strong>II 级（普通货）：</strong>加工过的肉，加上用于延长保存期的元素界面动作；大型动物的羽毛和皮毛，以及其他动物部位。"
+ },
+ "0fe2256d4115": {
+  "en": "<strong>Black Honey</strong>: One of the best-tasting honeys in the kingdoms. Very high in calories; some even say it’s addictive. Often used to speed up Body Heal.",
+  "t": "<strong>黑蜜</strong>：王国里最好吃的蜂蜜之一。热量很高；有人甚至说它会让人上瘾。常用来加快博迪希尔。"
+ },
+ "10a37fd62f38": {
+  "en": "<strong>Inspired by:</strong> Macaw.",
+  "t": "<strong>灵感来源：</strong>金刚鹦鹉。"
+ },
+ "10ecda494ac5": {
+  "en": "A worm that burrows into the ground and attacks passersby, a relative of the Nari Worms, and the kingdoms' main source of chitin.",
+  "t": "一种钻进地下、袭击路人的蠕虫，是纳里沃姆的亲戚，也是王国几丁质的主要来源。"
+ },
  "11d57139eee8": {
   "en": "Hifuna People are like the crazy cousin and are proof that Hifuna will fuck anyone up, including something as sturdy as a tree. They will slice and beat everything in their sight, including their own, to a mashed potato consistency, then squat on top of it to absorb its nutrients into itself. Wood People could also do that, but no one has seen them do it. It's a grim fate fighting these beasts; a Sapphire adventurer will have to be quick on its feet to evade how much soul energy Hifuna People pour into their interface—their attacks are much stronger than Wood People's, plus additional skills in the vines like making sonic booms, creating razor sharp edges, and creating spikes that it launches towards you at not to be scoffed at. Don't forget the exploding branches too! It can tear them off itself and chuck them toward you in desperation. On the plus side, Hifuna Yabucas sells well on the black market! Not that we condone doing so, of course—",
   "t": "希富纳皮普尔就像是那个疯疯癫癫的表亲，证明了希富纳谁都能搞死，哪怕是像树这样结实的东西。它们会把视线里的一切——包括自己的同类——切碎、捶烂成土豆泥一样的糊糊，然后蹲在上面，把养分吸收进自己体内。伍德皮普尔应该也能这么干，但从没有人见过。和这些魔兽战斗是个悲惨的命运；萨菲尔级冒险者必须身手敏捷，才能躲开希富纳皮普尔灌进界面里的那么多灵魂能量——它们的攻击比伍德皮普尔强得多，藤蔓还有额外的本事，比如制造音爆、形成锋利如剃刀的刃口、造出尖刺朝你发射，可不能小看。别忘了还有会爆炸的树枝！它能把树枝从自己身上扯下来，孤注一掷地朝你扔过来。好的一面是，希富纳亚布卡在黑市上很好卖！当然，我们可不是在鼓励你这么做——"
  },
+ "13f703bba1b7": {
+  "en": "<strong>Skills:</strong> And don’t forget the exploding branches! They can tear them off and chuck them at you.",
+  "t": "<strong>技能：</strong>别忘了会爆炸的树枝！它们能把树枝扯下来朝你扔。"
+ },
+ "149b1ed15aa0": {
+  "en": "<strong>Tastes like:</strong> The originating species, gone bad: it smells rotten, metallic, bloody, burnt, grassy and generally off, and tastes of sulfur, singed hair, burnt feathers, burnt oil and rancid fat. The meat can turn green, brown, red or yellow, and some gives off a yellow, saliva-like ooze. (Real-world comparison: this is how irradiated food has been described; see the <a href=\"https://www.centerforfoodsafety.org/files/food_irradiation_gross_failure.pdf\" rel=\"noopener\">Center for Food Safety report</a>.)",
+  "t": "<strong>味道：</strong>变质了的原物种：闻起来腐烂、带金属味、血腥味、焦味、草味，总之就是不对劲，吃起来有硫磺、烧焦的头发、烧焦的羽毛、烧焦的油和酸败脂肪的味道。肉可能变成绿色、棕色、红色或黄色，有些还会渗出一种黄色的、像唾液一样的黏液。（现实世界的对照：人们就是这样描述辐照食品的；见<a href=\"https://www.centerforfoodsafety.org/files/food_irradiation_gross_failure.pdf\" rel=\"noopener\">Center for Food Safety 的报告</a>。）"
+ },
+ "1538b771d71e": {
+  "en": "<strong>Skills:</strong> Fast Strike (punches a hole in the target’s flesh) by altering the physical properties of their vines. Their attacks are much stronger than Wood People’s, and their vines have more skills: sonic booms, razor-sharp edges, and even spikes they launch at you.",
+  "t": "<strong>技能：</strong>通过改变藤蔓的物理特性发动快速打击（在目标的肉上打出一个洞）。它们的攻击比伍德皮普尔强得多，藤蔓的技能也更多：音爆、锋利如剃刀的边缘，甚至会朝你发射尖刺。"
+ },
+ "165f72987b35": {
+  "en": "<strong>Habitat:</strong> The southwest.",
+  "t": "<strong>栖息地：</strong>西南部。"
+ },
+ "166cfe25cd96": {
+  "en": "<strong>Habitat:</strong> Underground, around the mountains of Blood City (see Nari Caverns).",
+  "t": "<strong>栖息地：</strong>地下，布拉德城周围的山里（见纳里洞穴）。"
+ },
+ "16c89a6d14fc": {
+  "en": "<strong>Tastes like:</strong> Bone, and dry, flaky skin.",
+  "t": "<strong>味道：</strong>骨头，以及干燥起皮的皮肤。"
+ },
  "16fb57d15e12": {
   "en": "Nari Worms",
   "t": "纳里沃姆"
+ },
+ "17a76cf3c8d5": {
+  "en": "<strong>Other:</strong> Grows indefinitely, about ~10 cm a year, but most stop around this size, because they can’t eat enough to make up for the energy hunting takes.",
+  "t": "<strong>其他：</strong>会无限生长，每年大约 ~10 厘米，但大多数长到这个大小就停了，因为它们吃不够足以弥补狩猎消耗的能量。"
+ },
+ "17f45b2bd269": {
+  "en": "A cousin of the Soreno, rarely tamed. Usually a hunter takes a baby away from its mother; it bonds with them and becomes a pet. Getting it to bond with someone else is nearly impossible.",
+  "t": "索雷诺的表亲，很少被驯服。通常是猎人把幼崽从母亲身边带走；它会和猎人建立感情，成为宠物。要让它和别人建立感情几乎不可能。"
+ },
+ "188b4291bc16": {
+  "en": "Endless experiments with what's now known as the Walking Heart stone left a few Walking Flatheads in Bahyum Castle. They're incredibly hard to kill.",
+  "t": "对如今被称为沃金哈特石的东西进行的无休止实验，在巴休姆城堡里留下了几只沃金·弗拉特黑德。它们极难杀死。"
+ },
+ "19624e1b0fd7": {
+  "en": "A bigger, more voracious version of any fauna, beast or race that has lived in Hifuna long enough: usually with hair fallen out, a bigger size, and some body parts bigger or smaller than others.",
+  "t": "任何在希富纳生活得足够久的动物、魔兽或种族的更大、更贪婪的版本：通常毛发脱落，体型更大，有些身体部位比其他部位更大或更小。"
+ },
+ "19b39ce33804": {
+  "en": "None. See Fauna › Monica.",
+  "t": "无。见动物 › 莫妮卡。"
+ },
+ "1b3717302810": {
+  "en": "<strong>Hifuna People Vines</strong>: Often used for ropes, construction, etc. Quite elastic, almost like rubber.",
+  "t": "<strong>希富纳皮普尔藤蔓</strong>：常用来做绳子、建筑等。相当有弹性，几乎像橡胶一样。"
+ },
+ "1b607a554a07": {
+  "en": "<strong>Reproduction:</strong> They clone themselves by splitting right down the middle, but usually only when there is enough space around them.",
+  "t": "<strong>繁殖：</strong>它们从正中间一分为二来克隆自己，但通常只在周围有足够空间的时候。"
  },
  "1c59d3d634d7": {
   "en": "Defensive",
@@ -39,9 +143,25 @@
   "en": "Hifuna Wood People",
   "t": "希富纳伍德皮普尔"
  },
+ "1ebc11da32c8": {
+  "en": "<strong>Reproduction:</strong> By attacking flesh animals and laying worms in them.",
+  "t": "<strong>繁殖：</strong>攻击有血肉的动物，在它们体内产下蠕虫。"
+ },
  "205c5b2248b6": {
   "en": "Teefyro: a shaggy brown wolf-like beast with rows of teeth, shown with its jaws closed and wide open, beside Harry.",
   "t": "蒂菲罗：一头长满牙齿、毛发蓬乱的棕色狼形魔兽，分别画出了闭嘴和张大嘴的样子，旁边是哈利。"
+ },
+ "2139b5b83c6e": {
+  "en": "<strong>Koalin Brains, Eyes and Moustache</strong>: Used for Mind Enabler, which is illegal. Anyone carrying these to sell will be brought in for questioning.",
+  "t": "<strong>科阿林的脑、眼睛和胡须</strong>：用于迈恩德伊内布勒，这是违法的。任何携带这些东西去卖的人都会被带去问话。"
+ },
+ "231a153957d9": {
+  "en": "Much larger Wingas that lived in Wingarest: physically altered Wingas the Buhraies used to fly around. Some still exist, but they're a rare sight, since they grew afraid of the humans who hunted them nearly to extinction. Their meat isn't as sweet as Winga meat, since Big Wingas developed a taste for meat too. You'll commonly see them with Forway guards, but those are guards wearing the nari gel.",
+  "t": "住在温加雷斯特的体型大得多的温加：被布莱斯用来飞来飞去的经过身体改造的温加。有些至今仍存在，但很少见，因为它们开始害怕几乎把它们猎杀到灭绝的人类。它们的肉没有温加肉那么甜，因为大温加也爱上了吃肉。你常常会看到它们和福威卫兵在一起，但那些其实是服用了纳里凝胶的卫兵。"
+ },
+ "24b22080aaf5": {
+  "en": "<strong>Food:</strong> See Fauna &gt; Monica.",
+  "t": "<strong>食物：</strong>见动物 &gt; 莫妮卡。"
  },
  "26dfc070d350": {
   "en": "<strong>Walking Skin,</strong> sometimes called <strong>Walking Bones,</strong> is the name given to any species unlucky or dumb enough to have been sequestered by the Bahyum Castle creepy residents whenever they go on a rampage. Species that become walking skin seem to all act in a hive-mind manner, usually going for quantity over quality to kill anyone in their path. A good proportion of the walking skins are human. Some scientists believe it's just a matter of fact, given how many humans have been sequestered by the castle, but others believe the castle itself is breeding or somehow creating them through the walking heart stones. The Buhraies built the castle for soul experimentation, so expecting it to do creepy shit is not a crazy assumption—after all, the castle itself is alive and moody too. Just ask the most guards and adventurers in the local Bahyum village, and they will jokingly say it's moodier than a Wozefaries girl in her PMS.",
@@ -51,49 +171,205 @@
   "en": "Nari Worm: a giant serpent with blue scaled plates, red eyes and a toothy mouth, coiled around Harry.",
   "t": "纳里沃姆：一条巨大的蛇，长着蓝色的鳞甲、红色的眼睛和满是牙齿的嘴，盘绕在哈利周围。"
  },
+ "285860632716": {
+  "en": "<strong>Intelligence:</strong> Capybara/Golden Retriever.",
+  "t": "<strong>智力：</strong>水豚/金毛寻回犬。"
+ },
+ "28cb1ef48739": {
+  "en": "<strong>Walking Flathead Claws</strong>: Often used for weapons and sharp tools.",
+  "t": "<strong>沃金·弗拉特黑德的爪子</strong>：常用来做武器和锋利的工具。"
+ },
+ "2a20d18c9d49": {
+  "en": "<strong>Intelligence:</strong> Rather mindless; they act purely on instinct and go out of their way to attack anything they see, even other Hifuna People. Shoving a Fost stone into the top of the trunk paralyzes them.",
+  "t": "<strong>智力：</strong>相当没有头脑；它们完全凭本能行事，会主动攻击看到的任何东西，甚至是其他希富纳皮普尔。把一块福斯特石塞进树干顶部能让它们瘫痪。"
+ },
+ "2a2e709839ef": {
+  "en": "Prices: see <a href=\"/lore/economy/\">Economy</a>.",
+  "t": "价格：见<a href=\"/lore/economy/\">经济</a>。"
+ },
+ "2b3f61572512": {
+  "en": "<strong>Skills:</strong> Slow Regen; Halted Decomposition; See the Soul Energy of creatures.",
+  "t": "<strong>技能：</strong>缓慢再生；停止腐烂；看见生物的灵魂能量。"
+ },
  "2b4860ca4a82": {
   "en": "Big Wingas",
   "t": "大温加"
+ },
+ "2c0ee230d700": {
+  "en": "<strong>Tastes like:</strong> Bone-dry, flaky skin.",
+  "t": "<strong>味道：</strong>干得像骨头一样、起皮的皮肤。"
+ },
+ "2df7e1e008ae": {
+  "en": "<strong>Intelligence:</strong> Dolphin.",
+  "t": "<strong>智力：</strong>海豚。"
+ },
+ "2fa5736682cf": {
+  "en": "<strong>Reproduction:</strong> Because of their size and long lives, they rarely reproduce; when they do, it’s three or four eggs at most, which take months to hatch.",
+  "t": "<strong>繁殖：</strong>因为体型大、寿命长，它们很少繁殖；即使繁殖，最多也就三四枚蛋，要好几个月才能孵化。"
+ },
+ "3027db7e2f27": {
+  "en": "The Buhraies created them by altering the souls of Yabuca trees, then confined them to small forests across the Buhraies Plains to produce food and lumber in a controlled way. Their blood, or sap, is pink. Wood People's bodies are used for all kinds of things, especially buildings, but you have to get one somewhere before you cut it down, or trick it into following you like a herd; otherwise, you float the corpse down a river or stream, or use several Eguas to haul it a short distance (under 100 km). Jamming a Fost stone into their tops paralyzes them in place, which is how walls of Wood People are made.",
+  "t": "布莱斯通过改变亚布卡树的灵魂创造了它们，然后把它们关在布莱斯平原各处的小森林里，以受控的方式生产食物和木材。它们的血，或者说树液，是粉色的。伍德皮普尔的身体有各种各样的用途，尤其是建筑，但你得先把它弄到某个地方再砍倒，或者骗它像牲口群一样跟着你走；不然就只能把尸体顺着河流或小溪漂下去，或者用几头埃瓜拖一小段距离（不到 100 公里）。把福斯特石塞进它们的顶部能把它们定在原地，伍德皮普尔墙就是这么做成的。"
  },
  "3128debb4d32": {
   "en": "Hifuna People are like the crazy cousin and are proof that Hifuna will fuck anyone up, including something as sturdy as a tree.",
   "t": "希富纳皮普尔就像是那个疯疯癫癫的表亲，证明了希富纳谁都能搞死，哪怕是像树这样结实的东西。"
  },
+ "324b6e7d527b": {
+  "en": "<strong>Food:</strong> Nectar.",
+  "t": "<strong>食物：</strong>花蜜。"
+ },
+ "33a450f96e48": {
+  "en": "<strong>Food:</strong> Dead matter; opportunistic.",
+  "t": "<strong>食物：</strong>死物；机会主义者。"
+ },
  "3473fbafe0b8": {
   "en": "Walking Flathead",
   "t": "沃金·弗拉特黑德"
+ },
+ "3542d37c1d05": {
+  "en": "<strong>Bruntos Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>布伦托斯肉</strong>：屠夫切好的肉。"
+ },
+ "35b86cca6bd2": {
+  "en": "<strong>Trunk People Hair</strong>: Used in nari gels.",
+  "t": "<strong>特朗克皮普尔的头发</strong>：用于纳里凝胶。"
  },
  "36df22a0f5fd": {
   "en": "Male and female Bruntos: small furry ape-like creatures with pale manes, standing beside Harry on a height chart.",
   "t": "雄性和雌性布伦托斯：长着浅色鬃毛、毛茸茸的小型猿状生物，站在身高对比图上的哈利旁边。"
  },
+ "37b8a934e27f": {
+  "en": "<strong>Food:</strong> Omnivores: insects, fruits, etc.",
+  "t": "<strong>食物：</strong>杂食：昆虫、水果等。"
+ },
+ "37d00f54dbe7": {
+  "en": "<strong>Tastes like:</strong> Rotten dried meat.",
+  "t": "<strong>味道：</strong>腐烂的风干肉。"
+ },
+ "38a2031ebc0b": {
+  "en": "<strong>Extermination</strong>: Usually one piece (often the head) is torn off and brought back as proof of the hunt. See Embassy Quests for more details.",
+  "t": "<strong>清剿</strong>：通常撕下一块（往往是头）带回来作为狩猎的证明。更多细节见大使馆任务。"
+ },
+ "38c1912f9705": {
+  "en": "<strong>Intelligence:</strong> Instinctual, and highly defensive of their spots.",
+  "t": "<strong>智力：</strong>本能型，对自己的地盘有极强的防御性。"
+ },
+ "3b7b3ee80d59": {
+  "en": "<strong>Interface:</strong> Internal organs.",
+  "t": "<strong>界面：</strong>内脏器官。"
+ },
  "3baebebd0b58": {
   "en": "Sweet Sting: a giant bee, shown at full size and at normal bee size, next to Harry.",
   "t": "斯威特斯廷：一只巨型蜜蜂，分别画出了原尺寸和普通蜜蜂大小的样子，旁边是哈利。"
+ },
+ "3cf398eff263": {
+  "en": "<strong>Food:</strong> Rocks.",
+  "t": "<strong>食物：</strong>石头。"
+ },
+ "3dac76633c34": {
+  "en": "<strong>Inspired by:</strong> Radiation mutation.",
+  "t": "<strong>灵感来源：</strong>辐射突变。"
+ },
+ "3e062fc63a54": {
+  "en": "<strong>Big Winga Egg</strong>: A treat for many people due to its sweet taste.",
+  "t": "<strong>大温加蛋</strong>：因为味道甜，很多人把它当作美味。"
  },
  "3e0731f635a1": {
   "en": "Hifuna Wood People: a tree with golden leaves and long trailing roots, shown with a small fruit and Harry for scale.",
   "t": "希富纳伍德皮普尔：一棵长着金色叶子和长长拖地根须的树，画有一颗小果实，并有哈利作为大小参照。"
  },
+ "3e18cc4fec8f": {
+  "en": "<strong>Tastes like:</strong> Wood.",
+  "t": "<strong>味道：</strong>木头。"
+ },
+ "3f31cc5ac057": {
+  "en": "<strong>Flinga Egg</strong>: Rarely found, and Humans, Darfaries and others have never managed to hatch one.",
+  "t": "<strong>弗林加蛋</strong>：很少能找到，人类、达尔法里斯和其他种族从来没能孵出过一只。"
+ },
+ "4137fad0287c": {
+  "en": "<strong>Interface:</strong> See Fauna &gt; Monica.",
+  "t": "<strong>界面：</strong>见动物 &gt; 莫妮卡。"
+ },
+ "418f7fc9e858": {
+  "en": "<strong>Tier III (Expensive Goods):</strong> jerky, plus elemental interface actions for storage; feathers and fur of smaller animals, especially higher-quality ones; live beasts; rare animal parts.",
+  "t": "<strong>III 级（昂贵货）：</strong>肉干，加上用于保存的元素界面动作；小型动物的羽毛和皮毛，尤其是品质更高的；活的魔兽；稀有的动物部位。"
+ },
  "430cd841045f": {
   "en": "4 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "本页另有 4 个条目仅在<button class=\"linklike\" data-go-bts>幕后</button>中提供。"
+ },
+ "449ee8d376d3": {
+  "en": "<strong>Intelligence:</strong> Chimpanzee. They haven’t discovered fire yet, but they use some tools, especially if trained by humans. Great for adventurers who need a cargo mate on very rough terrain.",
+  "t": "<strong>智力：</strong>黑猩猩。它们还没发现火，但会使用一些工具，尤其是经过人类训练的。对需要在极其崎岖的地形上找个搬运伙伴的冒险者来说是绝佳选择。"
+ },
+ "45a384823cd2": {
+  "en": "<strong>Inspired by:</strong> Trees, kind of. They map their surroundings with their vines and with vibrations in the ground and the wind. They are drawn to Fost stones, because they can somewhat sense a direction in them.",
+  "t": "<strong>灵感来源：</strong>算是树吧。它们用藤蔓以及地面和风中的振动来感知周围的环境。它们会被福斯特石吸引，因为它们多少能从中感觉到一个方向。"
  },
  "46d85d6d1093": {
   "en": "Sand Worm: a segmented tan worm with a gaping toothy mouth, next to Harry for scale.",
   "t": "桑德沃姆：一条分节的黄褐色蠕虫，张着满是牙齿的大嘴，旁边有哈利作为大小参照。"
  },
+ "478075c93998": {
+  "en": "Economic value",
+  "t": "经济价值"
+ },
  "4784b024f480": {
   "en": "Shapeshifters are presumed to be one of the last remaining ancient species in this world. They are intelligent, have forethought capabilities, have an interface with a wide range of actions, and can even communicate in the shape of the creature they are mimicking. However, a growing group of scientists is classifying it as a beast instead, as all of its apparent intelligence is just another form of mimicry because, at the end of the day, its communication skills show that it is nothing other than a mindless blob, seeking to grow large enough to divide itself in half. Or the shapeshifters that got captured are the dumb ones. Who knows? Although tavern gossip about it floats around once in a while, such as a specific shapeshifter that more than once approached lonely male adventurers with a distinct hole in the middle that they felt was perfectly lubricated and warm. Some seemed flustered when asked how they knew that, while others stated they interacted with it recreationally.",
   "t": "谢普希夫特被认为是这个世界上仅存的古老物种之一。它们有智力，有预见能力，拥有可执行多种动作的界面，甚至能以所模仿生物的形态进行交流。然而，越来越多的科学家把它归为魔兽，因为它表面上的所有智力不过是另一种形式的模仿——说到底，它的交流能力表明它不过是一团没有思想的东西，只想长到足够大好把自己一分为二。又或者，被抓住的谢普希夫特都是笨的那些。谁知道呢？不过，关于它的酒馆八卦时不时会流传开来，比如有一只特定的谢普希夫特不止一次接近孤独的男性冒险者，它中间有一个明显的洞，他们觉得那里润滑得恰到好处而且很温暖。被问到他们是怎么知道的时候，有些人显得很慌张，另一些人则表示自己和它进行过娱乐性的互动。"
+ },
+ "47dd103fbc7a": {
+  "en": "<strong>Hifuna People Leaves</strong>: Sun-dried, clean leaves mostly used for crafting.",
+  "t": "<strong>希富纳皮普尔叶子</strong>：晒干的干净叶子，主要用于手工制作。"
  },
  "4c13a61584c7": {
   "en": "Walking {X} Flesh",
   "t": "沃金·{X}·弗莱什"
  },
+ "4c4d992af6e5": {
+  "en": "<a href=\"/lore/fauna/\">Fauna</a>: low-intelligence species.",
+  "t": "<a href=\"/lore/fauna/\">动物</a>：智力低下的物种。"
+ },
+ "4e04cf6a9185": {
+  "en": "<strong>Sand Worm Meat</strong>: Meat cut by a butcher. Not very desirable, so it’s mostly sold as a by-product of killing Sand Worms for their chitin.",
+  "t": "<strong>桑德沃姆肉</strong>：屠夫切好的肉。不太受欢迎，所以大多是作为为了几丁质猎杀桑德沃姆的副产品出售。"
+ },
+ "4e13733f827a": {
+  "en": "<strong>Inspired by:</strong> Mutated tree branches.",
+  "t": "<strong>灵感来源：</strong>突变的树枝。"
+ },
+ "4ff610708d48": {
+  "en": "<strong>Big Winga Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>大温加肉干</strong>：屠夫做的肉干。"
+ },
  "50a8033439b1": {
   "en": "Wood People: a tree with bright pink leaves and long trailing roots, with a small fruit and Harry for scale.",
   "t": "伍德皮普尔：一棵长着鲜粉色叶子和长长拖地根须的树，画有一颗小果实，并有哈利作为大小参照。"
+ },
+ "512ce6ff8cf0": {
+  "en": "<a href=\"/lore/races/\">Races</a>: species at or above human intelligence.",
+  "t": "<a href=\"/lore/races/\">种族</a>：智力等于或高于人类的物种。"
+ },
+ "52a8dc922658": {
+  "en": "<strong>Interface:</strong> Branches, too.",
+  "t": "<strong>界面：</strong>还有树枝。"
+ },
+ "53627ab837e3": {
+  "en": "<strong>Tastes like:</strong> See Fauna &gt; Monica.",
+  "t": "<strong>味道：</strong>见动物 &gt; 莫妮卡。"
+ },
+ "54c367b1869a": {
+  "en": "<strong>Habitat:</strong> Bahyum Castle.",
+  "t": "<strong>栖息地：</strong>巴休姆城堡。"
+ },
+ "5655d33421e9": {
+  "en": "<strong>Reproduction:</strong> Often incapable.",
+  "t": "<strong>繁殖：</strong>通常没有繁殖能力。"
+ },
+ "587c728b1652": {
+  "en": "Beasts by tier:",
+  "t": "按等级划分的魔兽："
  },
  "58ffde096ea8": {
   "en": "Sucker Lady: a gaunt gray humanoid with long black hair covering her face, standing beside Harry.",
@@ -107,6 +383,18 @@
   "en": "Male and female Flingas: tall dark-blue beasts with long curved horns and red crests, plus a close-up of a head, next to Harry.",
   "t": "雄性和雌性弗林加：长着长长的弯角和红色羽冠的高大深蓝色魔兽，还有一张头部特写，旁边是哈利。"
  },
+ "5d97b7b1f3a8": {
+  "en": "<strong>Flinga Meat</strong>: Meat cut by a butcher. A refined, rare product that some people in Forway insist on having, even though there’s nothing special about it.",
+  "t": "<strong>弗林加肉</strong>：屠夫切好的肉。一种精致的稀有产品，福威有些人非要吃不可，尽管它其实没什么特别的。"
+ },
+ "5da74770aa33": {
+  "en": "Beasts (World Lore illustration)",
+  "t": "魔兽（世界观插图）"
+ },
+ "5db2f3d257c3": {
+  "en": "<strong>Reproduction:</strong> Throughout the year, more in the summer.",
+  "t": "<strong>繁殖：</strong>全年都有，夏天更多。"
+ },
  "5fa3e182ab03": {
   "en": "004 (images illustration)",
   "t": "004（插图）"
@@ -115,9 +403,21 @@
   "en": "Teefyro",
   "t": "蒂菲罗"
  },
+ "632a1556dc63": {
+  "en": "<strong>Reproduction:</strong> Every summer, through a flower with pollen on their heads.",
+  "t": "<strong>繁殖：</strong>每年夏天，通过头上一朵带花粉的花。"
+ },
  "63b396f5f9b7": {
   "en": "Sucker Lady",
   "t": "萨克莱迪"
+ },
+ "65318a520a2a": {
+  "en": "<strong>Habitat:</strong> Buhraies Plains.",
+  "t": "<strong>栖息地：</strong>布莱斯平原。"
+ },
+ "65b0ff14ee99": {
+  "en": "<strong>Koalin Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>科阿林肉</strong>：屠夫切好的肉。"
  },
  "66c61ec563ee": {
   "en": "Public text: Website Description in Legacy/Behind The Scenes/World Lore/Beasts.md",
@@ -126,6 +426,10 @@
  "67d6f70025a8": {
   "en": "Walking {X} Skin",
   "t": "沃金·{X}·斯金"
+ },
+ "67f02df425bd": {
+  "en": "<strong>Food:</strong> Large berries and fruits.",
+  "t": "<strong>食物：</strong>大颗的浆果和水果。"
  },
  "696bfe5adfc8": {
   "en": "Teefyro baffles scientists and makes many disagree if this thing is a beast or fauna. It definitely lacks any formal intelligence as it rampages around aimlessly, sometimes even killing each other through the usual process of exploding its gums and sending its teeth as a projectile—sometimes killing itself in the process by bleeding to death, or in rarer cases, the interface controlling the explosion goes full haywire and detonates the entire body, leaving a crater where the beast once stood as a shower of blood and guts precipitates the whole area. It also randomly casts different spells through its flesh composition of the diverse fauna pieces and other beasts. Scientists still aren't sure how many combinations there are, but if it has something akin to teeth that explodes outwardly, and its body shape reminds, or at least smells like a Bagarisa, then for sure, it's a Teefyro.",
@@ -139,37 +443,237 @@
   "en": "Trunk People: a youngling and an adult tree creature with leafy green heads in a forest, on a height chart.",
   "t": "特朗克皮普尔：森林里一只幼体和一只成年的树状生物，头上长着绿叶，画在身高对比图上。"
  },
+ "6dcff1a618d7": {
+  "en": "<strong>Inspired by:</strong> The natural look of a bryozoan colony.",
+  "t": "<strong>灵感来源：</strong>苔藓虫群落的自然外观。"
+ },
+ "6de573c49d82": {
+  "en": "<strong>Sweet Sting Poison</strong>: Often used in nari gels.",
+  "t": "<strong>斯威特斯廷毒液</strong>：常用于纳里凝胶。"
+ },
+ "6df614a0901c": {
+  "en": "<strong>Nari Worm Meat</strong>: Meat cut by a butcher. It tastes horrible.",
+  "t": "<strong>纳里沃姆肉</strong>：屠夫切好的肉。味道很恶心。"
+ },
+ "6feb69b2b624": {
+  "en": "A mutated tree branch that sparked to life. They're very protective of their surroundings and will use their interface if they feel threatened. They communicate only by casting different colors of light, since they can't hear, and their hair is pollen. They live in the trunks of Live Wood trees. In and around the Freeish Kingdom, people often use them as public lights on large Soul Wood trees, and some use them inside their homes too. They can also be used as a seed, to plant the tree wherever the owner wants.",
+  "t": "一根突变后活了过来的树枝。它们非常保护自己周围的环境，感到威胁时就会使用界面。它们听不见，只能通过发出不同颜色的光来交流，它们的头发是花粉。它们住在活木树的树干里。在弗里伊什王国及其周边，人们常常把它们放在大型灵魂木树上当路灯，有些人也在家里用。它们也可以当种子用，把树种在主人想种的任何地方。"
+ },
+ "714a3bf27817": {
+  "en": "<strong>Inspired by:</strong> Capybara.",
+  "t": "<strong>灵感来源：</strong>水豚。"
+ },
  "71ba8c3b02ac": {
   "en": "Shapeshifter: a brown blob in a sunlit forest, with a chart of how it moves, attacks, flees and defends, and its size at Harry's knee level.",
   "t": "谢普希夫特：阳光照耀的森林里的一团棕色物体，附有它如何移动、攻击、逃跑和防御的图表，以及它到哈利膝盖高的体型。"
+ },
+ "72dba6373ee0": {
+  "en": "<strong>Interface:</strong> Usually the same as the originating species.",
+  "t": "<strong>界面：</strong>通常和原物种一样。"
+ },
+ "734c760d73c6": {
+  "en": "<strong>Uses:</strong> Forway guards ride them to fly around without needing a nari gel themselves (the Big Winga under them is often another guard transformed with one). They're used for quick transportation of goods, scouting and flyovers.",
+  "t": "<strong>用途：</strong>福威卫兵骑着它们飞行，自己不需要服用纳里凝胶（他们身下的大温加往往是另一个服了凝胶变身的卫兵）。它们被用于快速运输货物、侦察和空中巡视。"
+ },
+ "7632aa3679a9": {
+  "en": "<strong>Big Winga Feathers</strong>: Feathers, prepared by a butcher for artisans to work on.",
+  "t": "<strong>大温加羽毛</strong>：羽毛，由屠夫处理好，供工匠加工。"
+ },
+ "767940b9c663": {
+  "en": "<strong>Food:</strong> Grass and some other plants.",
+  "t": "<strong>食物：</strong>草和一些其他植物。"
  },
  "7698ce3d747b": {
   "en": "Sand Worms are native to the deserts around Gandew and must be the absolute worst creature from that region! They are always either burying themselves below the surface or cloaking themselves in plain sight, then viciously attacking unsuspecting victims. Luckily Saynas often detect them to turn the tables and allow adventurers to hunt them instead. It's crazy how some Darfaries still refuse to use Saynas and instead prefer to get high on the thrill of being attacked at any moment; it's pretty gruesome seeing a Darfaries and a Sand Worm duel to the death.",
   "t": "桑德沃姆原产于甘杜周围的沙漠，绝对是那片地区最糟糕的生物！它们总是要么把自己埋在地表之下，要么在光天化日之下隐身，然后凶狠地袭击毫无防备的受害者。幸运的是，赛纳经常能察觉到它们，从而扭转局面，让冒险者反过来猎杀它们。说来也疯狂，有些达尔法里斯至今仍拒绝使用赛纳，更喜欢沉迷于随时可能遭到袭击的刺激感；看一个达尔法里斯和一条桑德沃姆决一死战，场面相当血腥。"
  },
+ "76bafbc8d5c6": {
+  "en": "<strong>Tastes like:</strong> Same as Winga.",
+  "t": "<strong>味道：</strong>和温加一样。"
+ },
+ "76f29b94560d": {
+  "en": "<strong>Inspired by:</strong> Pteranodon.",
+  "t": "<strong>灵感来源：</strong>无齿翼龙。"
+ },
+ "77f33594f204": {
+  "en": "<strong>Tastes like:</strong> Pork.",
+  "t": "<strong>味道：</strong>猪肉。"
+ },
+ "78403b06d289": {
+  "en": "<strong>Inspired by:</strong> Worms.",
+  "t": "<strong>灵感来源：</strong>蠕虫。"
+ },
+ "78dfb58a0a63": {
+  "en": "<strong>Skills:</strong> Generate Light; Sense Lifeforms; Generate Air Shield.",
+  "t": "<strong>技能：</strong>生成光；感知生命体；生成空气护盾。"
+ },
  "78f5ed6037a2": {
   "en": "Walking Flesh is the common name for any species stuck in this half-state thing. They are undead and seem to share some hive-mind cognition, but they don't seem completely devoid of their intelligence either. If they are taken far away from the castle, some transformed species will rampage against anything; some will idle, while some even demonstrate docile behaviors. The transformation does compound on the behaviors, so the more they are transformed towards the walking skin version, the more they lose whatever remains of their sanity. Don't underestimate their fighting capabilities; you might just become one of them.",
   "t": "沃金·弗莱什是困在这种半变异状态中的任何种族的通称。它们是不死的，似乎共享某种蜂巢思维，但也不像是完全丧失了智力。如果把它们带到远离城堡的地方，有些变异的种族会对任何东西大肆攻击；有些会发呆，而有些甚至表现出温顺的行为。这种变异会让行为不断加剧，所以它们越是向沃金·斯金的形态转变，就越会失去仅存的理智。别低估它们的战斗能力；你可能就会变成它们中的一员。"
+ },
+ "7965549e73d3": {
+  "en": "<strong>Tastes like:</strong> Metallic and earthy.",
+  "t": "<strong>味道：</strong>金属味和泥土味。"
+ },
+ "7a9f0b234fc8": {
+  "en": "Big birds only ever seen flying high in the air, except during winter (most years). Nobody knows how they eat, sleep, etc. Nobody except the Finaies, who made a pact with the Flingas to watch over the south and plan a comeback. In 1039 A.G., Flingas were seen flying around in winter, something that hadn't happened in quite a while.",
+  "t": "大鸟，只在高空飞翔时才能看到，冬天除外（大多数年份）。没人知道它们怎么吃、怎么睡等等。除了菲奈斯，没人知道——菲奈斯和弗林加立了约，让它们监视南方，并策划东山再起。1039 A.G.，有人看到弗林加在冬天四处飞翔，这种事已经很久没发生过了。"
+ },
+ "7af8721e68f3": {
+  "en": "<strong>Inspired by:</strong> Eunice aphroditois.",
+  "t": "<strong>灵感来源：</strong>Eunice aphroditois。"
+ },
+ "7c2592fcb57e": {
+  "en": "Goods are sorted into four tiers by how they look to a common person in Vraki, from cheap things anyone buys to things only the very rich can afford. The boundaries are blurry on purpose: it's a spectrum, and the tiers just help picture it (see <a href=\"/lore/nari-gels/\">Nari Gels</a>).",
+  "t": "商品按照在弗拉基普通人眼中的样子分为四个等级，从人人都会买的便宜货，到只有大富豪才买得起的东西。界限故意是模糊的：这是一个连续的光谱，等级只是帮助理解（见<a href=\"/lore/nari-gels/\">纳里凝胶</a>）。"
+ },
+ "7e5c7c939d77": {
+  "en": "<strong>Habitat:</strong> From west of Blood into Freeish; rarely seen much farther east, near Forway.",
+  "t": "<strong>栖息地：</strong>从布拉德以西一直到弗里伊什；很少在更东边的福威附近出现。"
+ },
+ "7f0b28b34972": {
+  "en": "<strong>Interface:</strong> Mouth pincers; a black flame comes out of the black stripes on them.",
+  "t": "<strong>界面：</strong>口器上的钳子；黑色的火焰从钳子上的黑色条纹里冒出来。"
  },
  "80222f64dc85": {
   "en": "Sand Worms",
   "t": "桑德沃姆"
  },
+ "80271cf989cd": {
+  "en": "<strong>Intelligence:</strong> Instinctual, bee-like.",
+  "t": "<strong>智力：</strong>本能型，像蜜蜂一样。"
+ },
+ "806c111752d9": {
+  "en": "<strong>Hifuna People Wood</strong>: The same reddish tone, but plagued with Hifuna disease, so most people won’t use it for crafting.",
+  "t": "<strong>希富纳皮普尔木材</strong>：同样的红色调，但染上了希富纳病，所以大多数人不会用它来做东西。"
+ },
+ "81ae2bfa4c4e": {
+  "en": "<strong>Jelly Blob</strong>: Usually a piece cut off a Shapeshifter and put in a jar for transport. Expensive, because they’re hard to catch.",
+  "t": "<strong>果冻块</strong>：通常是从谢普希夫特身上切下来、装进罐子里运输的一块。很贵，因为它们很难抓。"
+ },
+ "82a339cde6dc": {
+  "en": "<strong>Tastes like:</strong> Not tender, somewhat greasy, and kind of bland.",
+  "t": "<strong>味道：</strong>不嫩，有点油腻，而且有点寡淡。"
+ },
+ "83774f3c017a": {
+  "en": "<strong>Flinga Tamed</strong>: No one in the four kingdoms has managed to tame a Flinga yet. Taming one would have a huge impact on transportation, and so on costs and expansion.",
+  "t": "<strong>驯服的弗林加</strong>：四王国里还没有人驯服过弗林加。要是能驯服一只，会对运输产生巨大影响，进而影响成本和扩张。"
+ },
+ "846308e26fa1": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Beasts.md\">Legacy/Behind The Scenes/World Lore/Beasts.md</a>",
+  "t": "来源：<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Beasts.md\">Legacy/Behind The Scenes/World Lore/Beasts.md</a>"
+ },
+ "84aa58ed9da6": {
+  "en": "<strong>Food:</strong> Same as Winga, but they also eat bigger fruits, especially greenbread.",
+  "t": "<strong>食物：</strong>和温加一样，但它们也吃更大的水果，尤其是格林布雷德。"
+ },
+ "8646424e8834": {
+  "en": "<strong>Skills:</strong> Slow Regen; Halted Decomposition; Decompose Target; Steal Soul Energy.",
+  "t": "<strong>技能：</strong>缓慢再生；停止腐烂；分解目标；窃取灵魂能量。"
+ },
+ "88387cc837bb": {
+  "en": "<strong>Flinga Jerky</strong>: Jerky prepared by a butcher. A refined, rare product that some people in Forway insist on having, even though there’s nothing special about it.",
+  "t": "<strong>弗林加肉干</strong>：屠夫做的肉干。一种精致的稀有产品，福威有些人非要吃不可，尽管它其实没什么特别的。"
+ },
+ "8bcdc001eb42": {
+  "en": "<strong>Inspired by:</strong> The Trioxin zombies of <em>The Return of the Living Dead</em>.",
+  "t": "<strong>灵感来源：</strong><em>The Return of the Living Dead</em> 中的三恶英（Trioxin）僵尸。"
+ },
+ "8c651869ce44": {
+  "en": "<strong>Big Winga Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>大温加肉</strong>：屠夫切好的肉。"
+ },
+ "8c76ef7d364a": {
+  "en": "<strong>Food:</strong> Soul Energy from Bahyum Castle.",
+  "t": "<strong>食物：</strong>来自巴休姆城堡的灵魂能量。"
+ },
+ "8cb49002eb9e": {
+  "en": "<strong>Intelligence:</strong> Often ~50% of the original intelligence, but far more dangerous. They are also more aggressive, even species that are usually defensive or friendly.",
+  "t": "<strong>智力：</strong>通常只有原来的 ~50%，但危险得多。它们也更具攻击性，即使是通常是防御型或友好型的物种也是如此。"
+ },
  "8f0690c6c26e": {
   "en": "Flinga",
   "t": "弗林加"
+ },
+ "901962a56ac6": {
+  "en": "<strong>Habitat:</strong> Throughout the lowlands; most often spotted in the grasslands to the east.",
+  "t": "<strong>栖息地：</strong>遍布低地；最常在东边的草原上被发现。"
+ },
+ "902576d502a8": {
+  "en": "<strong>Reproduction:</strong> By attacking certain trees for their sap.",
+  "t": "<strong>繁殖：</strong>攻击某些树木以获取树液。"
  },
  "91ece0116be9": {
   "en": "Koalins are truly a unique breed of beast; some scientists still dispute whether they should be categorized as beasts in the first place. They don’t really bite, claw, or kill people. What they do, however, is far worse! Through the unique special wave generation organs in their head, alongside the white silky white beard that focuses those waves towards a target, they can strike virtually anyone with strong mental impairment. If they are just being defensive, they can make you feel a looming doom, a fearful sensation, but if they amp up the intensity, they can lead weak-minded people to kill themselves. If you resist that, they will increase the intensity to debilitating pain. There’s no winning against a Koalin. They are also nearly untamable, but if you manage to tame one, they are inseparable and will earn you reaches you never thought possible!",
   "t": "科阿林真是一种独特的魔兽；有些科学家至今仍在争论它们到底该不该被归为魔兽。它们并不怎么咬人、抓人或杀人。然而它们做的事情要糟糕得多！借助头部独特的特殊波生成器官，再加上能把这些波聚焦到目标上的白色丝滑长须，它们几乎可以让任何人遭受严重的精神损伤。如果它们只是在防御，它们会让你感到大难临头、心生恐惧，但如果它们加大强度，就能让意志薄弱的人自杀。如果你抵抗住了，它们会把强度提高到让人丧失行动能力的剧痛。对上科阿林是赢不了的。它们也几乎无法驯服，但如果你设法驯服了一只，它们会和你形影不离，带你达到你从未想过的高度！"
  },
+ "930f8cadc07c": {
+  "en": "Endless experiments with what's now known as the Walking Heart stone left tons of zombies in Bahyum Castle. They're slower and dumber than Walking Flesh.",
+  "t": "对如今被称为沃金哈特石的东西进行的无休止实验，在巴休姆城堡里留下了大量僵尸。它们比沃金弗莱什更慢、更蠢。"
+ },
  "936ea19d7d0a": {
   "en": "White Roundies",
   "t": "怀特朗迪斯"
  },
+ "941c57b40421": {
+  "en": "<strong>Tastes like:</strong> Slightly salty jelly.",
+  "t": "<strong>味道：</strong>略咸的果冻。"
+ },
+ "94dd084d3ae0": {
+  "en": "<strong>Sand Worm Chitin</strong>: Chitin, prepared by a butcher for artisans to work on.",
+  "t": "<strong>桑德沃姆几丁质</strong>：几丁质，由屠夫处理好，供工匠加工。"
+ },
+ "978e215b19ae": {
+  "en": "<a href=\"/lore/beasts/\">Beasts</a>: mildly intelligent species, or highly dangerous beasts.",
+  "t": "<a href=\"/lore/beasts/\">魔兽</a>：稍有智力的物种，或者极其危险的魔兽。"
+ },
+ "99ad77410a1f": {
+  "en": "<strong>Walking Flathead Tongue</strong>: Often used in nari gels.",
+  "t": "<strong>沃金·弗拉特黑德的舌头</strong>：常用于纳里凝胶。"
+ },
+ "99c297f0a691": {
+  "en": "<strong>Skills:</strong> Harden parts of their bodies; Generate Acid; Cloak; Increase Size.",
+  "t": "<strong>技能：</strong>硬化身体部位；生成酸液；隐身；增大体型。"
+ },
+ "9c96138b628e": {
+  "en": "<strong>Reproduction:</strong> Females give birth to 5–7 babies every year.",
+  "t": "<strong>繁殖：</strong>雌性每年生 5–7 只幼崽。"
+ },
+ "9eece3967a5b": {
+  "en": "<strong>Extermination</strong>: Usually one piece (often the Walking Heart stone with the head bone) is torn off and brought back as proof of the hunt. See Embassy Quests for more details.",
+  "t": "<strong>清剿</strong>：通常撕下一块（往往是连着头骨的沃金哈特石）带回来作为狩猎的证明。更多细节见大使馆任务。"
+ },
+ "a09bc593edc1": {
+  "en": "<strong>Habitat:</strong> Hifuna, though some make their way down to lower ground and cause havoc.",
+  "t": "<strong>栖息地：</strong>希富纳，不过有些会跑到低处去肆虐。"
+ },
+ "a20b9f3830c7": {
+  "en": "<strong>Food:</strong> The same as the originating species; often other Hifuna species, which build up radiation.",
+  "t": "<strong>食物：</strong>和原物种一样；常常是其他希富纳物种，它们体内积累了辐射。"
+ },
+ "a283fa0b9785": {
+  "en": "<strong>Wood People Leaves</strong>: Sun-dried, clean leaves mostly used for crafting.",
+  "t": "<strong>伍德皮普尔叶子</strong>：晒干的干净叶子，主要用于手工制作。"
+ },
+ "a298cddd185c": {
+  "en": "<strong>Skills:</strong> Fast Strike (punches a hole in the target’s flesh) by altering the physical properties of their vines.",
+  "t": "<strong>技能：</strong>通过改变藤蔓的物理特性发动快速打击（在目标的肉上打出一个洞）。"
+ },
+ "a38b81e5ae8e": {
+  "en": "<strong>Wood People Vines</strong>: Often used for ropes, construction, etc. Quite elastic, almost like rubber.",
+  "t": "<strong>伍德皮普尔藤蔓</strong>：常用来做绳子、建筑等。相当有弹性，几乎像橡胶一样。"
+ },
+ "a3c7b118e2b6": {
+  "en": "<strong>Skills:</strong> Eye Catch; Bigger Looking; Hypnosis.",
+  "t": "<strong>技能：</strong>吸引目光；看起来更大；催眠。"
+ },
  "a4596ef28211": {
   "en": "Sweet Sting is found west of the Freeish Kingdom, with SweetLake being their HQ of sorts. They can be heard quite away, their wings making a deeper buzzing sound as they carry pollen or tree sap back to make black honey—an extremely nutritious yet diabetically sweet paste. It might sound threatening, but that's just a female worker passing by. They don't have stingers like their smaller male counterparts, but their pinchers are still quite powerful! If you see black flames emerge from their pincers, get ready as they are about to shoot a poisonous spit that gets accelerated to near sonic speeds by their soul energy interface. Don't count on evading because they never seem to miss a shot! There's even a common phrase in the local populace, I'm sure as a spitting Sweet Sting.",
   "t": "斯威特斯廷分布在弗里伊什王国以西，斯威特莱克算是它们的大本营。很远就能听到它们的声音，它们带着花粉或树液回去酿造黑蜜——一种营养极其丰富、却甜到能让人得糖尿病的膏状物——翅膀发出更低沉的嗡嗡声。听起来可能很吓人，但那只是一只路过的雌性工蜂。它们不像体型较小的雄性同类那样有螫针，但它们的钳子仍然相当有力！如果你看到它们的钳子里冒出黑色火焰，就做好准备吧，因为它们马上要喷出一口毒液，那毒液会被它们的灵魂能量界面加速到接近音速。别指望能躲开，因为它们似乎从不失手！当地百姓之间甚至有一句俗语：“我就像喷毒的斯威特斯廷一样确定。”"
+ },
+ "a4c219359bad": {
+  "en": "<strong>Habitat:</strong> Desert.",
+  "t": "<strong>栖息地：</strong>沙漠。"
  },
  "a4cd5782cc2d": {
   "en": "Walking Flathead: a skeletal gray creature with a long spine-like tail creature above it, next to Harry.",
@@ -179,17 +683,73 @@
   "en": "Beasts",
   "t": "魔兽"
  },
+ "a644a36bb4c3": {
+  "en": "<strong>Skills:</strong> Launches its teeth forward.",
+  "t": "<strong>技能：</strong>把牙齿向前发射出去。"
+ },
+ "a69c5b666ab6": {
+  "en": "<strong>Tier I (Cheap Goods):</strong> freshly killed animals, plus elemental interface actions for longer storage.",
+  "t": "<strong>I 级（便宜货）：</strong>刚宰杀的动物，加上用于延长保存期的元素界面动作。"
+ },
  "a7042371544b": {
   "en": "Walking Flesh: a red, skinless humanoid figure with small reference images, beside Harry.",
   "t": "沃金·弗莱什：一个没有皮肤的红色人形身影，附有几张小参考图，旁边是哈利。"
+ },
+ "a870cba28053": {
+  "en": "<strong>Reproduction:</strong> They can duplicate themselves at the cost of half their mass, but most rocks first combine with other rocks and then split, so they can share their life experiences.",
+  "t": "<strong>繁殖：</strong>它们可以以一半的质量为代价复制自己，但大多数石头会先和其他石头结合再分裂，这样就能共享生活经验。"
+ },
+ "a872978f1d4f": {
+  "en": "<strong>Extermination</strong>: Usually one piece (often the head) is torn off and brought back as proof of the hunt, because the meat and other body parts are usually too irradiated to be of any use. See Embassy Quests for more details.",
+  "t": "<strong>清剿</strong>：通常撕下一块（往往是头）带回来作为狩猎的证明，因为肉和其他身体部位通常辐射太强，毫无用处。更多细节见大使馆任务。"
+ },
+ "aadd3dfa7175": {
+  "en": "<strong>Skills:</strong> Harden parts of their bodies; Generate Acid.",
+  "t": "<strong>技能：</strong>硬化身体部位；生成酸液。"
+ },
+ "ac0239a98d1f": {
+  "en": "<strong>Reproduction:</strong> Each worm has both sexes; several worms are born every year.",
+  "t": "<strong>繁殖：</strong>每条蠕虫都是雌雄同体；每年都有好几条蠕虫出生。"
+ },
+ "ac492c452b6c": {
+  "en": "<strong>Hifuna People Sap</strong>: Processed sap, sometimes used in nari gels.",
+  "t": "<strong>希富纳皮普尔树液</strong>：加工过的树液，有时用于纳里凝胶。"
+ },
+ "ad4fdb69b8ff": {
+  "en": "<strong>Intelligence:</strong> Rather mindless; they act purely on instinct and only use their vines to defend themselves. They are drawn to Fost stones, but shoving a Fost stone into the top of the trunk paralyzes them.",
+  "t": "<strong>智力：</strong>相当没有头脑；它们完全凭本能行事，只用藤蔓来保护自己。它们会被福斯特石吸引，但把一块福斯特石塞进树干顶部能让它们瘫痪。"
  },
  "b0536ef796be": {
   "en": "Crazed Muckman",
   "t": "克雷兹德·马克曼"
  },
+ "b0c45c4e62fa": {
+  "en": "<strong>Skills:</strong> Slow Regen; Halted Decomposition; Decompose Target; Steal Soul Energy; plus the original skills.",
+  "t": "<strong>技能：</strong>缓慢再生；停止腐烂；分解目标；窃取灵魂能量；以及原有的技能。"
+ },
+ "b19ffd8bc405": {
+  "en": "Monica Swarm",
+  "t": "莫妮卡蝶群"
+ },
+ "b1a21c8f58a3": {
+  "en": "<strong>Intelligence:</strong> Rather instinctual, but slowly developing a sense of self. Some of these rocks are smart enough to understand a few words from adventurers.",
+  "t": "<strong>智力：</strong>相当本能化，但正在慢慢形成自我意识。有些石头聪明到能听懂冒险者说的几个词。"
+ },
  "b3065cdc24a2": {
   "en": "Flingas are massive beasts that fly high up in the sky, rarely ever coming close to the ground. Nobody knows where these beasts nest their younglings—if they even do that. Their complete lack of migratory patterns and sometimes random flight patterns, like flying over a specific city for days, still baffles all scientists and historians to this day. There are tales by the campfire surrounding a sapphire adventurer that wore Big Winga skin to fly back home, and on the way, he saw what appeared to be a child-sized wood humanoid riding on top of it. Some Scientists suspect it was a child of an ancient species called Fuhraies; others state it could be Finaies, another ancient species rumored to live north of Hifuna. Attempting to capture a Flinga is also damn nearly impossible as not only do they quickly climb higher at any sight of danger, but they can also use their soul energy interface to stun enemies with a few attacks, including unfathomably high-pitched screams and air gust streams.",
   "t": "弗林加是在高空中飞翔的巨大魔兽，很少接近地面。没人知道这些魔兽在哪里筑巢养育幼崽——如果它们真的会这么做的话。它们完全没有迁徙规律，有时飞行路线还很随机，比如连续几天在某个特定城市上空盘旋，这至今仍让所有科学家和历史学家困惑不已。篝火旁流传着一些故事，说有一位萨菲尔级冒险者穿着大温加的皮飞回家，途中看到一个孩子大小的木头人形骑在它上面。有些科学家怀疑那是一种名为弗莱斯的古老种族的孩子；另一些人则说可能是菲奈斯，另一个据传生活在希富纳以北的古老种族。试图捕捉弗林加也几乎是他妈的不可能的事，因为它们不仅一察觉到危险就会迅速爬升，还能用灵魂能量界面通过几种攻击让敌人晕眩，包括高得难以想象的尖叫和气流冲击。"
+ },
+ "b46c5f8fab9e": {
+  "en": "<strong>Inspired by:</strong> Chimpanzee.",
+  "t": "<strong>灵感来源：</strong>黑猩猩。"
+ },
+ "b521396978a6": {
+  "en": "Endless experiments with what's now known as the Walking Heart stone left tons of zombies of different species in Bahyum Castle, and it somehow keeps creating more.",
+  "t": "对如今被称为沃金哈特石的东西进行的无休止实验，在巴休姆城堡里留下了大量不同物种的僵尸，而且它不知怎么还在不断制造更多。"
+ },
+ "b779317c1ecf": {
+  "en": "<strong>Interface:</strong> Vines.",
+  "t": "<strong>界面：</strong>藤蔓。"
  },
  "b7d8c8b48485": {
   "en": "Two Koalins: brown bear-like creatures with striped faces, one adult and one young, beside Harry.",
@@ -199,13 +759,89 @@
   "en": "Wood People were, amongst many other things, another one of Buhraies experimentation gone wrong—or right. The debate of what they were trying to achieve is still a hot topic, but historians at least agree that Buhraies somehow wanted to make them foot soldiers plus a stable source of food and lumber. Meanwhile, scientists still can't fully wrap their heads around how they engineered a tree to be able to unearth itself and walk around in packs, let alone control its vines to defend itself. They did figure out that Buhraies used fost stones to paralyze and control Wood People based on specimens and tools found throughout the ages. Now they could be considered a plague as they are absolutely everywhere in the Buhraies Plains. Entire villages exist solely to strip these beasts for resources, with good prices going for their fantastic rubbery vines! That is if you can cut them off, as they won't go down without a fight. If you get a beating, you can at least sink your teeth into a nearly head-sized tasty Wood People Yabuca to appease your emotional wounds.",
   "t": "伍德皮普尔，在许多方面，又是一个布莱斯实验失败——或者说成功——的产物。他们到底想实现什么，至今仍是热门话题，但历史学家至少一致认为，布莱斯想以某种方式把它们变成步兵，同时作为稳定的食物和木材来源。与此同时，科学家们仍然完全想不通，他们是怎么改造出一棵能把自己从土里拔出来、成群结队走来走去的树，更别说控制藤蔓来保护自己了。根据历代发现的标本和工具，他们确实弄清楚了布莱斯是用福斯特石来麻痹和控制伍德皮普尔的。如今它们可以说是一场灾害，因为在布莱斯平原上到处都是。有整个村子专门靠剥取这些魔兽的资源为生，它们那绝妙的橡胶般的藤蔓能卖出好价钱！前提是你能把藤蔓砍下来，因为它们不会束手就擒。就算你被揍了一顿，至少还能啃一口差不多有人头那么大的美味伍德皮普尔亚布卡，抚慰一下受伤的心灵。"
  },
+ "be900e85f50d": {
+  "en": "<strong>Skills:</strong> Launch a copy of their pincers forward.",
+  "t": "<strong>技能：</strong>向前发射一副钳子的复制品。"
+ },
  "beca63384ced": {
   "en": "Hifuna People",
   "t": "希富纳皮普尔"
  },
+ "c2018b90555e": {
+  "en": "<strong>Intelligence:</strong> Lion.",
+  "t": "<strong>智力：</strong>狮子。"
+ },
+ "c21ad57d8448": {
+  "en": "<strong>Tastes like:</strong> Strong, earthy and nutty.",
+  "t": "<strong>味道：</strong>浓烈、带泥土味和坚果味。"
+ },
+ "c45a08fc875b": {
+  "en": "Hash {X}",
+  "t": "Hash {X}"
+ },
+ "c46dc6be487a": {
+  "en": "One of the last ancient-species experiments still in the world, from when one of the ancient species tested rocks in the forest. Many years later, the rocks began to grow and take on a jelly-like look; many years after that, some began assimilating nearby living beings and turning into them, while others assimilated each other to share experiences.",
+  "t": "世界上仅存的古老物种实验之一，源于某个古老物种在森林里测试石头的时候。许多年后，这些石头开始生长，变得像果冻一样；又过了许多年，有些开始同化附近的生物、变成它们，而另一些则互相同化，共享经验。"
+ },
+ "c485163f2014": {
+  "en": "<strong>Habitat:</strong> The biggest nest is in Sweetlake.",
+  "t": "<strong>栖息地：</strong>最大的巢在斯威特莱克。"
+ },
+ "c50c0638709c": {
+  "en": "Brought over by the Buhraies as summoning experiments, then soon left to their fate on what is now Endlessfog. As their population grew, so did their tribes and their wars, until a single Brunto led an army of conquest and united all the tribes under one leader, now honored by the Endlessfog statue (see Endlessfog). Killing them is prohibited by Endlessfog law, which doesn't apply in greater Forway, especially the Freeish Region.",
+  "t": "由布莱斯作为召唤实验带过来，很快就被丢在如今的恩德莱斯福格自生自灭。随着数量增长，它们的部落和战争也越来越多，直到一只布伦托率领一支征服大军，把所有部落统一在一位首领之下，如今人们用恩德莱斯福格雕像纪念它（见恩德莱斯福格）。恩德莱斯福格的法律禁止杀害它们，但这条法律在大福威地区并不适用，尤其是弗里伊什地区。"
+ },
+ "c51840f5dd2b": {
+  "en": "<strong>Inspired by:</strong> Trees, kind of. They map their surroundings with their vines and with vibrations in the ground and the wind, and they can also sense Soul Energy with their leaves.",
+  "t": "<strong>灵感来源：</strong>算是树吧。它们用藤蔓以及地面和风中的振动来感知周围的环境，还能用叶子感知灵魂能量。"
+ },
+ "c51f76b3770a": {
+  "en": "<strong>Reproduction:</strong> Through Soul Energy; it all depends on Bahyum Castle.",
+  "t": "<strong>繁殖：</strong>通过灵魂能量；一切取决于巴休姆城堡。"
+ },
+ "c550875876ca": {
+  "en": "<strong>Other:</strong> Explosive growth as their cells mutate.",
+  "t": "<strong>其他：</strong>随着细胞突变而爆发式生长。"
+ },
  "c6b259840636": {
   "en": "Koalin",
   "t": "科阿林"
+ },
+ "ca4936ec973b": {
+  "en": "<strong>Interface:</strong> Shell.",
+  "t": "<strong>界面：</strong>外壳。"
+ },
+ "caa12c4b606f": {
+  "en": "Adventurers hunting fauna or beasts butcher the corpses before hauling them, to cut costs.",
+  "t": "猎杀动物或魔兽的冒险者会先把尸体肢解了再运走，以节省成本。"
+ },
+ "cac5b3c9032e": {
+  "en": "<strong>Habitat:</strong> Hifuna.",
+  "t": "<strong>栖息地：</strong>希富纳。"
+ },
+ "ce2d8c15400c": {
+  "en": "<strong>Inspired by:</strong> Ghouls.",
+  "t": "<strong>灵感来源：</strong>食尸鬼。"
+ },
+ "ce4ce2bafb92": {
+  "en": "<strong>Inspired by:</strong> A swarm of butterflies.",
+  "t": "<strong>灵感来源：</strong>一大群蝴蝶。"
+ },
+ "d18281ada717": {
+  "en": "The list isn't complete: it covers the species that matter most to the economy and the story.",
+  "t": "这份清单并不完整：它涵盖的是对经济和故事最重要的物种。"
+ },
+ "d2ac3d882ee7": {
+  "en": "<strong>Food:</strong> Smaller people, mammals, etc.: anything that moves and steps too close.",
+  "t": "<strong>食物：</strong>个子较小的人、哺乳动物等：任何会动、又走得太近的东西。"
+ },
+ "d356e3c2af66": {
+  "en": "<strong>Intelligence:</strong> Butterfly.",
+  "t": "<strong>智力：</strong>蝴蝶。"
+ },
+ "d3f4c76a9a45": {
+  "en": "A few Shapeshifters assimilated bees and began building hives west of Blood City. What makes them special: they're much bigger than normal bees, and they make an extremely tasty black honey. The females make honey from tree sap and build massive anthill-like structures to store it. If a male stings you, your sense of taste is overwhelmed with sweetness while you scream in agony.",
+  "t": "几个谢普希夫特同化了蜜蜂，开始在布拉德城以西筑巢。它们的特别之处在于：它们比普通蜜蜂大得多，还能酿出极其美味的黑蜜。雌性用树液酿蜜，并建造巨大的蚁丘状结构来储存蜜。如果被雄性蜇了，你的味觉会被甜味淹没，同时你会痛得惨叫。"
  },
  "d412d5ae3550": {
   "en": "Trunk People are native to heavy, thick forests around the Freeish Kingdom. They are easily recognizable by their four arms, with each being able to show different colored flames, including altering their intensity. The name Trunk People is an old name, for scientists now know they are nothing but parasites! Still, they are cute and can even recognize faces. You see them everywhere in Freeish and surrounding communities as public light sources and even as security for some because their flaming and blinding capabilities are pretty impressive for their size. Some can also respond to certain body motions and training, often becoming part of shows and traveling bands.",
@@ -215,13 +851,89 @@
   "en": "Sweet Sting",
   "t": "斯威特斯廷"
  },
+ "d5b3c731749c": {
+  "en": "<strong>Habitat:</strong> Rarely seen throughout the four kingdoms; now they often live in Wingarest.",
+  "t": "<strong>栖息地：</strong>在四王国各地都很少见；如今它们常住在温加雷斯特。"
+ },
+ "d73de6d2d8f5": {
+  "en": "<strong>Food:</strong> Sunlight, blood and guts (more specifically, the Soul Energy in them).",
+  "t": "<strong>食物：</strong>阳光、血液和内脏（更确切地说，是其中的灵魂能量）。"
+ },
+ "d8935671db5f": {
+  "en": "<strong>Other:</strong> Grows indefinitely, but seems to stop around this size because of how much it would need to eat.",
+  "t": "<strong>其他：</strong>会无限生长，但似乎长到这个大小就停了，因为它需要吃的东西太多了。"
+ },
+ "d8af6a9b563c": {
+  "en": "<strong>Interface:</strong> Walking Heart.",
+  "t": "<strong>界面：</strong>沃金哈特。"
+ },
+ "d9a507ad961b": {
+  "en": "<strong>Tastes like:</strong> Tough chicken.",
+  "t": "<strong>味道：</strong>很老的鸡肉。"
+ },
+ "dbc656eb0b41": {
+  "en": "<strong>Intelligence:</strong> Depends on the experiment: from mindless to wolf.",
+  "t": "<strong>智力：</strong>取决于实验：从毫无头脑到狼的水平。"
+ },
+ "dc2cd44debb4": {
+  "en": "<strong>Flinga Head Feathers</strong>: A bundle of head feathers, used in nari gels. Just plain hard to get: Flingas rarely land south of Hifuna, fly high and are evasive.",
+  "t": "<strong>弗林加头部羽毛</strong>：一束头部羽毛，用于纳里凝胶。就是单纯地难弄到：弗林加很少在希富纳以南降落，飞得高，又难以捉摸。"
+ },
+ "dc8c863696b9": {
+  "en": "<strong>Interface:</strong> Flat head.",
+  "t": "<strong>界面：</strong>扁平的头。"
+ },
+ "dcec7b19c0ef": {
+  "en": "<strong>Skills:</strong> Light Flames; Light Explosion (blinds).",
+  "t": "<strong>技能：</strong>点燃火焰；光爆（致盲）。"
+ },
  "ddd1cce9bc4b": {
   "en": "Nari Worms are native to the underground caverns below Blood. Despite their threatening look and massive size, they are quite amicable to everyone, even when you find their eggs. Avoid the curiosity of eating them or harming these worms in any way, or you will be in deep shit if Forway finds out. They are so protective of these creatures that they are not afraid of using the worst punishment in the books, including being shipped out to Hifuna. It is certainly harsh, but it is fair as nari stones are a byproduct from the shed skin of Nari Worms, and no other creature or scientific process can accumulate this much soul energy in a ready-to-use form.",
   "t": "纳里沃姆原产于布拉德地下的洞穴。尽管它们外表吓人、体型庞大，但它们对每个人都相当友好，即使你发现了它们的蛋也一样。别好奇去吃它们，也别以任何方式伤害这些虫子，否则要是被福威发现了，你就麻烦大了。他们对这些生物保护得极其严密，毫不犹豫地动用法典里最严厉的惩罚，包括被流放到希富纳。这当然很严厉，但也很公平，因为纳里石是纳里沃姆蜕下的皮的副产品，没有任何其他生物或科学方法能以随时可用的形式积累这么多灵魂能量。"
  },
+ "e0de365b53c4": {
+  "en": "A swarm of Monica butterflies that groups up and flees bad weather. Their blue lights together make a wall of blue in the distance, warning anyone in the way to take cover from the coming storm. Depending on the size of the swarm, they can devour a rotting corpse in a few hours.",
+  "t": "一大群莫妮卡蝴蝶聚在一起躲避恶劣天气。它们的蓝光合在一起，在远处形成一道蓝墙，警告挡在路上的人赶紧躲避即将来临的风暴。根据蝶群的大小，它们能在几个小时内吃光一具腐烂的尸体。"
+ },
+ "e2034fc4f144": {
+  "en": "<strong>Koalin Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>科阿林肉干</strong>：屠夫做的肉干。"
+ },
+ "e3b50c28b9f4": {
+  "en": "<strong>Inspired by:</strong> Megachile pluto.",
+  "t": "<strong>灵感来源：</strong>Megachile pluto。"
+ },
+ "e490decd791b": {
+  "en": "<strong>Habitat:</strong> The lower plains.",
+  "t": "<strong>栖息地：</strong>较低的平原。"
+ },
+ "e6f51af91733": {
+  "en": "<strong>Big Winga Tamed</strong>: A great hunting companion for Aquamarine adventurers, or a pet for richer people. Rare to find and costly to raise, but at least they live long.",
+  "t": "<strong>驯服的大温加</strong>：阿夸马林级冒险者的绝佳狩猎伙伴，或者有钱人的宠物。很难找到，养起来也很贵，但至少它们活得长。"
+ },
+ "e7b99d4e85d6": {
+  "en": "<strong>Tier IV (Nobility Goods):</strong> high-quality hides and furs, especially from rare game.",
+  "t": "<strong>IV 级（贵族货）：</strong>高品质的兽皮和毛皮，尤其是来自稀有猎物的。"
+ },
+ "e93e9b4f10c8": {
+  "en": "With no predators, this worm grew large and specialized in burrowing and eating stone, using an organ that casts Soul Energy through a unique interface. The acids in its stomach mix with the hair-thin nari veins into its shell, which it replaces every few months as it grows. Humans hunt down the shed shells and grind them for all kinds of uses. Killing the worms is prohibited by Forway and Blood law.",
+  "t": "没有天敌，这种蠕虫长得很大，专门钻洞吃石头，靠一个通过独特界面施放灵魂能量的器官。它胃里的酸液和细如发丝的纳里脉混在一起，进入它的外壳，它长大时每隔几个月就会换一次壳。人类四处搜寻蜕下的壳，把它们磨碎做各种用途。福威和布拉德的法律禁止杀死这些蠕虫。"
+ },
+ "ea9a3e5899c3": {
+  "en": "<strong>Wood People Wood</strong>: Very durable, with a dark red color. It gives off a strong, woody musk when soaked.",
+  "t": "<strong>伍德皮普尔木材</strong>：非常耐用，呈深红色。浸湿后会散发出浓郁的木质麝香。"
+ },
+ "eab5a9fab590": {
+  "en": "<strong>Tastes like:</strong> Nutty, smoky and slightly sweet.",
+  "t": "<strong>味道：</strong>坚果味、烟熏味，略带甜味。"
+ },
  "ec6bcc5d14d6": {
   "en": "Shapeshifter",
   "t": "谢普希夫特"
+ },
+ "ecd626be4ed2": {
+  "en": "<strong>Food:</strong> Sunlight.",
+  "t": "<strong>食物：</strong>阳光。"
  },
  "ed7d26b9c119": {
   "en": "Male and female White Roundies: gray seal-like creatures with long whiskers and pale tails, next to Harry.",
@@ -231,16 +943,84 @@
   "en": "Beasts · #HusbandOutWorld",
   "t": "魔兽 · #HusbandOutWorld"
  },
+ "ef54085fbe5f": {
+  "en": "<strong>Habitat:</strong> Mostly west of Blood City.",
+  "t": "<strong>栖息地：</strong>主要在布拉德城以西。"
+ },
+ "ef9a4c4ad2ae": {
+  "en": "<strong>Trunk People Arms</strong>: Used in nari gels.",
+  "t": "<strong>特朗克皮普尔的手臂</strong>：用于纳里凝胶。"
+ },
  "efbe055dc485": {
   "en": "Bruntos are a glimpse of the endless curiosity and tampering mindset of the ancient Buhraies race. Not only content in messing with plants and the land itself, but they were also as far south as Endlessfog, altering the local ecosystem to their will until Lishies wrecked the place up and tried to eat anything that moved in the whole island. That's what historians say, but scientists are still perplexed about how they created an entirely new species out of thin air. Nothing close to Bruntos other than Naked Bruntos also called humans, existed—not even in Newland. Some scientists speculate that this is substantial proof that our physical bodies are interconnected to a soul plane and that other planes of existence are also connected to this shared soul plane—this must be how Buhraies connected flesh to the soul and brought us all here. Other scientists say these scientists need to lay off the Magina and stop getting high at their jobs. Either way, Bruntos makes great companions!",
   "t": "布伦托斯让人得以一窥古老的布莱斯种族那无穷无尽的好奇心和爱折腾的心态。他们不满足于只折腾植物和土地本身，还远至南方的恩德莱斯福格，按自己的意愿改变当地的生态系统，直到利希斯把那地方搞得一团糟，还试图吃掉整个岛上所有会动的东西。历史学家是这么说的，但科学家们仍然困惑于他们是如何凭空创造出一个全新物种的。除了被称为人类的裸布伦托斯之外，没有任何东西接近布伦托斯——就连在纽兰也没有。有些科学家推测，这是一个有力的证据，证明我们的肉体与一个灵魂位面相互连接，而其他存在位面也连接着这个共享的灵魂位面——布莱斯一定就是这样把肉体与灵魂连接起来，把我们所有人带到这里的。另一些科学家则说，这些科学家该少碰点玛吉纳，别在上班的时候嗑嗨了。不管怎样，布伦托斯都是很棒的伙伴！"
+ },
+ "eff5a3fcf2e8": {
+  "en": "<strong>Habitat:</strong> Endlessfog Island, and the Freeish region (some escaped into the wild through trade by boat).",
+  "t": "<strong>栖息地：</strong>恩德莱斯福格岛和弗里伊什地区（有些通过船运贸易逃到了野外）。"
+ },
+ "f07e62e60deb": {
+  "en": "<strong>Intelligence:</strong> Same as Winga.",
+  "t": "<strong>智力：</strong>和温加一样。"
+ },
+ "f142831cbfee": {
+  "en": "<strong>Nari Worm Jerky</strong>: Jerky prepared by a butcher. Not really desirable.",
+  "t": "<strong>纳里沃姆肉干</strong>：屠夫做的肉干。不怎么受欢迎。"
+ },
+ "f2031ad6b2f3": {
+  "en": "<strong>Interface:</strong> Head feathers.",
+  "t": "<strong>界面：</strong>头部的羽毛。"
+ },
+ "f259a7107aee": {
+  "en": "<strong>Other:</strong> Grows ~30 cm.",
+  "t": "<strong>其他：</strong>能长 ~30 厘米。"
+ },
+ "f33b562fab0d": {
+  "en": "<strong>Intelligence:</strong> Comparable to a snake: mostly instinctual, but they respond to certain foods. They communicate through pheromones and sound.",
+  "t": "<strong>智力：</strong>和蛇差不多：大多凭本能，但会对某些食物有反应。它们通过信息素和声音交流。"
  },
  "f37067015083": {
   "en": "Public text: beasts.md",
   "t": "公开文本：beasts.md"
  },
+ "f3e99258087e": {
+  "en": "<strong>Reproduction:</strong> Impossible.",
+  "t": "<strong>繁殖：</strong>不可能。"
+ },
+ "f55b065d3862": {
+  "en": "<strong>Skills:</strong> Transmogrify.",
+  "t": "<strong>技能：</strong>变形。"
+ },
  "f5e978a4f160": {
   "en": "White Roundies are gentle mammals from the far south known as Whiteland, often coming up to the shores of Freeish but sometimes as far as Sanbi during the winter to feast on their heart, given the winter in Whiteland is far colder than the Four Kingdoms' winter. Don't let their cute nature fool you, though! They are incredibly intelligent, with some scientists dedicating their lives to investigating their culture alone. It is commonly accepted that this beast is likely on track to become their own race in the far future, but people disagree on what is the turning point. For some, the fact we can't understand their language is the most significant differentiator from Cruros. Others fight that argument on the grounds that they might be even more intelligent than us, and we don't understand them. Others think this whole back-and-forth is a waste of time and prefer to play catch, rub their bellies to hear the rumbling noise that sounds like a pur they make with their neck sensory tentacles, or straight up make companions out of them. If you're one of these people, there's a whole festival around their arrival in Freeish Kingdom you cannot miss out on.",
   "t": "怀特朗迪斯是来自遥远南方——被称为怀特兰——的温顺哺乳动物，冬天常常来到弗里伊什的海岸，有时甚至远至桑比，来尽情享用它们的心，因为怀特兰的冬天比四王国的冬天冷得多。不过别被它们可爱的天性骗了！它们聪明得令人难以置信，有些科学家毕生只研究它们的文化。人们普遍认为，这种魔兽很可能在遥远的未来成为一个独立的种族，但对于转折点在哪里，人们看法不一。对有些人来说，我们听不懂它们的语言，就是它们与克鲁罗之间最显著的区别。另一些人则反驳这个论点，理由是它们可能比我们还要聪明，只是我们不理解它们。还有一些人认为这种来回争论纯属浪费时间，宁愿和它们玩接球、揉它们的肚子听那种隆隆声——那声音是它们用颈部的感觉触须发出的，听起来像呼噜声——或者干脆和它们做伙伴。如果你是这种人，弗里伊什王国有一整个围绕它们到来的节日，你可千万不能错过。"
+ },
+ "f884107d2275": {
+  "en": "<strong>Habitat:</strong> Seen flying all over the region.",
+  "t": "<strong>栖息地：</strong>在整个地区的上空都能看到它们飞翔。"
+ },
+ "f8c4e153a0b2": {
+  "en": "<strong>Food:</strong> Tree sap.",
+  "t": "<strong>食物：</strong>树液。"
+ },
+ "f93d4d236826": {
+  "en": "<strong>Interface:</strong> Arm branches.",
+  "t": "<strong>界面：</strong>手臂般的树枝。"
+ },
+ "f9f91a66aed1": {
+  "en": "<strong>Reproduction:</strong> Males are much smaller than females, and they do most of the work. Females defend the colony and gather pollen.",
+  "t": "<strong>繁殖：</strong>雄性比雌性小得多，大部分活都是它们干的。雌性负责保卫蜂群和采集花粉。"
+ },
+ "fb99e9739b28": {
+  "en": "<strong>Wood People Sap</strong>: Processed sap, often used in nari gels.",
+  "t": "<strong>伍德皮普尔树液</strong>：加工过的树液，常用于纳里凝胶。"
+ },
+ "fca49bae5a25": {
+  "en": "<strong>Interface:</strong> Teeth.",
+  "t": "<strong>界面：</strong>牙齿。"
+ },
+ "fe57948c79b6": {
+  "en": "<strong>Skills:</strong> The same as Wingas: Sense Lifeforms; Generate Air Shield; Louder-than-usual shriek; strengthening the beak and claws to diamond level, so they cut through anything.",
+  "t": "<strong>技能：</strong>和温加一样：感知生命体；生成空气护盾；比平时更响的尖叫；把喙和爪子强化到钻石级别，什么都能切开。"
  }
 }
