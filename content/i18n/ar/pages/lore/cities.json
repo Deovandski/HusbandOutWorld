@@ -1,7 +1,27 @@
 {
+ "00188f98e9c6": {
+  "en": "<strong>Old Kick in the Ass:</strong> a mix of a bunch of different shit, just to clear out stock. Guaranteed to taste funky, and to kick your ass.",
+  "t": "<strong>الركلة العجوز في المؤخرة:</strong> مزيج من كومة هراء مختلف، لمجرد تصريف المخزون. طعمه غريب مضمون، وسيركل مؤخرتك."
+ },
+ "00484c295d5e": {
+  "en": "<strong>Triangle Fest:</strong> every Moacir, a crowd plays the triangle to the same rhythm around the cathedral, hoping to boost the triangle's power to keep enemies at bay.",
+  "t": "<strong>مهرجان المثلث:</strong> في كل مواسير، يعزف حشد على آلة المثلث بالإيقاع نفسه حول الكاتدرائية، آملين تعزيز قوة المثلث لإبقاء الأعداء بعيدًا."
+ },
+ "00b4bdc0d8d8": {
+  "en": "<strong>Visual references:</strong> houses with a medieval mix of sharp angles, plus a concrete-and-glass look.",
+  "t": "<strong>مراجع بصرية:</strong> بيوت بمزيج قروسطي من الزوايا الحادة، إضافة إلى مظهر من الخرسانة والزجاج."
+ },
+ "00b5ab702520": {
+  "en": "<strong>Clothing:</strong> similar to Sanbi, but made from Crocus leather (the animal, not the Cruros, though some humans have done that too: killing and skinning too-smart-for-their-own-good Cruros who tried to swindle a far more cunning, or angrier, human, and wearing them).",
+  "t": "<strong>الملابس:</strong> شبيهة بسانبي، لكنها مصنوعة من جلد الكروكوس (الحيوان، لا الكرورو، وإن كان بعض البشر قد فعلوا ذلك أيضًا: قتلوا وسلخوا كرورو أذكياء أكثر مما ينفعهم حاولوا خداع إنسان أمكر بكثير، أو أغضب، ثم ارتدوهم)."
+ },
  "0145f741e3be": {
   "en": "<strong>Calm Water Resort Guild (#4):</strong> adventurers who are getting old and have no money left join this guild, spending their retirement at the Calm Water Resort in exchange for helping protect it against threats.",
   "t": "<strong>نقابة منتجع كالم ووتر (#4):</strong> المغامرون الذين يتقدم بهم العمر ولم يبقَ لهم مال ينضمون إلى هذه النقابة، فيقضون تقاعدهم في منتجع كالم ووتر مقابل المساعدة في حمايته من التهديدات."
+ },
+ "020871e3965d": {
+  "en": "<strong>Education:</strong> none; those who want a proper education go to Tolerideme.",
+  "t": "<strong>التعليم:</strong> لا شيء؛ من يريدون تعليمًا لائقًا يذهبون إلى توليريديمي."
  },
  "023fe97a0a48": {
   "en": "Mostly humans, with a handful of Darfaries, a few Wozefaries and tons of Sorefaries, plus a handful of adventurers with Bruntos or Sorefaries.",
@@ -11,9 +31,21 @@
   "en": "<strong>Local embassy quests:</strong> embassy checking and verification.",
   "t": "<strong>مهام السفارة المحلية:</strong> فحص السفارة والتحقق."
  },
+ "03b9ab7c0978": {
+  "en": "<strong>Crime and law:</strong> similar to Forway Law, but with the presumption of guilt until proven innocent. Many people avoid the city because of this law, and how easily locals abuse it over trivial matters.",
+  "t": "<strong>الجريمة والقانون:</strong> شبيهة بقانون فورواي، لكن مع افتراض الإدانة حتى تثبت البراءة. يتجنب كثيرون المدينة بسبب هذا القانون، وسهولة إساءة السكان المحليين استخدامه في أمور تافهة."
+ },
+ "05d6b2b74b9e": {
+  "en": "<strong>Waterfall Grand Race:</strong> every summer, a race to see who reaches Sanbi fastest after jumping off the docks at the foot of the waterfall and swimming downstream. Soul Energy of any kind and intensity is allowed, and so is any clothing; you can't harm others, and your body is yours to enhance as you like. The record holder is a female Darfaries, at 13.5 hours.",
+  "t": "<strong>سباق ووترفول الكبير:</strong> في كل صيف، سباق لمعرفة من يصل إلى سانبي أسرع بعد القفز من الأرصفة عند سفح الشلال والسباحة مع التيار. يُسمح بطاقة الروح بأي نوع وشدة، وبأي ملابس؛ لا يجوز لك إيذاء الآخرين، وجسدك ملكك تعززه كما تشاء. حاملة الرقم القياسي دارفاريس أنثى، بـ13.5 ساعة."
+ },
  "068ba6951d50": {
   "en": "Cadioca",
   "t": "كاديوكا"
+ },
+ "06f37f31e0e1": {
+  "en": "<strong>Black Gold Trading (#2):</strong> on its way to becoming one of the biggest trading companies. The people behind this corporate office are freaking geniuses.",
+  "t": "<strong>بلاك غولد تريدينغ (#2):</strong> في طريقها لتصبح من أكبر الشركات التجارية. الناس وراء هذا المكتب التجاري عباقرة بحق."
  },
  "076d86a5f35b": {
   "en": "Tastyleaf",
@@ -23,13 +55,33 @@
   "en": "<strong>Economy:</strong> exports Lonllows all year long; the five guilds' cooperation keeps a constant supply flowing through the kingdoms.",
   "t": "<strong>الاقتصاد:</strong> تصدّر اللونلو طوال العام؛ تعاون النقابات الخمس يبقي إمدادًا ثابتًا يتدفق عبر الممالك."
  },
+ "08be3570b4c5": {
+  "en": "<strong>Food Paste:</strong> Ganyrami invented food pastes and still makes the best. They come in all kinds of flavors and let people travel long distances on the cheap, especially with a large batch for the road. Some bandits use them to avoid certain places, or to scout new spots to hit.",
+  "t": "<strong>عجينة الطعام:</strong> اخترعت غانيرامي عجائن الطعام وما زالت تصنع أفضلها. تأتي بكل أنواع النكهات وتتيح للناس السفر مسافات طويلة بثمن زهيد، خاصة مع دفعة كبيرة للطريق. يستخدمها بعض اللصوص لتجنب أماكن معينة، أو لاستطلاع مواقع جديدة للإغارة عليها."
+ },
+ "0b87903a4168": {
+  "en": "<strong>Marriage:</strong> a man and a woman can marry with the pharaoh's approval; richer couples create a guild.",
+  "t": "<strong>الزواج:</strong> يمكن لرجل وامرأة أن يتزوجا بموافقة الفرعون؛ والأزواج الأثرى يُنشئون نقابة."
+ },
  "0b9e98ac54d6": {
   "en": "<strong>Education:</strong> follows Forway.",
   "t": "<strong>التعليم:</strong> يتبع فورواي."
  },
+ "0bf7bc6fbb6a": {
+  "en": "<strong>Black Mead:</strong> mead made from Black Honey.",
+  "t": "<strong>بلاك ميد:</strong> شراب ميد مصنوع من العسل الأسود."
+ },
+ "0c7ef40c21bb": {
+  "en": "Mostly humans, plus a significant number of Wozefaries, from back when they were slaves. People worship the tree for its natural protection against the beasts. Similar to Sanbi, but warier of strangers; they constantly argue over the tree's grounds, but will act if anyone dares to harm it.",
+  "t": "بشر في الغالب، إضافة إلى عدد معتبر من الووزيفاريس، من أيام كانوا عبيدًا. يعبد الناس الشجرة لحمايتها الطبيعية من الوحوش. تشبه سانبي، لكنهم أكثر حذرًا من الغرباء؛ يتجادلون باستمرار حول أراضي الشجرة، لكنهم سيتحركون إن تجرأ أحد على إيذائها."
+ },
  "0cdeb9641aef": {
   "en": "<strong>Clothing:</strong> warm-weather hunting clothes.",
   "t": "<strong>الملابس:</strong> ملابس صيد للطقس الدافئ."
+ },
+ "0d7e46628d90": {
+  "en": "A triangle on the forehead marks the three royal guilds, which control everything on the island.",
+  "t": "مثلث على الجبهة يميّز النقابات الملكية الثلاث، التي تتحكم في كل شيء على الجزيرة."
  },
  "0e5922e6bdae": {
   "en": "Other races rarely visit, out of fear of the Cruros, who act on instinct.",
@@ -39,13 +91,37 @@
   "en": "<strong>Asa, Paulin, Moacir and Adrian Lonllow Harvest (#2 to #5):</strong> each guild coordinates the harvest in its own month of the year.",
   "t": "<strong>حصاد لونلو آسا وباولين ومواسير وأدريان (#2 إلى #5):</strong> تنسق كل نقابة الحصاد في شهرها من السنة."
  },
+ "0e8875a51f44": {
+  "en": "When humans fled the Lishies' hungry mouths, they came across land where natural rocks formed triangles. They began building in triangular shapes, and since the triangle is such a strong natural structure, the buildings survived the harsh storms from the sea. Certain people took the idea and created a community to make sure everyone followed the triangle way of doing things. When tons of people fled to the city during the Greed Period, the community forced \"The Triangle Way\" on everyone: it calmed and organized the people, while letting three guilds control essentially everything. They control everyone so tightly that even people's poop schedules are synced: there are bathrooms everywhere, and everyone goes at the same time.",
+  "t": "حين فرّ البشر من أفواه الليشيس الجائعة، صادفوا أرضًا شكّلت فيها الصخور الطبيعية مثلثات. بدؤوا يبنون بأشكال مثلثة، ولأن المثلث بنية طبيعية قوية جدًا، صمدت المباني أمام العواصف القاسية القادمة من البحر. أخذ أناس معينون الفكرة وأنشؤوا مجتمعًا ليتأكدوا أن الجميع يتبع الطريقة المثلثة في فعل الأشياء. وحين فرّت أطنان من الناس إلى المدينة خلال فترة الجشع، فرض المجتمع «طريق المثلث» على الجميع: هدّأ الناس ونظّمهم، بينما ترك ثلاث نقابات تتحكم في كل شيء تقريبًا. يتحكمون في الجميع بإحكام لدرجة أن حتى مواعيد تغوط الناس متزامنة: هناك حمامات في كل مكان، والجميع يذهب في الوقت نفسه."
+ },
  "0f398def6755": {
   "en": "Two villages across the lake offer transport, and the constant flow of people through them gave the city its economic lifeline. They see themselves as villages of the Freeish Kingdom, but Forway made them a city of their own to shrink the kingdom; through backdoor negotiations, they stay part of the Freeish Kingdom anyway.",
   "t": "قريتان عبر البحيرة توفران النقل، وتدفّق الناس المستمر عبرهما منح المدينة شريان حياتها الاقتصادي. يرون أنفسهم قرى من مملكة فريئيش، لكن فورواي جعلتهم مدينة مستقلة لتقليص المملكة؛ ومن خلال مفاوضات خلف الكواليس، يبقون جزءًا من مملكة فريئيش على أي حال."
  },
+ "10c605835f2c": {
+  "en": "A royal family line commands everything. The pharaoh's word is absolute; pharaohs wear a gold crown with jewels, and the one in command decides who becomes the next pharaoh when they grow too old.",
+  "t": "سلالة ملكية تتحكم في كل شيء. كلمة الفرعون مطلقة؛ يرتدي الفراعنة تاجًا ذهبيًا مرصعًا بالجواهر، ومن يحكم يقرر من يصبح الفرعون التالي حين يكبر في السن أكثر من اللازم."
+ },
  "135aa68327b2": {
   "en": "<strong>Clothing:</strong> a gap between rich and poor, mixing styles from every other kingdom.",
   "t": "<strong>الملابس:</strong> فجوة بين الأغنياء والفقراء، تمزج طرز كل الممالك الأخرى."
+ },
+ "1458e81e71d2": {
+  "en": "<strong>Marriage:</strong> they teach a Winga to say \"X, would you marry me?\"",
+  "t": "<strong>الزواج:</strong> يعلّمون وينغا أن تقول «X، هل تتزوجني؟»"
+ },
+ "15258b405ab2": {
+  "en": "<strong>Local embassy quests:</strong> discovery and infiltration quests to find bandits, given only to adventurers they trust a whole lot.",
+  "t": "<strong>مهام السفارة المحلية:</strong> مهام اكتشاف وتسلل للعثور على اللصوص، لا تُعطى إلا لمغامرين يثقون بهم ثقة كبيرة جدًا."
+ },
+ "165402a0a6a0": {
+  "en": "The largest mining town, built among the ruins of Old Fuhrair. Some leftover buildings remain, and Fuhraies traps can still be uncovered.",
+  "t": "أكبر بلدة تعدين، بُنيت بين أطلال أولد فورير. بقيت بعض المباني، وما زال يمكن كشف فخاخ الفورايس."
+ },
+ "165a67fbab32": {
+  "en": "<strong>Marriage:</strong> like the Tolerideme Kingdom; declaring your love during an elevator descent is rather common.",
+  "t": "<strong>الزواج:</strong> مثل مملكة توليريديمي؛ والتصريح بالحب أثناء نزول المصعد شائع نوعًا ما."
  },
  "17f112e14a68": {
   "en": "<strong>Names:</strong> like the Gandew Kingdom and Forway.",
@@ -59,6 +135,18 @@
   "en": "<strong>Broken Knuckle:</strong> the tavern where Honati worked.",
   "t": "<strong>بروكن ناكل:</strong> الحانة التي عملت فيها هوناتي."
  },
+ "1aab7a1b1159": {
+  "en": "<strong>Halfway Inn (#5):</strong> a cheap inn and restaurant with a couples' discount for taking the stairs together.",
+  "t": "<strong>نُزل منتصف الطريق (#5):</strong> نُزل ومطعم رخيص مع خصم للأزواج لصعود الدرج معًا."
+ },
+ "1bde74afd9fd": {
+  "en": "<strong>Education:</strong> barely any.",
+  "t": "<strong>التعليم:</strong> تكاد تكون معدومة."
+ },
+ "1d2c4af3e84c": {
+  "en": "<strong>Threats:</strong> the desert, and Forway deciding to take over completely.",
+  "t": "<strong>التهديدات:</strong> الصحراء، وقرار فورواي بالاستيلاء الكامل."
+ },
  "1f2ead0d49db": {
   "en": "City (World Lore illustration)",
   "t": "المدينة (رسم توضيحي من عالم القصة)"
@@ -67,17 +155,53 @@
   "en": "According to the smartest Cruros, quite a few tribes divide the territory:",
   "t": "بحسب أذكى الكرورو، تتقاسم قبائل كثيرة نوعًا ما الأرض:"
  },
+ "20ed36cc79b7": {
+  "en": "<strong>Festivals:</strong> none. The culture is too uncoordinated for anything that brings everyone together.",
+  "t": "<strong>المهرجانات:</strong> لا شيء. الثقافة أقل تنسيقًا من أن تقيم أي شيء يجمع الجميع."
+ },
  "220ddf150e26": {
   "en": "<strong>Marriage:</strong> mixed. Some marry by their own customs, going to the palace to speak with their kingdom or city representative. A growing trend is contract marriage between money-hungry people.",
   "t": "<strong>الزواج:</strong> مختلط. يتزوج بعضهم بعاداتهم، ذاهبين إلى القصر للتحدث مع ممثل مملكتهم أو مدينتهم. والاتجاه المتنامي هو زواج العقود بين الطامعين في المال."
+ },
+ "24504900d644": {
+  "en": "<strong>Education:</strong> like Forway.",
+  "t": "<strong>التعليم:</strong> مثل فورواي."
  },
  "24652e28b940": {
   "en": "Blood",
   "t": "بلاد"
  },
+ "248b50d50631": {
+  "en": "<strong>Local embassy quests:</strong> exploring the west and the desert.",
+  "t": "<strong>مهام السفارة المحلية:</strong> استكشاف الغرب والصحراء."
+ },
+ "26e56d809f79": {
+  "en": "<strong>Visual references:</strong> like the Sanbi Kingdom, but smaller.",
+  "t": "<strong>مراجع بصرية:</strong> مثل مملكة سانبي، لكن أصغر."
+ },
+ "27bbd2aa3731": {
+  "en": "<strong>Economy:</strong> mining.",
+  "t": "<strong>الاقتصاد:</strong> التعدين."
+ },
+ "290979e4143a": {
+  "en": "<strong>Clothing:</strong> similar to Tolerideme.",
+  "t": "<strong>الملابس:</strong> شبيهة بتوليريديمي."
+ },
+ "29d59967fcaa": {
+  "en": "<strong>Names:</strong> like the Tolerideme and Sanbi Kingdoms.",
+  "t": "<strong>الأسماء:</strong> مثل مملكتي توليريديمي وسانبي."
+ },
+ "2a1dcf6425bb": {
+  "en": "<strong>Bloody Honey:</strong> one of the largest honey-gathering guilds in the region.",
+  "t": "<strong>بلودي هوني:</strong> من أكبر نقابات جمع العسل في المنطقة."
+ },
  "2aa2f5bb5a66": {
   "en": "Rich fauna and flora drew hunters (back before adventurers were a thing) to spend most of their lives around here. A single fire pit and a nearby hut slowly grew into a cluster of stone fireplaces with a city around them. The fire pits are constantly fed carcasses and other unusable garbage to smelt iron and other minerals and for blacksmithing, and since the city grew out of community spirit, they're public and publicly maintained.",
   "t": "الحيوانات والنباتات الغنية جذبت الصيادين (قبل أن يوجد المغامرون) ليقضوا معظم حياتهم هنا. نمت حفرة نار واحدة وكوخ قريب ببطء إلى مجموعة من المواقد الحجرية حولها مدينة. تُغذّى حفر النار باستمرار بالجيف والقمامة الأخرى غير الصالحة للاستخدام لصهر الحديد والمعادن الأخرى وللحدادة، ولأن المدينة نمت من روح الجماعة، فهي عامة ويُعتنى بها بشكل عام."
+ },
+ "2bdfdaefc599": {
+  "en": "<strong>Marriage, names and burial:</strong> mixed, leaning toward Gandew's ways.",
+  "t": "<strong>الزواج والأسماء والدفن:</strong> مختلطة، تميل إلى طرق غانديو."
  },
  "2c16e9a223de": {
   "en": "<strong>Threats:</strong> the occasional drunk, pervert or bandit, or all three in one person; and adventurers investigating something a Flatland guild didn't hide well enough.",
@@ -86,6 +210,18 @@
  "2ca032c0016d": {
   "en": "<strong>Marriage:</strong> made official by the village leader. Then the couple (who must buy or build a house first) goes to the House of Bruntos to bond with one and bring it home.",
   "t": "<strong>الزواج:</strong> يجعله رسميًا زعيم القرية. ثم يذهب الزوجان (اللذان يجب أن يشتريا بيتًا أو يبنياه أولًا) إلى بيت البرونتوس ليرتبطا بواحد ويأخذاه إلى البيت."
+ },
+ "2fbb374b68bd": {
+  "en": "Statues of the land's beasts and fauna stand around, with eyes of pure Fost stone and bodies of mud. The Sayna is one of the most powerful humanoids. Most people wear simple, plain clothing, and richer people wear gold accessories. They're shy by nature, especially with foreigners, very clean, and drenched in perfume. Pharaohs can only marry their brothers or sisters. Boots and sandals are left outside the home.",
+  "t": "تنتصب تماثيل وحوش الأرض وحيواناتها في الأرجاء، بعيون من حجر فوست الخالص وأجساد من الطين. الساينا من أقوى أشباه البشر. يرتدي معظم الناس ملابس بسيطة عادية، ويرتدي الأثرياء إكسسوارات ذهبية. خجولون بطبعهم، خاصة مع الأجانب، نظيفون جدًا، ومغمورون بالعطر. لا يستطيع الفراعنة الزواج إلا من إخوتهم أو أخواتهم. تُترك الأحذية والصنادل خارج البيت."
+ },
+ "305e211fa391": {
+  "en": "<strong>Clothing:</strong> simple things, for the dense, muggy forest.",
+  "t": "<strong>الملابس:</strong> أشياء بسيطة، للغابة الكثيفة الرطبة الخانقة."
+ },
+ "30d57c960344": {
+  "en": "<strong>Crime and law:</strong> Forway Law, but people tend to sort things out themselves, since Forway guards rarely come by.",
+  "t": "<strong>الجريمة والقانون:</strong> قانون فورواي، لكن الناس يميلون إلى تسوية الأمور بأنفسهم، لأن حراس فورواي نادرًا ما يمرون."
  },
  "3139dba5b647": {
   "en": "<strong>Names:</strong> mixed.",
@@ -103,9 +239,17 @@
   "en": "<strong>Names:</strong> they don't have names. The highly intelligent ones get one from the Sanbi or Tastyleaf embassy, through the Half-Cruro guild.",
   "t": "<strong>الأسماء:</strong> ليست لهم أسماء. يحصل الأذكياء جدًا منهم على اسم من سفارة سانبي أو تيستي ليف، عبر نقابة هاف كرورو."
  },
+ "358ad909843a": {
+  "en": "<strong>Marriage:</strong> in the Triangle Cathedral, with both people's guilds present.",
+  "t": "<strong>الزواج:</strong> في كاتدرائية المثلث، بحضور نقابتي الطرفين."
+ },
  "35b259290ec3": {
   "en": "Food",
   "t": "الطعام"
+ },
+ "371267194be7": {
+  "en": "<strong>Elevators:</strong> guided up and down by cables along the side of the wooden structure. They move at about 10 km/h (about 12 minutes up or down, with speeding up and slowing down). Maximum load: 5,120 kg. 20 Pearls a person (double if really fat, or a Darfaries; Sorefaries ride free), or 1 Pearl per 3 kg of cargo. Locks at the top and bottom keep the elevator from floating away when it has no cargo.",
+  "t": "<strong>المصاعد:</strong> تُوجَّه صعودًا ونزولًا بكابلات على جانب الهيكل الخشبي. تتحرك بنحو 10 كم/س (نحو 12 دقيقة صعودًا أو نزولًا، مع التسارع والتباطؤ). أقصى حمولة: ⁦5,120⁩ كغ. 20 بيرل للشخص (الضعف إن كان بدينًا جدًا، أو دارفاريس؛ والسوريفاريس يركبون مجانًا)، أو 1 بيرل لكل 3 كغ من البضائع. أقفال في الأعلى والأسفل تمنع المصعد من أن يطفو بعيدًا حين لا يحمل بضائع."
  },
  "37f55ee4a86e": {
   "en": "Forway Guards: a guard in white-and-gray hooded armor, next to a map section around Forway city.",
@@ -123,6 +267,10 @@
   "en": "<strong>Crime and law:</strong> like the Sanbi Kingdom.",
   "t": "<strong>الجريمة والقانون:</strong> مثل مملكة سانبي."
  },
+ "3d5ef9931f9c": {
+  "en": "<strong>Burial:</strong> cremated with Wood People wood.",
+  "t": "<strong>الدفن:</strong> يُحرقون بخشب الوود بيبول."
+ },
  "3e940f401b10": {
   "en": "<strong>Egua Uniform Contest:</strong> every Asa and Adrian, a contest to design new uniforms for the eguas; they must be waterproof and suit the weather. The winner's name goes on a board displayed at the crossing buildings.",
   "t": "<strong>مسابقة زي الإيغوا:</strong> في كل آسا وأدريان، مسابقة لتصميم أزياء جديدة للإيغوا؛ يجب أن تكون مقاومة للماء وملائمة للطقس. يُكتب اسم الفائز على لوحة معروضة في مباني العبور."
@@ -130,6 +278,14 @@
  "3eb7936bcef6": {
   "en": "<strong>Clothing:</strong> closer to the Freeish Kingdom, mixed with Forway.",
   "t": "<strong>الملابس:</strong> أقرب إلى مملكة فريئيش، ممزوجة بفورواي."
+ },
+ "3fe4c2957ba2": {
+  "en": "<strong>Threats:</strong> the bandits taking over if the symbiosis breaks, or if they leech too much; Forway deciding to take firm action.",
+  "t": "<strong>التهديدات:</strong> استيلاء اللصوص إن انكسر التعايش، أو إن امتصوا أكثر من اللازم؛ وقرار فورواي باتخاذ إجراء حازم."
+ },
+ "40848991389a": {
+  "en": "<strong>Burial:</strong> mostly thrown into the sea, some cremation. Some adventurers' bodies are sent back to where they came from.",
+  "t": "<strong>الدفن:</strong> في الغالب تُلقى في البحر، وبعضها يُحرق. تُعاد جثث بعض المغامرين إلى حيث جاؤوا."
  },
  "40e5eb2ae546": {
   "en": "<strong>Second Life:</strong> every Moacir, a festival across the whole town celebrating every Wozefaries and Sorefaries who has landed since the last one.",
@@ -139,13 +295,37 @@
   "en": "<strong>#2:</strong> rather peaceful.",
   "t": "<strong>#2:</strong> مسالمة نوعًا ما."
  },
+ "41ae9feb9bf9": {
+  "en": "<strong>Burial:</strong> mummies placed at great depths, for people who are worthy, or who paid large sums. Anyone with a shady or dark past is most likely thrown out into the desert, so they don't taint the others' \"after-living\" space.",
+  "t": "<strong>الدفن:</strong> مومياوات توضع في أعماق كبيرة، لمن يستحقون، أو لمن دفعوا مبالغ طائلة. وكل من له ماضٍ مشبوه أو مظلم يُلقى على الأرجح في الصحراء، كي لا يلوّث فضاء «ما بعد الحياة» للآخرين."
+ },
+ "41fa99625841": {
+  "en": "<strong>End Lake (a.k.a. the Shitter):</strong> a man-made lake south of the city center where Forway's sewage is dumped, since there's too much to handle with Soul Energy alone.",
+  "t": "<strong>إند ليك (المعروفة أيضًا بالمرحاض):</strong> بحيرة من صنع الإنسان جنوب مركز المدينة تُلقى فيها مجاري فورواي، لأنها أكثر من أن تُعالج بطاقة الروح وحدها."
+ },
+ "4410418c5bee": {
+  "en": "Mostly humans, some Darfaries, and some adventurers who settled here for Winga hunting. No real beliefs, just respect for their food source. They have Tolerideme's laziness: everything is chill and calm, and everyone is sleepy all the time, without a care in the world. It feels like a dreamy little town lost in time, a remote corner at the end of the road, a long ride from anywhere, where the days drift by, people linger at the market, and nobody hurries for anything.",
+  "t": "بشر في الغالب، وبعض الدارفاريس، وبعض المغامرين الذين استقروا هنا لصيد الوينغا. لا معتقدات حقيقية، مجرد احترام لمصدر طعامهم. لديهم كسل توليريديمي: كل شيء هادئ ومسترخٍ، والجميع نعسان طوال الوقت، بلا هم في الدنيا. تبدو كبلدة صغيرة حالمة تاهت في الزمن، ركن قصي في نهاية الطريق، على مسافة طويلة من أي مكان، حيث تنساب الأيام، ويتمهل الناس في السوق، ولا أحد يستعجل شيئًا."
+ },
  "44f9fb0aa7cd": {
   "en": "<strong>The Floating Egua Hotel (#2):</strong> one of the oldest hotels, with entertainment for all tastes.",
   "t": "<strong>فندق الإيغوا العائمة (#2):</strong> من أقدم الفنادق، فيه تسلية لكل الأذواق."
  },
+ "455c3c95a6b7": {
+  "en": "<strong>Education:</strong> Forway provides basic education free to citizens who sign a contract to stay on Tastyleaf for the rest of their lives, to give the tree some protection, at least until someone figures out how to clone it.",
+  "t": "<strong>التعليم:</strong> تقدّم فورواي التعليم الأساسي مجانًا للمواطنين الذين يوقعون عقدًا بالبقاء في تيستي ليف بقية حياتهم، لمنح الشجرة بعض الحماية، على الأقل حتى يكتشف أحد كيف يستنسخها."
+ },
  "463e87409dfc": {
   "en": "<strong>Economy:</strong> vellum from animal skin; butchers working game, bone and skin; bone armor and swords; bone meal and items such as totems; Black Mead; nari.",
   "t": "<strong>الاقتصاد:</strong> الرَّق من جلد الحيوان؛ جزارون يعملون في الطرائد والعظم والجلد؛ دروع وسيوف من العظم؛ مسحوق العظم وأغراض مثل الطواطم؛ بلاك ميد؛ ناري."
+ },
+ "46ffea411313": {
+  "en": "<strong>Cliff Walk (10,764 steps):</strong> carved into the stone long ago by former Sanbi Kingdom citizens; each step is 20 cm. With the great elevators built, it's now mostly used as a punishment, or by people who want to avoid the elevators, for money, law or weight-loss reasons (and who prefer not to die, or suffer by other means).",
+  "t": "<strong>ممشى الجرف (⁦10,764⁩ درجة):</strong> نُحت في الحجر منذ زمن بعيد على يد مواطنين سابقين من مملكة سانبي؛ ارتفاع كل درجة 20 سم. ومع بناء المصاعد الكبرى، صار يُستخدم الآن في الغالب عقوبةً، أو لمن يريدون تجنب المصاعد، لأسباب مالية أو قانونية أو لإنقاص الوزن (ويفضّلون ألا يموتوا، أو يتعذبوا بطرق أخرى)."
+ },
+ "47728d911f79": {
+  "en": "<strong>Economy:</strong> some local goods from the forest, plus an unnatural boom (likely from all the stolen shit): you can find all kinds of things, from all kinds of places.",
+  "t": "<strong>الاقتصاد:</strong> بعض السلع المحلية من الغابة، إضافة إلى ازدهار غير طبيعي (على الأرجح من كل الهراء المسروق): يمكنك أن تجد كل أنواع الأشياء، من كل أنواع الأماكن."
  },
  "47d32a030409": {
   "en": "Points of interest: the Cruro tribes",
@@ -154,6 +334,22 @@
  "481dca803873": {
   "en": "<strong>Local embassy quests:</strong> nothing extra.",
   "t": "<strong>مهام السفارة المحلية:</strong> لا شيء إضافي."
+ },
+ "4974fc1b2695": {
+  "en": "<strong>East Ground (#1), South Ground (#2), West Ground (#3) and North Ground (#4):</strong> each controls the leaves that fall on its side of the tree.",
+  "t": "<strong>إيست غراوند (#1) وساوث غراوند (#2) وويست غراوند (#3) ونورث غراوند (#4):</strong> تتحكم كل منها في الأوراق التي تسقط على جانبها من الشجرة."
+ },
+ "4bac92960c37": {
+  "en": "Similar to Blood, but with more adventurers living around here as they seek out new lands. <strong>Threats:</strong> beasts, and disorganization from within.",
+  "t": "تشبه بلاد، لكن يعيش حولها مغامرون أكثر وهم يبحثون عن أراضٍ جديدة. <strong>التهديدات:</strong> الوحوش، والفوضى من الداخل."
+ },
+ "4c4f75d2ead3": {
+  "en": "<strong>Longing for Sun Hotel (#3):</strong> one of the cheapest hotels around: no windows, just a rough painting of the sun where the windows used to be.",
+  "t": "<strong>فندق الحنين إلى الشمس (#3):</strong> من أرخص الفنادق على الإطلاق: بلا نوافذ، فقط رسم خشن للشمس حيث كانت النوافذ."
+ },
+ "4c6e94b4bb23": {
+  "en": "<strong>WhiteLeaf Hotel/Tavern (#6):</strong> one of the area's first hotels. It expanded, added a tavern, and set itself apart with Wozefaries and humans dancing around wearing nothing but preserved white leaves.",
+  "t": "<strong>فندق/حانة وايت ليف (#6):</strong> من أوائل فنادق المنطقة. توسّع، وأضاف حانة، وتميّز بووزيفاريس وبشر يرقصون في الأرجاء لا يرتدون إلا أوراقًا بيضاء محفوظة."
  },
  "4c896db0ae12": {
   "en": "<strong>Names:</strong> like the Sanbi Kingdom.",
@@ -167,9 +363,21 @@
   "en": "Forway Guards",
   "t": "حرّاس فورواي"
  },
+ "4daf4c517611": {
+  "en": "<strong>Marriage:</strong> like Sanbi, but with a heart made of perfect leaves.",
+  "t": "<strong>الزواج:</strong> مثل سانبي، لكن بقلب مصنوع من أوراق مثالية."
+ },
+ "4de3e2a24a5d": {
+  "en": "<strong>The Wood People Picker (#1):</strong> Yosuke Forway's restaurant, outside the gates.",
+  "t": "<strong>وود بيبول بيكر (#1):</strong> مطعم يوسكي فورواي، خارج البوابات."
+ },
  "4ea20ea71e1d": {
   "en": "<strong>Lonllow Breadcake:</strong> a delicious, not-too-sweet breadcake, common on Endlessfog. About 9 Pearls for a loaf the size of two fists.",
   "t": "<strong>كعكة خبز اللونلو:</strong> كعكة خبز لذيذة غير حلوة جدًا، شائعة في إندلس فوغ. نحو 9 بيرل لرغيف بحجم قبضتين."
+ },
+ "4eac00b5b307": {
+  "en": "<strong>Education:</strong> none to speak of, since the jobs are basically mining stuff out of the ground.",
+  "t": "<strong>التعليم:</strong> لا شيء يُذكر، لأن الأعمال في الأساس استخراج الأشياء من الأرض."
  },
  "4f383ae666f2": {
   "en": "Mostly Bruntos, with humans coordinating with them. People are often paler than usual, from less sun. They're nature-minded: at some point they even started burying people in the land and planting banana trees on top. Colder to foreigners, and outright violent with anyone who harms them or the Bruntos.",
@@ -179,13 +387,33 @@
   "en": "Society and culture",
   "t": "المجتمع والثقافة"
  },
+ "509462978535": {
+  "en": "<strong>Crime and law:</strong> follows Forway Law, but with no embassy, people sort things out among themselves, since guards rarely come by.",
+  "t": "<strong>الجريمة والقانون:</strong> يتبع قانون فورواي، لكن مع غياب السفارة، يسوّي الناس الأمور بينهم، لأن الحراس نادرًا ما يمرون."
+ },
  "50948c24ec90": {
   "en": "<strong>Burial:</strong> bodies are often buried in the desert; Wozefaries and Sorefaries grew used to being buried at the same spot where they landed.",
   "t": "<strong>الدفن:</strong> كثيرًا ما تُدفن الجثث في الصحراء؛ وقد اعتاد الووزيفاريس والسوريفاريس أن يُدفنوا في البقعة نفسها التي هبطوا فيها."
  },
+ "50ac76c68e55": {
+  "en": "<strong>Festivals:</strong> the Drunken Sweet Sting Festival (see Blood).",
+  "t": "<strong>المهرجانات:</strong> مهرجان السويت ستينغ السكران (انظر بلاد)."
+ },
+ "50e741a5b183": {
+  "en": "Somewhat detached from everyone. The Freeish leaders have some shady dealings with people here, so they're left alone, and Forway is finding it hard to intervene.",
+  "t": "منفصلة عن الجميع نوعًا ما. لقادة فريئيش تعاملات مشبوهة مع أناس هنا، فيُتركون وشأنهم، وتجد فورواي صعوبة في التدخل."
+ },
  "51112a2e7385": {
   "en": "Forway Guards trust their crossbows with their lives. Their shiny armor and respectable funding from Forway make them rather visible and somewhat slow, but they always travel in groups, so picking a fight with them is not advised. That is unless you know how to exploit their superiority complex, which is a common trait amongst these guards. Just make them think they have the upper hand, then attack them with a surprise counterattack at the last second to make them bleed out. Some have successfully baited them into a trap as well, but that ain’t as easy when they have a Sorefaries or another companion watching their surroundings. Either way, once you start battling them, be wary of their revival capabilities if you don’t take away their hearty and expensive supply of black honey often stored in their leg pockets.",
   "t": "يأتمن حرّاس فورواي أقواسهم ونشابهم على حياتهم. دروعهم اللامعة وتمويل فورواي المحترم يجعلانهم ظاهرين للعيان وبطيئين بعض الشيء، لكنهم يتنقلون دائمًا في مجموعات، فلا يُنصح بالاشتباك معهم. إلا إن كنت تعرف كيف تستغل عقدة تفوقهم، وهي سمة شائعة بين هؤلاء الحراس. فقط اجعلهم يظنون أن لهم اليد العليا، ثم باغتهم بهجوم مضاد في اللحظة الأخيرة لتجعلهم ينزفون حتى الموت. نجح البعض أيضًا في استدراجهم إلى فخ، لكن ذلك ليس سهلًا حين يكون معهم سوريفاريس أو رفيق آخر يراقب محيطهم. على أي حال، ما إن تبدأ قتالهم، فاحذر قدرتهم على الإحياء إن لم تنتزع مخزونهم الوفير الباهظ من العسل الأسود الذي يُحفظ غالبًا في جيوب سيقانهم."
+ },
+ "51909187b26a": {
+  "en": "<strong>Festivals:</strong> none. People are too lazy to do anything.",
+  "t": "<strong>المهرجانات:</strong> لا شيء. الناس أكسل من أن يفعلوا أي شيء."
+ },
+ "521ec808954b": {
+  "en": "<strong>Quick Cake:</strong> a Tenderthrough and Lonllow cake that tastes amazing, but passes through you incredibly fast. About 5 Pearls for a big slice.",
+  "t": "<strong>الكعكة السريعة:</strong> كعكة من التندرثرو واللونلو طعمها مذهل، لكنها تمر عبرك بسرعة لا تُصدق. نحو 5 بيرل لشريحة كبيرة."
  },
  "5333ec4aed89": {
   "en": "<strong>Forway and You:</strong> the biggest journal, issued weekly on Freeday, with news, fashion and more.",
@@ -195,6 +423,14 @@
   "en": "<strong>Crossing Buildings (#1):</strong> large buildings where eguas and their carriages board a bigger boat, pulled by six eguas. Because of the water, the boat pulls about 10 tons: 15 full wagons per crossing, back and forth. 15 Pearls per wagon per crossing, 2 Pearls per person. The eguas pulling the boat are all dressed in uniform, a tradition from the village's early days.",
   "t": "<strong>مباني العبور (#1):</strong> مبانٍ كبيرة تصعد فيها الإيغوا وعرباتها إلى قارب أكبر، تجره ست إيغوا. وبسبب الماء، يجر القارب نحو 10 أطنان: 15 عربة ممتلئة في كل عبور، ذهابًا وإيابًا. 15 بيرل لكل عربة في كل عبور، و2 بيرل للشخص. الإيغوا التي تجر القارب كلها ترتدي زيًا موحدًا، تقليد من أيام القرية الأولى."
  },
+ "54179e2aba09": {
+  "en": "<strong>Buna's Fishery:</strong> an old place that somehow has never been robbed, likely because its owners have deep connections to shady stuff, with hints (past rumors) of what they did to people who tried.",
+  "t": "<strong>مصيد بونا:</strong> مكان قديم لم يُسرق قط بطريقة ما، على الأرجح لأن ملاكه لهم صلات عميقة بالأمور المشبوهة، مع تلميحات (شائعات قديمة) عما فعلوه بمن حاولوا."
+ },
+ "543df8b2dba8": {
+  "en": "<strong>White Roundies Arrival:</strong> every winter the White Roundies arrive, and people elsewhere party with them, since they behave like dogs but are the size of a human, and try to trade them food for things they find in the deep sea: sometimes gold, sometimes a half-eaten fish. Triangle citizens tend to keep them at a distance.",
+  "t": "<strong>وصول الوايت راونديز:</strong> في كل شتاء يصل الوايت راونديز، ويحتفل الناس في أماكن أخرى معهم، لأنهم يتصرفون كالكلاب لكن بحجم الإنسان، ويحاولون مقايضتهم بالطعام مقابل أشياء يجدونها في أعماق البحر: أحيانًا ذهب، وأحيانًا سمكة نصف مأكولة. يميل مواطنو ترايانغل إلى إبقائهم على مسافة."
+ },
  "54753e9d684e": {
   "en": "<strong>Crime and law:</strong> Forway Law. If the person can pay for the crime, they walk away; if not, they go to prison.",
   "t": "<strong>الجريمة والقانون:</strong> قانون فورواي. إن استطاع الشخص أن يدفع ثمن الجريمة، يمضي حرًا؛ وإلا يذهب إلى السجن."
@@ -202,6 +438,10 @@
  "55008f0a0573": {
   "en": "<strong>Sun-Rotted Animals:</strong> a delicacy among Cruros, and perhaps some humans. Traded for other food, or free if the Tribe Leader gives it to you.",
   "t": "<strong>الحيوانات المتعفنة في الشمس:</strong> طعام شهي بين الكرورو، وربما بعض البشر. يُقايَض بطعام آخر، أو مجانًا إن أعطاك إياه زعيم القبيلة."
+ },
+ "55576be86aff": {
+  "en": "<strong>Economy:</strong> grinding Domar wheat (by boat from Tolerideme) into flour and dried fish (by boat from the Sanbi Kingdom) into fish meal, plus the goods passing through the elevators.",
+  "t": "<strong>الاقتصاد:</strong> طحن قمح الدومار (بالقوارب من توليريديمي) إلى دقيق، والسمك المجفف (بالقوارب من مملكة سانبي) إلى مسحوق سمك، إضافة إلى البضائع المارة عبر المصاعد."
  },
  "555b9db7a85f": {
   "en": "<strong>Visual references:</strong> like the Freeish Kingdom, but with hunting totems instead of trees with Trunk People.",
@@ -227,6 +467,14 @@
   "en": "<strong>Boiling Ramen:</strong> ramen (from Tolerideme) cooked on the hottest geyser, with seasonings found only here, served with meat, wild game or fish. 7 to 30 Pearls a bowl.",
   "t": "<strong>الرامن المغلي:</strong> رامن (من توليريديمي) يُطهى على أسخن نبع حار، بتوابل لا توجد إلا هنا، ويُقدَّم مع لحم أو طرائد أو سمك. من 7 إلى 30 بيرل للوعاء."
  },
+ "5cb004d2a689": {
+  "en": "Only humans may live in the city; any other species must wear a triangle amulet for the length of their stay. The triangle gave them new life, protecting them from the elements; it started with people, and has become something above and beyond people: a thing, a concept. Similar to Sanbi, but not as warm and friendly if you don't believe in the power of the triangle, and not exactly friendly to other species either; pets are frowned upon. They worship triangles, especially the original triangle, kept in the Triangle Cathedral. People come to touch it for good luck and health, and some come from elsewhere hoping it will fix problems caused by their DNA, since Soul Energy can't seem to.",
+  "t": "لا يجوز إلا للبشر العيش في المدينة؛ وأي نوع آخر يجب أن يرتدي تميمة مثلثة طوال مدة إقامته. منحهم المثلث حياة جديدة، حاميًا إياهم من العناصر؛ بدأ مع الناس، وصار شيئًا فوق الناس وأبعد منهم: شيئًا، مفهومًا. تشبه سانبي، لكنها ليست دافئة وودودة بالقدر نفسه إن لم تؤمن بقوة المثلث، وليست ودودة تمامًا مع الأنواع الأخرى أيضًا؛ والحيوانات الأليفة مستهجنة. يعبدون المثلثات، خاصة المثلث الأصلي، المحفوظ في كاتدرائية المثلث. يأتي الناس ليلمسوه طلبًا للحظ والصحة، ويأتي بعضهم من أماكن أخرى آملين أن يصلح مشاكل سببها حمضهم النووي، لأن طاقة الروح لا يبدو أنها تستطيع."
+ },
+ "5d890006ed85": {
+  "en": "<strong>Finger Cake Maker:</strong> controls Waterfall's famous finger cakes.",
+  "t": "<strong>صانع كعكة الأصابع:</strong> تتحكم في كعكات أصابع ووترفول الشهيرة."
+ },
  "5dbce8852528": {
   "en": "Visual references:",
   "t": "مراجع بصرية:"
@@ -243,17 +491,41 @@
   "en": "<strong>Local embassy quests:</strong> Sweetlake assistance, Woodland exploration, Nari Caves assistance.",
   "t": "<strong>مهام السفارة المحلية:</strong> مساعدة سويت ليك، استكشاف وودلاند، مساعدة كهوف ناري."
  },
+ "61ebe18228e5": {
+  "en": "<strong>Falling Rock Tavern (#1):</strong> a famous tavern where people fresh from underground go to get lit!",
+  "t": "<strong>حانة الصخرة الساقطة (#1):</strong> حانة مشهورة يذهب إليها الخارجون للتو من تحت الأرض ليسكروا!"
+ },
  "623fffd32004": {
   "en": "<strong>The Great Hunter/Huntress competition:</strong> every Asa, a two-week competition for the strongest hunters: tree cutting, hunting, skinning, wrestling, survival, honey gathering, etc.",
   "t": "<strong>مسابقة الصياد/الصيادة العظيم(ة):</strong> في كل آسا، مسابقة لأسبوعين لأقوى الصيادين: قطع الأشجار، والصيد، والسلخ، والمصارعة، والبقاء، وجمع العسل، وغيرها."
+ },
+ "624719895c87": {
+  "en": "<strong>Drunk Step Bar (#4):</strong> a bar so old it once had another name, but so many people came here to get loaded before climbing the massive stairs that it got renamed.",
+  "t": "<strong>حانة الدرجة السكرانة (#4):</strong> حانة قديمة جدًا كان لها يومًا اسم آخر، لكن كثيرين جاؤوا إليها ليسكروا قبل صعود الدرج الهائل حتى أُعيدت تسميتها."
+ },
+ "62e85c43993e": {
+  "en": "Mostly humans, with a decent number of fat people, since Tolerideme is nearby and fresh-baked bread is cheap. Darfaries are around too, also slightly overweight; not many Wozefaries or Sorefaries, because of the colder climate. Beliefs mix respect for the \"Sea\" god with reverence for the \"Three Smart Ladies\". They keep to themselves but aren't unwelcoming to strangers, except Tolerideme citizens, who get the \"you wait in line longer\" treatment. They're on the lazy side, with so much job stability; they shit on Tolerideme citizens, but apparently don't see their own laziness.",
+  "t": "بشر في الغالب، مع عدد لا بأس به من البدناء، لأن توليريديمي قريبة والخبز الطازج رخيص. الدارفاريس موجودون أيضًا، وزائدو الوزن قليلًا كذلك؛ ليس هناك كثير من الووزيفاريس أو السوريفاريس، بسبب المناخ الأبرد. تمزج المعتقدات احترام الإله «البحر» بتبجيل «السيدات الذكيات الثلاث». منعزلون لكنهم ليسوا غير مرحبين بالغرباء، إلا مواطني توليريديمي، الذين ينالون معاملة «تنتظر في الطابور أطول». يميلون إلى الكسل، مع كل هذا الاستقرار الوظيفي؛ يسخرون من مواطني توليريديمي، لكن يبدو أنهم لا يرون كسلهم."
  },
  "6450ad627cc1": {
   "en": "<strong>Economy:</strong> trade and tourism.",
   "t": "<strong>الاقتصاد:</strong> التجارة والسياحة."
  },
+ "66f944432277": {
+  "en": "<strong>Threats:</strong> not really.",
+  "t": "<strong>التهديدات:</strong> ليس حقًا."
+ },
  "66fa8b201802": {
   "en": "<strong>Nari Extraction Coordination Office (#5):</strong> a long name for a building that investigates and prosecutes anyone who harms the nari worms.",
   "t": "<strong>مكتب تنسيق استخراج الناري (#5):</strong> اسم طويل لمبنى يحقق مع كل من يؤذي ديدان الناري ويلاحقه قضائيًا."
+ },
+ "673478ebddee": {
+  "en": "<strong>Crime and law:</strong> unreported. People sort things out themselves instead of relying on the embassy or the guards, and those who do rely on the guards tend to get into bigger trouble anyway.",
+  "t": "<strong>الجريمة والقانون:</strong> لا يُبلَّغ عنها. يسوّي الناس الأمور بأنفسهم بدلًا من الاعتماد على السفارة أو الحراس، ومن يعتمدون على الحراس يقعون عادةً في مشاكل أكبر على أي حال."
+ },
+ "697cf04a8a50": {
+  "en": "<strong>Pickled Winga Eggs:</strong> Wingarest's famous food: fresh Winga eggs pickled with special seasonings. About 1 Pearl an egg pickled for half a year, about 2 Pearls for a year.",
+  "t": "<strong>بيض الوينغا المخلل:</strong> طعام وينغاريست الشهير: بيض وينغا طازج مخلل بتوابل خاصة. نحو 1 بيرل للبيضة المخللة نصف عام، ونحو 2 بيرل لعام."
  },
  "6a904b823b54": {
   "en": "Forway city emblem: a silver-ringed disc split into tan, red, blue and green sections with a mountain, wheat, a fish and a branching line around a pearl.",
@@ -283,9 +555,21 @@
   "en": "Politics",
   "t": "السياسة"
  },
+ "6e5d1afdd773": {
+  "en": "<strong>Old Bert's Bar:</strong> the oldest place in the region, open only for dinner.",
+  "t": "<strong>حانة بيرت العجوز:</strong> أقدم مكان في المنطقة، لا تفتح إلا للعشاء."
+ },
+ "6f0c1ed249de": {
+  "en": "One of the first tribes to become a city after Aldemeri fell, though its one-of-a-kind economy keeps it distant from everything. Humans found a giant tree in a hidden garden whose leaves make most things incredibly tasty; the story diverges on whether humans killed the garden's owners or found it abandoned. The tree also lights up when it rains, and helps keep Hifuna's beasts away from the settlement.",
+  "t": "من أوائل القبائل التي صارت مدينة بعد سقوط ألديميري، مع أن اقتصادها الفريد من نوعه يبقيها بعيدة عن كل شيء. وجد البشر شجرة عملاقة في حديقة مخفية تجعل أوراقها معظم الأشياء لذيذة بشكل لا يُصدق؛ وتختلف الرواية حول ما إذا كان البشر قد قتلوا أصحاب الحديقة أم وجدوها مهجورة. تضيء الشجرة أيضًا حين تمطر، وتساعد على إبعاد وحوش هيفونا عن المستوطنة."
+ },
  "6f4a9745dca7": {
   "en": "<strong>Fireplaces:</strong> the stone fireplaces the city grew around.",
   "t": "<strong>المواقد:</strong> المواقد الحجرية التي نمت المدينة حولها."
+ },
+ "6f733814d5f4": {
+  "en": "<strong>Marriage:</strong> no commonly accepted official way, and guilds rarely form, since people don't talk about their pasts.",
+  "t": "<strong>الزواج:</strong> لا طريقة رسمية مقبولة عمومًا، ونادرًا ما تتكون النقابات، لأن الناس لا يتحدثون عن ماضيهم."
  },
  "70cc4278b6b4": {
   "en": "<strong>Threats:</strong> anyone trying to overthrow the current balance of power, or planting false information between leaders to provoke arguments.",
@@ -295,6 +579,14 @@
   "en": "Sweetlake",
   "t": "سويت ليك"
  },
+ "716f3c12fa6b": {
+  "en": "<strong>Burial:</strong> depends on whether anyone knew what the person wanted; otherwise, burial in the forest, away from prying eyes, but expect to be stripped of all valuables.",
+  "t": "<strong>الدفن:</strong> يعتمد على ما إذا كان أحد يعرف ما أراده الشخص؛ وإلا فالدفن في الغابة، بعيدًا عن العيون المتطفلة، لكن توقّع أن تُجرَّد من كل الأشياء الثمينة."
+ },
+ "72435d9405ad": {
+  "en": "<strong>Pharaohs (#2):</strong> the most powerful guild in Sundeath.",
+  "t": "<strong>الفراعنة (#2):</strong> أقوى نقابة في صنديث."
+ },
  "727c0903d1e8": {
   "en": "<strong>Specialized Schools (#E types):</strong> see Education.",
   "t": "<strong>المدارس المتخصصة (أنواع #E):</strong> انظر التعليم."
@@ -303,6 +595,14 @@
   "en": "Triangle",
   "t": "ترايانغل"
  },
+ "7493b9bf6414": {
+  "en": "<strong>Names:</strong> Egyptian.",
+  "t": "<strong>الأسماء:</strong> مصرية."
+ },
+ "74c3e05e71bb": {
+  "en": "<strong>Clothing:</strong> like the Sanbi Kingdom, but with triangle cuts in their shirts, and everything else revolving around the triangle craziness.",
+  "t": "<strong>الملابس:</strong> مثل مملكة سانبي، لكن بقصات مثلثة في قمصانهم، وكل شيء آخر يدور حول جنون المثلث."
+ },
  "75e9b2db66d6": {
   "en": "<strong>Threats:</strong> the dumb ones, or their pets, attack passersby once in a while, and if the population grows too large, adventurers could invade to thin it out. Some Sanbi citizens still hold a grudge against the Cruros for taking away the easy job of collecting pearls.",
   "t": "<strong>التهديدات:</strong> يهاجم الأغبياء منهم، أو حيواناتهم الأليفة، المارة بين حين وآخر، وإن كبر عدد السكان أكثر من اللازم، قد يغزو المغامرون لتقليصه. ما زال بعض مواطني سانبي يحملون ضغينة على الكرورو لأنهم أخذوا منهم العمل السهل في جمع اللؤلؤ."
@@ -310,6 +610,14 @@
  "7735fd308fce": {
   "en": "Cities",
   "t": "المدن"
+ },
+ "794f7fa35c0f": {
+  "en": "<strong>Above the Clouds Hotel (#2):</strong> a rich hotel with spectacular views of the clouds.",
+  "t": "<strong>فندق فوق السحاب (#2):</strong> فندق فاخر بإطلالات مذهلة على السحب."
+ },
+ "7a9bf2cea653": {
+  "en": "<strong>Fashion Show:</strong> at the start of every month, for artists to show off their work.",
+  "t": "<strong>عرض الأزياء:</strong> في بداية كل شهر، ليعرض الفنانون أعمالهم."
  },
  "7af50d9988db": {
   "en": "<strong>InBalls Spring Resort:</strong> like OutBalls, but female-focused.",
@@ -323,6 +631,30 @@
   "en": "<strong>Burial:</strong> they trade their dead for food.",
   "t": "<strong>الدفن:</strong> يقايضون موتاهم بالطعام."
  },
+ "7dcfe65b605a": {
+  "en": "<strong>Local embassy quests:</strong> Newland exploration, Crocus extermination, Cruro reconnaissance, checking on Hifuna.",
+  "t": "<strong>مهام السفارة المحلية:</strong> استكشاف نيولاند، إبادة الكروكوس، استطلاع الكرورو، تفقد هيفونا."
+ },
+ "7dec929067f0": {
+  "en": "<strong>Trial Center (#1):</strong> people are often judged and executed in front of everyone, and their remains thrown into the desert.",
+  "t": "<strong>مركز المحاكمات (#1):</strong> كثيرًا ما يُحاكم الناس ويُعدمون أمام الجميع، وتُلقى بقاياهم في الصحراء."
+ },
+ "7edc3557f592": {
+  "en": "<strong>All the way festival:</strong> every Moacir, each city and kingdom builds a movable monument and parades it through Forway amid the festivities, to promote cultural integration in such a mixed city.",
+  "t": "<strong>مهرجان حتى النهاية:</strong> في كل مواسير، تبني كل مدينة ومملكة نصبًا متحركًا وتستعرضه في فورواي وسط الاحتفالات، لتعزيز الاندماج الثقافي في مدينة مختلطة كهذه."
+ },
+ "7fc8944db07d": {
+  "en": "<strong>Tastyleaf Tree:</strong> see Tastyleaf under Flora.",
+  "t": "<strong>شجرة التيستي ليف:</strong> انظر تيستي ليف في النباتات."
+ },
+ "8057e856ff6d": {
+  "en": "<strong>Economy:</strong> Tenderthrough, and serving as the trade bridge between Freeish and Sanbi at the south end of the region.",
+  "t": "<strong>الاقتصاد:</strong> التندرثرو، وكونها الجسر التجاري بين فريئيش وسانبي في الطرف الجنوبي من المنطقة."
+ },
+ "812d496bf5bf": {
+  "en": "<strong>Protector Celebration:</strong> every Forrday, a celebration of one of the protectors (humanoid animals, beasts or fauna).",
+  "t": "<strong>احتفال الحامي:</strong> في كل فورداي، احتفال بأحد الحماة (حيوانات أو وحوش أو مخلوقات شبيهة بالبشر)."
+ },
  "82337815f0c0": {
   "en": "<strong>Bloody Blood Sausage:</strong> Blood City's famous Bagarisa-and-blood sausage, in a wavy pattern.",
   "t": "<strong>نقانق بلاد الدموية:</strong> نقانق بلاد سيتي الشهيرة من الباغاريسا والدم، بنقش متموج."
@@ -331,9 +663,17 @@
   "en": "13 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "هناك 13 مدخلًا آخر في هذه الصفحة متاحة فقط في <button class=\"linklike\" data-go-bts>خلف الكواليس</button>."
  },
+ "82af29bcf071": {
+  "en": "<strong>Clothing:</strong> similar to Blood.",
+  "t": "<strong>الملابس:</strong> شبيهة ببلاد."
+ },
  "8335d5e3de66": {
   "en": "<strong>Economy:</strong> a spring town for travelers and a rest stop before the Gandew Kingdom; adventurers hire Sorefaries here. Mines Amethysts for Forway City, and mines and processes Fost stones.",
   "t": "<strong>الاقتصاد:</strong> بلدة ينابيع للمسافرين ومحطة استراحة قبل مملكة غانديو؛ يستأجر المغامرون السوريفاريس هنا. تستخرج الأميثيست لفورواي سيتي، وتستخرج أحجار فوست وتعالجها."
+ },
+ "834e451bbb2f": {
+  "en": "<strong>Threats:</strong> the Cruros eat a few people a year; sea travel is difficult; and beasts that stray south run into people traveling around.",
+  "t": "<strong>التهديدات:</strong> يأكل الكرورو بضعة أشخاص في السنة؛ السفر البحري صعب؛ والوحوش التي تشرد جنوبًا تصادف الناس المتنقلين."
  },
  "85cf1d68359d": {
   "en": "<strong>Drunken Sweet Sting Festival:</strong> every Adrian, the top 10 of the Great Hunter/Huntress competition dress in special Sweet Sting costumes and bar-hop around Blood and Sweetlake, drinking Black Mead. Other adventurers follow along celebrating, and bars put on their best show and goods to lure the famous adventurers in.",
@@ -347,6 +687,10 @@
   "en": "<strong>Education:</strong> a standard dress code and teaching (see Education).",
   "t": "<strong>التعليم:</strong> قواعد لباس وتعليم موحدة (انظر التعليم)."
  },
+ "86c07c9f97a8": {
+  "en": "<strong>Elevator Guild (#1):</strong> where the people who own and maintain the elevators gather.",
+  "t": "<strong>نقابة المصاعد (#1):</strong> حيث يجتمع من يملكون المصاعد ويصونونها."
+ },
  "873af5201944": {
   "en": "<strong>Marriage:</strong> the tribe leader is the only one who can mate with all the Crocus in the region.",
   "t": "<strong>الزواج:</strong> زعيم القبيلة هو الوحيد الذي يستطيع التزاوج مع كل الكروكوس في المنطقة."
@@ -354,6 +698,10 @@
  "88b120300609": {
   "en": "Mostly Crocus and dumb Cruros, a few intelligent Cruros, and rarely a highly intelligent one who stays. No religion. Tribal: a young Cruro's rite of passage is to kill one Wood Person, bring the body back to build a hut, and tame a Crocus.",
   "t": "كروكوس وكرورو أغبياء في الغالب، وقليل من الكرورو الأذكياء، ونادرًا واحد ذكي جدًا يبقى. لا دين. قبليون: طقس عبور الكرورو الصغير أن يقتل واحدًا من الوود بيبول، ويعيد الجثة ليبني كوخًا، ويروّض كروكوس."
+ },
+ "88fe39fe893c": {
+  "en": "<strong>Finger Cake Factory (#6):</strong> a large factory making all kinds of finger cakes.",
+  "t": "<strong>مصنع كعكة الأصابع (#6):</strong> مصنع كبير يصنع كل أنواع كعكات الأصابع."
  },
  "8a239039d68b": {
   "en": "<strong>Grand Miner (#5):</strong> the region's biggest mining operation, specializing in Amethysts for minting.",
@@ -379,17 +727,49 @@
   "en": "<strong>#1 and #10:</strong> too busy dealing with the Wood People to care what happens around them.",
   "t": "<strong>#1 و#10:</strong> منشغلتان جدًا بالتعامل مع الوود بيبول عن الاهتمام بما يحدث حولهما."
  },
+ "8d5b45bda887": {
+  "en": "<strong>Sleepy Jona:</strong> famous for crafting the most comfortable beds in the kingdoms.",
+  "t": "<strong>جونا الناعس:</strong> مشهور بصنع أكثر الأسرّة راحة في الممالك."
+ },
  "8d9e36c67cfe": {
   "en": "A tribe leader's word is final. To become tribe leader, you fight the current one; when another Cruro wins, all the previous leader's infants are killed and eaten. Highly intelligent Cruros don't take part in the tribal fights.",
   "t": "كلمة زعيم القبيلة هي الفصل. لتصبح زعيم القبيلة، تقاتل الزعيم الحالي؛ وحين يفوز كرورو آخر، يُقتل كل صغار الزعيم السابق ويُؤكلون. لا يشارك الكرورو الأذكياء جدًا في معارك القبائل."
+ },
+ "8f531231a807": {
+  "en": "<strong>Education:</strong> based on Forway, but with an emphasis on Triangle teachings, to pull people into the cult from early on.",
+  "t": "<strong>التعليم:</strong> مبني على فورواي، لكن مع التركيز على تعاليم المثلث، لجذب الناس إلى الطائفة منذ الصغر."
+ },
+ "8fe3d6c8f66f": {
+  "en": "Since the fall of Ganyrami, some humans have made the ruins their home. Some bandits live in the refuge too, but they seem to live in symbiosis with the locals. That made Forway want to place an embassy here to change the vibe, but it was, and still is, pretty tough.",
+  "t": "منذ سقوط غانيرامي، اتخذ بعض البشر الأطلال موطنًا. ويعيش بعض اللصوص في الملجأ أيضًا، لكنهم يبدون في تعايش مع السكان المحليين. وهذا ما جعل فورواي تريد إقامة سفارة هنا لتغيير الأجواء، لكن ذلك كان، وما زال، صعبًا جدًا."
+ },
+ "9127946cf126": {
+  "en": "<strong>Ronaldo Lazyeye (#1), Purple-Magina (#2) and Angry-Jin (#3):</strong> the mansions of the three guilds controlling the island; their colors are yellow, purple and red.",
+  "t": "<strong>رونالدو ليزي آي (#1) وبيربل ماجينا (#2) وأنغري جين (#3):</strong> قصور النقابات الثلاث المتحكمة في الجزيرة؛ ألوانها الأصفر والبنفسجي والأحمر."
  },
  "926dbe8a1db4": {
   "en": "<strong>Hot in the Cold:</strong> every Asa, a food festival around the Skin Peeler Geyser.",
   "t": "<strong>حار في البرد:</strong> في كل آسا، مهرجان طعام حول نبع سكين بيلر الحار."
  },
+ "9292f2e36e01": {
+  "en": "<strong>Pathway:</strong> two massive tunnels running from the entrance almost to the other end of the mountain. Non-citizens may only use these pathways; every road off them is closed to non-citizens, since local guilds own them.",
+  "t": "<strong>الممر:</strong> نفقان هائلان يمتدان من المدخل حتى الطرف الآخر من الجبل تقريبًا. لا يجوز لغير المواطنين إلا استخدام هذين الممرين؛ وكل طريق يتفرع منهما مغلق أمام غير المواطنين، لأن النقابات المحلية تملكها."
+ },
  "94f8b3c408cf": {
   "en": "Forway",
   "t": "فورواي"
+ },
+ "95352852431e": {
+  "en": "Mostly darker-skinned people, with some Darfaries, Wozefaries and Sorefaries, and adventurers.",
+  "t": "أناس داكنو البشرة في الغالب، مع بعض الدارفاريس والووزيفاريس والسوريفاريس، والمغامرين."
+ },
+ "957b34060bdd": {
+  "en": "<strong>Triangle Central:</strong> the central building behind Triangle City.",
+  "t": "<strong>مركز المثلث:</strong> المبنى المركزي وراء مدينة ترايانغل."
+ },
+ "96d28e63e2d3": {
+  "en": "<strong>Baked Crocus with Tastyleaf:</strong> Crocus meat seasoned with Tastyleaf.",
+  "t": "<strong>كروكوس مخبوز بالتيستي ليف:</strong> لحم كروكوس متبّل بالتيستي ليف."
  },
  "96f45a12aa71": {
   "en": "In a way, it can be considered its own Kingdom, but its officials would vehemently deny that's the case.",
@@ -399,13 +779,29 @@
   "en": "<strong>Clothing:</strong> none.",
   "t": "<strong>الملابس:</strong> لا شيء."
  },
+ "9768c33d8253": {
+  "en": "<strong>Education:</strong> like Forway, with more about fauna and beasts.",
+  "t": "<strong>التعليم:</strong> مثل فورواي، مع المزيد عن الحيوانات والوحوش."
+ },
+ "9793612093e2": {
+  "en": "<strong>Lonida Stadium (#2):</strong> a privately owned stadium where some big events happen.",
+  "t": "<strong>ملعب لونيدا (#2):</strong> ملعب مملوك ملكية خاصة تقام فيه بعض الأحداث الكبيرة."
+ },
  "97b96e73dce8": {
   "en": "<strong>Threats:</strong> Forway stamping on their way of life for trying to be part of the Freeish Kingdom.",
   "t": "<strong>التهديدات:</strong> دوس فورواي على أسلوب حياتهم لمحاولتهم أن يكونوا جزءًا من مملكة فريئيش."
  },
+ "9830b7462d81": {
+  "en": "<strong>Names:</strong> all kinds; people usually give themselves new names.",
+  "t": "<strong>الأسماء:</strong> كل الأنواع؛ عادةً يعطي الناس أنفسهم أسماء جديدة."
+ },
  "99caf98549dc": {
   "en": "<strong>Calm Water Resort (#4):</strong> home of the Calm Water Resort Guild. Wealthier residents who believe in Gandew's spiritual powers often come to live here in their later years, especially those who think they might be haunted by the spirits of people they screwed over.",
   "t": "<strong>منتجع كالم ووتر (#4):</strong> مقر نقابة منتجع كالم ووتر. كثيرًا ما يأتي السكان الأثرى الذين يؤمنون بقوى غانديو الروحية للعيش هنا في سنواتهم الأخيرة، خاصة من يظنون أن أرواح من خدعوهم قد تطاردهم."
+ },
+ "99f29a2174e5": {
+  "en": "<strong>Big Rock (#2):</strong> one of the most famous guilds, where a single person found a large Sapphire and spent it all on pussy and beer.",
+  "t": "<strong>بيغ روك (#2):</strong> من أشهر النقابات، حيث وجد شخص واحد حجر سافاير كبيرًا وأنفقه كله على الفروج والجعة."
  },
  "99f3cf9d24f6": {
   "en": "Sundeath",
@@ -423,9 +819,17 @@
   "en": "If you are unfamiliar with Forway, then take a friend when you visit! Not that it's that violent, but like any big city, tourists can be easy pickings for people with bad intentions and suave speech, especially if they go to know sketchier parts. Also, don't be alarmed by how much nari gel people use. Fashion trends come and go, so if you have the money, why not participate as well? It might be the ticket to get into bed, and the pockets, of a socialite.",
   "t": "إن لم تكن تعرف فورواي، فخذ صديقًا معك حين تزورها! ليست عنيفة إلى هذا الحد، لكن مثل أي مدينة كبيرة، قد يكون السياح فريسة سهلة لذوي النوايا السيئة والكلام المعسول، خاصة إن تعرّفوا على الأجزاء الأكثر ريبة. ولا تنزعج من كثرة استخدام الناس لهلام ناري. صيحات الموضة تأتي وتذهب، فإن كان لديك المال، فلماذا لا تشارك أيضًا؟ قد تكون تذكرتك إلى فراش أحد وجهاء المجتمع وجيوبه."
  },
+ "9ca4c3f35b6e": {
+  "en": "<strong>Purplebread with Sandworm:</strong> a sweet and nutty combination of fruit and meat on a stick. About 15 Pearls.",
+  "t": "<strong>بيربلبريد مع الساند وورم:</strong> مزيج حلو بنكهة المكسرات من الفاكهة واللحم على عود. نحو 15 بيرل."
+ },
  "9d3eeafe6d68": {
   "en": "<strong>Sweetlake Blood-Tribe (#8):</strong> once one of the richest blood-tribes, now the poorest, about to die out with its last member. People call him a lunatic and avoid the place at all costs. He's researching shapeshifters, since that might reveal what happened to his guild after they all disappeared; he was left behind because he felt lazy that day.",
   "t": "<strong>سويت ليك بلاد ترايب (#8):</strong> كانت يومًا من أغنى قبائل الدم، والآن أفقرها، على وشك الانقراض بآخر أفرادها. يسميه الناس مجنونًا ويتجنبون المكان بأي ثمن. يبحث في الشيبشيفتر، لأن ذلك قد يكشف ما حدث لنقابته بعد أن اختفوا جميعًا؛ لقد تُرك لأنه شعر بالكسل ذلك اليوم."
+ },
+ "9def6658cc13": {
+  "en": "<strong>Crime and law:</strong> like Forway, but for major cases, the criminal is forced to go out and fight beasts; if they survive, their punishment is absolved.",
+  "t": "<strong>الجريمة والقانون:</strong> مثل فورواي، لكن في القضايا الكبرى، يُجبر المجرم على الخروج لقتال الوحوش؛ وإن نجا، تُسقط عقوبته."
  },
  "9df882bae139": {
   "en": "Flatland",
@@ -435,13 +839,29 @@
   "en": "<strong>Emelia's Flowery Paradise:</strong> Emelia's flower shop, one of Red Winga's proxy businesses (see Factions), in Forway's southwest district, with a bakery nearby.",
   "t": "<strong>فردوس إيميليا المزهر:</strong> متجر زهور إيميليا، إحدى الأعمال الوكيلة لريد وينغا (انظر الفصائل)، في الحي الجنوبي الغربي من فورواي، وبقربه مخبز."
  },
+ "9f422d60c8f4": {
+  "en": "<strong>Burial:</strong> depends heavily on the culture. If the person has no money, the body is incinerated.",
+  "t": "<strong>الدفن:</strong> يعتمد كثيرًا على الثقافة. إن لم يكن للشخص مال، تُحرق الجثة."
+ },
  "9f5afd2a1f67": {
   "en": "Prices are in the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a>.",
   "t": "الأسعار في <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">جدول الاقتصاد</a>."
  },
+ "a0f8a8f02245": {
+  "en": "All kinds of people and beliefs, including some shady characters. The past is the past, and nobody talks about it: you deal with your own shit. Badges are rarely used, since they mean showing your true self, and contracts are mostly made outside the normal contract system, so you have to enforce them yourself if needed.",
+  "t": "كل أنواع الناس والمعتقدات، بما في ذلك بعض الشخصيات المشبوهة. الماضي ماضٍ، ولا أحد يتحدث عنه: تتدبر هراءك بنفسك. نادرًا ما تُستخدم البطاقات، لأنها تعني إظهار حقيقتك، وتُعقد العقود في الغالب خارج نظام العقود العادي، فعليك أن تفرضها بنفسك عند الحاجة."
+ },
+ "a31c9c6ed462": {
+  "en": "<strong>Economy:</strong> Black Honey, mead, and being the western front for exploration.",
+  "t": "<strong>الاقتصاد:</strong> العسل الأسود، والميد، وكونها الجبهة الغربية للاستكشاف."
+ },
  "a32cf9a56b75": {
   "en": "As humans settled on this island, the Bruntos began interacting with them and grew close. Humans made great-tasting food and shelter for them, and the Bruntos brought raw ingredients, helped with farming, and helped them hide from the Lishies. Living here for years, people noticed the weather is unusually warm and humid all year long, with rain every day at Sunnu; it's certainly not for everyone. Humans and Bruntos developed a taste for Lonllows, but humans couldn't farm them on a large scale until the Bruntos taught them to plant fish in the ground before putting in the Lonllow branches. With that, they could be farmed all year long.",
   "t": "حين استقر البشر في هذه الجزيرة، بدأ البرونتوس يتفاعلون معهم وتقرّبوا منهم. صنع البشر لهم طعامًا لذيذًا ومأوى، وجلب البرونتوس المكونات الخام، وساعدوا في الزراعة، وساعدوهم على الاختباء من الليشيس. ومع العيش هنا سنوات، لاحظ الناس أن الطقس دافئ ورطب على نحو غير معتاد طوال العام، مع مطر كل يوم عند السونو؛ وهو بالتأكيد ليس للجميع. اكتسب البشر والبرونتوس ذوقًا للونلو، لكن البشر لم يستطيعوا زراعته على نطاق واسع حتى علّمهم البرونتوس أن يغرسوا السمك في الأرض قبل وضع أغصان اللونلو. وبذلك، صار يمكن زراعته طوال العام."
+ },
+ "a359957ac419": {
+  "en": "<strong>Threats:</strong> other places, if they discover the truth; tsunamis.",
+  "t": "<strong>التهديدات:</strong> الأماكن الأخرى، إن اكتشفت الحقيقة؛ وموجات التسونامي."
  },
  "a3eab71925bf": {
   "en": "<strong>Long &amp; Yellow Sanbi Celebration:</strong> every Adrian, a grand festival celebrates the first contact between humans and Bruntos. Lonllows are baked with Sanbi, cheese and a tiny bit of Tastyleaf.",
@@ -450,6 +870,10 @@
  "a4ac5f2194e8": {
   "en": "<strong>#7 and #8:</strong> have some sort of alliance.",
   "t": "<strong>#7 و#8:</strong> بينهما نوع من التحالف."
+ },
+ "a7699e862ba7": {
+  "en": "<strong>Central Hut:</strong> one of the biggest Lishies huts ever seen. It stood the test of time and somehow survived the fall of Ganyrami (mostly because the human who conquered it took the throne for himself). There's no leader, but people take turns keeping the hut's fire lit and having someone there to act as leader, since Forway demanded someone answer for the city. The leader is basically whoever feels like keeping the fire going. The catch: Forway requires that person's badge, and they always say they don't have one. It infuriates the Forway representatives, but they don't want to overstep and cause unrest.",
+  "t": "<strong>الكوخ المركزي:</strong> من أكبر أكواخ الليشيس التي رُئيت على الإطلاق. صمد أمام اختبار الزمن ونجا بطريقة ما من سقوط غانيرامي (أساسًا لأن الإنسان الذي غزاه أخذ العرش لنفسه). لا قائد، لكن الناس يتناوبون على إبقاء نار الكوخ مشتعلة ووجود شخص هناك يتصرف كقائد، لأن فورواي طالبت بأن يجيب أحد عن المدينة. القائد في الأساس هو من يشعر برغبة في إبقاء النار مشتعلة. والمفارقة: تطلب فورواي بطاقة ذلك الشخص، وهم يقولون دائمًا إنه لا يملك واحدة. يُغضب ذلك ممثلي فورواي، لكنهم لا يريدون تجاوز الحدود وإثارة الاضطراب."
  },
  "a7a2530ec39f": {
   "en": "Wingarest",
@@ -462,6 +886,22 @@
  "ade9183d9189": {
   "en": "<strong>Visual reference:</strong> Brazil's Pantanal.",
   "t": "<strong>مرجع بصري:</strong> بانتانال البرازيل."
+ },
+ "adf80a376277": {
+  "en": "<strong>Visual references</strong> (with roads instead of walls):",
+  "t": "<strong>مراجع بصرية</strong> (بطرق بدلًا من الأسوار):"
+ },
+ "af0927d6ad4e": {
+  "en": "Everyone is out for themselves. <strong>Threats:</strong> cold snaps, and themselves.",
+  "t": "كلٌّ يسعى لنفسه. <strong>التهديدات:</strong> موجات البرد، وأنفسهم."
+ },
+ "af2b17e19012": {
+  "en": "<strong>Rainy Waterfalls:</strong> when the Buhraies Plains were created, a double waterfall appeared, splitting the land between them into a spot the Wood People couldn't reach. The waterfalls are so big and tall they create clouds over the whole region.",
+  "t": "<strong>الشلالات الممطرة:</strong> حين أُنشئت سهول البورايس، ظهر شلال مزدوج، قسّم الأرض بينهما إلى بقعة لا يصل إليها الوود بيبول. الشلالات كبيرة وعالية لدرجة أنها تصنع سحبًا فوق المنطقة كلها."
+ },
+ "af979cdc023d": {
+  "en": "<strong>Picking Festival:</strong> every fall, when the Tastyleaf tree begins to shed its leaves, people from the four guilds compete to gather the most leaves, using wind Soul Energy to move them.",
+  "t": "<strong>مهرجان القطف:</strong> في كل خريف، حين تبدأ شجرة التيستي ليف بإسقاط أوراقها، يتنافس الناس من النقابات الأربع على جمع أكبر عدد من الأوراق، مستخدمين طاقة روح الريح لتحريكها."
  },
  "af9bddb40575": {
   "en": "<strong>Old Bone:</strong> every Paulin, the Calm Water Resort hosts a festival for the old people living there, with tons of music, fight choreography, bards' tales, etc.",
@@ -479,6 +919,10 @@
   "en": "<strong>Delta Bar (#5):</strong> a famous open-air bar with no seats, out in the calm waters; beer and food are served from covered stands. Open only in the summer.",
   "t": "<strong>حانة الدلتا (#5):</strong> حانة مشهورة في الهواء الطلق بلا مقاعد، في المياه الهادئة؛ تُقدَّم الجعة والطعام من أكشاك مسقوفة. لا تفتح إلا في الصيف."
  },
+ "b46d3a906ce6": {
+  "en": "<strong>Guilds:</strong> no Forway-recognized guild is based here; Forway is trying to change that, without much luck.",
+  "t": "<strong>النقابات:</strong> لا توجد نقابة تعترف بها فورواي مقرها هنا؛ وتحاول فورواي تغيير ذلك، دون نجاح كبير."
+ },
  "b69c6a5b80db": {
   "en": "The central command for all the kingdoms and cities. Security is tightened to show the Forway leaders' power, especially at the time of the Prosperity Treaty meeting (Section #7).",
   "t": "القيادة المركزية لكل الممالك والمدن. يُشدَّد الأمن لإظهار قوة قادة فورواي، خاصة في وقت اجتماع معاهدة الرخاء (القسم #7)."
@@ -486,6 +930,14 @@
  "b7860700fe2a": {
   "en": "<strong>Sorefaries Line (#4):</strong> a really fast zip line from the mountain down to the base of the Skin Peeler Geyser.",
   "t": "<strong>خط السوريفاريس (#4):</strong> حبل انزلاق سريع جدًا من الجبل إلى قاعدة نبع سكين بيلر الحار."
+ },
+ "b7e7e94680e0": {
+  "en": "<strong>Water Mills:</strong> several mills harness the waterfall to grind all kinds of things. A few are owned by the same guild, which makes it rather powerful.",
+  "t": "<strong>طواحين الماء:</strong> طواحين عدة تسخّر الشلال لطحن كل أنواع الأشياء. بعضها مملوك للنقابة نفسها، مما يجعلها قوية نوعًا ما."
+ },
+ "b7e9ec668ed5": {
+  "en": "<strong>Names:</strong> like Tolerideme.",
+  "t": "<strong>الأسماء:</strong> مثل توليريديمي."
  },
  "ba6c9519c9f6": {
   "en": "<strong>Burial:</strong> the dead are shoved into the furnace: in their mindset, people are no different from animals.",
@@ -511,9 +963,17 @@
   "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/City.md\">Legacy/Behind The Scenes/World Lore/City.md</a>",
   "t": "المصدر: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/City.md\">Legacy/Behind The Scenes/World Lore/City.md</a>"
  },
+ "c1ad2499ee63": {
+  "en": "<strong>Sweetlake Sting Hive (#1):</strong> in the center of the lake, the biggest known Sweet Sting hive; many others exist.",
+  "t": "<strong>خلية سويت ليك ستينغ (#1):</strong> في وسط البحيرة، أكبر خلية سويت ستينغ معروفة؛ وتوجد خلايا أخرى كثيرة."
+ },
  "c1d6c141a589": {
   "en": "Old Fuhrair",
   "t": "أولد فورير"
+ },
+ "c2e43e7f35a6": {
+  "en": "<strong>Mining Entry Points (#3):</strong> the mining happens beneath the city, with many ways in. Most are public; a few are privately held by guilds.",
+  "t": "<strong>مداخل التعدين (#3):</strong> يجري التعدين تحت المدينة، بطرق دخول كثيرة. معظمها عام؛ وبعضها مملوك ملكية خاصة لنقابات."
  },
  "c3a1047a7d99": {
   "en": "<strong>Threats:</strong> beasts, and Forway probing around.",
@@ -535,6 +995,22 @@
   "en": "<strong>Blue-Flower-Red-Bone (#7):</strong> created when Akemi and Fernan married.",
   "t": "<strong>بلو فلاور ريد بون (#7):</strong> أُنشئت حين تزوج أكيمي وفيرنان."
  },
+ "c597b8f61fce": {
+  "en": "<strong>Tastyleaf Docking (#5):</strong> the main way in and out of Tastyleaf; few dare to go through the Cruro tribes instead.",
+  "t": "<strong>مرسى تيستي ليف (#5):</strong> الطريق الرئيسي للدخول إلى تيستي ليف والخروج منها؛ قليلون يجرؤون على المرور عبر قبائل الكرورو بدلًا من ذلك."
+ },
+ "c5f3478318b6": {
+  "en": "<strong>Economy:</strong> crafting materials from Wingas, living off fish and the Wood People, and trading with Tolerideme.",
+  "t": "<strong>الاقتصاد:</strong> مواد الصنعة من الوينغا، والعيش على السمك والوود بيبول، والتجارة مع توليريديمي."
+ },
+ "c67b713ccffe": {
+  "en": "The kingdoms' main western city, the frontier for exploring the villages out west and unknown lands.",
+  "t": "المدينة الغربية الرئيسية للممالك، والتخوم لاستكشاف القرى في الغرب والأراضي المجهولة."
+ },
+ "c6a35174aa8e": {
+  "en": "<strong>Clothing:</strong> heavy, Gandew style.",
+  "t": "<strong>الملابس:</strong> ثقيلة، على طراز غانديو."
+ },
  "c7ffee865901": {
   "en": "<strong>Sand Sea (#6):</strong> known for capturing Wozefaries and Sorefaries in the desert.",
   "t": "<strong>ساند سي (#6):</strong> معروفة باصطياد الووزيفاريس والسوريفاريس في الصحراء."
@@ -546,6 +1022,14 @@
  "c9688b3d1150": {
   "en": "Mixed, in people and beliefs, though money is becoming the religion. A big city: people don't talk to strangers much, everyone minds their own business, and people are commonly called by their profession, especially by those who can't be bothered to remember names. A nari gel frenzy for style is common, so you see people of every color, texture, clothing and body type. The craziest body mods are for the rich; everyone else tends to change their hair, in droves, or small body parts that don't affect their work.",
   "t": "مختلطة، في الناس والمعتقدات، وإن كان المال يصبح الدين. مدينة كبيرة: الناس لا يتحدثون كثيرًا إلى الغرباء، كلٌّ في شأنه، ومن المعتاد أن يُنادى الناس بمهنهم، خاصة ممن لا يكلفون أنفسهم تذكّر الأسماء. هوس هلام ناري من أجل المظهر شائع، فترى أناسًا بكل لون وملمس ولباس وشكل جسد. أجنّ تعديلات الجسد للأثرياء؛ وأما البقية فيميلون إلى تغيير شعرهم، بأعداد كبيرة، أو أجزاء صغيرة من الجسد لا تؤثر في عملهم."
+ },
+ "c9a553c8e4a3": {
+  "en": "<strong>Sweetlake Bottled Water:</strong> created by a snake-oil salesman to get money out of rich people. 30 Pearls a liter.",
+  "t": "<strong>مياه سويت ليك المعبأة:</strong> ابتكرها بائع أوهام ليأخذ المال من الأثرياء. 30 بيرل للتر."
+ },
+ "ca21798a09d0": {
+  "en": "Over time, smart people saw the potential of using the waterfall to grind grain, and the city flourished. With the Prosperity Treaty, it became the center for producing fish meal (from Sanbi's dried fish) and flour (from Tolerideme's Domar wheat), and for tourists who come to see its beauty.",
+  "t": "مع الوقت، رأى الأذكياء إمكانية استخدام الشلال لطحن الحبوب، فازدهرت المدينة. ومع معاهدة الرخاء، صارت مركزًا لإنتاج مسحوق السمك (من سمك سانبي المجفف) والدقيق (من قمح دومار في توليريديمي)، وللسياح الذين يأتون لرؤية جمالها."
  },
  "cd31a7679f24": {
   "en": "<strong>#3, #4, #5 and #6:</strong> the oldest, in a constant power struggle.",
@@ -559,9 +1043,29 @@
   "en": "<strong>Crime and law:</strong> it seems like a free-for-all, but they manage to survive in a rather brutal, tribal way of life.",
   "t": "<strong>الجريمة والقانون:</strong> تبدو فوضى بلا قواعد، لكنهم يتمكنون من البقاء بأسلوب حياة قبلي وحشي نوعًا ما."
  },
+ "ce0e1aaa706d": {
+  "en": "<strong>Marriage and names:</strong> like the Freeish Kingdom, but the proposal is made with liters of Black Honey instead of fruit.",
+  "t": "<strong>الزواج والأسماء:</strong> مثل مملكة فريئيش، لكن الطلب يُقدَّم بلترات من العسل الأسود بدلًا من الفاكهة."
+ },
+ "d196cab74753": {
+  "en": "<strong>Clothing:</strong> like Tolerideme.",
+  "t": "<strong>الملابس:</strong> مثل توليريديمي."
+ },
+ "d1c3420915fb": {
+  "en": "\"Those who control the water mills control the city.\" They're kind of lazy about the controlling part, though, and unwilling to deal with anything that doesn't affect them directly, so Forway City usually has to bring in someone to run the embassy, which also runs the city. Some citizens still treat Sanbi citizens better than Tolerideme's, since Toleridemians are seen as lazy for relying on Soul Energy for everything. Part of it is that Tolerideme is always fair on pay and straight in negotiation, which leaves the more Sanbian, flexible Waterfall in a tough spot.",
+  "t": "«من يتحكم في طواحين الماء يتحكم في المدينة.» لكنهم كسالى نوعًا ما في جزء التحكم، وغير مستعدين للتعامل مع أي شيء لا يمسهم مباشرة، لذا عادةً ما تضطر فورواي سيتي إلى جلب شخص لإدارة السفارة، التي تدير المدينة أيضًا. ما زال بعض المواطنين يعاملون مواطني سانبي أفضل من مواطني توليريديمي، لأن أهل توليريديمي يُرون كسالى لاعتمادهم على طاقة الروح في كل شيء. وجزء من ذلك أن توليريديمي عادلة دائمًا في الأجر ومستقيمة في التفاوض، مما يضع ووترفول الأكثر سانبية ومرونة في موقف صعب."
+ },
+ "d461d21cd50a": {
+  "en": "<strong>Finger Cake:</strong> after someone lost a finger in the cogs, they saw a cool cake possibility and created dense finger cakes, great for adventuring. Famous flavors include Domar, Gyut Domar, Lonllow Domar, Purplebread Domar, Fishmeal with Tastyleaf Domar, Black Honey Domar, Rakuja Gyut Domar, Cadioca and Tastyleaf Cadioca. About 7 Pearls each, about the size of a fist; a refillable leather pack of 6 costs 68 Pearls, and a refill alone 42. From Vol 2: \"From the same crochet bag, she dug around, pulled out a rectangular thatch box, and slid it open, revealing a yellowish color with red dots along the width and girth of a finger inside.\"",
+  "t": "<strong>كعكة الأصابع:</strong> بعد أن فقد أحدهم إصبعًا في التروس، رأى إمكانية كعكة رائعة فابتكر كعكات أصابع كثيفة، ممتازة للمغامرة. من النكهات الشهيرة: دومار، دومار بالغيوت، دومار باللونلو، دومار بالبيربلبريد، دومار بمسحوق السمك والتيستي ليف، دومار بالعسل الأسود، دومار بالغيوت والراكوجا، كاديوكا، وكاديوكا بالتيستي ليف. نحو 7 بيرل للواحدة، بحجم قبضة تقريبًا؛ وعلبة جلدية قابلة لإعادة الملء فيها 6 تكلّف 68 بيرل، وإعادة الملء وحدها 42. من المجلد 2: «ومن الحقيبة الكروشيه نفسها، نبشت، وأخرجت علبة مستطيلة من القش، وفتحتها منزلقةً، كاشفةً عن لون مصفر بنقاط حمراء بعرض الإصبع وغلظه في داخلها.»"
+ },
  "d561614afd40": {
   "en": "<strong>Bone Meal:</strong> animal bone ground into meal, for crafting, construction or as a meal aid.",
   "t": "<strong>مسحوق العظم:</strong> عظم حيوان مطحون إلى مسحوق، للصنعة أو البناء أو كمساعد غذائي."
+ },
+ "d5cbbf11e272": {
+  "en": "<strong>Local embassy quests:</strong> like Blood.",
+  "t": "<strong>مهام السفارة المحلية:</strong> مثل بلاد."
  },
  "d657bdeff661": {
   "en": "A few dominant guilds, tied to the leftover bandits and their children, basically control Flatland, so they pick the embassy representative. They put the most charming Wozefaries from their guilds out front as a facade for their suspicious activities. They're very strict with anyone who makes false accusations or speaks badly of the royal guilds, and find ways to punish them (real-world comparison: Thailand's royal family).",
@@ -575,9 +1079,21 @@
   "en": "<strong>Quarries (#1 to #4):</strong> a group of hunter brothers always tried to outdo each other in popularity. One built a quarry to win favor building Blood City, the others followed suit, and now Blood City is a popular source of stone.",
   "t": "<strong>المحاجر (#1 إلى #4):</strong> حاولت مجموعة من الإخوة الصيادين دائمًا أن يتفوق كلٌّ منهم على الآخر في الشعبية. بنى أحدهم محجرًا لينال الحظوة في بناء بلاد سيتي، فحذا الآخرون حذوه، والآن بلاد سيتي مصدر شائع للحجر."
  },
+ "d8eea0f5fb59": {
+  "en": "<strong>Education:</strong> none provided, for now; some people move to Blood for schooling.",
+  "t": "<strong>التعليم:</strong> لا يُقدَّم، حاليًا؛ ينتقل بعض الناس إلى بلاد للدراسة."
+ },
  "d959a5281641": {
   "en": "Cities · #HusbandOutWorld",
   "t": "المدن · #HusbandOutWorld"
+ },
+ "d9d40930fd92": {
+  "en": "The village elders keep things afloat, since Forway doesn't seem to care much. <strong>Threats:</strong> not really, apart from the Wood People.",
+  "t": "يبقي شيوخ القرية الأمور ماضية، لأن فورواي لا يبدو أنها تهتم كثيرًا. <strong>التهديدات:</strong> ليس حقًا، عدا الوود بيبول."
+ },
+ "dbb968710c5d": {
+  "en": "<strong>Economy:</strong> revolves around the Tastyleaf tree in the fall, when the major shipments come and go. The rest of the year it trades with the Cruros and serves as a town for the adventurers working the area.",
+  "t": "<strong>الاقتصاد:</strong> يدور حول شجرة التيستي ليف في الخريف، حين تأتي الشحنات الكبرى وتذهب. وبقية العام تتاجر مع الكرورو وتعمل بلدةً للمغامرين العاملين في المنطقة."
  },
  "dbf9006b201f": {
   "en": "On the surface, like the other cities; on the down low, like the villages of the Freeish Kingdom.",
@@ -591,9 +1107,33 @@
   "en": "<strong>Companion Meetup:</strong> every Adrian, a massive meetup where Sorefaries sit at tables and adventurers come over to talk about themselves. If the adventurers and a Sorefaries form a bond, the adventurers pay the city a fee to take them as a companion.",
   "t": "<strong>لقاء الرفقاء:</strong> في كل أدريان، لقاء ضخم يجلس فيه السوريفاريس إلى الطاولات ويأتي المغامرون ليتحدثوا عن أنفسهم. إن تكوّنت رابطة بين المغامرين وأحد السوريفاريس، يدفع المغامرون للمدينة رسمًا ليأخذوه رفيقًا."
  },
+ "de82c2774096": {
+  "en": "<strong>Elevator:</strong> controls the elevators.",
+  "t": "<strong>المصعد:</strong> تتحكم في المصاعد."
+ },
  "dedb02314408": {
   "en": "<strong>Animal Part Extraction Facility (#6):</strong> since some animal parts vary in quality and are growing rarer, Forway invested in a facility where the best specimens with desirable parts are kept freshly dead and harvested with Body Heal.",
   "t": "<strong>منشأة استخراج أجزاء الحيوانات (#6):</strong> لأن جودة بعض أجزاء الحيوانات تتفاوت وتزداد ندرة، استثمرت فورواي في منشأة تُبقي فيها أفضل العيّنات ذات الأجزاء المرغوبة ميتة حديثًا وتحصدها ببودي هيل."
+ },
+ "e05928b1f21a": {
+  "en": "A smaller village that grew in the backbone of Wingarest, also serving as a resting stop for adventurers. Notorious for being the laziest thing around; some people visit just to chill.",
+  "t": "قرية أصغر نمت في العمود الفقري لوينغاريست، وتعمل أيضًا محطة استراحة للمغامرين. سيئة السمعة بأنها أكسل شيء على الإطلاق؛ يزورها بعض الناس لمجرد الاسترخاء."
+ },
+ "e07f8aab2be5": {
+  "en": "Politics, society and culture",
+  "t": "السياسة والمجتمع والثقافة"
+ },
+ "e3ce9de90ca7": {
+  "en": "<strong>Adventurer recognition:</strong> every Paulin, to recognize adventurers and promote the best (most loyal) ones.",
+  "t": "<strong>تكريم المغامرين:</strong> في كل باولين، لتكريم المغامرين وترقية أفضلهم (أكثرهم ولاءً)."
+ },
+ "e4cf1f366910": {
+  "en": "<strong>The Great Cluster:</strong> a mountain with clusters of mud houses built by Big Wingas. A human could fit in the holes, which shows how big they were, and the claw marks still there show how fearsome the species was. It's now mostly home to Wingas. What was once a royal or leader's house, the biggest mud house of all, now stands empty.",
+  "t": "<strong>العنقود الكبير:</strong> جبل فيه عناقيد من بيوت الطين بنتها البيغ وينغا. يمكن لإنسان أن يدخل في الثقوب، مما يُظهر كم كانت كبيرة، وآثار المخالب الباقية تُظهر كم كان النوع مخيفًا. صار الآن موطنًا للوينغا في الغالب. وما كان يومًا بيت ملك أو قائد، أكبر بيوت الطين جميعًا، يقف الآن خاليًا."
+ },
+ "e4ef96943fdd": {
+  "en": "<strong>Burial:</strong> like Blood and the Freeish Kingdom.",
+  "t": "<strong>الدفن:</strong> مثل بلاد ومملكة فريئيش."
  },
  "e5a52f7c95e7": {
   "en": "The \"All the Way Festival\" takes the cake among the many festivals. Seeing the adventurer recognition festival is fun and all, but the name \"All the Way\" implies how grandiose it is.",
@@ -615,9 +1155,17 @@
   "en": "<strong>Hot Skin:</strong> one of the earliest guilds, famous for running the OutBalls and InBalls resorts. It's common to see carriages packed with men stop right in front of the guild and everyone go straight in for fun times: inside, the women working there move about, and you can pick one to \"spend time with\".",
   "t": "<strong>هوت سكين:</strong> من أوائل النقابات، مشهورة بإدارة منتجعَي آوت بولز وإن بولز. من المعتاد أن ترى عربات مكتظة بالرجال تتوقف أمام النقابة مباشرة ويدخل الجميع فورًا لقضاء أوقات ممتعة: في الداخل، تتنقل النساء العاملات هناك، ويمكنك اختيار واحدة «لتقضي الوقت معها»."
  },
+ "eb2eb95b0821": {
+  "en": "<strong>Economy:</strong> farming and selling desert goods. It's something of an adventurer town, with hotels, healers, etc.",
+  "t": "<strong>الاقتصاد:</strong> الزراعة وبيع سلع الصحراء. إنها أشبه ببلدة مغامرين، فيها فنادق ومعالجون وغير ذلك."
+ },
  "ed52520d2d75": {
   "en": "In a way, it can be considered its own Kingdom, but its officials would vehemently deny that's the case. For them, Forway is a common ground for all kingdoms to trade freely, communicate clearly, and peacefully settle any issues. To that extent, Forway also keeps the peace by managing all cities outside a given Kingdom's permanently fixed sphere of influence.",
   "t": "يمكن اعتبارها بمعنى ما مملكة قائمة بذاتها، لكن مسؤوليها سينكرون ذلك بشدة. فبالنسبة لهم، فورواي أرض مشتركة لكل الممالك لتتاجر بحرية وتتواصل بوضوح وتحل أي مشكلات سلميًا. وفي هذا الإطار، تحفظ فورواي السلام أيضًا بإدارة كل المدن الواقعة خارج نطاق النفوذ الثابت الدائم لكل مملكة."
+ },
+ "eebb55d6a7ba": {
+  "en": "<strong>Black Honey Aged Wooly Cheese:</strong> a specialty made by putting Wooly cheese into some of Sweetlake's Black Honey vaults and letting it rest for about 3 months.",
+  "t": "<strong>جبن الوولي المعتّق بالعسل الأسود:</strong> تخصص يُصنع بوضع جبن الوولي في بعض أقبية العسل الأسود في سويت ليك وتركه يرتاح نحو 3 أشهر."
  },
  "f02c45c22059": {
   "en": "<strong>#9:</strong> a newer tribe that works well with the Half-Cruros.",
@@ -627,9 +1175,17 @@
   "en": "Public text: city-forway.md",
   "t": "النص العام: city-forway.md"
  },
+ "f164793481dc": {
+  "en": "<strong>Visual references:</strong> like Sanbi, but hillier, mixed with Tolerideme's Wood People building structures.",
+  "t": "<strong>مراجع بصرية:</strong> مثل سانبي، لكن أكثر تلالًا، ممزوجة بهياكل البناء من الوود بيبول في توليريديمي."
+ },
  "f265571363e8": {
   "en": "Waterfall",
   "t": "ووترفول"
+ },
+ "f2680d345212": {
+  "en": "<strong>Clothing:</strong> Egyptian and medieval themed.",
+  "t": "<strong>الملابس:</strong> بطابع مصري وقروسطي."
  },
  "f4577fab042c": {
   "en": "<strong>Guards:</strong> Forway guards trust their crossbows with their lives. Their shiny armor and generous Forway funding make them very visible and somewhat slow, but they always travel in groups, so picking a fight isn't advised, unless you know how to exploit their superiority complex, common among these guards: let them think they have the upper hand, then hit back with a surprise counterattack at the last second and make them bleed out. Some have baited them into traps, too, but that's harder when they have a Sorefaries or another companion watching their surroundings. Either way, once you're fighting them, beware of their revival capabilities, unless you take away their hearty and expensive supply of Black Honey, often kept in their leg pockets.",
@@ -639,9 +1195,25 @@
   "en": "<strong>Forway Palace:</strong> also known as the Black Tower: the giant tower at the city center, where all business and administration flows through. People casually call it the Forway castle. Entering requires a badge. The lower floors are the embassy, the upper floors are restricted to Sapphire adventurers and kingdom and city officials, and underground is research and experimentation. They cross-check names against books and other people if they suspect someone.",
   "t": "<strong>قصر فورواي:</strong> يُعرف أيضًا بالبرج الأسود: البرج العملاق في مركز المدينة، حيث تمر كل الأعمال والإدارة. يسميه الناس عرضًا قلعة فورواي. يتطلب الدخول بطاقة. الطوابق السفلى هي السفارة، والطوابق العليا مقصورة على مغامري السافاير ومسؤولي الممالك والمدن، وتحت الأرض الأبحاث والتجارب. يطابقون الأسماء مع الكتب والأشخاص الآخرين إن ارتابوا في أحد."
  },
+ "f608e074989f": {
+  "en": "<strong>Burial:</strong> like Sanbi, but the stones here are triangle-shaped.",
+  "t": "<strong>الدفن:</strong> مثل سانبي، لكن الحجارة هنا مثلثة الشكل."
+ },
  "f68b291af767": {
   "en": "Deltacross",
   "t": "دلتاكروس"
+ },
+ "f6eac8e2b844": {
+  "en": "<strong>Burial:</strong> some follow Sanbi's practices, others Tolerideme's.",
+  "t": "<strong>الدفن:</strong> يتبع بعضهم ممارسات سانبي، وآخرون ممارسات توليريديمي."
+ },
+ "f87e165393d2": {
+  "en": "Mixed, with more Darfaries than humans, and beliefs leaning toward the individualist side. Gambling is everywhere: people are trying to make as much money as possible.",
+  "t": "مختلطة، مع دارفاريس أكثر من البشر، ومعتقدات تميل إلى الجانب الفردي. القمار في كل مكان: الناس يحاولون جني أكبر قدر ممكن من المال."
+ },
+ "fa3345c262ab": {
+  "en": "<strong>Waterfall Jump Race:</strong> every summer, a competition to see who drops down the waterfall fastest and lands safely in the water below.",
+  "t": "<strong>سباق القفز من ووترفول:</strong> في كل صيف، مسابقة لمعرفة من يهبط الشلال أسرع ويحط بأمان في الماء أسفله."
  },
  "fc3f7024f773": {
   "en": "Cruro",
@@ -654,5 +1226,17 @@
  "fe025cbd55e7": {
   "en": "<strong>Abandoned Dock (#3):</strong> fishing isn't considered viable on the massive lake, even though Fihi is its specialty: the Fihi there developed a taste for humans and figured out how to sink them into the water. Usually adventurers fish there, or people cast from the shore; most people catch their Fihi on the Buhraies Plains instead.",
   "t": "<strong>الرصيف المهجور (#3):</strong> لا يُعتبر الصيد مجديًا في البحيرة الهائلة، مع أن الفيهي تخصصها: طوّرت الفيهي هناك شهية للبشر واكتشفت كيف تغرقهم في الماء. عادةً يصطاد المغامرون هناك، أو يرمي الناس من الشاطئ؛ ومعظم الناس يصطادون فيهيهم في سهول البورايس بدلًا من ذلك."
+ },
+ "fe2c69944d77": {
+  "en": "<strong>Crime and law:</strong> sorted out among the people. When things get hairy, Sapphire adventurers are sent in to stop it, and Amethysts are sent regularly to help the guards rotating through the city.",
+  "t": "<strong>الجريمة والقانون:</strong> يُسوّى بين الناس. وحين تتعقد الأمور، يُرسل مغامرو السافاير لإيقافها، ويُرسل مغامرو الأميثيست بانتظام لمساعدة الحراس المتناوبين على المدينة."
+ },
+ "ffe789ac0469": {
+  "en": "The tree is massive, so at first everyone shared it. But as the city grew, so did the number of people who wanted to own and profit from it, and people from different guilds banded together into new guilds to seize control of the tree. Forway kind of turns a blind eye, as long as the tree isn't harmed.",
+  "t": "الشجرة هائلة، لذا تشاركها الجميع في البداية. لكن مع نمو المدينة، نما عدد من أرادوا امتلاكها والربح منها، فتكاتف أناس من نقابات مختلفة في نقابات جديدة للسيطرة على الشجرة. تغض فورواي الطرف نوعًا ما، ما دامت الشجرة لا تتأذى."
+ },
+ "ffffd5c40749": {
+  "en": "<strong>Cleansing Fountain:</strong> where people go for public enemas: they touch their butt to the fountain, and it cleans them out.",
+  "t": "<strong>نافورة التطهير:</strong> حيث يذهب الناس للحقن الشرجية العامة: يلمسون النافورة بمؤخراتهم، فتنظفهم."
  }
 }
