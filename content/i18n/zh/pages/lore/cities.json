@@ -1,4 +1,16 @@
 {
+ "0145f741e3be": {
+  "en": "<strong>Calm Water Resort Guild (#4):</strong> adventurers who are getting old and have no money left join this guild, spending their retirement at the Calm Water Resort in exchange for helping protect it against threats.",
+  "t": "<strong>卡姆沃特度假村公会（#4）：</strong>年纪渐长又没钱的冒险者会加入这个公会，在卡姆沃特度假村度过退休生活，作为交换，他们帮忙保护度假村免受威胁。"
+ },
+ "023fe97a0a48": {
+  "en": "Mostly humans, with a handful of Darfaries, a few Wozefaries and tons of Sorefaries, plus a handful of adventurers with Bruntos or Sorefaries.",
+  "t": "主要是人类，有一小撮达尔法里斯、几个沃泽法里斯和大量的索雷法里斯，外加一小撮带着布伦托斯或索雷法里斯的冒险者。"
+ },
+ "02fb4cefb711": {
+  "en": "<strong>Local embassy quests:</strong> embassy checking and verification.",
+  "t": "<strong>当地大使馆任务：</strong>大使馆的检查和核实。"
+ },
  "068ba6951d50": {
   "en": "Cadioca",
   "t": "卡迪奥卡"
@@ -7,41 +19,373 @@
   "en": "Tastyleaf",
   "t": "泰斯蒂利夫"
  },
+ "088f7c66db12": {
+  "en": "<strong>Economy:</strong> exports Lonllows all year long; the five guilds' cooperation keeps a constant supply flowing through the kingdoms.",
+  "t": "<strong>经济：</strong>全年出口朗洛；五个公会的合作让朗洛源源不断地供应到各个王国。"
+ },
+ "0b9e98ac54d6": {
+  "en": "<strong>Education:</strong> follows Forway.",
+  "t": "<strong>教育：</strong>遵循福威。"
+ },
+ "0cdeb9641aef": {
+  "en": "<strong>Clothing:</strong> warm-weather hunting clothes.",
+  "t": "<strong>服装：</strong>适合温暖天气的狩猎服装。"
+ },
+ "0e5922e6bdae": {
+  "en": "Other races rarely visit, out of fear of the Cruros, who act on instinct.",
+  "t": "其他种族很少来访，因为害怕凭本能行事的克鲁罗。"
+ },
+ "0e8670834c13": {
+  "en": "<strong>Asa, Paulin, Moacir and Adrian Lonllow Harvest (#2 to #5):</strong> each guild coordinates the harvest in its own month of the year.",
+  "t": "<strong>阿萨、保林、莫阿西尔和阿德里安朗洛收获（#2 到 #5）：</strong>每个公会在一年中属于自己的月份协调收获。"
+ },
+ "0f398def6755": {
+  "en": "Two villages across the lake offer transport, and the constant flow of people through them gave the city its economic lifeline. They see themselves as villages of the Freeish Kingdom, but Forway made them a city of their own to shrink the kingdom; through backdoor negotiations, they stay part of the Freeish Kingdom anyway.",
+  "t": "湖对岸的两个村庄提供交通，经过那里的源源不断的人流成了这座城市的经济命脉。他们自认为是弗里伊什王国的村庄，但福威为了削弱这个王国，把它们划成了一座独立的城市；通过幕后谈判，它们仍然算是弗里伊什王国的一部分。"
+ },
+ "135aa68327b2": {
+  "en": "<strong>Clothing:</strong> a gap between rich and poor, mixing styles from every other kingdom.",
+  "t": "<strong>服装：</strong>贫富差距明显，混合了其他各个王国的风格。"
+ },
+ "17f112e14a68": {
+  "en": "<strong>Names:</strong> like the Gandew Kingdom and Forway.",
+  "t": "<strong>名字：</strong>和甘杜王国以及福威一样。"
+ },
  "18eb8f9e258b": {
   "en": "A badge is required to access the Black Castle and the innermost maze of Forway's cityscape. It's all for security and trading purposes since that's where the balls and contracts flow the most.",
   "t": "进入黑城堡和福威城区最深处的迷宫需要身份牌。这完全是出于安全和贸易的考虑，因为那里是球和契约流通最多的地方。"
+ },
+ "19f6469ba817": {
+  "en": "<strong>Broken Knuckle:</strong> the tavern where Honati worked.",
+  "t": "<strong>断指节：</strong>霍娜蒂工作过的酒馆。"
+ },
+ "1f2ead0d49db": {
+  "en": "City (World Lore illustration)",
+  "t": "城市（世界观插图）"
+ },
+ "200306699496": {
+  "en": "According to the smartest Cruros, quite a few tribes divide the territory:",
+  "t": "据最聪明的克鲁罗说，有好几个部落瓜分着这片领地："
+ },
+ "220ddf150e26": {
+  "en": "<strong>Marriage:</strong> mixed. Some marry by their own customs, going to the palace to speak with their kingdom or city representative. A growing trend is contract marriage between money-hungry people.",
+  "t": "<strong>婚姻：</strong>混杂的。有些人按自己的习俗结婚，去宫殿和他们王国或城市的代表谈。一个越来越流行的趋势是爱钱的人之间的契约婚姻。"
  },
  "24652e28b940": {
   "en": "Blood",
   "t": "布拉德"
  },
+ "2aa2f5bb5a66": {
+  "en": "Rich fauna and flora drew hunters (back before adventurers were a thing) to spend most of their lives around here. A single fire pit and a nearby hut slowly grew into a cluster of stone fireplaces with a city around them. The fire pits are constantly fed carcasses and other unusable garbage to smelt iron and other minerals and for blacksmithing, and since the city grew out of community spirit, they're public and publicly maintained.",
+  "t": "丰富的动物和植物吸引了猎人（那时还没有冒险者这回事），让他们大半辈子都在这一带度过。一个火坑和旁边的一间小屋，慢慢发展成了一圈石砌火塘，周围长出了一座城市。火坑里不断投入动物尸体和其他没用的垃圾，用来冶炼铁和其他矿物、打铁，而且因为这座城市是在社区精神中成长起来的，这些火坑是公共的，由公众维护。"
+ },
+ "2c16e9a223de": {
+  "en": "<strong>Threats:</strong> the occasional drunk, pervert or bandit, or all three in one person; and adventurers investigating something a Flatland guild didn't hide well enough.",
+  "t": "<strong>威胁：</strong>偶尔出现的醉鬼、变态或强盗，或者三者集于一身的人；以及调查某个弗拉特兰公会没藏好的东西的冒险者。"
+ },
+ "2ca032c0016d": {
+  "en": "<strong>Marriage:</strong> made official by the village leader. Then the couple (who must buy or build a house first) goes to the House of Bruntos to bond with one and bring it home.",
+  "t": "<strong>婚姻：</strong>由村长正式确认。然后这对夫妇（必须先买或建好房子）去布伦托斯之家，和一只布伦托建立感情，再把它带回家。"
+ },
+ "3139dba5b647": {
+  "en": "<strong>Names:</strong> mixed.",
+  "t": "<strong>名字：</strong>混杂的。"
+ },
+ "31af7e2a22ff": {
+  "en": "<strong>The Fivs:</strong> the transportation guild that moves the Lonllows. It has no proper name: \"Fivs\" became the shorthand because they were the last (fifth) guild welcomed in, and the farming guilds kind of put themselves above them.",
+  "t": "<strong>菲夫斯：</strong>运送朗洛的运输公会。它没有正式的名字：“菲夫斯”成了简称，因为他们是最后（第五个）被接纳的公会，而那些农业公会多少有点把自己看得比他们高。"
+ },
+ "33d99825d022": {
+  "en": "<strong>Marriage and names:</strong> like the Freeish Kingdom, but a marriage proposal is made with the game they're proudest of instead of fruit.",
+  "t": "<strong>婚姻与名字：</strong>和弗里伊什王国一样，但求婚时用的是他们最得意的猎物，而不是水果。"
+ },
+ "35178d8f5712": {
+  "en": "<strong>Names:</strong> they don't have names. The highly intelligent ones get one from the Sanbi or Tastyleaf embassy, through the Half-Cruro guild.",
+  "t": "<strong>名字：</strong>他们没有名字。高智力的克鲁罗会通过哈夫克鲁罗公会，从桑比或泰斯蒂利夫的大使馆得到一个名字。"
+ },
+ "35b259290ec3": {
+  "en": "Food",
+  "t": "食物"
+ },
  "37f55ee4a86e": {
   "en": "Forway Guards: a guard in white-and-gray hooded armor, next to a map section around Forway city.",
   "t": "福威卫兵：一名身穿白灰色连帽盔甲的卫兵，旁边是福威城周边的一段地图。"
+ },
+ "38152b677861": {
+  "en": "<strong>Lonllows Cuisine:</strong> a big fest in Paulin, where people from all over make food and drinks with Lonllows. The winner takes home a massive stack of Lonllows.",
+  "t": "<strong>朗洛美食节：</strong>保林月的一场盛大节庆，来自各地的人用朗洛做食物和饮品。获胜者能带回一大堆朗洛。"
+ },
+ "3a2d7da20eed": {
+  "en": "<strong>Crime and law:</strong> follows Forway Law. Minor punishments are paid by replacing the goods; for a major one, the criminal is thrown into the Skin Peeler.",
+  "t": "<strong>犯罪与法律：</strong>遵循福威法律。轻罪通过赔偿货物来抵；重罪的话，罪犯会被扔进剥皮间歇泉。"
+ },
+ "3c9f08d5f15d": {
+  "en": "<strong>Crime and law:</strong> like the Sanbi Kingdom.",
+  "t": "<strong>犯罪与法律：</strong>和桑比王国一样。"
+ },
+ "3e940f401b10": {
+  "en": "<strong>Egua Uniform Contest:</strong> every Asa and Adrian, a contest to design new uniforms for the eguas; they must be waterproof and suit the weather. The winner's name goes on a board displayed at the crossing buildings.",
+  "t": "<strong>埃瓜制服大赛：</strong>每年阿萨月和阿德里安月，举办一场为埃瓜设计新制服的比赛；制服必须防水，适合天气。获胜者的名字会写在一块牌子上，展示在渡口楼。"
+ },
+ "3eb7936bcef6": {
+  "en": "<strong>Clothing:</strong> closer to the Freeish Kingdom, mixed with Forway.",
+  "t": "<strong>服装：</strong>更接近弗里伊什王国，混合了福威的风格。"
+ },
+ "40e5eb2ae546": {
+  "en": "<strong>Second Life:</strong> every Moacir, a festival across the whole town celebrating every Wozefaries and Sorefaries who has landed since the last one.",
+  "t": "<strong>第二人生：</strong>每年莫阿西尔月，全镇举办的节庆，庆祝自上一次节庆以来降落在这里的每一个沃泽法里斯和索雷法里斯。"
+ },
+ "4129ea4ceb21": {
+  "en": "<strong>#2:</strong> rather peaceful.",
+  "t": "<strong>#2：</strong>相当和平。"
+ },
+ "44f9fb0aa7cd": {
+  "en": "<strong>The Floating Egua Hotel (#2):</strong> one of the oldest hotels, with entertainment for all tastes.",
+  "t": "<strong>漂浮埃瓜酒店（#2）：</strong>最古老的酒店之一，有满足各种口味的娱乐。"
+ },
+ "463e87409dfc": {
+  "en": "<strong>Economy:</strong> vellum from animal skin; butchers working game, bone and skin; bone armor and swords; bone meal and items such as totems; Black Mead; nari.",
+  "t": "<strong>经济：</strong>用兽皮制作羊皮纸；屠夫处理猎物、骨头和皮；骨甲和骨剑；骨粉和图腾之类的物品；黑蜜酒；纳里。"
+ },
+ "47d32a030409": {
+  "en": "Points of interest: the Cruro tribes",
+  "t": "景点：克鲁罗部落"
+ },
+ "481dca803873": {
+  "en": "<strong>Local embassy quests:</strong> nothing extra.",
+  "t": "<strong>当地大使馆任务：</strong>没有额外的。"
+ },
+ "4c896db0ae12": {
+  "en": "<strong>Names:</strong> like the Sanbi Kingdom.",
+  "t": "<strong>名字：</strong>和桑比王国一样。"
+ },
+ "4c89885f6c32": {
+  "en": "A decentralized government among the villages, led by guilds that work independently but cooperate rather well. Forway counts it as a single city, and the guilds choose a smart, good-natured representative with a strong bond with a Brunto.",
+  "t": "各村之间是分散的治理，由各自独立工作、但合作得相当好的公会领导。福威把它算作一座城市，各公会会选出一位聪明、善良、和一只布伦托关系深厚的代表。"
  },
  "4d31a8ab27bb": {
   "en": "Forway Guards",
   "t": "福威卫兵"
  },
+ "4ea20ea71e1d": {
+  "en": "<strong>Lonllow Breadcake:</strong> a delicious, not-too-sweet breadcake, common on Endlessfog. About 9 Pearls for a loaf the size of two fists.",
+  "t": "<strong>朗洛面包蛋糕：</strong>一种美味、不太甜的面包蛋糕，在恩德莱斯福格很常见。两个拳头大的一条大约 9 颗珀尔。"
+ },
+ "4f383ae666f2": {
+  "en": "Mostly Bruntos, with humans coordinating with them. People are often paler than usual, from less sun. They're nature-minded: at some point they even started burying people in the land and planting banana trees on top. Colder to foreigners, and outright violent with anyone who harms them or the Bruntos.",
+  "t": "主要是布伦托斯，人类和它们协作。这里的人往往比一般人苍白，因为晒太阳少。他们崇尚自然：有段时间他们甚至开始把人埋在地里，再在上面种香蕉树。对外人比较冷淡，对任何伤害他们或布伦托斯的人则毫不留情地施以暴力。"
+ },
+ "4f7d34c78a73": {
+  "en": "Society and culture",
+  "t": "社会与文化"
+ },
+ "50948c24ec90": {
+  "en": "<strong>Burial:</strong> bodies are often buried in the desert; Wozefaries and Sorefaries grew used to being buried at the same spot where they landed.",
+  "t": "<strong>丧葬：</strong>尸体常常被埋在沙漠里；沃泽法里斯和索雷法里斯已经习惯了被埋在他们降落的同一个地方。"
+ },
  "51112a2e7385": {
   "en": "Forway Guards trust their crossbows with their lives. Their shiny armor and respectable funding from Forway make them rather visible and somewhat slow, but they always travel in groups, so picking a fight with them is not advised. That is unless you know how to exploit their superiority complex, which is a common trait amongst these guards. Just make them think they have the upper hand, then attack them with a surprise counterattack at the last second to make them bleed out. Some have successfully baited them into a trap as well, but that ain’t as easy when they have a Sorefaries or another companion watching their surroundings. Either way, once you start battling them, be wary of their revival capabilities if you don’t take away their hearty and expensive supply of black honey often stored in their leg pockets.",
   "t": "福威卫兵把性命托付给他们的弩。他们闪亮的盔甲和福威提供的可观资金让他们相当显眼，也有点迟缓，但他们总是成群结队地行动，所以不建议和他们打架。除非你知道如何利用他们的优越感，这是这些卫兵的共同特征。只要让他们以为自己占了上风，然后在最后一秒出其不意地反击，让他们流血而死。也有人成功地把他们引进了陷阱，但如果他们有索雷法里斯或其他同伴在警戒周围，那就没那么容易了。不管怎样，一旦你开始和他们战斗，如果你不把他们那通常装在腿袋里、量足又昂贵的黑蜜拿走，就要小心他们的复活能力。"
+ },
+ "5333ec4aed89": {
+  "en": "<strong>Forway and You:</strong> the biggest journal, issued weekly on Freeday, with news, fashion and more.",
+  "t": "<strong>《福威与你》：</strong>最大的报刊，每周弗里日出版，有新闻、时尚等内容。"
+ },
+ "5339066b1aeb": {
+  "en": "<strong>Crossing Buildings (#1):</strong> large buildings where eguas and their carriages board a bigger boat, pulled by six eguas. Because of the water, the boat pulls about 10 tons: 15 full wagons per crossing, back and forth. 15 Pearls per wagon per crossing, 2 Pearls per person. The eguas pulling the boat are all dressed in uniform, a tradition from the village's early days.",
+  "t": "<strong>渡口楼（#1）：</strong>大型建筑，埃瓜和它们的车厢在这里登上一艘由六头埃瓜拉的更大的船。因为有水，这艘船能拉大约 10 吨：每趟 15 辆满载的马车，来回往返。每辆马车每趟 15 颗珀尔，每人 2 颗珀尔。拉船的埃瓜都穿着制服，这是从村子早期流传下来的传统。"
+ },
+ "54753e9d684e": {
+  "en": "<strong>Crime and law:</strong> Forway Law. If the person can pay for the crime, they walk away; if not, they go to prison.",
+  "t": "<strong>犯罪与法律：</strong>福威法律。如果这个人付得起罪行的代价，就能走人；付不起，就去坐牢。"
+ },
+ "55008f0a0573": {
+  "en": "<strong>Sun-Rotted Animals:</strong> a delicacy among Cruros, and perhaps some humans. Traded for other food, or free if the Tribe Leader gives it to you.",
+  "t": "<strong>日晒腐肉：</strong>克鲁罗的美味佳肴，也许某些人类也爱吃。用来换别的食物，或者如果部落首领赏给你，就是免费的。"
+ },
+ "555b9db7a85f": {
+  "en": "<strong>Visual references:</strong> like the Freeish Kingdom, but with hunting totems instead of trees with Trunk People.",
+  "t": "<strong>视觉参考：</strong>和弗里伊什王国一样，但用狩猎图腾代替了住着特朗克皮普尔的树。"
+ },
+ "56b1491dbf73": {
+  "en": "<strong>Economy:</strong> helping people cross the delta; resorts and bars.",
+  "t": "<strong>经济：</strong>帮人渡过三角洲；度假村和酒吧。"
+ },
+ "56b8df7cf7a6": {
+  "en": "<strong>Education:</strong> Forway created a fundamental school for children to \"expand their knowledge\", but a chunk of the population \"wood-schools\" their children instead of paying for it.",
+  "t": "<strong>教育：</strong>福威建了一所基础学校让孩子们“拓展知识”，但有一部分人不愿付钱，而是让孩子们“在林子里上学”。"
+ },
+ "5961396df807": {
+  "en": "<strong>Bone festival:</strong> every Asa, new totems are added around the city. People leave empty beer cups at the base of the totems they like most; the favorites are placed around town, and the losers are burned.",
+  "t": "<strong>骨头节：</strong>每年阿萨月，城里各处都会添上新的图腾。人们在自己最喜欢的图腾底座放上空啤酒杯；最受欢迎的会被摆在镇上各处，落选的则被烧掉。"
+ },
+ "5a4f92a8ca07": {
+  "en": "Ganyrami",
+  "t": "加尼拉米"
+ },
+ "5c0ce926723f": {
+  "en": "<strong>Boiling Ramen:</strong> ramen (from Tolerideme) cooked on the hottest geyser, with seasonings found only here, served with meat, wild game or fish. 7 to 30 Pearls a bowl.",
+  "t": "<strong>沸腾拉面：</strong>用最热的间歇泉煮的拉面（来自托勒里德梅），配上只有这里才有的调料，再加上肉、野味或鱼。一碗 7 到 30 颗珀尔。"
+ },
+ "5dbce8852528": {
+  "en": "Visual references:",
+  "t": "视觉参考："
+ },
+ "5ff714495e87": {
+  "en": "Endlessfog",
+  "t": "恩德莱斯福格"
+ },
+ "609b40edeec1": {
+  "en": "<strong>Wooly Filet Mignon wrapped in smoked Bagarisa bacon:</strong> one of the most expensive dishes around, served with mashed fried Cadioca and Domar barley. 1 Amethyst a meal; usually the first entrée at expensive taverns.",
+  "t": "<strong>烟熏巴加里萨培根卷伍利菲力牛排：</strong>这里最贵的菜之一，配上炸卡迪奥卡泥和多马尔大麦。一份 1 颗阿米西斯特；通常是高档酒馆的头道主菜。"
+ },
+ "6181bd94feda": {
+  "en": "<strong>Local embassy quests:</strong> Sweetlake assistance, Woodland exploration, Nari Caves assistance.",
+  "t": "<strong>当地大使馆任务：</strong>斯威特莱克协助、伍德兰探索、纳里洞穴协助。"
+ },
+ "623fffd32004": {
+  "en": "<strong>The Great Hunter/Huntress competition:</strong> every Asa, a two-week competition for the strongest hunters: tree cutting, hunting, skinning, wrestling, survival, honey gathering, etc.",
+  "t": "<strong>伟大猎人/女猎人大赛：</strong>每年阿萨月，为最强的猎人举办为期两周的比赛：伐树、狩猎、剥皮、摔跤、生存、采蜜等。"
+ },
+ "6450ad627cc1": {
+  "en": "<strong>Economy:</strong> trade and tourism.",
+  "t": "<strong>经济：</strong>贸易和旅游。"
+ },
+ "66fa8b201802": {
+  "en": "<strong>Nari Extraction Coordination Office (#5):</strong> a long name for a building that investigates and prosecutes anyone who harms the nari worms.",
+  "t": "<strong>纳里开采协调办公室（#5）：</strong>一座名字很长的建筑，负责调查和起诉任何伤害纳里沃姆的人。"
  },
  "6a904b823b54": {
   "en": "Forway city emblem: a silver-ringed disc split into tan, red, blue and green sections with a mountain, wheat, a fish and a branching line around a pearl.",
   "t": "福威城徽：一个银环圆盘，分成黄褐、红、蓝、绿四个部分，围绕着一颗珍珠画有山、麦子、鱼和分叉的线条。"
  },
+ "6b1bd80fb3bf": {
+  "en": "Mostly Wozefaries, with some Sorefaries, a few humans, and some humans from Sundeath. Lots of tourists, leaning heavily male. Their motto: \"Flatland is here to satisfy you.\" Very open-minded and warm, but step out of line or pry into their private matters, and they'll kill you to protect their town and its people. Reserved about private matters, but very accommodating about everything else: good listeners, touchy and handsy. Boots and sandals stay in one spot inside the home (real-world comparison: Thailand).",
+  "t": "主要是沃泽法里斯，有一些索雷法里斯、少数人类，还有一些来自桑德斯的人类。游客很多，大多是男性。他们的座右铭是：“弗拉特兰在这里满足你。”非常开放、热情，但如果你越界或者打探他们的私事，他们会杀了你来保护他们的城镇和人民。对私事守口如瓶，但对其他一切都非常通融：善于倾听，爱动手动脚。靴子和凉鞋在家里要放在固定的地方（现实世界的对照：泰国）。"
+ },
+ "6b6c1411f9a9": {
+  "en": "Retired hunters gather around the stone fireplaces every day to help run the city. With no representative, governor or king, Blood doesn't have a strong voice at the Forway meetings. Forway tried to push a government on them and got a backlash (animal guts poured on their Blood embassy), so it switched to a slow takeover through the embassy quest system, signing people up as adventurers instead. With time, they'll change the culture.",
+  "t": "退休的猎人们每天聚在石砌火塘周围，帮忙管理城市。布拉德没有代表、总督或国王，在福威的会议上说话没什么分量。福威曾试图强加一个政府给他们，结果遭到了反弹（动物内脏被泼在他们的布拉德大使馆上），于是福威改为通过大使馆任务系统慢慢接管，转而把人们登记为冒险者。假以时日，他们会改变这里的文化。"
+ },
+ "6bd93f0aaada": {
+  "en": "<strong>White Bell (#3):</strong> famous for a single courtesan who rose in life after a career pleasuring her guests, and now controls multiple brothels. She has a big, well-known homestead where some \"parties\" happen.",
+  "t": "<strong>怀特·贝尔（#3）：</strong>因一位交际花而闻名，她在取悦客人的职业生涯之后飞黄腾达，如今掌控着多家妓院。她有一座有名的大宅子，里面会举办一些“派对”。"
+ },
+ "6cb064b13500": {
+  "en": "<strong>Crime and law:</strong> follows Forway Law. Minor punishments are paid by replacement; for a major one, the criminal is sent to Freeish.",
+  "t": "<strong>犯罪与法律：</strong>遵循福威法律。轻罪通过赔偿来抵；重罪的话，罪犯会被送到弗里伊什。"
+ },
+ "6cc49b50edea": {
+  "en": "<strong>Burial:</strong> no widely followed ritual. Some throw the bodies into the delta so they're carried out to sea; others follow the customs of where they came from.",
+  "t": "<strong>丧葬：</strong>没有普遍遵循的仪式。有些人把尸体扔进三角洲，让它们被冲进大海；其他人则遵循自己家乡的习俗。"
+ },
+ "6e5c2fcb518a": {
+  "en": "Politics",
+  "t": "政治"
+ },
+ "6f4a9745dca7": {
+  "en": "<strong>Fireplaces:</strong> the stone fireplaces the city grew around.",
+  "t": "<strong>火塘：</strong>这座城市围绕着发展起来的石砌火塘。"
+ },
+ "70cc4278b6b4": {
+  "en": "<strong>Threats:</strong> anyone trying to overthrow the current balance of power, or planting false information between leaders to provoke arguments.",
+  "t": "<strong>威胁：</strong>任何试图推翻当前权力平衡的人，或者在领导人之间散布虚假信息挑起争吵的人。"
+ },
+ "712ebd9bc6e7": {
+  "en": "Sweetlake",
+  "t": "斯威特莱克"
+ },
+ "727c0903d1e8": {
+  "en": "<strong>Specialized Schools (#E types):</strong> see Education.",
+  "t": "<strong>专门学校（#E 类）：</strong>见教育。"
+ },
+ "73d3ae245f3c": {
+  "en": "Triangle",
+  "t": "特赖安格尔"
+ },
+ "75e9b2db66d6": {
+  "en": "<strong>Threats:</strong> the dumb ones, or their pets, attack passersby once in a while, and if the population grows too large, adventurers could invade to thin it out. Some Sanbi citizens still hold a grudge against the Cruros for taking away the easy job of collecting pearls.",
+  "t": "<strong>威胁：</strong>笨的克鲁罗或它们的宠物偶尔会袭击路人，如果数量增长得太多，冒险者可能会入侵来削减数量。一些桑比市民至今仍对克鲁罗抢走了采珍珠这份轻松活儿怀恨在心。"
+ },
  "7735fd308fce": {
   "en": "Cities",
   "t": "城市"
+ },
+ "7af50d9988db": {
+  "en": "<strong>InBalls Spring Resort:</strong> like OutBalls, but female-focused.",
+  "t": "<strong>内球温泉度假村：</strong>和外球一样，但以女性为主。"
+ },
+ "7d35538976dc": {
+  "en": "Hunting totems made of bone, stone, Fost stone and wood are placed and maintained around town, and people eat bone meal to keep their souls strong. They're rather tribal, but welcoming to people who don't look like authority; always ready to fight and compete to be the best, while keeping their hunting secrets within their guilds over generations. Some families actively avoid all Forway embassy services.",
+  "t": "镇上各处立着并维护着用骨头、石头、福斯特石和木头做成的狩猎图腾，人们吃骨粉来让灵魂保持强健。他们相当有部落气息，但对看起来不像官方的人很欢迎；总是准备好战斗、比拼谁是最好的，同时把狩猎秘诀世世代代保留在各自的公会里。有些家庭主动回避福威大使馆的所有服务。"
+ },
+ "7dad09e57607": {
+  "en": "<strong>Burial:</strong> they trade their dead for food.",
+  "t": "<strong>丧葬：</strong>他们用死者换食物。"
+ },
+ "82337815f0c0": {
+  "en": "<strong>Bloody Blood Sausage:</strong> Blood City's famous Bagarisa-and-blood sausage, in a wavy pattern.",
+  "t": "<strong>血淋淋血肠：</strong>布拉德城有名的巴加里萨血肠，呈波浪状。"
  },
  "827944f72095": {
   "en": "13 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "本页另有 13 个条目仅在<button class=\"linklike\" data-go-bts>幕后</button>中提供。"
  },
+ "8335d5e3de66": {
+  "en": "<strong>Economy:</strong> a spring town for travelers and a rest stop before the Gandew Kingdom; adventurers hire Sorefaries here. Mines Amethysts for Forway City, and mines and processes Fost stones.",
+  "t": "<strong>经济：</strong>供旅人泡温泉的小镇，也是去甘杜王国之前的歇脚点；冒险者在这里雇用索雷法里斯。为福威城开采阿米西斯特，并开采和加工福斯特石。"
+ },
+ "85cf1d68359d": {
+  "en": "<strong>Drunken Sweet Sting Festival:</strong> every Adrian, the top 10 of the Great Hunter/Huntress competition dress in special Sweet Sting costumes and bar-hop around Blood and Sweetlake, drinking Black Mead. Other adventurers follow along celebrating, and bars put on their best show and goods to lure the famous adventurers in.",
+  "t": "<strong>醉醺醺斯威特斯廷节：</strong>每年阿德里安月，伟大猎人/女猎人大赛的前 10 名会穿上特制的斯威特斯廷伪装服，在布拉德和斯威特莱克一家接一家地串酒吧，喝黑蜜酒。其他冒险者跟着一起庆祝，酒吧也拿出最好的表演和货品，吸引这些有名的冒险者进门。"
+ },
  "860fa4fb3f40": {
   "en": "Tolerideme",
   "t": "托勒里德梅"
+ },
+ "8670b866b855": {
+  "en": "<strong>Education:</strong> a standard dress code and teaching (see Education).",
+  "t": "<strong>教育：</strong>标准的着装规定和教学（见教育）。"
+ },
+ "873af5201944": {
+  "en": "<strong>Marriage:</strong> the tribe leader is the only one who can mate with all the Crocus in the region.",
+  "t": "<strong>婚姻：</strong>部落首领是唯一可以和该地区所有克罗卡斯交配的。"
+ },
+ "88b120300609": {
+  "en": "Mostly Crocus and dumb Cruros, a few intelligent Cruros, and rarely a highly intelligent one who stays. No religion. Tribal: a young Cruro's rite of passage is to kill one Wood Person, bring the body back to build a hut, and tame a Crocus.",
+  "t": "主要是克罗卡斯和笨的克鲁罗，有几只聪明的克鲁罗，很少有高智力的克鲁罗会留下来。没有宗教。部落化：年轻克鲁罗的成年礼是杀死一个伍德皮普尔，把尸体带回来盖一间小屋，再驯服一只克罗卡斯。"
+ },
+ "8a239039d68b": {
+  "en": "<strong>Grand Miner (#5):</strong> the region's biggest mining operation, specializing in Amethysts for minting.",
+  "t": "<strong>大矿工（#5）：</strong>该地区最大的采矿企业，专门开采用于铸币的阿米西斯特。"
+ },
+ "8a241e57b6ca": {
+  "en": "A city bristling with research, academia and rich people. Forway's style is gothic, like the Addams Family (metal bathtubs, black with red corners), and it's also known for its bureaucracy. Rich people live inside the city, where a badge is required; poor people live around it, where no badge is needed.",
+  "t": "一座遍布研究机构、学术界和有钱人的城市。福威的风格是哥特式的，就像亚当斯一家（金属浴缸，黑色配红色的边角），它还以官僚主义著称。有钱人住在城里，那里需要身份牌；穷人住在城市周围，那里不需要身份牌。"
+ },
+ "8a6951ca270d": {
+  "en": "<strong>Drink Floaters:</strong> drinks served in Cocona shells, which you let float off into the stream when you're done. 10 to 30 Pearls.",
+  "t": "<strong>漂流饮品：</strong>装在科科纳壳里的饮料，喝完后你就让它顺着溪流漂走。10 到 30 颗珀尔。"
+ },
+ "8b2a6706febd": {
+  "en": "<strong>Flatland Darfaries Market (#1):</strong> the city's center, where many products to and from the Gandew Kingdom are found.",
+  "t": "<strong>弗拉特兰达尔法里斯市场（#1）：</strong>城市的中心，在这里能找到许多运往或来自甘杜王国的商品。"
+ },
+ "8b2f4dfa1378": {
+  "en": "<strong>Life 'n' Oasis Resort (#2):</strong> a large resort for rich people, owned and run by one of the bandit guilds, which is rumored to still operate underground.",
+  "t": "<strong>生命与绿洲度假村（#2）：</strong>一家为有钱人开的大型度假村，由其中一个强盗公会拥有和经营，传言这个公会仍在地下运作。"
+ },
+ "8d1c86cf78f8": {
+  "en": "<strong>#1 and #10:</strong> too busy dealing with the Wood People to care what happens around them.",
+  "t": "<strong>#1 和 #10：</strong>忙着对付伍德皮普尔，顾不上周围发生什么。"
+ },
+ "8d9e36c67cfe": {
+  "en": "A tribe leader's word is final. To become tribe leader, you fight the current one; when another Cruro wins, all the previous leader's infants are killed and eaten. Highly intelligent Cruros don't take part in the tribal fights.",
+  "t": "部落首领的话就是最终决定。要成为部落首领，就得和现任首领决斗；当另一只克鲁罗获胜时，前任首领的所有幼崽都会被杀死吃掉。高智力的克鲁罗不参加部落间的争斗。"
+ },
+ "926dbe8a1db4": {
+  "en": "<strong>Hot in the Cold:</strong> every Asa, a food festival around the Skin Peeler Geyser.",
+  "t": "<strong>寒中热：</strong>每年阿萨月，在剥皮间歇泉周围举办的美食节。"
  },
  "94f8b3c408cf": {
   "en": "Forway",
@@ -51,36 +395,264 @@
   "en": "In a way, it can be considered its own Kingdom, but its officials would vehemently deny that's the case.",
   "t": "在某种程度上，它可以被视为一个独立的王国，但它的官员会强烈否认这一点。"
  },
+ "96f9d1947e57": {
+  "en": "<strong>Clothing:</strong> none.",
+  "t": "<strong>服装：</strong>无。"
+ },
+ "97b96e73dce8": {
+  "en": "<strong>Threats:</strong> Forway stamping on their way of life for trying to be part of the Freeish Kingdom.",
+  "t": "<strong>威胁：</strong>福威因为他们想成为弗里伊什王国的一部分而践踏他们的生活方式。"
+ },
+ "99caf98549dc": {
+  "en": "<strong>Calm Water Resort (#4):</strong> home of the Calm Water Resort Guild. Wealthier residents who believe in Gandew's spiritual powers often come to live here in their later years, especially those who think they might be haunted by the spirits of people they screwed over.",
+  "t": "<strong>卡姆沃特度假村（#4）：</strong>卡姆沃特度假村公会的大本营。相信甘杜精神力量的较富裕居民常常在晚年来这里住，尤其是那些认为自己可能被坑过的人的鬼魂缠上了的人。"
+ },
  "99f3cf9d24f6": {
   "en": "Sundeath",
   "t": "桑德斯"
+ },
+ "9aac3ebf1743": {
+  "en": "<strong>Local embassy quests:</strong> Fuhrair assistance.",
+  "t": "<strong>当地大使馆任务：</strong>弗莱尔协助。"
+ },
+ "9ae75164603b": {
+  "en": "<strong>House of Bruntos (#1):</strong> a house that unbonded Bruntos have all to themselves, where humans and Bruntos come to bond. If a bond forms, the Brunto moves into the human's home. Adventurers can do the same, and if they bond with a Brunto, they can take it along as a companion for free (a decision made to boost tourism, though it rarely happens). Inside stands a 20-meter wooden statue of the Bruntos who taught them to plant Lonllows and hide from the Lishies.",
+  "t": "<strong>布伦托斯之家（#1）：</strong>一座专供尚未结缘的布伦托斯居住的房子，人类和布伦托斯来这里建立感情。如果结下了缘，那只布伦托就会搬进那个人的家里。冒险者也可以这样做，如果他们和一只布伦托结了缘，就可以免费把它带走当伙伴（这个决定是为了促进旅游，不过这种事很少发生）。屋里立着一座 20 米高的木雕，纪念那些教他们种朗洛、躲避利希斯的布伦托斯。"
  },
  "9c79e21f0d65": {
   "en": "If you are unfamiliar with Forway, then take a friend when you visit! Not that it's that violent, but like any big city, tourists can be easy pickings for people with bad intentions and suave speech, especially if they go to know sketchier parts. Also, don't be alarmed by how much nari gel people use. Fashion trends come and go, so if you have the money, why not participate as well? It might be the ticket to get into bed, and the pockets, of a socialite.",
   "t": "如果你不熟悉福威，去的时候就带上一个朋友！倒不是说那里有多暴力，而是像任何大城市一样，游客很容易成为那些心怀不轨、能说会道的人的猎物，尤其是如果他们去了那些比较可疑的地方。还有，别被人们使用纳里凝胶的数量吓到。时尚潮流来来去去，所以如果你有钱，为什么不也参与一下呢？那也许就是你爬上某位社交名流的床、钻进其口袋的门票。"
  },
+ "9d3eeafe6d68": {
+  "en": "<strong>Sweetlake Blood-Tribe (#8):</strong> once one of the richest blood-tribes, now the poorest, about to die out with its last member. People call him a lunatic and avoid the place at all costs. He's researching shapeshifters, since that might reveal what happened to his guild after they all disappeared; he was left behind because he felt lazy that day.",
+  "t": "<strong>斯威特莱克·布拉德部落（#8）：</strong>曾经是最富有的血族部落之一，如今是最穷的，最后一个成员死后就要绝种了。人们叫他疯子，不惜一切代价避开那个地方。他在研究谢普希夫特，因为这也许能揭示他的公会在全体失踪后发生了什么；他被落下了，因为那天他犯懒。"
+ },
  "9df882bae139": {
   "en": "Flatland",
   "t": "弗拉特兰"
+ },
+ "9ed69587616f": {
+  "en": "<strong>Emelia's Flowery Paradise:</strong> Emelia's flower shop, one of Red Winga's proxy businesses (see Factions), in Forway's southwest district, with a bakery nearby.",
+  "t": "<strong>艾米莉娅的花之乐园：</strong>艾米莉娅的花店，是雷德温加的代理生意之一（见派系），位于福威西南区，附近有一家面包店。"
+ },
+ "9f5afd2a1f67": {
+  "en": "Prices are in the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a>.",
+  "t": "价格见<a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">经济电子表格</a>。"
+ },
+ "a32cf9a56b75": {
+  "en": "As humans settled on this island, the Bruntos began interacting with them and grew close. Humans made great-tasting food and shelter for them, and the Bruntos brought raw ingredients, helped with farming, and helped them hide from the Lishies. Living here for years, people noticed the weather is unusually warm and humid all year long, with rain every day at Sunnu; it's certainly not for everyone. Humans and Bruntos developed a taste for Lonllows, but humans couldn't farm them on a large scale until the Bruntos taught them to plant fish in the ground before putting in the Lonllow branches. With that, they could be farmed all year long.",
+  "t": "随着人类在这座岛上定居，布伦托斯开始和他们来往，并变得亲近。人类为它们做出美味的食物、提供住所，布伦托斯则带来原材料，帮忙种地，还帮人类躲避利希斯。在这里住了多年，人们注意到这里的天气一年到头异常温暖潮湿，每天苏努都会下雨；这里当然不是人人都适合。人类和布伦托斯都爱上了朗洛的味道，但人类一直没法大规模种植朗洛，直到布伦托斯教他们先把鱼种进地里，再插上朗洛的枝条。这样一来，一年到头都能种了。"
+ },
+ "a3eab71925bf": {
+  "en": "<strong>Long &amp; Yellow Sanbi Celebration:</strong> every Adrian, a grand festival celebrates the first contact between humans and Bruntos. Lonllows are baked with Sanbi, cheese and a tiny bit of Tastyleaf.",
+  "t": "<strong>长长黄黄的桑比庆典：</strong>每年阿德里安月，一场盛大的节庆，庆祝人类和布伦托斯的初次接触。朗洛和桑比鱼、奶酪、一点点泰斯蒂利夫一起烤。"
+ },
+ "a4ac5f2194e8": {
+  "en": "<strong>#7 and #8:</strong> have some sort of alliance.",
+  "t": "<strong>#7 和 #8：</strong>结成了某种联盟。"
+ },
+ "a7a2530ec39f": {
+  "en": "Wingarest",
+  "t": "温加雷斯特"
+ },
+ "aae103719859": {
+  "en": "<strong>The Sunken Egua Hotel (#3):</strong> another famous hotel.",
+  "t": "<strong>沉没埃瓜酒店（#3）：</strong>另一家有名的酒店。"
+ },
+ "ade9183d9189": {
+  "en": "<strong>Visual reference:</strong> Brazil's Pantanal.",
+  "t": "<strong>视觉参考：</strong>巴西的潘塔纳尔湿地。"
+ },
+ "af9bddb40575": {
+  "en": "<strong>Old Bone:</strong> every Paulin, the Calm Water Resort hosts a festival for the old people living there, with tons of music, fight choreography, bards' tales, etc.",
+  "t": "<strong>老骨头节：</strong>每年保林月，卡姆沃特度假村为住在那里的老人们举办一场节庆，有大量的音乐、武打表演、吟游诗人的故事等。"
+ },
+ "b10955974891": {
+  "en": "<strong>OutBalls Spring Resort:</strong> a male-focused spring resort around the biggest hot spring. Legend says the Hot Skin guild's children got together and renamed the resort's banner overnight. The guild was furious, but it attracted customers, and the kids' punishment was going to every house handing out ball-shaped soap.",
+  "t": "<strong>外球温泉度假村：</strong>一家以男性为主的温泉度假村，围绕着最大的温泉。传说霍特·斯金公会的孩子们凑在一起，一夜之间改了度假村的招牌。公会气坏了，但这招来了顾客，孩子们的惩罚是挨家挨户发球形肥皂。"
+ },
+ "b1b0509442ae": {
+  "en": "<strong>Clothing, marriage and names:</strong> like the Freeish Kingdom and Forway City.",
+  "t": "<strong>服装、婚姻与名字：</strong>和弗里伊什王国以及福威城一样。"
+ },
+ "b3b73e56035e": {
+  "en": "<strong>Delta Bar (#5):</strong> a famous open-air bar with no seats, out in the calm waters; beer and food are served from covered stands. Open only in the summer.",
+  "t": "<strong>三角洲酒吧（#5）：</strong>一家有名的露天酒吧，没有座位，就在平静的水面上；啤酒和食物从有遮棚的摊位上供应。只在夏天营业。"
+ },
+ "b69c6a5b80db": {
+  "en": "The central command for all the kingdoms and cities. Security is tightened to show the Forway leaders' power, especially at the time of the Prosperity Treaty meeting (Section #7).",
+  "t": "所有王国和城市的中央指挥部。安保会加强，以展示福威领导人的权力，尤其是在繁荣条约会议期间（第 7 条）。"
+ },
+ "b7860700fe2a": {
+  "en": "<strong>Sorefaries Line (#4):</strong> a really fast zip line from the mountain down to the base of the Skin Peeler Geyser.",
+  "t": "<strong>索雷法里斯滑索（#4）：</strong>一条非常快的滑索，从山上一直滑到剥皮间歇泉的底部。"
+ },
+ "ba6c9519c9f6": {
+  "en": "<strong>Burial:</strong> the dead are shoved into the furnace: in their mindset, people are no different from animals.",
+  "t": "<strong>丧葬：</strong>死者被塞进熔炉：在他们的观念里，人和动物没什么不同。"
+ },
+ "bb2d39bc28cf": {
+  "en": "<strong>Skin Peeler Geyser (near #1):</strong> an incredibly hot geyser in a scalding pond. People stand around it in winter to warm up, and being near its steam is said to be rejuvenating.",
+  "t": "<strong>剥皮间歇泉（#1 附近）：</strong>一座位于滚烫池塘中、热得惊人的间歇泉。冬天人们站在它周围取暖，据说靠近它的蒸汽能让人返老还童。"
+ },
+ "be38fd8bc540": {
+  "en": "<strong>Burial:</strong> buried naked in the fields. Their clothes are washed in seawater and returned to their guild or relatives.",
+  "t": "<strong>丧葬：</strong>赤身裸体埋在田里。他们的衣服用海水洗净，归还给他们的公会或亲属。"
+ },
+ "bec45376d106": {
+  "en": "<strong>Marriage:</strong> an invitation to buy or build a house together.",
+  "t": "<strong>婚姻：</strong>邀请对方一起买或建一座房子。"
+ },
+ "bf4b238d504c": {
+  "en": "<strong>Education:</strong> follows Forway, but also teaches how to cooperate, especially with the Bruntos.",
+  "t": "<strong>教育：</strong>遵循福威，但也教人如何合作，尤其是和布伦托斯合作。"
+ },
+ "bf97ddf059be": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/City.md\">Legacy/Behind The Scenes/World Lore/City.md</a>",
+  "t": "来源：<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/City.md\">Legacy/Behind The Scenes/World Lore/City.md</a>"
+ },
+ "c1d6c141a589": {
+  "en": "Old Fuhrair",
+  "t": "旧弗莱尔"
+ },
+ "c3a1047a7d99": {
+  "en": "<strong>Threats:</strong> beasts, and Forway probing around.",
+  "t": "<strong>威胁：</strong>魔兽，以及到处刺探的福威。"
+ },
+ "c3cf47e8eab9": {
+  "en": "<strong>Bagarisa Nose with Cheese:</strong> chewy, but delicious! Hunters created it to use every bit of the meat, and now it's a peculiar dish. 15 Pearls a nose.",
+  "t": "<strong>芝士巴加里萨鼻子：</strong>有嚼劲，但很美味！猎人们发明它是为了把肉的每一部分都用上，如今它成了一道独特的菜。一个鼻子 15 颗珀尔。"
+ },
+ "c42cace3196d": {
+  "en": "<strong>Economy:</strong> they don't use balls, but they can barter, since they aren't citizens of the four kingdoms (highly intelligent Cruros are the exception). They trade the bodies of their dead and their pets, pearls from the swamp, and corals for making lime, for Wooly beef jerky and other food.",
+  "t": "<strong>经济：</strong>他们不用球，但可以以物易物，因为他们不是四王国的公民（高智力的克鲁罗除外）。他们用死者和宠物的尸体、沼泽里的珍珠，以及用来烧石灰的珊瑚，换取伍利牛肉干和其他食物。"
  },
  "c4a210de10b6": {
   "en": "Also, if someone asks you if you want to go to the End Lake—just don't. Trust me. You don't even want to know, but you might have smelled its shittiness if the wind blew it over to you while passing by the South main roads.",
   "t": "还有，如果有人问你想不想去恩德湖——千万别去。相信我。你根本不想知道，不过如果你经过南边的主干道时风把气味吹过来，你可能已经闻到过它有多糟糕了。"
  },
+ "c5202a68341b": {
+  "en": "<strong>Blue-Flower-Red-Bone (#7):</strong> created when Akemi and Fernan married.",
+  "t": "<strong>布卢·弗劳尔·雷德·博恩（#7）：</strong>明美和费尔南结婚时创立。"
+ },
+ "c7ffee865901": {
+  "en": "<strong>Sand Sea (#6):</strong> known for capturing Wozefaries and Sorefaries in the desert.",
+  "t": "<strong>桑德·西（#6）：</strong>以在沙漠里捕捉沃泽法里斯和索雷法里斯而闻名。"
+ },
+ "c957fba9965c": {
+  "en": "<strong>Clothing:</strong> for warm, humid weather, between Sanbi and Tolerideme styles: it gets colder at night than in Sanbi, but not as cold as Tolerideme.",
+  "t": "<strong>服装：</strong>适合温暖潮湿的天气，介于桑比和托勒里德梅的风格之间：夜里比桑比冷，但没有托勒里德梅那么冷。"
+ },
+ "c9688b3d1150": {
+  "en": "Mixed, in people and beliefs, though money is becoming the religion. A big city: people don't talk to strangers much, everyone minds their own business, and people are commonly called by their profession, especially by those who can't be bothered to remember names. A nari gel frenzy for style is common, so you see people of every color, texture, clothing and body type. The craziest body mods are for the rich; everyone else tends to change their hair, in droves, or small body parts that don't affect their work.",
+  "t": "混杂的，人和信仰都是，不过金钱正在变成宗教。一座大城市：人们不太和陌生人说话，大家各管各的，人们常常用职业来称呼别人，尤其是那些懒得记名字的人。为了时尚疯狂使用纳里凝胶很常见，所以你能看到各种肤色、质感、服装和体型的人。最疯狂的身体改造是有钱人的专利；其他人往往成群结队地改头发，或者改一些不影响工作的小部位。"
+ },
+ "cd31a7679f24": {
+  "en": "<strong>#3, #4, #5 and #6:</strong> the oldest, in a constant power struggle.",
+  "t": "<strong>#3、#4、#5 和 #6：</strong>最古老的部落，一直在争夺权力。"
+ },
+ "cd4913d23573": {
+  "en": "<strong>Education:</strong> learning from the elders. Highly intelligent Cruros learn more through the Half-Cruro guild in Sanbi or Tastyleaf.",
+  "t": "<strong>教育：</strong>向长者学习。高智力的克鲁罗会通过桑比或泰斯蒂利夫的哈夫克鲁罗公会学习更多。"
+ },
+ "cde94b0cc544": {
+  "en": "<strong>Crime and law:</strong> it seems like a free-for-all, but they manage to survive in a rather brutal, tribal way of life.",
+  "t": "<strong>犯罪与法律：</strong>看起来像是无法无天，但他们以一种相当残酷的部落生活方式生存了下来。"
+ },
+ "d561614afd40": {
+  "en": "<strong>Bone Meal:</strong> animal bone ground into meal, for crafting, construction or as a meal aid.",
+  "t": "<strong>骨粉：</strong>把动物骨头磨成粉，用于手工、建筑，或者作为辅食。"
+ },
+ "d657bdeff661": {
+  "en": "A few dominant guilds, tied to the leftover bandits and their children, basically control Flatland, so they pick the embassy representative. They put the most charming Wozefaries from their guilds out front as a facade for their suspicious activities. They're very strict with anyone who makes false accusations or speaks badly of the royal guilds, and find ways to punish them (real-world comparison: Thailand's royal family).",
+  "t": "几个占主导地位的公会和残余强盗及其后代有关系，基本上控制着弗拉特兰，所以由他们挑选大使馆代表。他们把自家公会里最有魅力的沃泽法里斯推到台前，作为他们可疑活动的门面。他们对任何诬告或说王室公会坏话的人都非常严厉，会想办法惩罚他们（现实世界的对照：泰国王室）。"
+ },
+ "d696385c367a": {
+  "en": "<strong>Crime and law:</strong> a variant of Forway Law. Minor punishments are paid by replacement; for a major one, the criminal becomes prey for the hunters.",
+  "t": "<strong>犯罪与法律：</strong>福威法律的一个变体。轻罪通过赔偿来抵；重罪的话，罪犯会成为猎人们的猎物。"
+ },
+ "d8eaabc61d4e": {
+  "en": "<strong>Quarries (#1 to #4):</strong> a group of hunter brothers always tried to outdo each other in popularity. One built a quarry to win favor building Blood City, the others followed suit, and now Blood City is a popular source of stone.",
+  "t": "<strong>采石场（#1 到 #4）：</strong>一群猎人兄弟总想在受欢迎程度上比个高低。其中一个建了一座采石场，好在建设布拉德城时赢得好感，其他人也纷纷效仿，如今布拉德城成了石材的热门产地。"
+ },
  "d959a5281641": {
   "en": "Cities · #HusbandOutWorld",
   "t": "城市 · #HusbandOutWorld"
+ },
+ "dbf9006b201f": {
+  "en": "On the surface, like the other cities; on the down low, like the villages of the Freeish Kingdom.",
+  "t": "表面上和其他城市一样；私底下则像弗里伊什王国的村庄。"
+ },
+ "dd11125c143d": {
+  "en": "<strong>Blood Sausage:</strong> animal meat and seasoning, in a wavy-pattern sausage.",
+  "t": "<strong>血肠：</strong>动物肉加调料，做成波浪状的香肠。"
+ },
+ "de08f3e9876f": {
+  "en": "<strong>Companion Meetup:</strong> every Adrian, a massive meetup where Sorefaries sit at tables and adventurers come over to talk about themselves. If the adventurers and a Sorefaries form a bond, the adventurers pay the city a fee to take them as a companion.",
+  "t": "<strong>伙伴见面会：</strong>每年阿德里安月，一场大型见面会，索雷法里斯坐在桌旁，冒险者过来介绍自己。如果冒险者和一个索雷法里斯结下了缘，冒险者向城市支付一笔费用，就可以带它走当伙伴。"
+ },
+ "dedb02314408": {
+  "en": "<strong>Animal Part Extraction Facility (#6):</strong> since some animal parts vary in quality and are growing rarer, Forway invested in a facility where the best specimens with desirable parts are kept freshly dead and harvested with Body Heal.",
+  "t": "<strong>动物部位提取设施（#6）：</strong>由于有些动物部位品质参差不齐，而且越来越稀有，福威投资建了一座设施，把带有理想部位的最佳样本保持在刚死的状态，用博迪希尔反复采收。"
  },
  "e5a52f7c95e7": {
   "en": "The \"All the Way Festival\" takes the cake among the many festivals. Seeing the adventurer recognition festival is fun and all, but the name \"All the Way\" implies how grandiose it is.",
   "t": "在众多节日中，“一路到底节”最为出彩。看冒险者表彰节固然有趣，但“一路到底”这个名字就暗示了它有多么盛大。"
  },
+ "e5be687a944c": {
+  "en": "<strong>Local embassy quests:</strong> Newland exploration.",
+  "t": "<strong>当地大使馆任务：</strong>纽兰探索。"
+ },
+ "e63a9caff074": {
+  "en": "<strong>Threats:</strong> a Brunto overpopulation, especially if they start a war against humans.",
+  "t": "<strong>威胁：</strong>布伦托斯数量过多，尤其是如果它们向人类开战的话。"
+ },
+ "e6d91bc91b63": {
+  "en": "Mostly humans, some Wozefaries and a few other species, with a significant number of richer, older humans. Like Freeish, no overarching religion, just a random mix from all the people. A melting pot like Forway City, but not as cold, since fewer people live there.",
+  "t": "主要是人类，有一些沃泽法里斯和少数其他物种，还有相当多较富裕的年长人类。和弗里伊什一样，没有统一的宗教，只有来自各色人等的随机混合。像福威城一样是个大熔炉，但没那么冷漠，因为住在那里的人少一些。"
+ },
+ "e9b855fb1385": {
+  "en": "<strong>Hot Skin:</strong> one of the earliest guilds, famous for running the OutBalls and InBalls resorts. It's common to see carriages packed with men stop right in front of the guild and everyone go straight in for fun times: inside, the women working there move about, and you can pick one to \"spend time with\".",
+  "t": "<strong>霍特·斯金：</strong>最早的公会之一，以经营外球和内球度假村而闻名。常常能看到挤满男人的车厢停在公会门口，所有人径直进去寻欢作乐：里面工作的女人们来回走动，你可以挑一个“共度时光”。"
+ },
  "ed52520d2d75": {
   "en": "In a way, it can be considered its own Kingdom, but its officials would vehemently deny that's the case. For them, Forway is a common ground for all kingdoms to trade freely, communicate clearly, and peacefully settle any issues. To that extent, Forway also keeps the peace by managing all cities outside a given Kingdom's permanently fixed sphere of influence.",
   "t": "在某种程度上，它可以被视为一个独立的王国，但它的官员会强烈否认这一点。对他们来说，福威是所有王国自由贸易、清晰沟通、和平解决任何问题的共同场所。在这个意义上，福威还通过管理所有位于各王国永久固定势力范围之外的城市来维护和平。"
  },
+ "f02c45c22059": {
+  "en": "<strong>#9:</strong> a newer tribe that works well with the Half-Cruros.",
+  "t": "<strong>#9：</strong>一个较新的部落，和哈夫克鲁罗们合作得很好。"
+ },
  "f0443b7c1e6e": {
   "en": "Public text: city-forway.md",
   "t": "公开文本：city-forway.md"
+ },
+ "f265571363e8": {
+  "en": "Waterfall",
+  "t": "沃特福尔"
+ },
+ "f4577fab042c": {
+  "en": "<strong>Guards:</strong> Forway guards trust their crossbows with their lives. Their shiny armor and generous Forway funding make them very visible and somewhat slow, but they always travel in groups, so picking a fight isn't advised, unless you know how to exploit their superiority complex, common among these guards: let them think they have the upper hand, then hit back with a surprise counterattack at the last second and make them bleed out. Some have baited them into traps, too, but that's harder when they have a Sorefaries or another companion watching their surroundings. Either way, once you're fighting them, beware of their revival capabilities, unless you take away their hearty and expensive supply of Black Honey, often kept in their leg pockets.",
+  "t": "<strong>卫兵：</strong>福威卫兵把性命托付给他们的弩。闪亮的盔甲和福威慷慨的资金让他们非常显眼，也有点迟缓，但他们总是成群结队地行动，所以不建议和他们打架，除非你知道怎么利用这些卫兵中常见的优越感：让他们以为自己占了上风，然后在最后一秒出其不意地反击，让他们血流不止。也有人把他们引进过陷阱，但如果他们带着索雷法里斯或别的伙伴盯着周围，这就难多了。无论如何，一旦和他们交上手，就要当心他们的复活能力，除非你夺走他们那份丰厚又昂贵的黑蜜，那东西通常放在他们的腿袋里。"
+ },
+ "f5d6c7063c2a": {
+  "en": "<strong>Forway Palace:</strong> also known as the Black Tower: the giant tower at the city center, where all business and administration flows through. People casually call it the Forway castle. Entering requires a badge. The lower floors are the embassy, the upper floors are restricted to Sapphire adventurers and kingdom and city officials, and underground is research and experimentation. They cross-check names against books and other people if they suspect someone.",
+  "t": "<strong>福威宫：</strong>也叫黑塔：位于市中心的巨塔，所有的生意和行政事务都经过这里。人们随口叫它福威城堡。进去需要身份牌。底下几层是大使馆，上面几层只对萨菲尔级冒险者和王国、城市官员开放，地下则是研究和实验。如果他们怀疑某人，就会拿名字和书册以及其他人进行交叉核对。"
+ },
+ "f68b291af767": {
+  "en": "Deltacross",
+  "t": "德尔塔克罗斯"
+ },
+ "fc3f7024f773": {
+  "en": "Cruro",
+  "t": "克鲁罗"
+ },
+ "fdc5f1c27e4b": {
+  "en": "<strong>Drink in the Delta contest:</strong> on the last day of summer (Paulin 110th, when Delta Bar's season ends), it holds a massive contest to see who can drink the most without leaving their spot. Peeing in the water isn't frowned upon; it's encouraged, to spare your bladder.",
+  "t": "<strong>三角洲畅饮大赛：</strong>在夏天的最后一天（保林 110日，三角洲酒吧这一季结束时），举办一场大型比赛，看谁能不离开原地喝得最多。在水里撒尿不会被嫌弃，反而受到鼓励，好放过你的膀胱。"
+ },
+ "fe025cbd55e7": {
+  "en": "<strong>Abandoned Dock (#3):</strong> fishing isn't considered viable on the massive lake, even though Fihi is its specialty: the Fihi there developed a taste for humans and figured out how to sink them into the water. Usually adventurers fish there, or people cast from the shore; most people catch their Fihi on the Buhraies Plains instead.",
+  "t": "<strong>废弃码头（#3）：</strong>在这片巨大的湖上捕鱼被认为不划算，尽管菲希是这里的特产：这里的菲希爱上了吃人，还摸索出了怎么把人拖进水里。通常是冒险者在那里钓鱼，或者人们在岸边抛竿；大多数人改去布莱斯平原钓菲希。"
  }
 }
