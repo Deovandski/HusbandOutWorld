@@ -314,7 +314,7 @@ Mixed, in people and beliefs, though money is becoming the religion. A big city:
 
 #### Points of interest
 
-- **Forway Palace:** at the city center; entering requires a badge. The lower floors are the embassy, the upper floors are restricted to Sapphire adventurers and kingdom and city officials, and underground is research and experimentation. They cross-check names against books and other people if they suspect someone.
+- **Forway Palace:** also known as the Black Tower: the giant tower at the city center, where all business and administration flows through. People casually call it the Forway castle. Entering requires a badge. The lower floors are the embassy, the upper floors are restricted to Sapphire adventurers and kingdom and city officials, and underground is research and experimentation. They cross-check names against books and other people if they suspect someone.
 - **Forway and You:** the biggest journal, issued weekly on Freeday, with news, fashion and more.
 - **Emelia's Flowery Paradise:** Emelia's flower shop, one of Red Winga's proxy businesses (see Factions), in Forway's southwest district, with a bakery nearby.
 - **Broken Knuckle:** the tavern where Honati worked.

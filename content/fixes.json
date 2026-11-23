@@ -161,6 +161,11 @@
       "find": "Between Sanbi/Tolerideme due to colder weather.",
       "replace": "Between Sanbi/Tolerideme: warm and humid, but colder at night than Sanbi (not as cold as Tolerideme).",
       "why": "The author's decision (issue #103, City C4): Endlessfog is warm and humid all year; it only gets colder at night than Sanbi, not as cold as Tolerideme."
+    },
+    {
+      "find": "    * Located at the city center.  \n    * Entrance to the palace requires a badge",
+      "replace": "    * Also known as the Black Tower: the giant tower at the center of Forway, where all business and admin flows through. People casually call it the Forway castle.  \n    * Located at the city center.  \n    * Entrance to the palace requires a badge",
+      "why": "Author's ruling (A3-20, 2026-11-23): Forway Palace is the official name; the Black Tower is its common nickname, and Forway castle (Vol 1) is a casual way people refer to it."
     }
   ],
   "Legacy/Behind The Scenes/World Lore/Fauna.md": [

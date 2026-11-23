@@ -114,3 +114,10 @@ Status: **open** until answered. Asked as one batch on 2026-11-22 and answered t
 - Notes to the illustrator: the Sweetlake Bottled Water label note ("Bone wood containers with blue labels…").
 - The empty "Festivals: None" and "Local Embassy Quests: None/Nothing Additional" lines.
 - Typos: "Sabi", "Leshies", "Sonnu" (Sunnu), "Egyptician", "Wosefaries", "Abandoned Docker", "Bow" (bowl), "Crucus", "Weet Sting", "For Day" (Forrday), "pending far more on the male side" (leaning).
+
+## Forway Palace (2026-11-23, from Arc #3 A3-19/A3-20)
+
+> A3-19: It's the main tower in the center of Forway. It appears on the world map. It is a giant tower with several functions where all business and admin flows through. Check if there are other mentions, and names used to describe it. We should make an official name for it
+> I agree with it!
+
+Names found: Forway Palace (City), "Forway castle… just a large black tower" (Vol 1), "the black tower" (Arc #3). Ruling: Forway Palace is official, the Black Tower is its nickname, Forway castle is casual. Added to the abridged entry and to the raw display (`content/fixes.json`).

@@ -122,3 +122,11 @@ Other mentions of the tower found in Legacy:
 - Arc #3, Book 11: "the black tower".
 
 - **A3-20:** Which official name? My suggestion: **Forway Palace** as the official name (already in Cities), with "the Black Tower" as its common nickname, and Vol 1's "Forway castle" as a casual way people refer to it.
+
+Author's answer:
+> I agree with it!
+
+Applied (A3-20):
+- Official name: **Forway Palace**; nickname: the Black Tower; casual: the Forway castle (Vol 1 stays as published).
+- Book 11: "the Black Tower (Forway Palace, …)", linked to Cities › Forway › Points of interest.
+- Made official in World Lore › City: the abridged Forway Palace entry, and the raw display via `content/fixes.json` ("Also known as the Black Tower… People casually call it the Forway castle.").
