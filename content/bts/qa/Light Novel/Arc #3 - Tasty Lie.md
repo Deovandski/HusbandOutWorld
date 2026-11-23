@@ -5,7 +5,7 @@ Proof of work for `content/bts/Light Novel/Arc #3 - Tasty Lie.md` (issue #103). 
 ## Book 9 - A Forced Restart (batch 1)
 
 Filled from Legacy:
-- Chapter 2: the "XXXXX Steps" → the Cliff Walk (10,764 steps), from Cities › Triangle › Points of interest ("now mostly used as a punishment"). "Hueno" → Huneo.
+- Chapter 2: the "XXXXX Steps" → the Cliff Walk (10,764 steps), from Cities › Waterfall › Points of interest ("now mostly used as a punishment"). "Hueno" → Huneo.
 - Chapter 3: Wood People wood links to Resources › Wood & Wood People Wood; Yosuke links to Characters. "in his wife's case, some clients come directly to him" → "to her".
 - Chapter 4: Saynas link to Fauna; the quiet Sayna is Katsuki (Characters; and the author's B8-2 answer).
 - Chapter 5: "Severino tells the story" → the three sisters who revolutionized Tolerideme's farming with Soul Energy and fish meal mixed with human poop (Kingdoms › Tolerideme). Magi's falling asleep → "(Magi has narcolepsy, and she's rather distrustful of people.)" from Characters.
@@ -37,3 +37,24 @@ Applied:
 - A3-5: added after the three sisters story: their bright minds and rock-strong wills, and Severino pushing Harry (and Vitor) to see the mind behind the body.
 - A3-6: Ryo's adventurer is {WIP-rioAdventGuard}; note that the Forway/Deltacross slip is part of Ryo's lie.
 - A3-7: note: it starts as swimming, until Eori uses her wits and pity to get herself a paddle boat.
+
+Correction (2026-11-23): the Cliff Walk is listed under Cities › Waterfall, not Triangle. The Book 9 link now points to /lore/cities/#waterfall--points-of-interest; the text still says "the base of Triangle", as in the notes (see A3-8).
+
+## Book 10 - Peonage (batch 2)
+
+Filled from Legacy:
+- Prologue: Aurora, Itanema and Sora link to Characters.
+- Chapter 1: "You're going to XXX" / "until you see XXX" → "the barber" (the next scene is the hair salon); the turn-by-turn directions ("Take left on V") are left out.
+- Chapter 2: "the base of Waterfall city" links to Cities › Waterfall. "attach his goat to Eori's" → "his boat to hers"; "all for naughty" → "all for naught".
+- Chapter 3: July, Hanako and Francisco link to Characters. The writer's outline lines (//) for the July, Takeo and Francisco scene became story beats.
+- Chapter 4: the Homeegg tournament links to Pastimes › Homeegg; Maiara links to Characters (Legacy: "She plays Homeegg for Sanbi teams"). "// Describe the busy Forway" became one line. "points to a car" → "a cart".
+- Menu placeholders are summed up instead of kept: "XXX BROTH" → "the broth"; "Two X, three Y, with 2 sides of V, 2 of K, and 1 of G" → "an order of mains and sides"; Eori's "F, G, H, J & L" → "a feast"; "X Pearls" → "the total in Pearls"; "XX and FF in Small timehunk" → "Those desserts, in a small timehunk!"
+- Polished: Hanako's "Harry is scared!" → "Desmond is scared!" (nobody at the restaurant knows the name Harry; see A3-12).
+
+Questions:
+- **A3-8:** Book 9 says Eori swims "to the base of Triangle City" and climbs the steps, but Book 10 has her arrive at "the base of Waterfall city", and Cities puts the Cliff Walk (10,764 steps) in Waterfall. Should Book 9 say Waterfall?
+- **A3-9:** Is the sub chef Rimir (Characters: Yosuke is grooming him as the restaurant's next chef), and are the two bartenders Hanako and Mimi? If so, I'll name them.
+- **A3-10:** The Homeegg final: "Sanbi's XX, led by Princess Maiara, versus XXX, led by XXX." Team names and the other captain, or {WIP-…}?
+- **A3-11:** Other placeholders: the first wagon "going east, to X" (Chapter 1); Francisco's gift for Takeo, "a new XXX" (Epilogue); July's quest "to do XYZ" (Epilogue). Names, or {WIP-…}?
+- **A3-12:** Hanako says "Harry is scared!" in the notes. I changed it to "Desmond", since only Harry knows that name. Okay, or is it on purpose?
+- **A3-13:** Chapter 2 ends with your open idea: "Neferteri maybe talks about how she will have more freedom as well? Eori tries to fight her off for being controlling, and that's how this comes up?" I kept it as "Author's idea: …". Keep it, settle it, or leave it out?
