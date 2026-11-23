@@ -1,4 +1,8 @@
 {
+ "00b4fa5c6d2d": {
+  "en": "Used to make beer, bread, and everything in between.",
+  "t": "Usado para fazer cerveja, pão, e tudo o que fica no meio."
+ },
  "01f1130763dc": {
   "en": "Tastyleaf: a huge tree with pale-blue leaves and a twisted dark trunk.",
   "t": "Tastyleaf: uma árvore enorme de folhas azul-claras e tronco escuro retorcido."
@@ -19,6 +23,10 @@
   "en": "<strong>Tier II (Common Goods):</strong> flowers, mushrooms and roots.",
   "t": "<strong>Nível II (Bens Comuns):</strong> flores, cogumelos e raízes."
  },
+ "06f8b86becdf": {
+  "en": "<strong>Bread</strong>: It’s bread, with a texture close to French bread.",
+  "t": "<strong>Pão</strong>: É pão, com uma textura parecida com a do pão francês."
+ },
  "095e6988b83b": {
   "en": "<strong>Lonllow Juice</strong>: Kind of good; better in vitamin shakes.",
   "t": "<strong>Suco de Lonllow</strong>: Meio bom; melhor em vitaminas."
@@ -31,21 +39,53 @@
   "en": "<strong>Habitat:</strong> Around Blood City and Freeish, and hardly anywhere else in the kingdoms. They are lone trees that sprout from small, colorful seeds. Trunk People love to live on them.",
   "t": "<strong>Habitat:</strong> Em volta de Blood City e Freeish, e quase em nenhum outro lugar dos reinos. São árvores solitárias que brotam de sementes pequenas e coloridas. O Trunk People adora morar nelas."
  },
+ "0ba6664b41ca": {
+  "en": "<strong>Dried Gyut</strong>: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack.",
+  "t": "<strong>Gyut Seco</strong>: Feito para estoques de comida, para vender a outros reinos, para assar, ou como lanche de estrada."
+ },
+ "0bd6bc703016": {
+  "en": "<strong>Ale</strong>: Like beer, but slightly stronger.",
+  "t": "<strong>Ale</strong>: Como a cerveja, mas um pouco mais forte."
+ },
+ "0d96598d1fa5": {
+  "en": "<strong>Child Beer</strong>: A weak, mildly sweet and very nutritious beer meant for children. (Real-world comparison: <a href=\"https://en.wikipedia.org/wiki/Small_beer\" rel=\"noopener\">small beer</a>, the weak beer once drunk daily by children and adults alike.)",
+  "t": "<strong>Cerveja Infantil</strong>: Uma cerveja fraca, levemente doce e muito nutritiva, feita para crianças. (Comparação com o mundo real: <a href=\"https://en.wikipedia.org/wiki/Small_beer\" rel=\"noopener\">small beer</a>, a cerveja fraca que antigamente crianças e adultos bebiam todo dia.)"
+ },
+ "10b51080bea5": {
+  "en": "<strong>Domar Child Beer</strong>: A weak, mildly sweet and very nutritious beer meant for children. (Real-world comparison: <a href=\"https://en.wikipedia.org/wiki/Small_beer\" rel=\"noopener\">small beer</a>, the weak beer once drunk daily by children and adults alike.)",
+  "t": "<strong>Cerveja Infantil Domar</strong>: Uma cerveja fraca, levemente doce e muito nutritiva, feita para crianças. (Comparação com o mundo real: <a href=\"https://en.wikipedia.org/wiki/Small_beer\" rel=\"noopener\">small beer</a>, a cerveja fraca que antigamente crianças e adultos bebiam todo dia.)"
+ },
  "10d6fee23412": {
   "en": "<strong>Habitat:</strong> ~0–1 km above sea level. Some variety grows everywhere, but the Yabuca people want (the Yabuca variety, also called the traditional variety) is only found in the south, where it is farmed intensively in the Freeish Kingdom.",
   "t": "<strong>Habitat:</strong> ~0–1 km acima do nível do mar. Alguma variedade cresce em todo lugar, mas a Yabuca que as pessoas querem (a variedade Yabuca, também chamada de variedade tradicional) só se encontra no sul, onde é cultivada intensivamente no Reino de Freeish."
+ },
+ "10f91c529df0": {
+  "en": "<strong>Breadplate</strong>: Bread used as a plate; often eaten afterward or given to the poor.",
+  "t": "<strong>Pão-prato</strong>: Pão usado como prato; muitas vezes comido depois ou dado aos pobres."
  },
  "11311ca4a1d2": {
   "en": "Steen: a narrow, tall green conifer-like plant with a spiky leaf rosette shown above.",
   "t": "Steen: uma planta verde alta e estreita parecida com uma conífera, com uma roseta de folhas espinhosas mostrada acima."
  },
+ "11b81bada804": {
+  "en": "<strong>Fried Cadioca</strong>: A popular food throughout the kingdoms, also invented in the Freeish Kingdom.",
+  "t": "<strong>Cadioca Frita</strong>: Uma comida popular por todos os reinos, também inventada no Reino de Freeish."
+ },
  "1207e16ead81": {
   "en": "<strong>Interface:</strong> Transparent petals.",
   "t": "<strong>Interface:</strong> Pétalas transparentes."
  },
+ "1298326dd399": {
+  "en": "<strong>Tastes like:</strong> Carbey, with hints of Parmesan cheese.",
+  "t": "<strong>Gosto de:</strong> Carbey, com toques de queijo parmesão."
+ },
  "12a81303cac9": {
   "en": "Basi berries are gathered and then beaten down mechanically to separate the flesh into a thick pulp akin to petroleum jelly. The dark thick pulp comes with an earthy, slightly bitter taste akin to mixing 80% dark chocolate and blackberry with a tinge of red huckleberry, and it's a food staple on Freeish Kingdom. Folks over there eat it with literally everything, pairing it with grilled or fried fish, dried jerky, and even adding sugar and ice cubes and eating it as a dessert. It is also quite heavy on fiber, which explains why the Freeish Kingdom basically grinds to a halt for a bit after lunch and dinner! Other kingdoms likely don't partake much in that cuisine as the basi pulp only tastes good fresh, and as soon as you refrigerate or freeze it, the flavor breaks down to tasting like dirt.",
   "t": "As frutinhas de Basi são colhidas e depois batidas mecanicamente para separar a polpa numa pasta grossa parecida com vaselina. A pasta escura e grossa tem um gosto terroso e levemente amargo, parecido com misturar chocolate 80% cacau e amora com um toque de mirtilo vermelho, e é um alimento básico do Reino de Freeish. O pessoal de lá come com literalmente tudo, combinando com peixe grelhado ou frito, carne-seca e até acrescentando açúcar e cubos de gelo para comer como sobremesa. Ela também é bem rica em fibras, o que explica por que o Reino de Freeish basicamente para por um tempo depois do almoço e do jantar! Os outros reinos provavelmente não aderem muito a essa culinária, já que a pasta de basi só é gostosa fresca e, assim que você a refrigera ou congela, o sabor se desfaz e fica com gosto de terra."
+ },
+ "140036d902d2": {
+  "en": "A bushy plant that grows in the wild.",
+  "t": "Uma planta arbustiva que cresce na natureza."
  },
  "14c4cfe385d1": {
   "en": "Emerenthy or methyl for some, is a common plant in the forests of Freeish. Mostly known for offering a bit of light at night for people and animals in the forest. Some say that if Trunk people like you, they will get the methyl to guide you. Others think it's egua shit and that they only exist to attract insects to feed on its sweet nectar. You can also rip them off the ground and shake them as an emergency torch, but they don’t last that long. But if you collect enough of them, you can use them as a fibrous addition to any meal, like celery.",
@@ -59,6 +99,10 @@
   "en": "Hifuna Yabuca Fruit",
   "t": "Fruta Hifuna Yabuca"
  },
+ "17da56d7c677": {
+  "en": "<strong>Tastes like:</strong> Mushroomy apples.",
+  "t": "<strong>Gosto de:</strong> Maçãs com gosto de cogumelo."
+ },
  "185d2f4a935b": {
   "en": "Flora",
   "t": "Flora"
@@ -70,6 +114,10 @@
  "1b3b8bddf67d": {
   "en": "<strong>Dried Cocona</strong>: Sold to other kingdoms, eaten on the road, as a snack, etc. Like the water, it comes in several colors.",
   "t": "<strong>Cocona Seca</strong>: Vendida a outros reinos, comida na estrada, como lanche etc. Como a água, vem em várias cores."
+ },
+ "1c4db7e6b26b": {
+  "en": "<strong>Tastes like:</strong> Wheat.",
+  "t": "<strong>Gosto de:</strong> Trigo."
  },
  "1d7b53b93269": {
   "en": "<strong>Buzeta Hard Juice</strong>: Fermented juice.",
@@ -87,6 +135,10 @@
   "en": "<strong>Growth:</strong> One bush gives ~1 kg of berries per harvest season.",
   "t": "<strong>Crescimento:</strong> Um arbusto dá ~1 kg de frutinhas por safra."
  },
+ "22ee8bfd082b": {
+  "en": "<strong>Tastes like:</strong> Blood Oranges.",
+  "t": "<strong>Gosto de:</strong> Laranja sanguínea."
+ },
  "2304e6e254bf": {
   "en": "Greenbread Fruit",
   "t": "Fruta Greenbread"
@@ -103,6 +155,10 @@
   "en": "Lakata",
   "t": "Lakata"
  },
+ "26615683ce9c": {
+  "en": "<strong>Domar Beer</strong>: A highly nutritious, low-alcohol drink enjoyed by everyone.",
+  "t": "<strong>Cerveja Domar</strong>: Uma bebida muito nutritiva e de baixo teor alcoólico, apreciada por todos."
+ },
  "266eff7cd05c": {
   "en": "<strong>Wood Yabuca Juice</strong>: Refreshing.",
   "t": "<strong>Suco de Wood Yabuca</strong>: Refrescante."
@@ -110,6 +166,10 @@
  "276aed3b99b6": {
   "en": "<strong>Inspired by:</strong> Cannabis sativa.",
   "t": "<strong>Inspirado em:</strong> Cannabis sativa."
+ },
+ "27cbad34fd54": {
+  "en": "<strong>Domar Bread</strong>: It’s bread, with a texture close to French bread.",
+  "t": "<strong>Pão Domar</strong>: É pão, com uma textura parecida com a do pão francês."
  },
  "2820686c8f0f": {
   "en": "The highly coveted variety Jonabuca is farmed intensively in the Freeish kingdom for its consistently sweet appley flavor and crispy texture. Some of the other types are still considered tasty, with some people swearing they are better than Jonabuca! These different variants often have multiple tastes or textures, are inconsistent in their yields, or look or are straight-up unappetizing—with a notorious Yabuca tree being the perfect example after it sprouted by an outhouse and began producing Yabucas that literally tasted like shit. Regardless, anyone with extra balls in their pocket will fork over to get the coveted variety instead to sink their teeth into. It's just like the ad plastered over the fruit shop that says, \"If it ain't Jonabuca, then it ain't Yabuca!\"",
@@ -138,6 +198,10 @@
  "2c5fb16a5006": {
   "en": "Emerenthy Flowers",
   "t": "Flores de Emerenthy"
+ },
+ "2d2512be146a": {
+  "en": "Lolish Roots",
+  "t": "Raízes de Lolish"
  },
  "2d2f23c3ef96": {
   "en": "A wild fruit popular with adventurers, known for mutating in the wild into new variants. Its flavor is unlike anything else in this world, almost as if it didn't belong there. The Buhraies brought it to life with genetic engineering, and the main variety they made is still the most popular and the hardiest; the second is Wood Yabuca. Many species exist in the wild, and some fear it will eventually crowd out every fruit but Yabucas.",
@@ -179,6 +243,14 @@
   "en": "<strong>Growth:</strong> Fruits in the summer.",
   "t": "<strong>Crescimento:</strong> Dá frutos no verão."
  },
+ "3203b1b33db2": {
+  "en": "<strong>Carbey Flour</strong>: See Carbey.",
+  "t": "<strong>Farinha de Carbey</strong>: Veja Carbey."
+ },
+ "32acf5bd96eb": {
+  "en": "A fungus often used to slow the heartbeat, found in rotting trees.",
+  "t": "Um fungo muito usado para desacelerar os batimentos cardíacos, encontrado em árvores apodrecidas."
+ },
  "3321ca59cd9f": {
   "en": "Magina is a potent mind-altering drug that Forway banned, given the societal risks it imposes. Users experience a blissful state where they live out their dreams or nightmares if they have a terrible trip in such a realistic fashion that afterward, these people will swear the event actually happened to them rather than realizing it was all just a vivid dream. Some highly renowned scientists still research it to cure specific mental ailments like PTSD by trying to reign in and control the drug, but success has been spotty as each individual reacts so uniquely to it it's hard to find patterns. If you see someone completely zoned out, even after you punch them in the face, they are definitely using Magina, with it most likely being bought on the black market from the Black Magina faction.",
   "t": "A Magina é uma potente droga que altera a mente e que Forway proibiu, dados os riscos que impõe à sociedade. Os usuários vivem um estado de êxtase em que realizam os seus sonhos, ou pesadelos, se tiverem uma bad trip, de forma tão realista que depois juram que o acontecimento realmente aconteceu com eles, em vez de perceberem que foi só um sonho vívido. Alguns cientistas de grande renome ainda a pesquisam para curar males mentais específicos, como o TEPT, tentando domar e controlar a droga, mas o sucesso tem sido irregular, já que cada indivíduo reage de forma tão única a ela que é difícil encontrar padrões. Se você vir alguém completamente fora do ar, mesmo depois de levar um soco na cara, com certeza está usando Magina, provavelmente comprada no mercado negro da facção Black Magina."
@@ -199,9 +271,17 @@
   "en": "A bushy plant that grows in the wild, and is farmed intensively in Freeish.",
   "t": "Uma planta arbustiva que cresce na natureza, e é cultivada intensivamente em Freeish."
  },
+ "35fcc0fd69e9": {
+  "en": "<strong>Tastes like:</strong> Mango, but smaller and sweeter with a hint of pomegranate. Very soft.",
+  "t": "<strong>Gosto de:</strong> Manga, mas menor e mais doce, com um toque de romã. Bem macia."
+ },
  "3621c4cedceb": {
   "en": "Tenderthrough is the name humans gave this peculiar-shaped fruit tree after penetrating their way into the islands southeast of Sanbi and purging the ancient species that lived there. It tastes very close to papaya, with the seeds still being used to cleanse and heal one's guts far more cheaply than using Body Restore or other interfaces. There are plantations in the Freeish kingdom, but it just doesn't taste as good as the ones from the islands, so get your ass in the next boat to the islands if you want to experience its most authentic flavor!",
   "t": "Tenderthrough é o nome que os humanos deram a esta árvore frutífera de formato peculiar depois de abrirem caminho até as ilhas a sudeste de Sanbi e expurgarem a espécie antiga que vivia lá. O sabor é muito parecido com o do mamão, e as sementes ainda são usadas para limpar e curar o intestino de forma muito mais barata do que usar o Body Restore ou outras interfaces. Há plantações no reino de Freeish, mas simplesmente não têm um gosto tão bom quanto as das ilhas, então enfie a bunda no próximo barco para as ilhas se quiser provar o sabor mais autêntico!"
+ },
+ "36aaaf636ea0": {
+  "en": "<strong>Inspired by:</strong> Reishi (Ganoderma lucidum).",
+  "t": "<strong>Inspirado em:</strong> Reishi (Ganoderma lucidum)."
  },
  "36ec78a12c36": {
   "en": "<strong>Skills:</strong> Drop Fruit.",
@@ -214,6 +294,10 @@
  "3aef7411008b": {
   "en": "A common plant used in nari gels and teas. Depending on how much you take, it can soothe the stomach, or cause diarrhea and vomiting.",
   "t": "Uma planta comum usada em nari gels e chás. Dependendo de quanto você toma, pode acalmar o estômago, ou causar diarreia e vômito."
+ },
+ "3b9ae67b0f21": {
+  "en": "Tyr Caps",
+  "t": "Chapéus de Tyr"
  },
  "3ba1a2421422": {
   "en": "Domar Carbey: a few stalks of bright purple grain.",
@@ -235,6 +319,10 @@
   "en": "Plants",
   "t": "Plantas"
  },
+ "3e3a7fe81632": {
+  "en": "<strong>Inspired by:</strong> Chaga (Inonotus obliquus).",
+  "t": "<strong>Inspirado em:</strong> Chaga (Inonotus obliquus)."
+ },
  "3e469df72aac": {
   "en": "<strong>Skills:</strong> Adrenaline Inducer.",
   "t": "<strong>Habilidades:</strong> Adrenaline Inducer."
@@ -251,9 +339,21 @@
   "en": "A common plant, used for cooking.",
   "t": "Uma planta comum, usada na culinária."
  },
+ "400b83c14fb6": {
+  "en": "<strong>Growth:</strong> ~2 seasons.",
+  "t": "<strong>Crescimento:</strong> ~2 estações."
+ },
  "424d82e07570": {
   "en": "Rakuja is a vine that often has a symbiotic mutualistic relationship with the trees it infests. Found only in colder climates, it helps the host trees by injecting an antifreeze gel it creates when it detects lower temps. This relationship works great in regions like Gandew, Fuhrair, and Old Fuhrair. The same can't be said with Tolerideme, where Wood People took over the land. The relationship between them always turns Amensalistic. Not only have scientists figured out that this antifreeze gel is an excellent toxin for killing Wood People, but they also have their own vines, which they use to remove and kill off any Rakuja that tries to grow on them. Nonetheless, people drool over the tangy, tart flavor fruits with citrusy notes and heavy aromatic smells! Be it dried or not, you can find them across all kingdoms, but depending on where you are, be ready to fork over a lot of balls to fill up your belly on Rakuja. If you don't have much money, you can get your fix with some Rakuja hard juice that will get you drunk too.",
   "t": "A Rakuja é uma trepadeira que muitas vezes tem uma relação simbiótica mutualística com as árvores que infesta. Encontrada só em climas mais frios, ela ajuda as árvores hospedeiras injetando um gel anticongelante que produz quando detecta temperaturas mais baixas. Essa relação funciona muito bem em regiões como Gandew, Fuhrair e Old Fuhrair. O mesmo não se pode dizer de Tolerideme, onde as Wood People tomaram a terra. A relação entre elas sempre vira amensalismo. Os cientistas não só descobriram que esse gel anticongelante é uma excelente toxina para matar Wood People, como elas também têm as suas próprias vinhas, que usam para remover e matar qualquer Rakuja que tente crescer nelas. Mesmo assim, as pessoas babam pelos frutos de sabor ácido e azedinho, com notas cítricas e um cheiro bem aromático! Secos ou não, dá para encontrá-los em todos os reinos, mas, dependendo de onde você estiver, prepare-se para desembolsar muitas bolas para encher a barriga de Rakuja. Se não tiver muito dinheiro, pode matar a vontade com um pouco de Rakuja hard juice, que também vai te deixar bêbado."
+ },
+ "439675ec4ff9": {
+  "en": "<strong>Interface:</strong> Fungus.",
+  "t": "<strong>Interface:</strong> Fungo."
+ },
+ "43edec05c3e4": {
+  "en": "<strong>Inspired by:</strong> Blue Festuca.",
+  "t": "<strong>Inspirado em:</strong> Festuca azul."
  },
  "453bec6b2bd8": {
   "en": "Tenderthrough: a tall thin tree with a palm-like crown and green fruit that opens to yellow flesh with black seeds, beside Harry.",
@@ -262,6 +362,10 @@
  "4563f88a6a5f": {
   "en": "<strong>Skills:</strong> Biolight.",
   "t": "<strong>Habilidades:</strong> Biolight."
+ },
+ "45e9d6405fb2": {
+  "en": "<strong>Skills:</strong> Melt and Bleed (both when damaged).",
+  "t": "<strong>Habilidades:</strong> Melt e Bleed (os dois quando danificado)."
  },
  "466485e34c0b": {
   "en": "<strong>Inspired by:</strong> Maracuja (passion fruit), but the fruit is ~2× bigger.",
@@ -367,6 +471,10 @@
   "en": "<strong>Gyut Berries</strong>: The bushes are big: picking 1 kg of berries takes ~30 minutes to 1 hour. A staple good, used to set the value of the Balls currency. Each berry is about the size of a fingertip.",
   "t": "<strong>Frutinhas Gyut</strong>: Os arbustos são grandes: colher 1 kg de frutinhas leva de ~30 minutos a 1 hora. Um bem básico, usado para definir o valor da moeda de bolas. Cada frutinha tem mais ou menos o tamanho da ponta de um dedo."
  },
+ "547e97c7dee3": {
+  "en": "<strong>Inspired by:</strong> Wheat.",
+  "t": "<strong>Inspirado em:</strong> Trigo."
+ },
  "5547baceb60e": {
   "en": "Emerenthy",
   "t": "Emerenthy"
@@ -374,6 +482,10 @@
  "561ab600fe02": {
   "en": "<strong>Inspired by:</strong> Acerola.",
   "t": "<strong>Inspirado em:</strong> Acerola."
+ },
+ "56ab4e38055e": {
+  "en": "<strong>Domar Ale</strong>: Like beer, but slightly stronger.",
+  "t": "<strong>Ale Domar</strong>: Como a cerveja, mas um pouco mais forte."
  },
  "56ef4d8852af": {
   "en": "Emerenthy or methyl for some, is a common plant in the forests of Freeish.",
@@ -386,6 +498,10 @@
  "578c42cf3b94": {
   "en": "<strong>Inspired by:</strong> Mangosteen.",
   "t": "<strong>Inspirado em:</strong> Mangostão."
+ },
+ "5790265cf726": {
+  "en": "<strong>Siguash Berries</strong>: Each bush has less fruit than a Gyut bush, so harvesting 1 kg of berries takes ~60 minutes. A staple good, used to set the value of the Balls currency. Each berry is about the size of a fingertip.",
+  "t": "<strong>Frutinhas Siguash</strong>: Cada arbusto tem menos frutos que um arbusto de Gyut, então colher 1 kg de frutinhas leva ~60 minutos. Um bem básico, usado para definir o valor da moeda de bolas. Cada frutinha tem mais ou menos o tamanho da ponta de um dedo."
  },
  "58841083b43d": {
   "en": "Girdol: a tall spike of purple flowers with white bell-like blooms rising from spiky leaves.",
@@ -402,6 +518,18 @@
  "597e20352b60": {
   "en": "<strong>Growth:</strong> One month in the wild, then another three months to mature.",
   "t": "<strong>Crescimento:</strong> Um mês na natureza, depois mais três meses para amadurecer."
+ },
+ "59cd99598608": {
+  "en": "Panita Caps",
+  "t": "Chapéus de Panita"
+ },
+ "5b66dc457aaa": {
+  "en": "<strong>Inspired by:</strong> Siriguela.",
+  "t": "<strong>Inspirado em:</strong> Siriguela."
+ },
+ "5b7532baa0a1": {
+  "en": "<strong>Growth:</strong> ~150 kg of Carbey per acre (an acre here is 20 m × 200 m), which makes ~125 kg of Carbey flour.",
+  "t": "<strong>Crescimento:</strong> ~150 kg de Carbey por acre (um acre aqui tem 20 m × 200 m), o que dá ~125 kg de farinha de Carbey."
  },
  "5ca2f6c334b8": {
   "en": "<strong>Habitat:</strong> ~1–2 km above sea level, on the Buhraies Plains.",
@@ -427,6 +555,10 @@
   "en": "Tibou",
   "t": "Tibou"
  },
+ "5f64ccd144ab": {
+  "en": "<strong>Habitat:</strong> Across the kingdoms in non-desert areas below 1 km above sea level, especially in forests.",
+  "t": "<strong>Habitat:</strong> Pelos reinos, em áreas fora do deserto abaixo de 1 km acima do nível do mar, principalmente nas florestas."
+ },
  "5f847bb373ec": {
   "en": "Yabuca fruit, nowadays, refers to a specific coveted variety named Jonabuca, created by a family of scientists by grafting the best properties of the thousands of wild types as the Yabuca tree seems way too willing to mutate. Some believe a sneeze around a seedling is enough to change the flavor profile of the future fruits to snot, which later a scientist confirmed was indeed the case after investing way too much time in such a specific endeavor.",
   "t": "O fruto Yabuca, hoje em dia, se refere a uma variedade específica e cobiçada chamada Jonabuca, criada por uma família de cientistas enxertando as melhores propriedades dos milhares de tipos selvagens, já que a Yabuca parece disposta demais a sofrer mutações. Alguns acreditam que um espirro perto de uma muda basta para mudar o perfil de sabor dos futuros frutos para catarro, o que mais tarde um cientista confirmou ser verdade, depois de investir tempo demais numa empreitada tão específica."
@@ -438,6 +570,14 @@
  "65a33270e2d3": {
   "en": "<strong>Interface:</strong> Petals.",
   "t": "<strong>Interface:</strong> Pétalas."
+ },
+ "66ba80d721bd": {
+  "en": "<strong>Inspired by:</strong> Cassava.",
+  "t": "<strong>Inspirado em:</strong> Mandioca."
+ },
+ "677ab7119fec": {
+  "en": "<strong>Carbey</strong>: Used to feed Eguas, or to make other things.",
+  "t": "<strong>Carbey</strong>: Usado para alimentar as Eguas, ou para fazer outras coisas."
  },
  "681bda0bb608": {
   "en": "Non-Fruit Trees",
@@ -463,6 +603,10 @@
   "en": "Girdol is a plant often used for nari gels for its gut-changing properties or as a tea for its lemony soothing taste. You can find it easily in the wild, but since Toleridemians live higher up, they tend to care for it in their home or community greenhouse instead, given how much they consume to ease their stomach after a large meal.",
   "t": "A Girdol é uma planta muito usada em nari gels pelas propriedades de alterar o intestino, ou como chá, pelo sabor calmante de limão. Dá para encontrá-la facilmente na natureza, mas, como os Toleridemianos vivem em lugares mais altos, eles costumam cultivá-la em casa ou na estufa comunitária, dado o quanto consomem para aliviar o estômago depois de uma refeição farta."
  },
+ "6d53419c570e": {
+  "en": "Lakata Caps",
+  "t": "Chapéus de Lakata"
+ },
  "6e6f048ea91d": {
   "en": "<strong>Ground TastyLeaf</strong>: Often used in spices. The leaves are dried and ground, so they last much longer.",
   "t": "<strong>TastyLeaf Moída</strong>: Muito usada em temperos. As folhas são secas e moídas, então duram bem mais."
@@ -474,6 +618,10 @@
  "6ff171b72010": {
   "en": "<strong>Growth:</strong> ~15 years to mature, then ~50 fruits per tree a year.",
   "t": "<strong>Crescimento:</strong> ~15 anos para amadurecer, depois ~50 frutos por árvore por ano."
+ },
+ "70541b235796": {
+  "en": "<strong>Cadioca Roots</strong>: One of the staple foods of the kingdoms.",
+  "t": "<strong>Raízes de Cadioca</strong>: Uma das comidas básicas dos reinos."
  },
  "70c663f214f0": {
   "en": "<strong>Gosutam Fruit</strong>: People often plant this tree in their backyards; the fruit is rather expensive for how little of it you can eat.",
@@ -491,6 +639,10 @@
   "en": "Basi: a tall thin palm-like tree with a green crown and hanging dark seed clusters, beside Harry.",
   "t": "Basi: uma árvore alta e fina parecida com uma palmeira, com copa verde e cachos escuros de sementes pendurados, ao lado de Harry."
  },
+ "729631cd8d80": {
+  "en": "A mushroom often used in the Bleed Out nari gel.",
+  "t": "Um cogumelo muito usado no nari gel Bleed Out."
+ },
  "72ad272751b1": {
   "en": "Buzeta: a broad green tree with yellow fruit, shown whole and cut open, beside Harry.",
   "t": "Buzeta: uma árvore verde e larga com frutos amarelos, mostrados inteiros e abertos, ao lado de Harry."
@@ -498,6 +650,10 @@
  "73dd89c3bd18": {
   "en": "Deep green inside, with rather metallic, shiny bark. It's an example of flora that somehow escaped Vraki and ended up in our world: the Buhraies were messing around with sending things into the soul realm, and that's how this tree made its way here. Trunk People love this tree!",
   "t": "Verde-escura por dentro, com uma casca bem metálica e brilhante. É um exemplo de flora que de algum jeito escapou de Vraki e foi parar no nosso mundo: os Buhraies estavam brincando de mandar coisas para o reino das almas, e foi assim que esta árvore chegou aqui. O Trunk People adora esta árvore!"
+ },
+ "74f803414b7b": {
+  "en": "<strong>Growth:</strong> Several months.",
+  "t": "<strong>Crescimento:</strong> Vários meses."
  },
  "75f0818483fb": {
   "en": "<strong>Tastes like:</strong> Lemony.",
@@ -514,6 +670,10 @@
  "79541a500062": {
   "en": "Found on beaches all over the four kingdoms, since humans found it near Lukewarm Lake and started taking it everywhere. Farmed intensively in Deltacross, being close to Forway. Coconas are twice the size of coconuts.",
   "t": "Encontrada em praias por todos os quatro reinos, desde que os humanos a acharam perto do Lukewarm Lake e começaram a levá-la para todo lado. Cultivada intensivamente em Deltacross, por ficar perto de Forway. As coconas têm o dobro do tamanho de um coco."
+ },
+ "79b40aee52bd": {
+  "en": "Used in the Smooth Gut nari gel, and for its digestive properties, especially for the liver. Also great as a hangover remedy.",
+  "t": "Usado no nari gel Smooth Gut, e por suas propriedades digestivas, principalmente para o fígado. Também ótimo como remédio para ressaca."
  },
  "79cfd03ae2d3": {
   "en": "<strong>Ground Soul Wood</strong>: Often used in spices for a nutmeg and vanilla-like taste. Baking the seeds takes away the vanilla and makes the nutmeg far stronger; in large amounts, it can be antiseptic. Basically the world’s coffee.",
@@ -534,6 +694,10 @@
  "7acb0944473f": {
   "en": "<strong>Tastes like:</strong> Strawberry or raspberry.",
   "t": "<strong>Gosto de:</strong> Morango ou framboesa."
+ },
+ "7c0cde09b7a0": {
+  "en": "<strong>Man Beer</strong>: An incredibly strong beer.",
+  "t": "<strong>Cerveja de Homem</strong>: Uma cerveja incrivelmente forte."
  },
  "7ce9293eae37": {
   "en": "Girdol",
@@ -559,6 +723,10 @@
   "en": "A huge tree in the large forests around the Freeish Kingdom and Blood City. Its fruit tastes like melon pan, grows only a few at a time, is hard to reach, and is the size of a human. Its leaves have a tangy, chlorophyll note. A staple product of the Freeish Kingdom's Greenbread fields.",
   "t": "Uma árvore enorme nas grandes florestas em volta do Reino de Freeish e de Blood City. O fruto dela tem gosto de melon pan, nasce só alguns de cada vez, é difícil de alcançar, e tem o tamanho de um humano. As folhas têm uma nota azedinha de clorofila. Um produto básico dos campos de Greenbread do Reino de Freeish."
  },
+ "7f6890437a51": {
+  "en": "A root found in the desert of Gandew.",
+  "t": "Uma raiz encontrada no deserto de Gandew."
+ },
  "7f86575329d8": {
   "en": "Flora's average Soul Energy tier is <strong>Tier I</strong>, recharging <strong>1</strong> soul a day or less.",
   "t": "O nível médio de Energia da Alma da flora é o <strong>Nível I</strong>, recarregando <strong>1</strong> alma por dia ou menos."
@@ -574,6 +742,10 @@
  "826c3f9fa810": {
   "en": "<strong>Habitat:</strong> Mostly in the south, near Freeish, where it is farmed heavily. The other kingdoms don’t really partake in it.",
   "t": "<strong>Habitat:</strong> Principalmente no sul, perto de Freeish, onde é muito cultivada. Os outros reinos não ligam muito para ela."
+ },
+ "83660375e72d": {
+  "en": "<strong>Gyut Bread</strong>: Bread mixed with Gyut berries. A staple dessert for the poor throughout the four kingdoms, first invented in Freeish.",
+  "t": "<strong>Pão de Gyut</strong>: Pão misturado com frutinhas Gyut. Uma sobremesa básica dos pobres por todos os quatro reinos, inventada em Freeish."
  },
  "83cab85106b2": {
   "en": "Wood Yabuca",
@@ -594,6 +766,10 @@
  "8659ba55ba3b": {
   "en": "Greenbread: a large tree with stilt-like roots and big round green fruit about 170 cm across.",
   "t": "Greenbread: uma árvore grande com raízes de escora e grandes frutos verdes redondos de cerca de 170 cm de diâmetro."
+ },
+ "88aa5a6734b6": {
+  "en": "Lehuj Grass",
+  "t": "Capim Lehuj"
  },
  "88bdeacd0acf": {
   "en": "<strong>Inspired by:</strong> Eucalyptus deglupta.",
@@ -627,6 +803,10 @@
   "en": "Siguash",
   "t": "Siguash"
  },
+ "8f593f4a94bc": {
+  "en": "<strong>Domar Carbey</strong>: Tolerideme has the upper hand in planting it for trading.",
+  "t": "<strong>Domar Carbey</strong>: Tolerideme leva vantagem no plantio dele para o comércio."
+ },
  "902aa2e3486c": {
   "en": "<strong>Habitat:</strong> ~0–1 km above sea level, in the desert’s transitional zone.",
   "t": "<strong>Habitat:</strong> ~0–1 km acima do nível do mar, na zona de transição do deserto."
@@ -634,6 +814,14 @@
  "904d427af08d": {
   "en": "Gyut: a small bush covered in red fruit, beside Harry.",
   "t": "Gyut: um pequeno arbusto coberto de frutos vermelhos, ao lado de Harry."
+ },
+ "9193cdc8a9ca": {
+  "en": "<strong>Siguash Juice</strong>: Refreshing.",
+  "t": "<strong>Suco de Siguash</strong>: Refrescante."
+ },
+ "92cab0b9a4e9": {
+  "en": "<strong>Habitat:</strong> ~0 km above sea level, in the muddy, deep forests of the south.",
+  "t": "<strong>Habitat:</strong> ~0 km acima do nível do mar, nas florestas fechadas e lamacentas do sul."
  },
  "92f34fd1c31a": {
   "en": "<strong>Inspired by:</strong> Mango Buceta.",
@@ -651,9 +839,17 @@
   "en": "<strong>Rakuja Hard Juice</strong>: Fermented juice: fizzy, less sweet, but less tart as well.",
   "t": "<strong>Suco Fermentado de Rakuja</strong>: Suco fermentado: com gás, menos doce, mas também menos azedo."
  },
+ "94d59cd424bd": {
+  "en": "<strong>Tastes like:</strong> Roasted Grapes.",
+  "t": "<strong>Gosto de:</strong> Uvas assadas."
+ },
  "95207ccb8b2f": {
   "en": "One of the most sought-after plants, for making soap and shampoo out of its shells. Not really used in teas, though some like it. The cotton-like fiber inside the case is used for fabric.",
   "t": "Uma das plantas mais procuradas, para fazer sabão e xampu com as cascas. Não é muito usada em chás, embora alguns gostem. A fibra parecida com algodão dentro da cápsula é usada para tecidos."
+ },
+ "95857e9df55f": {
+  "en": "<strong>Gyut Juice</strong>: Refreshing.",
+  "t": "<strong>Suco de Gyut</strong>: Refrescante."
  },
  "95e9fae64713": {
   "en": "<strong>Visual reference:</strong> Exterior only; the inside is the same as a normal banana.",
@@ -674,6 +870,10 @@
  "97235f9778f5": {
   "en": "Buzeta Fruit",
   "t": "Fruta Buzeta"
+ },
+ "9889b8b563d8": {
+  "en": "<strong>Habitat:</strong> Buried in the desert, closer to the transitional zones.",
+  "t": "<strong>Habitat:</strong> Enterrada no deserto, mais perto das zonas de transição."
  },
  "98a95112463e": {
   "en": "See Beasts -&gt; Hifuna People",
@@ -727,6 +927,10 @@
   "en": "<strong>Inspired by:</strong> Birgit Bonnier Apples.",
   "t": "<strong>Inspirado em:</strong> Maçãs Birgit Bonnier."
  },
+ "9fdb0b131cb6": {
+  "en": "<strong>Habitat:</strong> Throughout the entire lower region, except the desert.",
+  "t": "<strong>Habitat:</strong> Por toda a região baixa, exceto o deserto."
+ },
  "a0b3c4a0e3a2": {
   "en": "<strong>Growth:</strong> About 10 months to a harvest.",
   "t": "<strong>Crescimento:</strong> Cerca de 10 meses até uma colheita."
@@ -734,6 +938,10 @@
  "a0bb4f59cf66": {
   "en": "<strong>Lonllow Hard Juice</strong>: Fermented juice.",
   "t": "<strong>Suco Fermentado de Lonllow</strong>: Suco fermentado."
+ },
+ "a1ec7dc8d1c3": {
+  "en": "<strong>Skills:</strong> Hallucinate.",
+  "t": "<strong>Habilidades:</strong> Hallucinate."
  },
  "a23ee4b56931": {
   "en": "<strong>Tier I (Cheap Goods):</strong> berries, fruit, fungus and grass.",
@@ -755,9 +963,21 @@
   "en": "<strong>Inspired by:</strong> Papaya.",
   "t": "<strong>Inspirado em:</strong> Mamão."
  },
+ "a455f4245603": {
+  "en": "<strong>Habitat:</strong> The Buhraies Plains, in the Tolerideme Kingdom.",
+  "t": "<strong>Habitat:</strong> As Planícies Buhraies, no Reino de Tolerideme."
+ },
  "a4757cb7e64a": {
   "en": "<strong>Inspired by:</strong> Phalaenopsis orchid.",
   "t": "<strong>Inspirado em:</strong> Orquídea Phalaenopsis."
+ },
+ "a5032b243951": {
+  "en": "<strong>Beer</strong>: A highly nutritious, low-alcohol drink enjoyed by everyone.",
+  "t": "<strong>Cerveja</strong>: Uma bebida muito nutritiva e de baixo teor alcoólico, apreciada por todos."
+ },
+ "a51cc16d8108": {
+  "en": "<strong>Tastes like:</strong> Slightly sweet and acidic.",
+  "t": "<strong>Gosto de:</strong> Levemente doce e ácido."
  },
  "a5cac2861755": {
   "en": "Nica",
@@ -766,6 +986,10 @@
  "a819f91b0bec": {
   "en": "<strong>Purplebread Hard Juice</strong>: Fermented juice.",
   "t": "<strong>Suco Fermentado de Purplebread</strong>: Suco fermentado."
+ },
+ "a82743355031": {
+  "en": "<strong>Growth:</strong> One bush gives ~0.5 kg of berries a day for ~10 days during the harvest season.",
+  "t": "<strong>Crescimento:</strong> Um arbusto dá ~0,5 kg de frutinhas por dia durante ~10 dias na safra."
  },
  "a9752f76f383": {
   "en": "Lehuj",
@@ -807,9 +1031,17 @@
   "en": "Black Sapphire Tree",
   "t": "Black Sapphire Tree"
  },
+ "af9b630858be": {
+  "en": "<strong>Tastes like:</strong> Cassava.",
+  "t": "<strong>Gosto de:</strong> Mandioca."
+ },
  "afd111d393ff": {
   "en": "Purplebread: a feathery green tree with a brown husked fruit that opens to purple flesh, about 12 cm, beside Harry.",
   "t": "Purplebread: uma árvore verde de folhas plumosas com um fruto de casca marrom que se abre numa polpa roxa, com cerca de 12 cm, ao lado de Harry."
+ },
+ "b07934dcd8ce": {
+  "en": "<strong>Skills:</strong> Pacifier.",
+  "t": "<strong>Habilidades:</strong> Pacifier."
  },
  "b0c3a9db443b": {
   "en": "Cadioca: a leafy green plant with a thick reddish root, about knee height.",
@@ -827,9 +1059,17 @@
   "en": "<strong>Black Wood</strong>: Dark and dense. Often used with nari stones, sigils and containers that hold Soul Energy, to keep the Soul Energy from leaking.",
   "t": "<strong>Madeira Preta</strong>: Escura e densa. Muito usada com pedras nari, sigilos e recipientes que guardam Energia da Alma, para a Energia da Alma não vazar."
  },
+ "b279020505fb": {
+  "en": "<strong>Inspired by:</strong> Ginger.",
+  "t": "<strong>Inspirado em:</strong> Gengibre."
+ },
  "b2b23b52802a": {
   "en": "<strong>Tastes like:</strong> Slightly sweet and fleshy, a little like raspberries and apples.",
   "t": "<strong>Gosto de:</strong> Levemente doce e carnuda, um pouco como framboesas e maçãs."
+ },
+ "b345516c97d3": {
+  "en": "<strong>Gyut Hard Juice</strong>: Fermented juice.",
+  "t": "<strong>Suco Fermentado de Gyut</strong>: Suco fermentado."
  },
  "b3996f605338": {
   "en": "Tyr affects the nervous system like Lakata, but it focuses its effects on messing with the sympathetic nervous system and reality perception instead. The worst effect people report is hearing or seeing disturbing things while feeling locked inside your body because you're trying to fight or run away from it, but your fight-or-flight doesn't work. It's not too far off from sleep paralysis. There are other properties from Tyr as well, like triggering narcoleptic sleep, but isolating it has been challenging. A research paper reported being able to hear others' thoughts as well, but the scientists who tried it could not replicate it and chalked it up to a bad trip instead.",
@@ -842,6 +1082,14 @@
  "b3e3b2749e3e": {
   "en": "<strong>Buzeta Juice</strong>: Pretty good; better in vitamin shakes.",
   "t": "<strong>Suco de Buzeta</strong>: Bem bom; melhor em vitaminas."
+ },
+ "b3fd57c49b32": {
+  "en": "<strong>Inspired by:</strong> Exsudoporus frostii.",
+  "t": "<strong>Inspirado em:</strong> Exsudoporus frostii."
+ },
+ "b4623889a43a": {
+  "en": "<strong>Growth:</strong> One month.",
+  "t": "<strong>Crescimento:</strong> Um mês."
  },
  "b4e93eccc1f4": {
   "en": "Mushrooms",
@@ -867,6 +1115,10 @@
   "en": "Lonllow",
   "t": "Lonllow"
  },
+ "bf95afef3b85": {
+  "en": "<strong>Cadioca Flour</strong>: Just like Domar Carbey flour.",
+  "t": "<strong>Farinha de Cadioca</strong>: Igualzinha à farinha de Domar Carbey."
+ },
  "bfedb8f28e8b": {
   "en": "<strong>Growth:</strong> Several months in the wild.",
   "t": "<strong>Crescimento:</strong> Vários meses na natureza."
@@ -887,6 +1139,10 @@
   "en": "Carbey was annoying grass everyone hated it, at least until they discovered how tasty it is to mix it with water and yeast and then shove it in a wood stove. Farmed intensively in Freeish, like most other things, but some holdouts in Tolerideme insist their Carbey yields taste far better, specifically when used for spirits, despite it being much harder to cultivate over there. Carbey is another staple food Forway uses to establish the base value of a single pearl ball.",
   "t": "O Carbey era um capim irritante que todo mundo odiava, pelo menos até descobrirem como fica gostoso misturá-lo com água e fermento e enfiar num fogão a lenha. Ele é cultivado intensivamente em Freeish, como a maioria das outras coisas, mas alguns resistentes de Tolerideme insistem que as suas colheitas de Carbey têm um gosto muito melhor, especialmente quando usadas para destilados, apesar de ser muito mais difícil de cultivar lá. O Carbey é outro alimento básico que Forway usa para estabelecer o valor base de uma única bola pearl."
  },
+ "c3e9d579f4af": {
+  "en": "<strong>Growth:</strong> ~300 kg per acre (an acre here is 20 m × 200 m), which makes ~250 kg of flour.",
+  "t": "<strong>Crescimento:</strong> ~300 kg por acre (um acre aqui tem 20 m × 200 m), o que dá ~250 kg de farinha."
+ },
  "c441f84d3e76": {
   "en": "<strong>Skills:</strong> Grow Spikes; Sweat Induction.",
   "t": "<strong>Habilidades:</strong> Grow Spikes; Sweat Induction."
@@ -898,6 +1154,18 @@
  "c4eaa319eefd": {
   "en": "<strong>Basi Pulp</strong>: The pulp, separated from the fruit: a thick paste, eaten with both salty and sweet things.",
   "t": "<strong>Polpa de Basi</strong>: A polpa, separada da fruta: uma pasta grossa, comida com coisas salgadas e doces."
+ },
+ "c513902bfa45": {
+  "en": "A fungus similar to Lakata, but far too poisonous (it causes auditory and visual hallucinations).",
+  "t": "Um fungo parecido com o Lakata, mas venenoso demais (causa alucinações auditivas e visuais)."
+ },
+ "c6a7270cfd89": {
+  "en": "Poisonous raw: it has to soak in the river for 2 days, then dry in the sun.",
+  "t": "Venenosa crua: precisa ficar de molho no rio por 2 dias, e depois secar ao sol."
+ },
+ "c7db54175361": {
+  "en": "<strong>Siguash Hard Juice</strong>: Fermented juice.",
+  "t": "<strong>Suco Fermentado de Siguash</strong>: Suco fermentado."
  },
  "c8c1b01732df": {
   "en": "Greenbread",
@@ -935,6 +1203,10 @@
   "en": "<strong>Growth:</strong> Its leaves drop every fall, and the tree grows slightly each year.",
   "t": "<strong>Crescimento:</strong> As folhas caem todo outono, e a árvore cresce um pouco a cada ano."
  },
+ "d6739909ba41": {
+  "en": "<strong>Interface:</strong> Mushroom.",
+  "t": "<strong>Interface:</strong> Cogumelo."
+ },
  "d77d70ae5957": {
   "en": "<strong>Dried Greenbread</strong>: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack.",
   "t": "<strong>Greenbread Seco</strong>: Feito para estoques de comida, para vender a outros reinos, para assar, ou como lanche de estrada."
@@ -951,6 +1223,10 @@
   "en": "Tenderthrough Fruit",
   "t": "Fruta Tenderthrough"
  },
+ "d9198890ff1c": {
+  "en": "<strong>Cadioca Coarse Flour</strong>: Eaten with all kinds of things. (Real-world comparison: farinha, the toasted cassava flour of Brazilian cooking.)",
+  "t": "<strong>Farinha Grossa de Cadioca</strong>: Comida com todo tipo de coisa. (Comparação com o mundo real: a farinha, a farinha de mandioca torrada da culinária brasileira.)"
+ },
  "da107475bbb4": {
   "en": "Flora by tier:",
   "t": "Flora por nível:"
@@ -958,6 +1234,10 @@
  "dbacaa414755": {
   "en": "Lakata: a small dark trumpet-shaped mushroom.",
   "t": "Lakata: um pequeno cogumelo escuro em forma de trompete."
+ },
+ "dbefd26139b2": {
+  "en": "<strong>Growth:</strong> Wild.",
+  "t": "<strong>Crescimento:</strong> Selvagem."
  },
  "dc7499d1800a": {
   "en": "A large Yabuca variant, created when the Buhraies mutated Wood People from Yabuca trees. Up to about 26 cm.",
@@ -974,6 +1254,10 @@
  "dda1790312f4": {
   "en": "<strong>Growth:</strong> Three months in the wild.",
   "t": "<strong>Crescimento:</strong> Três meses na natureza."
+ },
+ "de44dc8868ab": {
+  "en": "<strong>Dried Siguash</strong>: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack. (Visual reference: like cherry tomatoes, but yellowish.)",
+  "t": "<strong>Siguash Seca</strong>: Feita para estoques de comida, para vender a outros reinos, para assar, ou como lanche de estrada. (Referência visual: como tomates-cereja, mas amarelados.)"
  },
  "defc4045a107": {
   "en": "<strong>Tastes like:</strong> Mango.",
@@ -998,6 +1282,10 @@
  "e2c57c610cf4": {
   "en": "Flora · #HusbandOutWorld",
   "t": "Flora · #HusbandOutWorld"
+ },
+ "e331c5464180": {
+  "en": "<strong>Domar Gyut Bread</strong>: Bread mixed with Gyut berries.",
+  "t": "<strong>Pão Domar de Gyut</strong>: Pão misturado com frutinhas Gyut."
  },
  "e3ea690b9b78": {
   "en": "<strong>Tastes like:</strong> Banana.",
@@ -1043,6 +1331,10 @@
   "en": "<strong>Purplebread Juice</strong>: Refreshing.",
   "t": "<strong>Suco de Purplebread</strong>: Refrescante."
  },
+ "ebe0ba6a0914": {
+  "en": "<strong>Tastes like:</strong> Ginger.",
+  "t": "<strong>Gosto de:</strong> Gengibre."
+ },
  "ec0d8c23f282": {
   "en": "Tyr: a small mushroom with a mottled pink-and-purple cap and a green-gilled stem.",
   "t": "Tyr: um pequeno cogumelo de chapéu manchado rosa e roxo e haste de lamelas verdes."
@@ -1063,6 +1355,10 @@
   "en": "See Beasts -&gt; Wood People",
   "t": "Veja Bestas -&gt; Wood People"
  },
+ "ef79b8933ed9": {
+  "en": "<strong>Domar Carbey Flour</strong>: See Domar Carbey.",
+  "t": "<strong>Farinha de Domar Carbey</strong>: Veja Domar Carbey."
+ },
  "f066042ff172": {
   "en": "<strong>Basi Berries</strong>: Stripping a bush of all its berries takes 4 hours and yields 1 to 2 kg; a shaker can cut that time in half. Each berry is about the size of a fingertip and has to be separated from the hair-like structure.",
   "t": "<strong>Frutinhas Basi</strong>: Tirar todas as frutinhas de um arbusto leva 4 horas e rende de 1 a 2 kg; uma sacudidora pode cortar esse tempo pela metade. Cada frutinha tem mais ou menos o tamanho da ponta de um dedo e precisa ser separada da estrutura parecida com pelos."
@@ -1074,6 +1370,10 @@
  "f344ab6cddf6": {
   "en": "Domar Carbey is a version of Carbey created by one of the three smart sisters by crossbreeding with Wood People. It only grows in the Tolerideme region, as it is de facto the base of the Tolerideme economy. From spirits, food export, clothing, etc! Everything comes from Domar Carbey. The wheat itself tastes slightly cheesy, like parmesan, with a rich grain smell that gives an extra oompf to whatever you bake! Although it only goes well with desserts if you're talking about specific ones like Gyut bread or other deserts where it's on the citrusy spectrum. Something like creme brule, pudding, or anything with more yolk taste doesn't seem to work.",
   "t": "O Domar Carbey é uma versão do Carbey criada por uma das três irmãs inteligentes, cruzando-o com Wood People. Ele só cresce na região de Tolerideme, já que é, de fato, a base da economia de Tolerideme. De destilados a exportação de alimentos, roupas etc.! Tudo vem do Domar Carbey. O trigo em si tem um gosto levemente de queijo, como parmesão, com um cheiro rico de grão que dá um algo a mais a tudo o que você assa! Mas ele só combina com sobremesas se você estiver falando de algumas específicas, como o pão de Gyut ou outras sobremesas do espectro cítrico. Algo como crème brûlée, pudim ou qualquer coisa com mais gosto de gema não parece funcionar."
+ },
+ "f384b379f2b6": {
+  "en": "A version of Carbey that one of the three smart sisters created by crossbreeding it with Wood People. Used to make beer, bread and everything in between, and more nutritious and tastier than Carbey.",
+  "t": "Uma versão do Carbey que uma das três irmãs espertas criou cruzando-o com o Wood People. Usado para fazer cerveja, pão e tudo o que fica no meio, e mais nutritivo e gostoso que o Carbey."
  },
  "f3a03e9ecd73": {
   "en": "Soul Tree",
@@ -1087,9 +1387,17 @@
   "en": "Rakuja: a leafy tree with round brown fruit about 8 cm across, shown whole and cut open, beside Harry.",
   "t": "Rakuja: uma árvore folhosa com frutos marrons redondos de cerca de 8 cm de diâmetro, mostrados inteiros e abertos, ao lado de Harry."
  },
+ "f5b2d0c1fcfd": {
+  "en": "<strong>Domar Man Beer</strong>: An incredibly strong beer.",
+  "t": "<strong>Cerveja de Homem Domar</strong>: Uma cerveja incrivelmente forte."
+ },
  "f745ff7e7155": {
   "en": "Public text: flora.md",
   "t": "Texto público: flora.md"
+ },
+ "f7c912bfef80": {
+  "en": "<strong>Habitat:</strong> A root found in the lowlands; heavily farmed in Freeish.",
+  "t": "<strong>Habitat:</strong> Uma raiz encontrada nas terras baixas; muito cultivada em Freeish."
  },
  "f825c7410a05": {
   "en": "Tastyleaf is an absolute mega chungus of a tree, measuring about 104 meters tall, with girth alone in the upper 40 meters. No other tree comes even close to its size or properties. It was discovered inside what had to be a not-so-secret garden by one of the first tribes of humans who fled the Buhraies plains. Accounts of that history were passed down orally, so narratives diverged on whether humans killed the Buhraies garden owners and took over before they could call for help or if it was simply abandoned instead. Either way, this tree granted humans a sanctuary against the hungry beast and fauna as it has similar light properties to fost stone, including lighting up when it rains and repelling beasts and fauna.",
