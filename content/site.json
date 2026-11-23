@@ -597,6 +597,19 @@
     "source": "Webcomic",
     "blog_page": "graphiclight-novels.md"
   },
+  "playground": {
+    "title": "Playground",
+    "blurb": "Just random ideas and gimmicks for people to peruse.",
+    "games": [
+      {
+        "id": "territory-snipping",
+        "title": "Territory Snipping",
+        "data": "territory-snipping.json",
+        "lore": "/lore/pastimes/#territory-snipping",
+        "intro": "Play the round of <a href=\"{lore}\">Territory Snipping</a> from Vol 2, as Harry, against Hiromi."
+      }
+    ]
+  },
   "app": {
     "_about": "Installable app (PWA): tools/pwa.py writes the manifest, icons and service worker from these settings. Change 'version' to make every installed copy drop what it saved and start over.",
     "name": "A Husband Out of This World",
