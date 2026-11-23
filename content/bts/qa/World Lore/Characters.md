@@ -207,6 +207,26 @@ Status: **answered** 2026-11-22.
 - **Lofinghy and Lofingha:** born 993 and 1007, so he was 14 when she was born; left as written under the author's C12 ruling.
 - "(See World Lore Q&A › Vol 4 Draft 2, Qn.)" pointers dropped; "almost got curled" read as "almost culled"; "she was perished by bandits" as "killed by bandits"; Sora's "Smells like" line (a novel excerpt) summarized.
 
+## Batch 6: Sanbi Villages and Sundeath (asked 2026-11-22)
+
+Itanema, Sinoi, Perderhora, Gamal, Naunet, Anpu, Bata.
+
+Status: **open** until answered.
+
+### CH17. Naunet's birthday
+- **Legacy text:** Naunet "989 A.G. Adrian 25th"; her children Anpu and Bata "995 A.G. Moacir 30th" and Neferteri "999 A.G. Moacir 42nd"; Gamal "974 A.G. Asa 58th".
+- **Why:** That makes Naunet 6 when the twins were born and 10 when Neferteri was born. Which year should she be born (for example 974, like Gamal)?
+
+### CH18. Perderhora's age
+- **Legacy text:** Birthday "Paulin 25 769 A.G"; stats: "70 (against 1039 A.G)".
+- **Why:** 769 A.G. makes him 270 in 1039. Was he born in 969 A.G. (70), or is he 270?
+
+### Judgment calls in batch 6
+- **Bata:** his entry repeats Anpu's word for word, so the abridged Bata points to Anpu's entry ("the same as Anpu's, on purpose") instead of repeating it.
+- **Perderhora:** the farm's rituals are told plainly, without dwelling on them (forced labor, sexual rituals, extracting semen and sweat for the cooking, and the ritual that went awry), as the author's notes do.
+- **Real-world comparisons:** Anpu and Bata's "Reference material Michael and Martin McNamara jokes from Best of The Worst" became a note on the twin kickboxers of *Twin Dragon Encounter* and RedLetterMedia's *Best of the Worst*; Gamal's "A la Hades" reads "like Hades".
+- The Pussy Power faction links to the Factions page; "Chamless" read as charmless; "Enervated" as listless.
+
 ---
 
 ## The author's pushback on minors and toned-down wording (2026-11-22)
@@ -237,7 +257,7 @@ Status: **answered** 2026-11-22.
 
 ## Discrepancies
 
-See CH1 to CH16.
+See CH1 to CH18.
 
 ## Left out on purpose
 

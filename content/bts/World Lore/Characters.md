@@ -1014,3 +1014,140 @@ He has worked closely with the Sanbi Royals a great deal. He's the one who got [
 | Book | Age | Height | Weight |
 |---|---|---|---|
 | 3 | 46 | 175 cm | 90 kg |
+
+# Itanema Sanbi-East
+
+Born to a simple family, she got to go to school because her father, [Sinoi](#sinoi-sanbi-east), signed a contract with [Neferteri](#neferteri-sanbi-royal) in exchange for becoming her close, tight-lipped informant and contractor. Neferteri nudged [Eiri](#eiri-sanbi-royal) toward Itanema, and Eiri hired her. She's always silent, almost invisible in the background.
+
+- **Race:** human.
+- **Birthday:** 1012 A.G. Asa 24th.
+- **Attracted to:** strong, independent men who know what they want in life.
+- **Myers-Briggs:** ESTP.
+- **Intelligence:** knows enough to know her place in the grand scheme of things, and bothers to learn just enough to do her job averagely.
+- **Habits:** neutral body language, with a rhythm of her own; her hands reach out to things as she pauses for a moment, then moves on with her day.
+- **Speech:** direct; somewhat polite, but not the politest ("C'mon, I received an order to follow. You gotta dance to that as well."). A bit like [Kibe](#kibe-sanbi-royal), but less narcissistic and more goal-focused.
+- **Strengths:** outgoing; realistic and pragmatic; doesn't care about others, especially gossip and such; a strong, independent lady who doesn't take shit from anyone.
+- **Flaws:** uncaring; self-indulgent; narcissistic; charmless.
+- **Likes and dislikes:** likes silence. Loves Tolerideme cooking, and boiling-hot food, extremely hot or spicy: the pain of the burn excites her.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 1 | 27 | 176 cm | 59 kg |
+| 2 | 27 | 176 cm | 59 kg |
+
+# Sinoi Sanbi-East
+
+A simple man with a simple life. His wife died early, and with few resources, he wanted more for his only daughter, [Itanema](#itanema-sanbi-east), so he sought an audience with [Neferteri](#neferteri-sanbi-royal), who arranged a better life for Itanema in exchange for Sinoi doing anything she wanted. He doesn't dwell on why he's doing something, and doesn't probe at all: he simply doesn't care. While the real [Harry](#harry-sanbi) was being experimented on, Sinoi wore Harry's fake skin (the Fake Skin nari gel) and walked around as the Sanbi Eye, representing the kingdom; only Neferteri knew. In Vol 4 he has gone missing: Neferteri suspects a third party, or that he soul-died without anyone noticing, since he's old.
+
+- **Race:** human, with Wozefaries (a higher percentage than usual).
+- **Birthday:** 965 A.G. Asa 12th.
+- **Attracted to:** a woman who gives him his space and isn't nosy.
+- **Myers-Briggs:** ISTP.
+- **Intelligence:** low. He can't read, but has enough street smarts to figure things out.
+- **Habits:** tired and sleepy, from all the Steen he chews; not much body movement. He focuses on what he has to do, and that's it.
+- **Speech:** "Ah'wi'do" instead of "All right, will do"; yawns a lot. He doesn't ask questions or follow up, can get awkward, and isn't very communicative.
+- **Strengths:** logical; independent; enjoys adventure, and needs no specific instructions, nor cares to hear why he's doing something; chill and laid-back.
+- **Flaws:** stoic; uncaring; lazy; dependent on Steen: he loves the stuff too much and chews it all day long.
+- **Likes and dislikes:** loves Steen way too much. Likes fried food, and Greenbread beans like nobody else.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 2 | 74 | 151 cm | 57 kg |
+
+# Perderhora Endlessfog
+
+Born in Endlessfog into a large Buhraies family (with no formal guild) that ran one of the smaller Lonllow farms, known as the Horane farm. They kept to themselves and only talked to others to trade goods; some believed they were an offshoot of the Triangle cult or something like it. The truth: the family descended from a Buhraies couple who fled to Endlessfog instead of the desert, choosing to hide rather than fight the humans. By the time humans settled Endlessfog more heavily and discovered them, the settlers either didn't care, or were fleeing the human wars themselves.
+
+That didn't stop people from seeking them out! Their Lonllow recipes were famous for a secret seasoning that brought tart and salty notes into the traditionally sweet Lonllow flavors. Sometimes it caused indigestion, but the exotic flavors, and a particular enthralling high, were so good that people couldn't help themselves and ignored the side effects. No one ever figured out what they did differently, despite many attempts to reproduce the flavor, from analyzing the end product to abducting a family member and forcing them to talk. They weren't big enough for Forway, or anyone else, to take action against, and they were better known among rich folks chasing exotic food than among common people.
+
+Which is a pity, since out of seemingly nowhere the entire farm was destroyed and the family disappeared without a trace, except for one of the younger children: Perderhora. Whatever happened must have been traumatic, since he never recovered, and still prefers living among the wildlife to living among his kin. The truth: the farm forced Bruntos into hard labor and kept them in check with sexual rituals, extracting their semen and sweat and mixing them with a specific cocktail of mushrooms for the cooking. One of those rituals went awry and turned on the family. Perderhora, luckily (or maybe not so luckily), was sitting farther back and saw the moment things turned sour. He hid, and had to silently watch the ritual go on for days, until the Bruntos' flesh caved in and they died of exhaustion. In desperation, self-preservation, or maybe shame, he burned down the entire farm and roamed the wilderness aimlessly. That's when Endlessfog locals began spotting him as the "hole guy", or "weird hands holey", seen in caverns and other holes with his back or legs poking out.
+
+Manhia, an exotic-food farmer from Forway, wanted to bring back the recipes he craved so much and sought out the family, only to find Perderhora was all that was left. Asking nicely didn't work, so he captured him and brought him to [Gabiro](#gabiro-sanbi-royal), who shared his interest in soul research and had become his pen pal. Gabiro ran all kinds of experiments to "fix" Perderhora's soul, but only made it worse: now he can't talk, though at least he gained more interfaces and grew in power. Manhia then decided to parade Perderhora around in freak shows instead, after forcing him to get a badge and sign a contract (some have said it isn't legal). During one of those trips, near Deltacross, members of the [Pussy Power](/lore/factions/#pussy-power) faction pounced on the caravan and freed all the freak show members. Perderhora escaped in the chaos, and has never been seen again.
+
+- **Race:** Buhraies.
+- **Birthday:** 769 A.G. Paulin 25th (see the Q&A).
+- **Attracted to:** asexual.
+- **Myers-Briggs:** ISFP.
+- **Intelligence:** like a very intelligent Bagarisa with a cat's survival instincts and social habits; in other words, less social than a Bagarisa. Years in the wild, plus Gabiro's experiments, have taken a great toll: what's left of his humanity is a mere fragment of a normal Buhraies'.
+- **Habits:** uses his eyes and facial expressions a lot; points; no other sign language. Shares memories by putting his hands on someone's head and clawing in. Claws into a hole when overexcited, among other cat-like behaviors. Smells bad, his mouth is like an open sewer, and his skin itches constantly.
+- **Speech:** none (since Gabiro's experiments).
+- **Strengths:** flexible; cat-like reflexes, for a Buhraies; simple-minded; quiet; uncomplaining; capable; a survivor; sensitive; shy.
+- **Flaws:** feebly skinny; cold; dull; sly; sneaky; charmless; impulsive (base desires); hesitant.
+- **Likes and dislikes:** loves fruit and plants, and eats nothing with blood. Hates the sight of bodily fluids, his own included. Loves quiet, peaceful places away from everything and everyone.
+- **Interface:** Darfaries.
+- **Skills:** a custom interface that enhances his hands for burrowing, learned from rodents; memory sharing (hands on someone's head, clawing in), an interface he got from Gabiro's manipulation.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| Arc 2 inset | 70 (in 1039 A.G.) | 140 cm | 35 kg |
+
+# Gamal Sundeath Pharaohs
+
+The 9th Pharaoh, and [Neferteri](#neferteri-sanbi-royal)'s father.
+
+- **Race:** human.
+- **Birthday:** 974 A.G. Asa 58th.
+- **Attracted to:** Sundeath women.
+- **Myers-Briggs:** ISTP.
+- **Intelligence:** a man who has known his city for a long time. He knows how things are, but as they were decades ago, not exactly today.
+- **Habits:** sits around a lot, with a tired, old look and a resting-bitch face that doesn't express much; a wave of his hand is all the emotion he shows.
+- **Speech:** quick to agree or disagree and move on as soon as he has heard the other person out. His voice is tired, raspy and detached, even though his words show he listened to every word.
+- **Strengths:** spontaneous; analytical; reserved; careful; fatherly.
+- **Flaws:** stuck in his ways, like Hades; dogmatic; pretentious; cunning; deceitful; listless.
+- **Likes and dislikes:** loves Sand Worm, and even Sayna. Loves fish, but says he hates it to jab at Neferteri.
+- **Interface:** Darfaries.
+
+# Naunet Sundeath Pharaohs
+
+The 9th Pharaoh's wife, and [Neferteri](#neferteri-sanbi-royal)'s mother. She grew up close to her brother, [Gamal](#gamal-sundeath-pharaohs), now her husband of many years.
+
+- **Race:** human.
+- **Birthday:** 989 A.G. Adrian 25th (see the Q&A).
+- **Attracted to:** her brother Gamal, since he's what feeds her Soul Energy.
+- **Myers-Briggs:** INTP.
+- **Intelligence:** just like Neferteri: she replies smartly and takes part in conversations, with a strong presence of mind.
+- **Habits:** keeps her hands to herself, and hides her emotions behind a veil of elegance so no one can peek at her feelings or motives.
+- **Speech:** polite, distant and elegant; a calm, somewhat monotone voice, like her movements.
+- **Strengths:** innovative; creative; precise; logical; reserved.
+- **Flaws:** crafty; fixed; calculating; uncharitable; attached to her birthplace, and doesn't like to travel.
+- **Likes and dislikes:** prefers Sundeath to anything else. Hates humidity and cold. Loves Lolish, especially preserved in sugar.
+- **Interface:** Darfaries.
+
+# Anpu Sundeath Pharaohs
+
+Born a twin, he grew very close to his brother, [Bata](#bata-sundeath-pharaohs). From early childhood both were treated like deities, so they grew a profound narcissism: they were better than anyone else, and the only one as good as either was his twin. In time, that narcissism grew into sexual desire too, which helped the brothers' synchronicity, but left Sundeath's leadership at an impasse that lasts to this day: one of them is to be the new Pharaoh, but they refuse, since they both need to sit equally on the throne. That, plus the lack of girls in the family who could fulfill their desire, doesn't help matters.
+
+- **Race:** human.
+- **Birthday:** 995 A.G. Moacir 30th.
+- **Attracted to:** outwardly, a twin woman able to serve him and his brother; inwardly, his brother. Because of that conflict, they have yet to find twin girls who meet their very specific criteria, which in a sense is just a veil to keep the brothers' bond strong.
+- **Myers-Briggs:** INTJ.
+- **Intelligence:** the twins actively try to become one another, like mirror images: virtually nobody can tell them apart, even side by side, not even [Gamal](#gamal-sundeath-pharaohs) or [Naunet](#naunet-sundeath-pharaohs) most days, since the brothers constantly use nari gels and mimicry to patch over any small difference. (Real-world comparison: Michael and Martin McNamara, the identical twin kickboxers of the B-movie *Twin Dragon Encounter*, and the jokes about them on RedLetterMedia's *Best of the Worst*.)
+- **Habits:** they keep eye contact to keep their speech and movements in sync.
+- **Speech:** in public, they like to speak and act in sync. In private, they're usually sucking each other off when they aren't training their synchronicity.
+- **Strengths:** idealistic; organized; charismatic; elegant; charming; long-term planners; loving, wishing the best for each other; fair; creative.
+- **Flaws:** secretive; self-indulgent; immature in some ways; vague; cunning; seem plodding to outsiders who don't understand how they think; can come across as emotionless.
+- **Likes and dislikes:** love each other, and love keeping in sync. Hate anything that gets in the way. If [Neferteri](#neferteri-sanbi-royal) were twins, she'd likely have married them; even though she didn't, they both still have feelings for her.
+- **Interface:** Darfaries.
+- **Skills:** Synchronicity: as long as they keep eye contact, they can mostly predict each other's actions and words.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| ? | ? | 179 cm | ? |
+
+# Bata Sundeath Pharaohs
+
+[Anpu](#anpu-sundeath-pharaohs)'s twin, and his mirror image: everything in Anpu's entry is true of Bata too, from their upbringing as deities and the narcissism that grew into desire, to the stalled succession and their search for twin girls who meet their criteria.
+
+- **Race:** human.
+- **Birthday:** 995 A.G. Moacir 30th.
+- **Attracted to:** outwardly, a twin woman able to serve him and his brother; inwardly, his brother.
+- **Myers-Briggs:** INTJ.
+- **Habits, speech, strengths and flaws:** the same as Anpu's, on purpose.
+- **Interface:** Darfaries.
+- **Skills:** Synchronicity: as long as they keep eye contact, they can mostly predict each other's actions and words.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| ? | ? | 179 cm | ? |
