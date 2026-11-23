@@ -1,6 +1,6 @@
 ---
 source: Legacy/Behind The Scenes/Light Novel/Arc #2 - Hifuna Beast.md
-status: abridged in batches, one book at a time; Books 5 and 6 done 2026-11-22 (see content/bts/qa/Light Novel/Arc #2 - Hifuna Beast.md)
+status: abridged; Books 5 to 8 done 2026-11-22 (see content/bts/qa/Light Novel/Arc #2 - Hifuna Beast.md)
 note: each chapter becomes a polished list of story beats in the author's voice, keeping the draft dialogue that carries a joke or a character's voice. Harry's numbers (#7-A, #8-A…) are kept: each one is a different Harry. Books not yet abridged fall back to the raw notes.
 ---
 
