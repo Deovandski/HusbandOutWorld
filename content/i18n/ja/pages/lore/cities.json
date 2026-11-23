@@ -1,4 +1,16 @@
 {
+ "0145f741e3be": {
+  "en": "<strong>Calm Water Resort Guild (#4):</strong> adventurers who are getting old and have no money left join this guild, spending their retirement at the Calm Water Resort in exchange for helping protect it against threats.",
+  "t": "<strong>カーム・ウォーター・リゾート・ギルド（#4）：</strong>年をとってきてお金の残っていない冒険者たちがこのギルドに入り、脅威からリゾートを守るのを手伝うのと引き換えに、カーム・ウォーター・リゾートで老後を過ごす。"
+ },
+ "023fe97a0a48": {
+  "en": "Mostly humans, with a handful of Darfaries, a few Wozefaries and tons of Sorefaries, plus a handful of adventurers with Bruntos or Sorefaries.",
+  "t": "主に人間で、ダルファリエスが少し、ウォゼファリエスが何人か、そしてソレファリエスがたくさんいる。それに加えて、ブルントスやソレファリエスを連れた冒険者が少しいる。"
+ },
+ "02fb4cefb711": {
+  "en": "<strong>Local embassy quests:</strong> embassy checking and verification.",
+  "t": "<strong>地元の大使館の依頼：</strong>大使館の確認と照合。"
+ },
  "068ba6951d50": {
   "en": "Cadioca",
   "t": "カジオカ"
@@ -7,41 +19,373 @@
   "en": "Tastyleaf",
   "t": "テイスティリーフ"
  },
+ "088f7c66db12": {
+  "en": "<strong>Economy:</strong> exports Lonllows all year long; the five guilds' cooperation keeps a constant supply flowing through the kingdoms.",
+  "t": "<strong>経済：</strong>ロンロウを一年じゅう輸出している。五つのギルドの協力で、王国じゅうに絶えず供給が流れ続けている。"
+ },
+ "0b9e98ac54d6": {
+  "en": "<strong>Education:</strong> follows Forway.",
+  "t": "<strong>教育：</strong>フォーウェイに従う。"
+ },
+ "0cdeb9641aef": {
+  "en": "<strong>Clothing:</strong> warm-weather hunting clothes.",
+  "t": "<strong>服装：</strong>暖かい気候向けの狩りの服。"
+ },
+ "0e5922e6bdae": {
+  "en": "Other races rarely visit, out of fear of the Cruros, who act on instinct.",
+  "t": "本能のままに動くクルロたちを恐れて、ほかの種族はめったに訪れない。"
+ },
+ "0e8670834c13": {
+  "en": "<strong>Asa, Paulin, Moacir and Adrian Lonllow Harvest (#2 to #5):</strong> each guild coordinates the harvest in its own month of the year.",
+  "t": "<strong>アサ、パウリン、モアシル、アドリアンのロンロウ収穫（#2〜#5）：</strong>それぞれのギルドが、一年のうち自分の月の収穫を取りまとめる。"
+ },
+ "0f398def6755": {
+  "en": "Two villages across the lake offer transport, and the constant flow of people through them gave the city its economic lifeline. They see themselves as villages of the Freeish Kingdom, but Forway made them a city of their own to shrink the kingdom; through backdoor negotiations, they stay part of the Freeish Kingdom anyway.",
+  "t": "湖の両岸にある二つの村が渡しを提供していて、そこを行き来する人の絶え間ない流れが、街の経済の命綱になった。彼らは自分たちをフリーイッシュ王国の村だと思っているが、フォーウェイは王国を小さくするために彼らを独立した街にした。それでも裏の交渉を通じて、彼らはフリーイッシュ王国の一部であり続けている。"
+ },
+ "135aa68327b2": {
+  "en": "<strong>Clothing:</strong> a gap between rich and poor, mixing styles from every other kingdom.",
+  "t": "<strong>服装：</strong>金持ちと貧乏人の差があり、ほかのあらゆる王国のスタイルが混ざっている。"
+ },
+ "17f112e14a68": {
+  "en": "<strong>Names:</strong> like the Gandew Kingdom and Forway.",
+  "t": "<strong>名前：</strong>ガンデュー王国とフォーウェイと同じ。"
+ },
  "18eb8f9e258b": {
   "en": "A badge is required to access the Black Castle and the innermost maze of Forway's cityscape. It's all for security and trading purposes since that's where the balls and contracts flow the most.",
   "t": "ブラックキャッスルと、フォーウェイの街並みの最も奥にある迷路に入るには身分証が必要だ。ボールと契約が最も多く行き交う場所なので、すべては安全と取引のためだ。"
+ },
+ "19f6469ba817": {
+  "en": "<strong>Broken Knuckle:</strong> the tavern where Honati worked.",
+  "t": "<strong>ブロークン・ナックル：</strong>ホナティが働いていた酒場。"
+ },
+ "1f2ead0d49db": {
+  "en": "City (World Lore illustration)",
+  "t": "都市（世界観イラスト）"
+ },
+ "200306699496": {
+  "en": "According to the smartest Cruros, quite a few tribes divide the territory:",
+  "t": "最も賢いクルロたちによれば、かなりの数の部族がこの領域を分け合っている："
+ },
+ "220ddf150e26": {
+  "en": "<strong>Marriage:</strong> mixed. Some marry by their own customs, going to the palace to speak with their kingdom or city representative. A growing trend is contract marriage between money-hungry people.",
+  "t": "<strong>結婚：</strong>さまざま。自分たちの習わしで結婚する者もいて、宮殿へ行って自分の王国か都市の代表者と話す。増えつつある流行は、金に飢えた者同士の契約結婚だ。"
  },
  "24652e28b940": {
   "en": "Blood",
   "t": "ブラッド"
  },
+ "2aa2f5bb5a66": {
+  "en": "Rich fauna and flora drew hunters (back before adventurers were a thing) to spend most of their lives around here. A single fire pit and a nearby hut slowly grew into a cluster of stone fireplaces with a city around them. The fire pits are constantly fed carcasses and other unusable garbage to smelt iron and other minerals and for blacksmithing, and since the city grew out of community spirit, they're public and publicly maintained.",
+  "t": "豊かな動植物に惹かれて、狩人たち（冒険者というものができる前の話だ）が人生の大半をこのあたりで過ごした。ひとつの焚き火の穴と近くの小屋が、少しずつ石の炉の集まりと、それを囲む街へと育った。焚き火の穴には、鉄やほかの鉱物の製錬と鍛冶のために、絶えず死骸やほかの使い道のないごみがくべられている。街は共同体の精神から生まれたので、炉は公共のもので、公共で維持されている。"
+ },
+ "2c16e9a223de": {
+  "en": "<strong>Threats:</strong> the occasional drunk, pervert or bandit, or all three in one person; and adventurers investigating something a Flatland guild didn't hide well enough.",
+  "t": "<strong>脅威：</strong>ときどき現れる酔っぱらい、変態、盗賊、あるいはその三つを兼ねた一人。それに、フラットランドのギルドが隠しきれなかった何かを調べている冒険者たち。"
+ },
+ "2ca032c0016d": {
+  "en": "<strong>Marriage:</strong> made official by the village leader. Then the couple (who must buy or build a house first) goes to the House of Bruntos to bond with one and bring it home.",
+  "t": "<strong>結婚：</strong>村の長によって正式なものになる。それから夫婦（先に家を買うか建てなければならない）はハウス・オブ・ブルントスへ行き、一匹と絆を結んで家に連れて帰る。"
+ },
+ "3139dba5b647": {
+  "en": "<strong>Names:</strong> mixed.",
+  "t": "<strong>名前：</strong>さまざま。"
+ },
+ "31af7e2a22ff": {
+  "en": "<strong>The Fivs:</strong> the transportation guild that moves the Lonllows. It has no proper name: \"Fivs\" became the shorthand because they were the last (fifth) guild welcomed in, and the farming guilds kind of put themselves above them.",
+  "t": "<strong>ザ・ファイヴズ：</strong>ロンロウを運ぶ輸送ギルド。正式な名前はない。最後に（五番目に）迎え入れられたギルドなので「ファイヴズ」が略称になり、農業ギルドたちはなんとなく自分たちを彼らより上に置いている。"
+ },
+ "33d99825d022": {
+  "en": "<strong>Marriage and names:</strong> like the Freeish Kingdom, but a marriage proposal is made with the game they're proudest of instead of fruit.",
+  "t": "<strong>結婚と名前：</strong>フリーイッシュ王国と同じだが、求婚には果物のかわりに、いちばん自慢の獲物を使う。"
+ },
+ "35178d8f5712": {
+  "en": "<strong>Names:</strong> they don't have names. The highly intelligent ones get one from the Sanbi or Tastyleaf embassy, through the Half-Cruro guild.",
+  "t": "<strong>名前：</strong>名前はない。とても知能の高い者は、ハーフ・クルロ・ギルドを通じて、サンビかテイスティリーフの大使館から名前をもらう。"
+ },
+ "35b259290ec3": {
+  "en": "Food",
+  "t": "食べ物"
+ },
  "37f55ee4a86e": {
   "en": "Forway Guards: a guard in white-and-gray hooded armor, next to a map section around Forway city.",
   "t": "フォーウェイの衛兵：白と灰色のフード付きの鎧を着た衛兵。フォーウェイ市周辺の地図の一部の横に。"
+ },
+ "38152b677861": {
+  "en": "<strong>Lonllows Cuisine:</strong> a big fest in Paulin, where people from all over make food and drinks with Lonllows. The winner takes home a massive stack of Lonllows.",
+  "t": "<strong>ロンロウ料理大会：</strong>パウリンに開かれる大きな祭りで、あちこちから人々が集まり、ロンロウで料理や飲み物を作る。優勝者はロンロウの山をどっさり持ち帰る。"
+ },
+ "3a2d7da20eed": {
+  "en": "<strong>Crime and law:</strong> follows Forway Law. Minor punishments are paid by replacing the goods; for a major one, the criminal is thrown into the Skin Peeler.",
+  "t": "<strong>犯罪と法：</strong>フォーウェイ法に従う。軽い罰は品物の弁償で支払う。重い罰なら、罪人はスキン・ピーラーに投げ込まれる。"
+ },
+ "3c9f08d5f15d": {
+  "en": "<strong>Crime and law:</strong> like the Sanbi Kingdom.",
+  "t": "<strong>犯罪と法：</strong>サンビ王国と同じ。"
+ },
+ "3e940f401b10": {
+  "en": "<strong>Egua Uniform Contest:</strong> every Asa and Adrian, a contest to design new uniforms for the eguas; they must be waterproof and suit the weather. The winner's name goes on a board displayed at the crossing buildings.",
+  "t": "<strong>エグアの制服コンテスト：</strong>毎年アサとアドリアンに、エグアの新しい制服をデザインするコンテストが開かれる。防水で、天候に合っていなければならない。優勝者の名前は、渡し場の建物に飾られる板に記される。"
+ },
+ "3eb7936bcef6": {
+  "en": "<strong>Clothing:</strong> closer to the Freeish Kingdom, mixed with Forway.",
+  "t": "<strong>服装：</strong>フリーイッシュ王国に近く、フォーウェイが混ざっている。"
+ },
+ "40e5eb2ae546": {
+  "en": "<strong>Second Life:</strong> every Moacir, a festival across the whole town celebrating every Wozefaries and Sorefaries who has landed since the last one.",
+  "t": "<strong>セカンド・ライフ：</strong>毎年モアシルに、前回の祭り以来降り立ったすべてのウォゼファリエスとソレファリエスを祝う、町じゅうの祭り。"
+ },
+ "4129ea4ceb21": {
+  "en": "<strong>#2:</strong> rather peaceful.",
+  "t": "<strong>#2：</strong>わりと平和的。"
+ },
+ "44f9fb0aa7cd": {
+  "en": "<strong>The Floating Egua Hotel (#2):</strong> one of the oldest hotels, with entertainment for all tastes.",
+  "t": "<strong>フローティング・エグア・ホテル（#2）：</strong>最も古いホテルのひとつで、あらゆる好みに合わせた娯楽がある。"
+ },
+ "463e87409dfc": {
+  "en": "<strong>Economy:</strong> vellum from animal skin; butchers working game, bone and skin; bone armor and swords; bone meal and items such as totems; Black Mead; nari.",
+  "t": "<strong>経済：</strong>動物の皮から作る羊皮紙。獲物、骨、皮を扱う肉屋。骨の鎧と剣。骨粉と、トーテムなどの品。ブラック・ミード。ナリ。"
+ },
+ "47d32a030409": {
+  "en": "Points of interest: the Cruro tribes",
+  "t": "見どころ：クルロの部族"
+ },
+ "481dca803873": {
+  "en": "<strong>Local embassy quests:</strong> nothing extra.",
+  "t": "<strong>地元の大使館の依頼：</strong>特になし。"
+ },
+ "4c896db0ae12": {
+  "en": "<strong>Names:</strong> like the Sanbi Kingdom.",
+  "t": "<strong>名前：</strong>サンビ王国と同じ。"
+ },
+ "4c89885f6c32": {
+  "en": "A decentralized government among the villages, led by guilds that work independently but cooperate rather well. Forway counts it as a single city, and the guilds choose a smart, good-natured representative with a strong bond with a Brunto.",
+  "t": "村々にまたがる分権的な政府で、独立して働きながらもかなりうまく協力し合うギルドが率いている。フォーウェイはここをひとつの街として数えていて、ギルドは、ブルントと強い絆を持つ、賢くて気立てのいい代表者を選ぶ。"
  },
  "4d31a8ab27bb": {
   "en": "Forway Guards",
   "t": "フォーウェイの衛兵"
  },
+ "4ea20ea71e1d": {
+  "en": "<strong>Lonllow Breadcake:</strong> a delicious, not-too-sweet breadcake, common on Endlessfog. About 9 Pearls for a loaf the size of two fists.",
+  "t": "<strong>ロンロウのブレッドケーキ：</strong>甘すぎないおいしいブレッドケーキで、エンドレスフォグではよくあるもの。こぶし二つ分の大きさの一斤で約 9 パール。"
+ },
+ "4f383ae666f2": {
+  "en": "Mostly Bruntos, with humans coordinating with them. People are often paler than usual, from less sun. They're nature-minded: at some point they even started burying people in the land and planting banana trees on top. Colder to foreigners, and outright violent with anyone who harms them or the Bruntos.",
+  "t": "主にブルントスで、人間が彼らと協力している。日差しが少ないので、人々はたいてい普通より色白だ。自然志向で、ある時期からは人を土に埋めて、その上にバナナの木を植えるようにさえなった。よそ者には冷たく、自分たちやブルントスを傷つける者にはあからさまに暴力的だ。"
+ },
+ "4f7d34c78a73": {
+  "en": "Society and culture",
+  "t": "社会と文化"
+ },
+ "50948c24ec90": {
+  "en": "<strong>Burial:</strong> bodies are often buried in the desert; Wozefaries and Sorefaries grew used to being buried at the same spot where they landed.",
+  "t": "<strong>埋葬：</strong>遺体は砂漠に埋められることが多い。ウォゼファリエスとソレファリエスは、自分が降り立ったのと同じ場所に埋められることに慣れた。"
+ },
  "51112a2e7385": {
   "en": "Forway Guards trust their crossbows with their lives. Their shiny armor and respectable funding from Forway make them rather visible and somewhat slow, but they always travel in groups, so picking a fight with them is not advised. That is unless you know how to exploit their superiority complex, which is a common trait amongst these guards. Just make them think they have the upper hand, then attack them with a surprise counterattack at the last second to make them bleed out. Some have successfully baited them into a trap as well, but that ain’t as easy when they have a Sorefaries or another companion watching their surroundings. Either way, once you start battling them, be wary of their revival capabilities if you don’t take away their hearty and expensive supply of black honey often stored in their leg pockets.",
   "t": "フォーウェイの衛兵は、命をクロスボウに預けている。ピカピカの鎧とフォーウェイからの手厚い資金のおかげでかなり目立ち、少々動きが鈍いが、いつも集団で行動しているので、ケンカを売るのはおすすめしない。ただし、この衛兵たちによくある優越感をうまく利用する方法を知っているなら話は別だ。自分が優位に立っていると思わせておいて、最後の瞬間に不意打ちの反撃を食らわせ、失血死させればいい。罠におびき寄せることに成功した者もいるが、ソレファリエスや別の仲間が周りを見張っている場合はそう簡単じゃない。いずれにせよ、戦い始めたら、たいてい脚のポケットにしまってある、栄養たっぷりで高価な黒い蜂蜜を奪わない限り、彼らの蘇生能力に注意しろ。"
+ },
+ "5333ec4aed89": {
+  "en": "<strong>Forway and You:</strong> the biggest journal, issued weekly on Freeday, with news, fashion and more.",
+  "t": "<strong>フォーウェイ・アンド・ユー：</strong>最大の新聞で、毎週フリーデイに発行され、ニュースやファッションなどを載せている。"
+ },
+ "5339066b1aeb": {
+  "en": "<strong>Crossing Buildings (#1):</strong> large buildings where eguas and their carriages board a bigger boat, pulled by six eguas. Because of the water, the boat pulls about 10 tons: 15 full wagons per crossing, back and forth. 15 Pearls per wagon per crossing, 2 Pearls per person. The eguas pulling the boat are all dressed in uniform, a tradition from the village's early days.",
+  "t": "<strong>渡し場の建物（#1）：</strong>エグアとその馬車が、六頭のエグアに引かれる大きな船に乗り込む大きな建物。水のおかげで、船は約 10 トンを引く。一回の渡しで荷馬車 15 台分を、行ったり来たりする。荷馬車 1 台につき渡し 1 回 15 パール、一人 2 パール。船を引くエグアは皆制服を着ている。村の初期からの伝統だ。"
+ },
+ "54753e9d684e": {
+  "en": "<strong>Crime and law:</strong> Forway Law. If the person can pay for the crime, they walk away; if not, they go to prison.",
+  "t": "<strong>犯罪と法：</strong>フォーウェイ法。罪の代価を払えれば放免され、払えなければ牢屋行きだ。"
+ },
+ "55008f0a0573": {
+  "en": "<strong>Sun-Rotted Animals:</strong> a delicacy among Cruros, and perhaps some humans. Traded for other food, or free if the Tribe Leader gives it to you.",
+  "t": "<strong>日に腐らせた動物：</strong>クルロたちの、そしてたぶん一部の人間の珍味。ほかの食べ物と交換するか、部族の長がくれるなら無料。"
+ },
+ "555b9db7a85f": {
+  "en": "<strong>Visual references:</strong> like the Freeish Kingdom, but with hunting totems instead of trees with Trunk People.",
+  "t": "<strong>視覚的な参考：</strong>フリーイッシュ王国と同じだが、トランクピープルのいる木のかわりに狩りのトーテムがある。"
+ },
+ "56b1491dbf73": {
+  "en": "<strong>Economy:</strong> helping people cross the delta; resorts and bars.",
+  "t": "<strong>経済：</strong>人々がデルタを渡るのを手伝うこと。リゾートと酒場。"
+ },
+ "56b8df7cf7a6": {
+  "en": "<strong>Education:</strong> Forway created a fundamental school for children to \"expand their knowledge\", but a chunk of the population \"wood-schools\" their children instead of paying for it.",
+  "t": "<strong>教育：</strong>フォーウェイは子どもたちの「知識を広げる」ために基礎学校を作ったが、住民のかなりの部分は学費を払うかわりに、子どもを「森で教育」している。"
+ },
+ "5961396df807": {
+  "en": "<strong>Bone festival:</strong> every Asa, new totems are added around the city. People leave empty beer cups at the base of the totems they like most; the favorites are placed around town, and the losers are burned.",
+  "t": "<strong>骨祭り：</strong>毎年アサに、街じゅうに新しいトーテムが加えられる。人々はいちばん気に入ったトーテムの根元に空のビールのコップを置いていき、人気のものは町じゅうに飾られ、負けたものは燃やされる。"
+ },
+ "5a4f92a8ca07": {
+  "en": "Ganyrami",
+  "t": "ガニラミ"
+ },
+ "5c0ce926723f": {
+  "en": "<strong>Boiling Ramen:</strong> ramen (from Tolerideme) cooked on the hottest geyser, with seasonings found only here, served with meat, wild game or fish. 7 to 30 Pearls a bowl.",
+  "t": "<strong>煮えたぎりラーメン：</strong>（トレリデメ発祥の）ラーメンを最も熱い間欠泉で茹で、ここでしか手に入らない調味料で味つけし、肉、ジビエ、または魚を添えたもの。一杯 7〜30 パール。"
+ },
+ "5dbce8852528": {
+  "en": "Visual references:",
+  "t": "視覚的な参考："
+ },
+ "5ff714495e87": {
+  "en": "Endlessfog",
+  "t": "エンドレスフォグ"
+ },
+ "609b40edeec1": {
+  "en": "<strong>Wooly Filet Mignon wrapped in smoked Bagarisa bacon:</strong> one of the most expensive dishes around, served with mashed fried Cadioca and Domar barley. 1 Amethyst a meal; usually the first entrée at expensive taverns.",
+  "t": "<strong>燻製バガリサ・ベーコン巻きのウーリー・フィレミニョン：</strong>このあたりで最も高価な料理のひとつで、揚げたカジオカのマッシュとドマー大麦が添えられる。一食 1 アメジスト。高級な酒場では、たいてい最初のアントレだ。"
+ },
+ "6181bd94feda": {
+  "en": "<strong>Local embassy quests:</strong> Sweetlake assistance, Woodland exploration, Nari Caves assistance.",
+  "t": "<strong>地元の大使館の依頼：</strong>スイートレイクの支援、ウッドランドの探索、ナリ・ケイヴズの支援。"
+ },
+ "623fffd32004": {
+  "en": "<strong>The Great Hunter/Huntress competition:</strong> every Asa, a two-week competition for the strongest hunters: tree cutting, hunting, skinning, wrestling, survival, honey gathering, etc.",
+  "t": "<strong>グレート・ハンター／ハントレス大会：</strong>毎年アサに開かれる、最強の狩人たちのための二週間の大会。木の伐採、狩り、皮剥ぎ、レスリング、サバイバル、蜂蜜採りなど。"
+ },
+ "6450ad627cc1": {
+  "en": "<strong>Economy:</strong> trade and tourism.",
+  "t": "<strong>経済：</strong>交易と観光。"
+ },
+ "66fa8b201802": {
+  "en": "<strong>Nari Extraction Coordination Office (#5):</strong> a long name for a building that investigates and prosecutes anyone who harms the nari worms.",
+  "t": "<strong>ナリ採掘調整局（#5）：</strong>ナリワームを傷つける者を調査し訴追する建物の、長い名前。"
  },
  "6a904b823b54": {
   "en": "Forway city emblem: a silver-ringed disc split into tan, red, blue and green sections with a mountain, wheat, a fish and a branching line around a pearl.",
   "t": "フォーウェイ市の紋章：銀の縁取りの円盤が黄褐色、赤、青、緑に分かれ、真珠を囲んで山、麦、魚、枝分かれした線が描かれている。"
  },
+ "6b1bd80fb3bf": {
+  "en": "Mostly Wozefaries, with some Sorefaries, a few humans, and some humans from Sundeath. Lots of tourists, leaning heavily male. Their motto: \"Flatland is here to satisfy you.\" Very open-minded and warm, but step out of line or pry into their private matters, and they'll kill you to protect their town and its people. Reserved about private matters, but very accommodating about everything else: good listeners, touchy and handsy. Boots and sandals stay in one spot inside the home (real-world comparison: Thailand).",
+  "t": "主にウォゼファリエスで、ソレファリエスが何人か、人間が少し、そしてサンデスから来た人間が何人かいる。観光客が多く、大きく男性に偏っている。彼らのモットーは「フラットランドはあなたを満足させるためにある」。とても心が広く温かいが、一線を越えたり私的なことを詮索したりすれば、町と住民を守るために殺される。私的なことには口が堅いが、それ以外のことにはとても面倒見がいい。聞き上手で、ボディタッチが多く、手も早い。ブーツやサンダルは家の中の一か所に置いておく（現実世界での比較：タイ）。"
+ },
+ "6b6c1411f9a9": {
+  "en": "Retired hunters gather around the stone fireplaces every day to help run the city. With no representative, governor or king, Blood doesn't have a strong voice at the Forway meetings. Forway tried to push a government on them and got a backlash (animal guts poured on their Blood embassy), so it switched to a slow takeover through the embassy quest system, signing people up as adventurers instead. With time, they'll change the culture.",
+  "t": "引退した狩人たちが毎日石の炉の周りに集まり、街の運営を手伝っている。代表者も総督も王もいないので、ブラッドはフォーウェイの会議で強い発言力を持たない。フォーウェイは政府を押しつけようとして反発を食らった（ブラッドの大使館に動物の内臓がぶちまけられた）ので、かわりに大使館の依頼制度を通じて人々を冒険者として登録させる、じわじわとした乗っ取りに切り替えた。時間をかけて、文化を変えていくつもりだ。"
+ },
+ "6bd93f0aaada": {
+  "en": "<strong>White Bell (#3):</strong> famous for a single courtesan who rose in life after a career pleasuring her guests, and now controls multiple brothels. She has a big, well-known homestead where some \"parties\" happen.",
+  "t": "<strong>ホワイト・ベル（#3）：</strong>客を悦ばせる経歴を経て出世し、今では複数の娼館を支配している、一人の高級娼婦で有名。彼女はよく知られた大きな屋敷を持っていて、そこで何らかの「パーティー」が開かれる。"
+ },
+ "6cb064b13500": {
+  "en": "<strong>Crime and law:</strong> follows Forway Law. Minor punishments are paid by replacement; for a major one, the criminal is sent to Freeish.",
+  "t": "<strong>犯罪と法：</strong>フォーウェイ法に従う。軽い罰は弁償で支払う。重い罰なら、罪人はフリーイッシュへ送られる。"
+ },
+ "6cc49b50edea": {
+  "en": "<strong>Burial:</strong> no widely followed ritual. Some throw the bodies into the delta so they're carried out to sea; others follow the customs of where they came from.",
+  "t": "<strong>埋葬：</strong>広く守られている儀式はない。遺体をデルタに投げ入れて海へ運ばせる者もいれば、出身地の習わしに従う者もいる。"
+ },
+ "6e5c2fcb518a": {
+  "en": "Politics",
+  "t": "政治"
+ },
+ "6f4a9745dca7": {
+  "en": "<strong>Fireplaces:</strong> the stone fireplaces the city grew around.",
+  "t": "<strong>炉：</strong>街がその周りに育った、石の炉。"
+ },
+ "70cc4278b6b4": {
+  "en": "<strong>Threats:</strong> anyone trying to overthrow the current balance of power, or planting false information between leaders to provoke arguments.",
+  "t": "<strong>脅威：</strong>今の力の均衡をひっくり返そうとする者、あるいは指導者の間に偽の情報を仕込んで口論を引き起こそうとする者。"
+ },
+ "712ebd9bc6e7": {
+  "en": "Sweetlake",
+  "t": "スイートレイク"
+ },
+ "727c0903d1e8": {
+  "en": "<strong>Specialized Schools (#E types):</strong> see Education.",
+  "t": "<strong>専門学校（#E 型）：</strong>教育を参照。"
+ },
+ "73d3ae245f3c": {
+  "en": "Triangle",
+  "t": "トライアングル"
+ },
+ "75e9b2db66d6": {
+  "en": "<strong>Threats:</strong> the dumb ones, or their pets, attack passersby once in a while, and if the population grows too large, adventurers could invade to thin it out. Some Sanbi citizens still hold a grudge against the Cruros for taking away the easy job of collecting pearls.",
+  "t": "<strong>脅威：</strong>頭の悪い者たちや、そのペットがときどき通りがかりの人を襲う。人口が増えすぎれば、冒険者たちが間引きのために攻め込んでくるかもしれない。サンビの市民の中には、真珠集めという楽な仕事を奪われたことで、今でもクルロたちを恨んでいる者がいる。"
+ },
  "7735fd308fce": {
   "en": "Cities",
   "t": "都市"
+ },
+ "7af50d9988db": {
+  "en": "<strong>InBalls Spring Resort:</strong> like OutBalls, but female-focused.",
+  "t": "<strong>インボールズ温泉リゾート：</strong>アウトボールズと同じだが、女性向け。"
+ },
+ "7d35538976dc": {
+  "en": "Hunting totems made of bone, stone, Fost stone and wood are placed and maintained around town, and people eat bone meal to keep their souls strong. They're rather tribal, but welcoming to people who don't look like authority; always ready to fight and compete to be the best, while keeping their hunting secrets within their guilds over generations. Some families actively avoid all Forway embassy services.",
+  "t": "骨、石、フォストストーン、木で作られた狩りのトーテムが町じゅうに置かれて手入れされていて、人々は魂を強く保つために骨粉を食べる。かなり部族的だが、権力者に見えない人は歓迎する。最高であるためにいつでも戦い、競う構えでいる一方、狩りの秘訣は何世代にもわたってギルドの中にとどめている。フォーウェイの大使館のサービスを一切積極的に避ける家族もいる。"
+ },
+ "7dad09e57607": {
+  "en": "<strong>Burial:</strong> they trade their dead for food.",
+  "t": "<strong>埋葬：</strong>死者を食べ物と交換する。"
+ },
+ "82337815f0c0": {
+  "en": "<strong>Bloody Blood Sausage:</strong> Blood City's famous Bagarisa-and-blood sausage, in a wavy pattern.",
+  "t": "<strong>ブラッディ・ブラッド・ソーセージ：</strong>ブラッド・シティ名物の、バガリサと血のソーセージ。波形をしている。"
  },
  "827944f72095": {
   "en": "13 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "このページの残り13項目は<button class=\"linklike\" data-go-bts>舞台裏</button>にのみあります。"
  },
+ "8335d5e3de66": {
+  "en": "<strong>Economy:</strong> a spring town for travelers and a rest stop before the Gandew Kingdom; adventurers hire Sorefaries here. Mines Amethysts for Forway City, and mines and processes Fost stones.",
+  "t": "<strong>経済：</strong>旅人のための温泉町で、ガンデュー王国の手前の休憩所。冒険者はここでソレファリエスを雇う。フォーウェイ・シティのためにアメジストを採掘し、フォストストーンを採掘・加工している。"
+ },
+ "85cf1d68359d": {
+  "en": "<strong>Drunken Sweet Sting Festival:</strong> every Adrian, the top 10 of the Great Hunter/Huntress competition dress in special Sweet Sting costumes and bar-hop around Blood and Sweetlake, drinking Black Mead. Other adventurers follow along celebrating, and bars put on their best show and goods to lure the famous adventurers in.",
+  "t": "<strong>酔いどれスイートスティング祭：</strong>毎年アドリアンに、グレート・ハンター／ハントレス大会の上位 10 人が特製のスイートスティングの衣装を着て、ブラック・ミードを飲みながらブラッドとスイートレイクの酒場をはしごする。ほかの冒険者たちも祝いながらついて回り、酒場は有名な冒険者たちを呼び込むために、最高のショーと品を出す。"
+ },
  "860fa4fb3f40": {
   "en": "Tolerideme",
   "t": "トレリデメ"
+ },
+ "8670b866b855": {
+  "en": "<strong>Education:</strong> a standard dress code and teaching (see Education).",
+  "t": "<strong>教育：</strong>標準の服装規定と教育（教育を参照）。"
+ },
+ "873af5201944": {
+  "en": "<strong>Marriage:</strong> the tribe leader is the only one who can mate with all the Crocus in the region.",
+  "t": "<strong>結婚：</strong>部族の長だけが、その地域のすべてのクロッカスと交尾できる。"
+ },
+ "88b120300609": {
+  "en": "Mostly Crocus and dumb Cruros, a few intelligent Cruros, and rarely a highly intelligent one who stays. No religion. Tribal: a young Cruro's rite of passage is to kill one Wood Person, bring the body back to build a hut, and tame a Crocus.",
+  "t": "主にクロッカスと頭の悪いクルロで、知能の高いクルロが少しいて、まれに、とても知能の高い者が残っている。宗教はない。部族的：若いクルロの通過儀礼は、ウッドピープルを一人殺し、その死体を持ち帰って小屋を建て、クロッカスを一匹手なずけることだ。"
+ },
+ "8a239039d68b": {
+  "en": "<strong>Grand Miner (#5):</strong> the region's biggest mining operation, specializing in Amethysts for minting.",
+  "t": "<strong>グランド・マイナー（#5）：</strong>この地域最大の採掘事業で、貨幣鋳造用のアメジストを専門にしている。"
+ },
+ "8a241e57b6ca": {
+  "en": "A city bristling with research, academia and rich people. Forway's style is gothic, like the Addams Family (metal bathtubs, black with red corners), and it's also known for its bureaucracy. Rich people live inside the city, where a badge is required; poor people live around it, where no badge is needed.",
+  "t": "研究と学問と金持ちでひしめく街。フォーウェイの様式はアダムス・ファミリーのようなゴシックで（金属の浴槽、赤い角飾りのついた黒）、官僚主義でも知られている。金持ちは身分証が必要な街の中に住み、貧しい人々は身分証のいらないその周りに住む。"
+ },
+ "8a6951ca270d": {
+  "en": "<strong>Drink Floaters:</strong> drinks served in Cocona shells, which you let float off into the stream when you're done. 10 to 30 Pearls.",
+  "t": "<strong>ドリンク・フローター：</strong>ココナの殻に入れて出される飲み物で、飲み終わったら流れに浮かべて流す。10〜30 パール。"
+ },
+ "8b2a6706febd": {
+  "en": "<strong>Flatland Darfaries Market (#1):</strong> the city's center, where many products to and from the Gandew Kingdom are found.",
+  "t": "<strong>フラットランド・ダルファリエス市場（#1）：</strong>街の中心で、ガンデュー王国へ行く、あるいはそこから来る多くの品物が見つかる。"
+ },
+ "8b2f4dfa1378": {
+  "en": "<strong>Life 'n' Oasis Resort (#2):</strong> a large resort for rich people, owned and run by one of the bandit guilds, which is rumored to still operate underground.",
+  "t": "<strong>ライフ・ン・オアシス・リゾート（#2）：</strong>盗賊ギルドのひとつが所有し経営する、金持ち向けの大きなリゾート。そのギルドは今も地下で活動していると噂されている。"
+ },
+ "8d1c86cf78f8": {
+  "en": "<strong>#1 and #10:</strong> too busy dealing with the Wood People to care what happens around them.",
+  "t": "<strong>#1 と #10：</strong>ウッドピープルの相手で忙しすぎて、周りで何が起きようと気にしない。"
+ },
+ "8d9e36c67cfe": {
+  "en": "A tribe leader's word is final. To become tribe leader, you fight the current one; when another Cruro wins, all the previous leader's infants are killed and eaten. Highly intelligent Cruros don't take part in the tribal fights.",
+  "t": "部族の長の言葉は絶対だ。部族の長になるには、今の長と戦う。ほかのクルロが勝つと、前の長の赤ん坊は皆殺されて食べられる。とても知能の高いクルロは部族の戦いには加わらない。"
+ },
+ "926dbe8a1db4": {
+  "en": "<strong>Hot in the Cold:</strong> every Asa, a food festival around the Skin Peeler Geyser.",
+  "t": "<strong>ホット・イン・ザ・コールド：</strong>毎年アサに、スキン・ピーラー間欠泉の周りで開かれる食の祭り。"
  },
  "94f8b3c408cf": {
   "en": "Forway",
@@ -51,36 +395,264 @@
   "en": "In a way, it can be considered its own Kingdom, but its officials would vehemently deny that's the case.",
   "t": "ある意味では独立した王国と言えるが、当局者たちはそれを激しく否定するだろう。"
  },
+ "96f9d1947e57": {
+  "en": "<strong>Clothing:</strong> none.",
+  "t": "<strong>服装：</strong>なし。"
+ },
+ "97b96e73dce8": {
+  "en": "<strong>Threats:</strong> Forway stamping on their way of life for trying to be part of the Freeish Kingdom.",
+  "t": "<strong>脅威：</strong>フリーイッシュ王国の一部であろうとしたことで、フォーウェイに生活を踏みにじられること。"
+ },
+ "99caf98549dc": {
+  "en": "<strong>Calm Water Resort (#4):</strong> home of the Calm Water Resort Guild. Wealthier residents who believe in Gandew's spiritual powers often come to live here in their later years, especially those who think they might be haunted by the spirits of people they screwed over.",
+  "t": "<strong>カーム・ウォーター・リゾート（#4）：</strong>カーム・ウォーター・リゾート・ギルドの本拠地。ガンデューの霊力を信じる裕福な住民が、晩年によくここに移り住む。とくに、自分がひどい目にあわせた人々の霊に取りつかれているかもしれないと思っている者たちだ。"
+ },
  "99f3cf9d24f6": {
   "en": "Sundeath",
   "t": "サンデス"
+ },
+ "9aac3ebf1743": {
+  "en": "<strong>Local embassy quests:</strong> Fuhrair assistance.",
+  "t": "<strong>地元の大使館の依頼：</strong>フライアの支援。"
+ },
+ "9ae75164603b": {
+  "en": "<strong>House of Bruntos (#1):</strong> a house that unbonded Bruntos have all to themselves, where humans and Bruntos come to bond. If a bond forms, the Brunto moves into the human's home. Adventurers can do the same, and if they bond with a Brunto, they can take it along as a companion for free (a decision made to boost tourism, though it rarely happens). Inside stands a 20-meter wooden statue of the Bruntos who taught them to plant Lonllows and hide from the Lishies.",
+  "t": "<strong>ハウス・オブ・ブルントス（#1）：</strong>絆を結んでいないブルントスが独り占めしている家で、人間とブルントスが絆を結びに来る。絆ができると、そのブルントは人間の家に移り住む。冒険者も同じことができ、ブルントと絆を結べば、相棒として無料で連れていける（観光を盛り上げるために決められたことだが、めったに起きない）。中には、ロンロウの植え方とリシエスからの隠れ方を教えてくれたブルントスの、高さ 20 メートルの木像が立っている。"
  },
  "9c79e21f0d65": {
   "en": "If you are unfamiliar with Forway, then take a friend when you visit! Not that it's that violent, but like any big city, tourists can be easy pickings for people with bad intentions and suave speech, especially if they go to know sketchier parts. Also, don't be alarmed by how much nari gel people use. Fashion trends come and go, so if you have the money, why not participate as well? It might be the ticket to get into bed, and the pockets, of a socialite.",
   "t": "フォーウェイに不慣れなら、訪れるときは友達を連れて行こう！ それほど物騒なわけじゃないが、どんな大都市でもそうであるように、観光客は悪意と口のうまさを持つ連中の格好の獲物になりかねない。特に、怪しい地区に足を踏み入れたらな。それから、人々がナリジェルをたくさん使っているのを見ても驚くな。流行は移り変わるものだし、お金があるなら一緒に楽しんでみたらどうだ？ 上流階級の人間のベッドに、そして財布に入り込むための切符になるかもしれない。"
  },
+ "9d3eeafe6d68": {
+  "en": "<strong>Sweetlake Blood-Tribe (#8):</strong> once one of the richest blood-tribes, now the poorest, about to die out with its last member. People call him a lunatic and avoid the place at all costs. He's researching shapeshifters, since that might reveal what happened to his guild after they all disappeared; he was left behind because he felt lazy that day.",
+  "t": "<strong>スイートレイク・ブラッド・トライブ（#8）：</strong>かつては最も裕福な血族のひとつだったが、今では最も貧しく、最後の一人とともに絶えようとしている。人々は彼を狂人と呼び、何としてもその場所を避ける。彼は変身する者たちを研究している。ギルドの皆が消えたあと、彼らに何が起きたのかがわかるかもしれないからだ。彼はその日なんとなく怠けたくなって、置いていかれたのだった。"
+ },
  "9df882bae139": {
   "en": "Flatland",
   "t": "フラットランド"
+ },
+ "9ed69587616f": {
+  "en": "<strong>Emelia's Flowery Paradise:</strong> Emelia's flower shop, one of Red Winga's proxy businesses (see Factions), in Forway's southwest district, with a bakery nearby.",
+  "t": "<strong>エメリアズ・フラワリー・パラダイス：</strong>エメリアの花屋で、レッドウィンガの隠れみの商売のひとつ（派閥を参照）。フォーウェイの南西地区にあり、近くにパン屋がある。"
+ },
+ "9f5afd2a1f67": {
+  "en": "Prices are in the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a>.",
+  "t": "価格は<a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">経済スプレッドシート</a>にある。"
+ },
+ "a32cf9a56b75": {
+  "en": "As humans settled on this island, the Bruntos began interacting with them and grew close. Humans made great-tasting food and shelter for them, and the Bruntos brought raw ingredients, helped with farming, and helped them hide from the Lishies. Living here for years, people noticed the weather is unusually warm and humid all year long, with rain every day at Sunnu; it's certainly not for everyone. Humans and Bruntos developed a taste for Lonllows, but humans couldn't farm them on a large scale until the Bruntos taught them to plant fish in the ground before putting in the Lonllow branches. With that, they could be farmed all year long.",
+  "t": "人間がこの島に住みつくと、ブルントスは人間と関わり始め、親しくなった。人間は彼らのためにおいしい食べ物と住まいを作り、ブルントスは生の材料を運び、農作業を手伝い、リシエスから身を隠す手助けをした。何年もここで暮らすうちに、人々は気候が一年じゅう異常に暖かく湿っていて、毎日サンヌに雨が降ることに気づいた。誰にでも向いている場所ではないのは確かだ。人間とブルントスはロンロウの味を覚えたが、ロンロウの枝を植える前に魚を地中に植えることをブルントスに教わるまで、人間は大規模に栽培することができなかった。それによって、一年じゅう栽培できるようになった。"
+ },
+ "a3eab71925bf": {
+  "en": "<strong>Long &amp; Yellow Sanbi Celebration:</strong> every Adrian, a grand festival celebrates the first contact between humans and Bruntos. Lonllows are baked with Sanbi, cheese and a tiny bit of Tastyleaf.",
+  "t": "<strong>ロング&amp;イエロー・サンビ祭：</strong>毎年アドリアンに、人間とブルントスの最初の出会いを祝う盛大な祭りが開かれる。ロンロウを、サンビとチーズとほんの少しのテイスティリーフと一緒に焼く。"
+ },
+ "a4ac5f2194e8": {
+  "en": "<strong>#7 and #8:</strong> have some sort of alliance.",
+  "t": "<strong>#7 と #8：</strong>何らかの同盟を結んでいる。"
+ },
+ "a7a2530ec39f": {
+  "en": "Wingarest",
+  "t": "ウィンガレスト"
+ },
+ "aae103719859": {
+  "en": "<strong>The Sunken Egua Hotel (#3):</strong> another famous hotel.",
+  "t": "<strong>サンクン・エグア・ホテル（#3）：</strong>もうひとつの有名なホテル。"
+ },
+ "ade9183d9189": {
+  "en": "<strong>Visual reference:</strong> Brazil's Pantanal.",
+  "t": "<strong>視覚的な参考：</strong>ブラジルのパンタナール。"
+ },
+ "af9bddb40575": {
+  "en": "<strong>Old Bone:</strong> every Paulin, the Calm Water Resort hosts a festival for the old people living there, with tons of music, fight choreography, bards' tales, etc.",
+  "t": "<strong>オールド・ボーン：</strong>毎年パウリンに、カーム・ウォーター・リゾートがそこで暮らす老人たちのための祭りを開く。音楽、殺陣、吟遊詩人の物語などがたっぷり。"
+ },
+ "b10955974891": {
+  "en": "<strong>OutBalls Spring Resort:</strong> a male-focused spring resort around the biggest hot spring. Legend says the Hot Skin guild's children got together and renamed the resort's banner overnight. The guild was furious, but it attracted customers, and the kids' punishment was going to every house handing out ball-shaped soap.",
+  "t": "<strong>アウトボールズ温泉リゾート：</strong>いちばん大きな温泉を囲む、男性向けの温泉リゾート。伝説によれば、ホット・スキン・ギルドの子どもたちが集まって、一晩でリゾートの看板の名前を変えてしまった。ギルドは激怒したが、客は集まり、子どもたちへの罰は、家々を回ってボールの形をした石鹸を配ることだった。"
+ },
+ "b1b0509442ae": {
+  "en": "<strong>Clothing, marriage and names:</strong> like the Freeish Kingdom and Forway City.",
+  "t": "<strong>服装・結婚・名前：</strong>フリーイッシュ王国とフォーウェイ・シティと同じ。"
+ },
+ "b3b73e56035e": {
+  "en": "<strong>Delta Bar (#5):</strong> a famous open-air bar with no seats, out in the calm waters; beer and food are served from covered stands. Open only in the summer.",
+  "t": "<strong>デルタ・バー（#5）：</strong>穏やかな水の上にある、席のない有名な野外の酒場。ビールと食べ物は屋根つきの屋台から出される。夏だけ営業。"
+ },
+ "b69c6a5b80db": {
+  "en": "The central command for all the kingdoms and cities. Security is tightened to show the Forway leaders' power, especially at the time of the Prosperity Treaty meeting (Section #7).",
+  "t": "すべての王国と都市の中央司令部。フォーウェイの指導者たちの力を示すために警備が強化されている。とくにプロスペリティ・トリーティの会議の時期には（第 7 区画）。"
+ },
+ "b7860700fe2a": {
+  "en": "<strong>Sorefaries Line (#4):</strong> a really fast zip line from the mountain down to the base of the Skin Peeler Geyser.",
+  "t": "<strong>ソレファリエス・ライン（#4）：</strong>山からスキン・ピーラー間欠泉のふもとまで下る、ものすごく速いジップライン。"
+ },
+ "ba6c9519c9f6": {
+  "en": "<strong>Burial:</strong> the dead are shoved into the furnace: in their mindset, people are no different from animals.",
+  "t": "<strong>埋葬：</strong>死者は炉に押し込まれる。彼らの考えでは、人は動物と何も変わらない。"
+ },
+ "bb2d39bc28cf": {
+  "en": "<strong>Skin Peeler Geyser (near #1):</strong> an incredibly hot geyser in a scalding pond. People stand around it in winter to warm up, and being near its steam is said to be rejuvenating.",
+  "t": "<strong>スキン・ピーラー間欠泉（#1 の近く）：</strong>煮えたぎる池の中にある、信じられないほど熱い間欠泉。冬には人々がその周りに立って暖をとり、その湯気のそばにいると若返ると言われている。"
+ },
+ "be38fd8bc540": {
+  "en": "<strong>Burial:</strong> buried naked in the fields. Their clothes are washed in seawater and returned to their guild or relatives.",
+  "t": "<strong>埋葬：</strong>畑に裸で埋められる。服は海水で洗われ、ギルドか親族に返される。"
+ },
+ "bec45376d106": {
+  "en": "<strong>Marriage:</strong> an invitation to buy or build a house together.",
+  "t": "<strong>結婚：</strong>一緒に家を買うか建てようという誘い。"
+ },
+ "bf4b238d504c": {
+  "en": "<strong>Education:</strong> follows Forway, but also teaches how to cooperate, especially with the Bruntos.",
+  "t": "<strong>教育：</strong>フォーウェイに従うが、協力の仕方、とくにブルントスとの協力の仕方も教える。"
+ },
+ "bf97ddf059be": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/City.md\">Legacy/Behind The Scenes/World Lore/City.md</a>",
+  "t": "出典：<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/City.md\">Legacy/Behind The Scenes/World Lore/City.md</a>"
+ },
+ "c1d6c141a589": {
+  "en": "Old Fuhrair",
+  "t": "オールド・フライア"
+ },
+ "c3a1047a7d99": {
+  "en": "<strong>Threats:</strong> beasts, and Forway probing around.",
+  "t": "<strong>脅威：</strong>魔獣と、嗅ぎ回るフォーウェイ。"
+ },
+ "c3cf47e8eab9": {
+  "en": "<strong>Bagarisa Nose with Cheese:</strong> chewy, but delicious! Hunters created it to use every bit of the meat, and now it's a peculiar dish. 15 Pearls a nose.",
+  "t": "<strong>バガリサの鼻のチーズ添え：</strong>歯ごたえがあるが、おいしい！ 狩人たちが肉を余すところなく使うために生み出したもので、今では変わった料理になっている。鼻ひとつ 15 パール。"
+ },
+ "c42cace3196d": {
+  "en": "<strong>Economy:</strong> they don't use balls, but they can barter, since they aren't citizens of the four kingdoms (highly intelligent Cruros are the exception). They trade the bodies of their dead and their pets, pearls from the swamp, and corals for making lime, for Wooly beef jerky and other food.",
+  "t": "<strong>経済：</strong>ボールは使わないが、四つの王国の市民ではないので物々交換ができる（とても知能の高いクルロは例外）。死者やペットの死体、沼の真珠、石灰を作るための珊瑚を、ウーリーのビーフジャーキーやほかの食べ物と交換する。"
  },
  "c4a210de10b6": {
   "en": "Also, if someone asks you if you want to go to the End Lake—just don't. Trust me. You don't even want to know, but you might have smelled its shittiness if the wind blew it over to you while passing by the South main roads.",
   "t": "それと、もし誰かにエンドレイクに行きたいかと聞かれたら——やめておけ。本当に。知りたくもないだろうが、南の主要道路を通りかかったときに風に乗ってきたら、そのクソみたいな臭いを嗅いだことがあるかもしれない。"
  },
+ "c5202a68341b": {
+  "en": "<strong>Blue-Flower-Red-Bone (#7):</strong> created when Akemi and Fernan married.",
+  "t": "<strong>ブルー・フラワー・レッド・ボーン（#7）：</strong>アケミとフェルナンが結婚したときに創設された。"
+ },
+ "c7ffee865901": {
+  "en": "<strong>Sand Sea (#6):</strong> known for capturing Wozefaries and Sorefaries in the desert.",
+  "t": "<strong>サンド・シー（#6）：</strong>砂漠でウォゼファリエスとソレファリエスを捕まえることで知られている。"
+ },
+ "c957fba9965c": {
+  "en": "<strong>Clothing:</strong> for warm, humid weather, between Sanbi and Tolerideme styles: it gets colder at night than in Sanbi, but not as cold as Tolerideme.",
+  "t": "<strong>服装：</strong>暖かく湿った気候向けで、サンビとトレリデメのスタイルの中間。夜はサンビより冷えるが、トレリデメほど寒くはない。"
+ },
+ "c9688b3d1150": {
+  "en": "Mixed, in people and beliefs, though money is becoming the religion. A big city: people don't talk to strangers much, everyone minds their own business, and people are commonly called by their profession, especially by those who can't be bothered to remember names. A nari gel frenzy for style is common, so you see people of every color, texture, clothing and body type. The craziest body mods are for the rich; everyone else tends to change their hair, in droves, or small body parts that don't affect their work.",
+  "t": "人々も信仰も入り混じっているが、お金が宗教になりつつある。大きな街なので、人々は知らない人とあまり話さず、皆が自分のことだけにかまけていて、人はよく職業で呼ばれる。とくに名前を覚える気のない者からは。おしゃれのためのナリジェル熱がよく見られるので、あらゆる色、質感、服装、体型の人々がいる。いちばん奇抜な体の改造は金持ちのためのもので、それ以外の人々はこぞって髪型を変えるか、仕事に影響しない体の小さな部分を変える傾向がある。"
+ },
+ "cd31a7679f24": {
+  "en": "<strong>#3, #4, #5 and #6:</strong> the oldest, in a constant power struggle.",
+  "t": "<strong>#3、#4、#5、#6：</strong>最も古い部族で、絶えず権力争いをしている。"
+ },
+ "cd4913d23573": {
+  "en": "<strong>Education:</strong> learning from the elders. Highly intelligent Cruros learn more through the Half-Cruro guild in Sanbi or Tastyleaf.",
+  "t": "<strong>教育：</strong>長老たちから学ぶ。とても知能の高いクルロは、サンビかテイスティリーフのハーフ・クルロ・ギルドを通じてさらに学ぶ。"
+ },
+ "cde94b0cc544": {
+  "en": "<strong>Crime and law:</strong> it seems like a free-for-all, but they manage to survive in a rather brutal, tribal way of life.",
+  "t": "<strong>犯罪と法：</strong>何でもありのように見えるが、かなり残忍で部族的な生き方でどうにか生き延びている。"
+ },
+ "d561614afd40": {
+  "en": "<strong>Bone Meal:</strong> animal bone ground into meal, for crafting, construction or as a meal aid.",
+  "t": "<strong>骨粉：</strong>動物の骨を粉にしたもの。工作や建築に、あるいは食事の補助に使う。"
+ },
+ "d657bdeff661": {
+  "en": "A few dominant guilds, tied to the leftover bandits and their children, basically control Flatland, so they pick the embassy representative. They put the most charming Wozefaries from their guilds out front as a facade for their suspicious activities. They're very strict with anyone who makes false accusations or speaks badly of the royal guilds, and find ways to punish them (real-world comparison: Thailand's royal family).",
+  "t": "いくつかの有力なギルドが、生き残った盗賊とその子どもたちとつながっていて、事実上フラットランドを支配しているので、大使館の代表者も彼らが選ぶ。彼らは自分たちの怪しい活動の隠れみのとして、ギルドで最も魅力的なウォゼファリエスを表に立てている。偽りの告発をする者や、王家のギルドを悪く言う者にはとても厳しく、罰する方法を見つける（現実世界での比較：タイの王室）。"
+ },
+ "d696385c367a": {
+  "en": "<strong>Crime and law:</strong> a variant of Forway Law. Minor punishments are paid by replacement; for a major one, the criminal becomes prey for the hunters.",
+  "t": "<strong>犯罪と法：</strong>フォーウェイ法の変種。軽い罰は弁償で支払う。重い罰なら、罪人は狩人たちの獲物になる。"
+ },
+ "d8eaabc61d4e": {
+  "en": "<strong>Quarries (#1 to #4):</strong> a group of hunter brothers always tried to outdo each other in popularity. One built a quarry to win favor building Blood City, the others followed suit, and now Blood City is a popular source of stone.",
+  "t": "<strong>採石場（#1〜#4）：</strong>狩人の兄弟の一団が、いつも人気で張り合っていた。一人がブラッド・シティの建設で好感を得るために採石場を作ると、ほかの兄弟も続き、今ではブラッド・シティは石の人気の産地になっている。"
+ },
  "d959a5281641": {
   "en": "Cities · #HusbandOutWorld",
   "t": "都市 · #HusbandOutWorld"
+ },
+ "dbf9006b201f": {
+  "en": "On the surface, like the other cities; on the down low, like the villages of the Freeish Kingdom.",
+  "t": "表向きはほかの街と同じ。裏ではフリーイッシュ王国の村と同じ。"
+ },
+ "dd11125c143d": {
+  "en": "<strong>Blood Sausage:</strong> animal meat and seasoning, in a wavy-pattern sausage.",
+  "t": "<strong>ブラッド・ソーセージ：</strong>動物の肉と調味料を使った、波形のソーセージ。"
+ },
+ "de08f3e9876f": {
+  "en": "<strong>Companion Meetup:</strong> every Adrian, a massive meetup where Sorefaries sit at tables and adventurers come over to talk about themselves. If the adventurers and a Sorefaries form a bond, the adventurers pay the city a fee to take them as a companion.",
+  "t": "<strong>コンパニオン・ミートアップ：</strong>毎年アドリアンに開かれる大規模な集まりで、ソレファリエスがテーブルに座り、冒険者たちがやってきて自分のことを話す。冒険者たちとソレファリエスの間に絆ができると、冒険者たちは街に手数料を払って、その者を相棒として連れていく。"
+ },
+ "dedb02314408": {
+  "en": "<strong>Animal Part Extraction Facility (#6):</strong> since some animal parts vary in quality and are growing rarer, Forway invested in a facility where the best specimens with desirable parts are kept freshly dead and harvested with Body Heal.",
+  "t": "<strong>動物部位採取施設（#6）：</strong>動物の部位には質のばらつきがあり、しかもますます希少になっているので、フォーウェイは、望ましい部位を持つ最良の個体を死にたての状態で保管し、ボディ・ヒールで収穫する施設に投資した。"
  },
  "e5a52f7c95e7": {
   "en": "The \"All the Way Festival\" takes the cake among the many festivals. Seeing the adventurer recognition festival is fun and all, but the name \"All the Way\" implies how grandiose it is.",
   "t": "数ある祭りの中でも「オール・ザ・ウェイ・フェスティバル」は群を抜いている。冒険者を表彰する祭りを見るのも楽しいが、「オール・ザ・ウェイ」という名前が、その壮大さを物語っている。"
  },
+ "e5be687a944c": {
+  "en": "<strong>Local embassy quests:</strong> Newland exploration.",
+  "t": "<strong>地元の大使館の依頼：</strong>ニューランドの探索。"
+ },
+ "e63a9caff074": {
+  "en": "<strong>Threats:</strong> a Brunto overpopulation, especially if they start a war against humans.",
+  "t": "<strong>脅威：</strong>ブルントの増えすぎ。とくに彼らが人間に戦争を仕掛け始めたら。"
+ },
+ "e6d91bc91b63": {
+  "en": "Mostly humans, some Wozefaries and a few other species, with a significant number of richer, older humans. Like Freeish, no overarching religion, just a random mix from all the people. A melting pot like Forway City, but not as cold, since fewer people live there.",
+  "t": "主に人間で、ウォゼファリエスが何人か、ほかの種族が少しいて、裕福で年配の人間がかなりの数いる。フリーイッシュと同じく、全体を貫く宗教はなく、いろいろな人々が持ち込んだものが雑多に混ざっている。フォーウェイ・シティのような人種のるつぼだが、住む人が少ないので、それほど冷たくはない。"
+ },
+ "e9b855fb1385": {
+  "en": "<strong>Hot Skin:</strong> one of the earliest guilds, famous for running the OutBalls and InBalls resorts. It's common to see carriages packed with men stop right in front of the guild and everyone go straight in for fun times: inside, the women working there move about, and you can pick one to \"spend time with\".",
+  "t": "<strong>ホット・スキン：</strong>最も古いギルドのひとつで、アウトボールズとインボールズのリゾートを経営していることで有名。男でぎゅうぎゅうの馬車がギルドの真ん前に止まり、皆がまっすぐ中へ楽しみに行くのはよくある光景だ。中ではそこで働く女性たちが動き回っていて、「一緒に過ごす」相手を一人選べる。"
+ },
  "ed52520d2d75": {
   "en": "In a way, it can be considered its own Kingdom, but its officials would vehemently deny that's the case. For them, Forway is a common ground for all kingdoms to trade freely, communicate clearly, and peacefully settle any issues. To that extent, Forway also keeps the peace by managing all cities outside a given Kingdom's permanently fixed sphere of influence.",
   "t": "ある意味では独立した王国と言えるが、当局者たちはそれを激しく否定するだろう。彼らにとってフォーウェイは、すべての王国が自由に取引し、明確に意思を伝え合い、どんな問題も平和的に解決するための共通の場だ。その意味で、フォーウェイは、各王国の恒久的に定められた勢力圏の外にあるすべての都市を管理することでも平和を保っている。"
  },
+ "f02c45c22059": {
+  "en": "<strong>#9:</strong> a newer tribe that works well with the Half-Cruros.",
+  "t": "<strong>#9：</strong>ハーフ・クルロたちとうまくやっている新しい部族。"
+ },
  "f0443b7c1e6e": {
   "en": "Public text: city-forway.md",
   "t": "公開テキスト：city-forway.md"
+ },
+ "f265571363e8": {
+  "en": "Waterfall",
+  "t": "ウォーターフォール"
+ },
+ "f4577fab042c": {
+  "en": "<strong>Guards:</strong> Forway guards trust their crossbows with their lives. Their shiny armor and generous Forway funding make them very visible and somewhat slow, but they always travel in groups, so picking a fight isn't advised, unless you know how to exploit their superiority complex, common among these guards: let them think they have the upper hand, then hit back with a surprise counterattack at the last second and make them bleed out. Some have baited them into traps, too, but that's harder when they have a Sorefaries or another companion watching their surroundings. Either way, once you're fighting them, beware of their revival capabilities, unless you take away their hearty and expensive supply of Black Honey, often kept in their leg pockets.",
+  "t": "<strong>衛兵：</strong>フォーウェイの衛兵は命をかけてクロスボウを信頼している。ぴかぴかの鎧とフォーウェイの潤沢な資金のおかげでとても目立ち、いくらか動きが鈍いが、いつも集団で行動するので、けんかを売るのはおすすめしない。ただし、こうした衛兵によくある優越感につけこむ方法を知っているなら別だ。優位に立っていると思わせておいて、最後の瞬間に不意の反撃で打ち返し、失血死させるのだ。罠におびき寄せた者もいるが、ソレファリエスやほかの相棒が周囲を見張っていると、それは難しくなる。いずれにせよ、戦うことになったら、彼らの蘇生の力に気をつけること。たいてい脚のポケットに入れてある、たっぷりで高価な黒蜜の蓄えを奪わないかぎりは。"
+ },
+ "f5d6c7063c2a": {
+  "en": "<strong>Forway Palace:</strong> also known as the Black Tower: the giant tower at the city center, where all business and administration flows through. People casually call it the Forway castle. Entering requires a badge. The lower floors are the embassy, the upper floors are restricted to Sapphire adventurers and kingdom and city officials, and underground is research and experimentation. They cross-check names against books and other people if they suspect someone.",
+  "t": "<strong>フォーウェイ宮殿：</strong>ブラック・タワーとしても知られる、街の中心にある巨大な塔で、あらゆる商売と行政がここを通る。人々は気軽にフォーウェイ城と呼ぶ。入るには身分証が必要だ。下の階は大使館、上の階はサファイアの冒険者と王国や都市の役人に限られ、地下は研究と実験の場だ。誰かを怪しむと、名前を帳簿やほかの人と照らし合わせる。"
+ },
+ "f68b291af767": {
+  "en": "Deltacross",
+  "t": "デルタクロス"
+ },
+ "fc3f7024f773": {
+  "en": "Cruro",
+  "t": "クルロ"
+ },
+ "fdc5f1c27e4b": {
+  "en": "<strong>Drink in the Delta contest:</strong> on the last day of summer (Paulin 110th, when Delta Bar's season ends), it holds a massive contest to see who can drink the most without leaving their spot. Peeing in the water isn't frowned upon; it's encouraged, to spare your bladder.",
+  "t": "<strong>デルタで飲め大会：</strong>夏の最終日（パウリン 110日、デルタ・バーのシーズンが終わる日）に、その場を離れずに誰がいちばん多く飲めるかを競う大規模な大会が開かれる。水の中でおしっこをするのは眉をひそめられない。膀胱をいたわるために、むしろ推奨されている。"
+ },
+ "fe025cbd55e7": {
+  "en": "<strong>Abandoned Dock (#3):</strong> fishing isn't considered viable on the massive lake, even though Fihi is its specialty: the Fihi there developed a taste for humans and figured out how to sink them into the water. Usually adventurers fish there, or people cast from the shore; most people catch their Fihi on the Buhraies Plains instead.",
+  "t": "<strong>廃れた船着き場（#3）：</strong>フィヒが名物であるにもかかわらず、この巨大な湖での漁は採算が合わないと考えられている。そこのフィヒは人間の味を覚え、人間を水中に沈める方法を身につけたのだ。たいていは冒険者がそこで釣りをするか、人々が岸から釣り糸を垂れる。ほとんどの人はかわりにブライエス平原でフィヒを捕る。"
  }
 }
