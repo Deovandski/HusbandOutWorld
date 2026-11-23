@@ -314,3 +314,205 @@ If enough people ever harass Deo into finishing the story, these notes are the b
 - "Why didn't you tell me?" "I still don't know who would do such a thing to Harry and Sinoi, or why. I wanted to talk to you once I had something tangible, but I'm afraid I haven't found anything of value yet." "Then issue a search quest!" "And put his only possible excuse in jeopardy? If I don't invoke the clauses of our contract, Sinoi has a chance to convince whoever captured him that he has no ties to us."
 - Itanema, disappointed, excuses herself. Neferteri: "Furthermore, I foresee Aurora leaking the secret. If that comes true, I want you to talk to Eori and push her to punish Aurora publicly." "As you wish, my queen."
 - Alone, Neferteri closes her eyes. *This should further stabilize the situation. Princess Eori. Daughter. Why must you keep acting this way? How should I proceed? How can I speed up the healing?*
+
+# Book 7 - Friends in Low Places
+
+Author's to-do: have someone in the Wozen party bond with Harry over the things he still remembers, like days having 24 hours. Something to bond over.
+
+# Book 7 - Friends in Low Places › Prologue
+
+#### Kibe finds one of Gabiro's journals in a pile; Huneo works at his desk
+
+- [Kibe](/lore/characters/#kibe-sanbi-royal): "You're still finding his journals?" [Huneo](/lore/characters/#huneo-sanbi-royal): "The guard captains raided a personal stash of his at the Forway scientific school."
+- Kibe flips through it: [Gabiro](/lore/characters/#gabiro-sanbi-royal)'s cryptic scribbles cover everything. "So, did you crack any of his code?" "Of course not. Otherwise we'd have made all his research public, for the good of the kingdom." "I thought so. Good luck with that." He puts the book back and walks off.
+- "Apprentice Kibe." "What?" "My guards were investigating what happened that day, and we came across one more fact everyone glossed over: nobody in the slums knows Harry." "I don't either. I lost all my memories of that day, and of several weeks before it." "I figured as much. Unfortunate. Thank you for your time. Now get on with the tasks I gave you." Kibe walks out.
+
+# Book 7 - Friends in Low Places › Chapter 1 - Sanbi’s Four Power Players XX, XX 1040 meeting.
+
+#### Huneo and Kibe meet with Neferteri, Itagiba and Eiri
+
+- Huneo wants a bigger allowance to hunt down all of Gabiro's secret research: it's kingdom property, the people's money! [Eiri](/lore/characters/#eiri-sanbi-royal): Gabiro went on field research and ran research partnerships. Huneo: "I have enough evidence to say, with confidence, that he was using the kingdom's money on private research."
+- [Neferteri](/lore/characters/#neferteri-sanbi-royal) closes her eyes, thinking. "Might we see this evidence?" "I've handed it to the captains to look into. Suffice it to say, I believe some of those field trips were actually used to hide things somewhere." "If your assumption is true, that would be a grave mistake on his part."
+- Eiri: "On the budget side, how much are you asking for?" "20 Sapphires up front, plus 5 Sapphires a week." "A week? Our weekly gains are around 2 right now! I can do 5 weeks of that, at most, without straining our coffers." Neferteri: "As Eiri so eloquently put it. You could assign your own guards to hunt down Gabiro's research." "Those guards are already protecting the city. I need more resources."
+- Neferteri: "Otherwise, I agree, on one condition: Eori becomes an apprentice as well." "Tsk. Sanbi law doesn't limit the number of apprentices. Fine, but she'll have to obey my orders." Neferteri raises her badge. "I won't stand between your way and hers. Dear?" [Itagiba](/lore/characters/#itagiba-sanbi-royal): "Well, she's grumpy, but if you think that's best for her in the long run, sure thing." He raises his badge too. Eiri: "I think we should ask her first." Huneo raises his badge. "Three against one. It's decided. I'll break the news to her."
+- Eiri: "Next matter: Fanchaki. Gabiro's Fanchaki research isn't panning out the way he envisioned. The new Fanchakis are juicier and thicker, but they're more willing to fight back now, and they seem to have more Soul Energy too." "Are we still profiting?" "Yes, but I forecast breaking even, or a loss, if the amount of nari gel stone keeps going up." "Why?" "Healing. The Fanchakis have gotten more aggressive, as if they realized they're being culled." Itagiba: "Well, I can still spin that as a positive. I vote we just release them into the wild when we stop making money." Huneo has grievances, but it's three against one. Eiri: "Next topic: Harry."
+
+#### Itagiba, Neferteri, Huneo and Eiri on Harry
+
+- Eiri proposes raising the quest reward; Huneo refuses, and drills them with questions about Harry, including why nobody can pinpoint his family.
+- Neferteri dodges the questions to get Huneo off her trail, and Itagiba covers for her with the same story he gave everyone else. Eiri wants to come clean, but cowers under Neferteri's gaze.
+- Huneo buys their answers in the end, but still won't raise the reward for Harry, and demands control of the budget. Neferteri agrees, to push the idea that she isn't so closely tied to Harry; Itagiba goes along; Eiri refuses, but she's outvoted. She holds back her emotions and moves on to the next topic.
+
+#### Itagiba and Neferteri, one on one
+
+- "Hey, Nefi, is everything all right?" Neferteri stands and hugs her husband. "Of course it is. You're here with me."
+- Itagiba asks if they're doing the right thing with [Eori](/lore/characters/#eori-sanbi-royal). Neferteri says it'll keep her mind busy: she needs to forget Harry. Itagiba wonders whether forcing her into a position is best for her. Neferteri says she knows best, and won't let the same emotional outbursts happen to Eori.
+- "Maiara learned her lesson. I still think Eori should live and learn. There's a reason we have Forway laws." "Let me handle her. She'll be a shining example." "All right. If you feel that strongly about it, have it your way. Just cut them some slack once in a while."
+
+# Book 7 - Friends in Low Places › Chapter 2 - An offer hard to swallow.
+
+#### Harry #9-B wakes up tied in a basement, to a splash of cold water
+
+![][image6]
+
+- [Clodoveu](/lore/characters/#clodoveu-big-gyut) and [Wilson](/lore/characters/#wilson-big-gyut), holding his nose, stand ready with buckets. Dried blood and dirt cloud the water dripping off Harry. Clodoveu: "Hey there! Sorry about the water, but we don't want you setting the basement on fire." Wilson: "Phew. Did you ever take a bath? My man, you stink like ass! Like an ass left to rot in the sun."
+- [Marcus](/lore/characters/#marcus-big-gyut): "Shut up." He grabs Harry by the mohawk, yanks his head back and slits his throat. Harry gurgles in agony as the wound heals almost instantly, leaving him panting and weak. Clodoveu: "Was that really necessary?" Marcus raises the knife again. "That was for burning my tongue alive, you motherfucker—who the fuck are you?"
+- Harry hesitates; Marcus stabs him in the shoulder. "I'm not fucking around!" Clodoveu taps Marcus's shoulder, and Marcus shoves him off. "Fuck off, you fag. I'm talking here." Clodoveu raises his hands and sits down. Marcus grips the mohawk so tight Harry feels his scalp coming unglued.
+- "Harry." "From where?" "Sanbi—Kingdom." Marcus lets go. "Sanbi my ass. You're a Hifuna beast." Wilson: "Waaaaaaattt! For real?" Harry, head throbbing: "Haaaaaa?" "Don't 'ha' me! You're lying! You two, figure this fucker out while I turn the Bagarisas on the spit. I want to know where that old fat bitch went." Marcus leaves.
+- Harry pictures his friends being roasted alive, and fire surges from his hand up to his elbow. Clodoveu almost misses the transformation, but douses it with a bucket of cold water. Harry shakes violently, freezing.
+
+#### Harry #9-B, soaked, watches the two bandits make more cold water
+
+- Clodoveu: "See, Wilson? That's why Marcus doesn't have any friends." "For real, what an asshole—" Something clicks in Wilson's head. "Hey! Don't use my real name! I'm not wearing a fake skin!" "It's fine. By the way, Harry, I'm Clodoveu. Sorry about the Bagarisas, but Marcus is still pissed about what you did."
+- Teeth chattering, Harry nearly bites his tongue. "What did I do? I was having dinner with the Bagarisas and someone attacked me! I—" Everything after that is darkness. "So you don't remember, huh? You burned Marcus's tongue inside his own mouth. That was after you nearly sent Wilson to the darkness." Wilson laughs. "For real, I nearly shat myself." "No, you actually did shit yourself." "Oops."
+- Clodoveu: "So yeah. You're in no position to make requests, but if you spill everything you know, I'll let you join the team." Wilson: "You sure?" Clodoveu nods. "So, Harry?" Harry pictures the Bagarisas' happy little smiles. "You fucking killed them! I'm not joining you!" "That's too bad. Then I've got no choice but to make you meet the darkness." Clodoveu readies his weapon while Wilson grabs a bucket.
+
+#### Clodoveu raises his weapon; Harry closes his eyes, ready to die again
+
+- Harry remembers dying at [Maiara](/lore/characters/#maiara-sanbi-royal)'s hands: the feeling, the hopelessness. The hammer strikes the ground, and Harry jumps.
+- "You don't look like someone who wants to die, but I can tell you already have." Clodoveu sets his weapon aside and sits. "Want to know what a Hifuna beast is? Go near Hifuna, and you'll see all kinds of strange beasts. Most are animals we eat, turned into monsters from living out there. A friend of mine went to loot dead adventurers and never came back. But you—I don't think you're a Hifuna beast. Did you sell yourself to a scientist?"
+- "Selling yourself to a scientist? Is that what people do?" "Could be. Care to tell me how you got this Bagarisa power?" Harry hesitates: he sees Eiri telling him not to say anything, pinky out. Anger wins, and he nods.
+- Clodoveu opens a bag of snacks with a huge smirk. "Right on. Tell me every single detail." Wilson sits too and reaches for a snack, until a look from Clodoveu stops him. "This better be spicy!" Harry, frozen, tells them everything he knows.
+
+#### Marcus hands out Bagarisa meat on sticks, one held right in front of Harry
+
+![][image7]
+
+![][image8]
+
+- Wrapped in a cloth against the cold, Harry smells the freshly cooked, seasoned meat wrapped in cornmeal, and his stomach growls violently, but the image of the dead Bagarisas makes him ill. He turns his head. Marcus: "I wish I had friends this good." He eats the meat right in front of Harry, savoring the juiciness. Harry flares up again.
+- Water flies, soaking both Marcus and Harry. "What the fuck is wrong with you, you fucking faggot?" "Marcus—" Marcus grabs a fistful of Clodoveu's chest hair. "What the fuck! Don't say my name in front of this fucker!" A punch from Clodoveu knocks out a bunch of Marcus's teeth and sends him flying across the room. Clodoveu scratches at the bald patch on his chest as the hair grows back. "Anyway."
+- He gives Harry a manly, comforting hug: warm, though his armpit pulverizes Harry's nose. "Forget the past. Come with us—not that you have a choice—we could certainly use your firepower." Harry feels needed, something he hasn't felt in a long while.
+- Marcus spits out half-broken teeth, bleeding from his nose and mouth. "I don't want another faggot on my team." Wilson raises his hand, a tear in his eye. "I'm with Clodoveu. Harry's suffered enough." Marcus leaves. "Then you two can suck him off. I don't fucking care. Kozaku will put a stop to this."
+- "Forget Marcus. He's always this sassy. Harry, what'll it be? Rest in the darkness, or come have an adventure with us?" Harry smiles nervously. "I guess I have no choice?" "No, no, no. You have a choice. No pressure at all. We could even kidnap Eori and have you torture her instead." Harry feels a weird feeling. "Or, if you don't want to go that far, we can just make sure she never finds you again." Harry agrees. "Then let us begin!" Wilson jumps up: "I call dibs on his hairstyle!" Clodoveu smacks his lips: "And I call dibs on his body gel."
+
+#### Harry #10, jacked up, eats chicken jerky drenched in Black Honey
+
+![][image9]
+
+- Harry feels all his muscles bulge, and I mean all of them. The chicken jerky with Black Honey tastes amazing. Clodoveu, finishing Harry's haircut, looks interested; Wilson tries not to laugh, and fails. "So that's the real reason you wanted him on the team." Clodoveu smiles. "Hey! I like twinks and Woolies alike."
+- Harry: "Can I ask why you gave me that nari gel?" "So you can carry weight for us!" He finishes the haircut. "Now it's perfect! Say, wanna go wrestle outside before we shower?" Harry looks at Wilson, then at Clodoveu, and feels a choking atmosphere coming from the latter. "Nooo?" "That's too bad. Wilson?" Wilson laughs nervously. "Fuuuuck no. I ain't falling for that again." "What? It was purely an accident that I got hard." "I dunno about that. I'm just gonna go to sleep instead." "All right. Night!"
+- Clodoveu turns back to Harry. "So what tickles your brain? You know, what type of girl, or boy, makes you want to fuck them up, or get fucked all night?" Images of the girls he's been with pass through Harry's head, but one stands out. "There was this girl called Sora, a Sanbi maid. She was pretty cute." "What type? Wozefaries, human? Personality? Give me descriptions!" Harry describes [Sora](/lore/characters/#sora-sanbi-blue-glass) in a glowing light, then tells him about the trap Itagiba set for him.
+- Marcus comes down. "Your turn, you faggots. It's fucking cold outside." Clodoveu: "That's cute. Let's go stand watch."
+
+#### Harry #10 watches the moon, bundled in blankets, Clodoveu beside him in the house
+
+- Clodoveu wears the same nari gel [Arukia](/lore/characters/#arukia-long-bridge) used to see in the dark. Harry: "So what do you guys even do?" "The usual. Stealing, sometimes kidnapping, mostly from the filthy rich. That's the Blue Wozens' motto." He shows his proof of membership. "The boss formed this bandit group a while ago, after some rich Forway families looked down on his family. They took advantage of him through contracts, until he realized he had a way out: flee the contract, and leech off the rich who once imprisoned him."
+- "I guess payback's a bitch?" "A bitch and a half. That's for—something in the distance. I can't quite make it out—oh. It's a Fatupari. Never mind, as long as it doesn't come too close." "Fatupari?" "A big-ass snake." "So that's a Fatupari. The Bagarisas and I killed one—and ate it."
+- "Life is all about eating or getting eaten. Eori ate you plenty of times, but did you ever eat her back?" Harry imagines eating her pussy and laughs. "I guess so?" Clodoveu smirks too. "Let me rephrase. Did you want to eat her? Do you love her?" Harry feels a stab in his heart, not from loneliness, but from fear of what she could do to him if she ever found him. "Hmmm hmm." "There's your answer. Somewhere in this world, you'll find the thing you want to eat most. I already found mine, but he didn't want to eat me back. Now I'm looking for the second-best thing."
+- Harry goes quiet, thinking of the Bagarisas. "Thinking about them won't bring them back." "But can't I bring them back?" Clodoveu shakes his head. "Reviving animals is a crapshoot, like babies and old people. Worse, Marcus cooked the meat, and you can't revive something that's been cooked. He did it on purpose." Harry seethes. "Please don't light up right now. If you want to bash Marcus's face in, just challenge him to a duel. I bet he'll accept, no problem." Harry takes a deep breath.
+
+# Book 7 - Friends in Low Places › Chapter 3 - Sanbi’s Second Courtroom Scientist Apprentice
+
+#### Neferteri, Itagiba, Eori and Huneo
+
+- "I never agreed to anything like that." Eori, slouched in her chair with her arms crossed, draws everyone's attention, and her mother's disapproving look. Neferteri: "This is no longer a matter of agreeing, but of doing." "THEN I DON'T WANNA DO IT!" She heads out.
+- "Harry." Itagiba says it just as the door is about to close, then smiles. "You want to see him, right?" Eori stops in the doorway, hiding her face. Neferteri lays a hand on her husband's strong arm. "At this rate, we'll have to cut unnecessary expenses in the coming weeks, and Harry's search quest is one of them." "Why?" "Simply because we're implementing Huneo's strategies to improve our kingdom."
+- Eori slams the door and points at them. "Harry is your fault! FIX IT!—" Neferteri's eyes widen: Eori seems about to say what she has feared she would say. Huneo steps in between. "THIS IS NOT HOW YOU TREAT THE QUEEN!" Itagiba stands. "Huneo, it's fine. We understand." "Absolutely not! This is unacceptable! Eori! As my second apprentice, I demand you apologize RIGHT NOW!"
+- Trembling with rage, Eori lifts Huneo off the ground, moments from giving him free dental work— "You're no better than them, Princess Eori." Neferteri's cold voice reaches her, and a flood of memories hits: her hot blood is no different from her sisters'. Itagiba: "Them? Ohhhh. That's low," but it goes unheard. Eori shoves Huneo away and storms out.
+- Huneo straightens himself. "I shall report this violation—" Itagiba sighs. "C'mon, Huneo! Cut us some slack here!" "Absolutely not. I bid my king and queen a good day!"
+- The door closes. Itagiba: "He's stealing my thunder, honey. I think you were right after all." Neferteri: "I see this as a chance to bring some of those values into our guild." "And end up like your parents? That sucks." "Everything in moderation, my dear. There's a reason I'm here, and not there." Itagiba flexes his beefy arms. "Is it because of these two bad boys?" Neferteri cracks a jovial smile. "There's more to it than that. Now, shall we get on with the day?" "You betcha."
+
+#### Eori smashes up her room
+
+- She punches things, breaks things, smashes things, then curls up by the bed, crying. "I just wanted Harry!" A knock. "Leave me the fuck alone!"
+- Huneo comes in with a Sanbi guard and looks around. "You'll have to pay for all this damage too, Princess Eori." Rage rises; she starts toward him, then stops: the guards have arrows aimed at her head. "I've received permission to do as I please to guarantee my safety." Huneo smiles, almost enjoying putting her in her place.
+- "Then get the fuck out!" "It seems you didn't hear the verdict, so I'll repeat it: you're my second apprentice now, which means you'll do my bidding. Report to the castle lab right now to develop new nari gels." "I'M NOT YOUR BITCH! FUCK OFF!" "Guards, arrest her for contempt." Eori fights the guards and loses. Pinned to the floor, she sees Neferteri peeking from the hallway. "Fucking bitch. You'll pay for this."
+
+#### Eori works for Huneo, guards at the door, a guard captain at his side
+
+- Huneo goes through the stockpile Gabiro and Kibe left behind and hands her a paper. "First, I want an updated inventory of everything here by the deadline." "That's impossible!" "That's an order. Make it happen." She looks at the guard's hand on his sword and forces herself not to explode.
+- "Good! Now, where are your experiment journals?" "It's all in my head! I don't write it down for the likes of you to steal!" "Then you'll write it all down, after the inventory." She grabs a bottle to throw, and an arrow pierces her forearm, shattering the bone. Her arm falls limp, the bone exposed; she screams in pain, agony and rage.
+- Huneo sets a Nari Refresher on the table near her. "You're doing this to yourself. Respect me, and I'll respect you." Silent, eyes bloodshot, her arm pumping blood with every heartbeat. He leaves. "You'd better heal yourself and clean up before you pass out and die. Guards, don't let her leave. I'll have Eiri bring her dinner here."
+
+# Book 7 - Friends in Low Places › Chapter 4 - Soul Balls
+
+#### Harry #10 and the bandits at breakfast
+
+- Marcus sits across from Harry, eating Bagarisa jerky and provoking him. Harry, gripping his coffee, wants to bash that smirk in like nobody's business; Clodoveu watches; Wilson is oblivious, picking his nose, his mind far away.
+- Clodoveu: "Harry, want to duel Marcus?" Harry wants to kick Marcus's face in, but the memory of being killed by Maiara sends a shiver down his spine. Marcus smiles. "You fat pussy." He takes a big bite, chews and spits it at Harry; bits of Bagarisa meat and spit run down his face. A flame lights on Harry's fingers.
+- Clodoveu offers him a cloth. "Your balls might be bigger than mine right now, but they're nari gel balls: fake. Only the balls of your soul truly count." Marcus laughs, standing and channeling Soul Energy to pour water on the fire. "Good luck with that." Clodoveu puts a hand on Harry's shoulder. "I'm gonna help you grow your spiritual balls." "Thanks?"
+
+#### Clodoveu flies at Harry fist first (like Maiara did); Harry blocks with crossed arms
+
+- Wilson keeps a makeshift scoreboard, half dozing. Harry feels anger, power, a monster in Clodoveu. The fist lands right on Harry's crossed arms and slams them into his face, knocking him back. His vision flickers; he feels like puking his breakfast when a hand reaches toward him.
+- Clodoveu helps him up and holds him from the side as he wobbles. "Points for not running, but that defense was pretty stupid: you knocked yourself out with your own hands." Harry realizes that's basically what happened against Maiara. "So that's when the metal plate hit me in the head!" "If you can't match a defense, go on the offense!"
+- "How?" "For starters, stop fearing the darkness." "You mean death?" "Either way. Darkness will come sooner or later. If you let it rule over you now, you might as well kill yourself." Harry agrees, logically, but dying still feels too real. "Know how many times I've met the darkness? I don't either. Marcus might be sassy, but you can trust him to bring you back, if the boss approves."
+- "So that's why you trust him. Who's the boss?" Clodoveu smiles. "I could tell you all about him, but you won't believe it until you meet him." "Okay—so how should I defend myself?" Wilson laughs. "Even I know that's a stupid question! Oh, wait—" Clodoveu: "I knew you'd come around. Harry, you've got a Bagarisa's power. Nobody else has it! Use it! Abuse it!"
+- Harry lets the flame take over his hands, arms and head. "I'm coming at full swing this time. Better be ready." The flames swell, as if he's about to explode. Clodoveu crouches, hand skimming the ground, and charges. Harry cocks his arms back, and just as he's about to unleash, a rock flies from Clodoveu's hand and hits him dead between the eyes, breaking his face. His flame flares, then dies, and he falls forward, blood gushing.
+- Wilson laughs. "I saw that one coming!" Clodoveu gives him a thumbs-up. "That'll teach him something new." Harry's body gasps, and he slowly gets up, head pounding as it finishes healing. Clodoveu hugs him from the side. "Anything's a weapon if you time it right. Sorry for throwing so hard. Let's call it a day and head back to the den?" Harry nods.
+
+#### Harry #10 and the others haul a load through the forest
+
+- Clodoveu: "The den's a ways off. First we walk half a day to our hidden wagon, take it to the next hideout, then walk about a quarter timehunk." "Are all the teams there?" "We rarely see the other teams. We only go back to the den to report and grab the next quest." "So what was your current quest? Killing me?"
+- "Bringing supplies to the old lady guarding the loot house, but she must have died a few weeks ago, after her fost stone lamp got too small." Wilson: "I smelled her clothes, then searched for her, but all I found was some blood and scraps of torn clothes. A Fatupari must've gotten her." "That's why we now have to bring all the goods back to the den. Someone's next quest—" Marcus: "You fat pussies gonna talk all day? Fucking cuntholes! Step it up!" Clodoveu ignores him. "—will be finding a new den."
+- Wilson: "Something less boring would be nice." Clodoveu: "Big words from someone shitting himself just yesterday." "Nah. I wasn't shitting myself, I was lightening my load to run faster." He laughs. Clodoveu takes him seriously. "That's an interesting strategy. Harry, you could use that to pick up your pace." Harry thinks about it, and shakes his head. "I'll pass."
+
+# Book 7 - Friends in Low Places › Chapter 5 - Special Move
+
+#### Katsumi works the fields
+
+- She slowly works her way through the field. The sun and the smell of Magina annoy her to no end. Sweat drips off her chin as she looks up at the distant forest. *This time it'll work.*
+- A bandit: "Hey, you! Stop fucking around and get to work!" She picks the flowers faster, without a word. He puts a hand on her shoulder and breathes in her ear. "What's your plan for tonight? Gonna try going out the window again? Try something new, and I'll do the same, and fuck you from behind all night long."
+- Katsumi smiles at him. "So you wanna see my new special move?" "Ohh, yeah? I'll be waiting." He smacks his lips and walks off light-footed, as if he'd just won the lottery. "I promise you won't forget it." He rubs his crotch. "I'm gonna skip the booze to give you my special ability too." Katsumi keeps smiling. *Shit. I might've pushed it too far.*
+
+#### The bandit pins Katsumi down
+
+- On top of her, laughing: "So that's what you can really do? Pathetic! Try harder!" He slaps her across the face. "You should've gone for a left kick instead of flailing your arms around. Now it's time for my payment." He grabs her small hips to turn her over, and she puts her hand on his. He pauses. "I haven't shown you what I can really do yet. Let me do the work." "Finally accepting your fate? All right. What are we doing, then?" "Just lie down. Let me take you somewhere far away."
+- He lies down, a hand on his sword; she glances at it without making it obvious. She climbs on top and rides him slowly, moaning, until he's focused only on her. She leans in for a deep kiss, then moves to his ear, moaning, and bites into his neck. Her teeth sink deep; blood gushes into her mouth and onto the ground. He tries to kick her off, but she bites down harder, with all her strength, pinning his hands to the ground.
+- In a few blinks, a red sea of blood pools around the bandit, and his life flashes away. Katsumi gets up and spits in his face. "See? I told ya it was something special."
+
+#### Katsumi, in the bandit's clothes, in a small cave with a fost lamp
+
+- She goes through his pockets: 35 Pearls, and a single Amethyst in his ball pouch. "This won't even get me through two weeks, let alone hire someone to get her! Dammit! Why did you have to give up everything? We were so close!"
+- She remembers signing the contract: she was so eager to sign it, and now she remembers her sister was just playing along for her sake. She cries. "I'm sorry. I'm sorry. I'm gonna come get you!" A howl, not so far off, sends a chill through her. She pulls her fost lamp closer.
+
+# Book 7 - Friends in Low Places › Chapter 6 - Walking Heart
+
+#### Harry #10 meets Kozaku, who sits silently, overseeing the bandits
+
+- [Kozaku](/lore/characters/#kozaku-forway): "Speak." Clodoveu: "Boss, the old lady at the loot house was eaten by wild animals." Kozaku stands; a flame rises from his heart and runs down his arm along his Darfaries line. His firm steps echo through the big, damp room.
+- Harry feels the pressure of being near him. Clodoveu is his usual bluntly troglodyte self; Wilson mostly hides behind Clodoveu; Marcus crosses his arms, almost daring the boss to fight. "Loot?" "Some of it rotted, but we brought back everything we could. Plus, we found a fourth member." "Tsk," Marcus mutters.
+- Kozaku's arm flies into Marcus's gut and rips through him, lifting him off the ground; Marcus pukes his guts out. As his body falls toward Kozaku, a knife appears in his hand and lands right on top of Kozaku's head, piercing his brain.
+
+#### Kozaku and Marcus fight
+
+- Face and eye twitching uncontrollably, Kozaku throws Marcus's body aside; blood flies everywhere as it hits the floor, kicking, and splashes the wall. Harry watches, mouth open, as Marcus's body slumps to the floor. Kozaku's twitching stops as he rips the blade out in one swoop, brain matter flying up and raining down on everyone.
+- He stands silent for a moment, body frozen, eyes paralyzed, until a twitch in his eyes and hands breaks the stillness. He cracks his neck and stands face to face with Harry. Pure terror runs up Harry's spine; he can't react to such overwhelming power. "Show me."
+- Harry looks at Clodoveu. "Go all out." Harry tries with all his might, and manages only a weak flicker of fire. The boss grabs one of his hands, snaps the bone and rips it off at the forearm. Harry screams as the fire flickers in and out, bursting up his arm and into his head, filling his mohawk.
+- The boss studies Harry's hand, smells it, tosses it aside, then watches the flames appear and disappear. He looks at Clodoveu. "Plan #237." He goes back to his chair. Clodoveu taps Wilson on the shoulder. "Can you grab Marcus this time?" Wilson gives a small, cowardly thumbs-up.
+
+#### Dinner: Clodoveu, Marcus (eating alone, pissed), Wilson and Harry
+
+- Clodoveu bumps Harry's shoulder. "Quite the surprise, huh?" "So who is the boss?" Clodoveu tells him: Kozaku was born in Forway City to mixed-blood parents who left Gandew. Pure-blood Darfaries' smugness always rubbed him the wrong way, and after he signed a rich man's contract without reading the fine print, the rich man's family harassed him, so he founded the Blue Wozens with two others and struck back. Marcus downs his beer, impatient with all the boss talk; Clodoveu ignores him.
+- Wilson jumps up and runs out. "I told you to go easy on the fat." Clodoveu turns to Harry. "Know where the bathroom is?" "Down the hallway, last door before the exit." "Not bad. Just remember it's not the only exit, and close things behind you on your way out."
+- "So, about Kozaku. Why does he look like that?" "[Walking Heart](/lore/walking-heart/). Never heard of them?" Harry shakes his head. "That's why he had a flame on his heart. It looks like your flame, but the interface is totally different." "So he was a scientific experiment?" "Oh, no. He sought out one of those stones in the Hifuna region and replaced his heart with it. Now he's not really a Darfaries, more like a [Walking Flathead](/lore/beasts/#walking-flathead)." "What?" "Never heard of them either? Were you born yesterday?" Harry laughs. "I only remember things since summer, so kind of."
+- "All right, I'll tell you more if you give me a massage." Clodoveu winks. Harry raises his hands in defense, his brain playing a short horror movie of him touching Clodoveu's body. Marcus, under his breath: "Buttfuckers."
+
+#### A Darfaries bandit girl steps out of the shadows
+
+- Wozen fur covers her skin and eyes. Wilson props himself in the hallway doorway, hands on his stomach. "Great timing, Wilson. Come in and have a seat," says the half-woman, half-Wozen. Marcus: "So what's the plan?" "Slow down. First, how's your belly feeling?" The smirk between her sharp teeth entrances Harry: he has never seen anything like it.
+- Marcus leans on the table, ready to pounce. Clodoveu: "You already lost once today. Keep to yourself." "Fuck off. You cunt, get it over with." She slides her hand down her belly into her boxers and flips out a knife that lands right above Harry's head, shaving off part of his mohawk. Harry ducks, covering his face, then peeks as she reaches into her underwear again and pulls out a rolled-up letter. "Keep your dick separate from your mind, or you're gonna die here, kiddo." She throws the letter in front of Marcus, who flicks it to Clodoveu; he sniffs it, shrugs and opens it.
+- "You losers got lucky this time." She grabs Harry's hand, and he cowers. A warm, moist feeling: her tongue is wide and her mouth is big; Harry feels he could disappear in it. She pulls his whole hand out of her mouth and spits to the side. "He's more Bagarisa than human. The boss gave your team a shot, so you'd better not fuck it up." Marcus: "Just tell us what to do, and fuck off."
+
+#### The map: the target is Maicon's warehouse
+
+![][image10]
+
+- The Wozen lady: "Your team will raid [Maicon](/lore/characters/#maicon-forway-black-dove)'s warehouse in Forkpoint, then take the loot by boat to Old Village. There, you split up: one side takes the loot north to Fiera's hut, the other follows the river to Minala. Then you switch to a wagon, pass through Rebula, and burn the wagon."
+- Marcus: "What about the raid? How the fuck are we supposed to do that?" "The scouts noticed there's always a handful of Magina, or Bagarisa Brothers, guarding the place. Go quiet, and we won't have any trouble." Clodoveu looks at Harry. "Makes sense. Harry, you'll turn Bagarisa and throw a fit to grab their attention. Marcus and Wilson will attack them, then fake a run with empty boxes to Rebula, while Harry and I go north." Wilson, half dead: "Whatever, man. I just wanna die."
+- Marcus: "Maicon. Does he show up there?" "A dead merchant doesn't make money. Kill him, and I'll gut you alive." "Tsk. Kill one, two more show up. Who fucking cares?" She slams the table, almost breaking it. "I fucking care." Marcus stands, ready to throw down.
+- Clodoveu: "If you're trying to fuck him, I'm sorry to tell you you're not his type. He prefers Tolerideme women." She blushes. "Aww, whatever. You've got your plan. Now get out!" She leaves. Marcus, dead serious: "Is that what she fucking wanted?" "Oh! Trust me. Totally." Clodoveu rolls up the plan. "All right, homies. You know the plan. Let's get some sleep and leave in the morning." Marcus: "To some good, motherfucking, bloody money!"
+- They raise their glasses; Harry follows, unsure. "Is she like me?" "Her? Nah. She always wears that nari gel, and she can't use the Wozen interface, though she really wants to." "Really?" Harry lights his hand on fire at will. "I wish I could use the Darfaries interface."
+
+# Book 7 - Friends in Low Places › Epilogue
+
+#### Harry outside at sunrise, a fost lamp beside him; the Wozen lady hides in the tree above
+
+![][image11]
+
+- He watches the sun rise over the forest, but his mind drifts to everyone he has betrayed: he broke his promise to Eiri, he let the Bagarisas die, and now he's about to steal from someone. His heart squeezes. *Is this what I really want? But what else can I do? I don't know anyone!*
+- Something drops behind him, squeezes him tight and lifts him off the ground, sniffing him deeply, like a fat guy with a fried chicken he just bought. The breath tickles his neck and he laughs. "You're just like Desmond!" says a familiar voice in his ear, her bristly fur rubbing him and making him laugh even harder.
+- His feet touch the ground again; he steps away and turns around. The Wozen lady smiles. "Fost stones only keep dumb animals away. Aren't you cold?" Harry looks at his half-naked self. "Hmm. I guess not?"
+- "Clodoveu told me all about you. How did the Sanbi scientist make it happen?" "Who, Gabiro? Yeah, I never met the guy. Eiri was the one who told me about him." "Did they give any details about what they did?" He shakes his head. "I had no memories of anything, so they probably didn't bother explaining."
+- She leans in and whispers slowly in his ear: "If you find out how, I'll let you do anything you want." Harry blushes; so does she. "Not like that! I meant, like—going to other teams! Even working by my side!" They both laugh. She raises her hands and pushes her belly forward; Harry knows this one, and does the same. As their bellies and hands touch, she says, "I promise." Harry smiles and nods.

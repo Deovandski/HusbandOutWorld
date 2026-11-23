@@ -105,7 +105,7 @@ def is_category(raw):
     return clean_heading(raw).startswith('--')
 
 def category_name(raw):
-    return clean_heading(raw).strip('- ').strip()
+    return clean_heading(raw).strip('-—– ').strip()   # some headings close with an em dash instead of --
 
 def norm(s):
     s = re.sub(r'\{[^}]*\}', '', s.lower())

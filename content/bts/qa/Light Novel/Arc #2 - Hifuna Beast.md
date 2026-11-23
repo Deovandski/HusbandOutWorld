@@ -75,3 +75,18 @@ Status: **answered** 2026-11-22.
 ## Left out on purpose
 
 - Nothing from Books 5 and 6 is left out; the long prose passages are condensed into beats.
+
+## Book 7 - Friends in Low Places (batch 4)
+
+Placeholders filled from Legacy:
+- Prologue "{DAY}" → "that day" (the day Harry was taken; no date given anywhere).
+- Chapter 6 "// Explain Boss background" → Clodoveu's summary of Kozaku's Characters entry (Forway City, mixed-blood parents from Gandew, the unread contract, founding the Blue Wozens with two others).
+- Chapter 6 links: Walking Heart → /lore/walking-heart/; Walking Flathead → /lore/beasts/#walking-flathead (Beasts: "Walking Flathead, or simply Flathead").
+- Left out: "// Talk about the teacher's name" (prologue writer's note), "// Harry describes Sora…" kept only as "Harry describes Sora in a glowing light".
+
+Questions:
+- **B7-1:** Chapter 2: Marcus asks "Where is XXX?" I left the question out and kept his later line about "that old fat bitch". Is XXX the old lady guarding the loot house (Chapter 4)? Does she have a name?
+- **B7-2:** The Wozen lady in Chapter 6 and the Epilogue is "XXX". Does she have a name? She says "You're just like Desmond!" in a familiar voice. Desmond is Harry's previous life, so does she know Desmond, or is this a different Desmond?
+- **B7-3:** Chapter 2, "the XX Nari Gel" that bulks Harry up. Is there a name for it? Nari Gels has no muscle gel, so the abridged text just says "that nari gel".
+- **B7-4:** "I like both twinks and Woolies." Woolies are the cow-sheep of Gandew in Fauna. Is it a joke about the animal, or slang for burly, hairy men? Should I add a short note?
+- **B7-5:** Kozaku: Book 7 says he sought out a stone in the Hifuna region and replaced his heart with it; Characters says he found one that melded with him. Fine to keep both as written?
