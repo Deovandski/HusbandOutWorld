@@ -63,6 +63,10 @@
   "en": "Defenders cannot move from their position and must withstand the brunt of the attack but can counter or attack back if they do not move from their location.",
   "t": "방어자는 자리에서 움직일 수 없고 공격을 정면으로 견뎌야 하지만, 위치에서 움직이지 않는다면 반격하거나 되받아칠 수 있다."
  },
+ "2bfc57e15ee9": {
+  "en": "A turn only encompasses ONE attack, such as a single weapon swing, a stab, or a fist punch.",
+  "t": "한 턴에는 무기 한 번 휘두르기, 한 번 찌르기, 주먹 한 방처럼 단 한 번의 공격만 포함된다."
+ },
  "2d753779301b": {
   "en": "King-Fest Addendum",
   "t": "왕의 축제 부칙"
@@ -118,10 +122,6 @@
  "4b5e84be0e45": {
   "en": "Check",
   "t": "검사"
- },
- "4d92136bafac": {
-  "en": "A turn only encompasses ONE attack, such as a single weapon swing, a stab, or a first punch.",
-  "t": "한 턴에는 무기 한 번 휘두르기, 한 번 찌르기, 주먹 한 방처럼 단 한 번의 공격만 포함된다."
  },
  "521d044bb4e3": {
   "en": "Sub 1) Essential goods to the four kingdoms' safety, commonwealth, and stability will be managed by Forway to reduce costs and improve trading. Subsidies shall be funded with taxpayer money.",
@@ -179,6 +179,10 @@
   "en": "Section #1",
   "t": "제1조"
  },
+ "7ba0ff79f7b2": {
+  "en": "Sub 4) The accepted UOM for transactions shall be the Vraki UOM across all kingdoms.",
+  "t": "제4항) 모든 왕국에서 거래에 인정되는 측정 단위는 브라키 단위로 한다."
+ },
  "7c197735d0f3": {
   "en": "The duelers switch roles (attacker vs. defender) on every turn.",
   "t": "결투자들은 매 턴 역할(공격자와 방어자)을 바꾼다."
@@ -186,10 +190,6 @@
  "7c259436798e": {
   "en": "For marriage duels, a “win” is establishing a lifelong bond, and “loss” is determining they aren’t meant for each other.",
   "t": "혼인 결투에서 “승리”는 평생의 인연을 맺는 것이고, “패배”는 서로 맞지 않는다고 판정하는 것이다."
- },
- "7d7689771f34": {
-  "en": "Sub 4) The accepted UOM for transactions shall be the Vraki OUM across all kingdoms.",
-  "t": "제4항) 모든 왕국에서 거래에 인정되는 측정 단위는 브라키 단위로 한다."
  },
  "8a9356ede77d": {
   "en": "Section #3",
@@ -226,10 +226,6 @@
  "a8d6aed71f1e": {
   "en": "Sub 1) All cities and Kingdoms are prohibited from mass producing an item for trading if it does not have a comparative advantage over a given good in its economic region. Violation is subjected to forfeiture and hefty fines as a percentage of a given kingdom's earnings.",
   "t": "제1항) 모든 도시와 왕국은 자기 경제 지역에서 특정 상품에 대한 비교 우위가 없다면 그 상품을 교역용으로 대량 생산하는 것이 금지된다. 위반 시 몰수와 함께 해당 왕국 수입의 일정 비율에 해당하는 막대한 벌금이 부과된다."
- },
- "afb35e64a8e9": {
-  "en": "Sub 2) All services and goods must be exchanged through Ball's currency.",
-  "t": "제2항) 모든 서비스와 상품은 볼 화폐로 교환되어야 한다."
  },
  "b169a7688d58": {
   "en": "Loser vs. Winner",
@@ -346,6 +342,10 @@
  "eb1af86e02c7": {
   "en": "The Prosperity Treaty (Prosperity Law)",
   "t": "《번영 조약》(번영법)"
+ },
+ "eefc05ace94a": {
+  "en": "Sub 2) All services and goods must be exchanged through Balls currency.",
+  "t": "제2항) 모든 서비스와 상품은 볼 화폐로 교환되어야 한다."
  },
  "ef70286eae31": {
   "en": "Temporary detention of kingdom citizens is allowed at most for six weeks, with one of these requirements being met.",

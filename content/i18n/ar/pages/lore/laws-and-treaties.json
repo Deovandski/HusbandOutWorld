@@ -63,6 +63,10 @@
   "en": "Defenders cannot move from their position and must withstand the brunt of the attack but can counter or attack back if they do not move from their location.",
   "t": "لا يجوز للمدافعين التحرك من موضعهم، ويجب أن يتحملوا وطأة الهجوم، لكن يمكنهم الرد أو الهجوم المضاد إن لم يتحركوا من مكانهم."
  },
+ "2bfc57e15ee9": {
+  "en": "A turn only encompasses ONE attack, such as a single weapon swing, a stab, or a fist punch.",
+  "t": "لا يشمل الدور سوى هجوم واحد، مثل ضربة سلاح واحدة، أو طعنة، أو لكمة."
+ },
  "2d753779301b": {
   "en": "King-Fest Addendum",
   "t": "ملحق مهرجان الملك"
@@ -118,10 +122,6 @@
  "4b5e84be0e45": {
   "en": "Check",
   "t": "الفحص"
- },
- "4d92136bafac": {
-  "en": "A turn only encompasses ONE attack, such as a single weapon swing, a stab, or a first punch.",
-  "t": "لا يشمل الدور سوى هجوم واحد، مثل ضربة سلاح واحدة، أو طعنة، أو لكمة أولى."
  },
  "521d044bb4e3": {
   "en": "Sub 1) Essential goods to the four kingdoms' safety, commonwealth, and stability will be managed by Forway to reduce costs and improve trading. Subsidies shall be funded with taxpayer money.",
@@ -179,6 +179,10 @@
   "en": "Section #1",
   "t": "البند #1"
  },
+ "7ba0ff79f7b2": {
+  "en": "Sub 4) The accepted UOM for transactions shall be the Vraki UOM across all kingdoms.",
+  "t": "الفقرة 4) تكون وحدة القياس (UOM) المعتمدة للمعاملات في كل الممالك هي وحدة قياس فراكي (OUM)."
+ },
  "7c197735d0f3": {
   "en": "The duelers switch roles (attacker vs. defender) on every turn.",
   "t": "يتبادل المتبارزان الأدوار (المهاجم مقابل المدافع) في كل دور."
@@ -186,10 +190,6 @@
  "7c259436798e": {
   "en": "For marriage duels, a “win” is establishing a lifelong bond, and “loss” is determining they aren’t meant for each other.",
   "t": "في مبارزات الزواج، يكون «الفوز» إقامة رابطة مدى الحياة، و«الخسارة» تقرير أنهما ليسا مقدَّرين لبعضهما."
- },
- "7d7689771f34": {
-  "en": "Sub 4) The accepted UOM for transactions shall be the Vraki OUM across all kingdoms.",
-  "t": "الفقرة 4) تكون وحدة القياس (UOM) المعتمدة للمعاملات في كل الممالك هي وحدة قياس فراكي (OUM)."
  },
  "8a9356ede77d": {
   "en": "Section #3",
@@ -226,10 +226,6 @@
  "a8d6aed71f1e": {
   "en": "Sub 1) All cities and Kingdoms are prohibited from mass producing an item for trading if it does not have a comparative advantage over a given good in its economic region. Violation is subjected to forfeiture and hefty fines as a percentage of a given kingdom's earnings.",
   "t": "الفقرة 1) يُحظر على كل المدن والممالك الإنتاج الضخم لسلعة للتجارة إن لم تكن لها ميزة نسبية على سلعة معينة في منطقتها الاقتصادية. وتخضع المخالفة للمصادرة وغرامات باهظة بنسبة من أرباح المملكة المعنية."
- },
- "afb35e64a8e9": {
-  "en": "Sub 2) All services and goods must be exchanged through Ball's currency.",
-  "t": "الفقرة 2) يجب أن تُتبادل كل الخدمات والسلع بعملة الكرات."
  },
  "b169a7688d58": {
   "en": "Loser vs. Winner",
@@ -346,6 +342,10 @@
  "eb1af86e02c7": {
   "en": "The Prosperity Treaty (Prosperity Law)",
   "t": "معاهدة الرخاء (قانون الرخاء)"
+ },
+ "eefc05ace94a": {
+  "en": "Sub 2) All services and goods must be exchanged through Balls currency.",
+  "t": "الفقرة 2) يجب أن تُتبادل كل الخدمات والسلع بعملة الكرات."
  },
  "ef70286eae31": {
   "en": "Temporary detention of kingdom citizens is allowed at most for six weeks, with one of these requirements being met.",

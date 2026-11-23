@@ -105,7 +105,7 @@ def is_category(raw):
     return clean_heading(raw).startswith('--')
 
 def category_name(raw):
-    return clean_heading(raw).strip('- ').strip()
+    return clean_heading(raw).strip('-—– ').strip()   # some headings close with an em dash instead of --
 
 def norm(s):
     s = re.sub(r'\{[^}]*\}', '', s.lower())
@@ -156,6 +156,19 @@ def first_sentences(text, n=220):
     if ends and ends[-1] > 60:
         return cut[:ends[-1]]
     return cut[:n].rsplit(' ', 1)[0].rstrip(',;:—-') + '…'
+
+def bullets_as_sentences(md):
+    """List items as plain sentences, for one-line blurbs: "- Size: 2 cm" -> "Size: 2 cm."."""
+    out = []
+    for l in md.split('\n'):
+        m = re.match(r'\s*[-*]\s+(.*)', l)
+        if m:
+            l = m.group(1).rstrip()
+            if l and not re.search(r'[.!?:;…)"”]$', l):
+                l += '.'
+        out.append(l)
+    return '\n'.join(out)
+
 
 def prose_only(md):
     """Markdown minus headings, pictures and rules, so a blurb starts with real sentences
@@ -444,6 +457,33 @@ def parse_lore(path):
         del b['lines']
     return blocks, refs
 
+ABRIDGED = os.path.join(CONTENT, 'bts')   # abridged Behind The Scenes text (issue #103)
+
+def load_abridged(src):
+    """The abridged version of a Behind The Scenes doc, if there is one: {norm(entry title): Markdown}.
+    content/bts/<same path as under Legacy/Behind The Scenes>, with one "# <entry title>" per abridged entry
+    ("# <category> › <entry title>" when the same title appears under two categories).
+    "# _intro" replaces the doc's intro (empty hides it). Entries not listed fall back to the raw Legacy text."""
+    path = os.path.join(ABRIDGED, src)
+    if not os.path.exists(path):
+        return {}
+    text = open(path, encoding='utf-8').read()
+    text = re.sub(r'^---\n.*?\n---\n', '', text, count=1, flags=re.S)   # front matter: notes for editors
+    out, cur = {}, None
+    for line in text.split('\n'):
+        m = re.match(r'^# (.+?)\s*$', line)
+        if m:
+            h = m.group(1)
+            # "# <category> › <entry>" scopes an entry whose title repeats under another category
+            cur = '_intro' if h == '_intro' else '/'.join(norm(x) for x in h.split(' › ', 1))
+            out[cur] = []
+        elif cur is not None:
+            out[cur].append(line)
+    return {k: '\n'.join(v).strip('\n') for k, v in out.items()}
+
+ABRIDGED_NOTE = ('<p class="abridged-note">Abridged from the author\'s original notes with the help of AI: his ramblings and '
+                 'brain dumps rewritten into a more readable form. The original notes are below, and kept in the repository.</p>')
+
 WD_RE = re.compile(r'^(\s*)[*-] \*\*(?:Website Description|Web Description)\*\*\s*$', re.I)
 
 def extract_website_description(body):
@@ -579,8 +619,50 @@ class Builder:
         return (f'<figure class="art"><a class="img-link" href="{info["url"]}" data-full="{info["url"]}">'
                 f'<img src="{info["thumb"]}" alt="{esc(alt)}" loading="lazy"{w}></a>{cap}</figure>')
 
+    def abridged_block(self, abridged_md, raw_md, refs, origin, ids=None):
+        """Abridged Behind The Scenes text (issue #103), the AI note, and the raw notes behind a toggle (kept in English)."""
+        html_out = self.md_bts_block(abridged_md, refs, origin, ids=ids) + ABRIDGED_NOTE
+        if raw_md.strip():   # a section heading with no raw notes of its own has nothing to show
+            raw_html = self.md_bts_block(raw_md, refs, origin)
+            html_out += f'<details class="raw-notes" translate="no" lang="en"><summary>Show the original notes</summary>{raw_html}</details>'
+        return html_out
+
     def md_bts_block(self, md, refs, origin, ids=None):
         return self.r.render(fix_typos(md, origin), base=os.path.join(ROOT, os.path.dirname(origin)), origin=origin, refs=refs, ids=ids)
+
+    def story_notes_abridged(self, path, src, abridged):
+        """A story-notes page with its abridged text (issue #103): each book (category) and chapter (entry)
+        becomes its own section, abridged where content/bts has it, with the raw notes behind a toggle."""
+        blocks, refs = parse_lore(path)
+        origin = rel(path)
+        # the notes open with a "# SPOILER WARNING!" heading: that's the doc's intro, not a chapter
+        if len(blocks) > 1 and not blocks[0]['body'].strip() and blocks[1]['kind'] == 'entry' \
+                and blocks[1]['title'].lower().startswith('spoiler warning'):
+            blocks[0]['body'] = f"**{blocks[1]['title']}**\n\n{blocks[1]['body']}"
+            del blocks[1]
+        out, category, used = [], None, set()
+        for b in blocks:
+            if b['kind'] == 'intro':
+                ab = abridged.get('_intro')
+            elif b['kind'] == 'entry' and category and f"{norm(category['title'])}/{norm(b['title'])}" in abridged:
+                ab = abridged[f"{norm(category['title'])}/{norm(b['title'])}"]
+            else:
+                ab = abridged.get(norm(b['title']))
+            used.update(k for k, v in abridged.items() if v is ab)
+            if b['kind'] == 'category':
+                category = b
+                anchor = 'cat-' + slugify(b['title'])
+                out.append(f'<h2 class="category" id="{anchor}">{esc(b["title"])}</h2>')
+            elif b['kind'] == 'entry':
+                anchor = slugify(f"{category['title']} {b['title']}" if category else b['title'])
+                out.append(f'<h3 id="{anchor}">{esc(b["title"])}</h3>')
+            if ab is not None:
+                out.append(self.abridged_block(ab, b['body'], refs, origin))
+            elif b['body'].strip():
+                out.append(self.md_bts_block(b['body'], refs, origin))
+        for k in abridged.keys() - used:
+            print(f'warning: abridged section "{k}" in content/bts/{src} matches no book or chapter', file=sys.stderr)
+        return '\n'.join(out)
 
     # ---- lore topics
     def build_topic(self, t):
@@ -600,10 +682,20 @@ class Builder:
             page.sources.append(rel(path))
             blocks, refs = parse_lore(path)
             origin = rel(path)
-            category = None
+            abridged = load_abridged(src)
+            category, used = None, set()
             for b in blocks:
                 b['origin'], b['refs'] = origin, refs
                 if b['kind'] == 'intro':
+                    b['abridged'] = abridged.get('_intro')
+                elif b['kind'] == 'entry' and category and f"{norm(category['title'])}/{norm(b['title'])}" in abridged:
+                    b['abridged'] = abridged[f"{norm(category['title'])}/{norm(b['title'])}"]
+                else:
+                    b['abridged'] = abridged.get(norm(b['title']))
+                used.update(k for k, v in abridged.items() if v is b['abridged'])
+                if b['kind'] == 'intro':
+                    if b['abridged'] is not None:
+                        b['body'] = b['abridged']   # the intro is replaced outright (often a note to self)
                     if b['body'].strip():
                         intro_bts.append(b)
                 elif b['kind'] == 'category':
@@ -616,6 +708,8 @@ class Builder:
                         category['entries'].append(b)
                     else:
                         entries.append(b)
+            for k in abridged.keys() - used:   # a heading in content/bts that matches no category or entry
+                print(f'warning: abridged section "{k}" in content/bts/{src} matches no category or entry', file=sys.stderr)
         # A to Z within each category (author's rule, see CLAUDE.md). Notes about the docs themselves
         # (Documentation Notation, Distance Cost Tier, Isekai History) stay first. Topics whose order means
         # something (a timeline, tiers, colour order) set "order": "source" in content/site.json.
@@ -692,8 +786,10 @@ class Builder:
                 anchor = 'cat-' + slugify(b['title'])
                 body.append(f'<h2 class="category layer {cls}" id="{anchor}">{esc(b["title"])}</h2>')
                 page.toc.append((anchor, b['title'], cls, 'cat'))
-                if b['body'].strip():
-                    body.append(f'<div class="layer bts cat-notes">{self.md_bts_block(b["body"], b["refs"], b["origin"])}</div>')
+                if b['body'].strip() or b.get('abridged'):
+                    notes = (self.abridged_block(b['abridged'], b['body'], b['refs'], b['origin']) if b.get('abridged')
+                             else self.md_bts_block(b["body"], b["refs"], b["origin"]))
+                    body.append(f'<div class="layer bts cat-notes">{notes}</div>')
                     page.md_bts += f'## {b["title"]}\n\n{b["body"]}\n\n'
                 else:
                     page.md_bts += f'## {b["title"]}\n\n'
@@ -741,7 +837,10 @@ class Builder:
                          f'<p class="src src-pub">Public text: {esc(pub_src)}</p></div>')
             if rest.strip() or wd:
                 bts_md = rest if pub_md == wd else e['body']
-                bts_html = self.md_bts_block(bts_md, e["refs"], e["origin"], ids=ids)
+                if e.get('abridged'):
+                    bts_html = self.abridged_block(e['abridged'], bts_md, e["refs"], e["origin"], ids=ids)
+                else:
+                    bts_html = self.md_bts_block(bts_md, e["refs"], e["origin"], ids=ids)
                 if t.get('glyph_tables'):
                     bts_html = glyph_grids(bts_html, e['title'])
                 if e['title'] == t.get('scribe_in'):
@@ -751,7 +850,8 @@ class Builder:
                     if info:
                         self.used_art.add(info['src'])
                         bts_html += self.figure(info, os.path.splitext(os.path.basename(ap))[0]).replace('<figure class="art">', '<figure class="art wide">')
-                h.append(f'<div class="layer bts">{"" if pub_md else fig}<p class="bts-label">Behind the Scenes · full notes</p>'
+                label = 'Behind the Scenes · notes, abridged' if e.get('abridged') else 'Behind the Scenes · full notes'
+                h.append(f'<div class="layer bts">{"" if pub_md else fig}<p class="bts-label">{label}</p>'
                          f'{bts_html}'
                          f'<p class="src">Source: <a href="{gh_link(os.path.join(ROOT, e["origin"]))}">{esc(e["origin"])}</a></p></div>')
             h.append('</section>')
@@ -759,13 +859,14 @@ class Builder:
             if pub_md:
                 page.md_public += f'### {e["title"]}\n\n{pub_md}\n\n'
             page.md_bts += f'### {e["title"]}\n\n{e["body"]}\n\n'
-            gl_desc = first_sentences(prose_only(pub_md)) if pub_md else first_sentences(prose_only(rest))
+            gl_desc = (first_sentences(prose_only(pub_md)) if pub_md   # public text, in the author's words
+                       else first_sentences(bullets_as_sentences(prose_only(e.get('abridged') or rest))))   # else the abridged BTS text (#103)
             if not is_meta:
                 self.glossary.append({'term': e['title'], 'topic': t['title'], 'url': url + '#' + anchor,
                                       'public': bool(pub_md), 'desc': gl_desc,
                                       'category': (e.get('category') or {}).get('title', '')})
             page.search.append({'t': e['title'], 'u': url + '#' + anchor, 's': t['title'],
-                                'x': first_sentences(pub_md or '', 300), 'xb': first_sentences(e['body'], 400),
+                                'x': first_sentences(pub_md or '', 300), 'xb': first_sentences(e.get('abridged') or e['body'], 400),
                                 'b': layer == 'bts'})
             section = t['title'] if norm(e['title']) == norm(t['title']) else f'{t["title"]} · {e["title"]}'
             page.search.extend(sub_heading_search(pub_html, bts_html, url, section,
@@ -1041,8 +1142,14 @@ class Builder:
             url = f'/novel/{n["slug"]}/'
             p = Page(url, n['title'], 'Light Novel', layer='bts')
             p.sources.append(rel(path))
+            abridged = load_abridged(n['source'])
+            if abridged:
+                body_html = self.story_notes_abridged(path, n['source'], abridged)
+            else:
+                body_html = self.r.render(fix_typos(text, rel(path)), base=os.path.dirname(path), origin=rel(path), refs=refs)
+            label = 'Behind the Scenes · story notes, abridged' if abridged else 'Behind the Scenes · story notes'
             p.html = (f'<h1>{esc(n["title"])}</h1>' + bts_gate('These are the author\'s story notes, including unreleased arcs.') +
-                      f'<div class="layer bts"><p class="bts-label">Behind the Scenes · story notes</p>{self.r.render(fix_typos(text, rel(path)), base=os.path.dirname(path), origin=rel(path), refs=refs)}'
+                      f'<div class="layer bts"><p class="bts-label">{label}</p>{body_html}'
                       f'<p class="src">Source: <a href="{gh_link(path)}">{esc(rel(path))}</a></p></div>')
             p.md_bts = text
             p.desc = f'{n["title"]}: the author\'s story notes (spoilers).'
@@ -1234,7 +1341,8 @@ class Builder:
                 audio = ('<div class="pronounce"><p><strong>Hear it from the author.</strong> A short recording of how the series\' unique words are said.</p>'
                          f'<audio controls preload="none" src="/media/{src_name}"></audio></div>')
         letters = sorted({g['term'][0].upper() for g in terms if g['term'][0].isalpha()})
-        parts = ['<h1>Glossary</h1>', '<p class="lede">Every named thing in the World Lore, A to Z. Each one links to its entry.</p>', audio,
+        parts = ['<h1>Glossary</h1>', '<p class="lede">Every named thing in the World Lore, A to Z. Each one links to its entry.</p>',
+                 '<p class="layer bts muted">Behind the Scenes descriptions come from the abridged notes, written with the help of AI; each entry keeps the original notes.</p>', audio,
                  '<input class="filter" type="search" placeholder="Filter terms…" aria-label="Filter terms" data-filter=".glossary li">',
                  '<nav class="letters">' + ''.join(f'<a href="#l-{c}">{c}</a>' for c in letters) + '</nav><ul class="glossary">']
         md = ['# Glossary\n']

@@ -63,6 +63,10 @@
   "en": "Defenders cannot move from their position and must withstand the brunt of the attack but can counter or attack back if they do not move from their location.",
   "t": "防御側は自分の位置から動いてはならず、攻撃を真正面から受け止めなければならないが、その場から動かなければ反撃や応戦はできる。"
  },
+ "2bfc57e15ee9": {
+  "en": "A turn only encompasses ONE attack, such as a single weapon swing, a stab, or a fist punch.",
+  "t": "1回の手番に含まれるのは、武器の一振り、一突き、一発のパンチなど、1回の攻撃だけである。"
+ },
  "2d753779301b": {
   "en": "King-Fest Addendum",
   "t": "キングフェストの補則"
@@ -118,10 +122,6 @@
  "4b5e84be0e45": {
   "en": "Check",
   "t": "確認"
- },
- "4d92136bafac": {
-  "en": "A turn only encompasses ONE attack, such as a single weapon swing, a stab, or a first punch.",
-  "t": "1回の手番に含まれるのは、武器の一振り、一突き、最初の一発のパンチなど、1回の攻撃だけである。"
  },
  "521d044bb4e3": {
   "en": "Sub 1) Essential goods to the four kingdoms' safety, commonwealth, and stability will be managed by Forway to reduce costs and improve trading. Subsidies shall be funded with taxpayer money.",
@@ -179,6 +179,10 @@
   "en": "Section #1",
   "t": "第1条"
  },
+ "7ba0ff79f7b2": {
+  "en": "Sub 4) The accepted UOM for transactions shall be the Vraki UOM across all kingdoms.",
+  "t": "第4項）すべての王国で取引に認められる度量衡は、ヴラキの度量衡とする。"
+ },
  "7c197735d0f3": {
   "en": "The duelers switch roles (attacker vs. defender) on every turn.",
   "t": "決闘者は手番ごとに役割（攻撃側と防御側）を入れ替える。"
@@ -186,10 +190,6 @@
  "7c259436798e": {
   "en": "For marriage duels, a “win” is establishing a lifelong bond, and “loss” is determining they aren’t meant for each other.",
   "t": "結婚の決闘では、「勝ち」は生涯の絆を結ぶことであり、「負け」は互いに相手にふさわしくないと決めることである。"
- },
- "7d7689771f34": {
-  "en": "Sub 4) The accepted UOM for transactions shall be the Vraki OUM across all kingdoms.",
-  "t": "第4項）すべての王国で取引に認められる度量衡は、ヴラキの度量衡とする。"
  },
  "8a9356ede77d": {
   "en": "Section #3",
@@ -226,10 +226,6 @@
  "a8d6aed71f1e": {
   "en": "Sub 1) All cities and Kingdoms are prohibited from mass producing an item for trading if it does not have a comparative advantage over a given good in its economic region. Violation is subjected to forfeiture and hefty fines as a percentage of a given kingdom's earnings.",
   "t": "第1項）すべての都市と王国は、自らの経済圏で特定の品物に対する比較優位を持たない場合、交易のためにその品を大量生産することを禁じられる。違反した場合は没収と、王国の収益に対する割合での高額な罰金が科される。"
- },
- "afb35e64a8e9": {
-  "en": "Sub 2) All services and goods must be exchanged through Ball's currency.",
-  "t": "第2項）すべてのサービスと品物は、ボール通貨で交換しなければならない。"
  },
  "b169a7688d58": {
   "en": "Loser vs. Winner",
@@ -346,6 +342,10 @@
  "eb1af86e02c7": {
   "en": "The Prosperity Treaty (Prosperity Law)",
   "t": "プロスペリティ・トリーティ（プロスペリティ・ロー）"
+ },
+ "eefc05ace94a": {
+  "en": "Sub 2) All services and goods must be exchanged through Balls currency.",
+  "t": "第2項）すべてのサービスと品物は、ボール通貨で交換しなければならない。"
  },
  "ef70286eae31": {
   "en": "Temporary detention of kingdom citizens is allowed at most for six weeks, with one of these requirements being met.",

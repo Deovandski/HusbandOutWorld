@@ -392,3 +392,8 @@ html[dir="rtl"] .layer.bts:not(.entry):not(h2):not(li):not(ul):not(.topic-card):
 html[dir="rtl"] .mode-switch .knob::after { left: auto; right: 2px; }
 html[dir="rtl"][data-mode="bts"] .mode-switch .knob::after { transform: translateX(-16px); }
 html[dir="rtl"] .pager .prev, html[dir="rtl"] .pager .next { direction: rtl; }
+/* abridged Behind The Scenes text (issue #103): the AI-assisted note and the raw notes toggle */
+.abridged-note { font: 13px var(--sans); color: var(--ink2); border-left: 3px solid var(--line); padding: .3rem .7rem; margin: 1.2rem 0 .6rem; }
+.raw-notes { margin: .4rem 0 1rem; border: 1px solid var(--line); border-radius: var(--radius); padding: .5rem .9rem; }
+.raw-notes > summary { cursor: pointer; font: 600 14px var(--sans); color: var(--ink2); }
+.raw-notes[open] > summary { margin-bottom: .6rem; }

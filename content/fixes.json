@@ -32,6 +32,11 @@
       "find": "Interface action. See [Soul Energy Interfaces](https://drive.google.com/drive/folders/1TT6vrtFEBw978eQbAbDNOt_WKXqYurn7)",
       "replace": "Interface action. See [Darfaries Interface](/lore/darfaries-interface/)",
       "why": "The Google Drive folder no longer exists; this links to the matching interface page on this website instead."
+    },
+    {
+      "find": "| **\\\\** | **\\+** | **\\-** | **\\*** | % |  |\n| ![][image47] | ![][image48] | ![][image48] | ![][image49] | ![][image49] |  |",
+      "replace": "| **\\\\** | **\\+** | **\\*** |  |  |  |\n| ![][image47] | ![][image48] | ![][image49] |  |  |  |",
+      "why": "The author's decision (issue #103, L3): \"-\" and \"%\" reused the \"+\" and \"*\" pictures by mistake (their real glyphs were added later), so they are removed from the hand-drawn originals."
     }
   ],
   "Legacy/Public/afterwords.md": [
@@ -77,6 +82,327 @@
       "find": "Video versions\n\nApplying command\n\n  \n\nFeeding energy\n\n  \n  \n  \n\n## Using The Interface - Release\n\nTo release the spell, unclench the fingers. To add motion to the spell, cock your arm, then throw it towards the target to transfer the inertia into the spell.\n",
       "replace": "## Using The Interface - Release\n\nTo release the spell, unclench the fingers. To add motion to the spell, cock your arm, then throw it towards the target to transfer the inertia into the spell.\n\n#### Darfaries Interface Video showcase\n\n![Full Darfaries Interface - Sigil and Nari stone mode](Videos/Full%20Darfaries%20Interface%20-Sigil%20and%20Nari%20stone%20mode%20.mp4)\n\n![Full Darfaries Interface - scribling and soul energy stone mode](Videos/Full%20Darfaries%20Interface%20-%20scribling%20and%20soul%20energy%20stone%20mode.mp4)\n",
       "why": "The blog's videos never made it into the doc (only their labels did). The author supplied them (issue #78): the empty \"Video versions\" labels are removed and the two videos get their own section after Using The Interface - Release. It is a level-4 heading so it stays right under that section instead of being matched to the \"Darfaries Interface\" entry."
+    }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Economy.md": [
+    {
+      "find": "[Economy Calculator](https://docs.google.com/spreadsheets/d/1B2yVrHxkGOt3NyOCpsv9X4KACSwIW1pqzUheZw43e1s/edit#gid=166097431)",
+      "replace": "[Economy Calculator](Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx)",
+      "why": "Points to the spreadsheet's copy in this repository instead of Google Drive (the author's rule: link to the website or the repository, not Google Drive)."
+    }
+  ],
+  "Legacy/Behind The Scenes/World Lore/World Map, Name, Vraki Calendar & UOM, etc.md": [
+    {
+      "find": "[World Calendar & UOM.](https://docs.google.com/spreadsheets/d/1tJy2C_-z7Xsqmm1GEYcYjMLbCUYr6D0gb0TM2Vo5200/edit#gid=1805800130)",
+      "replace": "[World Calendar & UOM.](Legacy/Behind%20The%20Scenes/Spreadsheets/World%20Calendar%20%26%20UOM.xlsx)",
+      "why": "Points to the spreadsheet's copy in this repository instead of Google Drive (the author's rule: link to the website or the repository, not Google Drive)."
+    },
+    {
+      "find": "[Isekai World Calendar](https://docs.google.com/spreadsheets/d/1tJy2C_-z7Xsqmm1GEYcYjMLbCUYr6D0gb0TM2Vo5200/edit#gid=0)",
+      "replace": "[Isekai World Calendar](Legacy/Behind%20The%20Scenes/Spreadsheets/World%20Calendar%20%26%20UOM.xlsx)",
+      "why": "Points to the spreadsheet's copy in this repository instead of Google Drive (the author's rule: link to the website or the repository, not Google Drive)."
+    },
+    {
+      "find": "prosperity treaty came into effect in 671 A.G.",
+      "replace": "prosperity treaty came into effect in 680 A.G.",
+      "why": "The author's decision (issue #103, W3): the World Timeline's 680 A.G. is the official year the Prosperity Treaty came into effect."
+    }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Races.md": [
+    {
+      "find": "[Race Soul Average](https://docs.google.com/spreadsheets/d/1q9UrwKl55S2Re40Ll8fPAq2Hu42qh93gK2v6FgDcSy0/edit#gid=1088297602)",
+      "replace": "[Race Soul Average](Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Soul%20Energy.xlsx)",
+      "why": "Points to the spreadsheet's copy in this repository (sheet \"Race Soul Avg\") instead of Google Sheets (the author's rule: link to the website or the repository, not Google Drive)."
+    }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Professions.md": [
+    {
+      "find": "# **Innkeeper & Barkeppers**",
+      "replace": "# **Innkeeper & Barkeepers**",
+      "why": "The author's decision (issue #103, P3): typo fix."
+    }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Laws and Treaties.md": [
+    {
+      "find": "the Vraki OUM",
+      "replace": "the Vraki UOM",
+      "why": "The author's decision (issue #103, LT1): typo fix."
+    },
+    {
+      "find": "through Ball's currency",
+      "replace": "through Balls currency",
+      "why": "The author's decision (issue #103, LT1): typo fix."
+    },
+    {
+      "find": "or a first punch",
+      "replace": "or a fist punch",
+      "why": "The author's decision (issue #103, LT1): typo fix."
+    }
+  ],
+  "Legacy/Public/law-treaties.md": [
+    {
+      "find": "the Vraki OUM",
+      "replace": "the Vraki UOM",
+      "why": "The author's decision (issue #103, LT1): typo fix."
+    },
+    {
+      "find": "through Ball's currency",
+      "replace": "through Balls currency",
+      "why": "The author's decision (issue #103, LT1): typo fix."
+    },
+    {
+      "find": "or a first punch",
+      "replace": "or a fist punch",
+      "why": "The author's decision (issue #103, LT1): typo fix."
+    }
+  ],
+  "Legacy/Behind The Scenes/World Lore/City.md": [
+    {
+      "find": "Between Sanbi/Tolerideme due to colder weather.",
+      "replace": "Between Sanbi/Tolerideme: warm and humid, but colder at night than Sanbi (not as cold as Tolerideme).",
+      "why": "The author's decision (issue #103, City C4): Endlessfog is warm and humid all year; it only gets colder at night than Sanbi, not as cold as Tolerideme."
+    },
+    {
+      "find": "    * Located at the city center.  \n    * Entrance to the palace requires a badge",
+      "replace": "    * Also known as the Black Tower: the giant tower at the center of Forway, where all business and admin flows through. People casually call it the Forway castle.  \n    * Located at the city center.  \n    * Entrance to the palace requires a badge",
+      "why": "Author's ruling (A3-20, 2026-11-23): Forway Palace is the official name; the Black Tower is its common nickname, and Forway castle (Vol 1) is a casual way people refer to it."
+    }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Fauna.md": [
+    {
+      "find": "  * ### **Ptaina Fish Roe**\n\n    * **Isekai History**  \n      * A treat to some.  \n    * **Visual Reference**  \n      * ![][image32]  \n* **Tastes Like**  \n  * Tuna  \n* **Alimentation**  \n  * Gulps down smaller fish  \n* **Intelligence**  \n  * Tuna/Shark  \n* **Stats**  \n  * **Reproduction**  \n    * Tens of Sanbies per year.",
+      "replace": "  * ### **Ptaina Fish Roe**\n\n    * **Isekai History**  \n      * A treat to some.  \n    * **Visual Reference**  \n      * ![][image32]  \n* **Tastes Like**  \n  * Tuna  \n* **Alimentation**  \n  * Gulps down smaller fish  \n* **Intelligence**  \n  * Tuna/Shark  \n* **Stats**  \n  * **Reproduction**  \n    * Hundreds of Ptainas per year, but most become food for other fish along the way.",
+      "why": "Ptaina's reproduction was copied from the Sanbi entry; the author's correction, made official (issue #103)."
+    },
+    {
+      "find": "35km @ \\~20% Load (Max Load of \\~180 kilos)  \n* **Soul Energy Capabilities**",
+      "replace": "35km @ \\~20% Load (Max Load of \\~180 kilos)  \n    * Strain: the share of the Egua's \\~900 kg body weight it works against (more weight or more speed, more strain). Up to \\~10% all day, \\~20% at most.  \n      * Carrying on its back: strain = load ÷ 900 kg.  \n      * Pulling a cart: strain = (cart + cargo + driver) × road factor ÷ 900 kg. Road factor: 0.05 on a good road, 0.10 on a dirt road, 0.15 in mud or sand.  \n      * Distance a day ≈ distance at \\~10% × (10% ÷ strain), never more than \\~65 km.  \n* **Soul Energy Capabilities**",
+      "why": "The Egua load rule (strain) the author approved and made official (issue #103; see content/bts/qa/World Lore/Fauna - Egua load proposal.md)."
+    },
+    {
+      "find": "(\\~0.4x load \\~ 240kg.)",
+      "replace": "(\\~0.4x an adult: \\~360kg body weight, \\~36kg comfortable on its back, \\~72kg at most.)",
+      "why": "Child Egua loads under the official Egua load rule (issue #103)."
+    }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Beasts.md": [
+    {
+      "find": "  * Forway uses them for \n",
+      "replace": "  * Forway guards ride them to fly around without having to use a nari gel themselves to achieve flight. They are used for quick transportation of goods, scouting and flyovers.  \n",
+      "why": "Finishes the sentence with the author's answer (issue #103, Beasts Q&A B1), made official."
+    },
+    {
+      "find": "      * Due to how hard it is to get,   \n",
+      "replace": "      * Due to how hard it is to get: Flingas usually don't land south of Hifuna, fly high, and are evasive too.  \n",
+      "why": "Finishes the sentence with the author's answer (issue #103, Beasts Q&A B1), made official."
+    },
+    {
+      "find": "    * Every year around 5 Big Winga eggs are laid.  \n  * **Other**  \n    * None.  \n* **Soul Energy Capabilities**  \n  * **Interface**  \n    * Head feathers  \n  * **Skills**  \n    * Generate Light  \n    * Sense Lifeforms  \n    * Generate Air Shield",
+      "replace": "    * Every year around 5 Big Winga eggs are laid (somewhere in between Wingas and Flingas).  \n  * **Other**  \n    * None.  \n* **Soul Energy Capabilities**  \n  * **Interface**  \n    * Head feathers  \n  * **Skills**  \n    * Sense Lifeforms  \n    * Generate Air Shield  \n    * Louder than usual Shriek  \n    * Making the beak/claws cut through anything by strengthening it to diamond level.",
+      "why": "Big Wingas inherit the Winga's skills, not the Flinga's, and their birth cycle sits between the two (issue #103, Beasts Q&A B2), made official."
+    },
+    {
+      "find": "Every year around 2 macaws eggs are laid.",
+      "replace": "Every year around 2 Flinga eggs are laid.",
+      "why": "\"macaws\" was a leftover from the Big Winga entry (issue #103, Beasts Q&A B2), made official."
+    }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Flora.md": [
+    {
+      "find": "  * ### **Soul Wood**\n\n    * **Isekai History**  \n      * Has a dark color to it, and is dense",
+      "replace": "  * ### **Black Wood**\n\n    * **Isekai History**  \n      * Has a dark color to it, and is dense",
+      "why": "The Black Sapphire Tree's product is black wood; \"Soul Wood\" was a leftover from the Soul Tree entry (issue #103, Natural and Crafted Resources Q&A R3), made official."
+    }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Novels.md": [
+    {
+      "find": "  * \\~960 B.G. \\- \\~940 B.G.",
+      "replace": "  * \\~939 B.G. \\- \\~920 B.G.",
+      "why": "Logical Arrow moves after 939 B.G., when Walking Heart stones were found (issue #103, Novels Q&A NV2), made official."
+    },
+    {
+      "find": "  * \\~840 B.G. \\- \\~850 B.G.",
+      "replace": "  * \\~840 A.G. \\- \\~850 A.G.",
+      "why": "The Sapphire Counter is A.G.: the balls currency came after the Prosperity Treaty (issue #103, Novels Q&A NV3), made official."
+    }
+  ],
+  "Legacy/Behind The Scenes/World Lore/World Timeline.md": [
+    {
+      "find": "Greedy Humans Period (\\~570 A.G \\- \\~671 A.G.)",
+      "replace": "Greedy Humans Period (\\~570 A.G \\- \\~680 A.G.)",
+      "why": "The Prosperity Treaty starts in 680 A.G., the author's decision W3 (issue #103, see the World Map Q&A)."
+    },
+    {
+      "find": "The Prosperity Treaty Period (\\~671 A.G. \\- Current)",
+      "replace": "The Prosperity Treaty Period (\\~680 A.G. \\- Current)",
+      "why": "The Prosperity Treaty starts in 680 A.G., the author's decision W3 (issue #103, see the World Map Q&A)."
+    },
+    {
+      "find": "The Prosperity Treaty Period (671 \\- Current)",
+      "replace": "The Prosperity Treaty Period (680 \\- Current)",
+      "why": "The Prosperity Treaty starts in 680 A.G., the author's decision W3 (issue #103, see the World Map Q&A)."
+    },
+    {
+      "find": "\\~2,650 B.G. The Buhraies mounted a secret assault through the desert, but the desert killed off most of them. Upon reaching the Fuhraies, the army left over was easily massacred.",
+      "replace": "\\~2,650 B.G. The Finaies mounted a secret assault through the desert to massacre the Fuhraies, but the desert killed off most of them. The Fuhraies holed up inside their newly created mountain, Fuhrair, and the army left over was easily massacred.",
+      "why": "T1: the Finaies mounted the ~2,650 B.G. desert assault; the Fuhraies holed up in Fuhrair (issue #103, World Timeline Q&A), made official."
+    },
+    {
+      "find": "\\~2,650 B.G. The Buhraies mounted a secret assault through the desert, but the desert took care of most of them, leaving the Fuhraies to easily defend themselves.",
+      "replace": "\\~2,650 B.G. The Finaies mounted a secret assault through the desert to massacre the Fuhraies, but the desert took care of most of them. The Fuhraies holed up inside their newly created mountain, Fuhrair, and easily defended themselves.",
+      "why": "T1, as above, made official."
+    },
+    {
+      "find": "Frustrated that the subjugation of the Fuhraies had gone nowhere",
+      "replace": "Frustrated that the subjugation of the Lishies had gone nowhere",
+      "why": "T2: the failed subjugation was the Lishies' (issue #103, World Timeline Q&A), made official."
+    },
+    {
+      "find": "## **Transformation Time (\\~200 B.G. \\- \\~270 A.G.)**",
+      "replace": "## **Transformation Time (\\~805 B.G. \\- \\~270 A.G.)**",
+      "why": "T3: the Transformation Time starts ~805 B.G. (issue #103, World Timeline Q&A), made official."
+    },
+    {
+      "find": "* **Lishies & Buhraies Shift Period (\\~805 B.G \\- \\~0 A.G.)**  \n",
+      "replace": "* **Lishies & Buhraies Shift Period (\\~805 B.G \\- \\~0 A.G.)**  \n  * Smaller changes started around \\~805 B.G., but the new species really started to form and shape strongly around \\~300 into \\~200 B.G.  \n",
+      "why": "T3: the author's note on when the species took shape (issue #103, World Timeline Q&A), made official."
+    },
+    {
+      "find": "  * That was when the first king (Gandew) established the Goodbye Cliff, where all Wozefaries & Sorefaries were sent flying towards Flatland. Anyone who does not accept such methodology must leave.",
+      "replace": "  * That was when the first king (Gandew) established the Goodbye Cliff, where all Wozefaries & Sorefaries were sent flying towards Flatland. Anyone who does not accept such methodology must leave.  \n  * With the ancient species kicked out, the Darfaries named the mountain Gandew after their first king, claiming it as their own.",
+      "why": "The author's decision on how the desert mountain got its name (issue #103, World Timeline Q&A, T1 follow-up), made official."
+    }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Characters.md": [
+    {
+      "find": "1004 A.G. Asa 64th",
+      "replace": "993 A.G. Asa 64th",
+      "why": "Akemi's birthday moved so she had Magi at 26 (the author's decision, issue #103, Characters Q&A CH3), made official."
+    },
+    {
+      "find": "1017 A.G. Asa 80th",
+      "replace": "1019 A.G. Asa 80th",
+      "why": "Katsuki and Katsumi are 20 in Book 4 (1039 A.G.), the author's decision (issue #103, Characters Q&A CH5)."
+    },
+    {
+      "find": "974 A.G. Paulin 69th",
+      "replace": "979 A.G. Paulin 69th",
+      "why": "Ryo is 60 in Book 2 (1039 A.G.), the author's decision (issue #103, Characters Q&A CH6)."
+    },
+    {
+      "find": "1015 A.G. Paulin 28th",
+      "replace": "1004 A.G. Paulin 28th",
+      "why": "Nailah is of age (20) when Vitor is born in 1025 A.G., the author's decision (issue #103, Characters Q&A CH9)."
+    },
+    {
+      "find": "1017 A.G. Paulin 74th",
+      "replace": "1017 A.G. Asa 10th",
+      "why": "Eiri's birthday is Asa 10th, as her backstory says, the author's decision (issue #103, Characters Q&A CH14), made official."
+    },
+    {
+      "find": "1025 A.G Moacir 75th",
+      "replace": "1020 A.G Moacir 75th",
+      "why": "Sora is of age (18) in Books 1 and 2 (1039 A.G.), the author's decision (issue #103, Characters Q&A CH15), made official; no novel gives her age."
+    },
+    {
+      "find": "**Age**: 14  \n    * **Height**: 145cm",
+      "replace": "**Age**: 18  \n    * **Height**: 145cm",
+      "why": "Sora is of age (18) in Books 1 and 2 (1039 A.G.), the author's decision (issue #103, Characters Q&A CH15), made official; no novel gives her age."
+    },
+    {
+      "find": "989 A.G. Adrian 25th",
+      "replace": "979 A.G. Adrian 25th",
+      "why": "Naunet was born in 979 A.G.; 989 was a typo (the author's decision, issue #103, Characters Q&A CH17), made official."
+    },
+    {
+      "find": "  * On 1,034 A.G. she had an affair and child with Alford",
+      "replace": "  * On 1,031 A.G. she had an affair and child with Alford",
+      "why": "Aurora had Alford's child about 8 years before 1039 A.G., as Alford's notes say (the author's decision, issue #103, Characters Q&A CH20), made official."
+    },
+    {
+      "find": "# **\\--Sanbi--**\n\n# **Itagiba Sanbi Royal**",
+      "replace": "# **\\--Sanbi--**\n\n# **Lick**\n\n* **Description**  \n  * A round, and hairy dude who goes by “Lick, from the guild My-veiny-balls”, a prank name. He does not reveal his actual name to anyone and refuses to sign contracts, but he is a master craftsman so people put up with his bullshit.  \n  * He is the distributor behind the Harry Nari gels coming out of Sanbi. He sells them so cheap that nobody knows how he turns a profit, and looked as if he had zero experience trading (Arc \\#4, Books 14 & 15).  \n* **Race**  \n  * WIP  \n* **Birthday**  \n  * WIP  \n* **Sexuality**  \n  * WIP  \n* **Myers-Briggs Type**  \n  * WIP  \n* **Interface**  \n  * WIP  \n\n# **Itagiba Sanbi Royal**",
+      "why": "Author's ruling (Arc #4 A4-15, 2026-11-23): new character entry for Lick, the prank-named master craftsman; unknown details stay WIP."
+    }
+  ],
+  "Legacy/Public/characters.md": [
+    {
+      "find": "1004 A.G. Asa 64th",
+      "replace": "993 A.G. Asa 64th",
+      "why": "Akemi's birthday moved so she had Magi at 26 (the author's decision, issue #103, Characters Q&A CH3), made official."
+    },
+    {
+      "find": "1017 A.G. Asa 80th",
+      "replace": "1019 A.G. Asa 80th",
+      "why": "Katsuki and Katsumi are 20 in Book 4 (1039 A.G.), the author's decision (issue #103, Characters Q&A CH5)."
+    },
+    {
+      "find": "974 A.G. Paulin 69th",
+      "replace": "979 A.G. Paulin 69th",
+      "why": "Ryo is 60 in Book 2 (1039 A.G.), the author's decision (issue #103, Characters Q&A CH6)."
+    },
+    {
+      "find": "1015 A.G. Paulin 28th",
+      "replace": "1004 A.G. Paulin 28th",
+      "why": "Nailah is of age (20) when Vitor is born in 1025 A.G., the author's decision (issue #103, Characters Q&A CH9)."
+    },
+    {
+      "find": "1017 A.G. Paulin 74th",
+      "replace": "1017 A.G. Asa 10th",
+      "why": "Eiri's birthday is Asa 10th, as her backstory says, the author's decision (issue #103, Characters Q&A CH14), made official."
+    },
+    {
+      "find": "1025 A.G Moacir 75th",
+      "replace": "1020 A.G Moacir 75th",
+      "why": "Sora is of age (18) in Books 1 and 2 (1039 A.G.), the author's decision (issue #103, Characters Q&A CH15), made official; no novel gives her age."
+    },
+    {
+      "find": "989 A.G. Adrian 25th",
+      "replace": "979 A.G. Adrian 25th",
+      "why": "Naunet was born in 979 A.G.; 989 was a typo (the author's decision, issue #103, Characters Q&A CH17), made official."
+    }
+  ],
+  "Legacy/Behind The Scenes/Light Novel/Arc #3 - Tasty Lie.md": [
+    {
+      "find": "and that’s how this comes up?",
+      "replace": "and that’s how this comes up?  \n  * Author's note: Eori is growing a spine, going through the same process Maiara and Yacamim went through, with Neferteri trying to control the cycle and even growing self-aware of it, but it seems part of her can't stop herself from trying to break the cycle in her favor, while Eori is trying to go through the cycle in her manner and grown up in some sense, although her negative tendencies do accumulate towards her emancipation more than just seeking freedom... In a sense, it is an attempt at control as well.",
+      "why": "Author's ruling (A3-13, 2026-11-23): make the note on Eori's cycle official."
+    },
+    {
+      "find": "swim to the base of Triangle City",
+      "replace": "swim to the base of Waterfall City",
+      "why": "Author's ruling (A3-8, 2026-11-23): Triangle City is wrong; Waterfall City is right (the Cliff Walk is in Waterfall)."
+    }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Embassies & Guilds.md": [
+    {
+      "find": "and the issue of arrest of the Adventurer.**",
+      "replace": "and the issue of arrest of the Adventurer.**  \n      * **Only valid for adventurers doing investigations and with a good lead/information, to prevent adventurers from unnecessarily hogging the badge.**",
+      "why": "Author's ruling (Arc #4 A4-4, 2026-11-23): limit badge retrieval to adventurers investigating with a good lead."
+    }
+  ],
+  "Legacy/Behind The Scenes/Light Novel/Arc #4 - Fishy Conspiracy.md": [
+    {
+      "find": "She continued punching as tears flowed from her eyes.",
+      "replace": "She continued punching as tears flowed from her eyes.  \n  * Author's note: The body is not Arukia. It is a decoy, an already soul-dead corpse made up as Arukia with Nari gel, so no revival would ever work. Blinded by anger, Eori never uses Nari Refresher on it, so she does not find out (the real Arukia is alive with Neferteri, see Book 16). Later, Eori realizes she didn't even do the simple check, and grows regret for having those emotional fits.",
+      "why": "Author's ruling (Arc #4 A4-18/A4-19, 2026-11-23): add the decoy note to the raw notes."
+    },
+    {
+      "find": "how much ? (10,500?) Sapphires would screw her over",
+      "replace": "how much 3 Sapphires would screw her over",
+      "why": "Author's ruling (Arc #4 A4-6, 2026-11-23): losing the badge costs 3 Sapphires."
+    }
+  ],
+  "Legacy/Behind The Scenes/Light Novel/Story Arcs.md": [
+    {
+      "find": "deciding to flee his past as Harry, then ending up with being found, and with Magi’s help, they flee Forway. ",
+      "replace": "deciding to flee his past as Harry. ",
+      "why": "Author's ruling (Story Arcs SA-1, 2026-11-23): the ending (found, fleeing Forway with Magi) belongs to Arc #4."
+    },
+    {
+      "find": "# **Arc \\#4 \\- Fishy Conspiracy**\n\n* ## Vol ? \\- ?\n\n  * ?",
+      "replace": "# **Arc \\#4 \\- Fishy Conspiracy**\n\n* ## Vol ? \\- ?\n\n  * ?  \n  * Ends with Harry being found, and with Magi’s help, they flee Forway.",
+      "why": "Author's ruling (Story Arcs SA-1, 2026-11-23): moved from Arc #3."
     }
   ]
 }
