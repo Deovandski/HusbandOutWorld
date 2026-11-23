@@ -79,6 +79,14 @@
   "en": "Tier VI Professions",
   "t": "Profissões de Nível VI"
  },
+ "0f2afddf1f32": {
+  "en": "<strong>Duties:</strong> extract stone from quarries.",
+  "t": "<strong>Funções:</strong> extrair pedra das pedreiras."
+ },
+ "118ca2335b44": {
+  "en": "<strong>Duties:</strong> prepare for fishing, fish, clean the fish and carry it off the boat.",
+  "t": "<strong>Funções:</strong> preparar a pesca, pescar, limpar o peixe e tirá-lo do barco."
+ },
  "1247f153760d": {
   "en": "Tier II Professions",
   "t": "Profissões de Nível II"
@@ -147,6 +155,10 @@
   "en": "Famous Courtesans",
   "t": "Cortesãs Famosas"
  },
+ "2be7482d961c": {
+  "en": "<strong>Duties:</strong> plow fields, harvest, fertilize and mill grain.",
+  "t": "<strong>Funções:</strong> arar os campos, colher, adubar e moer os grãos."
+ },
  "2c74044a7e3b": {
   "en": "<strong>Duties:</strong> handle livestock and crops, and get dirty on the job. Maybe handle a person or two, but usually just guild members.",
   "t": "<strong>Funções:</strong> lidar com gado e lavouras, e pôr a mão na massa. Talvez lidar com uma ou duas pessoas, mas geralmente só membros da guilda."
@@ -187,6 +199,10 @@
   "en": "Tier V Professions",
   "t": "Profissões de Nível V"
  },
+ "32c032c2d5a1": {
+  "en": "<strong>Duties:</strong> take care of eguas, groom and feed them, and help with egua births.",
+  "t": "<strong>Funções:</strong> cuidar das eguas, escová-las e alimentá-las, e ajudar nos partos das eguas."
+ },
  "32ed08835c99": {
   "en": "Lumberjack",
   "t": "Lenhador"
@@ -215,6 +231,10 @@
   "en": "<strong>Duties:</strong> fix and clean boats.",
   "t": "<strong>Funções:</strong> consertar e limpar barcos."
  },
+ "39973efcf6c4": {
+  "en": "<strong>History:</strong> richer districts of cities and kingdoms often employ street cleaners, usually paid by the people living in the area rather than the government (depending on how the kingdom is organized).",
+  "t": "<strong>História:</strong> os bairros mais ricos das cidades e dos reinos muitas vezes empregam garis, geralmente pagos pelos moradores da área em vez do governo (dependendo de como o reino é organizado)."
+ },
  "3aa5b22c7b20": {
   "en": "The third richest people in the world. Their power reaches a city at most.",
   "t": "As terceiras pessoas mais ricas do mundo. O poder delas alcança uma cidade, no máximo."
@@ -234,6 +254,10 @@
  "3de66eb212b0": {
   "en": "<strong>Training:</strong> Fundamental School helps, but this is self-employed, so you do you.",
   "t": "<strong>Formação:</strong> a Escola Fundamental ajuda, mas isto é por conta própria, então faça do seu jeito."
+ },
+ "3f5701b74569": {
+  "en": "<strong>History:</strong> people like meat, so someone needs to gut the animals and make sausages.",
+  "t": "<strong>História:</strong> as pessoas gostam de carne, então alguém precisa destripar os animais e fazer linguiças."
  },
  "4023098315ae": {
   "en": "Road Maintainers",
@@ -287,6 +311,10 @@
   "en": "<strong>Duties:</strong> keep the balance between food orders and meat and milk sales, etc. Also takes care of the Woolies when time allows.",
   "t": "<strong>Funções:</strong> manter o equilíbrio entre os pedidos de ração e as vendas de carne e leite etc. Também cuida dos Woolies quando dá tempo."
  },
+ "4a3cac295494": {
+  "en": "<strong>Duties:</strong> clean latrines.",
+  "t": "<strong>Funções:</strong> limpar latrinas."
+ },
  "4a693b717f91": {
   "en": "<strong>Duties:</strong> take care of the kingdom, working directly under the courtroom scientists.",
   "t": "<strong>Funções:</strong> cuidar do reino, trabalhando diretamente sob os cientistas da corte."
@@ -294,6 +322,10 @@
  "4aecf373d658": {
   "en": "Artisan Cheesemaker",
   "t": "Queijeiro Artesão"
+ },
+ "4cbf0ebcab36": {
+  "en": "<strong>History:</strong> carrying around water-filled fruit is expensive and stupid, so these people come into play.",
+  "t": "<strong>História:</strong> carregar fruta cheia de água por aí é caro e burro, então essas pessoas entram em cena."
  },
  "4cc0e4e2b542": {
   "en": "<strong>History:</strong> because some cheese tastes better than others.",
@@ -451,6 +483,10 @@
   "en": "<strong>Training:</strong> Fundamental School and Historian/Teaching School.",
   "t": "<strong>Formação:</strong> Escola Fundamental e Escola de Historiadores/Ensino."
  },
+ "735d6ad94d9e": {
+  "en": "<strong>Duties:</strong> see Natural &amp; Crafted Resources.",
+  "t": "<strong>Funções:</strong> veja Recursos Naturais e Fabricados."
+ },
  "7506752cedeb": {
   "en": "Wood/Stone Worker",
   "t": "Trabalhador de Madeira/Pedra"
@@ -458,6 +494,10 @@
  "7510681254ef": {
   "en": "Historians/Teachers",
   "t": "Historiadores/Professores"
+ },
+ "76e3a446b863": {
+  "en": "<strong>Average pay:</strong> 1 Pearl an hour, for apprentices and masters alike.",
+  "t": "<strong>Pagamento médio:</strong> 1 Pearl por hora, para aprendizes e mestres igualmente."
  },
  "7944c42b1f36": {
   "en": "The second richest people in the world. Their power reaches a region at most.",
@@ -483,9 +523,17 @@
   "en": "Large Farm Owner",
   "t": "Dono de Fazenda Grande"
  },
+ "8735f4858edd": {
+  "en": "<strong>Duties:</strong> extract wood from forests.",
+  "t": "<strong>Funções:</strong> extrair madeira das florestas."
+ },
  "87af01bd9c7e": {
   "en": "Sanbi Eye",
   "t": "Sanbi Eye"
+ },
+ "8869272e670d": {
+  "en": "<strong>Duties:</strong> make vellum from animal skin, and paper from wood pulp.",
+  "t": "<strong>Funções:</strong> fazer pergaminho de pele de animal, e papel de polpa de madeira."
  },
  "893b7a9113f6": {
   "en": "<strong>Duties:</strong> housekeeping. How far it goes depends on the household and the maid's prestige: from more \"normal\" maids, up to someone like Eiri, a King-Maid, whose job extends into finances, cooking, cleaning and taxes.",
@@ -515,9 +563,17 @@
   "en": "<strong>History:</strong> someone has to take care of the dead, especially once people develop complex rituals.",
   "t": "<strong>História:</strong> alguém tem que cuidar dos mortos, principalmente quando as pessoas desenvolvem rituais complexos."
  },
+ "904f51b879b7": {
+  "en": "<strong>Duties:</strong> take care of the lighthouse: pump water into the fost stone, replace the stone, etc.",
+  "t": "<strong>Funções:</strong> cuidar do farol: bombear água para a fost stone, trocar a pedra etc."
+ },
  "90a167603476": {
   "en": "<strong>Training:</strong> knowing how to read speeds up going from apprentice to master; otherwise, learn on the job.",
   "t": "<strong>Formação:</strong> saber ler acelera a passagem de aprendiz a mestre; senão, aprender no trabalho."
+ },
+ "9211c4167577": {
+  "en": "<strong>History:</strong> one of the earliest jobs in existence.",
+  "t": "<strong>História:</strong> um dos empregos mais antigos que existem."
  },
  "9312d57b974b": {
   "en": "<strong>Training:</strong> Tailoring School.",
@@ -527,9 +583,17 @@
   "en": "How much of this applies depends on how the kingdom is organized.",
   "t": "O quanto disto se aplica depende de como o reino é organizado."
  },
+ "9866309d4236": {
+  "en": "<strong>History:</strong> paper is half the battle, so someone needs to make the ink and the wax.",
+  "t": "<strong>História:</strong> o papel é metade da batalha, então alguém precisa fazer a tinta e a cera."
+ },
  "9b85c6e5d0b9": {
   "en": "<strong>Duties:</strong> keep the peace, assist in investigations and help medics. Also coordinate nari stone usage, work with adventurers, and coordinate with the King and courtroom scientists (depending on how the kingdom is organized).",
   "t": "<strong>Funções:</strong> manter a paz, ajudar nas investigações e ajudar os médicos. Também coordenar o uso das pedras nari, trabalhar com os aventureiros, e coordenar com o Rei e os cientistas da corte (dependendo de como o reino é organizado)."
+ },
+ "9bb4137522b5": {
+  "en": "<strong>Training:</strong> learn on the job; no reading required.",
+  "t": "<strong>Formação:</strong> aprender no trabalho; não é preciso saber ler."
  },
  "9cc2644f0b21": {
   "en": "<strong>Duties:</strong> handle egua births and health, and manage the stable business.",
@@ -567,13 +631,29 @@
   "en": "Street Cleaner",
   "t": "Gari"
  },
+ "a69d012911c6": {
+  "en": "<strong>Duties:</strong> treat leather and animal skin for dresses, weapons and vellum.",
+  "t": "<strong>Funções:</strong> tratar o couro e a pele dos animais para vestidos, armas e pergaminho."
+ },
+ "aa5928af8f30": {
+  "en": "<strong>History:</strong> works alongside butchers to treat game skin and bones.",
+  "t": "<strong>História:</strong> trabalha junto com os açougueiros para tratar a pele e os ossos da caça."
+ },
  "aaacdfb70de3": {
   "en": "<strong>Training:</strong> Fundamental School isn't required, but it's really hard to do without.",
   "t": "<strong>Formação:</strong> a Escola Fundamental não é obrigatória, mas é bem difícil se virar sem ela."
  },
+ "ab43b4c49d47": {
+  "en": "<strong>History:</strong> as eguas were domesticated, people were needed to handle them.",
+  "t": "<strong>História:</strong> à medida que as eguas foram domesticadas, foram precisas pessoas para cuidar delas."
+ },
  "ac2b1387dbe5": {
   "en": "<strong>History:</strong> someone who takes merchanting extremely seriously.",
   "t": "<strong>História:</strong> alguém que leva o comércio extremamente a sério."
+ },
+ "ac55d9500a19": {
+  "en": "<strong>Duties:</strong> drive egua carts from city to city, carrying basic goods.",
+  "t": "<strong>Funções:</strong> conduzir carroças de egua de cidade em cidade, levando mercadorias básicas."
  },
  "acab31af4a94": {
   "en": "Blacksmiths",
@@ -602,6 +682,22 @@
  "b44d69d8fd77": {
   "en": "<strong>Duties:</strong> read, play and write songs.",
   "t": "<strong>Funções:</strong> ler, tocar e escrever canções."
+ },
+ "b45bc2b2a503": {
+  "en": "<strong>History:</strong> an easy job, but kind of boring, and slightly dangerous at times.",
+  "t": "<strong>História:</strong> um trabalho fácil, mas meio chato, e às vezes um pouco perigoso."
+ },
+ "b510917433fe": {
+  "en": "<strong>Duties:</strong> dry fruits, herbs and plenty more for transport.",
+  "t": "<strong>Funções:</strong> secar frutas, ervas e muito mais para o transporte."
+ },
+ "b6070e32bbe6": {
+  "en": "<strong>Duties:</strong> mine ore, open tunnels and carry the ore to the surface.",
+  "t": "<strong>Funções:</strong> minerar minério, abrir túneis e levar o minério para a superfície."
+ },
+ "b867944bc051": {
+  "en": "<strong>Duties:</strong> hunt prey, butcher it, and bring it back somewhere to sell.",
+  "t": "<strong>Funções:</strong> caçar presas, abatê-las, e levá-las de volta a algum lugar para vender."
  },
  "bad034722d1e": {
   "en": "Butcher",
@@ -675,9 +771,17 @@
   "en": "<strong>History:</strong> wherever humans live, history soon follows, filling libraries. But some history was lost during the Greed Period, when wars raged for a long time, and tons more because before Ganyrami it was mostly passed by word of mouth among humans. The Darfaries burned their own history, which makes the past kind of sketchy. And some people don't care about history, because they prefer living in the present. So people in this profession usually teach at the fundamental level to earn a livable wage while they pursue research nobody is funding.",
   "t": "<strong>História:</strong> onde quer que os humanos vivam, a história logo vem atrás, enchendo bibliotecas. Mas parte da história se perdeu durante o Período da Ganância, quando as guerras arderam por muito tempo, e muito mais porque antes de Ganyrami ela era passada principalmente de boca em boca entre os humanos. Os Darfaries queimaram a própria história, o que deixa o passado meio nebuloso. E algumas pessoas não ligam para a história, porque preferem viver o presente. Então quem tem esta profissão costuma dar aula no nível fundamental para ganhar um salário digno enquanto segue pesquisas que ninguém financia."
  },
+ "d86a0b9b9510": {
+  "en": "<strong>Duties:</strong> skin game for tanners, slice game, cure meat, etc.",
+  "t": "<strong>Funções:</strong> esfolar a caça para os curtidores, fatiar a caça, curar a carne etc."
+ },
  "da654b0ff3a4": {
   "en": "<strong>Training:</strong> Fundamental School and Cooking School.",
   "t": "<strong>Formação:</strong> Escola Fundamental e Escola de Culinária."
+ },
+ "dc0cff2c2774": {
+  "en": "<strong>History:</strong> cleans latrines and cesspits.",
+  "t": "<strong>História:</strong> limpa latrinas e fossas."
  },
  "e08eaff25c85": {
   "en": "Stable Hand Manager",
@@ -722,6 +826,18 @@
  "e9b43d11425b": {
   "en": "City Guard",
   "t": "Guarda da Cidade"
+ },
+ "eec4b8a22e47": {
+  "en": "The sixth richest people in the world. Their power is none.",
+  "t": "As sextas pessoas mais ricas do mundo. O poder delas é nenhum."
+ },
+ "f2e56469294d": {
+  "en": "<strong>History:</strong> one of the earliest jobs in existence: hunting in the nearby woods, a quite dangerous job. Mostly replaced by adventurer hunting, since hunters on their own don't have the safety net adventurers have with the embassies.",
+  "t": "<strong>História:</strong> um dos empregos mais antigos que existem: caçar nos bosques próximos, um trabalho bem perigoso. Foi quase todo substituído pela caça dos aventureiros, já que os caçadores por conta própria não têm a rede de segurança que os aventureiros têm com as embaixadas."
+ },
+ "f3c4e3eb138e": {
+  "en": "<strong>Duties:</strong> clean the streets.",
+  "t": "<strong>Funções:</strong> limpar as ruas."
  },
  "f8a9289d923c": {
   "en": "Tanner",
