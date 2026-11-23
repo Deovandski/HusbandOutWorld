@@ -31,6 +31,10 @@
   "en": "Shock VERB",
   "t": "Shock VERB"
  },
+ "0f47dfa46a4f": {
+  "en": "<strong>Increase/Decrease</strong> and <strong>Restore/Disassemble:</strong> behave like Create/Destroy.",
+  "t": "<strong>インクリース／ディクリース（増大／縮小）</strong>と<strong>リストア／ディスアセンブル（回復／分解）：</strong>クリエイト／デストロイのように振る舞う。"
+ },
  "10668848ecf1": {
   "en": "Gold → Mercury",
   "t": "金 → 水銀"
@@ -107,9 +111,17 @@
   "en": "Ice VERB",
   "t": "Ice VERB"
  },
+ "2a0404ceb303": {
+  "en": "The elemental verbs, with water.",
+  "t": "元素の動詞、水の場合。"
+ },
  "2ca369f05b2d": {
   "en": "Nari sticks (nari stones chained together) fuel the spell. A single-use nari stick is spent in one cast, and they aren't cheap.",
   "t": "ナリスティック（ナリストーンを鎖でつないだもの）が呪文の燃料になる。使い捨てのナリスティックは一回の詠唱で使い切られ、安くはない。"
+ },
+ "2d68de584b52": {
+  "en": "The elemental verbs, with lava.",
+  "t": "元素の動詞、溶岩の場合。"
  },
  "2dba29a226b6": {
   "en": "<strong>Destroy:</strong> tries to destroy the target's whole body. At low tiers it only causes internal or external bleeding; medium tiers can cause convulsions; high tiers cause an explosion.",
@@ -158,6 +170,10 @@
  "3a54978fb627": {
   "en": "Platinum → Gold",
   "t": "白金 → 金"
+ },
+ "3b226566c89d": {
+  "en": "The elemental verbs, with earth.",
+  "t": "元素の動詞、土の場合。"
  },
  "3c410b0a889e": {
   "en": "Dust VERB",
@@ -254,6 +270,10 @@
  "5255c62e691b": {
   "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Darfaries shells appear as you do. With a sigil ring:",
   "t": "<strong>呪文を始める。</strong>呪文と魂のエネルギーを保持している手の指を握り込む。そうすると、ダルファリエスの殻が現れる。シジルリングを使う場合："
+ },
+ "5266e81985c6": {
+  "en": "The elemental verbs, with steam.",
+  "t": "元素の動詞、蒸気の場合。"
  },
  "528b9fb4db2c": {
   "en": "<strong>Increase/Decrease:</strong> the whole body grows or shrinks.",
@@ -395,6 +415,10 @@
   "en": "Ash VERB",
   "t": "Ash VERB"
  },
+ "71812d5fae7a": {
+  "en": "Works like Gravity VERB. Gabiro improved it when he helped shape the new Darfaries Interface standard; the new sigil standard he was the centerpiece of lowered the cast failure rate, especially for Water Gravity, making fanchakis mature nearly twice as fast (Vol 3).",
+  "t": "Gravity VERB と同じように働く。ガビロは新しいダルファリエス・インターフェースの標準づくりを手伝ったときにこれを改良した。彼が中心となった新しいシジルの標準は、とくにウォーター・グラビティの詠唱失敗率を下げ、ファンチャキがほぼ二倍の速さで成熟するようにした（Vol 3）。"
+ },
  "724c8389bd95": {
   "en": "Steam VERB",
   "t": "Steam VERB"
@@ -415,6 +439,10 @@
   "en": "Storm VERB",
   "t": "Storm VERB"
  },
+ "77947875b9a0": {
+  "en": "The elemental verbs, with wind. Its ball is more elongated than anything.",
+  "t": "元素の動詞、風の場合。その球は何よりも細長い。"
+ },
  "7802ad32f0ce": {
   "en": "Verbs",
   "t": "動詞"
@@ -422,6 +450,10 @@
  "78c2d1c75d87": {
   "en": "Either way, a miscast explodes in soul flame in the caster's hands.",
   "t": "どちらにせよ、詠唱に失敗すると、術者の手の中で魂の炎が爆発する。"
+ },
+ "7a513f3d316a": {
+  "en": "The elemental verbs, with storm.",
+  "t": "元素の動詞、嵐の場合。"
  },
  "7a91c4983d68": {
   "en": "World VERB",
@@ -435,6 +467,10 @@
   "en": "Transmute",
   "t": "トランスミュート"
  },
+ "7d9145978885": {
+  "en": "The elemental verbs, with shock.",
+  "t": "元素の動詞、電撃の場合。"
+ },
  "7df913eb7771": {
   "en": "Ring #2: 8",
   "t": "輪 #2：8"
@@ -446,6 +482,10 @@
  "83a077984fe7": {
   "en": "The Buhraies created this interface as an enhancement to their own soul energy interface, in an attempt to control the Darfaries as a versatile army of foot soldiers.",
   "t": "ブライエスは、ダルファリエスを万能の歩兵の軍団として支配しようとして、自分たち自身の魂のエネルギーのインターフェースを強化するものとしてこのインターフェースを作った。"
+ },
+ "83b7155e04f6": {
+  "en": "The elemental verbs, with mud.",
+  "t": "元素の動詞、泥の場合。"
  },
  "840823ff59c1": {
   "en": "<strong>Restore:</strong> shapes the item into the desired object by combining elements around the caster, basically the reverse of chemical reactions. Have the elements it's made of nearby to improve the odds; otherwise the repaired object may break again if the new connections aren't strong.",
@@ -466,6 +506,14 @@
  "8a4a4532c533": {
   "en": "<strong>Apply the energy.</strong> Touch what you want to apply it to with your palm and straighten your fingers, or release the spell as it is for a ranged attack. Cock your arm and time it right for extra range. The caster's body feels the weight of the spell, like firing a gun.",
   "t": "<strong>エネルギーを作用させる。</strong>作用させたいものに手のひらで触れて指をまっすぐ伸ばすか、遠距離攻撃としてそのまま呪文を解放する。射程を伸ばすには腕を引いて、タイミングを合わせること。術者の体は、銃を撃つときのように呪文の重みを感じる。"
+ },
+ "8a9201f37e41": {
+  "en": "<strong>Create/Destroy:</strong> Create makes a ball of the element for a ranged attack; Destroy turns the target's element back into virtual particles. With no target, the soul flame simply evaporates.",
+  "t": "<strong>クリエイト／デストロイ（創造／破壊）：</strong>クリエイトは遠距離攻撃のための元素の球を作る。デストロイは対象の元素を仮想粒子に戻す。対象がなければ、魂の炎はただ蒸発する。"
+ },
+ "8c04c55d7685": {
+  "en": "The elemental verbs, with dust.",
+  "t": "元素の動詞、塵の場合。"
  },
  "8ca6193582e9": {
   "en": "Water VERB",
@@ -615,13 +663,25 @@
   "en": "<strong>Repel/Attract:</strong> the target repels or attracts the element. With no target, the soul flame simply evaporates.",
   "t": "<strong>リペル／アトラクト（反発／引き寄せ）：</strong>対象が元素を反発させるか引き寄せる。対象がなければ、魂の炎はただ蒸発する。"
  },
+ "c7e54ecd4ad8": {
+  "en": "The ball's size follows the General Power Effects: 0.1 cm at Tier I, doubling with every tier (51.2 cm at Tier X).",
+  "t": "球の大きさは一般的な力の効果に従う。ティア I で 0.1 cm、ティアごとに倍になる（ティア X で 51.2 cm）。"
+ },
  "c8c7488b1383": {
   "en": "Environmental changes, especially creation, destruction, and manipulation of elemental properties such as water, fire, terrain, and gravity, are commonly performed through this interface.",
   "t": "環境の変化、特に水、火、地形、重力といった元素の性質の創造、破壊、操作は、たいていこのインターフェースで行われる。"
  },
+ "ca4adc8484ad": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts the element. This is the one meant for gravity control. With no target, the soul flame simply evaporates.",
+  "t": "<strong>リペル／アトラクト（反発／引き寄せ）：</strong>対象が元素を反発させるか引き寄せる。重力を制御するためのものはこれだ。対象がなければ、魂の炎はただ蒸発する。"
+ },
  "cac2d50e5374": {
   "en": "It only restores the base genetic information; it doesn't deal with whatever is causing the damage, such as worms.",
   "t": "基本の遺伝情報を回復させるだけで、虫のような、損傷の原因になっているものには対処しない。"
+ },
+ "caca7f199089": {
+  "en": "The elemental verbs, with frozen earth.",
+  "t": "元素の動詞、凍土の場合。"
  },
  "cb864e0c3c67": {
   "en": "Keeping your fingers clenched on the hand you used the logograms on, you must now trap the fingers, or nari stone stick, then reverse the motion while keeping the fingers clenched. This sort of “eating“ motion will suck the power and create a ball into one of the rings that will temporarily hold power. Do not worry about how fast it zips around. The rings will keep it in check until you release the spell in the final step.",
@@ -634,6 +694,10 @@
  "cd5fc47831e2": {
   "en": "Entangle",
   "t": "エンタングル"
+ },
+ "cf492fe9525e": {
+  "en": "The elemental verbs, with ice.",
+  "t": "元素の動詞、氷の場合。"
  },
  "d08ae5111258": {
   "en": "Minor cuts and minor blood loss",
@@ -691,6 +755,14 @@
   "en": "When a spell is cast, five rings appear around the hand holding it. Each shell holds a limited number of soul energy tiers:",
   "t": "呪文を唱えると、それを保持している手の周りに五つの輪が現れる。それぞれの殻が保持できる魂のエネルギーのティアの数には限りがある："
  },
+ "e2b868f1938f": {
+  "en": "The elemental verbs, with fire.",
+  "t": "元素の動詞、火の場合。"
+ },
+ "e36ef673808f": {
+  "en": "The elemental verbs, with ash.",
+  "t": "元素の動詞、灰の場合。"
+ },
  "e5df83155e66": {
   "en": "Full Darfaries Interface - Sigil and Nari stone mode (video)",
   "t": "ダルファリエス・インターフェース完全版 - シジルとナリストーンのモード（動画）"
@@ -706,6 +778,10 @@
  "e8d0433850e4": {
   "en": "Fire VERB",
   "t": "Fire VERB"
+ },
+ "ea25d8fd0025": {
+  "en": "<strong>Create/Destroy:</strong> Create makes a ball of the element for a ranged attack (thanks to Hawking radiation, the black hole quickly disappears once cast); Destroy turns the target's element back into virtual particles. With no target, the soul flame simply evaporates.",
+  "t": "<strong>クリエイト／デストロイ（創造／破壊）：</strong>クリエイトは遠距離攻撃のための元素の球を作る（ホーキング放射のおかげで、ブラックホールは放たれるとすぐに消える）。デストロイは対象の元素を仮想粒子に戻す。対象がなければ、魂の炎はただ蒸発する。"
  },
  "ef47633dff56": {
   "en": "Given Darfaries sport the most prominent Darfaries veins, its sheer additional volume allows them to finely sense soul energy disturbances around them, plus a rough sensation of humidity, wind, and barometric pressure—it’s like how they say, if a Darfaries tells you to buy an umbrella, you better buy one!",
