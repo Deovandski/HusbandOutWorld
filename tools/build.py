@@ -8,7 +8,7 @@ content/ holds the page map, alt text and typo fixes. Nothing here writes lore.
 
 Usage: python tools/build.py [--out _site] [--cache .media-cache] [--no-images]
 """
-import argparse, base64, hashlib, html, io, json, os, re, shutil, sys, unicodedata
+import argparse, base64, datetime, hashlib, html, io, json, os, re, shutil, sys, unicodedata
 from collections import Counter
 from concurrent.futures import ProcessPoolExecutor
 from difflib import SequenceMatcher
@@ -378,6 +378,20 @@ def sub_heading_search(pub_html, bts_html, url, section, entry_title, entry_bts)
     return list(items.values())
 
 VIDEO_EXT = ('.mp4', '.webm')
+
+def notice_html():
+    """Reusable component: a dismissible one-line notice across the top of every page (script
+    site/js/site-notice.js, styles site/css/site-notice.css), from "notice" in content/site.json:
+    {"id": "...", "until": "YYYY-MM-DD", "text": "..."}. Not written once "until" has passed (the script
+    also hides it after that day), or when there is no "notice". The text and "Dismiss" are in the markup,
+    so the translations cover them."""
+    n = CFG.get('notice')
+    if not n or (n.get('until') and datetime.date.today().isoformat() > n['until']):
+        return ''
+    until = f' data-until="{esc(n["until"])}"' if n.get('until') else ''
+    return (f'<aside class="site-notice keep-latin" role="note" data-notice-id="{esc(n["id"])}"{until} hidden>'
+            f'<p>{esc(n["text"])}</p>'
+            '<button type="button" class="site-notice-close" aria-label="Dismiss">×</button></aside>')
 
 def photo_viewer_html():
     """Reusable component: the photo viewer every picture opens in (script site/js/photo-viewer.js, styles
@@ -1631,6 +1645,7 @@ def page_html(p, nav):
 if(!d.dataset.lang){{var ok=(d.dataset.langs||'').split(' '),w=s.lang,n=navigator.languages||[navigator.language||''];for(var i=0;i<n.length&&!w;i++){{var c=String(n[i]).toLowerCase().split('-')[0];if(c==='en'||ok.indexOf(c)>=0)w=c}}if(w&&w!=='en'&&ok.indexOf(w)>=0){{var b=d.dataset.base||'';location.replace(b+'/'+w+location.pathname.slice(b.length)+location.search+location.hash)}}}}}}catch(e){{}}</script>
 <link rel="stylesheet" href="{asset('/css/site.css')}">
 <link rel="stylesheet" href="{asset('/css/photo-viewer.css')}">
+{f'<link rel="stylesheet" href="{asset("/css/site-notice.css")}">' if notice_html() else ''}
 {''.join(f'<link rel="stylesheet" href="{asset(c)}">' for c in getattr(p, 'extra_css', []) + (['/css/video.css'] if 'class="hv-video"' in p.html else []))}
 {jsonld}
 </head>
@@ -1648,6 +1663,7 @@ if(!d.dataset.lang){{var ok=(d.dataset.langs||'').split(' '),w=s.lang,n=navigato
     <button class="settings-btn" type="button" aria-haspopup="dialog" aria-label="Settings" title="Settings"><svg viewBox="0 0 24 24" width="19" height="19" aria-hidden="true"><path fill="currentColor" d="M19.4 13a7.6 7.6 0 0 0 0-2l2.1-1.6a.5.5 0 0 0 .1-.6l-2-3.5a.5.5 0 0 0-.6-.2l-2.5 1a7.5 7.5 0 0 0-1.7-1l-.4-2.6a.5.5 0 0 0-.5-.5h-4a.5.5 0 0 0-.5.4l-.4 2.7c-.6.2-1.2.6-1.7 1l-2.5-1a.5.5 0 0 0-.6.2l-2 3.5a.5.5 0 0 0 .1.6L4.6 11a7.6 7.6 0 0 0 0 2l-2.1 1.6a.5.5 0 0 0-.1.6l2 3.5c.1.2.4.3.6.2l2.5-1c.5.4 1.1.8 1.7 1l.4 2.6c0 .3.2.5.5.5h4c.3 0 .5-.2.5-.4l.4-2.7c.6-.2 1.2-.6 1.7-1l2.5 1c.2.1.5 0 .6-.2l2-3.5a.5.5 0 0 0-.1-.6L19.4 13ZM12 15.5a3.5 3.5 0 1 1 0-7 3.5 3.5 0 0 1 0 7Z"/></svg></button>
   </div>
 </header>
+{notice_html()}
 <div class="mode-banner layer bts keep-latin">Behind The Scenes is on: pages include the author's full notes and spoilers.</div>
 <main id="main" class="{'has-toc' if toc else ''}{' toc-bts-only' if toc and all(l == 'bts' for _, _, l, _ in p.toc) else ''}">
   {toc}
@@ -1686,6 +1702,7 @@ if(!d.dataset.lang){{var ok=(d.dataset.langs||'').split(' '),w=s.lang,n=navigato
 {photo_viewer_html()}
 <script src="{asset('/js/app.js')}" defer></script>
 <script src="{asset('/js/photo-viewer.js')}" defer></script>
+{f'<script src="{asset("/js/site-notice.js")}" defer></script>' if notice_html() else ''}
 {''.join(f'<script src="{asset(j)}" defer></script>' for j in getattr(p, 'extra_js', []))}
 </body>
 </html>

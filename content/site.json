@@ -8,6 +8,11 @@
   ],
   "base_url": "https://www.husbandoutworld.com",
   "amazon_url": "https://www.amazon.com/dp/B0BT5XM4QC",
+  "notice": {
+    "id": "moved-2026-11",
+    "until": "2027-02-28",
+    "text": "#HusbandOutWorld now lives at husbandoutworld.com. Settings saved at the old address (language, text size, Public / Behind The Scenes) don't carry over, and an installed app needs to be installed again from here."
+  },
   "repo_url": "https://github.com/Deovandski/HusbandOutWorld",
   "i18n_issue_url": "https://github.com/Deovandski/HusbandOutWorld/issues/50",
   "dnd_url": "https://deovandski.github.io/Vraki-West-March-Campaign-D-D/",

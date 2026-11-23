@@ -1,0 +1,32 @@
+/* Site notice (reusable component): see site/js/site-notice.js for usage. */
+.site-notice {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .75rem;
+  padding: .45rem 1rem;
+  background: var(--notice-bg, var(--bg2, #f3f1ec));
+  color: var(--notice-ink, var(--ink, #222));
+  border-bottom: 1px solid var(--notice-line, var(--line, #ccc));
+  font-family: var(--sans, system-ui, sans-serif);
+  font-size: .8rem;
+  line-height: 1.45;
+  text-align: center;
+}
+.site-notice[hidden] { display: none; }
+.site-notice p { margin: 0; }
+.site-notice a { color: var(--notice-link, var(--link, #0645ad)); }
+.site-notice-close {
+  flex: none;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  color: inherit;
+  font-size: 1.2rem;
+  line-height: 1;
+  cursor: pointer;
+}
+.site-notice-close:hover { background: var(--notice-line, var(--line, #ccc)); }
+.site-notice-close:focus-visible { outline: 2px solid var(--notice-link, var(--link, #0645ad)); outline-offset: 2px; }
