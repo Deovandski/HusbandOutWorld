@@ -1,4 +1,4 @@
-// #HusbandOutWorld website: mode switch, reading settings, search, lightbox.
+// #HusbandOutWorld website: mode switch, reading settings, search. (Pictures: site/js/photo-viewer.js.)
 (function () {
   'use strict';
   var root = document.documentElement;
@@ -87,44 +87,7 @@
     if (path.indexOf(a.getAttribute('href')) === 0) a.setAttribute('aria-current', 'page');
   });
 
-  // ---------- lightbox (photos in a data-gallery, like the Blog's grid, get a caption and ‹ › to move through them)
-  var lb = document.getElementById('lightbox');
-  if (lb) {
-    var lbImg = lb.querySelector('img');
-    var lbCap = lb.querySelector('.lb-cap');
-    var lbPrev = lb.querySelector('.lb-prev'), lbNext = lb.querySelector('.lb-next');
-    var group = [], at = 0;
-    function show(a) {
-      var img = a.querySelector('img');
-      lbImg.src = a.dataset.full || a.href;
-      lbImg.alt = img ? img.alt : '';
-      var cap = a.dataset.caption || '';
-      if (lbCap) { lbCap.textContent = cap; lbCap.hidden = !cap; }
-      var many = group.length > 1;
-      if (lbPrev) lbPrev.hidden = !many;
-      if (lbNext) lbNext.hidden = !many;
-      lb.hidden = false;
-    }
-    function step(d) { if (group.length > 1) { at = (at + d + group.length) % group.length; show(group[at]); } }
-    function close() { lb.hidden = true; lbImg.src = ''; }
-    document.addEventListener('click', function (e) {
-      var a = e.target.closest('a.img-link');
-      if (!a) return;
-      e.preventDefault();
-      group = a.dataset.gallery ? Array.prototype.slice.call(document.querySelectorAll('a.img-link[data-gallery="' + a.dataset.gallery + '"]')) : [a];
-      at = Math.max(0, group.indexOf(a));
-      show(a);
-    });
-    if (lbPrev) lbPrev.addEventListener('click', function (e) { e.stopPropagation(); step(-1); });
-    if (lbNext) lbNext.addEventListener('click', function (e) { e.stopPropagation(); step(1); });
-    lb.addEventListener('click', close);
-    document.addEventListener('keydown', function (e) {
-      if (lb.hidden) return;
-      if (e.key === 'Escape') close();
-      if (e.key === 'ArrowLeft') step(-1);
-      if (e.key === 'ArrowRight') step(1);
-    });
-  }
+  // ---------- photo viewer: site/js/photo-viewer.js (every picture opens bigger)
 
   // ---------- list filter (glossary)
   document.querySelectorAll('input[data-filter]').forEach(function (inp) {
@@ -143,7 +106,7 @@
     var data = null;
     var q0 = new URLSearchParams(location.search).get('q') || '';
     box.value = q0;
-    fetch(BASE + '/data/search.json').then(function (r) { return r.json(); }).then(function (d) { data = d; run(); });
+    fetch(BASE + '/data/search.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }).then(function (d) { data = d; run(); });
     box.addEventListener('input', run);
     document.addEventListener('modechange', run);
     function esc(s) { return String(s || '').replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }

@@ -14,7 +14,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
+      # The build never reads the art programs' source files (.xcf, .clip, .tif: about
+      # 2.3 GB of the repo), so the runner doesn't download them. They stay in the repo.
       - uses: actions/checkout@v7
+        with:
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /*
+            !*.xcf
+            !*.clip
+            !*.tif
       - uses: actions/setup-python@v7
         with:
           python-version: "3.12"

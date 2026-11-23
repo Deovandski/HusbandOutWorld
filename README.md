@@ -35,13 +35,16 @@ pip install -r tools/requirements.txt
 python tools/build.py
 ```
 
-The site lands in `_site/`. GitHub Actions builds and publishes it on every push to `main`.
+The site lands in `_site/`. GitHub Actions builds and publishes it on every push to `main`. `python tools/check_site.py _site` checks that every page's pictures are in the build and shows the site's size against GitHub Pages' 1 GB limit (the publish run does this too, and shows the sizes on its summary page).
+
+`google0c08003a2b869d98.html` at the repo root verifies the site in Google Search Console. The build publishes it unchanged at the site's root. **Never remove it**: Search Console checks it again from time to time, and the site stops being verified without it.
 
 ### Reusable components
 
 | Component | Files | What it does |
 |---|---|---|
-| Installable app (PWA) | [tools/pwa.py](tools/pwa.py), [site/sw.js](site/sw.js), settings in `"app"` in [content/site.json](content/site.json) | Makes the site installable on phones and computers: writes the manifest (name, colours, home-screen shortcuts), the app icons (made from a logo, including a maskable one for Android) and a service worker. The worker keeps the home page and every page a reader opens readable offline, as text only; pictures are never saved. Adapted from Deovandski/Deovandski (PR #160). |
+| Installable app (PWA) | [tools/pwa.py](tools/pwa.py), [site/sw.js](site/sw.js), settings in `"app"` in [content/site.json](content/site.json) | Makes the site installable on phones and computers: writes the manifest (name, colours, home-screen shortcuts), the app icons (made from a logo, including a maskable one for Android) and a service worker. The worker keeps the home page and every page a reader opens readable offline, as text only; pictures are never saved. Pages always come from the server first (`no-cache`), so a reader sees a deploy on the very next visit; only CSS and scripts with a `?v=<hash>` address are served from the saved copy first. Options include `skip_files` (files the worker never touches) and `offline_colors`. Adapted from Deovandski/Deovandski (PR #160). |
+| Photo viewer (`#photo-viewer`) | `photo_viewer_html()` in [tools/build.py](tools/build.py), [site/js/photo-viewer.js](site/js/photo-viewer.js), [site/css/photo-viewer.css](site/css/photo-viewer.css) | Every picture opens bigger when pressed, with its caption and its date when there is one; ‹ › step through a gallery or the pictures on the page. Replaces the old lightbox. Ported from Deovandski/Deovandski (PR #205). |
 | Video player (`.hv-video`) | `video_figure()` in [tools/build.py](tools/build.py), [site/css/video.css](site/css/video.css) | A captioned, never-autoplaying video. In markdown, `![caption](clip.mp4)` becomes one. |
 
 ### Spot something wrong, or want to make a change?

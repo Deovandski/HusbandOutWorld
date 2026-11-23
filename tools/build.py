@@ -392,6 +392,19 @@ def sub_heading_search(pub_html, bts_html, url, section, entry_title, entry_bts)
 
 VIDEO_EXT = ('.mp4', '.webm')
 
+def photo_viewer_html():
+    """Reusable component: the photo viewer every picture opens in (script site/js/photo-viewer.js, styles
+    site/css/photo-viewer.css). One per page, written into the page shell. Its words ("Enlarge", Close,
+    Previous/Next photo) are in this markup so the translations cover them."""
+    return ('<dialog id="photo-viewer" class="photo-viewer keep-latin" aria-label="Photo">'
+            '<span class="pv-enlarge" hidden>Enlarge</span>'
+            '<button type="button" class="pv-close" aria-label="Close">×</button>'
+            '<button type="button" class="pv-prev" aria-label="Previous photo" hidden>‹</button>'
+            '<figure class="pv-fig"><img alt=""><figcaption class="pv-cap"><span class="pv-text"></span><time class="pv-date" hidden></time></figcaption></figure>'
+            '<button type="button" class="pv-next" aria-label="Next photo" hidden>›</button>'
+            '</dialog>')
+
+
 def video_figure(url, caption):
     """Reusable component: a captioned video player (styles in site/css/video.css).
 
@@ -1542,9 +1555,23 @@ class Builder:
                 f'<meta name="robots" content="noindex"><meta http-equiv="refresh" content="0; url={new}">'
                 f'<p>This page moved to <a href="{new}">{new}</a>.</p>'))
         open(os.path.join(self.out, '.nojekyll'), 'w').write('')
-        if os.path.exists(os.path.join(ROOT, 'CNAME')):
-            shutil.copyfile(os.path.join(ROOT, 'CNAME'), os.path.join(self.out, 'CNAME'))
+        for f in root_files():
+            shutil.copyfile(os.path.join(ROOT, f), os.path.join(self.out, f))  # byte for byte
         return em
+
+def css_colors(theme, *names):
+    """Colour values from site/css/site.css (html[data-theme="<theme>"] { --name: value; }), so pages the
+    build writes outside the stylesheet (the offline page) use the same palette without a copy of it."""
+    css = open(os.path.join(SITE_SRC, 'css', 'site.css'), encoding='utf-8').read()
+    block = re.search(r'html\[data-theme="%s"\]\s*\{([^}]*)\}' % re.escape(theme), css).group(1)
+    return [re.search(r'--%s:\s*([^;]+);' % re.escape(n), block).group(1).strip() for n in names]
+
+def root_files():
+    """Files at the repo root that are published unchanged at the site's root: CNAME (custom domain) and
+    Google Search Console's verification file (google<code>.html). Never remove the Google file: Search
+    Console checks it again from time to time, and the site stops being verified without it."""
+    return [f for f in sorted(os.listdir(ROOT))
+            if f == 'CNAME' or re.fullmatch(r'google[0-9a-f]+\.html', f)]
 
 def _renumber(html_text, anchor, n, new_anchor):
     """Rename the (n+1)-th id="anchor" in the page to new_anchor."""
@@ -1711,6 +1738,7 @@ def page_html(p, nav):
 <script>try{{var s=JSON.parse(localStorage.getItem('hoow')||'{{}}');var d=document.documentElement;if(s.mode)d.dataset.mode=s.mode;if(s.theme)d.dataset.theme=s.theme;if(s.vraki&&!d.dataset.lang)d.classList.add('vraki');if(s.size)d.style.setProperty('--fs',s.size+'px');
 if(!d.dataset.lang){{var ok=(d.dataset.langs||'').split(' '),w=s.lang,n=navigator.languages||[navigator.language||''];for(var i=0;i<n.length&&!w;i++){{var c=String(n[i]).toLowerCase().split('-')[0];if(c==='en'||ok.indexOf(c)>=0)w=c}}if(w&&w!=='en'&&ok.indexOf(w)>=0){{var b=d.dataset.base||'';location.replace(b+'/'+w+location.pathname.slice(b.length)+location.search+location.hash)}}}}}}catch(e){{}}</script>
 <link rel="stylesheet" href="{asset('/css/site.css')}">
+<link rel="stylesheet" href="{asset('/css/photo-viewer.css')}">
 {''.join(f'<link rel="stylesheet" href="{asset(c)}">' for c in getattr(p, 'extra_css', []) + (['/css/video.css'] if 'class="hv-video"' in p.html else []))}
 {jsonld}
 </head>
@@ -1763,8 +1791,9 @@ if(!d.dataset.lang){{var ok=(d.dataset.langs||'').split(' '),w=s.lang,n=navigato
     <div class="dialog-actions"><button class="btn primary" value="close">Done</button></div>
   </form>
 </dialog>
-<div id="lightbox" class="lightbox keep-latin" hidden><button class="lb-close" aria-label="Close">×</button><button class="lb-prev" aria-label="Previous photo" hidden>‹</button><figure class="lb-fig"><img alt=""><figcaption class="lb-cap" hidden></figcaption></figure><button class="lb-next" aria-label="Next photo" hidden>›</button></div>
+{photo_viewer_html()}
 <script src="{asset('/js/app.js')}" defer></script>
+<script src="{asset('/js/photo-viewer.js')}" defer></script>
 {''.join(f'<script src="{asset(j)}" defer></script>' for j in getattr(p, 'extra_js', []))}
 </body>
 </html>
@@ -2006,7 +2035,9 @@ def main():
                   homes=['/'],  # a language's home page (/ja/ ...) is saved on its first visit
                   cache_prefix='hoow', version=app.get('version', 'v1'),
                   save_visited_pages=app.get('save_visited_pages', True),
-                  extra_files=['/media/favicon.png', '/media/forway-emblem.png'])
+                  extra_files=['/media/favicon.png', '/media/forway-emblem.png'],
+                  skip_files=['/' + f for f in root_files() if f.endswith('.html')],  # Search Console's file
+                  offline_colors=css_colors('dark', 'bg', 'ink', 'link'))  # one source: site.css
     print(f'pages: {len(b.pages)}, images: {len(b.media.info)}, glossary terms: {len(b.glossary)}')
 
 if __name__ == '__main__':
