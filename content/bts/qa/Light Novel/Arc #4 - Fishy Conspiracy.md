@@ -87,3 +87,16 @@ Applied:
 - A4-12: XXX → {WIP-ryoDistributor}; LLK → {WIP-sanbiGelSeller}.
 - A4-13: "(Ryo is the father.)"
 - A4-14: kept "kind of controlling, and antisocial".
+
+## Book 15 - A Game of Minari (batch 4)
+
+Filled from Legacy:
+- Chapter 3: "Ryo XX. Guild XX" → "Ryo Flatland Long-Blue" (his badge in Characters, as in B8-3). "XXX created it" (the Half-Cruro guild) → Kiko (Characters: Kiko founded the Half-Cruro guild; Coema helped it shine). Katsuki's "It's how she is able to speak" matches A3-14.
+- Chapter 3: in the bar scene the notes say "Katsumi", but only Ryo and Katsuki are there (scene heading) and the lines use counters, so they're Katsuki's. "// Reprise story of what happened." → "and recaps what happened".
+- Polished: "froffy" → frothy; "Ryo peeks his ears" → "perks up his ears"; "catched on" → "caught on"; "Her mood floors" → "sinks"; "Cruru gives a thumbs up" → "A Cruro"; "perforated its long" → "lung"; "a bit always from her" → "away"; "meath shield" → "meat shield"; "Arukia squeezed the life out of her" → the bandit squeezes the life out of Arukia; "the gory" → "the gore"; "clenches her firsts" → "fists"; "WHY DID CREATE" → "WHY DID YOU MAKE".
+
+Questions:
+- **A4-15:** Prologue: the vendor's distributor is "a round, hairy dude called Lick, from the guild My-Veiny-Balls". A prank name? Is "Lick" the "LLK" of Book 14 ({WIP-sanbiGelSeller}, the seller who didn't care about profit), and is that seller Morika in disguise, since Neferteri has Morika make and spread the gels (Chapter 1)?
+- **A4-16:** Chapter 3: Coema tells Ryo "it's not too late to take me up on my offer", and he pats Katsuki's belly and passes. What was the offer?
+- **A4-17:** Chapter 5: the decoy "Morika (actually is XX)" whom Eori kills. A name, or {WIP-…}? And "my house": the house where Eori kept Harry before (Chapter 1's setup looks like it)?
+- **A4-18:** Chapter 4 to 5: Morika bashes Arukia's head in, and Eori can't revive her ("Nothing"). Is Arukia dead for good, or does someone bring her back later?

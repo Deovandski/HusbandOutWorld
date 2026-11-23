@@ -1,6 +1,6 @@
 ---
 source: Legacy/Behind The Scenes/Light Novel/Arc #4 - Fishy Conspiracy.md
-status: abridged in batches, one book at a time; Books 12 to 14 drafted 2026-11-23 (see content/bts/qa/Light Novel/Arc #4 - Fishy Conspiracy.md)
+status: abridged in batches, one book at a time; Books 12 to 15 drafted 2026-11-23 (see content/bts/qa/Light Novel/Arc #4 - Fishy Conspiracy.md)
 note: same format as Arcs #2 and #3. Each chapter becomes a polished list of story beats in the author's voice, keeping the draft dialogue that carries a joke or a character's voice. Books not yet abridged fall back to the raw notes.
 ---
 
@@ -347,3 +347,131 @@ She'll appear more, to instigate Eori and Eiri onto a "good" path… (still open
 
 - [Emelia](/lore/characters/#emelia-lakeeye-rich-flower) and the Madam, [Laura](/lore/characters/#laura-forway-white-bell), discuss the appearance of Harry's nari gels. Laura says it's because the [Red Winga](/lore/factions/#red-winga) stayed hidden long enough that the Sanbi Royals decided to act more aggressively, and that it's time for the Red Winga to act more aggressively too, since the current conservative strategy hasn't paid off.
 - Laura: "Send all agents to Sanbi, and find all the hidden research, by any means necessary." Emelia: "Yes, Madam. I'll relay the message to the other agents."
+
+# Book 15 - A Game of Minari › Prologue
+
+#### Eiri and Sora at a stand; Harry's face (just as he was, fat and all) is one of the items for sale
+
+- The vendors say it's from their distributor, and if they have a problem, they should take it up with him. They ask who he is. "A round, hairy dude called Lick, from the guild My-Veiny-Balls." He laughs as [Eiri](/lore/characters/#eiri-sanbi-royal) and [Sora](/lore/characters/#sora-sanbi-blue-glass) walk away.
+- They realize Harry must be alive somewhere, and they need to talk with Coema to find out where. Sora argues it's pointless: the search quest never did anything, and Coema hasn't found Arukia yet. Eiri: "We must try! Can you imagine what Harry went through after he was kidnapped, right after starting his job as the Sanbi Eye?"
+
+#### Eiri and Sora with Coema
+
+- [Coema](/lore/characters/#coema-sanbi-half-cruro) looks at the Harry nari gel. "So that's Harry?" Her guild was contacted by a merchant from Sanbi who had a batch of nari gel, and paid top dollar to have it shipped across all the kingdoms. Eiri: "Isn't that suspicious?" "A bit, but it's not the first time. People who are trying to book it usually do that." Eiri and Sora: "So Harry is alive, and trying to get out of his contract?" "Exactly."
+- Eiri: "We want to help him." "By doing what, exactly?" They don't know; Sora talks about asking around. Coema: "I'll take care of that. I have a better job for you two: feed Neferteri false information, and don't let her find out I'm behind Eori's escapade. Though I wouldn't be surprised if she's put two and two together."
+
+# Book 15 - A Game of Minari › Chapter 1 - If only I had Bagarisa Power
+
+#### Harry leaves the atelier with his clothes fixed, near sunset
+
+- Someone comes up behind Harry with a knife at his back. "Say anything, and I'll kill you." Harry defends himself, gets his clothes slashed and takes off running, but the attacker chases him down and slashes him. Harry tries to fight, but it's all in vain as a paralyzing poison takes over. He sees Eori's face, and wakes up.
+
+#### Harry, in a setup very much like the one Eori imprisoned him in
+
+- He looks around and sees things like the ones Eori had. He thinks Eori has caught him, and tries to break free, but he's locked up tight. *No! This has to be a dream!* Then he remembers [Morika](/lore/characters/#morika-tolerideme), in full armor, beating the shit out of him and extracting everything he knew.
+- Harry tries to use his Bagarisa fire, but nothing. He makes a racket trying to break free, until two people come downstairs.
+
+#### Morika, in full armor, and Neferteri come to see Harry
+
+- [Neferteri](/lore/characters/#neferteri-sanbi-royal) has Morika use Harry's blood to make nari gel of his face and spread it to the four corners of the world. "That way, Eori will realize we have Harry, and she'll come back to me."
+- Harry tries to talk. Neferteri: "Please shut this monster up!" She leaves. Morika grabs a weapon, slashes Harry near his groin, and starts collecting his blood. Harry, furious, tries to break free and use the fire, but nothing comes out. He passes out.
+
+#### Harry wakes up again, alone
+
+- He imagines what life could have been if he hadn't lied. He called himself Desmond out of fear, and look where it got him. He tries to get out again, but it doesn't work. He screams for help, says he's Harry, but nothing happens. Harry lowers his head. *I fucked this up.*
+- Morika comes downstairs with food and forces it down Harry's throat. "You're nothing but a failed experiment. Now do as you're told, and serve your purpose."
+
+# Book 15 - A Game of Minari › Chapter 2 - Ex-Sanbi’s Maid.
+
+#### Arukia arrives in Sanbi by boat, her heart struggling
+
+- She starts to think this was all a bad idea. She holds her baby tight as the boat makes landfall, and walks around a bit. Two Cruros sniff close to her, then come over and flip through their books for something pre-written: "We've been looking out for you. Coema wants to talk to you." Arukia freezes for a second, then goes along.
+
+#### Coema; Arukia, holding her baby Bruntos tight; four Cruros nearby
+
+- Coema takes a sip of tea. "That's quite the story you've got there. And Eiri never caught on to your behavior?" [Arukia](/lore/characters/#arukia-long-bridge), holding her baby tight: "Never." "You know why?" "She's too kind." "And you know who isn't?" "The previous King's maid. You."
+- The door opens. Eiri runs to Arukia, hugs her and starts crying. Sora hangs back, noticing the disapproval in Coema's eyes. Coema puts down her tea. "Eiri, you plan on cuddling a traitor all day?" Eiri looks at her in disbelief. Arukia looks down. "It's true." Coema: "Tell it all again." Sora excuses herself, assuming this conversation isn't for her. "Hold up there, young lady. You're gonna listen to all of it too."
+
+#### Eiri cries, Sora consoles her; Arukia, eyes watering, holds the Bruntos
+
+- Eiri: "I can't believe Neferteri lied to me like that too! Why didn't I catch on sooner? It's all my fault! If I hadn't made Harry sign the contract, none of this would have happened." Arukia says nothing. Coema sighs, stands up, and slaps the shit out of Eiri. "Get your Sanbi shit together! If you're so sad about her and this Harry feller, then do something about it!"
+- "But! But!—" Eiri shuts up and swallows her tears. "I need to go talk with Neferteri." "You sure? You do realize what'll happen when Neferteri finds out I'm holding the Red Winga bandit who stole Harry away from Eori." Arukia: "I fled from them." "Doesn't matter. I can't take everything you said at face value either."
+- Eiri: "So what do I do? Should I talk to Itagiba?" Coema shoves a snack in her mouth. "No. He'll get drunk and say something that gives us away. You two stay in the dark until Eori wreaks havoc." "Eori? But she's in Forway." "Not for long. She'll show up back in Sanbi any time now." "How do you know?" "Just as you and Sora saw those Harry-feller nari gels, Eori must have seen them too."
+- The room goes quiet. Coema looks at Arukia. "Arukia, are you ready for your punishment?" Arukia hesitates, then stands, leaving her baby on the seat, aching for her embrace. Coema gets close as if to slap her, but instead softly pats her cheeks with both hands. "The Red Winga, and maybe Neferteri too, won't miss the chance to capture you this time. If you agree to be bait, I promise you a vote from Eiri and Itagiba to exonerate your past actions when the time comes."
+- Arukia: "What about my baby?" "Sora will take care of him, right, Sora?" Sora: "But! But! I've never taken care of a Bruntos before." "Arukia, hand him to her." She does. The baby rests his head against Sora's breasts, feels uncomfortable, pats around trying to find where they went, gets angry and starts crying. Sora looks at Arukia's breasts, then at hers, and her mood sinks. Coema: "Just add some padding for now, and it'll be fine. Nothing to be ashamed of."
+- Eiri: "But—but I don't want to put Arukia in harm's way!" "Daughter. Get your shit together. She needs to pay for her actions, even if they were justified by her own logic."
+
+# Book 15 - A Game of Minari › Chapter 3 - An Old Friendship
+
+#### Ryo and Katsuki, undercover, at a Sanbi bar; Arukia drinks out in the open; sketchy people at two of the tables
+
+- [Katsuki](/lore/characters/#katsuki-flatland-long-blue): "One—Arukia." [Ryo](/lore/characters/#ryo-flatland-long-blue) looks. "She's pretty hot. No wonder the Red Winga recruited her." "One—deserter—two—why?" "Right. This seems pretty fishy, and it's not the Kingdom. I think someone might be baiting us. Look around. See anyone who stands out?" Katsuki isn't sure.
+- Ryo: "The Cruros. See how the share of Cruros in the bar is higher than out in the street?" Katsuki starts noticing it, and sure enough, once you pay attention, it looks like a Cruro festival is going on. Ryo: "Lesson of the day: you need to know people's tactics, and that lets you see what's going on without asking a single question. Granted, it's a bet, but I'm fairly sure who's behind this one. Follow me."
+- Ryo goes to the bar and orders five frothy beers; he grabs three, and Katsuki grabs two. He sets them on the table of a large group of Cruros, to cackles of interest and surprise. "Choose one." The Cruros are unsure; someone smacks their lips and picks one at random. Ryo grabs it and chugs it, which pisses Katsuki off.
+- He sets the empty glass down. A loud burp echoes around, and he taps his chest. "See, my friends? Totally safe! This round is on the house." He lowers his voice. "Tell Coema that Ryo is back in town, and he has info on the bait." He takes Katsuki's hand and leads her back to their seats. "Sorry, babe, but I had to prove a point. I had no choice." Katsuki sighs. "One—tell. Two—next." "Will do, baby. Now let's hang out here until a Cruro takes us to her."
+
+#### Ryo and Coema hug, Katsuki at his side (both in their normal appearance); a few Cruros around
+
+- Coema: "And who might you be?" Ryo: "My lovely assistant, Katsuki." Katsuki doesn't speak. Coema: "Did a Cruro eat your tongue?" Katsuki, embarrassed: "One—no." "One?" Ryo: "It's how she gets the words out. Give it a few minutes and you'll understand what she means. By the way, looks like the Newland expedition turned out pretty rewarding."
+- Coema: "Ryo, it's not too late to take me up on my offer." Ryo laughs, pulls Katsuki close and rubs her belly. "Tempting, yes, but I'll have to pass." Coema watches his hand. "I see. Well, I assume you came to see me for something other than my stories?" Ryo looks at Katsuki. "Go on."
+- Katsuki explains that she wants to buy Harry from her. Coema: "I see. So you two thought the Half-Cruro guild was making nari gels out of him?" Ryo: "Who else would go to the lengths of sending Cruros all over?" "True dat. It is our guild distributing them, but we aren't making them."
+- Katsuki cries: she wants to help Harry. Ryo explains that she and her sister had a falling-out with him, and she wants to rebuild bridges, and recaps what happened. Coema: "Arukia filled in some of the other details too."
+- A loud bang on the door. The Cruros prepare for battle. Coema: "Well, someone was smarter than us." The door opens, and a stranger leaps inside, straight at Coema; she doesn't flinch as the Cruros protect her. The stranger screams: "You fucking bitch! You lied! You used me!" Coema: "Who are you?"
+
+#### Eori, impatient, flips Coema off with one hand and eats a Nari Refresher with the other; Magi holds her badge; a few more Cruros keep them apart from everyone
+
+- [Eori](/lore/characters/#eori-sanbi-royal): "YOU SET ME UP!" Coema chuckles in the silent room. "The plan was for you to do that to Neferteri, not to me." "THEN WHY DID YOU MAKE NARI GELS OUT OF HARRY?" Coema raises a hand. "Again, we distributed them, but didn't produce them." "IT DOESN'T MATTER! WHY DIDN'T YOU TELL ME?"
+- Ryo: "Excuse us, Princess Eori—" "WHAT? Who the fuck are you?" Ryo clears his throat. "Ryo Flatland Long-Blue, and this is my lovely companion Katsuki, of—" Eori looks pretty impatient. "—okay, then."
+- Coema: "Eori, you're not the only one looking for Harry." Ryo: "We all have our reasons, but we want to help him too." Tears well up in Eori's eyes. "Harry is mine! He was mine from the beginning!" Coema: "But does he want to be yours?"
+- Anger kicks in; Eori tries to step toward Coema, but the Cruros won't allow it. Coema: "You're not making this any easier. Will you settle down and listen if I tell you who took Harry from you?" Eori opens her eyes, holds herself back and clenches her fists. "Fine." "Agent Arukia, of the Red Winga." "Where is she?" "Putting herself out as bait as we speak. She's trying to redeem herself, just like Katsuki."
+- Eori: "What did you do to my Harry?" Katsuki fumbles. "One. Took. Two. Care." "What's she saying?" Ryo: "She took great care of Harry after Arukia took him away, and even helped him escape, but they ditched him at the last second." "Where?" "South of Forway. She and her sister were imprisoned at a Black Magina camp. Luckily, I found her sister, who escaped, dying on the roadside." Eori: "So what are you all doing, then?" Ryo: "Using Arukia as bait, and then acting on what she finds?" Coema smiles. "Indeed! We likely have a few more time chunks to share what we know about him!"
+- Ryo: "By the way, can I ask how Princess Eori got involved in this?" Coema: "I gave her the means to free herself, and I plan to do the same for Harry." [Magi](/lore/characters/#magi-blood-blue-flower-red-bone) raises her hand. "But why?" Ryo perks up his ears. "I don't see how you're making money off this either."
+- "You think I only care about money? Honey. You really don't know me after all." Coema stands and spreads her arms. "Money is a tool for me to drink the tears of my enemies. Now, let's feast on Neferteri's tears." Ryo laughs. "Fair game. I'm in." Eori smirks. Magi doesn't look pleased. "Do you all think this is just a joke?" Coema understands where she's coming from, and acknowledges it: it's Neferteri playing games, but this time she's taken it too far, playing with matters she doesn't understand.
+
+# Book 15 - A Game of Minari › Chapter 4 - It’s a Trap\!
+
+#### Arukia leaves the bar, followed by two people
+
+- Arukia walks out, remembering doing something like this before. She takes off running, and the people following her do the same. She runs as if in desperation, but toward a predetermined spot.
+- She acts as if she fears for her life. "Please don't hurt me! I give up! I'll do as the Red Winga contract says." Bandit: "You had your chance. Now you're gonna be used and abused by our worst clientele."
+- A whack to the back of the neck drops one of the bandits forward, and soon after, the other. A Cruro gives a thumbs-up with a small grunt, but then another Cruro squeals in pain: an arrow has perforated its lung. They turn, but can't see anything. Arukia leaps forward and uses one of the bodies as a shield.
+
+#### Arukia uses a body as a meat shield; two dying Cruros share the other bandit as theirs; four agents run toward them
+
+- The Cruros see how smart the idea is, but as they try it, another arrow hits them. Arukia, unarmed and at a dead end, desperately looks for a way out, when one of the Cruros dying on the ground coughs up blood. She sees he's carrying a small knife. "Give me his knife."
+- The Cruro tosses it, but a bit away from her. Arukia peeks out from her shield to grab it, immediately sees a moonlit flash in the distance, and pulls her head back: an arrow screams by, cutting her hair and scratching her skin. The scratch burns, splits open and bleeds more; warm blood runs down her face and drips from her chin.
+- Her meat shield suddenly wakes up, turns around and shoves her to the ground; startled, she lets go of the knife. He squeezes the life out of her, the knife just out of reach. She struggles. He says Emelia is gonna fuck her up the ass: the Madam is really pissed off, and will hunt down and kill both her and Harry.
+- Arukia is about to pass out when he suddenly goes limp and falls forward, hitting his head next to hers. She gasps and pushes the dead body aside. Four more Cruros appear to help her, looking battered from a fight.
+
+#### Morika, in full body armor, ready to fight the four Cruros defending Arukia
+
+- It all goes to shit, and ends with Arukia trying to fight Morika, and getting her head bashed in instead.
+
+# Book 15 - A Game of Minari › Chapter 5 - Choose and Lose.
+
+#### Ryo, Magi, Eori and Coema on nari gel (only Magi is really ready to fly), with a few more Cruros, watch from high above as Morika and Arukia fight
+
+- Eori: "It's him! It's Morika! But why would mom let him wear his full armor while doing her bidding out in the city?" Coema: "Because she's baiting us too. She wants us to follow him." Morika delivers the final blow.
+- Magi looks at the gore, gets irritated and breaks out of her shell. "Why don't we just capture him instead?" Eori: "Morika would never talk. He's her perfect pawn, blindly following her around." Ryo eats his nari gel and starts transforming. "He's taking her away! Let's go." The others follow suit.
+- Coema is the last to take off. She turns to the seven Cruros with her. "Get all the bodies back to the guild." The Cruros acknowledge it and head for the gory scene in the alley. The others take off clumsily, with Magi and Eori coaching them, and tail Morika, who throws a half-assed white sheet over Arukia's mangled body in his wagon.
+- Magi looks at Eori. *She flies just as well as I do. Didn't expect that from a princess.* Morika stops at a rundown building and takes the body inside. Eori: "Let's go!" Coema: "Hold! This is too easy!"
+
+#### Ryo, Magi, Eori (jacked) and Coema sit on top of a building as four more carts, with five Morikas, leave it
+
+- Coema: "She's trying to thin the herd! Everyone, pick a cart and follow it to its destination. Try to peek from afar, then come back to the meeting spot so we can decide which place to raid." Eori swoops off after a cart heading right. Ryo: "I guess I'll take left." Coema: "Magi, let's follow the ones going north?" "Sure."
+- As they follow, Coema: "So Eori hired you, but do you have ulterior motives too?" Magi thinks of her vanished father, then glances at Coema, a mature woman who has likely lived through a whole lot. "My father disappeared, just like Harry." She furrows her brow. *A conspiracy that, I now think, some rich piece of shit was just laughing off.*
+- Coema: "Sorry to hear that. What was your guild again?" "Blue-Flower-Red-Bone." "I see. The name sounds familiar for some reason. Once this is all said and done, come see me for tea, and we can look through the Half-Cruro guild books." "Are you part of that guild?" "But of course. [Kiko](/lore/characters/#kiko-sanbi-half-cruro) founded it to enlighten the lives of the smarter Cruros coming from Cruroland. Why wouldn't I want to support such a great cause?" Magi: "Sure." She looks back at the carts. *While making a buttload of money. I bet you wouldn't care if the guild weren't so rich.*
+
+#### Eori, near dawn, jacked, flies over a house she's been to before
+
+- Eori: *I can't believe she's taking that bitch's body to my house!* Anger flares. She swoops in, crashing through a window on the upper floor. "Morika" (actually XX) climbs the stairs.
+- Eori and Morika fight. She gets the upper hand by using the environment against XX, then kills him. She ties his hands and feet and uses a Nari Refresher on the body, which turns back into XX. Eori, in a fury, stomps on its brain, splattering it across the floor.
+- She goes downstairs to search for Harry, but only finds Arukia's body against the wall. Her anger builds toward Arukia for everything she did to Harry, and to her. She drags the body downstairs, adds more nari gel, and tries to revive her. Nothing. Eori punches Arukia in the chest, breaking her ribs, and keeps punching as tears stream from her eyes.
+
+# Book 15 - A Game of Minari › Epilogue
+
+#### Magi, late morning, follows another wagon; no more Morika, just a random guy with a sword and a wagon full of things
+
+- Magi is sleepy, her arms are sore and her body is cranky, but her mind is strong-willed. She keeps following the cart as it heads to a solitary home in a small village. The cart stops, and Magi lands on a branch of a nearby tree as the man looks around, drawing his weapon.
+- Magi keeps silent. She watches him carry the body inside, looks around for anyone else, and finds no one. She flies to the chimney of the house, where she hears a distinctly familiar voice: the voice of a queen. "Were you followed, as I expected?" Morika: "Yes, my Queen. We split up into different hideouts, as requested." Neferteri: "Thank you. Now let's find out what happened." "My Queen, forgive my question, but are you sure you want to take part in the interrogation?" "I want to see this matter resolved quickly, so yes."
+- Magi has to decide: stay, or go back and raise the alarm. She takes off.
