@@ -1,4 +1,16 @@
 {
+ "0145f741e3be": {
+  "en": "<strong>Calm Water Resort Guild (#4):</strong> adventurers who are getting old and have no money left join this guild, spending their retirement at the Calm Water Resort in exchange for helping protect it against threats.",
+  "t": "<strong>Calm Water Resort Guild (#4):</strong> los aventureros que se van haciendo mayores y no tienen dinero se unen a este gremio, y pasan su jubilación en el Calm Water Resort a cambio de ayudar a protegerlo de las amenazas."
+ },
+ "023fe97a0a48": {
+  "en": "Mostly humans, with a handful of Darfaries, a few Wozefaries and tons of Sorefaries, plus a handful of adventurers with Bruntos or Sorefaries.",
+  "t": "Sobre todo humanos, con un puñado de Darfaries, unos cuantos Wozefaries y montones de Sorefaries, además de un puñado de aventureros con Bruntos o Sorefaries."
+ },
+ "02fb4cefb711": {
+  "en": "<strong>Local embassy quests:</strong> embassy checking and verification.",
+  "t": "<strong>Misiones locales de la embajada:</strong> comprobación y verificación de la embajada."
+ },
  "068ba6951d50": {
   "en": "Cadioca",
   "t": "Cadioca"
@@ -7,41 +19,373 @@
   "en": "Tastyleaf",
   "t": "Tastyleaf"
  },
+ "088f7c66db12": {
+  "en": "<strong>Economy:</strong> exports Lonllows all year long; the five guilds' cooperation keeps a constant supply flowing through the kingdoms.",
+  "t": "<strong>Economía:</strong> exporta Lonllows todo el año; la cooperación de los cinco gremios mantiene un suministro constante por los reinos."
+ },
+ "0b9e98ac54d6": {
+  "en": "<strong>Education:</strong> follows Forway.",
+  "t": "<strong>Educación:</strong> sigue a Forway."
+ },
+ "0cdeb9641aef": {
+  "en": "<strong>Clothing:</strong> warm-weather hunting clothes.",
+  "t": "<strong>Ropa:</strong> ropa de caza para clima cálido."
+ },
+ "0e5922e6bdae": {
+  "en": "Other races rarely visit, out of fear of the Cruros, who act on instinct.",
+  "t": "Las demás razas apenas la visitan, por miedo a los Cruros, que actúan por instinto."
+ },
+ "0e8670834c13": {
+  "en": "<strong>Asa, Paulin, Moacir and Adrian Lonllow Harvest (#2 to #5):</strong> each guild coordinates the harvest in its own month of the year.",
+  "t": "<strong>Cosecha de Lonllow de Asa, Paulin, Moacir y Adrian (#2 a #5):</strong> cada gremio coordina la cosecha en su propio mes del año."
+ },
+ "0f398def6755": {
+  "en": "Two villages across the lake offer transport, and the constant flow of people through them gave the city its economic lifeline. They see themselves as villages of the Freeish Kingdom, but Forway made them a city of their own to shrink the kingdom; through backdoor negotiations, they stay part of the Freeish Kingdom anyway.",
+  "t": "Dos aldeas al otro lado del lago ofrecen transporte, y el flujo constante de gente por ellas le dio a la ciudad su salvavidas económico. Se consideran aldeas del Freeish Kingdom, pero Forway las convirtió en una ciudad propia para reducir el reino; mediante negociaciones bajo cuerda, siguen formando parte del Freeish Kingdom de todos modos."
+ },
+ "135aa68327b2": {
+  "en": "<strong>Clothing:</strong> a gap between rich and poor, mixing styles from every other kingdom.",
+  "t": "<strong>Ropa:</strong> una brecha entre ricos y pobres, que mezcla estilos de todos los demás reinos."
+ },
+ "17f112e14a68": {
+  "en": "<strong>Names:</strong> like the Gandew Kingdom and Forway.",
+  "t": "<strong>Nombres:</strong> como en el Gandew Kingdom y Forway."
+ },
  "18eb8f9e258b": {
   "en": "A badge is required to access the Black Castle and the innermost maze of Forway's cityscape. It's all for security and trading purposes since that's where the balls and contracts flow the most.",
   "t": "Hace falta una insignia para acceder al Black Castle y al laberinto más interior del entramado urbano de Forway. Todo es por seguridad y por el comercio, ya que ahí es donde más circulan las bolas y los contratos."
+ },
+ "19f6469ba817": {
+  "en": "<strong>Broken Knuckle:</strong> the tavern where Honati worked.",
+  "t": "<strong>Broken Knuckle:</strong> la taberna donde trabajaba Honati."
+ },
+ "1f2ead0d49db": {
+  "en": "City (World Lore illustration)",
+  "t": "Ciudad (ilustración del Lore del mundo)"
+ },
+ "200306699496": {
+  "en": "According to the smartest Cruros, quite a few tribes divide the territory:",
+  "t": "Según los Cruros más listos, unas cuantas tribus se reparten el territorio:"
+ },
+ "220ddf150e26": {
+  "en": "<strong>Marriage:</strong> mixed. Some marry by their own customs, going to the palace to speak with their kingdom or city representative. A growing trend is contract marriage between money-hungry people.",
+  "t": "<strong>Matrimonio:</strong> mezclado. Algunos se casan según sus propias costumbres, yendo al palacio a hablar con el representante de su reino o de su ciudad. Una tendencia creciente es el matrimonio por contrato entre gente con hambre de dinero."
  },
  "24652e28b940": {
   "en": "Blood",
   "t": "Blood"
  },
+ "2aa2f5bb5a66": {
+  "en": "Rich fauna and flora drew hunters (back before adventurers were a thing) to spend most of their lives around here. A single fire pit and a nearby hut slowly grew into a cluster of stone fireplaces with a city around them. The fire pits are constantly fed carcasses and other unusable garbage to smelt iron and other minerals and for blacksmithing, and since the city grew out of community spirit, they're public and publicly maintained.",
+  "t": "Su rica fauna y flora atrajeron a cazadores (de antes de que existieran los aventureros) a pasar aquí la mayor parte de su vida. Una sola hoguera y una cabaña cercana fueron creciendo poco a poco hasta formar un grupo de chimeneas de piedra con una ciudad a su alrededor. Las hogueras se alimentan constantemente con cadáveres y otra basura inservible para fundir hierro y otros minerales y para la herrería y, como la ciudad nació del espíritu comunitario, son públicas y se mantienen entre todos."
+ },
+ "2c16e9a223de": {
+  "en": "<strong>Threats:</strong> the occasional drunk, pervert or bandit, or all three in one person; and adventurers investigating something a Flatland guild didn't hide well enough.",
+  "t": "<strong>Amenazas:</strong> algún borracho, pervertido o bandido de vez en cuando, o los tres en una sola persona; y los aventureros que investigan algo que un gremio de Flatland no escondió lo bastante bien."
+ },
+ "2ca032c0016d": {
+  "en": "<strong>Marriage:</strong> made official by the village leader. Then the couple (who must buy or build a house first) goes to the House of Bruntos to bond with one and bring it home.",
+  "t": "<strong>Matrimonio:</strong> lo oficializa el jefe de la aldea. Luego la pareja (que primero debe comprar o construir una casa) va a la Casa de los Bruntos para crear un vínculo con uno y llevárselo a casa."
+ },
+ "3139dba5b647": {
+  "en": "<strong>Names:</strong> mixed.",
+  "t": "<strong>Nombres:</strong> mezclados."
+ },
+ "31af7e2a22ff": {
+  "en": "<strong>The Fivs:</strong> the transportation guild that moves the Lonllows. It has no proper name: \"Fivs\" became the shorthand because they were the last (fifth) guild welcomed in, and the farming guilds kind of put themselves above them.",
+  "t": "<strong>The Fivs:</strong> el gremio de transporte que mueve los Lonllows. No tiene un nombre propiamente dicho: «Fivs» se quedó como abreviatura porque fueron el último (el quinto) gremio en ser acogido, y los gremios agrícolas como que se pusieron por encima de ellos."
+ },
+ "33d99825d022": {
+  "en": "<strong>Marriage and names:</strong> like the Freeish Kingdom, but a marriage proposal is made with the game they're proudest of instead of fruit.",
+  "t": "<strong>Matrimonio y nombres:</strong> como en el Freeish Kingdom, pero la propuesta de matrimonio se hace con la pieza de caza de la que más orgullosos están en vez de con fruta."
+ },
+ "35178d8f5712": {
+  "en": "<strong>Names:</strong> they don't have names. The highly intelligent ones get one from the Sanbi or Tastyleaf embassy, through the Half-Cruro guild.",
+  "t": "<strong>Nombres:</strong> no tienen nombres. Los muy inteligentes reciben uno de la embajada de Sanbi o de Tastyleaf, a través del gremio Half-Cruro."
+ },
+ "35b259290ec3": {
+  "en": "Food",
+  "t": "Comida"
+ },
  "37f55ee4a86e": {
   "en": "Forway Guards: a guard in white-and-gray hooded armor, next to a map section around Forway city.",
   "t": "Guardias de Forway: un guardia con armadura blanca y gris con capucha, junto a una sección del mapa alrededor de la ciudad de Forway."
+ },
+ "38152b677861": {
+  "en": "<strong>Lonllows Cuisine:</strong> a big fest in Paulin, where people from all over make food and drinks with Lonllows. The winner takes home a massive stack of Lonllows.",
+  "t": "<strong>Cocina de Lonllows:</strong> una gran fiesta en Paulin, donde gente de todas partes prepara comidas y bebidas con Lonllows. El ganador se lleva a casa una pila enorme de Lonllows."
+ },
+ "3a2d7da20eed": {
+  "en": "<strong>Crime and law:</strong> follows Forway Law. Minor punishments are paid by replacing the goods; for a major one, the criminal is thrown into the Skin Peeler.",
+  "t": "<strong>Delito y ley:</strong> sigue la Ley de Forway. Los castigos menores se pagan reponiendo los bienes; por uno grave, el criminal es arrojado al Skin Peeler."
+ },
+ "3c9f08d5f15d": {
+  "en": "<strong>Crime and law:</strong> like the Sanbi Kingdom.",
+  "t": "<strong>Delito y ley:</strong> como en el Sanbi Kingdom."
+ },
+ "3e940f401b10": {
+  "en": "<strong>Egua Uniform Contest:</strong> every Asa and Adrian, a contest to design new uniforms for the eguas; they must be waterproof and suit the weather. The winner's name goes on a board displayed at the crossing buildings.",
+  "t": "<strong>Concurso de Uniformes de Egua:</strong> cada Asa y Adrian, un concurso para diseñar nuevos uniformes para las eguas; tienen que ser impermeables y adecuados al clima. El nombre del ganador va en un tablón expuesto en los edificios de travesía."
+ },
+ "3eb7936bcef6": {
+  "en": "<strong>Clothing:</strong> closer to the Freeish Kingdom, mixed with Forway.",
+  "t": "<strong>Ropa:</strong> más cercana al Freeish Kingdom, mezclada con Forway."
+ },
+ "40e5eb2ae546": {
+  "en": "<strong>Second Life:</strong> every Moacir, a festival across the whole town celebrating every Wozefaries and Sorefaries who has landed since the last one.",
+  "t": "<strong>Second Life:</strong> cada Moacir, un festival por todo el pueblo que celebra a cada Wozefaries y Sorefaries que ha aterrizado desde el último."
+ },
+ "4129ea4ceb21": {
+  "en": "<strong>#2:</strong> rather peaceful.",
+  "t": "<strong>#2:</strong> bastante pacífica."
+ },
+ "44f9fb0aa7cd": {
+  "en": "<strong>The Floating Egua Hotel (#2):</strong> one of the oldest hotels, with entertainment for all tastes.",
+  "t": "<strong>The Floating Egua Hotel (#2):</strong> uno de los hoteles más antiguos, con entretenimiento para todos los gustos."
+ },
+ "463e87409dfc": {
+  "en": "<strong>Economy:</strong> vellum from animal skin; butchers working game, bone and skin; bone armor and swords; bone meal and items such as totems; Black Mead; nari.",
+  "t": "<strong>Economía:</strong> vitela de piel animal; carniceros que trabajan la caza, el hueso y la piel; armaduras y espadas de hueso; harina de hueso y objetos como tótems; Black Mead; nari."
+ },
+ "47d32a030409": {
+  "en": "Points of interest: the Cruro tribes",
+  "t": "Puntos de interés: las tribus Cruro"
+ },
+ "481dca803873": {
+  "en": "<strong>Local embassy quests:</strong> nothing extra.",
+  "t": "<strong>Misiones locales de la embajada:</strong> nada adicional."
+ },
+ "4c896db0ae12": {
+  "en": "<strong>Names:</strong> like the Sanbi Kingdom.",
+  "t": "<strong>Nombres:</strong> como en el Sanbi Kingdom."
+ },
+ "4c89885f6c32": {
+  "en": "A decentralized government among the villages, led by guilds that work independently but cooperate rather well. Forway counts it as a single city, and the guilds choose a smart, good-natured representative with a strong bond with a Brunto.",
+  "t": "Un gobierno descentralizado entre las aldeas, liderado por gremios que trabajan de forma independiente pero cooperan bastante bien. Forway lo cuenta como una sola ciudad, y los gremios eligen a un representante listo y de buen carácter con un fuerte vínculo con un Brunto."
  },
  "4d31a8ab27bb": {
   "en": "Forway Guards",
   "t": "Guardias de Forway"
  },
+ "4ea20ea71e1d": {
+  "en": "<strong>Lonllow Breadcake:</strong> a delicious, not-too-sweet breadcake, common on Endlessfog. About 9 Pearls for a loaf the size of two fists.",
+  "t": "<strong>Pastel de pan de Lonllow:</strong> un delicioso pastel de pan, no demasiado dulce, común en Endlessfog. Unos 9 Pearls por una hogaza del tamaño de dos puños."
+ },
+ "4f383ae666f2": {
+  "en": "Mostly Bruntos, with humans coordinating with them. People are often paler than usual, from less sun. They're nature-minded: at some point they even started burying people in the land and planting banana trees on top. Colder to foreigners, and outright violent with anyone who harms them or the Bruntos.",
+  "t": "Sobre todo Bruntos, con humanos coordinándose con ellos. La gente suele ser más pálida de lo normal, por el poco sol. Tienen mentalidad de naturaleza: en algún momento empezaron incluso a enterrar a la gente en la tierra y plantar bananeros encima. Más fríos con los forasteros, y directamente violentos con cualquiera que les haga daño a ellos o a los Bruntos."
+ },
+ "4f7d34c78a73": {
+  "en": "Society and culture",
+  "t": "Sociedad y cultura"
+ },
+ "50948c24ec90": {
+  "en": "<strong>Burial:</strong> bodies are often buried in the desert; Wozefaries and Sorefaries grew used to being buried at the same spot where they landed.",
+  "t": "<strong>Entierro:</strong> los cuerpos suelen enterrarse en el desierto; los Wozefaries y Sorefaries se acostumbraron a que los enterraran en el mismo sitio donde aterrizaron."
+ },
  "51112a2e7385": {
   "en": "Forway Guards trust their crossbows with their lives. Their shiny armor and respectable funding from Forway make them rather visible and somewhat slow, but they always travel in groups, so picking a fight with them is not advised. That is unless you know how to exploit their superiority complex, which is a common trait amongst these guards. Just make them think they have the upper hand, then attack them with a surprise counterattack at the last second to make them bleed out. Some have successfully baited them into a trap as well, but that ain’t as easy when they have a Sorefaries or another companion watching their surroundings. Either way, once you start battling them, be wary of their revival capabilities if you don’t take away their hearty and expensive supply of black honey often stored in their leg pockets.",
   "t": "Los Guardias de Forway confían su vida a sus ballestas. Su armadura reluciente y la generosa financiación de Forway los hacen bastante visibles y algo lentos, pero siempre van en grupo, así que no es recomendable buscarles pelea. A menos que sepas aprovechar su complejo de superioridad, un rasgo común entre estos guardias. Basta con hacerles creer que llevan ventaja y luego atacarlos con un contraataque sorpresa en el último segundo para que se desangren. Algunos también han conseguido atraerlos a una trampa, aunque no es tan fácil cuando llevan a un Sorefaries o a otro compañero vigilando los alrededores. Sea como sea, una vez empieces a luchar con ellos, cuidado con su capacidad de reanimarse si no les quitas su abundante y cara reserva de miel negra, que suelen guardar en los bolsillos de las piernas."
+ },
+ "5333ec4aed89": {
+  "en": "<strong>Forway and You:</strong> the biggest journal, issued weekly on Freeday, with news, fashion and more.",
+  "t": "<strong>Forway and You:</strong> el periódico más grande, que sale cada semana en Freeday, con noticias, moda y más."
+ },
+ "5339066b1aeb": {
+  "en": "<strong>Crossing Buildings (#1):</strong> large buildings where eguas and their carriages board a bigger boat, pulled by six eguas. Because of the water, the boat pulls about 10 tons: 15 full wagons per crossing, back and forth. 15 Pearls per wagon per crossing, 2 Pearls per person. The eguas pulling the boat are all dressed in uniform, a tradition from the village's early days.",
+  "t": "<strong>Edificios de Travesía (#1):</strong> grandes edificios donde las eguas y sus carruajes embarcan en un barco más grande, tirado por seis eguas. Gracias al agua, el barco tira de unas 10 toneladas: 15 carretas llenas por travesía, de ida y vuelta. 15 Pearls por carreta y travesía, 2 Pearls por persona. Las eguas que tiran del barco van todas uniformadas, una tradición de los primeros días de la aldea."
+ },
+ "54753e9d684e": {
+  "en": "<strong>Crime and law:</strong> Forway Law. If the person can pay for the crime, they walk away; if not, they go to prison.",
+  "t": "<strong>Delito y ley:</strong> Ley de Forway. Si la persona puede pagar por el delito, se va tan tranquila; si no, va a la cárcel."
+ },
+ "55008f0a0573": {
+  "en": "<strong>Sun-Rotted Animals:</strong> a delicacy among Cruros, and perhaps some humans. Traded for other food, or free if the Tribe Leader gives it to you.",
+  "t": "<strong>Animales podridos al sol:</strong> un manjar entre los Cruros, y quizá para algunos humanos. Se intercambian por otra comida, o son gratis si te los da el Jefe de la Tribu."
+ },
+ "555b9db7a85f": {
+  "en": "<strong>Visual references:</strong> like the Freeish Kingdom, but with hunting totems instead of trees with Trunk People.",
+  "t": "<strong>Referencias visuales:</strong> como el Freeish Kingdom, pero con tótems de caza en vez de árboles con Trunk People."
+ },
+ "56b1491dbf73": {
+  "en": "<strong>Economy:</strong> helping people cross the delta; resorts and bars.",
+  "t": "<strong>Economía:</strong> ayudar a la gente a cruzar el delta; complejos turísticos y bares."
+ },
+ "56b8df7cf7a6": {
+  "en": "<strong>Education:</strong> Forway created a fundamental school for children to \"expand their knowledge\", but a chunk of the population \"wood-schools\" their children instead of paying for it.",
+  "t": "<strong>Educación:</strong> Forway creó una escuela fundamental para que los niños «amplíen sus conocimientos», pero una parte de la población «escolariza en el bosque» a sus hijos en vez de pagarla."
+ },
+ "5961396df807": {
+  "en": "<strong>Bone festival:</strong> every Asa, new totems are added around the city. People leave empty beer cups at the base of the totems they like most; the favorites are placed around town, and the losers are burned.",
+  "t": "<strong>Festival de los Huesos:</strong> cada Asa se añaden nuevos tótems por la ciudad. La gente deja jarras de cerveza vacías al pie de los tótems que más le gustan; los favoritos se colocan por la ciudad, y los perdedores se queman."
+ },
+ "5a4f92a8ca07": {
+  "en": "Ganyrami",
+  "t": "Ganyrami"
+ },
+ "5c0ce926723f": {
+  "en": "<strong>Boiling Ramen:</strong> ramen (from Tolerideme) cooked on the hottest geyser, with seasonings found only here, served with meat, wild game or fish. 7 to 30 Pearls a bowl.",
+  "t": "<strong>Ramen hirviente:</strong> ramen (de Tolerideme) cocinado en el géiser más caliente, con condimentos que solo se encuentran aquí, servido con carne, caza o pescado. De 7 a 30 Pearls el cuenco."
+ },
+ "5dbce8852528": {
+  "en": "Visual references:",
+  "t": "Referencias visuales:"
+ },
+ "5ff714495e87": {
+  "en": "Endlessfog",
+  "t": "Endlessfog"
+ },
+ "609b40edeec1": {
+  "en": "<strong>Wooly Filet Mignon wrapped in smoked Bagarisa bacon:</strong> one of the most expensive dishes around, served with mashed fried Cadioca and Domar barley. 1 Amethyst a meal; usually the first entrée at expensive taverns.",
+  "t": "<strong>Filet mignon de Wooly envuelto en panceta ahumada de Bagarisa:</strong> uno de los platos más caros que hay, servido con puré de Cadioca frita y cebada de Domar. 1 Amethyst por comida; suele ser el primer entrante en las tabernas caras."
+ },
+ "6181bd94feda": {
+  "en": "<strong>Local embassy quests:</strong> Sweetlake assistance, Woodland exploration, Nari Caves assistance.",
+  "t": "<strong>Misiones locales de la embajada:</strong> asistencia en Sweetlake, exploración de Woodland, asistencia en las Nari Caves."
+ },
+ "623fffd32004": {
+  "en": "<strong>The Great Hunter/Huntress competition:</strong> every Asa, a two-week competition for the strongest hunters: tree cutting, hunting, skinning, wrestling, survival, honey gathering, etc.",
+  "t": "<strong>La competición del Gran Cazador/Gran Cazadora:</strong> cada Asa, una competición de dos semanas para los cazadores más fuertes: tala de árboles, caza, despellejado, lucha, supervivencia, recolección de miel, etc."
+ },
+ "6450ad627cc1": {
+  "en": "<strong>Economy:</strong> trade and tourism.",
+  "t": "<strong>Economía:</strong> comercio y turismo."
+ },
+ "66fa8b201802": {
+  "en": "<strong>Nari Extraction Coordination Office (#5):</strong> a long name for a building that investigates and prosecutes anyone who harms the nari worms.",
+  "t": "<strong>Nari Extraction Coordination Office (#5):</strong> un nombre largo para un edificio que investiga y procesa a cualquiera que haga daño a los nari worms."
  },
  "6a904b823b54": {
   "en": "Forway city emblem: a silver-ringed disc split into tan, red, blue and green sections with a mountain, wheat, a fish and a branching line around a pearl.",
   "t": "Emblema de la ciudad de Forway: un disco con borde plateado dividido en secciones beige, roja, azul y verde, con una montaña, trigo, un pez y una línea ramificada alrededor de una perla."
  },
+ "6b1bd80fb3bf": {
+  "en": "Mostly Wozefaries, with some Sorefaries, a few humans, and some humans from Sundeath. Lots of tourists, leaning heavily male. Their motto: \"Flatland is here to satisfy you.\" Very open-minded and warm, but step out of line or pry into their private matters, and they'll kill you to protect their town and its people. Reserved about private matters, but very accommodating about everything else: good listeners, touchy and handsy. Boots and sandals stay in one spot inside the home (real-world comparison: Thailand).",
+  "t": "Sobre todo Wozefaries, con algunos Sorefaries, unos cuantos humanos y algunos humanos de Sundeath. Muchos turistas, con una mayoría clara de hombres. Su lema: «Flatland está aquí para satisfacerte». Muy abiertos de mente y cálidos, pero pásate de la raya o métete en sus asuntos privados y te matarán para proteger su pueblo y a su gente. Reservados con los asuntos privados, pero muy complacientes con todo lo demás: saben escuchar, sobones y toquetones. Las botas y las sandalias se quedan en un sitio concreto dentro de casa (comparación con el mundo real: Tailandia)."
+ },
+ "6b6c1411f9a9": {
+  "en": "Retired hunters gather around the stone fireplaces every day to help run the city. With no representative, governor or king, Blood doesn't have a strong voice at the Forway meetings. Forway tried to push a government on them and got a backlash (animal guts poured on their Blood embassy), so it switched to a slow takeover through the embassy quest system, signing people up as adventurers instead. With time, they'll change the culture.",
+  "t": "Los cazadores retirados se reúnen cada día alrededor de las chimeneas de piedra para ayudar a gobernar la ciudad. Sin representante, gobernador ni rey, Blood no tiene una voz fuerte en las reuniones de Forway. Forway intentó imponerles un gobierno y se llevó una reacción en contra (les echaron vísceras de animales en su embajada de Blood), así que pasó a una toma de control lenta a través del sistema de misiones de la embajada, apuntando a la gente como aventureros. Con el tiempo, cambiarán la cultura."
+ },
+ "6bd93f0aaada": {
+  "en": "<strong>White Bell (#3):</strong> famous for a single courtesan who rose in life after a career pleasuring her guests, and now controls multiple brothels. She has a big, well-known homestead where some \"parties\" happen.",
+  "t": "<strong>White Bell (#3):</strong> famoso por una única cortesana que prosperó en la vida tras una carrera dando placer a sus clientes, y que ahora controla varios burdeles. Tiene una casa grande y conocida donde se celebran algunas «fiestas»."
+ },
+ "6cb064b13500": {
+  "en": "<strong>Crime and law:</strong> follows Forway Law. Minor punishments are paid by replacement; for a major one, the criminal is sent to Freeish.",
+  "t": "<strong>Delito y ley:</strong> sigue la Ley de Forway. Los castigos menores se pagan reponiendo lo dañado; por uno grave, el criminal es enviado a Freeish."
+ },
+ "6cc49b50edea": {
+  "en": "<strong>Burial:</strong> no widely followed ritual. Some throw the bodies into the delta so they're carried out to sea; others follow the customs of where they came from.",
+  "t": "<strong>Entierro:</strong> no hay un ritual seguido por todos. Algunos tiran los cuerpos al delta para que se los lleve el mar; otros siguen las costumbres de su lugar de origen."
+ },
+ "6e5c2fcb518a": {
+  "en": "Politics",
+  "t": "Política"
+ },
+ "6f4a9745dca7": {
+  "en": "<strong>Fireplaces:</strong> the stone fireplaces the city grew around.",
+  "t": "<strong>Chimeneas:</strong> las chimeneas de piedra alrededor de las cuales creció la ciudad."
+ },
+ "70cc4278b6b4": {
+  "en": "<strong>Threats:</strong> anyone trying to overthrow the current balance of power, or planting false information between leaders to provoke arguments.",
+  "t": "<strong>Amenazas:</strong> cualquiera que intente derrocar el equilibrio de poder actual, o que siembre información falsa entre los líderes para provocar discusiones."
+ },
+ "712ebd9bc6e7": {
+  "en": "Sweetlake",
+  "t": "Sweetlake"
+ },
+ "727c0903d1e8": {
+  "en": "<strong>Specialized Schools (#E types):</strong> see Education.",
+  "t": "<strong>Escuelas Especializadas (tipos #E):</strong> ver Educación."
+ },
+ "73d3ae245f3c": {
+  "en": "Triangle",
+  "t": "Triangle"
+ },
+ "75e9b2db66d6": {
+  "en": "<strong>Threats:</strong> the dumb ones, or their pets, attack passersby once in a while, and if the population grows too large, adventurers could invade to thin it out. Some Sanbi citizens still hold a grudge against the Cruros for taking away the easy job of collecting pearls.",
+  "t": "<strong>Amenazas:</strong> los tontos, o sus mascotas, atacan a los transeúntes de vez en cuando, y si la población crece demasiado, los aventureros podrían invadir para reducirla. Algunos ciudadanos de Sanbi todavía les guardan rencor a los Cruros por quitarles el trabajo fácil de recoger perlas."
+ },
  "7735fd308fce": {
   "en": "Cities",
   "t": "Ciudades"
+ },
+ "7af50d9988db": {
+  "en": "<strong>InBalls Spring Resort:</strong> like OutBalls, but female-focused.",
+  "t": "<strong>InBalls Spring Resort:</strong> como el OutBalls, pero pensado para mujeres."
+ },
+ "7d35538976dc": {
+  "en": "Hunting totems made of bone, stone, Fost stone and wood are placed and maintained around town, and people eat bone meal to keep their souls strong. They're rather tribal, but welcoming to people who don't look like authority; always ready to fight and compete to be the best, while keeping their hunting secrets within their guilds over generations. Some families actively avoid all Forway embassy services.",
+  "t": "Por la ciudad se colocan y se mantienen tótems de caza hechos de hueso, piedra, Fost stone y madera, y la gente come harina de hueso para mantener fuertes sus almas. Son bastante tribales, pero acogedores con la gente que no parece una autoridad; siempre listos para pelear y competir por ser los mejores, mientras guardan sus secretos de caza dentro de sus gremios a lo largo de generaciones. Algunas familias evitan activamente todos los servicios de la embajada de Forway."
+ },
+ "7dad09e57607": {
+  "en": "<strong>Burial:</strong> they trade their dead for food.",
+  "t": "<strong>Entierro:</strong> intercambian a sus muertos por comida."
+ },
+ "82337815f0c0": {
+  "en": "<strong>Bloody Blood Sausage:</strong> Blood City's famous Bagarisa-and-blood sausage, in a wavy pattern.",
+  "t": "<strong>Morcilla sangrienta:</strong> la famosa salchicha de Bagarisa y sangre de Blood City, en forma ondulada."
  },
  "827944f72095": {
   "en": "13 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "Hay 13 entradas más de esta página que solo están en <button class=\"linklike\" data-go-bts>Entre bastidores</button>."
  },
+ "8335d5e3de66": {
+  "en": "<strong>Economy:</strong> a spring town for travelers and a rest stop before the Gandew Kingdom; adventurers hire Sorefaries here. Mines Amethysts for Forway City, and mines and processes Fost stones.",
+  "t": "<strong>Economía:</strong> un pueblo de aguas termales para viajeros y una parada de descanso antes del Gandew Kingdom; aquí los aventureros contratan a Sorefaries. Extrae Amethysts para Forway City, y extrae y procesa Fost stones."
+ },
+ "85cf1d68359d": {
+  "en": "<strong>Drunken Sweet Sting Festival:</strong> every Adrian, the top 10 of the Great Hunter/Huntress competition dress in special Sweet Sting costumes and bar-hop around Blood and Sweetlake, drinking Black Mead. Other adventurers follow along celebrating, and bars put on their best show and goods to lure the famous adventurers in.",
+  "t": "<strong>Festival del Sweet Sting Borracho:</strong> cada Adrian, los 10 primeros de la competición del Gran Cazador/Gran Cazadora se visten con disfraces especiales de Sweet Sting y van de bar en bar por Blood y Sweetlake, bebiendo Black Mead. Otros aventureros los siguen de celebración, y los bares sacan su mejor espectáculo y su mejor género para atraer a los aventureros famosos."
+ },
  "860fa4fb3f40": {
   "en": "Tolerideme",
   "t": "Tolerideme"
+ },
+ "8670b866b855": {
+  "en": "<strong>Education:</strong> a standard dress code and teaching (see Education).",
+  "t": "<strong>Educación:</strong> un código de vestimenta y una enseñanza estándar (ver Educación)."
+ },
+ "873af5201944": {
+  "en": "<strong>Marriage:</strong> the tribe leader is the only one who can mate with all the Crocus in the region.",
+  "t": "<strong>Matrimonio:</strong> el jefe de la tribu es el único que puede aparearse con todas las Crocus de la región."
+ },
+ "88b120300609": {
+  "en": "Mostly Crocus and dumb Cruros, a few intelligent Cruros, and rarely a highly intelligent one who stays. No religion. Tribal: a young Cruro's rite of passage is to kill one Wood Person, bring the body back to build a hut, and tame a Crocus.",
+  "t": "Sobre todo Crocus y Cruros tontos, unos cuantos Cruros inteligentes y, rara vez, uno muy inteligente que se queda. Sin religión. Tribal: el rito de paso de un Cruro joven es matar a un Wood Person, traer el cuerpo para construir una cabaña y domar a un Crocus."
+ },
+ "8a239039d68b": {
+  "en": "<strong>Grand Miner (#5):</strong> the region's biggest mining operation, specializing in Amethysts for minting.",
+  "t": "<strong>Grand Miner (#5):</strong> la mayor explotación minera de la región, especializada en Amethysts para acuñar."
+ },
+ "8a241e57b6ca": {
+  "en": "A city bristling with research, academia and rich people. Forway's style is gothic, like the Addams Family (metal bathtubs, black with red corners), and it's also known for its bureaucracy. Rich people live inside the city, where a badge is required; poor people live around it, where no badge is needed.",
+  "t": "Una ciudad rebosante de investigación, academia y gente rica. El estilo de Forway es gótico, como la Familia Addams (bañeras de metal, negras con esquinas rojas), y también es conocida por su burocracia. Los ricos viven dentro de la ciudad, donde se exige insignia; los pobres viven a su alrededor, donde no hace falta."
+ },
+ "8a6951ca270d": {
+  "en": "<strong>Drink Floaters:</strong> drinks served in Cocona shells, which you let float off into the stream when you're done. 10 to 30 Pearls.",
+  "t": "<strong>Bebidas flotantes:</strong> bebidas servidas en cáscaras de Cocona, que dejas flotar río abajo cuando terminas. De 10 a 30 Pearls."
+ },
+ "8b2a6706febd": {
+  "en": "<strong>Flatland Darfaries Market (#1):</strong> the city's center, where many products to and from the Gandew Kingdom are found.",
+  "t": "<strong>Mercado Darfaries de Flatland (#1):</strong> el centro de la ciudad, donde se encuentran muchos productos que van y vienen del Gandew Kingdom."
+ },
+ "8b2f4dfa1378": {
+  "en": "<strong>Life 'n' Oasis Resort (#2):</strong> a large resort for rich people, owned and run by one of the bandit guilds, which is rumored to still operate underground.",
+  "t": "<strong>Life 'n' Oasis Resort (#2):</strong> un gran complejo para ricos, propiedad de uno de los gremios de bandidos, que también lo gestiona y del que se rumorea que sigue operando en la clandestinidad."
+ },
+ "8d1c86cf78f8": {
+  "en": "<strong>#1 and #10:</strong> too busy dealing with the Wood People to care what happens around them.",
+  "t": "<strong>#1 y #10:</strong> demasiado ocupadas lidiando con los Wood People como para que les importe lo que pasa a su alrededor."
+ },
+ "8d9e36c67cfe": {
+  "en": "A tribe leader's word is final. To become tribe leader, you fight the current one; when another Cruro wins, all the previous leader's infants are killed and eaten. Highly intelligent Cruros don't take part in the tribal fights.",
+  "t": "La palabra del jefe de la tribu es definitiva. Para convertirte en jefe de la tribu, luchas contra el actual; cuando gana otro Cruro, todas las crías del jefe anterior son asesinadas y devoradas. Los Cruros muy inteligentes no participan en las luchas tribales."
+ },
+ "926dbe8a1db4": {
+  "en": "<strong>Hot in the Cold:</strong> every Asa, a food festival around the Skin Peeler Geyser.",
+  "t": "<strong>Hot in the Cold:</strong> cada Asa, un festival gastronómico alrededor del Géiser Skin Peeler."
  },
  "94f8b3c408cf": {
   "en": "Forway",
@@ -51,36 +395,264 @@
   "en": "In a way, it can be considered its own Kingdom, but its officials would vehemently deny that's the case.",
   "t": "En cierto modo, puede considerarse un Reino propio, pero sus autoridades lo negarían con vehemencia."
  },
+ "96f9d1947e57": {
+  "en": "<strong>Clothing:</strong> none.",
+  "t": "<strong>Ropa:</strong> ninguna."
+ },
+ "97b96e73dce8": {
+  "en": "<strong>Threats:</strong> Forway stamping on their way of life for trying to be part of the Freeish Kingdom.",
+  "t": "<strong>Amenazas:</strong> que Forway pisotee su forma de vida por intentar formar parte del Freeish Kingdom."
+ },
+ "99caf98549dc": {
+  "en": "<strong>Calm Water Resort (#4):</strong> home of the Calm Water Resort Guild. Wealthier residents who believe in Gandew's spiritual powers often come to live here in their later years, especially those who think they might be haunted by the spirits of people they screwed over.",
+  "t": "<strong>Calm Water Resort (#4):</strong> la sede de la Calm Water Resort Guild. Los residentes más ricos que creen en los poderes espirituales de Gandew suelen venir a vivir aquí en sus últimos años, sobre todo los que creen que podrían perseguirlos los espíritus de la gente a la que jodieron."
+ },
  "99f3cf9d24f6": {
   "en": "Sundeath",
   "t": "Sundeath"
+ },
+ "9aac3ebf1743": {
+  "en": "<strong>Local embassy quests:</strong> Fuhrair assistance.",
+  "t": "<strong>Misiones locales de la embajada:</strong> asistencia en Fuhrair."
+ },
+ "9ae75164603b": {
+  "en": "<strong>House of Bruntos (#1):</strong> a house that unbonded Bruntos have all to themselves, where humans and Bruntos come to bond. If a bond forms, the Brunto moves into the human's home. Adventurers can do the same, and if they bond with a Brunto, they can take it along as a companion for free (a decision made to boost tourism, though it rarely happens). Inside stands a 20-meter wooden statue of the Bruntos who taught them to plant Lonllows and hide from the Lishies.",
+  "t": "<strong>Casa de los Bruntos (#1):</strong> una casa solo para los Bruntos sin vínculo, adonde humanos y Bruntos van a crear vínculos. Si se forma un vínculo, el Brunto se muda a la casa del humano. Los aventureros pueden hacer lo mismo y, si crean un vínculo con un Brunto, pueden llevárselo gratis como compañero (una decisión tomada para impulsar el turismo, aunque rara vez ocurre). Dentro se alza una estatua de madera de 20 metros de los Bruntos que les enseñaron a plantar Lonllows y a esconderse de los Lishies."
  },
  "9c79e21f0d65": {
   "en": "If you are unfamiliar with Forway, then take a friend when you visit! Not that it's that violent, but like any big city, tourists can be easy pickings for people with bad intentions and suave speech, especially if they go to know sketchier parts. Also, don't be alarmed by how much nari gel people use. Fashion trends come and go, so if you have the money, why not participate as well? It might be the ticket to get into bed, and the pockets, of a socialite.",
   "t": "Si no conoces Forway, ¡ve con un amigo! No es que sea tan violenta, pero, como cualquier gran ciudad, los turistas pueden ser presa fácil para gente con malas intenciones y mucha labia, sobre todo si se meten en las zonas más turbias. Además, no te asustes por la cantidad de nari gel que usa la gente. Las modas van y vienen, así que, si tienes dinero, ¿por qué no apuntarte? Podría ser tu billete para acabar en la cama, y en el bolsillo, de alguien de la alta sociedad."
  },
+ "9d3eeafe6d68": {
+  "en": "<strong>Sweetlake Blood-Tribe (#8):</strong> once one of the richest blood-tribes, now the poorest, about to die out with its last member. People call him a lunatic and avoid the place at all costs. He's researching shapeshifters, since that might reveal what happened to his guild after they all disappeared; he was left behind because he felt lazy that day.",
+  "t": "<strong>Sweetlake Blood-Tribe (#8):</strong> antaño una de las tribus de sangre más ricas, hoy la más pobre, a punto de extinguirse con su último miembro. La gente lo llama lunático y evita el lugar a toda costa. Está investigando a los cambiaformas, porque eso podría revelar qué les pasó a los de su gremio después de que todos desaparecieran; a él lo dejaron atrás porque ese día le dio pereza."
+ },
  "9df882bae139": {
   "en": "Flatland",
   "t": "Flatland"
+ },
+ "9ed69587616f": {
+  "en": "<strong>Emelia's Flowery Paradise:</strong> Emelia's flower shop, one of Red Winga's proxy businesses (see Factions), in Forway's southwest district, with a bakery nearby.",
+  "t": "<strong>Emelia's Flowery Paradise:</strong> la floristería de Emelia, uno de los negocios tapadera de las Red Winga (ver Facciones), en el distrito suroeste de Forway, con una panadería cerca."
+ },
+ "9f5afd2a1f67": {
+  "en": "Prices are in the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a>.",
+  "t": "Los precios están en la <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">hoja de cálculo de Economía</a>."
+ },
+ "a32cf9a56b75": {
+  "en": "As humans settled on this island, the Bruntos began interacting with them and grew close. Humans made great-tasting food and shelter for them, and the Bruntos brought raw ingredients, helped with farming, and helped them hide from the Lishies. Living here for years, people noticed the weather is unusually warm and humid all year long, with rain every day at Sunnu; it's certainly not for everyone. Humans and Bruntos developed a taste for Lonllows, but humans couldn't farm them on a large scale until the Bruntos taught them to plant fish in the ground before putting in the Lonllow branches. With that, they could be farmed all year long.",
+  "t": "Cuando los humanos se asentaron en esta isla, los Bruntos empezaron a relacionarse con ellos y se hicieron cercanos. Los humanos les hacían comida riquísima y refugio, y los Bruntos traían ingredientes crudos, ayudaban en el campo y les ayudaban a esconderse de los Lishies. Tras años viviendo aquí, la gente notó que el clima es inusualmente cálido y húmedo todo el año, con lluvia todos los días en el Sunnu; desde luego, no es para todo el mundo. Humanos y Bruntos le cogieron el gusto al Lonllow, pero los humanos no pudieron cultivarlo a gran escala hasta que los Bruntos les enseñaron a plantar pescado en la tierra antes de meter las ramas de Lonllow. Con eso, pudo cultivarse todo el año."
+ },
+ "a3eab71925bf": {
+  "en": "<strong>Long &amp; Yellow Sanbi Celebration:</strong> every Adrian, a grand festival celebrates the first contact between humans and Bruntos. Lonllows are baked with Sanbi, cheese and a tiny bit of Tastyleaf.",
+  "t": "<strong>Celebración Long &amp; Yellow Sanbi:</strong> cada Adrian, un gran festival celebra el primer contacto entre humanos y Bruntos. Los Lonllows se hornean con Sanbi, queso y una pizca de Tastyleaf."
+ },
+ "a4ac5f2194e8": {
+  "en": "<strong>#7 and #8:</strong> have some sort of alliance.",
+  "t": "<strong>#7 y #8:</strong> tienen algún tipo de alianza."
+ },
+ "a7a2530ec39f": {
+  "en": "Wingarest",
+  "t": "Wingarest"
+ },
+ "aae103719859": {
+  "en": "<strong>The Sunken Egua Hotel (#3):</strong> another famous hotel.",
+  "t": "<strong>The Sunken Egua Hotel (#3):</strong> otro hotel famoso."
+ },
+ "ade9183d9189": {
+  "en": "<strong>Visual reference:</strong> Brazil's Pantanal.",
+  "t": "<strong>Referencia visual:</strong> el Pantanal de Brasil."
+ },
+ "af9bddb40575": {
+  "en": "<strong>Old Bone:</strong> every Paulin, the Calm Water Resort hosts a festival for the old people living there, with tons of music, fight choreography, bards' tales, etc.",
+  "t": "<strong>Hueso Viejo:</strong> cada Paulin, el Calm Water Resort organiza un festival para los mayores que viven allí, con montones de música, coreografías de lucha, relatos de bardos, etc."
+ },
+ "b10955974891": {
+  "en": "<strong>OutBalls Spring Resort:</strong> a male-focused spring resort around the biggest hot spring. Legend says the Hot Skin guild's children got together and renamed the resort's banner overnight. The guild was furious, but it attracted customers, and the kids' punishment was going to every house handing out ball-shaped soap.",
+  "t": "<strong>OutBalls Spring Resort:</strong> un complejo termal pensado para hombres alrededor de la fuente termal más grande. Cuenta la leyenda que los hijos del gremio Hot Skin se juntaron y cambiaron el nombre del cartel del complejo de la noche a la mañana. El gremio se puso furioso, pero atrajo clientes, y el castigo de los críos fue ir casa por casa repartiendo jabón en forma de pelota."
+ },
+ "b1b0509442ae": {
+  "en": "<strong>Clothing, marriage and names:</strong> like the Freeish Kingdom and Forway City.",
+  "t": "<strong>Ropa, matrimonio y nombres:</strong> como en el Freeish Kingdom y Forway City."
+ },
+ "b3b73e56035e": {
+  "en": "<strong>Delta Bar (#5):</strong> a famous open-air bar with no seats, out in the calm waters; beer and food are served from covered stands. Open only in the summer.",
+  "t": "<strong>Delta Bar (#5):</strong> un famoso bar al aire libre sin asientos, en las aguas tranquilas; la cerveza y la comida se sirven en puestos cubiertos. Solo abre en verano."
+ },
+ "b69c6a5b80db": {
+  "en": "The central command for all the kingdoms and cities. Security is tightened to show the Forway leaders' power, especially at the time of the Prosperity Treaty meeting (Section #7).",
+  "t": "El mando central de todos los reinos y ciudades. La seguridad se refuerza para mostrar el poder de los líderes de Forway, sobre todo en la época de la reunión del Tratado de Prosperidad (Sección #7)."
+ },
+ "b7860700fe2a": {
+  "en": "<strong>Sorefaries Line (#4):</strong> a really fast zip line from the mountain down to the base of the Skin Peeler Geyser.",
+  "t": "<strong>Sorefaries Line (#4):</strong> una tirolina rapidísima desde la montaña hasta la base del Géiser Skin Peeler."
+ },
+ "ba6c9519c9f6": {
+  "en": "<strong>Burial:</strong> the dead are shoved into the furnace: in their mindset, people are no different from animals.",
+  "t": "<strong>Entierro:</strong> a los muertos se les mete en el horno: según su mentalidad, las personas no son distintas de los animales."
+ },
+ "bb2d39bc28cf": {
+  "en": "<strong>Skin Peeler Geyser (near #1):</strong> an incredibly hot geyser in a scalding pond. People stand around it in winter to warm up, and being near its steam is said to be rejuvenating.",
+  "t": "<strong>Géiser Skin Peeler (cerca del #1):</strong> un géiser increíblemente caliente en un estanque abrasador. La gente se pone a su alrededor en invierno para calentarse, y se dice que estar cerca de su vapor rejuvenece."
+ },
+ "be38fd8bc540": {
+  "en": "<strong>Burial:</strong> buried naked in the fields. Their clothes are washed in seawater and returned to their guild or relatives.",
+  "t": "<strong>Entierro:</strong> los entierran desnudos en los campos. Su ropa se lava con agua de mar y se devuelve a su gremio o a sus familiares."
+ },
+ "bec45376d106": {
+  "en": "<strong>Marriage:</strong> an invitation to buy or build a house together.",
+  "t": "<strong>Matrimonio:</strong> una invitación a comprar o construir una casa juntos."
+ },
+ "bf4b238d504c": {
+  "en": "<strong>Education:</strong> follows Forway, but also teaches how to cooperate, especially with the Bruntos.",
+  "t": "<strong>Educación:</strong> sigue a Forway, pero también enseña a cooperar, sobre todo con los Bruntos."
+ },
+ "bf97ddf059be": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/City.md\">Legacy/Behind The Scenes/World Lore/City.md</a>",
+  "t": "Fuente: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/City.md\">Legacy/Behind The Scenes/World Lore/City.md</a>"
+ },
+ "c1d6c141a589": {
+  "en": "Old Fuhrair",
+  "t": "Old Fuhrair"
+ },
+ "c3a1047a7d99": {
+  "en": "<strong>Threats:</strong> beasts, and Forway probing around.",
+  "t": "<strong>Amenazas:</strong> las bestias, y Forway husmeando por ahí."
+ },
+ "c3cf47e8eab9": {
+  "en": "<strong>Bagarisa Nose with Cheese:</strong> chewy, but delicious! Hunters created it to use every bit of the meat, and now it's a peculiar dish. 15 Pearls a nose.",
+  "t": "<strong>Nariz de Bagarisa con queso:</strong> ¡correosa, pero deliciosa! Los cazadores la crearon para aprovechar hasta el último trozo de carne, y ahora es un plato peculiar. 15 Pearls la nariz."
+ },
+ "c42cace3196d": {
+  "en": "<strong>Economy:</strong> they don't use balls, but they can barter, since they aren't citizens of the four kingdoms (highly intelligent Cruros are the exception). They trade the bodies of their dead and their pets, pearls from the swamp, and corals for making lime, for Wooly beef jerky and other food.",
+  "t": "<strong>Economía:</strong> no usan bolas, pero pueden hacer trueque, ya que no son ciudadanos de los cuatro reinos (los Cruros muy inteligentes son la excepción). Intercambian los cuerpos de sus muertos y de sus mascotas, perlas del pantano y corales para hacer cal, por cecina de ternera de Wooly y otra comida."
  },
  "c4a210de10b6": {
   "en": "Also, if someone asks you if you want to go to the End Lake—just don't. Trust me. You don't even want to know, but you might have smelled its shittiness if the wind blew it over to you while passing by the South main roads.",
   "t": "Y si alguien te pregunta si quieres ir al End Lake, simplemente no vayas. Hazme caso. Ni siquiera quieres saberlo, aunque puede que ya hayas olido su peste a mierda si el viento te la trajo al pasar por los caminos principales del sur."
  },
+ "c5202a68341b": {
+  "en": "<strong>Blue-Flower-Red-Bone (#7):</strong> created when Akemi and Fernan married.",
+  "t": "<strong>Blue-Flower-Red-Bone (#7):</strong> creado cuando Akemi y Fernan se casaron."
+ },
+ "c7ffee865901": {
+  "en": "<strong>Sand Sea (#6):</strong> known for capturing Wozefaries and Sorefaries in the desert.",
+  "t": "<strong>Sand Sea (#6):</strong> conocido por capturar Wozefaries y Sorefaries en el desierto."
+ },
+ "c957fba9965c": {
+  "en": "<strong>Clothing:</strong> for warm, humid weather, between Sanbi and Tolerideme styles: it gets colder at night than in Sanbi, but not as cold as Tolerideme.",
+  "t": "<strong>Ropa:</strong> para clima cálido y húmedo, entre los estilos de Sanbi y de Tolerideme: de noche hace más frío que en Sanbi, pero no tanto como en Tolerideme."
+ },
+ "c9688b3d1150": {
+  "en": "Mixed, in people and beliefs, though money is becoming the religion. A big city: people don't talk to strangers much, everyone minds their own business, and people are commonly called by their profession, especially by those who can't be bothered to remember names. A nari gel frenzy for style is common, so you see people of every color, texture, clothing and body type. The craziest body mods are for the rich; everyone else tends to change their hair, in droves, or small body parts that don't affect their work.",
+  "t": "Mezclada, en gente y creencias, aunque el dinero se está convirtiendo en la religión. Una gran ciudad: la gente no habla mucho con desconocidos, cada uno va a lo suyo, y es habitual llamar a la gente por su profesión, sobre todo quienes no se molestan en recordar nombres. Es común un frenesí de nari gels por estilo, así que se ve gente de todos los colores, texturas, ropas y tipos de cuerpo. Las modificaciones corporales más locas son para los ricos; los demás tienden a cambiarse el pelo, en masa, o pequeñas partes del cuerpo que no afectan a su trabajo."
+ },
+ "cd31a7679f24": {
+  "en": "<strong>#3, #4, #5 and #6:</strong> the oldest, in a constant power struggle.",
+  "t": "<strong>#3, #4, #5 y #6:</strong> las más antiguas, en una lucha de poder constante."
+ },
+ "cd4913d23573": {
+  "en": "<strong>Education:</strong> learning from the elders. Highly intelligent Cruros learn more through the Half-Cruro guild in Sanbi or Tastyleaf.",
+  "t": "<strong>Educación:</strong> aprender de los ancianos. Los Cruros muy inteligentes aprenden más a través del gremio Half-Cruro en Sanbi o Tastyleaf."
+ },
+ "cde94b0cc544": {
+  "en": "<strong>Crime and law:</strong> it seems like a free-for-all, but they manage to survive in a rather brutal, tribal way of life.",
+  "t": "<strong>Delito y ley:</strong> parece que vale todo, pero se las arreglan para sobrevivir con una forma de vida bastante brutal y tribal."
+ },
+ "d561614afd40": {
+  "en": "<strong>Bone Meal:</strong> animal bone ground into meal, for crafting, construction or as a meal aid.",
+  "t": "<strong>Harina de hueso:</strong> hueso de animal molido en harina, para artesanía, construcción o como complemento alimenticio."
+ },
+ "d657bdeff661": {
+  "en": "A few dominant guilds, tied to the leftover bandits and their children, basically control Flatland, so they pick the embassy representative. They put the most charming Wozefaries from their guilds out front as a facade for their suspicious activities. They're very strict with anyone who makes false accusations or speaks badly of the royal guilds, and find ways to punish them (real-world comparison: Thailand's royal family).",
+  "t": "Unos pocos gremios dominantes, ligados a los bandidos que quedaron y a sus hijos, controlan básicamente Flatland, así que son ellos quienes eligen al representante de la embajada. Ponen delante a los Wozefaries más encantadores de sus gremios como fachada para sus actividades sospechosas. Son muy estrictos con cualquiera que haga acusaciones falsas o hable mal de los gremios reales, y encuentran maneras de castigarlos (comparación con el mundo real: la familia real de Tailandia)."
+ },
+ "d696385c367a": {
+  "en": "<strong>Crime and law:</strong> a variant of Forway Law. Minor punishments are paid by replacement; for a major one, the criminal becomes prey for the hunters.",
+  "t": "<strong>Delito y ley:</strong> una variante de la Ley de Forway. Los castigos menores se pagan reponiendo lo dañado; por uno grave, el criminal se convierte en presa de los cazadores."
+ },
+ "d8eaabc61d4e": {
+  "en": "<strong>Quarries (#1 to #4):</strong> a group of hunter brothers always tried to outdo each other in popularity. One built a quarry to win favor building Blood City, the others followed suit, and now Blood City is a popular source of stone.",
+  "t": "<strong>Canteras (#1 a #4):</strong> un grupo de hermanos cazadores siempre intentaba superarse en popularidad. Uno construyó una cantera para ganarse el favor construyendo Blood City, los demás hicieron lo mismo, y ahora Blood City es una fuente de piedra muy popular."
+ },
  "d959a5281641": {
   "en": "Cities · #HusbandOutWorld",
   "t": "Ciudades · #HusbandOutWorld"
+ },
+ "dbf9006b201f": {
+  "en": "On the surface, like the other cities; on the down low, like the villages of the Freeish Kingdom.",
+  "t": "En apariencia, como las demás ciudades; bajo cuerda, como las aldeas del Freeish Kingdom."
+ },
+ "dd11125c143d": {
+  "en": "<strong>Blood Sausage:</strong> animal meat and seasoning, in a wavy-pattern sausage.",
+  "t": "<strong>Morcilla:</strong> carne de animal y condimentos, en una salchicha de forma ondulada."
+ },
+ "de08f3e9876f": {
+  "en": "<strong>Companion Meetup:</strong> every Adrian, a massive meetup where Sorefaries sit at tables and adventurers come over to talk about themselves. If the adventurers and a Sorefaries form a bond, the adventurers pay the city a fee to take them as a companion.",
+  "t": "<strong>Encuentro de Compañeros:</strong> cada Adrian, un encuentro enorme donde los Sorefaries se sientan a las mesas y los aventureros se acercan a hablar de sí mismos. Si los aventureros y un Sorefaries crean un vínculo, los aventureros pagan una tasa a la ciudad para llevárselo como compañero."
+ },
+ "dedb02314408": {
+  "en": "<strong>Animal Part Extraction Facility (#6):</strong> since some animal parts vary in quality and are growing rarer, Forway invested in a facility where the best specimens with desirable parts are kept freshly dead and harvested with Body Heal.",
+  "t": "<strong>Animal Part Extraction Facility (#6):</strong> como algunas partes de animales varían en calidad y son cada vez más raras, Forway invirtió en unas instalaciones donde los mejores ejemplares con partes deseables se mantienen recién muertos y se cosechan con Body Heal."
  },
  "e5a52f7c95e7": {
   "en": "The \"All the Way Festival\" takes the cake among the many festivals. Seeing the adventurer recognition festival is fun and all, but the name \"All the Way\" implies how grandiose it is.",
   "t": "El «All the Way Festival» se lleva la palma entre los muchos festivales. Ver el festival de reconocimiento de los aventureros está muy bien, pero el nombre «All the Way» ya indica lo grandioso que es."
  },
+ "e5be687a944c": {
+  "en": "<strong>Local embassy quests:</strong> Newland exploration.",
+  "t": "<strong>Misiones locales de la embajada:</strong> exploración de Newland."
+ },
+ "e63a9caff074": {
+  "en": "<strong>Threats:</strong> a Brunto overpopulation, especially if they start a war against humans.",
+  "t": "<strong>Amenazas:</strong> una superpoblación de Bruntos, sobre todo si empiezan una guerra contra los humanos."
+ },
+ "e6d91bc91b63": {
+  "en": "Mostly humans, some Wozefaries and a few other species, with a significant number of richer, older humans. Like Freeish, no overarching religion, just a random mix from all the people. A melting pot like Forway City, but not as cold, since fewer people live there.",
+  "t": "Sobre todo humanos, algunos Wozefaries y unas cuantas especies más, con un número importante de humanos mayores y más ricos. Como en Freeish, sin una religión dominante, solo una mezcla aleatoria de toda la gente. Un crisol como Forway City, pero no tan frío, porque vive menos gente."
+ },
+ "e9b855fb1385": {
+  "en": "<strong>Hot Skin:</strong> one of the earliest guilds, famous for running the OutBalls and InBalls resorts. It's common to see carriages packed with men stop right in front of the guild and everyone go straight in for fun times: inside, the women working there move about, and you can pick one to \"spend time with\".",
+  "t": "<strong>Hot Skin:</strong> uno de los gremios más antiguos, famoso por gestionar los complejos OutBalls e InBalls. Es habitual ver carruajes llenos de hombres pararse justo delante del gremio y que todos entren directamente a pasarlo bien: dentro, las mujeres que trabajan allí se pasean, y puedes elegir a una para «pasar un rato»."
+ },
  "ed52520d2d75": {
   "en": "In a way, it can be considered its own Kingdom, but its officials would vehemently deny that's the case. For them, Forway is a common ground for all kingdoms to trade freely, communicate clearly, and peacefully settle any issues. To that extent, Forway also keeps the peace by managing all cities outside a given Kingdom's permanently fixed sphere of influence.",
   "t": "En cierto modo, puede considerarse un Reino propio, pero sus autoridades lo negarían con vehemencia. Para ellas, Forway es un terreno común donde todos los reinos pueden comerciar libremente, comunicarse con claridad y resolver cualquier asunto en paz. En ese sentido, Forway también mantiene la paz administrando todas las ciudades que quedan fuera de la esfera de influencia fija y permanente de cada Reino."
  },
+ "f02c45c22059": {
+  "en": "<strong>#9:</strong> a newer tribe that works well with the Half-Cruros.",
+  "t": "<strong>#9:</strong> una tribu más nueva que trabaja bien con los Half-Cruros."
+ },
  "f0443b7c1e6e": {
   "en": "Public text: city-forway.md",
   "t": "Texto público: city-forway.md"
+ },
+ "f265571363e8": {
+  "en": "Waterfall",
+  "t": "Waterfall"
+ },
+ "f4577fab042c": {
+  "en": "<strong>Guards:</strong> Forway guards trust their crossbows with their lives. Their shiny armor and generous Forway funding make them very visible and somewhat slow, but they always travel in groups, so picking a fight isn't advised, unless you know how to exploit their superiority complex, common among these guards: let them think they have the upper hand, then hit back with a surprise counterattack at the last second and make them bleed out. Some have baited them into traps, too, but that's harder when they have a Sorefaries or another companion watching their surroundings. Either way, once you're fighting them, beware of their revival capabilities, unless you take away their hearty and expensive supply of Black Honey, often kept in their leg pockets.",
+  "t": "<strong>Guardias:</strong> los guardias de Forway confían su vida a sus ballestas. Su armadura reluciente y la generosa financiación de Forway los hacen muy visibles y algo lentos, pero siempre van en grupo, así que no se recomienda buscar pelea, salvo que sepas explotar su complejo de superioridad, común entre estos guardias: deja que crean que llevan ventaja, y luego devuelve el golpe con un contraataque por sorpresa en el último segundo y haz que se desangren. Hay quien también los ha atraído a trampas, pero eso es más difícil cuando llevan un Sorefaries u otro compañero vigilando su entorno. En cualquier caso, una vez que luchas contra ellos, ojo con sus capacidades de reanimación, salvo que les quites su abundante y cara provisión de Black Honey, que suelen llevar en los bolsillos de las piernas."
+ },
+ "f5d6c7063c2a": {
+  "en": "<strong>Forway Palace:</strong> also known as the Black Tower: the giant tower at the city center, where all business and administration flows through. People casually call it the Forway castle. Entering requires a badge. The lower floors are the embassy, the upper floors are restricted to Sapphire adventurers and kingdom and city officials, and underground is research and experimentation. They cross-check names against books and other people if they suspect someone.",
+  "t": "<strong>Forway Palace:</strong> también conocido como la Black Tower: la torre gigante del centro de la ciudad, por donde pasan todos los negocios y la administración. La gente lo llama coloquialmente el castillo de Forway. Para entrar hace falta insignia. Las plantas bajas son la embajada, las altas están restringidas a los aventureros Sapphire y a los funcionarios de reinos y ciudades, y el subsuelo es para investigación y experimentación. Cotejan los nombres con libros y con otras personas si sospechan de alguien."
+ },
+ "f68b291af767": {
+  "en": "Deltacross",
+  "t": "Deltacross"
+ },
+ "fc3f7024f773": {
+  "en": "Cruro",
+  "t": "Cruro"
+ },
+ "fdc5f1c27e4b": {
+  "en": "<strong>Drink in the Delta contest:</strong> on the last day of summer (Paulin 110th, when Delta Bar's season ends), it holds a massive contest to see who can drink the most without leaving their spot. Peeing in the water isn't frowned upon; it's encouraged, to spare your bladder.",
+  "t": "<strong>Concurso Bebe en el Delta:</strong> el último día del verano (Paulin 110, cuando termina la temporada del Delta Bar), se celebra un concurso enorme para ver quién bebe más sin moverse de su sitio. Mear en el agua no está mal visto; se anima a hacerlo, para que no te reviente la vejiga."
+ },
+ "fe025cbd55e7": {
+  "en": "<strong>Abandoned Dock (#3):</strong> fishing isn't considered viable on the massive lake, even though Fihi is its specialty: the Fihi there developed a taste for humans and figured out how to sink them into the water. Usually adventurers fish there, or people cast from the shore; most people catch their Fihi on the Buhraies Plains instead.",
+  "t": "<strong>Muelle Abandonado (#3):</strong> pescar en el enorme lago no se considera viable, aunque el Fihi sea su especialidad: los Fihi de allí le cogieron el gusto a los humanos y aprendieron a hundirlos en el agua. Normalmente pescan allí los aventureros, o la gente que lanza desde la orilla; la mayoría pesca sus Fihi en las Buhraies Plains."
  }
 }
