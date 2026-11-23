@@ -90,7 +90,7 @@ Author's to-do: after his soul splits, Harry loses the ability to understand any
 
 #### Eori's trial
 
-- Eori didn't get a consent form for the experiment she was performing under Huneo's directive, and then she killed [Huneo](/lore/characters/#huneo-sanbi-royal). At the trial, Huneo decides her punishment: swim to the base of Triangle, then climb the [Cliff Walk](/lore/cities/#waterfall--points-of-interest) (10,764 steps) without nari gels. [Eori](/lore/characters/#eori-sanbi-royal): "IMPOSSIBLE!"
+- Eori didn't get a consent form for the experiment she was performing under Huneo's directive, and then she killed [Huneo](/lore/characters/#huneo-sanbi-royal). At the trial, Huneo decides her punishment: swim to the base of [Waterfall](/lore/cities/#waterfall), then climb the Cliff Walk ([Waterfall › Points of interest](/lore/cities/#waterfall--points-of-interest)) (10,764 steps) without nari gels. [Eori](/lore/characters/#eori-sanbi-royal): "IMPOSSIBLE!"
 - [Neferteri](/lore/characters/#neferteri-sanbi-royal) tries to intervene, but [Itagiba](/lore/characters/#itagiba-sanbi-royal) rules it fair, specifically because Eori killed Huneo with nari gels. Neferteri shifts to removing Eori as an apprentice. Huneo doesn't quite get it, but says sure. Eori looks over at her mother: she must be cooking something up again.
 - Huneo smiles. "This is my final request: she may use the Darfaries interface." Neferteri glances over the crowd; their eyes tell her she has no choice but to play along. She looks at Eori. "MOOOM! THAT'S UNFAIR!" Tears pool in Eori's eyes. Neferteri closes her eyes and slowly raises her badge, silencing the room. "On behalf of the Sanbi Royals, I declare this trial fair."
 - The guards close in on Eori, and she swings her cuffed arms around. "DON'T TOUCH ME!" She walks out, back toward the castle.
@@ -214,18 +214,18 @@ Author's to-do: after his soul splits, Harry loses the ability to understand any
 
 - Harry sees a backlog of people at the entrance. He looks at Dalila, panting from overstuffing herself. "Do we wait in line too?" "We don't have badges." Dalila heads east. Harry watches someone show his badge to a guard and walk through, then follows her.
 - They walk slowly. Wagons and Eguas pass by. A whiff of manure drifts by now and then, but the ground is spotless by comparison: the poop bags really keep things clean.
-- Harry tries to break the ice. "Forway sure is big." Dalila ignores him. A bit flustered, he keeps going: "I didn't know we'd have to switch wagons to get to Forway, either." "The first wagon was going east, to X. The second one came north, to here." "You sure know a lot about roads."
+- Harry tries to break the ice. "Forway sure is big." Dalila ignores him. A bit flustered, he keeps going: "I didn't know we'd have to switch wagons to get to Forway, either." "The first wagon was going east, to {WIP-firstWagonStop}. The second one came north, to here." "You sure know a lot about roads."
 - Dalila stops eating and walking, and her face falls. She puts the chip back in the bag. "Pappa taught me everything, including the shortcuts." Harry doesn't know what to say, and forces a smile. "They seem like nice people."
 - "Where are your parents? Don't you miss them?" "I don't have any," Harry says truthfully. "Then how were you born?" Harry remembers waking up in Sanbi Castle. "I have no idea—maybe I do have some, but I lost my memories of them—" Then he remembers how peaceful life in Rebula was. "—for all it matters, these past weeks felt like I was finally part of a family."
 - Dalila grabs another piece of jerky and starts walking again, deep in thought. Harry follows her slower pace in silence. *I'm sorry, but I can't let Eori find out I'm Harry. I'll try to make it up to you—but how?*
 
-#### Harry and Dalila in front of The Wood People Picker; Yosuke, two bartenders and a sub chef at the entrance
+#### Harry and Dalila in front of The Wood People Picker; Yosuke, the bartenders Hanako and Mimi, and the sub chef, Rimir, at the entrance
 
-- [Yosuke](/lore/characters/#yosuke-forway-wood-people-picker): "So you two are the new ones, huh?" Harry and Dalila introduce themselves, and so do the two bartenders and the sub chef.
+- [Yosuke](/lore/characters/#yosuke-forway-wood-people-picker): "So you two are the new ones, huh?" Harry and Dalila introduce themselves, and so do the two bartenders, [Hanako](/lore/characters/#hanako-flatland) and [Mimi](/lore/characters/#mimi-flatland), and the sub chef, [Rimir](/lore/characters/#rimir-forway).
 
 #### Harry, Dalila and Yosuke in the restaurant's attic
 
-- Yosuke brings them inside and upstairs to show them the attic. They have a timehunk to bathe and get ready, hair tied up included. He explains their tight schedule; the sub chef lives in the top-right bunk bed.
+- Yosuke brings them inside and upstairs to show them the attic. They have a timehunk to bathe and get ready, hair tied up included. He explains their tight schedule; Rimir, the sub chef, lives in the top-right bunk bed.
 - He explains how much they'll earn and how much it costs to live at the restaurant. Food is covered, but work clothes aren't: they can pay up front, or it comes out of their salary. If they leave, they return the work clothes for a refund. If they don't, Yosuke has friends who will find them and get the clothes back, and you don't want to meet those friends. He also goes over the dress code and appearance rules.
 - Yosuke flicks open a knife, like the one Eori used to perforate Harry's neck. Harry jumps back, protecting his throat, his heart pounding as he breaks into a sweat. "If you don't cut that beard, I will." Dalila: "Did you just remember something?" Harry shakes his head. "I'm sorry, it's just that I—don't know. It felt weird."
 - Yosuke sets the blade aside, grabs a Time Counter and sets it to a Quarter Time Chunk. "No excuses. Desmond, you're going to the barber." He gives directions and leaves: Harry has until Sunnihigh. Harry looks at Dalila, who points out the window. "Look at that intersection. See the sign? Follow it." She grabs her clothes and heads to the bathroom. Harry looks outside again. *Here we go.*
@@ -240,7 +240,7 @@ Author's to-do: after his soul splits, Harry loses the ability to understand any
 
 #### Harry #14 and Dalila help Yosuke in the kitchen
 
-- Harry messes up and starts bleeding, and he doesn't heal like before. Yosuke: "DON'T BLEED OVER THE VEGETABLES!" That triggers a panic attack. The sub chef casts a heal, and Harry's hand closes up. Yosuke, from the other corner: "SUCK IT UP! TRY AGAIN!" Sub chef: "Wash the blood off the vegetables, or it'll change the taste." Harry carefully does as he's told.
+- Harry messes up and starts bleeding, and he doesn't heal like before. Yosuke: "DON'T BLEED OVER THE VEGETABLES!" That triggers a panic attack. Rimir, the sub chef, casts a heal, and Harry's hand closes up. Yosuke, from the other corner: "SUCK IT UP! TRY AGAIN!" Sub chef: "Wash the blood off the vegetables, or it'll change the taste." Harry carefully does as he's told.
 - Yosuke: "SUB CHEF, WHERE'S THE BROTH?" "WARMFEEL! SMALL TIME CHUNK!" Yosuke looks proud. Dalila looks at Harry with pity. "Are you okay?" "Kinda. I guess I'm terrified of knives." *Or rather, of Eori.*
 - A bartender comes into the kitchen, reads off an order of mains and sides, and sticks the ticket on a hook in the wall. Yosuke: "COMING RIGHT UP! SUB CHEF, SIDES, ASAP!" "YES, CHEF!"
 - He teaches them. Dalila goes to eat something, and the sub chef puts his hand over it. "We only eat after everyone else has had their fill." Dalila sulks.
@@ -273,24 +273,25 @@ Author's to-do: after his soul splits, Harry loses the ability to understand any
 #### Eori and Neferteri at the top of the stairs
 
 - Neferteri: "Oh, dear daughter, I knew you would accomplish this wonderful goal." Eori doesn't look happy. "From here we're heading to Forway, where you shall focus on your studies and clear your mind of past events." Eori looks even less happy.
+- Neferteri adds that in Forway, Eori will have more freedom as well. Eori fights her off for being controlling, and that's how the carrot comes out.
 - Neferteri dangles the carrot: if Eori doesn't go, she'll throw out Harry's search quest. Eori has no choice but to concede, until a lightbulb goes off in her head: what if she can recreate Harry? Gabiro did it, so why can't she? Neferteri: *I suspect she'll dive right into Soul research, just like Gabiro. I'll have to talk with the teachers and steer her away.*
-- Author's idea: maybe Neferteri talks about how Eori will have more freedom as well, Eori fights back that she's being controlling, and that's how it comes up.
+- Author's note: Eori is growing a spine, going through the same process [Maiara](/lore/characters/#maiara-sanbi-royal) and [Yacamim](/lore/characters/#yacamim-sanbi-royal) went through. Neferteri tries to control the cycle, and is even growing self-aware of it, but part of her can't seem to stop trying to break the cycle in her favor. Eori, meanwhile, is going through the cycle in her own way, and has grown up in some sense, though her negative tendencies build toward emancipation more than just seeking freedom… In a sense, that's an attempt at control as well.
 
 # Book 10 - Peonage › Chapter 3 - Impromptu Date
 
 #### Harry cuts fish, and Yosuke compares him to Dalila
 
 - Yosuke asks Harry to show his skills. Harry is afraid of the knife; bad memories creep in, and he slices off a huge chunk. Yosuke: "AWFUL!" He shows Harry how it's done. "AGAIN!" Harry tries again, but he's sloppy: he's afraid of the knife, and the bad memories creep in. "GET OUT!" "Sorry, chef." Harry goes to take orders.
-- Dalila looks at Yosuke. "Do you know why he's so afraid of knives?" Yosuke: "WE'RE IN THE KITCHEN!—Those desserts, in a small timehunk! C'mon!" He claps. "YES, CHEF!" Dalila runs to the dessert station, where the sub chef is working.
+- Dalila looks at Yosuke. "Do you know why he's so afraid of knives?" Yosuke: "WE'RE IN THE KITCHEN!—Those desserts, in a small timehunk! C'mon!" He claps. "YES, CHEF!" Dalila runs to the dessert station, where Rimir is working.
 - Sub chef: "You noticed it too?" Dalila looks at him with concern. "Do you know why?" "I asked, but he said he didn't know—" Yosuke slaps the table. "WE'RE IN THE KITCHEN! I'M NOT GONNA SAY IT AGAIN!" "YES, CHEF! SORRY, CHEF!" the sub chef and Dalila say in unison.
 
 #### July, Takeo and Francisco at the restaurant
 
 - Harry is tense because of Takeo. [July](/lore/characters/#july-forway-tea-drinkers) is being playful; Takeo doesn't give a shit. Harry goes to fetch beer, wondering whether they've found out who he truly is. He sets the beer on the table, and July grabs him by the shirt, slips him a note and winks.
 
-#### Harry looks at the note while the other two bartenders poke fun at him
+#### Harry looks at the note while the two bartenders, Hanako and Mimi, poke fun at him
 
-- They end up cheering him on: Desmond has been feeling kind of down and regretful, so this will get his head in the game and let him whoop some ass. Harry isn't sure, but they convince him. [Hanako](/lore/characters/#hanako-flatland) gives him a few Pearls to buy a gift or something, and tells him to let loose, since he's been so tense for so long.
+- They end up cheering him on: Desmond has been feeling kind of down and regretful, so this will get his head in the game and let him whoop some ass. Harry isn't sure, but they convince him. Hanako gives him a few Pearls to buy a gift or something, and tells him to let loose, since he's been so tense for so long.
 - Harry is happy they care about him so much. He forgets the horrors he committed.
 
 #### Harry, holding a small gift, finds July at the date spot
@@ -328,7 +329,7 @@ Author's to-do: after his soul splits, Harry loses the ability to understand any
 
 - Forway is busy: people going places, doing things. Harry remembers what July said about opportunities out in the world. *What am I even doing here?* "You fall outta bed or something? Close the window!" Dalila covers herself with a blanket.
 - Harry looks at the covered, now nearly obese Dalila. She moves her hand around, uncovers her buttocks from under the sheets, lets rip a massive, loud stinker, then quickly tucks her buttocks back in, keeping a pocket of warm air untouched by the vile fumes from a human's guts.
-- "Oww, fucking disgusting!" Hanako wakes up and throws a Create Air spell at the window; Harry, laughing his ass off, sits down on his bed and enjoys the moment. [Mimi](/lore/characters/#mimi-flatland), filtering the air through a cloth so far, looks at the clock shimmering in the sun's rays. "SUNNA!" She takes off for the bathroom, but Hanako catches her midway. "It's my turn this time!" "Lemme go! Lemme go!" Mimi kicks her tiny feet at Hanako's face.
+- "Oww, fucking disgusting!" Hanako wakes up and throws a Create Air spell at the window; Harry, laughing his ass off, sits down on his bed and enjoys the moment. Mimi, filtering the air through a cloth so far, looks at the clock shimmering in the sun's rays. "SUNNA!" She takes off for the bathroom, but Hanako catches her midway. "It's my turn this time!" "Lemme go! Lemme go!" Mimi kicks her tiny feet at Hanako's face.
 - Suddenly a sheet flies up into the air, and Dalila, looking very focused, sprints to the bathroom as fast as she can, winning the daily rush. "SUCKERS!" Her strained voice carries through the wall.
 - Hanako: "All right! All right! Let's both go together!" Mimi: "But then you'll tell me to wash your back!" "But I wash yours too!" "Not fair! You have a big back! Tell Desmond to wash it!" She points at Desmond, just sitting there watching it all unfold. Hanako covers herself. "I don't want him touching me!"
 
@@ -351,7 +352,7 @@ Author's to-do: after his soul splits, Harry loses the ability to understand any
 #### Yosuke gives the news to Desmond, Dalila, Rimir, Hanako and Mimi
 
 - Yosuke's restaurant will be serving at the upcoming final [Homeegg](/lore/pastimes/#homeegg) tournament! Tomorrow they'll be closed to the public so that it's all hands on deck preparing food for it. If they wow everyone at the tournament, he'll knock an Amethyst off the uniform payment.
-- Everyone gets excited. Harry doesn't know what it is, so they explain it to him: Sanbi's XX, led by Princess [Maiara](/lore/characters/#maiara-sanbi-royal), versus XXX, led by XXX. A deep sinking feeling hits Harry; cold sweat takes over his body, and his hands start trembling.
+- Everyone gets excited. Harry doesn't know what it is, so they explain it to him: Sanbi's {WIP-sanbiHomeeggTeam}, led by Princess [Maiara](/lore/characters/#maiara-sanbi-royal), versus {WIP-rivalHomeeggTeam}, led by {WIP-rivalHomeeggCaptain}. A deep sinking feeling hits Harry; cold sweat takes over his body, and his hands start trembling.
 - Hanako: "Desmond is scared!" Yosuke: "You all should be! If you screw it up, I'll fire you!" The celebration halts at once: the gravity of the situation just got real. Yosuke: "Now let's get the restaurant ready for dinner." Everyone stands up and flies to their assigned jobs.
 
 # Book 10 - Peonage › Epilogue
@@ -361,4 +362,4 @@ Author's to-do: after his soul splits, Harry loses the ability to understand any
 - July: "You sure you don't want to investigate Desmond?" Takeo puts something in the cart. "I already tasted his soul." July gives a girly laugh. "So what? I tasted him too." Takeo looks impatient. "I don't want to hear how your life got better as a girl."
 - July's demeanor changes; her cutesy front disappears. "I told you not to bring that up again." "Then what do you want?" "Nobody has a shady past he doesn't want to talk about. I knew he was hiding something the moment I saw him at the restaurant." Takeo: "We all hide something, don't we?" The question is rather suggestive, to say the least.
 - July, displeased, turns her back on him. "Fine! Have it your way! Go die in the Hifuna region!" Takeo climbs into the wagon and sets off. July turns back as his figure shrinks into the distance. "Maybe I'm the one who's wrong—I can't taste people's souls, after all."
-- [Francisco](/lore/characters/#francisco-forway-tea-drinkers) comes out the door. "Morning, July! Did Takeo leave already?" July flips back to girly and points at a cart in the distance. "Just now!" "That's too bad. I bought a new XXX for him." "He'll be back soon enough, that's for sure." "Are you leaving as well, July?" "Yes, Francisco. Yesterday I contracted a quest to do XYZ." She smiles brightly. *But now I wish I hadn't.*
+- [Francisco](/lore/characters/#francisco-forway-tea-drinkers) comes out the door. "Morning, July! Did Takeo leave already?" July flips back to girly and points at a cart in the distance. "Just now!" "That's too bad. I bought a new {WIP-franciscoGift} for him." "He'll be back soon enough, that's for sure." "Are you leaving as well, July?" "Yes, Francisco. Yesterday I contracted a quest to {WIP-julyQuest}." She smiles brightly. *But now I wish I hadn't.*

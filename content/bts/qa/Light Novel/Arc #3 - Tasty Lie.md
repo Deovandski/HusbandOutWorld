@@ -58,3 +58,19 @@ Questions:
 - **A3-11:** Other placeholders: the first wagon "going east, to X" (Chapter 1); Francisco's gift for Takeo, "a new XXX" (Epilogue); July's quest "to do XYZ" (Epilogue). Names, or {WIP-…}?
 - **A3-12:** Hanako says "Harry is scared!" in the notes. I changed it to "Desmond", since only Harry knows that name. Okay, or is it on purpose?
 - **A3-13:** Chapter 2 ends with your open idea: "Neferteri maybe talks about how she will have more freedom as well? Eori tries to fight her off for being controlling, and that's how this comes up?" I kept it as "Author's idea: …". Keep it, settle it, or leave it out?
+
+Author's answers (batch 2):
+> A3-8: Triangle city is wrong. Waterfall city is right.
+> A3-9: Yes.
+> A3-10: Use WIP.
+> A3-11: Use WIP.
+> A3-12: Correct on changing Desmond.
+> A3-13: Settle it. Also add a note to make it official "Eori is growing a spine, going through the same process Maiara and Yacamim went through, with Neferteri trying to control the cycle and even growing self-aware of it, but it seems part of her can't stop herself from trying to break the cycle in her favor, while Eori is trying to go through the cycle in her manner and grown up in some sense, although her negative tendencies do accumulate towards her emancipation more than just seeking freedom... In a sense, it is an attempt at control as well."
+
+Applied:
+- A3-8: Book 9 now says "swim to the base of Waterfall" (linked to Cities › Waterfall). The raw notes still say "Triangle City" (not made official in the raw display).
+- A3-9: the sub chef is Rimir and the bartenders are Hanako and Mimi (named and linked in Chapter 1; named again in the attic, kitchen, dessert-station and note scenes).
+- A3-10: {WIP-sanbiHomeeggTeam}, {WIP-rivalHomeeggTeam}, {WIP-rivalHomeeggCaptain}.
+- A3-11: {WIP-firstWagonStop}, {WIP-franciscoGift}, {WIP-julyQuest}.
+- A3-12: kept "Desmond is scared!"
+- A3-13: settled in the abridged text: Neferteri adds that Eori will have more freedom in Forway, Eori fights her off for being controlling, and that's how the carrot (Harry's search quest) comes out. The author's note on the cycle follows, polished, linking Maiara and Yacamim. Made official: the same note, in his words, is appended to the raw display via `content/fixes.json`.
