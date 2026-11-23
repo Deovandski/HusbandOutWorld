@@ -359,6 +359,14 @@
   "en": "<strong>Tastes like:</strong> See Fauna &gt; Monica.",
   "t": "<strong>الطعم:</strong> انظر الحيوانات &gt; مونيكا."
  },
+ "538b29264865": {
+  "en": "<strong>Nari Worm Chitin</strong>: Chitin from when Nari Worms shed their skin. When heated, it smells slightly oily, with a mildewy, earthy finish, like a distant cousin of cockroaches.",
+  "t": "<strong>كيتين الناري وورم</strong>: كيتين من انسلاخ جلد الناري وورم. حين يُسخَّن، تفوح منه رائحة زيتية خفيفة، بلمسة ترابية عفنة، كقريب بعيد للصراصير."
+ },
+ "53d4eed1d9b5": {
+  "en": "<strong>Skills:</strong> Use Soul Energy to detect things around them; Create sound blast waves that can deafen anyone nearby, which they use to stun their prey.",
+  "t": "<strong>المهارات:</strong> استخدام طاقة الروح لكشف ما حولها؛ خلق موجات انفجار صوتية قد تصمّ أي أحد قريب، تستخدمها لصعق فرائسها."
+ },
  "54c367b1869a": {
   "en": "<strong>Habitat:</strong> Bahyum Castle.",
   "t": "<strong>الموطن:</strong> قلعة باهيوم."
@@ -382,6 +390,10 @@
  "5b8171d86bca": {
   "en": "Male and female Flingas: tall dark-blue beasts with long curved horns and red crests, plus a close-up of a head, next to Harry.",
   "t": "ذكر وأنثى من الفلينغا: وحوش طويلة زرقاء داكنة بقرون طويلة منحنية وأعراف حمراء، مع صورة مقربة للرأس، بجانب هاري."
+ },
+ "5bac2a3e6f47": {
+  "en": "<strong>Habitat:</strong> Whiteland for most of the year; in the winter they come to the shores of the four kingdoms to eat tons of fish, then go back south to breed in the spring.",
+  "t": "<strong>الموطن:</strong> وايتلاند معظم العام؛ وفي الشتاء تأتي إلى شواطئ الممالك الأربع لتأكل أطنانًا من السمك، ثم تعود جنوبًا لتتكاثر في الربيع."
  },
  "5d97b7b1f3a8": {
   "en": "<strong>Flinga Meat</strong>: Meat cut by a butcher. A refined, rare product that some people in Forway insist on having, even though there’s nothing special about it.",
@@ -443,6 +455,10 @@
   "en": "Trunk People: a youngling and an adult tree creature with leafy green heads in a forest, on a height chart.",
   "t": "ترانك بيبول: صغير وبالغ من مخلوقات شجرية برؤوس خضراء مورقة في غابة، على مخطط للأطوال."
  },
+ "6dc66fe048ae": {
+  "en": "<strong>Tastes like:</strong> Fishy and duck-like.",
+  "t": "<strong>الطعم:</strong> سمكي ويشبه البط."
+ },
  "6dcff1a618d7": {
   "en": "<strong>Inspired by:</strong> The natural look of a bryozoan colony.",
   "t": "<strong>مستوحى من:</strong> المظهر الطبيعي لمستعمرة من الحزازيات (البريوزوا)."
@@ -474,6 +490,10 @@
  "734c760d73c6": {
   "en": "<strong>Uses:</strong> Forway guards ride them to fly around without needing a nari gel themselves (the Big Winga under them is often another guard transformed with one). They're used for quick transportation of goods, scouting and flyovers.",
   "t": "<strong>الاستخدامات:</strong> يركبها حراس فورواي ليطيروا دون حاجة إلى هلام ناري لأنفسهم (والبيغ وينغا التي تحتهم كثيرًا ما تكون حارسًا آخر تحوّل بواحد منه). تُستخدم للنقل السريع للبضائع، والاستطلاع، والطيران فوق المناطق."
+ },
+ "7382ab3ff705": {
+  "en": "<strong>White Roundies Hair Strands</strong>: Used in nari gels.",
+  "t": "<strong>خصلات شعر الوايت راونديز</strong>: تُستخدم في هلام ناري."
  },
  "7632aa3679a9": {
   "en": "<strong>Big Winga Feathers</strong>: Feathers, prepared by a butcher for artisans to work on.",
@@ -547,6 +567,10 @@
   "en": "<strong>Hifuna People Wood</strong>: The same reddish tone, but plagued with Hifuna disease, so most people won’t use it for crafting.",
   "t": "<strong>خشب الهيفونا بيبول</strong>: اللون المحمر نفسه، لكنه مبتلى بمرض هيفونا، لذا لا يستخدمه معظم الناس في الصنعة."
  },
+ "81857ff25203": {
+  "en": "<strong>Nari Worm Egg</strong>: A rare find, packed with Soul Energy. It replenishes about Tier III and also works as a Nari Refresher. Somewhat delicate, and it may hatch into a tiny Nari Worm at random.",
+  "t": "<strong>بيضة الناري وورم</strong>: لُقية نادرة، ممتلئة بطاقة الروح. تعيد شحن نحو المستوى III وتعمل أيضًا كناري ريفريشر. هشة بعض الشيء، وقد تفقس عشوائيًا عن ناري وورم صغيرة."
+ },
  "81ae2bfa4c4e": {
   "en": "<strong>Jelly Blob</strong>: Usually a piece cut off a Shapeshifter and put in a jar for transport. Expensive, because they’re hard to catch.",
   "t": "<strong>كتلة الهلام</strong>: عادةً قطعة تُقطع من شيبشيفتر وتوضع في جرة للنقل. غالية، لأن الإمساك بها صعب."
@@ -570,6 +594,10 @@
  "8646424e8834": {
   "en": "<strong>Skills:</strong> Slow Regen; Halted Decomposition; Decompose Target; Steal Soul Energy.",
   "t": "<strong>المهارات:</strong> تجدد بطيء؛ إيقاف التحلل؛ تحليل الهدف؛ سرقة طاقة الروح."
+ },
+ "87fe827ea783": {
+  "en": "<strong>Nari Stones</strong>: See Nari Caverns. Some species don’t have enough Soul Energy in their bodies for higher-tier spells, so they cast with the energy stored in Nari stones. Forway considers the stone of the utmost importance to the balance of life, and waives its transport costs, since adventurers take on the responsibility of moving such important goods. To make one, the Nari Worm shell is ground and heated into small stones that recombine into a crystalline, diamond-like shape, which is set into Soul Wood and polished to a point for easier stacking. Nari stones can be chained together to speed up casting and to store more. Once used, the blue hue fades and the stone turns diamond-like. Some people toss the spent stones on the ground as waste, but most sell them in bulk, to be melted into a glass that feels somewhat plasticky and is less translucent.",
+  "t": "<strong>أحجار ناري</strong>: انظر كهوف ناري. بعض الأنواع لا تملك في أجسادها ما يكفي من طاقة الروح للتعاويذ ذات المستويات الأعلى، فتُلقيها بالطاقة المخزنة في أحجار ناري. تعتبر فورواي الحجر بالغ الأهمية لتوازن الحياة، وتعفيه من تكاليف النقل، لأن المغامرين يتحملون مسؤولية نقل سلع بهذه الأهمية. لصنع واحد، تُطحن صدفة الناري وورم وتُسخَّن إلى حجارة صغيرة تعيد الاتحاد في شكل بلوري يشبه الماس، يُثبَّت في خشب الروح ويُصقل حتى يصير له رأس مدبب لتسهيل تكديسه. يمكن ربط أحجار ناري ببعضها لتسريع الإلقاء ولتخزين المزيد. بعد الاستخدام، يبهت اللون الأزرق ويصير الحجر شبيهًا بالماس. يرمي بعض الناس الأحجار المستهلكة على الأرض كنفايات، لكن معظمهم يبيعونها بالجملة، لتُصهر إلى زجاج يبدو كالبلاستيك بعض الشيء وأقل شفافية."
  },
  "88387cc837bb": {
   "en": "<strong>Flinga Jerky</strong>: Jerky prepared by a butcher. A refined, rare product that some people in Forway insist on having, even though there’s nothing special about it.",
@@ -635,9 +663,17 @@
   "en": "<strong>Skills:</strong> Harden parts of their bodies; Generate Acid; Cloak; Increase Size.",
   "t": "<strong>المهارات:</strong> تصليب أجزاء من جسدها؛ توليد الحمض؛ التخفي؛ زيادة الحجم."
  },
+ "9b1905acada7": {
+  "en": "<strong>Intelligence:</strong> Much higher than a dog’s, and of a very specific kind. They have their own cultures and social norms. They can’t speak or understand Vraki, but they understand actions, like pointing to the sea while holding a big slice of meat. Their trades might seem random, but the better the meat, the more likely they are to pay back the kindness. Sometimes they make odd sounds that sound like Vraki, as if they were trying to learn, or at least repeat what they heard people say.",
+  "t": "<strong>الذكاء:</strong> أعلى بكثير من ذكاء الكلب، ومن نوع محدد جدًا. لها ثقافاتها وأعرافها الاجتماعية. لا تستطيع الكلام بالفراكي ولا فهمها، لكنها تفهم الأفعال، كالإشارة إلى البحر مع حمل شريحة لحم كبيرة. قد تبدو مقايضاتها عشوائية، لكن كلما كان اللحم أفضل، زاد احتمال أن ترد الجميل. أحيانًا تصدر أصواتًا غريبة تشبه الفراكي، كأنها تحاول التعلم، أو على الأقل تكرار ما سمعت الناس يقولونه."
+ },
  "9c96138b628e": {
   "en": "<strong>Reproduction:</strong> Females give birth to 5–7 babies every year.",
   "t": "<strong>التكاثر:</strong> تلد الإناث 5–7 صغار كل عام."
+ },
+ "9e08f4c26423": {
+  "en": "<strong>White Roundies Meat</strong>: Some people like it, but eating it is often considered weird because of its unusual taste. Much more expensive, or simply unavailable, outside the winter.",
+  "t": "<strong>لحم الوايت راونديز</strong>: يحبه بعض الناس، لكن أكله كثيرًا ما يُعد غريبًا بسبب طعمه غير المألوف. أغلى بكثير، أو غير متوفر ببساطة، خارج الشتاء."
  },
  "9eece3967a5b": {
   "en": "<strong>Extermination</strong>: Usually one piece (often the Walking Heart stone with the head bone) is torn off and brought back as proof of the hunt. See Embassy Quests for more details.",
@@ -743,6 +779,10 @@
   "en": "<strong>Inspired by:</strong> Chimpanzee.",
   "t": "<strong>مستوحى من:</strong> الشمبانزي."
  },
+ "b50deeb8ddf5": {
+  "en": "<strong>Inspired by:</strong> Seals and penguins.",
+  "t": "<strong>مستوحى من:</strong> الفقمات والبطاريق."
+ },
  "b521396978a6": {
   "en": "Endless experiments with what's now known as the Walking Heart stone left tons of zombies of different species in Bahyum Castle, and it somehow keeps creating more.",
   "t": "التجارب التي لا تنتهي على ما يُعرف الآن بحجر الووكينغ هارت تركت أطنانًا من الزومبي من أنواع مختلفة في قلعة باهيوم، وما زالت بطريقة ما تصنع المزيد."
@@ -767,6 +807,10 @@
   "en": "Hifuna People",
   "t": "هيفونا بيبول"
  },
+ "bf8dfb4caa32": {
+  "en": "<strong>Reproduction:</strong> Every spring, after fattening up in the warmer waters during the winter.",
+  "t": "<strong>التكاثر:</strong> كل ربيع، بعد أن تسمن في المياه الأدفأ خلال الشتاء."
+ },
  "c2018b90555e": {
   "en": "<strong>Intelligence:</strong> Lion.",
   "t": "<strong>الذكاء:</strong> أسد."
@@ -774,6 +818,10 @@
  "c21ad57d8448": {
   "en": "<strong>Tastes like:</strong> Strong, earthy and nutty.",
   "t": "<strong>الطعم:</strong> قوي، ترابي، وبنكهة المكسرات."
+ },
+ "c2d3c43fbc94": {
+  "en": "<strong>Food:</strong> Fish.",
+  "t": "<strong>الغذاء:</strong> السمك."
  },
  "c45a08fc875b": {
   "en": "Hash {X}",
@@ -939,6 +987,10 @@
   "en": "Male and female White Roundies: gray seal-like creatures with long whiskers and pale tails, next to Harry.",
   "t": "ذكر وأنثى من الوايت راونديز: مخلوقات رمادية تشبه الفقمة بشوارب طويلة وذيول فاتحة، بجانب هاري."
  },
+ "ee952739d3ca": {
+  "en": "<strong>Interface:</strong> The hair around their necks, which vibrates and makes a rumbling sound above water.",
+  "t": "<strong>الواجهة:</strong> الشعر حول أعناقها، الذي يهتز ويصدر صوت هدير فوق الماء."
+ },
  "ef4e11ca8495": {
   "en": "Beasts · #HusbandOutWorld",
   "t": "الوحوش · #HusbandOutWorld"
@@ -994,6 +1046,10 @@
  "f5e978a4f160": {
   "en": "White Roundies are gentle mammals from the far south known as Whiteland, often coming up to the shores of Freeish but sometimes as far as Sanbi during the winter to feast on their heart, given the winter in Whiteland is far colder than the Four Kingdoms' winter. Don't let their cute nature fool you, though! They are incredibly intelligent, with some scientists dedicating their lives to investigating their culture alone. It is commonly accepted that this beast is likely on track to become their own race in the far future, but people disagree on what is the turning point. For some, the fact we can't understand their language is the most significant differentiator from Cruros. Others fight that argument on the grounds that they might be even more intelligent than us, and we don't understand them. Others think this whole back-and-forth is a waste of time and prefer to play catch, rub their bellies to hear the rumbling noise that sounds like a pur they make with their neck sensory tentacles, or straight up make companions out of them. If you're one of these people, there's a whole festival around their arrival in Freeish Kingdom you cannot miss out on.",
   "t": "الوايت راونديز ثدييات وديعة من أقصى الجنوب المعروف باسم وايتلاند، كثيرًا ما تصعد إلى شواطئ فريئيش، وأحيانًا حتى سانبي خلال الشتاء لتتغذى على قلوبها، فشتاء وايتلاند أبرد بكثير من شتاء الممالك الأربع. لكن لا تدع طبيعتها اللطيفة تخدعك! فهي ذكية إلى حد لا يُصدق، وبعض العلماء يكرّسون حياتهم لدراسة ثقافتها وحدها. من المقبول عمومًا أن هذا الوحش في طريقه على الأرجح ليصبح عرقًا قائمًا بذاته في المستقبل البعيد، لكن الناس يختلفون حول نقطة التحول. فبالنسبة للبعض، كوننا لا نفهم لغتها هو الفارق الأهم بينها وبين الكرورو. ويرد آخرون على هذه الحجة بأنها قد تكون أذكى منا ونحن لا نفهمها فحسب. ويرى آخرون أن هذا الجدل كله مضيعة للوقت، ويفضلون اللعب معها بالرمي والإحضار، أو فرك بطونها لسماع الهدير الذي يشبه الخرخرة الذي تصدره بمجسات الإحساس في رقبتها، أو اتخاذها رفاقًا مباشرة. إن كنت من هؤلاء، فهناك مهرجان كامل حول وصولها إلى مملكة فريئيش لا يجب أن يفوتك."
+ },
+ "f70be7341df5": {
+  "en": "A seal-like mammal that lives in the far south most of the year. They're often killed in winter, when they move to northern waters to fatten up for spring, though most people frown on it, since they seem too intelligent, especially people who think like Endlessfog's residents.",
+  "t": "ثديي يشبه الفقمة يعيش في أقصى الجنوب معظم العام. كثيرًا ما يُقتل في الشتاء، حين ينتقل إلى المياه الشمالية ليسمن استعدادًا للربيع، مع أن معظم الناس يستهجنون ذلك، لأنه يبدو ذكيًا أكثر من اللازم، خاصة من يفكرون مثل سكان إندلس فوغ."
  },
  "f884107d2275": {
   "en": "<strong>Habitat:</strong> Seen flying all over the region.",
