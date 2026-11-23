@@ -1,4 +1,8 @@
 {
+ "03acadced801": {
+  "en": "<strong>Nari stones:</strong> one stone for Tier I, two for Tier II, four for Tier III, and so on. Once used, a nari stone turns diamond-like as its blue hue fades.",
+  "t": "<strong>ナリストーン：</strong>ティア I には石ひとつ、ティア II には二つ、ティア III には四つ、という具合だ。一度使うと、ナリストーンは青い色合いが薄れて、ダイヤモンドのようになる。"
+ },
  "07b9494886d6": {
   "en": "Using The Interface - Feed",
   "t": "インターフェースの使い方 - 供給"
@@ -15,33 +19,101 @@
   "en": "This is where some progress has been made in extending the interface framework! Nobody has successfully transformed the OBJECT and VERB structure of the interface—but they have been able to increase the information density of the object while retaining consistent casting.",
   "t": "ここが、インターフェースの枠組みの拡張で多少の進展があった部分だ！ インターフェースの目的語と動詞という構造を変えることに成功した者はいない——だが、詠唱の安定性を保ったまま、目的語の情報密度を高めることはできた。"
  },
+ "0d754b757652": {
+  "en": "Copper → Zinc",
+  "t": "銅 → 亜鉛"
+ },
  "0dd08d5e4d8c": {
   "en": "As you feed a specific command and energy into the interface, you will see balls representing the command. You can never mix and match commands; only one command + energy + release may be executed. Below is a plain reference of the different ball statuses",
   "t": "特定の命令とエネルギーをインターフェースに送り込むと、その命令を表すボールが見える。命令を混ぜたり組み合わせたりすることは決してできず、実行できるのは命令＋エネルギー＋解放のひとつだけだ。以下は、さまざまなボールの状態を簡単にまとめたものだ"
+ },
+ "0e4e80712ada": {
+  "en": "Shock VERB",
+  "t": "Shock VERB"
+ },
+ "10668848ecf1": {
+  "en": "Gold → Mercury",
+  "t": "金 → 水銀"
+ },
+ "117351fd0784": {
+  "en": "Healing with Body Restore",
+  "t": "ボディ・リストアでの治癒"
  },
  "11aa2b4fa9b9": {
   "en": "Full Darfaries Interface - scribling and soul energy stone mode (video)",
   "t": "ダルファリエス・インターフェース完全版 - 走り書きと魂のエネルギーの石のモード（動画）"
  },
+ "11cd9fd209af": {
+  "en": "Missing legs or arms",
+  "t": "失った脚や腕"
+ },
+ "124ba39cf2f3": {
+  "en": "Earth VERB",
+  "t": "Earth VERB"
+ },
  "12ef1365e090": {
   "en": "But hey, at least your best friend might be honored to be stuffed and cooked—vorarephilia is a thing anyways.",
   "t": "まあでも、少なくとも親友は詰め物をされて料理されることを光栄に思うかもしれない——丸呑み性愛なんてものもあるしね。"
+ },
+ "132a84ea1843": {
+  "en": "<strong>Create:</strong> tries to recreate the target's body, born where the spell was started. It must be fed Black Honey to grow the clone, and it stays lifeless unless the original is killed, since only one being can connect to a soul. Cloning yourself shortens your lifespan and raises your cancer risk, because the soul's link is forced to thin out, so it's heavily discouraged.",
+  "t": "<strong>クリエイト（創造）：</strong>呪文を始めた場所に生まれる形で、対象の体を作り直そうとする。複製を育てるには黒蜜を与えなければならず、魂につながれるのはひとつの存在だけなので、元の者が殺されないかぎり複製は生命のないままだ。自分を複製すると、魂のつながりが無理やり薄められるので、寿命が縮み、がんのリスクが高まる。だから強く止められている。"
+ },
+ "1364798c2866": {
+  "en": "Nari Refresher, injected with a glass syringe, undoes nari gel body mods.",
+  "t": "ガラスの注射器で注入するナリ・リフレッシャーで、ナリジェルによる体の改造を元に戻す。"
  },
  "13ef126e315c": {
   "en": "To not have any significant amount means you likely came from a bloodline that lived far remote or perhaps outside the four kingdoms, as free commerce and right of passage are perfectly positive correlations with mixing biological fluids between species.",
   "t": "その血がほとんど混じっていないなら、たぶんかなり辺鄙な土地、あるいは四王国の外で暮らしてきた血筋の出身だ。自由な交易と通行の権利は、種族間で体液が混じり合うこととまったく正の相関関係にあるからだ。"
  },
+ "154544b93e9e": {
+  "en": "Spells in this category can be released into an object, or in the air, or as a projectile if you cock your arm back and release the spell as you push it forward.",
+  "t": "この分類の呪文は、物の中や空中に解放することも、腕を後ろに引いて前に押し出しながら呪文を解放すれば、飛び道具として解放することもできる。"
+ },
+ "19e2f002b0a7": {
+  "en": "This is where some progress has been made in extending the interface. Nobody has managed to change its OBJECT and VERB structure, but people have packed more information into the object while keeping the casting consistent. Forway hasn't approved a new compound object for sigil rings in a while: there's a single requirement, but it's incredibly tough to meet. Random passersby are asked to use the experimental sigil ring, and if any of them miscasts, the compound object isn't approved.",
+  "t": "ここが、インターフェースの拡張で多少の進展があった部分だ。目的語と動詞という構造を変えることに成功した者はいないが、詠唱の安定性を保ったまま、目的語により多くの情報を詰め込むことはできた。フォーウェイはしばらく、シジルリング用の新しい複合目的語を認可していない。条件はたったひとつだが、それを満たすのがとんでもなく難しいのだ。通りすがりの人々に試作のシジルリングを使ってもらい、そのうちの誰か一人でも詠唱に失敗すれば、その複合目的語は認可されない。"
+ },
+ "1e9148fad723": {
+  "en": "Cat. Elemental",
+  "t": "分類：元素"
+ },
+ "2142eb994fdb": {
+  "en": "Among researchers, a faint rumor calls it \"Uncontrolled Create\".",
+  "t": "研究者の間では、それを「制御されないクリエイト」と呼ぶかすかな噂がある。"
+ },
  "23d178528dd4": {
   "en": "Ring #5 (closest to elbow): 50*",
   "t": "輪 #5（肘に最も近い）：50*"
+ },
+ "254617659d40": {
+  "en": "One or two deeper cuts and minor blood loss",
+  "t": "一つか二つの深めの切り傷と軽い失血"
  },
  "26d10a4d512d": {
   "en": "Instead of fingers, you can use nari stones sticks to feed power without using yours, or someone else's, Soul Energy.",
   "t": "指の代わりに、ナリストーンの棒を使えば、自分の——あるいは他人の——魂のエネルギーを使わずに力を供給できる。"
  },
+ "277f47c12f8c": {
+  "en": "<strong>Tiers:</strong> the more soul energy (and flesh) put in, the higher the chance of getting a soul to your specifications. The more things you seek in a soul, the more its power is diluted across those skills: ask for someone good at singing, baking and herding, and the energy poured in will most likely be spread evenly among the three. At times the distribution comes out erratic, because the spell \"captures\" and summons a soul in decay that happens to match the summoner's requirements. It also de-ages the target soul.",
+  "t": "<strong>ティア：</strong>魂のエネルギー（と肉体）を多く注ぐほど、注文どおりの魂を得られる可能性が高くなる。魂に求めるものが多いほど、その力はそれらのスキルに薄められる。歌とパン焼きと牧畜が得意な人を求めれば、注いだエネルギーはたぶん三つに均等に分けられるだろう。ときには配分がでたらめになる。呪文が、たまたま召喚者の条件に合う、朽ちかけた魂を「捕まえて」召喚するからだ。また、対象の魂を若返らせもする。"
+ },
  "2853d1cbd2ea": {
   "en": "Simple Objects",
   "t": "単純な目的語"
+ },
+ "2874ac07bfa0": {
+  "en": "Ice VERB",
+  "t": "Ice VERB"
+ },
+ "2ca369f05b2d": {
+  "en": "Nari sticks (nari stones chained together) fuel the spell. A single-use nari stick is spent in one cast, and they aren't cheap.",
+  "t": "ナリスティック（ナリストーンを鎖でつないだもの）が呪文の燃料になる。使い捨てのナリスティックは一回の詠唱で使い切られ、安くはない。"
+ },
+ "2dba29a226b6": {
+  "en": "<strong>Destroy:</strong> tries to destroy the target's whole body. At low tiers it only causes internal or external bleeding; medium tiers can cause convulsions; high tiers cause an explosion.",
+  "t": "<strong>デストロイ（破壊）：</strong>対象の体全体を破壊しようとする。低いティアでは体内か体外の出血を起こすだけだが、中くらいのティアでは痙攣を起こすことがあり、高いティアでは爆発を起こす。"
  },
  "2e99783c4368": {
   "en": "Controlled Flight",
@@ -51,6 +123,18 @@
   "en": "This widely-known interface came up as a merger between the ancient species Fuhraies’s, Buhraies’s, and Lishies’s genetics and their own interfaces. One would assume that would lead to one of the most potent, versatile interfaces that would be as, if not more, powerful than Buhraies interface. In some ways, it is as it gels incredibly well with sigil rings or drawing logograms on it, as you don’t even have to think about it once you get the hand coordination just right. However, this came at the expense that if you do not draw a logogram, it is nearly impossible to control it.",
   "t": "この広く知られたインターフェースは、古代種フライエス、ブライエス、リシエスの遺伝子と、彼ら自身のインターフェースが融合して生まれた。それなら、ブライエス・インターフェースと同等か、それ以上に強力な、最も強く汎用的なインターフェースのひとつになるだろうと思うかもしれない。ある意味ではそうだ。シジルリングや、そこに表語文字を描くこととの相性が抜群によく、手の動きのコツさえつかめば考える必要すらない。ただしその代償として、表語文字を描かないと、制御するのはほぼ不可能になった。"
  },
+ "304bfc2c3ef8": {
+  "en": "Among certain researchers, a faint rumor says it can also be used as \"Uncontrolled Create\", with bigger potential gains and risks.",
+  "t": "一部の研究者の間では、より大きな見返りと危険を伴う「制御されないクリエイト」としても使えるというかすかな噂がある。"
+ },
+ "308ba49d2897": {
+  "en": "Casting a spell",
+  "t": "呪文を唱える"
+ },
+ "30c372919601": {
+  "en": "Near-instant regeneration, if there's enough fat or Black Honey to heal with",
+  "t": "治癒に使える脂肪か黒蜜が十分にあれば、ほぼ瞬時の再生"
+ },
  "35e10a8d52ff": {
   "en": "Variant Verbs",
   "t": "異形の動詞"
@@ -59,17 +143,53 @@
   "en": "Such a feat did claim a lot of street creds among scientists but also a lot of enemies. Not enemies in the traditional sense, as we’re talking a bunch of nerdy scientists that fight with pens and papers rather than bloody means… Except for some who tried to get physical with Gabiro, but when he was younger, he was not as defenseless as one might expect from a shut-in.",
   "t": "この偉業で科学者の間で大いに一目置かれるようになったが、同時に多くの敵も作った。伝統的な意味での敵じゃない。血なまぐさい手段じゃなくペンと紙で戦うオタクな科学者の集団の話だからな……ただし、ガビロに手を出そうとした者も何人かいたが、若い頃の彼は、引きこもりに期待されるほど無防備じゃなかった。"
  },
+ "37e04d60d2e6": {
+  "en": "<strong>What happened in Vol 1, Chapter 1:</strong> Gabiro was trying to bind a specific soul. A lack of proper concentration and not enough nari power made all the soul and body genetic information suddenly meld, triggering a White Hole event, and the soul energy of everyone involved fused into a single being. In that event, a nearly decayed soul (Harry's) was bound by pure chance. What was left of the soul tied to the bagarisa corpse used in the \"summoning ritual\" was wildly different from Harry's. When the explosion happened, Gabiro's own soul was fused into the mix too, and Harry's soul absorbed the capacity of all three. That's how Harry woke up able to speak Vraki, the common language, and why he later develops a custom interface (Vol 4).",
+  "t": "<strong>Vol 1 第 1 章で起きたこと：</strong>ガビロは特定の魂を結びつけようとしていた。十分な集中が欠けていたうえにナリの力が足りず、魂と肉体の遺伝情報がすべて突然融合して、ホワイトホールの現象が起き、関わった全員の魂のエネルギーがひとつの存在に融合した。その現象の中で、ほとんど朽ちかけた魂（ハリーの）が、まったくの偶然で結びつけられた。「召喚の儀式」で使われたバガリサの死骸に結びついていた魂の残りは、ハリーのものとはまるで違っていた。爆発が起きたとき、ガビロ自身の魂も混ざり合い、ハリーの魂は三つすべての力を吸収した。だからハリーは共通語であるヴラキ語を話せる状態で目覚め、のちに独自のインターフェースを身につけるのだ（Vol 4）。"
+ },
+ "38819f04d9eb": {
+  "en": "Blank sigil rings are forbidden, to prevent accidents. Only courtroom scientists and Aquamarine or Sapphire adventurers may use them, to experiment with new spells.",
+  "t": "事故を防ぐため、白紙のシジルリングは禁じられている。新しい呪文を試すためにそれを使えるのは、宮廷科学者と、アクアマリンかサファイアの冒険者だけだ。"
+ },
+ "398793d966e2": {
+  "en": "Manganese → Iron",
+  "t": "マンガン → 鉄"
+ },
+ "3a54978fb627": {
+  "en": "Platinum → Gold",
+  "t": "白金 → 金"
+ },
+ "3c410b0a889e": {
+  "en": "Dust VERB",
+  "t": "Dust VERB"
+ },
  "3d33ae375a2b": {
   "en": "The rings themselves can only hold so much, although as far as everyone knows, nobody except probably Buhraies or perhaps only the primordial species Finaies could cast such a spell at a world-changing scale.",
   "t": "輪そのものが蓄えられる量には限りがある。とはいえ、知られている限り、おそらくブライエスか、あるいは原初の種族フィナイエスだけしか、そんな呪文を世界を変えるほどの規模で唱えることはできなかっただろう。"
+ },
+ "3e4dc5c341ad": {
+  "en": "A piece of someone's flesh can be grown with Body Restore to see their real body (to identify a disguised intruder, for example).",
+  "t": "誰かの肉片をボディ・リストアで育てれば、その人の本当の体を見ることができる（たとえば、変装した侵入者を見破るために）。"
+ },
+ "3fe9f0d4a994": {
+  "en": "<strong>Create:</strong> tries to create objects from the target using all the elements around. Have the elements it's made of nearby to improve the odds.",
+  "t": "<strong>クリエイト（創造）：</strong>周りのあらゆる元素を使って、対象から物を作り出そうとする。成功の確率を上げるには、それを構成する元素を近くに用意しておくこと。"
  },
  "402c5a0d838c": {
   "en": "21 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "このページの残り21項目は<button class=\"linklike\" data-go-bts>舞台裏</button>にのみあります。"
  },
+ "408579690be8": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts other bodies. With no target, the soul flame simply evaporates.",
+  "t": "<strong>リペル／アトラクト（反発／引き寄せ）：</strong>対象がほかの体を反発させるか引き寄せる。対象がなければ、魂の炎はただ蒸発する。"
+ },
  "42463c89d747": {
   "en": "Using The Interface - Setup",
   "t": "インターフェースの使い方 - 準備"
+ },
+ "42c245d29157": {
+  "en": "Material manipulation is an experimental Darfaries research branch, meant to manipulate the world around.",
+  "t": "物質の操作は、周りの世界を操作するための、ダルファリエスの実験的な研究分野だ。"
  },
  "430a66b55695": {
   "en": "{BodyPart} VERB",
@@ -79,9 +199,41 @@
   "en": "It has been a while since Forway approved a new compound object for sigil rings. There is a single requirement, but succeeding is incredibly tough!",
   "t": "フォーウェイがシジルリング用の新しい複合目的語を認可してから、かなり経つ。条件はたったひとつだが、それを満たすのがとんでもなく難しいんだ！"
  },
+ "450b29b2cf51": {
+  "en": "<strong>Someone's soul energy:</strong> when the person touches their middle and ring fingers, the Darfaries veins in their hand light up with soul flame (every race that came after the ancient species has them: Darfaries, Wozefaries, Sorefaries and humans), and the caster's other hand \"eats\" the flames.",
+  "t": "<strong>誰かの魂のエネルギー：</strong>その人が中指と薬指を触れ合わせると、手のダルファリエスの血管が魂の炎で光り（古代種のあとに現れたすべての種族、つまりダルファリエス、ウォゼファリエス、ソレファリエス、人間が持っている）、術者のもう片方の手がその炎を「食べる」。"
+ },
  "450d017ad77c": {
   "en": "Then stick out your middle and ring fingers and touch them on the logograms of the open palm.",
   "t": "それから中指と薬指を伸ばし、開いた手のひらの表語文字に触れる。"
+ },
+ "458fa8521bce": {
+  "en": "<strong>Increase/Decrease:</strong> the target grows or shrinks, but its weight stays the same, since its density changes. If the density goes up too much, the item shrinks into infinity and disappears forever. It can harm an item whose function depends on its density. It can turn one metal into another through fusion, but it explodes most of the time.",
+  "t": "<strong>インクリース／ディクリース（増大／縮小）：</strong>対象は大きくなるか小さくなるが、密度が変わるので重さは変わらない。密度が上がりすぎると、その物は無限に縮んで永遠に消えてしまう。機能が密度に依存する物を傷めることがある。融合によってある金属を別の金属に変えられるが、たいていは爆発する。"
+ },
+ "46020650f5bc": {
+  "en": "<strong>Disassemble:</strong> tries to explode the body.",
+  "t": "<strong>ディスアセンブル（分解）：</strong>体を爆発させようとする。"
+ },
+ "460f450c5a7f": {
+  "en": "<strong>Increase/Decrease:</strong> behaves like Create/Destroy.",
+  "t": "<strong>インクリース／ディクリース（増大／縮小）：</strong>クリエイト／デストロイのように振る舞う。"
+ },
+ "47fb12785962": {
+  "en": "A missing head",
+  "t": "失った頭"
+ },
+ "48b4259f25a7": {
+  "en": "<strong>Destroy:</strong> explodes the target into a shower of extremely fine particles and gas, basically a fine dust; at lower tiers, it might only destroy the object's outer shell.",
+  "t": "<strong>デストロイ（破壊）：</strong>対象を、きわめて細かな粒子とガスのシャワー、基本的には細かい塵に爆散させる。低いティアでは、物の外殻だけを壊すかもしれない。"
+ },
+ "4966438ddf0f": {
+  "en": "Researchers don't fully understand the process. In reality, the spell doesn't create a soul: it tries to pull a disconnected soul into the flesh you want, where it melds with that flesh's own leftover soul connections into a final hybrid. Sex and giving birth are somewhat like that process too: giving new life is basically mixing two souls, giving part of yourself for a newborn to form.",
+  "t": "研究者たちはその過程を完全には理解していない。実際には、この呪文は魂を作り出すのではない。切り離された魂を望みの肉体に引き込もうとし、その魂がその肉体自身に残った魂のつながりと溶け合って、最終的な混成体になるのだ。セックスと出産も、その過程にいくらか似ている。新しい命を与えるとは、基本的に二つの魂を混ぜ合わせ、自分の一部を与えて新生児を形作ることなのだ。"
+ },
+ "4e20ac3a2fdc": {
+  "en": "Shock Create restarts the heart. Storm Create at Tier II or more also works (higher the fatter the person), but it creates a localized storm that harms the skin, so it's more of a \"punishment revival\".",
+  "t": "ショック・クリエイトで心臓を再始動させる。ティア II 以上のストーム・クリエイトでも効く（太った人ほど高く）が、肌を傷める局所的な嵐を起こすので、どちらかといえば「お仕置きの蘇生」だ。"
  },
  "4e68b482c7fd": {
   "en": "If you see one of those in a sigil, then for sure it was manufactured before 987 A.G! Some even collect those as trinkets, which increased their price, which then brought fakes to be manufactured. Seeing the shitstorm developing, Forway officialized production of the old versions, which dismantled the market for it, and the problem was solved! Still, lots of people were pissed, but at least it stopped the grift.",
@@ -95,17 +247,57 @@
   "en": "Cat. Body",
   "t": "分類：体"
  },
+ "503bdeb70c12": {
+  "en": "Multiple broken bones and major blood loss",
+  "t": "複数の骨折と大量の失血"
+ },
+ "5255c62e691b": {
+  "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Darfaries shells appear as you do. With a sigil ring:",
+  "t": "<strong>呪文を始める。</strong>呪文と魂のエネルギーを保持している手の指を握り込む。そうすると、ダルファリエスの殻が現れる。シジルリングを使う場合："
+ },
+ "528b9fb4db2c": {
+  "en": "<strong>Increase/Decrease:</strong> the whole body grows or shrinks.",
+  "t": "<strong>インクリース／ディクリース（増大／縮小）：</strong>体全体が大きくなるか小さくなる。"
+ },
+ "55f999e07aab": {
+  "en": "Restore and Create started out as two different spells. But the logograms are an interface to raw soul energy, whose meaning all users share as fact, and over time both came to mean the same thing: regrow what's missing from the body, be it a finger, or everything else if only a finger is left. If no genetic information remains, see Cat. Soul or other interfaces.",
+  "t": "リストアとクリエイトは、もともと二つの別々の呪文だった。だが表語文字は生の魂のエネルギーへのインターフェースであり、その意味はすべての使い手が事実として共有しているので、時がたつにつれて、どちらも同じ意味になった。体から欠けているものを再生する。それが指一本であれ、指一本しか残っていなければそれ以外のすべてであれ。遺伝情報が何も残っていなければ、分類：魂かほかのインターフェースを参照。"
+ },
  "560c3c8d4c6b": {
   "en": "Ring #1 (closest to wrist): 2",
   "t": "輪 #1（手首に最も近い）：2"
+ },
+ "57a8586e6216": {
+  "en": "Interface shells",
+  "t": "インターフェースの殻"
  },
  "583b25caa114": {
   "en": "Healing is also often performed through this interface due to its abundant nature or as a way to heal a living soul being affected by the nari gel interface without resetting its effects, as one interface cannot reset or manipulate another interface.",
   "t": "治癒もこのインターフェースでよく行われる。豊富にあるからでもあるし、ナリジェル・インターフェースの影響を受けている生きた魂を、その効果を打ち消さずに治す方法でもある。ひとつのインターフェースが別のインターフェースを打ち消したり操作したりすることはできないからだ。"
  },
+ "595c54a14320": {
+  "en": "The mass affected follows the General Power Effects: 0.1 kg at Tier I, doubling with every tier (51.2 kg at Tier X).",
+  "t": "影響を受ける質量は一般的な力の効果に従う。ティア I で 0.1 kg、ティアごとに倍になる（ティア X で 51.2 kg）。"
+ },
+ "599af3d37f22": {
+  "en": "Mud VERB",
+  "t": "Mud VERB"
+ },
  "59ddf0bbb393": {
   "en": "Darfaries interface status: a glowing light-blue ring around a forearm with small colored icons orbiting it.",
   "t": "ダルファリエス・インターフェースの状態：前腕を囲む光る水色の輪と、その周りを回る小さな色とりどりのアイコン。"
+ },
+ "5bd44ebe63cd": {
+  "en": "Tier",
+  "t": "ティア"
+ },
+ "5c0704ac369f": {
+  "en": "A missing torso",
+  "t": "失った胴体"
+ },
+ "5c447d60de4b": {
+  "en": "V (largest, farthest from the hand)",
+  "t": "V（最大で、手から最も遠い）"
  },
  "5cb6d6625907": {
   "en": "Darfaries Interface · #HusbandOutWorld",
@@ -119,9 +311,21 @@
   "en": "Interface \"Balls\"",
   "t": "インターフェースの「ボール」"
  },
+ "5e59f0f13ed9": {
+  "en": "If healing isn't happening, the target must be fed Black Honey or another energy-dense food. Five bottles of Black Honey are like eating tens of 2,000-calorie junk food meals. It's expensive, but there's plenty to go around.",
+  "t": "治癒が進まなければ、対象に黒蜜か、ほかのエネルギー密度の高い食べ物を与えなければならない。黒蜜五本は、2,000 キロカロリーのジャンクフードの食事を何十回も食べるようなものだ。高価だが、出回っている量はたっぷりある。"
+ },
  "5e6cc8d41ac1": {
   "en": "987 A.G, the one and only Gabiro Sanbi Royal, landed the formalization of Darfaries interface verbs and the addition of both Transmute and Entangle by creating a new version from the older interfaces. You could say he stole Right, Up, Down, Left, &amp; Rolls from other scientists claiming it, but he was the one who created a uniformity that no other scientists had in mind, so he took home all the glory.",
   "t": "987 A.G、あの唯一無二のガビロ・サンビ・ロイヤルが、古いインターフェースから新しいバージョンを作り出すことで、ダルファリエス・インターフェースの動詞を体系化し、トランスミュートとエンタングルの両方を追加することに成功した。ライト、アップ、ダウン、レフト &amp; ロールズは、それを主張していた他の科学者たちから盗んだと言えなくもないが、他の科学者が誰も思いつかなかった統一性を作り上げたのは彼だったので、栄光を独り占めした。"
+ },
+ "61c1c4f2478a": {
+  "en": "The Buhraies either were more efficient with this interface or used something else that gave them a leg up. Forway made the Transmute symbol official purely to help research.",
+  "t": "ブライエスは、このインターフェースをもっと効率よく使っていたか、優位に立てる何か別のものを使っていた。フォーウェイがトランスミュートの記号を正式なものにしたのは、純粋に研究を助けるためだ。"
+ },
+ "6462a34fdd62": {
+  "en": "Put lost limbs close to the body, so regrowing them doesn't take as much energy. Severe damage makes the body use a lot of energy to heal.",
+  "t": "失った手足を体の近くに置いておけば、再生にそれほどエネルギーを使わずに済む。ひどい損傷を治すには、体が大量のエネルギーを使う。"
  },
  "66d73579e999": {
   "en": "176 (images illustration)",
@@ -131,25 +335,105 @@
   "en": "You must apply the logograms to the skin of one of your palms, or use sigil rings, then clench your fingers to start the interface while keeping the palm visible.",
   "t": "片方の手のひらの皮膚に表語文字を付けるか、シジルリングを使い、その手のひらを見せたまま指を握り込んでインターフェースを起動しなければならない。"
  },
+ "68fd817c6916": {
+  "en": "A sigil ring brings forth a spell: its logograms make soul energy mutate and do what the caster wants.",
+  "t": "シジルリングは呪文を呼び出す。その表語文字が魂のエネルギーを変異させ、術者の望むことをさせるのだ。"
+ },
+ "69722a5e4037": {
+  "en": "Gravity VERB",
+  "t": "Gravity VERB"
+ },
  "69776ca57e19": {
   "en": "*At least that’s what scientists calculated, as no official Forway record of an exceedingly high-tier spell being cast exists.",
   "t": "*少なくとも科学者たちはそう計算している。とてつもなく高い段階の呪文が唱えられたという公式なフォーウェイの記録は存在しないからだ。"
+ },
+ "6b174442593e": {
+  "en": "What each tier can heal:",
+  "t": "各ティアで治せるもの："
+ },
+ "6b805f489c01": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts everything around it (gravity still affects it). With no target, the soul flame simply evaporates.",
+  "t": "<strong>リペル／アトラクト（反発／引き寄せ）：</strong>対象が周りのあらゆるものを反発させるか引き寄せる（重力の影響は受けたまま）。対象がなければ、魂の炎はただ蒸発する。"
  },
  "6bb5f88148f9": {
   "en": "Ring #3: 18",
   "t": "輪 #3：18"
  },
+ "6bf9374ceec0": {
+  "en": "Body VERB",
+  "t": "Body VERB"
+ },
+ "6cf9bf72fbec": {
+  "en": "<strong>Restore/Disassemble:</strong> draws the element into the target from its surroundings, or explodes it out of the target into its surroundings.",
+  "t": "<strong>リストア／ディスアセンブル（回復／分解）：</strong>周囲から対象へ元素を引き込むか、対象から周囲へ元素を爆発させて出す。"
+ },
  "6d5c5b3cf877": {
   "en": "Using the Darfaries Interface is a process of its own. Though, like riding an egua, once you learn it, it just becomes second nature.",
   "t": "ダルファリエス・インターフェースを使うのは、それ自体がひとつの手順だ。とはいえ、エグアに乗るのと同じで、一度覚えてしまえば自然にできるようになる。"
+ },
+ "6d7e4622451a": {
+  "en": "Body manipulation spells are easier to cast, but they can be risky if the caster doesn't know the side effects. Some people may develop side effects not listed here.",
+  "t": "体を操作する呪文は唱えやすいが、術者が副作用を知らないと危険なことがある。ここに挙げていない副作用が出る人もいるかもしれない。"
+ },
+ "6d98ffb6c2df": {
+  "en": "When the body runs out of fuel, Black Honey finishes the healing, so the target doesn't turn skeletal from undernourishment.",
+  "t": "体の燃料が尽きたら、対象が栄養不足で骨と皮にならないよう、黒蜜で治癒を仕上げる。"
+ },
+ "6fadfb89a110": {
+  "en": "<strong>Verb:</strong> the change being applied. With no verb, the soul energy falls back on the caster's own idea of what it should do.",
+  "t": "<strong>動詞：</strong>加えられる変化。動詞がなければ、魂のエネルギーは、それが何をすべきかについての術者自身の考えに頼る。"
+ },
+ "703d02d20cde": {
+  "en": "In short: choose the spell, put energy into it, and release it. A spell has two parts:",
+  "t": "要するに、呪文を選び、エネルギーを注ぎ、解放する。呪文は二つの部分からなる："
+ },
+ "705649a46934": {
+  "en": "Frozen Earth VERB",
+  "t": "Frozen Earth VERB"
+ },
+ "7135a4e587c8": {
+  "en": "Ash VERB",
+  "t": "Ash VERB"
+ },
+ "724c8389bd95": {
+  "en": "Steam VERB",
+  "t": "Steam VERB"
  },
  "73b453b0f98a": {
   "en": "Forway considered banning non-logogram usage of this interface in the early 800s A.G., but the scientific community's pushback was too strong. Community opinion shifted in the early 900s A.G. after many scientific tragedies occurred without clear progress. By the late 900s A.G., only fringe scientists like Gabiro Sundeath (also known as Gabiro Sanbi Royal) seemed to be still investigating it.",
   "t": "フォーウェイは800年代初頭 A.G. に、このインターフェースを表語文字なしで使うことを禁止しようとしたが、科学界の反発があまりに強かった。900年代初頭 A.G.、はっきりした進展がないまま多くの科学的な悲劇が起きると、科学界の意見は変わった。900年代後半 A.G. には、ガビロ・サンデス（別名ガビロ・サンビ・ロイヤル）のような異端の科学者だけが、まだ研究を続けているようだった。"
  },
+ "756bf4c104c4": {
+  "en": "<strong>Uses:</strong> mainly to entangle the sounds reaching people's ears, so they all hear the same thing. It can be overwhelming: sounds echo when people are close to each other, and it gets harder to tell where sounds other than voices are coming from.",
+  "t": "<strong>用途：</strong>主に、人々の耳に届く音をもつれさせて、皆が同じものを聞くようにするため。圧倒されることもある。人々が互いに近くにいると音が反響し、声以外の音がどこから来ているのかがわかりにくくなる。"
+ },
+ "76c79f05025e": {
+  "en": "Sigil rings",
+  "t": "シジルリング"
+ },
+ "76f489077f50": {
+  "en": "Storm VERB",
+  "t": "Storm VERB"
+ },
+ "7802ad32f0ce": {
+  "en": "Verbs",
+  "t": "動詞"
+ },
+ "78c2d1c75d87": {
+  "en": "Either way, a miscast explodes in soul flame in the caster's hands.",
+  "t": "どちらにせよ、詠唱に失敗すると、術者の手の中で魂の炎が爆発する。"
+ },
+ "7a91c4983d68": {
+  "en": "World VERB",
+  "t": "World VERB"
+ },
  "7c67e01db87c": {
   "en": "Full Darfaries Interface - Sigil and Nari stone mode",
   "t": "ダルファリエス・インターフェース完全版 - シジルとナリストーンのモード"
+ },
+ "7cde42e1eb31": {
+  "en": "Transmute",
+  "t": "トランスミュート"
  },
  "7df913eb7771": {
   "en": "Ring #2: 8",
@@ -159,21 +443,69 @@
   "en": "To release the spell, unclench the fingers. To add motion to the spell, cock your arm, then throw it towards the target to transfer the inertia into the spell.",
   "t": "呪文を解放するには、指を開く。呪文に動きを加えるには、腕を引いてから標的に向かって投げ、その慣性を呪文に伝える。"
  },
+ "83a077984fe7": {
+  "en": "The Buhraies created this interface as an enhancement to their own soul energy interface, in an attempt to control the Darfaries as a versatile army of foot soldiers.",
+  "t": "ブライエスは、ダルファリエスを万能の歩兵の軍団として支配しようとして、自分たち自身の魂のエネルギーのインターフェースを強化するものとしてこのインターフェースを作った。"
+ },
+ "840823ff59c1": {
+  "en": "<strong>Restore:</strong> shapes the item into the desired object by combining elements around the caster, basically the reverse of chemical reactions. Have the elements it's made of nearby to improve the odds; otherwise the repaired object may break again if the new connections aren't strong.",
+  "t": "<strong>リストア（回復）：</strong>術者の周りの元素を組み合わせて、その物を望みの形に作る。基本的に化学反応の逆だ。成功の確率を上げるには、それを構成する元素を近くに用意しておくこと。さもないと、新しいつながりが強くなければ、直した物がまた壊れるかもしれない。"
+ },
+ "845f813c2b56": {
+  "en": "<strong>Tiers:</strong> the mass affected follows the General Power Effects (0.1 kg at Tier I, doubling with every tier).",
+  "t": "<strong>ティア：</strong>影響を受ける質量は一般的な力の効果に従う（ティア I で 0.1 kg、ティアごとに倍になる）。"
+ },
+ "85e7149e86b7": {
+  "en": "<strong>Revival, step by step</strong> (as Morika does it in Vol 4):",
+  "t": "<strong>蘇生の手順</strong>（Vol 4 でモリカがするように）："
+ },
  "889505c1f708": {
   "en": "This widely-known interface came up as a merger between the ancient species Fuhraies’s, Buhraies’s, and Lishies’s genetics and their own interfaces.",
   "t": "この広く知られたインターフェースは、古代種フライエス、ブライエス、リシエスの遺伝子と、彼ら自身のインターフェースが融合して生まれた。"
+ },
+ "8a4a4532c533": {
+  "en": "<strong>Apply the energy.</strong> Touch what you want to apply it to with your palm and straighten your fingers, or release the spell as it is for a ranged attack. Cock your arm and time it right for extra range. The caster's body feels the weight of the spell, like firing a gun.",
+  "t": "<strong>エネルギーを作用させる。</strong>作用させたいものに手のひらで触れて指をまっすぐ伸ばすか、遠距離攻撃としてそのまま呪文を解放する。射程を伸ばすには腕を引いて、タイミングを合わせること。術者の体は、銃を撃つときのように呪文の重みを感じる。"
+ },
+ "8ca6193582e9": {
+  "en": "Water VERB",
+  "t": "Water VERB"
+ },
+ "8d204a0435e5": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Darfaries%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Darfaries Interface.md</a>",
+  "t": "出典：<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Darfaries%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Darfaries Interface.md</a>"
  },
  "8f6687bd0076": {
   "en": "The “Veins”",
   "t": "「血管」"
  },
+ "930585f35c72": {
+  "en": "<strong>Choose the spell</strong> (see Language › Darfaries Interface Language). Either put on a sigil ring:",
+  "t": "<strong>呪文を選ぶ</strong>（言語 › ダルファリエス・インターフェース言語を参照）。シジルリングをはめるか："
+ },
+ "95ca95757aa4": {
+  "en": "Cat. Soul",
+  "t": "分類：魂"
+ },
+ "984bfe340ee0": {
+  "en": "Healing matches the flesh to how the soul looks, so old scars don't exist in Vraki unless someone is too poor for nari gels or the Darfaries Interface. Tattoos are removed as soon as Body Restore is used.",
+  "t": "治癒は肉体を魂の姿に合わせるので、ナリジェルやダルファリエスのインターフェースを使えないほど貧しくないかぎり、ヴラキには古傷が存在しない。刺青はボディ・リストアを使ったとたんに消える。"
+ },
  "995e5279ac7d": {
   "en": "To add more power, repeat this action. Be aware that each “eating“ motion attempts to bring the spell to the next stable tier, or energy level, so awareness of the increased soul energy needed between each higher tier is essential.",
   "t": "さらに力を加えるには、この動作を繰り返す。「食べる」動作をするたびに、呪文を次の安定した段階、つまりエネルギーの段階へ引き上げようとするので、段階が上がるごとに必要な魂のエネルギーが増えることを意識しておくのが欠かせない。"
  },
+ "9bd96337042b": {
+  "en": "Nickel → Copper",
+  "t": "ニッケル → 銅"
+ },
  "9f156873d1d5": {
   "en": "Sigil rings are a modern and quicker way to interact with the Darfaries Interface. Without it, one must draw the logograms into the skin of their palm, which can be a lengthy process, even for seasoned adventurers. Dangerous, too, as if you draw something unclear as it could cause the interface to default to your thoughts, and you needlessly turn your best friend into a fanchaki all because you thought about what’s cooking for dinner while casting it. And if you’re really messing with the soul, even if by accident, you might never find a way to undo it.",
   "t": "シジルリングは、ダルファリエス・インターフェースを扱う現代的で手早い方法だ。これがないと、手のひらの皮膚に表語文字を描かなければならず、熟練の冒険者にとっても時間のかかる作業になりかねない。しかも危険だ。はっきりしないものを描くと、インターフェースがお前の考えをそのまま採用してしまうかもしれず、詠唱中に夕飯は何かなんて考えたせいで、親友を無駄にファンチャキに変えてしまうことになる。そして、たとえうっかりでも本当に魂をいじってしまったら、元に戻す方法は二度と見つからないかもしれない。"
+ },
+ "a2719cb8ed6e": {
+  "en": "Every elemental spell works the same way:",
+  "t": "元素の呪文はすべて同じように働く："
  },
  "a2b9afce0d53": {
   "en": "Ring #4: 32*",
@@ -183,45 +515,169 @@
   "en": "Darfaries Interface",
   "t": "ダルファリエス・インターフェース"
  },
+ "a37a0f7da74e": {
+  "en": "Iron → Cobalt",
+  "t": "鉄 → コバルト"
+ },
+ "a565144f956c": {
+  "en": "Creates a soul with specific soul genetic information, using flesh as the base. The incantation tries to picture the target and think aloud about its characteristics.",
+  "t": "肉体を土台にして、特定の魂の遺伝情報を持つ魂を作り出す。詠唱では、対象を思い描き、その特徴を声に出して考えようとする。"
+ },
  "a669783c12a0": {
   "en": "Using The Interface - Release",
   "t": "インターフェースの使い方 - 解放"
+ },
+ "a6eb045a1ff1": {
+  "en": "<strong>Create/Destroy:</strong> Create does nothing. Destroy explodes the target into a shower of extremely fine particles and gas, basically a fine dust; at lower tiers, it might only destroy the object's outer shell.",
+  "t": "<strong>クリエイト／デストロイ（創造／破壊）：</strong>クリエイトは何もしない。デストロイは対象を、きわめて細かな粒子とガスのシャワー、基本的には細かい塵に爆散させる。低いティアでは、物の外殻だけを壊すかもしれない。"
+ },
+ "a7eb38f676c7": {
+  "en": "<strong>Restore:</strong> soul energy uses the target's soul genetic information to find what's out of place in their body, and corrects it using stored energy to fuel the changes. More below.",
+  "t": "<strong>リストア（回復）：</strong>魂のエネルギーが対象の魂の遺伝情報を使って体の中のおかしなところを見つけ、蓄えたエネルギーを燃料にしてそれを正す。詳しくは下記。"
  },
  "a8fe88bccc82": {
   "en": "Full Darfaries Interface - scribling and soul energy stone mode",
   "t": "ダルファリエス・インターフェース完全版 - 走り書きと魂のエネルギーの石のモード"
  },
+ "aa288905b03d": {
+  "en": "I (smallest, closest to the hand)",
+  "t": "I（最小で、手に最も近い）"
+ },
+ "aa39015fda61": {
+  "en": "Science - Darfaries Interface (World Lore illustration)",
+  "t": "科学 - ダルファリエス・インターフェース（世界観イラスト）"
+ },
+ "ad0f7e005000": {
+  "en": "Body Restore, through a sigil ring fueled by nari sticks.",
+  "t": "ナリスティックを燃料にしたシジルリングで、ボディ・リストア。"
+ },
  "ad789405eb37": {
   "en": "Compound objects",
   "t": "複合目的語"
+ },
+ "aeaf0ba689f9": {
+  "en": "Cobalt → Nickel",
+  "t": "コバルト → ニッケル"
+ },
+ "b325204b56ca": {
+  "en": "The best-known spells (healing, reviving, elemental and more) can be bought at any Soul Energy shop.",
+  "t": "最もよく知られた呪文（治癒、蘇生、元素など）は、どこの魂のエネルギーの店でも買える。"
  },
  "b4801c89826b": {
   "en": "Due to their size, Darfaries cannot fly, but they can somewhat dampen their fall from approximately three-story buildings. Wozefaries can dampen their fall from up to ten-story buildings, while Sorefaries can control their attitude at will, and even carry some weight with them. The weight depends on the Sorefaries’ strength, dexterity, and soul energy capacity.",
   "t": "体が大きいせいで、ダルファリエスは飛べないが、3階建てくらいの建物からの落下なら多少は勢いを和らげられる。ウォゼファリエスは10階建てまでの建物からの落下を和らげられ、ソレファリエスは自在に姿勢を制御でき、多少の荷物を運ぶことさえできる。運べる重さは、そのソレファリエスの力、器用さ、魂のエネルギーの容量によって決まる。"
  },
+ "b647f1de4ac0": {
+  "en": "Bruises",
+  "t": "打ち身"
+ },
+ "b92c87f1b12d": {
+  "en": "Soul energy shapes the spell using logograms drawn from the knowledge shared by the people nearby.",
+  "t": "魂のエネルギーは、近くにいる人々が共有する知識から引き出した表語文字を使って呪文を形作る。"
+ },
+ "ba9989c6673e": {
+  "en": "<strong>Subject:</strong> the target of the spell. With no subject, the soul energy falls back on the caster's own idea of how it should apply itself.",
+  "t": "<strong>主語：</strong>呪文の対象。主語がなければ、魂のエネルギーは、それがどう作用すべきかについての術者自身の考えに頼る。"
+ },
+ "baded418ca13": {
+  "en": "A White Hole (also called White Fire) is what happens when soul energy doesn't convert properly into the desired outcome: it backfires, explodes, or becomes nothing instead of something. These events aren't quite an urban legend: scientists and researchers know about them. They were better known in the old days, before Forway really became a thing and resentment against messing with the soul became commonplace.",
+  "t": "ホワイトホール（白い炎とも呼ばれる）とは、魂のエネルギーが望んだ結果にうまく変換されないときに起きるものだ。逆噴射するか、爆発するか、何かになるかわりに無になる。こうした現象はまったくの都市伝説というわけではなく、科学者や研究者はそれを知っている。フォーウェイが本格的に力を持ち、魂をいじることへの反感が当たり前になる前の昔は、もっとよく知られていた。"
+ },
+ "bc6f4bc6da01": {
+  "en": "Heals",
+  "t": "治せるもの"
+ },
+ "bdc1fd5d3c0f": {
+  "en": "Shell",
+  "t": "殻"
+ },
+ "be58ecb5f9ad": {
+  "en": "Drawn logograms are forbidden inside city and kingdom perimeters, because of the risk of explosions and miscasts:",
+  "t": "爆発と詠唱失敗の危険があるので、都市と王国の境界内では、描いた表語文字は禁じられている："
+ },
  "c0074aa34b2d": {
   "en": "Darfaries Interface Video showcase",
   "t": "ダルファリエス・インターフェース 動画紹介"
+ },
+ "c0a448a02870": {
+  "en": "Water Gravity VERB",
+  "t": "Water Gravity VERB"
+ },
+ "c4ebb12ada7e": {
+  "en": "Soul Create (Book I Chapter I Gabiro’s version)",
+  "t": "ソウル・クリエイト（第 I 巻 第 I 章 ガビロ版）"
+ },
+ "c4f55f2d0048": {
+  "en": "<strong>Restore/Disassemble:</strong> Restore doesn't put things back together from their pieces; it just makes the object look newer. Disassemble does the reverse: it rusts an item. It's basically the reverse of chemical reactions.",
+  "t": "<strong>リストア／ディスアセンブル（回復／分解）：</strong>リストアは物を部品から組み立て直すのではなく、物を新しく見せるだけだ。ディスアセンブルはその逆で、物を錆びさせる。基本的に化学反応の逆だ。"
+ },
+ "c6838a9cbc77": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts the element. With no target, the soul flame simply evaporates.",
+  "t": "<strong>リペル／アトラクト（反発／引き寄せ）：</strong>対象が元素を反発させるか引き寄せる。対象がなければ、魂の炎はただ蒸発する。"
  },
  "c8c7488b1383": {
   "en": "Environmental changes, especially creation, destruction, and manipulation of elemental properties such as water, fire, terrain, and gravity, are commonly performed through this interface.",
   "t": "環境の変化、特に水、火、地形、重力といった元素の性質の創造、破壊、操作は、たいていこのインターフェースで行われる。"
  },
+ "cac2d50e5374": {
+  "en": "It only restores the base genetic information; it doesn't deal with whatever is causing the damage, such as worms.",
+  "t": "基本の遺伝情報を回復させるだけで、虫のような、損傷の原因になっているものには対処しない。"
+ },
  "cb864e0c3c67": {
   "en": "Keeping your fingers clenched on the hand you used the logograms on, you must now trap the fingers, or nari stone stick, then reverse the motion while keeping the fingers clenched. This sort of “eating“ motion will suck the power and create a ball into one of the rings that will temporarily hold power. Do not worry about how fast it zips around. The rings will keep it in check until you release the spell in the final step.",
   "t": "表語文字を付けた手の指を握ったまま、指——またはナリストーンの棒——を挟み込み、指を握ったまま動きを逆にする。この「食べる」ような動きで力が吸い取られ、輪のひとつに一時的に力を蓄えるボールが生まれる。ボールがものすごい速さで回っていても心配はいらない。最後の段階で呪文を解放するまで、輪がちゃんと押さえておいてくれる。"
+ },
+ "cbe94eef3d69": {
+  "en": "<strong>Infuse soul energy.</strong> The casting hand takes in energy when the caster \"eats\" with it. A spell is only stable at a soul energy tier, so energy always fills up to the next tier (after a partial charge, it adds the difference). The energy can come from:",
+  "t": "<strong>魂のエネルギーを注ぐ。</strong>術者がその手で「食べる」と、詠唱する手がエネルギーを取り込む。呪文は魂のエネルギーのティアでしか安定しないので、エネルギーはいつも次のティアまで満たされる（部分的に充填したあとは、その差分を加える）。エネルギーの出どころは："
+ },
+ "cd5fc47831e2": {
+  "en": "Entangle",
+  "t": "エンタングル"
+ },
+ "d08ae5111258": {
+  "en": "Minor cuts and minor blood loss",
+  "t": "軽い切り傷と軽い失血"
  },
  "d3ffc8903c8c": {
   "en": "Darfaries, Wozefaries, and Sorefaries show the markings of controlled flight and built-in spell-casting mechanisms using specialized nerves attuned to soul energy that appear as veins, at least to the untrained eye, throughout the upper body. These reddened nerves always ran up their hands and arms and met in the back with a distinct capillary branching appearance.",
   "t": "ダルファリエス、ウォゼファリエス、ソレファリエスは、制御された飛行と、魂のエネルギーに同調した特殊な神経を使う呪文詠唱の仕組みが体に組み込まれている印を持っていて、その神経は少なくとも素人目には、上半身を走る血管のように見える。この赤みを帯びた神経はいつも手と腕を上って、背中で特徴的な毛細血管のように枝分かれしながら合流している。"
  },
+ "d41f0dd4cd5a": {
+  "en": "<strong>Uses:</strong> active research is trying to figure out how the Buhraies used it to shape the land and do all kinds of shit with it. Some researchers think it could outright make gold, which seems possible, since people have transmuted these (it just doesn't make much economic sense):",
+  "t": "<strong>用途：</strong>ブライエスがどうやってこれを使って土地を形作り、あらゆるクソなことをしていたのかを解明しようと、研究が盛んに進められている。金をそのまま作れるかもしれないと考える研究者もいて、それはありえそうに思える。人々は次のようなものを変成させたことがあるからだ（ただ、経済的にはあまり割に合わない）："
+ },
+ "d50e6f0c1670": {
+  "en": "The logograms are the guardrails. Every race with the Darfaries interface can try to override them by using a knife to reach the Buhraies interface underneath, as Gabiro does in the Vol 1 prologue. It's dangerous: an empty logogram forces the user into immense concentration, and the odds aren't in their favor. So for common folk, it's basically like being unable to reach the \"ancient roots\" of the interface.",
+  "t": "表語文字はガードレールだ。ダルファリエスのインターフェースを持つすべての種族は、Vol 1 のプロローグでガビロがするように、ナイフを使ってその下にあるブライエスのインターフェースに到達することで、それを上書きしようと試みることができる。それは危険だ。空の表語文字は使い手にとてつもない集中を強い、勝ち目は薄い。だから一般の人々にとっては、インターフェースの「古代の根」に手が届かないのと基本的に同じだ。"
+ },
  "d5fc3c0d596b": {
   "en": "Currently, 26 Simple Objects are widely accepted, as in Forway-approved, for Sigil rings. They are mostly inherited from previous interfaces and haven’t changed in hundreds of years.",
   "t": "現在、シジルリング用として広く認められている——つまりフォーウェイが認可している——単純な目的語は26種類ある。ほとんどは以前のインターフェースから受け継がれたもので、何百年も変わっていない。"
  },
+ "d7506f50f91f": {
+  "en": "Cat. Material",
+  "t": "分類：物質"
+ },
+ "d8d1f53225ee": {
+  "en": "Gabiro brought Entangle back from the history books. Many had tried before him, but the side effects were always too strong; Gabiro understood how it worked in principle far better than anyone. Most people don't use it day to day, but it's a fundamental tool for the adventurers and guards who protect them.",
+  "t": "ガビロはエンタングルを歴史書からよみがえらせた。彼の前にも多くの者が試みたが、いつも副作用が強すぎた。ガビロはその原理を誰よりもはるかによく理解していたのだ。ほとんどの人は日常的には使わないが、冒険者や、人々を守る衛兵にとっては基本的な道具だ。"
+ },
+ "d90ca37eeeb8": {
+  "en": "{Object} VERB",
+  "t": "{Object} VERB"
+ },
  "d91500bfa542": {
   "en": "Public text: science-darfaries-interface.md",
   "t": "公開テキスト：science-darfaries-interface.md"
+ },
+ "dcc44733ccdb": {
+  "en": "Minor broken bones and medium blood loss",
+  "t": "軽い骨折と中程度の失血"
+ },
+ "ddf5082031ec": {
+  "en": "Each ring has one spell carved into it, such as Body Restore or Shock Create.",
+  "t": "それぞれのリングには、ボディ・リストアやショック・クリエイトのような呪文がひとつ刻まれている。"
  },
  "de1369b50eb5": {
   "en": "Not to say humans can’t use this interface. They certainly can! Although, only if they have shared blood with Darfaries or Wozefaries in their family.",
@@ -230,6 +686,10 @@
  "ded446aabbba": {
   "en": "Now you must make a fist with your other hand. If you can use this interface, a distinct group of five rings will surge from the white flames in your arms and expand outward, with the smallest ring closer to your wrist.",
   "t": "次に、もう片方の手で拳を握る。このインターフェースが使えるなら、腕の白い炎から特徴的な5つの輪が現れて外側へ広がり、一番小さな輪が手首の近くに来る。"
+ },
+ "e0c1969b54cd": {
+  "en": "When a spell is cast, five rings appear around the hand holding it. Each shell holds a limited number of soul energy tiers:",
+  "t": "呪文を唱えると、それを保持している手の周りに五つの輪が現れる。それぞれの殻が保持できる魂のエネルギーのティアの数には限りがある："
  },
  "e5df83155e66": {
   "en": "Full Darfaries Interface - Sigil and Nari stone mode (video)",
@@ -243,6 +703,10 @@
   "en": "This is where some scientists spent their entire lives trying to claim a new verb to be accepted by Forway, but all their works became food for paper rot and forgotten to history because of a single man who broke through the hundreds of years stalemate.",
   "t": "ここで、一部の科学者たちは新しい動詞をフォーウェイに認めさせようと一生を費やしたが、何百年も続いた膠着状態を打ち破ったたった一人の男のせいで、彼らの仕事はすべて紙魚のえさになり、歴史に忘れ去られた。"
  },
+ "e8d0433850e4": {
+  "en": "Fire VERB",
+  "t": "Fire VERB"
+ },
  "ef47633dff56": {
   "en": "Given Darfaries sport the most prominent Darfaries veins, its sheer additional volume allows them to finely sense soul energy disturbances around them, plus a rough sensation of humidity, wind, and barometric pressure—it’s like how they say, if a Darfaries tells you to buy an umbrella, you better buy one!",
   "t": "ダルファリエスは最も目立つダルファリエスの血管を持っているので、その量の多さのおかげで、周囲の魂のエネルギーの乱れを細かく感じ取れるうえ、湿度や風、気圧もだいたいわかる——よく言うだろう、ダルファリエスに傘を買えと言われたら、買っておいたほうがいい！"
@@ -250,5 +714,21 @@
  "f329090850be": {
   "en": "Shared Blood",
   "t": "共有された血"
+ },
+ "f5526de22a80": {
+  "en": "Or draw the logograms by hand. In the early 800s A.G., Forway considered banning the use of the interface without a sigil ring: partly to stop people drawing logograms by hand, which invites mistakes, misuse and, in rare cases, an accidental White Hole, but even more to stop anyone using the interface without logograms (the guardrails) at all. The scientific community pushed back too hard. Opinion shifted in the early 900s A.G., after many scientific tragedies with no clear progress, and by the late 900s A.G. only fringe scientists like Gabiro Sundeath (also known as Gabiro Sanbi Royal) still seemed to be investigating it.",
+  "t": "あるいは表語文字を手で描く。800年代初頭 A.G.、フォーウェイはシジルリングなしでのインターフェースの使用を禁止することを検討した。ひとつには、間違いや悪用、まれには偶発的なホワイトホールを招く、手で表語文字を描くことをやめさせるためだが、それ以上に、表語文字（ガードレール）なしでインターフェースを使うことを誰にもさせないためだった。科学界の反発があまりに強かった。900年代初頭 A.G.、はっきりした進展がないまま多くの科学的な悲劇が起きたあとで世論が変わり、900年代後半 A.G. には、ガビロ・サンデス（ガビロ・サンビ・ロイヤルとしても知られる）のような異端の科学者だけが、まだそれを研究しているようだった。"
+ },
+ "f6bd920f19f0": {
+  "en": "Lava VERB",
+  "t": "Lava VERB"
+ },
+ "f7e4312c3e9b": {
+  "en": "Body parts for later use are kept in jars of a viscous red jelly: finely ground nari stone mixed with blood.",
+  "t": "あとで使う体の部位は、粘り気のある赤いゼリーの入った瓶に保管される。細かく挽いたナリストーンを血と混ぜたものだ。"
+ },
+ "ff5ced0ff9c1": {
+  "en": "Wind VERB",
+  "t": "Wind VERB"
  }
 }
