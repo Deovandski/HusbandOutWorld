@@ -62,3 +62,9 @@ Status: **open** until answered. An open question means the abridged text leaves
 
 - Floors 2 and 7 ("?").
 - "Forday" read as "Forrday", "Prosperity Treat" as "Treaty" (typos).
+
+## Missing Person badge rule (2026-11-23, from Arc #4 A4-4)
+
+> A4-4: yes. Only valid for adventures doing investigations and with a good lead/information to prevent adventures just unnecessary hogging the badge.
+
+Added to the abridged Missing Person paragraph, and appended in his words to the raw display (`content/fixes.json`).

@@ -368,5 +368,12 @@
       "replace": "swim to the base of Waterfall City",
       "why": "Author's ruling (A3-8, 2026-11-23): Triangle City is wrong; Waterfall City is right (the Cliff Walk is in Waterfall)."
     }
+  ],
+  "Legacy/Behind The Scenes/World Lore/Embassies & Guilds.md": [
+    {
+      "find": "and the issue of arrest of the Adventurer.**",
+      "replace": "and the issue of arrest of the Adventurer.**  \n      * **Only valid for adventurers doing investigations and with a good lead/information, to prevent adventurers from unnecessarily hogging the badge.**",
+      "why": "Author's ruling (Arc #4 A4-4, 2026-11-23): limit badge retrieval to adventurers investigating with a good lead."
+    }
   ]
 }

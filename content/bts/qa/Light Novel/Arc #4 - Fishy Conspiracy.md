@@ -18,3 +18,17 @@ Questions:
 - **A4-3:** Chapter 3: Magi "remembers the events of Book 1" and realizes Desmond is Harry. Magi isn't in Vols 1 to 3 (only Vol 1's afterword), and Story Arcs only has her meeting Harry later. Which book is meant (Vol 4?), and what did she see: Harry himself, or his wanted poster?
 - **A4-4:** Chapter 3: the guild rule Magi remembers (she can borrow a suspect's badge for up to a week; if she loses it, she pays ten times the price or works off the debt, plus fees past a week). It isn't in Embassies & Guilds. Make it official there?
 - **A4-5:** Epilogue: "the Wagons will arrive at 6am". The Vraki clock uses timehunks and Sunni-times elsewhere; keep "at 6", or another time word?
+
+Author's answers (batch 1):
+> A4-1: yes.
+> A4-2: somewhere in endlessfog.
+> A4-3: magi has been on the background of illustrations. She watchrd the Gandew duel in the end of vol 1. She did see his old fatter form, and he changed a lot, but still held some semblance.
+> A4-4: yes. Only valid for adventures doing investigations and with a good lead/information to prevent adventures just unnecessary hogging the badge.
+> A4-5: use the appropriate time hunk.
+
+Applied:
+- A4-1: "(The Madam is Laura.)", linked to Characters.
+- A4-2: Arukia is "hiding somewhere in Endlessfog" (linked to Cities).
+- A4-3: Magi remembers the Gandew duel at the end of Vol 1, which she watched from the background (she has been in the background of the illustrations): she saw Harry's old, fatter form; he has changed a lot, but still holds some semblance.
+- A4-4: the rule was already in Legacy (Embassies & Guilds › Quests › Missing Person: retrieve the badge, 1 week, 10x the reward or forced labor). Made official: the author's limit is appended to the raw display (`content/fixes.json`) and to the abridged Missing Person paragraph; Book 12 links to it.
+- A4-5: 6 am → Sunnalow (6:00 to 7:30 am, World Map, Name, Vraki Calendar & UOM).

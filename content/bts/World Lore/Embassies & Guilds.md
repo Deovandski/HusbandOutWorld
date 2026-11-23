@@ -97,7 +97,7 @@ Jobs offered to adventurers. Some require a minimum rank; for local quests, see 
 | Bandit Extermination, Personal Protection, Adventurer Hunter/Rescuer operations, Archeologist Assistance | Aquamarine |
 | Kingdom/Guild/Business Law Compliance (secret) | Sapphire |
 
-**Missing Person:** an adventurer can retrieve the missing person's badge to confirm them, but if they lose it, they pay 10 times the quest reward or face forced labor. They have 1 week to return the badge; after that, a fine equal to the reward is added every week (up to 10 times), and a warrant is issued for their arrest.
+**Missing Person:** an adventurer can retrieve the missing person's badge to confirm them, but if they lose it, they pay 10 times the quest reward or face forced labor. They have 1 week to return the badge; after that, a fine equal to the reward is added every week (up to 10 times), and a warrant is issued for their arrest. This is only allowed for adventurers doing investigations who have a good lead or information, to keep adventurers from hogging badges for no reason.
 
 # Guilds
 

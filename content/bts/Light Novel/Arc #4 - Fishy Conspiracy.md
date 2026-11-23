@@ -26,13 +26,13 @@ She'll appear more, to instigate Eori and Eiri onto a "good" path… (still open
 
 - [Emelia](/lore/characters/#emelia-lakeeye-rich-flower): "So Eiri is pulling the strings now? That's odd. Either way, keep tabs, day and night, on every single person Arukia knows. She knows too much!" Bandits: "Do we—"
 - Someone walks in. Emelia plays along and hands over the flower they want, while the bandits pretend to browse the flowers on their own, looking clearly suspicious. The customer asks Emelia if she needs help. Emelia plays it off: those two are after the same guy, and they're trying to one-up each other in everything. People joke with them; the bandits aren't sure how to react, and wait for the customer to leave.
-- Bandit: "—kill them all on contact?" Emelia: "Do what's necessary. Our Madam has decided to make an example of her." "Then we'll make a real example of her." "Don't bother me with the details. Now get out! You two are an eyesore."
+- Bandit: "—kill them all on contact?" Emelia: "Do what's necessary. Our Madam has decided to make an example of her." (The Madam is [Laura](/lore/characters/#laura-forway-white-bell).) "Then we'll make a real example of her." "Don't bother me with the details. Now get out! You two are an eyesore."
 
 # Book 12 - “Missing” People › Chapter 1 - Pulling Arukia’s Heartstrings
 
 #### Arukia works the farmland under the hot sun
 
-- [Arukia](/lore/characters/#arukia-long-bridge) hoes in the sun. She stops for a second to watch a passing boat and wonders how long she's been here. Maybe it's for the better: no more Red Winga, no more Harry, no more anyone. Just her.
+- [Arukia](/lore/characters/#arukia-long-bridge), hiding somewhere in [Endlessfog](/lore/cities/#endlessfog), hoes in the sun. She stops for a second to watch a passing boat and wonders how long she's been here. Maybe it's for the better: no more Red Winga, no more Harry, no more anyone. Just her.
 - She can't even face her own parents, if they're even still alive after what she did to the Red Winga. She knew where they were and what the Red Winga could do, but she still went through with it, and fled it all. She hoes even harder, and then hears a cry.
 
 #### Arukia finds an injured Bruntos
@@ -104,17 +104,17 @@ She'll appear more, to instigate Eori and Eiri onto a "good" path… (still open
 
 #### Magi, alone, at an end table by the wall in a loud tavern
 
-- Older lady: "Not ordering anything again, pink adventurer?" Magi shakes her head. "Poor you." Magi ends up falling asleep, and suddenly remembers the events of Book 1. "HARRY!" The outburst draws several people's attention. A drunk guy: "Hey, baby, toss Harry aside. Come spend the night with me instead!" Magi, disgusted, pushes him aside and leaves the tavern.
+- Older lady: "Not ordering anything again, pink adventurer?" Magi shakes her head. "Poor you." Magi ends up falling asleep, and suddenly remembers the Gandew duel at the end of Vol 1, which she watched from the background (she has been in the background of the illustrations): she saw Harry's old, fatter form. He has changed a lot, but he still holds some semblance. "HARRY!" The outburst draws several people's attention. A drunk guy: "Hey, baby, toss Harry aside. Come spend the night with me instead!" Magi, disgusted, pushes him aside and leaves the tavern.
 - She heads for Yosuke's restaurant, but her steps grow weaker. *What is he running from? Why wouldn't he change himself more?* She realizes he was eating with her. *Does he work for food and a place to live?*
 
 #### Magi, nervous, at the corner, watching the building; the door is closed, but there's still light inside
 
 - Magi feels the tension. She wants to capture Harry, but what if he's just a look-alike? She takes too long to decide, and the restaurant's light goes out.
-- Her heart races thinking of all the money she'd get. Then she remembers something from back in [Blood](/lore/cities/#blood), when she applied to the guild to become a Pearl: she can borrow a suspect's badge for up to a week, but if she loses it, she pays ten times the price or is forced to work until the debt is paid off, plus other fees if she takes more than a week. She decides she'll do it.
+- Her heart races thinking of all the money she'd get. Then she remembers something from back in [Blood](/lore/cities/#blood), when she applied to the guild to become a Pearl: she can borrow a suspect's badge for up to a week, but if she loses it, she pays ten times the price or is forced to work until the debt is paid off, plus other fees if she takes more than a week. (The [Missing Person](/lore/embassies-and-guilds/#embassies--quests) rule: only for adventurers investigating with a good lead.) She decides she'll do it.
 
 # Book 12 - “Missing” People › Epilogue
 
 #### Yosuke and the gang finish preparing for tomorrow: Harry skewers food on wooden sticks and hands them to Mimi, who dips them in liquid and passes them to Hanako for the cooler
 
-- Tons of food are ready, and they celebrate. Yosuke tells them to rest well: the wagons arrive at 6 to pick up the food, and they'd better be ready!
+- Tons of food are ready, and they celebrate. Yosuke tells them to rest well: the wagons arrive at Sunnalow to pick up the food, and they'd better be ready!
 - Harry sits down, his back aching from all the work. Someone offers him the last bit of Nari Refresher; Harry says he's good. He just needs a beer and some rest instead. Rimir pours him one. "You suck at cooking, but at least you can do the grunt work, unlike a certain someone." Mimi: "I'm helpful too!" They banter.
