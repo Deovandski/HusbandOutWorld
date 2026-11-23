@@ -32,3 +32,16 @@ Applied:
 - A4-3: Magi remembers the Gandew duel at the end of Vol 1, which she watched from the background (she has been in the background of the illustrations): she saw Harry's old, fatter form; he has changed a lot, but still holds some semblance.
 - A4-4: the rule was already in Legacy (Embassies & Guilds › Quests › Missing Person: retrieve the badge, 1 week, 10x the reward or forced labor). Made official: the author's limit is appended to the raw display (`content/fixes.json`) and to the abridged Missing Person paragraph; Book 12 links to it.
 - A4-5: 6 am → Sunnalow (6:00 to 7:30 am, World Map, Name, Vraki Calendar & UOM).
+
+## Book 13 - A Fateful Day (batch 2)
+
+Filled from Legacy:
+- Chapter 2: "Morika XX" → Morika Tolerideme (Characters); Namia and Posaqui (Eori's kidnappers, Vol 3) link to Characters. Homeegg and Maiara link out. The writer's notes ("Explain the game, and how intense Maiara's play is", "Show Maiara scoring a goal", "Talk more about the game") became one line.
+- Chapter 2: "Hanako, Mimi come to the rescue of Eori" → to Harry's rescue (they apologize to Eori). After Eori walks away, "she glances at the Citizen, puts the badge away… takes out a pouch of balls" → Morika (he's the one with the badge and the pouch).
+- Chapter 3: "Desmond from Rubela" → Rebula. Harry says he took the name Desmond "from that Wozen bandit girl" (fits B7-2: her "You're just like Desmond!").
+- Polished: "cooked/cocked/uncooks the bow" → drawn/nocked/eased; Dalila's "Harry let his new girlfriend" → "Desmond" (as A3-12); "freighting" → "frightening"; "Hanako;s" → "Hanako's".
+
+Questions:
+- **A4-6:** Prologue: Magi fears what losing the badge would cost: "(10,500?) Sapphires". Is that the number (10 times the quest reward, so the reward is 1,050 Sapphires)?
+- **A4-7:** Chapter 3: the "sweet old clerk" who knew Fernan at the Blood branch and now manages this branch. A name, or {WIP-…}? Is she the same clerk who gave Magi the badge that morning (the notes call that one "he")?
+- **A4-8:** Harry dies in the alley and Magi revives him with Create Shock. Does that make him Harry #15 (he's #14 in Book 10)? The notes don't number him in Book 13.

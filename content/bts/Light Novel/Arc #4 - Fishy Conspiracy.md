@@ -1,6 +1,6 @@
 ---
 source: Legacy/Behind The Scenes/Light Novel/Arc #4 - Fishy Conspiracy.md
-status: abridged in batches, one book at a time; Book 12 drafted 2026-11-23 (see content/bts/qa/Light Novel/Arc #4 - Fishy Conspiracy.md)
+status: abridged in batches, one book at a time; Books 12 and 13 drafted 2026-11-23 (see content/bts/qa/Light Novel/Arc #4 - Fishy Conspiracy.md)
 note: same format as Arcs #2 and #3. Each chapter becomes a polished list of story beats in the author's voice, keeping the draft dialogue that carries a joke or a character's voice. Books not yet abridged fall back to the raw notes.
 ---
 
@@ -118,3 +118,121 @@ She'll appear more, to instigate Eori and Eiri onto a "good" path… (still open
 
 - Tons of food are ready, and they celebrate. Yosuke tells them to rest well: the wagons arrive at Sunnalow to pick up the food, and they'd better be ready!
 - Harry sits down, his back aching from all the work. Someone offers him the last bit of Nari Refresher; Harry says he's good. He just needs a beer and some rest instead. Rimir pours him one. "You suck at cooking, but at least you can do the grunt work, unlike a certain someone." Mimi: "I'm helpful too!" They banter.
+
+# Book 13 - A Fateful Day › Prologue
+
+#### Magi at the Embassy at the crack of dawn; the clerk has a copy of the badge
+
+- Clerk: "I looked at your contract history. You've never done one of these?" Magi: "Why were you investigating me? I didn't do anything wrong." "Well, you look like a shambles, and you're taking all the boring quests." Magi doesn't look pleased. "I have my reasons. Just give me the contract."
+- She hesitates to sign, but does. She takes Harry's badge and puts it away. She feels the pressure of how badly losing it (10,500 Sapphires?) would screw her over: she'd likely spend the rest of her life working for Forway for free.
+
+# Book 13 - A Fateful Day › Chapter 1 - Catering
+
+#### Yosuke wakes the gang at the crack of dawn
+
+- Yosuke bangs his metal ladle on something to wake everyone. He bonks Dalila on the head to get her up; Harry looks at the open window.
+
+#### Harry and the gang in a wagon; Magi follows them in the background
+
+- They talk about the opportunity. Yosuke tells Dalila not to steal food, or he'll punish her this time. Dalila feels the stress.
+
+#### Harry helps them set up shop while Dalila, Yosuke and Rimir cook; Magi somewhere in the background
+
+- They banter, and Harry is left with menial tasks. Hanako notices Harry keeping an eye on everything around him. "Are you expecting someone or what?" "Of course not." Yosuke: "I'm watching you!" Dalila: "I'm taste-testing the base!" Yosuke flips something perfectly, and Rimir pours something over it in unison.
+- Harry notices Magi in the background, but doesn't think much of it.
+
+# Book 13 - A Fateful Day › Chapter 2 - Stocking the fires of love.
+
+#### Eori watches the game, bored
+
+- The [Homeegg](/lore/pastimes/#homeegg) final is intense, and so is [Maiara](/lore/characters/#maiara-sanbi-royal)'s play. Maiara scores a goal; Eori is still bored. People celebrate as the game goes on, and Eori goes off to buy something.
+
+#### Rounding a corner on her way to buy a drink, Eori sees Harry carrying a box; Magi in the background
+
+- Eori drops her drink, rushes at him and tackles him to the ground. Harry, realizing who it is, puts his hand on her shoulder and tries to push her away while she forces herself on top of him for a kiss.
+- Hanako and Mimi come to Harry's rescue. Hanako offers Eori her hand. "We're sorry for the trouble he caused." "HE BETTER FUCKING BE!" Eori, realizing she's at a stalemate of strength with Harry, stops forcing herself on him and slaps Hanako's hand away as she stands up.
+- Harry, on the ground, takes off running with all the might he has, but as he runs, he sees Eori quickly making up ground. He tries to go down the stairs, trips and falls on his hands. He tries to stumble down the rest of the way, then feels a tackle pin him against the wall.
+- "He's mine!" A cutesy voice breaks up the lovely (if one can call it that) situation.
+
+#### Magi, arrow ready; Eori, sweaty, holds a sweaty Harry against the wall and glares at Magi
+
+- Eori: "What the fuck do you want?" [Magi](/lore/characters/#magi-blood-blue-flower-red-bone): "I borrowed the badge from the clerk this morning! I've been tracking him since yesterday!" Eori looks confused. "What does that have to do with anything? I'm the princess of Sanbi! Harry is mine!" "Step away, or I'll shoot him!"
+- Eori lets him go. Harry seizes the opportunity and takes off running downstairs. Eori and Magi exchange a look, and both take off after him. Magi leaps from the stairs to gain height, and with a quick fling of her bow, an arrow screams toward Harry and lands in his left lung.
+- Harry falls forward, but catches himself and keeps stumbling on, a trail of blood droplets following him out the door and into the crowd. "Princess Eori! You can't leave the game!" A citizen with a sword on his back appears on the stairs. Eori looks at him, flips him the bird, and takes off after Harry.
+- Magi nocks another arrow, looks at Eori again, and realizes that's the princess of Sanbi. *Wait—the duel was for Maiara's hand—what's going on here?*
+
+#### Harry in an alley, slumped against the wall in a growing pool of blood, teary-eyed, puking blood; Eori and Magi, side by side, watch him cower in fear
+
+- Eori, unfazed by all the blood, steps toward him. "I finally found you! Let's go back home, Harry!" Magi, firm, her bow drawn and pointed at the ground: "He's mine until I turn him in to the Embassy!" Eori realizes she's an adventurer. "All right, fine! Do what you must, but I'll follow you there."
+- Magi feels the pressure, but holds her stance, and approaches Harry with her bow drawn. Tears stream down his face. "I'm—sor—ry." He can barely get a word out, struggling just to breathe.
+- Magi realizes Harry is dying, so he won't be taking off again. She eases her bow, and dips Harry's badge in the pool of his own blood.
+
+#### Magi holds Harry's badge: it doesn't light up. Eori's mouth hangs open; Harry looks at his badge and says nothing
+
+- Eori goes from stunned to angry. She kicks Harry in the ribs, breaking them. "You fucking piece of shit! How dare you look like him!" A gurgled scream escapes Harry as his weakened arm barely blocks the kicks. Magi draws on Eori. "STOP!" "DON'T FUCK WITH ME!" Eori, blood spattered on her clothes, points and storms toward Magi.
+- "Princess Eori! You must stop at once!" The same citizen appears again. "FUCK OFF! THIS PIECE OF SHIT IS NOT HARRY!" Eori has had it. The citizen looks around, gravely concerned. "Princess Eori! This is a trap!" He reaches for his sword, but stops when he sees Magi aiming at him instead. Magi, angry: "Who are you?"
+- His hand freezes. "[Morika Tolerideme](/lore/characters/#morika-tolerideme). An adventurer protecting Princess Eori." Eori, now on Magi's side: "What the fuck are you doing here?" Morika slowly takes out his badge. "You're an invaluable target for kidnapping." Eori looks at the lit-up badge, clearly saying Morika. "Oh! So you're gonna kidnap me instead?" She remembers being kidnapped by [Namia](/lore/characters/#namia-sundeath) and [Posaqui](/lore/characters/#posaqui-sanbi). "You know what? You can all go fuck yourselves. I'm not her little bitch anymore!" She walks off, away from Morika.
+- As Eori walks away, Morika glances at her, puts his badge away, and looks at Harry, looking pretty dead, and at Magi, frozen, not quite getting how a princess could say something like that. He takes out a pouch of balls and tosses it at Harry's feet. "Apologies for Princess Eori's behavior. She mistook you for someone she knew."
+- Eori, leaving the scene, hears Morika's steps quickly catching up. She ignores him and keeps walking, anywhere but back to this fake Harry. Morika: "I'll have to report to Neferteri that you lost your—" Eori, in anguish: "Fuck it! Do it! I fucking dare you!" Morika doesn't rise to her anger. Calmly: "Princess Eori, please return to the Nari School with me." Eori, on the fence: "I'll go back by myself. Leave me the fuck alone." "I'm bound by contract not to leave you alone."
+
+# Book 13 - A Fateful Day › Chapter 3 - A Brewing Conspiracy
+
+#### Yosuke watches Magi pull the bloody arrow out of Harry's back
+
+- Yosuke grills her: "What are you doing to his uniform? He hasn't paid it off yet!" Magi, who knows a fair bit about how this works, carefully finishes pulling out the arrow. "I'm sorry, but I thought he was Harry from Sanbi." "He's Desmond from Rebula! Did you even think to ask? Look at him! You ruined the uniform!" "I'm sorry about the arrow, but Princess Eori was the one who kicked him!" "So they weren't lying when they told me Princess Eori tackled Desmond to the ground." Magi, digging through her backpack: "I saw it too."
+- Guards show up. "The fuck happened here?" Magi pulls out both badges and explains it all; Yosuke pulls out his and confirms it. The guards see that Harry's outfit matches Yosuke's. "All right. Clean this mess up, or we'll come after you."
+- Yosuke pulls a key from his robe and hands it to Magi. "That's all on you." "What do you want me to do, then?" "It's obvious. Take Desmond back to the restaurant and tell him to wait for me." Magi takes the key. Yosuke starts to leave. "Don't you dare steal anything, or my acquaintances will have a talk with you."
+- Magi, holding the key, looks at the dead Harry and gives him the last bit of Nari Refresher she has. Harry loses some weight as his body recovers, but the only change in his appearance is his hair turning black again.
+
+#### Magi, bloodied, is confused by Harry's appearance
+
+- "His appearance barely changed!" Magi grabs the badge: *Harry Sanbi*. She touches the badge to him again, but it doesn't light up at all. She touches the fully healed, but dead, Harry. "What's going on?"
+- She uses the Create Shock spell on him. As Harry comes back to life with a huge gasp, Magi quickly readies her bow, arrow drawn on him. He cowers in fear. "Who are you?" "De—Desmond?" She draws further. "Who are you?"
+- Harry feels the arrow is about to fly. He cowers, hands up, protecting his face. "I'm sorry! I'm sorry!—HARRY! My name is Harry!" He says the name he's been avoiding for so long. It sounds strange, almost foreign, but somehow a relief, even with a pointy arrow ready to tear his flesh. "Tell Dalila and everyone I'm sorry."
+- Magi sees how much he's cowering. She looks at where she's hidden his badge, and lowers her bow with a defeated expression. "An older guy in the same uniform as you gave me the key to the restaurant and asked me to take you there." Harry looks at his uniform and touches it in disbelief. "Oh no. He's gonna punish me!" Magi feels like an asshole. "I'm sorry about the arrow, but Princess Eori did most of it."
+- Harry's memory snaps back. He looks around for her, ready to run. "Where's Eori?" "She left already. A guy named Morika took her away." Harry sighs in relief, then his mind clicks. *Wait. Why didn't my badge light up?*
+- Magi holds out her hand, interrupting his thoughts. "Let's go already." Harry hesitates a little, but she doesn't have her bow drawn on him anymore, so now she looks cute rather than frightening. "Don't forget your bag of balls."
+
+#### Magi, somewhat resentful, and Harry, in disbelief and deep thought, walk back, bloodied
+
+- Harry eats a nari gel to improve his eyes. It hurts. Magi keeps to herself.
+- As the bloodied couple walks, people give them strange looks, mostly wondering what they did to end up like that. Rumors in the background: "Hey! That's a uniform from The Wood People Picker!" "That's one of the servers!" Harry tries to cover the restaurant's logo with his hand, but the uniform gives him away easily.
+- Magi, frustrated: "Okay, I'm sorry. I didn't want to shoot you, but you left me no choice when you took off running. I was within my rights, you know?" Harry remembers seeing her earlier that day. "So you were following me too?" "Yeah, but you're not Harry."
+- Harry looks back down the road he's walked so many times carrying wares for the restaurant. *Who the fuck am I, then? I clearly stole the name Desmond from that Wozen bandit girl. I clearly remember waking up in Sanbi, and everything in between—except nothing from after I ate the Bagarisa nari gel until I woke up in Rebula—if I'm not Harry, then who am I?*
+- Meanwhile, Magi glances at Harry, lost in thought. He was afraid of Eori. *Nari Refresher barely changed his appearance, and he clearly fled from Eori. There's clearly something going on here.* She touches the pocket where the badge is hidden. *What if this badge is fake?* She pictures being hanged for saying that out loud.
+- They turn the corner to the restaurant. Magi takes out the key and hands it to Harry, looking away. "I did my part." Harry sees the bloodied Magi turn to leave with a sad expression. "Hey, pink adventurer, don't you want to come in and wash your clothes? You did heal me, right?" Magi, slightly blushing, points to the holes in her uniform. "I can't, or I'll wear them out even more." Harry, seeing her cute face: "I can make you supper too." Magi's stomach growls. She has no choice but to accept.
+
+#### Magi, in soaked clothes and cold, waits at the table while Harry, in his #13 clothes, cooks
+
+- Harry, straining his eyes, carefully flips things in his wok. "They kicked me out of the kitchen, but I've been watching them. I think I'm getting the hang of it now." Magi, hiding her shivering, asks point-blank: "Desmond from Rebula. How did you get that name?"
+- Harry spills something and cleans it up as he answers. "I got the name Desmond from someone I knew. Rebula is where I woke up after—" He seems to be mincing his words. "After what?" "Hmmm—never mind. I don't remember much." Magi looks suspicious. "Or you don't want to say?" "Well, I really don't remember some stuff, but other stuff I do. Saying it out loud sounds weird, since I'm not even Harry. I mean, I don't want to make things worse for people now—"
+- A loud bonk on the table, followed by rattling plates and silverware. Harry turns to see Magi passed out, in what looks like a pretty uncomfortable position. "You okay?" No response. Without wasting time, he finishes cooking, plates the meal and goes to check on the pink adventurer. He touches her limp shoulders and notices how cold she is; her cheeks are bluish too. *Well, I told her she could borrow Hanako's clothes while hers dried.*
+- Harry looks at the passed-out Magi, her shivering body, her bluish lips and nails. *Not so scary-looking now.*
+
+#### Magi wakes up in Harry's bed near sunset; food to the side under glass, plus a note
+
+- Magi startles awake, with no idea where she is, her head pounding. Her backpack and bow are missing, but searching frantically, she finds them right by the bed. Her clothes are damp, but the warmth of the bed makes her feel better.
+- She notices the note. *Pink Adventurer, I told you that you could borrow Hanako's clothes. I went to an atelier to get my uniform patched up. Here's a proper thank you.* There's a handful of Pearls, and the food. Her starving stomach demands she swallow it whole; she slurps it up in a hurry, but it tastes kind of salty, and some of the spices are off.
+- "HANAKO! Desmond let his new girlfriend into his room!" Dalila screams at the door. Magi, blushing red, chokes on her food trying to deny it. "I'm not—" A few coughs to clear her throat. "I'm not his girlfriend! I was hunting him down for a missing person quest!" Dalila: "Missing person? So you know who his family is?" Magi shakes her head. "I thought he was Harry from Sanbi, but the badge didn't light up."
+- Hanako clears her throat as she comes closer. "Then what are you doing in his room, drenched in sweat?" Magi looks at her damp clothes, and her face turns redder. "It's not what you're thinking! I passed out!" "Ohhhhhh—he's that good?" Magi stares back, not understanding.
+- Dalila gasps. "Hanako! Look!" There are balls and a note on the other beds too. Dalila reads it out loud: "I'm sorry. I'll tell you the truth when I come back from the atelier." Magi hands her paper over. "He wrote that to me as well." Dalila looks happy, counting the money she got.
+- Hanako: "You should leave before Yosuke comes back, or he'll punish Desmond." Magi does, grabbing a handful of Pearls, but as she walks out she hears Hanako's loud whisper: "Desmond's got a thing for girly adventurers!" Magi acts as if she didn't hear, but embarrassment tickles her as she walks out.
+
+#### Magi, tired, returns the badge to the clerk
+
+- A sweet old clerk: "You look terrible, honey." "I just want to return this badge, and deposit these Pearls into the guild." Magi shows her own badge next. "Blue-Flower-Red-Bone? Oh! What a delight! How's your father? He was quite the gentleman, even back when he was an Amethyst, like you."
+- Magi tries to hold back her emotions, but sadness peeks through. "You know him?" "But of course, my dear. I was at the Blood branch of the Embassy for twenty-some years before I was promoted to manage this branch. Say, it's been a while since I heard about him. Did he retire?" "He—he disappeared."
+- The sweet old clerk, now voiding the contract: "That's terrible. I hope he's proud of you, fighting to become a Sapphire adventurer too. Sign here." Magi signs. "Anything else, Adventurer Magi?" Magi looks at her, reminded of her late grandma on her father's side, who was just as sweet. "Do you have any easy-money quests?" The clerk offers some, and Magi accepts a few more boring ones.
+
+#### Magi gets ready to sleep somewhere, close to midnight
+
+- She thinks about things: her life, her father, and so on. Then Harry appears in her mind. She wakes up, trying to clear her head, but his smile when he invited her in keeps nagging at her. Then Morika, and Eori. Did Eori really love some random guy from the Sanbi slums?
+
+# Book 13 - A Fateful Day › Epilogue
+
+#### The next morning, Magi stands in front of The Wood People Picker
+
+- "Miss pink adventurer!" Mimi flies over to Magi and asks loudly: "Have you seen Desmond?" Magi feels strange as the restaurant workers and patrons turn their attention to her. "I haven't seen him since yesterday."
+- Hanako comes over to Mimi. "Leave her be. We're at work right now." Mimi, crying: "But Desmond disappeared! I want Desmond back!" Yosuke appears from the kitchen. "What's going on? Mimi! Don't make a scene! Go to your room!" Hanako: "If you find him, let us know. Mimi, c'mon." Mimi hugs Hanako as they head upstairs.
+- Magi realizes Harry gave most of his money away, which left him almost nothing to flee with. They ask her to find him; she tells them to post a search quest, and leaves. "But he doesn't have a badge!"
+- Magi doesn't respond; she seems dissatisfied too, and starts to think it over. Did she just stumble into a conspiracy? What should she do? Could it be the same one that made her father disappear? Hanako: "Fine! We'll find him on our own!"
