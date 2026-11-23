@@ -2,7 +2,8 @@ name: Website
 
 # Builds the website from the Legacy folder (tools/build.py) and publishes it to GitHub Pages.
 # One-time setup: repo Settings > Pages > Build and deployment > Source = "GitHub Actions".
-# Custom domain: add it under Settings > Pages, then commit a CNAME file at the repo root.
+# Custom domain: set under Settings > Pages (now www.husbandoutworld.com). With an Actions deploy no CNAME
+# file is needed; GitHub ignores one.
 on:
   push:
     branches: [main]
@@ -23,7 +24,7 @@ jobs:
     timeout-minutes: 60
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment-retry.outputs.page_url }}
     steps:
       # The build never reads the art programs' source files (.xcf, .clip, .tif: about
       # 2.3 GB of the repo), so the runner doesn't download them. They stay in the repo.
@@ -53,8 +54,8 @@ jobs:
           key: media-${{ github.run_id }}
           restore-keys: media-
 
-      # Tells the build where the site lives: /HusbandOutWorld on github.io,
-      # or the root once a custom domain is set in Settings > Pages.
+      # Tells the build where the site lives: the root of the custom domain set in Settings > Pages
+      # (/HusbandOutWorld on github.io if the domain is ever removed).
       - id: pages
         uses: actions/configure-pages@v6
 
@@ -80,6 +81,18 @@ jobs:
           include-hidden-files: true  # keep .nojekyll, as before
 
       - id: deployment
+        uses: actions/deploy-pages@v5
+        continue-on-error: true
+        with:
+          artifact_name: github-pages-${{ github.run_attempt }}
+
+      # GitHub sometimes can't see the package for a few seconds after the upload ("No artifacts named
+      # github-pages-1"); it happened on 2026-11-21 and 2026-11-22, and a re-run fixed it both times.
+      # So wait and try once more; if that fails too, the run fails.
+      - if: steps.deployment.outcome == 'failure'
+        run: sleep 30
+      - id: deployment-retry
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v5
         with:
           artifact_name: github-pages-${{ github.run_attempt }}
