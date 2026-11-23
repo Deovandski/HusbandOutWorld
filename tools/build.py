@@ -604,6 +604,40 @@ class Builder:
     def md_bts_block(self, md, refs, origin, ids=None):
         return self.r.render(fix_typos(md, origin), base=os.path.join(ROOT, os.path.dirname(origin)), origin=origin, refs=refs, ids=ids)
 
+    def story_notes_abridged(self, path, src, abridged):
+        """A story-notes page with its abridged text (issue #103): each book (category) and chapter (entry)
+        becomes its own section, abridged where content/bts has it, with the raw notes behind a toggle."""
+        blocks, refs = parse_lore(path)
+        origin = rel(path)
+        # the notes open with a "# SPOILER WARNING!" heading: that's the doc's intro, not a chapter
+        if len(blocks) > 1 and not blocks[0]['body'].strip() and blocks[1]['kind'] == 'entry' \
+                and blocks[1]['title'].lower().startswith('spoiler warning'):
+            blocks[0]['body'] = f"**{blocks[1]['title']}**\n\n{blocks[1]['body']}"
+            del blocks[1]
+        out, category, used = [], None, set()
+        for b in blocks:
+            if b['kind'] == 'intro':
+                ab = abridged.get('_intro')
+            elif b['kind'] == 'entry' and category and f"{norm(category['title'])}/{norm(b['title'])}" in abridged:
+                ab = abridged[f"{norm(category['title'])}/{norm(b['title'])}"]
+            else:
+                ab = abridged.get(norm(b['title']))
+            used.update(k for k, v in abridged.items() if v is ab)
+            if b['kind'] == 'category':
+                category = b
+                anchor = 'cat-' + slugify(b['title'])
+                out.append(f'<h2 class="category" id="{anchor}">{esc(b["title"])}</h2>')
+            elif b['kind'] == 'entry':
+                anchor = slugify(f"{category['title']} {b['title']}" if category else b['title'])
+                out.append(f'<h3 id="{anchor}">{esc(b["title"])}</h3>')
+            if ab is not None:
+                out.append(self.abridged_block(ab, b['body'], refs, origin))
+            elif b['body'].strip():
+                out.append(self.md_bts_block(b['body'], refs, origin))
+        for k in abridged.keys() - used:
+            print(f'warning: abridged section "{k}" in content/bts/{src} matches no book or chapter', file=sys.stderr)
+        return '\n'.join(out)
+
     # ---- lore topics
     def build_topic(self, t):
         url = f'/lore/{t["slug"]}/'
@@ -1081,8 +1115,14 @@ class Builder:
             url = f'/novel/{n["slug"]}/'
             p = Page(url, n['title'], 'Light Novel', layer='bts')
             p.sources.append(rel(path))
+            abridged = load_abridged(n['source'])
+            if abridged:
+                body_html = self.story_notes_abridged(path, n['source'], abridged)
+            else:
+                body_html = self.r.render(fix_typos(text, rel(path)), base=os.path.dirname(path), origin=rel(path), refs=refs)
+            label = 'Behind the Scenes · story notes, abridged' if abridged else 'Behind the Scenes · story notes'
             p.html = (f'<h1>{esc(n["title"])}</h1>' + bts_gate('These are the author\'s story notes, including unreleased arcs.') +
-                      f'<div class="layer bts"><p class="bts-label">Behind the Scenes · story notes</p>{self.r.render(fix_typos(text, rel(path)), base=os.path.dirname(path), origin=rel(path), refs=refs)}'
+                      f'<div class="layer bts"><p class="bts-label">{label}</p>{body_html}'
                       f'<p class="src">Source: <a href="{gh_link(path)}">{esc(rel(path))}</a></p></div>')
             p.md_bts = text
             p.desc = f'{n["title"]}: the author\'s story notes (spoilers).'
