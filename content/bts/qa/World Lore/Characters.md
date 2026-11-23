@@ -235,6 +235,29 @@ Status: **answered** 2026-11-22.
 - **Real-world comparisons:** Anpu and Bata's "Reference material Michael and Martin McNamara jokes from Best of The Worst" became a note on the twin kickboxers of *Twin Dragon Encounter* and RedLetterMedia's *Best of the Worst*; Gamal's "A la Hades" reads "like Hades".
 - The Pussy Power faction links to the Factions page; "Chamless" read as charmless; "Enervated" as listless.
 
+## Batch 7: Tolerideme and the Tolerideme Villages (asked 2026-11-22)
+
+Jimmie, Kianna, Isabel, Brandi, Ariana, Amelia, Alford, Luny, Aurora, Dalila, Melada, Honati, Laramy. With this batch, every character in the doc has an abridged entry.
+
+Status: **open** until answered.
+
+### CH19. Brandi's birth year
+- **Legacy text:** Birthday "1039 A.G. Asa 69th"; Habits: "His hand plays with one another as he fumbles the words out."; Speech: "“My mom told me” type of thing."; Likes: "Mother's Milk, Domar barley. Baby food."
+- **Why:** Born in 1039, he'd be a newborn during the books, yet he talks. Is he a baby (so the speech lines are for later), or should he be born a few years earlier?
+
+### CH20. When Aurora had Alford's child
+- **Legacy text:** Alford: "Had an affair with Aurora which led to Aurora having a kid about 8 years ago". Aurora: "On 1,034 A.G. she had an affair and child with Alford".
+- **Why:** 1034 is 5 years before 1039. Which is right? (The abridged text uses 1034 and leaves "about 8 years ago" out, for now.)
+
+### CH21. Dalila's parents
+- **Legacy text:** Dalila: "Her parents are traders"; Flaws: "Losing her parents caused her to be depressed". Laramy: a traveling merchant from Broken-Tree, "Cuddly with his wife and daughter"; Honati, his wife.
+- **Why:** The abridged text reads Dalila as Laramy and Honati's daughter. Is that right?
+
+### Judgment calls in batch 7
+- **Minors:** Dalila (12 in 1039): "Dad-figure, dependable men" reads "Drawn to: dependable father figures", and "She likes to touch, be touched" reads "affectionate, she likes physical closeness with the people she trusts". "Fascinated by" for Ariana (5), Amelia (3) and Brandi.
+- **The spark stays:** Jimmie's "fat poontang" and "a pile of big girls warming him up", and Melada's "large penis attached to said money bag", are kept.
+- Typos read as meant: "Patternity" as paternity; "her previous Alford" as "her precious Alford"; "Persuasive" in Melada's flaws as manipulative (it's also in her strengths).
+
 ---
 
 ## The author's pushback on minors and toned-down wording (2026-11-22)
@@ -265,7 +288,7 @@ Status: **answered** 2026-11-22.
 
 ## Discrepancies
 
-See CH1 to CH18.
+See CH1 to CH21.
 
 ## Left out on purpose
 

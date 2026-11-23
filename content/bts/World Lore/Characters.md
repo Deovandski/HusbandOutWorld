@@ -1,6 +1,6 @@
 ---
 source: Legacy/Behind The Scenes/World Lore/Characters.md
-status: abridged in batches; batch 1 (Adventurers and Blood) asked 2026-11-22 (see content/bts/qa/World Lore/Characters.md)
+status: every character abridged, in seven batches (see content/bts/qa/World Lore/Characters.md)
 note: each character gets their backstory first, then a list of facts (race, birthday, who they're attracted to, Myers-Briggs type, intelligence, habits, speech, strengths, flaws, likes and dislikes, Soul Energy), then their stats by book. The Website Description is the public text, shown above the Behind The Scenes notes. Characters not yet abridged fall back to the raw notes.
 ---
 
@@ -1151,3 +1151,223 @@ Born a twin, he grew very close to his brother, [Bata](#bata-sundeath-pharaohs).
 | Book | Age | Height | Weight |
 |---|---|---|---|
 | ? | ? | 179 cm | ? |
+
+# Jimmie Tolerideme Whoop-Ass
+
+Born and raised in Tolerideme, in a lower farming guild. He had a taste for alcohol since his youth, so he slowly drifted into the alcohol business, lucked out with a recipe that went gangbusters, and founded his own guild and business, where he lucks out again every once in a while. He's the current Alcohol King.
+
+- **Race:** human.
+- **Birthday:** 997 A.G. Moacir 73rd.
+- **Attracted to:** a womanizer who likes them big: his idea of a good time is a pile of big girls warming him up.
+- **Myers-Briggs:** ESTP.
+- **Intelligence:** knows alcohol very well, but years of drinking have dulled how much he takes in, even though he heals himself, since he spends most of his time drunk.
+- **Habits:** focuses on the task at hand; curt in conversation, since he doesn't care about anything unrelated to what he wants right now. Smells like booze.
+- **Speech:** a raspy, drunken voice, somewhat low and uncaring; a long, almost cough-like laugh.
+- **Strengths:** straight to the point; decisive; daring; likes to have everything in hand, or nearby.
+- **Flaws:** careless; narcissistic; rigid; pretty lazy.
+- **Likes and dislikes:** loves beer and fat poontang.
+- **Interface:** Darfaries.
+
+# Kianna Tolerideme Whoop-Ass
+
+She grew up in Tolerideme in a family of alcohol makers, and met [Jimmie](#jimmie-tolerideme-whoop-ass) along the way, becoming his first mate for life. She's always open to new business opportunities, even bad ones, since she's gullible.
+
+- **Race:** human.
+- **Birthday:** 1004 A.G. Asa 14th.
+- **Attracted to:** money, and powerful men.
+- **Myers-Briggs:** ESFP.
+- **Intelligence:** average. Nothing special, other than finding ways to be lazy.
+- **Habits:** an air of superiority; duck face; bitchy face; likes to flaunt it.
+- **Speech:** clicks her tongue; sharp, and somewhat rude, putting others down beneath her. Not skilled at conversation.
+- **Strengths:** huge self-worth; protective; ambitious.
+- **Flaws:** bitchy; rude; sees others as beneath her; gullible, especially when her ego is inflated.
+- **Likes and dislikes:** likes people with power. Doesn't like dealing with petty things, especially petty people.
+- **Interface:** Darfaries.
+
+# Isabel Tolerideme Whoop-Ass
+
+She grew up in a family of Domar producers, met [Jimmie](#jimmie-tolerideme-whoop-ass), and became his second mate for life the second time he lucked out with his spirit recipes.
+
+- **Race:** human.
+- **Birthday:** 1011 A.G. Adrian 44th.
+- **Attracted to:** dependent, secure men.
+- **Myers-Briggs:** ISTP.
+- **Intelligence:** above average, but she keeps to herself, or finds ways to get things done without making waves.
+- **Habits:** bobs her head; hums in agreement; an inquisitive look.
+- **Speech:** soft-spoken; asks questions, and goes back and forth on the meat of the matter.
+- **Strengths:** inquisitive; analytical; logical; conscientious; decent; educated.
+- **Flaws:** cowardly; mechanical about her chores; gloomy, since she tends to be pessimistic.
+- **Likes and dislikes:** loves caring for the three children, and helping the business any way she can. Loves Domar recipes and Sanbi fish.
+- **Interface:** Darfaries.
+
+# Brandi Tolerideme Whoop-Ass
+
+An orgy led to [Isabel](#isabel-tolerideme-whoop-ass) giving birth to Brandi. A paternity test pointed to [Jimmie](#jimmie-tolerideme-whoop-ass), so he's taking care of him too (as in paying child support). Jimmie and Isabel's first son.
+
+- **Race:** human.
+- **Birthday:** 1039 A.G. Asa 69th (see the Q&A).
+- **Fascinated by:** big women.
+- **Myers-Briggs:** ISFJ.
+- **Intelligence:** average.
+- **Habits:** a shy posture; likes being around family; his hands play with each other as he fumbles the words out.
+- **Speech:** "My mom told me…": he relies on his mother a lot.
+- **Strengths:** warm; kind.
+- **Flaws:** shy; lazy.
+- **Likes and dislikes:** his mother's milk, Domar barley, baby food.
+- **Interface:** Darfaries.
+
+# Ariana Tolerideme Whoop-Ass
+
+[Kianna](#kianna-tolerideme-whoop-ass) and [Jimmie](#jimmie-tolerideme-whoop-ass)'s first daughter.
+
+- **Race:** human.
+- **Birthday:** 1034 A.G. Adrian 34th.
+- **Fascinated by:** handsome boys, or big, imposing ones: fat versions of a prince.
+- **Myers-Briggs:** ENFJ.
+- **Intelligence:** average. Nothing special, other than trying to outsmart people, and likely failing.
+- **Habits:** flaunts things as a defense.
+- **Speech:** "My mother is…": she makes up for her age by flaunting everything her parents do.
+- **Strengths:** incisive; persistent; self-confident, with high self-worth; fearless.
+- **Flaws:** boastful; touchy; narcissistic; hotheaded; gullible; envious.
+- **Likes and dislikes:** loves food, and being with her mother to copy her behavior. Hates [Nina](#nina-sanbi-royal), but has to put up with her, or she'd get in trouble.
+- **Interface:** Darfaries.
+
+# Amelia Tolerideme Whoop-Ass
+
+[Kianna](#kianna-tolerideme-whoop-ass) and [Jimmie](#jimmie-tolerideme-whoop-ass)'s second daughter.
+
+- **Race:** human.
+- **Birthday:** 1036 A.G. Adrian 54th.
+- **Fascinated by:** girls who are very kind and cute.
+- **Myers-Briggs:** ISTP.
+- **Intelligence:** knows a fair amount for her age, and is always eager to learn more.
+- **Habits:** listens closely; tends to pull someone aside to get their attention, then asks questions.
+- **Speech:** a lower voice; she doesn't like drawing attention to herself.
+- **Strengths:** quiet; adaptable; diligent; caring; charming; impartial.
+- **Flaws:** passive; nosy; cowardly.
+- **Likes and dislikes:** loves reading, and helping [Isabel](#isabel-tolerideme-whoop-ass) with the Whoop-Ass tasks she can manage.
+- **Interface:** Darfaries.
+
+# Alford Tolerideme Dirt-Lover
+
+Born and raised in Tolerideme, in one of the best and largest farming guilds. Thanks to his charisma and deep knowledge of farming, he became Farm King at 20, which is rather young. He met his partner, [Luny](#luny-tolerideme-dirt-lover), when she started as the new Courtroom Scientist ten years ago: he saw in her a depth of knowledge and an appreciation for farming nobody else had. Still, he joins orgies here and there in secret. Luny doesn't seem to want kids, perhaps because the "wife" thing isn't a thing in Tolerideme. He had an affair with [Aurora](#aurora-tolerideme), which led to her having a child (see the Q&A), and worked out a deal with [Itagiba](#itagiba-sanbi-royal) and [Eiri](#eiri-sanbi-royal) so Luny wouldn't find out.
+
+- **Race:** human.
+- **Birthday:** 980 A.G. Moacir 71st.
+- **Attracted to:** a lady who shares his passion for farming; size doesn't really matter.
+- **Myers-Briggs:** ENTP.
+- **Intelligence:** extremely high when it comes to farming; average to low on everything else.
+- **Habits:** either doing something farming-related or completely laid back, with no in-between; clears his throat a lot.
+- **Speech:** farming stories: he talks about farming one way or another, or steers the conversation toward it.
+- **Strengths:** enthusiastic; enterprising; versatile; amicable; knowledgeable; imaginative; fussy about his farming, to a fault.
+- **Flaws:** shy about relationships; lazy about everything else; narrow-minded.
+- **Likes and dislikes:** loves farming and everything to do with it, including the food that comes out of it.
+- **Interface:** Darfaries.
+
+# Luny Tolerideme Dirt-Lover
+
+Born and raised in Forway City to merchant parents, who sometimes took her on their travels; she fell in love with the countryside, especially Tolerideme. She had a knack for Soul Energy and wanted to become an adventurer, but her parents steered her toward becoming a courtroom scientist instead, enrolling her in the Soul Energy school. So she did, with her sights firmly set on moving to Tolerideme, since an opening would eventually come up there. When she arrived, she met a man so focused on farming that she fell in love with his personality: [Alford](#alford-tolerideme-dirt-lover). They never had children, always too busy with farming and enjoying life.
+
+- **Race:** human.
+- **Birthday:** 997 A.G. Asa 64th.
+- **Attracted to:** passionate men: a mirror of herself, who loves Soul Energy deeply.
+- **Myers-Briggs:** ENFJ.
+- **Intelligence:** quite smart with Soul Energy interfaces, and she has picked up some farming knowledge from Alford by osmosis.
+- **Habits:** makes eye contact, and responds with her hands and head; likes to sit back with a drink and discuss the possibilities.
+- **Speech:** somewhat like [Arukia](#arukia-long-bridge), but not as abusive: more jokey and friendly.
+- **Strengths:** enthusiastic; responsible; friendly, in a blunt, sarcastic way.
+- **Flaws:** opinionated; jealous; bossy; blunt.
+- **Likes and dislikes:** loves trying different foods and drinks. Hates anyone trying to take her precious Alford.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 2 | 42 | 151 cm | 98 kg |
+
+# Aurora Tolerideme
+
+She grew up in Tolerideme and worked various jobs over the years. In 1034 A.G., she had an affair, and a child, with [Alford](#alford-tolerideme-dirt-lover). To keep [Luny](#luny-tolerideme-dirt-lover) from finding out, Alford made a deal with [Itagiba](#itagiba-sanbi-royal) (and [Eiri](#eiri-sanbi-royal)) to get Aurora a job in Sanbi, where she raises her child in secret. Alford visits once in a while for "business purposes", both to check on the child and to have fun with Aurora.
+
+- **Race:** human.
+- **Birthday:** 988 A.G. Asa 31st.
+- **Attracted to:** gentle older men.
+- **Myers-Briggs:** ESFJ.
+- **Intelligence:** emotionally intelligent, but that's about it.
+- **Habits:** touchy, especially with people she thinks need help.
+- **Speech:** a sweet grandma voice: loving and caring, making sure others are okay, and asking again to nudge people into her care. "Honey", "Hon".
+- **Strengths:** a sweet persona; very caring; attentive; charming in her own way; grandmotherly, so to speak.
+- **Flaws:** pushy; gossipy, sounding jovial while she gossips; intrusive.
+- **Likes and dislikes:** likes flowers of every kind, and food, especially sweets.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| 2 | 51 | 168 cm | 95 kg |
+
+# Dalila Broken-Tree
+
+Born and raised north of Tolerideme, the daughter of traders, [Laramy](#laramy-broken-tree) and [Honati](#honati-broken-tree). She traveled a lot with them, picking up information about the world, and learned to read on the road, though she never went to school.
+
+- **Race:** human.
+- **Birthday:** 1027 A.G. Asa 17th.
+- **Drawn to:** dependable father figures.
+- **Myers-Briggs:** ESTJ.
+- **Intelligence:** street smarts; she can haggle like nobody else, and knows a lot about the world from traveling with her parents.
+- **Habits:** sticks close to the people she wants to protect, and be protected by; affectionate, she likes physical closeness with the people she trusts.
+- **Speech:** not afraid to talk, but rarely the first to speak: somewhere between her mom and her dad. She doesn't drill people with questions, but asks the ones that bug her point-blank.
+- **Strengths:** protective; caring; fearless; brave; friendly, but she protects her interests; hardworking; self-aware; perceptive; mature for her age, thanks to her street smarts; doesn't gossip.
+- **Flaws:** intolerant; sometimes speaks her mind a bit too much; flippant; attached and dependent: losing her parents left her depressed for quite a while, since she was so attached to them.
+- **Likes and dislikes:** loves food of all kinds and shapes; she'd eat her weight every day if she could. Dislikes people who try to take advantage of her, or of the people around her, and hates losing trust in someone she once trusted.
+- **Interface:** Darfaries.
+
+# Melada Tolerideme
+
+Born in Broken-Tree, [Laramy](#laramy-broken-tree)'s cousin, she made her way to Tolerideme, then to Forway once she got a bit rich. But she lost all her money gambling and ended up back in Broken-Tree, and now she's looking for ways to get back to the city and regain her old life.
+
+- **Race:** human.
+- **Birthday:** 1007 A.G. Paulin 101st.
+- **Attracted to:** money. If there's a large penis attached to the money bag, then sure, whatever.
+- **Myers-Briggs:** ENFJ.
+- **Intelligence:** not as smart as she seems, especially in math-heavy deals. She can bend people to her will, but her lack of foresight means she can be played like a fiddle; she thinks too highly of herself.
+- **Habits:** knows how to work her way into people's space when she sees them as a mark, and is cunning in how she approaches them; lots of hand movements, eye contact and smiles.
+- **Speech:** a low-energy womanly voice that sounds very confident and knowledgeable. She calls people by name and verbally agrees with them, or with their position, affirming their concerns to win their trust. Her laugh sounds fake.
+- **Strengths:** a skilled communicator; sociable; clever; resourceful (with connections); friendly; self-confident; placid, controlling her emotions and hiding her true intentions.
+- **Flaws:** secretive and fake: she seems caring, but isn't; no foresight, only short-term goals; grumpy behind closed doors when her mascara isn't on; a gambler; greedy; lazy; narcissistic; ruthless; uncaring; extravagant; manipulative; cunning; calculating; dishonest; disloyal.
+- **Likes and dislikes:** loves money, being the center of attention and being treated as superior. Hates being on the same level as others, especially when someone she considers "lucky" gets ahead of her in life, and hates losing her grip on someone she's persuading. Loves dressing up in expensive clothes, or at least ones that look it, and fine food and drinks.
+- **Interface:** Darfaries.
+
+| Book | Age | Height | Weight |
+|---|---|---|---|
+| ? | ? | 143 cm | 64 kg |
+
+# Honati Broken-Tree
+
+She grew up in Forway with lots of brothers and sisters, and parents who were never home, working their asses off, so she developed a "figure it out", "roll with the punches" instinct. She was working at a bar when she met [Laramy](#laramy-broken-tree), and the thought of traveling around with such a lovely man sparked her interest, along with her worry that people would take advantage of him.
+
+- **Race:** human.
+- **Birthday:** 998 A.G. Paulin 84th.
+- **Attracted to:** faithful, loving men who are kind by nature: more than just looks.
+- **Myers-Briggs:** ESTJ.
+- **Intelligence:** street smarts, and a really good memory. She can't read, so she leaves that to Laramy.
+- **Habits:** jumps into conversations to keep Laramy from getting screwed like no other; likes to put herself in front of people, especially standing up; loving and touchy with her family.
+- **Speech:** loving, and she likes to talk, often reminiscing out loud. She gets a bit too chatty at times and can irritate some people, though she means well, but she usually notices and saves the situation by changing the subject or softening her words so the other person gets less defensive or snappy.
+- **Strengths:** a bit more ambitious than Laramy; playful; loyal; loving; intuitive; straightforward; enthusiastic; quick on her feet, rolling with the punches; a bit of wanderlust.
+- **Flaws:** picky; anxious; boring (to some); too touchy (to some); prying; dwells on the past.
+- **Likes and dislikes:** likes being with her family and doing things together; her wanderlust isn't as strong as Laramy's. Hates seafood, or anything that tastes fishy: it makes her gag profusely.
+- **Interface:** Darfaries.
+
+# Laramy Broken-Tree
+
+Born and raised in Broken-Tree, in a family of friendly traveling merchants, he spent his life on the road, and met [Honati](#honati-broken-tree) later in life, in Forway.
+
+- **Race:** human.
+- **Birthday:** 986 A.G. Paulin 34th.
+- **Attracted to:** he played around with women, until he saw Honati and found the one, likely because they're so alike.
+- **Myers-Briggs:** ESTP.
+- **Intelligence:** after many years of travel, he knows the roads like the back of his hand. He knows names and faces like no one else, and has friends all over (at least some who act friendly while sizing him up). He doesn't read people's intentions well. He can read contracts and roughly follow them, unless the language gets very detailed.
+- **Habits:** likes to sit back, and doesn't move much; looks people in the eye with a smile; cuddly with his wife and daughter.
+- **Speech:** he doesn't really start things, but goes along with whatever his wife comes up with.
+- **Strengths:** faithful; loving; kind; liberal; diplomatic; peaceful; intelligent; agreeable; broad-minded; cuddly; wanderlust.
+- **Flaws:** unambitious; wanderlust (he can't sit still in one place for long); a procrastinator; indecisive; boring (to some); too touchy (to some).
+- **Likes and dislikes:** anything he hasn't tasted or drunk before is an immediate yes. Loves meeting people; hates arguments and fights.
+- **Interface:** Darfaries.
