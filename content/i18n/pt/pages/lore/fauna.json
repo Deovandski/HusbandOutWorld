@@ -1,4 +1,8 @@
 {
+ "053d9599488e": {
+  "en": "<strong>Skills:</strong> Its carapace can flip between Walking Heart modes at will, activating the Walking Heart by inflating it with blood, though it can't seem to keep that up for long.",
+  "t": "<strong>Habilidades:</strong> A carapaça consegue alternar entre os modos do Walking Heart à vontade, ativando o Walking Heart ao inflá-lo com sangue, embora pareça não conseguir manter isso por muito tempo."
+ },
  "05949d53f231": {
   "en": "Fauna",
   "t": "Fauna"
@@ -11,13 +15,29 @@
   "en": "Barina",
   "t": "Barina"
  },
+ "09e67a91dd53": {
+  "en": "<strong>Reproduction:</strong> Every spring.",
+  "t": "<strong>Reprodução:</strong> Toda primavera."
+ },
  "0a79c52db09d": {
   "en": "Crocus is the progenitor species of the Cruros. Nothing exactly special about them other than they look hella cute, chunky, and bite like a mean motherfucker. Someone said they tamed one and got it as a pet, but there's no recorded proof. If any crazy scientists figure it out, Forway will have a new pet craze.",
   "t": "O Crocus é a espécie progenitora dos Cruros. Nada exatamente especial neles, além de serem fofos pra caramba, rechonchudos e morderem como um filho da puta malvado. Alguém disse que domou um e o pegou como bichinho de estimação, mas não há prova registrada. Se algum cientista maluco descobrir como, Forway vai ter uma nova febre de bichinhos de estimação."
  },
+ "0c24c85d2564": {
+  "en": "<strong>Food:</strong> Flower nectar.",
+  "t": "<strong>Alimentação:</strong> Néctar de flores."
+ },
+ "140e208733de": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Fauna.md\">Legacy/Behind The Scenes/World Lore/Fauna.md</a>",
+  "t": "Fonte: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Fauna.md\">Legacy/Behind The Scenes/World Lore/Fauna.md</a>"
+ },
  "17d4b0096fcf": {
   "en": "Lansha",
   "t": "Lansha"
+ },
+ "180d2f094292": {
+  "en": "These worms ate soil infused with Walking Heart, and over time the constant feeding and forced use altered their souls.",
+  "t": "Essas minhocas comeram terra infundida com Walking Heart, e com o tempo a alimentação constante e o uso forçado alteraram suas almas."
  },
  "18cdee0fdb32": {
   "en": "Ptaina",
@@ -35,13 +55,25 @@
   "en": "Fauna · #HusbandOutWorld",
   "t": "Fauna · #HusbandOutWorld"
  },
+ "25be17d8e5c2": {
+  "en": "<strong>Cuisine</strong>: See Freeish Kingdom.",
+  "t": "<strong>Culinária</strong>: Veja Reino de Freeish."
+ },
  "25fde25f77d3": {
   "en": "Fanchaki",
   "t": "Fanchaki"
  },
+ "28c2e029ba4d": {
+  "en": "<strong>Habitat:</strong> Ponds. Someone dumped Walking Hearts into a pond near the Freeish Kingdom; the worms ate them, and it altered their souls.",
+  "t": "<strong>Habitat:</strong> Lagoas. Alguém despejou Walking Hearts numa lagoa perto do Reino de Freeish; as minhocas os comeram, e isso alterou suas almas."
+ },
  "2c129c23a434": {
   "en": "Legunia is a desert bird that mimics a sand worm in everything it does, except it eats berries and such instead of other mammals. You can use the hump in their backs as an easy “indicator species” of how survivable the desert currently is. If their hump is deflatable, you should get out while you still can, unless you know exactly what you’re doing. Hunting them down for food and water is easier said than done. Then can easily be miles away before your second shot.",
   "t": "A Legunia é uma ave do deserto que imita um sand worm em tudo o que faz, exceto que come frutinhas e coisas assim em vez de outros mamíferos. Você pode usar a corcova nas costas delas como uma fácil “espécie indicadora” de o quanto o deserto está sobrevivível no momento. Se a corcova estiver murcha, você deveria sair enquanto ainda pode, a não ser que saiba exatamente o que está fazendo. Caçá-las para conseguir comida e água é mais fácil falar do que fazer. Elas podem facilmente estar a quilômetros de distância antes do seu segundo tiro."
+ },
+ "2e7c4501a51f": {
+  "en": "<strong>Skills:</strong> Water Walk; Dirt Repel; Increase/decrease size of legs; Eject their privates or intestines through their asshole (very specific, but that's how they got away from certain predators).",
+  "t": "<strong>Habilidades:</strong> Water Walk; Dirt Repel; Aumentar/diminuir o tamanho das pernas; Ejetar as partes íntimas ou os intestinos pelo cu (bem específico, mas foi assim que escaparam de certos predadores)."
  },
  "3105ba0cdecb": {
   "en": "Wozens are pests that wander mostly in the denser forests around Freeish, but it is not unusual to see them attack people at night in the plains close to Forway. They are predators, so their interface usage makes them near impossible to be seen or heard as they prowl around. Once they decide on a victim, they can jump several times their height, and once their jaw shuts tight on your flesh, there's no letting go as it casts attraction on its teeth. Their pelt and some body parts like eyes are certainly valuable, but its incredibly tough and gamey meat is not—except for people in the slums, or poorer villages, so if you have space to haul it to your nearest butcher, then do so! Some places even consider it as charitable tax write-offs!",
@@ -50,6 +82,10 @@
  "339c23234c8e": {
   "en": "Fatupari, based on their size, would assume they would be classified as Beasts, but not only are they kinda dumb relative to other beasts, but they are also easier to dispatch than one thinks. If you tear their pink webbing, they can't use any magic against you. Or you can fight them fairly if you want to take it up a notch for whatever reason. Either way, some random weirdos swear by its distinctively bitter taste—like soaking wild pheasant breasts in quinine and cooking it until it's stringy and tough for shits and giggles. At least their hide and webbing are usual for a myriad of things for their rugged and water-repellant properties; plus, it looks pretty snazzy too!",
   "t": "Pelo tamanho, seria de supor que os Fatupari fossem classificados como Bestas, mas eles não só são meio burros em comparação com outras bestas, como também são mais fáceis de abater do que se pensa. Se você rasgar as membranas rosa deles, eles não conseguem usar nenhuma magia contra você. Ou você pode lutar com eles de igual para igual, se quiser subir o nível por algum motivo. De qualquer jeito, alguns esquisitos juram pelo sabor distintamente amargo — tipo deixar peito de faisão selvagem de molho em quinino e cozinhar até ficar fibroso e duro, só de zoeira. Pelo menos o couro e as membranas são úteis para uma infinidade de coisas, pelas propriedades resistentes e repelentes à água; além disso, ficam bem estilosos também!"
+ },
+ "342b0a28bd44": {
+  "en": "<strong>Tastes like:</strong> Hairy flowers, earthy-like.",
+  "t": "<strong>Gosto de:</strong> Flores peludas, meio terroso."
  },
  "34fec4db49bb": {
   "en": "Fihi: a long gray fish with a duck-like bill, about 50 cm long.",
@@ -67,6 +103,14 @@
   "en": "Male and female Sorenos: small round brown rodents with white bellies, at about knee height.",
   "t": "Sorenos macho e fêmea: pequenos roedores marrons e redondos de barriga branca, mais ou menos na altura do joelho."
  },
+ "4519d490ec5c": {
+  "en": "<strong>Tastes like:</strong> Dirt. Very earthy.",
+  "t": "<strong>Gosto de:</strong> Terra. Bem terroso."
+ },
+ "4647df281022": {
+  "en": "An adult Egua weighs about 900 kg. <strong>Strain</strong> is the share of that body weight it's working against: more weight means more strain, and so does going faster. Up to 10% strain is comfortable all day; 20% is the maximum.",
+  "t": "Uma Egua adulta pesa cerca de 900 kg. O <strong>esforço</strong> é a fração desse peso corporal contra a qual ela está trabalhando: mais peso significa mais esforço, e ir mais rápido também. Até 10% de esforço é confortável o dia todo; 20% é o máximo."
+ },
  "4a70f16255ca": {
   "en": "Sayna",
   "t": "Sayna"
@@ -79,9 +123,21 @@
   "en": "Ptaina’s gelatinous thingy in its head has rays of purplish light coming out within that will never send you good vibes. In the opposite, actually. It can send ultrasonic vibrations that can tear your insides—if you’re in the water, of course. It’s not as powerful on land except you’re dumb enough to touch it. Plus, they can mess with your compass and your sense of orientation, and give you a nasty headache, too! The raw meat has a more pungent taste and rougher texture, kinda like shark meat, so people usually season and stew the fuck out of it. Or you’re too poor to buy good stuff and have to eat Ptaina to survive. Or you’re so goddam rich that you think it’s a delicacy.",
   "t": "A coisa gelatinosa na cabeça da Ptaina tem raios de luz arroxeada saindo de dentro que nunca vão te passar boas vibrações. Pelo contrário, na verdade. Ela consegue enviar vibrações ultrassônicas que podem rasgar as suas entranhas — se você estiver na água, é claro. Em terra, ela não é tão poderosa, a não ser que você seja burro o bastante para tocá-la. Além disso, ela consegue bagunçar a sua bússola e o seu senso de orientação e ainda te dar uma dor de cabeça daquelas! A carne crua tem um gosto mais pungente e uma textura mais áspera, meio como carne de tubarão, então as pessoas costumam temperar e cozinhar pra caralho. Ou você é pobre demais para comprar coisa boa e tem que comer Ptaina para sobreviver. Ou é tão rico que acha que é uma iguaria."
  },
+ "55f513d86654": {
+  "en": "<strong>Tier I (Cheap Goods):</strong> freshly killed animals, plus elemental Soul Energy interface actions for storage.",
+  "t": "<strong>Nível I (Bens Baratos):</strong> animais recém-abatidos, mais ações elementais da interface de Energia da Alma para armazenamento."
+ },
+ "57c9e45d2e4a": {
+  "en": "Load and strain",
+  "t": "Carga e esforço"
+ },
  "588de5d4b3ab": {
   "en": "Wooly",
   "t": "Wooly"
+ },
+ "593fac5e6412": {
+  "en": "<strong>Intelligence:</strong> Horse.",
+  "t": "<strong>Inteligência:</strong> Cavalo."
  },
  "5c0f1a625789": {
   "en": "Herbivores",
@@ -91,6 +147,10 @@
   "en": "Fihi looks closer to a mammal than a fish, but I assure you it's a fish. It's even kinda cute, except when it opens its beak and reveals an esophagus that looks closer to turtles that will hunt you in your nightmares. They are commonly found on Buhraies plains, but much bigger ones have been spotted on Lukewarm Lake, and the bigger they get, the more aggressive they become. It's a fun catch, with meat akin to catfish, so special preparation is needed to tame the fishy taste. Or you can sell it! Fihis are used for nari gels to extract their ability to control elemental energy, whether absorbing, creating, or releasing it.",
   "t": "O Fihi parece mais um mamífero do que um peixe, mas eu garanto que é um peixe. Ele é até meio fofo, exceto quando abre o bico e revela um esôfago parecido com o das tartarugas, que vai te perseguir nos seus pesadelos. Eles são comuns nas Buhraies plains, mas alguns bem maiores já foram vistos no Lukewarm Lake, e, quanto maiores ficam, mais agressivos se tornam. É uma pesca divertida, com carne parecida com a de bagre, então é preciso um preparo especial para domar o gosto de peixe. Ou você pode vendê-lo! Os Fihis são usados em nari gels para extrair a sua capacidade de controlar a energia elemental, seja absorvendo, criando ou liberando."
  },
+ "6163ffb69538": {
+  "en": "<strong>Medallions</strong>: Used for some nari gels, but also chopped up and grilled; part of the Freeish Region's cuisine.",
+  "t": "<strong>Medalhões</strong>: Usados em alguns nari gels, mas também picados e grelhados; parte da culinária da Região de Freeish."
+ },
  "640820e7cb76": {
   "en": "Fanchaki is a mutation from Chaki and is proof of one of the first, if not the first, successful Buhraies soul tampering, according to historians. Their capability of breeding quicker, growing stronger and better using their interface for defense must have been fundamental to somehow survive the savage Lishies and then humans—because the Chakis are long extinct. Their marbled, tender purple meat became a staple on everyone's menu after The Prosperity Treaty brought more substantial trading across the kingdoms and even turned some adventurers away from adventuring into just hunting these fat bastards to keep up with demand.",
   "t": "O Fanchaki é uma mutação do Chaki e é a prova de uma das primeiras, se não a primeira, manipulações bem-sucedidas da alma pelos Buhraies, segundo os historiadores. A capacidade de se reproduzir mais rápido, ficar mais forte e usar melhor a interface para se defender deve ter sido fundamental para de algum jeito sobreviver aos selvagens Lishies e depois aos humanos — porque os Chakis estão extintos há muito tempo. A carne roxa, marmorizada e macia virou um pilar do cardápio de todo mundo depois que o The Prosperity Treaty trouxe um comércio mais substancial entre os reinos, e até fez alguns aventureiros trocarem a aventura por simplesmente caçar esses gordos desgraçados para dar conta da demanda."
@@ -99,17 +159,49 @@
   "en": "Fihi",
   "t": "Fihi"
  },
+ "6a9d76361231": {
+  "en": "Fauna by tier:",
+  "t": "Fauna por nível:"
+ },
+ "6b22d11aab5e": {
+  "en": "<strong>Skills:</strong> Detect Pressure; Detect Humidity; Detect Temperature; Paralyze.",
+  "t": "<strong>Habilidades:</strong> Detect Pressure; Detect Humidity; Detect Temperature; Paralyze."
+ },
  "6f81b5e5f4da": {
   "en": "Male and female Wozens: lean dog-like animals, one red with dark spots and one orange with tiger stripes.",
   "t": "Wozens macho e fêmea: animais magros parecidos com cães, um vermelho com manchas escuras e um laranja com listras de tigre."
+ },
+ "700bc8fe10e3": {
+  "en": "<strong>Carrying on its back:</strong> strain = load ÷ 900 kg. So 90 kg is 10% strain, and 180 kg (20%) is the most an Egua can carry.",
+  "t": "<strong>Carregando no lombo:</strong> esforço = carga ÷ 900 kg. Então 90 kg é 10% de esforço, e 180 kg (20%) é o máximo que uma Egua consegue carregar."
+ },
+ "715817193298": {
+  "en": "<strong>Tier II (Common Goods):</strong> processed meat, plus elemental Soul Energy interface actions for storage; feathers and fur of large animals, and other animal parts.",
+  "t": "<strong>Nível II (Bens Comuns):</strong> carne processada, mais ações elementais da interface de Energia da Alma para armazenamento; penas e pelagem de animais grandes, e outras partes de animais."
  },
  "72434835401f": {
   "en": "Male and female Bagarisas: boar-like animals with downward tusks and red-tipped manes.",
   "t": "Bagarisas macho e fêmea: animais parecidos com javalis, com presas voltadas para baixo e crinas de pontas vermelhas."
  },
+ "72a4b337244f": {
+  "en": "<strong>Reproduction:</strong> By themselves or with other Culuim.",
+  "t": "<strong>Reprodução:</strong> Sozinhas ou com outros Culuim."
+ },
+ "76726706af4a": {
+  "en": "<strong>Tier III (Expensive Goods):</strong> jerky, plus elemental Soul Energy interface actions for storage; feathers and fur of smaller animals, especially higher-quality ones; tamed or live fauna; rare animal parts.",
+  "t": "<strong>Nível III (Bens Caros):</strong> charque, mais ações elementais da interface de Energia da Alma para armazenamento; penas e pelagem de animais menores, principalmente as de melhor qualidade; fauna domada ou viva; partes raras de animais."
+ },
+ "76b144a85507": {
+  "en": "<strong>Cinika Butterflies</strong>: Freshly killed nearby and stored in a wagon with ice, ready for the butcher shops or to be shipped out.",
+  "t": "<strong>Borboletas Cinika</strong>: Abatidas por perto e guardadas numa carroça com gelo, prontas para os açougues ou para serem despachadas."
+ },
  "7761adf35cbc": {
   "en": "Cinika: a bright turquoise butterfly with black-veined wings and long tail streamers.",
   "t": "Cinika: uma borboleta turquesa viva com asas de veios pretos e longas caudas."
+ },
+ "7aeb69b7c757": {
+  "en": "<strong>Food:</strong> Mainly about 20 kg of grass, hay or Carbey a day.",
+  "t": "<strong>Alimentação:</strong> Principalmente cerca de 20 kg de grama, feno ou Carbey por dia."
  },
  "7b9856128610": {
   "en": "Wingas: male and female blue parrot-like birds with colorful wing bands, next to a larger pink Tolerideme Winga.",
@@ -123,13 +215,25 @@
   "en": "Winga/Pink Winga",
   "t": "Winga/Pink Winga"
  },
+ "7fd94ebdff7a": {
+  "en": "Fauna (World Lore illustration)",
+  "t": "Fauna (ilustração da Lore do Mundo)"
+ },
  "8050c963cb84": {
   "en": "Male and female Crocus: upright gray-green reptiles with spiky backs and long tails.",
   "t": "Crocus macho e fêmea: répteis eretos cinza-esverdeados, com costas espinhosas e caudas longas."
  },
+ "82e94d931d4c": {
+  "en": "<strong>Tastes like:</strong> Bland, old-tasting beef, with a texture like a tougher top sirloin, since only old Eguas are eaten.",
+  "t": "<strong>Gosto de:</strong> Carne de boi sem graça, com gosto de velha, de textura como uma alcatra mais dura, já que só se comem Eguas velhas."
+ },
  "8561960acacb": {
   "en": "Crocus",
   "t": "Crocus"
+ },
+ "87e293098ca7": {
+  "en": "<strong>Habitat:</strong> Lower plains.",
+  "t": "<strong>Habitat:</strong> Planícies baixas."
  },
  "88eaf8a4d441": {
   "en": "Ptaina: a red fish with a huge toothy grin and a glowing bubble on its head, about 45 cm long.",
@@ -138,6 +242,10 @@
  "8cd22c540fdb": {
   "en": "Public text: Website Description in Legacy/Behind The Scenes/World Lore/Fauna.md",
   "t": "Texto público: Website Description em Legacy/Behind The Scenes/World Lore/Fauna.md"
+ },
+ "8d463a231ed8": {
+  "en": "<strong>Reproduction:</strong> Females give birth once a year.",
+  "t": "<strong>Reprodução:</strong> As fêmeas parem uma vez por ano."
  },
  "8de506c1eec8": {
   "en": "Monika: a pale-blue butterfly with rounded wings.",
@@ -155,6 +263,10 @@
   "en": "Soreno",
   "t": "Soreno"
  },
+ "93e19d37b157": {
+  "en": "<strong>Inspired by:</strong> Protorohippus; Hippopotamus; Ardennes Heavy Horse Breed.",
+  "t": "<strong>Inspirado em:</strong> Protorohippus; Hipopótamo; a raça de cavalo pesado Ardennes."
+ },
  "961908588296": {
   "en": "Culuim: a small worm-like creature arched in two humps, red underneath and blue on top, about 30 cm long.",
   "t": "Culuim: uma pequena criatura parecida com um verme, arqueada em duas corcovas, vermelha por baixo e azul por cima, com cerca de 30 cm de comprimento."
@@ -162,6 +274,10 @@
  "98c1c7d6f123": {
   "en": "Cinikas, meanwhile, are not exactly as extraordinary unless there's a swarm of them and you're a sweaty Wozefaries or Sorefaries; then you're big trouble as…",
   "t": "Já os Cinikas não são exatamente tão extraordinários, a não ser que haja um enxame deles e você seja um Wozefaries ou Sorefaries suado; aí você está em apuros, já que…"
+ },
+ "9dfd01727122": {
+  "en": "<strong>Inspired by:</strong> Worms (average).",
+  "t": "<strong>Inspirado em:</strong> Minhocas (comuns)."
  },
  "a11dc364d78f": {
   "en": "Bagarisas compete with Fanchakis to be the most-eaten animal in the four kingdoms. Well, to be fair, they didn't have much choice in participating in that competition, but it's their fault that their irresistibly earthy, mushroom-accented meat that isn't too gamey appeases the palate of all races. They are always in packs, and they will not hold back in lighting up their tusks in flames to rush toward you. They are also skilled with ranged attacks by generating a flaming ball between their tusks, then creating a gust of hot wind that begins in the red crest at the tip of their tails and speeds up towards their head. The bagarisa can tilt its head up to make the hot air strike the ball of flame and turn it into a fireball. If that wasn't enough, they also have a distinct musk of shrimp brine that can make a lot of people gag profusely—dealing with that is one of the many things they teach adventures in the one and only adventurers school in Forway. They also teach them that if they are going for a clean shot, then they need an extra long arrow to perforate the two hearts it has in the chest and lower gut.",
@@ -179,9 +295,17 @@
   "en": "Male and female Fanchakis: plump black chicken-like birds with white-edged feathers and red faces.",
   "t": "Fanchakis macho e fêmea: aves pretas e gordinhas parecidas com galinhas, com penas de bordas brancas e rostos vermelhos."
  },
+ "aad2aeaf73ba": {
+  "en": "<strong>Earth animals that don't exist in Vraki</strong> (for writers): no goats (use Legunia), no dogs or cats (use a Bagarisa where a dog would go), no pigeons (use wild Wingas). (World Lore Q&amp;A › Vol 4 Draft 2, Q8.)",
+  "t": "<strong>Animais da Terra que não existem em Vraki</strong> (para escritores): nada de cabras (use Legunia), nada de cães ou gatos (use um Bagarisa onde iria um cão), nada de pombos (use Wingas selvagens). (Perguntas e Respostas da Lore do Mundo › Vol 4 Rascunho 2, P8.)"
+ },
  "ab65bffd7d33": {
   "en": "Sanbi is the staple of which kingdom? If you didn't answer Sanbi, then oh boy, you might have been smoking too much Magina. If you plan to visit, then give \"The True Sanbi King\" novel a read first, or you might be baffled as to why people put the dead old people in small boats and push them off their docks (sometimes not quite so dead if the fishing is weak but that's neither here nor there.) Either way, only that fisherman's family seems to have the prowess or pure luck to catch these darn tasty fish! You're welcome to try, though! But you'll likely only catch meat from their lips as they swell and shed it off, or suffer a massive headache as it's always keen to tap into its soul energy interface to fend off predators.",
   "t": "O Sanbi é o alimento básico de qual reino? Se você não respondeu Sanbi, então, nossa, você talvez esteja fumando Magina demais. Se planeja visitar, leia antes o romance “The True Sanbi King”, ou pode ficar confuso sobre por que as pessoas colocam os velhos mortos em barquinhos e os empurram das docas (às vezes não tão mortos assim, se a pesca estiver fraca, mas isso não vem ao caso.) De qualquer jeito, só a família daquele pescador parece ter a destreza, ou pura sorte, de pegar esses malditos peixes gostosos! Mas fique à vontade para tentar! Só que você provavelmente só vai pegar carne dos lábios deles, que incham e se soltam, ou sofrer uma dor de cabeça enorme, já que eles estão sempre prontos para usar a sua interface de energia da alma para afastar predadores."
+ },
+ "b6e1bd12e4b2": {
+  "en": "<strong>Food:</strong> Ground.",
+  "t": "<strong>Alimentação:</strong> Solo."
  },
  "b952669231be": {
   "en": "Legunia",
@@ -195,6 +319,10 @@
   "en": "Soreno is favored by scientists who avoid human experimentation or can't contract one to experiment on. It is not exactly a close match to the real thing, but it's good enough to iterate through experiments quickly and cheaply,  publish papers, and make a name for yourself! Some are on the other spectrum—with often pearl adventurers tasked to keep the Soreno population in cities, especially in grain silos, on the delicate balance between pest control and being a pest themselves. Plus, it's cheap meat for these pearl adventurers who are probably in so much debt that any single pearl they can avoid wasting now is amethysts off their loan due to their jacked-up interests. The caveat is that the meat smells and tastes like stale piss and that you will likely need to heal yourself if you slip up and don't cook it well done—or have difficulty catching them as they cloak themselves in both sight and heat signatures, and talk to one another in such a high pitch tone you will either need a Sayna or use nari gel to alter your ears to a Soreno. They also imitate other animals and can dash an arm's length as quickly as a blink of an eye in almost any direction a few times too.",
   "t": "O Soreno é o favorito dos cientistas que evitam experimentos com humanos ou não conseguem contratar um para experimentar. Não é exatamente uma correspondência fiel à coisa real, mas é bom o bastante para iterar experimentos de forma rápida e barata, publicar artigos e fazer nome! Alguns estão do outro lado do espectro — com aventureiros pearl muitas vezes encarregados de manter a população de Sorenos nas cidades, especialmente nos silos de grãos, no delicado equilíbrio entre controlar a praga e virar uma praga eles mesmos. Além disso, é carne barata para esses aventureiros pearl, que provavelmente estão tão endividados que cada pearl que conseguem não desperdiçar agora são amethysts a menos no empréstimo, por causa dos juros abusivos. O porém é que a carne tem cheiro e gosto de mijo velho, e você provavelmente vai precisar se curar se vacilar e não a cozinhar bem passada — ou vai ter dificuldade para pegá-los, já que eles se camuflam tanto à vista quanto nas assinaturas de calor, e conversam entre si num tom tão agudo que você vai precisar de um Sayna ou usar nari gel para alterar as suas orelhas para as de um Soreno. Eles também imitam outros animais e conseguem disparar a distância de um braço num piscar de olhos em quase qualquer direção algumas vezes."
  },
+ "c182cbeda856": {
+  "en": "<strong>Intelligence:</strong> Worm.",
+  "t": "<strong>Inteligência:</strong> Minhoca."
+ },
  "c67a6b41df1f": {
   "en": "Monica",
   "t": "Monica"
@@ -202,6 +330,10 @@
  "c68535b87e05": {
   "en": "Monikas",
   "t": "Monikas"
+ },
+ "c68874dfaf23": {
+  "en": "<strong>Interface:</strong> Antenna.",
+  "t": "<strong>Interface:</strong> Antena."
  },
  "c69c28455b79": {
   "en": "Sayna is a \"smol\" creature that made the desert its habitat. Worshiped in some sense by the Sundeath citizens as it is crucial in reducing the number of deaths by sand worms. Its enormous ears and cuteness make it a highly sought-after companion for adventurers and traders alike—so much so that about two-fifths of export from Sundeath each year are trained Saynas. The city also exports sayna meat as well, but only more affluent folks who enjoy tasting things more than admiring their cuteness can afford it. The ruling pharaohs—a weird name they call the ruler—tried to intervene with a trade blockade to prevent overhunting, but the city ruler cracked under the might of Forway's guards and law.",
@@ -222,6 +354,10 @@
  "d01f65d08eb7": {
   "en": "Yuytas might look friendly to some, but they are not keen on human contact. If you poach a baby one from its mother, you might get a solid companion, but you wouldn't count on it. They are not as intelligent as cats, yet just as finicky. Their most desirable trait, aside from their tuna-like meat that has a faint freshly cut grass rather than oceanic notes, is the whiskers for nari gels, as with those, it allows you to see or feel stuff behind walls. They hang out in groups, and you can see them jumping about, enjoying their lives with their big plumpy butts for all to see. Hunters, and villagers at large, use these creatures' butts as a barometer for harvest quality. It's like what they say, \"Winter's gonna suck ass when you see a flappy butt flapping on Fall!\"",
   "t": "Os Yuytas podem parecer amigáveis para alguns, mas não gostam muito de contato humano. Se você roubar um filhote da mãe, pode ganhar um companheiro sólido, mas eu não contaria com isso. Eles não são tão inteligentes quanto os gatos, mas são igualmente cheios de frescura. A característica mais desejada deles, além da carne parecida com atum, que tem leves notas de grama recém-cortada em vez de notas de mar, são os bigodes para nari gels, já que, com eles, você consegue ver ou sentir coisas atrás das paredes. Eles andam em grupos, e você pode vê-los pulando por aí, aproveitando a vida com os seus bundões fofos à vista de todos. Os caçadores, e os aldeões em geral, usam a bunda dessas criaturas como barômetro da qualidade da colheita. É como dizem: “O inverno vai ser uma merda quando você vir uma bunda murcha balançando no Outono!”"
+ },
+ "d3f1d96b05ca": {
+  "en": "A small cyan butterfly that spreads everywhere every spring. Known for attacking Wozefaries and Sorefaries in swarms and paralyzing them to lick their sweat. One of the most popular butterflies around: when they swarm and flee, adventurers and commoners know bad weather is coming.",
+  "t": "Uma pequena borboleta ciano que se espalha por todo lado a cada primavera. Conhecida por atacar Wozefaries e Sorefaries em enxames e paralisá-los para lamber o suor deles. Uma das borboletas mais populares que existem: quando elas enxameiam e fogem, aventureiros e gente comum sabem que vem mau tempo."
  },
  "d5e22df7e97b": {
   "en": "Wozen",
@@ -247,9 +383,25 @@
   "en": "Wooly is truly a staple of Gandew. The fact that there aren't many other places it can survive due to its demanding nature is strong enough by itself to warrant Gandew gaining the comparative advantage from Forway—but that isn't the only fact either. Darfaries acquired several unique masteries over the generations over the entire spectrum of by-products! From herding them in Mid-Gandew to processing their milk into varieties of cheeses, creating wet and dry-aged beef that is to soul die for, and even soft, warm wool and clothing! Toleridemians are the heaviest consumers, both in the literal and figurative sense, of these tantalizing exports, and try as they might, they cannot compete with Gandew on that front. Buhraies Plains is just not high enough for these creatures to feel at home, and whatever they produced so far under \"research\" was laughable.",
   "t": "O Wooly é realmente um pilar de Gandew. O fato de não haver muitos outros lugares onde ele consiga sobreviver, por ser tão exigente, já basta por si só para dar a Gandew a vantagem comparativa em relação a Forway — mas esse também não é o único fato. Os Darfaries adquiriram, ao longo das gerações, vários domínios únicos sobre todo o espectro de subprodutos! De pastoreá-los em Mid-Gandew a processar o leite em variedades de queijos, criar carne maturada a úmido e a seco de morrer de morte da alma, e até lã e roupas macias e quentes! Os Toleridemianos são os maiores consumidores, no sentido literal e figurado, dessas exportações tentadoras e, por mais que tentem, não conseguem competir com Gandew nisso. As Buhraies Plains simplesmente não são altas o bastante para essas criaturas se sentirem em casa, e o que quer que tenham produzido até agora em “pesquisa” foi ridículo."
  },
+ "ef97b49d1a9a": {
+  "en": "<strong>Inspired by:</strong> Butterfly.",
+  "t": "<strong>Inspirado em:</strong> Borboleta."
+ },
  "f03bfe0fce40": {
   "en": "Culuim",
   "t": "Culuim"
+ },
+ "f085edd6f235": {
+  "en": "<strong>Interface:</strong> Hair on legs.",
+  "t": "<strong>Interface:</strong> Pelos nas pernas."
+ },
+ "f8bfebcf4201": {
+  "en": "<strong>Habitat:</strong> Throughout the four kingdoms; wild ones live on the plains around Forway City.",
+  "t": "<strong>Habitat:</strong> Por todos os quatro reinos; os selvagens vivem nas planícies em volta de Forway City."
+ },
+ "ff5a6de9851b": {
+  "en": "A heavy horse with a hippopotamus-like head. Herbivores that didn't mind being around other species, they were quickly domesticated. They love being petted and understand basic instructions, but hurting them, physically or emotionally, makes them violent. Their Soul Energy interface lets them walk on water naturally, which makes them the basis of transportation across the Shared Delta. Humans respect their friendliness so much that Eguas are often given human burials. Some people do eat their meat, but mostly when the opportunity arises (older Eguas, for example).",
+  "t": "Um cavalo pesado com cabeça parecida com a de um hipopótamo. Herbívoros que não se importavam de ficar perto de outras espécies, foram domesticados rapidinho. Adoram carinho e entendem instruções básicas, mas machucá-los, física ou emocionalmente, os deixa violentos. A interface de Energia da Alma deles os deixa andar sobre a água naturalmente, o que os torna a base do transporte pelo Shared Delta. Os humanos respeitam tanto a simpatia deles que as Eguas muitas vezes ganham enterros humanos. Algumas pessoas comem a carne deles, mas principalmente quando surge a oportunidade (Eguas mais velhas, por exemplo)."
  },
  "ffd3a206e7a0": {
   "en": "Barina is an amphibian notoriously known for its exploding tail that releases obnoxious gases that can toxify even an adult Wooly and spikes that can lodge deep even on a Cruru leathery skin. Despite that, their entire head-to-tail flesh is so damm valuable for nari gels many adventurers will put themselves in danger to grab a few from a pond to make some quick balls. They are easy to spot, but catching them is a whole different story.",
