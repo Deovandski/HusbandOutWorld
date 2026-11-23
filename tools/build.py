@@ -157,6 +157,19 @@ def first_sentences(text, n=220):
         return cut[:ends[-1]]
     return cut[:n].rsplit(' ', 1)[0].rstrip(',;:—-') + '…'
 
+def bullets_as_sentences(md):
+    """List items as plain sentences, for one-line blurbs: "- Size: 2 cm" -> "Size: 2 cm."."""
+    out = []
+    for l in md.split('\n'):
+        m = re.match(r'\s*[-*]\s+(.*)', l)
+        if m:
+            l = m.group(1).rstrip()
+            if l and not re.search(r'[.!?:;…)"”]$', l):
+                l += '.'
+        out.append(l)
+    return '\n'.join(out)
+
+
 def prose_only(md):
     """Markdown minus headings, pictures and rules, so a blurb starts with real sentences
     (not "Freeish (Freeishan) Freeish Kingdom The Freeish Kingdom…")."""
@@ -833,7 +846,8 @@ class Builder:
             if pub_md:
                 page.md_public += f'### {e["title"]}\n\n{pub_md}\n\n'
             page.md_bts += f'### {e["title"]}\n\n{e["body"]}\n\n'
-            gl_desc = first_sentences(prose_only(pub_md)) if pub_md else first_sentences(prose_only(rest))
+            gl_desc = (first_sentences(prose_only(pub_md)) if pub_md   # public text, in the author's words
+                       else first_sentences(bullets_as_sentences(prose_only(e.get('abridged') or rest))))   # else the abridged BTS text (#103)
             if not is_meta:
                 self.glossary.append({'term': e['title'], 'topic': t['title'], 'url': url + '#' + anchor,
                                       'public': bool(pub_md), 'desc': gl_desc,
@@ -1314,7 +1328,8 @@ class Builder:
                 audio = ('<div class="pronounce"><p><strong>Hear it from the author.</strong> A short recording of how the series\' unique words are said.</p>'
                          f'<audio controls preload="none" src="/media/{src_name}"></audio></div>')
         letters = sorted({g['term'][0].upper() for g in terms if g['term'][0].isalpha()})
-        parts = ['<h1>Glossary</h1>', '<p class="lede">Every named thing in the World Lore, A to Z. Each one links to its entry.</p>', audio,
+        parts = ['<h1>Glossary</h1>', '<p class="lede">Every named thing in the World Lore, A to Z. Each one links to its entry.</p>',
+                 '<p class="layer bts muted">Behind the Scenes descriptions come from the abridged notes, written with the help of AI; each entry keeps the original notes.</p>', audio,
                  '<input class="filter" type="search" placeholder="Filter terms…" aria-label="Filter terms" data-filter=".glossary li">',
                  '<nav class="letters">' + ''.join(f'<a href="#l-{c}">{c}</a>' for c in letters) + '</nav><ul class="glossary">']
         md = ['# Glossary\n']
