@@ -1,4 +1,8 @@
 {
+ "000a6bd9e4af": {
+  "en": "Tier V",
+  "t": "V 级"
+ },
  "0054289dba33": {
   "en": "Before the Prosperity Treaty, Kingdom UOMs were all over the place, making trading harder and opening the door for sketchier traders to forge papers to evade authorities and rip off customers. Adrian, one of the courtroom scientists that overthrew all rulers at the end of The Greed Period, saw the treaty they were establishing as an opportunity to standardize all measurements based on using the most accurate one in existence—which happened to be the Tolerideme Kingdom, coincidentally where he was from. Gandew, of course, still uses their own to this day alongside the Vraki measurements. In contrast, everyone else's historical measurement implementations are now the type of knowledge that only historians care to know.",
   "t": "在《繁荣条约》之前，各王国的计量单位五花八门，让贸易变得更难，也给更可疑的商人打开了伪造文件、逃避当局和坑骗顾客的大门。阿德里安——在贪婪时期末推翻了所有统治者的宫廷科学家之一——把他们正在制定的条约看作一个机会，以现存最精确的计量为基础统一所有计量——而那恰好是托勒里德梅王国的，巧的是他就来自那里。当然，甘杜至今仍在与弗拉基计量单位一起使用他们自己的单位。相比之下，其他所有地方历史上的计量方式，如今已成了只有历史学家才在乎的知识。"
@@ -7,77 +11,301 @@
   "en": "10 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "本页另有 10 个条目仅在<button class=\"linklike\" data-go-bts>幕后</button>中提供。"
  },
+ "015c979a68a6": {
+  "en": "<strong>Where it comes from:</strong> mined from Flatland City to Blood City, deep inside the mountains (about 1 km down).",
+  "t": "<strong>产地：</strong>从弗拉特兰城到布拉德城一带，在山的深处开采（地下约 1 公里）。"
+ },
  "022aabbee753": {
   "en": "Vraki UOMs",
   "t": "弗拉基计量单位"
+ },
+ "0326ae1448a0": {
+  "en": "Economic activity in Vraki comes from fauna, flora and beasts, and the goods and services made from them. It's divided into four economic regions, and comparative advantage decides which goods are worth exporting from one region to another.",
+  "t": "弗拉基的经济活动来自动物、植物和魔兽，以及用它们制造的商品和服务。它分为四个经济区，比较优势决定了哪些商品值得从一个区出口到另一个区。"
+ },
+ "0351367464a7": {
+  "en": "Master, per day",
+  "t": "大师，每天"
  },
  "03ebd5a3d869": {
   "en": "*The name Vraki is a homage to ancient texts that portrayed Buhraies working hard to unify language across species.",
   "t": "*弗拉基这个名字是为了致敬那些描绘布莱斯努力统一各物种语言的古代文献。"
  },
+ "057dea8c73ac": {
+  "en": "Hardness:",
+  "t": "硬度："
+ },
+ "0d5c49323965": {
+  "en": "~3,300 km",
+  "t": "~3,300 公里"
+ },
+ "0e7f700547cb": {
+  "en": "<strong>Example:</strong> fanchaki farms are spread out everywhere, but Freeish and Blood have the comparative advantage for large-scale farming. Raising larger fanchakis (like Sanbi's experimental farm) costs more than their meat sells for.",
+  "t": "<strong>例子：</strong>凡查基养殖场到处都有，但弗里伊什和布拉德拥有大规模养殖的比较优势。养更大的凡查基（比如桑比的实验养殖场）的成本比它们的肉能卖的钱还高。"
+ },
+ "0f217179940c": {
+  "en": "Region",
+  "t": "地区"
+ },
+ "144301cf556b": {
+  "en": "The full numbers are in the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Distance Cost Calculator).",
+  "t": "完整的数字在<a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">经济电子表格</a>（距离成本计算器）里。"
+ },
+ "15d14b4ee5c3": {
+  "en": "<strong>Hardness:</strong> 2.5 to 4.5",
+  "t": "<strong>硬度：</strong>2.5 到 4.5"
+ },
+ "15dded0b93d1": {
+  "en": "1 ball",
+  "t": "1 个球"
+ },
+ "18000a4c2290": {
+  "en": "Tier II",
+  "t": "II 级"
+ },
  "184272d237d3": {
   "en": "The most common currency is Pearls, which denotes the currency's minimum value. For reference, on an average working day, a gatherer of Gyut (a berry akin to Acerola) would earn one pearl per kg of berries picked (around thirty minutes to one hour of labor, depending on their efficiency.) Assuming a newbie gatherer worked for twelve hours, they would likely pay five pearls for a simple but hearty dinner with a mug of cheap beer, then another five for renting a humble hostel bed, with two pearls left over to save for tomorrow. Usually, one would use pearls for food or standard simple services like wagon rides for relatively short distances.",
   "t": "最常见的货币是珀尔，它代表货币的最小面值。作为参考，在一个普通的工作日里，采集久特（一种类似针叶樱桃的浆果）的人每采一公斤浆果能挣一颗珀尔（根据效率不同，大约需要三十分钟到一小时的劳动。）假设一个新手采集者干了十二个小时，他们很可能会花五颗珀尔吃一顿简单但丰盛的晚餐，配一杯便宜的啤酒，再花五颗租一张简陋的旅舍床位，剩下两颗珀尔攒着留给明天。通常，人们会用珀尔买食物，或者支付标准的简单服务，比如短途的马车。"
+ },
+ "1b22feb0c0c1": {
+  "en": "Between",
+  "t": "之间"
+ },
+ "1cb449c11266": {
+  "en": "Members",
+  "t": "成员"
  },
  "1ef532cce6fe": {
   "en": "Amethyst",
   "t": "阿米西斯特"
  },
+ "1fc3153191c2": {
+  "en": "~2,000 km",
+  "t": "~2,000 公里"
+ },
  "26287b561096": {
   "en": "Economy &amp; Units",
   "t": "经济与单位"
+ },
+ "279761c183c0": {
+  "en": "The average daily pay, for an average work day of 12 hours. Work time varies by job, and this doesn't account for jobs that depend on luck, like fishing.",
+  "t": "平均日薪，按平均每个工作日 12 小时计算。工作时间因工作而异，而且这没有考虑那些靠运气的工作，比如捕鱼。"
+ },
+ "27d92d43befe": {
+  "en": "Expenses take about 75% of earnings, so a Tier I worker keeps about 3 Pearls a day. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Salary Calculator).",
+  "t": "开销大约占收入的 75%，所以一个 I 级工人每天大约能留下 3 颗珀尔。见<a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">经济电子表格</a>（工资计算器）。"
+ },
+ "28c0eafbd6ce": {
+  "en": "Over a year (73 weeks), that's 3,504 Pearls at Tier I, up to 35,040 for a Tier VI apprentice or 52,560 for a Tier VI master. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Salary Calculator).",
+  "t": "按一年（73 周）算，I 级是 3,504 颗珀尔，最高到 VI 级学徒的 35,040 颗或 VI 级大师的 52,560 颗。见<a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">经济电子表格</a>（工资计算器）。"
+ },
+ "2a32ad9fccf0": {
+  "en": "Freeish and Gandew regions",
+  "t": "弗里伊什和甘杜地区"
+ },
+ "33e4a381fa43": {
+  "en": "<strong>Size:</strong> slightly bigger than a fingernail, about 2 cm across.",
+  "t": "<strong>大小：</strong>比指甲稍大，直径约 2 厘米。"
+ },
+ "34f93d99f29c": {
+  "en": "~3,000 km",
+  "t": "~3,000 公里"
+ },
+ "392c485a6389": {
+  "en": "~1,000 km",
+  "t": "~1,000 公里"
+ },
+ "3bae79216122": {
+  "en": "Forway, Flatland, Gandew, Sundeath",
+  "t": "福威、弗拉特兰、甘杜、桑德斯"
+ },
+ "438a2a268b29": {
+  "en": "Tier IV",
+  "t": "IV 级"
  },
  "440282475500": {
   "en": "Amethyst ball: a purple faceted coin-like disc with golden swirling arms.",
   "t": "阿米西斯特球：一个紫色、带切面的硬币状圆盘，带有金色的旋涡状臂。"
  },
+ "442e401b464d": {
+  "en": "~4,000 km",
+  "t": "~4,000 公里"
+ },
  "467122e96ae1": {
   "en": "Aquamarine ball: a light-blue faceted coin-like disc with golden swirling arms.",
   "t": "阿夸马林球：一个浅蓝色、带切面的硬币状圆盘，带有金色的旋涡状臂。"
+ },
+ "484b801fd210": {
+  "en": "<strong>Hardness:</strong> 7.5 to 8",
+  "t": "<strong>硬度：</strong>7.5 到 8"
+ },
+ "497865c53617": {
+  "en": "<strong>Worth:</strong> 10 Aquamarine, 100 Amethyst or 5,000 Pearls.",
+  "t": "<strong>价值：</strong>10 颗阿夸马林、100 颗阿米西斯特或 5,000 颗珀尔。"
+ },
+ "4a9ba1f13c83": {
+  "en": "Minerals, Wooly and chitin",
+  "t": "矿物、伍利和几丁质"
  },
  "4b8a751f1630": {
   "en": "Public text: economy-uoms.md",
   "t": "公开文本：economy-uoms.md"
  },
+ "50870d79e6f4": {
+  "en": "Tier I",
+  "t": "I 级"
+ },
  "52086129a3b5": {
   "en": "Sapphire",
   "t": "萨菲尔"
+ },
+ "5396c116b2e2": {
+  "en": "<strong>What it buys:</strong> custom-crafted armor and weapons, or good gear in general; a young tamed egua; an adult tamed Big Winga; well-protected, guarded travel; fancier hotels; fundamental education; fancy clothing, usually with gold or precious-metal details; Tier VI to VIII Soul Energy. For some people, it's their entire life savings.",
+  "t": "<strong>能买什么：</strong>定制的盔甲和武器，或者总体上好的装备；一头年幼的驯服埃瓜；一只成年的驯服大温加；保护周全、有人护卫的旅行；更高档的酒店；基础教育；高档服装，通常带有金子或贵金属的装饰；VI 到 VIII 级的灵魂能量。对有些人来说，这就是他们一辈子的积蓄。"
+ },
+ "5957b01cfd38": {
+  "en": "Forway, Sanbi, Waterfall, Triangle, Tastyleaf, Endlessfog",
+  "t": "福威、桑比、沃特福尔、特赖安格尔、泰斯蒂利夫、恩德莱斯福格"
+ },
+ "59eb58190849": {
+  "en": "Gandew and Sanbi regions",
+  "t": "甘杜和桑比地区"
+ },
+ "5f618a292277": {
+  "en": "Master, per hour",
+  "t": "大师，每小时"
+ },
+ "634a223bb76e": {
+  "en": "Balls are the common currency of the four kingdoms (Tolerideme, the Sanbi Kingdom, the Freeish Kingdom and the Gandew Kingdom) and all the participating cities around them. The Prosperity Treaty introduced them in Section #3, since bartering is forbidden between the treaty's parties. Balls are made throughout the kingdom, and the city or kingdom's embassy oversees their manufacturing.",
+  "t": "球是四王国（托勒里德梅、桑比王国、弗里伊什王国和甘杜王国）以及周边所有参与城市的通用货币。繁荣条约在第 3 条中引入了它们，因为条约各方之间禁止以物易物。球在王国各处制造，由城市或王国的大使馆监督铸造。"
+ },
+ "6ab35da38a12": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Economy.md\">Legacy/Behind The Scenes/World Lore/Economy.md</a>",
+  "t": "来源：<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Economy.md\">Legacy/Behind The Scenes/World Lore/Economy.md</a>"
+ },
+ "6ea75f6d8e5e": {
+  "en": "Sanbi and Tolerideme regions",
+  "t": "桑比和托勒里德梅地区"
+ },
+ "70a1618f804e": {
+  "en": "There are four balls. From the most valuable:",
+  "t": "共有四种球。从最值钱的开始："
  },
  "73deb2e5251c": {
   "en": "Aquamarine",
   "t": "阿夸马林"
  },
+ "7465c0ac951d": {
+  "en": "Tier VI",
+  "t": "VI 级"
+ },
+ "75f16b9dcc19": {
+  "en": "Economical Regions",
+  "t": "经济区"
+ },
+ "77d1f61d0852": {
+  "en": "Comparative Advantage",
+  "t": "比较优势"
+ },
+ "78f3842f0201": {
+  "en": "Master",
+  "t": "大师"
+ },
  "7927d99fd832": {
   "en": "Pearl",
   "t": "珀尔"
+ },
+ "798f64e2c7a7": {
+  "en": "Balls Currency",
+  "t": "球货币"
+ },
+ "7baec53c6c26": {
+  "en": "Gandew and Tolerideme regions",
+  "t": "甘杜和托勒里德梅地区"
  },
  "7e1741308837": {
   "en": "087 (images illustration)",
   "t": "087（插图）"
  },
+ "7e8548c30fef": {
+  "en": "Economy",
+  "t": "经济"
+ },
  "7f5bd97d3d97": {
   "en": "Balls are the standardized currency as determined by the Prosperity Treaty. Each ball is about the size of a marble and is encrusted by the golden circular metallic decoration that protects the mineral inside and makes it harder to counterfeit or tamper with.",
   "t": "球是《繁荣条约》规定的标准货币。每颗球大约有弹珠那么大，外面镶着金色的圆形金属装饰，用来保护里面的矿物，也让它更难伪造或篡改。"
+ },
+ "8010f7aa2e17": {
+  "en": "<strong>What it buys:</strong> common food and beer; a day's lodging in a hostel or cheap hotel; bargain armor and weapons; hay for an egua; travel by wagon (less comfortable and less protected); utensils; used clothing (sometimes with wear and tear) or very cheap clothing; most nari gels at weak effect tiers; Tier I to III Soul Energy; paper, ink, etc.",
+  "t": "<strong>能买什么：</strong>普通的食物和啤酒；在旅舍或便宜酒店住一天；廉价的盔甲和武器；给埃瓜吃的干草；坐马车旅行（没那么舒服，也没那么有保障）；餐具；旧衣服（有时有磨损）或非常便宜的衣服；大多数弱效果等级的纳里凝胶；I 到 III 级的灵魂能量；纸、墨水等。"
  },
  "813681598d7d": {
   "en": "Sapphire ball: a deep-blue faceted coin-like disc with golden swirling arms.",
   "t": "萨菲尔球：一个深蓝色、带切面的硬币状圆盘，带有金色的旋涡状臂。"
  },
+ "87565be67953": {
+  "en": "Daily Salary",
+  "t": "日薪"
+ },
+ "8a842f1db687": {
+  "en": "Weekly Salary",
+  "t": "周薪"
+ },
  "8bc2bd89c625": {
   "en": "Economy & Units · #HusbandOutWorld",
   "t": "经济与单位 · #HusbandOutWorld"
+ },
+ "8de8b2b021b0": {
+  "en": "<strong>Worth:</strong> 50 Pearls.",
+  "t": "<strong>价值：</strong>50 颗珀尔。"
+ },
+ "93e739da0daa": {
+  "en": "<strong>Worth:</strong> 10 Amethyst or 500 Pearls.",
+  "t": "<strong>价值：</strong>10 颗阿米西斯特或 500 颗珀尔。"
+ },
+ "969e1d31bffe": {
+  "en": "<strong>Worth:</strong> the lowest ball; the others are counted in Pearls.",
+  "t": "<strong>价值：</strong>最低的球；其他的球都用珀尔来计算。"
  },
  "9a3c5c2b363f": {
   "en": "If you gather fifty Pearls, then you can trade it for a single Amethyst. Some books can be as low as a single amethyst if the janky ass printing presses back at Forway work well, but most people would use their amethyst to buy household items like fost lamps or live animals like a tamed Winga or pay their rent. Some clothing can be found for a few amethysts, but don’t expect them to be a pussy (or dick) magnet. You could skip the flatteries and just go to a brothel after drinking a few beers instead of not paying much attention to what you’re stuffing or being stuffed by. If you want to use your balls on something else instead, buy some nari gels, nari stones, or better lodging!",
   "t": "如果你攒够五十颗珀尔，就可以换一颗阿米西斯特。如果福威那些破烂印刷机运转正常，有些书最低只要一颗阿米西斯特，但大多数人会用阿米西斯特买家居用品，比如福斯特灯，或者活的动物，比如一只驯服的温加，或者用来付房租。有些衣服花几颗阿米西斯特就能买到，但别指望它们能吸引小穴（或者小鸡鸡）。你也可以省掉那些甜言蜜语，喝几杯啤酒后直接去妓院，不必太在意你塞进去的是什么、或者被什么塞进来。如果你想把球花在别的东西上，那就买些纳里凝胶、纳里石，或者更好的住处！"
  },
+ "9e1b38d9dd9c": {
+  "en": "<strong>What it buys:</strong> 1 nari stone; common household items like a table or fost lamps; fancier food and drinks; average armor and weapons; a better travel experience; maps (more complex ones cost an Aquamarine); average lodging, often with breakfast; new cheap clothing, or somewhat more refined clothing; most nari gels at higher effect tiers; Tier IV to VI Soul Energy; sigil rings; a Winga companion.",
+  "t": "<strong>能买什么：</strong>1 块纳里石；常见的家居用品，比如一张桌子或福斯特灯；更高档的食物和饮品；一般的盔甲和武器；更好的旅行体验；地图（更复杂的要一颗阿夸马林）；一般的住宿，通常含早餐；新的便宜衣服，或者稍微精致一点的衣服；大多数较高效果等级的纳里凝胶；IV 到 VI 级的灵魂能量；西吉尔环；一只温加伙伴。"
+ },
  "9e4f472331f2": {
   "en": "088 (images illustration)",
   "t": "088（插图）"
  },
+ "a155061e792a": {
+  "en": "Forway, Triangle, Deltacross, Freeish, Blood, Sweetlake, Sundeath",
+  "t": "福威、特赖安格尔、德尔塔克罗斯、弗里伊什、布拉德、斯威特莱克、桑德斯"
+ },
+ "a97fc84fe87e": {
+  "en": "Domar Carbey, Wood People and Wingas",
+  "t": "多马尔卡贝、伍德皮普尔和温加"
+ },
  "af2c8b7ef70a": {
   "en": "Pearl ball: a pale cream coin-like disc with golden swirling arms.",
   "t": "珀尔球：一个淡奶油色的硬币状圆盘，带有金色的旋涡状臂。"
+ },
+ "afa77f1b0017": {
+  "en": "Forway, Tolerideme, Waterfall, Tastyleaf, Wingarest",
+  "t": "福威、托勒里德梅、沃特福尔、泰斯蒂利夫、温加雷斯特"
+ },
+ "b0e7db565d4b": {
+  "en": "Pearls",
+  "t": "珀尔"
+ },
+ "b59f457aba63": {
+  "en": "Sanbi, fish-related products, etc.",
+  "t": "桑比鱼、鱼类相关产品等"
+ },
+ "bca7fc3d041e": {
+  "en": "Tier III",
+  "t": "III 级"
  },
  "c0d962e3dfae": {
   "en": "You somehow got ten Aquamarines? Damm. You could trade that in for shiny Saphire. This is the scale of balls where you can obtain specialized education for you or your children. Depending on their worth, you can have someone bend to your will with life-long contracts in the tens if not hundreds of sapphires. Or you can buy properties and even guilds! The world is yours! But depending on where you go, you will need to hire adventurers to serve you as bodyguards, as some miscreants will love to have a chat with you. Or wear fake skin, and none would be the wiser.",
@@ -87,16 +315,84 @@
   "en": "And if you somehow saved ten amethysts, then you can trade for a single aquamarine. You fancy! Don’t walk around showing it off, or some miscreant might request a “compulsory loan to keep you alive! You could buy a small egua for that price! Or even a tamed Big Winga! Or you can invest in yourself by enrolling at a local fundamental education school to open the door to new opportunities. If that’s not your thing, then you could do all the things amethysts can, but fancier. Fancier clothing, fancier hoes, and fancier beer too. Some people’s life savings amounts to one or a couple of aquamarines, so",
   "t": "而如果你不知怎么攒了十颗阿米西斯特，就可以换一颗阿夸马林。你可真讲究！别到处炫耀，否则可能会有歹徒要求你提供一笔“保命的强制贷款”！这个价钱你能买一匹小埃瓜！甚至是一只驯服的大温加！或者你可以投资自己，报读当地的基础教育学校，为新的机会敞开大门。如果那不是你的菜，那你可以做阿米西斯特能做的所有事，只是更讲究。更讲究的衣服、更讲究的婊子，还有更讲究的啤酒。有些人一辈子的积蓄也就是一两颗阿夸马林，所以"
  },
+ "c73383dce58f": {
+  "en": "Pearls per week",
+  "t": "每周珀尔"
+ },
+ "c8813ecb9014": {
+  "en": "The price covers more than the egua's work. On rough routes, cargo goes on a pack egua's back: up to about 150 kg, at about 30 km a day (about 65 km a day when ridden). Where the roads allow carts, one egua pulls far more (about 900 kg on a dirt road, about 1,800 kg on a good road; see <a href=\"/lore/fauna/#egua--load-and-strain\">Load and strain</a> on the Egua), so hauling gets cheaper. Shipping prices stay the same anyway, because they also pay for protection, insurance and the shipper's profit.",
+  "t": "价格包含的不只是埃瓜的劳动。在崎岖的路线上，货物放在驮运埃瓜的背上：最多约 150 公斤，每天约 30 公里（骑乘时每天约 65 公里）。在能走车的道路上，一头埃瓜能拉得多得多（土路上约 900 公斤，好路上约 1,800 公斤；见埃瓜条目中的<a href=\"/lore/fauna/#egua--load-and-strain\">负载与负担</a>），所以拉货更便宜。不过运费还是一样，因为它也包括了保护、保险和承运人的利润。"
+ },
  "cfd2d2068e7f": {
   "en": "Economy &amp; Units · #HusbandOutWorld",
   "t": "经济与单位 · #HusbandOutWorld"
+ },
+ "db19b0df6fcb": {
+  "en": "Forway is part of all four regions, and so is any village within a region's shared boundaries. A few cities sit in two.",
+  "t": "福威属于全部四个地区，任何位于一个地区共享边界内的村庄也是如此。有几座城市同时属于两个地区。"
+ },
+ "dc7ecc031030": {
+  "en": "<strong>Moving goods.</strong> Shipping costs about 1 Pearl per kg for every 120 km for Tier I (cheap) goods, 84 km for Tier II (common), 58.8 km for Tier III (expensive) and 29.4 km for Tier IV (nobility).",
+  "t": "<strong>运输货物。</strong>I 级（便宜）货物每 120 公里每公斤的运费约 1 颗珀尔，II 级（普通）是 84 公里，III 级（昂贵）是 58.8 公里，IV 级（贵族）是 29.4 公里。"
+ },
+ "dedff028b5cd": {
+  "en": "<strong>Where it comes from:</strong> fishermen from Sanbi gathered them at first, but once the Cruros showed up, it became their task, since it was close to free labor.",
+  "t": "<strong>产地：</strong>起初是桑比的渔民采集，但克鲁罗出现后，这就成了它们的活儿，因为几乎是免费劳动力。"
  },
  "e159c87db02d": {
   "en": "Balls are the standardized currency as determined by the Prosperity Treaty.",
   "t": "球是《繁荣条约》规定的标准货币。"
  },
+ "e22cccd20b15": {
+  "en": "Apprentice",
+  "t": "学徒"
+ },
+ "e4bd9e6e33ad": {
+  "en": "To get a feel for the value, the author's spreadsheet counts 1 Pearl as about 1 US dollar.",
+  "t": "为了让人对价值有个概念，作者的电子表格把 1 颗珀尔算作大约 1 美元。"
+ },
+ "e531fa700ac9": {
+  "en": "Freeish and Tolerideme regions",
+  "t": "弗里伊什和托勒里德梅地区"
+ },
+ "e68b25011dad": {
+  "en": "The average weekly pay assumes pay for every work day: 4 a week, with Forrday off. Some professions don't accrue pay on days off.",
+  "t": "平均周薪假设每个工作日都有报酬：每周 4 天，福日休息。有些职业休息日不计薪。"
+ },
+ "e752de704b66": {
+  "en": "Mainly exports",
+  "t": "主要出口"
+ },
  "eb60618ad04c": {
   "en": "Sigil Rings",
   "t": "西吉尔环"
+ },
+ "ec5ccdb787af": {
+  "en": "A ton of flora and fauna",
+  "t": "大量的植物和动物"
+ },
+ "ee4f72170e2b": {
+  "en": "<strong>What it buys:</strong> a fully grown tamed egua, properties, slavery contracts, guilds, specialized education, Tier IX+ Soul Energy.",
+  "t": "<strong>能买什么：</strong>一头完全长大的驯服埃瓜、房产、奴隶合同、公会、专门教育、IX 级以上的灵魂能量。"
+ },
+ "f0d211264deb": {
+  "en": "Apprentice, per hour",
+  "t": "学徒，每小时"
+ },
+ "f118bc6e6f02": {
+  "en": "Freeish and Sanbi regions",
+  "t": "弗里伊什和桑比地区"
+ },
+ "f2ddf5a1dc47": {
+  "en": "Pay in Pearls, by Profession Tier:",
+  "t": "按职业等级计算的珀尔报酬："
+ },
+ "fb18d7612151": {
+  "en": "Apprentice, per day",
+  "t": "学徒，每天"
+ },
+ "fb2d8283aad6": {
+  "en": "A region has a comparative advantage when its members can carry out a particular economic activity more efficiently than another region's. The Distance Cost Tier (D.C.T, the cost of moving goods) must be accounted for before claiming one either way.",
+  "t": "当一个地区的成员能比另一个地区更高效地开展某种经济活动时，这个地区就拥有比较优势。在主张任何一方拥有比较优势之前，必须先算上距离成本等级（D.C.T，运输货物的成本）。"
  }
 }
