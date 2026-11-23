@@ -23,6 +23,10 @@
   "en": "PRs are welcome, with or without AI help. If you used AI for a contribution, say so in the PR description and add a line to the table above.",
   "t": "欢迎提交 PR，无论是否借助 AI。如果你在贡献中使用了 AI，请在 PR 描述中说明，并在上表中添加一行。"
  },
+ "227ad95d5503": {
+  "en": "content/bts",
+  "t": "content/bts"
+ },
  "23eebfe076f3": {
   "en": "<strong>Shortened and paraphrased</strong> them into one-paragraph public summaries, because the blog never had pages for these topics. No new facts. Each summary is labeled on the website as AI-written.",
   "t": "因为博客从未有过这些主题的页面，所以将它们<strong>缩写并改述</strong>为一段式的公开摘要。没有新的事实。每篇摘要在网站上都标明由 AI 撰写。"
@@ -259,6 +263,14 @@
   "en": "content/summaries.json",
   "t": "content/summaries.json"
  },
+ "c43f5ab5035a": {
+  "en": "<strong>Written by the AI</strong> with the author: the abridged Behind The Scenes text the website shows (grammar fixed, brain dumps turned into readable prose and lists, gaps filled only from other Legacy sources or the author's answers). Every question asked, every answer (in the author's words), every filled gap with its source and every discrepancy is recorded in <a href=\"content/bts/qa\">content/bts/qa</a>, one file per Legacy doc. The Glossary's Behind The Scenes descriptions are taken from this abridged text. The raw notes in Legacy are unchanged; where the author ruled a correction or addition \"official\", it shows in the raw notes on the website as a display-only fix in <a href=\"content/fixes.json\">content/fixes.json</a>.",
+  "t": "<strong>由 AI 与作者共同撰写</strong>：网站显示的精简版幕后文字（修正了语法，把随手记下的想法整理成易读的段落和列表，只用其他 Legacy 资料或作者的回答来填补空白）。每一个提出的问题、每一个回答（用作者的原话）、每一处填补的空白及其来源，以及每一处出入，都记录在 <a href=\"content/bts/qa\">content/bts/qa</a> 中，每份 Legacy 文档对应一个文件。词汇表的幕后描述取自这份精简文字。Legacy 中的原始笔记没有改动；当作者裁定某处更正或补充为“官方”时，它会作为仅用于显示的修正（在 <a href=\"content/fixes.json\">content/fixes.json</a> 中）出现在网站的原始笔记里。"
+ },
+ "c92dbea049c4": {
+  "en": "<strong>The website shows the author's own words.</strong> The novel chapters and the public descriptions (from the old blog) are displayed as written, and so are the Behind The Scenes notes that haven't been abridged yet. The AI's job was to arrange them, not to rewrite them. The exception: Behind The Scenes notes that have been <strong>abridged</strong> (see <code>content/bts</code> below) are an AI-assisted rewrite of the author's raw notes into readable form, labeled as such on every section, with the raw notes one click away.",
+  "t": "<strong>网站展示的是作者自己的文字。</strong>小说章节和公开描述（来自旧博客）按原样显示，尚未精简的幕后笔记也是如此。AI 的工作是编排它们，而不是改写它们。例外：已经<strong>精简</strong>过的幕后笔记（见下方的 <code>content/bts</code>）是在 AI 协助下把作者的原始笔记改写成易读形式的版本，每个部分都标注了这一点，原始笔记只需点击一下就能看到。"
+ },
  "ca17d9e86677": {
   "en": "Modeled on the questions in IBM's <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> (what AI was used, what it contributed, how much humans shaped it, and who is accountable):",
   "t": "参照 IBM 的 <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> 中的问题（使用了什么 AI、它贡献了什么、人类对它做了多少塑造、由谁负责）："
@@ -278,6 +290,10 @@
  "e8ebc8d12782": {
   "en": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter), for the structured data in each page",
   "t": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a>（BookSeries、Book、Chapter），用于每个页面的结构化数据"
+ },
+ "f1afd477240d": {
+  "en": "The raw Behind The Scenes notes in Legacy, the published novels, and the author's answers to the AI's questions.",
+  "t": "Legacy 中的原始幕后笔记、已出版的小说，以及作者对 AI 问题的回答。"
  },
  "f5234aaefa0e": {
   "en": "Eight Behind The Scenes docs: World Timeline, Villages, Land, Professions, Education, Sports, Novels, Natural and Crafted Resources (human).",
