@@ -1,7 +1,7 @@
 # Laws and Treaties: abridgement Q&A (proof of work)
 
 - **Raw (Legacy):** `Legacy/Behind The Scenes/World Lore/Laws and Treaties.md` (unchanged)
-- **Abridged (website):** none (the doc is already polished prose, so it stays as written)
+- **Abridged (website):** `content/bts/World Lore/Laws and Treaties.md` (a plain-words summary; added 2026-11-23)
 - **Issue:** #103
 
 Every question asked of the author and his answer (word for word), every gap filled from elsewhere in Legacy (with its source), every discrepancy and how it was settled, and what was left out. Source order: (1) the author's decision, (2) the published novels, (3) the rest of Legacy.
@@ -34,3 +34,9 @@ None found. (The treaty's 680 A.G. matches the World Timeline and the Name Schem
 ## Left out on purpose
 
 - Nothing.
+
+## Abridged version (2026-11-23)
+
+> Btw for the law and treated you can have an abridge version of it, but we still need to give the user the option to see the whole thing as that is a cornerstone of how the Vraki world works
+
+Applied: each law gets a plain-words summary (the Prosperity Treaty section by section, the Forway Law, the Gandew Duel), with no facts added or dropped. The full text stays one click away: "Show the original notes" on each section, and the public page's full text (these laws were public on the blog) still shows above the notes.
