@@ -1,4 +1,12 @@
 {
+ "0035d8454125": {
+  "en": "<strong>Intelligence:</strong> Monkey. They can plan ahead, attack, defend, form families, recognize people, and communicate with others.",
+  "t": "<strong>Inteligencia:</strong> Mono. Pueden planificar, atacar, defenderse, formar familias, reconocer a la gente y comunicarse con otros."
+ },
+ "004a42cb08b0": {
+  "en": "<strong>Reproduction:</strong> Somewhere between Wingas and Flingas: about 3 or 4 couples get together for a swing party, then build a shared nest to care for the eggs, which take the whole summer to hatch. Around 5 Big Winga eggs are laid each year (Wingas lay about 20, Flingas about 2).",
+  "t": "<strong>Reproducción:</strong> A medio camino entre las Wingas y los Flingas: unas 3 o 4 parejas se juntan para una fiesta de intercambio de parejas y luego construyen un nido compartido para cuidar de los huevos, que tardan todo el verano en eclosionar. Se ponen unos 5 huevos de Big Winga al año (las Wingas ponen unos 20; los Flingas, unos 2)."
+ },
  "017e994c4257": {
   "en": "Two Big Wingas: huge blue parrot-like birds with red crests and rainbow-banded feathers, shown next to Harry for scale.",
   "t": "Dos Big Wingas: enormes aves azules parecidas a loros, con crestas rojas y plumas con franjas de arcoíris, junto a Harry como referencia de tamaño."
@@ -6,6 +14,22 @@
  "01da0414b35d": {
   "en": "Bruntos",
   "t": "Bruntos"
+ },
+ "026c72b11c9a": {
+  "en": "<strong>Reproduction:</strong> Around 2 Flinga eggs are laid each year.",
+  "t": "<strong>Reproducción:</strong> Se ponen unos 2 huevos de Flinga al año."
+ },
+ "02c5d96c04e2": {
+  "en": "<strong>Koalin Hide/Fur</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Cuero/pelaje de Koalin</strong>: Cuero/pelaje, preparado por un carnicero para que lo trabajen los artesanos."
+ },
+ "03c03fde9344": {
+  "en": "<strong>Interface:</strong> Beard (males only).",
+  "t": "<strong>Interfaz:</strong> Barba (solo los machos)."
+ },
+ "04edcec10fdd": {
+  "en": "<strong>Skills:</strong> Often more powerful versions of the original skills.",
+  "t": "<strong>Habilidades:</strong> A menudo versiones más potentes de las habilidades originales."
  },
  "060bb756d097": {
   "en": "<strong>Hifuna People</strong> are like the crazy cousin and are proof that Hifuna will fuck anyone up, including something as sturdy as a tree. They will slice and beat everything in their sight, including their own, to a mashed-potato consistency, then squat on top of it to absorb its nutrients. Wood People could also do that, but no one has seen them do it. It's a grim fate fighting these beasts; a Sapphire adventurer will have to be quick on its feet to evade how much soul energy Hifuna People pour into their interface—their attacks are much stronger than Wood People's, plus additional skills in the vines like making sonic booms, creating razor-sharp edges, and creating spikes that it launches towards you, not to be scoffed at. Don't forget the exploding branches too! It can tear them off itself and chuck them toward you in desperation. On the plus side, Hifuna Yabucas sells well on the black market! Not that we condone doing so, of course—",
@@ -23,13 +47,93 @@
   "en": "Walking Flathead, or simply Flathead. All textbooks keep it simple: If you see one, you're fucked. Everyone at this point assumes they are the Bahyum castle's leaders, acting like its physical manifestation. How many are there? Nobody knows. What species did they transform from? Nobody knows either. What some do know is that whatever the fuck this thing is, it must have been part of the reason Buhraies lost control over their own castle, holding countless scientific experimentations, and likely also a factor that forced them to withdraw into Gandew Mountain. What adventurers and guards do know is that if you manage to kill one and drag its body to a seller, you can live like a king for a whole year. Odds are not on your side, so most likely, you will become a walking flesh and then walking skin for eternity—think of the plus side! You will become part of something greater than yourself! Just like working a corporate job!",
   "t": "Walking Flathead, o simplemente Flathead. Todos los libros de texto lo dejan claro: si ves uno, estás jodido. A estas alturas todo el mundo da por hecho que son los líderes del castillo de Bahyum y que actúan como su manifestación física. ¿Cuántos hay? Nadie lo sabe. ¿De qué especie se transformaron? Tampoco lo sabe nadie. Lo que algunos sí saben es que, sea lo que coño sea esta cosa, debió de ser parte del motivo por el que los Buhraies perdieron el control de su propio castillo, que albergaba incontables experimentos científicos, y probablemente también uno de los factores que los obligaron a replegarse en la Gandew Mountain. Lo que aventureros y guardias sí saben es que, si consigues matar uno y arrastrar su cuerpo hasta un comprador, puedes vivir como un rey durante un año entero. Las probabilidades no están de tu parte, así que lo más seguro es que acabes convertido en un walking flesh y luego en un walking skin para toda la eternidad. ¡Mira el lado bueno! ¡Formarás parte de algo más grande que tú! ¡Igual que en un trabajo corporativo!"
  },
+ "09c85b376a38": {
+  "en": "<strong>Other:</strong> Maybe it’s a single life form, with each piece acting independently to gather information.",
+  "t": "<strong>Otros:</strong> Quizá sea una sola forma de vida, con cada trozo actuando por su cuenta para reunir información."
+ },
+ "0a7fd7ebb990": {
+  "en": "<strong>Habitat:</strong> Bahyum Castle, sometimes invading the Buhraies Plains.",
+  "t": "<strong>Hábitat:</strong> El castillo de Bahyum; a veces invaden las Buhraies Plains."
+ },
+ "0bb55a138139": {
+  "en": "<strong>Sand Worm Jerky</strong>: Jerky prepared by a butcher. Few people want it, because of its strong, gamey flavor; it’s usually served to poorer people.",
+  "t": "<strong>Cecina de Sand Worm</strong>: Cecina preparada por un carnicero. Poca gente la quiere, por su sabor fuerte a caza; suele servirse a la gente más pobre."
+ },
+ "0cb8d28a7735": {
+  "en": "<strong>Tier II (Common Goods):</strong> processed meat, plus elemental interface actions for longer storage; feathers and fur of large animals, and other animal parts.",
+  "t": "<strong>Nivel II (Bienes comunes):</strong> carne procesada, más acciones de interfaz elemental para conservarla más tiempo; plumas y pelaje de animales grandes, y otras partes de animales."
+ },
+ "0fe2256d4115": {
+  "en": "<strong>Black Honey</strong>: One of the best-tasting honeys in the kingdoms. Very high in calories; some even say it’s addictive. Often used to speed up Body Heal.",
+  "t": "<strong>Miel negra</strong>: Una de las mieles más sabrosas de los reinos. Muy calórica; hay quien dice incluso que es adictiva. Se usa a menudo para acelerar Body Heal."
+ },
+ "10a37fd62f38": {
+  "en": "<strong>Inspired by:</strong> Macaw.",
+  "t": "<strong>Inspirado en:</strong> Guacamayo."
+ },
+ "10ecda494ac5": {
+  "en": "A worm that burrows into the ground and attacks passersby, a relative of the Nari Worms, and the kingdoms' main source of chitin.",
+  "t": "Un gusano que se entierra en el suelo y ataca a los transeúntes, pariente de los Nari Worms, y la principal fuente de quitina de los reinos."
+ },
  "11d57139eee8": {
   "en": "Hifuna People are like the crazy cousin and are proof that Hifuna will fuck anyone up, including something as sturdy as a tree. They will slice and beat everything in their sight, including their own, to a mashed potato consistency, then squat on top of it to absorb its nutrients into itself. Wood People could also do that, but no one has seen them do it. It's a grim fate fighting these beasts; a Sapphire adventurer will have to be quick on its feet to evade how much soul energy Hifuna People pour into their interface—their attacks are much stronger than Wood People's, plus additional skills in the vines like making sonic booms, creating razor sharp edges, and creating spikes that it launches towards you at not to be scoffed at. Don't forget the exploding branches too! It can tear them off itself and chuck them toward you in desperation. On the plus side, Hifuna Yabucas sells well on the black market! Not that we condone doing so, of course—",
   "t": "Las Hifuna People son como el primo loco y la prueba de que el Hifuna jode a cualquiera, incluso a algo tan robusto como un árbol. Cortan y aporrean todo lo que tienen a la vista, incluidas las de su propia especie, hasta dejarlo como puré, y luego se acuclillan encima para absorber sus nutrientes. Las Wood People también podrían hacerlo, pero nadie las ha visto. Enfrentarse a estas bestias es un destino sombrío; un aventurero Sapphire tendrá que ser rápido de pies para esquivar toda la energía del alma que las Hifuna People vuelcan en su interfaz: sus ataques son mucho más fuertes que los de las Wood People, además de habilidades extra en las lianas, como provocar estampidos sónicos, crear filos afilados como cuchillas y crear púas que te lanzan, nada desdeñables. ¡Y no te olvides de las ramas explosivas! Pueden arrancárselas y tirártelas a la desesperada. Lo bueno: ¡las Hifuna Yabucas se venden bien en el mercado negro! No es que lo aprobemos, claro—"
  },
+ "13f703bba1b7": {
+  "en": "<strong>Skills:</strong> And don’t forget the exploding branches! They can tear them off and chuck them at you.",
+  "t": "<strong>Habilidades:</strong> ¡Y no te olvides de las ramas explosivas! Pueden arrancárselas y lanzártelas."
+ },
+ "149b1ed15aa0": {
+  "en": "<strong>Tastes like:</strong> The originating species, gone bad: it smells rotten, metallic, bloody, burnt, grassy and generally off, and tastes of sulfur, singed hair, burnt feathers, burnt oil and rancid fat. The meat can turn green, brown, red or yellow, and some gives off a yellow, saliva-like ooze. (Real-world comparison: this is how irradiated food has been described; see the <a href=\"https://www.centerforfoodsafety.org/files/food_irradiation_gross_failure.pdf\" rel=\"noopener\">Center for Food Safety report</a>.)",
+  "t": "<strong>Sabe a:</strong> La especie de origen, echada a perder: huele a podrido, a metal, a sangre, a quemado, a hierba y, en general, a algo que no está bien, y sabe a azufre, a pelo chamuscado, a plumas quemadas, a aceite quemado y a grasa rancia. La carne puede volverse verde, marrón, roja o amarilla, y alguna suelta un líquido amarillo parecido a la saliva. (Comparación con el mundo real: así se ha descrito la comida irradiada; ver el <a href=\"https://www.centerforfoodsafety.org/files/food_irradiation_gross_failure.pdf\" rel=\"noopener\">informe del Center for Food Safety</a>.)"
+ },
+ "1538b771d71e": {
+  "en": "<strong>Skills:</strong> Fast Strike (punches a hole in the target’s flesh) by altering the physical properties of their vines. Their attacks are much stronger than Wood People’s, and their vines have more skills: sonic booms, razor-sharp edges, and even spikes they launch at you.",
+  "t": "<strong>Habilidades:</strong> Fast Strike (abre un agujero en la carne del objetivo) alterando las propiedades físicas de sus enredaderas. Sus ataques son mucho más fuertes que los de los Wood People, y sus enredaderas tienen más habilidades: estampidos sónicos, bordes afilados como cuchillas e incluso púas que te disparan."
+ },
+ "165f72987b35": {
+  "en": "<strong>Habitat:</strong> The southwest.",
+  "t": "<strong>Hábitat:</strong> El suroeste."
+ },
+ "166cfe25cd96": {
+  "en": "<strong>Habitat:</strong> Underground, around the mountains of Blood City (see Nari Caverns).",
+  "t": "<strong>Hábitat:</strong> Bajo tierra, alrededor de las montañas de Blood City (ver Nari Caverns)."
+ },
+ "16c89a6d14fc": {
+  "en": "<strong>Tastes like:</strong> Bone, and dry, flaky skin.",
+  "t": "<strong>Sabe a:</strong> Hueso, y piel seca y escamosa."
+ },
  "16fb57d15e12": {
   "en": "Nari Worms",
   "t": "Nari Worms"
+ },
+ "17a76cf3c8d5": {
+  "en": "<strong>Other:</strong> Grows indefinitely, about ~10 cm a year, but most stop around this size, because they can’t eat enough to make up for the energy hunting takes.",
+  "t": "<strong>Otros:</strong> Crece indefinidamente, unos ~10 cm al año, pero la mayoría se detiene en torno a este tamaño, porque no pueden comer lo suficiente para compensar la energía que gastan cazando."
+ },
+ "17f45b2bd269": {
+  "en": "A cousin of the Soreno, rarely tamed. Usually a hunter takes a baby away from its mother; it bonds with them and becomes a pet. Getting it to bond with someone else is nearly impossible.",
+  "t": "Un primo del Soreno, que pocas veces se doma. Normalmente un cazador le quita una cría a su madre; se encariña con él y se convierte en su mascota. Conseguir que se encariñe con otra persona es casi imposible."
+ },
+ "188b4291bc16": {
+  "en": "Endless experiments with what's now known as the Walking Heart stone left a few Walking Flatheads in Bahyum Castle. They're incredibly hard to kill.",
+  "t": "Los experimentos sin fin con lo que hoy se conoce como la piedra Walking Heart dejaron unos cuantos Walking Flatheads en el castillo de Bahyum. Son increíblemente difíciles de matar."
+ },
+ "19624e1b0fd7": {
+  "en": "A bigger, more voracious version of any fauna, beast or race that has lived in Hifuna long enough: usually with hair fallen out, a bigger size, and some body parts bigger or smaller than others.",
+  "t": "Una versión más grande y voraz de cualquier fauna, bestia o raza que haya vivido en Hifuna el tiempo suficiente: normalmente sin pelo, de mayor tamaño y con algunas partes del cuerpo más grandes o más pequeñas que otras."
+ },
+ "19b39ce33804": {
+  "en": "None. See Fauna › Monica.",
+  "t": "Ninguno. Ver Fauna › Monica."
+ },
+ "1b3717302810": {
+  "en": "<strong>Hifuna People Vines</strong>: Often used for ropes, construction, etc. Quite elastic, almost like rubber.",
+  "t": "<strong>Enredaderas de Hifuna People</strong>: Se usan a menudo para cuerdas, construcción, etc. Bastante elásticas, casi como el caucho."
+ },
+ "1b607a554a07": {
+  "en": "<strong>Reproduction:</strong> They clone themselves by splitting right down the middle, but usually only when there is enough space around them.",
+  "t": "<strong>Reproducción:</strong> Se clonan partiéndose justo por la mitad, pero normalmente solo cuando hay espacio suficiente a su alrededor."
  },
  "1c59d3d634d7": {
   "en": "Defensive",
@@ -39,9 +143,25 @@
   "en": "Hifuna Wood People",
   "t": "Hifuna Wood People"
  },
+ "1ebc11da32c8": {
+  "en": "<strong>Reproduction:</strong> By attacking flesh animals and laying worms in them.",
+  "t": "<strong>Reproducción:</strong> Atacando a animales de carne y poniéndoles gusanos dentro."
+ },
  "205c5b2248b6": {
   "en": "Teefyro: a shaggy brown wolf-like beast with rows of teeth, shown with its jaws closed and wide open, beside Harry.",
   "t": "Teefyro: una bestia marrón y peluda parecida a un lobo, con hileras de dientes, con la mandíbula cerrada y abierta de par en par, junto a Harry."
+ },
+ "2139b5b83c6e": {
+  "en": "<strong>Koalin Brains, Eyes and Moustache</strong>: Used for Mind Enabler, which is illegal. Anyone carrying these to sell will be brought in for questioning.",
+  "t": "<strong>Sesos, ojos y bigote de Koalin</strong>: Se usan para el Mind Enabler, que es ilegal. A cualquiera que los lleve para venderlos lo llevarán para interrogarlo."
+ },
+ "231a153957d9": {
+  "en": "Much larger Wingas that lived in Wingarest: physically altered Wingas the Buhraies used to fly around. Some still exist, but they're a rare sight, since they grew afraid of the humans who hunted them nearly to extinction. Their meat isn't as sweet as Winga meat, since Big Wingas developed a taste for meat too. You'll commonly see them with Forway guards, but those are guards wearing the nari gel.",
+  "t": "Wingas mucho más grandes que vivían en Wingarest: Wingas alteradas físicamente que los Buhraies usaban para volar. Todavía quedan algunas, pero es raro verlas, ya que cogieron miedo a los humanos, que las cazaron casi hasta la extinción. Su carne no es tan dulce como la de las Wingas, porque las Big Wingas también le cogieron el gusto a la carne. Es habitual verlas con guardias de Forway, pero esas son guardias que llevan el nari gel."
+ },
+ "24b22080aaf5": {
+  "en": "<strong>Food:</strong> See Fauna &gt; Monica.",
+  "t": "<strong>Alimentación:</strong> Ver Fauna &gt; Monica."
  },
  "26dfc070d350": {
   "en": "<strong>Walking Skin,</strong> sometimes called <strong>Walking Bones,</strong> is the name given to any species unlucky or dumb enough to have been sequestered by the Bahyum Castle creepy residents whenever they go on a rampage. Species that become walking skin seem to all act in a hive-mind manner, usually going for quantity over quality to kill anyone in their path. A good proportion of the walking skins are human. Some scientists believe it's just a matter of fact, given how many humans have been sequestered by the castle, but others believe the castle itself is breeding or somehow creating them through the walking heart stones. The Buhraies built the castle for soul experimentation, so expecting it to do creepy shit is not a crazy assumption—after all, the castle itself is alive and moody too. Just ask the most guards and adventurers in the local Bahyum village, and they will jokingly say it's moodier than a Wozefaries girl in her PMS.",
@@ -51,49 +171,205 @@
   "en": "Nari Worm: a giant serpent with blue scaled plates, red eyes and a toothy mouth, coiled around Harry.",
   "t": "Nari Worm: una serpiente gigante con placas de escamas azules, ojos rojos y una boca llena de dientes, enroscada alrededor de Harry."
  },
+ "285860632716": {
+  "en": "<strong>Intelligence:</strong> Capybara/Golden Retriever.",
+  "t": "<strong>Inteligencia:</strong> Capibara/Golden Retriever."
+ },
+ "28cb1ef48739": {
+  "en": "<strong>Walking Flathead Claws</strong>: Often used for weapons and sharp tools.",
+  "t": "<strong>Garras de Walking Flathead</strong>: Se usan a menudo para armas y herramientas afiladas."
+ },
+ "2a20d18c9d49": {
+  "en": "<strong>Intelligence:</strong> Rather mindless; they act purely on instinct and go out of their way to attack anything they see, even other Hifuna People. Shoving a Fost stone into the top of the trunk paralyzes them.",
+  "t": "<strong>Inteligencia:</strong> Bastante descerebrados; actúan solo por instinto y hacen lo imposible por atacar todo lo que ven, incluso a otros Hifuna People. Clavarles una Fost stone en lo alto del tronco los paraliza."
+ },
+ "2a2e709839ef": {
+  "en": "Prices: see <a href=\"/lore/economy/\">Economy</a>.",
+  "t": "Precios: ver <a href=\"/lore/economy/\">Economía</a>."
+ },
+ "2b3f61572512": {
+  "en": "<strong>Skills:</strong> Slow Regen; Halted Decomposition; See the Soul Energy of creatures.",
+  "t": "<strong>Habilidades:</strong> Slow Regen; Halted Decomposition; ver la Energía del alma de las criaturas."
+ },
  "2b4860ca4a82": {
   "en": "Big Wingas",
   "t": "Big Wingas"
+ },
+ "2c0ee230d700": {
+  "en": "<strong>Tastes like:</strong> Bone-dry, flaky skin.",
+  "t": "<strong>Sabe a:</strong> Piel reseca y escamosa."
+ },
+ "2df7e1e008ae": {
+  "en": "<strong>Intelligence:</strong> Dolphin.",
+  "t": "<strong>Inteligencia:</strong> Delfín."
+ },
+ "2fa5736682cf": {
+  "en": "<strong>Reproduction:</strong> Because of their size and long lives, they rarely reproduce; when they do, it’s three or four eggs at most, which take months to hatch.",
+  "t": "<strong>Reproducción:</strong> Por su tamaño y su larga vida, rara vez se reproducen; cuando lo hacen, son tres o cuatro huevos como mucho, que tardan meses en eclosionar."
+ },
+ "3027db7e2f27": {
+  "en": "The Buhraies created them by altering the souls of Yabuca trees, then confined them to small forests across the Buhraies Plains to produce food and lumber in a controlled way. Their blood, or sap, is pink. Wood People's bodies are used for all kinds of things, especially buildings, but you have to get one somewhere before you cut it down, or trick it into following you like a herd; otherwise, you float the corpse down a river or stream, or use several Eguas to haul it a short distance (under 100 km). Jamming a Fost stone into their tops paralyzes them in place, which is how walls of Wood People are made.",
+  "t": "Los Buhraies los crearon alterando las almas de los árboles Yabuca, y luego los confinaron en pequeños bosques por las Buhraies Plains para producir comida y madera de forma controlada. Su sangre, o savia, es rosa. Los cuerpos de los Wood People se usan para todo tipo de cosas, sobre todo edificios, pero tienes que llevar a uno a algún sitio antes de talarlo, o engañarlo para que te siga como un rebaño; si no, haces flotar el cadáver río o arroyo abajo, o usas varias Eguas para arrastrarlo una distancia corta (menos de 100 km). Clavarles una Fost stone en lo alto los paraliza en el sitio, y así es como se hacen los muros de Wood People."
  },
  "3128debb4d32": {
   "en": "Hifuna People are like the crazy cousin and are proof that Hifuna will fuck anyone up, including something as sturdy as a tree.",
   "t": "Las Hifuna People son como el primo loco y la prueba de que el Hifuna jode a cualquiera, incluso a algo tan robusto como un árbol."
  },
+ "324b6e7d527b": {
+  "en": "<strong>Food:</strong> Nectar.",
+  "t": "<strong>Alimentación:</strong> Néctar."
+ },
+ "33a450f96e48": {
+  "en": "<strong>Food:</strong> Dead matter; opportunistic.",
+  "t": "<strong>Alimentación:</strong> Materia muerta; oportunistas."
+ },
  "3473fbafe0b8": {
   "en": "Walking Flathead",
   "t": "Walking Flathead"
+ },
+ "3542d37c1d05": {
+  "en": "<strong>Bruntos Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>Carne de Bruntos</strong>: Carne cortada por un carnicero."
+ },
+ "35b86cca6bd2": {
+  "en": "<strong>Trunk People Hair</strong>: Used in nari gels.",
+  "t": "<strong>Pelo de Trunk People</strong>: Se usa en nari gels."
  },
  "36df22a0f5fd": {
   "en": "Male and female Bruntos: small furry ape-like creatures with pale manes, standing beside Harry on a height chart.",
   "t": "Bruntos macho y hembra: pequeñas criaturas peludas parecidas a monos, con melenas claras, de pie junto a Harry en una tabla de alturas."
  },
+ "37b8a934e27f": {
+  "en": "<strong>Food:</strong> Omnivores: insects, fruits, etc.",
+  "t": "<strong>Alimentación:</strong> Omnívoros: insectos, frutas, etc."
+ },
+ "37d00f54dbe7": {
+  "en": "<strong>Tastes like:</strong> Rotten dried meat.",
+  "t": "<strong>Sabe a:</strong> Carne seca podrida."
+ },
+ "38a2031ebc0b": {
+  "en": "<strong>Extermination</strong>: Usually one piece (often the head) is torn off and brought back as proof of the hunt. See Embassy Quests for more details.",
+  "t": "<strong>Exterminio</strong>: Normalmente se arranca una pieza (a menudo la cabeza) y se lleva como prueba de la caza. Ver Misiones de la Embajada para más detalles."
+ },
+ "38c1912f9705": {
+  "en": "<strong>Intelligence:</strong> Instinctual, and highly defensive of their spots.",
+  "t": "<strong>Inteligencia:</strong> Instintiva, y muy defensivas con sus territorios."
+ },
+ "3b7b3ee80d59": {
+  "en": "<strong>Interface:</strong> Internal organs.",
+  "t": "<strong>Interfaz:</strong> Órganos internos."
+ },
  "3baebebd0b58": {
   "en": "Sweet Sting: a giant bee, shown at full size and at normal bee size, next to Harry.",
   "t": "Sweet Sting: una abeja gigante, a tamaño real y a tamaño normal de abeja, junto a Harry."
+ },
+ "3cf398eff263": {
+  "en": "<strong>Food:</strong> Rocks.",
+  "t": "<strong>Alimentación:</strong> Rocas."
+ },
+ "3dac76633c34": {
+  "en": "<strong>Inspired by:</strong> Radiation mutation.",
+  "t": "<strong>Inspirado en:</strong> Mutación por radiación."
+ },
+ "3e062fc63a54": {
+  "en": "<strong>Big Winga Egg</strong>: A treat for many people due to its sweet taste.",
+  "t": "<strong>Huevo de Big Winga</strong>: Un manjar para mucha gente por su sabor dulce."
  },
  "3e0731f635a1": {
   "en": "Hifuna Wood People: a tree with golden leaves and long trailing roots, shown with a small fruit and Harry for scale.",
   "t": "Hifuna Wood People: un árbol de hojas doradas y largas raíces colgantes, con un pequeño fruto y Harry como referencia de tamaño."
  },
+ "3e18cc4fec8f": {
+  "en": "<strong>Tastes like:</strong> Wood.",
+  "t": "<strong>Sabe a:</strong> Madera."
+ },
+ "3f31cc5ac057": {
+  "en": "<strong>Flinga Egg</strong>: Rarely found, and Humans, Darfaries and others have never managed to hatch one.",
+  "t": "<strong>Huevo de Flinga</strong>: Rara vez se encuentra, y ni los Humanos, ni los Darfaries ni nadie más han conseguido nunca que eclosione uno."
+ },
+ "4137fad0287c": {
+  "en": "<strong>Interface:</strong> See Fauna &gt; Monica.",
+  "t": "<strong>Interfaz:</strong> Ver Fauna &gt; Monica."
+ },
+ "418f7fc9e858": {
+  "en": "<strong>Tier III (Expensive Goods):</strong> jerky, plus elemental interface actions for storage; feathers and fur of smaller animals, especially higher-quality ones; live beasts; rare animal parts.",
+  "t": "<strong>Nivel III (Bienes caros):</strong> cecina, más acciones de interfaz elemental para conservarla; plumas y pelaje de animales más pequeños, sobre todo de los de mejor calidad; bestias vivas; partes raras de animales."
+ },
  "430cd841045f": {
   "en": "4 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "Hay 4 entradas más de esta página que solo están en <button class=\"linklike\" data-go-bts>Entre bastidores</button>."
+ },
+ "449ee8d376d3": {
+  "en": "<strong>Intelligence:</strong> Chimpanzee. They haven’t discovered fire yet, but they use some tools, especially if trained by humans. Great for adventurers who need a cargo mate on very rough terrain.",
+  "t": "<strong>Inteligencia:</strong> Chimpancé. Aún no han descubierto el fuego, pero usan algunas herramientas, sobre todo si los entrenan los humanos. Geniales para los aventureros que necesitan un compañero de carga en terreno muy abrupto."
+ },
+ "45a384823cd2": {
+  "en": "<strong>Inspired by:</strong> Trees, kind of. They map their surroundings with their vines and with vibrations in the ground and the wind. They are drawn to Fost stones, because they can somewhat sense a direction in them.",
+  "t": "<strong>Inspirado en:</strong> Los árboles, más o menos. Cartografían su entorno con sus enredaderas y con las vibraciones del suelo y del viento. Se sienten atraídos por las Fost stones, porque en cierto modo perciben una dirección en ellas."
  },
  "46d85d6d1093": {
   "en": "Sand Worm: a segmented tan worm with a gaping toothy mouth, next to Harry for scale.",
   "t": "Sand Worm: un gusano segmentado de color beige con una boca enorme llena de dientes, junto a Harry como referencia de tamaño."
  },
+ "478075c93998": {
+  "en": "Economic value",
+  "t": "Valor económico"
+ },
  "4784b024f480": {
   "en": "Shapeshifters are presumed to be one of the last remaining ancient species in this world. They are intelligent, have forethought capabilities, have an interface with a wide range of actions, and can even communicate in the shape of the creature they are mimicking. However, a growing group of scientists is classifying it as a beast instead, as all of its apparent intelligence is just another form of mimicry because, at the end of the day, its communication skills show that it is nothing other than a mindless blob, seeking to grow large enough to divide itself in half. Or the shapeshifters that got captured are the dumb ones. Who knows? Although tavern gossip about it floats around once in a while, such as a specific shapeshifter that more than once approached lonely male adventurers with a distinct hole in the middle that they felt was perfectly lubricated and warm. Some seemed flustered when asked how they knew that, while others stated they interacted with it recreationally.",
   "t": "Se presume que los Shapeshifters son una de las últimas especies antiguas que quedan en este mundo. Son inteligentes, tienen capacidad de previsión, una interfaz con una gran variedad de acciones e incluso pueden comunicarse con la forma de la criatura que imitan. Sin embargo, un grupo creciente de científicos los está clasificando como bestia, porque toda su aparente inteligencia no sería más que otra forma de mimetismo, ya que, al fin y al cabo, sus habilidades de comunicación demuestran que no son más que una masa sin mente que busca crecer lo suficiente para dividirse por la mitad. O los shapeshifters que han capturado son los tontos. ¿Quién sabe? Aunque de vez en cuando circulan cotilleos de taberna al respecto, como el de un shapeshifter concreto que más de una vez se acercó a aventureros solitarios con un agujero bien visible en el centro que, según ellos, estaba perfectamente lubricado y caliente. Algunos se pusieron nerviosos cuando les preguntaron cómo lo sabían, mientras que otros afirmaron que interactuaron con él de forma recreativa."
+ },
+ "47dd103fbc7a": {
+  "en": "<strong>Hifuna People Leaves</strong>: Sun-dried, clean leaves mostly used for crafting.",
+  "t": "<strong>Hojas de Hifuna People</strong>: Hojas limpias secadas al sol, que se usan sobre todo para fabricar cosas."
  },
  "4c13a61584c7": {
   "en": "Walking {X} Flesh",
   "t": "Walking {X} Flesh"
  },
+ "4c4d992af6e5": {
+  "en": "<a href=\"/lore/fauna/\">Fauna</a>: low-intelligence species.",
+  "t": "<a href=\"/lore/fauna/\">Fauna</a>: especies de poca inteligencia."
+ },
+ "4e04cf6a9185": {
+  "en": "<strong>Sand Worm Meat</strong>: Meat cut by a butcher. Not very desirable, so it’s mostly sold as a by-product of killing Sand Worms for their chitin.",
+  "t": "<strong>Carne de Sand Worm</strong>: Carne cortada por un carnicero. No es muy apreciada, así que se vende sobre todo como subproducto de matar Sand Worms por su quitina."
+ },
+ "4e13733f827a": {
+  "en": "<strong>Inspired by:</strong> Mutated tree branches.",
+  "t": "<strong>Inspirado en:</strong> Ramas de árbol mutadas."
+ },
+ "4ff610708d48": {
+  "en": "<strong>Big Winga Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Cecina de Big Winga</strong>: Cecina preparada por un carnicero."
+ },
  "50a8033439b1": {
   "en": "Wood People: a tree with bright pink leaves and long trailing roots, with a small fruit and Harry for scale.",
   "t": "Wood People: un árbol de hojas rosa intenso y largas raíces colgantes, con un pequeño fruto y Harry como referencia de tamaño."
+ },
+ "512ce6ff8cf0": {
+  "en": "<a href=\"/lore/races/\">Races</a>: species at or above human intelligence.",
+  "t": "<a href=\"/lore/races/\">Razas</a>: especies con una inteligencia igual o superior a la humana."
+ },
+ "52a8dc922658": {
+  "en": "<strong>Interface:</strong> Branches, too.",
+  "t": "<strong>Interfaz:</strong> Ramas, también."
+ },
+ "53627ab837e3": {
+  "en": "<strong>Tastes like:</strong> See Fauna &gt; Monica.",
+  "t": "<strong>Sabe a:</strong> Ver Fauna &gt; Monica."
+ },
+ "54c367b1869a": {
+  "en": "<strong>Habitat:</strong> Bahyum Castle.",
+  "t": "<strong>Hábitat:</strong> El castillo de Bahyum."
+ },
+ "5655d33421e9": {
+  "en": "<strong>Reproduction:</strong> Often incapable.",
+  "t": "<strong>Reproducción:</strong> A menudo incapaces."
+ },
+ "587c728b1652": {
+  "en": "Beasts by tier:",
+  "t": "Bestias por nivel:"
  },
  "58ffde096ea8": {
   "en": "Sucker Lady: a gaunt gray humanoid with long black hair covering her face, standing beside Harry.",
@@ -107,6 +383,18 @@
   "en": "Male and female Flingas: tall dark-blue beasts with long curved horns and red crests, plus a close-up of a head, next to Harry.",
   "t": "Flingas macho y hembra: bestias altas de color azul oscuro con cuernos largos y curvos y crestas rojas, más un primer plano de una cabeza, junto a Harry."
  },
+ "5d97b7b1f3a8": {
+  "en": "<strong>Flinga Meat</strong>: Meat cut by a butcher. A refined, rare product that some people in Forway insist on having, even though there’s nothing special about it.",
+  "t": "<strong>Carne de Flinga</strong>: Carne cortada por un carnicero. Un producto refinado y raro que algunos en Forway se empeñan en tener, aunque no tiene nada de especial."
+ },
+ "5da74770aa33": {
+  "en": "Beasts (World Lore illustration)",
+  "t": "Bestias (ilustración del Lore del mundo)"
+ },
+ "5db2f3d257c3": {
+  "en": "<strong>Reproduction:</strong> Throughout the year, more in the summer.",
+  "t": "<strong>Reproducción:</strong> Durante todo el año, más en verano."
+ },
  "5fa3e182ab03": {
   "en": "004 (images illustration)",
   "t": "004 (ilustración de imágenes)"
@@ -115,9 +403,21 @@
   "en": "Teefyro",
   "t": "Teefyro"
  },
+ "632a1556dc63": {
+  "en": "<strong>Reproduction:</strong> Every summer, through a flower with pollen on their heads.",
+  "t": "<strong>Reproducción:</strong> Cada verano, mediante una flor con polen en la cabeza."
+ },
  "63b396f5f9b7": {
   "en": "Sucker Lady",
   "t": "Sucker Lady"
+ },
+ "65318a520a2a": {
+  "en": "<strong>Habitat:</strong> Buhraies Plains.",
+  "t": "<strong>Hábitat:</strong> Buhraies Plains."
+ },
+ "65b0ff14ee99": {
+  "en": "<strong>Koalin Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>Carne de Koalin</strong>: Carne cortada por un carnicero."
  },
  "66c61ec563ee": {
   "en": "Public text: Website Description in Legacy/Behind The Scenes/World Lore/Beasts.md",
@@ -126,6 +426,10 @@
  "67d6f70025a8": {
   "en": "Walking {X} Skin",
   "t": "Walking {X} Skin"
+ },
+ "67f02df425bd": {
+  "en": "<strong>Food:</strong> Large berries and fruits.",
+  "t": "<strong>Alimentación:</strong> Bayas y frutas grandes."
  },
  "696bfe5adfc8": {
   "en": "Teefyro baffles scientists and makes many disagree if this thing is a beast or fauna. It definitely lacks any formal intelligence as it rampages around aimlessly, sometimes even killing each other through the usual process of exploding its gums and sending its teeth as a projectile—sometimes killing itself in the process by bleeding to death, or in rarer cases, the interface controlling the explosion goes full haywire and detonates the entire body, leaving a crater where the beast once stood as a shower of blood and guts precipitates the whole area. It also randomly casts different spells through its flesh composition of the diverse fauna pieces and other beasts. Scientists still aren't sure how many combinations there are, but if it has something akin to teeth that explodes outwardly, and its body shape reminds, or at least smells like a Bagarisa, then for sure, it's a Teefyro.",
@@ -139,37 +443,237 @@
   "en": "Trunk People: a youngling and an adult tree creature with leafy green heads in a forest, on a height chart.",
   "t": "Trunk People: una cría y un adulto de una criatura árbol con cabeza verde y frondosa en un bosque, en una tabla de alturas."
  },
+ "6dcff1a618d7": {
+  "en": "<strong>Inspired by:</strong> The natural look of a bryozoan colony.",
+  "t": "<strong>Inspirado en:</strong> El aspecto natural de una colonia de briozoos."
+ },
+ "6de573c49d82": {
+  "en": "<strong>Sweet Sting Poison</strong>: Often used in nari gels.",
+  "t": "<strong>Veneno de Sweet Sting</strong>: Se usa a menudo en nari gels."
+ },
+ "6df614a0901c": {
+  "en": "<strong>Nari Worm Meat</strong>: Meat cut by a butcher. It tastes horrible.",
+  "t": "<strong>Carne de Nari Worm</strong>: Carne cortada por un carnicero. Sabe fatal."
+ },
+ "6feb69b2b624": {
+  "en": "A mutated tree branch that sparked to life. They're very protective of their surroundings and will use their interface if they feel threatened. They communicate only by casting different colors of light, since they can't hear, and their hair is pollen. They live in the trunks of Live Wood trees. In and around the Freeish Kingdom, people often use them as public lights on large Soul Wood trees, and some use them inside their homes too. They can also be used as a seed, to plant the tree wherever the owner wants.",
+  "t": "Una rama de árbol mutada que cobró vida. Son muy protectores con su entorno y usan su interfaz si se sienten amenazados. Solo se comunican emitiendo luces de distintos colores, ya que no oyen, y su pelo es polen. Viven en los troncos de los árboles Live Wood. En el Freeish Kingdom y sus alrededores, la gente suele usarlos como alumbrado público en grandes árboles de Soul Wood, y hay quien los usa también dentro de casa. También pueden usarse como semilla, para plantar el árbol donde quiera su dueño."
+ },
+ "714a3bf27817": {
+  "en": "<strong>Inspired by:</strong> Capybara.",
+  "t": "<strong>Inspirado en:</strong> Capibara."
+ },
  "71ba8c3b02ac": {
   "en": "Shapeshifter: a brown blob in a sunlit forest, with a chart of how it moves, attacks, flees and defends, and its size at Harry's knee level.",
   "t": "Shapeshifter: una masa marrón en un bosque soleado, con un esquema de cómo se mueve, ataca, huye y se defiende, y su tamaño a la altura de la rodilla de Harry."
+ },
+ "72dba6373ee0": {
+  "en": "<strong>Interface:</strong> Usually the same as the originating species.",
+  "t": "<strong>Interfaz:</strong> Normalmente la misma que la especie de origen."
+ },
+ "734c760d73c6": {
+  "en": "<strong>Uses:</strong> Forway guards ride them to fly around without needing a nari gel themselves (the Big Winga under them is often another guard transformed with one). They're used for quick transportation of goods, scouting and flyovers.",
+  "t": "<strong>Usos:</strong> Los guardias de Forway las montan para volar sin necesitar ellos mismos un nari gel (la Big Winga que llevan debajo suele ser otro guardia transformado con uno). Se usan para transportar mercancías rápidamente, para hacer reconocimiento y para sobrevuelos."
+ },
+ "7632aa3679a9": {
+  "en": "<strong>Big Winga Feathers</strong>: Feathers, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Plumas de Big Winga</strong>: Plumas, preparadas por un carnicero para que las trabajen los artesanos."
+ },
+ "767940b9c663": {
+  "en": "<strong>Food:</strong> Grass and some other plants.",
+  "t": "<strong>Alimentación:</strong> Hierba y algunas otras plantas."
  },
  "7698ce3d747b": {
   "en": "Sand Worms are native to the deserts around Gandew and must be the absolute worst creature from that region! They are always either burying themselves below the surface or cloaking themselves in plain sight, then viciously attacking unsuspecting victims. Luckily Saynas often detect them to turn the tables and allow adventurers to hunt them instead. It's crazy how some Darfaries still refuse to use Saynas and instead prefer to get high on the thrill of being attacked at any moment; it's pretty gruesome seeing a Darfaries and a Sand Worm duel to the death.",
   "t": "Los Sand Worms son originarios de los desiertos que rodean Gandew, ¡y deben de ser la peor criatura de esa región! Siempre están enterrándose bajo la superficie o camuflándose a plena vista, y luego atacan con saña a víctimas desprevenidas. Por suerte, los Saynas suelen detectarlos, lo que da la vuelta a la tortilla y permite que sean los aventureros quienes los cacen. Es una locura que algunos Darfaries sigan negándose a usar Saynas y prefieran colocarse con la emoción de poder ser atacados en cualquier momento; es bastante macabro ver a un Darfaries y a un Sand Worm batirse a muerte."
  },
+ "76bafbc8d5c6": {
+  "en": "<strong>Tastes like:</strong> Same as Winga.",
+  "t": "<strong>Sabe a:</strong> Lo mismo que la Winga."
+ },
+ "76f29b94560d": {
+  "en": "<strong>Inspired by:</strong> Pteranodon.",
+  "t": "<strong>Inspirado en:</strong> Pteranodon."
+ },
+ "77f33594f204": {
+  "en": "<strong>Tastes like:</strong> Pork.",
+  "t": "<strong>Sabe a:</strong> Cerdo."
+ },
+ "78403b06d289": {
+  "en": "<strong>Inspired by:</strong> Worms.",
+  "t": "<strong>Inspirado en:</strong> Gusanos."
+ },
+ "78dfb58a0a63": {
+  "en": "<strong>Skills:</strong> Generate Light; Sense Lifeforms; Generate Air Shield.",
+  "t": "<strong>Habilidades:</strong> Generate Light; Sense Lifeforms; Generate Air Shield."
+ },
  "78f5ed6037a2": {
   "en": "Walking Flesh is the common name for any species stuck in this half-state thing. They are undead and seem to share some hive-mind cognition, but they don't seem completely devoid of their intelligence either. If they are taken far away from the castle, some transformed species will rampage against anything; some will idle, while some even demonstrate docile behaviors. The transformation does compound on the behaviors, so the more they are transformed towards the walking skin version, the more they lose whatever remains of their sanity. Don't underestimate their fighting capabilities; you might just become one of them.",
   "t": "Walking Flesh es el nombre común de cualquier especie atrapada en ese medio estado. Son no muertos y parecen compartir una especie de mente colmena, aunque tampoco parecen del todo desprovistos de inteligencia. Si se les lleva lejos del castillo, algunas especies transformadas arremeten contra cualquier cosa; otras se quedan quietas, y otras incluso muestran comportamientos dóciles. La transformación agrava los comportamientos: cuanto más se transforman hacia la versión walking skin, más pierden lo que les queda de cordura. No subestimes su capacidad de lucha; podrías acabar siendo uno de ellos."
+ },
+ "7965549e73d3": {
+  "en": "<strong>Tastes like:</strong> Metallic and earthy.",
+  "t": "<strong>Sabe a:</strong> Metálico y terroso."
+ },
+ "7a9f0b234fc8": {
+  "en": "Big birds only ever seen flying high in the air, except during winter (most years). Nobody knows how they eat, sleep, etc. Nobody except the Finaies, who made a pact with the Flingas to watch over the south and plan a comeback. In 1039 A.G., Flingas were seen flying around in winter, something that hadn't happened in quite a while.",
+  "t": "Grandes aves que solo se ven volando muy alto, excepto en invierno (la mayoría de los años). Nadie sabe cómo comen, duermen, etc. Nadie salvo los Finaies, que hicieron un pacto con los Flingas para vigilar el sur y planear su regreso. En el 1039 A.G. se vio a Flingas volando en invierno, algo que no pasaba desde hacía bastante tiempo."
+ },
+ "7af8721e68f3": {
+  "en": "<strong>Inspired by:</strong> Eunice aphroditois.",
+  "t": "<strong>Inspirado en:</strong> Eunice aphroditois."
+ },
+ "7c2592fcb57e": {
+  "en": "Goods are sorted into four tiers by how they look to a common person in Vraki, from cheap things anyone buys to things only the very rich can afford. The boundaries are blurry on purpose: it's a spectrum, and the tiers just help picture it (see <a href=\"/lore/nari-gels/\">Nari Gels</a>).",
+  "t": "Los bienes se ordenan en cuatro niveles según cómo los ve una persona corriente de Vraki, desde cosas baratas que compra cualquiera hasta cosas que solo pueden permitirse los muy ricos. Los límites son difusos a propósito: es un espectro, y los niveles solo ayudan a imaginarlo (ver <a href=\"/lore/nari-gels/\">Nari Gels</a>)."
+ },
+ "7e5c7c939d77": {
+  "en": "<strong>Habitat:</strong> From west of Blood into Freeish; rarely seen much farther east, near Forway.",
+  "t": "<strong>Hábitat:</strong> Desde el oeste de Blood hasta Freeish; rara vez se ve mucho más al este, cerca de Forway."
+ },
+ "7f0b28b34972": {
+  "en": "<strong>Interface:</strong> Mouth pincers; a black flame comes out of the black stripes on them.",
+  "t": "<strong>Interfaz:</strong> Las pinzas de la boca; de las rayas negras que tienen sale una llama negra."
  },
  "80222f64dc85": {
   "en": "Sand Worms",
   "t": "Sand Worms"
  },
+ "80271cf989cd": {
+  "en": "<strong>Intelligence:</strong> Instinctual, bee-like.",
+  "t": "<strong>Inteligencia:</strong> Instintiva, como la de las abejas."
+ },
+ "806c111752d9": {
+  "en": "<strong>Hifuna People Wood</strong>: The same reddish tone, but plagued with Hifuna disease, so most people won’t use it for crafting.",
+  "t": "<strong>Madera de Hifuna People</strong>: El mismo tono rojizo, pero plagada de la enfermedad de Hifuna, así que la mayoría de la gente no la usa para fabricar cosas."
+ },
+ "81ae2bfa4c4e": {
+  "en": "<strong>Jelly Blob</strong>: Usually a piece cut off a Shapeshifter and put in a jar for transport. Expensive, because they’re hard to catch.",
+  "t": "<strong>Masa gelatinosa</strong>: Normalmente un trozo cortado de un Shapeshifter y metido en un tarro para transportarlo. Caro, porque son difíciles de atrapar."
+ },
+ "82a339cde6dc": {
+  "en": "<strong>Tastes like:</strong> Not tender, somewhat greasy, and kind of bland.",
+  "t": "<strong>Sabe a:</strong> Nada tierna, algo grasienta y bastante sosa."
+ },
+ "83774f3c017a": {
+  "en": "<strong>Flinga Tamed</strong>: No one in the four kingdoms has managed to tame a Flinga yet. Taming one would have a huge impact on transportation, and so on costs and expansion.",
+  "t": "<strong>Flinga domado</strong>: Nadie en los cuatro reinos ha conseguido domar un Flinga todavía. Domar uno tendría un impacto enorme en el transporte y, por tanto, en los costes y en la expansión."
+ },
+ "846308e26fa1": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Beasts.md\">Legacy/Behind The Scenes/World Lore/Beasts.md</a>",
+  "t": "Fuente: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Beasts.md\">Legacy/Behind The Scenes/World Lore/Beasts.md</a>"
+ },
+ "84aa58ed9da6": {
+  "en": "<strong>Food:</strong> Same as Winga, but they also eat bigger fruits, especially greenbread.",
+  "t": "<strong>Alimentación:</strong> La misma que la Winga, pero también comen frutas más grandes, sobre todo greenbread."
+ },
+ "8646424e8834": {
+  "en": "<strong>Skills:</strong> Slow Regen; Halted Decomposition; Decompose Target; Steal Soul Energy.",
+  "t": "<strong>Habilidades:</strong> Slow Regen; Halted Decomposition; Decompose Target; Steal Soul Energy."
+ },
+ "88387cc837bb": {
+  "en": "<strong>Flinga Jerky</strong>: Jerky prepared by a butcher. A refined, rare product that some people in Forway insist on having, even though there’s nothing special about it.",
+  "t": "<strong>Cecina de Flinga</strong>: Cecina preparada por un carnicero. Un producto refinado y raro que algunos en Forway se empeñan en tener, aunque no tiene nada de especial."
+ },
+ "8bcdc001eb42": {
+  "en": "<strong>Inspired by:</strong> The Trioxin zombies of <em>The Return of the Living Dead</em>.",
+  "t": "<strong>Inspirado en:</strong> Los zombis de Trioxin de <em>The Return of the Living Dead</em>."
+ },
+ "8c651869ce44": {
+  "en": "<strong>Big Winga Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>Carne de Big Winga</strong>: Carne cortada por un carnicero."
+ },
+ "8c76ef7d364a": {
+  "en": "<strong>Food:</strong> Soul Energy from Bahyum Castle.",
+  "t": "<strong>Alimentación:</strong> La Energía del alma del castillo de Bahyum."
+ },
+ "8cb49002eb9e": {
+  "en": "<strong>Intelligence:</strong> Often ~50% of the original intelligence, but far more dangerous. They are also more aggressive, even species that are usually defensive or friendly.",
+  "t": "<strong>Inteligencia:</strong> A menudo ~50 % de la inteligencia original, pero mucho más peligrosos. También son más agresivos, incluso las especies que suelen ser defensivas o amistosas."
+ },
  "8f0690c6c26e": {
   "en": "Flinga",
   "t": "Flinga"
+ },
+ "901962a56ac6": {
+  "en": "<strong>Habitat:</strong> Throughout the lowlands; most often spotted in the grasslands to the east.",
+  "t": "<strong>Hábitat:</strong> Por todas las tierras bajas; se ve sobre todo en los pastizales del este."
+ },
+ "902576d502a8": {
+  "en": "<strong>Reproduction:</strong> By attacking certain trees for their sap.",
+  "t": "<strong>Reproducción:</strong> Atacando ciertos árboles por su savia."
  },
  "91ece0116be9": {
   "en": "Koalins are truly a unique breed of beast; some scientists still dispute whether they should be categorized as beasts in the first place. They don’t really bite, claw, or kill people. What they do, however, is far worse! Through the unique special wave generation organs in their head, alongside the white silky white beard that focuses those waves towards a target, they can strike virtually anyone with strong mental impairment. If they are just being defensive, they can make you feel a looming doom, a fearful sensation, but if they amp up the intensity, they can lead weak-minded people to kill themselves. If you resist that, they will increase the intensity to debilitating pain. There’s no winning against a Koalin. They are also nearly untamable, but if you manage to tame one, they are inseparable and will earn you reaches you never thought possible!",
   "t": "Los Koalins son de verdad una raza única de bestia; algunos científicos aún discuten si deberían clasificarse como bestias, para empezar. En realidad no muerden, no arañan ni matan a la gente. ¡Lo que hacen es mucho peor! Gracias a los órganos especiales y únicos de generación de ondas de su cabeza, junto con la barba blanca y sedosa que concentra esas ondas en un objetivo, pueden golpear prácticamente a cualquiera con un fuerte trastorno mental. Si solo se están defendiendo, pueden hacerte sentir una fatalidad inminente, una sensación de miedo, pero si suben la intensidad, pueden llevar a las personas de mente débil a quitarse la vida. Si lo resistes, aumentan la intensidad hasta un dolor incapacitante. Contra un Koalin no hay forma de ganar. Además, son casi imposibles de domar, pero si consigues domar uno, se vuelven inseparables ¡y te llevarán a alcances que nunca creíste posibles!"
  },
+ "930f8cadc07c": {
+  "en": "Endless experiments with what's now known as the Walking Heart stone left tons of zombies in Bahyum Castle. They're slower and dumber than Walking Flesh.",
+  "t": "Los experimentos sin fin con lo que hoy se conoce como la piedra Walking Heart dejaron montones de zombis en el castillo de Bahyum. Son más lentos y más tontos que los Walking Flesh."
+ },
  "936ea19d7d0a": {
   "en": "White Roundies",
   "t": "White Roundies"
  },
+ "941c57b40421": {
+  "en": "<strong>Tastes like:</strong> Slightly salty jelly.",
+  "t": "<strong>Sabe a:</strong> Gelatina ligeramente salada."
+ },
+ "94dd084d3ae0": {
+  "en": "<strong>Sand Worm Chitin</strong>: Chitin, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Quitina de Sand Worm</strong>: Quitina, preparada por un carnicero para que la trabajen los artesanos."
+ },
+ "978e215b19ae": {
+  "en": "<a href=\"/lore/beasts/\">Beasts</a>: mildly intelligent species, or highly dangerous beasts.",
+  "t": "<a href=\"/lore/beasts/\">Bestias</a>: especies algo inteligentes, o bestias muy peligrosas."
+ },
+ "99ad77410a1f": {
+  "en": "<strong>Walking Flathead Tongue</strong>: Often used in nari gels.",
+  "t": "<strong>Lengua de Walking Flathead</strong>: Se usa a menudo en nari gels."
+ },
+ "99c297f0a691": {
+  "en": "<strong>Skills:</strong> Harden parts of their bodies; Generate Acid; Cloak; Increase Size.",
+  "t": "<strong>Habilidades:</strong> Endurecer partes de su cuerpo; Generate Acid; Cloak; Increase Size."
+ },
+ "9c96138b628e": {
+  "en": "<strong>Reproduction:</strong> Females give birth to 5–7 babies every year.",
+  "t": "<strong>Reproducción:</strong> Las hembras paren de 5 a 7 crías cada año."
+ },
+ "9eece3967a5b": {
+  "en": "<strong>Extermination</strong>: Usually one piece (often the Walking Heart stone with the head bone) is torn off and brought back as proof of the hunt. See Embassy Quests for more details.",
+  "t": "<strong>Exterminio</strong>: Normalmente se arranca una pieza (a menudo la piedra Walking Heart con el hueso de la cabeza) y se lleva como prueba de la caza. Ver Misiones de la Embajada para más detalles."
+ },
+ "a09bc593edc1": {
+  "en": "<strong>Habitat:</strong> Hifuna, though some make their way down to lower ground and cause havoc.",
+  "t": "<strong>Hábitat:</strong> Hifuna, aunque algunos bajan hasta tierras más bajas y siembran el caos."
+ },
+ "a20b9f3830c7": {
+  "en": "<strong>Food:</strong> The same as the originating species; often other Hifuna species, which build up radiation.",
+  "t": "<strong>Alimentación:</strong> La misma que la especie de origen; a menudo otras especies de Hifuna, que acumulan radiación."
+ },
+ "a283fa0b9785": {
+  "en": "<strong>Wood People Leaves</strong>: Sun-dried, clean leaves mostly used for crafting.",
+  "t": "<strong>Hojas de Wood People</strong>: Hojas limpias secadas al sol, que se usan sobre todo para fabricar cosas."
+ },
+ "a298cddd185c": {
+  "en": "<strong>Skills:</strong> Fast Strike (punches a hole in the target’s flesh) by altering the physical properties of their vines.",
+  "t": "<strong>Habilidades:</strong> Fast Strike (abre un agujero en la carne del objetivo) alterando las propiedades físicas de sus enredaderas."
+ },
+ "a38b81e5ae8e": {
+  "en": "<strong>Wood People Vines</strong>: Often used for ropes, construction, etc. Quite elastic, almost like rubber.",
+  "t": "<strong>Enredaderas de Wood People</strong>: Se usan a menudo para cuerdas, construcción, etc. Bastante elásticas, casi como el caucho."
+ },
+ "a3c7b118e2b6": {
+  "en": "<strong>Skills:</strong> Eye Catch; Bigger Looking; Hypnosis.",
+  "t": "<strong>Habilidades:</strong> Eye Catch; Bigger Looking; Hypnosis."
+ },
  "a4596ef28211": {
   "en": "Sweet Sting is found west of the Freeish Kingdom, with SweetLake being their HQ of sorts. They can be heard quite away, their wings making a deeper buzzing sound as they carry pollen or tree sap back to make black honey—an extremely nutritious yet diabetically sweet paste. It might sound threatening, but that's just a female worker passing by. They don't have stingers like their smaller male counterparts, but their pinchers are still quite powerful! If you see black flames emerge from their pincers, get ready as they are about to shoot a poisonous spit that gets accelerated to near sonic speeds by their soul energy interface. Don't count on evading because they never seem to miss a shot! There's even a common phrase in the local populace, I'm sure as a spitting Sweet Sting.",
   "t": "Las Sweet Stings viven al oeste del Reino de Freeish, y SweetLake es una especie de cuartel general suyo. Se las oye desde bastante lejos, con un zumbido más grave de las alas mientras llevan polen o savia para hacer miel negra, una pasta extremadamente nutritiva pero tan dulce que da diabetes. Puede sonar amenazador, pero solo es una obrera hembra que pasa por ahí. No tienen aguijón como sus compañeros machos, más pequeños, ¡pero sus pinzas siguen siendo bastante potentes! Si ves salir llamas negras de sus pinzas, prepárate, porque están a punto de disparar un escupitajo venenoso que su interfaz de energía del alma acelera a velocidades casi sónicas. No cuentes con esquivarlo, ¡porque parece que nunca fallan! Hasta hay una expresión común entre la gente de la zona: más certero que una Sweet Sting escupiendo."
+ },
+ "a4c219359bad": {
+  "en": "<strong>Habitat:</strong> Desert.",
+  "t": "<strong>Hábitat:</strong> Desierto."
  },
  "a4cd5782cc2d": {
   "en": "Walking Flathead: a skeletal gray creature with a long spine-like tail creature above it, next to Harry.",
@@ -179,17 +683,73 @@
   "en": "Beasts",
   "t": "Bestias"
  },
+ "a644a36bb4c3": {
+  "en": "<strong>Skills:</strong> Launches its teeth forward.",
+  "t": "<strong>Habilidades:</strong> Lanza los dientes hacia delante."
+ },
+ "a69c5b666ab6": {
+  "en": "<strong>Tier I (Cheap Goods):</strong> freshly killed animals, plus elemental interface actions for longer storage.",
+  "t": "<strong>Nivel I (Bienes baratos):</strong> animales recién cazados, más acciones de interfaz elemental para conservarlos más tiempo."
+ },
  "a7042371544b": {
   "en": "Walking Flesh: a red, skinless humanoid figure with small reference images, beside Harry.",
   "t": "Walking Flesh: una figura humanoide roja y sin piel, con pequeñas imágenes de referencia, junto a Harry."
+ },
+ "a870cba28053": {
+  "en": "<strong>Reproduction:</strong> They can duplicate themselves at the cost of half their mass, but most rocks first combine with other rocks and then split, so they can share their life experiences.",
+  "t": "<strong>Reproducción:</strong> Pueden duplicarse a costa de la mitad de su masa, pero la mayoría de las rocas primero se combinan con otras rocas y luego se separan, para poder compartir sus experiencias vitales."
+ },
+ "a872978f1d4f": {
+  "en": "<strong>Extermination</strong>: Usually one piece (often the head) is torn off and brought back as proof of the hunt, because the meat and other body parts are usually too irradiated to be of any use. See Embassy Quests for more details.",
+  "t": "<strong>Exterminio</strong>: Normalmente se arranca una pieza (a menudo la cabeza) y se lleva como prueba de la caza, porque la carne y las demás partes del cuerpo suelen estar demasiado irradiadas para servir de algo. Ver Misiones de la Embajada para más detalles."
+ },
+ "aadd3dfa7175": {
+  "en": "<strong>Skills:</strong> Harden parts of their bodies; Generate Acid.",
+  "t": "<strong>Habilidades:</strong> Endurecer partes de su cuerpo; Generate Acid."
+ },
+ "ac0239a98d1f": {
+  "en": "<strong>Reproduction:</strong> Each worm has both sexes; several worms are born every year.",
+  "t": "<strong>Reproducción:</strong> Cada gusano tiene ambos sexos; cada año nacen varios gusanos."
+ },
+ "ac492c452b6c": {
+  "en": "<strong>Hifuna People Sap</strong>: Processed sap, sometimes used in nari gels.",
+  "t": "<strong>Savia de Hifuna People</strong>: Savia procesada, que a veces se usa en nari gels."
+ },
+ "ad4fdb69b8ff": {
+  "en": "<strong>Intelligence:</strong> Rather mindless; they act purely on instinct and only use their vines to defend themselves. They are drawn to Fost stones, but shoving a Fost stone into the top of the trunk paralyzes them.",
+  "t": "<strong>Inteligencia:</strong> Bastante descerebrados; actúan solo por instinto y solo usan sus enredaderas para defenderse. Se sienten atraídos por las Fost stones, pero clavarles una Fost stone en lo alto del tronco los paraliza."
  },
  "b0536ef796be": {
   "en": "Crazed Muckman",
   "t": "Crazed Muckman"
  },
+ "b0c45c4e62fa": {
+  "en": "<strong>Skills:</strong> Slow Regen; Halted Decomposition; Decompose Target; Steal Soul Energy; plus the original skills.",
+  "t": "<strong>Habilidades:</strong> Slow Regen; Halted Decomposition; Decompose Target; Steal Soul Energy; además de las habilidades originales."
+ },
+ "b19ffd8bc405": {
+  "en": "Monica Swarm",
+  "t": "Monica Swarm"
+ },
+ "b1a21c8f58a3": {
+  "en": "<strong>Intelligence:</strong> Rather instinctual, but slowly developing a sense of self. Some of these rocks are smart enough to understand a few words from adventurers.",
+  "t": "<strong>Inteligencia:</strong> Bastante instintiva, pero desarrollando poco a poco un sentido de sí mismos. Algunas de estas rocas son lo bastante listas para entender unas cuantas palabras de los aventureros."
+ },
  "b3065cdc24a2": {
   "en": "Flingas are massive beasts that fly high up in the sky, rarely ever coming close to the ground. Nobody knows where these beasts nest their younglings—if they even do that. Their complete lack of migratory patterns and sometimes random flight patterns, like flying over a specific city for days, still baffles all scientists and historians to this day. There are tales by the campfire surrounding a sapphire adventurer that wore Big Winga skin to fly back home, and on the way, he saw what appeared to be a child-sized wood humanoid riding on top of it. Some Scientists suspect it was a child of an ancient species called Fuhraies; others state it could be Finaies, another ancient species rumored to live north of Hifuna. Attempting to capture a Flinga is also damn nearly impossible as not only do they quickly climb higher at any sight of danger, but they can also use their soul energy interface to stun enemies with a few attacks, including unfathomably high-pitched screams and air gust streams.",
   "t": "Los Flingas son bestias enormes que vuelan muy alto en el cielo y casi nunca se acercan al suelo. Nadie sabe dónde anidan sus crías, si es que lo hacen. Su total falta de patrones migratorios y sus vuelos a veces aleatorios, como sobrevolar una ciudad concreta durante días, siguen desconcertando a científicos e historiadores hasta hoy. Alrededor de la hoguera se cuentan historias de un aventurero sapphire que se puso piel de Big Winga para volver volando a casa y, por el camino, vio lo que parecía un humanoide de madera del tamaño de un niño montado encima de uno. Algunos científicos sospechan que era una cría de una especie antigua llamada Fuhraies; otros afirman que podría ser un Finaies, otra especie antigua que, según los rumores, vive al norte de Hifuna. Intentar capturar un Flinga también es casi imposible, porque no solo suben rápidamente a la mínima señal de peligro, sino que además pueden usar su interfaz de energía del alma para aturdir a los enemigos con varios ataques, como gritos inimaginablemente agudos y chorros de ráfagas de aire."
+ },
+ "b46c5f8fab9e": {
+  "en": "<strong>Inspired by:</strong> Chimpanzee.",
+  "t": "<strong>Inspirado en:</strong> Chimpancé."
+ },
+ "b521396978a6": {
+  "en": "Endless experiments with what's now known as the Walking Heart stone left tons of zombies of different species in Bahyum Castle, and it somehow keeps creating more.",
+  "t": "Los experimentos sin fin con lo que hoy se conoce como la piedra Walking Heart dejaron montones de zombis de distintas especies en el castillo de Bahyum, y de algún modo sigue creando más."
+ },
+ "b779317c1ecf": {
+  "en": "<strong>Interface:</strong> Vines.",
+  "t": "<strong>Interfaz:</strong> Enredaderas."
  },
  "b7d8c8b48485": {
   "en": "Two Koalins: brown bear-like creatures with striped faces, one adult and one young, beside Harry.",
@@ -199,13 +759,89 @@
   "en": "Wood People were, amongst many other things, another one of Buhraies experimentation gone wrong—or right. The debate of what they were trying to achieve is still a hot topic, but historians at least agree that Buhraies somehow wanted to make them foot soldiers plus a stable source of food and lumber. Meanwhile, scientists still can't fully wrap their heads around how they engineered a tree to be able to unearth itself and walk around in packs, let alone control its vines to defend itself. They did figure out that Buhraies used fost stones to paralyze and control Wood People based on specimens and tools found throughout the ages. Now they could be considered a plague as they are absolutely everywhere in the Buhraies Plains. Entire villages exist solely to strip these beasts for resources, with good prices going for their fantastic rubbery vines! That is if you can cut them off, as they won't go down without a fight. If you get a beating, you can at least sink your teeth into a nearly head-sized tasty Wood People Yabuca to appease your emotional wounds.",
   "t": "Las Wood People fueron, entre otras muchas cosas, otro experimento de los Buhraies que salió mal, o bien. Lo que intentaban conseguir sigue siendo un tema candente, pero los historiadores al menos coinciden en que los Buhraies querían convertirlas en soldados de infantería y, a la vez, en una fuente estable de comida y madera. Mientras tanto, los científicos todavía no logran entender del todo cómo diseñaron un árbol capaz de desenterrarse y caminar en manada, y mucho menos de controlar sus lianas para defenderse. Lo que sí descubrieron, gracias a especímenes y herramientas encontrados a lo largo de los siglos, es que los Buhraies usaban fost stones para paralizar y controlar a las Wood People. Hoy podrían considerarse una plaga, porque están absolutamente por todas partes en las Buhraies Plains. Hay aldeas enteras que viven solo de despiezar a estas bestias para sacar recursos, ¡con buenos precios por sus fantásticas lianas gomosas! Eso si consigues cortarlas, porque no caen sin pelear. Si te dan una paliza, al menos puedes hincarle el diente a una deliciosa Wood People Yabuca, casi del tamaño de una cabeza, para curarte las heridas emocionales."
  },
+ "be900e85f50d": {
+  "en": "<strong>Skills:</strong> Launch a copy of their pincers forward.",
+  "t": "<strong>Habilidades:</strong> Lanzar hacia delante una copia de sus pinzas."
+ },
  "beca63384ced": {
   "en": "Hifuna People",
   "t": "Hifuna People"
  },
+ "c2018b90555e": {
+  "en": "<strong>Intelligence:</strong> Lion.",
+  "t": "<strong>Inteligencia:</strong> León."
+ },
+ "c21ad57d8448": {
+  "en": "<strong>Tastes like:</strong> Strong, earthy and nutty.",
+  "t": "<strong>Sabe a:</strong> Intenso, terroso y a frutos secos."
+ },
+ "c45a08fc875b": {
+  "en": "Hash {X}",
+  "t": "Hash {X}"
+ },
+ "c46dc6be487a": {
+  "en": "One of the last ancient-species experiments still in the world, from when one of the ancient species tested rocks in the forest. Many years later, the rocks began to grow and take on a jelly-like look; many years after that, some began assimilating nearby living beings and turning into them, while others assimilated each other to share experiences.",
+  "t": "Uno de los últimos experimentos de las especies antiguas que quedan en el mundo, de cuando una de las especies antiguas probó con rocas del bosque. Muchos años después, las rocas empezaron a crecer y a adoptar un aspecto gelatinoso; muchos años más tarde, algunas empezaron a asimilar a los seres vivos cercanos y a convertirse en ellos, mientras que otras se asimilaron entre sí para compartir experiencias."
+ },
+ "c485163f2014": {
+  "en": "<strong>Habitat:</strong> The biggest nest is in Sweetlake.",
+  "t": "<strong>Hábitat:</strong> El nido más grande está en Sweetlake."
+ },
+ "c50c0638709c": {
+  "en": "Brought over by the Buhraies as summoning experiments, then soon left to their fate on what is now Endlessfog. As their population grew, so did their tribes and their wars, until a single Brunto led an army of conquest and united all the tribes under one leader, now honored by the Endlessfog statue (see Endlessfog). Killing them is prohibited by Endlessfog law, which doesn't apply in greater Forway, especially the Freeish Region.",
+  "t": "Los trajeron los Buhraies como experimentos de invocación, y pronto los abandonaron a su suerte en lo que hoy es Endlessfog. A medida que crecía su población, crecían también sus tribus y sus guerras, hasta que un solo Brunto encabezó un ejército de conquista y unió a todas las tribus bajo un solo líder, a quien hoy honra la estatua de Endlessfog (ver Endlessfog). Matarlos está prohibido por la ley de Endlessfog, que no se aplica en el gran Forway, sobre todo en la Freeish Region."
+ },
+ "c51840f5dd2b": {
+  "en": "<strong>Inspired by:</strong> Trees, kind of. They map their surroundings with their vines and with vibrations in the ground and the wind, and they can also sense Soul Energy with their leaves.",
+  "t": "<strong>Inspirado en:</strong> Los árboles, más o menos. Cartografían su entorno con sus enredaderas y con las vibraciones del suelo y del viento, y también pueden percibir la Energía del alma con sus hojas."
+ },
+ "c51f76b3770a": {
+  "en": "<strong>Reproduction:</strong> Through Soul Energy; it all depends on Bahyum Castle.",
+  "t": "<strong>Reproducción:</strong> Mediante la Energía del alma; todo depende del castillo de Bahyum."
+ },
+ "c550875876ca": {
+  "en": "<strong>Other:</strong> Explosive growth as their cells mutate.",
+  "t": "<strong>Otros:</strong> Crecimiento explosivo a medida que sus células mutan."
+ },
  "c6b259840636": {
   "en": "Koalin",
   "t": "Koalin"
+ },
+ "ca4936ec973b": {
+  "en": "<strong>Interface:</strong> Shell.",
+  "t": "<strong>Interfaz:</strong> Caparazón."
+ },
+ "caa12c4b606f": {
+  "en": "Adventurers hunting fauna or beasts butcher the corpses before hauling them, to cut costs.",
+  "t": "Los aventureros que cazan fauna o bestias despiezan los cadáveres antes de transportarlos, para reducir costes."
+ },
+ "cac5b3c9032e": {
+  "en": "<strong>Habitat:</strong> Hifuna.",
+  "t": "<strong>Hábitat:</strong> Hifuna."
+ },
+ "ce2d8c15400c": {
+  "en": "<strong>Inspired by:</strong> Ghouls.",
+  "t": "<strong>Inspirado en:</strong> Los gules."
+ },
+ "ce4ce2bafb92": {
+  "en": "<strong>Inspired by:</strong> A swarm of butterflies.",
+  "t": "<strong>Inspirado en:</strong> Un enjambre de mariposas."
+ },
+ "d18281ada717": {
+  "en": "The list isn't complete: it covers the species that matter most to the economy and the story.",
+  "t": "La lista no está completa: recoge las especies que más importan para la economía y la historia."
+ },
+ "d2ac3d882ee7": {
+  "en": "<strong>Food:</strong> Smaller people, mammals, etc.: anything that moves and steps too close.",
+  "t": "<strong>Alimentación:</strong> Gente más pequeña, mamíferos, etc.: cualquier cosa que se mueva y se acerque demasiado."
+ },
+ "d356e3c2af66": {
+  "en": "<strong>Intelligence:</strong> Butterfly.",
+  "t": "<strong>Inteligencia:</strong> Mariposa."
+ },
+ "d3f4c76a9a45": {
+  "en": "A few Shapeshifters assimilated bees and began building hives west of Blood City. What makes them special: they're much bigger than normal bees, and they make an extremely tasty black honey. The females make honey from tree sap and build massive anthill-like structures to store it. If a male stings you, your sense of taste is overwhelmed with sweetness while you scream in agony.",
+  "t": "Unos cuantos Shapeshifters asimilaron abejas y empezaron a construir colmenas al oeste de Blood City. Lo que las hace especiales: son mucho más grandes que las abejas normales y producen una miel negra riquísima. Las hembras hacen miel con la savia de los árboles y construyen enormes estructuras parecidas a hormigueros para almacenarla. Si te pica un macho, tu sentido del gusto se ve desbordado por el dulzor mientras gritas de agonía."
  },
  "d412d5ae3550": {
   "en": "Trunk People are native to heavy, thick forests around the Freeish Kingdom. They are easily recognizable by their four arms, with each being able to show different colored flames, including altering their intensity. The name Trunk People is an old name, for scientists now know they are nothing but parasites! Still, they are cute and can even recognize faces. You see them everywhere in Freeish and surrounding communities as public light sources and even as security for some because their flaming and blinding capabilities are pretty impressive for their size. Some can also respond to certain body motions and training, often becoming part of shows and traveling bands.",
@@ -215,13 +851,89 @@
   "en": "Sweet Sting",
   "t": "Sweet Sting"
  },
+ "d5b3c731749c": {
+  "en": "<strong>Habitat:</strong> Rarely seen throughout the four kingdoms; now they often live in Wingarest.",
+  "t": "<strong>Hábitat:</strong> Se ven pocas veces por los cuatro reinos; ahora suelen vivir en Wingarest."
+ },
+ "d73de6d2d8f5": {
+  "en": "<strong>Food:</strong> Sunlight, blood and guts (more specifically, the Soul Energy in them).",
+  "t": "<strong>Alimentación:</strong> Luz del sol, sangre y vísceras (más concretamente, la Energía del alma que contienen)."
+ },
+ "d8935671db5f": {
+  "en": "<strong>Other:</strong> Grows indefinitely, but seems to stop around this size because of how much it would need to eat.",
+  "t": "<strong>Otros:</strong> Crece indefinidamente, pero parece detenerse en torno a este tamaño por lo mucho que necesitaría comer."
+ },
+ "d8af6a9b563c": {
+  "en": "<strong>Interface:</strong> Walking Heart.",
+  "t": "<strong>Interfaz:</strong> Walking Heart."
+ },
+ "d9a507ad961b": {
+  "en": "<strong>Tastes like:</strong> Tough chicken.",
+  "t": "<strong>Sabe a:</strong> Pollo duro."
+ },
+ "dbc656eb0b41": {
+  "en": "<strong>Intelligence:</strong> Depends on the experiment: from mindless to wolf.",
+  "t": "<strong>Inteligencia:</strong> Depende del experimento: desde descerebrados hasta lobo."
+ },
+ "dc2cd44debb4": {
+  "en": "<strong>Flinga Head Feathers</strong>: A bundle of head feathers, used in nari gels. Just plain hard to get: Flingas rarely land south of Hifuna, fly high and are evasive.",
+  "t": "<strong>Plumas de la cabeza de Flinga</strong>: Un manojo de plumas de la cabeza, que se usa en nari gels. Simplemente difíciles de conseguir: los Flingas rara vez aterrizan al sur de Hifuna, vuelan alto y son esquivos."
+ },
+ "dc8c863696b9": {
+  "en": "<strong>Interface:</strong> Flat head.",
+  "t": "<strong>Interfaz:</strong> Cabeza plana."
+ },
+ "dcec7b19c0ef": {
+  "en": "<strong>Skills:</strong> Light Flames; Light Explosion (blinds).",
+  "t": "<strong>Habilidades:</strong> Light Flames; Light Explosion (ciega)."
+ },
  "ddd1cce9bc4b": {
   "en": "Nari Worms are native to the underground caverns below Blood. Despite their threatening look and massive size, they are quite amicable to everyone, even when you find their eggs. Avoid the curiosity of eating them or harming these worms in any way, or you will be in deep shit if Forway finds out. They are so protective of these creatures that they are not afraid of using the worst punishment in the books, including being shipped out to Hifuna. It is certainly harsh, but it is fair as nari stones are a byproduct from the shed skin of Nari Worms, and no other creature or scientific process can accumulate this much soul energy in a ready-to-use form.",
   "t": "Los Nari Worms son originarios de las cavernas subterráneas que hay bajo Blood. A pesar de su aspecto amenazador y su enorme tamaño, son bastante amistosos con todo el mundo, incluso cuando encuentras sus huevos. Evita la curiosidad de comértelos o de hacer daño a estos gusanos de cualquier forma, o estarás bien jodido si Forway se entera. Los protegen tanto que no les tiembla el pulso a la hora de aplicar el peor castigo del código, incluido mandarte a Hifuna. Es duro, sin duda, pero es justo, porque las nari stones son un subproducto de la piel mudada de los Nari Worms, y ninguna otra criatura ni proceso científico puede acumular tanta energía del alma en una forma lista para usar."
  },
+ "e0de365b53c4": {
+  "en": "A swarm of Monica butterflies that groups up and flees bad weather. Their blue lights together make a wall of blue in the distance, warning anyone in the way to take cover from the coming storm. Depending on the size of the swarm, they can devour a rotting corpse in a few hours.",
+  "t": "Un enjambre de mariposas Monica que se agrupa y huye del mal tiempo. Sus luces azules juntas forman un muro azul a lo lejos, que avisa a cualquiera que esté en el camino de que se ponga a cubierto de la tormenta que llega. Según el tamaño del enjambre, pueden devorar un cadáver en descomposición en pocas horas."
+ },
+ "e2034fc4f144": {
+  "en": "<strong>Koalin Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Cecina de Koalin</strong>: Cecina preparada por un carnicero."
+ },
+ "e3b50c28b9f4": {
+  "en": "<strong>Inspired by:</strong> Megachile pluto.",
+  "t": "<strong>Inspirado en:</strong> Megachile pluto."
+ },
+ "e490decd791b": {
+  "en": "<strong>Habitat:</strong> The lower plains.",
+  "t": "<strong>Hábitat:</strong> Las llanuras bajas."
+ },
+ "e6f51af91733": {
+  "en": "<strong>Big Winga Tamed</strong>: A great hunting companion for Aquamarine adventurers, or a pet for richer people. Rare to find and costly to raise, but at least they live long.",
+  "t": "<strong>Big Winga domada</strong>: Una gran compañera de caza para aventureros Aquamarine, o una mascota para la gente más rica. Difícil de encontrar y cara de criar, pero al menos vive mucho."
+ },
+ "e7b99d4e85d6": {
+  "en": "<strong>Tier IV (Nobility Goods):</strong> high-quality hides and furs, especially from rare game.",
+  "t": "<strong>Nivel IV (Bienes de la nobleza):</strong> cueros y pieles de alta calidad, sobre todo de caza rara."
+ },
+ "e93e9b4f10c8": {
+  "en": "With no predators, this worm grew large and specialized in burrowing and eating stone, using an organ that casts Soul Energy through a unique interface. The acids in its stomach mix with the hair-thin nari veins into its shell, which it replaces every few months as it grows. Humans hunt down the shed shells and grind them for all kinds of uses. Killing the worms is prohibited by Forway and Blood law.",
+  "t": "Sin depredadores, este gusano se hizo grande y se especializó en excavar y comer piedra, usando un órgano que lanza Energía del alma a través de una interfaz única. Los ácidos de su estómago se mezclan con las nari veins, finas como un pelo, en su caparazón, que cambia cada pocos meses a medida que crece. Los humanos buscan los caparazones mudados y los muelen para todo tipo de usos. Matar a los gusanos está prohibido por la ley de Forway y de Blood."
+ },
+ "ea9a3e5899c3": {
+  "en": "<strong>Wood People Wood</strong>: Very durable, with a dark red color. It gives off a strong, woody musk when soaked.",
+  "t": "<strong>Madera de Wood People</strong>: Muy duradera, de color rojo oscuro. Desprende un fuerte almizcle amaderado cuando se moja."
+ },
+ "eab5a9fab590": {
+  "en": "<strong>Tastes like:</strong> Nutty, smoky and slightly sweet.",
+  "t": "<strong>Sabe a:</strong> A frutos secos, ahumado y ligeramente dulce."
+ },
  "ec6bcc5d14d6": {
   "en": "Shapeshifter",
   "t": "Shapeshifter"
+ },
+ "ecd626be4ed2": {
+  "en": "<strong>Food:</strong> Sunlight.",
+  "t": "<strong>Alimentación:</strong> Luz del sol."
  },
  "ed7d26b9c119": {
   "en": "Male and female White Roundies: gray seal-like creatures with long whiskers and pale tails, next to Harry.",
@@ -231,16 +943,84 @@
   "en": "Beasts · #HusbandOutWorld",
   "t": "Bestias · #HusbandOutWorld"
  },
+ "ef54085fbe5f": {
+  "en": "<strong>Habitat:</strong> Mostly west of Blood City.",
+  "t": "<strong>Hábitat:</strong> Sobre todo al oeste de Blood City."
+ },
+ "ef9a4c4ad2ae": {
+  "en": "<strong>Trunk People Arms</strong>: Used in nari gels.",
+  "t": "<strong>Brazos de Trunk People</strong>: Se usan en nari gels."
+ },
  "efbe055dc485": {
   "en": "Bruntos are a glimpse of the endless curiosity and tampering mindset of the ancient Buhraies race. Not only content in messing with plants and the land itself, but they were also as far south as Endlessfog, altering the local ecosystem to their will until Lishies wrecked the place up and tried to eat anything that moved in the whole island. That's what historians say, but scientists are still perplexed about how they created an entirely new species out of thin air. Nothing close to Bruntos other than Naked Bruntos also called humans, existed—not even in Newland. Some scientists speculate that this is substantial proof that our physical bodies are interconnected to a soul plane and that other planes of existence are also connected to this shared soul plane—this must be how Buhraies connected flesh to the soul and brought us all here. Other scientists say these scientists need to lay off the Magina and stop getting high at their jobs. Either way, Bruntos makes great companions!",
   "t": "Los Bruntos son un atisbo de la curiosidad infinita y la manía de trastearlo todo de la antigua raza Buhraies. No contentos con meterse con las plantas y con la propia tierra, llegaron tan al sur como Endlessfog, alterando el ecosistema local a su antojo, hasta que los Lishies arrasaron el lugar e intentaron comerse todo lo que se moviera en la isla entera. Eso dicen los historiadores, pero los científicos siguen perplejos sobre cómo crearon una especie completamente nueva de la nada. No existía nada parecido a los Bruntos, salvo los Naked Bruntos, también llamados humanos, ni siquiera en Newland. Algunos científicos especulan que esto es una prueba sustancial de que nuestros cuerpos físicos están interconectados con un plano del alma y de que otros planos de existencia también están conectados con ese plano del alma compartido; así debieron de conectar los Buhraies la carne con el alma y traernos a todos aquí. Otros científicos dicen que esos científicos tienen que dejar la Magina y dejar de colocarse en el trabajo. En cualquier caso, ¡los Bruntos son unos compañeros estupendos!"
+ },
+ "eff5a3fcf2e8": {
+  "en": "<strong>Habitat:</strong> Endlessfog Island, and the Freeish region (some escaped into the wild through trade by boat).",
+  "t": "<strong>Hábitat:</strong> La isla de Endlessfog y la región de Freeish (algunos escaparon a la naturaleza a través del comercio en barco)."
+ },
+ "f07e62e60deb": {
+  "en": "<strong>Intelligence:</strong> Same as Winga.",
+  "t": "<strong>Inteligencia:</strong> La misma que la Winga."
+ },
+ "f142831cbfee": {
+  "en": "<strong>Nari Worm Jerky</strong>: Jerky prepared by a butcher. Not really desirable.",
+  "t": "<strong>Cecina de Nari Worm</strong>: Cecina preparada por un carnicero. No es muy apreciada."
+ },
+ "f2031ad6b2f3": {
+  "en": "<strong>Interface:</strong> Head feathers.",
+  "t": "<strong>Interfaz:</strong> Plumas de la cabeza."
+ },
+ "f259a7107aee": {
+  "en": "<strong>Other:</strong> Grows ~30 cm.",
+  "t": "<strong>Otros:</strong> Crece ~30 cm."
+ },
+ "f33b562fab0d": {
+  "en": "<strong>Intelligence:</strong> Comparable to a snake: mostly instinctual, but they respond to certain foods. They communicate through pheromones and sound.",
+  "t": "<strong>Inteligencia:</strong> Comparable a una serpiente: sobre todo instintiva, pero responden a ciertos alimentos. Se comunican mediante feromonas y sonidos."
  },
  "f37067015083": {
   "en": "Public text: beasts.md",
   "t": "Texto público: beasts.md"
  },
+ "f3e99258087e": {
+  "en": "<strong>Reproduction:</strong> Impossible.",
+  "t": "<strong>Reproducción:</strong> Imposible."
+ },
+ "f55b065d3862": {
+  "en": "<strong>Skills:</strong> Transmogrify.",
+  "t": "<strong>Habilidades:</strong> Transmogrify."
+ },
  "f5e978a4f160": {
   "en": "White Roundies are gentle mammals from the far south known as Whiteland, often coming up to the shores of Freeish but sometimes as far as Sanbi during the winter to feast on their heart, given the winter in Whiteland is far colder than the Four Kingdoms' winter. Don't let their cute nature fool you, though! They are incredibly intelligent, with some scientists dedicating their lives to investigating their culture alone. It is commonly accepted that this beast is likely on track to become their own race in the far future, but people disagree on what is the turning point. For some, the fact we can't understand their language is the most significant differentiator from Cruros. Others fight that argument on the grounds that they might be even more intelligent than us, and we don't understand them. Others think this whole back-and-forth is a waste of time and prefer to play catch, rub their bellies to hear the rumbling noise that sounds like a pur they make with their neck sensory tentacles, or straight up make companions out of them. If you're one of these people, there's a whole festival around their arrival in Freeish Kingdom you cannot miss out on.",
   "t": "Los White Roundies son mamíferos apacibles del extremo sur, conocido como Whiteland, que suelen llegar a las costas de Freeish, aunque a veces llegan hasta Sanbi durante el invierno para darse un festín, porque el invierno en Whiteland es mucho más frío que el de los Cuatro Reinos. ¡Pero que su naturaleza adorable no te engañe! Son increíblemente inteligentes, y algunos científicos dedican su vida entera solo a investigar su cultura. Se acepta comúnmente que esta bestia probablemente va camino de convertirse en una raza propia en un futuro lejano, pero la gente no se pone de acuerdo sobre cuál es el punto de inflexión. Para algunos, el hecho de que no entendamos su lengua es la mayor diferencia con los Cruros. Otros rebaten ese argumento diciendo que podrían ser incluso más inteligentes que nosotros y que somos nosotros quienes no los entendemos. Otros piensan que todo este tira y afloja es una pérdida de tiempo y prefieren jugar a lanzarles cosas, rascarles la barriga para oír el ronroneo que hacen con los tentáculos sensoriales del cuello o directamente hacerlos sus compañeros. Si eres una de esas personas, hay todo un festival en torno a su llegada al Reino de Freeish que no te puedes perder."
+ },
+ "f884107d2275": {
+  "en": "<strong>Habitat:</strong> Seen flying all over the region.",
+  "t": "<strong>Hábitat:</strong> Se les ve volando por toda la región."
+ },
+ "f8c4e153a0b2": {
+  "en": "<strong>Food:</strong> Tree sap.",
+  "t": "<strong>Alimentación:</strong> Savia de los árboles."
+ },
+ "f93d4d236826": {
+  "en": "<strong>Interface:</strong> Arm branches.",
+  "t": "<strong>Interfaz:</strong> Ramas de los brazos."
+ },
+ "f9f91a66aed1": {
+  "en": "<strong>Reproduction:</strong> Males are much smaller than females, and they do most of the work. Females defend the colony and gather pollen.",
+  "t": "<strong>Reproducción:</strong> Los machos son mucho más pequeños que las hembras y hacen la mayor parte del trabajo. Las hembras defienden la colonia y recogen el polen."
+ },
+ "fb99e9739b28": {
+  "en": "<strong>Wood People Sap</strong>: Processed sap, often used in nari gels.",
+  "t": "<strong>Savia de Wood People</strong>: Savia procesada, que se usa a menudo en nari gels."
+ },
+ "fca49bae5a25": {
+  "en": "<strong>Interface:</strong> Teeth.",
+  "t": "<strong>Interfaz:</strong> Dientes."
+ },
+ "fe57948c79b6": {
+  "en": "<strong>Skills:</strong> The same as Wingas: Sense Lifeforms; Generate Air Shield; Louder-than-usual shriek; strengthening the beak and claws to diamond level, so they cut through anything.",
+  "t": "<strong>Habilidades:</strong> Las mismas que las Wingas: Sense Lifeforms; Generate Air Shield; un chillido más fuerte de lo normal; reforzar el pico y las garras hasta el nivel del diamante, para que corten cualquier cosa."
  }
 }
