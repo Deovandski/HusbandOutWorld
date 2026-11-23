@@ -121,3 +121,28 @@ Questions:
 - **B8-4:** "Quick Think", the gel Wilson overdoses on: is it Time Quicken (Nari Gels: Tier IV whole body, extreme reflexes, can kill on its own)? If so, I'll link it.
 - **B8-5:** Prologue: "We were on our own for at least 5 to 7 years before the Blue Wozens poached us." Characters says Kozaku brought Clodoveu in when he went hungry, and Clodoveu brought Wilson in; Wilson (born 1019) would have been about 14–16 when the three started out. Which version wins?
 - **B8-6:** Chapter 6 title "Scared Forest": the spooked forest, or "Sacred Forest"? Kept "Scared".
+
+Author's answers (batch 5):
+> B8-1: Clodoveu and Wilson are gone. Takeo is hunting down the clandestine magina plantation so he's doing his own thing so to speak, until he comes across Harry and gets interested in Harry's peculiar vibes.
+>
+> Dalila's parents are gone. Dalila herself will make it through and being found/revided by the same people that picked Harry's body up.
+>
+> Huneo will come back as Neferteri needs him, plus she has his freshly dead corpse to do the revival.
+>
+> BB-2: Yes.
+>
+> BB-3: Have magina guy be {WIP-maginafarmBoss}. Ryo's adventurer guard will be {WIP-rioAdventGuard}.  Ryo that appears here is the same Ryo on characters. Rubela is a new character. have her as {WIP-rubelaGirl}
+>
+> BB-4: yes.
+>
+> BB-5: These bandits started young and dumb. It's part of the character lore. Mix of peer presure, rebel, immature, etc.
+>
+> BB-6: Keep it scared
+
+Applied:
+- B8-1: notes added: Huneo comes back (Chapter 2); Dalila's parents are gone, Dalila is found and revived by the same people who pick up Harry's body (Chapter 3); Clodoveu and Wilson are gone for good (Chapter 1); Takeo hunts down the Magina plantation until he comes across Harry (end of Chapter 6).
+- B8-2: the Black Magina girl is named as Katsuki, Katsumi's twin; Chapter 5 says "her sister Katsuki's body".
+- B8-3: "Magina guy" → {WIP-maginafarmBoss}; Ryo's guard → {WIP-rioAdventGuard} (where he's introduced and in "Hey, …!"; elsewhere "the adventurer"); "Rubela" → {WIP-rubelaGirl}; "I'm Ryo XXX" → "I'm Ryo Flatland Long-Blue" (his badge in Characters).
+- B8-4: Quick Think noted as the Time Quicken gel, linked to /lore/nari-gels/#nari-gels--time-quicken.
+- B8-5: prologue: "they started out young and dumb, a mix of peer pressure, rebellion and immaturity."
+- B8-6: kept "Scared Forest".
