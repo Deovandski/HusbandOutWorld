@@ -4,6 +4,24 @@ status: questions asked 2026-11-22 (see content/bts/qa/World Lore/Flora.md)
 note: entries are restructured into one layout (description, a list of facts, then products) with the author's wording kept; the Website Description is the public text, shown above the Behind The Scenes notes.
 ---
 
+# Documentation Notation
+
+- Wood People and Trunk People are in [Beasts](/lore/beasts/).
+- The list isn't complete: it covers the species that matter most to the economy and the story.
+- Prices: see [Economy](/lore/economy/).
+- Flora's average Soul Energy tier is **Tier I**, recharging **1** soul a day or less.
+
+# Distance Cost Tier
+
+Goods are sorted into four tiers by how they look to a common person in Vraki, from cheap things anyone buys to things only the very rich can afford. The boundaries are blurry on purpose: it's a spectrum, and the tiers just help picture it (see [Nari Gels](/lore/nari-gels/)).
+
+Flora by tier:
+
+- **Tier I (Cheap Goods):** berries, fruit, fungus and grass.
+- **Tier II (Common Goods):** flowers, mushrooms and roots.
+- **Tier III (Expensive Goods):** banned items.
+- **Tier IV (Nobility Goods):** none.
+
 # Girdol
 
 A common plant used in nari gels and teas. Depending on how much you take, it can soothe the stomach, or cause diarrhea and vomiting.

@@ -91,3 +91,10 @@ Status: **open** until answered. Asked as one batch on 2026-11-21 and answered t
 - Empty "News: ?" and "Local Courier Services: ?" lines.
 - The map numbers "#?" on Old Wharf and Ungandy's factory.
 - Typos: "Freeish Salad Bow" (Bowl), "Sabi" (Sanbi), "Toelridemians", "over-relience", "Forway Lay" (Law), "Emails" (letters), "Stew Gandew Roundies" (Stewed).
+
+## Documentation notes (2026-11-23)
+
+The doc's own notes (Documentation Notation, and Distance Cost Tier where the doc has one) were still showing the raw text; now abridged.
+- "See Races / Beasts / Fauna" pointers → links to those pages; "See Economy Calculator for Prices" → "Prices: see Economy".
+- Distance Cost Tier gets the same one-line explanation as Nari Gels (from the author's NB1 answer, content/bts/qa/World Lore/Science - Nari Bombs.md), then this doc's tiers as written.
+- Polished: "Fauna/Beats" → "fauna or beasts"; "butchers" → "butcher"; "specially" → "especially".

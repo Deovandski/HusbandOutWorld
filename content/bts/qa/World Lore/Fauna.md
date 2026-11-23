@@ -77,3 +77,10 @@ Settled in N1, N2 and N3, and the Ptaina question below.
 
 - The Website Description of each entry (the public text, already on the page).
 - Empty values ("None", "-", "--", "See above", "See Item Visual Reference").
+
+## Documentation notes (2026-11-23)
+
+The doc's own notes (Documentation Notation, and Distance Cost Tier where the doc has one) were still showing the raw text; now abridged.
+- "See Races / Beasts / Fauna" pointers → links to those pages; "See Economy Calculator for Prices" → "Prices: see Economy".
+- Distance Cost Tier gets the same one-line explanation as Nari Gels (from the author's NB1 answer, content/bts/qa/World Lore/Science - Nari Bombs.md), then this doc's tiers as written.
+- Polished: "Fauna/Beats" → "fauna or beasts"; "butchers" → "butcher"; "specially" → "especially".

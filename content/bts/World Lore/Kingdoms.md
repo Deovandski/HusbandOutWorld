@@ -4,6 +4,10 @@ status: questions asked 2026-11-21 (see content/bts/qa/World Lore/Kingdoms.md)
 note: Documentation Notation is already short and stays as written.
 ---
 
+# Documentation Notation
+
+Religion isn't a thing in Vraki: it's an agnostic world, built on science and soul energy. There are no churches or priests, no "hell", no witches and no curses. Each kingdom's Customs section lists traditions, not religion. Cults do exist, just like bandit groups. (World Lore Q&A › Vol 4 Draft 2, Q6.)
+
 # Freeish (Freeishan)
 
 What were small villages became interconnected. Each village ruled itself, but villages gathered around shared values. Red tape between village groups grew until you could spend days at a village border just to get through, all because the village elder woke up on the wrong foot. People started rebelling, so the powers that be in most villages got together and created what amounts to a governor, who defuses issues so the village groups can trade as easily as possible. It's a fake power to keep people in check, but it did cut the red tape: several elected governors were smart and charming, while the less charming ones resorted to blackmail to keep village leaders in line. The village leaders, in turn, keep the governors in check so their power doesn't run rampant.

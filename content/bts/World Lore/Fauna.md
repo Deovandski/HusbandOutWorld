@@ -4,6 +4,27 @@ status: questions asked 2026-11-22 (see content/bts/qa/World Lore/Fauna.md)
 note: entries are restructured into one layout (description, a list of facts, then products) with the author's wording kept; the Website Description is the public text, shown above the Behind The Scenes notes.
 ---
 
+# Documentation Notation
+
+- [Races](/lore/races/): species at or above human intelligence.
+- [Beasts](/lore/beasts/): mildly intelligent species, or highly dangerous beasts.
+- [Fauna](/lore/fauna/): low-intelligence species.
+- The list isn't complete: it covers the species that matter most to the economy and the story.
+- **Earth animals that don't exist in Vraki** (for writers): no goats (use Legunia), no dogs or cats (use a Bagarisa where a dog would go), no pigeons (use wild Wingas). (World Lore Q&A › Vol 4 Draft 2, Q8.)
+- Adventurers hunting fauna or beasts butcher the corpses before hauling them, to cut costs.
+- Prices: see [Economy](/lore/economy/).
+
+# Distance Cost Tier
+
+Goods are sorted into four tiers by how they look to a common person in Vraki, from cheap things anyone buys to things only the very rich can afford. The boundaries are blurry on purpose: it's a spectrum, and the tiers just help picture it (see [Nari Gels](/lore/nari-gels/)).
+
+Fauna by tier:
+
+- **Tier I (Cheap Goods):** freshly killed animals, plus elemental Soul Energy interface actions for storage.
+- **Tier II (Common Goods):** processed meat, plus elemental Soul Energy interface actions for storage; feathers and fur of large animals, and other animal parts.
+- **Tier III (Expensive Goods):** jerky, plus elemental Soul Energy interface actions for storage; feathers and fur of smaller animals, especially higher-quality ones; tamed or live fauna; rare animal parts.
+- **Tier IV (Nobility Goods):** high-quality hides and furs, especially from rare game.
+
 # Cinika
 
 A small cyan butterfly that spreads everywhere every spring. Known for attacking Wozefaries and Sorefaries in swarms and paralyzing them to lick their sweat. One of the most popular butterflies around: when they swarm and flee, adventurers and commoners know bad weather is coming.
