@@ -158,3 +158,8 @@ A4-21, context gathered (where is Harry?):
 - Story Arcs: Arc #4 has no summary ("?"); Arc #5 starts with Harry keeping his new name and going adventuring.
 
 - **A4-23:** So: Harry's basement prison is in Neferteri's village hideout, the same place Arukia is interrogated, and Harry is chained in the room during Chapter 2. Shall I add him to that scene heading ("Neferteri, Morika, Arukia, and a chained Harry")?
+
+Author's answer:
+> A4-23. Yes.
+
+Applied: Book 16, Chapter 2's scene heading is now "Neferteri, Morika, Arukia, and a chained Harry, in the hideout".

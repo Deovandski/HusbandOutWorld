@@ -54,3 +54,12 @@ Settled in L3.
 ## Left out on purpose
 
 - Nothing.
+
+## The glyph tables and the interface entries (2026-11-23)
+
+> Abridge the language as well, and point people to the Vraki website if they want to know more. Just say that on this website that Vraki is 1:1 with English despite "Complex Vraki" language that does exist for the sake of simplicity in a world already choke full or lore.
+
+Applied:
+- Vraki Language: added "On this website, Vraki is 1:1 with English. A "Complex Vraki" language does exist, but it's left out here for the sake of simplicity, in a world already chock-full of lore," with a link to the Vraki website (https://deovandski.github.io/vraki-windows/, the historical page linked from the old blog's Vraki Font page). Abridged text only.
+- Alphabet, Numerals, Misc: one line each, then the same glyph tables (original pictures). "\*Connecting numbers must have a pipe" → "Connected numbers must have a pipe."; the "Sanbi shit" saying polished.
+- Element, Target, Subject, Verb: the Google Drive "Soul Energy Interfaces" links → the matching interface pages on this website (Finaies, Buhraies, Darfaries), per the no-Google-Drive rule.

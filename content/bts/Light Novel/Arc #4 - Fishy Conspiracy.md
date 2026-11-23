@@ -500,7 +500,7 @@ Not finished yet.
 
 # Book 16 - Pursuit of Happiness › Chapter 2 - Falling Apart
 
-#### Neferteri, Morika and Arukia in the hideout
+#### Neferteri, Morika, Arukia, and a chained Harry, in the hideout
 
 - Morika has a prod heating in the fire. Arukia is chained up, with stab wounds in her belly. Morika gets ready to stab again, but Neferteri raises a hand to stop him; Morika holds back and carefully places the prod back in the fire.
 - Neferteri approaches Arukia. "Your disappearance wasn't a coincidence. If you simply cooperate with me, I'm willing to put this behind us." Arukia spits on the ground. "I served you for months! I know what you're capable of!" "Enlighten me." "You're gonna torch me once you have what you need, so fuck off!" Neferteri smiles slightly.
