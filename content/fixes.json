@@ -386,6 +386,23 @@
       "find": "She continued punching as tears flowed from her eyes.",
       "replace": "She continued punching as tears flowed from her eyes.  \n  * Author's note: The body is not Arukia. It is a decoy, an already soul-dead corpse made up as Arukia with Nari gel, so no revival would ever work. Blinded by anger, Eori never uses Nari Refresher on it, so she does not find out (the real Arukia is alive with Neferteri, see Book 16). Later, Eori realizes she didn't even do the simple check, and grows regret for having those emotional fits.",
       "why": "Author's ruling (Arc #4 A4-18/A4-19, 2026-11-23): add the decoy note to the raw notes."
+    },
+    {
+      "find": "how much ? (10,500?) Sapphires would screw her over",
+      "replace": "how much 3 Sapphires would screw her over",
+      "why": "Author's ruling (Arc #4 A4-6, 2026-11-23): losing the badge costs 3 Sapphires."
+    }
+  ],
+  "Legacy/Behind The Scenes/Light Novel/Story Arcs.md": [
+    {
+      "find": "deciding to flee his past as Harry, then ending up with being found, and with Magi’s help, they flee Forway. ",
+      "replace": "deciding to flee his past as Harry. ",
+      "why": "Author's ruling (Story Arcs SA-1, 2026-11-23): the ending (found, fleeing Forway with Magi) belongs to Arc #4."
+    },
+    {
+      "find": "# **Arc \\#4 \\- Fishy Conspiracy**\n\n* ## Vol ? \\- ?\n\n  * ?",
+      "replace": "# **Arc \\#4 \\- Fishy Conspiracy**\n\n* ## Vol ? \\- ?\n\n  * ?  \n  * Ends with Harry being found, and with Magi’s help, they flee Forway.",
+      "why": "Author's ruling (Story Arcs SA-1, 2026-11-23): moved from Arc #3."
     }
   ]
 }

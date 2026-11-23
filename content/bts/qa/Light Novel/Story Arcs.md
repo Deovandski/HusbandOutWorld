@@ -14,4 +14,7 @@ Author's answers:
 > Sa-1 move to arc #4.
 > Sa-2: keep as no summary yet.
 
-Applied: Arc #3 now only "starts with Desmond waking up from a coma and deciding to flee his past as Harry"; Arc #4 reads "No summary yet, except how it ends: Harry is found, and flees Forway with Magi's help." (Abridged only; the raw outline is unchanged.)
+Applied: Arc #3 now only "starts with Desmond waking up from a coma and deciding to flee his past as Harry"; Arc #4 reads "No summary yet, except how it ends: Harry is found, and flees Forway with Magi's help." (Made official in the raw display too; see below.)
+
+
+Made official (2026-11-23, "Make it official on the two rulings"): the raw display of Story Arcs now ends Arc #3 at "deciding to flee his past as Harry", and Arc #4 adds "Ends with Harry being found, and with Magi's help, they flee Forway." (`content/fixes.json`).

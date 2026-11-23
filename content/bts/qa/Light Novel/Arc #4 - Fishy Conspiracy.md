@@ -52,7 +52,7 @@ Author's answers (batch 2):
 > A4-8: those Harry numbers are tie in into illustrations not how many times he has revived. Keep #14
 
 Applied:
-- A4-6: "losing it (3 Sapphires)". The raw notes still say "(10,500?)" (not made official in the raw display).
+- A4-6: "losing it (3 Sapphires)". Made official in the raw display too; see below.
 - A4-7: the morning clerk and the sweet old clerk are the same person, {WIP-embassyClerk}. (Book 12's Embassy clerk, a "guy", is left as written.)
 - A4-8: no new number; the Book 13 scene keeps "#13 clothes", with a note that the numbers tie in to the illustrations. Arc #2's front-matter note ("each one is a different Harry") corrected to match.
 
@@ -163,3 +163,6 @@ Author's answer:
 > A4-23. Yes.
 
 Applied: Book 16, Chapter 2's scene heading is now "Neferteri, Morika, Arukia, and a chained Harry, in the hideout".
+
+
+Made official (2026-11-23, "Make it official on the two rulings"): A4-6's 3 Sapphires now shows in the raw display too ("how much 3 Sapphires would screw her over", `content/fixes.json`).
