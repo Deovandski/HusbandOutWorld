@@ -3,6 +3,10 @@
   "en": "Time Quicken",
   "t": "Time Quicken"
  },
+ "02da8670aeb2": {
+  "en": "A wide range of nari gels covers most poisons, and body and mental status changes: from swapping your eyeballs for those of someone with better vision, to turning yourself completely into a Big Winga so you can soar the skies freely! Because they're tiered, the difference between smoothing your skin and melting it off (as you suffer the worst imaginable pain and scream for someone to end your life) can be just three scoops.",
+  "t": "Una amplia gama de nari gels cubre casi todos los venenos, y los cambios del estado físico y mental: desde cambiarte los globos oculares por los de alguien con mejor vista, ¡hasta convertirte por completo en una Big Winga para surcar los cielos a tus anchas! Como van por niveles, la diferencia entre suavizarte la piel y derretírtela (mientras sufres el peor dolor imaginable y gritas para que alguien acabe con tu vida) pueden ser solo tres cucharadas."
+ },
  "06a815bb69e8": {
   "en": "This one is pretty straightforward. Fish gills mixed with ground nari and water, and there you go! You can breathe underwater! Well, it's more complex, actually. Depending on the quality of the nari gel, gills develop on the back, near the lungs, or on the sides of the neck, impacting efficiency. Tier I (Cosmetic) usually results in Malformed gills on the person slurping this gel, causing them to be unable to breathe air or water quite right or eat properly. Tier II (Localized) does come with better water breathing. The skin might become slightly scaly, and the person must swim to breathe underwater while no longer being able to breathe air. Some custom versions figured out a way to still allow people to breathe air, though expect to pay top balls for it. Meanwhile, Tier III (Regional) gives you far more efficient water breathing while costing you any remaining air-breathing, with some versions allowing you to eat again. Some nari gels worsen scaly skin or give core temperature regulation issues, while other variants will enable you to stand still while the gills and other structures pump the water through. Tier IV (Whole Body) typically allows one to breathe even in swampy, less oxygenated water, but you might become more fish than human... In other words, your breath goes glub glub.",
   "t": "Este es bastante sencillo. Branquias de pez mezcladas con nari molido y agua, ¡y listo! ¡Puedes respirar bajo el agua! Bueno, en realidad es más complejo. Según la calidad del nari gel, las branquias se desarrollan en la espalda, cerca de los pulmones, o a los lados del cuello, lo que afecta a la eficiencia. El Nivel I (Cosmético) suele dar branquias malformadas a quien se toma este gel, de modo que no puede respirar bien ni aire ni agua, ni comer con normalidad. El Nivel II (Localizado) sí da una mejor respiración bajo el agua. La piel puede volverse algo escamosa, y hay que nadar para respirar bajo el agua, sin poder respirar ya aire. Algunas versiones personalizadas han encontrado la forma de seguir permitiendo respirar aire, pero prepárate para pagar muchas bolas por ello. Por su parte, el Nivel III (Regional) da una respiración bajo el agua mucho más eficiente a costa de perder cualquier respiración de aire que quedara, y algunas versiones permiten volver a comer. Algunos nari gels empeoran la piel escamosa o dan problemas para regular la temperatura corporal, mientras que otras variantes te permiten quedarte quieto mientras las branquias y otras estructuras bombean el agua. El Nivel IV (Cuerpo entero) normalmente permite respirar incluso en aguas pantanosas con menos oxígeno, aunque podrías acabar siendo más pez que humano... Dicho de otro modo, tu respiración hace glub glub."
@@ -10,6 +14,10 @@
  "0d4b29338ac3": {
   "en": "Wooly Skin",
   "t": "Wooly Skin"
+ },
+ "0dcd51d83171": {
+  "en": "<strong>Resistance:</strong> flesh can grow immune to basically every nari gel. Someone who keeps changing \"skin\" to look like someone else will notice their body taking longer to shift, and hurting more, even with the highest-quality gels (a purer gel gives cleaner, stronger effects). Overuse can also leach into the soul: adventurers who insist on looking a certain way find that, given enough time, Nari Refresher returns their body to somewhere between how they were born and how they looked the longest. It's as if the nari gel leaves a ghost imprint on the soul, which might affect how strongly soul and body connect. (World Lore Q&amp;A › Vol 4 Draft 2, Q16.)",
+  "t": "<strong>Resistencia:</strong> la carne puede volverse inmune a prácticamente cualquier nari gel. Alguien que no para de cambiar de «piel» para parecerse a otra persona notará que su cuerpo tarda más en cambiar, y que duele más, incluso con los gels de mayor calidad (un gel más puro da efectos más limpios y fuertes). El abuso también puede filtrarse al alma: los aventureros que se empeñan en tener cierto aspecto descubren que, con el tiempo suficiente, el Nari Refresher devuelve su cuerpo a algo entre cómo nacieron y el aspecto que tuvieron más tiempo. Es como si el nari gel dejara una huella fantasma en el alma, que podría afectar a la fuerza con la que se conectan el alma y el cuerpo. (World Lore Q&amp;A › Vol 4 Draft 2, Q16.)"
  },
  "0e85491f5d96": {
   "en": "Water Breath nari gel: a corked jar holding pale-blue gel with a red fish gill inside.",
@@ -31,9 +39,17 @@
   "en": "Time Slower",
   "t": "Time Slower"
  },
+ "1e9e3eba582a": {
+  "en": "Scientists, usually alongside businesspeople, try to outdo each other with the latest and most extraordinary recipes. Unfortunately, the market has a reputation for being cutthroat: sometimes the breakneck pace of research, or shady cost-cutting in testing, turns unaware buyers into \"alpha testers\" of new products and their claims.",
+  "t": "Los científicos, normalmente junto con gente de negocios, intentan superarse unos a otros con las recetas más nuevas y extraordinarias. Por desgracia, el mercado tiene fama de despiadado: a veces el ritmo frenético de la investigación, o los recortes turbios en las pruebas, convierten a compradores desprevenidos en «probadores alfa» de nuevos productos y de lo que prometen."
+ },
  "2472662902a3": {
   "en": "Molten Nari worm shells mixed with tons of ground Nari stone and sweet lake water. It serves as an antidote or reset to cleanse any effects caused by this interface on the body. As you drink it, you can feel a particular gasification reaction in your mouth, going down your throat and continuing on your stomach. The bubbly feeling disappears once it finishes reacting with the salt in the body and resetting and restoring your current flesh genes to match your soul genes—albeit the restoring part is not as efficient as Body Restore from the Darfaries Interface.",
   "t": "Caparazones fundidos de Nari worm mezclados con toneladas de Nari stone molida y agua de Sweet Lake. Sirve como antídoto o como reinicio para limpiar cualquier efecto que esta interfaz haya causado en el cuerpo. Al beberlo, notas una curiosa reacción de gasificación en la boca, que baja por la garganta y sigue en el estómago. La sensación burbujeante desaparece cuando termina de reaccionar con la sal del cuerpo, reiniciando y restaurando tus genes de la carne actuales para que coincidan con tus genes del alma, aunque la parte de la restauración no es tan eficaz como el Body Restore de la Interfaz Darfaries."
+ },
+ "253b8d6693d7": {
+  "en": "Goods are sorted into four tiers by how they look to a common person in Vraki: from cheap things anyone buys, to things only the very rich can afford (a common person might buy something as expensive as one sapphire once in their lifetime; for a really rich person, that's ordinary). The boundaries between tiers are blurry on purpose: it's a spectrum, and the tiers just help picture it.",
+  "t": "Los bienes se ordenan en cuatro niveles según cómo los ve una persona corriente de Vraki: desde cosas baratas que compra cualquiera hasta cosas que solo pueden permitirse los muy ricos (una persona corriente puede que compre algo tan caro como un sapphire una vez en la vida; para alguien muy rico, es lo normal). Los límites entre niveles son difusos a propósito: es un espectro, y los niveles solo ayudan a imaginarlo."
  },
  "2ea9ead05122": {
   "en": "Scientists, usually alongside businesspeople, try to outperform each other with the latest and most extraordinary recipes. Unfortunately, this market has gained the reputation of being cutthroat. Sometimes, the neck-breaking research speed or shady cost-cutting in testing can lead to unaware buyers being “alpha-testers“ of new products and their claims.",
@@ -87,6 +103,10 @@
   "en": "The opposite of Time Quicken. Made from ground Nari with Steen mixed with Cocona water. Tier I (Cosmetic) brings you relaxation, sleepiness, and the munchies. Some variations also add muscle relaxation or avoid giving the munchies as you could be on the road and need to pass the time in the wagon but have limited food supplies. Tier II (Localized) certainly decreases your alertness and often comes with a slowed heartbeat and reflex. The lethargy at this point is only comfortable to a few people, so you rarely see anyone consuming enough to get into this and above tiers. However, if you do, then expect Tier III (Regional) to be a challenge even to stand up and walk around. You might still be lucid enough to think clearly, but you will be mumbling your speech and slop around like someone on the verge of being black-out drunk. Tier IV (Whole Body) relaxes your heart, too, making it take a nice long nap that softly kills you.",
   "t": "Lo contrario del Time Quicken. Hecho de Nari molido con Steen mezclado con agua de Cocona. El Nivel I (Cosmético) te da relajación, sueño y hambre de bajón. Algunas variantes añaden relajación muscular o evitan el hambre, porque podrías estar de viaje y necesitar pasar el rato en el carro con comida limitada. El Nivel II (Localizado) sin duda reduce tu estado de alerta y a menudo ralentiza el pulso y los reflejos. A estas alturas, el aletargamiento solo le resulta cómodo a poca gente, así que es raro ver a alguien tomar lo suficiente para llegar a este nivel o a los superiores. Pero si lo haces, prepárate para que con el Nivel III (Regional) hasta ponerte de pie y caminar sea un reto. Puede que sigas lo bastante lúcido para pensar con claridad, pero hablarás arrastrando las palabras y te moverás a trompicones como alguien a punto de una borrachera de las que te dejan sin recuerdos. El Nivel IV (Cuerpo entero) también relaja el corazón, que se echa una buena siesta larga que te mata con suavidad."
  },
+ "5ab5dcb4815b": {
+  "en": "<strong>Tier II (Common Goods):</strong> none.",
+  "t": "<strong>Nivel II (Bienes comunes):</strong> ninguno."
+ },
  "5d570079c51e": {
   "en": "Nari Gels · #HusbandOutWorld",
   "t": "Nari Gels · #HusbandOutWorld"
@@ -102,6 +122,14 @@
  "74c75b21c5f7": {
   "en": "Mixing Cruro's hair and skin will give a nari gel that, depending on how much is consumed, will provide you with something as simple as thicker greenish skin to a scaly lizardy skin that hampers agility. At least mosquito bites will be a thing of the past. Some subversions exist where it doesn’t tinge your skin green.",
   "t": "Mezclar pelo y piel de Cruro da un nari gel que, según cuánto se consuma, te dará desde algo tan simple como una piel más gruesa y verdosa hasta una piel escamosa de lagarto que resta agilidad. Al menos las picaduras de mosquito serán cosa del pasado. Existen algunas subversiones que no te tiñen la piel de verde."
+ },
+ "83eb62e3a832": {
+  "en": "Sustained Soul Consumption",
+  "t": "Consumo Sostenido del Alma"
+ },
+ "8c1d4054c9ff": {
+  "en": "Nari gels by tier:",
+  "t": "Nari gels por nivel:"
  },
  "8e06360cadd1": {
   "en": "Skin Melt nari gel: a corked jar holding purple gel with flecks of gold.",
@@ -123,6 +151,10 @@
   "en": "Cruro Skin nari gel: a corked jar holding green gel with pale scraps of skin.",
   "t": "Nari gel Cruro Skin: un tarro con corcho con gel verde y trozos claros de piel."
  },
+ "95ddedba9b1d": {
+  "en": "Nari gels are the quickest and safest way to act on any living soul: they're ready to swallow or inject, and their tiered effects are easy to reproduce. Ground nari dust is infused with water into a jelly-like consistency, then mixed with other substances, and maybe catalysts, to get whatever effect you want. The coarser, cheaper grades are easier to swallow, but their transformations tend to be more painful and slower to kick in. You can pay a premium for very fine-grade gels, which are easier to inject, especially if you want to keep the pain as low as possible.",
+  "t": "Los nari gels son la forma más rápida y segura de actuar sobre cualquier alma viva: están listos para tragar o inyectar, y sus efectos por niveles son fáciles de reproducir. El polvo de nari molido se infunde con agua hasta lograr una consistencia gelatinosa, y luego se mezcla con otras sustancias, y quizá catalizadores, para conseguir el efecto que quieras. Los grados más gruesos y baratos se tragan con más facilidad, pero sus transformaciones suelen ser más dolorosas y tardan más en hacer efecto. Puedes pagar un extra por gels de grado muy fino, que se inyectan con más facilidad, sobre todo si quieres que duela lo menos posible."
+ },
  "979566748b3a": {
   "en": "Cruro Skin",
   "t": "Cruro Skin"
@@ -134,6 +166,10 @@
  "a19b2d791e9a": {
   "en": "Wooly skin and hair mixed with just a bit of wooly milk and nari gel will give you silk-smooth hair that grows even faster and rarely splinters. Hands down, it's one of the most used and customized nari gels around! You can even tweak the hair color you have grown and even where it will grow if you shell out enough balls. Add more potency to it, then you might get way more hair than you ever wanted, if not making your nails as thick as hoof. That's when sane people would stop the dosage as anything beyond will only worsen it, such as clumps of hair plugging up your nose and producing such grease hair that it feels like you were covered in lard.",
   "t": "Piel y pelo de Wooly mezclados con un poco de leche de wooly y nari gel te darán un pelo suave como la seda que crece aún más rápido y casi nunca se abre en las puntas. ¡Es, sin duda, uno de los nari gels más usados y personalizados que hay! Incluso puedes ajustar el color del pelo que te crece y dónde crece si sueltas suficientes bolas. Súbele la potencia y podrías acabar con mucho más pelo del que jamás quisiste, si no con las uñas tan gruesas como pezuñas. Ahí es donde la gente sensata dejaría de aumentar la dosis, porque a partir de ahí solo empeora, como mechones de pelo que te taponan la nariz y un pelo tan grasiento que parece que te han untado de manteca."
+ },
+ "a5ae5108d7cc": {
+  "en": "On the plus side, your liver will eventually process and expel the changes, so if you're on your own and put yourself in jeopardy, sit back and relax! If it doesn't kill you, you'll eventually get back up and do it again! On average, the coarser, cheaper stuff takes longer to expel, so keep that in mind. Either way, do it enough times and your body might start accepting the changes as its new reality, changing your idea of normal forever. It won't be cheap, unless you're getting high on your nari gels.",
+  "t": "Lo bueno es que tu hígado acabará procesando y expulsando los cambios, así que si estás solo y te has puesto en peligro, ¡recuéstate y relájate! Si no te mata, ¡acabarás levantándote y volviendo a hacerlo! De media, lo más grueso y barato tarda más en expulsarse, así que tenlo en cuenta. En cualquier caso, hazlo suficientes veces y puede que tu cuerpo empiece a aceptar los cambios como su nueva realidad, cambiando para siempre tu idea de lo normal. No te saldrá barato, salvo que te estés colocando con tus nari gels."
  },
  "a613f06a39b3": {
   "en": "Winga Flight",
@@ -155,6 +191,14 @@
   "en": "Nari Refresher nari gel: a corked jar holding dark-blue gel with crystal shards.",
   "t": "Nari gel Nari Refresher: un tarro con corcho con gel azul oscuro y esquirlas de cristal."
  },
+ "b536e7b02714": {
+  "en": "<strong>Tier I (Cheap Goods):</strong> none.",
+  "t": "<strong>Nivel I (Bienes baratos):</strong> ninguno."
+ },
+ "bb0eca872539": {
+  "en": "Everyone buys these gels, adventurers usually more than commoners. A wise adventurer always keeps a Nari Refresher ready, to reset every affliction caused by other nari gels—unless that adventurer is using fake-body nari gels to alter their personality, which isn't unheard of, but definitely isn't recommended.",
+  "t": "Todo el mundo compra estos gels, los aventureros normalmente más que la gente corriente. Un aventurero sensato siempre tiene a mano un Nari Refresher, para reiniciar todas las afecciones causadas por otros nari gels, salvo que ese aventurero esté usando nari gels de cuerpo falso para alterar su personalidad, algo que no es inaudito, pero que desde luego no se recomienda."
+ },
  "bb8d8528665f": {
   "en": "Wooly Skin nari gel: a corked jar holding amber gel with floating bits.",
   "t": "Nari gel Wooly Skin: un tarro con corcho con gel ámbar y trocitos flotando."
@@ -170,6 +214,10 @@
  "c4c9beaedc0f": {
   "en": "Nari Gels",
   "t": "Nari Gels"
+ },
+ "c9c21a83d816": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Nari%20Gels.md\">Legacy/Behind The Scenes/World Lore/Science - Nari Gels.md</a>",
+  "t": "Fuente: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Nari%20Gels.md\">Legacy/Behind The Scenes/World Lore/Science - Nari Gels.md</a>"
  },
  "cb7c45f0daea": {
   "en": "Body Paralysis nari gel: a corked jar holding turquoise gel full of bubbles and seeds.",
