@@ -1,15 +1,51 @@
 {
+ "031267969581": {
+  "en": "<strong>Nature:</strong> highly intelligent, risen above the common issues between mortals. Their bodies run on literal cold fluids with antifreeze.",
+  "t": "<strong>性質：</strong>非常に知能が高く、死すべき者たちの間のありふれた問題を超越している。その体は、文字どおり不凍液を含んだ冷たい液体で動いている。"
+ },
+ "05763f22d732": {
+  "en": "<strong>Interface and skills:</strong> none.",
+  "t": "<strong>インターフェースとスキル：</strong>なし。"
+ },
  "06a84ddfb2ad": {
   "en": "When attempting to control their flight or dampen their fall, a white flame appears on their Darfaries’ veins. This flame becomes black as its strength changes, constantly adapting to the user's desire to balance or propel themselves through the air. The sensation is close to a jetpack as they use their arms and upper back to control it while their feet dangle freely. It requires training and emphasis on building core and neck muscles to maintain control.",
   "t": "飛行を制御したり落下を和らげたりしようとすると、ダルファリエスの血管に白い炎が現れる。この炎は強さが変わるにつれて黒くなり、空中でバランスを取ったり体を押し出したりしたいという使い手の意思に絶えず合わせて変化する。腕と背中の上部で制御し、足は自由にぶらぶらさせるので、感覚はジェットパックに近い。制御を保つには、体幹と首の筋肉を鍛えることに重点を置いた訓練が必要だ。"
+ },
+ "070a364f1bcc": {
+  "en": "Darfaries are too big for the interface to do much, so they can't fly, but it isn't nothing: if they're not too heavy, it softens a fall a bit, so they take about 80% of the fall damage instead of 100%.",
+  "t": "ダルファリエスは体が大きすぎて、インターフェースがあまり役に立たないので飛べないが、まったくないわけではない。重すぎなければ落下を少し和らげるので、落下のダメージを 100% ではなく約 80% で済ませられる。"
+ },
+ "089c743b3392": {
+  "en": "An ancient race (see the World Timeline), focused on battling and hunting. They couldn't use the Finaies interface and never developed their own. Dying in battle was the death they preferred. Extremely horny: think Mokina levels. Inspired by orcs and trees.",
+  "t": "古代の種族（世界の年表を参照）で、戦いと狩りに特化していた。フィナイエスのインターフェースを使えず、独自のものも発達させなかった。戦いで死ぬことが、彼らの好む死に方だった。とんでもなくスケベで、モキナ級を想像してほしい。オークと木から着想を得ている。"
+ },
+ "0ecf04d2c898": {
+  "en": "The veins burn with a base white flame that converts soul energy directly, and show white fire when casting spells. When dampening a fall or flying, a black flame appears on them. The color can differ for someone who developed their own interface, or really messed with their own Darfaries interface and somehow didn't die in the dangerous process. The black flame adjusts its strength on its own if the person thinks of it like a jetpack, or a spaceship's monopropellant thruster. Their feet dangle, so they steer with their whole arms.",
+  "t": "血管は、魂のエネルギーを直接変換する基本の白い炎で燃えていて、呪文を唱えるときに白い炎を見せる。落下を和らげたり飛んだりするときは、そこに黒い炎が現れる。独自のインターフェースを発達させた者や、自分のダルファリエスのインターフェースを本当にいじって、なぜかその危険な過程で死ななかった者では、色が違うこともある。黒い炎は、ジェットパックや宇宙船の一液式推進器のように考えれば、ひとりでに強さを調節する。足がぶらぶらするので、腕全体で舵をとる。"
+ },
+ "0f101fd30f37": {
+  "en": "<strong>Nature:</strong> brutes; everything was solved through violence.",
+  "t": "<strong>性質：</strong>野蛮。あらゆることが暴力で解決された。"
  },
  "0fab2a0de02c": {
   "en": "Cruros is a split from Crocus, an alligator-like reptile, but with more humanoid features and varying rates of intelligence. They cannot speak but can make grunts to socialize. Smarter ones can learn to write and contribute to society as well. Nobody knows for sure how they suddenly started popping out from Cruroland, but the word in the street is that alcohol and a creepy scientist were involved.",
   "t": "クルロは、ワニのような爬虫類クロッカスから分かれた種だが、より人型の特徴とさまざまな程度の知性を持っている。話すことはできないが、うなり声で交流できる。賢い者は字を書くことを覚えて社会に貢献することもできる。なぜ突然クルロランドから現れ始めたのか確かなことは誰も知らないが、巷では、酒と不気味な科学者が関わっていたという話だ。"
  },
+ "0fefa63a780e": {
+  "en": "<strong>Interface:</strong> the Finaies Interface. Like the Darfaries interface, but weaker and simpler; it works like a nerve spreading through their body, letting them sense their surroundings and make up for their poor eyesight.",
+  "t": "<strong>インターフェース：</strong>フィナイエス・インターフェース。ダルファリエスのインターフェースに似ているが、もっと弱く単純だ。体じゅうに広がる神経のように働き、周囲を感じ取って、乏しい視力を補うことができる。"
+ },
  "11ebb829ea9a": {
   "en": "Cruros",
   "t": "クルロ"
+ },
+ "13a2ad409916": {
+  "en": "<strong>Interface:</strong> the Finaies Interface and the Buhraies Interface.",
+  "t": "<strong>インターフェース：</strong>フィナイエス・インターフェースとブライエス・インターフェース。"
+ },
+ "1a86dc1b1465": {
+  "en": "Elves and the other Tolkien races don't exist in Vraki. Growth, lifespan, soul recharge per day and tier averages per race are in the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Soul%20Energy.xlsx\">Soul Energy spreadsheet</a> (Race Soul Avg).",
+  "t": "エルフやほかのトールキンの種族はヴラキには存在しない。種族ごとの成長、寿命、一日あたりの魂の回復量、ティアの平均は、<a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Soul%20Energy.xlsx\">魂のエネルギーのスプレッドシート</a>（Race Soul Avg）にある。"
  },
  "1dac00a8853c": {
   "en": "Sorefaries are like humanoid pets, with intelligence closer to Bruntos or like a really smart Cruro. They can be helpful companions for adventurers as they can energetically fly about and sneakily scout ahead for dangers, or you can make use of their surplus of soul energy that can reach ancient species levels, but you need to be careful finding the right fit for you as they are finicky with their emotional behaviors—far, far worse than having a Sayna. Another fair comparison would be like having a five-year-old kid as your companion, except they will never grow up and become more finicky instead as they often grow senile in their thirties. Also, for some unknown reason, their sweat smells flowery, like roses and lilac. Maybe that has something to do with them being sterile.",
@@ -27,13 +63,97 @@
   "en": "Darfaries are giant humanoids that evolved from the interbreeding of ancient species. Often people assume they are all arses for their rigid attitude, but some are not as bad, especially if they left Gandew kingdom to explore the world at a younger age. Their lifespan and intelligence are above humans, contradicting some of the Gandew archaic-looking traditions—I guess it does depend on what you define as archaic. By the way, if you're the type who picks up fights when you get slouched, then you should avoid alcohol, as it's easier for a White Roundie to bring you a gold nugget than a Darfaries to say no to a fight. They also sport the largest Darfaries Veins compared to Wozefaries &amp; Sorefaries, so the sheer volume allows them to sense Soul Energy disturbances around them, plus a rough sensation of humidity, wind, and barometric pressure—it’s like how they say, if a Darfaries tells you to buy an umbrella, you better buy one!",
   "t": "ダルファリエスは、古代種同士の交配から進化した巨大な人型の種族だ。その頑なな態度から全員が嫌なやつだと思われがちだが、それほど悪くない者もいる。特に、若いうちにガンデュー王国を出て世界を旅した者はな。寿命も知能も人間を上回っていて、ガンデューの古くさく見える伝統の一部とは矛盾している——まあ、何を古くさいと考えるか次第なんだろう。ところで、酔うとケンカを売るタイプなら、酒は控えたほうがいい。ダルファリエスがケンカを断るより、ホワイトラウンディーが金塊を持ってきてくれるほうがまだありえるからな。ウォゼファリエス &amp; ソレファリエスと比べて最も大きなダルファリエスの血管を持っているので、その量のおかげで周囲の魂のエネルギーの乱れを感じ取れるうえ、湿度や風、気圧もだいたいわかる——よく言うだろう、ダルファリエスに傘を買えと言われたら、買っておいたほうがいい！"
  },
+ "273e5b3e9fa6": {
+  "en": "<strong>Habitat:</strong> mainly Flatland City, but all over the kingdoms when opportunity or curiosity strikes.",
+  "t": "<strong>生息地：</strong>主にフラットランド・シティだが、機会や好奇心に誘われれば王国じゅうどこにでも。"
+ },
+ "286314ca6c70": {
+  "en": "<strong>Skills:</strong> none.",
+  "t": "<strong>スキル：</strong>なし。"
+ },
+ "2bb853f5f023": {
+  "en": "<strong>Fauna:</strong> low-intelligence species.",
+  "t": "<strong>動物：</strong>知能の低い種。"
+ },
+ "2c090f32347f": {
+  "en": "<strong>Habitat:</strong> most places across the kingdoms. By far the most numerous species.",
+  "t": "<strong>生息地：</strong>王国じゅうのほとんどの場所。群を抜いて最も数の多い種。"
+ },
+ "300f826e1b24": {
+  "en": "<strong>Skills:</strong> they detect soul energy as an itchy back.",
+  "t": "<strong>スキル：</strong>魂のエネルギーを背中のかゆみとして感知する。"
+ },
+ "302031a913a6": {
+  "en": "<strong>Habitat:</strong> above Hifuna.",
+  "t": "<strong>生息地：</strong>ヒフナの上。"
+ },
+ "3045561c18a0": {
+  "en": "<strong>Habitat:</strong> the Buhraies Plains, an island where Endlessfog is now.",
+  "t": "<strong>生息地：</strong>ブライエス平原と、今のエンドレスフォグにあたる島。"
+ },
+ "31ebdbd0f86b": {
+  "en": "<strong>Habitat:</strong> most live among themselves in Cruro; a few go out exploring.",
+  "t": "<strong>生息地：</strong>ほとんどはクルロで仲間内で暮らしている。探検に出る者も少しいる。"
+ },
+ "31edabce19cf": {
+  "en": "<strong>Habitat:</strong> the lower regions.",
+  "t": "<strong>生息地：</strong>低地。"
+ },
  "38432af855f8": {
   "en": "Humans (Naked Bruntos)",
   "t": "人間（ネイキッド・ブルントス）"
  },
+ "38747d0135df": {
+  "en": "<strong>Food:</strong> carnivores.",
+  "t": "<strong>食べ物：</strong>肉食。"
+ },
  "3c49e26bc788": {
   "en": "Darfaries, Wozefaries and Sorefaries veins: the back of a blue-haired man, with fine red veins and with thick dark veins across the shoulders and arms.",
   "t": "ダルファリエス、ウォゼファリエス、ソレファリエスの血管：青髪の男性の背中。細い赤い血管と、肩と腕に走る太く黒っぽい血管。"
+ },
+ "3f302b94ea1c": {
+  "en": "A new race (see the World Timeline), from Lishies + Buhraies. Several recessive genes mean that, mixed with other species, some features may show while others don't. They can be born with a wide range of hair and eye colors; females tend to have lighter hues and males darker ones. Both men and women are small and youthful-looking. Darfaries consider them lesser beings. Their sweat smells and tastes mildly sweet, a natural, somewhat girly sweetness.",
+  "t": "リシエス＋ブライエスから生まれた新しい種族（世界の年表を参照）。いくつもの劣性遺伝子があるので、ほかの種と混ざると、現れる特徴もあれば現れない特徴もある。さまざまな髪と目の色で生まれることがあり、メスは明るめの色合い、オスは暗めの色合いになる傾向がある。男も女も小柄で若々しい見た目だ。ダルファリエスは彼らを劣った存在とみなしている。その汗はほんのり甘い匂いと味がする。自然な、どこか女の子っぽい甘さだ。"
+ },
+ "3fbf2786195c": {
+  "en": "<strong>Reproduction:</strong> about 7 months' gestation, 1 to 2 babies. Wozefaries + Darfaries = Sorefaries. Wozefaries + Wozefaries = Wozefaries, with a chance of Sorefaries. Wozefaries + human = a hybrid, born human-like but with soul energy capabilities closer to a Wozefaries', including their soul energy senses; whether they have the Darfaries interface shows which way their genes and magic lean.",
+  "t": "<strong>繁殖：</strong>妊娠期間は約 7 か月で、子は 1〜2 人。ウォゼファリエス＋ダルファリエス＝ソレファリエス。ウォゼファリエス＋ウォゼファリエス＝ウォゼファリエス、ソレファリエスの可能性もあり。ウォゼファリエス＋人間＝混血で、人間のような姿で生まれるが、魂のエネルギーの能力はウォゼファリエスに近く、魂のエネルギーの感覚も含む。ダルファリエスのインターフェースを持つかどうかで、遺伝子と魔力がどちらに傾いているかがわかる。"
+ },
+ "414cddf73c32": {
+  "en": "<strong>Interface:</strong> the Fuhraies Interface. Like a nerve, closer to the Darfaries interface than the Finaies one, and more \"animal\" in nature. They could use their bodies to send out waves to sense their surroundings, and even to talk to each other over distances.",
+  "t": "<strong>インターフェース：</strong>フライエス・インターフェース。神経のようなもので、フィナイエスのものよりダルファリエスのインターフェースに近く、性質はもっと「動物的」だ。体を使って波を送り出して周囲を感じ取り、離れた相手と話すことさえできた。"
+ },
+ "419e68e3a247": {
+  "en": "An ancient race (see the World Timeline), split off from the Finaies. After gaining a taste for blood, they grew ever more powerful in exchange for their physical strength, but their lust for power and curiosity made them incredibly smug and greedy. Inspired by vampires and trees.",
+  "t": "古代の種族（世界の年表を参照）で、フィナイエスから分かれた。血の味を覚えたあと、体の力と引き換えにますます強力になったが、権力欲と好奇心のせいで信じられないほど傲慢で強欲になった。吸血鬼と木から着想を得ている。"
+ },
+ "47a032962447": {
+  "en": "<strong>Food:</strong> meat.",
+  "t": "<strong>食べ物：</strong>肉。"
+ },
+ "47bfac45029c": {
+  "en": "With the most prominent veins, Darfaries finely sense soul energy disturbances around them, plus a rough feel for humidity, wind and air pressure. As they say, if a Darfaries tells you to buy an umbrella, you'd better buy one!",
+  "t": "最も目立つ血管を持つダルファリエスは、周囲の魂のエネルギーの乱れを細かく感じ取れるうえ、湿度や風や気圧もだいたいわかる。よく言うように、ダルファリエスが傘を買えと言ったら、買ったほうがいい！"
+ },
+ "48fc12ee22c0": {
+  "en": "<strong>Food:</strong> soul energy from the air.",
+  "t": "<strong>食べ物：</strong>空気中の魂のエネルギー。"
+ },
+ "4a4133108e97": {
+  "en": "<strong>Reproduction:</strong> about 15 months' gestation, 1 to 3 babies. Two Darfaries may have a Wozefaries instead. With a Wozefaries, a Sorefaries is born. With a human, the baby is born human-like but with the Darfaries' soul energy capabilities, sometimes with energy closer to a human's: whether they have the Darfaries interface shows which way their genes and magic lean.",
+  "t": "<strong>繁殖：</strong>妊娠期間は約 15 か月で、子は 1〜3 人。ダルファリエス同士でもウォゼファリエスが生まれることがある。ウォゼファリエスとの間にはソレファリエスが生まれる。人間との間では、赤ん坊は人間のような姿で、ダルファリエスの魂のエネルギーの能力を持って生まれるが、ときに人間に近いエネルギーのこともある。ダルファリエスのインターフェースを持つかどうかで、遺伝子と魔力がどちらに傾いているかがわかる。"
+ },
+ "4f691206e998": {
+  "en": "<strong>Food:</strong> blood and bone marrow.",
+  "t": "<strong>食べ物：</strong>血と骨髄。"
+ },
+ "508531493602": {
+  "en": "<strong>Intelligence:</strong> 1.5 times humans' in every faculty.",
+  "t": "<strong>知能：</strong>あらゆる能力で人間の 1.5 倍。"
+ },
+ "55c78835c0d3": {
+  "en": "<strong>Intelligence:</strong> similar to humans, but slightly more emotional.",
+  "t": "<strong>知能：</strong>人間に近いが、少し感情的。"
  },
  "5626f024f206": {
   "en": "Lishies answer a simple riddle “what if you removed the Darfaries interface from Darfaries and gave them a bunch of drugs instead?” That’s basically what this race is. They could not use their soul energy as they lacked an interface to pump it through or the knowledge to use it. Nobody knows exactly, but either way, they didn’t seem to care either, as their viciously tribalistic manners more than made up for it. You could cut off one of their arm and a leg, and they wouldn’t flinch as they tried to bash your head in, sodomize your corpse until you looked like swiss cheese, then skewer it to roast it nicely over a warm fire for extra crispiness—because you can’t let good meat go to waste! At least they really seem to have gone extinct after the fall of Ganyrami.",
@@ -43,6 +163,14 @@
   "en": "Darfaries, Wozefaries, and Sorefaries show the markings of controlled flight through Soul Energy specialized nerves that appear as veins, at least to the untrained eye, throughout the upper body.",
   "t": "ダルファリエス、ウォゼファリエス、ソレファリエスは、魂のエネルギーに特化した神経による制御された飛行の印を持っていて、その神経は少なくとも素人目には、上半身を走る血管のように見える。"
  },
+ "600db9109b49": {
+  "en": "From Vol 1, Chapter II: \"Its red bumpiness was warmer than the rest of her hand and had a certain toughness to it, but as his finger pressed slightly on it, it gave way to its squishiness.\"",
+  "t": "Vol 1 第 II 章より：「その赤いでこぼこは手のほかの部分より温かく、ある種の硬さがあったが、彼の指が軽く押すと、ふにゃりとした柔らかさに屈した」"
+ },
+ "64d4a02a37b6": {
+  "en": "<strong>Reproduction:</strong> about 14 months' gestation, 1 baby. Buhraies + humans = a baby that dies within a few months of birth.",
+  "t": "<strong>繁殖：</strong>妊娠期間は約 14 か月で、子は 1 人。ブライエス＋人間＝生後数か月以内に死ぬ赤ん坊。"
+ },
  "6716cb498154": {
   "en": "Fuhraies are the third off-branch from Finaies. They are considered extinct for all intents and purposes, but you might still find one living hidden away in the coldest regions around Fuhrair or old Fuhrair. They are peaceful, single-gendered creatures that appear to live thousands of years. Their only sustenance is the soul energy from their surroundings. Historians are always on the prowl to find one, but so do poachers. Luckily they speak Vraki like everyone else, and they have been an essential part of figuring out what happened before Buhraies summoned humans.",
   "t": "フライエスはフィナイエスから分かれた3番目の分派だ。事実上絶滅したと考えられているが、フライアや旧フライア周辺の最も寒い地域に隠れて暮らしている者が、まだ見つかるかもしれない。性別がひとつしかない穏やかな生き物で、何千年も生きるようだ。唯一の糧は周囲の魂のエネルギーだ。歴史家たちはいつも彼らを探し回っているが、密猟者も同じだ。幸い、彼らもみんなと同じくヴラキ語を話すので、ブライエスが人間を召喚する前に何が起きたのかを解き明かすうえで欠かせない存在になっている。"
@@ -51,9 +179,21 @@
   "en": "Buhraies is, without a doubt, the most notoriously famous ancient species. Not because everyone is a sucker to read books about them, but rather because their impact on the landscape, beasts, fauna, and even humans themselves was world-changing. The Buhraies plains, lukewarm lake, wood people, and so much more were created or modified by them. Now it begs the question: How did such stupendously amazing creatures that can supposedly bend soul energy to their will end up being chased away from their own home by mere humans? The answer for that is simple: don’t fucking underestimate others, especially when you’re stepping on their head, making them blood cattle, and experimenting away things that today few people would willingly subject themselves to. If they are still alive, they are probably far out west of Sundeath or deep in the southern forests.",
   "t": "ブライエスは、間違いなく最も悪名高い古代種だ。誰もが彼らについての本を読みたがるからではなく、風景、魔獣、動物、さらには人間そのものに与えた影響が世界を変えるほどだったからだ。ブライエス・プレーンズ、ルークウォーム湖、ウッドピープル、その他多くのものが、彼らによって作られたり変えられたりした。そこで疑問が湧く。魂のエネルギーを思いのままに操れるはずの、これほど途方もなくすごい生き物が、どうしてただの人間に自分の家から追い出されることになったのか？ 答えは簡単だ。他人をナメるな、クソが。特に、相手の頭を踏みつけ、血の家畜にし、今では自分から進んで受けようとする者などほとんどいないような実験をしているときにはな。まだ生きているとしたら、たぶんサンデスのはるか西か、南の森の奥深くにいるだろう。"
  },
+ "6d680b8b5e6e": {
+  "en": "They can neutralize any kind of soul energy by putting their saliva on it.",
+  "t": "唾液をつけることで、どんな種類の魂のエネルギーでも打ち消せる。"
+ },
  "6db46e3f62da": {
   "en": "New Races",
   "t": "新しい種族"
+ },
+ "71498766409e": {
+  "en": "<strong>Skills:</strong> the Darfaries veins (see Darfaries), with the same black flame, senses and saliva. They glide longer than Darfaries and can dampen a fall from up to ten stories.",
+  "t": "<strong>スキル：</strong>ダルファリエスの血管（ダルファリエスを参照）で、同じ黒い炎、感覚、唾液を持つ。ダルファリエスより長く滑空でき、十階建てまでの高さからの落下を和らげられる。"
+ },
+ "715ec77d599e": {
+  "en": "<strong>Reproduction:</strong> about 9 months' gestation, 1 to 5 kids per birth.",
+  "t": "<strong>繁殖：</strong>妊娠期間は約 9 か月で、一度の出産で子は 1〜5 人。"
  },
  "72e50e079fee": {
   "en": "Buhraies Interface",
@@ -63,13 +203,41 @@
   "en": "Primordial Races",
   "t": "原初の種族"
  },
+ "75b524c0aa45": {
+  "en": "<strong>Intelligence:</strong> most are about as smart as a dog and act mostly on instinct. The few intelligent ones communicate through drawings, and some become tribe leaders. A few highly intelligent ones go out to explore and mingle with humans, and understand concepts like money, law and work. Most Cruros aren't deaf: the smarter ones hear Vraki just fine but struggle to enunciate anything, so they scribble it down (a group of Cruros writing in their journals and showing each other, in Vol 2) or use head movements. Some people communicate with them through different noises that stand for different things, depending on how much friendship and history they share. Guardedness is a universal trait.",
+  "t": "<strong>知能：</strong>ほとんどは犬くらいの賢さで、主に本能で動く。わずかな賢い者は絵で意思を伝え、部族の長になる者もいる。とても知能の高い数少ない者は、探検に出て人間と交わり、お金や法や仕事といった概念を理解する。ほとんどのクルロは耳が聞こえないわけではない。賢い者はヴラキ語を問題なく聞き取れるが、何かをはっきり発音するのに苦労するので、走り書きするか（Vol 2 で、クルロの一団が帳面に書いて互いに見せ合っている）、頭の動きを使う。友情と歴史の深さによって、さまざまなことを表すいろいろな音で彼らと意思を通わせる人々もいる。用心深さは誰にでも共通する特徴だ。"
+ },
+ "7a7390057268": {
+  "en": "They can feel any leftover soul energy signature as a tingling, by smell, by taste, or in their sexual organs.",
+  "t": "残った魂のエネルギーの痕跡は、ちくちくする感覚として、匂いで、味で、あるいは性器で感じ取れる。"
+ },
+ "7de3335974b8": {
+  "en": "The whole species shows the marks of controlled flight: soul-energy organs in the form of veins across the upper body. They aren't actually veins, but nerves, and the skin there is more sensitive than normal. Darfaries, Wozefaries and Sorefaries all have them; Darfaries have the largest.",
+  "t": "この種全体が、制御された飛行の印を持っている。上半身を走る血管の形をした魂のエネルギーの器官だ。実際には血管ではなく神経で、その部分の肌はふつうより敏感だ。ダルファリエス、ウォゼファリエス、ソレファリエスは皆それを持っていて、ダルファリエスのものが最も大きい。"
+ },
  "7e67001b3cd6": {
   "en": "Finaies are known as the primordial race. All other intellectual beasts, except humans, came from them in one shape or another. They are weak in one-to-one combat, but they have strength in numbers as they can willingly share or suck soul energy from anyone and anything. Rumors are that there’s still some left north of Hifuna, but getting there is likely impossible, even if you go there through the desert or the ocean instead. Only truly crazy people would dare. Everything that is known about them came through stealing ancient species’ knowledge, so it is believed to be slanted in quite a negative light. Or not. One day people will figure it out.",
   "t": "フィナイエスは原初の種族として知られている。人間を除く他のすべての知性ある獣は、何らかの形で彼らから生まれた。一対一の戦いには弱いが、誰からでも何からでも思いのままに魂のエネルギーを分け与えたり吸い取ったりできるので、数の力がある。ヒフナの北にまだ一部が残っているという噂だが、砂漠を通ろうが海を通ろうが、そこへたどり着くのはおそらく不可能だ。本当にイカれた者でなければ挑まないだろう。彼らについて知られていることはすべて古代種の知識を盗んで得たものなので、かなり否定的に偏っていると考えられている。あるいは、そうじゃないかもしれない。いつか人々が真相を突き止めるだろう。"
  },
+ "88e8795c7e16": {
+  "en": "A new race (see the World Timeline): Homo sapiens.",
+  "t": "新しい種族（世界の年表を参照）：ホモ・サピエンス。"
+ },
  "8e21a0fc1d5f": {
   "en": "Finaies are known as the primordial race. All other intellectual beasts, except humans, came from them in one shape or another.",
   "t": "フィナイエスは原初の種族として知られている。人間を除く他のすべての知性ある獣は、何らかの形で彼らから生まれた。"
+ },
+ "92433d6a4dc6": {
+  "en": "<strong>Beasts:</strong> mildly intelligent species, or highly dangerous beasts.",
+  "t": "<strong>魔獣：</strong>ほどほどの知能を持つ種、またはきわめて危険な魔獣。"
+ },
+ "95dce482ee13": {
+  "en": "<strong>Reproduction:</strong> sterile, because of a conflict between some recessive genes.",
+  "t": "<strong>繁殖：</strong>一部の劣性遺伝子の衝突のせいで、不妊。"
+ },
+ "96e2977d0370": {
+  "en": "<strong>Habitat:</strong> Flatland City, and all over the kingdoms thanks to adventurers.",
+  "t": "<strong>生息地：</strong>フラットランド・シティ、そして冒険者のおかげで王国じゅう。"
  },
  "996e5519c2c4": {
   "en": "Carnivores",
@@ -79,9 +247,45 @@
   "en": "Races",
   "t": "種族"
  },
+ "9b7ae1ea6a74": {
+  "en": "<strong>Language:</strong> Vraki, through writing. Otherwise none, though some grunts work among themselves as generic cues (happy, sad).",
+  "t": "<strong>言語：</strong>書き言葉でのヴラキ語。それ以外はないが、いくつかのうなり声は仲間内で一般的な合図（うれしい、悲しい）として通じる。"
+ },
+ "9e83aa427183": {
+  "en": "<strong>Interface:</strong> the Darfaries Interface.",
+  "t": "<strong>インターフェース：</strong>ダルファリエス・インターフェース。"
+ },
+ "9f4adbe6d06d": {
+  "en": "<strong>Nature:</strong> emotionally charged, somewhat childish, territorial and long-lived.",
+  "t": "<strong>性質：</strong>感情的で、どこか子どもっぽく、縄張り意識が強く、長命。"
+ },
  "a181e8fc79bb": {
   "en": "Humans, also known as Naked Bruntos, are de facto the biggest race out there. From what scientists have pieced together from what was left of the Buhraies civilization, humans were either created or somehow manipulated from within the soul as an evolution from Bruntos—a monkey specimen that is also foreign to the land. The genuine reasons for Bunhraies doing all of this are still debated today, from playthings to blood cattle or pure research to ground troops for attacking Lishies—or maybe them all since Buhraies didn't share a collective mindset. Either way, humans grew uncontrollable despite their harsh situation. Eventually, they threw off the balance of life of the ancient species and nearly wiped everything off the map, almost itself in the process as well, given all the humans killing each other after Ganyrami fell. Luckily, the Prosperity Treaty put a stop to all the bloodshed—at least the worst of it.",
   "t": "人間、別名ネイキッド・ブルントスは、事実上最大の種族だ。ブライエス文明の残骸から科学者たちがつなぎ合わせたところによれば、人間は、この土地にとってやはり外来のサルの一種であるブルントスからの進化として、作られたか、あるいは魂の内側から何らかの形で操作されたものだという。ブンライエスがこんなことをした本当の理由は、おもちゃ、血の家畜、純粋な研究、リシエスを攻撃するための歩兵——あるいは、ブライエスは集団としての考え方を共有していなかったので、そのすべてかもしれない——と、今も議論が続いている。いずれにせよ、人間は過酷な境遇にもかかわらず手に負えなくなった。やがて古代種の生命のバランスを崩し、地図からほとんどすべてを消し去りかけ、ガニラミ陥落のあと互いに殺し合ったことを考えれば、その過程で自分たちまで消えかけた。幸い、プロスペリティ・トリーティがすべての流血に——少なくとも最悪のものに——終止符を打った。"
+ },
+ "a2692fdb5109": {
+  "en": "<strong>Skills:</strong> the Darfaries veins (see Darfaries), with the same flames, senses and saliva. Sorefaries can control their altitude at will.",
+  "t": "<strong>スキル：</strong>ダルファリエスの血管（ダルファリエスを参照）で、同じ炎、感覚、唾液を持つ。ソレファリエスは高度を意のままに制御できる。"
+ },
+ "a3ae0674cf4e": {
+  "en": "The primordial race (see the World Timeline). Inspired by trees.",
+  "t": "原初の種族（世界の年表を参照）。木から着想を得ている。"
+ },
+ "a7cb04099068": {
+  "en": "<strong>Skills:</strong> elemental control.",
+  "t": "<strong>スキル：</strong>元素の操作。"
+ },
+ "a8f939a6fe4d": {
+  "en": "See the World Timeline and Cruro. Crocus became their pets. They make weird throat sounds that other Cruros and Crocus seem to understand, mostly to send others to attack or to stop. Cruros aren't citizens of the Four Kingdoms by default, until they join the Half-Cruro guild. Inspired by the <a href=\"https://simple.wikipedia.org/wiki/Crurotarsi\" rel=\"noopener\">Crurotarsi</a>.",
+  "t": "世界の年表とクルロを参照。クロッカスは彼らのペットになった。ほかのクルロとクロッカスが理解しているらしい奇妙な喉の音を出し、主にほかの者に攻撃させたり、止めさせたりするのに使う。クルロは、ハーフ・クルロ・ギルドに加わるまでは、もともと四王国の市民ではない。<a href=\"https://simple.wikipedia.org/wiki/Crurotarsi\" rel=\"noopener\">クルロタルシ類</a>から着想を得ている。"
+ },
+ "aabf87a3803f": {
+  "en": "<strong>Habitat:</strong> snowy mountains.",
+  "t": "<strong>生息地：</strong>雪山。"
+ },
+ "adabc91be59e": {
+  "en": "<strong>Reproduction:</strong> every year, a female lays a dozen or so eggs.",
+  "t": "<strong>繁殖：</strong>毎年、メスが十数個の卵を産む。"
  },
  "adc5a6ab70d6": {
   "en": "Due to their size, Darfaries cannot fly, but they can somewhat dampen their fall from approximately three-story buildings. Wozefaries can dampen their fall from up to ten-story buildings, while Sorefaries can control their attitude at will.",
@@ -91,9 +295,17 @@
   "en": "Magi: front and back views of a dark-haired archer girl in a pink-and-white outfit with a quiver, plus face sketches.",
   "t": "マギ：矢筒を背負ったピンクと白の衣装の黒髪の弓使いの少女の前と後ろ。顔のスケッチ付き。"
  },
+ "b157bac88b5e": {
+  "en": "<strong>Interface:</strong> the Cruros Interface, inherited from the Crocus (see Fauna › Crocus), but using their hair: it lifts into the air like static and waves as soul fire envelops it, rushing through their body into the target, or through their own body to physically tweak them. They still have the invisibility skill, but most can't hold it for more than a few minutes, unlike the Crocus.",
+  "t": "<strong>インターフェース：</strong>クルロ・インターフェース。クロッカスから受け継いだもの（動物 › クロッカスを参照）だが、毛を使う。毛は静電気のように宙に浮き上がり、魂の炎に包まれて揺れ、体を駆け抜けて標的へ、あるいは自分の体を通って体を物理的に調整する。透明化のスキルもまだ持っているが、クロッカスと違って、ほとんどは数分以上保てない。"
+ },
  "b41bb83c3cf4": {
   "en": "Given Darfaries sport the most prominent Darfaries veins, its sheer additional volume allows them to finely sense Soul Energy disturbances around them, plus a rough sensation of humidity, wind, and barometric pressure—it’s like how they say, if a Darfaries tells you to buy an umbrella, you better buy one!",
   "t": "ダルファリエスは最も目立つダルファリエスの血管を持っているので、その量の多さのおかげで、周囲の魂のエネルギーの乱れを細かく感じ取れるうえ、湿度や風、気圧もだいたいわかる——よく言うだろう、ダルファリエスに傘を買えと言われたら、買っておいたほうがいい！"
+ },
+ "b6df53bcf353": {
+  "en": "<strong>Food:</strong> omnivores.",
+  "t": "<strong>食べ物：</strong>雑食。"
  },
  "b8f49c632c57": {
   "en": "Wozefaries: a green-haired woman in an orange top, a dark-haired man in a light-blue shirt, and a green-haired woman in pink waving.",
@@ -107,6 +319,10 @@
   "en": "Wozefaries",
   "t": "ウォゼファリエス"
  },
+ "c0ad03f6d531": {
+  "en": "What looks like a tattoo isn't one: Sorefaries have Darfaries veins, in the soul itself, like Wozefaries and Darfaries. Like Darfaries, they show a black flame on them when they fly (as in the Vol 1 illustration). They fly using the interface itself as lift, with their feet floating free to help with their center of mass.",
+  "t": "刺青のように見えるものは刺青ではない。ソレファリエスは、ウォゼファリエスやダルファリエスと同じように、魂そのものにダルファリエスの血管を持っている。ダルファリエスと同じように、飛ぶときにはそこに黒い炎を見せる（Vol 1 の挿絵のように）。インターフェースそのものを揚力にして飛び、足は重心を保つ助けのために自由に浮かせている。"
+ },
  "c345a59156ce": {
   "en": "Omnivores",
   "t": "雑食動物"
@@ -115,24 +331,88 @@
   "en": "Darfaries Veins",
   "t": "ダルファリエスの血管"
  },
+ "c4c0bf7420e0": {
+  "en": "<strong>Habitat:</strong> mostly the Gandew Kingdom, but some live elsewhere, since not every Darfaries agrees with the Gandew rules.",
+  "t": "<strong>生息地：</strong>主にガンデュー王国だが、すべてのダルファリエスがガンデューの決まりに賛成しているわけではないので、よそに住む者もいる。"
+ },
+ "cc1c6bd945fd": {
+  "en": "<strong>Races:</strong> species with intelligence near or above humans'.",
+  "t": "<strong>種族：</strong>人間に近いか、それ以上の知能を持つ種。"
+ },
+ "cc8506f58742": {
+  "en": "A new race (see the World Timeline), from Lishies + Buhraies. They can be born with a wide range of hair and eye colors; females tend to have lighter hues and males darker ones. Both men and women are tall and muscular.",
+  "t": "リシエス＋ブライエスから生まれた新しい種族（世界の年表を参照）。さまざまな髪と目の色で生まれることがあり、メスは明るめの色合い、オスは暗めの色合いになる傾向がある。男も女も背が高く筋肉質だ。"
+ },
+ "cdee3a0cd34f": {
+  "en": "<strong>Language:</strong> an old version of Vraki, like really old English, hard to understand.",
+  "t": "<strong>言語：</strong>古い形のヴラキ語。本当に古い英語のようなもので、理解しにくい。"
+ },
+ "d1e32c80fa92": {
+  "en": "<strong>Language:</strong> Vraki.",
+  "t": "<strong>言語：</strong>ヴラキ語。"
+ },
  "d55c0e048abe": {
   "en": "Races · #HusbandOutWorld",
   "t": "種族 · #HusbandOutWorld"
+ },
+ "d8493e040998": {
+  "en": "<strong>Intelligence:</strong> like a 5-year-old's. Energetic by nature and highly emotional; they can control some of their emotional outbursts, but not all. Great companions if trained in Flatland City, and their keen hearing makes them great for adventurers and hunters.",
+  "t": "<strong>知能：</strong>5 歳児くらい。生まれつき元気いっぱいでとても感情的で、感情の爆発の一部は抑えられるが、全部ではない。フラットランド・シティで訓練されればすばらしい相棒になり、鋭い聴覚のおかげで冒険者や狩人にもってこいだ。"
  },
  "d9e4ab351f75": {
   "en": "Wozefaries are basically a smaller version of Darfaries, with intelligence and lifespan closer to a human's, with most of them having a petite, weaker build. Their protruding bottom teeth are also not as protruding as Darfaries, and they tend to be much more willing to strike up a conversation with a stranger at a bar. They seem more flexible and independent overall—although this is likely led more due to environmental factors than genes as all Wozefaries (and Sorefaries) born in Gandew are thrown out of the Goodbye Cliff and have to grow up in Flatland orphanages.",
   "t": "ウォゼファリエスは基本的にダルファリエスを小さくしたもので、知能と寿命は人間に近く、ほとんどが小柄で華奢な体つきだ。下の歯の突き出し方もダルファリエスほどではなく、バーで見知らぬ人と話し始める気安さはずっと上だ。全体的に柔軟で自立しているようだ——ただし、これは遺伝子より環境の影響のほうが大きいのだろう。ガンデューで生まれたウォゼファリエス（とソレファリエス）は全員グッバイ・クリフから放り出され、フラットランドの孤児院で育たなければならないからだ。"
  },
+ "e13f44cb79c4": {
+  "en": "Races (World Lore illustration)",
+  "t": "種族（世界観イラスト）"
+ },
+ "e25a8a446850": {
+  "en": "<strong>Reproduction:</strong> pollination between females, by rubbing on one another.",
+  "t": "<strong>繁殖：</strong>メス同士で体をこすり合わせることによる受粉。"
+ },
  "e77a01f9d226": {
   "en": "Public text: races.md",
   "t": "公開テキスト：races.md"
+ },
+ "ec37642cf93f": {
+  "en": "<strong>Food:</strong> tree sap.",
+  "t": "<strong>食べ物：</strong>樹液。"
+ },
+ "ecc63806bbbe": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Races.md\">Legacy/Behind The Scenes/World Lore/Races.md</a>",
+  "t": "出典：<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Races.md\">Legacy/Behind The Scenes/World Lore/Races.md</a>"
+ },
+ "ed21b216fbc3": {
+  "en": "Darfaries veins",
+  "t": "ダルファリエスの血管"
+ },
+ "ef04602400f1": {
+  "en": "<strong>Reproduction:</strong> about 6 months' gestation, 1 to 3 babies. Lishies + humans = nothing.",
+  "t": "<strong>繁殖：</strong>妊娠期間は約 6 か月で、子は 1〜3 人。リシエス＋人間＝何も生まれない。"
  },
  "f0514defd7df": {
   "en": "Cruros: a male and a female lizard-like humanoid with spiky green crests, pale bellies and long tails.",
   "t": "クルロ：ツンツンの緑のトサカ、淡い色の腹、長い尾を持つ、トカゲのような人型のオスとメス。"
  },
+ "f5d22ca3fa79": {
+  "en": "A new race (see the World Timeline), from Lishies + Buhraies. Genetically, they're the result of different genes conflicting with each other, and Darfaries consider them an abomination. Several recessive genes mean that, mixed with other species, some features may show while others don't. They can be born with a wide range of hair and eye colors; females tend to have lighter hues and males darker ones. They're small, childlike, and capable of flight. Their sweat smells floral.",
+  "t": "リシエス＋ブライエスから生まれた新しい種族（世界の年表を参照）。遺伝的には、さまざまな遺伝子が互いに衝突した結果で、ダルファリエスは彼らを忌まわしいものとみなしている。いくつもの劣性遺伝子があるので、ほかの種と混ざると、現れる特徴もあれば現れない特徴もある。さまざまな髪と目の色で生まれることがあり、メスは明るめの色合い、オスは暗めの色合いになる傾向がある。小柄で子どものようで、飛ぶことができる。その汗は花の香りがする。"
+ },
+ "f904ae75ad85": {
+  "en": "<strong>Intelligence:</strong> the same as in our world.",
+  "t": "<strong>知能：</strong>私たちの世界と同じ。"
+ },
  "fdfc5e96aecc": {
   "en": "Sorefaries",
   "t": "ソレファリエス"
+ },
+ "fec72cdfcf33": {
+  "en": "<strong>Skills:</strong> a powerful soul energy interface, with extensive experimentation. Because they focused so much on controlling the soul itself, some gained control over their own soul: they could shape-shift, reattach their soul to another living body, and even talk to someone else through a kind of quantum entanglement, on a soul level. It was very tricky, though, and they had an incredibly hard time teaching and spreading these skills, because each soul is unique.",
+  "t": "<strong>スキル：</strong>広範な実験に裏打ちされた、強力な魂のエネルギーのインターフェース。魂そのものを操ることにあまりに集中したので、自分自身の魂を操れるようになった者もいた。姿を変えたり、自分の魂を別の生きた体につなぎ直したり、魂のレベルでの一種の量子もつれを通じて誰かと話したりさえできた。もっとも、それはとても難しく、魂はそれぞれ唯一無二なので、こうした技能を教え広めるのには信じられないほど苦労した。"
+ },
+ "ffb7db3dfbad": {
+  "en": "An ancient race (see the World Timeline). Inspired by snow elves and trees.",
+  "t": "古代の種族（世界の年表を参照）。雪のエルフと木から着想を得ている。"
  }
 }

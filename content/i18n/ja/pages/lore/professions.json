@@ -79,6 +79,14 @@
   "en": "Tier VI Professions",
   "t": "ティア VI の職業"
  },
+ "0f2afddf1f32": {
+  "en": "<strong>Duties:</strong> extract stone from quarries.",
+  "t": "<strong>仕事：</strong>採石場から石を切り出す。"
+ },
+ "118ca2335b44": {
+  "en": "<strong>Duties:</strong> prepare for fishing, fish, clean the fish and carry it off the boat.",
+  "t": "<strong>仕事：</strong>漁の支度をし、魚を捕り、魚をさばいて船から運び出す。"
+ },
  "1247f153760d": {
   "en": "Tier II Professions",
   "t": "ティア II の職業"
@@ -147,6 +155,10 @@
   "en": "Famous Courtesans",
   "t": "有名な高級娼婦"
  },
+ "2be7482d961c": {
+  "en": "<strong>Duties:</strong> plow fields, harvest, fertilize and mill grain.",
+  "t": "<strong>仕事：</strong>畑を耕し、収穫し、肥料をやり、穀物を挽く。"
+ },
  "2c74044a7e3b": {
   "en": "<strong>Duties:</strong> handle livestock and crops, and get dirty on the job. Maybe handle a person or two, but usually just guild members.",
   "t": "<strong>仕事：</strong>家畜と作物を扱い、仕事で泥にまみれる。一人か二人の人を扱うこともあるが、たいていはギルドの仲間だけだ。"
@@ -187,6 +199,10 @@
   "en": "Tier V Professions",
   "t": "ティア V の職業"
  },
+ "32c032c2d5a1": {
+  "en": "<strong>Duties:</strong> take care of eguas, groom and feed them, and help with egua births.",
+  "t": "<strong>仕事：</strong>エグアの世話をし、毛づくろいと餌やりをし、出産を手伝う。"
+ },
  "32ed08835c99": {
   "en": "Lumberjack",
   "t": "木こり"
@@ -215,6 +231,10 @@
   "en": "<strong>Duties:</strong> fix and clean boats.",
   "t": "<strong>仕事：</strong>船を直し、掃除する。"
  },
+ "39973efcf6c4": {
+  "en": "<strong>History:</strong> richer districts of cities and kingdoms often employ street cleaners, usually paid by the people living in the area rather than the government (depending on how the kingdom is organized).",
+  "t": "<strong>由来：</strong>都市や王国の裕福な地区では、よく道路清掃員を雇う。たいてい政府ではなく、その地域に住む人々が給料を払う（王国の組織のされ方による）。"
+ },
  "3aa5b22c7b20": {
   "en": "The third richest people in the world. Their power reaches a city at most.",
   "t": "世界で三番目に裕福な人々。その力は最大で一都市に及ぶ。"
@@ -234,6 +254,10 @@
  "3de66eb212b0": {
   "en": "<strong>Training:</strong> Fundamental School helps, but this is self-employed, so you do you.",
   "t": "<strong>訓練：</strong>基礎学校は役に立つが、これは自営業なので、好きにやればいい。"
+ },
+ "3f5701b74569": {
+  "en": "<strong>History:</strong> people like meat, so someone needs to gut the animals and make sausages.",
+  "t": "<strong>由来：</strong>人は肉が好きなので、誰かが動物のはらわたを抜いてソーセージを作らなければならない。"
  },
  "4023098315ae": {
   "en": "Road Maintainers",
@@ -287,6 +311,10 @@
   "en": "<strong>Duties:</strong> keep the balance between food orders and meat and milk sales, etc. Also takes care of the Woolies when time allows.",
   "t": "<strong>仕事：</strong>餌の注文と、肉や乳の売り上げなどの釣り合いを保つ。時間があればウーリーの世話もする。"
  },
+ "4a3cac295494": {
+  "en": "<strong>Duties:</strong> clean latrines.",
+  "t": "<strong>仕事：</strong>便所を掃除する。"
+ },
  "4a693b717f91": {
   "en": "<strong>Duties:</strong> take care of the kingdom, working directly under the courtroom scientists.",
   "t": "<strong>仕事：</strong>宮廷科学者の直属で、王国の面倒を見る。"
@@ -294,6 +322,10 @@
  "4aecf373d658": {
   "en": "Artisan Cheesemaker",
   "t": "職人のチーズ職人"
+ },
+ "4cbf0ebcab36": {
+  "en": "<strong>History:</strong> carrying around water-filled fruit is expensive and stupid, so these people come into play.",
+  "t": "<strong>由来：</strong>水気たっぷりの果物を持ち歩くのは高くつくし、ばかげているので、こうした人々の出番になる。"
  },
  "4cc0e4e2b542": {
   "en": "<strong>History:</strong> because some cheese tastes better than others.",
@@ -451,6 +483,10 @@
   "en": "<strong>Training:</strong> Fundamental School and Historian/Teaching School.",
   "t": "<strong>訓練：</strong>基礎学校と歴史家／教育学校。"
  },
+ "735d6ad94d9e": {
+  "en": "<strong>Duties:</strong> see Natural &amp; Crafted Resources.",
+  "t": "<strong>仕事：</strong>自然と加工の資源を参照。"
+ },
  "7506752cedeb": {
   "en": "Wood/Stone Worker",
   "t": "木工／石工"
@@ -458,6 +494,10 @@
  "7510681254ef": {
   "en": "Historians/Teachers",
   "t": "歴史家／教師"
+ },
+ "76e3a446b863": {
+  "en": "<strong>Average pay:</strong> 1 Pearl an hour, for apprentices and masters alike.",
+  "t": "<strong>平均給料：</strong>見習いも親方も 1 時間 1 パール。"
  },
  "7944c42b1f36": {
   "en": "The second richest people in the world. Their power reaches a region at most.",
@@ -483,9 +523,17 @@
   "en": "Large Farm Owner",
   "t": "大農場主"
  },
+ "8735f4858edd": {
+  "en": "<strong>Duties:</strong> extract wood from forests.",
+  "t": "<strong>仕事：</strong>森から木を切り出す。"
+ },
  "87af01bd9c7e": {
   "en": "Sanbi Eye",
   "t": "サンビ・アイ"
+ },
+ "8869272e670d": {
+  "en": "<strong>Duties:</strong> make vellum from animal skin, and paper from wood pulp.",
+  "t": "<strong>仕事：</strong>動物の皮から羊皮紙を、木のパルプから紙を作る。"
  },
  "893b7a9113f6": {
   "en": "<strong>Duties:</strong> housekeeping. How far it goes depends on the household and the maid's prestige: from more \"normal\" maids, up to someone like Eiri, a King-Maid, whose job extends into finances, cooking, cleaning and taxes.",
@@ -515,9 +563,17 @@
   "en": "<strong>History:</strong> someone has to take care of the dead, especially once people develop complex rituals.",
   "t": "<strong>由来：</strong>誰かが死者の面倒を見なければならない。とくに人々が複雑な儀式を発達させてからは。"
  },
+ "904f51b879b7": {
+  "en": "<strong>Duties:</strong> take care of the lighthouse: pump water into the fost stone, replace the stone, etc.",
+  "t": "<strong>仕事：</strong>灯台の世話をする。フォストストーンに水をくみ入れ、石を取り替えるなど。"
+ },
  "90a167603476": {
   "en": "<strong>Training:</strong> knowing how to read speeds up going from apprentice to master; otherwise, learn on the job.",
   "t": "<strong>訓練：</strong>字が読めれば見習いから親方への道が早くなる。そうでなければ、仕事をしながら覚える。"
+ },
+ "9211c4167577": {
+  "en": "<strong>History:</strong> one of the earliest jobs in existence.",
+  "t": "<strong>由来：</strong>存在する最も古い仕事のひとつ。"
  },
  "9312d57b974b": {
   "en": "<strong>Training:</strong> Tailoring School.",
@@ -527,9 +583,17 @@
   "en": "How much of this applies depends on how the kingdom is organized.",
   "t": "どこまで当てはまるかは、王国の組織のされ方による。"
  },
+ "9866309d4236": {
+  "en": "<strong>History:</strong> paper is half the battle, so someone needs to make the ink and the wax.",
+  "t": "<strong>由来：</strong>紙があれば半分は片づいたも同然なので、誰かがインクと蝋を作らなければならない。"
+ },
  "9b85c6e5d0b9": {
   "en": "<strong>Duties:</strong> keep the peace, assist in investigations and help medics. Also coordinate nari stone usage, work with adventurers, and coordinate with the King and courtroom scientists (depending on how the kingdom is organized).",
   "t": "<strong>仕事：</strong>平和を保ち、捜査を手伝い、医者を助ける。ナリストーンの使用を取りまとめ、冒険者と協力し、王や宮廷科学者と連携する（王国の組織のされ方による）。"
+ },
+ "9bb4137522b5": {
+  "en": "<strong>Training:</strong> learn on the job; no reading required.",
+  "t": "<strong>訓練：</strong>仕事をしながら覚える。字が読める必要はない。"
  },
  "9cc2644f0b21": {
   "en": "<strong>Duties:</strong> handle egua births and health, and manage the stable business.",
@@ -567,13 +631,29 @@
   "en": "Street Cleaner",
   "t": "道路清掃員"
  },
+ "a69d012911c6": {
+  "en": "<strong>Duties:</strong> treat leather and animal skin for dresses, weapons and vellum.",
+  "t": "<strong>仕事：</strong>ドレスや武器や羊皮紙のために、革と動物の皮を処理する。"
+ },
+ "aa5928af8f30": {
+  "en": "<strong>History:</strong> works alongside butchers to treat game skin and bones.",
+  "t": "<strong>由来：</strong>肉屋と一緒に働いて、獲物の皮と骨を処理する。"
+ },
  "aaacdfb70de3": {
   "en": "<strong>Training:</strong> Fundamental School isn't required, but it's really hard to do without.",
   "t": "<strong>訓練：</strong>基礎学校は必須ではないが、なしでやるのは本当に難しい。"
  },
+ "ab43b4c49d47": {
+  "en": "<strong>History:</strong> as eguas were domesticated, people were needed to handle them.",
+  "t": "<strong>由来：</strong>エグアが家畜化されると、それを扱う人々が必要になった。"
+ },
  "ac2b1387dbe5": {
   "en": "<strong>History:</strong> someone who takes merchanting extremely seriously.",
   "t": "<strong>由来：</strong>商売をとことん真剣に考える人。"
+ },
+ "ac55d9500a19": {
+  "en": "<strong>Duties:</strong> drive egua carts from city to city, carrying basic goods.",
+  "t": "<strong>仕事：</strong>エグアの荷車を都市から都市へと走らせ、基本的な品物を運ぶ。"
  },
  "acab31af4a94": {
   "en": "Blacksmiths",
@@ -602,6 +682,22 @@
  "b44d69d8fd77": {
   "en": "<strong>Duties:</strong> read, play and write songs.",
   "t": "<strong>仕事：</strong>歌を読み、演奏し、書く。"
+ },
+ "b45bc2b2a503": {
+  "en": "<strong>History:</strong> an easy job, but kind of boring, and slightly dangerous at times.",
+  "t": "<strong>由来：</strong>楽な仕事だが、ちょっと退屈で、ときには少し危険。"
+ },
+ "b510917433fe": {
+  "en": "<strong>Duties:</strong> dry fruits, herbs and plenty more for transport.",
+  "t": "<strong>仕事：</strong>運ぶために果物や薬草などをたくさん乾燥させる。"
+ },
+ "b6070e32bbe6": {
+  "en": "<strong>Duties:</strong> mine ore, open tunnels and carry the ore to the surface.",
+  "t": "<strong>仕事：</strong>鉱石を掘り、トンネルを開き、鉱石を地上へ運ぶ。"
+ },
+ "b867944bc051": {
+  "en": "<strong>Duties:</strong> hunt prey, butcher it, and bring it back somewhere to sell.",
+  "t": "<strong>仕事：</strong>獲物を狩り、解体し、売れる場所へ持ち帰る。"
  },
  "bad034722d1e": {
   "en": "Butcher",
@@ -675,9 +771,17 @@
   "en": "<strong>History:</strong> wherever humans live, history soon follows, filling libraries. But some history was lost during the Greed Period, when wars raged for a long time, and tons more because before Ganyrami it was mostly passed by word of mouth among humans. The Darfaries burned their own history, which makes the past kind of sketchy. And some people don't care about history, because they prefer living in the present. So people in this profession usually teach at the fundamental level to earn a livable wage while they pursue research nobody is funding.",
   "t": "<strong>由来：</strong>人間の住むところには、すぐに歴史が生まれ、図書館を満たす。だが一部の歴史は、戦争が長く荒れ狂ったグリード・ピリオドの間に失われ、ガニラミ以前は人間の間で主に口伝えだったので、さらに大量の歴史が失われた。ダルファリエスは自分たちの歴史を焼き払ったので、過去はちょっとあやふやだ。そして、今を生きるほうが好きなので、歴史を気にしない人もいる。だからこの職業の人々は、誰も資金を出さない研究を続けながら暮らしていける給料を稼ぐために、たいてい基礎のレベルで教えている。"
  },
+ "d86a0b9b9510": {
+  "en": "<strong>Duties:</strong> skin game for tanners, slice game, cure meat, etc.",
+  "t": "<strong>仕事：</strong>皮なめし職人のために獲物の皮をはぎ、獲物を切り分け、肉を塩漬けにするなど。"
+ },
  "da654b0ff3a4": {
   "en": "<strong>Training:</strong> Fundamental School and Cooking School.",
   "t": "<strong>訓練：</strong>基礎学校と料理学校。"
+ },
+ "dc0cff2c2774": {
+  "en": "<strong>History:</strong> cleans latrines and cesspits.",
+  "t": "<strong>由来：</strong>便所と汚水だめを掃除する。"
  },
  "e08eaff25c85": {
   "en": "Stable Hand Manager",
@@ -722,6 +826,18 @@
  "e9b43d11425b": {
   "en": "City Guard",
   "t": "都市衛兵"
+ },
+ "eec4b8a22e47": {
+  "en": "The sixth richest people in the world. Their power is none.",
+  "t": "世界で六番目に裕福な人々。その力はない。"
+ },
+ "f2e56469294d": {
+  "en": "<strong>History:</strong> one of the earliest jobs in existence: hunting in the nearby woods, a quite dangerous job. Mostly replaced by adventurer hunting, since hunters on their own don't have the safety net adventurers have with the embassies.",
+  "t": "<strong>由来：</strong>存在する最も古い仕事のひとつ：近くの森での狩りで、かなり危険な仕事だ。狩人だけでは冒険者が大使館で得られる安全網がないので、ほとんどは冒険者の狩りに取って代わられた。"
+ },
+ "f3c4e3eb138e": {
+  "en": "<strong>Duties:</strong> clean the streets.",
+  "t": "<strong>仕事：</strong>通りを掃除する。"
  },
  "f8a9289d923c": {
   "en": "Tanner",

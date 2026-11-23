@@ -1,7 +1,83 @@
 {
+ "025d108f6ea1": {
+  "en": "Saltwater",
+  "t": "ソルトウォーター"
+ },
+ "05b581d4678b": {
+  "en": "Todame",
+  "t": "トダメ"
+ },
+ "159a1c3c92ce": {
+  "en": "Tolame",
+  "t": "トラメ"
+ },
+ "164be3a324db": {
+  "en": "Torame",
+  "t": "トラーメ"
+ },
+ "16d8eafa8d37": {
+  "en": "Fork Point",
+  "t": "フォーク・ポイント"
+ },
+ "17f9c0e5fe4c": {
+  "en": "Likenia",
+  "t": "リケニア"
+ },
+ "1a97f0efc7ca": {
+  "en": "Depoint",
+  "t": "デポイント"
+ },
+ "22336f94f096": {
+  "en": "Fishing Tree",
+  "t": "フィッシング・ツリー"
+ },
  "2c39e4cf0e6c": {
   "en": "Summary written by AI from the author's notes (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Villages.md\">Villages.md</a>). <a href=\"/about/ai-disclosure/\">AI disclosure</a>",
   "t": "作者のメモから AI が書いた要約（<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Villages.md\">Villages.md</a>）。<a href=\"/about/ai-disclosure/\">AI の利用について</a>"
+ },
+ "4175524e9250": {
+  "en": "Minala",
+  "t": "ミナラ"
+ },
+ "4291c6875b62": {
+  "en": "Totame",
+  "t": "トタメ"
+ },
+ "544ef03fd71c": {
+  "en": "Banhia",
+  "t": "バニア"
+ },
+ "555cd73a2615": {
+  "en": "Tomame",
+  "t": "トマメ"
+ },
+ "5a2eae7c1c93": {
+  "en": "Tofame",
+  "t": "トファメ"
+ },
+ "5b68530e46b5": {
+  "en": "Otherside",
+  "t": "アザーサイド"
+ },
+ "5c874ea7ca09": {
+  "en": "Tohame",
+  "t": "トハメ"
+ },
+ "5d8537d58a94": {
+  "en": "Long Bridge",
+  "t": "ロング・ブリッジ"
+ },
+ "66317632fdc8": {
+  "en": "Fastwater",
+  "t": "ファストウォーター"
+ },
+ "70306a42ee97": {
+  "en": "Green Sea",
+  "t": "グリーン・シー"
+ },
+ "724951242b23": {
+  "en": "Lakeeye",
+  "t": "レイクアイ"
  },
  "77eeb2f03e9d": {
   "en": "45 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
@@ -11,6 +87,10 @@
   "en": "Villages · #HusbandOutWorld",
   "t": "村 · #HusbandOutWorld"
  },
+ "854d9157e811": {
+  "en": "Topame",
+  "t": "トパメ"
+ },
  "86ac5f42203c": {
   "en": "The small places between the cities, grouped by region: Freeish, Gandew, Tolerideme, Sanbi and beyond. Each entry says why the village exists and what it is known for. Banhia feeds travelers on the road between Forway and Deltacross, Cliffbay keeps a lighthouse, and Fiera's Hut is famous for pies made from recipes passed down for generations.",
   "t": "都市と都市の間にある小さな場所を、地域ごとにまとめたもの：フリーイッシュ、ガンデュー、トレリデメ、サンビ、そしてその先。各項目では、その村がなぜあるのか、何で知られているのかを紹介している。バニアはフォーウェイとデルタクロスを結ぶ道の旅人に食事を出し、クリフベイは灯台を守り、フィエラズ・ハットは何世代にもわたって受け継がれてきたレシピで作るパイで有名だ。"
@@ -19,17 +99,129 @@
   "en": "Emelia: a curvy blonde woman in a brown corset, white blouse and short blue skirt.",
   "t": "エメリア：茶色のコルセット、白いブラウス、短い青のスカートの、グラマーな金髪の女性。"
  },
+ "8e69d9b2f3fe": {
+  "en": "Jack Wood",
+  "t": "ジャック・ウッド"
+ },
+ "93f7ba85c7ed": {
+  "en": "Freeish Region",
+  "t": "フリーイッシュ地域"
+ },
+ "94f9a9d581cc": {
+  "en": "Gandew Region",
+  "t": "ガンデュー地域"
+ },
+ "965d6eddc523": {
+  "en": "Bahyum",
+  "t": "バヒュム"
+ },
+ "993afbf1792a": {
+  "en": "Rebula",
+  "t": "レブラ"
+ },
+ "9b48dfad195b": {
+  "en": "Broken Redtree",
+  "t": "ブロークン・レッドツリー"
+ },
+ "a56c76274353": {
+  "en": "An old lady, Fiera, took care of every passerby, whatever their origin or destination, and some like-minded people decided to stay and help strangers too.",
+  "t": "フィエラという老婦人が、出身や行き先にかかわらず、通りかかるすべての人の面倒を見ていた。同じ考えを持つ何人かの人々が、とどまって見知らぬ人を助けることにした。"
+ },
  "a8bdbf7926eb": {
   "en": "Arukia in Arc 1: two outfits of a brown-haired young woman, a black-and-blue maid dress and a casual blue top with a purple skirt.",
   "t": "アーク1のアルキア：茶髪の若い女性の2つの衣装、黒と青のメイド服と、紫のスカートを合わせたカジュアルな青いトップス。"
+ },
+ "a9f781db624a": {
+  "en": "Villages (World Lore illustration)",
+  "t": "村（世界観イラスト）"
+ },
+ "bb32aa7791df": {
+  "en": "Fostwater",
+  "t": "フォストウォーター"
+ },
+ "bc510c5ac0fc": {
+  "en": "Tosame",
+  "t": "トサメ"
+ },
+ "bfe6f52444a9": {
+  "en": "Cliffbay",
+  "t": "クリフベイ"
+ },
+ "c0651cd8deb1": {
+  "en": "Toname",
+  "t": "トナメ"
  },
  "c19eb1696359": {
   "en": "The small places between the cities, grouped by region: Freeish, Gandew, Tolerideme, Sanbi and beyond.",
   "t": "都市と都市の間にある小さな場所を、地域ごとにまとめたもの：フリーイッシュ、ガンデュー、トレリデメ、サンビ、そしてその先。"
  },
+ "c1c131a5961a": {
+  "en": "Sanbi East",
+  "t": "サンビ・イースト"
+ },
+ "c2b5e5ab102d": {
+  "en": "New Freeish",
+  "t": "ニュー・フリーイッシュ"
+ },
+ "c36b4eaaf5bf": {
+  "en": "Tocame",
+  "t": "トカメ"
+ },
+ "c7eb25a67518": {
+  "en": "Ganyrami Bay",
+  "t": "ガニラミ湾"
+ },
+ "c81f0eb569fd": {
+  "en": "Foggy Point",
+  "t": "フォギー・ポイント"
+ },
+ "c823e97e7dfa": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Villages.md\">Legacy/Behind The Scenes/World Lore/Villages.md</a>",
+  "t": "出典：<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Villages.md\">Legacy/Behind The Scenes/World Lore/Villages.md</a>"
+ },
+ "c918beef2c0c": {
+  "en": "Tojame",
+  "t": "トジャメ"
+ },
+ "c96e19027eee": {
+  "en": "Togame",
+  "t": "トガメ"
+ },
+ "cd94d22e162b": {
+  "en": "Fiera’s Hut",
+  "t": "フィエラの小屋"
+ },
+ "d21cfc6ea7ab": {
+  "en": "A small village where the Ganyrami water meets the ocean. It has a lighthouse. It looks almost eerily identical to Cocona Island: people who visit one are often honestly confused by how much it looks like the other.",
+  "t": "ガニラミの水が海と出会う場所にある小さな村。灯台がある。ココナ島と気味が悪いほどそっくりで、どちらかを訪れた人は、もう一方とあまりに似ていることに本気で混乱することが多い。"
+ },
+ "d39b0b38e977": {
+  "en": "Northpoint",
+  "t": "ノースポイント"
+ },
+ "d5c311504403": {
+  "en": "Dead Fish",
+  "t": "デッド・フィッシュ"
+ },
  "d7018b5be1b1": {
   "en": "Cocona: a palm tree with rainbow-colored fronds and several colorful nut-like fruits.",
   "t": "ココナ：虹色の葉と、いくつもの色とりどりの木の実のような実を付けたヤシの木。"
+ },
+ "dcd640303d5c": {
+  "en": "Rich Island",
+  "t": "リッチ・アイランド"
+ },
+ "e033a9eeda62": {
+  "en": "A small village where the Ganyrami water meets the ocean. It has a lighthouse. It looks almost eerily identical to Cliffbay: people who visit one are often honestly confused by how much it looks like the other.",
+  "t": "ガニラミの水が海と出会う場所にある小さな村。灯台がある。クリフベイと気味が悪いほどそっくりで、どちらかを訪れた人は、もう一方とあまりに似ていることに本気で混乱することが多い。"
+ },
+ "e52eb75108eb": {
+  "en": "A village near the road between Forway and Deltacross, serving people traveling through. Lots of small restaurants sell tons of food to go.",
+  "t": "フォーウェイとデルタクロスの間の道の近くにある村で、通り過ぎる旅人のためのものだ。たくさんの小さな食堂が、持ち帰りの食べ物を山ほど売っている。"
+ },
+ "e57554f1c245": {
+  "en": "Old Village",
+  "t": "オールド・ビレッジ"
  },
  "e7b9ac5f977c": {
   "en": "Nailah's family: a dark-haired woman in a long cream dress (marked with an arrow), a small blond boy and a long-haired blond man with a blade.",
@@ -39,8 +231,36 @@
   "en": "Tolerideme Winga: a pink parrot-like bird with red wings and a feathered crest, perched on a branch.",
   "t": "トレリデメのウィンガ：赤い翼と羽のトサカを持つ、枝にとまったピンクのオウムのような鳥。"
  },
+ "ee31a91016fb": {
+  "en": "Winga Beak",
+  "t": "ウィンガ・ビーク"
+ },
  "eefb5803b16c": {
   "en": "Itanema: a pale woman with long black hair in a black-and-blue dress and tall boots.",
   "t": "イタネマ：黒と青のドレスにロングブーツの、長い黒髪の色白の女性。"
+ },
+ "f14c9994f319": {
+  "en": "Cocona Island",
+  "t": "ココナ島"
+ },
+ "f14ca6a8572d": {
+  "en": "Tobame",
+  "t": "トバメ"
+ },
+ "f2a9af10108e": {
+  "en": "Sandwich",
+  "t": "サンドイッチ"
+ },
+ "fa73c97fbd34": {
+  "en": "Broken Tip",
+  "t": "ブロークン・ティップ"
+ },
+ "fdb75ec3197f": {
+  "en": "Tolerideme Region",
+  "t": "トレリデメ地域"
+ },
+ "fe5c3e316a61": {
+  "en": "Sanbi Region",
+  "t": "サンビ地域"
  }
 }
