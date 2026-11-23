@@ -1,6 +1,6 @@
 ---
 source: Legacy/Behind The Scenes/Light Novel/Arc #5 - New Life.md
-status: draft for the author's review, 2026-11-22 (see content/bts/qa/Light Novel/Arc #5 - New Life.md)
+status: questions answered 2026-11-22 (see content/bts/qa/Light Novel/Arc #5 - New Life.md)
 note: story notes become polished lists of story beats in the author's voice; draft dialogue that carries a joke or a character's voice is kept.
 ---
 
@@ -22,7 +22,7 @@ Ideas for the arc, not yet in order.
 #### Harry becomes a Pearl adventurer
 
 - A small ceremony, then drinks with Eiri, [Sora](/lore/characters/#sora-sanbi-blue-glass), [Itagiba](/lore/characters/#itagiba-sanbi-royal), the other maids and [Morika](/lore/characters/#morika-tolerideme). [Neferteri](/lore/characters/#neferteri-sanbi-royal) is nowhere to be seen.
-- Itagiba gets drunk and asks Harry a favor: find out whether he had any children under the name Juno Triangle. He also tells him to enjoy the adventurer life a bit before meeting up with… (the note stops here).
+- Itagiba gets drunk and asks Harry a favor: find out whether he had any children under the name Juno Triangle. He also tells him to just enjoy his life as an adventurer.
 
 #### Morika gets promoted to Amethyst (or Aquamarine) by claiming Harry's search quest
 
@@ -75,8 +75,9 @@ Ideas for the arc, not yet in order.
 
 #### Nina brings a request from Neferteri to take her to Tolerideme
 
-- The stamp is fake. Guards hunt Harry down, until Neferteri shows up to sort it out.
-- Harry ends the ordeal by slapping her butt in front of everyone.
+- [Nina](/lore/characters/#nina-sanbi-royal) acts up like the princesses before her, but her "wildness" is just wanting to walk around town without Neferteri breathing down her neck: running around like a child, eating and drinking whatever she wants. So she fakes Neferteri's stamp to make Harry do her bidding, as if Neferteri had approved it.
+- Guards hunt Harry down, until Neferteri shows up to sort it out.
+- Harry ends the ordeal by spanking Nina in front of everyone.
 
 #### A pile of Winga mail waits for Harry at the embassy
 
@@ -121,18 +122,18 @@ Ideas for the arc, not yet in order.
 
 - Because [Dalila](/lore/characters/#dalila-broken-tree) spilled Harry's secrets.
 
-#### Morika marries the second princess
+#### Morika marries Maiara
 
-- A world event happens, and the main character is powerless. A hero rises, because he wants the princess. The main character loves her, but realizes he's a nobody next to a true hero.
-- The king says he'll give the princess to the hero if the hero completes the world event, but he doesn't say which princess. Magi plays along too, since she knows that way the princess can't try to marry the main character anymore.
-- It turns out to be the second princess, not the third: the king never said which. The king laughs; everyone is in shock. The second princess grabs the guy and leaves the room, and minutes later, the whole castle is shaking.
-- Later that day, Magi, the main character and the third princess are eating, and the princess chews Magi out for her scheming. Meanwhile, the hero and the second princess come in for dinner too, the hero in a state of bliss from everything the second princess did to him.
+- A world event happens, and Harry is powerless. A hero rises, Morika, because he wants the princess. Harry loves her, but realizes he's a nobody next to a true hero.
+- [Itagiba](/lore/characters/#itagiba-sanbi-royal) says he'll give the princess to the hero if the hero completes the world event, but he doesn't say which princess. Magi plays along too, since she knows that way [Eori](/lore/characters/#eori-sanbi-royal) can't try to marry Harry anymore.
+- It turns out to be [Maiara](/lore/characters/#maiara-sanbi-royal), the second princess, not Eori, the third: the king never said which. The king laughs; everyone is in shock. Maiara grabs Morika and leaves the room, and minutes later, the whole castle is shaking.
+- Later that day, Magi, Harry and Eori are eating, and Eori chews Magi out for her scheming. Meanwhile, Morika and Maiara come in for dinner too, Morika in a state of bliss from everything Maiara did to him.
 
 #### A catgirl (someone looking for research funding)
 
 - Or maybe Kibe has loose lips about his research, and someone creates a catgirl.
 - A stranger approaches Harry for help with an invention. Harry: "Why not?"
-- Haley uses Vine Enhance to call for a volunteer. Only one can be chosen, so they all compete to see who's the most cat-like.
+- The stranger uses Vine Enhance to call for a volunteer. Only one can be chosen, so they all compete to see who's the most cat-like.
 - They go somewhere that mixes a cat with a human. Harry: "Why not a Wozefaries?" The Wozefaries becomes a catgirl, but her intellect drops to a cat's, and now Harry has to take care of her. Maybe someone else in the house gets really close to the cat, and they bond?
 
 #### Pets!
