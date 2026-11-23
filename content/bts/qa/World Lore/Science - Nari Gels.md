@@ -42,3 +42,12 @@ None found.
 ## Left out on purpose
 
 - The coarse-versus-fine paragraph repeated under Distance Cost Tier IV (it is in Isekai History already).
+
+## Isekai History and the gel list (2026-11-23)
+
+Both were still showing the raw notes; now abridged, so every section of this doc has an abridged version.
+- Isekai History: grammar polish only ("fulfills most poisons, body, and mental status modifications" → "covers most poisons, and body and mental status changes"; "neck-breaking research speed" → "breakneck pace of research"; "“alpha-testers“" → "\"alpha testers\""). Same facts, same order.
+- The 30 gels: one layout each: recipe (Isekai History), then Inventor, Subversions and Cost, then a tier table (Usage). Notes outside the tiers (Mind Enabler's "affects people differently", Nari Refresher's tattoos, Water Breath's gill placement) sit above the table. World Lore Q&A references kept.
+- Website Descriptions are left out of the abridged gels: they're the public text (the old blog's 14 gels), shown above the notes; the other 16 gels have empty Website Descriptions.
+- Placeholders: Monika Sight's "A.G. Scientists Named ?" → "names unknown"; Tickly Skin's "Subversions: ?" → "not known yet"; Sore Mind's inventor "?" → "unknown"; Taste Foul (all "?") → "Not filled in yet."
+- Polished: "grinded Nari" → "ground nari"; "Lose of speech" → "Loss of speech"; "ow penis changes" → "how the penis changes"; "Time Slown" / "Time Slow" → Time Slower; "father distances" → "farther distances"; "breath" → "breathe" (verb); "hoofs" → "hooves"; "Woolly" → "Wooly"; "Fisherman" → "Fishermen"; "Blackmarkets" → "black markets". The Moist Breath note to self about Harry's hair became a plain explanation.
