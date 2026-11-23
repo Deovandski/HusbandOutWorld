@@ -74,3 +74,24 @@ Applied:
 - A3-11: {WIP-firstWagonStop}, {WIP-franciscoGift}, {WIP-julyQuest}.
 - A3-12: kept "Desmond is scared!"
 - A3-13: settled in the abridged text: Neferteri adds that Eori will have more freedom in Forway, Eori fights her off for being controlling, and that's how the carrot (Harry's search quest) comes out. The author's note on the cycle follows, polished, linking Maiara and Yacamim. Made official: the same note, in his words, is appended to the raw display via `content/fixes.json`.
+
+## Book 11 - Fate’s Innerworkings (batch 3)
+
+Filled from Legacy:
+- Chapter 2: Maicon, Emelia and Arukia link to Characters; "Pussy powers" → Pussy Power (Factions); Stealball → Pastimes; Sorenos → Fauna.
+- Chapter 3: Egua Race, Dueling Egua Race and Soul Energy Art link to Pastimes. The writer's note "Figure out Forway fashion" is left out.
+- Chapter 4: Coema links to Characters (ex-King-maid, Eiri's mother, Half-Cruro guild); Newland links to Lands; "her family" → Arukia's family (Characters: born in Long-Bridge). "paws" → "pawns"; "stocking Eori's fire" → "stoking"; "the receptionist" → "the welcoming party".
+- Polished: "Did you rattle on us?" → "Did you rat on us?"; "petities" → "petite bodies"; "Katsuki smiles shine" → "Katsuki's smile shines".
+
+My reading of the sisters' scenes (please check, A3-14). The notes mix up the names in a few places, so I went by who can talk: Katsuki is relearning to speak ("O—ne. F—five."), and Katsumi does the talking.
+- Soreno fight: "Katsumi protecting Katsumi… Katsumi cries as a sayna" → Katsumi protects Katsuki, and Katsuki cries. That fits the next scene, where Katsumi is the more bloodied Sayna.
+- "Katsuki: 'Did you rattle on us?'" → Katsumi (the heading says Katsumi is the naked one questioning him).
+- "Katsumi's eyes seem weavering. 'Okay. Okay. Sell him to Forway…'" → Katsuki's eyes waver and Ryo says the line; "Katsumi is unsure, but she smiles" → Katsuki.
+
+Questions:
+- **A3-14:** Is that reading right? Also: (a) who says "Why? He's dead already! This is our chance" when Katsumi tries to rip the letter? (b) Is Katsuki relearning to speak after her revival, and what does "Say 'One', then his name" mean?
+- **A3-15:** Chapter 1: Eori's teacher and her strong-willed roommate have no names. {WIP-…}? Is the roommate's grandpa (who vanished after an explosion in his soul-research shack) anyone in Legacy?
+- **A3-16:** Chapter 2's scene heading has Magi alone, tired and hungry, carrying a green bag, but she isn't in the scene. Just a cameo, or is something missing?
+- **A3-17:** Chapter 4: "Giant Sloth (to be renamed) skin". Is there a new name yet? For now: "Giant Sloth skin (name to be changed)".
+- **A3-18:** The Epilogue heading says "Neferteri, Itagiba, Huneo & Eori", but Eiri is the one voting (the Four Power Players). I wrote Eiri. Okay?
+- **A3-19:** Chapter 3: "the black tower" (they've never seen it up close). It isn't in Cities › Forway. What is it?

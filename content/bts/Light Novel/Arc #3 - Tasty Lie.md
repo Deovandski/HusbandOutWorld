@@ -1,6 +1,6 @@
 ---
 source: Legacy/Behind The Scenes/Light Novel/Arc #3 - Tasty Lie.md
-status: abridged in batches, one book at a time; Books 9 and 10 drafted 2026-11-23 (see content/bts/qa/Light Novel/Arc #3 - Tasty Lie.md)
+status: abridged; Books 9 to 11 drafted 2026-11-23 (see content/bts/qa/Light Novel/Arc #3 - Tasty Lie.md)
 note: same format as Arc #2. Each chapter becomes a polished list of story beats in the author's voice, keeping the draft dialogue that carries a joke or a character's voice. Harry's numbers are kept. Books not yet abridged fall back to the raw notes.
 ---
 
@@ -363,3 +363,132 @@ Author's to-do: after his soul splits, Harry loses the ability to understand any
 - July's demeanor changes; her cutesy front disappears. "I told you not to bring that up again." "Then what do you want?" "Nobody has a shady past he doesn't want to talk about. I knew he was hiding something the moment I saw him at the restaurant." Takeo: "We all hide something, don't we?" The question is rather suggestive, to say the least.
 - July, displeased, turns her back on him. "Fine! Have it your way! Go die in the Hifuna region!" Takeo climbs into the wagon and sets off. July turns back as his figure shrinks into the distance. "Maybe I'm the one who's wrong—I can't taste people's souls, after all."
 - [Francisco](/lore/characters/#francisco-forway-tea-drinkers) comes out the door. "Morning, July! Did Takeo leave already?" July flips back to girly and points at a cart in the distance. "Just now!" "That's too bad. I bought a new {WIP-franciscoGift} for him." "He'll be back soon enough, that's for sure." "Are you leaving as well, July?" "Yes, Francisco. Yesterday I contracted a quest to {WIP-julyQuest}." She smiles brightly. *But now I wish I hadn't.*
+
+# Book 11 - Fate’s Innerworkings › Prologue
+
+#### Eori tortures Harry in his sleep
+
+- Harry says sorry, but it doesn't matter: Eori squeezes the life out of him, and he can't breathe. Suddenly Takeo appears and starts snapping off his fingers.
+- A painful slap wakes Harry up. "I'm trying to sleep!" A fatass Dalila turns over and goes back to sleep. Harry looks around the room, tinted dark by the green moon. Eori isn't torturing him. He's a free man…
+
+# Book 11 - Fate’s Innerworkings › Chapter 1 - Student
+
+#### Eori arrives at the Forway science school
+
+- She arrives by wagon and is welcomed by a teacher, who tells her a bit about the school.
+
+#### Eori gets a strong-willed, take-no-shit-from-anyone roommate
+
+- Eori puts on a facade. They butt heads from the get-go, and she excuses herself to go to the library.
+
+#### Eori can't find a way to research the Soul
+
+- She searches for books on the soul, but there's absolutely nothing, almost as if someone is hiding the information from the public. Her teacher appears and asks what she's after. Eori: "Soul, by Gabiro." The teacher, slightly flustered, leads her to a small, kind of dusty soul section at the very end. "Gabiro published many things, but never about the soul."
+- Eori reads the books: people trying all kinds of shit, and all of it going wrong one way or another. The teacher: "I strongly advise picking another field as a career goal."
+
+#### Eori, bored at dinner; her roommate asks what she wants to do, and Eori says nothing, since she wants to research more
+
+- They talk about their research, and the girl is caught off guard by Eori's interest. "It's a dead end." Her grandpa was fascinated by it, but one day he disappeared. All that was left were used nari stones, and what looked like an explosion inside the shack where he ran his experiments.
+- Eori doesn't look happy. *I want my Harry back.*
+
+# Book 11 - Fate’s Innerworkings › Chapter 2 - Happiness is another contract away.
+
+#### Ryo and Maicon at Yosuke's restaurant; Harry takes orders, Dalila in the background
+
+- Ryo: "I know I said I'd pay, but do you really need to eat everything on the menu?" [Maicon](/lore/characters/#maicon-forway-black-dove) burps so loudly that some patrons look over in disgust, or impressed by such a feat; some laugh in the background. Mouth full: "It's a business opportunity. Now get more beer." "Sure. Sure." Ryo catches Harry's eye and circles a finger over the table; Harry gives a thumbs-up back.
+- Ryo turns back to Maicon. "Let me get to the point. Let's say a friend of yours found two delightful Red Winga working girls, and he wants to make a new contract instead." Maicon turns serious. "That friend of mine is a fucking lunatic." "Sure. Let's say that. What would a fucking lunatic do to get these two ladies out of a Red Winga contract?" Maicon runs his greasy hands through his beard, then licks them clean, thinking. "A fucking lunatic would agree to a fucking lunatic plan." Ryo smiles. "I bet he would."
+- Harry drops off two beers. "Anything else I can help with?" Maicon waves him off. Ryo: "Desmond, right?" "Yes, sir." "Can you thank the chef for me?" "Will certainly do, sir." Harry nods and leaves.
+- Maicon leans in and lowers his voice. "A little Winga told me two whore sisters fled alongside a target. I can see them making a deal to bring the target back." Ryo: "Truly a lunatic plan. Who's the target?" Maicon laughs loudly. "Like they'd tell me that! They didn't even tell me what color the whores' hair is." Anger rises in Ryo. He drops a sack of balls on the table and stands. "Thanks for the info. I'm gonna go visit my lunatic friend." Maicon keeps eating.
+
+#### Ryo on the wagon heading back; Magi, alone, carries a green bag, looking tired and hungry
+
+- The driver takes a longer route. Ryo picks up on it and bails. "That piece of shit works fast—maybe I should hire some [Pussy Power](/lore/factions/#pussy-power)."
+- He walks the streets of Forway, thinking about everything he's gonna do with the sisters. The thought of stacking them on top of each other in bed and working them back and forth sends chills down his spine. His mind keeps compiling a list of things he wants to try with them, and wants them to teach him. He imagines Katsumi dressed as a teacher, teaching him all about how to please.
+- Then an idea pops into his head: what if she became a teacher to other girls, and they built a whorehouse? Ryo smiles lewdly as he feels his pocket growing bigger.
+- His mind clicks back to reality. He hears a commotion, and looking back, sees a crowd forming. "Eh. They're probably playing [Stealball](/lore/pastimes/#stealball)."
+
+#### The sisters, as Saynas, fight Sorenos
+
+- The fight ends with Katsumi protecting Katsuki. Katsuki cries as a Sayna, and Katsumi shields her and holds her close. ([Sorenos](/lore/fauna/#soreno) are in Fauna.)
+
+#### Ryo opens the room he was staying in; there's a letter on the bed
+
+- Ryo looks around the room. Nothing. He reads the letter: an address and a time, with a Red Winga stamp. Nothing else. He turns to the Pussy Power bandits. "All right. We're done here. You can go."
+- He closes the door, and a rustling comes from the ceiling. He looks for open cracks, but there are none. He drops to the floor, checks the base of the wall, and finds a hole about the size of a Sayna.
+- The rustling hugs the inside of the wall, and moments later a dirty, bloodied Sayna appears: Katsumi. "So they got one of—" A second Sayna slowly comes out of the wall, as dirty as the first and wounded, but not as badly. They make their way to Ryo, and Katsumi starts screeching. Ryo laughs, picks up a Nari Refresher and gives it to the Saynas.
+
+#### Ryo with Katsumi, naked, questioning him while her sister puts on clothes
+
+![][image6]
+
+- Katsumi: "Did you rat on us?" She points at Ryo's face, ready to pounce. Ryo, surveying their petite bodies: "I just talked with a contact of mine, and it seems his tongue is weaker than I thought—quicker, too." He hands them the letter. "We need to find and turn in the target who was with you."
+- Katsumi grabs her sister's hand. Ryo drops the letter. "Does she remember now?" Katsumi goes to grab the letter to rip it apart, but her sister holds her hands. "Why? He's dead already! This is our chance." Katsumi loses her grip on the contract and cries her heart out.
+- Ryo holds them both in his arms, stroking the long hair with one hand and the short hair with the other. She resists his embrace, but he's stronger, and squeezes them in. "Let's talk this one out. Don't lie this time, or it'll be the last time." The sisters look at each other. Katsumi lets out a gasp. "Fine. I'll tell you what I did to the target."
+
+#### Ryo and the sisters, after the talk
+
+- Ryo: "First things first. Katsumi, apologize to Katsuki." "For what? Protecting us?" "For betraying your own family." Katsumi does. Ryo: "I've decided what we'll do with Harry, if he's still around. We'll protect him, and learn his secrets for ourselves. But first, we need to make you two famous."
+- Katsuki rejects the idea by hiding behind her sister. "Okay, making one of you famous. Katsumi, what do you do best?" A lewd smile. Katsumi, interested: "Sucking and fucking to get info?" "And who taught you how?" "The other ladies at the Red Winga?" "Indeed! A true art form. So! I've been thinking about building a whorehouse back home, with you two as the madams."
+- Katsuki shakes her head. "Then what do you want?" She seems unsure. "Can you read, write and do math?" She looks interested. "Can you cook too?" She shakes her head. "Hmmm. Then I'll make you my assistant on my business trips. I'll teach you the basics of cooking and accounting. What do you say?" Katsuki hugs Ryo. "That's settled, then. Meanwhile, you'll become the biggest madam the world has ever seen!" He looks at Katsumi; her eyes sparkle with fierce strength, and lust. "That way, Harry will find us instead."
+- Katsuki: "HA—ha—h—ha?" Ryo looks at Katsumi. Katsumi: "Say 'One', then his name." "O—o—ne. Ha—ha—rry?" Ryo: "Do you remember him?" Her eyes waver. Ryo: "Okay. Okay. Sell him to Forway—okay, that sounded bad. We'll negotiate a contract with Forway that's favorable to Harry and to us, in exchange for selling out the Sanbi Kingdom and dishing the dirt on what Eori did to him." Katsuki is unsure, but she smiles. Ryo: "Good. Let's go get this over with."
+
+#### Ryo, the sisters, Emelia and bandits (in nari gel)
+
+- [Emelia](/lore/characters/#emelia-lakeeye-rich-flower): "Glad you came." Ryo explains: they can sign a contract to hand over Harry if they find him. The plan is to make Katsumi famous so that Harry finds them, and since her sister will travel with Ryo, there's a chance there as well.
+- Emelia: "Fair enough, but we'll keep close tabs on you three. If you dare give Harry, or anything to do with him, to anyone else, we'll take action. We were the ones who found him. Also, I want the truth about Harry: everything the sisters know about him."
+- Katsumi doesn't like that, and Ryo holds her back. "These two have had enough. You can hear everything from me. I'll sign it in blood." He tells them everything he knows. They ask the sisters where [Arukia](/lore/characters/#arukia-long-bridge) is; they have no idea. Emelia: "Good. Everybody wins here!"
+
+# Book 11 - Fate’s Innerworkings › Chapter 3 - A new day.
+
+#### Ryo and the sisters go clothes shopping
+
+- Ryo handpicks whatever is cutest for them.
+
+#### Ryo and the sisters, in Forway clothes, have dinner out in the open
+
+- Katsuki doesn't feel safe. Ryo: "Relax. We spent all day having fun. Did you even see anyone suspicious?" Katsuki: "O—ne. F—five." "She's getting the hang of it pretty quick. Nice!" He hugs her from the side. "What did you two enjoy most today?" Katsuki: "O—ne. Ev—ery—thing." They talk about how they'd never seen the black tower up close.
+- Katsumi: "[Egua Races](/lore/pastimes/#egua-race)! That was awesome! The Eguas were running so fast!" Ryo: "Wait until you see a [Dueling Egua Race](/lore/pastimes/#dueling-egua-race)! Nari gels are allowed on both the rider and the Egua!" "Let's go see it!" "Hold your Eguas." He laughs like a dad. "That competition won't start until the current one finishes. Anything else you two want to do?"
+- Katsumi: "Homeegg! I want to see that too!" Ryo: "Tomorrow's the tournament finale. Princess Maiara is on one of the teams, so I bet it'll be pretty crowded. Are you sure you want to go?" Katsuki doesn't want to; Katsumi tries to get her to come, but she won't. Ryo: "It's because of Sanbi, right?" Katsuki agrees: she still doesn't feel right about fucking Harry over.
+- Ryo: "Leave it to me. I'll find a way for all of us to sit down and enjoy a meal together one day." Katsuki's smile shines as bright as the sun. Ryo checks his watch. "The night is young. Let's go see some [Soul Energy Art](/lore/pastimes/#soul-energy-art)!" The sisters agree.
+
+#### Ryo hugs the sisters as they watch Soul Energy Art
+
+![][image7]
+
+- It's a magical show. Ryo hugs both sisters and looks at Katsumi, then Katsuki. *Took a while, but I found it. Now I just need to figure out what the Red Winga is planning. It's clear as day they'll watch our every move, but are they still trying to find Harry? I know he's the result of Gabiro's last experiment, but is being able to use a Bagarisa interface that important? No. They've got to be trying to blackmail the Sanbi Kingdom, which means I can't contact Sanbi, directly or indirectly, or the Red Winga will cut my balls off. Protecting these two comes first and foremost.*
+- He pulls them closer. "I've got something else that'll surprise you two. It spontaneously grows when you put it in your mouth." He chuckles loudly, with a lewd smile. Katsumi: "Can you show me?" She places her hands on his inner thighs and rubs against his taint. "I'll give you a private showing back at the hotel. Wanna see it too, Katsuki?" She gets flustered. "Dammit. She's so cute. I hope you two are having fun." They both smile back. Ryo: *I need to bring them to Yosuke's restaurant before we go. Their stuff is legit.*
+
+#### Ryo and the sisters in front of Yosuke's restaurant, closed
+
+- The sign: "Closed after Sunni to prepare for the Homeegg Tournament tomorrow. Come see it with us! - Yosuke". Ryo wanted them to taste the food here, but they can come back later. "Any other spots you want to visit before we go?" They say no.
+- They call a wagon and climb in, and start talking plans. Ryo is thinking about buying a bathhouse in Flatland, turning it into a whorehouse, and letting the sisters run it. Katsuki doesn't want to do that kind of stuff anymore. Ryo: then she'll be his companion on his travels.
+
+# Book 11 - Fate’s Innerworkings › Chapter 4 - Ex-King’s Maid
+
+#### Eiri, Sora and other maids meet a big ship at the docks, along with many passengers
+
+- Among the crowd, Sora spots Coema and takes off running ahead of Eiri to hug her. [Coema](/lore/characters/#coema-sanbi-half-cruro) then hugs Eiri and the other maids, and asks where Arukia is. They grow sad, and Eiri explains that she's missing.
+- Coema thanks the welcoming party, but tells them to get back to work, as if she were Eiri. Eiri: "I'm the King's maid, though!" "Then act like one. Now let's go home!"
+- Sora starts following them, cutely embarrassed. Coema aggressively asks what she wants. Sora: "I live with Eiri too." Coema laughs. "So you two are like that?" Eiri: "Don't worry, we don't make too much noise." Coema laughs as Sora huffs, and they head back to the house.
+
+#### Eiri and Sora drink tea with Coema
+
+- Coema is back from [Newland](/lore/lands/#newland). Eiri asks how it's going. Coema describes a rough sea journey, but the Cruro guild she belongs to is gaining a nice foothold in the trade of Giant Sloth skin (name to be changed). Then she turns to what happened while she was gone. Eiri hesitates, but opens up after Sora eggs her on.
+
+#### Coema lectures Eiri on her attitude; Sora defends Eiri; Coema knuckles both their heads
+
+- Coema is pissed that Eiri was so floppy in her will. "That's no daughter of mine! Why didn't you just open the gate and let him go?" Eiri is put on the spot: the thought never crossed her mind. Sora gets worried too. Sora defends Eiri, because she's Sora, but she gets knuckled too.
+- Coema is pissed that they've both grown too soft and became pawns in Neferteri's hands, doing things against their will; now she regrets retiring from the position. She looks at them. "Payback is a bitch! You need to teach her a lesson!" Eiri: "I can't do that! She's the Queen of Sanbi!" "And you're the King's maid!" It finally clicks for Eiri that she does have power.
+- "But how will we do it?" Coema: "We fight fire with fire—stoking Eori's fire against her own mother, just like I did with [Yacamim](/lore/characters/#yacamim-sanbi-royal) and Maiara." Eiri is amazed. "I thought that was Itagiba's spirit in them." "A good chunk of it. All I did was push them in the right direction. All we need to do is find Arukia." "WHAT?" "It's clear as day she was involved, and knows what really happened between them." "But Itanema told me—" "Meh—meh—this—meh—meh—that—Itanema is lying! She's a pawn for Neferteri! Anyone can be, for the right price! Even you!" She points at Sora.
+- Eiri gets pissy, and Sora puts her foot down: she never signed a contract with Neferteri. They talk about how to find Arukia. Coema: "Make her want to contact us instead."
+
+#### Coema sips her tea, savoring scheming on par with Neferteri, like the old days
+
+- Eiri: "But how?" Coema: "By pulling a girl's heartstrings." Eiri will contact Arukia's family again and ask if Arukia has made contact. They'll say no, and that's the moment to infuse them with money to make announcements throughout the kingdom. They'll have to comply either way, and Neferteri will be livid.
+
+# Book 11 - Fate’s Innerworkings › Epilogue
+
+#### Neferteri, Itagiba, Huneo and Eiri meet
+
+- Eori comes up in the conversation. Huneo proposes canceling Harry's search quest. Eiri votes no, Neferteri yes, Itagiba no: they reach an impasse. Eiri doesn't like that Neferteri is now voting against it.
+- Itagiba questions Neferteri. "Eori is in a new environment now. It's time to let her move on from the past." "Yeah, but that's a dick move, after you told her to go there." "It was for her own good." Itagiba disagrees. "I dunno. That's gonna backfire." Neferteri: "I digress. Eori will be a true princess once she puts Harry in the past."
