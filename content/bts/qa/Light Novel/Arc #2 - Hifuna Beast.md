@@ -104,3 +104,20 @@ Applied:
 - B7-3: "that nari bulking-up gel".
 - B7-4: added "(Woolies: slang for burly, hairy men.)"
 - B7-5: Kozaku's stone: "replaced his heart with it, and once it was in, it melded with him."
+
+## Book 8 - Small Problem (batch 5)
+
+Filled from Legacy:
+- Chapter 3: Dalila's parents are Laramy (father, "an older gentleman") and Honati (mother), from Characters; Jack Wood, Banhia and Rebula link to Villages.
+- Chapter 6: Severino's wife is Nailah and their son is Vitor (Characters: Severino Rebula).
+- Prologue: "Clodoveu explains their backstory" → "(all three are from Big-Gyut, in the Freeish Kingdom)", from Characters.
+- Kept as "Not written yet": Chapter 2's Itagiba and Neferteri TODO.
+- Polished: "shite soul flame" → "white soul flame"; "fussy eyes" → "fuzzy eyes"; "We can't be around" → "We can't turn around"; "on the back and behind of the wagon" → "on the sides and behind the wagon"; Eori "he heard" → "she heard".
+
+Questions:
+- **B8-1:** Who stays dead after Book 8, and who gets revived? Clodoveu (eaten), Wilson (the Quick Think overdose; he "falls into a sound sleep"), Huneo (killed by Eori; Characters still has him as of Vol 4 and in future books), Dalila and her parents, and the Black Magina girl under the bookshelf. Takeo's "Let's play puzzle! You guys have Black Honey?" sounds like a mass revival.
+- **B8-2:** Is the Black Magina girl in Chapter 4 Katsuki, the sister Katsumi pulls out of the bedroom in Chapter 5?
+- **B8-3:** Names: the farm boss "Magina guy", Ryo's adventurer guard ("Hey X!"), Ryo's badge ("I'm Ryo XXX"; Flatland Long-Blue?) and "Rubela" in Chapter 6 (a villager, or a typo for "a Rebula villager"?). For now: "the Magina guy", "the adventurer", "I'm Ryo." and "Rubela" as written. Want {WIP-…} names like Book 7?
+- **B8-4:** "Quick Think", the gel Wilson overdoses on: is it Time Quicken (Nari Gels: Tier IV whole body, extreme reflexes, can kill on its own)? If so, I'll link it.
+- **B8-5:** Prologue: "We were on our own for at least 5 to 7 years before the Blue Wozens poached us." Characters says Kozaku brought Clodoveu in when he went hungry, and Clodoveu brought Wilson in; Wilson (born 1019) would have been about 14–16 when the three started out. Which version wins?
+- **B8-6:** Chapter 6 title "Scared Forest": the spooked forest, or "Sacred Forest"? Kept "Scared".

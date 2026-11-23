@@ -516,3 +516,166 @@ Author's to-do: have someone in the Wozen party bond with Harry over the things 
 - His feet touch the ground again; he steps away and turns around. The Wozen lady smiles. "Fost stones only keep dumb animals away. Aren't you cold?" Harry looks at his half-naked self. "Hmm. I guess not?"
 - "Clodoveu told me all about you. How did the Sanbi scientist make it happen?" "Who, Gabiro? Yeah, I never met the guy. Eiri was the one who told me about him." "Did they give any details about what they did?" He shakes his head. "I had no memories of anything, so they probably didn't bother explaining."
 - She leans in and whispers slowly in his ear: "If you find out how, I'll let you do anything you want." Harry blushes; so does she. "Not like that! I meant, like—going to other teams! Even working by my side!" They both laugh. She raises her hands and pushes her belly forward; Harry knows this one, and does the same. As their bellies and hands touch, she says, "I promise." Harry smiles and nods.
+
+# Book 8 - Small Problem › Prologue
+
+#### Harry, Marcus, Clodoveu and Wilson alone on a wagon: Wilson picks his nose, Marcus keeps watch, Clodoveu and Harry look ahead
+
+- Clodoveu: "So yeah. We were on our own for at least 5 to 7 years before the Blue Wozens poached us." Harry: "So how did you guys meet?" Clodoveu tells their backstory (all three are from Big-Gyut, in the Freeish Kingdom). Wilson laughs. Marcus stands up, faces away from the wagon and pees off the road. Clodoveu keeps going.
+- Harry: "The Freeish Kingdom is to the south, right?" "You got it! Wait, you've never been there either? Let's take a trip there once we get some balls from this plan. There's this taco thing you're gonna love!" Harry looks pretty interested.
+- Marcus: "We're close to Forkpoint." Clodoveu pulls the wagon over. "Let's put on fake bodies. Harry, you ready?" "I guess so." Clodoveu hands him a nari gel bottle with Bagarisa fur, eyes and more in it. Harry gulps. Marcus: "I'm gonna force it down your throat if you don't." Clodoveu: "Give him some time. Some people aren't good at swallowing." Marcus narrows his eyes, but says nothing.
+- Harry takes a deep breath and eats the jelly in gulps. His body splits open in a fissure as blood and a white soul flame pour out. He screams in pain as his voice drops, hoarse, Bagarisa-like; tusks grow from his face, and one of his arms swells. Marcus grabs his knives. "What the fuck?" Harry lets out a massive shriek that makes the forest tremble in fear. Marcus throws a knife right into its forehead. It looks at Marcus with hanger in its eyes.
+
+# Book 8 - Small Problem › Chapter 1 - Side Effects
+
+#### Harry #11-A stares Marcus down like a wild animal; Marcus is ready to throw down; Clodoveu shields Wilson, who is scared shitless
+
+- Marcus: "I'm gonna fucking skin you alive and eat you, you fat piece of shit!" Harry trucks toward him, head tilted forward to strike, ready to squish him like a strawberry in a fist. Marcus waits until the last second, then dances out of the way and slashes Harry's arm open as it passes.
+- Clodoveu grabs his weapon and steps forward. Marcus: "Don't you fucking dare! He's mine!" "He'll eat you. I'm warning you." Clodoveu rubs nari gel on himself; Wilson opens a nari gel and gulps the whole thing in one shot. Clodoveu: "You're gonna poison yourself with that much Quick Think." "I can do it!"
+- "Go suck a big fat—" Marcus, meanwhile, takes a nari gel from his pocket, dips another knife in it and throws it at Harry as he gets ready to charge again. Marcus steps back for distance and readies another knife, then sees a fireball forming between Harry's tusks, speeding toward him. He launches the knife; they meet midway and explode in a curtain of fire. Marcus flips Harry off. "Fuck—" Something large flies through the curtain of flame.
+
+#### Harry #11's huge severed hand slams Marcus in the face, throat and chest mid–middle finger; the hand regrows; Clodoveu's arms are twice their size, and Wilson is on Quick Think
+
+- "I told ya." Clodoveu grabs his weapon. Wilson sees and hears everything in slow motion. "Cccccccoooooollllddd Wwwwwaaattteeeerrrrr." Clodoveu looks over: Wilson's head is moving, casting a spell three times faster than normal, his muscles so quick they're near the breaking point, his tendons healing with every movement. "Then shock."
+- Clodoveu rushes Harry, who crosses his arms in an X to defend. Clodoveu looks at the X, then at his lower body, stops midway and lets his two-handed mace fly at Harry's gut. Harry's big arm drops and takes the brunt: flesh, bone and soul fire fly everywhere.
+- Harry shrieks and rushes Clodoveu with his smaller fist. Clodoveu stops it with his hand, bone cracking all around, punches Harry's gut with the other, then steps back, dodging the big hand, now nearly regrown. He shakes out his hand. "Not even a dent."
+- Wilson splashes a torrent of Cold Water on Harry. His flames flicker in and out, then the white soul flame covering his body grows stronger. The flame swells, weaves, then explodes in a curtain of fire.
+
+#### Everything is on fire: Clodoveu's whole front is burned, his face marked in the shape of the arm he shielded it with; Wilson runs in the distance; Harry #11-B
+
+- Clodoveu: "Uffda. That was pretty good. Ohh? That took some of your energy, huh? Wilson! Cold Water! Wilson!" He looks back and sees Wilson fleeing for his life. "Haaaa, you dickass. I'm gonna remember that!" He readies his hand and cracks his neck. "Well, I'm dead either way."
+- He walks toward Harry, who watches him warily, readies a fireball and launches it. Clodoveu shifts his belly aside and raises his arm; the ball flies past, burning his skin, and explodes in the distance, searing his back and hair. His wounds stop healing. He touches his hair. "I'm all out of healing now. Dammit. Well, you asked for it!"
+- He flies at Harry, throwing punch after punch. Harry blocks a few but can't keep up: bones break, flesh tears, blood spills, and it all heals almost instantly. Clodoveu's timing slows; out of breath, he steps back. "Wooo!" He looks up at Harry's hand coming down with full force.
+- His body freezes, then falls apart like a sliced ham. Harry screams, then devours the body like a seasoned glutton at an all-you-can-eat buffet.
+
+#### Wilson runs through the forest, mind racing, eyes bloodshot, everything blurred
+
+- His body is nearly weightless as he pushes it to the limit; his racing thoughts analyze nearly everything in his vision and adjust his pace. He feels his bones crack, his joints bust and heal, only to burst again.
+- Everything is fine until his body starts feeling light and his thoughts race so fast he can't follow them himself. His vision blurs; he trips over something and falls to the forest floor.
+- He manages to hobble onto his belly, but his arms and legs move on their own; he tastes sweet, then sour, then bitter. He hears Clodoveu, he hears Harry's screams; he sees everything, hears everything.
+- His body convulses. His mouth clamps shut on his own tongue, bloody foam forming around it, suffocating him. The gurgling stops as his lungs fill up. He calms down, and falls into a sound sleep, somewhere in the forest.
+
+# Book 8 - Small Problem › Chapter 2 - Sanbi Beast
+
+#### Eori eavesdrops at Eiri's door while she talks with Sora
+
+- Eori was on her way to talk to Neferteri, but hears Eiri crying instead, and listens closely. Sora: "C'mon, Eiri! You've got to let him go! You've seen what became of the quest—" An urge rises inside Eori. She opens the door. "WHAT BECAME OF IT?"
+- Sora gets flustered and looks away in shame. Eiri: "Nobody told you?" "About what?" Eiri waves her in to close the door. Eori does, but doesn't sit; she stands a few feet away, glaring at them both.
+- Eiri: "Adventurers are giving up on the quest, since nobody can find a hint of where Harry disappeared to." "THEN RAISE THE AMOUNT!" Eiri shakes her head. "I tried, but Huneo blocked it. In his eyes, this quest already pays too much."
+- Eori points at the office next door, the king and queen of Sanbi's. "They said no to raising it too?" Eiri slowly nods, with a hum that confirms Eori's suspicion. Eori turns to leave without a word; her anger seems to make the room's gravity heavier. "Wait! Please keep this between us, okay?" Eori glances back with bloodthirsty eyes, then leaves without a word.
+
+#### Eori, on nari gel, in Huneo's office
+
+- Out of pure spite, Eori injects herself with nari, catching Huneo and his guard off guard. She attacks the guard, who can barely defend himself and tells Huneo to run. He doesn't. Eori sends the guard flying, incapacitating him.
+- Huneo opens his arms. "C'mon! Do it! I know you want to kill me! DO IT!" Eori falls for the trap: she kills him, and laughs as she bashes his head on the ground.
+- She feels someone watching, turns, and sees a maid frozen on the floor, seeing Eori act like a wild animal. It dawns on her what she just did. Tears explode from her eyes, and her voice cracks as the word "Harry" forms within the unintelligible grumbles.
+
+#### Neferteri and Eori in her cell
+
+- Neferteri looks at her daughter, who stares back as if looking for trouble. Neferteri is speechless; she wants to say something, but struggles to find the words. She turns around. "Why am I still here?" Eori asks flat out.
+- Neferteri stops, but doesn't turn back. "You killed Huneo. Do you realize what you've done?" "I KILLED HARRY COUNTLESS TIMES! WHAT'S THE DIFFERENCE?" "One of them was considered an experimental subject." She starts walking away. "That was until I saw you needlessly mutilating his corpse."
+- Eori's anger rises as she seems to realize she has lost her last defense. Now everyone has turned on her, and on Harry.
+
+#### Itagiba and Neferteri
+
+Not written yet: they talk about Eori.
+
+# Book 8 - Small Problem › Chapter 3 - The power of Teamwork
+
+#### Dalila with her parents and two adventurers, one with a Winga
+
+- [Dalila](/lore/characters/#dalila-broken-tree)'s father, [Laramy](/lore/characters/#laramy-broken-tree), is an older gentleman. Dalila: "Mom! Can we stop by [Jack Wood](/lore/villages/#jack-wood)?" Her mom, [Honati](/lore/characters/#honati-broken-tree), squeezes her round cheeks. "Anything for my little chubby." Dalila, flustered, pushes her hands away. "You're embarrassing me!"
+- A scream echoes through the air, silencing everyone. Birds take flight and the Egua spooks; her dad calms it down. Adventurer: "What was that?" The other: "Who knows. Can we speed up?" Her dad does. "Let's make the delivery in [Banhia](/lore/villages/#banhia) and stay the night before heading to [Rebula](/lore/villages/#rebula)."
+- An adventurer sends the Winga up. It flies above the trees, looks around, and barks over and over as it heads back. "Speed it up! Something dangerous is coming!" "I can't go any faster!" "I'm gonna Create Hail." The other adventurer: "All right. I'll Decrease Gravity on the cart, then get a shock ready." They do; the Winga's barking grows louder and faster.
+- Dalila readies a sigil ring. "I wanna do Ice!" "Fine by me. Just release it after us!" She prepares the spell. They all see something rush through the forest and leap at them.
+
+#### Dalila comes face to face with Harry #11 as she releases her spell
+
+- She releases the spell. Another adventurer drives his sword deep into Harry, then sees a lot of Soul Energy flame pouring from the wound. Harry tears through the wagon, sending everyone flying.
+- The adventurers and Harry keep fighting, going all out. Harry starts to look like he's dying: he suffers, tearing at his own flesh, and he heals more slowly. The fire in his head swells, and he explodes.
+
+#### Harry explodes in fire as his soul weakens; Dalila's father shields her
+
+- Everyone struggles through the explosion. Dalila's father shields her. She wakes up in the branches of a tree, unable to move. She watches the last adventurer fight Harry and die at his hands.
+- Blood drips from her. She blinks, and Harry is gone; she tries to find him, but her eyes are too fuzzy. She blinks again, and sees wild animals eating her parents.
+- She cries, but her face won't move. A single tear falls from her eye and meets blood before dropping from the branch. Dalila passes away before the tear touches the ground.
+
+# Book 8 - Small Problem › Chapter 4 - Soul Climax
+
+#### At the farm, a Black Magina girl chews on flowers while a guy fucks her
+
+- She's high on sedatives. The guy stops, pushes her onto the bed, and she flops around; she tries to get up, but her body won't quite respond. He gets dressed, grabs his weapon and leaves.
+- Crying, she tries to reach the flowers on the desk, flailing as screams and fighting break out outside. She stands, falls forward against the table, grabs all the flowers and shoves them in her mouth. She smiles, tries to get up, and hobbles to the floor.
+- She chews the flowers as the screams and the fight draw closer, lying with her arms wide open, staring vacantly at the ceiling. A loud fire roars outside, followed by a crash against the wall. It doesn't scare her, not even when the bookshelf comes crashing down on her. Her exposed hand shows bits of flower petals as blood pours out.
+
+#### The farm's Magina guy gets up after being slammed into the wall; Harry, seen from behind, is nearly spent
+
+- Everything is on fire. The Magina guy stands. "What the fuck are you?" Someone in the background: "Watch out!" A spell launches at Harry and the Magina guy, blinding them both for a moment. "You fucking arsehole!" His sight comes back, and he sees people stabbing Harry, driving him back.
+- "Hold him back!" He readies a Body Destroy spell. "GET OUT!" He launches it at Harry; it splashes on his belly, sending waves of liquefying flesh, bone and skin to the floor, surrounded by soul flame.
+- Everyone steps back. The Magina guy stabs his sword into the floor. "Find out who sent—" Harry's soul flame lights up amid the pool of liquefied flesh. They see the pool splitting evenly. "There's something there!"
+
+#### A Bagarisa's body rises from the pile of goo
+
+- They throw spells and everything else they can, but that only feeds the fire; they have no idea what the fuck they're doing. They watch the Bagarisa body slowly take shape from the goo. Suddenly, a fire roars with a light so bright that even with your eyes closed it feels like staring at the sun.
+- The Magina guy steps back, and an explosion sends him (or rather a chunk of him) and everyone around flying in all directions. The pressure wave destroys everything else, while putting out all the flames. Everything grows quiet.
+
+# Book 8 - Small Problem › Chapter 5 - Friends With A Handful of Benefits.
+
+#### Ryo spots a girl stumbling through the forest like a zombie, in the afternoon
+
+- [Ryo](/lore/characters/#ryo-flatland-long-blue) stops the wagon and tries to talk to her, but she only calls for her sister before collapsing on him. "Get me some nari gel. ASAP!"
+- [Katsumi](/lore/characters/#katsumi-flatland-long-blue) wakes up, pushes herself away from Ryo and takes off running. "KATSUMI!" She stops, comes back and goes to punch him in the face, but his adventurer guard stops her, and she falls to the ground. Ryo: "Hey! No need to get aggressive." The adventurer doesn't reply.
+- Ryo holds out his hand to the short-haired sister. "I'm willing to help a stranger, if you pay me back in full." "I don't have balls." "Who said I need money?" "So what? You gonna fuck me in the ass while calling me a whore, like the others?"
+- Ryo puts on a lewd smile. "I don't like calling people names. I guess I'm the silent type. Plus, you could just start with your hand, and then we move on to the others." He holds his hand out further. Katsumi smiles back slightly and takes it. "I'm Ryo. Pleasure to be of service." "I'm Katsumi. I need help saving my sister from a Magina field."
+
+#### Katsumi and Ryo, in the afternoon
+
+- They talk about the Magina guy. Ryo has dealt with him before: he gets pretty crabby at times, but he's still a reasonable guy. Ryo: "So your sister looks just like you?"
+- Ryo proposes a deal: if the sisters tell him everything they know about the [Red Winga](/lore/factions/#red-winga), and everyone they got their information from, he'll keep them hidden while he tries to negotiate a contract cancellation.
+- The adventurer, who seems to be actively trying not to listen: "Watch out!" Ryo stops the wagon. A pack of Bagarisas crosses the road, all seemingly rushing away from something. Ryo: "That's a really big pack." Katsumi: "What are you gonna do with it?" "Make us some balls, of course!" "Us?"
+- "But of course! I plan to give you and her things other than a daily dose of my genes." The lewd smile returns. "But if that's all you want, I'll gladly provide." Katsumi: "If you save my sister, I'll show you everything I learned from the Red Winga." "Everything?" She leans in close. "E—ve—ry—thing," she says in a sensual voice.
+
+#### Ryo, the adventurer and Katsumi come across a broken wagon in the middle of the road, in the evening
+
+- Adventurer: "We need to go back right now!" Katsumi: "No! We can't turn around! Do you know what they're doing to her?" "It doesn't matter if we all die! I can't protect you both!"
+- Ryo pulls up right beside the broken wagon. "This isn't normal! Look! There's blood everywhere, and even the Egua is gone." He whips the Egua into full speed. "We can't stop until we get there! You two, we're already in danger! Keep your eyes on the sides and behind the wagon!"
+- Adventurer: "Impossible! No wild animal would do that, except—" Ryo: "A bandit group trying to pass as wild animals. I can work out a deal with the Magina guy to keep us safe." The explosion happens. Adventurer: "That's ominous." Ryo: "It's fine. Whatever was happening must have ended with a bang. The Magina guy must have taken care of it. Let's go see!"
+
+#### Ryo, Katsumi and the adventurer reach the farm at night; smoke billows from the houses, small fires everywhere
+
+- Everything is freshly demolished: blood and chunks of bodies everywhere. Katsumi looks distraught, the adventurer confused, and Ryo curious. Ryo: "Maybe one of them is the Magina guy?" Adventurer: "I'm not healing bandits! That's where I draw the line." "I never said that! So, where do you think she is?" Katsumi: "In the bedroom!"
+- They talk it over, and the adventurer helps with gravity control. Katsumi pulls out her sister's body, and they leave. Ryo tries to grab some stuff, but the adventurer refuses: that's too much. Ryo says fine, and they head off to Forway.
+
+# Book 8 - Small Problem › Chapter 6 - Scared Forest
+
+#### Rebula village
+
+- [Severino](/lore/characters/#severino-rebula) is chopping wood. The forest is making all kinds of noises. He stops and listens to the wind, tosses the axe aside, and goes inside to his wife, [Nailah](/lore/characters/#nailah-rebula). "Done already?" "No. The forest keeps getting spooked by something." "Bad weather coming?" He gets something to drink. "Maybe? It's the season for those storms, but the forest feels wrong."
+- Their son, [Vitor](/lore/characters/#vitor-rebula), appears. "Mom! Dad! Look what I found!" After a bit of family time, Severino brings him outside to chop firewood together. Vitor is getting ready to chop when a screech sounds in the distance.
+- Severino turns serious. He hears the forest fauna going crazy, and sees birds and other animals fleeing something to the north. "Dad?" Severino kneels to his son's level and grabs his shoulder. "Son, I need your help." Vitor puffs out his chest, ready. "Bring the bell to the center of the village and pound on it. Tell people to gather their fost stones and weapons."
+
+#### Rebula: men posted with weapons and fost stones; Takeo rides up on an Egua
+
+- [Takeo](/lore/characters/#takeo-forway-tea-drinkers): "You guys playing fort, or what?" Severino: "You didn't hear?" Takeo's eyebrows bounce around as his day replays in his head. "Something about bandits?" "No! There was this loud screech, once, in the afternoon! We think it came from the north."
+- "That explains it, then. I came from Deltacross. Do you guys have any food to sell? I couldn't catch anything today." "Are the animals too spooked?" "Yeah! How did you know?" "Because I saw them fleeing." "So you guys are getting ready to flee too?"
+- Rubela: "To where? This is our home!" The men in the background cheer. "We're gonna kick its teeth in!" Takeo: "Well, if you feed me and give me a place to sleep tonight, I can help too." Rubela: "You sure about that? What if Forway finds out?" Takeo: "Will anyone tell?" He peeks through the crowd; everyone shakes their heads. With a smile: "Then all good."
+- "Say, do you guys have a many-husbands policy or what?" Severino: "What does that have to do with anything?" "Just curious. There are like 10 guys for every woman here." "I see what you're saying. Most of the women and children are hidden in the barracks behind us." "Got it. You guys—"
+
+#### An explosion of light in the distance makes the evening as bright as day
+
+- Takeo and Severino, with a group of men and some women, see the fission explosion in the distance. Everyone falls silent, struggling to see again. Takeo: "Fuck! My eyes! They hurt!" Severino: "Can anyone see? Shit!"
+- A loud, fierce gust of air claps through the village. Some people fall over, some trees break, and branches, bits of houses and even small mammals are swept up by the wind and sent flying.
+- Takeo stands and dusts off his robes. "Phew. That's over." Severino coughs up dirt as he gets up a ways off. "What makes you say that?" "That's what I heard from Sapphire adventurers: an explosion like that matches the Hifuna beasts when they reach the end of their lives. We should go check it out! And if we're first, can I claim to be the one who slayed it? I'm very close to my Sapphire promotion." "Well, if you protect us, then have at it." Takeo holds out his hand, and they shake firmly.
+
+#### Takeo and the people of Rebula reach the farm; a Bagarisa in the distance is eating Harry's body
+
+- Lighting the way with fost stones, they see a wild animal feasting on a body. It turns on them: a large Bagarisa. It kills some of them, but they manage to fight it off. When did Bagarisas get so violent? Takeo: "That was the Hifuna beast."
+- Severino: "We can't leave these people behind!" Takeo points at some slightly burned Maginas. "They're bandits!" "They're innocent people! I told Forway about this farm, about the kidnappings, but you guys never did anything!" "Well, that's because you never set the right price!" "Like we have the money!" "I know. I'm not arguing with you. But you've got to understand our side too. It costs a lot!" "Then what are you gonna do?"
+- Takeo holds up his hand with a carefree look. "You guys offered me a place to stay the night—I can't be that much of a backward ass." He holds his badge up high. "Let's play puzzle! You guys have Black Honey, right?" "Not much, but the other villages can pitch in." "Well—we can look around. This clandestine Magina plantation must be hiding a few treasures too. They're bandits, after all."
+- Severino: "There are a lot of bodies to take care of. We need all the balls we can get. Everyone agreed?" Murmurs ripple through the crowd; nobody feels like being the contrarian, especially surrounded by a sea of dead bodies.
+
+# Book 8 - Small Problem › Epilogue
+
+#### Harry, stuck in limbo, sleeping with the Bagarisas
+
+- It ends with darkness splitting Harry from the Bagarisas. He tries to run to them, but the split is too strong. Then a bright light hits him.
