@@ -1,0 +1,206 @@
+{
+ "0bf9322efcf3": {
+  "en": "Final score: {you} {youScore}, {rival} {rivalScore}. {verdict}",
+  "t": "คะแนนสุดท้าย: {you} {youScore}, {rival} {rivalScore} {verdict}"
+ },
+ "0d4b087148ae": {
+  "en": "Playground · #HusbandOutWorld",
+  "t": "สนามเด็กเล่น · #HusbandOutWorld"
+ },
+ "11b7f08bcb49": {
+  "en": "{player} snipes the {colour} territory ({points}).",
+  "t": "{player} สไนป์อาณาเขต {colour} ({points})"
+ },
+ "19e17a057b61": {
+  "en": "Your turn: press Throw (or Space) when the aim is where you want it.",
+  "t": "ตาคุณ: กด \"ปา!\" (หรือ Space) เมื่อเล็งตรงที่ต้องการ"
+ },
+ "21504db71017": {
+  "en": "Play full screen",
+  "t": "เล่นแบบเต็มจอ"
+ },
+ "27bbcef16995": {
+  "en": "Hiromi",
+  "t": "ฮิโรมิ"
+ },
+ "38d4249ff036": {
+  "en": "⏱ {seconds}s · darts: {you} {youLeft}, {rival} {rivalLeft}",
+  "t": "⏱ {seconds}s · ลูกดอก: {you} {youLeft}, {rival} {rivalLeft}"
+ },
+ "40e405b6605c": {
+  "en": "I haven’t heard of that, but yeah, I prefer targeting the yellow ones, as those are worth more if you snipe all territories.",
+  "t": "ข้าไม่เคยได้ยินแบบนั้น แต่ใช่ ข้าชอบเล็งช่องสีเหลืองมากกว่า เพราะพวกนั้นได้แต้มมากกว่าถ้านายสไนป์อาณาเขตได้ทั้งหมด"
+ },
+ "42766efba402": {
+  "en": "Middle ring",
+  "t": "วงกลาง"
+ },
+ "42ae6cb3cd8f": {
+  "en": "Time! The room starts to move too much…",
+  "t": "หมดเวลา! ห้องเริ่มขยับมากเกินไป…"
+ },
+ "4c660686dc07": {
+  "en": "His first dart clings, then falls. The second lands on a green territory near the centre.",
+  "t": "ลูกดอกแรกของเขาเกาะแล้วตกลง ลูกที่สองลงบนอาณาเขตสีเขียวใกล้ศูนย์"
+ },
+ "4c9a82ce72ca": {
+  "en": "blue",
+  "t": "น้ำเงิน"
+ },
+ "4d2751b25828": {
+  "en": "Kinda? Was the board always this big and colored? I thought it was rounded too— OH YEAH! The center is worth more, right?",
+  "t": "ประมาณนั้นครับ? กระดานมันใหญ่และมีสีแบบนี้มาตลอดเลยเหรอ? ผมนึกว่ามันกลมด้วย— อ๋อใช่! ตรงกลางได้แต้มมากกว่าใช่ไหม?"
+ },
+ "50ccc5e2e037": {
+  "en": "He aims for the same green, and lands far above it, on purple.",
+  "t": "เขาเล็งสีเขียวเดียวกัน และลงไกลเหนือขึ้นไปบนสีม่วง"
+ },
+ "576766d387ec": {
+  "en": "Play again",
+  "t": "เล่นอีกครั้ง"
+ },
+ "69b0b68def54": {
+  "en": "SEE? It’s all about mindset! You know what, Harry? You’re cool! So why not play a bit of territory snipping to celebrate?",
+  "t": "เห็นไหม? มันอยู่ที่ทัศนคติ! รู้อะไรไหม แฮร์รี? นายเจ๋ง! งั้นทำไมไม่เล่นเทร์ริทอรีสนิปปิงกันหน่อยเพื่อฉลองล่ะ?"
+ },
+ "76262d314611": {
+  "en": "Territory Snipping: turn your phone sideways",
+  "t": "เทร์ริทอรีสนิปปิง: หมุนมือถือเป็นแนวนอน"
+ },
+ "78988010b890": {
+  "en": "red",
+  "t": "แดง"
+ },
+ "7a8cb7243b93": {
+  "en": "{n} pt",
+  "t": "{n} แต้ม"
+ },
+ "85a1ecacad2c": {
+  "en": "That’s the spirit! … You played this before, right?",
+  "t": "นั่นแหละจิตวิญญาณ! … นายเคยเล่นมาก่อนใช่ไหม?"
+ },
+ "8bf12a38bad0": {
+  "en": "Throw!",
+  "t": "ปา!"
+ },
+ "935f6cd89f4a": {
+  "en": "A draw!",
+  "t": "เสมอ!"
+ },
+ "94e6a3ea4d1f": {
+  "en": "Turn your phone sideways to play.",
+  "t": "หมุนมือถือเป็นแนวนอนเพื่อเล่น"
+ },
+ "96de5543d183": {
+  "en": "yellow",
+  "t": "เหลือง"
+ },
+ "992fb4c6838e": {
+  "en": "{you} wins, somehow!",
+  "t": "{you} ชนะ แบบไหนก็ไม่รู้!"
+ },
+ "9bdcbc1f38da": {
+  "en": "You’re coolio too!",
+  "t": "คุณก็เจ๋งเป้งเหมือนกัน!"
+ },
+ "a691267c5647": {
+  "en": "{rival} wins.",
+  "t": "{rival} ชนะ"
+ },
+ "a75be8f0bded": {
+  "en": "Cancelled! Both darts on the {colour} territory are out.",
+  "t": "ยกเลิก! ลูกดอกทั้งสองบนอาณาเขต {colour} ออก"
+ },
+ "afaed75406bd": {
+  "en": "purple",
+  "t": "ม่วง"
+ },
+ "b2b52c2fc7c2": {
+  "en": "Snipe all territories? That’s—different—I think. Can—can you explain?",
+  "t": "สไนป์อาณาเขตทั้งหมด? นั่นมัน—แปลก—ผมว่านะ คุณ—คุณช่วยอธิบายได้ไหม?"
+ },
+ "b8c8d91c4ad6": {
+  "en": "Yellow centre",
+  "t": "ศูนย์กลางสีเหลือง"
+ },
+ "b98ab59bdc99": {
+  "en": "{n} pts",
+  "t": "{n} แต้ม"
+ },
+ "b9f8e7d16bef": {
+  "en": "{player}'s dart bounced off the wall.",
+  "t": "ลูกดอกของ {player} กระเด็นจากกำแพง"
+ },
+ "bc38448e90c1": {
+  "en": "Aw, my chitin ass! Anyways, the goal is to land on the same color region to score a point. If you land on a region with someone else’s dart, you two cancel each other out. Ehh—right? Right—right. The smaller the region, the more it’s worth when sniping it. That makes sense?",
+  "t": "อ๊าก ตูดไคตินของข้า! ยังไงก็ตาม เป้าหมายคือปาลงบริเวณสีเดียวกันเพื่อทำแต้ม ถ้านายปาลงบริเวณที่มีลูกดอกของคนอื่น นายสองคนจะหักล้างกัน เอ่อ—ใช่ไหม? ใช่—ใช่ บริเวณยิ่งเล็ก ยิ่งได้แต้มมากตอนสไนป์มัน เข้าใจไหม?"
+ },
+ "bc74f4f071a5": {
+  "en": "green",
+  "t": "เขียว"
+ },
+ "bc981983e7f5": {
+  "en": "Next",
+  "t": "ถัดไป"
+ },
+ "c1218408e29a": {
+  "en": "Just a hunk—that was me warming up! Now try to throw on a green section or anywhere else.",
+  "t": "แค่ฮังก์เดียว—นั่นข้าวอร์มอัพ! ทีนี้ลองปาลงช่องสีเขียวหรือที่ไหนก็ได้"
+ },
+ "c7abd16eb68f": {
+  "en": "Brotha—you suck at this—Harry?",
+  "t": "พวก—นายห่วยเรื่องนี้จริงๆ—แฮร์รี?"
+ },
+ "c852360f55c1": {
+  "en": "—Yea? So I play next?",
+  "t": "—ครับ? งั้นผมเล่นต่อไปเหรอ?"
+ },
+ "caab81299f22": {
+  "en": "The game starts as soon as the phone is sideways.",
+  "t": "เกมจะเริ่มทันทีที่มือถืออยู่ในแนวนอน"
+ },
+ "cc60a1651cdd": {
+  "en": "Final: {you} {youScore} · {rival} {rivalScore} · {verdict}",
+  "t": "สุดท้าย: {you} {youScore} · {rival} {rivalScore} · {verdict}"
+ },
+ "ce3c494a5e85": {
+  "en": "Aiight!",
+  "t": "โอเค!"
+ },
+ "d153c794ecdb": {
+  "en": "Play upright instead",
+  "t": "เล่นแนวตั้งแทน"
+ },
+ "d1d827cb044b": {
+  "en": "What each territory is worth",
+  "t": "แต่ละอาณาเขตมีค่าเท่าไร"
+ },
+ "d26d358f777a": {
+  "en": "Your dart flies low and lodges in the wall below the board.",
+  "t": "ลูกดอกของคุณบินต่ำและติดกำแพงใต้กระดาน"
+ },
+ "e99283406209": {
+  "en": "Play the round of <a href=\"/lore/pastimes/#territory-snipping\">Territory Snipping</a> from Vol 2, as Harry, against Hiromi.",
+  "t": "เล่น<a href=\"/lore/pastimes/#territory-snipping\">เทร์ริทอรีสนิปปิง</a>หนึ่งรอบจากเล่ม 2 ในบทแฮร์รี ประชันกับฮิโรมิ"
+ },
+ "ea35482e6295": {
+  "en": "Good try! Good try! C’mon! Try again!",
+  "t": "พยายามดี! พยายามดี! มาเลย! ลองอีกที!"
+ },
+ "ef0ebbb77298": {
+  "en": "orange",
+  "t": "ส้ม"
+ },
+ "f290164d1315": {
+  "en": "Outer ring",
+  "t": "วงนอก"
+ },
+ "fb23c9ff0d27": {
+  "en": "Inner ring",
+  "t": "วงใน"
+ },
+ "feddfb10fb8d": {
+  "en": "We all play at the same time. GO!",
+  "t": "เราเล่นพร้อมกันหมด ลุย!"
+ }
+}

@@ -1,0 +1,157 @@
+/* Iso darts (reusable component): see site/js/iso-darts.js for usage. Ported from Deovandski/Deovandski
+   (src/components/reusable/IsoDarts.astro). Theme: --darts-accent, --darts-text, --darts-on-accent. */
+.iso-darts {
+  --_accent: var(--darts-accent, #39c5bb);
+  color: var(--darts-text, inherit);
+  margin: 0 0 2rem;
+}
+.iso-darts__strings,
+.iso-darts [hidden] {
+  display: none !important;
+}
+.iso-darts__title {
+  margin: 0 0 0.6rem;
+  color: var(--_accent);
+}
+.iso-darts__stage {
+  position: relative;
+  border-radius: 16px;
+  overflow: hidden;
+  background: #1b1310;
+}
+.iso-darts__scene {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.iso-darts__scene.is-spinning {
+  animation: iso-darts-spin 2.4s ease-in-out;
+}
+@keyframes iso-darts-spin {
+  25% { transform: rotate(6deg) scale(1.04); filter: blur(1px); }
+  50% { transform: rotate(-8deg) scale(1.08); filter: blur(2px); }
+  75% { transform: rotate(5deg) scale(1.03); filter: blur(1px); }
+}
+.iso-darts__bubble {
+  position: absolute;
+  inset-inline-start: 10px;
+  top: 10px;
+  max-width: min(62%, 300px);
+  padding: 0.5rem 0.75rem;
+  border-radius: 14px;
+  background: rgba(255, 252, 240, 0.95);
+  color: #2a1c16;
+  font-family: var(--sans, system-ui, sans-serif);
+  font-size: clamp(0.72rem, 1.8vw, 0.9rem);
+  line-height: 1.35;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+.iso-darts__bubble[data-who='you'] {
+  inset-inline-start: auto;
+  inset-inline-end: 10px;
+  top: auto;
+  bottom: 10px;
+}
+.iso-darts__who {
+  display: inline-block;
+  padding: 0 0.4rem;
+  border-radius: 6px;
+  font-size: 0.8em;
+  color: #2a1c16;
+  background: var(--who, #f2c12e);
+}
+.iso-darts__line {
+  margin: 0.2rem 0 0;
+}
+.iso-darts__hud {
+  position: absolute;
+  inset-inline-start: 10px;
+  bottom: 10px;
+  display: grid;
+  gap: 0.15rem;
+  padding: 0.35rem 0.6rem;
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  font-family: var(--sans, system-ui, sans-serif);
+  font-size: 0.8rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+.iso-darts__controls {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.6rem;
+}
+.iso-darts__controls button {
+  min-height: 44px;
+  padding: 0.45rem 1.2rem;
+  border-radius: 999px;
+  border: 1px solid var(--_accent);
+  background: transparent;
+  color: var(--_accent);
+  font: inherit;
+  font-family: var(--sans, system-ui, sans-serif);
+  font-weight: 800;
+  cursor: pointer;
+}
+.iso-darts .iso-darts__throw {
+  background: var(--_accent);
+  color: var(--darts-on-accent, #062523);
+}
+.iso-darts__controls button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+.iso-darts__controls button:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
+.iso-darts__live {
+  min-height: 1.4em;
+  margin: 0.4rem 0 0;
+  font-weight: 700;
+}
+.iso-darts__legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1rem;
+  margin: 0.3rem 0 0;
+  font-family: var(--sans, system-ui, sans-serif);
+  font-size: 0.8rem;
+  opacity: 0.85;
+}
+.iso-darts__legend div {
+  display: flex;
+  gap: 0.3rem;
+}
+.iso-darts__legend dt::after {
+  content: ':';
+}
+.iso-darts__legend dd {
+  margin: 0;
+  font-weight: 700;
+}
+@media (max-width: 560px) {
+  /* Phones held upright (when the reader chose to play that way): the speech bubble sits under the
+     scene so it never covers the board. */
+  .iso-darts__stage {
+    display: flex;
+    flex-direction: column;
+  }
+  .iso-darts__bubble,
+  .iso-darts__bubble[data-who='you'] {
+    position: static;
+    max-width: none;
+    margin: 0.5rem;
+  }
+  .iso-darts__hud {
+    bottom: auto;
+    top: 8px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .iso-darts__scene.is-spinning {
+    animation: none;
+  }
+}

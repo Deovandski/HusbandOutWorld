@@ -1,0 +1,78 @@
+{
+  "_about": "Territory Snipping, the game on the Playground page (/playground/). Copied from Deovandski/Deovandski (content/territory-snipping.json) for #128. The Territory Snipping game on the Board Games tab, played on rails through the scene in #HusbandOutWorld Vol 2 (Lab Soreno). Every line below is from Vol 2; keep it that way (the author's rule: never invent lore). 'do' runs a step of the game after the line: warmup (Hiromi's first dart falls, his second lands on green), practice (you throw one dart), hiromiMiss (Hiromi aims at green, hits purple), round (everyone throws at once), end (the room spins and the score shows). Checked against Legacy/Behind The Scenes/Light Novel/Arc #1 - Dubious Contract/Vol 2 - Lab Soreno.md (the subchapter before 1.5); lines are shortened or joined there, never changed.",
+  "players": {
+    "you": {
+      "name": "Harry",
+      "darts": "red with blue",
+      "color": "#d62f3a",
+      "feather": "#2f6fd6"
+    },
+    "rival": {
+      "name": "Hiromi",
+      "darts": "yellow with white",
+      "color": "#f2c12e",
+      "feather": "#ffffff"
+    }
+  },
+  "dartsPerPlayer": 10,
+  "roundSeconds": 25,
+  "script": [
+    {
+      "who": "rival",
+      "text": "SEE? It’s all about mindset! You know what, Harry? You’re cool! So why not play a bit of territory snipping to celebrate?"
+    },
+    {
+      "who": "you",
+      "text": "You’re coolio too!"
+    },
+    {
+      "who": "rival",
+      "text": "That’s the spirit! … You played this before, right?"
+    },
+    {
+      "who": "you",
+      "text": "Kinda? Was the board always this big and colored? I thought it was rounded too— OH YEAH! The center is worth more, right?"
+    },
+    {
+      "who": "rival",
+      "text": "I haven’t heard of that, but yeah, I prefer targeting the yellow ones, as those are worth more if you snipe all territories."
+    },
+    {
+      "who": "you",
+      "text": "Snipe all territories? That’s—different—I think. Can—can you explain?"
+    },
+    {
+      "who": "rival",
+      "text": "Aiight!",
+      "do": "warmup"
+    },
+    {
+      "who": "rival",
+      "text": "Just a hunk—that was me warming up! Now try to throw on a green section or anywhere else.",
+      "do": "practice"
+    },
+    {
+      "who": "rival",
+      "text": "Good try! Good try! C’mon! Try again!",
+      "do": "hiromiMiss"
+    },
+    {
+      "who": "rival",
+      "text": "Aw, my chitin ass! Anyways, the goal is to land on the same color region to score a point. If you land on a region with someone else’s dart, you two cancel each other out. Ehh—right? Right—right. The smaller the region, the more it’s worth when sniping it. That makes sense?"
+    },
+    {
+      "who": "you",
+      "text": "—Yea? So I play next?"
+    },
+    {
+      "who": "rival",
+      "text": "We all play at the same time. GO!",
+      "do": "round"
+    },
+    {
+      "who": "rival",
+      "text": "Brotha—you suck at this—Harry?",
+      "do": "end"
+    }
+  ]
+}
