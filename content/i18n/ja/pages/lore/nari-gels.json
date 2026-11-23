@@ -3,6 +3,10 @@
   "en": "Time Quicken",
   "t": "タイム・クイックン"
  },
+ "02da8670aeb2": {
+  "en": "A wide range of nari gels covers most poisons, and body and mental status changes: from swapping your eyeballs for those of someone with better vision, to turning yourself completely into a Big Winga so you can soar the skies freely! Because they're tiered, the difference between smoothing your skin and melting it off (as you suffer the worst imaginable pain and scream for someone to end your life) can be just three scoops.",
+  "t": "幅広いナリジェルが、ほとんどの毒と、体と心の状態の変化をカバーしている。もっと視力のいい人の眼球と自分の眼球を取り替えることから、空を自由に舞えるよう自分を完全にビッグウィンガに変えることまで！ ティアがあるので、肌をなめらかにすることと、肌を溶かし落とすこと（想像しうる最悪の痛みに苦しみながら、誰か殺してくれと叫ぶ）の違いは、たった三すくいということもある。"
+ },
  "06a815bb69e8": {
   "en": "This one is pretty straightforward. Fish gills mixed with ground nari and water, and there you go! You can breathe underwater! Well, it's more complex, actually. Depending on the quality of the nari gel, gills develop on the back, near the lungs, or on the sides of the neck, impacting efficiency. Tier I (Cosmetic) usually results in Malformed gills on the person slurping this gel, causing them to be unable to breathe air or water quite right or eat properly. Tier II (Localized) does come with better water breathing. The skin might become slightly scaly, and the person must swim to breathe underwater while no longer being able to breathe air. Some custom versions figured out a way to still allow people to breathe air, though expect to pay top balls for it. Meanwhile, Tier III (Regional) gives you far more efficient water breathing while costing you any remaining air-breathing, with some versions allowing you to eat again. Some nari gels worsen scaly skin or give core temperature regulation issues, while other variants will enable you to stand still while the gills and other structures pump the water through. Tier IV (Whole Body) typically allows one to breathe even in swampy, less oxygenated water, but you might become more fish than human... In other words, your breath goes glub glub.",
   "t": "これはかなり単純だ。魚のエラを挽いたナリと水と混ぜれば、できあがり！ 水中で呼吸できる！ まあ、実際はもっと複雑だ。ナリジェルの品質によって、エラが背中の肺の近くにできるか首の横にできるかが決まり、それが効率に影響する。ティアI（見た目程度）は、たいていこのジェルをすすった人に奇形のエラを生じさせ、空気も水もうまく呼吸できず、まともに食べることもできなくなる。ティアII（局所）は、水中呼吸がよくなる。肌が少しうろこっぽくなり、空気が吸えなくなる代わりに、水中で呼吸するには泳がなければならない。空気も吸えるようにする方法を見つけた特注品もあるが、それには大量のボールを払う覚悟が要る。一方、ティアIII（部位）は、残っていた空気呼吸の能力と引き換えに、ずっと効率のいい水中呼吸をもたらし、また食べられるようになる派生品もある。うろこ肌が悪化したり、体温調節に問題が出たりするナリジェルもあれば、エラなどの器官が水を送り込んでくれるので、じっとしていられるようになる派生品もある。ティアIV（全身）では、たいてい酸素の少ない沼地の水でさえ呼吸できるようになるが、人間というより魚になってしまうかもしれない……言い換えれば、お前の息はブクブクになる。"
@@ -10,6 +14,10 @@
  "0d4b29338ac3": {
   "en": "Wooly Skin",
   "t": "ウーリー・スキン"
+ },
+ "0dcd51d83171": {
+  "en": "<strong>Resistance:</strong> flesh can grow immune to basically every nari gel. Someone who keeps changing \"skin\" to look like someone else will notice their body taking longer to shift, and hurting more, even with the highest-quality gels (a purer gel gives cleaner, stronger effects). Overuse can also leach into the soul: adventurers who insist on looking a certain way find that, given enough time, Nari Refresher returns their body to somewhere between how they were born and how they looked the longest. It's as if the nari gel leaves a ghost imprint on the soul, which might affect how strongly soul and body connect. (World Lore Q&amp;A › Vol 4 Draft 2, Q16.)",
+  "t": "<strong>耐性：</strong>肉体は基本的にあらゆるナリジェルに免疫を持ちうる。誰かに似せるために「皮」を変え続ける人は、最高品質のジェル（純度の高いジェルほど効果はきれいで強い）を使っても、体が変わるのに時間がかかり、痛みも増すことに気づくだろう。使いすぎは魂にまで染み出すこともある。ある姿にこだわる冒険者は、時間がたつと、ナリ・リフレッシャーが体を、生まれたときの姿と最も長くしていた姿の間のどこかに戻してしまうことに気づく。まるでナリジェルが魂に幽霊のような痕跡を残し、それが魂と体のつながりの強さに影響するかのようだ。（世界観 Q&amp;A › Vol 4 第 2 稿、Q16。）"
  },
  "0e85491f5d96": {
   "en": "Water Breath nari gel: a corked jar holding pale-blue gel with a red fish gill inside.",
@@ -31,9 +39,17 @@
   "en": "Time Slower",
   "t": "タイム・スロウワー"
  },
+ "1e9e3eba582a": {
+  "en": "Scientists, usually alongside businesspeople, try to outdo each other with the latest and most extraordinary recipes. Unfortunately, the market has a reputation for being cutthroat: sometimes the breakneck pace of research, or shady cost-cutting in testing, turns unaware buyers into \"alpha testers\" of new products and their claims.",
+  "t": "科学者たちは、たいてい商売人と組んで、最新で最も驚くべきレシピで互いを出し抜こうとしている。あいにく、この市場は熾烈なことで知られていて、ときには研究の猛烈なペースや、試験での怪しげなコスト削減のせいで、何も知らない買い手が新製品とその効能の「アルファテスター」にされてしまう。"
+ },
  "2472662902a3": {
   "en": "Molten Nari worm shells mixed with tons of ground Nari stone and sweet lake water. It serves as an antidote or reset to cleanse any effects caused by this interface on the body. As you drink it, you can feel a particular gasification reaction in your mouth, going down your throat and continuing on your stomach. The bubbly feeling disappears once it finishes reacting with the salt in the body and resetting and restoring your current flesh genes to match your soul genes—albeit the restoring part is not as efficient as Body Restore from the Darfaries Interface.",
   "t": "溶かしたナリワームの殻に、大量の挽いたナリストーンとスイートレイクの水を混ぜたもの。このインターフェースが体に引き起こしたあらゆる効果を洗い流す、解毒剤やリセットとして使われる。飲むと、口の中で独特の発泡反応が起き、喉を下って胃まで続くのが感じられる。体内の塩分と反応し終えて、今の肉体の遺伝子を魂の遺伝子に合うようリセットして回復させると、泡のような感覚は消える——ただし、回復の部分はダルファリエス・インターフェースのボディ・リストアほど効率的ではない。"
+ },
+ "253b8d6693d7": {
+  "en": "Goods are sorted into four tiers by how they look to a common person in Vraki: from cheap things anyone buys, to things only the very rich can afford (a common person might buy something as expensive as one sapphire once in their lifetime; for a really rich person, that's ordinary). The boundaries between tiers are blurry on purpose: it's a spectrum, and the tiers just help picture it.",
+  "t": "品物は、ヴラキの一般の人にどう見えるかによって四つのティアに分けられる。誰でも買う安いものから、大金持ちにしか買えないものまでだ（一般の人は、サファイア一個ほど高価なものを一生に一度買うかもしれないが、本当の大金持ちにとっては、それはふつうのことだ）。ティアの境界はわざとあいまいにしてある。ひとつの連続したものであり、ティアはそれを思い描く助けにすぎない。"
  },
  "2ea9ead05122": {
   "en": "Scientists, usually alongside businesspeople, try to outperform each other with the latest and most extraordinary recipes. Unfortunately, this market has gained the reputation of being cutthroat. Sometimes, the neck-breaking research speed or shady cost-cutting in testing can lead to unaware buyers being “alpha-testers“ of new products and their claims.",
@@ -87,6 +103,10 @@
   "en": "The opposite of Time Quicken. Made from ground Nari with Steen mixed with Cocona water. Tier I (Cosmetic) brings you relaxation, sleepiness, and the munchies. Some variations also add muscle relaxation or avoid giving the munchies as you could be on the road and need to pass the time in the wagon but have limited food supplies. Tier II (Localized) certainly decreases your alertness and often comes with a slowed heartbeat and reflex. The lethargy at this point is only comfortable to a few people, so you rarely see anyone consuming enough to get into this and above tiers. However, if you do, then expect Tier III (Regional) to be a challenge even to stand up and walk around. You might still be lucid enough to think clearly, but you will be mumbling your speech and slop around like someone on the verge of being black-out drunk. Tier IV (Whole Body) relaxes your heart, too, making it take a nice long nap that softly kills you.",
   "t": "タイム・クイックンの逆だ。挽いたナリにスティーンを入れ、ココナの水と混ぜて作る。ティアI（見た目程度）は、リラックス、眠気、そして空腹感をもたらす。筋肉の弛緩を加えたり、食料が限られた中で荷馬車に揺られて時間をつぶす必要があるときのために空腹感を起こさないようにしたりした派生品もある。ティアII（局所）は確実に注意力を下げ、たいてい心拍と反射も遅くなる。この段階の倦怠感が心地いいのはごく一部の人だけなので、この段階以上まで飲む人はめったにいない。だが飲むなら、ティアIII（部位）では立ち上がって歩き回るのさえ一苦労になると覚悟しておけ。まだはっきり考えられるくらい意識はしっかりしているかもしれないが、ろれつが回らず、記憶が飛ぶ寸前の酔っぱらいのようにふらふらする。ティアIV（全身）は心臓まで緩め、優しく命を奪う、心地よく長い昼寝をさせる。"
  },
+ "5ab5dcb4815b": {
+  "en": "<strong>Tier II (Common Goods):</strong> none.",
+  "t": "<strong>ティアII（一般的な品）：</strong>なし。"
+ },
  "5d570079c51e": {
   "en": "Nari Gels · #HusbandOutWorld",
   "t": "ナリジェル · #HusbandOutWorld"
@@ -102,6 +122,14 @@
  "74c75b21c5f7": {
   "en": "Mixing Cruro's hair and skin will give a nari gel that, depending on how much is consumed, will provide you with something as simple as thicker greenish skin to a scaly lizardy skin that hampers agility. At least mosquito bites will be a thing of the past. Some subversions exist where it doesn’t tinge your skin green.",
   "t": "クルロの毛と皮を混ぜると、飲む量によって、緑がかった厚い肌という単純なものから、俊敏さを損なうトカゲのようなうろこ肌まで与えてくれるナリジェルになる。少なくとも、蚊に刺されるのは過去の話になる。肌を緑に染めない派生品もある。"
+ },
+ "83eb62e3a832": {
+  "en": "Sustained Soul Consumption",
+  "t": "持続的な魂の消費"
+ },
+ "8c1d4054c9ff": {
+  "en": "Nari gels by tier:",
+  "t": "ティア別のナリジェル："
  },
  "8e06360cadd1": {
   "en": "Skin Melt nari gel: a corked jar holding purple gel with flecks of gold.",
@@ -123,6 +151,10 @@
   "en": "Cruro Skin nari gel: a corked jar holding green gel with pale scraps of skin.",
   "t": "クルロ・スキンのナリジェル：淡い色の皮のかけらが入った緑のジェルの、コルク栓の瓶。"
  },
+ "95ddedba9b1d": {
+  "en": "Nari gels are the quickest and safest way to act on any living soul: they're ready to swallow or inject, and their tiered effects are easy to reproduce. Ground nari dust is infused with water into a jelly-like consistency, then mixed with other substances, and maybe catalysts, to get whatever effect you want. The coarser, cheaper grades are easier to swallow, but their transformations tend to be more painful and slower to kick in. You can pay a premium for very fine-grade gels, which are easier to inject, especially if you want to keep the pain as low as possible.",
+  "t": "ナリジェルは、あらゆる生きた魂に作用する最も手早く安全な方法だ。飲み込むか注射するばかりになっていて、ティアごとの効果は再現しやすい。挽いたナリの粉を水と練り合わせてゼリー状にし、それからほかの物質や、場合によっては触媒と混ぜて、望む効果を得る。粗くて安い等級のものは飲み込みやすいが、変化はもっと痛く、効き始めるのも遅い傾向がある。割増料金を払えばとても細かい等級のジェルが手に入り、注射しやすい。とくに痛みをできるだけ抑えたいなら。"
+ },
  "979566748b3a": {
   "en": "Cruro Skin",
   "t": "クルロ・スキン"
@@ -134,6 +166,10 @@
  "a19b2d791e9a": {
   "en": "Wooly skin and hair mixed with just a bit of wooly milk and nari gel will give you silk-smooth hair that grows even faster and rarely splinters. Hands down, it's one of the most used and customized nari gels around! You can even tweak the hair color you have grown and even where it will grow if you shell out enough balls. Add more potency to it, then you might get way more hair than you ever wanted, if not making your nails as thick as hoof. That's when sane people would stop the dosage as anything beyond will only worsen it, such as clumps of hair plugging up your nose and producing such grease hair that it feels like you were covered in lard.",
   "t": "ウーリーの皮と毛に、ほんの少しのウーリーの乳とナリジェルを混ぜると、さらに早く伸びて枝毛もほとんどできない、絹のようになめらかな髪になる。間違いなく、最もよく使われ、最もカスタマイズされているナリジェルのひとつだ！ 十分なボールを払えば、生えてくる髪の色や、生える場所まで調整できる。効き目を強くすれば、望んだよりずっと多くの毛が生えたり、爪がひづめのように厚くなったりするかもしれない。正気な人ならそこで量を増やすのをやめるだろう。それ以上は悪化するだけだからだ。毛の束が鼻に詰まったり、ラードを塗りたくられたかと思うほど脂ぎった髪になったりする。"
+ },
+ "a5ae5108d7cc": {
+  "en": "On the plus side, your liver will eventually process and expel the changes, so if you're on your own and put yourself in jeopardy, sit back and relax! If it doesn't kill you, you'll eventually get back up and do it again! On average, the coarser, cheaper stuff takes longer to expel, so keep that in mind. Either way, do it enough times and your body might start accepting the changes as its new reality, changing your idea of normal forever. It won't be cheap, unless you're getting high on your nari gels.",
+  "t": "よい面としては、肝臓がいずれ変化を処理して排出するので、一人きりで自分を危険にさらしても、くつろいでいればいい！ それで死ななければ、いずれまた起き上がって、もう一度やれる！ 平均して、粗くて安いもののほうが排出に時間がかかるので、それを覚えておくこと。いずれにせよ、何度も繰り返せば、体はその変化を新しい現実として受け入れ始め、普通というものの考えを永遠に変えてしまうかもしれない。ナリジェルでハイになっているのでもなければ、安くはないだろう。"
  },
  "a613f06a39b3": {
   "en": "Winga Flight",
@@ -155,6 +191,14 @@
   "en": "Nari Refresher nari gel: a corked jar holding dark-blue gel with crystal shards.",
   "t": "ナリ・リフレッシャーのナリジェル：結晶のかけらが入った濃い青のジェルの、コルク栓の瓶。"
  },
+ "b536e7b02714": {
+  "en": "<strong>Tier I (Cheap Goods):</strong> none.",
+  "t": "<strong>ティアI（安価な品）：</strong>なし。"
+ },
+ "bb0eca872539": {
+  "en": "Everyone buys these gels, adventurers usually more than commoners. A wise adventurer always keeps a Nari Refresher ready, to reset every affliction caused by other nari gels—unless that adventurer is using fake-body nari gels to alter their personality, which isn't unheard of, but definitely isn't recommended.",
+  "t": "誰もがこうしたジェルを買い、たいてい冒険者のほうが庶民より多く買う。賢い冒険者は、ほかのナリジェルが引き起こしたあらゆる不調をリセットするために、いつもナリ・リフレッシャーを用意している。その冒険者が、性格を変えるために偽の体のナリジェルを使っているのでなければの話だ。聞かない話ではないが、絶対におすすめしない。"
+ },
  "bb8d8528665f": {
   "en": "Wooly Skin nari gel: a corked jar holding amber gel with floating bits.",
   "t": "ウーリー・スキンのナリジェル：何かが浮いた琥珀色のジェルの、コルク栓の瓶。"
@@ -170,6 +214,10 @@
  "c4c9beaedc0f": {
   "en": "Nari Gels",
   "t": "ナリジェル"
+ },
+ "c9c21a83d816": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Nari%20Gels.md\">Legacy/Behind The Scenes/World Lore/Science - Nari Gels.md</a>",
+  "t": "出典：<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Nari%20Gels.md\">Legacy/Behind The Scenes/World Lore/Science - Nari Gels.md</a>"
  },
  "cb7c45f0daea": {
   "en": "Body Paralysis nari gel: a corked jar holding turquoise gel full of bubbles and seeds.",
