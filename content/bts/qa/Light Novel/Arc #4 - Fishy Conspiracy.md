@@ -55,3 +55,19 @@ Applied:
 - A4-6: "losing it (3 Sapphires)". The raw notes still say "(10,500?)" (not made official in the raw display).
 - A4-7: the morning clerk and the sweet old clerk are the same person, {WIP-embassyClerk}. (Book 12's Embassy clerk, a "guy", is left as written.)
 - A4-8: no new number; the Book 13 scene keeps "#13 clothes", with a note that the numbers tie in to the illustrations. Arc #2's front-matter note ("each one is a different Harry") corrected to match.
+
+## Book 14 - Nari Gel Bait (batch 3)
+
+Filled from Legacy:
+- Coema, Magi, Arukia, Katsumi, Katsuki, Emelia, Laura link to Characters; Barinas → Fauna; Red Winga → Factions. "the island" fits Endlessfog (Cities: an island where humans live alongside Bruntos), from A4-2.
+- Writer's notes became short lines or were left out: "Describe the quest, introduce more of her" → "More of Magi on the job"; "Make fun of it" (the resort tour) → "shows them around the dump". "sudden sleep syndrome" → narcolepsy (Characters).
+- Placeholders summed up: the juice list "X, T, Y, F" and Katsuki's "One—T" → "the server lists the juices" / "she picks a juice". "BOGO" → "buy one, get one free".
+- Polished: "spreading the world" → "the word"; "Light it up fire!" → "Light it up!"; "Nair gel" → nari gel; "Magi asks that she is now investigating" → "says"; "Eori seems kind, controlling, antisocial" → "kind of controlling, and antisocial" (see A4-14).
+
+Questions:
+- **A4-9:** Prologue: "She uses her roommate as Nari gel to escape." Does Eori disguise herself as {WIP-eoriRoommate} with nari gel, or does the roommate help her escape? For now: "She uses her roommate, and nari gel, to escape."
+- **A4-10:** Chapter 1: Magi reaches for her "Mind Quicken" to stay awake. Nari Gels has Time Quicken, but no Mind Quicken. Same gel, or a new one?
+- **A4-11:** Chapter 2: Ryo's assistant at the resort, and the name Katsumi picks on the spot for the whorehouse. Names, or {WIP-…}?
+- **A4-12:** Chapter 4: Ryo's distributor contact "XXX", and "LLK", the inexperienced seller from Sanbi. Names, or {WIP-…}? Is LLK someone we know?
+- **A4-13:** Chapter 4: Ryo realizes Katsuki is pregnant (morning sickness, eating like a Bagarisa). By Ryo? The notes don't say.
+- **A4-14:** Chapter 1: "Eori seems kind, controlling, antisocial." I read it as "kind of controlling, and antisocial". Or did you mean she seems kind too?

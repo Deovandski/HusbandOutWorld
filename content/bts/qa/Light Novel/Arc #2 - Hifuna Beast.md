@@ -32,7 +32,7 @@ Status: **answered** 2026-11-22.
 
 ### Judgment calls in Book 5
 - **"{JWK} Name"** (a placeholder for the young guard captain who becomes Kibe's apprentice) is filled in as Huneo, from the next scene ("Kibe & Huneo at the meeting").
-- Harry's numbers (#7-A, #8-A, #8-B) are kept: each is a different Harry.
+- Harry's numbers (#7-A, #8-A, #8-B) are kept. (Corrected 2026-11-23, A4-8: the numbers tie in to the illustrations, not to how many times he has been revived.)
 - Typos read as meant: "take over the cargo" as "take over the post" (Portuguese *cargo*); "Oh which I will officially introduce" as "On which note, I'll officially introduce"; "Wozes" and "Bagarises" as Wozens and Bagarisas.
 
 ## Book 6 - Sabbatical (asked 2026-11-22)

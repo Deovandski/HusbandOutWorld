@@ -1,6 +1,6 @@
 ---
 source: Legacy/Behind The Scenes/Light Novel/Arc #4 - Fishy Conspiracy.md
-status: abridged in batches, one book at a time; Books 12 and 13 drafted 2026-11-23 (see content/bts/qa/Light Novel/Arc #4 - Fishy Conspiracy.md)
+status: abridged in batches, one book at a time; Books 12 to 14 drafted 2026-11-23 (see content/bts/qa/Light Novel/Arc #4 - Fishy Conspiracy.md)
 note: same format as Arcs #2 and #3. Each chapter becomes a polished list of story beats in the author's voice, keeping the draft dialogue that carries a joke or a character's voice. Books not yet abridged fall back to the raw notes.
 ---
 
@@ -236,3 +236,114 @@ She'll appear more, to instigate Eori and Eiri onto a "good" path… (still open
 - Hanako comes over to Mimi. "Leave her be. We're at work right now." Mimi, crying: "But Desmond disappeared! I want Desmond back!" Yosuke appears from the kitchen. "What's going on? Mimi! Don't make a scene! Go to your room!" Hanako: "If you find him, let us know. Mimi, c'mon." Mimi hugs Hanako as they head upstairs.
 - Magi realizes Harry gave most of his money away, which left him almost nothing to flee with. They ask her to find him; she tells them to post a search quest, and leaves. "But he doesn't have a badge!"
 - Magi doesn't respond; she seems dissatisfied too, and starts to think it over. Did she just stumble into a conspiracy? What should she do? Could it be the same one that made her father disappear? Hanako: "Fine! We'll find him on our own!"
+
+# Book 14 - Nari Gel Bait › Prologue
+
+#### Eori has an altercation with Morika, who has basically put her under house arrest
+
+- Eori flips her shit and goes back to her dorm. She remembers Coema's letter, and it clicks: someone is holding Harry hostage, using his fake body. She's pissed she didn't heal him, or interrogate him. She uses her roommate, and nari gel, to escape.
+
+#### Eori, her appearance changed with nari gels, in a cheap room
+
+- She opens a bag of balls: an Aquamarine, plus change. She opens another letter from [Coema](/lore/characters/#coema-sanbi-half-cruro): "Good Princess! Now wreak havoc! Have fun! Light it up! Make Neferteri red with anger! Make sure to fully change your appearance, and don't use mail, or anything that needs your badge, or they'll find you quickly. The withdrawal I preauthorized for you should last a few weeks if you invest it wisely. Break free! Do what you want!"
+- Eori changes her appearance. "If that's what you want, mother, then I can play this game too." Outside, the town crier keeps going: "Desmond! Come back to us! Yosuke and the team."
+- Looking at herself in the mirror, it dawns on her that Harry is still out there. She could have gotten some information out of that fake Harry about where he found a Harry-based nari gel, but she was too angry to think of it. She breaks something in anger, which makes her even more furious. "Now I have to go through every single nari gel vendor to find out where it was made…"
+
+# Book 14 - Nari Gel Bait › Chapter 1 - Unforeseen Allies
+
+#### Magi out on a boring quest
+
+- More of [Magi](/lore/characters/#magi-blood-blue-flower-red-bone) on the job. She starts to fall asleep and reaches for her Mind Quicken, but she's run out. She falls asleep, falls out of the tree, and wakes up surrounded by Bagarisas.
+
+#### Magi, covered in dirt, passes Yosuke's restaurant with whatever she's carrying
+
+- Mimi and the gang ignore her, and she feels bad about what she said. She keeps walking until she notices someone following her. She picks up her pace, and so does the other person.
+- She sets up an ambush, and as the person walks into it, Magi releases an arrow at a seemingly random citizen. A girl screams: "You fucking bitch! I was trying to talk to you!" She pulls out her badge, which lights up; Magi can clearly see "Eori Sanbi Royal".
+
+#### Eori, disguised as a commoner, bleeding from an arrow; Magi realizes she just shot a princess of Sanbi
+
+- Eori pulls out the arrow and presses her hand over the hole. "You don't have to be so fucking jumpy, you know." Magi, feeling the weight of the conspiracy, nocks another arrow. "So you made Harry disappear?" "Why would I be here, then?" Magi draws further. "To keep me from spreading the word that you were having—intimate relations with a commoner." "I cared about that at one point. Now I just want Harry back. You gonna stand there all day, or are you gonna heal me?"
+- Magi pulls out a Nari Refresher. "Not that! I need to keep my current appearance." Keeping her distance, Magi tosses her a nari stone and a ring. "Do it yourself." Eori does. "All right, if you don't trust me, then trust this." She tosses a bag of balls at Magi's feet.
+- Magi sees how many balls are in it. "What do you want from me?" "Help—me find Harry. You know what he looks like." Magi eyes the inviting bag. "P—post a quest, and we'll talk about it!" "I can't fucking do that! Mom will realize what I'm trying to do!" "Mom? You mean the queen of Sanbi?" "Who else, you dumb bitch? I'm trying to break free of her grip! I'm sick of this shit!" Magi: "All right. Fine. Let's go back to the restaurant. Just remember, he was called Desmond."
+
+#### Magi and Eori at the restaurant near closing time; Hanako and Mimi at the door tell Magi to get fucked
+
+- Hanako and Mimi tell Magi to get fucked for not helping find Desmond. Magi says she's investigating what happened to him now. Hanako probes her, but she dodges.
+- The girl with her (Eori): "She has a crush on Har—a crush on Desmond. Now get over it, and just fucking tell us what you know." Magi, blushing, says she doesn't. Hanako: "Har?" Eori: "None of your business."
+- Hanako: "Damn. All right, fine. We know Desmond fought with someone after leaving the atelier, then took off running toward a guard post. That's all we know. We used the money he gave us to pay for town-crier calls for him. Now you need to get out if you're not going to buy something. Yosuke helped pay the town crier, but he's clamping down harder on us."
+- They leave. Magi asks what Eori's relationship with him is. Eori says they were lovers, fleeing Neferteri's grasp. Magi takes it in, but something doesn't feel right.
+
+#### Magi and Eori stumble on a nari gel stand
+
+- They notice Harry's face among the gels. Eori has an altercation with the vendor and gets the info, and they hear the same story: cheap gels from Sanbi. Magi heals the guy back up, while Eori spits on him and walks away.
+- Eori decides Coema is working with Neferteri too, and gets pissed: she'll use the money Coema gave her to go back to Sanbi and whoop her ass. "We're going to Sanbi." Magi: "What?" "I'm gonna wipe the smirk off Coema's face." "Coema?" "The previous Sanbi King's maid. Let's go."
+
+#### Magi and Eori make their way back to Sanbi
+
+- On the wagon, Magi falls asleep on Eori's shoulder, and Eori slaps her awake. That drives them further apart, since Magi hides that she has narcolepsy.
+- To Magi, Eori seems kind of controlling, and antisocial. She wonders if Harry running away from her was a sign that something bad happened between them.
+
+# Book 14 - Nari Gel Bait › Chapter 2 - Flatland’s latest business
+
+#### Ryo and the sisters stand in front of a rundown old resort with an assistant
+
+- Ryo: "This is the best you found?" Assistant: "That's the best I could find. If you'd given me 5 more Sapphires, I could have haggled for something else." "Well, I do like a challenge. Anyway, I guess we should introduce ourselves." He does.
+- Assistant: "I heard all about it in the letter. You two are indeed quite cute. With that in mind, here's a gift I bought." She brings out a kimono-like outfit for each of them. Ryo: "Actually, I forgot to tell you: only Katsumi will be running this place. Katsuki wants to travel with me instead." "You want to travel with her instead. I know how this goes."
+- Ryo hugs them both. "I'd take both, but Katsumi has a dream of her own, and this place will help her get there. All right, let's take a tour." The assistant shows them around the dump.
+
+#### Ryo does the budget with Katsuki while Katsumi shows off her things, construction going on around them
+
+- The assistant looks turned on by [Katsumi](/lore/characters/#katsumi-flatland-long-blue), who teases her, then looks at Ryo. "Are you asking me for permission? I told you, it's your place, it's your life. Have fun!" Katsumi fakes a kiss and plays with her some more, rubs her butt on the assistant, and they kiss.
+- A construction guy walks in, looking turned on. Ryo laughs. "Damn! This place is gonna do nicely. How can I help ya?" "We're finishing prepping the walls. Have you decided on the color scheme?" "Crap, I forgot to ask you about that." Katsumi decides on a name on the spot, plus the color scheme. Ryo: "There's your answer."
+- The contractor leaves. Ryo: "Have you found your girls yet?" "I'm working on it. I only have time to review one or two a day." "Hmmm. Can I watch the auditions?" "But you can't participate, or I won't be able to review their fuckability." "In all my years, I've never heard that. Seems legit."
+
+#### Ryo in front of the finished place, with Katsumi, Katsuki and two adventurers
+
+- Ryo says he's going to Blood by way of Forway. Katsumi teases the adventurers that she'll give them special treatment if they take good care of her sister and Ryo.
+- The assistant runs out from the back with a pile of papers. "WAIIT! Can you also hand these out to the boards on your way?" Ryo looks them over. "Damn. Just as hot as in real life. Good job!" The assistant looks happy.
+
+# Book 14 - Nari Gel Bait › Chapter 3 - Arukia’s Opportunity.
+
+#### Arukia and her baby Bruntos walk down a mountain in the rain
+
+- They're carrying something when they get hurt in a landslide. [Arukia](/lore/characters/#arukia-long-bridge) shields the baby Bruntos, but breaks her ribs, and more.
+
+#### A Cruro finds them after the landslide
+
+- Someone finds them and offers Arukia a Nari Refresher. She says no, but too late: it's given to her, and she heals. The baby monkey looks at her, not quite understanding, but when it smells her, it hugs her.
+- The Cruro smells the blood. Arukia is afraid it'll know who she truly is, but it doesn't: this Cruro has lived here its entire life. The person: "Were you trying to look like its first owner?" Arukia: "Yeah. That." The person laughs out loud. "That's pretty stupid. They recognize you by your smell. You'd need a full-body nari to trick them. Anyway, let's have supper, and you two can bathe before heading home."
+
+#### Arukia bathes with the Bruntos
+
+- The Bruntos makes a mess, and she laughs. The woman of the house interrupts to bring her a new set of clothes in exchange for the old ones. Arukia says she doesn't have much money. They reply: neither do we.
+
+#### Arukia, hiding her face, with the Bruntos at a nari gel stand; among the options, she sees Harry
+
+- She asks where that one comes from. The vendor says he got it cheap from a boat coming from Sanbi. They sold it so cheap he doesn't even know how they made a profit.
+- Arukia: *Someone was calling my name, and now this? Does Eori want Harry back this badly? Could this be my ticket out of the Red Winga?* She grabs her money pouch: she can either buy a nari gel to stay on the island, or use the money to go back to Sanbi. She looks at her baby, then at her ragged clothes. They leave without buying anything.
+
+# Book 14 - Nari Gel Bait › Chapter 4 - Ryo, Katsuki in a wagon.
+
+#### Ryo and Katsuki at lunch in a restaurant north of Forway; Katsuki devours even more Barinas
+
+- Ryo is mesmerized by her ability to eat [Barinas](/lore/fauna/#barina) like no one else; Katsuki is so focused she doesn't even offer him any. "You like Barinas that much?" [Katsuki](/lore/characters/#katsuki-flatland-long-blue), frog juice dripping down her chin, nods and keeps going.
+- Ryo: *Maybe she's pregnant after all. It would explain puking her guts out at dawn, then eating like a Bagarisa the rest of the day.* "Not to dredge up your past, but have you ever gotten pregnant?" Katsuki pauses for a second. "One. Nari. Two. Gel." "Got it. The Red Winga kept giving you nari gel to keep that from happening. Well, no more alcohol for you." He takes away her glass, raising a finger to the sky.
+- A server comes over. "Whatcha want?" Ryo: "Can we have some juice instead?" The server lists the juices. Ryo looks at Katsuki, eating with a sad face as she eyes the beer jug. "Anything tickle your fancy?" "One—beer." "No deal." She picks a juice. Ryo starts drinking the beer; Katsuki gives him puppy eyes. He puts it aside. "Okay. I'll stop drinking it with you." Katsuki brightens with a smile.
+
+#### Same scene, but a guy goes table to table selling nari gel
+
+- The guy tries to sell them nari gel. Katsuki realizes one of the faces is Harry, and chokes on her food. Ryo is about to get up when she raises her hand; after a few more coughs, she seems back to normal. The guy says he has a new nari gel that prevents that from happening. Ryo: "But she can't. She's pregnant."
+- Katsuki points at one face. "One—Harry." "Oh! You know the guy?" Ryo: "We know him. Yes. Can you tell me where you got it?" "I'll tell you if you buy one. I'll even do buy one, get one free." "What kind of info is this?" "My distributor, of course!" Ryo smiles. "XXX?" The guy looks surprised. "How the heck do you know him?" Ryo pulls out a couple of Pearls. "I've lived long enough."
+
+#### Ryo and Katsuki at XXX's
+
+- XXX and Ryo meet, and Ryo introduces his business partner. XXX explains the gels came from the Sanbi Kingdom: some random guy is mass-producing them and sending them to the four corners of the world.
+- Ryo: "Do you think they're turning a profit?" XXX: "If they use Cruro labor and didn't pay this guy, then maybe a Pearl per nari gel? My prices here are shipping plus 25%, and it's barely selling." "What's the price of knowing who sold to you?" XXX pulls a contract from his table. "It's on the house. Looks can be deceiving, but LLK looked like he had zero experience trading. He even looked like he didn't care whether he turned a profit."
+- Ryo: "Really?" *Then this is a classic case of sending a message, but to whom? The Red Winga? Could they be sending a message to my girls? This could be the chance to cut ties with the Red Winga for good.* He contracts XXX to spread the new whorehouse flyers to all the villages for him. He was going to find someone in Forway, but XXX has proved good in the past.
+
+# Book 14 - Nari Gel Bait › Epilogue
+
+#### Laura (the Madam) and Emelia talk; Laura's face isn't shown
+
+- [Emelia](/lore/characters/#emelia-lakeeye-rich-flower) and the Madam, [Laura](/lore/characters/#laura-forway-white-bell), discuss the appearance of Harry's nari gels. Laura says it's because the [Red Winga](/lore/factions/#red-winga) stayed hidden long enough that the Sanbi Royals decided to act more aggressively, and that it's time for the Red Winga to act more aggressively too, since the current conservative strategy hasn't paid off.
+- Laura: "Send all agents to Sanbi, and find all the hidden research, by any means necessary." Emelia: "Yes, Madam. I'll relay the message to the other agents."
