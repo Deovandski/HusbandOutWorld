@@ -95,3 +95,30 @@ Questions:
 - **A3-17:** Chapter 4: "Giant Sloth (to be renamed) skin". Is there a new name yet? For now: "Giant Sloth skin (name to be changed)".
 - **A3-18:** The Epilogue heading says "Neferteri, Itagiba, Huneo & Eori", but Eiri is the one voting (the Four Power Players). I wrote Eiri. Okay?
 - **A3-19:** Chapter 3: "the black tower" (they've never seen it up close). It isn't in Cities › Forway. What is it?
+
+Author's answers (batch 3):
+> A3-8 make it official.
+> A3-14: All good.
+>
+> Katsuki has a speech pattern of using counters in her speech. it's how she gets the words out.
+> A3-15: Use WIP for all of them.
+> A3-16: Magi as a cameo on the background of the illustration (unmaned.) That is a note for me to ensure I add her to the illustration if I ewver write this book.
+> A3-17: Have it WIP and make ref that it is kinda like a giant sloth.
+> A3-18: Okay.
+> A3-19: It's the main tower in the center of Forway. It appears on the world map. It is a giant tower with several functions where all business and admin flows through. Check if there are other mentions, and names used to describe it. We should make an official name for it
+
+Applied:
+- A3-8: made official: the raw display now reads "swim to the base of Waterfall City" (`content/fixes.json`).
+- A3-14: reading kept; added after Katsuki's first counted words: "(Katsuki's speech pattern uses counters: that's how she gets the words out.)"
+- A3-15: {WIP-eoriTeacher}, {WIP-eoriRoommate}, {WIP-roommateGrandpa}.
+- A3-16: "Author's note: Magi is an unnamed cameo in the background of this scene's illustration."
+- A3-17: "{WIP-giantSlothLike} skin (a beast kinda like a giant sloth)".
+- A3-18: kept Eiri.
+- A3-19: "the black tower" now explains it (the giant tower at the center of Forway, where all business and administration flows through) and links to Cities › Forway › Points of interest. Official name pending (A3-20).
+
+Other mentions of the tower found in Legacy:
+- Cities › Forway › Points of interest: **Forway Palace**: "Located at the city center. Entrance to the palace requires a badge. Lower Floors: Embassy. Upper Floors: Restricted to Sapphire Adventurers & Kingdom/City officials. Underground: Research/Experimentation."
+- Vol 1 (published): a maid calls it the **Forway castle**: "it's just a large black tower with a bunch of self-important people."
+- Arc #3, Book 11: "the black tower".
+
+- **A3-20:** Which official name? My suggestion: **Forway Palace** as the official name (already in Cities), with "the Black Tower" as its common nickname, and Vol 1's "Forway castle" as a casual way people refer to it.

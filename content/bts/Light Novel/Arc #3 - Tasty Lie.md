@@ -375,20 +375,20 @@ Author's to-do: after his soul splits, Harry loses the ability to understand any
 
 #### Eori arrives at the Forway science school
 
-- She arrives by wagon and is welcomed by a teacher, who tells her a bit about the school.
+- She arrives by wagon and is welcomed by a teacher, {WIP-eoriTeacher}, who tells her a bit about the school.
 
 #### Eori gets a strong-willed, take-no-shit-from-anyone roommate
 
-- Eori puts on a facade. They butt heads from the get-go, and she excuses herself to go to the library.
+- The roommate is {WIP-eoriRoommate}. Eori puts on a facade. They butt heads from the get-go, and she excuses herself to go to the library.
 
 #### Eori can't find a way to research the Soul
 
-- She searches for books on the soul, but there's absolutely nothing, almost as if someone is hiding the information from the public. Her teacher appears and asks what she's after. Eori: "Soul, by Gabiro." The teacher, slightly flustered, leads her to a small, kind of dusty soul section at the very end. "Gabiro published many things, but never about the soul."
+- She searches for books on the soul, but there's absolutely nothing, almost as if someone is hiding the information from the public. {WIP-eoriTeacher} appears and asks what she's after. Eori: "Soul, by Gabiro." The teacher, slightly flustered, leads her to a small, kind of dusty soul section at the very end. "Gabiro published many things, but never about the soul."
 - Eori reads the books: people trying all kinds of shit, and all of it going wrong one way or another. The teacher: "I strongly advise picking another field as a career goal."
 
 #### Eori, bored at dinner; her roommate asks what she wants to do, and Eori says nothing, since she wants to research more
 
-- They talk about their research, and the girl is caught off guard by Eori's interest. "It's a dead end." Her grandpa was fascinated by it, but one day he disappeared. All that was left were used nari stones, and what looked like an explosion inside the shack where he ran his experiments.
+- They talk about their research, and the girl is caught off guard by Eori's interest. "It's a dead end." Her grandpa, {WIP-roommateGrandpa}, was fascinated by it, but one day he disappeared. All that was left were used nari stones, and what looked like an explosion inside the shack where he ran his experiments.
 - Eori doesn't look happy. *I want my Harry back.*
 
 # Book 11 - Fate’s Innerworkings › Chapter 2 - Happiness is another contract away.
@@ -402,6 +402,7 @@ Author's to-do: after his soul splits, Harry loses the ability to understand any
 
 #### Ryo on the wagon heading back; Magi, alone, carries a green bag, looking tired and hungry
 
+- Author's note: Magi is an unnamed cameo in the background of this scene's illustration.
 - The driver takes a longer route. Ryo picks up on it and bails. "That piece of shit works fast—maybe I should hire some [Pussy Power](/lore/factions/#pussy-power)."
 - He walks the streets of Forway, thinking about everything he's gonna do with the sisters. The thought of stacking them on top of each other in bed and working them back and forth sends chills down his spine. His mind keeps compiling a list of things he wants to try with them, and wants them to teach him. He imagines Katsumi dressed as a teacher, teaching him all about how to please.
 - Then an idea pops into his head: what if she became a teacher to other girls, and they built a whorehouse? Ryo smiles lewdly as he feels his pocket growing bigger.
@@ -446,7 +447,7 @@ Author's to-do: after his soul splits, Harry loses the ability to understand any
 
 #### Ryo and the sisters, in Forway clothes, have dinner out in the open
 
-- Katsuki doesn't feel safe. Ryo: "Relax. We spent all day having fun. Did you even see anyone suspicious?" Katsuki: "O—ne. F—five." "She's getting the hang of it pretty quick. Nice!" He hugs her from the side. "What did you two enjoy most today?" Katsuki: "O—ne. Ev—ery—thing." They talk about how they'd never seen the black tower up close.
+- Katsuki doesn't feel safe. Ryo: "Relax. We spent all day having fun. Did you even see anyone suspicious?" Katsuki: "O—ne. F—five." "She's getting the hang of it pretty quick. Nice!" (Katsuki's speech pattern uses counters: that's how she gets the words out.) He hugs her from the side. "What did you two enjoy most today?" Katsuki: "O—ne. Ev—ery—thing." They talk about how they'd never seen the black tower up close (the giant tower at the center of Forway, where all business and administration flows through: [Forway › Points of interest](/lore/cities/#forway--points-of-interest)).
 - Katsumi: "[Egua Races](/lore/pastimes/#egua-race)! That was awesome! The Eguas were running so fast!" Ryo: "Wait until you see a [Dueling Egua Race](/lore/pastimes/#dueling-egua-race)! Nari gels are allowed on both the rider and the Egua!" "Let's go see it!" "Hold your Eguas." He laughs like a dad. "That competition won't start until the current one finishes. Anything else you two want to do?"
 - Katsumi: "Homeegg! I want to see that too!" Ryo: "Tomorrow's the tournament finale. Princess Maiara is on one of the teams, so I bet it'll be pretty crowded. Are you sure you want to go?" Katsuki doesn't want to; Katsumi tries to get her to come, but she won't. Ryo: "It's because of Sanbi, right?" Katsuki agrees: she still doesn't feel right about fucking Harry over.
 - Ryo: "Leave it to me. I'll find a way for all of us to sit down and enjoy a meal together one day." Katsuki's smile shines as bright as the sun. Ryo checks his watch. "The night is young. Let's go see some [Soul Energy Art](/lore/pastimes/#soul-energy-art)!" The sisters agree.
@@ -473,7 +474,7 @@ Author's to-do: after his soul splits, Harry loses the ability to understand any
 
 #### Eiri and Sora drink tea with Coema
 
-- Coema is back from [Newland](/lore/lands/#newland). Eiri asks how it's going. Coema describes a rough sea journey, but the Cruro guild she belongs to is gaining a nice foothold in the trade of Giant Sloth skin (name to be changed). Then she turns to what happened while she was gone. Eiri hesitates, but opens up after Sora eggs her on.
+- Coema is back from [Newland](/lore/lands/#newland). Eiri asks how it's going. Coema describes a rough sea journey, but the Cruro guild she belongs to is gaining a nice foothold in the trade of {WIP-giantSlothLike} skin (a beast kinda like a giant sloth). Then she turns to what happened while she was gone. Eiri hesitates, but opens up after Sora eggs her on.
 
 #### Coema lectures Eiri on her attitude; Sora defends Eiri; Coema knuckles both their heads
 
