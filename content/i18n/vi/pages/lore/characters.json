@@ -15,6 +15,10 @@
   "en": "153 cm",
   "t": "153 cm"
  },
+ "00a3bb9db29b": {
+  "en": "<strong>Habits:</strong> listens closely; tends to pull someone aside to get their attention, then asks questions.",
+  "t": "<strong>Thói quen:</strong> lắng nghe chăm chú; hay kéo ai đó ra một bên để thu hút sự chú ý của họ, rồi đặt câu hỏi."
+ },
  "00ab67c397d2": {
   "en": "<strong>Habits:</strong> prone to violence when it comes to holding someone until they spill everything they know.",
   "t": "<strong>Thói quen:</strong> dễ dùng bạo lực khi cần giữ ai đó lại cho đến khi họ khai hết mọi thứ họ biết."
@@ -22,6 +26,14 @@
  "00f7c6c69a14": {
   "en": "<strong>Strengths:</strong> caring; logical; efficient; loves her sister, and wants to be on her level, but different, though not too different; daring.",
   "t": "<strong>Điểm mạnh:</strong> chu đáo; logic; hiệu quả; yêu chị gái, và muốn ngang hàng với chị, nhưng khác biệt, dù không quá khác; táo bạo."
+ },
+ "01aaf29aff07": {
+  "en": "<strong>Flaws:</strong> cowardly; mechanical about her chores; gloomy, since she tends to be pessimistic.",
+  "t": "<strong>Điểm yếu:</strong> nhút nhát; máy móc trong việc nhà; u sầu, vì cô có xu hướng bi quan."
+ },
+ "01bc553d1b05": {
+  "en": "<strong>Likes and dislikes:</strong> likes flowers of every kind, and food, especially sweets.",
+  "t": "<strong>Thích và ghét:</strong> thích hoa đủ loại, và đồ ăn, nhất là đồ ngọt."
  },
  "02190e679157": {
   "en": "<strong>Flaws:</strong> too trusting; too soft; unambitious.",
@@ -35,6 +47,10 @@
   "en": "47 kg",
   "t": "47 kg"
  },
+ "02ee00d84402": {
+  "en": "98 kg",
+  "t": "98 kg"
+ },
  "03406a2bcdd9": {
   "en": "Ukim Sanbi",
   "t": "Ukim Sanbi"
@@ -42,6 +58,10 @@
  "03430497e1ef": {
   "en": "<strong>Birthday:</strong> 965 A.G. Asa 12th.",
   "t": "<strong>Sinh nhật:</strong> 12 Asa 965 A.G."
+ },
+ "0371b6461b73": {
+  "en": "<strong>Intelligence:</strong> knows alcohol very well, but years of drinking have dulled how much he takes in, even though he heals himself, since he spends most of his time drunk.",
+  "t": "<strong>Trí thông minh:</strong> rất am hiểu rượu, nhưng nhiều năm nhậu nhẹt đã làm cùn khả năng tiếp thu của anh, dù anh tự chữa lành cho mình, vì phần lớn thời gian anh say."
  },
  "03a35a19091e": {
   "en": "Narcolepsy (type 2):",
@@ -59,9 +79,17 @@
   "en": "<strong>Strengths:</strong> Gabiro's caretaker, and a partner of sorts, though not as involved or helpful as you'd expect; sincere; agreeable; non-authoritarian; responsive; modest; clean.",
   "t": "<strong>Điểm mạnh:</strong> người chăm sóc Gabiro, và phần nào là một cộng sự, dù không tham gia hay giúp ích nhiều như người ta mong đợi; chân thành; dễ chịu; không độc đoán; nhạy bén; khiêm tốn; sạch sẽ."
  },
+ "0554ff399385": {
+  "en": "<strong>Habits:</strong> focuses on the task at hand; curt in conversation, since he doesn't care about anything unrelated to what he wants right now. Smells like booze.",
+  "t": "<strong>Thói quen:</strong> tập trung vào việc trước mắt; cộc lốc trong trò chuyện, vì anh không quan tâm đến bất cứ thứ gì không liên quan đến điều anh muốn ngay lúc đó. Nồng nặc mùi rượu."
+ },
  "05ec22b2081c": {
   "en": "The son of a human and a Wozefaries, merchants who taught him the ropes. He took after them and made a fair amount of money through various ventures, but also lost a decent amount on failed projects. What matters is that he's adaptable, and will eventually take on whatever business proposal someone brings him.",
   "t": "Con trai của một người và một Wozefaries, những thương nhân đã dạy ông nghề. Ông nối nghiệp họ và kiếm được kha khá tiền qua nhiều thương vụ, nhưng cũng mất một khoản không nhỏ vào các dự án thất bại. Điều quan trọng là ông biết thích nghi, và rồi sẽ nhận bất kỳ đề xuất kinh doanh nào người ta mang đến."
+ },
+ "05fa338833e1": {
+  "en": "<strong>Flaws:</strong> passive; nosy; cowardly.",
+  "t": "<strong>Điểm yếu:</strong> thụ động; tọc mạch; nhút nhát."
  },
  "063f2dd83d5a": {
   "en": "Coema (987 A.G. Paulin 29th) was the previous Sanbi's King-maid. Under her ruling, the populace seemed to love her direct, no-bullshit attitude. Visiting male officers from other kingdoms also sang very high praises of the hospitality offered at Sanbi Castle. On the other, tax evaders hated her guts as she furiously found and punished them, possibly being able to do so due to her peculiar close relationship with Cruros throughout the years. Instead of retiring, she decided to sail away to Newland, presumably because she's a busybody.",
@@ -119,9 +147,17 @@
   "en": "Born in Forway to a middle-class family, he's a man with a long history of connections and deals throughout Forway; some panned out, others didn't. He isn't filthy rich, but bring him any daring plan, legal or not, and he'll throw in some money, at least to make more connections.",
   "t": "Sinh ra ở Forway trong một gia đình trung lưu, ông là người có bề dày quan hệ và giao dịch khắp Forway; có vụ thành công, có vụ không. Ông không giàu nứt đố đổ vách, nhưng cứ mang đến cho ông bất kỳ kế hoạch táo bạo nào, hợp pháp hay không, và ông sẽ góp chút tiền, ít nhất là để có thêm quan hệ."
  },
+ "09fe035fea02": {
+  "en": "<strong>Attracted to:</strong> passionate men: a mirror of herself, who loves Soul Energy deeply.",
+  "t": "<strong>Bị thu hút bởi:</strong> những người đàn ông đam mê: một tấm gương phản chiếu chính cô, yêu Năng lượng linh hồn sâu sắc."
+ },
  "0a0dadbc52c8": {
   "en": "<strong>Habits:</strong> neutral body language, with a rhythm of her own; her hands reach out to things as she pauses for a moment, then moves on with her day.",
   "t": "<strong>Thói quen:</strong> ngôn ngữ cơ thể trung tính, với nhịp điệu riêng; tay cô với tới đồ vật khi cô dừng lại một chút, rồi tiếp tục ngày của mình."
+ },
+ "0a1e193cac26": {
+  "en": "<strong>Speech:</strong> a raspy, drunken voice, somewhat low and uncaring; a long, almost cough-like laugh.",
+  "t": "<strong>Cách nói chuyện:</strong> giọng khàn, say xỉn, hơi trầm và bất cần; tiếng cười dài, gần như tiếng ho."
  },
  "0a2f99134c4a": {
   "en": "<strong>Intelligence:</strong> a memory for the law like no other. Strong-willed about what he thinks is right, and he'll go to great lengths to explain it.",
@@ -147,6 +183,10 @@
   "en": "<strong>Attracted to:</strong> she has a high sex drive, and likes aggressive men who make a plaything of her; she loves the sexual side of her job. She also has a thing for men who don't fall for her playfulness: she sees herself as a true beauty all men must fall for. And she loves getting creamed: \"proof of love\", as she calls it.",
   "t": "<strong>Bị thu hút bởi:</strong> cô có ham muốn tình dục cao, và thích những gã đàn ông hung bạo biến cô thành đồ chơi; cô mê mặt tình dục trong công việc của mình. Cô cũng thích những gã không mắc bẫy sự tinh nghịch của cô: cô tự coi mình là một mỹ nhân đích thực mà đàn ông nào cũng phải đổ gục. Và cô mê được xuất vào trong: “bằng chứng tình yêu”, như cô gọi."
  },
+ "0b1069b9797d": {
+  "en": "<strong>Attracted to:</strong> he played around with women, until he saw Honati and found the one, likely because they're so alike.",
+  "t": "<strong>Bị thu hút bởi:</strong> anh từng trăng hoa với phụ nữ, cho đến khi gặp Honati và tìm thấy người định mệnh, có lẽ vì hai người quá giống nhau."
+ },
  "0b1ffabd5cce": {
   "en": "Gabiro (937 A.G. Paulin 78th) always had an inkling of Soul Energy and its inner workings, but a life of having superior abilities ended up affecting his social skills; it turned him into a notorious scientist that pumped out research papers like nobody else, but now nobody dares to sit down with him to discuss it's intricate details over a drink. Actually, it's worse as many do not even dare to challenge him in doing peer review as they know a barrage of Winga mail filled with threats from Gabiro is bound to come—which itself is not the worst part either. Gabiro will meticulously tear apart everything you published with his hundred pages peer-review that will terminate your life as a scientist.",
   "t": "Gabiro (78 Paulin 937 A.G.) luôn có năng khiếu về Năng lượng linh hồn và cơ chế bên trong của nó, nhưng một cuộc đời với năng lực vượt trội đã ảnh hưởng đến kỹ năng xã hội của ông; nó biến ông thành một nhà khoa học khét tiếng tung ra các bài nghiên cứu như không ai sánh bằng, nhưng giờ chẳng ai dám ngồi lại với ông để bàn chi tiết phức tạp bên ly rượu. Thật ra còn tệ hơn, vì nhiều người thậm chí không dám thách thức ông trong bình duyệt vì họ biết một loạt thư Winga đầy lời đe dọa từ Gabiro chắc chắn sẽ đến—mà bản thân điều đó cũng chưa phải tệ nhất. Gabiro sẽ tỉ mỉ xé nát mọi thứ bạn đã công bố bằng bản bình duyệt trăm trang chấm dứt sự nghiệp khoa học của bạn."
@@ -158,6 +198,10 @@
  "0b4e0cc10af6": {
   "en": "<strong>Habits:</strong> sits around a lot, with a tired, old look and a resting-bitch face that doesn't express much; a wave of his hand is all the emotion he shows.",
   "t": "<strong>Thói quen:</strong> ngồi một chỗ rất nhiều, với vẻ mệt mỏi, già nua và khuôn mặt lạnh lùng khó ưa chẳng biểu lộ mấy; một cái phẩy tay là tất cả cảm xúc ông thể hiện."
+ },
+ "0b851e292975": {
+  "en": "She grew up in Forway with lots of brothers and sisters, and parents who were never home, working their asses off, so she developed a \"figure it out\", \"roll with the punches\" instinct. She was working at a bar when she met <a href=\"#laramy-broken-tree\">Laramy</a>, and the thought of traveling around with such a lovely man sparked her interest, along with her worry that people would take advantage of him.",
+  "t": "Cô lớn lên ở Forway với rất nhiều anh chị em, và cha mẹ chẳng bao giờ ở nhà, làm việc cật lực, nên cô hình thành bản năng “tự xoay xở”, “gặp sao chịu vậy”. Cô đang làm việc ở một quán rượu thì gặp <a href=\"#laramy-broken-tree\">Laramy</a>, và ý nghĩ được đi khắp nơi cùng một người đàn ông dễ mến như vậy đã khơi dậy sự hứng thú của cô, cùng nỗi lo người ta sẽ lợi dụng anh."
  },
  "0b9cf15d21aa": {
   "en": "<strong>Looks up to:</strong> father figures, especially ones like her own father.",
@@ -174,6 +218,10 @@
  "0c372f1ff61b": {
   "en": "The contract isn't legal as such, but some crooks in Forway will forge another contract on top of it to make Forway act if needed.",
   "t": "Bản thân hợp đồng không hợp pháp, nhưng vài kẻ gian ở Forway sẽ làm giả một hợp đồng khác chồng lên nó để buộc Forway ra tay nếu cần."
+ },
+ "0c4e0d1157fa": {
+  "en": "<strong>Speech:</strong> a sweet grandma voice: loving and caring, making sure others are okay, and asking again to nudge people into her care. \"Honey\", \"Hon\".",
+  "t": "<strong>Cách nói chuyện:</strong> giọng bà ngoại ngọt ngào: yêu thương và chu đáo, đảm bảo người khác ổn, và hỏi lại để kéo người ta vào vòng chăm sóc của bà. “Cưng”, “Cưng à”."
  },
  "0c55af991e78": {
   "en": "Born and raised in the Gandew Kingdom, he was one of the few to go outside out of self-interest, but what he wanted was to frolic with Wozefaries, which is unusual for someone like him. When rumors started, he decided to become king so he could do as he pleased, especially since the previous king was overly xenophobic. He fought the previous king in the pit and barely won, and the king also gave him his beautiful daughter, <a href=\"#satomi-high-gandew-tough-hammer\">Satomi</a>, in marriage. He accepted to save face, but deep inside he knew he wanted a Wozefaries to play with.",
@@ -219,6 +267,10 @@
   "en": "<strong>Birthday:</strong> 1007 A.G. Asa 84th.",
   "t": "<strong>Sinh nhật:</strong> 84 Asa 1007 A.G."
  },
+ "0e87029b0504": {
+  "en": "<strong>Strengths:</strong> inquisitive; analytical; logical; conscientious; decent; educated.",
+  "t": "<strong>Điểm mạnh:</strong> ham tìm hiểu; giỏi phân tích; logic; tận tâm; tử tế; có học thức."
+ },
  "0ea3552d32d3": {
   "en": "<strong>Flaws:</strong> hesitant; fanatical; finicky; insistent; passive; inflexible; aimless.",
   "t": "<strong>Điểm yếu:</strong> do dự; cuồng tín; khó tính; khăng khăng; thụ động; cứng nhắc; không mục đích."
@@ -263,9 +315,17 @@
   "en": "Eori (1021 A.G. Moacir 47th) is the third princess of Sanbi and the sharpest princess of the bunch. The populace assumes Sanbi's monarchy will select her to ascend the throne and continue Neferteri's wishes specifically as she laid out, giving her soul to ensure the kingdom will forever be prosperous—that's what Eori presumes of her future looming on the horizon. Safe to say there's no escape, but nobody knows what's cooking in her mind. Her tabula rasa and distant treatment of everyone seem almost as if she's trying to hide something under the face. Only a few ever have seen her genuinely smile, and if you ask them what it looked like, they will likely say \"a viciously ear-to-ear grin\" and then shake their heads to try to forget ever seeing it.",
   "t": "Eori (47 Moacir 1021 A.G.) là công chúa thứ ba của Sanbi và là công chúa sắc sảo nhất trong số họ. Dân chúng cho rằng triều đình Sanbi sẽ chọn cô lên ngôi và tiếp tục ý nguyện của Neferteri đúng như bà đã vạch ra, hiến dâng linh hồn để bảo đảm vương quốc mãi mãi thịnh vượng—đó là điều Eori tự đoán về tương lai đang lù lù ở chân trời. Có thể nói chắc là không có lối thoát, nhưng không ai biết cô đang toan tính gì trong đầu. Gương mặt vô cảm và cách đối xử xa cách với mọi người của cô gần như cho thấy cô đang cố che giấu điều gì đó dưới lớp mặt nạ. Chỉ một số ít từng thấy cô thật sự mỉm cười, và nếu hỏi họ trông nó thế nào, họ có lẽ sẽ nói \"một nụ cười toe toét hung ác đến tận mang tai\" rồi lắc đầu cố quên rằng đã từng thấy."
  },
+ "10e9b0d91334": {
+  "en": "<strong>Intelligence:</strong> just like Neferteri: she replies smartly and takes part in conversations, with a strong presence of mind.",
+  "t": "<strong>Trí thông minh:</strong> y hệt Neferteri: bà đáp lời thông minh và tham gia các cuộc trò chuyện, với sự nhạy bén sắc sảo."
+ },
  "10efce9f945a": {
   "en": "<strong>Speech:</strong> in public, they like to speak and act in sync. In private, they're usually sucking each other off when they aren't training their synchronicity.",
   "t": "<strong>Cách nói chuyện:</strong> ở nơi công cộng, họ thích nói và hành động đồng bộ. Ở chỗ riêng tư, họ thường thổi kèn cho nhau khi không luyện tập sự đồng bộ."
+ },
+ "10f0a7d04a7c": {
+  "en": "<strong>Flaws:</strong> careless; narcissistic; rigid; pretty lazy.",
+  "t": "<strong>Điểm yếu:</strong> bất cẩn; tự luyến; cứng nhắc; khá lười."
  },
  "11111a59b630": {
   "en": "A round, hairy dude who goes by \"Lick, from the guild My-Veiny-Balls\", a prank name. He doesn't reveal his real name to anyone and refuses to sign contracts, but he's a master craftsman, so people put up with his bullshit. He's the distributor behind the Harry nari gels coming out of Sanbi: he sells them so cheap that nobody knows how he turns a profit, and he looked as if he had zero experience trading (Arc #4, Books 14 and 15).",
@@ -274,6 +334,14 @@
  "114ad4775fd2": {
   "en": "<strong>Interface:</strong> Darfaries.",
   "t": "<strong>Giao diện:</strong> Darfaries."
+ },
+ "1189b03a7b30": {
+  "en": "<strong>Birthday:</strong> 979 A.G. Adrian 25th.",
+  "t": "<strong>Sinh nhật:</strong> 25 Adrian 979 A.G."
+ },
+ "118b64a27090": {
+  "en": "<strong>Habits:</strong> likes to sit back, and doesn't move much; looks people in the eye with a smile; cuddly with his wife and daughter.",
+  "t": "<strong>Thói quen:</strong> thích ngả người ra sau, và không cử động nhiều; nhìn vào mắt người khác với nụ cười; hay âu yếm vợ con."
  },
  "11b94949c3cd": {
   "en": "Public text: characters.md",
@@ -286,6 +354,10 @@
  "1209f0e73b8a": {
   "en": "<strong>Myers-Briggs:</strong> ESTP.",
   "t": "<strong>Myers-Briggs:</strong> ESTP."
+ },
+ "12328046e52f": {
+  "en": "<strong>Likes and dislikes:</strong> loves reading, and helping <a href=\"#isabel-tolerideme-whoop-ass\">Isabel</a> with the Whoop-Ass tasks she can manage.",
+  "t": "<strong>Thích và ghét:</strong> mê đọc sách, và giúp <a href=\"#isabel-tolerideme-whoop-ass\">Isabel</a> những việc của Whoop-Ass mà cô bé làm được."
  },
  "12dfbeb33cb4": {
   "en": "Gamal (974 A.G. Asa 58th) is the current Pharaoh of Sundeath. His will and knowledge are something to be feared, except a growing number of outsiders believe that he is stuck in the far past, refusing to understand, let alone acknowledge, that Sundeath is isolating itself from the rest of the world. People expect Forway to act sooner rather than later and stop this growing divergence for the sake of economic unity. In contrast, historians argue that doing so would put Gandew on alert and undoubtedly lead to war because culture is more of a priority than economic unity. Either way, if you find yourself talking to the Pharaoh, don't mind his RBF or a simple hand wave as his official response—he might agree with you but likely will never show it.",
@@ -399,13 +471,25 @@
   "en": "177 cm",
   "t": "177 cm"
  },
+ "1ae606853a34": {
+  "en": "<strong>Birthday:</strong> 980 A.G. Moacir 71st.",
+  "t": "<strong>Sinh nhật:</strong> 71 Moacir 980 A.G."
+ },
  "1ae79e93443a": {
   "en": "65 kg",
   "t": "65 kg"
  },
+ "1afac73b01fc": {
+  "en": "143 cm",
+  "t": "143 cm"
+ },
  "1b4968aa6515": {
   "en": "<strong>Myers-Briggs:</strong> ESTP in the Stinger armor; ISTJ without it.",
   "t": "<strong>Myers-Briggs:</strong> ESTP khi mặc giáp Stinger; ISTJ khi không mặc."
+ },
+ "1bc13a176b17": {
+  "en": "<strong>Attracted to:</strong> a womanizer who likes them big: his idea of a good time is a pile of big girls warming him up.",
+  "t": "<strong>Bị thu hút bởi:</strong> một gã trăng hoa thích gái to: ý tưởng vui vẻ của anh là một đống gái bự sưởi ấm cho mình."
  },
  "1bf67e3ce836": {
   "en": "<strong>Birthday:</strong> 1018 A.G. Asa 44th.",
@@ -451,6 +535,10 @@
   "en": "Marcus (997 A.G. Moacir 49th) is an aspiring leader—of a truculent bandit group called Blue Wozens. He even has people call him “boss” as well! Well, more like “person” since it’s only Wilson that does that. He seems to fucking hate the guts of his squadron but somehow never left. Forway and Sanbi guards would have a field day killing him over and over as a payback for all the atrocities he did, but he’s as slithery and sneaky as a soreno.",
   "t": "Marcus (49 Moacir 997 A.G.) là một thủ lĩnh đầy tham vọng—của một băng cướp hung tợn tên là Blue Wozens. Hắn thậm chí còn bắt mọi người gọi mình là “đại ca”! À, đúng hơn là “một người” vì chỉ có Wilson làm vậy. Hắn có vẻ ghét cay ghét đắng đội của mình nhưng không hiểu sao chưa bao giờ rời đi. Lính canh Forway và Sanbi sẽ hả hê giết hắn hết lần này đến lần khác để trả thù cho mọi tội ác hắn gây ra, nhưng hắn trơn tuột và lén lút như một con soreno."
  },
+ "1f25e350e72c": {
+  "en": "<strong>Strengths:</strong> huge self-worth; protective; ambitious.",
+  "t": "<strong>Điểm mạnh:</strong> lòng tự trọng khổng lồ; hay bảo vệ; tham vọng."
+ },
  "1f3287e3f95a": {
   "en": "<strong>Habits:</strong> in public, she crosses her arms more than anyone and keeps her distance, subtle about showing her true self. Alone with her \"bitch\", she's aggressive and lustful: handsy, with a stare that penetrates like no other. Her lustful breaths and her warmth tell the rest of the story.",
   "t": "<strong>Thói quen:</strong> ở nơi công cộng, cô khoanh tay nhiều hơn bất kỳ ai và giữ khoảng cách, kín đáo trong việc thể hiện con người thật. Khi ở riêng với “con chó cái” của mình, cô hung hăng và dâm đãng: táy máy tay chân, với ánh nhìn xuyên thấu như không ai khác. Những hơi thở dâm dục và hơi ấm của cô kể nốt phần còn lại."
@@ -467,6 +555,10 @@
   "en": "Coema grew up in Sanbi and was King-maid before handing the position to <a href=\"#eiri-sanbi-royal\">Eiri</a>. She created and standardized the Sanbi maid uniform. She met a lovely gentleman from Forway and had Eiri, but as time passed, their love burned out. She was rather carefree with her maids, but to her credit, it formed a league of maids very loyal to the Sanbi Kingdom. Now retired, she helps out the city and the people she loves, especially Cruros: she's a friend of <a href=\"#kiko-sanbi-half-cruro\">Kiko</a>, and helped his Half-Cruro guild shine (hence the Half-Cruro in her name). <a href=\"#neferteri-sanbi-royal\">Neferteri</a> passionately dislikes her: Coema often challenged her authority and dismantled her mind games, more directly and intensely than Neferteri's cold, superior style. She has moved to Newland.",
   "t": "Coema lớn lên ở Sanbi và từng là King-maid trước khi trao lại vị trí cho <a href=\"#eiri-sanbi-royal\">Eiri</a>. Bà đã tạo ra và chuẩn hóa bộ đồng phục hầu gái Sanbi. Bà gặp một quý ông dễ mến từ Forway và sinh ra Eiri, nhưng thời gian trôi qua, tình yêu của họ nguội lạnh. Bà khá dễ dãi với các hầu gái của mình, nhưng công bằng mà nói, điều đó đã tạo nên một đội ngũ hầu gái rất trung thành với Vương quốc Sanbi. Giờ đã nghỉ hưu, bà giúp đỡ thành phố và những người bà yêu quý, nhất là người Cruro: bà là bạn của <a href=\"#kiko-sanbi-half-cruro\">Kiko</a>, và đã giúp hội Half-Cruro của ông tỏa sáng (vì thế mà có Half-Cruro trong tên bà). <a href=\"#neferteri-sanbi-royal\">Neferteri</a> cực kỳ ghét bà: Coema thường thách thức quyền uy của cô và phá vỡ các trò chơi tâm lý của cô, trực tiếp và mãnh liệt hơn phong cách lạnh lùng, bề trên của Neferteri. Bà đã chuyển đến Newland."
  },
+ "1ffd00e26e17": {
+  "en": "<strong>Speech:</strong> a low-energy womanly voice that sounds very confident and knowledgeable. She calls people by name and verbally agrees with them, or with their position, affirming their concerns to win their trust. Her laugh sounds fake.",
+  "t": "<strong>Cách nói chuyện:</strong> giọng nữ tính, ít năng lượng nhưng nghe rất tự tin và hiểu biết. Cô gọi tên người khác và đồng tình với họ bằng lời, hoặc với lập trường của họ, khẳng định mối lo của họ để chiếm lòng tin. Tiếng cười của cô nghe giả tạo."
+ },
  "201591727c65": {
   "en": "<strong>Attracted to:</strong> confident, charismatic, funny men who get the job done.",
   "t": "<strong>Bị thu hút bởi:</strong> những người đàn ông tự tin, lôi cuốn, hài hước và làm được việc."
@@ -474,6 +566,14 @@
  "20754581af2b": {
   "en": "<strong>Flaws:</strong> pushy; secretive; easily bored, especially with men; aggressive when someone intrudes on her memories or boundaries.",
   "t": "<strong>Điểm yếu:</strong> hay ép buộc; kín đáo; dễ chán, nhất là với đàn ông; hung hăng khi ai đó xâm phạm ký ức hay giới hạn của cô."
+ },
+ "2098197c01d9": {
+  "en": "<strong>Speech:</strong> farming stories: he talks about farming one way or another, or steers the conversation toward it.",
+  "t": "<strong>Cách nói chuyện:</strong> chuyện nông nghiệp: ông nói về nông nghiệp bằng cách này hay cách khác, hoặc lái câu chuyện về phía đó."
+ },
+ "212065f929bc": {
+  "en": "Born in Broken-Tree, <a href=\"#laramy-broken-tree\">Laramy</a>'s cousin, she made her way to Tolerideme, then to Forway once she got a bit rich. But she lost all her money gambling and ended up back in Broken-Tree, and now she's looking for ways to get back to the city and regain her old life.",
+  "t": "Sinh ra ở Broken-Tree, là em họ của <a href=\"#laramy-broken-tree\">Laramy</a>, cô tìm đường đến Tolerideme, rồi đến Forway khi đã khá giả một chút. Nhưng cô thua sạch tiền vì cờ bạc và trở về Broken-Tree, và giờ cô đang tìm cách quay lại thành phố và lấy lại cuộc sống cũ."
  },
  "2137513fad18": {
   "en": "<strong>Race:</strong> human; born male, effeminate.",
@@ -519,9 +619,17 @@
   "en": "<strong>Birthday:</strong> 919 A.G. Adrian 19th.",
   "t": "<strong>Sinh nhật:</strong> 19 Adrian 919 A.G."
  },
+ "257fa4d7565a": {
+  "en": "<strong>Flaws:</strong> unambitious; wanderlust (he can't sit still in one place for long); a procrastinator; indecisive; boring (to some); too touchy (to some).",
+  "t": "<strong>Điểm yếu:</strong> không có tham vọng; máu xê dịch (anh không thể ngồi yên một chỗ lâu); hay trì hoãn; thiếu quyết đoán; nhàm chán (với một số người); quá hay đụng chạm (với một số người)."
+ },
  "2592b94f0a82": {
   "en": "Lofingha: a blonde woman in a military cap and sheer armored outfit with silver boots, with a close-up of her ear.",
   "t": "Lofingha: một người phụ nữ tóc vàng đội mũ quân đội và mặc bộ đồ giáp mỏng với ủng bạc, kèm cận cảnh tai cô."
+ },
+ "269daba97c49": {
+  "en": "<strong>Intelligence:</strong> street smarts, and a really good memory. She can't read, so she leaves that to Laramy.",
+  "t": "<strong>Trí thông minh:</strong> khôn lỏi đường phố, và trí nhớ rất tốt. Cô không biết đọc, nên để việc đó cho Laramy."
  },
  "271677ac60d8": {
   "en": "<strong>Birthday:</strong> 994 A.G. Asa 44th.",
@@ -619,6 +727,10 @@
   "en": "Ariana Tolerideme Whoop-Ass",
   "t": "Ariana Tolerideme Whoop-Ass"
  },
+ "2e3afa920440": {
+  "en": "<strong>Strengths:</strong> spontaneous; analytical; reserved; careful; fatherly.",
+  "t": "<strong>Điểm mạnh:</strong> tự nhiên; giỏi phân tích; dè dặt; cẩn thận; như một người cha."
+ },
  "2e51169cdd3a": {
   "en": "<strong>Birthday:</strong> 995 A.G. Moacir 30th.",
   "t": "<strong>Sinh nhật:</strong> 30 Moacir 995 A.G."
@@ -630,6 +742,10 @@
  "2e72f2b6c539": {
   "en": "<strong>Birthday:</strong> 1021 A.G. Moacir 47th.",
   "t": "<strong>Sinh nhật:</strong> 47 Moacir 1021 A.G."
+ },
+ "2e96b8a92f2e": {
+  "en": "Born and raised in Tolerideme, in a lower farming guild. He had a taste for alcohol since his youth, so he slowly drifted into the alcohol business, lucked out with a recipe that went gangbusters, and founded his own guild and business, where he lucks out again every once in a while. He's the current Alcohol King.",
+  "t": "Sinh ra và lớn lên ở Tolerideme, trong một hội nông nghiệp cấp thấp. Anh mê rượu từ khi còn trẻ, nên dần trôi vào nghề rượu, gặp may với một công thức bán chạy như tôm tươi, và lập nên hội và cơ sở kinh doanh của riêng mình, nơi thỉnh thoảng anh lại gặp may. Anh là Vua Rượu hiện tại."
  },
  "2ebb5a2d8a1e": {
   "en": "<strong>Flaws:</strong> dull; tense; boring; blunt; crazy (rarely).",
@@ -646,6 +762,10 @@
  "2f8ba92bb068": {
   "en": "<strong>Flaws:</strong> jealous of her sister; temperamental, especially when someone pokes her sore spot about being lesser than her sister; aggressive, to make up for her lack of skill; pathetic, as she keeps trying to be like her sister instead of herself; demanding; narrow-minded.",
   "t": "<strong>Điểm yếu:</strong> ghen tị với chị gái; thất thường, nhất là khi ai đó chọc vào chỗ đau về việc cô kém hơn chị; hung hăng, để bù cho sự thiếu kỹ năng; thảm hại, vì cứ cố giống chị thay vì là chính mình; đòi hỏi; hẹp hòi."
+ },
+ "2fcc8fccac09": {
+  "en": "<strong>Fascinated by:</strong> girls who are very kind and cute.",
+  "t": "<strong>Thích thú với:</strong> những cô bé rất tốt bụng và dễ thương."
  },
  "2fe85351428f": {
   "en": "Sora (1020 A.G Moacir 75th) is a loveable Wozefaries, adored by many for her eagerness to do her best while juggling her maid job and her parents' soap mart at the same time. She puts aside her shyness to get things done for the greater good of the kingdom! Well, most of the time, that is. There is only so much embarrassment a young girl can take, and being asked out on a date or being told she is cute is too much for her to handle.",
@@ -799,6 +919,10 @@
   "en": "Harry’s journey will be grueling, but he will not be swept by the challenging winds the more he roots himself in the new world.",
   "t": "Hành trình của Harry sẽ đầy gian khổ, nhưng càng bén rễ ở thế giới mới, anh sẽ càng không bị những cơn gió thử thách cuốn đi."
  },
+ "3addb4e47cac": {
+  "en": "<strong>Birthday:</strong> 998 A.G. Paulin 84th.",
+  "t": "<strong>Sinh nhật:</strong> 84 Paulin 998 A.G."
+ },
  "3ba7e1fec768": {
   "en": "Ariana: a short brown-haired girl in a pink gown with a tall pink pointed hat.",
   "t": "Ariana: một cô bé tóc nâu thấp mặc áo choàng hồng và đội mũ nhọn cao màu hồng."
@@ -810,6 +934,10 @@
  "3bec09a4c32f": {
   "en": "<strong>Flaws:</strong> disobedient at times, especially when he thought someone's plan needed changing on the fly; nosy; dependent; pessimistic.",
   "t": "<strong>Điểm yếu:</strong> đôi khi không vâng lời, nhất là khi ông nghĩ kế hoạch của ai đó cần thay đổi ngay tại chỗ; tọc mạch; phụ thuộc; bi quan."
+ },
+ "3c4b12cf03a8": {
+  "en": "<strong>Habits:</strong> flaunts things as a defense.",
+  "t": "<strong>Thói quen:</strong> khoe khoang để tự vệ."
  },
  "3c8f48552032": {
   "en": "<strong>Speech:</strong> not very direct in her words, but her body language is very direct.",
@@ -859,6 +987,10 @@
   "en": "Naunet: two outfits of a woman, a striped golden hooded cloak and a white top and skirt with gold jewelry.",
   "t": "Naunet: hai bộ trang phục của một người phụ nữ, một áo choàng trùm đầu sọc vàng và một bộ áo váy trắng với trang sức vàng."
  },
+ "40618060e8ea": {
+  "en": "<strong>Likes and dislikes:</strong> loves money, being the center of attention and being treated as superior. Hates being on the same level as others, especially when someone she considers \"lucky\" gets ahead of her in life, and hates losing her grip on someone she's persuading. Loves dressing up in expensive clothes, or at least ones that look it, and fine food and drinks.",
+  "t": "<strong>Thích và ghét:</strong> mê tiền, là trung tâm của sự chú ý và được đối xử như người bề trên. Ghét ngang hàng với người khác, nhất là khi ai đó mà cô coi là “gặp may” vượt lên trước cô trong cuộc sống, và ghét mất quyền kiểm soát với người cô đang thuyết phục. Mê diện quần áo đắt tiền, hoặc ít nhất là trông đắt tiền, và đồ ăn thức uống cao cấp."
+ },
  "4090702bd5d0": {
   "en": "90 kg",
   "t": "90 kg"
@@ -870,6 +1002,10 @@
  "414feed37778": {
   "en": "<strong>Race:</strong> Sorefaries.",
   "t": "<strong>Chủng tộc:</strong> Sorefaries."
+ },
+ "41e01eb080ae": {
+  "en": "The 9th Pharaoh's wife, and <a href=\"#neferteri-sanbi-royal\">Neferteri</a>'s mother. She grew up close to her brother, <a href=\"#gamal-sundeath-pharaohs\">Gamal</a>, now her husband of many years.",
+  "t": "Vợ của Pharaoh thứ 9, và là mẹ của <a href=\"#neferteri-sanbi-royal\">Neferteri</a>. Bà lớn lên thân thiết với anh trai mình, <a href=\"#gamal-sundeath-pharaohs\">Gamal</a>, giờ là chồng bà đã nhiều năm."
  },
  "41eb0324fd6e": {
   "en": "<strong>Intelligence:</strong> focused on adventuring, but he knows a bit more about the world than most. Doesn't care for politics.",
@@ -939,6 +1075,14 @@
   "en": "Excessive daytime sleepiness: sleep attacks when she isn't actively hunting or forcing herself to focus on something; otherwise, an average sleepiness that comes and goes depending on the day and whether she napped.",
   "t": "Buồn ngủ quá mức vào ban ngày: những cơn ngủ gục khi cô không chủ động săn bắn hoặc ép bản thân tập trung vào việc gì đó; nếu không thì là cơn buồn ngủ ở mức trung bình, lúc có lúc không tùy ngày và việc cô có chợp mắt hay không."
  },
+ "4581eb760f84": {
+  "en": "<strong>Likes and dislikes:</strong> loves trying different foods and drinks. Hates anyone trying to take her precious Alford.",
+  "t": "<strong>Thích và ghét:</strong> thích thử các món ăn và đồ uống khác nhau. Ghét bất kỳ ai cố cướp Alford quý giá của cô."
+ },
+ "45b6bf5fa101": {
+  "en": "<strong>When he grows up:</strong> a shy mama's boy in the making: warm and kind, a bit lazy, and forever saying \"My mom told me…\".",
+  "t": "<strong>Khi lớn lên:</strong> một cậu bé bám mẹ nhút nhát đang thành hình: ấm áp và tốt bụng, hơi lười, và lúc nào cũng nói “Mẹ con bảo…”."
+ },
  "4615a8f8b300": {
   "en": "<strong>Likes and dislikes:</strong> likes obedience, and following the plan; hoarding more stuff. Hates disobedience, insubordination, and above all any attempt to tarnish his image.",
   "t": "<strong>Thích và ghét:</strong> thích sự phục tùng, và việc làm đúng kế hoạch; tích trữ thêm đồ. Ghét sự bất tuân, kháng lệnh, và trên hết là mọi nỗ lực bôi nhọ hình ảnh của hắn."
@@ -979,6 +1123,14 @@
   "en": "<strong>Birthday:</strong> 949 A.G. Moacir 11th.",
   "t": "<strong>Sinh nhật:</strong> 11 Moacir 949 A.G."
  },
+ "4871bfbf53a0": {
+  "en": "<strong>Habits:</strong> bobs her head; hums in agreement; an inquisitive look.",
+  "t": "<strong>Thói quen:</strong> gật gù; ậm ừ đồng ý; ánh mắt tò mò."
+ },
+ "48d751e5877a": {
+  "en": "An orgy led to <a href=\"#isabel-tolerideme-whoop-ass\">Isabel</a> giving birth to Brandi. A paternity test pointed to <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>, so he's taking care of him too (as in paying child support). Jimmie and Isabel's first son.",
+  "t": "Một cuộc truy hoan khiến <a href=\"#isabel-tolerideme-whoop-ass\">Isabel</a> sinh ra Brandi. Một xét nghiệm huyết thống chỉ ra <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>, nên anh cũng đang chăm lo cho cậu bé (nghĩa là trả tiền cấp dưỡng). Con trai đầu của Jimmie và Isabel."
+ },
  "48f7d2f704c1": {
   "en": "<strong>Birthday:</strong> 1015 A.G. Moacir 6th.",
   "t": "<strong>Sinh nhật:</strong> 6 Moacir 1015 A.G."
@@ -1011,6 +1163,10 @@
   "en": "<strong>Intelligence:</strong> average human intelligence, with street smarts, especially for sniffing out good deals.",
   "t": "<strong>Trí thông minh:</strong> trí thông minh trung bình của loài người, cùng sự khôn lỏi đường phố, nhất là trong việc đánh hơi những món hời."
  },
+ "49d31ca5c704": {
+  "en": "<strong>Strengths:</strong> enthusiastic; responsible; friendly, in a blunt, sarcastic way.",
+  "t": "<strong>Điểm mạnh:</strong> nhiệt tình; có trách nhiệm; thân thiện, theo kiểu thẳng thừng, mỉa mai."
+ },
  "49e36aceb616": {
   "en": "<strong>Flaws:</strong> a killjoy; a procrastinator; boring; detached; daydreams too much, especially about what-ifs, and ends up not doing anything; shameless.",
   "t": "<strong>Điểm yếu:</strong> phá đám; hay trì hoãn; nhàm chán; tách biệt; mơ mộng quá nhiều, nhất là về những chuyện giá như, rồi rốt cuộc chẳng làm gì; trơ trẽn."
@@ -1030,6 +1186,10 @@
  "4b8db809a7da": {
   "en": "<strong>Attracted to:</strong> Wozefaries, especially ones with a high sex drive.",
   "t": "<strong>Bị thu hút bởi:</strong> phụ nữ Wozefaries, nhất là những người ham muốn cao."
+ },
+ "4bd615229eaf": {
+  "en": "Born and raised in Tolerideme, in one of the best and largest farming guilds. Thanks to his charisma and deep knowledge of farming, he became Farm King at 20, which is rather young. He met his partner, <a href=\"#luny-tolerideme-dirt-lover\">Luny</a>, when she started as the new Courtroom Scientist ten years ago: he saw in her a depth of knowledge and an appreciation for farming nobody else had. Still, he joins orgies here and there in secret. Luny doesn't seem to want kids, perhaps because the \"wife\" thing isn't a thing in Tolerideme. He had an affair with <a href=\"#aurora-tolerideme\">Aurora</a>, which led to her having a child about 8 years ago (1031 A.G.), and worked out a deal with <a href=\"#itagiba-sanbi-royal\">Itagiba</a> and <a href=\"#eiri-sanbi-royal\">Eiri</a> so Luny wouldn't find out.",
+  "t": "Sinh ra và lớn lên ở Tolerideme, trong một trong những hội nông nghiệp lớn và giỏi nhất. Nhờ sức lôi cuốn và hiểu biết sâu rộng về nông nghiệp, ông trở thành Vua Nông nghiệp năm 20 tuổi, khá trẻ. Ông gặp bạn đời của mình, <a href=\"#luny-tolerideme-dirt-lover\">Luny</a>, khi cô bắt đầu làm nhà khoa học hoàng gia mới mười năm trước: ông thấy ở cô một chiều sâu hiểu biết và sự trân trọng nông nghiệp mà không ai khác có. Dù vậy, ông vẫn lén tham gia các cuộc truy hoan đây đó. Luny có vẻ không muốn có con, có lẽ vì chuyện “vợ” không phải là một thứ ở Tolerideme. Ông có một cuộc ngoại tình với <a href=\"#aurora-tolerideme\">Aurora</a>, dẫn đến việc bà có một đứa con khoảng 8 năm trước (1031 A.G.), và đã thỏa thuận với <a href=\"#itagiba-sanbi-royal\">Itagiba</a> và <a href=\"#eiri-sanbi-royal\">Eiri</a> để Luny không phát hiện ra."
  },
  "4bd773400632": {
   "en": "<strong>Intelligence:</strong> very smart at accounting and anything maid-related. She can organize people like no other, and does her best to create a loving environment for her maids.",
@@ -1095,6 +1255,10 @@
   "en": "<strong>Habits:</strong> personal, and can get handsy, but his personality makes it work, so most people don't feel invaded; moves around more than most, and likes to stand and walk; looks people in the eye with a sincere, warm smile.",
   "t": "<strong>Thói quen:</strong> thân mật, và có thể táy máy tay chân, nhưng tính cách của ông khiến điều đó ổn thỏa, nên phần lớn mọi người không thấy bị xâm phạm; di chuyển nhiều hơn hầu hết mọi người, và thích đứng và đi lại; nhìn vào mắt người khác với nụ cười chân thành, ấm áp."
  },
+ "4fe188e79caf": {
+  "en": "<strong>Likes and dislikes:</strong> loves farming and everything to do with it, including the food that comes out of it.",
+  "t": "<strong>Thích và ghét:</strong> yêu nông nghiệp và mọi thứ liên quan đến nó, kể cả đồ ăn làm ra từ nó."
+ },
  "4fe56595584d": {
   "en": "Magi grew up with loving parents and would likely have become a historian, but the sudden disappearance of her father, <a href=\"#fernan-blood-blue-flower-red-bone\">Fernan</a>, forced her to become an adventurer to pay off guild debts. She wants to find him, or at least his bow. She inherited her father's hunting talent, but she has narcolepsy and is rather distrustful of people. She always carries hunting gear in her bag, especially traps and camouflage for hiding.",
   "t": "Magi lớn lên với cha mẹ yêu thương và có lẽ đã trở thành một sử gia, nhưng sự biến mất đột ngột của cha cô, <a href=\"#fernan-blood-blue-flower-red-bone\">Fernan</a>, buộc cô trở thành nhà mạo hiểm để trả nợ cho hội. Cô muốn tìm ông, hoặc ít nhất là cây cung của ông. Cô thừa hưởng tài săn bắn của cha, nhưng cô mắc chứng ngủ rũ và khá đa nghi với người khác. Cô luôn mang đồ đi săn trong túi, nhất là bẫy và đồ ngụy trang để ẩn nấp."
@@ -1110,6 +1274,10 @@
  "500a72916c98": {
   "en": "<strong>Race:</strong> WIP.",
   "t": "<strong>Chủng tộc:</strong> WIP."
+ },
+ "503c9969afd1": {
+  "en": "<strong>Flaws:</strong> boastful; touchy; narcissistic; hotheaded; gullible; envious.",
+  "t": "<strong>Điểm yếu:</strong> khoác lác; dễ phật ý; tự luyến; nóng nảy; cả tin; đố kỵ."
  },
  "5040fc5f5626": {
   "en": "<strong>Flaws:</strong> shy; selfish; hesitant; forgetful; doesn't like to travel; dependent.",
@@ -1159,9 +1327,21 @@
   "en": "52 kg",
   "t": "52 kg"
  },
+ "52aca80c32c8": {
+  "en": "<strong>Intelligence:</strong> knows a fair amount for her age, and is always eager to learn more.",
+  "t": "<strong>Trí thông minh:</strong> biết khá nhiều so với tuổi, và luôn háo hức học thêm."
+ },
  "52b7ff64fd14": {
   "en": "<strong>Birthday:</strong> 1014 A.G. Asa 24th.",
   "t": "<strong>Sinh nhật:</strong> 24 Asa 1014 A.G."
+ },
+ "52c95f2d9d05": {
+  "en": "<a href=\"#kianna-tolerideme-whoop-ass\">Kianna</a> and <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>'s first daughter.",
+  "t": "Con gái đầu của <a href=\"#kianna-tolerideme-whoop-ass\">Kianna</a> và <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>."
+ },
+ "5302e236f8d4": {
+  "en": "95 kg",
+  "t": "95 kg"
  },
  "5318b8a526de": {
   "en": "Born in Forway City to mixed-blood parents who had left the Gandew Kingdom and made their living in whatever jobs they could find, with little education but great physical strength. The discrimination and smugness of pure-blood Darfaries toward his mixed blood always rubbed him the wrong way. One day he signed a contract with a rich man without reading the fine print, and members of the rich man's family harassed him over it, which made him hate everyone even more. In time, he founded what is now known as the Blue Wozens with two other people, and struck back at the family.",
@@ -1170,6 +1350,10 @@
  "53342c568668": {
   "en": "<strong>Likes and dislikes:</strong> an Amethyst adventurer, picky about his quests. Loves makeup, looking good and matching accessories to his clothes. Loves blue. Hates fat Tolerideme people (\"it's unbeauty\"). Loves talking about himself, especially what he's done. Hates combat, and prefers verbal arguments.",
   "t": "<strong>Thích và ghét:</strong> một nhà mạo hiểm Amethyst, kén chọn nhiệm vụ. Mê trang điểm, trông thật đẹp và phối phụ kiện với quần áo. Mê màu xanh. Ghét người Tolerideme béo (“thật chẳng đẹp đẽ gì”). Mê nói về bản thân, nhất là những gì mình đã làm. Ghét chiến đấu, và thích tranh luận bằng lời hơn."
+ },
+ "540fd4630a6c": {
+  "en": "<strong>Habits:</strong> jumps into conversations to keep Laramy from getting screwed like no other; likes to put herself in front of people, especially standing up; loving and touchy with her family.",
+  "t": "<strong>Thói quen:</strong> nhảy vào các cuộc trò chuyện để Laramy không bị lừa như không ai khác; thích đặt mình trước mặt người khác, nhất là khi đứng; yêu thương và hay đụng chạm với gia đình."
  },
  "544e78f6ae0c": {
   "en": "Eiri: a blonde young woman in a blue hood and a blue-and-yellow ruffled dress.",
@@ -1211,6 +1395,10 @@
   "en": "Yacamim Sanbi Royal",
   "t": "Yacamim Sanbi Royal"
  },
+ "5700960f83c4": {
+  "en": "<strong>Likes and dislikes:</strong> prefers Sundeath to anything else. Hates humidity and cold. Loves Lolish, especially preserved in sugar.",
+  "t": "<strong>Thích và ghét:</strong> thích Sundeath hơn bất cứ nơi nào khác. Ghét độ ẩm và cái lạnh. Mê Lolish, nhất là loại ngâm đường."
+ },
  "5737e14d2481": {
   "en": "Maicon Crossroads Black-Dove",
   "t": "Maicon Crossroads Black-Dove"
@@ -1242,6 +1430,10 @@
  "589419359f21": {
   "en": "Born in Forway to a Sundeath mother and a well-off Wozefaries father. He grew up exploring the world's cuisines and came to love the diversity of food, which he explores in his restaurant, The Wood People Picker.",
   "t": "Sinh ra ở Forway, mẹ là người Sundeath và cha là một người Wozefaries khá giả. Ông lớn lên khám phá ẩm thực khắp thế giới và trở nên yêu sự đa dạng của món ăn, điều mà ông khám phá trong nhà hàng của mình, The Wood People Picker."
+ },
+ "58b609247447": {
+  "en": "<strong>Speech:</strong> soft-spoken; asks questions, and goes back and forth on the meat of the matter.",
+  "t": "<strong>Cách nói chuyện:</strong> nói nhỏ nhẹ; đặt câu hỏi, và qua lại về cốt lõi của vấn đề."
  },
  "5909bee59bcf": {
   "en": "Posaqui Sanbi",
@@ -1279,6 +1471,10 @@
   "en": "<strong>Habits:</strong> avoidant; quiet.",
   "t": "<strong>Thói quen:</strong> né tránh; im lặng."
  },
+ "5acc33e35477": {
+  "en": "<strong>Attracted to:</strong> a lady who shares his passion for farming; size doesn't really matter.",
+  "t": "<strong>Bị thu hút bởi:</strong> một quý cô có chung niềm đam mê nông nghiệp với ông; vóc dáng không thực sự quan trọng."
+ },
  "5b18a45a9f04": {
   "en": "Bata (995 A.G. Moacir 30th) is the identical twin brother of Anpu. Which one is which? Nobody knows, and that’s on purpose! These two want to become a single entity so badly they are always on nari gels to look perfectly alike. They even developed a synchronicity interface through eyesight that allows them to predict what each other is thinking nearly instinctively. That is unless a monkey wrench is thrown in their act, like Neferteri showing up or you asking a question that scratches the individualism laying dormant underneath it all. Will they become the next leaders of Sundeath? Eventually, yes, but Gamal does not bulge from the role until they get their act together. However, the Pharaohs guild has no other twin girls for marriage, plus ignoring the rumors that these two brothers only love themselves is hard to do when you see them riding a single Egua together, often galloping.",
   "t": "Bata (30 Moacir 995 A.G.) là anh em sinh đôi cùng trứng của Anpu. Ai là ai? Không ai biết, và đó là cố ý! Hai người này muốn trở thành một thực thể duy nhất đến mức luôn dùng gel nari để trông giống hệt nhau. Họ thậm chí còn phát triển một giao diện đồng bộ qua thị giác cho phép đoán người kia đang nghĩ gì gần như theo bản năng. Trừ khi có kẻ phá đám, như Neferteri xuất hiện hoặc bạn hỏi một câu khơi gợi cái tôi cá nhân đang ngủ yên bên dưới tất cả. Liệu họ có trở thành những người lãnh đạo tiếp theo của Sundeath? Cuối cùng thì có, nhưng Gamal không chịu rời vai trò cho đến khi họ tu chỉnh lại bản thân. Tuy nhiên, hội Pharaohs không còn cặp chị em sinh đôi nào để cưới, cộng thêm việc khó mà phớt lờ lời đồn hai anh em này chỉ yêu chính mình khi thấy họ cùng cưỡi chung một con Egua, thường là phi nước đại."
@@ -1298,6 +1494,10 @@
  "5bd9382ec5e1": {
   "en": "78 kg",
   "t": "78 kg"
+ },
+ "5c72b108f095": {
+  "en": "<strong>Speech:</strong> quick to agree or disagree and move on as soon as he has heard the other person out. His voice is tired, raspy and detached, even though his words show he listened to every word.",
+  "t": "<strong>Cách nói chuyện:</strong> nhanh chóng đồng ý hoặc phản đối rồi chuyển tiếp ngay khi đã nghe người kia nói hết. Giọng ông mệt mỏi, khàn và hờ hững, dù lời ông cho thấy ông đã nghe từng chữ."
  },
  "5c9bdc175a38": {
   "en": "<strong>Birthday:</strong> 969 A.G. Asa 23rd.",
@@ -1327,9 +1527,17 @@
   "en": "To her surprise, that same adventurer, <a href=\"#fernan-blood-blue-flower-red-bone\">Fernan</a>, passed by her again one day and asked how she was doing. She said she'd followed his advice, and he giddily asked if he could give her another piece of advice: go on a date with him! They grew closer, and Magi and her little brother were born. Akemi knows a fair amount of history, but her real interest lies in the occult and forbidden knowledge. Her clothes show some wear, since she's saving every ball she can for her son's specialty school.",
   "t": "Bà ngạc nhiên khi chính nhà mạo hiểm đó, <a href=\"#fernan-blood-blue-flower-red-bone\">Fernan</a>, một ngày nọ lại đi ngang qua và hỏi bà dạo này thế nào. Bà nói mình đã nghe theo lời khuyên của ông, và ông hớn hở hỏi liệu có thể cho bà thêm một lời khuyên nữa không: đi hẹn hò với ông! Họ ngày càng gần gũi, rồi Magi và em trai cô ra đời. Akemi biết khá nhiều về lịch sử, nhưng mối quan tâm thật sự của bà là những điều huyền bí và tri thức bị cấm. Quần áo của bà có phần sờn cũ, vì bà dành dụm từng viên bi để con trai học trường chuyên."
  },
+ "5ed0cc12cf1a": {
+  "en": "<strong>Myers-Briggs:</strong> INTP.",
+  "t": "<strong>Myers-Briggs:</strong> INTP."
+ },
  "5eee91be337d": {
   "en": "<strong>Birthday:</strong> 1007 A.G. Adrian 79th.",
   "t": "<strong>Sinh nhật:</strong> 79 Adrian 1007 A.G."
+ },
+ "5ef54db2ea68": {
+  "en": "<strong>Likes and dislikes:</strong> likes people with power. Doesn't like dealing with petty things, especially petty people.",
+  "t": "<strong>Thích và ghét:</strong> thích những người có quyền lực. Không thích dính đến những chuyện vặt vãnh, nhất là những kẻ tầm thường."
  },
  "5f277725658c": {
   "en": "<strong>Likes and dislikes:</strong> hates people above him, or anyone who makes a point of being above him. Likes most food, except what clearly tastes funky, and especially raw things.",
@@ -1338,6 +1546,10 @@
  "5f9bd3c88bab": {
   "en": "Sinoi: an old gray-haired man with a pipe, wearing a blue patterned vest and trousers.",
   "t": "Sinoi: một ông lão tóc bạc ngậm tẩu, mặc áo gi lê họa tiết xanh và quần."
+ },
+ "5fe114268f75": {
+  "en": "<strong>Likes and dislikes:</strong> loves food, and being with her mother to copy her behavior. Hates <a href=\"#nina-sanbi-royal\">Nina</a>, but has to put up with her, or she'd get in trouble.",
+  "t": "<strong>Thích và ghét:</strong> mê đồ ăn, và ở bên mẹ để bắt chước cách cư xử của bà. Ghét <a href=\"#nina-sanbi-royal\">Nina</a>, nhưng phải chịu đựng cô bé, nếu không sẽ gặp rắc rối."
  },
  "5ff1d73e0dc5": {
   "en": "Brandi Tolerideme Whoop-Ass",
@@ -1350,6 +1562,18 @@
  "60b9da50fa3c": {
   "en": "Honati's family portrait for Arc 2: a gray-haired man, a pink-haired girl and an orange-haired woman (marked with an arrow).",
   "t": "Chân dung gia đình Honati cho Arc 2: một người đàn ông tóc xám, một cô gái tóc hồng và một người phụ nữ tóc cam (được đánh dấu bằng mũi tên)."
+ },
+ "60c9d053a89e": {
+  "en": "<strong>Habits:</strong> an air of superiority; duck face; bitchy face; likes to flaunt it.",
+  "t": "<strong>Thói quen:</strong> vẻ bề trên; mặt chu mỏ vịt; mặt khó ưa; thích khoe khoang."
+ },
+ "610a4ffddaea": {
+  "en": "<strong>Attracted to:</strong> dependent, secure men.",
+  "t": "<strong>Bị thu hút bởi:</strong> những người đàn ông phụ thuộc, vững vàng."
+ },
+ "61d9410b7746": {
+  "en": "<strong>Strengths:</strong> a skilled communicator; sociable; clever; resourceful (with connections); friendly; self-confident; placid, controlling her emotions and hiding her true intentions.",
+  "t": "<strong>Điểm mạnh:</strong> giao tiếp khéo léo; hòa đồng; lanh lợi; tháo vát (nhờ các mối quan hệ); thân thiện; tự tin; điềm tĩnh, kiểm soát cảm xúc và che giấu ý đồ thật."
  },
  "61e8fbe2533c": {
   "en": "<strong>Intelligence:</strong> a man set in his ways: preceptive, and willing to lay down how things have to be. He can't read, but he can certainly read people who try to outwit him. A talented logger.",
@@ -1375,6 +1599,14 @@
   "en": "<strong>Race:</strong> mixed blood (human and Darfaries).",
   "t": "<strong>Chủng tộc:</strong> lai (người và Darfaries)."
  },
+ "6292091fa675": {
+  "en": "<strong>Flaws:</strong> bitchy; rude; sees others as beneath her; gullible, especially when her ego is inflated.",
+  "t": "<strong>Điểm yếu:</strong> khó ưa; thô lỗ; coi người khác thấp kém hơn mình; cả tin, nhất là khi cái tôi được thổi phồng."
+ },
+ "62ac4dba37f2": {
+  "en": "Born and raised north of Tolerideme, the daughter of traders, <a href=\"#laramy-broken-tree\">Laramy</a> and <a href=\"#honati-broken-tree\">Honati</a>. She traveled a lot with them, picking up information about the world, and learned to read on the road, though she never went to school.",
+  "t": "Sinh ra và lớn lên ở phía bắc Tolerideme, con gái của hai thương nhân, <a href=\"#laramy-broken-tree\">Laramy</a> và <a href=\"#honati-broken-tree\">Honati</a>. Cô bé đi theo họ rất nhiều, thu nhặt thông tin về thế giới, và học đọc trên đường đi, dù chưa bao giờ đến trường."
+ },
  "638cb6df50cd": {
   "en": "Marcus Big-Gyut",
   "t": "Marcus Big-Gyut"
@@ -1382,6 +1614,10 @@
  "639a0f7f95cc": {
   "en": "<strong>Speech:</strong> an aggressive, impatient tone; demanding, and belligerent when someone doesn't follow his plan 100%.",
   "t": "<strong>Cách nói chuyện:</strong> giọng hung hăng, thiếu kiên nhẫn; đòi hỏi, và hiếu chiến khi ai đó không làm đúng kế hoạch của hắn 100%."
+ },
+ "63aec8554ae9": {
+  "en": "<strong>Speech:</strong> he doesn't really start things, but goes along with whatever his wife comes up with.",
+  "t": "<strong>Cách nói chuyện:</strong> anh không thực sự khởi xướng, nhưng làm theo bất cứ điều gì vợ anh nghĩ ra."
  },
  "63bceb19b89c": {
   "en": "<strong>Race:</strong> Darfaries.",
@@ -1499,6 +1735,18 @@
   "en": "<strong>Flaws:</strong> self-indulgent; insecure; shameless; predatory; doesn't think things through.",
   "t": "<strong>Điểm yếu:</strong> buông thả bản thân; thiếu tự tin; vô liêm sỉ; săn mồi; không suy nghĩ thấu đáo."
  },
+ "68ac5d8baa0f": {
+  "en": "<strong>Birthday:</strong> 1004 A.G. Asa 14th.",
+  "t": "<strong>Sinh nhật:</strong> 14 Asa 1004 A.G."
+ },
+ "68d82295bd31": {
+  "en": "<strong>Strengths:</strong> a sweet persona; very caring; attentive; charming in her own way; grandmotherly, so to speak.",
+  "t": "<strong>Điểm mạnh:</strong> một hình tượng ngọt ngào; rất chu đáo; ân cần; duyên dáng theo cách riêng; có thể nói là như một người bà."
+ },
+ "6941bb3295a0": {
+  "en": "<strong>Birthday:</strong> 1036 A.G. Adrian 54th.",
+  "t": "<strong>Sinh nhật:</strong> 54 Adrian 1036 A.G."
+ },
  "69a799c9edef": {
   "en": "The Stinger: a figure in spiked golden armor with a horned golden helmet that hides the face.",
   "t": "The Stinger: một hình người mặc giáp vàng có gai với mũ giáp vàng có sừng che kín mặt."
@@ -1510,6 +1758,10 @@
  "69e2552aa968": {
   "en": "<strong>Attracted to:</strong> girly Wozefaries.",
   "t": "<strong>Bị thu hút bởi:</strong> những người Wozefaries điệu đà."
+ },
+ "69ff0ae79559": {
+  "en": "<strong>Speech:</strong> polite, distant and elegant; a calm, somewhat monotone voice, like her movements.",
+  "t": "<strong>Cách nói chuyện:</strong> lịch sự, xa cách và thanh lịch; giọng điềm tĩnh, hơi đều đều, như cử động của bà."
  },
  "6a6da31b7476": {
   "en": "Wilson (1019 A.G. Moacir 19th) is definitive proof that humans don't need a brain to survive, despite Marcus proving that wrong time after time whenever he cracks Wilson's skull open. Maybe he just refuses to use it? More than once, he opened his mouth to a guard and told him who he was and that he had fun being a bandit! And that's not the worst part either; once he showed the guard an item he had stolen and pointed to the post asking to find it with a burst of dumb laughter as if he was bragging about it to a long-time friend. Needless to say, Marcus split his head open after they skipped town. At least he seems to be good with the bow, or it's all because of the shiny bow he carries around like a conjoined twin.",
@@ -1554,6 +1806,10 @@
  "6e1ef6f8a81a": {
   "en": "<strong>Intelligence:</strong> emotionally intelligent, but never speaks up.",
   "t": "<strong>Trí thông minh:</strong> có trí tuệ cảm xúc, nhưng không bao giờ lên tiếng."
+ },
+ "6eac3685d9fe": {
+  "en": "<strong>Likes and dislikes:</strong> his mother's milk, Domar barley, baby food.",
+  "t": "<strong>Thích và ghét:</strong> sữa mẹ, lúa mạch Domar, đồ ăn trẻ em."
  },
  "6f3d37b8b663": {
   "en": "Brandi (1039 A.G. Asa 69th) is the newest member of the Whoop-Ass guild and likely not the last. Some people are already betting whether he will turn out closer to Ariana or Amelia.",
@@ -1635,6 +1891,10 @@
   "en": "61 kg",
   "t": "61 kg"
  },
+ "755a5568ca01": {
+  "en": "<strong>Speech:</strong> a lower voice; she doesn't like drawing attention to herself.",
+  "t": "<strong>Cách nói chuyện:</strong> giọng trầm hơn; cô bé không thích gây chú ý."
+ },
  "756d8dfb8f99": {
   "en": "Amelia Tolerideme Whoop-Ass",
   "t": "Amelia Tolerideme Whoop-Ass"
@@ -1666,6 +1926,10 @@
  "7780dfb06944": {
   "en": "Amelia (1036 A.G. Adrian 54th) is the contradiction to the statement “the Yabuca never falls far of the tree.” Despite being the second daughter to Kianna, her demeanor is far closer to the likes of introspects and laid-back people like Alford, to the point some have questioned if Amelia is truly Jimmie’s daughter since there was no way Isabel’s soul got in the mix. The soul paternity test has proven that it’s Jimmie’s and Kianna’s daughter. Still, her apathy to social stuff, specifically high-class ones, makes her the odd one out in the family, but not with her friends, of which she has many, including the one and only Nina Sanbi-Royal.",
   "t": "Amelia (54 Adrian 1036 A.G.) là sự mâu thuẫn với câu nói “quả Yabuca không bao giờ rơi xa cây.” Dù là con gái thứ hai của Kianna, tính cách cô bé gần với những người hay suy ngẫm và thư thả như Alford hơn nhiều, đến mức một số người từng nghi Amelia có thật là con của Jimmie không, vì không đời nào linh hồn Isabel lại dính vào. Xét nghiệm huyết thống linh hồn đã chứng minh đó là con gái của Jimmie và Kianna. Dù vậy, sự thờ ơ với chuyện xã giao, đặc biệt là giới thượng lưu, khiến cô bé lạc loài trong gia đình, nhưng không phải với bạn bè, mà cô bé có rất nhiều, kể cả Nina Sanbi-Royal có một không hai."
+ },
+ "778b66317f4a": {
+  "en": "<strong>Habits:</strong> sticks close to the people she wants to protect, and be protected by; affectionate, she likes physical closeness with the people she trusts.",
+  "t": "<strong>Thói quen:</strong> bám sát những người cô bé muốn bảo vệ, và muốn được bảo vệ; tình cảm, cô bé thích gần gũi thân thể với những người mình tin tưởng."
  },
  "778e99a74e84": {
   "en": "Her story starts like her twin <a href=\"#katsuki-flatland-long-blue\">Katsuki</a>'s, but her friendly, spirited nature helped land them both an agent role. That is, until Katsumi truly tasted freedom and decided to flee it all. Now they're locked in a room, hidden from everyone. She hates <a href=\"#arukia-long-bridge\">Arukia</a> and the <a href=\"/lore/factions/#red-winga\">Red Winga</a>, and tries to escape at every chance she gets, but her pessimistic sister shoots it down every time, especially since Katsumi is the one who got them into this situation in the first place.",
@@ -1719,6 +1983,10 @@
   "en": "130 kg",
   "t": "130 kg"
  },
+ "7c63dbdf1809": {
+  "en": "64 kg",
+  "t": "64 kg"
+ },
  "7cbcb74dfd11": {
   "en": "<strong>Likes and dislikes:</strong> loves experimenting and being in control: from cooking to nari gels, she wants it all. Loves jabbing at <a href=\"#yacamim-sanbi-royal\">Yacamim</a> and <a href=\"#maiara-sanbi-royal\">Maiara</a>, since both are way too free compared to her. Likes wearing a different belt depending on her mood (or pajamas). Hates how her mother keeps suppressing her for the sake of the kingdom: she wants control over her destiny, but isn't sure how to break free like her sisters. Are they even really free of it all? Who knows.",
   "t": "<strong>Thích và ghét:</strong> thích thí nghiệm và nắm quyền kiểm soát: từ nấu ăn đến gel nari, cô muốn tất cả. Thích châm chọc <a href=\"#yacamim-sanbi-royal\">Yacamim</a> và <a href=\"#maiara-sanbi-royal\">Maiara</a>, vì cả hai quá tự do so với cô. Thích đeo một chiếc thắt lưng khác nhau tùy tâm trạng (hoặc bộ đồ ngủ). Ghét việc mẹ cứ đè nén cô vì lợi ích của vương quốc: cô muốn làm chủ số phận mình, nhưng không chắc làm sao để thoát ra như các chị. Mà họ có thật sự thoát khỏi tất cả không? Ai mà biết được."
@@ -1730,6 +1998,10 @@
  "7dfe31a8d8ca": {
   "en": "70 kg",
   "t": "70 kg"
+ },
+ "7e5cba69d051": {
+  "en": "<strong>Strengths:</strong> innovative; creative; precise; logical; reserved.",
+  "t": "<strong>Điểm mạnh:</strong> đổi mới; sáng tạo; chính xác; logic; dè dặt."
  },
  "7eef0dac109c": {
   "en": "Alford: a stout smiling farmer in a wide straw hat holding a black rooster and a shovel.",
@@ -1767,6 +2039,10 @@
   "en": "The middle child of parents too busy with the younger kids and work to give him attention. A neighborhood friend talked him into stealing something, and he thought it was pretty cool: money for doing basically nothing (other than stealing). He was barely making ends meet when <a href=\"#clodoveu-big-gyut\">Clodoveu</a> got in touch and brought him into the Blue Wozens. One day he crossed paths with <a href=\"#fernan-blood-blue-flower-red-bone\">Fernan</a> and his Black Sapphire colleagues, and tried to steal Fernan's bow. He got his face punched to oblivion and back for it, so he used his memory, and his money, to recreate the bow as closely as he could.",
   "t": "Đứa con giữa của cha mẹ quá bận rộn với các em nhỏ và công việc để quan tâm đến gã. Một người bạn hàng xóm dụ gã ăn trộm một món đồ, và gã thấy việc đó khá ngầu: có tiền mà gần như chẳng phải làm gì (ngoài việc ăn trộm). Gã đang chật vật kiếm sống thì <a href=\"#clodoveu-big-gyut\">Clodoveu</a> liên lạc và đưa gã vào Blue Wozens. Một ngày nọ, gã chạm trán <a href=\"#fernan-blood-blue-flower-red-bone\">Fernan</a> và các đồng đội Black Sapphire của anh, và cố trộm cây cung của Fernan. Gã bị đấm vào mặt đến mức tưởng về chầu trời rồi quay lại, nên gã dùng trí nhớ, và tiền của mình, để làm lại cây cung giống nhất có thể."
  },
+ "8166e5ac5ffc": {
+  "en": "<strong>Speech:</strong> somewhat like <a href=\"#arukia-long-bridge\">Arukia</a>, but not as abusive: more jokey and friendly.",
+  "t": "<strong>Cách nói chuyện:</strong> hơi giống <a href=\"#arukia-long-bridge\">Arukia</a>, nhưng không cay nghiệt bằng: hay đùa và thân thiện hơn."
+ },
  "819f9ebd2d52": {
   "en": "<strong>Myers-Briggs:</strong> ESFJ.",
   "t": "<strong>Myers-Briggs:</strong> ESFJ."
@@ -1803,6 +2079,10 @@
   "en": "<strong>Habits:</strong> touchy, and she goes for the balls not long after a chat. She likes to milk them.",
   "t": "<strong>Thói quen:</strong> hay đụng chạm, và chẳng bao lâu sau khi trò chuyện là cô sờ thẳng tới bi. Cô thích vắt sữa chúng."
  },
+ "83f77732a07d": {
+  "en": "<strong>Likes and dislikes:</strong> likes being with her family and doing things together; her wanderlust isn't as strong as Laramy's. Hates seafood, or anything that tastes fishy: it makes her gag profusely.",
+  "t": "<strong>Thích và ghét:</strong> thích ở bên gia đình và cùng nhau làm mọi việc; máu xê dịch của cô không mạnh bằng Laramy. Ghét hải sản, hay bất cứ thứ gì có vị tanh cá: nó khiến cô ọe liên tục."
+ },
  "840e89b1304c": {
   "en": "<strong>Speech:</strong> gets nasty-mouthed sometimes, especially when someone strays from her plans; otherwise careless and curt. Somehow, an air of elegance surrounds her curt voice.",
   "t": "<strong>Cách nói chuyện:</strong> đôi khi ăn nói bẩn thỉu, nhất là khi ai đó đi chệch kế hoạch của cô; còn lại thì bất cần và cộc lốc. Không hiểu sao, một vẻ thanh lịch bao quanh giọng nói cộc lốc của cô."
@@ -1810,6 +2090,26 @@
  "8414f06fe0e5": {
   "en": "Kianna: a large woman with brown hair in a puffy pink gown and a tall white hat, hand on her chest.",
   "t": "Kianna: một người phụ nữ to lớn tóc nâu mặc áo choàng hồng phồng và đội mũ trắng cao, tay đặt lên ngực."
+ },
+ "843578ed4dd4": {
+  "en": "<strong>Likes and dislikes:</strong> loves beer and fat poontang.",
+  "t": "<strong>Thích và ghét:</strong> mê bia và những cái lồn béo múp."
+ },
+ "84863981842b": {
+  "en": "<strong>Flaws:</strong> picky; anxious; boring (to some); too touchy (to some); prying; dwells on the past.",
+  "t": "<strong>Điểm yếu:</strong> kén chọn; lo âu; nhàm chán (với một số người); quá hay đụng chạm (với một số người); tọc mạch; hay nghĩ về quá khứ."
+ },
+ "84b69794e3dc": {
+  "en": "<strong>Birthday:</strong> 988 A.G. Asa 31st.",
+  "t": "<strong>Sinh nhật:</strong> 31 Asa 988 A.G."
+ },
+ "8511fc5713c3": {
+  "en": "She grew up in a family of Domar producers, met <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>, and became his second mate for life the second time he lucked out with his spirit recipes.",
+  "t": "Cô lớn lên trong một gia đình sản xuất Domar, gặp <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>, và trở thành bạn đời thứ hai của anh vào lần thứ hai anh gặp may với công thức rượu mạnh."
+ },
+ "8523dfed9bc0": {
+  "en": "<strong>Flaws:</strong> pushy; gossipy, sounding jovial while she gossips; intrusive.",
+  "t": "<strong>Điểm yếu:</strong> hay ép buộc; thích buôn chuyện, nghe vui vẻ trong lúc buôn chuyện; hay xen vào."
  },
  "85a83709bbf5": {
   "en": "<strong>Birthday:</strong> 1032 A.G. Asa 80th.",
@@ -1843,6 +2143,10 @@
   "en": "<strong>Attracted to:</strong> men.",
   "t": "<strong>Bị thu hút bởi:</strong> đàn ông."
  },
+ "882f0150a86b": {
+  "en": "<strong>Flaws:</strong> intolerant; sometimes speaks her mind a bit too much; flippant; attached and dependent: losing her parents left her depressed for quite a while, since she was so attached to them.",
+  "t": "<strong>Điểm yếu:</strong> không khoan dung; đôi khi nói thẳng hơi quá; hời hợt; gắn bó và phụ thuộc: mất cha mẹ khiến cô bé suy sụp một thời gian khá dài, vì cô bé quá gắn bó với họ."
+ },
  "88710ba93e65": {
   "en": "<strong>Strengths:</strong> outgoing; realistic and pragmatic; doesn't care about others, especially gossip and such; a strong, independent lady who doesn't take shit from anyone.",
   "t": "<strong>Điểm mạnh:</strong> hướng ngoại; thực tế và thực dụng; không quan tâm đến người khác, nhất là chuyện ngồi lê đôi mách và những thứ tương tự; một quý cô mạnh mẽ, độc lập, không chịu để ai bắt nạt."
@@ -1866,6 +2170,22 @@
  "89dae16ad2d4": {
   "en": "<strong>Intelligence:</strong> brilliant at everything to do with Soul Energy, especially the soul. But he worries too much about misuse to share his work before it's complete, and besides, he wants to be the first to use it.",
   "t": "<strong>Trí thông minh:</strong> xuất chúng trong mọi thứ liên quan đến Năng lượng linh hồn, nhất là linh hồn. Nhưng ông quá lo bị lạm dụng nên không chia sẻ công trình trước khi hoàn thành, và hơn nữa, ông muốn là người đầu tiên sử dụng nó."
+ },
+ "8a12c39572fa": {
+  "en": "<strong>Intelligence:</strong> above average, but she keeps to herself, or finds ways to get things done without making waves.",
+  "t": "<strong>Trí thông minh:</strong> trên trung bình, nhưng cô sống khép kín, hoặc tìm cách làm xong việc mà không gây sóng gió."
+ },
+ "8ae2db184d56": {
+  "en": "Born and raised in Forway City to merchant parents, who sometimes took her on their travels; she fell in love with the countryside, especially Tolerideme. She had a knack for Soul Energy and wanted to become an adventurer, but her parents steered her toward becoming a courtroom scientist instead, enrolling her in the Soul Energy school. So she did, with her sights firmly set on moving to Tolerideme, since an opening would eventually come up there. When she arrived, she met a man so focused on farming that she fell in love with his personality: <a href=\"#alford-tolerideme-dirt-lover\">Alford</a>. They never had children, always too busy with farming and enjoying life.",
+  "t": "Sinh ra và lớn lên ở thành phố Forway trong một gia đình cha mẹ buôn bán, những người thỉnh thoảng đưa cô theo trong các chuyến đi; cô phải lòng vùng nông thôn, nhất là Tolerideme. Cô có năng khiếu về Năng lượng linh hồn và muốn trở thành nhà mạo hiểm, nhưng cha mẹ hướng cô trở thành nhà khoa học hoàng gia, cho cô vào Trường Năng lượng linh hồn. Cô làm vậy, với mục tiêu vững chắc là chuyển đến Tolerideme, vì sớm muộn gì cũng sẽ có một vị trí trống ở đó. Khi đến nơi, cô gặp một người đàn ông chuyên tâm vào nông nghiệp đến mức cô phải lòng tính cách của ông: <a href=\"#alford-tolerideme-dirt-lover\">Alford</a>. Họ chưa bao giờ có con, lúc nào cũng quá bận với đồng áng và tận hưởng cuộc sống."
+ },
+ "8b15e7bb0110": {
+  "en": "<strong>Strengths:</strong> faithful; loving; kind; liberal; diplomatic; peaceful; intelligent; agreeable; broad-minded; cuddly; wanderlust.",
+  "t": "<strong>Điểm mạnh:</strong> chung thủy; yêu thương; tốt bụng; phóng khoáng; khéo ngoại giao; ôn hòa; thông minh; dễ chịu; cởi mở; hay âu yếm; máu xê dịch."
+ },
+ "8b4597f2da7a": {
+  "en": "<strong>Speech:</strong> clicks her tongue; sharp, and somewhat rude, putting others down beneath her. Not skilled at conversation.",
+  "t": "<strong>Cách nói chuyện:</strong> tặc lưỡi; sắc sảo, và hơi thô lỗ, hạ thấp người khác dưới mình. Không giỏi trò chuyện."
  },
  "8b54aca2a30a": {
   "en": "<strong>Likes and dislikes:</strong> loves working; goal-focused. Despite his tone, he helps those in need, but hates anyone who thinks they can take advantage of him or his family. Loves pies.",
@@ -1891,6 +2211,10 @@
   "en": "<strong>Likes and dislikes:</strong> loves a good joke or comment, with no no-go zone for funny remarks. Dislikes anyone being pushy with her maids, or with anyone else; she likes people to have their freedom. Loves fish and being clean, and fruity sweets, especially crunchy finger cakes or anything like them.",
   "t": "<strong>Thích và ghét:</strong> mê một câu đùa hay lời bình hay, không có vùng cấm nào cho những nhận xét hài hước. Không thích bất kỳ ai ép buộc các hầu gái của cô, hay bất kỳ ai khác; cô thích mọi người có tự do của họ. Mê cá và sự sạch sẽ, và đồ ngọt vị trái cây, nhất là bánh ngón tay giòn hay bất cứ thứ gì giống vậy."
  },
+ "8d0ee7ed97e2": {
+  "en": "<strong>Likes and dislikes:</strong> loves caring for the three children, and helping the business any way she can. Loves Domar recipes and Sanbi fish.",
+  "t": "<strong>Thích và ghét:</strong> thích chăm sóc ba đứa trẻ, và giúp việc kinh doanh bằng mọi cách có thể. Mê các công thức Domar và cá Sanbi."
+ },
  "8d2a196d098e": {
   "en": "<strong>Speech:</strong> straightforward but polite (\"We finished the quest. We celebrated. We all spoke our minds. Now it's time for me to say goodbye.\"), unless he suspects you. Never curses.",
   "t": "<strong>Cách nói chuyện:</strong> thẳng thắn nhưng lịch sự (“Chúng ta đã hoàn thành nhiệm vụ. Chúng ta đã ăn mừng. Ai cũng đã nói hết suy nghĩ. Giờ là lúc tôi chào tạm biệt.”), trừ khi ông nghi ngờ bạn. Không bao giờ chửi thề."
@@ -1898,6 +2222,18 @@
  "8e030a4e2e1d": {
   "en": "<strong>Birthday:</strong> 974 A.G. Asa 58th.",
   "t": "<strong>Sinh nhật:</strong> 58 Asa 974 A.G."
+ },
+ "8e296785e6e7": {
+  "en": "<a href=\"#kianna-tolerideme-whoop-ass\">Kianna</a> and <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>'s second daughter.",
+  "t": "Con gái thứ hai của <a href=\"#kianna-tolerideme-whoop-ass\">Kianna</a> và <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>."
+ },
+ "8e6a23660bd9": {
+  "en": "<strong>Habits:</strong> makes eye contact, and responds with her hands and head; likes to sit back with a drink and discuss the possibilities.",
+  "t": "<strong>Thói quen:</strong> giao tiếp bằng mắt, và đáp lại bằng tay và đầu; thích ngả người ra sau với một ly đồ uống và bàn về các khả năng."
+ },
+ "8edabd7473b7": {
+  "en": "<strong>Habits:</strong> knows how to work her way into people's space when she sees them as a mark, and is cunning in how she approaches them; lots of hand movements, eye contact and smiles.",
+  "t": "<strong>Thói quen:</strong> biết cách len vào không gian của người khác khi coi họ là con mồi, và xảo quyệt trong cách tiếp cận họ; cử động tay nhiều, giao tiếp bằng mắt và mỉm cười nhiều."
  },
  "8eeec9e84e70": {
   "en": "That didn't stop people from seeking them out! Their Lonllow recipes were famous for a secret seasoning that brought tart and salty notes into the traditionally sweet Lonllow flavors. Sometimes it caused indigestion, but the exotic flavors, and a particular enthralling high, were so good that people couldn't help themselves and ignored the side effects. No one ever figured out what they did differently, despite many attempts to reproduce the flavor, from analyzing the end product to abducting a family member and forcing them to talk. They weren't big enough for Forway, or anyone else, to take action against, and they were better known among rich folks chasing exotic food than among common people.",
@@ -1962,6 +2298,10 @@
  "91db6dfc4505": {
   "en": "<strong>Strengths:</strong> liberal; pioneering; sympathetic; dynamic; friendly; quick-witted, especially at talking her and her sister out of trouble; positive; stoic.",
   "t": "<strong>Điểm mạnh:</strong> phóng khoáng; tiên phong; cảm thông; năng động; thân thiện; nhanh trí, nhất là khi ăn nói để đưa mình và chị em thoát khỏi rắc rối; tích cực; kiên cường."
+ },
+ "92506ad7ccd8": {
+  "en": "<strong>Flaws:</strong> crafty; fixed; calculating; uncharitable; attached to her birthplace, and doesn't like to travel.",
+  "t": "<strong>Điểm yếu:</strong> xảo trá; cứng nhắc; toan tính; không nhân ái; gắn bó với nơi sinh, và không thích đi xa."
  },
  "926582abab1a": {
   "en": "<strong>Strengths:</strong> playful; friendly; enthusiastic; fearless, except with his wife; inventive; relaxed; discreet; sympathetic; not stuck in tradition, yet resolute in helping Gandew and its people, even those kicked down the mountain; helpful; communist.",
@@ -2035,6 +2375,10 @@
   "en": "Her abilities weren't quite up to expectations, but her manipulation skills got her through school at the top of her class. Still early in her career, <a href=\"#eiri-sanbi-royal\">Eiri</a> saw her and hired her on the spot as a near-perfect maid for Sanbi: Eiri found and hired her on 1038 A.G. Asa 77th, and on Asa 83rd Arukia stopped at her parents' place to sleep on the way to the Sanbi Kingdom. It turned out to be a bit more complicated than that, but oh well.",
   "t": "Năng lực của cô không hẳn đạt kỳ vọng, nhưng kỹ năng thao túng giúp cô tốt nghiệp đứng đầu lớp. Khi sự nghiệp của cô còn mới bắt đầu, <a href=\"#eiri-sanbi-royal\">Eiri</a> nhìn thấy cô và thuê ngay tại chỗ làm một hầu gái gần như hoàn hảo cho Sanbi: Eiri tìm và thuê cô vào ngày 77 Asa 1038 A.G., và vào ngày 83 Asa, Arukia ghé nhà cha mẹ để ngủ lại trên đường đến Vương quốc Sanbi. Hóa ra mọi chuyện phức tạp hơn thế một chút, nhưng thôi kệ."
  },
+ "971e9245e502": {
+  "en": "<strong>Fascinated by:</strong> handsome boys, or big, imposing ones: fat versions of a prince.",
+  "t": "<strong>Thích thú với:</strong> những cậu bé đẹp trai, hoặc to lớn, bệ vệ: những phiên bản béo của một hoàng tử."
+ },
  "975b2400ae76": {
   "en": "<strong>Strengths:</strong> conscientious; empathetic; romantic; willing; independent; a busybody.",
   "t": "<strong>Điểm mạnh:</strong> tận tâm; đồng cảm; lãng mạn; sẵn lòng; độc lập; thích xen vào chuyện người khác."
@@ -2043,9 +2387,17 @@
   "en": "Eori Sanbi Royal",
   "t": "Eori Sanbi Royal"
  },
+ "98ec5de873ef": {
+  "en": "<strong>Attracted to:</strong> money. If there's a large penis attached to the money bag, then sure, whatever.",
+  "t": "<strong>Bị thu hút bởi:</strong> tiền. Nếu có một con cu to đi kèm túi tiền, thì được thôi, sao cũng được."
+ },
  "99367992f994": {
   "en": "<strong>Flaws:</strong> intrusive; nosy about the drama; sassy.",
   "t": "<strong>Điểm yếu:</strong> hay xen vào; tò mò chuyện thị phi; láu lỉnh."
+ },
+ "993b33fbb189": {
+  "en": "<strong>Birthday:</strong> 1011 A.G. Adrian 44th.",
+  "t": "<strong>Sinh nhật:</strong> 44 Adrian 1011 A.G."
  },
  "993e995897a5": {
   "en": "<strong>Race:</strong> Wozefaries.",
@@ -2083,6 +2435,10 @@
   "en": "The 9th Pharaoh, and <a href=\"#neferteri-sanbi-royal\">Neferteri</a>'s father.",
   "t": "Pharaoh thứ 9, và là cha của <a href=\"#neferteri-sanbi-royal\">Neferteri</a>."
  },
+ "9b87554f1757": {
+  "en": "<strong>Birthday:</strong> 986 A.G. Paulin 34th.",
+  "t": "<strong>Sinh nhật:</strong> 34 Paulin 986 A.G."
+ },
  "9bf8142446c0": {
   "en": "Born in Sanbi on 1017 A.G. Asa 10th and raised there by parents with a Tier III profession: her mother, <a href=\"#coema-sanbi-half-cruro\">Coema</a>, was the King-maid before her. She loved helping in the kitchen and decided to become a chef (1028 A.G.). At school, she took a few off-the-clock \"cooking lessons\" on how to warm up boys' sausages, and one of the boys was an accountant: she fell in love with accounting instead of the boy, and graduated in both (1036 A.G.). Coema knew she would grow into the role of King-maid and gave her a chance as a maid (1036 A.G.). Thanks to her outstanding knowledge, looks and playfulness, Coema promoted her to King-maid on 1038 A.G. Asa 9th, the day before her birthday. On 1038 A.G. Asa 77th, passing through Forway, she found <a href=\"#arukia-long-bridge\">Arukia</a> and hired her at the drop of a hat.",
   "t": "Sinh ra ở Sanbi vào ngày 10 Asa 1017 A.G. và lớn lên ở đó với cha mẹ làm nghề Bậc III: mẹ cô, <a href=\"#coema-sanbi-half-cruro\">Coema</a>, là King-maid trước cô. Cô thích phụ giúp trong bếp và quyết định trở thành đầu bếp (1028 A.G.). Ở trường, cô tham gia vài “buổi học nấu ăn” ngoài giờ về cách hâm nóng xúc xích của các cậu trai, và một trong các cậu trai đó là kế toán: cô phải lòng nghề kế toán thay vì cậu trai, và tốt nghiệp cả hai ngành (1036 A.G.). Coema biết cô sẽ trưởng thành để đảm nhận vai trò King-maid và cho cô một cơ hội làm hầu gái (1036 A.G.). Nhờ kiến thức xuất sắc, ngoại hình và tính tinh nghịch, Coema thăng cô lên King-maid vào ngày 9 Asa 1038 A.G., một ngày trước sinh nhật cô. Vào ngày 77 Asa 1038 A.G., khi đi qua Forway, cô tìm thấy <a href=\"#arukia-long-bridge\">Arukia</a> và thuê ngay không chút đắn đo."
@@ -2102,6 +2458,10 @@
  "9d930e63cf64": {
   "en": "66 kg",
   "t": "66 kg"
+ },
+ "9dc3a410ca6a": {
+  "en": "<strong>Intelligence:</strong> emotionally intelligent, but that's about it.",
+  "t": "<strong>Trí thông minh:</strong> có trí tuệ cảm xúc, nhưng chỉ có vậy."
  },
  "9e1b945a9bdf": {
   "en": "Laramy (986 A.G. Paulin 34th) is a trader born north of Tolerideme in a village called Broken-tree. However, as soon as he was out of the uterus, he was in a wagon traveling around with his merchant parents. The merchant life led him to make friends across the four kingdoms, with some definitely using that friendship to make one-sided trades against him. He doesn't seem to pay much mind to it as he seems to enjoy that life more for the strong wanderlust he developed rather than purely for money. His wife and daughter also picked up the wanderlust, so you will never see them anywhere for more than a week, even at their physical address, which is just a bedroom at Melada's house—Laramy's cousin.",
@@ -2143,6 +2503,10 @@
   "en": "<strong>Strengths:</strong> intelligent; helpful; disciplined; punctual; hardworking; motivating.",
   "t": "<strong>Điểm mạnh:</strong> thông minh; hay giúp đỡ; kỷ luật; đúng giờ; chăm chỉ; biết truyền động lực."
  },
+ "a115c32b8bb5": {
+  "en": "<strong>Intelligence:</strong> average. Nothing special, other than finding ways to be lazy.",
+  "t": "<strong>Trí thông minh:</strong> trung bình. Chẳng có gì đặc biệt, ngoài việc tìm cách để lười."
+ },
  "a132d57d10ae": {
   "en": "In the Stinger armor:",
   "t": "Khi mặc giáp Stinger:"
@@ -2166,6 +2530,10 @@
  "a25f5366573f": {
   "en": "Laramy's family portrait for Arc 2: a gray-haired man (marked with an arrow), a pink-haired girl and an orange-haired woman.",
   "t": "Chân dung gia đình Laramy cho Arc 2: một người đàn ông tóc xám (được đánh dấu bằng mũi tên), một cô gái tóc hồng và một người phụ nữ tóc cam."
+ },
+ "a2640c63e4a3": {
+  "en": "<strong>Habits:</strong> keeps her hands to herself, and hides her emotions behind a veil of elegance so no one can peek at her feelings or motives.",
+  "t": "<strong>Thói quen:</strong> giữ tay cho riêng mình, và che giấu cảm xúc sau tấm màn thanh lịch để không ai nhìn thấu được tình cảm hay động cơ của bà."
  },
  "a2de745206cd": {
   "en": "160 cm",
@@ -2215,6 +2583,14 @@
   "en": "Arukia Sanbi",
   "t": "Arukia Sanbi"
  },
+ "a5c67f9208a5": {
+  "en": "<strong>Strengths:</strong> incisive; persistent; self-confident, with high self-worth; fearless.",
+  "t": "<strong>Điểm mạnh:</strong> sắc bén; kiên trì; tự tin, với lòng tự trọng cao; không sợ hãi."
+ },
+ "a666d29d9a1c": {
+  "en": "<strong>Likes and dislikes:</strong> loves Sand Worm, and even Sayna. Loves fish, but says he hates it to jab at Neferteri.",
+  "t": "<strong>Thích và ghét:</strong> mê Sand Worm, và cả Sayna. Mê cá, nhưng nói là ghét để chọc Neferteri."
+ },
  "a6bd9717fb01": {
   "en": "<strong>Birthday:</strong> 1021 A.G. Paulin 11th.",
   "t": "<strong>Sinh nhật:</strong> 11 Paulin 1021 A.G."
@@ -2222,6 +2598,10 @@
  "a6dd3d82f03d": {
   "en": "176 cm",
   "t": "176 cm"
+ },
+ "a6f6e456c18a": {
+  "en": "She grew up in Tolerideme in a family of alcohol makers, and met <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a> along the way, becoming his first mate for life. She's always open to new business opportunities, even bad ones, since she's gullible.",
+  "t": "Cô lớn lên ở Tolerideme trong một gia đình nấu rượu, và gặp <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a> trên đường đời, trở thành bạn đời đầu tiên của anh. Cô luôn sẵn sàng với các cơ hội kinh doanh mới, kể cả những cơ hội tồi, vì cô cả tin."
  },
  "a77c888b717c": {
   "en": "<strong>Attracted to:</strong> she's voracious. Born male, she keeps using nari gels to maintain her cute, feminine appearance.",
@@ -2242,6 +2622,10 @@
  "a807b4ef392e": {
   "en": "Nailah (1004 A.G. Paulin 28th) is a village girl born to Sundeath parents that fled the desert weather. Not many people have seen or talked to her, but they have seen one of her beautifully intricate wood carvings on display somewhere. To be fair, many people assumed it was a pseudonym for another artist rather than someone living in a village called Rebula—why would such a brilliant artist live so far away from the big city? Her answer to that snob question always has been Rebula is where my heart is!",
   "t": "Nailah (28 Paulin 1004 A.G.) là một cô gái làng quê sinh ra trong gia đình gốc Sundeath đã chạy trốn khỏi khí hậu sa mạc. Không nhiều người từng gặp hay nói chuyện với cô, nhưng họ đã thấy một trong những tác phẩm chạm khắc gỗ tinh xảo tuyệt đẹp của cô được trưng bày ở đâu đó. Công bằng mà nói, nhiều người cho rằng đó là bút danh của một nghệ nhân khác chứ không phải ai đó sống ở một ngôi làng tên Rebula—sao một nghệ nhân xuất chúng như vậy lại sống xa thành phố lớn đến thế? Câu trả lời của cô cho câu hỏi trịch thượng đó luôn là Rebula là nơi trái tim tôi thuộc về!"
+ },
+ "a80e154188aa": {
+  "en": "<strong>Flaws:</strong> stuck in his ways, like Hades; dogmatic; pretentious; cunning; deceitful; listless.",
+  "t": "<strong>Điểm yếu:</strong> bảo thủ, như Hades; giáo điều; kiêu căng; xảo quyệt; dối trá; uể oải."
  },
  "a8b09ac28fb7": {
   "en": "<strong>Birthday:</strong> 1023 A.G. Asa 39th.",
@@ -2266,6 +2650,10 @@
  "a9b40891f43a": {
   "en": "<strong>Myers-Briggs:</strong> INFP.",
   "t": "<strong>Myers-Briggs:</strong> INFP."
+ },
+ "a9be0f209647": {
+  "en": "<strong>Intelligence:</strong> average. Nothing special, other than trying to outsmart people, and likely failing.",
+  "t": "<strong>Trí thông minh:</strong> trung bình. Chẳng có gì đặc biệt, ngoài việc cố qua mặt người khác, và nhiều khả năng là thất bại."
  },
  "a9f881ac1b59": {
   "en": "He grew up in the nearby villages with strict, hardworking parents, followed in their footsteps and became a woodcutter. He lives in Rebula with <a href=\"#nailah-rebula\">Nailah</a> and their son, <a href=\"#vitor-rebula\">Vitor</a>.",
@@ -2399,6 +2787,14 @@
   "en": "<strong>Likes and dislikes:</strong> hates rich people, the Red Winga and lustful bastards. Likes abusing the nari gels she's given to escape reality.",
   "t": "<strong>Thích và ghét:</strong> ghét người giàu, Red Winga và lũ khốn dâm đãng. Thích lạm dụng gel nari được cho để trốn tránh thực tại."
  },
+ "b1a5a993c8dc": {
+  "en": "She grew up in Tolerideme and worked various jobs over the years. In 1031 A.G., she had an affair, and a child, with <a href=\"#alford-tolerideme-dirt-lover\">Alford</a>. To keep <a href=\"#luny-tolerideme-dirt-lover\">Luny</a> from finding out, Alford made a deal with <a href=\"#itagiba-sanbi-royal\">Itagiba</a> (and <a href=\"#eiri-sanbi-royal\">Eiri</a>) to get Aurora a job in Sanbi, where she raises her child in secret. Alford visits once in a while for \"business purposes\", both to check on the child and to have fun with Aurora.",
+  "t": "Bà lớn lên ở Tolerideme và làm nhiều công việc khác nhau qua các năm. Năm 1031 A.G., bà có một cuộc ngoại tình, và một đứa con, với <a href=\"#alford-tolerideme-dirt-lover\">Alford</a>. Để <a href=\"#luny-tolerideme-dirt-lover\">Luny</a> không phát hiện ra, Alford đã thỏa thuận với <a href=\"#itagiba-sanbi-royal\">Itagiba</a> (và <a href=\"#eiri-sanbi-royal\">Eiri</a>) để kiếm cho Aurora một công việc ở Sanbi, nơi bà bí mật nuôi con. Alford thỉnh thoảng ghé thăm vì “mục đích công việc”, vừa để thăm đứa trẻ, vừa để vui vẻ với Aurora."
+ },
+ "b2a205f60d72": {
+  "en": "<strong>Strengths:</strong> protective; caring; fearless; brave; friendly, but she protects her interests; hardworking; self-aware; perceptive; mature for her age, thanks to her street smarts; doesn't gossip.",
+  "t": "<strong>Điểm mạnh:</strong> hay bảo vệ; chu đáo; không sợ hãi; dũng cảm; thân thiện, nhưng biết bảo vệ lợi ích của mình; chăm chỉ; hiểu bản thân; tinh ý; chín chắn so với tuổi, nhờ sự khôn lỏi đường phố; không buôn chuyện."
+ },
  "b2e0901c7ef2": {
   "en": "<strong>Flaws:</strong> intolerant; insensitive; tactless; temperamental; cruel; angry.",
   "t": "<strong>Điểm yếu:</strong> không khoan dung; vô cảm; thiếu tế nhị; thất thường; tàn nhẫn; nóng giận."
@@ -2427,6 +2823,10 @@
   "en": "<strong>Flaws:</strong> reserved; detached; blunt; passive; grim; neurotic; cold.",
   "t": "<strong>Điểm yếu:</strong> dè dặt; tách biệt; thẳng thừng; thụ động; u ám; dễ bị kích động; lạnh lùng."
  },
+ "b463d14c0b8c": {
+  "en": "168 cm",
+  "t": "168 cm"
+ },
  "b46eb2e49d59": {
   "en": "Aggressive",
   "t": "Hung hăng"
@@ -2446,6 +2846,10 @@
  "b5248466a770": {
   "en": "<strong>Drawn to:</strong> fatherly figures.",
   "t": "<strong>Quý mến:</strong> những hình mẫu người cha."
+ },
+ "b548da6de48c": {
+  "en": "<strong>Birthday:</strong> 997 A.G. Moacir 73rd.",
+  "t": "<strong>Sinh nhật:</strong> 73 Moacir 997 A.G."
  },
  "b5719ba8ef06": {
   "en": "<strong>Flaws:</strong> greedy; protective; forgetful.",
@@ -2507,6 +2911,10 @@
   "en": "Vitor (1025 A.G. Asa 2nd) is ready to take Rebula from a random village not even on the map to a city where people would envy to live! He might pull that off one day on spirit alone, but being a homebody and introvert like her mother is not helping him with such an idealistic dream. At least he seems to have inherited both skills from his parents, so maybe it's just a matter of growing up first before tackling his dreams.",
   "t": "Vitor (2 Asa 1025 A.G.) sẵn sàng đưa Rebula từ một ngôi làng vô danh không có cả trên bản đồ thành một thành phố mà người ta ghen tị muốn sống! Có thể một ngày cậu làm được điều đó chỉ bằng nhiệt huyết, nhưng tính thích ở nhà và hướng nội giống mẹ không giúp gì cho một giấc mơ lý tưởng như vậy. Ít ra cậu có vẻ đã thừa hưởng cả hai kỹ năng từ bố mẹ, nên có lẽ chỉ là chuyện lớn lên trước đã rồi mới theo đuổi ước mơ."
  },
+ "b88a403f475f": {
+  "en": "<strong>Birthday:</strong> 1039 A.G. Asa 69th: a newborn during the books.",
+  "t": "<strong>Sinh nhật:</strong> 69 Asa 1039 A.G.: một em bé sơ sinh trong các tập truyện."
+ },
  "b8b0a1f2e9bf": {
   "en": "<strong>Likes and dislikes:</strong> loves Rakujas, fruit and sweets in general, and never misses a chance to barter.",
   "t": "<strong>Thích và ghét:</strong> mê Rakuja, trái cây và đồ ngọt nói chung, và không bao giờ bỏ lỡ cơ hội đổi chác."
@@ -2567,6 +2975,10 @@
   "en": "<strong>Intelligence:</strong> not the most intelligent, or rather logical, so he trusts his gut a bit too much. That's why he believes eating Hifuna Yabuca can make him more powerful, even though he knows its effects.",
   "t": "<strong>Trí thông minh:</strong> không phải người thông minh nhất, hay đúng hơn là không lý trí nhất, nên ông hơi quá tin vào trực giác. Vì vậy ông tin rằng ăn Hifuna Yabuca có thể khiến ông mạnh hơn, dù biết rõ tác dụng của nó."
  },
+ "c0335ef009c9": {
+  "en": "<strong>Intelligence:</strong> after many years of travel, he knows the roads like the back of his hand. He knows names and faces like no one else, and has friends all over (at least some who act friendly while sizing him up). He doesn't read people's intentions well. He can read contracts and roughly follow them, unless the language gets very detailed.",
+  "t": "<strong>Trí thông minh:</strong> sau nhiều năm đi đường, anh thuộc các con đường như lòng bàn tay. Anh nhớ tên và mặt người như không ai khác, và có bạn bè khắp nơi (ít nhất là vài người tỏ ra thân thiện trong khi dò xét anh). Anh không giỏi đọc ý đồ của người khác. Anh có thể đọc hợp đồng và hiểu đại khái, trừ khi ngôn ngữ quá chi tiết."
+ },
  "c05815b04459": {
   "en": "<strong>Likes and dislikes:</strong> loves sweets, playing with people's hair, and helping. Doesn't like being called out on something she should know but forgot, and can burst into tears if people keep prodding her.",
   "t": "<strong>Thích và ghét:</strong> mê đồ ngọt, nghịch tóc người khác, và giúp đỡ. Không thích bị nhắc chuyện mình lẽ ra phải biết mà lại quên, và có thể òa khóc nếu người ta cứ chọc mãi."
@@ -2603,9 +3015,17 @@
   "en": "Posaqui (1023 A.G. Asa 33) is a natural Sanbi, and proud of it. He is known for his grandiose talking, sometimes going on for entire timehunks, especially when people gaslight him to do so. He is an Amethyst adventurer, constantly flashing highly decorated, sparkling weapons that look awfully unused for a supposed adventurer. Perhaps he needs it less because he often talks himself out of combat, or somehow his more diminutive stature allows him to be that extra swift with his weapons—or he illegally subcontracts the work. No one knows for sure, including Forway, after they investigated him for flashing too many new gadgets, makeup, and weapons despite being so picky about the quests he takes. The people that know him assume he dabbles in information trading, given how he's out about traveling non-stop.",
   "t": "Posaqui (33 Asa 1023 A.G.) là người Sanbi chính gốc, và tự hào về điều đó. Anh nổi tiếng với lối nói chuyện khoa trương, đôi khi kéo dài hàng timehunk, đặc biệt khi người ta thao túng để anh nói. Anh là nhà mạo hiểm hạng Amethyst, liên tục khoe những vũ khí lấp lánh trang trí cầu kỳ trông mới tinh đáng ngờ đối với một nhà mạo hiểm. Có lẽ anh ít cần đến chúng vì thường dùng miệng để thoát khỏi chiến đấu, hoặc thân hình nhỏ nhắn hơn giúp anh dùng vũ khí nhanh nhẹn hơn hẳn—hoặc anh thuê lại người khác làm việc trái phép. Không ai biết chắc, kể cả Forway, sau khi họ điều tra anh vì khoe quá nhiều đồ chơi, đồ trang điểm và vũ khí mới dù rất kén chọn nhiệm vụ. Những người biết anh đoán anh nhúng tay vào buôn bán thông tin, xét việc anh đi lại không ngừng nghỉ."
  },
+ "c2bedfef9529": {
+  "en": "<strong>Strengths:</strong> quiet; adaptable; diligent; caring; charming; impartial.",
+  "t": "<strong>Điểm mạnh:</strong> trầm lặng; dễ thích nghi; siêng năng; chu đáo; duyên dáng; công bằng."
+ },
  "c2cffc33d611": {
   "en": "<strong>Race:</strong> human and Darfaries.",
   "t": "<strong>Chủng tộc:</strong> người và Darfaries."
+ },
+ "c2e0f4e8d8ea": {
+  "en": "<strong>Speech:</strong> not afraid to talk, but rarely the first to speak: somewhere between her mom and her dad. She doesn't drill people with questions, but asks the ones that bug her point-blank.",
+  "t": "<strong>Cách nói chuyện:</strong> không ngại nói, nhưng hiếm khi là người mở lời trước: ở đâu đó giữa mẹ và cha. Cô bé không dồn người khác bằng câu hỏi, nhưng hỏi thẳng những câu khiến mình băn khoăn."
  },
  "c2f395871aa7": {
   "en": "<strong>Birthday:</strong> 1039 A.G. Paulin 14th (he counts it as his birthday, since he doesn't know his real one).",
@@ -2614,6 +3034,10 @@
  "c3b1a57d33ce": {
   "en": "Melada (1007 A.G. Paulin 101th) describes herself as an entrepreneur, always ready to be the first to smell blood in the water of her enemies and strike head first with her knowledge of many industries and her many, many connections through the four kingdoms. Others succinctly describe her as a lying, thieving cunt. Her makeup is as heavy as her jewelry, and she has been in and out of so many guilds, contracts, investigations, and punishments that it placed measurable stress on Forway's bookkeeping on her. She is also known for gambling away a lot, which might be why she is no longer in Forway. She says that's a lie, and she still goes there all the time, but Toleridemians say otherwise, as they now have to put up with all the crap she's trying to pull, including her sister Honati and niece Dalila who has to come to the rescue every now and then.",
   "t": "Melada (101 Paulin 1007 A.G.) tự mô tả mình là một doanh nhân, luôn sẵn sàng là người đầu tiên ngửi thấy mùi máu trong nước của kẻ thù và lao vào tấn công với kiến thức về nhiều ngành nghề và rất, rất nhiều mối quan hệ khắp bốn vương quốc. Những người khác mô tả ngắn gọn bà là một con mụ dối trá, trộm cắp. Lớp trang điểm của bà nặng như trang sức, và bà đã ra vào bao nhiêu hội, hợp đồng, cuộc điều tra và hình phạt đến mức gây áp lực đo đếm được lên sổ sách của Forway. Bà cũng nổi tiếng cờ bạc thua rất nhiều, có lẽ đó là lý do bà không còn ở Forway. Bà nói đó là dối trá, và bà vẫn đến đó suốt, nhưng người Tolerideme nói khác, vì giờ họ phải chịu đựng mọi trò bậy bạ bà cố giở, kể cả chị gái Honati và cháu gái Dalila, những người thỉnh thoảng phải đến giải cứu."
+ },
+ "c4180d2346d0": {
+  "en": "<strong>Intelligence:</strong> extremely high when it comes to farming; average to low on everything else.",
+  "t": "<strong>Trí thông minh:</strong> cực kỳ cao khi nói đến nông nghiệp; từ trung bình đến thấp ở mọi thứ khác."
  },
  "c418385dd11f": {
   "en": "<strong>Strengths:</strong> flexible; cat-like reflexes, for a Buhraies; simple-minded; quiet; uncomplaining; capable; a survivor; sensitive; shy.",
@@ -2627,9 +3051,21 @@
   "en": "<strong>Intelligence:</strong> knows a great deal about the intricacies of the law, and always tries to learn more. The same can't be said for street smarts, or for reading the thoughts behind people's words.",
   "t": "<strong>Trí thông minh:</strong> hiểu biết rất nhiều về những điều phức tạp của luật pháp, và luôn cố học thêm. Không thể nói như vậy về sự khôn lỏi đường phố, hay việc đọc được suy nghĩ đằng sau lời nói của người khác."
  },
+ "c46e27ecddaa": {
+  "en": "<strong>Birthday:</strong> 1034 A.G. Adrian 34th.",
+  "t": "<strong>Sinh nhật:</strong> 34 Adrian 1034 A.G."
+ },
+ "c47a6d3a33b7": {
+  "en": "<strong>Drawn to:</strong> dependable father figures.",
+  "t": "<strong>Quý mến:</strong> những hình mẫu người cha đáng tin cậy."
+ },
  "c4bc73cf6a40": {
   "en": "<strong>Intelligence:</strong> very smart and systematic in her nari gel experiments, but she needs a catalyst to push her mind and will forward, or she stalls and barely progresses. She can cook like no other and likes it, but Neferteri suppressed that, since a princess shouldn't be making food; having others cook for her became natural. So having <a href=\"#harry-sanbi\">Harry</a> under her control, doing everything to please her (he did the cooking in the lab), was very enticing to her narcissistic brain. She needs an outlet for her creativity.",
   "t": "<strong>Trí thông minh:</strong> rất thông minh và có hệ thống trong các thí nghiệm gel nari, nhưng cô cần một chất xúc tác để thúc đẩy trí óc và ý chí tiến lên, nếu không cô sẽ chững lại và gần như không tiến triển. Cô nấu ăn giỏi như không ai khác và thích nấu, nhưng Neferteri đã đè nén điều đó, vì một công chúa không nên nấu nướng; việc để người khác nấu cho mình trở nên tự nhiên. Vì vậy, có <a href=\"#harry-sanbi\">Harry</a> dưới quyền kiểm soát, làm mọi thứ để chiều lòng cô (anh nấu ăn trong phòng thí nghiệm), là điều rất hấp dẫn với bộ óc tự luyến của cô. Cô cần một lối thoát cho sự sáng tạo của mình."
+ },
+ "c4f8aaebcf9d": {
+  "en": "Born and raised in Broken-Tree, in a family of friendly traveling merchants, he spent his life on the road, and met <a href=\"#honati-broken-tree\">Honati</a> later in life, in Forway.",
+  "t": "Sinh ra và lớn lên ở Broken-Tree, trong một gia đình thương nhân lưu động thân thiện, anh dành cả đời trên đường, và gặp <a href=\"#honati-broken-tree\">Honati</a> muộn hơn trong đời, ở Forway."
  },
  "c547dab994fc": {
   "en": "<strong>Flaws:</strong> distrustful, putting up a barrier with people she doesn't know; immature, especially emotionally; secretive; cold, for the same reasons; hangry, especially after a bad night's sleep.",
@@ -2679,6 +3115,10 @@
   "en": "<strong>Flaws:</strong> stoic; uncaring; lazy; dependent on Steen: he loves the stuff too much and chews it all day long.",
   "t": "<strong>Điểm yếu:</strong> lạnh lùng điềm tĩnh; thờ ơ; lười biếng; phụ thuộc vào Steen: ông mê thứ đó quá mức và nhai nó suốt ngày."
  },
+ "c82d3b6027e7": {
+  "en": "<strong>Habits:</strong> either doing something farming-related or completely laid back, with no in-between; clears his throat a lot.",
+  "t": "<strong>Thói quen:</strong> hoặc đang làm gì đó liên quan đến nông nghiệp, hoặc hoàn toàn thảnh thơi, không có trạng thái ở giữa; hay hắng giọng."
+ },
  "c83ab3969ab9": {
   "en": "<strong>Habits:</strong> aggressive movements; looks people in the eye with certainty, or away in disgust. When her sister is in the room, she seems put in her place; when she isn't, Maiara tries to be more visible, and more like her sister, but it never quite works, since it always seems forced.",
   "t": "<strong>Thói quen:</strong> cử động hung hăng; nhìn thẳng vào mắt người khác đầy chắc chắn, hoặc ngoảnh đi đầy ghê tởm. Khi chị cô có mặt, cô có vẻ biết thân biết phận; khi chị vắng mặt, Maiara cố tỏ ra nổi bật hơn, và giống chị hơn, nhưng chẳng bao giờ thực sự thành công, vì lúc nào cũng có vẻ gượng ép."
@@ -2718,6 +3158,10 @@
  "ca676986aa25": {
   "en": "Lofinghy Sanbi Forway Aquamarine-General",
   "t": "Lofinghy Sanbi Forway Aquamarine-General"
+ },
+ "ca760fece128": {
+  "en": "<strong>Attracted to:</strong> money, and powerful men.",
+  "t": "<strong>Bị thu hút bởi:</strong> tiền, và những người đàn ông quyền lực."
  },
  "cb58b3e048c2": {
   "en": "Born in Crossroads as Maicon Crossroads Black-Dove (he updated his badge to Forway Black-Dove as an adult), he grew up among the city's elite and their way of life, and now tries to raise his status and wealth by any means possible. He's infamous at the <a href=\"/lore/factions/#red-winga\">Red Winga</a> as a \"twink\" kind of guy. They hate his guts, but every time he surfaces he has new information on someone, so he's quite useful.",
@@ -2775,6 +3219,10 @@
   "en": "<strong>Birthday:</strong> 1012 A.G. Asa 24th.",
   "t": "<strong>Sinh nhật:</strong> 24 Asa 1012 A.G."
  },
+ "cf8370f5f219": {
+  "en": "<strong>Intelligence:</strong> quite smart with Soul Energy interfaces, and she has picked up some farming knowledge from Alford by osmosis.",
+  "t": "<strong>Trí thông minh:</strong> khá giỏi các giao diện Năng lượng linh hồn, và đã thấm được một ít kiến thức nông nghiệp từ Alford."
+ },
  "cfb51346348d": {
   "en": "20 (soul capacity: 1)",
   "t": "20 (sức chứa linh hồn: 1)"
@@ -2782,6 +3230,10 @@
  "cfdf56c937e9": {
   "en": "<strong>Kiko (1018 A.G. Adrian 37th)</strong> is an entrepreneur known for founding the Half-cruro and bringing it from nothing into one of the biggest, at least in terms of raw size, guilds in the Sanbi kingdom. Some have accused his guild contracts of violating The Prosperity Treaty Section #4 Sub 1 &amp; 3 for making the contract lopsided in benefitting the guild. However, Forway officials have stated that the fact it grants a pathway for Cruros to flee the tribes and become proper kingdom citizens is a fair exchange for lifelong servitude at cheap rates.",
   "t": "<strong>Kiko (37 Adrian 1018 A.G.)</strong> là một doanh nhân nổi tiếng vì sáng lập Half-cruro và đưa nó từ con số không thành một trong những hội lớn nhất, ít nhất là về quy mô, ở vương quốc Sanbi. Một số người đã cáo buộc các hợp đồng của hội anh vi phạm Hiệp ước Thịnh vượng Điều #4 Khoản 1 &amp; 3 vì khiến hợp đồng nghiêng về lợi ích của hội. Tuy nhiên, các quan chức Forway tuyên bố rằng việc nó mở ra con đường cho Cruro thoát khỏi các bộ lạc và trở thành công dân vương quốc đàng hoàng là một sự trao đổi công bằng cho việc phục dịch suốt đời với giá rẻ."
+ },
+ "d01c0b96ac95": {
+  "en": "<strong>Intelligence:</strong> street smarts; she can haggle like nobody else, and knows a lot about the world from traveling with her parents.",
+  "t": "<strong>Trí thông minh:</strong> khôn lỏi đường phố; cô bé mặc cả giỏi như không ai khác, và biết rất nhiều về thế giới nhờ đi theo cha mẹ."
  },
  "d03383d21af7": {
   "en": "Her parents came from Sundeath and ended up in a village nearby. She married a man from a local village too, <a href=\"#severino-rebula\">Severino</a>, and they had a son, <a href=\"#vitor-rebula\">Vitor</a>. Life is simple, but good.",
@@ -2831,6 +3283,10 @@
   "en": "<strong>Attracted to:</strong> Darfaries women, especially younger ones.",
   "t": "<strong>Bị thu hút bởi:</strong> phụ nữ Darfaries, nhất là những người trẻ hơn."
  },
+ "d2ca384f04a7": {
+  "en": "<strong>Attracted to:</strong> gentle older men.",
+  "t": "<strong>Bị thu hút bởi:</strong> những người đàn ông lớn tuổi dịu dàng."
+ },
  "d3251eba2155": {
   "en": "<strong>Race:</strong> Cruro.",
   "t": "<strong>Chủng tộc:</strong> Cruro."
@@ -2850,6 +3306,10 @@
  "d35973ca155c": {
   "en": "<strong>Strengths:</strong> active, always on to the next item on her endless to-do list; honest; energetic; sporting; self-confident; witty; skillful; well-rounded; somewhat mature about her feelings, but too self-indulgent.",
   "t": "<strong>Điểm mạnh:</strong> năng động, luôn chuyển sang mục tiếp theo trong danh sách việc cần làm bất tận; trung thực; tràn đầy năng lượng; có tinh thần thể thao; tự tin; dí dỏm; khéo léo; toàn diện; khá chín chắn về cảm xúc, nhưng quá buông thả."
+ },
+ "d37ecd011c94": {
+  "en": "<strong>Habits:</strong> touchy, especially with people she thinks need help.",
+  "t": "<strong>Thói quen:</strong> hay đụng chạm, nhất là với những người bà nghĩ cần giúp đỡ."
  },
  "d3891ec6db4f": {
   "en": "<strong>Attracted to:</strong> Darfaries men: strong, resolute and powerful.",
@@ -2915,6 +3375,10 @@
   "en": "<strong>Intelligence:</strong> keenly aware of the history of the Gandew Kingdom and its citizens. Nothing else matters to her.",
   "t": "<strong>Trí thông minh:</strong> am hiểu sâu sắc lịch sử của Vương quốc Gandew và công dân của nó. Ngoài ra chẳng gì quan trọng với bà."
  },
+ "d8784843c906": {
+  "en": "<strong>Birthday:</strong> 997 A.G. Asa 64th.",
+  "t": "<strong>Sinh nhật:</strong> 64 Asa 997 A.G."
+ },
  "d88cbce8a3a5": {
   "en": "<strong>Birthday:</strong> 1029 A.G. Paulin 7th.",
   "t": "<strong>Sinh nhật:</strong> 7 Paulin 1029 A.G."
@@ -2927,6 +3391,10 @@
   "en": "<strong>Attracted to:</strong> humans: charming, jovial and dependent, who care about her more than anyone else.",
   "t": "<strong>Bị thu hút bởi:</strong> con người: quyến rũ, vui tính và phụ thuộc, quan tâm đến bà hơn bất kỳ ai."
  },
+ "d9556cb6adfd": {
+  "en": "<strong>Fascinated by:</strong> big women (starting with his mother's milk).",
+  "t": "<strong>Thích thú với:</strong> những người phụ nữ to lớn (bắt đầu từ sữa mẹ)."
+ },
  "da47d2e6534d": {
   "en": "Ryo Flatland Long-Blue",
   "t": "Ryo Flatland Long-Blue"
@@ -2934,6 +3402,14 @@
  "da52efd04974": {
   "en": "Jonem: a boy with short blue hair in a long gray-green cloak.",
   "t": "Jonem: một cậu bé tóc xanh ngắn mặc áo choàng dài màu xám xanh."
+ },
+ "da618e3d258e": {
+  "en": "<strong>Intelligence:</strong> not as smart as she seems, especially in math-heavy deals. She can bend people to her will, but her lack of foresight means she can be played like a fiddle; she thinks too highly of herself.",
+  "t": "<strong>Trí thông minh:</strong> không thông minh như vẻ ngoài, nhất là trong những giao dịch nhiều tính toán. Cô có thể khiến người khác làm theo ý mình, nhưng thiếu tầm nhìn xa khiến cô có thể bị dắt mũi dễ dàng; cô tự đánh giá mình quá cao."
+ },
+ "da8bfb6f0116": {
+  "en": "<strong>Flaws:</strong> secretive and fake: she seems caring, but isn't; no foresight, only short-term goals; grumpy behind closed doors when her mascara isn't on; a gambler; greedy; lazy; narcissistic; ruthless; uncaring; extravagant; manipulative; cunning; calculating; dishonest; disloyal.",
+  "t": "<strong>Điểm yếu:</strong> bí ẩn và giả tạo: cô có vẻ quan tâm, nhưng không phải vậy; không có tầm nhìn xa, chỉ có mục tiêu ngắn hạn; cáu kỉnh sau cánh cửa đóng khi không chuốt mascara; con bạc; tham lam; lười biếng; tự luyến; tàn nhẫn; thờ ơ; hoang phí; thao túng; xảo quyệt; toan tính; không trung thực; không trung thành."
  },
  "dad7a8452b79": {
   "en": "<strong>Intelligence:</strong> very good at seeing every possible outcome from what she knows, and even the second-best options, so no chance goes unused. She'll fight with all her strength for what she wants.",
@@ -3107,6 +3583,10 @@
   "en": "<strong>Flaws:</strong> abrasive; arrogant; boastful; self-indulgent; temperamental; not detail-oriented; truculent.",
   "t": "<strong>Điểm yếu:</strong> thô lỗ; kiêu ngạo; khoác lác; buông thả; thất thường; không chú ý chi tiết; hung hăng."
  },
+ "e4d217cac809": {
+  "en": "<strong>Birthday:</strong> 1007 A.G. Paulin 101st.",
+  "t": "<strong>Sinh nhật:</strong> 101 Paulin 1007 A.G."
+ },
  "e4f5bb453099": {
   "en": "<strong>Likes and dislikes:</strong> loves a fight, or any competition, but only when there's an interesting fight to be had. Hates anyone who gets in her way, and having to deal with pathetic pussies. Likes strong drinks.",
   "t": "<strong>Thích và ghét:</strong> mê đánh nhau, hoặc bất kỳ cuộc thi đấu nào, nhưng chỉ khi có một trận đấu thú vị. Ghét bất kỳ ai cản đường mình, và phải đối phó với lũ hèn nhát thảm hại. Thích đồ uống mạnh."
@@ -3122,6 +3602,10 @@
  "e5740988e7d2": {
   "en": "<strong>Habits:</strong> writes while others talk, and waves his notebook around for attention if nobody is \"listening\" to him.",
   "t": "<strong>Thói quen:</strong> viết trong khi người khác nói, và vẫy cuốn sổ để gây chú ý nếu không ai “lắng nghe” cậu."
+ },
+ "e58f949fbd1e": {
+  "en": "<strong>Likes and dislikes:</strong> anything he hasn't tasted or drunk before is an immediate yes. Loves meeting people; hates arguments and fights.",
+  "t": "<strong>Thích và ghét:</strong> bất cứ thứ gì anh chưa từng ăn hay uống đều được đồng ý ngay. Thích gặp gỡ mọi người; ghét cãi vã và đánh nhau."
  },
  "e5d461104cf8": {
   "en": "<strong>Binaata</strong> is his full name; Biny is a nickname. Born in Forway to parents who lived paycheck to paycheck, he had to start working early and figure out what he wanted to do with his life. He never felt adventuring was his thing, so he worked his ass off at a desk job doing grunt work in the black castle. He saved enough to open a guild that takes on adventurers and invests in them, in exchange for 30% of every quest they do, with at least 2 quests a week (exceptions depend on the quest and its payout). He can advise on what quests a given adventurer should or can take, or even give insider tips on the best quests about to become available.",
@@ -3211,6 +3695,10 @@
   "en": "Bagarisa",
   "t": "Bagarisa"
  },
+ "ebd4393b8521": {
+  "en": "<strong>Birthday:</strong> 1027 A.G. Asa 17th.",
+  "t": "<strong>Sinh nhật:</strong> 17 Asa 1027 A.G."
+ },
  "ec2a2d29b90d": {
   "en": "<strong>Attracted to:</strong> a muscly man who can go mano a mano with her and keep up with her pace.",
   "t": "<strong>Bị thu hút bởi:</strong> một người đàn ông cơ bắp có thể đấu tay đôi với cô và theo kịp nhịp độ của cô."
@@ -3243,6 +3731,10 @@
   "en": "Sanbi Villages",
   "t": "Các làng của Sanbi"
  },
+ "ef1a695aebc0": {
+  "en": "<strong>Speech:</strong> loving, and she likes to talk, often reminiscing out loud. She gets a bit too chatty at times and can irritate some people, though she means well, but she usually notices and saves the situation by changing the subject or softening her words so the other person gets less defensive or snappy.",
+  "t": "<strong>Cách nói chuyện:</strong> yêu thương, và cô thích nói chuyện, thường hồi tưởng thành tiếng. Đôi khi cô hơi quá lắm lời và có thể làm một số người khó chịu, dù cô có ý tốt, nhưng cô thường nhận ra và cứu vãn tình huống bằng cách đổi chủ đề hoặc nói nhẹ đi để người kia bớt phòng thủ hay gắt gỏng."
+ },
  "ef2c7c7548de": {
   "en": "<strong>Intelligence:</strong> smart enough, but her narrow-minded drive to be her sister is slowly chipping away at her sanity and her sense of self.",
   "t": "<strong>Trí thông minh:</strong> đủ thông minh, nhưng nỗi ám ảnh hẹp hòi muốn trở thành chị gái đang dần bào mòn sự tỉnh táo và ý thức về bản thân của cô."
@@ -3258,6 +3750,10 @@
  "ef5062215353": {
   "en": "<strong>Strengths:</strong> helpful; active; productive; passionate; stern; empathetic; encouraging; idealistic; stoic; valiant; a sense of justice.",
   "t": "<strong>Điểm mạnh:</strong> hay giúp đỡ; năng động; làm việc hiệu quả; đam mê; nghiêm nghị; đồng cảm; biết động viên; lý tưởng; kiên cường; dũng cảm; có ý thức công lý."
+ },
+ "ef515c524367": {
+  "en": "<strong>Attracted to:</strong> her brother Gamal, since he's what feeds her Soul Energy.",
+  "t": "<strong>Bị thu hút bởi:</strong> anh trai Gamal, vì ông là người nuôi dưỡng Năng lượng linh hồn của bà."
  },
  "ef63828f1e05": {
   "en": "151 cm",
@@ -3291,6 +3787,14 @@
   "en": "He plunged into a life of crime, and one day found a Walking Heart stone that melded with him perfectly. He didn't know the extent of its effects, though, and it has permanently changed him. With no going back, he kept expanding the Blue Wozens to hoard more shit, while trying to control his bursts of anger so the stone doesn't take him over completely. He has since lost track of why he founded the Blue Wozens in the first place.",
   "t": "Hắn lao vào cuộc đời tội phạm, và một ngày nọ tìm thấy một viên đá Walking Heart hòa hợp hoàn hảo với mình. Nhưng hắn không biết hết tác dụng của nó, và nó đã thay đổi hắn vĩnh viễn. Không còn đường lui, hắn tiếp tục bành trướng Blue Wozens để vơ vét thêm đủ thứ của nợ, đồng thời cố kiềm chế những cơn giận bùng phát để viên đá không chiếm trọn lấy hắn. Từ đó, hắn đã quên mất ban đầu mình lập ra Blue Wozens để làm gì."
  },
+ "f1c6bcc42788": {
+  "en": "<strong>Strengths:</strong> enthusiastic; enterprising; versatile; amicable; knowledgeable; imaginative; fussy about his farming, to a fault.",
+  "t": "<strong>Điểm mạnh:</strong> nhiệt tình; dám nghĩ dám làm; đa năng; hòa nhã; hiểu biết; giàu trí tưởng tượng; cầu kỳ với việc đồng áng, đến mức thái quá."
+ },
+ "f1de39a9b029": {
+  "en": "<strong>Flaws:</strong> shy about relationships; lazy about everything else; narrow-minded.",
+  "t": "<strong>Điểm yếu:</strong> e thẹn trong các mối quan hệ; lười biếng với mọi thứ khác; hẹp hòi."
+ },
  "f1fc2ab2323e": {
   "en": "<strong>Strengths:</strong> open-minded about deals; a listener; fair; daring; unassuming; uncomplaining; versatile; respectable; a negotiator; level-headed.",
   "t": "<strong>Điểm mạnh:</strong> cởi mở với các giao dịch; biết lắng nghe; công bằng; táo bạo; khiêm nhường; không phàn nàn; đa năng; đáng kính; nhà đàm phán; điềm tĩnh."
@@ -3298,6 +3802,10 @@
  "f32c3c90affb": {
   "en": "<strong>Habits:</strong> keeps her gloves on most of the time, but takes them off when dealing with people, especially to help them. Anxious: she wants to care for people, first and foremost, and may bite her nails when too many thoughts cloud her mind, one of the reasons she wears gloves. Her body hints at her emotions like an open book. Remembers things at odd times. Phantasia. Imitates some of the people she's close to.",
   "t": "<strong>Thói quen:</strong> đeo găng tay phần lớn thời gian, nhưng tháo ra khi làm việc với người khác, nhất là để giúp họ. Lo âu: cô muốn chăm sóc mọi người, trước hết và trên hết, và có thể cắn móng tay khi quá nhiều suy nghĩ che mờ tâm trí, một trong những lý do cô đeo găng tay. Cơ thể cô để lộ cảm xúc như một cuốn sách mở. Nhớ ra mọi chuyện vào những lúc kỳ lạ. Phantasia. Bắt chước một số người thân cận với cô."
+ },
+ "f32d74573386": {
+  "en": "<strong>Likes and dislikes:</strong> loves food of all kinds and shapes; she'd eat her weight every day if she could. Dislikes people who try to take advantage of her, or of the people around her, and hates losing trust in someone she once trusted.",
+  "t": "<strong>Thích và ghét:</strong> mê đồ ăn đủ loại, đủ hình dạng; cô bé sẽ ăn bằng cân nặng của mình mỗi ngày nếu có thể. Không thích những người cố lợi dụng cô bé, hoặc những người xung quanh, và ghét mất lòng tin vào người mình từng tin."
  },
  "f385babd2d0c": {
   "en": "He once wore a Sweet Sting costume to gather Black Honey, and it felt so empowering that he saved for about a year and a half to have a unique, chitin-looking armor made, which makes up for his slow reflexes and hides his face. People are trying to figure out who this crazy warrior is, and nobody knows it's Morika: in the armor, he becomes another persona, <a href=\"#the-stinger\">The Stinger</a>.",
@@ -3323,6 +3831,10 @@
   "en": "<strong>Strengths:</strong> persuasive; charming; beautiful; girly; trustworthy; energetic.",
   "t": "<strong>Điểm mạnh:</strong> có sức thuyết phục; quyến rũ; xinh đẹp; nữ tính; đáng tin cậy; tràn đầy năng lượng."
  },
+ "f4ef07e38aad": {
+  "en": "<strong>Speech:</strong> \"My mother is…\": she makes up for her age by flaunting everything her parents do.",
+  "t": "<strong>Cách nói chuyện:</strong> “Mẹ tớ là…”: cô bé bù cho tuổi nhỏ bằng cách khoe mọi thứ cha mẹ làm."
+ },
  "f4f0bdaceeac": {
   "en": "<strong>Intelligence:</strong> many years of experience in cooking, and in life in general; life has taught him to recognize the good and bad in people.",
   "t": "<strong>Trí thông minh:</strong> nhiều năm kinh nghiệm nấu ăn, và cả kinh nghiệm sống nói chung; cuộc đời đã dạy ông nhận ra điều tốt và điều xấu nơi con người."
@@ -3330,6 +3842,10 @@
  "f4f81377f19a": {
   "en": "Arc 2 inset",
   "t": "Hình chèn Arc 2"
+ },
+ "f50ad85c2c18": {
+  "en": "<strong>Flaws:</strong> opinionated; jealous; bossy; blunt.",
+  "t": "<strong>Điểm yếu:</strong> cố chấp; hay ghen; hách dịch; thẳng thừng."
  },
  "f53b0fda280e": {
   "en": "<strong>Flaws:</strong> lustful; secretive; passive with his wife; too self-conscious at times, especially about keeping his secrets from leaking.",
@@ -3431,9 +3947,17 @@
   "en": "Katsuki Flatland Long-Blue",
   "t": "Katsuki Flatland Long-Blue"
  },
+ "fc8f4ee78485": {
+  "en": "<strong>Attracted to:</strong> faithful, loving men who are kind by nature: more than just looks.",
+  "t": "<strong>Bị thu hút bởi:</strong> những người đàn ông chung thủy, yêu thương và tốt bụng bẩm sinh: không chỉ là vẻ ngoài."
+ },
  "fc9d370c6604": {
   "en": "Laura: a woman with dark green hair in a long red dress with white trim, holding a small trinket.",
   "t": "Laura: một người phụ nữ tóc xanh lá sẫm mặc váy dài đỏ viền trắng, cầm một món đồ trang sức nhỏ."
+ },
+ "fcae9f902a85": {
+  "en": "<strong>Strengths:</strong> straight to the point; decisive; daring; likes to have everything in hand, or nearby.",
+  "t": "<strong>Điểm mạnh:</strong> đi thẳng vào vấn đề; quyết đoán; táo bạo; thích có mọi thứ trong tay, hoặc ở gần."
  },
  "fcb609cb62e8": {
   "en": "<strong>Habits:</strong> smiles; friendly, but reserved with physical contact; some of <a href=\"#neferteri-sanbi-royal\">Neferteri</a>'s elegance, but warmer and more sincere. Her eyes wander as her brain works out the bigger picture.",
@@ -3462,6 +3986,10 @@
  "fe3ae2010ce0": {
   "en": "Nina Sanbi Royal",
   "t": "Nina Sanbi Royal"
+ },
+ "fe5abbdd1aee": {
+  "en": "<strong>Strengths:</strong> a bit more ambitious than Laramy; playful; loyal; loving; intuitive; straightforward; enthusiastic; quick on her feet, rolling with the punches; a bit of wanderlust.",
+  "t": "<strong>Điểm mạnh:</strong> tham vọng hơn Laramy một chút; tinh nghịch; trung thành; yêu thương; trực giác tốt; thẳng thắn; nhiệt tình; nhanh nhạy, gặp sao chịu vậy; có chút máu xê dịch."
  },
  "fe69c9a5c32d": {
   "en": "Katsumi: two outfits of a smiling woman with short purple hair, a red top and skirt and a purple-and-white kimono-style dress.",
