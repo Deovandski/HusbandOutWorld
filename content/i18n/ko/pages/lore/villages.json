@@ -1,4 +1,8 @@
 {
+ "0013ecdd6cce": {
+  "en": "A village east of Sanbi. Its blacksmiths, a father and son, suck at their job.",
+  "t": "산비 동쪽의 마을. 이곳 대장장이 부자는 일을 더럽게 못한다."
+ },
  "025d108f6ea1": {
   "en": "Saltwater",
   "t": "솔트워터"
@@ -7,9 +11,21 @@
   "en": "Todame",
   "t": "토다메"
  },
+ "076779d7d8cc": {
+  "en": "A small village by two rivers. It floods every spring, so every house is built off the ground.",
+  "t": "두 강가의 작은 마을. 봄마다 물에 잠겨서, 집이 모두 땅에서 띄워 지어져 있다."
+ },
+ "0de63bd59d9f": {
+  "en": "A village west of Northpoint, founded by someone who was nearly the Lishies' food, though it never grew much, for whatever reason. It has a lighthouse.",
+  "t": "노스포인트 서쪽의 마을로, 리시에스의 먹이가 될 뻔한 누군가가 세웠지만, 무슨 이유에선지 크게 자라지 않았다. 등대가 있다."
+ },
  "159a1c3c92ce": {
   "en": "Tolame",
   "t": "톨라메"
+ },
+ "1600c59ad2d1": {
+  "en": "A village not too far from Forway City, where Harry and Dalila got on a wagon. It's called Jack Wood because its early residents were famous for robbing travelers by blocking the road with trees (hijack, jack).",
+  "t": "포웨이 시에서 그리 멀지 않은 마을로, 해리와 달릴라가 짐마차에 올라탄 곳이다. 초창기 주민들이 나무로 길을 막아 여행자를 터는 것으로 유명해서 잭 우드라고 불린다(하이잭의 잭)."
  },
  "164be3a324db": {
   "en": "Torame",
@@ -35,13 +51,33 @@
   "en": "Summary written by AI from the author's notes (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Villages.md\">Villages.md</a>). <a href=\"/about/ai-disclosure/\">AI disclosure</a>",
   "t": "작가의 노트(<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Villages.md\">Villages.md</a>)를 바탕으로 AI가 작성한 요약입니다. <a href=\"/about/ai-disclosure/\">AI 사용 안내</a>"
  },
+ "2cd87c6f70bd": {
+  "en": "A village north of Sanbi. Sometimes saltwater and water from the waterfall mix in the harbor and make the water light up. It has a lighthouse.",
+  "t": "산비 북쪽의 마을. 가끔 항구에서 바닷물과 폭포의 물이 섞여 물이 빛난다. 등대가 있다."
+ },
+ "35ecd1f08177": {
+  "en": "A village east of Sanbi. The village chief, Tupinamba, is old and cranky but realistic: when he says something is shit, it's because it is. He seems about as old as Gabiro, but a bit fatter and taller.",
+  "t": "산비 동쪽의 마을. 촌장 투피남바는 늙고 까칠하지만 현실적이다: 그가 뭔가를 똥이라고 하면, 그건 똥이기 때문이다. 가비로만큼 늙어 보이지만, 좀 더 뚱뚱하고 키가 크다."
+ },
+ "3cf7066fe8f0": {
+  "en": "It floods every spring, as the river flow changes and the snow melts, so every house is built off the ground.",
+  "t": "봄마다 강의 흐름이 바뀌고 눈이 녹으면서 물에 잠겨서, 집이 모두 땅에서 띄워 지어져 있다."
+ },
  "4175524e9250": {
   "en": "Minala",
   "t": "미날라"
  },
+ "41e6b1c41ef1": {
+  "en": "A village next to Bahyum; see Bahyum under Land for more, including the castle mood tracker.",
+  "t": "바혐 옆의 마을. 성 기분 기록판을 포함해 더 많은 건 땅의 바혐 참조."
+ },
  "4291c6875b62": {
   "en": "Totame",
   "t": "토타메"
+ },
+ "4f75c386ee02": {
+  "en": "A really old village in the middle of nowhere. There's a fair amount of inbreeding.",
+  "t": "한가운데 아무것도 없는 곳의 아주 오래된 마을. 근친교배가 꽤 있다."
  },
  "544ef03fd71c": {
   "en": "Banhia",
@@ -51,6 +87,10 @@
   "en": "Tomame",
   "t": "토마메"
  },
+ "58b46653244f": {
+  "en": "Usually one or two people in this \"village\", who dare to stay isolated long enough to get rich. Its lighthouse keeps boats from straying too far northeast by accident, and boats coming from Newland from going too far south.",
+  "t": "이 ‘마을’에는 보통 한두 명이 사는데, 부자가 될 만큼 오래 고립되어 버틸 배짱이 있는 사람들이다. 이곳 등대는 배가 실수로 북동쪽으로 너무 멀리 벗어나지 않게, 그리고 뉴랜드에서 오는 배가 너무 남쪽으로 내려가지 않게 해 준다."
+ },
  "5a2eae7c1c93": {
   "en": "Tofame",
   "t": "토파메"
@@ -58,6 +98,10 @@
  "5b68530e46b5": {
   "en": "Otherside",
   "t": "아더사이드"
+ },
+ "5b7dc6d64e31": {
+  "en": "A village on the left edge of Endlessfog Island. It has a lighthouse.",
+  "t": "엔들리스포그 섬 왼쪽 끝의 마을. 등대가 있다."
  },
  "5c874ea7ca09": {
   "en": "Tohame",
@@ -67,9 +111,21 @@
   "en": "Long Bridge",
   "t": "롱 브리지"
  },
+ "5f8f9e1f2bb7": {
+  "en": "A small village on Ganyrami Bay. It has a lighthouse.",
+  "t": "가니라미 베이의 작은 마을. 등대가 있다."
+ },
+ "63056165b37d": {
+  "en": "A village on the island on the other side: the goal for many, a long time ago, as they fled the Lishies' hungry mouths.",
+  "t": "건너편 섬의 마을: 오래전 리시에스의 굶주린 입을 피해 달아나던 많은 이의 목표였다."
+ },
  "66317632fdc8": {
   "en": "Fastwater",
   "t": "패스트워터"
+ },
+ "6fc4cc7dea18": {
+  "en": "A village between Sanbi and Forway. Back in the day, crossing the river was a must, so a village grew around this resting point. The village elder, Tomanius, is a caring older guy. The bridge is four times as long as the reference, a bit like the one in Skyrim.",
+  "t": "산비와 포웨이 사이의 마을. 옛날에는 강을 건너는 게 필수여서, 이 쉼터를 중심으로 마을이 생겼다. 마을 원로 토마니우스는 다정한 노인이다. 다리는 참고 자료보다 네 배 길고, 스카이림의 다리와 좀 비슷하다."
  },
  "70306a42ee97": {
   "en": "Green Sea",
@@ -79,9 +135,17 @@
   "en": "Lakeeye",
   "t": "레이크아이"
  },
+ "72d405bed437": {
+  "en": "A village southeast of Forway, near Likenia.",
+  "t": "포웨이 남동쪽, 리케니아 근처의 마을."
+ },
  "77eeb2f03e9d": {
   "en": "45 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "이 페이지의 항목 45개는 <button class=\"linklike\" data-go-bts>비하인드</button>에서만 볼 수 있습니다."
+ },
+ "8028cee75734": {
+  "en": "A village east of Sanbi, not far from where Eori kept Harry hostage. The basement of Eori's hideout:",
+  "t": "산비 동쪽의 마을로, 에오리가 해리를 인질로 잡아 두었던 곳에서 멀지 않다. 에오리 은신처의 지하실:"
  },
  "844edd56f865": {
   "en": "Villages · #HusbandOutWorld",
@@ -103,6 +167,14 @@
   "en": "Jack Wood",
   "t": "잭 우드"
  },
+ "8e7c1c5547fc": {
+  "en": "North of Tolerideme. Wood People are forced into place, forming a wall with Fost Stone.",
+  "t": "톨레리데메 북쪽. 우드 피플을 억지로 세워 포스트석과 함께 벽을 이루게 했다."
+ },
+ "8f687d534f83": {
+  "en": "A village near Flatland, where a bandit group used broken weapons in their attacks, until adventurers flattened them a long time ago.",
+  "t": "플랫랜드 근처의 마을로, 한 산적 무리가 부러진 무기로 습격하던 곳이다. 오래전에 모험가들이 그들을 박살 냈다."
+ },
  "93f7ba85c7ed": {
   "en": "Freeish Region",
   "t": "프리이시 지역"
@@ -110,6 +182,18 @@
  "94f9a9d581cc": {
   "en": "Gandew Region",
   "t": "간듀 지역"
+ },
+ "968f0599653f": {
+  "en": "A village south of Sanbi. It has a lighthouse.",
+  "t": "산비 남쪽의 마을. 등대가 있다."
+ },
+ "976739e9be2b": {
+  "en": "A small village off Deltacross. It has a Gandew lighthouse.",
+  "t": "델타크로스 앞바다의 작은 마을. 간듀 등대가 있다."
+ },
+ "98c7cb4f62c5": {
+  "en": "A village east of Sanbi.",
+  "t": "산비 동쪽의 마을."
  },
  "993afbf1792a": {
   "en": "Rebula",
@@ -123,6 +207,10 @@
   "en": "An old lady, Fiera, took care of every passerby, whatever their origin or destination, and some like-minded people decided to stay and help strangers too.",
   "t": "피에라라는 할머니가 어디서 왔든 어디로 가든 지나가는 모든 이를 돌봤고, 뜻이 같은 몇몇 사람이 남아 함께 낯선 이들을 돕기로 했다."
  },
+ "a7972ad7eb55": {
+  "en": "A village near where two rivers meet, for people who wanted a peaceful life, but not too far from civilization.",
+  "t": "두 강이 만나는 곳 근처의 마을로, 평화로운 삶을 원하지만 문명에서 너무 멀지는 않길 바란 사람들이 산다."
+ },
  "a8bdbf7926eb": {
   "en": "Arukia in Arc 1: two outfits of a brown-haired young woman, a black-and-blue maid dress and a casual blue top with a purple skirt.",
   "t": "아크 1의 아루키아: 갈색 머리 젊은 여성의 두 가지 차림. 검은색과 파란색 메이드 드레스, 그리고 보라색 치마에 캐주얼한 파란 상의."
@@ -131,6 +219,10 @@
   "en": "Villages (World Lore illustration)",
   "t": "마을 (세계관 삽화)"
  },
+ "aa99df9d1268": {
+  "en": "A village east of Sanbi, south of Green Sea. The village chief, Manbola, is an old lady who's chill with everything, just living life.",
+  "t": "산비 동쪽, 그린 시 남쪽의 마을. 촌장 만볼라는 모든 걸 느긋하게 받아들이며 그저 삶을 사는 할머니다."
+ },
  "bb32aa7791df": {
   "en": "Fostwater",
   "t": "포스트워터"
@@ -138,6 +230,10 @@
  "bc510c5ac0fc": {
   "en": "Tosame",
   "t": "토사메"
+ },
+ "bfaff2cad3b8": {
+  "en": "A village on the north point of the bay. It has a lighthouse.",
+  "t": "만의 북쪽 끝에 있는 마을. 등대가 있다."
  },
  "bfe6f52444a9": {
   "en": "Cliffbay",
@@ -175,6 +271,10 @@
   "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Villages.md\">Legacy/Behind The Scenes/World Lore/Villages.md</a>",
   "t": "출처: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Villages.md\">Legacy/Behind The Scenes/World Lore/Villages.md</a>"
  },
+ "c85613d7f49b": {
+  "en": "A village quite far from Forway City, which Harry and Dalila passed through. Nailah, Severino and Vitor live here. Since it's deep in the forest, the village is fortified with walls.",
+  "t": "포웨이 시에서 꽤 먼 마을로, 해리와 달릴라가 지나갔다. 나일라, 세베리노, 비토르가 여기 산다. 숲 깊은 곳에 있어서 마을이 성벽으로 요새화되어 있다."
+ },
  "c918beef2c0c": {
   "en": "Tojame",
   "t": "토자메"
@@ -182,6 +282,14 @@
  "c96e19027eee": {
   "en": "Togame",
   "t": "토가메"
+ },
+ "cc3de8998411": {
+  "en": "A village under Tolerideme's \"protection\", acting like an extension of the kingdom.",
+  "t": "톨레리데메의 ‘보호’ 아래 있는 마을로, 왕국의 연장처럼 움직인다."
+ },
+ "cd8fa1407db5": {
+  "en": "<strong>Food:</strong> Fiera's baked pies, from recipes passed down through the generations. Deliciously moist.",
+  "t": "<strong>음식:</strong> 대대로 내려온 레시피로 구운 피에라의 파이. 촉촉하고 맛있다."
  },
  "cd94d22e162b": {
   "en": "Fiera’s Hut",
@@ -202,6 +310,14 @@
  "d7018b5be1b1": {
   "en": "Cocona: a palm tree with rainbow-colored fronds and several colorful nut-like fruits.",
   "t": "코코나: 무지갯빛 잎과 알록달록한 견과 같은 열매가 여러 개 달린 야자수."
+ },
+ "d77003e40ffb": {
+  "en": "A village on the skinny part of the island. Nobody knows why the name Sandwich stuck.",
+  "t": "섬의 가느다란 부분에 있는 마을. 왜 샌드위치라는 이름이 붙었는지는 아무도 모른다."
+ },
+ "da39c22fbdeb": {
+  "en": "Not a very inventive name, but quite descriptive and honest. It has a lighthouse.",
+  "t": "그다지 창의적인 이름은 아니지만, 꽤 설명적이고 정직하다. 등대가 있다."
  },
  "dcd640303d5c": {
   "en": "Rich Island",
