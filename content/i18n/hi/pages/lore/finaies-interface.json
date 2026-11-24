@@ -1,7 +1,27 @@
 {
+ "0a2af398fe47": {
+  "en": "Ice",
+  "t": "बर्फ़"
+ },
+ "0a48d44e337c": {
+  "en": "<strong>Shape the spell.</strong> Draw its logogram in the air (see Language › Finaies Interface Language), then hold the left hand's two fingers with the other hand for the element to appear.",
+  "t": "<strong>मंत्र को आकार दो।</strong> हवा में उसका लोगोग्राम बनाओ (भाषा › फ़िनेज़ इंटरफ़ेस की भाषा देखो), फिर तत्व के प्रकट होने के लिए बाएँ हाथ की दोनों उँगलियाँ दूसरे हाथ से पकड़ो।"
+ },
+ "1273827574a8": {
+  "en": "Ash",
+  "t": "राख"
+ },
+ "142b5758f344": {
+  "en": "Wind",
+  "t": "हवा"
+ },
  "2359f9fd7d5a": {
   "en": "The primordial interface of what we know as the Darfaries interface nowadays. Some say it’s the start of all interfaces as well, but that never left the ranting books of scientists as proof of that has been quite elusive.",
   "t": "आज हम जिसे डारफ़ेरीज़ इंटरफ़ेस के नाम से जानते हैं, उसका आदि-इंटरफ़ेस। कुछ कहते हैं कि यह सभी इंटरफ़ेस का शुरुआती बिंदु भी है, पर यह बात वैज्ञानिकों की भड़ास वाली किताबों से कभी बाहर नहीं आई, क्योंकि इसका सबूत हाथ नहीं आया।"
+ },
+ "2d2b9fe1f9fe": {
+  "en": "Creates a ball of lava.",
+  "t": "लावा का एक गोला बनाता है।"
  },
  "2d56d7adc9a6": {
   "en": "Finaies Interface · #HusbandOutWorld",
@@ -15,16 +35,140 @@
   "en": "Why is the interface symbology so small and specific? The consensus believes that it is related to the nature-focused and simplistic minds of Finaies.",
   "t": "इंटरफ़ेस का प्रतीक-विधान इतना छोटा और इतना सटीक क्यों है? आम राय है कि इसका संबंध फ़िनेज़ के सरल, प्रकृति की ओर झुके मन से है।"
  },
+ "3749c8439c7a": {
+  "en": "Storm",
+  "t": "तूफ़ान"
+ },
+ "4a00822dbc67": {
+  "en": "Ball size (cm)",
+  "t": "गोले का आकार (cm)"
+ },
+ "4c32a85dc8ec": {
+  "en": "Creates a ball of mud.",
+  "t": "कीचड़ का एक गोला बनाता है।"
+ },
+ "4d1dbb53b348": {
+  "en": "<strong>Hold.</strong> Keep the fingers clenched to power up the holding hand. The longer you hold, the stronger the spell, and the more soul energy it costs. Other Finaies can touch you to give you soul energy and power the spell up faster.",
+  "t": "<strong>थामे रखो।</strong> थामने वाले हाथ को ताक़त देने के लिए उँगलियाँ भींचे रखो। जितनी देर थामोगे, मंत्र उतना ताक़तवर, और उसकी आत्मा-ऊर्जा की क़ीमत उतनी ज़्यादा। दूसरे फ़िनेज़ तुम्हें छूकर आत्मा-ऊर्जा दे सकते हैं ताकि मंत्र जल्दी ताक़त पकड़े।"
+ },
+ "4ebc18247e08": {
+  "en": "Steam",
+  "t": "भाप"
+ },
+ "4f3226d88153": {
+  "en": "Creates a ball of wind.",
+  "t": "हवा का एक गोला बनाता है।"
+ },
+ "604b6f188c5d": {
+  "en": "Creates a ball of water.",
+  "t": "पानी का एक गोला बनाता है।"
+ },
+ "64a9807143ef": {
+  "en": "Creates a ball of ice.",
+  "t": "बर्फ़ का एक गोला बनाता है।"
+ },
+ "674982955154": {
+  "en": "Shock",
+  "t": "झटका"
+ },
+ "78baebfcb4b5": {
+  "en": "Fire",
+  "t": "आग"
+ },
+ "7914569e33cc": {
+  "en": "The ball's size follows the General Power Effects: 0.1 cm at Tier I, doubling with every tier.",
+  "t": "गोले का आकार सामान्य शक्ति प्रभावों के हिसाब से चलता है: स्तर I पर 0.1 cm, और हर स्तर पर दोगुना।"
+ },
+ "795fe475b669": {
+  "en": "Spells in this category are released in the air, or as a projectile if you cock your arm back and release the spell as you push it forward.",
+  "t": "इस श्रेणी के मंत्र हवा में छोड़े जाते हैं, या प्रक्षेप्य की तरह, अगर तुम अपनी बाँह पीछे खींचो और उसे आगे धकेलते हुए मंत्र छोड़ो।"
+ },
+ "7ef5d32f52cd": {
+  "en": "Creates a ball of ash.",
+  "t": "राख का एक गोला बनाता है।"
+ },
+ "8017fe7bff1c": {
+  "en": "Creates a ball of shock.",
+  "t": "झटके का एक गोला बनाता है।"
+ },
+ "8820d95a1ff1": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Finaies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Finaies Interface.md</a>",
+  "t": "स्रोत: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Finaies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Finaies Interface.md</a>"
+ },
  "8a7ee68cd8b1": {
   "en": "Unlike complex casting rituals of specific interfaces such as Darfaries and Buhraies, their interface resembles animals like Bagarisa. The casting is done with a simple, singular hand movement matching the desired output, and voila! The spell comes out swiftly and aggressively out of their stubbed hands.",
   "t": "डारफ़ेरीज़ और बुरेज़ जैसे कुछ इंटरफ़ेस के पेचीदा चलाने के अनुष्ठानों के उलट, उनका इंटरफ़ेस बागरीसा जैसे जानवरों के इंटरफ़ेस जैसा है। चाहे गए नतीजे से मेल खाती हाथ की एक सरल हरकत से जादू चल जाता है, और बस! जादू उनके गठीले हाथों से तेज़ी और ज़ोर से निकलता है।"
+ },
+ "8be71aeae090": {
+  "en": "Creates a ball of frozen earth.",
+  "t": "जमी हुई मिट्टी का एक गोला बनाता है।"
+ },
+ "8d45a32dc1bd": {
+  "en": "Soul Energy - Finaies Interface (World Lore illustration)",
+  "t": "आत्मा-ऊर्जा - फ़िनेज़ इंटरफ़ेस (संसार का चित्र)"
+ },
+ "9134ec5b6078": {
+  "en": "Creates a ball of fire.",
+  "t": "आग का एक गोला बनाता है।"
+ },
+ "95a1423259bb": {
+  "en": "Creates a ball of earth.",
+  "t": "मिट्टी का एक गोला बनाता है।"
+ },
+ "9c0cf1058f68": {
+  "en": "Frozen Earth",
+  "t": "जमी हुई मिट्टी"
+ },
+ "a074430f352b": {
+  "en": "Earth",
+  "t": "मिट्टी"
+ },
+ "a1b06dfc3df5": {
+  "en": "<strong>Release.</strong> Separate your fingers to release the spell, or cock your arm back for a ranged attack.",
+  "t": "<strong>छोड़ो।</strong> मंत्र छोड़ने के लिए उँगलियाँ अलग करो, या दूर के हमले के लिए अपनी बाँह पीछे खींचो।"
+ },
+ "b9a3fb9ac695": {
+  "en": "Lava",
+  "t": "लावा"
+ },
+ "ca30ca77ff43": {
+  "en": "In short: draw the spell in the air, hold to charge it, then release.",
+  "t": "संक्षेप में: हवा में मंत्र बनाओ, उसे चार्ज करने के लिए थामे रखो, फिर छोड़ दो।"
  },
  "cbf8ef1393dd": {
   "en": "The primordial interface of what we know as the Darfaries interface nowadays.",
   "t": "आज हम जिसे डारफ़ेरीज़ इंटरफ़ेस के नाम से जानते हैं, उसका आदि-इंटरफ़ेस।"
  },
+ "cfad124318ab": {
+  "en": "Creates a ball of dust.",
+  "t": "धूल का एक गोला बनाता है।"
+ },
+ "de9b1be49dae": {
+  "en": "Water",
+  "t": "पानी"
+ },
  "e0f540f92c72": {
   "en": "Casting",
   "t": "चलाना"
+ },
+ "eaff7cfcc0b1": {
+  "en": "Mud",
+  "t": "कीचड़"
+ },
+ "f596e6062c48": {
+  "en": "Dust",
+  "t": "धूल"
+ },
+ "f74808bef3bb": {
+  "en": "Creates a ball of steam.",
+  "t": "भाप का एक गोला बनाता है।"
+ },
+ "fbe443348c64": {
+  "en": "Creates a ball of storm.",
+  "t": "तूफ़ान का एक गोला बनाता है।"
+ },
+ "fd20e268a43c": {
+  "en": "A natural evolution of the Finaies that lets them use a basic, elemental soul energy interface. A Finaies draws the spell's logogram in the air with the left hand, and soul energy shapes the spell from that movement. Finaies hands have only two fingers, branch-like.",
+  "t": "फ़िनेज़ का एक कुदरती विकास जो उन्हें एक बुनियादी, तत्व वाला आत्मा-ऊर्जा इंटरफ़ेस इस्तेमाल करने देता है। एक फ़िनेज़ बाएँ हाथ से हवा में मंत्र का लोगोग्राम बनाता है, और आत्मा-ऊर्जा उस हरकत से मंत्र को आकार देती है। फ़िनेज़ के हाथों में सिर्फ़ दो उँगलियाँ होती हैं, डाल जैसी।"
  }
 }

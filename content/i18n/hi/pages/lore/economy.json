@@ -1,4 +1,8 @@
 {
+ "000a6bd9e4af": {
+  "en": "Tier V",
+  "t": "स्तर V"
+ },
  "0054289dba33": {
   "en": "Before the Prosperity Treaty, Kingdom UOMs were all over the place, making trading harder and opening the door for sketchier traders to forge papers to evade authorities and rip off customers. Adrian, one of the courtroom scientists that overthrew all rulers at the end of The Greed Period, saw the treaty they were establishing as an opportunity to standardize all measurements based on using the most accurate one in existence—which happened to be the Tolerideme Kingdom, coincidentally where he was from. Gandew, of course, still uses their own to this day alongside the Vraki measurements. In contrast, everyone else's historical measurement implementations are now the type of knowledge that only historians care to know.",
   "t": "समृद्धि संधि से पहले, राज्यों की माप की इकाइयाँ हर दिशा में बिखरी थीं, जिससे व्यापार मुश्किल होता था और उन संदिग्ध व्यापारियों के लिए रास्ता खुलता था जो अधिकारियों से बचने और ग्राहकों को ठगने के लिए काग़ज़ों में हेरफेर करते थे। एड्रियन, उन दरबारी वैज्ञानिकों में से एक जिन्होंने लालच के दौर के अंत में सभी शासकों का तख़्ता पलटा, ने उस संधि में, जिसे वे बना रहे थे, सारे मापों को मौजूद सबसे सटीक माप के आधार पर एक जैसा करने का मौक़ा देखा—जो संयोग से टॉलरिडीम राज्य का निकला, जहाँ से वह ख़ुद था। गैंड्यू ज़ाहिर है आज भी व्राकी मापों के साथ अपने माप इस्तेमाल करता है। वहीं बाक़ी सबके ऐतिहासिक माप अब उस तरह का ज्ञान हैं जिसमें सिर्फ़ इतिहासकारों की दिलचस्पी है।"
@@ -7,77 +11,301 @@
   "en": "10 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "इस पेज की 10 और प्रविष्टियाँ सिर्फ़ <button class=\"linklike\" data-go-bts>पर्दे के पीछे</button> में हैं।"
  },
+ "015c979a68a6": {
+  "en": "<strong>Where it comes from:</strong> mined from Flatland City to Blood City, deep inside the mountains (about 1 km down).",
+  "t": "<strong>कहाँ से मिलता है:</strong> फ़्लैटलैंड सिटी से ब्लड सिटी तक, पहाड़ों के भीतर गहराई में (लगभग 1 km नीचे) खोदकर निकाला जाता है।"
+ },
  "022aabbee753": {
   "en": "Vraki UOMs",
   "t": "व्राकी माप की इकाइयाँ"
+ },
+ "0326ae1448a0": {
+  "en": "Economic activity in Vraki comes from fauna, flora and beasts, and the goods and services made from them. It's divided into four economic regions, and comparative advantage decides which goods are worth exporting from one region to another.",
+  "t": "व्राकी में आर्थिक गतिविधि जीव-जंतुओं, वनस्पति और दरिंदों से, और उनसे बने माल और सेवाओं से आती है। यह चार आर्थिक क्षेत्रों में बँटी है, और तुलनात्मक बढ़त तय करती है कि कौन-सा माल एक क्षेत्र से दूसरे में निर्यात करने लायक़ है।"
+ },
+ "0351367464a7": {
+  "en": "Master, per day",
+  "t": "उस्ताद, प्रति दिन"
  },
  "03ebd5a3d869": {
   "en": "*The name Vraki is a homage to ancient texts that portrayed Buhraies working hard to unify language across species.",
   "t": "*व्राकी नाम उन प्राचीन ग्रंथों को श्रद्धांजलि है जिनमें बुरेज़ को प्रजातियों के बीच भाषा को एक करने के लिए कड़ी मेहनत करते दिखाया गया।"
  },
+ "057dea8c73ac": {
+  "en": "Hardness:",
+  "t": "कठोरता:"
+ },
+ "0d5c49323965": {
+  "en": "~3,300 km",
+  "t": "~3,300 km"
+ },
+ "0e7f700547cb": {
+  "en": "<strong>Example:</strong> fanchaki farms are spread out everywhere, but Freeish and Blood have the comparative advantage for large-scale farming. Raising larger fanchakis (like Sanbi's experimental farm) costs more than their meat sells for.",
+  "t": "<strong>उदाहरण:</strong> फ़ानचाकी के फ़ार्म हर जगह फैले हैं, पर बड़े पैमाने की खेती के लिए फ़्रीइश और ब्लड के पास तुलनात्मक बढ़त है। बड़े फ़ानचाकी पालना (जैसे सनबी का प्रयोगात्मक फ़ार्म) उनके मांस की बिक्री से ज़्यादा महँगा पड़ता है।"
+ },
+ "0f217179940c": {
+  "en": "Region",
+  "t": "क्षेत्र"
+ },
+ "144301cf556b": {
+  "en": "The full numbers are in the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Distance Cost Calculator).",
+  "t": "पूरे आँकड़े <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">अर्थव्यवस्था के स्प्रेडशीट</a> (दूरी-ख़र्च कैलकुलेटर) में हैं।"
+ },
+ "15d14b4ee5c3": {
+  "en": "<strong>Hardness:</strong> 2.5 to 4.5",
+  "t": "<strong>कठोरता:</strong> 2.5 से 4.5"
+ },
+ "15dded0b93d1": {
+  "en": "1 ball",
+  "t": "1 गेंद"
+ },
+ "18000a4c2290": {
+  "en": "Tier II",
+  "t": "स्तर II"
+ },
  "184272d237d3": {
   "en": "The most common currency is Pearls, which denotes the currency's minimum value. For reference, on an average working day, a gatherer of Gyut (a berry akin to Acerola) would earn one pearl per kg of berries picked (around thirty minutes to one hour of labor, depending on their efficiency.) Assuming a newbie gatherer worked for twelve hours, they would likely pay five pearls for a simple but hearty dinner with a mug of cheap beer, then another five for renting a humble hostel bed, with two pearls left over to save for tomorrow. Usually, one would use pearls for food or standard simple services like wagon rides for relatively short distances.",
   "t": "सबसे आम मुद्रा पर्ल हैं, जो मुद्रा का सबसे छोटा मूल्य हैं। अंदाज़ा देने के लिए, एक औसत काम के दिन में, ग्युट (एसेरोला जैसी एक बेरी) तोड़ने वाला तोड़ी गई हर किलो बेरी पर एक पर्ल कमाएगा (अपनी कुशलता के हिसाब से लगभग आधे घंटे से एक घंटे का काम।) मान लो एक नौसिखिया तोड़ने वाला बारह घंटे काम करता है, तो वह शायद सस्ती बीयर के एक मग के साथ सादे पर भरपेट रात के खाने के लिए पाँच पर्ल देगा, फिर सराय के एक मामूली बिस्तर के किराए के लिए पाँच और, और अगले दिन के लिए दो बचा लेगा। आम तौर पर पर्ल खाने या सरल, आम सेवाओं के लिए इस्तेमाल होती हैं, जैसे अपेक्षाकृत छोटी दूरी के लिए गाड़ी की सवारी।"
+ },
+ "1b22feb0c0c1": {
+  "en": "Between",
+  "t": "किनके बीच"
+ },
+ "1cb449c11266": {
+  "en": "Members",
+  "t": "सदस्य"
  },
  "1ef532cce6fe": {
   "en": "Amethyst",
   "t": "एमेथिस्ट"
  },
+ "1fc3153191c2": {
+  "en": "~2,000 km",
+  "t": "~2,000 km"
+ },
  "26287b561096": {
   "en": "Economy &amp; Units",
   "t": "अर्थव्यवस्था और इकाइयाँ"
+ },
+ "279761c183c0": {
+  "en": "The average daily pay, for an average work day of 12 hours. Work time varies by job, and this doesn't account for jobs that depend on luck, like fishing.",
+  "t": "औसत रोज़ की तनख़्वाह, 12 घंटे के औसत कामकाजी दिन के लिए। काम का वक़्त नौकरी के हिसाब से बदलता है, और इसमें क़िस्मत पर निर्भर काम, जैसे मछली पकड़ना, शामिल नहीं।"
+ },
+ "27d92d43befe": {
+  "en": "Expenses take about 75% of earnings, so a Tier I worker keeps about 3 Pearls a day. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Salary Calculator).",
+  "t": "ख़र्चे कमाई का लगभग 75% ले लेते हैं, तो स्तर I का कामगार दिन में लगभग 3 पर्ल बचाता है। <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">अर्थव्यवस्था के स्प्रेडशीट</a> (तनख़्वाह कैलकुलेटर) देखो।"
+ },
+ "28c0eafbd6ce": {
+  "en": "Over a year (73 weeks), that's 3,504 Pearls at Tier I, up to 35,040 for a Tier VI apprentice or 52,560 for a Tier VI master. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Salary Calculator).",
+  "t": "एक साल में (73 हफ़्ते), यह स्तर I पर 3,504 पर्ल बनता है, स्तर VI के शागिर्द के लिए 35,040 तक या स्तर VI के उस्ताद के लिए 52,560। <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">अर्थव्यवस्था के स्प्रेडशीट</a> (तनख़्वाह कैलकुलेटर) देखो।"
+ },
+ "2a32ad9fccf0": {
+  "en": "Freeish and Gandew regions",
+  "t": "फ़्रीइश और गैंड्यू क्षेत्र"
+ },
+ "33e4a381fa43": {
+  "en": "<strong>Size:</strong> slightly bigger than a fingernail, about 2 cm across.",
+  "t": "<strong>आकार:</strong> नाख़ून से थोड़ा बड़ा, लगभग 2 cm चौड़ा।"
+ },
+ "34f93d99f29c": {
+  "en": "~3,000 km",
+  "t": "~3,000 km"
+ },
+ "392c485a6389": {
+  "en": "~1,000 km",
+  "t": "~1,000 km"
+ },
+ "3bae79216122": {
+  "en": "Forway, Flatland, Gandew, Sundeath",
+  "t": "फ़ॉरवे, फ़्लैटलैंड, गैंड्यू, सनडेथ"
+ },
+ "438a2a268b29": {
+  "en": "Tier IV",
+  "t": "स्तर IV"
  },
  "440282475500": {
   "en": "Amethyst ball: a purple faceted coin-like disc with golden swirling arms.",
   "t": "एमेथिस्ट गेंद: सर्पिल सुनहरी भुजाओं वाली एक बैंगनी, पहलूदार, सिक्के जैसी तश्तरी।"
  },
+ "442e401b464d": {
+  "en": "~4,000 km",
+  "t": "~4,000 km"
+ },
  "467122e96ae1": {
   "en": "Aquamarine ball: a light-blue faceted coin-like disc with golden swirling arms.",
   "t": "एक्वामरीन गेंद: सर्पिल सुनहरी भुजाओं वाली एक हल्की नीली, पहलूदार, सिक्के जैसी तश्तरी।"
+ },
+ "484b801fd210": {
+  "en": "<strong>Hardness:</strong> 7.5 to 8",
+  "t": "<strong>कठोरता:</strong> 7.5 से 8"
+ },
+ "497865c53617": {
+  "en": "<strong>Worth:</strong> 10 Aquamarine, 100 Amethyst or 5,000 Pearls.",
+  "t": "<strong>मूल्य:</strong> 10 एक्वामरीन, 100 एमेथिस्ट या 5,000 पर्ल।"
+ },
+ "4a9ba1f13c83": {
+  "en": "Minerals, Wooly and chitin",
+  "t": "खनिज, वूली और काइटिन"
  },
  "4b8a751f1630": {
   "en": "Public text: economy-uoms.md",
   "t": "सार्वजनिक पाठ: economy-uoms.md"
  },
+ "50870d79e6f4": {
+  "en": "Tier I",
+  "t": "स्तर I"
+ },
  "52086129a3b5": {
   "en": "Sapphire",
   "t": "सफ़ायर"
+ },
+ "5396c116b2e2": {
+  "en": "<strong>What it buys:</strong> custom-crafted armor and weapons, or good gear in general; a young tamed egua; an adult tamed Big Winga; well-protected, guarded travel; fancier hotels; fundamental education; fancy clothing, usually with gold or precious-metal details; Tier VI to VIII Soul Energy. For some people, it's their entire life savings.",
+  "t": "<strong>इससे क्या ख़रीदा जा सकता है:</strong> ख़ास बनवाए कवच और हथियार, या आम तौर पर अच्छा साज़ो-सामान; एक जवान पालतू एगुआ; एक बड़ा पालतू बिग विंगा; अच्छी हिफ़ाज़त वाला, पहरे में सफ़र; शानदार होटल; बुनियादी शिक्षा; शानदार कपड़े, आम तौर पर सोने या क़ीमती धातु की बारीकियों के साथ; स्तर VI से VIII आत्मा-ऊर्जा। कुछ लोगों के लिए, यह उनकी ज़िंदगी भर की बचत है।"
+ },
+ "5957b01cfd38": {
+  "en": "Forway, Sanbi, Waterfall, Triangle, Tastyleaf, Endlessfog",
+  "t": "फ़ॉरवे, सनबी, वॉटरफ़ॉल, ट्राइएंगल, टेस्टीलीफ़, एंडलेसफ़ॉग"
+ },
+ "59eb58190849": {
+  "en": "Gandew and Sanbi regions",
+  "t": "गैंड्यू और सनबी क्षेत्र"
+ },
+ "5f618a292277": {
+  "en": "Master, per hour",
+  "t": "उस्ताद, प्रति घंटा"
+ },
+ "634a223bb76e": {
+  "en": "Balls are the common currency of the four kingdoms (Tolerideme, the Sanbi Kingdom, the Freeish Kingdom and the Gandew Kingdom) and all the participating cities around them. The Prosperity Treaty introduced them in Section #3, since bartering is forbidden between the treaty's parties. Balls are made throughout the kingdom, and the city or kingdom's embassy oversees their manufacturing.",
+  "t": "गेंदें चार राज्यों (टॉलरिडीम, सनबी राज्य, फ़्रीइश राज्य और गैंड्यू राज्य) और उनके आसपास के सभी भागीदार शहरों की आम मुद्रा हैं। समृद्धि संधि ने उन्हें धारा #3 में शुरू किया, क्योंकि संधि के पक्षों के बीच अदला-बदली मना है। गेंदें पूरे राज्य में बनती हैं, और शहर या राज्य का दूतावास उनके निर्माण की निगरानी करता है।"
+ },
+ "6ab35da38a12": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Economy.md\">Legacy/Behind The Scenes/World Lore/Economy.md</a>",
+  "t": "स्रोत: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Economy.md\">Legacy/Behind The Scenes/World Lore/Economy.md</a>"
+ },
+ "6ea75f6d8e5e": {
+  "en": "Sanbi and Tolerideme regions",
+  "t": "सनबी और टॉलरिडीम क्षेत्र"
+ },
+ "70a1618f804e": {
+  "en": "There are four balls. From the most valuable:",
+  "t": "चार गेंदें हैं। सबसे क़ीमती से शुरू करके:"
  },
  "73deb2e5251c": {
   "en": "Aquamarine",
   "t": "एक्वामरीन"
  },
+ "7465c0ac951d": {
+  "en": "Tier VI",
+  "t": "स्तर VI"
+ },
+ "75f16b9dcc19": {
+  "en": "Economical Regions",
+  "t": "आर्थिक क्षेत्र"
+ },
+ "77d1f61d0852": {
+  "en": "Comparative Advantage",
+  "t": "तुलनात्मक बढ़त"
+ },
+ "78f3842f0201": {
+  "en": "Master",
+  "t": "उस्ताद"
+ },
  "7927d99fd832": {
   "en": "Pearl",
   "t": "पर्ल"
+ },
+ "798f64e2c7a7": {
+  "en": "Balls Currency",
+  "t": "गेंदों वाली मुद्रा"
+ },
+ "7baec53c6c26": {
+  "en": "Gandew and Tolerideme regions",
+  "t": "गैंड्यू और टॉलरिडीम क्षेत्र"
  },
  "7e1741308837": {
   "en": "087 (images illustration)",
   "t": "087 (चित्र)"
  },
+ "7e8548c30fef": {
+  "en": "Economy",
+  "t": "अर्थव्यवस्था"
+ },
  "7f5bd97d3d97": {
   "en": "Balls are the standardized currency as determined by the Prosperity Treaty. Each ball is about the size of a marble and is encrusted by the golden circular metallic decoration that protects the mineral inside and makes it harder to counterfeit or tamper with.",
   "t": "गेंदें समृद्धि संधि द्वारा तय मानक मुद्रा हैं। हर गेंद मोटे तौर पर एक कंचे के आकार की होती है और एक गोल सुनहरी धातु की सजावट में जड़ी होती है, जो अंदर के खनिज की रक्षा करती है और उसकी जालसाज़ी या छेड़छाड़ को मुश्किल बनाती है।"
+ },
+ "8010f7aa2e17": {
+  "en": "<strong>What it buys:</strong> common food and beer; a day's lodging in a hostel or cheap hotel; bargain armor and weapons; hay for an egua; travel by wagon (less comfortable and less protected); utensils; used clothing (sometimes with wear and tear) or very cheap clothing; most nari gels at weak effect tiers; Tier I to III Soul Energy; paper, ink, etc.",
+  "t": "<strong>इससे क्या ख़रीदा जा सकता है:</strong> आम खाना और बीयर; किसी धर्मशाला या सस्ते होटल में एक दिन ठहरना; सस्ते कवच और हथियार; एगुआ के लिए भूसा; वैगन से सफ़र (कम आरामदेह और कम हिफ़ाज़त वाला); बर्तन; पुराने कपड़े (कभी-कभी घिसे-फटे) या बेहद सस्ते कपड़े; कमज़ोर असर-स्तरों पर ज़्यादातर नरी जेल; स्तर I से III आत्मा-ऊर्जा; काग़ज़, स्याही वग़ैरह।"
  },
  "813681598d7d": {
   "en": "Sapphire ball: a deep-blue faceted coin-like disc with golden swirling arms.",
   "t": "सफ़ायर गेंद: सर्पिल सुनहरी भुजाओं वाली एक गहरी नीली, पहलूदार, सिक्के जैसी तश्तरी।"
  },
+ "87565be67953": {
+  "en": "Daily Salary",
+  "t": "रोज़ की तनख़्वाह"
+ },
+ "8a842f1db687": {
+  "en": "Weekly Salary",
+  "t": "हफ़्ते की तनख़्वाह"
+ },
  "8bc2bd89c625": {
   "en": "Economy & Units · #HusbandOutWorld",
   "t": "अर्थव्यवस्था और इकाइयाँ · #HusbandOutWorld"
+ },
+ "8de8b2b021b0": {
+  "en": "<strong>Worth:</strong> 50 Pearls.",
+  "t": "<strong>मूल्य:</strong> 50 पर्ल।"
+ },
+ "93e739da0daa": {
+  "en": "<strong>Worth:</strong> 10 Amethyst or 500 Pearls.",
+  "t": "<strong>मूल्य:</strong> 10 एमेथिस्ट या 500 पर्ल।"
+ },
+ "969e1d31bffe": {
+  "en": "<strong>Worth:</strong> the lowest ball; the others are counted in Pearls.",
+  "t": "<strong>मूल्य:</strong> सबसे निचली गेंद; बाक़ी पर्ल में गिनी जाती हैं।"
  },
  "9a3c5c2b363f": {
   "en": "If you gather fifty Pearls, then you can trade it for a single Amethyst. Some books can be as low as a single amethyst if the janky ass printing presses back at Forway work well, but most people would use their amethyst to buy household items like fost lamps or live animals like a tamed Winga or pay their rent. Some clothing can be found for a few amethysts, but don’t expect them to be a pussy (or dick) magnet. You could skip the flatteries and just go to a brothel after drinking a few beers instead of not paying much attention to what you’re stuffing or being stuffed by. If you want to use your balls on something else instead, buy some nari gels, nari stones, or better lodging!",
   "t": "अगर तुम पचास पर्ल जमा कर लो, तो उन्हें एक एमेथिस्ट से बदल सकते हो। कुछ किताबें सिर्फ़ एक एमेथिस्ट की भी हो सकती हैं अगर फ़ॉरवे की खड़खड़ाती छपाई मशीनें ठीक चल रही हों, पर ज़्यादातर लोग अपना एमेथिस्ट फ़ॉस्ट लैंप जैसी घरेलू चीज़ें या पालतू विंगा जैसे ज़िंदा जानवर ख़रीदने, या किराया देने में ख़र्च करेंगे। कुछ कपड़े कुछ एमेथिस्ट में मिल सकते हैं, पर उनसे चूत (या लंड) खिंचे आने की उम्मीद मत करना। तुम चापलूसी छोड़कर कुछ बीयर के बाद सीधे कोठे पर जा सकते हो, इसके बजाय कि ज़्यादा ध्यान न दो कि तुम किसमें घुसा रहे हो या कौन तुममें घुसा रहा है। अगर तुम अपनी गेंदें किसी और चीज़ में लगाना चाहो, तो नरी जेल, नरी पत्थर या बेहतर घर ख़रीदो!"
  },
+ "9e1b38d9dd9c": {
+  "en": "<strong>What it buys:</strong> 1 nari stone; common household items like a table or fost lamps; fancier food and drinks; average armor and weapons; a better travel experience; maps (more complex ones cost an Aquamarine); average lodging, often with breakfast; new cheap clothing, or somewhat more refined clothing; most nari gels at higher effect tiers; Tier IV to VI Soul Energy; sigil rings; a Winga companion.",
+  "t": "<strong>इससे क्या ख़रीदा जा सकता है:</strong> 1 नरी पत्थर; आम घरेलू चीज़ें जैसे मेज़ या फ़ॉस्ट लैंप; बढ़िया खाना और पेय; औसत कवच और हथियार; बेहतर सफ़र का अनुभव; नक़्शे (ज़्यादा जटिल वाले एक एक्वामरीन के); औसत ठहरने की जगह, अक्सर नाश्ते के साथ; नए सस्ते कपड़े, या कुछ ज़्यादा सलीक़ेदार कपड़े; ऊँचे असर-स्तरों पर ज़्यादातर नरी जेल; स्तर IV से VI आत्मा-ऊर्जा; मुहर वाली अँगूठियाँ; एक विंगा साथी।"
+ },
  "9e4f472331f2": {
   "en": "088 (images illustration)",
   "t": "088 (चित्र)"
  },
+ "a155061e792a": {
+  "en": "Forway, Triangle, Deltacross, Freeish, Blood, Sweetlake, Sundeath",
+  "t": "फ़ॉरवे, ट्राइएंगल, डेल्टाक्रॉस, फ़्रीइश, ब्लड, स्वीटलेक, सनडेथ"
+ },
+ "a97fc84fe87e": {
+  "en": "Domar Carbey, Wood People and Wingas",
+  "t": "डोमार कार्बी, वुड पीपल और विंगा"
+ },
  "af2c8b7ef70a": {
   "en": "Pearl ball: a pale cream coin-like disc with golden swirling arms.",
   "t": "पर्ल गेंद: सर्पिल सुनहरी भुजाओं वाली एक हल्की क्रीम रंग की, सिक्के जैसी तश्तरी।"
+ },
+ "afa77f1b0017": {
+  "en": "Forway, Tolerideme, Waterfall, Tastyleaf, Wingarest",
+  "t": "फ़ॉरवे, टॉलरिडीम, वॉटरफ़ॉल, टेस्टीलीफ़, विंगारेस्ट"
+ },
+ "b0e7db565d4b": {
+  "en": "Pearls",
+  "t": "पर्ल"
+ },
+ "b59f457aba63": {
+  "en": "Sanbi, fish-related products, etc.",
+  "t": "सनबी, मछली से जुड़े उत्पाद वग़ैरह"
+ },
+ "bca7fc3d041e": {
+  "en": "Tier III",
+  "t": "स्तर III"
  },
  "c0d962e3dfae": {
   "en": "You somehow got ten Aquamarines? Damm. You could trade that in for shiny Saphire. This is the scale of balls where you can obtain specialized education for you or your children. Depending on their worth, you can have someone bend to your will with life-long contracts in the tens if not hundreds of sapphires. Or you can buy properties and even guilds! The world is yours! But depending on where you go, you will need to hire adventurers to serve you as bodyguards, as some miscreants will love to have a chat with you. Or wear fake skin, and none would be the wiser.",
@@ -87,16 +315,84 @@
   "en": "And if you somehow saved ten amethysts, then you can trade for a single aquamarine. You fancy! Don’t walk around showing it off, or some miscreant might request a “compulsory loan to keep you alive! You could buy a small egua for that price! Or even a tamed Big Winga! Or you can invest in yourself by enrolling at a local fundamental education school to open the door to new opportunities. If that’s not your thing, then you could do all the things amethysts can, but fancier. Fancier clothing, fancier hoes, and fancier beer too. Some people’s life savings amounts to one or a couple of aquamarines, so",
   "t": "और अगर किसी तरह तुमने दस एमेथिस्ट बचा लिए, तो उन्हें एक एक्वामरीन से बदल सकते हो। क्या ठाठ है! उसकी नुमाइश करते मत घूमना, वरना कोई बदमाश तुमसे \"ज़िंदा रहने के लिए ज़रूरी क़र्ज़\" माँग सकता है! इतने में तुम एक छोटा एगुआ ख़रीद सकते हो! या एक पालतू बिग विंगा भी! या नए मौक़े खोलने के लिए किसी स्थानीय बुनियादी स्कूल में दाख़िला लेकर ख़ुद में निवेश कर सकते हो। अगर यह तुम्हारी चीज़ नहीं, तो तुम वह सब कर सकते हो जो एमेथिस्ट से होता है, पर ज़्यादा ठाठ से। ज़्यादा ठाठ वाले कपड़े, ज़्यादा ठाठ वाली रंडियाँ, और ज़्यादा ठाठ वाली बीयर भी। कुछ लोगों के लिए पूरी ज़िंदगी की बचत बस एक या दो एक्वामरीन होती है, तो"
  },
+ "c73383dce58f": {
+  "en": "Pearls per week",
+  "t": "हफ़्ते के पर्ल"
+ },
+ "c8813ecb9014": {
+  "en": "The price covers more than the egua's work. On rough routes, cargo goes on a pack egua's back: up to about 150 kg, at about 30 km a day (about 65 km a day when ridden). Where the roads allow carts, one egua pulls far more (about 900 kg on a dirt road, about 1,800 kg on a good road; see <a href=\"/lore/fauna/#egua--load-and-strain\">Load and strain</a> on the Egua), so hauling gets cheaper. Shipping prices stay the same anyway, because they also pay for protection, insurance and the shipper's profit.",
+  "t": "क़ीमत में एगुआ की मेहनत से ज़्यादा शामिल है। ऊबड़-खाबड़ रास्तों पर, माल लदने वाले एगुआ की पीठ पर जाता है: लगभग 150 kg तक, दिन में लगभग 30 km (सवारी में दिन में लगभग 65 km)। जहाँ सड़कें गाड़ियों लायक़ हों, एक एगुआ कहीं ज़्यादा खींचता है (कच्ची सड़क पर लगभग 900 kg, अच्छी सड़क पर लगभग 1,800 kg; एगुआ पर <a href=\"/lore/fauna/#egua--load-and-strain\">भार और खिंचाव</a> देखो), तो ढुलाई सस्ती पड़ती है। फिर भी भेजने की क़ीमतें वही रहती हैं, क्योंकि उनमें हिफ़ाज़त, बीमा और भेजने वाले का मुनाफ़ा भी शामिल है।"
+ },
  "cfd2d2068e7f": {
   "en": "Economy &amp; Units · #HusbandOutWorld",
   "t": "अर्थव्यवस्था और इकाइयाँ · #HusbandOutWorld"
+ },
+ "db19b0df6fcb": {
+  "en": "Forway is part of all four regions, and so is any village within a region's shared boundaries. A few cities sit in two.",
+  "t": "फ़ॉरवे चारों क्षेत्रों का हिस्सा है, और किसी क्षेत्र की साझा सीमाओं के भीतर का हर गाँव भी। कुछ शहर दो में आते हैं।"
+ },
+ "dc7ecc031030": {
+  "en": "<strong>Moving goods.</strong> Shipping costs about 1 Pearl per kg for every 120 km for Tier I (cheap) goods, 84 km for Tier II (common), 58.8 km for Tier III (expensive) and 29.4 km for Tier IV (nobility).",
+  "t": "<strong>माल की ढुलाई।</strong> भेजने का ख़र्च लगभग 1 पर्ल प्रति kg होता है, स्तर I (सस्ते) माल के लिए हर 120 km पर, स्तर II (आम) के लिए 84 km, स्तर III (महँगे) के लिए 58.8 km और स्तर IV (कुलीनों के) के लिए 29.4 km पर।"
+ },
+ "dedff028b5cd": {
+  "en": "<strong>Where it comes from:</strong> fishermen from Sanbi gathered them at first, but once the Cruros showed up, it became their task, since it was close to free labor.",
+  "t": "<strong>कहाँ से मिलता है:</strong> शुरू में सनबी के मछुआरे इन्हें इकट्ठा करते थे, पर जब क्रूरो आ गए, तो यह उनका काम बन गया, क्योंकि यह लगभग मुफ़्त की मज़दूरी थी।"
  },
  "e159c87db02d": {
   "en": "Balls are the standardized currency as determined by the Prosperity Treaty.",
   "t": "गेंदें समृद्धि संधि द्वारा तय मानक मुद्रा हैं।"
  },
+ "e22cccd20b15": {
+  "en": "Apprentice",
+  "t": "शागिर्द"
+ },
+ "e4bd9e6e33ad": {
+  "en": "To get a feel for the value, the author's spreadsheet counts 1 Pearl as about 1 US dollar.",
+  "t": "मूल्य का अंदाज़ा लगाने के लिए, लेखक की स्प्रेडशीट 1 पर्ल को लगभग 1 अमेरिकी डॉलर गिनती है।"
+ },
+ "e531fa700ac9": {
+  "en": "Freeish and Tolerideme regions",
+  "t": "फ़्रीइश और टॉलरिडीम क्षेत्र"
+ },
+ "e68b25011dad": {
+  "en": "The average weekly pay assumes pay for every work day: 4 a week, with Forrday off. Some professions don't accrue pay on days off.",
+  "t": "औसत हफ़्ते की तनख़्वाह हर कामकाजी दिन की तनख़्वाह मानकर है: हफ़्ते में 4, फ़ॉरडे की छुट्टी के साथ। कुछ पेशों में छुट्टी के दिनों की तनख़्वाह नहीं जुड़ती।"
+ },
+ "e752de704b66": {
+  "en": "Mainly exports",
+  "t": "मुख्य निर्यात"
+ },
  "eb60618ad04c": {
   "en": "Sigil Rings",
   "t": "मुहर वाली अँगूठियाँ"
+ },
+ "ec5ccdb787af": {
+  "en": "A ton of flora and fauna",
+  "t": "ढेरों वनस्पति और जीव-जंतु"
+ },
+ "ee4f72170e2b": {
+  "en": "<strong>What it buys:</strong> a fully grown tamed egua, properties, slavery contracts, guilds, specialized education, Tier IX+ Soul Energy.",
+  "t": "<strong>इससे क्या ख़रीदा जा सकता है:</strong> पूरा बड़ा पालतू एगुआ, संपत्तियाँ, ग़ुलामी के अनुबंध, गिल्डें, ख़ास शिक्षा, स्तर IX+ आत्मा-ऊर्जा।"
+ },
+ "f0d211264deb": {
+  "en": "Apprentice, per hour",
+  "t": "शागिर्द, प्रति घंटा"
+ },
+ "f118bc6e6f02": {
+  "en": "Freeish and Sanbi regions",
+  "t": "फ़्रीइश और सनबी क्षेत्र"
+ },
+ "f2ddf5a1dc47": {
+  "en": "Pay in Pearls, by Profession Tier:",
+  "t": "पेशे के स्तर के हिसाब से पर्ल में तनख़्वाह:"
+ },
+ "fb18d7612151": {
+  "en": "Apprentice, per day",
+  "t": "शागिर्द, प्रति दिन"
+ },
+ "fb2d8283aad6": {
+  "en": "A region has a comparative advantage when its members can carry out a particular economic activity more efficiently than another region's. The Distance Cost Tier (D.C.T, the cost of moving goods) must be accounted for before claiming one either way.",
+  "t": "किसी इलाक़े को तुलनात्मक बढ़त तब मिलती है, जब उसके लोग कोई ख़ास आर्थिक काम किसी दूसरे इलाक़े के लोगों से ज़्यादा कुशलता से कर पाते हैं। किसी भी तरफ़ बढ़त का दावा करने से पहले दूरी के ख़र्च का स्तर (D.C.T, माल ढोने का ख़र्च) जोड़ना ज़रूरी है।"
  }
 }

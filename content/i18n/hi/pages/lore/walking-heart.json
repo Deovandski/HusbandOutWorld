@@ -1,7 +1,43 @@
 {
+ "0a1a7c383620": {
+  "en": "Their skin, eyes included, changes to the color of their enhancement group. Kozaku Forway, the Darfaries who leads the Blue Wozens, is one: the stone melded with him perfectly, then corrupted his mind.",
+  "t": "उनकी त्वचा, आँखों समेत, उनके संवर्धन-समूह के रंग में बदल जाती है। कोज़ाकु फ़ॉरवे, ब्लू वोज़ेन्स का नेता डारफ़ेरीज़, ऐसा ही है: पत्थर उससे पूरी तरह घुल-मिल गया, फिर उसके दिमाग़ को भ्रष्ट कर दिया।"
+ },
+ "0b81ef926400": {
+  "en": "Science - Walking Heart Interface (World Lore illustration)",
+  "t": "विज्ञान - वॉकिंग हार्ट इंटरफ़ेस (संसार का चित्र)"
+ },
+ "181edb28f3a4": {
+  "en": "When they feel a strong emotion that matches a color bound to their soul, a flame of that color rises from their chest.",
+  "t": "जब वे कोई ऐसी तीव्र भावना महसूस करते हैं जो उनकी आत्मा से बँधे किसी रंग से मेल खाए, तो उनके सीने से उस रंग की एक लपट उठती है।"
+ },
  "1b6034ca7bd4": {
   "en": "Intelligence (Blue)",
   "t": "बुद्धि (नीला)"
+ },
+ "1c55928c621d": {
+  "en": "<strong>Emotions likely to run rampant:</strong> anxiety, jealousy, hoarding.",
+  "t": "<strong>जो भावनाएँ बेक़ाबू हो सकती हैं:</strong> बेचैनी, जलन, जमाख़ोरी।"
+ },
+ "1f6bc60236d0": {
+  "en": "Forway banned their use because of the deaths and the corruption of character they often cause. And since the person becomes undead, they give up their rights as a citizen.",
+  "t": "फ़ॉरवे ने उनके इस्तेमाल पर रोक लगाई, उन मौतों और चरित्र के भ्रष्ट होने की वजह से जो वे अक्सर लाते हैं। और चूँकि व्यक्ति अमर-मुर्दा बन जाता है, वह नागरिक के अपने अधिकार छोड़ देता है।"
+ },
+ "207aaa09247c": {
+  "en": "Living with one",
+  "t": "इसके साथ जीना"
+ },
+ "2be3ffef43f3": {
+  "en": "<strong>Benefits:</strong> memory, intellectual processing, planning, understanding knowledge.",
+  "t": "<strong>फ़ायदे:</strong> याददाश्त, बौद्धिक प्रसंस्करण, योजना बनाना, ज्ञान समझना।"
+ },
+ "2fbb9d1ee2a3": {
+  "en": "<strong>Emotions likely to run rampant:</strong> depression, embarrassment, sadness.",
+  "t": "<strong>जो भावनाएँ बेक़ाबू हो सकती हैं:</strong> अवसाद, शर्मिंदगी, उदासी।"
+ },
+ "30f716793368": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Walking%20Heart%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Walking Heart Interface.md</a>",
+  "t": "स्रोत: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Walking%20Heart%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Walking Heart Interface.md</a>"
  },
  "32318a007431": {
   "en": "Walking Hearts",
@@ -10,6 +46,14 @@
  "33f7b9aa1b1f": {
   "en": "Increased memory and intellectual processing that can extend into becoming a great strategist, but at the cost of strength, agility, dexterity, and stamina. And if that’s not enough, there is a risk of growing emotionless and completely detached.",
   "t": "बढ़ी हुई याददाश्त और बौद्धिक प्रसंस्करण, जो किसी को महान रणनीतिकार तक बना सकते हैं, पर ताक़त, फुर्ती, निपुणता और सहनशक्ति की क़ीमत पर। और जैसे इतना काफ़ी न हो, भावनाहीन और पूरी तरह विरक्त हो जाने का ख़तरा है।"
+ },
+ "39673b3a8ca2": {
+  "en": "<strong>Drawback:</strong> dexterity.",
+  "t": "<strong>कमी:</strong> हाथ की सफ़ाई।"
+ },
+ "3af3d06a85b9": {
+  "en": "<strong>Benefits:</strong> fine motor coordination; ranged weapons strike truer; harder to notice, if they train their walk, since they no longer breathe.",
+  "t": "<strong>फ़ायदे:</strong> बारीक हरकतों का तालमेल; दूर के हथियार ज़्यादा सटीक लगते हैं; अगर वे अपनी चाल का अभ्यास करें तो पकड़ में आना मुश्किल, क्योंकि वे अब साँस नहीं लेते।"
  },
  "4324b6c71f52": {
   "en": "Walking Hearts are stones created by geological processes within the irradiated zones of Hifuna. They usually develop to about the size of a fist and are pure black. Within the blackness, specific other colors radiate. These different colors tell what type of stone it is and what kinds of power it will likely grant the wearer if someone replaces their heart with it.",
@@ -23,6 +67,18 @@
   "en": "Able to run further and faster. Able to fight for more extended periods and increased efficiency of using Soul Energy, but at the cost of dexterity, and the development of anxiety and jealousy issues, which can further develop into becoming a hoarder.",
   "t": "ज़्यादा दूर और ज़्यादा तेज़ दौड़ने की क्षमता। ज़्यादा देर लड़ने की क्षमता और आत्मा-ऊर्जा के इस्तेमाल में बेहतर कुशलता, पर निपुणता की क़ीमत पर, और चिंता व जलन की समस्याओं के साथ, जो बढ़कर चीज़ें जमा करने की सनक तक जा सकती हैं।"
  },
+ "482ae4090c22": {
+  "en": "Their heart no longer beats, and they no longer eat, drink, breathe or sleep. They recharge only through emotions, or by stabbing a nari stone into their heart.",
+  "t": "उनका दिल अब नहीं धड़कता, और वे अब न खाते हैं, न पीते हैं, न साँस लेते हैं, न सोते हैं। वे सिर्फ़ भावनाओं से, या अपने दिल में एक नरी पत्थर घोंपकर, फिर से भरते हैं।"
+ },
+ "48bff0c7c530": {
+  "en": "A stone holds five groups of enhancement: red, yellow, green, blue and purple. The person's mind and the stone's color ratios have to become one. If they don't, the person never wakes up. If they do, the stone binds to the person's soul and they become undead, and the color of their skin shows which powers are bound to them. A stone grants one to three enhancements from a group.",
+  "t": "एक पत्थर में संवर्धन के पाँच समूह होते हैं: लाल, पीला, हरा, नीला और बैंगनी। व्यक्ति के दिमाग़ और पत्थर के रंगों के अनुपात को एक होना पड़ता है। अगर नहीं होते, तो व्यक्ति कभी नहीं जागता। अगर होते हैं, तो पत्थर व्यक्ति की आत्मा से बँध जाता है और वह अमर-मुर्दा बन जाता है, और उसकी त्वचा का रंग दिखाता है कि कौन-सी ताक़तें उससे बँधी हैं। एक पत्थर किसी एक समूह से एक से तीन संवर्धन देता है।"
+ },
+ "494b68464bcd": {
+  "en": "<strong>Emotions likely to run rampant:</strong> revenge, anger, berserker rage.",
+  "t": "<strong>जो भावनाएँ बेक़ाबू हो सकती हैं:</strong> बदला, ग़ुस्सा, उन्मादी क्रोध।"
+ },
  "57df5930ce7a": {
   "en": "Dexterity (Green)",
   "t": "निपुणता (हरा)"
@@ -30,6 +86,10 @@
  "5ff2002caaf7": {
   "en": "Strength (Red)",
   "t": "ताक़त (लाल)"
+ },
+ "64ae3e7c0336": {
+  "en": "<strong>Emotions likely to run rampant:</strong> fear, terror, grief.",
+  "t": "<strong>जो भावनाएँ बेक़ाबू हो सकती हैं:</strong> डर, आतंक, शोक।"
  },
  "735f6e4c06e2": {
   "en": "Easy to gain strength and build up muscle at the cost of agility and the development of anger issues, to the point of going, berserker.",
@@ -39,9 +99,25 @@
   "en": "Walking Heart appearance: a man shown four times with red, orange, green and purple skin, and a multicolored heart-stone about 13 cm across.",
   "t": "वॉकिंग हार्ट का रूप: लाल, नारंगी, हरी और बैंगनी त्वचा के साथ चार बार दिखाया गया एक आदमी, और लगभग 13 सेमी चौड़ा एक बहुरंगी दिल-पत्थर।"
  },
+ "7afa05c5d226": {
+  "en": "<strong>Benefits:</strong> runs without getting tired; can fight or work for hours on end; uses soul energy more efficiently.",
+  "t": "<strong>फ़ायदे:</strong> बिना थके दौड़ता है; घंटों लगातार लड़ या काम कर सकता है; आत्मा-ऊर्जा ज़्यादा कुशलता से इस्तेमाल करता है।"
+ },
+ "7d35a0793e8f": {
+  "en": "<strong>Drawbacks:</strong> loses strength, agility, dexterity and stamina; likely a shorter lifespan.",
+  "t": "<strong>कमियाँ:</strong> ताक़त, फुर्ती, हाथ की सफ़ाई और सहनशक्ति खोता है; शायद उम्र भी छोटी।"
+ },
  "7eebda879787": {
   "en": "Walking Hearts Benefits &amp; Risks",
   "t": "वॉकिंग हार्ट्स के फ़ायदे &amp; ख़तरे"
+ },
+ "9367f991e3b2": {
+  "en": "<strong>Benefits:</strong> extra strength; builds muscle easily.",
+  "t": "<strong>फ़ायदे:</strong> अतिरिक्त ताक़त; आसानी से मांसपेशी बनती है।"
+ },
+ "973e53f7f1b4": {
+  "en": "How a stone binds",
+  "t": "पत्थर कैसे बँधता है"
  },
  "97eda47ff757": {
   "en": "Agility (Purple)",
@@ -51,17 +127,49 @@
   "en": "Walking Heart Interface",
   "t": "वॉकिंग हार्ट इंटरफ़ेस"
  },
+ "9a484adf5f9c": {
+  "en": "<strong>Emotions:</strong> neutral and balanced, and at worst emotionless: robotic, almost catatonic, a blank slate.",
+  "t": "<strong>भावनाएँ:</strong> तटस्थ और संतुलित, और बदतर हालत में भावना-शून्य: रोबोट जैसा, लगभग जड़, एक कोरी स्लेट।"
+ },
+ "a4b182b0a1b0": {
+  "en": "<strong>Drawback:</strong> stamina.",
+  "t": "<strong>कमी:</strong> सहनशक्ति।"
+ },
  "a518d97cdc78": {
   "en": "Forway banned their usage due to the fatalities and corruption of one’s character that often occurs. Legally speaking, the lack of pulse also implies a certain death status. Their souls haven’t died yet, so they can’t be marked as soul dead and their rights as citizens removed. Lawmakers were not keen on the idea, though, and they classified people using any Buhraies or Walking Heart technology that causes soul corruption to be undead and be treated the same as soul dead.",
   "t": "फ़ॉरवे ने अक्सर होने वाली मौतों और चरित्र के भ्रष्ट होने के कारण इनके इस्तेमाल पर रोक लगाई है। क़ानूनी तौर पर, नब्ज़ न होना भी एक तरह की मृत्यु की हालत दर्शाता है। उनकी आत्माएँ अभी मरी नहीं, तो उन्हें आत्मा-मृत घोषित करके उनके नागरिक अधिकार नहीं छीने जा सकते। पर विधि-निर्माताओं को यह विचार पसंद नहीं आया, और उन्होंने आत्मा को भ्रष्ट करने वाली कोई भी बुरेज़ या वॉकिंग हार्ट तकनीक इस्तेमाल करने वालों को ज़िंदा लाशों में गिना, जिनके साथ आत्मा-मृतों जैसा बर्ताव हो।"
+ },
+ "a8b5b593473b": {
+  "en": "Walking Hearts are stones that form in the irradiated zones of Hifuna. They usually grow to about the size of a fist and are black, but colors glow within the black, and those colors tell what type of stone it is and what powers it will likely grant whoever replaces their heart with it.",
+  "t": "वॉकिंग हार्ट वे पत्थर हैं जो हिफ़ूना के विकिरण-ग्रस्त इलाक़ों में बनते हैं। वे आम तौर पर लगभग मुट्ठी के आकार तक बढ़ते हैं और काले होते हैं, पर काले के भीतर रंग चमकते हैं, और वे रंग बताते हैं कि यह किस क़िस्म का पत्थर है और जो कोई अपने दिल की जगह इसे लगाए उसे यह शायद कौन-सी ताक़तें देगा।"
+ },
+ "c20c21de2e4f": {
+  "en": "<strong>Drawback:</strong> agility.",
+  "t": "<strong>कमी:</strong> फुर्ती।"
  },
  "c81ded4d937f": {
   "en": "Increased healing, reflection time, and controlling the sense of time, but at the cost of strength and the development of a constant fear of everything and every one, this fear can terrorize the person to their core.",
   "t": "बढ़ा हुआ इलाज, प्रतिक्रिया का समय और समय की समझ पर महारत, पर ताक़त की क़ीमत पर और हर चीज़ व हर किसी से लगातार डर के साथ; यह डर इंसान को उसकी गहराई तक आतंकित कर सकता है।"
  },
+ "d5998a8b2ab6": {
+  "en": "As long as the person still has a soul, the stone keeps feeding off it to power the body.",
+  "t": "जब तक व्यक्ति के पास आत्मा है, पत्थर शरीर को चलाने के लिए उसे खाता रहता है।"
+ },
  "e5587824652a": {
   "en": "Stamina (Yellow)",
   "t": "सहनशक्ति (पीला)"
+ },
+ "e65b439f2b46": {
+  "en": "The stones are impure by nature, so one person can rarely develop two colors at once.",
+  "t": "पत्थर स्वभाव से अशुद्ध होते हैं, तो एक व्यक्ति में शायद ही कभी एक साथ दो रंग विकसित होते हैं।"
+ },
+ "e8ad92da0615": {
+  "en": "<strong>Drawback:</strong> strength.",
+  "t": "<strong>कमी:</strong> ताक़त।"
+ },
+ "ee6ed38c825d": {
+  "en": "<strong>Benefits:</strong> faster reflexes; faster healing.",
+  "t": "<strong>फ़ायदे:</strong> तेज़ प्रतिक्रियाएँ; तेज़ इलाज।"
  },
  "f8d4a14019c0": {
   "en": "Walking Heart Interface · #HusbandOutWorld",
