@@ -1,11 +1,47 @@
 {
+ "00f03137e155": {
+  "en": "Easy",
+  "t": "简单"
+ },
+ "0105b596e57e": {
+  "en": "Base: {flora}",
+  "t": "底座：{flora}"
+ },
+ "016c526a1d2a": {
+  "en": "Rounds won: you {you}, {opp} {them}",
+  "t": "已赢回合：你 {you}，{opp} {them}"
+ },
+ "0240b5832a42": {
+  "en": "Plains",
+  "t": "平原"
+ },
+ "03f0feececb0": {
+  "en": "Flying",
+  "t": "飞行"
+ },
+ "08271419319f": {
+  "en": "Shield",
+  "t": "护盾"
+ },
+ "0a27a3b002bc": {
+  "en": "Round {n}",
+  "t": "第 {n} 回合"
+ },
  "0bf9322efcf3": {
   "en": "Final score: {you} {youScore}, {rival} {rivalScore}. {verdict}",
   "t": "最终得分：{you} {youScore}，{rival} {rivalScore}。{verdict}"
  },
+ "0cb6b91a7c7b": {
+  "en": "Take turns placing one statue on a square on your side, on a flora base if you like, or pass. Every piece you place is spent for the match, so save some for later rounds.",
+  "t": "双方轮流把一座雕像放到自己这边的一个格子上，想的话可以放在植物底座上，也可以跳过。放出去的每一件都会在整场对局里用掉，所以留一些给后面的回合。"
+ },
  "0d4b087148ae": {
   "en": "Playground · #HusbandOutWorld",
   "t": "游乐场 · #HusbandOutWorld"
+ },
+ "0e818bfa0679": {
+  "en": "monster",
+  "t": "怪物"
  },
  "11b7f08bcb49": {
   "en": "{player} snipes the {colour} territory ({points}).",
@@ -15,21 +51,85 @@
   "en": "Your turn: press Throw (or Space) when the aim is where you want it.",
   "t": "轮到你了：瞄准好后按“扔！”（或空格键）。"
  },
+ "20f062e88b88": {
+  "en": "−{n} to the strongest opposing statue in its lane",
+  "t": "本路最强的敌方雕像 −{n}"
+ },
  "21504db71017": {
   "en": "Play full screen",
   "t": "全屏游玩"
+ },
+ "2222ccdea406": {
+  "en": "+{n} at height {h} or more",
+  "t": "高度 {h} 或以上时 +{n}"
+ },
+ "227af057c460": {
+  "en": "never weaker than its carving",
+  "t": "永远不会弱于它的雕刻"
+ },
+ "22ef541999f0": {
+  "en": "Next round",
+  "t": "下一回合"
+ },
+ "24ae8a560983": {
+  "en": "Paint my statues",
+  "t": "给我的雕像上色"
+ },
+ "25ab59baf8e0": {
+  "en": "Your side",
+  "t": "你这边"
+ },
+ "2640f77e9f83": {
+  "en": "Now choose a square for {name}.",
+  "t": "现在为{name}选一个格子。"
  },
  "27bbcef16995": {
   "en": "Hiromi",
   "t": "弘美"
  },
+ "285691ff158a": {
+  "en": "ignores lower ground",
+  "t": "无视较低的地势"
+ },
+ "28a2784f6046": {
+  "en": "You found the nari stone in {name}!",
+  "t": "你在{name}里找到了纳里石！"
+ },
+ "2f157d7130ab": {
+  "en": "Choose a statue for your nari stone first.",
+  "t": "请先为你的纳里石选一座雕像。"
+ },
+ "3199ea056253": {
+  "en": "animal",
+  "t": "动物"
+ },
+ "320089389f44": {
+  "en": "Your battalion",
+  "t": "你的部队"
+ },
  "38d4249ff036": {
   "en": "⏱ {seconds}s · darts: {you} {youLeft}, {rival} {rivalLeft}",
   "t": "⏱ {seconds}s · 飞镖：{you} {youLeft}，{rival} {rivalLeft}"
  },
+ "39db64b96126": {
+  "en": "{opp} wins the match.",
+  "t": "{opp} 赢下了这场对局。"
+ },
+ "3d254c73066e": {
+  "en": "None left.",
+  "t": "一个都不剩了。"
+ },
+ "3f21515a1b11": {
+  "en": "No base",
+  "t": "无底座"
+ },
  "40e405b6605c": {
   "en": "I haven’t heard of that, but yeah, I prefer targeting the yellow ones, as those are worth more if you snipe all territories.",
   "t": "我没听说过那种玩法，不过是啊，我更喜欢瞄准黄色的那些，因为如果你狙击了所有领地，那些的分更高。"
+ },
+ "41fb3a0ef555": {
+  "en": "You win round {n}.",
+  "t": "你赢下第 {n} 回合。"
  },
  "42766efba402": {
   "en": "Middle ring",
@@ -38,6 +138,22 @@
  "42ae6cb3cd8f": {
   "en": "Time! The room starts to move too much…",
   "t": "时间到！房间开始晃得太厉害了…"
+ },
+ "449177d90198": {
+  "en": "its power stays hidden until the lanes are counted",
+  "t": "它的力量会一直隐藏，直到各路计分"
+ },
+ "45e05fa03651": {
+  "en": "Minari needs JavaScript to play.",
+  "t": "米纳里需要 JavaScript 才能玩。"
+ },
+ "46b474188aa4": {
+  "en": "Battlefield: {region}",
+  "t": "战场：{region}"
+ },
+ "4a4331759c36": {
+  "en": "<a href=\"/lore/pastimes/#minari\">Minari</a>, the carved-statue game played in Sanbi Castle's game room: a working prototype, against Nina, Aurora or Neferteri.",
+  "t": "<a href=\"/lore/pastimes/#minari\">米纳里</a>，在桑比城堡游戏室里玩的雕像棋：一个能玩的原型，对手可选妮娜、奥萝拉或奈菲尔特丽。"
  },
  "4c660686dc07": {
   "en": "His first dart clings, then falls. The second lands on a green territory near the centre.",
@@ -51,21 +167,73 @@
   "en": "Kinda? Was the board always this big and colored? I thought it was rounded too— OH YEAH! The center is worth more, right?",
   "t": "算是吧？这块板一直都这么大、这么多颜色吗？我还以为它是圆的——噢对了！中心的分更高，对吧？"
  },
+ "4ec00394908f": {
+  "en": "How to play",
+  "t": "玩法"
+ },
+ "4f0919dac51a": {
+  "en": "Neferteri",
+  "t": "奈菲尔特丽"
+ },
+ "4f4e60287877": {
+  "en": "You win the match!",
+  "t": "你赢下了这场对局！"
+ },
  "50ccc5e2e037": {
   "en": "He aims for the same green, and lands far above it, on purple.",
   "t": "他瞄准同一个绿色，结果落在上面很远的紫色上。"
+ },
+ "530cececb444": {
+  "en": "no stone inside.",
+  "t": "里面没有纳里石。"
+ },
+ "5719e9acd479": {
+  "en": "The table has <strong>5 lanes</strong>. Each lane has a square on your side and one on theirs, with a terrain and a height. A statue on its home terrain gets <strong>+2</strong>; standing higher than the square across gives <strong>+1 per level</strong>, lower gives the same as a minus.",
+  "t": "桌上有 <strong>5 路</strong>。每一路在你这边和对方那边各有一个格子，各有地形和高度。雕像站在自己的主场地形上 <strong>+2</strong>；比对面的格子高，<strong>每高一级 +1</strong>，低的话就按同样的数减。"
  },
  "576766d387ec": {
   "en": "Play again",
   "t": "再玩一次"
  },
+ "595f9c0beff7": {
+  "en": "{name} is eliminated: {result}",
+  "t": "{name}被淘汰：{result}"
+ },
+ "5ad1c0fc4343": {
+  "en": "{who} passed.",
+  "t": "{who} 跳过了。"
+ },
+ "5c209e93ce26": {
+  "en": "Start the match",
+  "t": "开始对局"
+ },
+ "5d0ac69701af": {
+  "en": "power {n}",
+  "t": "力量 {n}"
+ },
+ "6572f28b79ce": {
+  "en": "Lane {n}: tied, {a} to {b}.",
+  "t": "第 {n} 路：平局，{a} 比 {b}。"
+ },
  "69b0b68def54": {
   "en": "SEE? It’s all about mindset! You know what, Harry? You’re cool! So why not play a bit of territory snipping to celebrate?",
   "t": "看到没？关键在于心态！你知道吗，哈利？你很酷！那为什么不来玩一会儿特里托里斯尼平庆祝一下？"
  },
+ "6cd280647632": {
+  "en": "{name}, {kind}, power {power}, home: {terrains}{traits}",
+  "t": "{name}，{kind}，力量 {power}，主场：{terrains}{traits}"
+ },
+ "7468786df7e7": {
+  "en": "Your flora bases",
+  "t": "你的植物底座"
+ },
  "76262d314611": {
   "en": "Territory Snipping: turn your phone sideways",
   "t": "特里托里斯尼平：把手机横过来"
+ },
+ "78981b123f83": {
+  "en": "When both sides have passed, each lane goes to the side with more power there. The losing side's statues in that lane are <strong>eliminated</strong>, and you see whether the nari stone was inside.",
+  "t": "双方都跳过后，每一路归力量更大的一方。输的一方在这一路的雕像会被<strong>淘汰</strong>，并且你会看到纳里石是不是在里面。"
  },
  "78988010b890": {
   "en": "red",
@@ -75,25 +243,65 @@
   "en": "{n} pt",
   "t": "{n} 分"
  },
+ "7e99995a1667": {
+  "en": "Choose your opponent",
+  "t": "选择你的对手"
+ },
  "85a1ecacad2c": {
   "en": "That’s the spirit! … You played this before, right?",
   "t": "就是这股劲儿！…你以前玩过这个，对吧？"
+ },
+ "864900d5a132": {
+  "en": "hides your nari stone",
+  "t": "藏着你的纳里石"
+ },
+ "8845064f5b91": {
+  "en": "+{n} to a {kind}",
+  "t": "{kind}雕像 +{n}"
+ },
+ "888d16612e6f": {
+  "en": "Choose the statue that hides your nari stone.",
+  "t": "选择藏着你纳里石的雕像。"
  },
  "8bf12a38bad0": {
   "en": "Throw!",
   "t": "扔！"
  },
+ "8c8d4feff7de": {
+  "en": "Your nari stone is inside {name}.",
+  "t": "你的纳里石藏在{name}里。"
+ },
+ "905cb326c779": {
+  "en": "You",
+  "t": "你"
+ },
+ "91586b73ba8c": {
+  "en": "the nari stone was inside!",
+  "t": "纳里石就在里面！"
+ },
  "935f6cd89f4a": {
   "en": "A draw!",
   "t": "平局！"
+ },
+ "93c3ef1e3de3": {
+  "en": "That square is full.",
+  "t": "那个格子已经满了。"
  },
  "94e6a3ea4d1f": {
   "en": "Turn your phone sideways to play.",
   "t": "把手机横过来玩。"
  },
+ "955ddba3d08e": {
+  "en": "{name}: {effect}",
+  "t": "{name}：{effect}"
+ },
  "96de5543d183": {
   "en": "yellow",
   "t": "黄色"
+ },
+ "98dc61652f7c": {
+  "en": "{opp} is choosing…",
+  "t": "{opp} 正在选择…"
  },
  "992fb4c6838e": {
   "en": "{you} wins, somehow!",
@@ -103,6 +311,10 @@
   "en": "You’re coolio too!",
   "t": "你也超酷的！"
  },
+ "9c8238f65551": {
+  "en": "Snow",
+  "t": "雪地"
+ },
  "a691267c5647": {
   "en": "{rival} wins.",
   "t": "{rival} 赢了。"
@@ -111,6 +323,18 @@
   "en": "Cancelled! Both darts on the {colour} territory are out.",
   "t": "取消！{colour}领地上的两支飞镖都出局了。"
  },
+ "a93e8afda9a1": {
+  "en": "Before the match, hide your <strong>nari stone</strong> inside one of your statues. Your opponent hides theirs too.",
+  "t": "对局开始前，把你的<strong>纳里石</strong>藏进你的一座雕像里。你的对手也会藏好他们的。"
+ },
+ "abb89bf474d1": {
+  "en": "home: {terrains}",
+  "t": "主场：{terrains}"
+ },
+ "af503a976364": {
+  "en": "a random {min} to +{max}",
+  "t": "随机 {min} 到 +{max}"
+ },
  "afaed75406bd": {
   "en": "purple",
   "t": "紫色"
@@ -118,6 +342,10 @@
  "b2b52c2fc7c2": {
   "en": "Snipe all territories? That’s—different—I think. Can—can you explain?",
   "t": "狙击所有领地？那——不一样——我想。你——你能解释一下吗？"
+ },
+ "b31d36c1c500": {
+  "en": "Challenging",
+  "t": "有挑战"
  },
  "b8c8d91c4ad6": {
   "en": "Yellow centre",
@@ -143,9 +371,25 @@
   "en": "Next",
   "t": "下一步"
  },
+ "be2f6b076cd7": {
+  "en": "Minari: turn your phone sideways",
+  "t": "米纳里：请把手机横过来"
+ },
+ "be3975e50f11": {
+  "en": "{sign}{n} to the statue on it",
+  "t": "放在上面的雕像 {sign}{n}"
+ },
  "c1218408e29a": {
   "en": "Just a hunk—that was me warming up! Now try to throw on a green section or anywhere else.",
   "t": "就等一下——刚才是我在热身！现在试着扔到绿色区域或者其他任何地方。"
+ },
+ "c30902149f0e": {
+  "en": "{opp}'s side",
+  "t": "{opp} 那边"
+ },
+ "c384517d1937": {
+  "en": "{name}, power {power}",
+  "t": "{name}，力量 {power}"
  },
  "c7abd16eb68f": {
   "en": "Brotha—you suck at this—Harry?",
@@ -155,17 +399,37 @@
   "en": "—Yea? So I play next?",
   "t": "——明白？那下一个我来扔？"
  },
+ "c91b25d0e00d": {
+  "en": "−{n} to every opposing statue in its lane",
+  "t": "本路每座敌方雕像 −{n}"
+ },
  "caab81299f22": {
   "en": "The game starts as soon as the phone is sideways.",
   "t": "手机一横过来，游戏就开始。"
+ },
+ "cc14463c4dab": {
+  "en": "Lane {n}: {who} wins, {a} to {b}.",
+  "t": "第 {n} 路：{who} 获胜，{a} 比 {b}。"
  },
  "cc60a1651cdd": {
   "en": "Final: {you} {youScore} · {rival} {rivalScore} · {verdict}",
   "t": "最终：{you} {youScore} · {rival} {rivalScore} · {verdict}"
  },
+ "ce31bd9a119b": {
+  "en": "Nari stone",
+  "t": "纳里石"
+ },
  "ce3c494a5e85": {
   "en": "Aiight!",
   "t": "好嘞！"
+ },
+ "d0bb566c5184": {
+  "en": "The match is a draw.",
+  "t": "这场对局打平了。"
+ },
+ "d0db58d3de1d": {
+  "en": "humanoid",
+  "t": "人形"
  },
  "d153c794ecdb": {
   "en": "Play upright instead",
@@ -179,6 +443,50 @@
   "en": "Your dart flies low and lodges in the wall below the board.",
   "t": "你的飞镖飞得太低，扎在了板子下方的墙上。"
  },
+ "d2c984ccb77d": {
+  "en": "Each side has <strong>10 carved statues</strong> (Races, Fauna and Beasts) and <strong>4 flora bases</strong>. The creature a statue shows is its power.",
+  "t": "每一方有 <strong>10 座雕像</strong>（种族、动物和魔兽）和 <strong>4 个植物底座</strong>。雕像刻的是什么生物，就决定了它的力量。"
+ },
+ "d3724d122484": {
+  "en": "{who} found the nari stone in {name}!",
+  "t": "{who} 在{name}里找到了纳里石！"
+ },
+ "d404968ea90b": {
+  "en": "Medium",
+  "t": "中等"
+ },
+ "d5936b9a0d86": {
+  "en": "Eliminated",
+  "t": "已淘汰"
+ },
+ "d7cd56f2a2a3": {
+  "en": "Pass",
+  "t": "跳过"
+ },
+ "ddc8e3b2c330": {
+  "en": "Your turn: choose a statue, then a square on your side.",
+  "t": "轮到你了：先选一座雕像，再选你这边的一个格子。"
+ },
+ "dfe153f0c577": {
+  "en": "{who} placed {name} on a {flora} base, on {terrain} (power {power}).",
+  "t": "{who} 把{name}放在{flora}底座上，位于{terrain}（力量 {power}）。"
+ },
+ "e48d1e99bbff": {
+  "en": "{a} : {b}",
+  "t": "{a} : {b}"
+ },
+ "e601068c1509": {
+  "en": "{who} wins round {n}.",
+  "t": "{who} 赢下第 {n} 回合。"
+ },
+ "e818d1b014a8": {
+  "en": "Lane {n}",
+  "t": "第 {n} 路"
+ },
+ "e8e05bdea850": {
+  "en": "Cloak",
+  "t": "斗篷"
+ },
  "e99283406209": {
   "en": "Play the round of <a href=\"/lore/pastimes/#territory-snipping\">Territory Snipping</a> from Vol 2, as Harry, against Hiromi.",
   "t": "以哈利的身份对阵弘美，玩一局第 2 卷里的<a href=\"/lore/pastimes/#territory-snipping\">特里托里斯尼平</a>。"
@@ -187,17 +495,77 @@
   "en": "Good try! Good try! C’mon! Try again!",
   "t": "扔得好！扔得好！来吧！再试一次！"
  },
+ "ea71ac574d84": {
+  "en": "Win more lanes to win the round. First to <strong>2 rounds</strong> wins, but finding the other side's nari stone wins at once.",
+  "t": "赢下更多路就赢下这一回合。先赢 <strong>2 回合</strong>的一方获胜，但找到对方的纳里石就立刻获胜。"
+ },
+ "ee61b8c6ee53": {
+  "en": "Your statues",
+  "t": "你的雕像"
+ },
+ "eeee9b76ec5d": {
+  "en": "Aurora",
+  "t": "奥萝拉"
+ },
  "ef0ebbb77298": {
   "en": "orange",
   "t": "橙色"
+ },
+ "ef6906d30a91": {
+  "en": "Painting your statues is just for looks.",
+  "t": "给雕像上色只是为了好看。"
+ },
+ "f1b44b944d26": {
+  "en": "{who} placed {name} on {terrain} (power {power}).",
+  "t": "{who} 把{name}放在{terrain}上（力量 {power}）。"
  },
  "f290164d1315": {
   "en": "Outer ring",
   "t": "外环"
  },
+ "f2c741477316": {
+  "en": "a statue",
+  "t": "一座雕像"
+ },
+ "f41c4e4dab0b": {
+  "en": "Forest",
+  "t": "森林"
+ },
+ "f4904bf63ad4": {
+  "en": "Nina",
+  "t": "妮娜"
+ },
+ "f4c2739717c4": {
+  "en": "{terrain}, height {h}",
+  "t": "{terrain}，高度 {h}"
+ },
+ "f674ac08752f": {
+  "en": "+{n} on {terrain}",
+  "t": "在{terrain}上 +{n}"
+ },
+ "f6db3f96e9e3": {
+  "en": "Desert",
+  "t": "沙漠"
+ },
+ "fa27d1b6d725": {
+  "en": "+1 when outnumbered in its lane",
+  "t": "在本路数量处于劣势时 +1"
+ },
  "fb23c9ff0d27": {
   "en": "Inner ring",
   "t": "内环"
+ },
+ "fbf6a2b00397": {
+  "en": "Lane {n}: you win, {a} to {b}.",
+  "t": "第 {n} 路：你获胜，{a} 比 {b}。"
+ },
+ "fe4f28f307a2": {
+  "en": "Round {n} is a draw.",
+  "t": "第 {n} 回合打平。"
+ },
+ "fe527bb5037f": {
+  "en": "Carve a new battalion",
+  "t": "雕刻一支新部队"
  },
  "feddfb10fb8d": {
   "en": "We all play at the same time. GO!",
