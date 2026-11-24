@@ -15,6 +15,10 @@
   "en": "153 cm",
   "t": "153cm"
  },
+ "00a3bb9db29b": {
+  "en": "<strong>Habits:</strong> listens closely; tends to pull someone aside to get their attention, then asks questions.",
+  "t": "<strong>버릇:</strong> 귀 기울여 듣는다. 관심을 끌려고 사람을 한쪽으로 데려가서 질문하는 편이다."
+ },
  "00ab67c397d2": {
   "en": "<strong>Habits:</strong> prone to violence when it comes to holding someone until they spill everything they know.",
   "t": "<strong>버릇:</strong> 누군가 아는 걸 다 털어놓을 때까지 붙잡아 두는 일이라면 폭력을 쓰기 쉽다."
@@ -22,6 +26,14 @@
  "00f7c6c69a14": {
   "en": "<strong>Strengths:</strong> caring; logical; efficient; loves her sister, and wants to be on her level, but different, though not too different; daring.",
   "t": "<strong>장점:</strong> 배려, 논리적, 효율, 언니를 사랑해서 그 수준에 오르고 싶어 하지만 다르게(너무 다르진 않게), 대담함."
+ },
+ "01aaf29aff07": {
+  "en": "<strong>Flaws:</strong> cowardly; mechanical about her chores; gloomy, since she tends to be pessimistic.",
+  "t": "<strong>단점:</strong> 겁 많음, 집안일에 기계적, 비관적인 편이라 우울함."
+ },
+ "01bc553d1b05": {
+  "en": "<strong>Likes and dislikes:</strong> likes flowers of every kind, and food, especially sweets.",
+  "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 온갖 꽃, 그리고 음식, 특히 단것을 좋아한다."
  },
  "02190e679157": {
   "en": "<strong>Flaws:</strong> too trusting; too soft; unambitious.",
@@ -35,6 +47,10 @@
   "en": "47 kg",
   "t": "47kg"
  },
+ "02ee00d84402": {
+  "en": "98 kg",
+  "t": "98kg"
+ },
  "03406a2bcdd9": {
   "en": "Ukim Sanbi",
   "t": "우킴 산비"
@@ -42,6 +58,10 @@
  "03430497e1ef": {
   "en": "<strong>Birthday:</strong> 965 A.G. Asa 12th.",
   "t": "<strong>생일:</strong> 965 A.G. 아사 12일."
+ },
+ "0371b6461b73": {
+  "en": "<strong>Intelligence:</strong> knows alcohol very well, but years of drinking have dulled how much he takes in, even though he heals himself, since he spends most of his time drunk.",
+  "t": "<strong>지능:</strong> 술은 아주 잘 알지만, 오랜 음주로 받아들이는 양이 무뎌졌다. 스스로 치유해도, 대부분의 시간을 취해서 보내니까."
  },
  "03a35a19091e": {
   "en": "Narcolepsy (type 2):",
@@ -59,9 +79,17 @@
   "en": "<strong>Strengths:</strong> Gabiro's caretaker, and a partner of sorts, though not as involved or helpful as you'd expect; sincere; agreeable; non-authoritarian; responsive; modest; clean.",
   "t": "<strong>장점:</strong> 가비로를 돌보는 사람이자 일종의 파트너(생각만큼 깊이 관여하거나 도움이 되진 않지만), 진실함, 원만함, 권위적이지 않음, 반응이 빠름, 겸손, 깔끔함."
  },
+ "0554ff399385": {
+  "en": "<strong>Habits:</strong> focuses on the task at hand; curt in conversation, since he doesn't care about anything unrelated to what he wants right now. Smells like booze.",
+  "t": "<strong>버릇:</strong> 눈앞의 일에 집중한다. 당장 원하는 것과 상관없는 건 신경 안 써서 대화가 퉁명스럽다. 술 냄새가 난다."
+ },
  "05ec22b2081c": {
   "en": "The son of a human and a Wozefaries, merchants who taught him the ropes. He took after them and made a fair amount of money through various ventures, but also lost a decent amount on failed projects. What matters is that he's adaptable, and will eventually take on whatever business proposal someone brings him.",
   "t": "인간과 워제파리에스 사이에서 태어난 아들로, 상인인 부모에게서 요령을 배웠다. 부모를 닮아 여러 사업으로 꽤 돈을 벌었지만, 실패한 프로젝트로 적잖이 잃기도 했다. 중요한 건 그가 적응력이 있고, 누가 사업 제안을 들고 오든 결국 받아들인다는 점이다."
+ },
+ "05fa338833e1": {
+  "en": "<strong>Flaws:</strong> passive; nosy; cowardly.",
+  "t": "<strong>단점:</strong> 수동적, 참견, 겁 많음."
  },
  "063f2dd83d5a": {
   "en": "Coema (987 A.G. Paulin 29th) was the previous Sanbi's King-maid. Under her ruling, the populace seemed to love her direct, no-bullshit attitude. Visiting male officers from other kingdoms also sang very high praises of the hospitality offered at Sanbi Castle. On the other, tax evaders hated her guts as she furiously found and punished them, possibly being able to do so due to her peculiar close relationship with Cruros throughout the years. Instead of retiring, she decided to sail away to Newland, presumably because she's a busybody.",
@@ -119,9 +147,17 @@
   "en": "Born in Forway to a middle-class family, he's a man with a long history of connections and deals throughout Forway; some panned out, others didn't. He isn't filthy rich, but bring him any daring plan, legal or not, and he'll throw in some money, at least to make more connections.",
   "t": "포웨이의 중산층 가정에서 태어나, 포웨이 전역에서 오랫동안 인맥과 거래를 쌓아 온 사람이다. 어떤 건 잘 풀렸고, 어떤 건 아니었다. 엄청난 부자는 아니지만, 합법이든 아니든 대담한 계획을 들고 가면, 적어도 인맥을 더 쌓으려고 돈을 좀 보탠다."
  },
+ "09fe035fea02": {
+  "en": "<strong>Attracted to:</strong> passionate men: a mirror of herself, who loves Soul Energy deeply.",
+  "t": "<strong>끌리는 상대:</strong> 열정적인 남자. 자기를 비추는 거울처럼, 영혼 에너지를 깊이 사랑하는."
+ },
  "0a0dadbc52c8": {
   "en": "<strong>Habits:</strong> neutral body language, with a rhythm of her own; her hands reach out to things as she pauses for a moment, then moves on with her day.",
   "t": "<strong>버릇:</strong> 중립적인 몸짓에 자기만의 리듬이 있다. 잠깐 멈출 때 손이 물건으로 향하고, 그다음 하루를 이어 간다."
+ },
+ "0a1e193cac26": {
+  "en": "<strong>Speech:</strong> a raspy, drunken voice, somewhat low and uncaring; a long, almost cough-like laugh.",
+  "t": "<strong>말투:</strong> 쉬고 취한 목소리, 좀 낮고 무심하다. 거의 기침 같은 긴 웃음."
  },
  "0a2f99134c4a": {
   "en": "<strong>Intelligence:</strong> a memory for the law like no other. Strong-willed about what he thinks is right, and he'll go to great lengths to explain it.",
@@ -147,6 +183,10 @@
   "en": "<strong>Attracted to:</strong> she has a high sex drive, and likes aggressive men who make a plaything of her; she loves the sexual side of her job. She also has a thing for men who don't fall for her playfulness: she sees herself as a true beauty all men must fall for. And she loves getting creamed: \"proof of love\", as she calls it.",
   "t": "<strong>끌리는 상대:</strong> 성욕이 강하고, 자기를 장난감처럼 다루는 공격적인 남자를 좋아한다. 일의 성적인 면을 사랑한다. 자기 장난에 넘어오지 않는 남자에게도 끌린다. 자기를 모든 남자가 넘어올 수밖에 없는 진짜 미녀로 여기니까. 그리고 안에 싸 주는 걸 사랑한다. 그녀 말로는 ‘사랑의 증거’."
  },
+ "0b1069b9797d": {
+  "en": "<strong>Attracted to:</strong> he played around with women, until he saw Honati and found the one, likely because they're so alike.",
+  "t": "<strong>끌리는 상대:</strong> 여자들과 놀았지만, 호나티를 보고 운명을 찾았다. 아마 둘이 너무 닮아서일 것이다."
+ },
  "0b1ffabd5cce": {
   "en": "Gabiro (937 A.G. Paulin 78th) always had an inkling of Soul Energy and its inner workings, but a life of having superior abilities ended up affecting his social skills; it turned him into a notorious scientist that pumped out research papers like nobody else, but now nobody dares to sit down with him to discuss it's intricate details over a drink. Actually, it's worse as many do not even dare to challenge him in doing peer review as they know a barrage of Winga mail filled with threats from Gabiro is bound to come—which itself is not the worst part either. Gabiro will meticulously tear apart everything you published with his hundred pages peer-review that will terminate your life as a scientist.",
   "t": "가비로(937 A.G. 파울린 78일)는 늘 영혼 에너지와 그 내부 작용에 대한 감이 있었지만, 남다른 능력을 가진 삶은 결국 그의 사회성에 영향을 미쳤다. 그는 누구보다도 연구 논문을 쏟아 내는 악명 높은 과학자가 되었지만, 이제는 아무도 술 한잔 하며 그 복잡한 세부 사항을 논의하려고 그와 마주 앉지 않는다. 사실 더 심하다. 많은 이들이 동료 평가에서 그에게 이의를 제기할 엄두조차 내지 못한다. 가비로의 협박이 가득한 윙가 우편이 쏟아질 걸 알기 때문인데—그게 최악도 아니다. 가비로는 수백 쪽짜리 동료 평가로 네가 발표한 모든 것을 꼼꼼하게 갈기갈기 찢어 과학자로서의 네 인생을 끝장낼 거다."
@@ -158,6 +198,10 @@
  "0b4e0cc10af6": {
   "en": "<strong>Habits:</strong> sits around a lot, with a tired, old look and a resting-bitch face that doesn't express much; a wave of his hand is all the emotion he shows.",
   "t": "<strong>버릇:</strong> 많이 앉아 있다. 피곤하고 늙어 보이는 표정에, 별 감정이 드러나지 않는 성질나 보이는 무표정. 손 한 번 휘젓는 게 그가 보이는 감정의 전부다."
+ },
+ "0b851e292975": {
+  "en": "She grew up in Forway with lots of brothers and sisters, and parents who were never home, working their asses off, so she developed a \"figure it out\", \"roll with the punches\" instinct. She was working at a bar when she met <a href=\"#laramy-broken-tree\">Laramy</a>, and the thought of traveling around with such a lovely man sparked her interest, along with her worry that people would take advantage of him.",
+  "t": "포웨이에서 형제자매가 많고, 뼈 빠지게 일하느라 집에 거의 없는 부모 밑에서 자라 ‘알아서 해’, ‘닥치는 대로 버텨’ 하는 본능이 생겼다. 술집에서 일하다 <a href=\"#laramy-broken-tree\">래러미</a>를 만났는데, 그렇게 멋진 남자와 함께 여행 다닌다는 생각에 마음이 끌렸다. 사람들이 그를 이용하지 않을까 하는 걱정도 함께."
  },
  "0b9cf15d21aa": {
   "en": "<strong>Looks up to:</strong> father figures, especially ones like her own father.",
@@ -174,6 +218,10 @@
  "0c372f1ff61b": {
   "en": "The contract isn't legal as such, but some crooks in Forway will forge another contract on top of it to make Forway act if needed.",
   "t": "이 계약은 그 자체로 합법은 아니지만, 포웨이의 몇몇 사기꾼이 필요하면 포웨이가 움직이도록 그 위에 다른 계약을 위조해 덧씌운다."
+ },
+ "0c4e0d1157fa": {
+  "en": "<strong>Speech:</strong> a sweet grandma voice: loving and caring, making sure others are okay, and asking again to nudge people into her care. \"Honey\", \"Hon\".",
+  "t": "<strong>말투:</strong> 다정한 할머니 목소리. 사랑스럽고 배려 깊게, 다들 괜찮은지 확인하고, 또 물어서 사람들을 자기 보살핌 속으로 슬쩍 밀어 넣는다. “얘야”, “아가”."
  },
  "0c55af991e78": {
   "en": "Born and raised in the Gandew Kingdom, he was one of the few to go outside out of self-interest, but what he wanted was to frolic with Wozefaries, which is unusual for someone like him. When rumors started, he decided to become king so he could do as he pleased, especially since the previous king was overly xenophobic. He fought the previous king in the pit and barely won, and the king also gave him his beautiful daughter, <a href=\"#satomi-high-gandew-tough-hammer\">Satomi</a>, in marriage. He accepted to save face, but deep inside he knew he wanted a Wozefaries to play with.",
@@ -219,6 +267,10 @@
   "en": "<strong>Birthday:</strong> 1007 A.G. Asa 84th.",
   "t": "<strong>생일:</strong> 1007 A.G. 아사 84일."
  },
+ "0e87029b0504": {
+  "en": "<strong>Strengths:</strong> inquisitive; analytical; logical; conscientious; decent; educated.",
+  "t": "<strong>장점:</strong> 탐구심, 분석적, 논리적, 성실함, 점잖음, 교양."
+ },
  "0ea3552d32d3": {
   "en": "<strong>Flaws:</strong> hesitant; fanatical; finicky; insistent; passive; inflexible; aimless.",
   "t": "<strong>단점:</strong> 주저함, 광신적, 까다로움, 고집, 수동적, 융통성 없음, 목적 없음."
@@ -263,9 +315,17 @@
   "en": "Eori (1021 A.G. Moacir 47th) is the third princess of Sanbi and the sharpest princess of the bunch. The populace assumes Sanbi's monarchy will select her to ascend the throne and continue Neferteri's wishes specifically as she laid out, giving her soul to ensure the kingdom will forever be prosperous—that's what Eori presumes of her future looming on the horizon. Safe to say there's no escape, but nobody knows what's cooking in her mind. Her tabula rasa and distant treatment of everyone seem almost as if she's trying to hide something under the face. Only a few ever have seen her genuinely smile, and if you ask them what it looked like, they will likely say \"a viciously ear-to-ear grin\" and then shake their heads to try to forget ever seeing it.",
   "t": "에오리(1021 A.G. 모아시르 47일)는 산비의 셋째 공주이자 공주들 중 가장 영리하다. 백성들은 산비 왕실이 그녀를 왕위에 올리고, 네페르테리가 세워 둔 계획 그대로 그 뜻을 이어 가게 할 거라고 생각한다. 왕국이 영원히 번영하도록 자신의 영혼을 바치면서—그게 에오리가 지평선 너머로 다가오는 자기 미래에 대해 짐작하는 바다. 빠져나갈 길이 없다는 건 확실하지만, 그녀의 머릿속에서 무슨 일이 꾸며지고 있는지는 아무도 모른다. 백지 같은 표정과 누구에게나 거리를 두는 태도는 마치 얼굴 아래에 무언가를 숨기려는 것처럼 보인다. 그녀가 진심으로 웃는 걸 본 사람은 몇 안 되는데, 어떤 모습이었냐고 물으면 아마 “귀까지 찢어지는 사나운 미소”라고 하고는 그걸 본 기억을 잊으려는 듯 고개를 저을 거다."
  },
+ "10e9b0d91334": {
+  "en": "<strong>Intelligence:</strong> just like Neferteri: she replies smartly and takes part in conversations, with a strong presence of mind.",
+  "t": "<strong>지능:</strong> 네페르테리와 똑같다. 영리하게 대답하고 대화에 참여하며, 침착함이 강하게 배어 있다."
+ },
  "10efce9f945a": {
   "en": "<strong>Speech:</strong> in public, they like to speak and act in sync. In private, they're usually sucking each other off when they aren't training their synchronicity.",
   "t": "<strong>말투:</strong> 사람들 앞에선 동시에 말하고 행동하길 좋아한다. 사적인 자리에선 동조 훈련을 하지 않을 때면 보통 서로 빨아 주고 있다."
+ },
+ "10f0a7d04a7c": {
+  "en": "<strong>Flaws:</strong> careless; narcissistic; rigid; pretty lazy.",
+  "t": "<strong>단점:</strong> 부주의, 나르시시스트, 경직됨, 꽤 게으름."
  },
  "11111a59b630": {
   "en": "A round, hairy dude who goes by \"Lick, from the guild My-Veiny-Balls\", a prank name. He doesn't reveal his real name to anyone and refuses to sign contracts, but he's a master craftsman, so people put up with his bullshit. He's the distributor behind the Harry nari gels coming out of Sanbi: he sells them so cheap that nobody knows how he turns a profit, and he looked as if he had zero experience trading (Arc #4, Books 14 and 15).",
@@ -274,6 +334,14 @@
  "114ad4775fd2": {
   "en": "<strong>Interface:</strong> Darfaries.",
   "t": "<strong>인터페이스:</strong> 다르파리에스."
+ },
+ "1189b03a7b30": {
+  "en": "<strong>Birthday:</strong> 979 A.G. Adrian 25th.",
+  "t": "<strong>생일:</strong> 979 A.G. 아드리안 25일."
+ },
+ "118b64a27090": {
+  "en": "<strong>Habits:</strong> likes to sit back, and doesn't move much; looks people in the eye with a smile; cuddly with his wife and daughter.",
+  "t": "<strong>버릇:</strong> 기대앉길 좋아하고, 별로 움직이지 않는다. 웃으며 사람 눈을 본다. 아내와 딸에게 살갑다."
  },
  "11b94949c3cd": {
   "en": "Public text: characters.md",
@@ -286,6 +354,10 @@
  "1209f0e73b8a": {
   "en": "<strong>Myers-Briggs:</strong> ESTP.",
   "t": "<strong>MBTI:</strong> ESTP."
+ },
+ "12328046e52f": {
+  "en": "<strong>Likes and dislikes:</strong> loves reading, and helping <a href=\"#isabel-tolerideme-whoop-ass\">Isabel</a> with the Whoop-Ass tasks she can manage.",
+  "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 책 읽기, 그리고 자기가 할 수 있는 훕 애스 일로 <a href=\"#isabel-tolerideme-whoop-ass\">이사벨</a>를 돕는 걸 사랑한다."
  },
  "12dfbeb33cb4": {
   "en": "Gamal (974 A.G. Asa 58th) is the current Pharaoh of Sundeath. His will and knowledge are something to be feared, except a growing number of outsiders believe that he is stuck in the far past, refusing to understand, let alone acknowledge, that Sundeath is isolating itself from the rest of the world. People expect Forway to act sooner rather than later and stop this growing divergence for the sake of economic unity. In contrast, historians argue that doing so would put Gandew on alert and undoubtedly lead to war because culture is more of a priority than economic unity. Either way, if you find yourself talking to the Pharaoh, don't mind his RBF or a simple hand wave as his official response—he might agree with you but likely will never show it.",
@@ -399,13 +471,25 @@
   "en": "177 cm",
   "t": "177cm"
  },
+ "1ae606853a34": {
+  "en": "<strong>Birthday:</strong> 980 A.G. Moacir 71st.",
+  "t": "<strong>생일:</strong> 980 A.G. 모아시르 71일."
+ },
  "1ae79e93443a": {
   "en": "65 kg",
   "t": "65kg"
  },
+ "1afac73b01fc": {
+  "en": "143 cm",
+  "t": "143cm"
+ },
  "1b4968aa6515": {
   "en": "<strong>Myers-Briggs:</strong> ESTP in the Stinger armor; ISTJ without it.",
   "t": "<strong>MBTI:</strong> 스팅어 갑옷을 입으면 ESTP, 벗으면 ISTJ."
+ },
+ "1bc13a176b17": {
+  "en": "<strong>Attracted to:</strong> a womanizer who likes them big: his idea of a good time is a pile of big girls warming him up.",
+  "t": "<strong>끌리는 상대:</strong> 큰 여자를 좋아하는 바람둥이. 그가 생각하는 즐거운 시간은 큰 여자들 더미가 그를 따뜻하게 데워 주는 것이다."
  },
  "1bf67e3ce836": {
   "en": "<strong>Birthday:</strong> 1018 A.G. Asa 44th.",
@@ -451,6 +535,10 @@
   "en": "Marcus (997 A.G. Moacir 49th) is an aspiring leader—of a truculent bandit group called Blue Wozens. He even has people call him “boss” as well! Well, more like “person” since it’s only Wilson that does that. He seems to fucking hate the guts of his squadron but somehow never left. Forway and Sanbi guards would have a field day killing him over and over as a payback for all the atrocities he did, but he’s as slithery and sneaky as a soreno.",
   "t": "마커스(997 A.G. 모아시르 49일)는 야심 찬 두목이다—블루 워젠스라는 흉포한 산적단의. 사람들에게 “두목”이라고 부르게까지 한다! 뭐, 그렇게 부르는 건 윌슨뿐이니 “사람들”이라기보다 “한 사람”이지만. 그는 자기 분대를 죽도록 싫어하는 것 같지만, 어째서인지 한 번도 떠나지 않았다. 포웨이와 산비의 경비병들은 그가 저지른 모든 만행의 대가로 그를 몇 번이고 죽일 수 있다면 신이 나겠지만, 그는 소레노처럼 미끄럽고 교활하다."
  },
+ "1f25e350e72c": {
+  "en": "<strong>Strengths:</strong> huge self-worth; protective; ambitious.",
+  "t": "<strong>장점:</strong> 엄청난 자존감, 지키려 듦, 야심."
+ },
  "1f3287e3f95a": {
   "en": "<strong>Habits:</strong> in public, she crosses her arms more than anyone and keeps her distance, subtle about showing her true self. Alone with her \"bitch\", she's aggressive and lustful: handsy, with a stare that penetrates like no other. Her lustful breaths and her warmth tell the rest of the story.",
   "t": "<strong>버릇:</strong> 사람들 앞에서는 누구보다 팔짱을 많이 끼고 거리를 두며, 진짜 모습을 드러내는 데 조심스럽다. 자기 ‘개’와 단둘이 있을 땐 공격적이고 색욕에 차 있다. 손이 많이 가고, 누구보다 꿰뚫는 듯한 시선을 보낸다. 색욕 어린 숨결과 그 온기가 나머지 이야기를 들려준다."
@@ -467,6 +555,10 @@
   "en": "Coema grew up in Sanbi and was King-maid before handing the position to <a href=\"#eiri-sanbi-royal\">Eiri</a>. She created and standardized the Sanbi maid uniform. She met a lovely gentleman from Forway and had Eiri, but as time passed, their love burned out. She was rather carefree with her maids, but to her credit, it formed a league of maids very loyal to the Sanbi Kingdom. Now retired, she helps out the city and the people she loves, especially Cruros: she's a friend of <a href=\"#kiko-sanbi-half-cruro\">Kiko</a>, and helped his Half-Cruro guild shine (hence the Half-Cruro in her name). <a href=\"#neferteri-sanbi-royal\">Neferteri</a> passionately dislikes her: Coema often challenged her authority and dismantled her mind games, more directly and intensely than Neferteri's cold, superior style. She has moved to Newland.",
   "t": "코에마는 산비에서 자랐고, <a href=\"#eiri-sanbi-royal\">에이리</a>에게 자리를 넘기기 전까지 킹 메이드였다. 산비 하녀복을 만들고 표준화했다. 포웨이에서 온 멋진 신사를 만나 에이리를 낳았지만, 세월이 흐르며 사랑은 식었다. 하녀들에겐 꽤 자유방임적이었지만, 그 덕에 산비 왕국에 아주 충성스러운 하녀 연맹이 생겼다. 지금은 은퇴해서 도시와 사랑하는 사람들, 특히 크루로를 돕는다. <a href=\"#kiko-sanbi-half-cruro\">키코</a>의 친구로, 그의 하프 크루로 길드가 빛나도록 도왔다(그래서 이름에 하프 크루로가 붙었다). <a href=\"#neferteri-sanbi-royal\">네페르테리</a>는 그녀를 몹시 싫어한다. 코에마가 자주 그녀의 권위에 도전하고 머리싸움을 박살 냈는데, 네페르테리의 차갑고 우월한 방식보다 훨씬 직접적이고 강렬했기 때문이다. 그녀는 뉴랜드로 이주했다."
  },
+ "1ffd00e26e17": {
+  "en": "<strong>Speech:</strong> a low-energy womanly voice that sounds very confident and knowledgeable. She calls people by name and verbally agrees with them, or with their position, affirming their concerns to win their trust. Her laugh sounds fake.",
+  "t": "<strong>말투:</strong> 기운 없는 여성스러운 목소리지만, 아주 자신 있고 박식하게 들린다. 사람들을 이름으로 부르고, 그들이나 그들 입장에 말로 동의하며 걱정을 인정해 줘서 신뢰를 얻는다. 웃음소리가 가짜 같다."
+ },
  "201591727c65": {
   "en": "<strong>Attracted to:</strong> confident, charismatic, funny men who get the job done.",
   "t": "<strong>끌리는 상대:</strong> 일을 해내는, 자신감 있고 카리스마 있고 재미있는 남자."
@@ -474,6 +566,14 @@
  "20754581af2b": {
   "en": "<strong>Flaws:</strong> pushy; secretive; easily bored, especially with men; aggressive when someone intrudes on her memories or boundaries.",
   "t": "<strong>단점:</strong> 밀어붙인다. 비밀이 많다. 쉽게 질린다, 특히 남자에게. 누가 자기 기억이나 선을 침범하면 공격적이 된다."
+ },
+ "2098197c01d9": {
+  "en": "<strong>Speech:</strong> farming stories: he talks about farming one way or another, or steers the conversation toward it.",
+  "t": "<strong>말투:</strong> 농사 이야기. 어떻게든 농사 얘기를 하거나 대화를 그쪽으로 끌고 간다."
+ },
+ "212065f929bc": {
+  "en": "Born in Broken-Tree, <a href=\"#laramy-broken-tree\">Laramy</a>'s cousin, she made her way to Tolerideme, then to Forway once she got a bit rich. But she lost all her money gambling and ended up back in Broken-Tree, and now she's looking for ways to get back to the city and regain her old life.",
+  "t": "브로큰 트리에서 태어난 <a href=\"#laramy-broken-tree\">래러미</a>의 사촌. 톨레리데메로 갔다가, 좀 부자가 되자 포웨이로 갔다. 하지만 도박으로 돈을 몽땅 잃고 브로큰 트리로 돌아왔고, 이제 도시로 돌아가 옛 삶을 되찾을 방법을 찾고 있다."
  },
  "2137513fad18": {
   "en": "<strong>Race:</strong> human; born male, effeminate.",
@@ -519,9 +619,17 @@
   "en": "<strong>Birthday:</strong> 919 A.G. Adrian 19th.",
   "t": "<strong>생일:</strong> 919 A.G. 아드리안 19일."
  },
+ "257fa4d7565a": {
+  "en": "<strong>Flaws:</strong> unambitious; wanderlust (he can't sit still in one place for long); a procrastinator; indecisive; boring (to some); too touchy (to some).",
+  "t": "<strong>단점:</strong> 야망 없음, 방랑벽(한곳에 오래 못 있는다), 미루기, 우유부단, (누군가에겐) 지루함, (누군가에겐) 지나친 스킨십."
+ },
  "2592b94f0a82": {
   "en": "Lofingha: a blonde woman in a military cap and sheer armored outfit with silver boots, with a close-up of her ear.",
   "t": "로핑하: 군모를 쓰고 얇은 갑옷 차림에 은색 부츠를 신은 금발 여성. 그녀의 귀 클로즈업이 함께 있다."
+ },
+ "269daba97c49": {
+  "en": "<strong>Intelligence:</strong> street smarts, and a really good memory. She can't read, so she leaves that to Laramy.",
+  "t": "<strong>지능:</strong> 눈치가 있고, 기억력이 정말 좋다. 글은 못 읽어서 그건 래러미에게 맡긴다."
  },
  "271677ac60d8": {
   "en": "<strong>Birthday:</strong> 994 A.G. Asa 44th.",
@@ -619,6 +727,10 @@
   "en": "Ariana Tolerideme Whoop-Ass",
   "t": "아리아나 톨레리데메 훕 애스"
  },
+ "2e3afa920440": {
+  "en": "<strong>Strengths:</strong> spontaneous; analytical; reserved; careful; fatherly.",
+  "t": "<strong>장점:</strong> 즉흥적, 분석적, 과묵함, 신중함, 아버지 같음."
+ },
  "2e51169cdd3a": {
   "en": "<strong>Birthday:</strong> 995 A.G. Moacir 30th.",
   "t": "<strong>생일:</strong> 995 A.G. 모아시르 30일."
@@ -630,6 +742,10 @@
  "2e72f2b6c539": {
   "en": "<strong>Birthday:</strong> 1021 A.G. Moacir 47th.",
   "t": "<strong>생일:</strong> 1021 A.G. 모아시르 47일."
+ },
+ "2e96b8a92f2e": {
+  "en": "Born and raised in Tolerideme, in a lower farming guild. He had a taste for alcohol since his youth, so he slowly drifted into the alcohol business, lucked out with a recipe that went gangbusters, and founded his own guild and business, where he lucks out again every once in a while. He's the current Alcohol King.",
+  "t": "톨레리데메의 하급 농업 길드에서 나고 자랐다. 젊을 때부터 술맛을 알아서 천천히 술 사업으로 흘러들었고, 레시피 하나가 대박이 나서 자기 길드와 사업을 세웠다. 그 뒤로도 가끔 또 대박을 친다. 현재의 술왕이다."
  },
  "2ebb5a2d8a1e": {
   "en": "<strong>Flaws:</strong> dull; tense; boring; blunt; crazy (rarely).",
@@ -646,6 +762,10 @@
  "2f8ba92bb068": {
   "en": "<strong>Flaws:</strong> jealous of her sister; temperamental, especially when someone pokes her sore spot about being lesser than her sister; aggressive, to make up for her lack of skill; pathetic, as she keeps trying to be like her sister instead of herself; demanding; narrow-minded.",
   "t": "<strong>단점:</strong> 언니를 질투한다. 언니보다 못하다는 아픈 데를 누가 건드리면 특히 변덕스럽다. 실력 부족을 메우려고 공격적이다. 자기 자신이 아니라 계속 언니처럼 되려고 해서 한심하다. 요구가 많다. 편협하다."
+ },
+ "2fcc8fccac09": {
+  "en": "<strong>Fascinated by:</strong> girls who are very kind and cute.",
+  "t": "<strong>푹 빠진 것:</strong> 아주 다정하고 귀여운 여자애들."
  },
  "2fe85351428f": {
   "en": "Sora (1020 A.G Moacir 75th) is a loveable Wozefaries, adored by many for her eagerness to do her best while juggling her maid job and her parents' soap mart at the same time. She puts aside her shyness to get things done for the greater good of the kingdom! Well, most of the time, that is. There is only so much embarrassment a young girl can take, and being asked out on a date or being told she is cute is too much for her to handle.",
@@ -799,6 +919,10 @@
   "en": "Harry’s journey will be grueling, but he will not be swept by the challenging winds the more he roots himself in the new world.",
   "t": "해리의 여정은 고될 것이다. 하지만 새로운 세계에 뿌리를 내릴수록 거센 바람에 휩쓸리지 않게 될 것이다."
  },
+ "3addb4e47cac": {
+  "en": "<strong>Birthday:</strong> 998 A.G. Paulin 84th.",
+  "t": "<strong>생일:</strong> 998 A.G. 파울린 84일."
+ },
  "3ba7e1fec768": {
   "en": "Ariana: a short brown-haired girl in a pink gown with a tall pink pointed hat.",
   "t": "아리아나: 분홍 가운에 높고 뾰족한 분홍 모자를 쓴, 짧은 갈색 머리 소녀."
@@ -810,6 +934,10 @@
  "3bec09a4c32f": {
   "en": "<strong>Flaws:</strong> disobedient at times, especially when he thought someone's plan needed changing on the fly; nosy; dependent; pessimistic.",
   "t": "<strong>단점:</strong> 가끔 말을 안 듣는다. 특히 누군가의 계획을 즉석에서 바꿔야 한다고 생각할 때. 참견쟁이, 의존적, 비관적."
+ },
+ "3c4b12cf03a8": {
+  "en": "<strong>Habits:</strong> flaunts things as a defense.",
+  "t": "<strong>버릇:</strong> 방어 수단으로 자랑을 늘어놓는다."
  },
  "3c8f48552032": {
   "en": "<strong>Speech:</strong> not very direct in her words, but her body language is very direct.",
@@ -859,6 +987,10 @@
   "en": "Naunet: two outfits of a woman, a striped golden hooded cloak and a white top and skirt with gold jewelry.",
   "t": "나우네트: 한 여성의 두 가지 차림. 줄무늬 금색 후드 망토, 그리고 금 장신구를 단 흰 상의와 치마."
  },
+ "40618060e8ea": {
+  "en": "<strong>Likes and dislikes:</strong> loves money, being the center of attention and being treated as superior. Hates being on the same level as others, especially when someone she considers \"lucky\" gets ahead of her in life, and hates losing her grip on someone she's persuading. Loves dressing up in expensive clothes, or at least ones that look it, and fine food and drinks.",
+  "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 돈, 관심의 중심이 되는 것, 우월하게 대접받는 걸 사랑한다. 남과 같은 수준에 있는 걸 증오한다. 특히 자기가 ‘운 좋다’고 여기는 사람이 인생에서 앞서 나갈 때. 설득 중인 사람을 놓치는 걸 증오한다. 비싼 옷, 적어도 비싸 보이는 옷을 차려입는 것, 고급 음식과 술을 사랑한다."
+ },
  "4090702bd5d0": {
   "en": "90 kg",
   "t": "90kg"
@@ -870,6 +1002,10 @@
  "414feed37778": {
   "en": "<strong>Race:</strong> Sorefaries.",
   "t": "<strong>종족:</strong> 소레파리에스."
+ },
+ "41e01eb080ae": {
+  "en": "The 9th Pharaoh's wife, and <a href=\"#neferteri-sanbi-royal\">Neferteri</a>'s mother. She grew up close to her brother, <a href=\"#gamal-sundeath-pharaohs\">Gamal</a>, now her husband of many years.",
+  "t": "9대 파라오의 아내이자 <a href=\"#neferteri-sanbi-royal\">네페르테리</a>의 어머니. 오빠 <a href=\"#gamal-sundeath-pharaohs\">가말</a>과 가깝게 자랐고, 그는 지금 오랜 세월 함께한 남편이다."
  },
  "41eb0324fd6e": {
   "en": "<strong>Intelligence:</strong> focused on adventuring, but he knows a bit more about the world than most. Doesn't care for politics.",
@@ -939,6 +1075,14 @@
   "en": "Excessive daytime sleepiness: sleep attacks when she isn't actively hunting or forcing herself to focus on something; otherwise, an average sleepiness that comes and goes depending on the day and whether she napped.",
   "t": "주간 과다 졸림: 적극적으로 사냥하거나 억지로 뭔가에 집중하지 않을 때 수면 발작이 온다. 그 밖에는 그날과 낮잠 여부에 따라 오락가락하는 보통 수준의 졸림."
  },
+ "4581eb760f84": {
+  "en": "<strong>Likes and dislikes:</strong> loves trying different foods and drinks. Hates anyone trying to take her precious Alford.",
+  "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 여러 음식과 술 맛보기를 사랑한다. 소중한 알퍼드를 빼앗으려는 자는 누구든 증오한다."
+ },
+ "45b6bf5fa101": {
+  "en": "<strong>When he grows up:</strong> a shy mama's boy in the making: warm and kind, a bit lazy, and forever saying \"My mom told me…\".",
+  "t": "<strong>커서는:</strong> 될성부른 수줍은 마마보이. 따뜻하고 다정하고, 좀 게으르고, 늘 “우리 엄마가 그랬는데…”라고 말한다."
+ },
  "4615a8f8b300": {
   "en": "<strong>Likes and dislikes:</strong> likes obedience, and following the plan; hoarding more stuff. Hates disobedience, insubordination, and above all any attempt to tarnish his image.",
   "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 복종, 그리고 계획대로 하는 것. 더 많은 걸 긁어모으는 것. 불복종, 하극상, 그리고 무엇보다 자기 이미지에 먹칠하려는 모든 시도를 싫어한다."
@@ -979,6 +1123,14 @@
   "en": "<strong>Birthday:</strong> 949 A.G. Moacir 11th.",
   "t": "<strong>생일:</strong> 949 A.G. 모아시르 11일."
  },
+ "4871bfbf53a0": {
+  "en": "<strong>Habits:</strong> bobs her head; hums in agreement; an inquisitive look.",
+  "t": "<strong>버릇:</strong> 고개를 까딱인다. 동의의 콧소리를 낸다. 캐묻는 눈빛."
+ },
+ "48d751e5877a": {
+  "en": "An orgy led to <a href=\"#isabel-tolerideme-whoop-ass\">Isabel</a> giving birth to Brandi. A paternity test pointed to <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>, so he's taking care of him too (as in paying child support). Jimmie and Isabel's first son.",
+  "t": "난교 끝에 <a href=\"#isabel-tolerideme-whoop-ass\">이사벨</a>가 브랜디를 낳았다. 친자 검사 결과 <a href=\"#jimmie-tolerideme-whoop-ass\">지미</a>로 나와서 그가 브랜디도 책임지고 있다(양육비를 낸다는 뜻이다). 지미와 이사벨의 첫아들."
+ },
  "48f7d2f704c1": {
   "en": "<strong>Birthday:</strong> 1015 A.G. Moacir 6th.",
   "t": "<strong>생일:</strong> 1015 A.G. 모아시르 6일."
@@ -1011,6 +1163,10 @@
   "en": "<strong>Intelligence:</strong> average human intelligence, with street smarts, especially for sniffing out good deals.",
   "t": "<strong>지능:</strong> 인간 평균 지능에, 눈치가 있다. 특히 좋은 거래의 냄새를 맡는 데."
  },
+ "49d31ca5c704": {
+  "en": "<strong>Strengths:</strong> enthusiastic; responsible; friendly, in a blunt, sarcastic way.",
+  "t": "<strong>장점:</strong> 열정, 책임감, 무뚝뚝하고 빈정대는 방식의 친근함."
+ },
  "49e36aceb616": {
   "en": "<strong>Flaws:</strong> a killjoy; a procrastinator; boring; detached; daydreams too much, especially about what-ifs, and ends up not doing anything; shameless.",
   "t": "<strong>단점:</strong> 분위기 깨는 사람, 미루기, 지루함, 무심함, 특히 ‘만약에’에 대한 공상이 지나쳐서 결국 아무것도 안 함, 뻔뻔함."
@@ -1030,6 +1186,10 @@
  "4b8db809a7da": {
   "en": "<strong>Attracted to:</strong> Wozefaries, especially ones with a high sex drive.",
   "t": "<strong>끌리는 상대:</strong> 워제파리에스, 특히 성욕이 강한."
+ },
+ "4bd615229eaf": {
+  "en": "Born and raised in Tolerideme, in one of the best and largest farming guilds. Thanks to his charisma and deep knowledge of farming, he became Farm King at 20, which is rather young. He met his partner, <a href=\"#luny-tolerideme-dirt-lover\">Luny</a>, when she started as the new Courtroom Scientist ten years ago: he saw in her a depth of knowledge and an appreciation for farming nobody else had. Still, he joins orgies here and there in secret. Luny doesn't seem to want kids, perhaps because the \"wife\" thing isn't a thing in Tolerideme. He had an affair with <a href=\"#aurora-tolerideme\">Aurora</a>, which led to her having a child about 8 years ago (1031 A.G.), and worked out a deal with <a href=\"#itagiba-sanbi-royal\">Itagiba</a> and <a href=\"#eiri-sanbi-royal\">Eiri</a> so Luny wouldn't find out.",
+  "t": "톨레리데메의 손꼽히게 크고 좋은 농업 길드에서 나고 자랐다. 카리스마와 깊은 농사 지식 덕에 꽤 젊은 스무 살에 농업왕이 됐다. 10년 전 새 궁정 과학자로 부임한 짝 <a href=\"#luny-tolerideme-dirt-lover\">루니</a>를 만났는데, 그녀에게서 누구에게도 없던 깊은 지식과 농사에 대한 애정을 봤다. 그래도 몰래 여기저기 난교에 낀다. 루니는 아이를 원하지 않는 것 같은데, 톨레리데메엔 ‘아내’라는 게 없어서일지도 모른다. 그는 <a href=\"#aurora-tolerideme\">오로라</a>와 바람을 피웠고, 그 결과 약 8년 전(1031 A.G.) 그녀가 아이를 낳았다. 루니가 모르도록 <a href=\"#itagiba-sanbi-royal\">이타지바</a>와 <a href=\"#eiri-sanbi-royal\">에이리</a>와 거래를 맺었다."
  },
  "4bd773400632": {
   "en": "<strong>Intelligence:</strong> very smart at accounting and anything maid-related. She can organize people like no other, and does her best to create a loving environment for her maids.",
@@ -1095,6 +1255,10 @@
   "en": "<strong>Habits:</strong> personal, and can get handsy, but his personality makes it work, so most people don't feel invaded; moves around more than most, and likes to stand and walk; looks people in the eye with a sincere, warm smile.",
   "t": "<strong>버릇:</strong> 친밀하고 손이 갈 수도 있지만, 그의 성격 덕에 대부분은 침범당한다고 느끼지 않는다. 남들보다 많이 움직이고, 서서 걷는 걸 좋아한다. 진실하고 따뜻한 미소로 사람의 눈을 본다."
  },
+ "4fe188e79caf": {
+  "en": "<strong>Likes and dislikes:</strong> loves farming and everything to do with it, including the food that comes out of it.",
+  "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 농사와 그에 관한 모든 걸, 거기서 나오는 음식까지 사랑한다."
+ },
  "4fe56595584d": {
   "en": "Magi grew up with loving parents and would likely have become a historian, but the sudden disappearance of her father, <a href=\"#fernan-blood-blue-flower-red-bone\">Fernan</a>, forced her to become an adventurer to pay off guild debts. She wants to find him, or at least his bow. She inherited her father's hunting talent, but she has narcolepsy and is rather distrustful of people. She always carries hunting gear in her bag, especially traps and camouflage for hiding.",
   "t": "마기는 다정한 부모 밑에서 자라 아마 역사가가 됐겠지만, 아버지 <a href=\"#fernan-blood-blue-flower-red-bone\">페르난</a>이 갑자기 사라지는 바람에 길드 빚을 갚으려고 모험가가 될 수밖에 없었다. 아버지를, 아니면 적어도 그의 활을 찾고 싶어 한다. 아버지의 사냥 재능을 물려받았지만, 기면증이 있고 사람을 꽤 경계한다. 가방에 늘 사냥 도구, 특히 덫과 숨을 때 쓰는 위장 도구를 들고 다닌다."
@@ -1110,6 +1274,10 @@
  "500a72916c98": {
   "en": "<strong>Race:</strong> WIP.",
   "t": "<strong>종족:</strong> 작업 중."
+ },
+ "503c9969afd1": {
+  "en": "<strong>Flaws:</strong> boastful; touchy; narcissistic; hotheaded; gullible; envious.",
+  "t": "<strong>단점:</strong> 허세, 예민함, 나르시시스트, 다혈질, 잘 속음, 시샘."
  },
  "5040fc5f5626": {
   "en": "<strong>Flaws:</strong> shy; selfish; hesitant; forgetful; doesn't like to travel; dependent.",
@@ -1159,9 +1327,21 @@
   "en": "52 kg",
   "t": "52kg"
  },
+ "52aca80c32c8": {
+  "en": "<strong>Intelligence:</strong> knows a fair amount for her age, and is always eager to learn more.",
+  "t": "<strong>지능:</strong> 나이에 비해 꽤 많이 알고, 늘 더 배우고 싶어 한다."
+ },
  "52b7ff64fd14": {
   "en": "<strong>Birthday:</strong> 1014 A.G. Asa 24th.",
   "t": "<strong>생일:</strong> 1014 A.G. 아사 24일."
+ },
+ "52c95f2d9d05": {
+  "en": "<a href=\"#kianna-tolerideme-whoop-ass\">Kianna</a> and <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>'s first daughter.",
+  "t": "<a href=\"#kianna-tolerideme-whoop-ass\">키아나</a>와 <a href=\"#jimmie-tolerideme-whoop-ass\">지미</a>의 첫째 딸."
+ },
+ "5302e236f8d4": {
+  "en": "95 kg",
+  "t": "95kg"
  },
  "5318b8a526de": {
   "en": "Born in Forway City to mixed-blood parents who had left the Gandew Kingdom and made their living in whatever jobs they could find, with little education but great physical strength. The discrimination and smugness of pure-blood Darfaries toward his mixed blood always rubbed him the wrong way. One day he signed a contract with a rich man without reading the fine print, and members of the rich man's family harassed him over it, which made him hate everyone even more. In time, he founded what is now known as the Blue Wozens with two other people, and struck back at the family.",
@@ -1170,6 +1350,10 @@
  "53342c568668": {
   "en": "<strong>Likes and dislikes:</strong> an Amethyst adventurer, picky about his quests. Loves makeup, looking good and matching accessories to his clothes. Loves blue. Hates fat Tolerideme people (\"it's unbeauty\"). Loves talking about himself, especially what he's done. Hates combat, and prefers verbal arguments.",
   "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 애머시스트 모험가로, 의뢰를 가린다. 화장, 멋 부리기, 옷에 맞춰 액세서리 고르기를 좋아한다. 파란색을 좋아한다. 뚱뚱한 톨레리데메 사람을 싫어한다(‘아름답지 않음이야’). 자기 얘기, 특히 자기가 한 일을 말하는 걸 좋아한다. 전투를 싫어하고 말싸움을 선호한다."
+ },
+ "540fd4630a6c": {
+  "en": "<strong>Habits:</strong> jumps into conversations to keep Laramy from getting screwed like no other; likes to put herself in front of people, especially standing up; loving and touchy with her family.",
+  "t": "<strong>버릇:</strong> 래러미가 당하지 않도록 누구보다 대화에 끼어든다. 사람들 앞에 나서길 좋아한다, 특히 서서. 가족에겐 다정하고 스킨십이 많다."
  },
  "544e78f6ae0c": {
   "en": "Eiri: a blonde young woman in a blue hood and a blue-and-yellow ruffled dress.",
@@ -1211,6 +1395,10 @@
   "en": "Yacamim Sanbi Royal",
   "t": "야카밍 산비 로열"
  },
+ "5700960f83c4": {
+  "en": "<strong>Likes and dislikes:</strong> prefers Sundeath to anything else. Hates humidity and cold. Loves Lolish, especially preserved in sugar.",
+  "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 무엇보다 선데스를 좋아한다. 습기와 추위를 싫어한다. 롤리시, 특히 설탕에 절인 것을 사랑한다."
+ },
  "5737e14d2481": {
   "en": "Maicon Crossroads Black-Dove",
   "t": "마이콘 크로스로즈 블랙 도브"
@@ -1242,6 +1430,10 @@
  "589419359f21": {
   "en": "Born in Forway to a Sundeath mother and a well-off Wozefaries father. He grew up exploring the world's cuisines and came to love the diversity of food, which he explores in his restaurant, The Wood People Picker.",
   "t": "포웨이에서 선데스 출신 어머니와 형편 좋은 워제파리에스 아버지 사이에서 태어났다. 세계 각지의 요리를 탐험하며 자랐고, 음식의 다양성을 사랑하게 됐다. 그는 그걸 자기 식당 우드 피플 피커에서 탐구한다."
+ },
+ "58b609247447": {
+  "en": "<strong>Speech:</strong> soft-spoken; asks questions, and goes back and forth on the meat of the matter.",
+  "t": "<strong>말투:</strong> 조용조용 말한다. 질문하고, 핵심을 두고 이리저리 따져 본다."
  },
  "5909bee59bcf": {
   "en": "Posaqui Sanbi",
@@ -1279,6 +1471,10 @@
   "en": "<strong>Habits:</strong> avoidant; quiet.",
   "t": "<strong>버릇:</strong> 회피적. 조용하다."
  },
+ "5acc33e35477": {
+  "en": "<strong>Attracted to:</strong> a lady who shares his passion for farming; size doesn't really matter.",
+  "t": "<strong>끌리는 상대:</strong> 농사에 대한 열정을 나누는 여자. 덩치는 별로 상관없다."
+ },
  "5b18a45a9f04": {
   "en": "Bata (995 A.G. Moacir 30th) is the identical twin brother of Anpu. Which one is which? Nobody knows, and that’s on purpose! These two want to become a single entity so badly they are always on nari gels to look perfectly alike. They even developed a synchronicity interface through eyesight that allows them to predict what each other is thinking nearly instinctively. That is unless a monkey wrench is thrown in their act, like Neferteri showing up or you asking a question that scratches the individualism laying dormant underneath it all. Will they become the next leaders of Sundeath? Eventually, yes, but Gamal does not bulge from the role until they get their act together. However, the Pharaohs guild has no other twin girls for marriage, plus ignoring the rumors that these two brothers only love themselves is hard to do when you see them riding a single Egua together, often galloping.",
   "t": "바타(995 A.G. 모아시르 30일)는 안푸의 일란성 쌍둥이 형제다. 누가 누구냐고? 아무도 모른다. 일부러 그런 거다! 이 둘은 하나의 존재가 되고 싶은 마음이 너무 커서 완벽히 똑같아 보이려고 늘 나리 젤을 쓴다. 눈빛만으로 서로 무슨 생각을 하는지 거의 본능적으로 알 수 있는 동기화 인터페이스까지 개발했다. 네페르테리가 나타나거나, 그 모든 것 밑에 잠들어 있는 개성을 건드리는 질문을 던지는 것처럼, 누가 그들의 연기에 훼방을 놓지 않는 한 말이다. 그들이 선데스의 다음 지도자가 될까? 결국엔 그렇겠지만, 그들이 정신을 차리기 전까지 가말은 자리에서 꿈쩍도 하지 않는다. 하지만 파라오스 길드에는 결혼할 다른 쌍둥이 여자가 없고, 이 두 형제가 서로만 사랑한다는 소문은, 둘이 에구아 한 마리를 함께 타고, 그것도 자주 질주하는 모습을 보면 무시하기 어렵다."
@@ -1298,6 +1494,10 @@
  "5bd9382ec5e1": {
   "en": "78 kg",
   "t": "78kg"
+ },
+ "5c72b108f095": {
+  "en": "<strong>Speech:</strong> quick to agree or disagree and move on as soon as he has heard the other person out. His voice is tired, raspy and detached, even though his words show he listened to every word.",
+  "t": "<strong>말투:</strong> 상대 말을 다 듣자마자 재빨리 동의하거나 반대하고 넘어간다. 목소리는 피곤하고 쉬었고 무심하지만, 말을 보면 한 마디도 빠짐없이 들었다는 게 드러난다."
  },
  "5c9bdc175a38": {
   "en": "<strong>Birthday:</strong> 969 A.G. Asa 23rd.",
@@ -1327,9 +1527,17 @@
   "en": "To her surprise, that same adventurer, <a href=\"#fernan-blood-blue-flower-red-bone\">Fernan</a>, passed by her again one day and asked how she was doing. She said she'd followed his advice, and he giddily asked if he could give her another piece of advice: go on a date with him! They grew closer, and Magi and her little brother were born. Akemi knows a fair amount of history, but her real interest lies in the occult and forbidden knowledge. Her clothes show some wear, since she's saving every ball she can for her son's specialty school.",
   "t": "놀랍게도 바로 그 모험가, <a href=\"#fernan-blood-blue-flower-red-bone\">페르난</a>이 어느 날 다시 그녀 곁을 지나다 잘 지내냐고 물었다. 그녀가 그의 조언을 따랐다고 하자, 그는 들떠서 조언을 하나 더 해도 되냐고 물었다. 나랑 데이트하자! 둘은 가까워졌고, 마기와 남동생이 태어났다. 아케미는 역사를 꽤 알지만, 진짜 관심은 오컬트와 금지된 지식에 있다. 아들의 전문 학교 학비로 볼 하나라도 더 모으느라 옷이 좀 낡았다."
  },
+ "5ed0cc12cf1a": {
+  "en": "<strong>Myers-Briggs:</strong> INTP.",
+  "t": "<strong>MBTI:</strong> INTP."
+ },
  "5eee91be337d": {
   "en": "<strong>Birthday:</strong> 1007 A.G. Adrian 79th.",
   "t": "<strong>생일:</strong> 1007 A.G. 아드리안 79일."
+ },
+ "5ef54db2ea68": {
+  "en": "<strong>Likes and dislikes:</strong> likes people with power. Doesn't like dealing with petty things, especially petty people.",
+  "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 힘 있는 사람을 좋아한다. 사소한 일, 특히 사소한 사람을 상대하는 걸 싫어한다."
  },
  "5f277725658c": {
   "en": "<strong>Likes and dislikes:</strong> hates people above him, or anyone who makes a point of being above him. Likes most food, except what clearly tastes funky, and especially raw things.",
@@ -1338,6 +1546,10 @@
  "5f9bd3c88bab": {
   "en": "Sinoi: an old gray-haired man with a pipe, wearing a blue patterned vest and trousers.",
   "t": "시노이: 파이프를 문 회색 머리 노인. 파란 무늬 조끼와 바지를 입고 있다."
+ },
+ "5fe114268f75": {
+  "en": "<strong>Likes and dislikes:</strong> loves food, and being with her mother to copy her behavior. Hates <a href=\"#nina-sanbi-royal\">Nina</a>, but has to put up with her, or she'd get in trouble.",
+  "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 음식, 그리고 엄마 곁에서 엄마 행동을 따라 하는 걸 사랑한다. <a href=\"#nina-sanbi-royal\">니나</a>를 싫어하지만, 안 그러면 혼나니까 참아야 한다."
  },
  "5ff1d73e0dc5": {
   "en": "Brandi Tolerideme Whoop-Ass",
@@ -1350,6 +1562,18 @@
  "60b9da50fa3c": {
   "en": "Honati's family portrait for Arc 2: a gray-haired man, a pink-haired girl and an orange-haired woman (marked with an arrow).",
   "t": "아크 2의 호나티 가족사진: 회색 머리 남자, 분홍 머리 소녀, 주황 머리 여성(화살표로 표시)."
+ },
+ "60c9d053a89e": {
+  "en": "<strong>Habits:</strong> an air of superiority; duck face; bitchy face; likes to flaunt it.",
+  "t": "<strong>버릇:</strong> 우월한 분위기, 오리 입, 성질난 얼굴. 자랑하길 좋아한다."
+ },
+ "610a4ffddaea": {
+  "en": "<strong>Attracted to:</strong> dependent, secure men.",
+  "t": "<strong>끌리는 상대:</strong> 의지할 수 있는, 안정된 남자."
+ },
+ "61d9410b7746": {
+  "en": "<strong>Strengths:</strong> a skilled communicator; sociable; clever; resourceful (with connections); friendly; self-confident; placid, controlling her emotions and hiding her true intentions.",
+  "t": "<strong>장점:</strong> 능숙한 소통, 사교성, 영리함, 수완(인맥 면에서), 친근함, 자신감, 감정을 통제하고 진짜 속셈을 숨기는 차분함."
  },
  "61e8fbe2533c": {
   "en": "<strong>Intelligence:</strong> a man set in his ways: preceptive, and willing to lay down how things have to be. He can't read, but he can certainly read people who try to outwit him. A talented logger.",
@@ -1375,6 +1599,14 @@
   "en": "<strong>Race:</strong> mixed blood (human and Darfaries).",
   "t": "<strong>종족:</strong> 혼혈(인간과 다르파리에스)."
  },
+ "6292091fa675": {
+  "en": "<strong>Flaws:</strong> bitchy; rude; sees others as beneath her; gullible, especially when her ego is inflated.",
+  "t": "<strong>단점:</strong> 싸가지 없음, 무례함, 남을 아래로 봄, 잘 속음, 특히 자존심이 부풀었을 때."
+ },
+ "62ac4dba37f2": {
+  "en": "Born and raised north of Tolerideme, the daughter of traders, <a href=\"#laramy-broken-tree\">Laramy</a> and <a href=\"#honati-broken-tree\">Honati</a>. She traveled a lot with them, picking up information about the world, and learned to read on the road, though she never went to school.",
+  "t": "톨레리데메 북쪽에서 상인 <a href=\"#laramy-broken-tree\">래러미</a>와 <a href=\"#honati-broken-tree\">호나티</a>의 딸로 나고 자랐다. 부모와 많이 여행하며 세상 정보를 익혔고, 학교는 안 다녔지만 길 위에서 글을 배웠다."
+ },
  "638cb6df50cd": {
   "en": "Marcus Big-Gyut",
   "t": "마커스 빅 귯"
@@ -1382,6 +1614,10 @@
  "639a0f7f95cc": {
   "en": "<strong>Speech:</strong> an aggressive, impatient tone; demanding, and belligerent when someone doesn't follow his plan 100%.",
   "t": "<strong>말투:</strong> 공격적이고 성급한 어조. 요구가 많고, 누가 자기 계획을 100% 따르지 않으면 호전적이 된다."
+ },
+ "63aec8554ae9": {
+  "en": "<strong>Speech:</strong> he doesn't really start things, but goes along with whatever his wife comes up with.",
+  "t": "<strong>말투:</strong> 일을 먼저 벌이진 않지만, 아내가 생각해 낸 건 뭐든 따라간다."
  },
  "63bceb19b89c": {
   "en": "<strong>Race:</strong> Darfaries.",
@@ -1499,6 +1735,18 @@
   "en": "<strong>Flaws:</strong> self-indulgent; insecure; shameless; predatory; doesn't think things through.",
   "t": "<strong>단점:</strong> 제멋대로, 불안정, 뻔뻔함, 약탈적, 깊이 생각하지 않음."
  },
+ "68ac5d8baa0f": {
+  "en": "<strong>Birthday:</strong> 1004 A.G. Asa 14th.",
+  "t": "<strong>생일:</strong> 1004 A.G. 아사 14일."
+ },
+ "68d82295bd31": {
+  "en": "<strong>Strengths:</strong> a sweet persona; very caring; attentive; charming in her own way; grandmotherly, so to speak.",
+  "t": "<strong>장점:</strong> 다정한 인품, 아주 배려 깊음, 세심함, 그녀 나름의 매력, 말하자면 할머니 같음."
+ },
+ "6941bb3295a0": {
+  "en": "<strong>Birthday:</strong> 1036 A.G. Adrian 54th.",
+  "t": "<strong>생일:</strong> 1036 A.G. 아드리안 54일."
+ },
  "69a799c9edef": {
   "en": "The Stinger: a figure in spiked golden armor with a horned golden helmet that hides the face.",
   "t": "스팅어: 가시 돋친 금색 갑옷에 얼굴을 가리는 뿔 달린 금색 투구를 쓴 인물."
@@ -1510,6 +1758,10 @@
  "69e2552aa968": {
   "en": "<strong>Attracted to:</strong> girly Wozefaries.",
   "t": "<strong>끌리는 상대:</strong> 소녀 같은 워제파리에스."
+ },
+ "69ff0ae79559": {
+  "en": "<strong>Speech:</strong> polite, distant and elegant; a calm, somewhat monotone voice, like her movements.",
+  "t": "<strong>말투:</strong> 공손하고 거리감 있고 우아하다. 몸놀림처럼 차분하고 좀 단조로운 목소리."
  },
  "6a6da31b7476": {
   "en": "Wilson (1019 A.G. Moacir 19th) is definitive proof that humans don't need a brain to survive, despite Marcus proving that wrong time after time whenever he cracks Wilson's skull open. Maybe he just refuses to use it? More than once, he opened his mouth to a guard and told him who he was and that he had fun being a bandit! And that's not the worst part either; once he showed the guard an item he had stolen and pointed to the post asking to find it with a burst of dumb laughter as if he was bragging about it to a long-time friend. Needless to say, Marcus split his head open after they skipped town. At least he seems to be good with the bow, or it's all because of the shiny bow he carries around like a conjoined twin.",
@@ -1554,6 +1806,10 @@
  "6e1ef6f8a81a": {
   "en": "<strong>Intelligence:</strong> emotionally intelligent, but never speaks up.",
   "t": "<strong>지능:</strong> 감성 지능은 있지만, 절대 나서서 말하지 않는다."
+ },
+ "6eac3685d9fe": {
+  "en": "<strong>Likes and dislikes:</strong> his mother's milk, Domar barley, baby food.",
+  "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 엄마 젖, 도마르 보리, 이유식."
  },
  "6f3d37b8b663": {
   "en": "Brandi (1039 A.G. Asa 69th) is the newest member of the Whoop-Ass guild and likely not the last. Some people are already betting whether he will turn out closer to Ariana or Amelia.",
@@ -1635,6 +1891,10 @@
   "en": "61 kg",
   "t": "61kg"
  },
+ "755a5568ca01": {
+  "en": "<strong>Speech:</strong> a lower voice; she doesn't like drawing attention to herself.",
+  "t": "<strong>말투:</strong> 낮은 목소리. 주목받는 걸 좋아하지 않는다."
+ },
  "756d8dfb8f99": {
   "en": "Amelia Tolerideme Whoop-Ass",
   "t": "아멜리아 톨레리데메 훕 애스"
@@ -1666,6 +1926,10 @@
  "7780dfb06944": {
   "en": "Amelia (1036 A.G. Adrian 54th) is the contradiction to the statement “the Yabuca never falls far of the tree.” Despite being the second daughter to Kianna, her demeanor is far closer to the likes of introspects and laid-back people like Alford, to the point some have questioned if Amelia is truly Jimmie’s daughter since there was no way Isabel’s soul got in the mix. The soul paternity test has proven that it’s Jimmie’s and Kianna’s daughter. Still, her apathy to social stuff, specifically high-class ones, makes her the odd one out in the family, but not with her friends, of which she has many, including the one and only Nina Sanbi-Royal.",
   "t": "아멜리아(1036 A.G. 아드리안 54일)는 “야부카는 나무에서 멀리 떨어지지 않는다”는 말의 반례다. 키아나의 둘째 딸인데도 그녀의 태도는 알퍼드처럼 내성적이고 느긋한 사람들에 훨씬 가까워서, 아멜리아가 정말 지미의 딸이 맞냐는 의문을 품는 사람들까지 있다. 이사벨의 영혼이 끼어들었을 리는 없으니까. 영혼 친자 검사로 그녀가 지미와 키아나의 딸이라는 건 증명되었다. 그래도 사교 활동, 특히 상류층의 그것에 무관심한 탓에 가족 안에서는 혼자 튄다. 친구들 사이에서는 아니다. 친구가 많은데, 그중에는 단 하나뿐인 니나 산비 로열도 있다."
+ },
+ "778b66317f4a": {
+  "en": "<strong>Habits:</strong> sticks close to the people she wants to protect, and be protected by; affectionate, she likes physical closeness with the people she trusts.",
+  "t": "<strong>버릇:</strong> 지키고 싶고 또 지켜 줬으면 하는 사람 곁에 바짝 붙어 있다. 정이 많아서 믿는 사람과 몸으로 가까이 있는 걸 좋아한다."
  },
  "778e99a74e84": {
   "en": "Her story starts like her twin <a href=\"#katsuki-flatland-long-blue\">Katsuki</a>'s, but her friendly, spirited nature helped land them both an agent role. That is, until Katsumi truly tasted freedom and decided to flee it all. Now they're locked in a room, hidden from everyone. She hates <a href=\"#arukia-long-bridge\">Arukia</a> and the <a href=\"/lore/factions/#red-winga\">Red Winga</a>, and tries to escape at every chance she gets, but her pessimistic sister shoots it down every time, especially since Katsumi is the one who got them into this situation in the first place.",
@@ -1719,6 +1983,10 @@
   "en": "130 kg",
   "t": "130kg"
  },
+ "7c63dbdf1809": {
+  "en": "64 kg",
+  "t": "64kg"
+ },
  "7cbcb74dfd11": {
   "en": "<strong>Likes and dislikes:</strong> loves experimenting and being in control: from cooking to nari gels, she wants it all. Loves jabbing at <a href=\"#yacamim-sanbi-royal\">Yacamim</a> and <a href=\"#maiara-sanbi-royal\">Maiara</a>, since both are way too free compared to her. Likes wearing a different belt depending on her mood (or pajamas). Hates how her mother keeps suppressing her for the sake of the kingdom: she wants control over her destiny, but isn't sure how to break free like her sisters. Are they even really free of it all? Who knows.",
   "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 실험하고 통제하는 걸 사랑한다. 요리부터 나리 젤까지, 전부 갖고 싶어 한다. <a href=\"#yacamim-sanbi-royal\">야카밍</a>과 <a href=\"#maiara-sanbi-royal\">마이아라</a>를 쿡쿡 찌르는 걸 사랑한다. 둘 다 자기에 비해 너무 자유로우니까. 기분에 따라(또는 잠옷에 따라) 다른 벨트를 차는 걸 좋아한다. 왕국을 위한다며 어머니가 자기를 계속 억누르는 걸 증오한다. 자기 운명을 쥐고 싶지만, 언니들처럼 벗어나는 법을 잘 모른다. 언니들은 정말 그 모든 것에서 자유로울까? 누가 알겠나."
@@ -1730,6 +1998,10 @@
  "7dfe31a8d8ca": {
   "en": "70 kg",
   "t": "70kg"
+ },
+ "7e5cba69d051": {
+  "en": "<strong>Strengths:</strong> innovative; creative; precise; logical; reserved.",
+  "t": "<strong>장점:</strong> 혁신적, 창의적, 정확함, 논리적, 과묵함."
  },
  "7eef0dac109c": {
   "en": "Alford: a stout smiling farmer in a wide straw hat holding a black rooster and a shovel.",
@@ -1767,6 +2039,10 @@
   "en": "The middle child of parents too busy with the younger kids and work to give him attention. A neighborhood friend talked him into stealing something, and he thought it was pretty cool: money for doing basically nothing (other than stealing). He was barely making ends meet when <a href=\"#clodoveu-big-gyut\">Clodoveu</a> got in touch and brought him into the Blue Wozens. One day he crossed paths with <a href=\"#fernan-blood-blue-flower-red-bone\">Fernan</a> and his Black Sapphire colleagues, and tried to steal Fernan's bow. He got his face punched to oblivion and back for it, so he used his memory, and his money, to recreate the bow as closely as he could.",
   "t": "바쁜 부모 밑의 둘째로, 부모는 동생들과 일 때문에 그에게 신경 쓸 틈이 없었다. 동네 친구가 뭔가 훔치자고 꼬드겼는데, 그는 그게 꽤 멋지다고 생각했다. 사실상 아무것도 안 하고(훔치는 것 말고는) 돈이 생기니까. 근근이 먹고살던 차에 <a href=\"#clodoveu-big-gyut\">클로도베우</a>가 연락해 그를 블루 워젠스에 데려왔다. 어느 날 <a href=\"#fernan-blood-blue-flower-red-bone\">페르난</a>과 그의 블랙 사파이어 동료들과 마주쳐 페르난의 활을 훔치려 했다. 그 대가로 얼굴이 저세상까지 갔다 올 만큼 얻어맞았고, 그래서 기억과 돈을 써서 그 활을 최대한 비슷하게 다시 만들었다."
  },
+ "8166e5ac5ffc": {
+  "en": "<strong>Speech:</strong> somewhat like <a href=\"#arukia-long-bridge\">Arukia</a>, but not as abusive: more jokey and friendly.",
+  "t": "<strong>말투:</strong> <a href=\"#arukia-long-bridge\">아루키아</a>와 좀 비슷하지만 그만큼 험하지 않다. 더 장난스럽고 친근하다."
+ },
  "819f9ebd2d52": {
   "en": "<strong>Myers-Briggs:</strong> ESFJ.",
   "t": "<strong>MBTI:</strong> ESFJ."
@@ -1803,6 +2079,10 @@
   "en": "<strong>Habits:</strong> touchy, and she goes for the balls not long after a chat. She likes to milk them.",
   "t": "<strong>버릇:</strong> 스킨십이 많고, 잠깐 대화하고 나면 금세 불알을 노린다. 짜내는 걸 좋아한다."
  },
+ "83f77732a07d": {
+  "en": "<strong>Likes and dislikes:</strong> likes being with her family and doing things together; her wanderlust isn't as strong as Laramy's. Hates seafood, or anything that tastes fishy: it makes her gag profusely.",
+  "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 가족과 함께 뭔가 하는 걸 좋아한다. 방랑벽은 래러미만큼 세지 않다. 해산물, 또는 비린 맛 나는 건 뭐든 싫어한다. 심하게 헛구역질을 한다."
+ },
  "840e89b1304c": {
   "en": "<strong>Speech:</strong> gets nasty-mouthed sometimes, especially when someone strays from her plans; otherwise careless and curt. Somehow, an air of elegance surrounds her curt voice.",
   "t": "<strong>말투:</strong> 가끔 입이 험해진다. 특히 누가 자기 계획에서 벗어날 때. 그 밖엔 무심하고 퉁명스럽다. 그런데 어째서인지 그 퉁명스러운 목소리엔 우아함이 감돈다."
@@ -1810,6 +2090,26 @@
  "8414f06fe0e5": {
   "en": "Kianna: a large woman with brown hair in a puffy pink gown and a tall white hat, hand on her chest.",
   "t": "키아나: 부풀린 분홍 가운에 높은 흰 모자를 쓰고 가슴에 손을 얹은, 갈색 머리의 큰 체구 여성."
+ },
+ "843578ed4dd4": {
+  "en": "<strong>Likes and dislikes:</strong> loves beer and fat poontang.",
+  "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 맥주와 살찐 보지를 사랑한다."
+ },
+ "84863981842b": {
+  "en": "<strong>Flaws:</strong> picky; anxious; boring (to some); too touchy (to some); prying; dwells on the past.",
+  "t": "<strong>단점:</strong> 까다로움, 불안, (누군가에겐) 지루함, (누군가에겐) 지나친 스킨십, 캐묻기, 과거에 머묾."
+ },
+ "84b69794e3dc": {
+  "en": "<strong>Birthday:</strong> 988 A.G. Asa 31st.",
+  "t": "<strong>생일:</strong> 988 A.G. 아사 31일."
+ },
+ "8511fc5713c3": {
+  "en": "She grew up in a family of Domar producers, met <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>, and became his second mate for life the second time he lucked out with his spirit recipes.",
+  "t": "도마르 생산자 집안에서 자라 <a href=\"#jimmie-tolerideme-whoop-ass\">지미</a>를 만났고, 그가 두 번째로 술 레시피로 대박을 쳤을 때 그의 두 번째 평생 짝이 됐다."
+ },
+ "8523dfed9bc0": {
+  "en": "<strong>Flaws:</strong> pushy; gossipy, sounding jovial while she gossips; intrusive.",
+  "t": "<strong>단점:</strong> 밀어붙임, 뒷말을 좋아하고 그럴 땐 유쾌하게 들림, 참견."
  },
  "85a83709bbf5": {
   "en": "<strong>Birthday:</strong> 1032 A.G. Asa 80th.",
@@ -1843,6 +2143,10 @@
   "en": "<strong>Attracted to:</strong> men.",
   "t": "<strong>끌리는 상대:</strong> 남자."
  },
+ "882f0150a86b": {
+  "en": "<strong>Flaws:</strong> intolerant; sometimes speaks her mind a bit too much; flippant; attached and dependent: losing her parents left her depressed for quite a while, since she was so attached to them.",
+  "t": "<strong>단점:</strong> 편협함, 가끔 할 말을 좀 지나치게 함, 경솔함, 집착과 의존: 부모를 잃고 한참 우울했다. 그만큼 부모에게 기대 있었다."
+ },
  "88710ba93e65": {
   "en": "<strong>Strengths:</strong> outgoing; realistic and pragmatic; doesn't care about others, especially gossip and such; a strong, independent lady who doesn't take shit from anyone.",
   "t": "<strong>장점:</strong> 외향적, 현실적이고 실용적, 남들, 특히 뒷소문 같은 데 신경 쓰지 않음, 누구의 헛소리도 받아 주지 않는 강하고 독립적인 여자."
@@ -1866,6 +2170,22 @@
  "89dae16ad2d4": {
   "en": "<strong>Intelligence:</strong> brilliant at everything to do with Soul Energy, especially the soul. But he worries too much about misuse to share his work before it's complete, and besides, he wants to be the first to use it.",
   "t": "<strong>지능:</strong> 영혼 에너지, 특히 영혼에 관한 거라면 뭐든 뛰어나다. 하지만 오용될까 너무 걱정해서 완성 전엔 연구를 공유하지 않는다. 게다가 처음 쓰는 사람이 자기이길 바란다."
+ },
+ "8a12c39572fa": {
+  "en": "<strong>Intelligence:</strong> above average, but she keeps to herself, or finds ways to get things done without making waves.",
+  "t": "<strong>지능:</strong> 평균 이상이지만, 혼자 간직하거나 풍파 없이 일을 해낼 방법을 찾는다."
+ },
+ "8ae2db184d56": {
+  "en": "Born and raised in Forway City to merchant parents, who sometimes took her on their travels; she fell in love with the countryside, especially Tolerideme. She had a knack for Soul Energy and wanted to become an adventurer, but her parents steered her toward becoming a courtroom scientist instead, enrolling her in the Soul Energy school. So she did, with her sights firmly set on moving to Tolerideme, since an opening would eventually come up there. When she arrived, she met a man so focused on farming that she fell in love with his personality: <a href=\"#alford-tolerideme-dirt-lover\">Alford</a>. They never had children, always too busy with farming and enjoying life.",
+  "t": "포웨이 시에서 상인 부모에게서 나고 자랐다. 부모가 가끔 여행에 데려갔는데, 그녀는 시골, 특히 톨레리데메와 사랑에 빠졌다. 영혼 에너지에 재능이 있어 모험가가 되고 싶었지만, 부모는 그녀를 영혼 에너지 학교에 넣어 궁정 과학자 쪽으로 이끌었다. 그래서 그녀는 그 길을 갔고, 언젠가 자리가 날 톨레리데메로 옮겨 가는 데 단단히 눈을 고정했다. 도착해서 농사에 푹 빠진 남자를 만났고, 그 성격에 반했다. <a href=\"#alford-tolerideme-dirt-lover\">알퍼드</a>. 둘은 농사와 인생을 즐기느라 늘 바빠서 아이를 갖지 않았다."
+ },
+ "8b15e7bb0110": {
+  "en": "<strong>Strengths:</strong> faithful; loving; kind; liberal; diplomatic; peaceful; intelligent; agreeable; broad-minded; cuddly; wanderlust.",
+  "t": "<strong>장점:</strong> 성실함, 다정함, 친절함, 개방적, 외교적, 평화로움, 똑똑함, 원만함, 넓은 마음, 살가움, 방랑벽."
+ },
+ "8b4597f2da7a": {
+  "en": "<strong>Speech:</strong> clicks her tongue; sharp, and somewhat rude, putting others down beneath her. Not skilled at conversation.",
+  "t": "<strong>말투:</strong> 혀를 찬다. 날카롭고 좀 무례하며, 남을 자기 아래로 깎아내린다. 대화 솜씨는 없다."
  },
  "8b54aca2a30a": {
   "en": "<strong>Likes and dislikes:</strong> loves working; goal-focused. Despite his tone, he helps those in need, but hates anyone who thinks they can take advantage of him or his family. Loves pies.",
@@ -1891,6 +2211,10 @@
   "en": "<strong>Likes and dislikes:</strong> loves a good joke or comment, with no no-go zone for funny remarks. Dislikes anyone being pushy with her maids, or with anyone else; she likes people to have their freedom. Loves fish and being clean, and fruity sweets, especially crunchy finger cakes or anything like them.",
   "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 좋은 농담이나 한마디를 사랑하고, 웃긴 말엔 금기 구역이 없다. 누구든 하녀들, 또는 다른 누구에게든 강요하는 걸 싫어한다. 사람들이 자유롭길 바란다. 생선과 깨끗한 것, 과일 맛 단것, 특히 바삭한 핑거 케이크나 그 비슷한 걸 사랑한다."
  },
+ "8d0ee7ed97e2": {
+  "en": "<strong>Likes and dislikes:</strong> loves caring for the three children, and helping the business any way she can. Loves Domar recipes and Sanbi fish.",
+  "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 세 아이를 돌보는 것, 그리고 어떻게든 사업을 돕는 걸 사랑한다. 도마르 요리와 산비 생선을 사랑한다."
+ },
  "8d2a196d098e": {
   "en": "<strong>Speech:</strong> straightforward but polite (\"We finished the quest. We celebrated. We all spoke our minds. Now it's time for me to say goodbye.\"), unless he suspects you. Never curses.",
   "t": "<strong>말투:</strong> 직설적이지만 공손하다(“의뢰를 끝냈습니다. 축하했습니다. 다들 하고 싶은 말을 했습니다. 이제 작별할 시간입니다.”). 당신을 의심하지 않는다면. 욕은 절대 안 한다."
@@ -1898,6 +2222,18 @@
  "8e030a4e2e1d": {
   "en": "<strong>Birthday:</strong> 974 A.G. Asa 58th.",
   "t": "<strong>생일:</strong> 974 A.G. 아사 58일."
+ },
+ "8e296785e6e7": {
+  "en": "<a href=\"#kianna-tolerideme-whoop-ass\">Kianna</a> and <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>'s second daughter.",
+  "t": "<a href=\"#kianna-tolerideme-whoop-ass\">키아나</a>와 <a href=\"#jimmie-tolerideme-whoop-ass\">지미</a>의 둘째 딸."
+ },
+ "8e6a23660bd9": {
+  "en": "<strong>Habits:</strong> makes eye contact, and responds with her hands and head; likes to sit back with a drink and discuss the possibilities.",
+  "t": "<strong>버릇:</strong> 눈을 맞추고, 손과 고개로 반응한다. 술 한잔 들고 기대앉아 가능성을 논하길 좋아한다."
+ },
+ "8edabd7473b7": {
+  "en": "<strong>Habits:</strong> knows how to work her way into people's space when she sees them as a mark, and is cunning in how she approaches them; lots of hand movements, eye contact and smiles.",
+  "t": "<strong>버릇:</strong> 누군가를 봉으로 보면 그 사람 공간에 파고드는 법을 알고, 다가가는 방식이 교활하다. 손짓, 눈 맞춤, 미소가 많다."
  },
  "8eeec9e84e70": {
   "en": "That didn't stop people from seeking them out! Their Lonllow recipes were famous for a secret seasoning that brought tart and salty notes into the traditionally sweet Lonllow flavors. Sometimes it caused indigestion, but the exotic flavors, and a particular enthralling high, were so good that people couldn't help themselves and ignored the side effects. No one ever figured out what they did differently, despite many attempts to reproduce the flavor, from analyzing the end product to abducting a family member and forcing them to talk. They weren't big enough for Forway, or anyone else, to take action against, and they were better known among rich folks chasing exotic food than among common people.",
@@ -1962,6 +2298,10 @@
  "91db6dfc4505": {
   "en": "<strong>Strengths:</strong> liberal; pioneering; sympathetic; dynamic; friendly; quick-witted, especially at talking her and her sister out of trouble; positive; stoic.",
   "t": "<strong>장점:</strong> 개방적, 개척자, 공감, 활동적, 친근함, 재치(특히 자기와 동생을 말로 곤경에서 빼낼 때), 긍정적, 의연함."
+ },
+ "92506ad7ccd8": {
+  "en": "<strong>Flaws:</strong> crafty; fixed; calculating; uncharitable; attached to her birthplace, and doesn't like to travel.",
+  "t": "<strong>단점:</strong> 교활함, 고정됨, 계산적, 인색함, 고향에 집착해서 여행을 싫어함."
  },
  "926582abab1a": {
   "en": "<strong>Strengths:</strong> playful; friendly; enthusiastic; fearless, except with his wife; inventive; relaxed; discreet; sympathetic; not stuck in tradition, yet resolute in helping Gandew and its people, even those kicked down the mountain; helpful; communist.",
@@ -2035,6 +2375,10 @@
   "en": "Her abilities weren't quite up to expectations, but her manipulation skills got her through school at the top of her class. Still early in her career, <a href=\"#eiri-sanbi-royal\">Eiri</a> saw her and hired her on the spot as a near-perfect maid for Sanbi: Eiri found and hired her on 1038 A.G. Asa 77th, and on Asa 83rd Arukia stopped at her parents' place to sleep on the way to the Sanbi Kingdom. It turned out to be a bit more complicated than that, but oh well.",
   "t": "능력은 기대에 썩 미치지 못했지만, 조종하는 재주로 학교를 수석으로 마쳤다. 아직 경력이 짧을 때 <a href=\"#eiri-sanbi-royal\">에이리</a>가 그녀를 보고, 산비에 거의 완벽한 하녀라며 그 자리에서 고용했다. 에이리는 1038 A.G. 아사 77일에 그녀를 찾아 고용했고, 아사 83일 아루키아는 산비 왕국으로 가는 길에 부모 집에 들러 하룻밤 잤다. 실제론 그보다 좀 더 복잡했지만, 뭐 어쩌겠나."
  },
+ "971e9245e502": {
+  "en": "<strong>Fascinated by:</strong> handsome boys, or big, imposing ones: fat versions of a prince.",
+  "t": "<strong>푹 빠진 것:</strong> 잘생긴 남자애들, 아니면 크고 위압적인 애들. 뚱뚱한 버전의 왕자님."
+ },
  "975b2400ae76": {
   "en": "<strong>Strengths:</strong> conscientious; empathetic; romantic; willing; independent; a busybody.",
   "t": "<strong>장점:</strong> 성실함, 공감, 로맨틱, 의욕, 독립적, 참견쟁이."
@@ -2043,9 +2387,17 @@
   "en": "Eori Sanbi Royal",
   "t": "에오리 산비 로열"
  },
+ "98ec5de873ef": {
+  "en": "<strong>Attracted to:</strong> money. If there's a large penis attached to the money bag, then sure, whatever.",
+  "t": "<strong>끌리는 상대:</strong> 돈. 돈 자루에 큰 자지가 붙어 있다면, 뭐, 그것도 좋고."
+ },
  "99367992f994": {
   "en": "<strong>Flaws:</strong> intrusive; nosy about the drama; sassy.",
   "t": "<strong>단점:</strong> 참견, 드라마에 대한 오지랖, 당돌함."
+ },
+ "993b33fbb189": {
+  "en": "<strong>Birthday:</strong> 1011 A.G. Adrian 44th.",
+  "t": "<strong>생일:</strong> 1011 A.G. 아드리안 44일."
  },
  "993e995897a5": {
   "en": "<strong>Race:</strong> Wozefaries.",
@@ -2083,6 +2435,10 @@
   "en": "The 9th Pharaoh, and <a href=\"#neferteri-sanbi-royal\">Neferteri</a>'s father.",
   "t": "9대 파라오이자 <a href=\"#neferteri-sanbi-royal\">네페르테리</a>의 아버지."
  },
+ "9b87554f1757": {
+  "en": "<strong>Birthday:</strong> 986 A.G. Paulin 34th.",
+  "t": "<strong>생일:</strong> 986 A.G. 파울린 34일."
+ },
  "9bf8142446c0": {
   "en": "Born in Sanbi on 1017 A.G. Asa 10th and raised there by parents with a Tier III profession: her mother, <a href=\"#coema-sanbi-half-cruro\">Coema</a>, was the King-maid before her. She loved helping in the kitchen and decided to become a chef (1028 A.G.). At school, she took a few off-the-clock \"cooking lessons\" on how to warm up boys' sausages, and one of the boys was an accountant: she fell in love with accounting instead of the boy, and graduated in both (1036 A.G.). Coema knew she would grow into the role of King-maid and gave her a chance as a maid (1036 A.G.). Thanks to her outstanding knowledge, looks and playfulness, Coema promoted her to King-maid on 1038 A.G. Asa 9th, the day before her birthday. On 1038 A.G. Asa 77th, passing through Forway, she found <a href=\"#arukia-long-bridge\">Arukia</a> and hired her at the drop of a hat.",
   "t": "1017 A.G. 아사 10일 산비에서 태어나, III등급 직업을 가진 부모 밑에서 자랐다. 어머니 <a href=\"#coema-sanbi-half-cruro\">코에마</a>가 그녀 이전의 킹 메이드였다. 부엌일 돕는 걸 좋아해서 요리사가 되기로 했다(1028 A.G.). 학교에서 남자애들 소시지 데우는 법에 관한 비공식 ‘요리 수업’을 몇 번 받았는데, 그중 한 남자애가 회계사였다. 그녀는 그 남자애 대신 회계와 사랑에 빠져 두 과정을 모두 졸업했다(1036 A.G.). 코에마는 딸이 킹 메이드 역할에 맞게 자랄 걸 알고 하녀로 기회를 줬다(1036 A.G.). 뛰어난 지식과 외모와 장난기 덕에, 코에마는 생일 전날인 1038 A.G. 아사 9일 그녀를 킹 메이드로 승진시켰다. 1038 A.G. 아사 77일, 포웨이를 지나다 <a href=\"#arukia-long-bridge\">아루키아</a>를 발견하고 그 자리에서 고용했다."
@@ -2102,6 +2458,10 @@
  "9d930e63cf64": {
   "en": "66 kg",
   "t": "66kg"
+ },
+ "9dc3a410ca6a": {
+  "en": "<strong>Intelligence:</strong> emotionally intelligent, but that's about it.",
+  "t": "<strong>지능:</strong> 감성 지능은 있지만, 그게 다다."
  },
  "9e1b945a9bdf": {
   "en": "Laramy (986 A.G. Paulin 34th) is a trader born north of Tolerideme in a village called Broken-tree. However, as soon as he was out of the uterus, he was in a wagon traveling around with his merchant parents. The merchant life led him to make friends across the four kingdoms, with some definitely using that friendship to make one-sided trades against him. He doesn't seem to pay much mind to it as he seems to enjoy that life more for the strong wanderlust he developed rather than purely for money. His wife and daughter also picked up the wanderlust, so you will never see them anywhere for more than a week, even at their physical address, which is just a bedroom at Melada's house—Laramy's cousin.",
@@ -2143,6 +2503,10 @@
   "en": "<strong>Strengths:</strong> intelligent; helpful; disciplined; punctual; hardworking; motivating.",
   "t": "<strong>장점:</strong> 똑똑함, 도움이 됨, 절제, 시간 엄수, 부지런함, 동기 부여."
  },
+ "a115c32b8bb5": {
+  "en": "<strong>Intelligence:</strong> average. Nothing special, other than finding ways to be lazy.",
+  "t": "<strong>지능:</strong> 보통. 게으를 방법을 찾는 것 말곤 특별할 게 없다."
+ },
  "a132d57d10ae": {
   "en": "In the Stinger armor:",
   "t": "스팅어 갑옷을 입었을 때:"
@@ -2166,6 +2530,10 @@
  "a25f5366573f": {
   "en": "Laramy's family portrait for Arc 2: a gray-haired man (marked with an arrow), a pink-haired girl and an orange-haired woman.",
   "t": "아크 2의 래러미 가족사진: 회색 머리 남자(화살표로 표시), 분홍 머리 소녀, 주황 머리 여성."
+ },
+ "a2640c63e4a3": {
+  "en": "<strong>Habits:</strong> keeps her hands to herself, and hides her emotions behind a veil of elegance so no one can peek at her feelings or motives.",
+  "t": "<strong>버릇:</strong> 손을 가만히 두고, 누구도 감정이나 동기를 엿볼 수 없게 우아함의 장막 뒤에 감정을 숨긴다."
  },
  "a2de745206cd": {
   "en": "160 cm",
@@ -2215,6 +2583,14 @@
   "en": "Arukia Sanbi",
   "t": "아루키아 산비"
  },
+ "a5c67f9208a5": {
+  "en": "<strong>Strengths:</strong> incisive; persistent; self-confident, with high self-worth; fearless.",
+  "t": "<strong>장점:</strong> 날카로움, 끈기, 자기 가치를 높이 보는 자신감, 겁 없음."
+ },
+ "a666d29d9a1c": {
+  "en": "<strong>Likes and dislikes:</strong> loves Sand Worm, and even Sayna. Loves fish, but says he hates it to jab at Neferteri.",
+  "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 샌드 웜, 심지어 사이나까지 사랑한다. 생선을 사랑하지만, 네페르테리를 찌르려고 싫어한다고 말한다."
+ },
  "a6bd9717fb01": {
   "en": "<strong>Birthday:</strong> 1021 A.G. Paulin 11th.",
   "t": "<strong>생일:</strong> 1021 A.G. 파울린 11일."
@@ -2222,6 +2598,10 @@
  "a6dd3d82f03d": {
   "en": "176 cm",
   "t": "176cm"
+ },
+ "a6f6e456c18a": {
+  "en": "She grew up in Tolerideme in a family of alcohol makers, and met <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a> along the way, becoming his first mate for life. She's always open to new business opportunities, even bad ones, since she's gullible.",
+  "t": "톨레리데메의 술 빚는 집안에서 자라다 <a href=\"#jimmie-tolerideme-whoop-ass\">지미</a>를 만나 그의 첫 평생 짝이 됐다. 잘 속는 편이라, 나쁜 것까지 포함해 새 사업 기회엔 늘 열려 있다."
  },
  "a77c888b717c": {
   "en": "<strong>Attracted to:</strong> she's voracious. Born male, she keeps using nari gels to maintain her cute, feminine appearance.",
@@ -2242,6 +2622,10 @@
  "a807b4ef392e": {
   "en": "Nailah (1004 A.G. Paulin 28th) is a village girl born to Sundeath parents that fled the desert weather. Not many people have seen or talked to her, but they have seen one of her beautifully intricate wood carvings on display somewhere. To be fair, many people assumed it was a pseudonym for another artist rather than someone living in a village called Rebula—why would such a brilliant artist live so far away from the big city? Her answer to that snob question always has been Rebula is where my heart is!",
   "t": "나일라(1004 A.G. 파울린 28일)는 사막 기후를 피해 도망쳐 나온 선데스 출신 부모에게서 태어난 시골 소녀다. 그녀를 보거나 그녀와 이야기해 본 사람은 많지 않지만, 어딘가에 전시된 그녀의 아름답고 정교한 목각 작품은 본 적이 있다. 솔직히 많은 사람들은 그게 레불라라는 마을에 사는 사람이 아니라 다른 예술가의 가명이라고 생각했다—그렇게 뛰어난 예술가가 왜 대도시에서 그렇게 멀리 떨어져 살겠어? 그 속물적인 질문에 대한 그녀의 대답은 언제나 같았다. 레불라에 내 마음이 있으니까!"
+ },
+ "a80e154188aa": {
+  "en": "<strong>Flaws:</strong> stuck in his ways, like Hades; dogmatic; pretentious; cunning; deceitful; listless.",
+  "t": "<strong>단점:</strong> 하데스처럼 자기 방식에 갇혀 있다. 독단적, 허세, 교활함, 기만적, 무기력."
  },
  "a8b09ac28fb7": {
   "en": "<strong>Birthday:</strong> 1023 A.G. Asa 39th.",
@@ -2266,6 +2650,10 @@
  "a9b40891f43a": {
   "en": "<strong>Myers-Briggs:</strong> INFP.",
   "t": "<strong>MBTI:</strong> INFP."
+ },
+ "a9be0f209647": {
+  "en": "<strong>Intelligence:</strong> average. Nothing special, other than trying to outsmart people, and likely failing.",
+  "t": "<strong>지능:</strong> 보통. 사람들을 속이려 들다가 아마 실패하는 것 말곤 특별할 게 없다."
  },
  "a9f881ac1b59": {
   "en": "He grew up in the nearby villages with strict, hardworking parents, followed in their footsteps and became a woodcutter. He lives in Rebula with <a href=\"#nailah-rebula\">Nailah</a> and their son, <a href=\"#vitor-rebula\">Vitor</a>.",
@@ -2399,6 +2787,14 @@
   "en": "<strong>Likes and dislikes:</strong> hates rich people, the Red Winga and lustful bastards. Likes abusing the nari gels she's given to escape reality.",
   "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 부자, 레드 윙가, 색욕에 찬 놈들을 싫어한다. 현실에서 도망치려고 받은 나리 젤을 남용하는 걸 좋아한다."
  },
+ "b1a5a993c8dc": {
+  "en": "She grew up in Tolerideme and worked various jobs over the years. In 1031 A.G., she had an affair, and a child, with <a href=\"#alford-tolerideme-dirt-lover\">Alford</a>. To keep <a href=\"#luny-tolerideme-dirt-lover\">Luny</a> from finding out, Alford made a deal with <a href=\"#itagiba-sanbi-royal\">Itagiba</a> (and <a href=\"#eiri-sanbi-royal\">Eiri</a>) to get Aurora a job in Sanbi, where she raises her child in secret. Alford visits once in a while for \"business purposes\", both to check on the child and to have fun with Aurora.",
+  "t": "톨레리데메에서 자라 수년간 여러 일을 했다. 1031 A.G., <a href=\"#alford-tolerideme-dirt-lover\">알퍼드</a>와 바람을 피워 아이를 낳았다. <a href=\"#luny-tolerideme-dirt-lover\">루니</a>가 모르도록 알퍼드는 <a href=\"#itagiba-sanbi-royal\">이타지바</a>(와 <a href=\"#eiri-sanbi-royal\">에이리</a>)와 거래를 맺어 오로라에게 산비의 일자리를 구해 줬고, 그녀는 거기서 몰래 아이를 키운다. 알퍼드는 가끔 ‘사업차’ 들른다. 아이를 보러, 그리고 오로라와 즐기러."
+ },
+ "b2a205f60d72": {
+  "en": "<strong>Strengths:</strong> protective; caring; fearless; brave; friendly, but she protects her interests; hardworking; self-aware; perceptive; mature for her age, thanks to her street smarts; doesn't gossip.",
+  "t": "<strong>장점:</strong> 지키려 듦, 배려, 겁 없음, 용감함, 친근하지만 자기 이익은 지킴, 부지런함, 자기 인식, 통찰력, 눈치 덕에 나이보다 성숙함, 뒷말을 안 함."
+ },
  "b2e0901c7ef2": {
   "en": "<strong>Flaws:</strong> intolerant; insensitive; tactless; temperamental; cruel; angry.",
   "t": "<strong>단점:</strong> 편협함, 무신경, 눈치 없음, 변덕, 잔인함, 분노."
@@ -2427,6 +2823,10 @@
   "en": "<strong>Flaws:</strong> reserved; detached; blunt; passive; grim; neurotic; cold.",
   "t": "<strong>단점:</strong> 과묵함, 무심함, 무뚝뚝함, 수동적, 음울함, 신경과민, 차가움."
  },
+ "b463d14c0b8c": {
+  "en": "168 cm",
+  "t": "168cm"
+ },
  "b46eb2e49d59": {
   "en": "Aggressive",
   "t": "공격형"
@@ -2446,6 +2846,10 @@
  "b5248466a770": {
   "en": "<strong>Drawn to:</strong> fatherly figures.",
   "t": "<strong>따르는 상대:</strong> 아버지 같은 사람."
+ },
+ "b548da6de48c": {
+  "en": "<strong>Birthday:</strong> 997 A.G. Moacir 73rd.",
+  "t": "<strong>생일:</strong> 997 A.G. 모아시르 73일."
  },
  "b5719ba8ef06": {
   "en": "<strong>Flaws:</strong> greedy; protective; forgetful.",
@@ -2507,6 +2911,10 @@
   "en": "Vitor (1025 A.G. Asa 2nd) is ready to take Rebula from a random village not even on the map to a city where people would envy to live! He might pull that off one day on spirit alone, but being a homebody and introvert like her mother is not helping him with such an idealistic dream. At least he seems to have inherited both skills from his parents, so maybe it's just a matter of growing up first before tackling his dreams.",
   "t": "비토르(1025 A.G. 아사 2일)는 지도에도 없는 평범한 마을 레불라를 사람들이 살고 싶어 부러워하는 도시로 만들 준비가 되어 있다! 언젠가 의지만으로 해낼지도 모르지만, 엄마처럼 집순이 같은 내향인이라는 건 그런 이상주의적인 꿈에 별 도움이 안 된다. 적어도 부모 양쪽의 재능을 물려받은 것 같으니, 꿈에 도전하기 전에 먼저 자라기만 하면 될 문제인지도 모른다."
  },
+ "b88a403f475f": {
+  "en": "<strong>Birthday:</strong> 1039 A.G. Asa 69th: a newborn during the books.",
+  "t": "<strong>생일:</strong> 1039 A.G. 아사 69일. 책이 진행되는 동안 갓난아기다."
+ },
  "b8b0a1f2e9bf": {
   "en": "<strong>Likes and dislikes:</strong> loves Rakujas, fruit and sweets in general, and never misses a chance to barter.",
   "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 라쿠자, 과일, 단것을 대체로 사랑하고, 흥정할 기회를 절대 놓치지 않는다."
@@ -2567,6 +2975,10 @@
   "en": "<strong>Intelligence:</strong> not the most intelligent, or rather logical, so he trusts his gut a bit too much. That's why he believes eating Hifuna Yabuca can make him more powerful, even though he knows its effects.",
   "t": "<strong>지능:</strong> 그리 똑똑하지 않다. 아니, 논리적이지 않다고 해야 할까. 그래서 직감을 좀 지나치게 믿는다. 그래서 효과를 알면서도 히푸나 야부카를 먹으면 더 강해질 수 있다고 믿는다."
  },
+ "c0335ef009c9": {
+  "en": "<strong>Intelligence:</strong> after many years of travel, he knows the roads like the back of his hand. He knows names and faces like no one else, and has friends all over (at least some who act friendly while sizing him up). He doesn't read people's intentions well. He can read contracts and roughly follow them, unless the language gets very detailed.",
+  "t": "<strong>지능:</strong> 수년간 여행해서 길을 손바닥 보듯 안다. 이름과 얼굴은 누구보다 잘 기억하고, 사방에 친구가 있다(적어도 친한 척하며 그를 재 보는 사람도 좀 있다). 사람의 속셈은 잘 못 읽는다. 계약서는 읽고 대충 따라갈 수 있다. 말이 아주 세세해지지 않는 한."
+ },
  "c05815b04459": {
   "en": "<strong>Likes and dislikes:</strong> loves sweets, playing with people's hair, and helping. Doesn't like being called out on something she should know but forgot, and can burst into tears if people keep prodding her.",
   "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 단것, 사람 머리카락 갖고 놀기, 돕는 걸 좋아한다. 알아야 하는데 까먹은 걸 지적받는 걸 싫어하고, 사람들이 계속 쑤시면 울음을 터뜨릴 수 있다."
@@ -2603,9 +3015,17 @@
   "en": "Posaqui (1023 A.G. Asa 33) is a natural Sanbi, and proud of it. He is known for his grandiose talking, sometimes going on for entire timehunks, especially when people gaslight him to do so. He is an Amethyst adventurer, constantly flashing highly decorated, sparkling weapons that look awfully unused for a supposed adventurer. Perhaps he needs it less because he often talks himself out of combat, or somehow his more diminutive stature allows him to be that extra swift with his weapons—or he illegally subcontracts the work. No one knows for sure, including Forway, after they investigated him for flashing too many new gadgets, makeup, and weapons despite being so picky about the quests he takes. The people that know him assume he dabbles in information trading, given how he's out about traveling non-stop.",
   "t": "포사키(1023 A.G. 아사 33일)는 토박이 산비 사람이고, 그걸 자랑스러워한다. 거창한 말솜씨로 유명해서, 특히 사람들이 부추기면 몇 timehunk 동안이나 떠들어 댄다. 그는 애머시스트 모험가로, 모험가라기엔 수상할 만큼 써 본 적 없어 보이는, 화려하게 장식된 반짝이는 무기를 늘 과시한다. 말로 전투를 피하는 일이 많아서 무기가 덜 필요한 건지, 아니면 작은 체구 덕분에 무기를 유난히 날렵하게 다루는 건지—아니면 일을 불법으로 하청 주는 건지. 받는 의뢰는 그렇게 까다롭게 고르면서 새 장비, 화장품, 무기를 너무 많이 과시한다는 이유로 그를 조사한 포웨이를 포함해서, 아무도 확실히는 모른다. 그를 아는 사람들은 쉬지 않고 돌아다니는 걸 보면 정보 거래에 손을 대고 있을 거라고 짐작한다."
  },
+ "c2bedfef9529": {
+  "en": "<strong>Strengths:</strong> quiet; adaptable; diligent; caring; charming; impartial.",
+  "t": "<strong>장점:</strong> 조용함, 적응력, 성실함, 배려, 매력, 공평함."
+ },
  "c2cffc33d611": {
   "en": "<strong>Race:</strong> human and Darfaries.",
   "t": "<strong>종족:</strong> 인간과 다르파리에스."
+ },
+ "c2e0f4e8d8ea": {
+  "en": "<strong>Speech:</strong> not afraid to talk, but rarely the first to speak: somewhere between her mom and her dad. She doesn't drill people with questions, but asks the ones that bug her point-blank.",
+  "t": "<strong>말투:</strong> 말하는 걸 두려워하진 않지만 먼저 말하는 일은 드물다. 엄마와 아빠 사이쯤. 사람을 질문으로 몰아붙이진 않지만, 신경 쓰이는 건 대놓고 묻는다."
  },
  "c2f395871aa7": {
   "en": "<strong>Birthday:</strong> 1039 A.G. Paulin 14th (he counts it as his birthday, since he doesn't know his real one).",
@@ -2614,6 +3034,10 @@
  "c3b1a57d33ce": {
   "en": "Melada (1007 A.G. Paulin 101th) describes herself as an entrepreneur, always ready to be the first to smell blood in the water of her enemies and strike head first with her knowledge of many industries and her many, many connections through the four kingdoms. Others succinctly describe her as a lying, thieving cunt. Her makeup is as heavy as her jewelry, and she has been in and out of so many guilds, contracts, investigations, and punishments that it placed measurable stress on Forway's bookkeeping on her. She is also known for gambling away a lot, which might be why she is no longer in Forway. She says that's a lie, and she still goes there all the time, but Toleridemians say otherwise, as they now have to put up with all the crap she's trying to pull, including her sister Honati and niece Dalila who has to come to the rescue every now and then.",
   "t": "멜라다(1007 A.G. 파울린 101일)는 자칭 사업가로, 언제나 적의 물에 퍼진 피 냄새를 가장 먼저 맡고 여러 업계에 대한 지식과 네 왕국에 걸친 아주, 아주 많은 인맥을 동원해 정면으로 덤벼들 준비가 되어 있다. 다른 사람들은 그녀를 간단히 거짓말쟁이에 도둑년이라고 묘사한다. 그녀의 화장은 장신구만큼이나 두껍고, 그녀가 들락날락한 길드, 계약, 조사, 처벌이 너무 많아서 포웨이의 장부 관리에 눈에 띄는 부담을 줄 정도였다. 도박으로 많은 돈을 날린 것으로도 유명한데, 아마 그래서 더 이상 포웨이에 있지 않은 걸 거다. 그녀는 그건 거짓말이고 지금도 거기 자주 간다고 하지만, 톨레리데메 사람들의 말은 다르다. 그녀가 벌이려는 온갖 수작을 이제 그들이 참아야 하니까. 가끔 구하러 나서야 하는 여동생 호나티와 조카 달릴라도 포함해서."
+ },
+ "c4180d2346d0": {
+  "en": "<strong>Intelligence:</strong> extremely high when it comes to farming; average to low on everything else.",
+  "t": "<strong>지능:</strong> 농사에 관해서는 엄청나게 높다. 그 밖의 건 보통 이하."
  },
  "c418385dd11f": {
   "en": "<strong>Strengths:</strong> flexible; cat-like reflexes, for a Buhraies; simple-minded; quiet; uncomplaining; capable; a survivor; sensitive; shy.",
@@ -2627,9 +3051,21 @@
   "en": "<strong>Intelligence:</strong> knows a great deal about the intricacies of the law, and always tries to learn more. The same can't be said for street smarts, or for reading the thoughts behind people's words.",
   "t": "<strong>지능:</strong> 법의 세세한 부분을 아주 잘 알고, 늘 더 배우려 한다. 눈치나 말 뒤의 생각을 읽는 능력은 그렇지 못하다."
  },
+ "c46e27ecddaa": {
+  "en": "<strong>Birthday:</strong> 1034 A.G. Adrian 34th.",
+  "t": "<strong>생일:</strong> 1034 A.G. 아드리안 34일."
+ },
+ "c47a6d3a33b7": {
+  "en": "<strong>Drawn to:</strong> dependable father figures.",
+  "t": "<strong>따르는 상대:</strong> 의지할 수 있는 아버지 같은 사람."
+ },
  "c4bc73cf6a40": {
   "en": "<strong>Intelligence:</strong> very smart and systematic in her nari gel experiments, but she needs a catalyst to push her mind and will forward, or she stalls and barely progresses. She can cook like no other and likes it, but Neferteri suppressed that, since a princess shouldn't be making food; having others cook for her became natural. So having <a href=\"#harry-sanbi\">Harry</a> under her control, doing everything to please her (he did the cooking in the lab), was very enticing to her narcissistic brain. She needs an outlet for her creativity.",
   "t": "<strong>지능:</strong> 나리 젤 실험에서는 아주 영리하고 체계적이지만, 생각과 의지를 앞으로 밀어 줄 촉매가 필요하다. 아니면 멈춰서 거의 진전이 없다. 누구보다 요리를 잘하고 좋아하지만, 공주가 음식을 만들어선 안 된다며 네페르테리가 억눌러서, 남이 요리해 주는 게 자연스러워졌다. 그래서 자기 통제 아래서 자기를 기쁘게 하려고 뭐든 하는(연구실에서 요리를 맡았다) <a href=\"#harry-sanbi\">해리</a>는 그녀의 나르시시스트 두뇌에 아주 매혹적이었다. 그녀에겐 창의력을 쏟을 데가 필요하다."
+ },
+ "c4f8aaebcf9d": {
+  "en": "Born and raised in Broken-Tree, in a family of friendly traveling merchants, he spent his life on the road, and met <a href=\"#honati-broken-tree\">Honati</a> later in life, in Forway.",
+  "t": "브로큰 트리에서 친절한 행상인 집안에 나고 자라 평생을 길 위에서 보냈고, 나중에 포웨이에서 <a href=\"#honati-broken-tree\">호나티</a>를 만났다."
  },
  "c547dab994fc": {
   "en": "<strong>Flaws:</strong> distrustful, putting up a barrier with people she doesn't know; immature, especially emotionally; secretive; cold, for the same reasons; hangry, especially after a bad night's sleep.",
@@ -2679,6 +3115,10 @@
   "en": "<strong>Flaws:</strong> stoic; uncaring; lazy; dependent on Steen: he loves the stuff too much and chews it all day long.",
   "t": "<strong>단점:</strong> 무덤덤함, 무심함, 게으름, 스틴 의존: 너무 좋아해서 하루 종일 씹는다."
  },
+ "c82d3b6027e7": {
+  "en": "<strong>Habits:</strong> either doing something farming-related or completely laid back, with no in-between; clears his throat a lot.",
+  "t": "<strong>버릇:</strong> 농사 관련 일을 하거나 완전히 늘어져 있거나, 중간이 없다. 헛기침을 많이 한다."
+ },
  "c83ab3969ab9": {
   "en": "<strong>Habits:</strong> aggressive movements; looks people in the eye with certainty, or away in disgust. When her sister is in the room, she seems put in her place; when she isn't, Maiara tries to be more visible, and more like her sister, but it never quite works, since it always seems forced.",
   "t": "<strong>버릇:</strong> 공격적인 몸놀림. 확신에 차서 사람 눈을 보거나, 혐오스럽게 시선을 돌린다. 언니가 방에 있으면 기가 죽어 보이고, 없으면 더 눈에 띄려고, 더 언니처럼 되려고 하지만, 늘 억지스러워 보여서 잘 안 된다."
@@ -2718,6 +3158,10 @@
  "ca676986aa25": {
   "en": "Lofinghy Sanbi Forway Aquamarine-General",
   "t": "로핑히 산비 포웨이 아쿠아마린 제너럴"
+ },
+ "ca760fece128": {
+  "en": "<strong>Attracted to:</strong> money, and powerful men.",
+  "t": "<strong>끌리는 상대:</strong> 돈, 그리고 힘 있는 남자."
  },
  "cb58b3e048c2": {
   "en": "Born in Crossroads as Maicon Crossroads Black-Dove (he updated his badge to Forway Black-Dove as an adult), he grew up among the city's elite and their way of life, and now tries to raise his status and wealth by any means possible. He's infamous at the <a href=\"/lore/factions/#red-winga\">Red Winga</a> as a \"twink\" kind of guy. They hate his guts, but every time he surfaces he has new information on someone, so he's quite useful.",
@@ -2775,6 +3219,10 @@
   "en": "<strong>Birthday:</strong> 1012 A.G. Asa 24th.",
   "t": "<strong>생일:</strong> 1012 A.G. 아사 24일."
  },
+ "cf8370f5f219": {
+  "en": "<strong>Intelligence:</strong> quite smart with Soul Energy interfaces, and she has picked up some farming knowledge from Alford by osmosis.",
+  "t": "<strong>지능:</strong> 영혼 에너지 인터페이스에 꽤 영리하고, 알퍼드에게서 어깨너머로 농사 지식도 좀 익혔다."
+ },
  "cfb51346348d": {
   "en": "20 (soul capacity: 1)",
   "t": "20(영혼 용량: 1)"
@@ -2782,6 +3230,10 @@
  "cfdf56c937e9": {
   "en": "<strong>Kiko (1018 A.G. Adrian 37th)</strong> is an entrepreneur known for founding the Half-cruro and bringing it from nothing into one of the biggest, at least in terms of raw size, guilds in the Sanbi kingdom. Some have accused his guild contracts of violating The Prosperity Treaty Section #4 Sub 1 &amp; 3 for making the contract lopsided in benefitting the guild. However, Forway officials have stated that the fact it grants a pathway for Cruros to flee the tribes and become proper kingdom citizens is a fair exchange for lifelong servitude at cheap rates.",
   "t": "<strong>키코(1018 A.G. 아드리안 37일)</strong>는 하프 크루로 길드를 세우고 그것을 무에서부터 적어도 순수한 규모로는 산비 왕국에서 가장 큰 길드 중 하나로 키운 것으로 유명한 사업가다. 어떤 이들은 그의 길드 계약이 길드에게 일방적으로 유리하게 짜여 있어 《번영 조약》 제4조 제1항과 제3항을 위반한다고 비난했다. 하지만 포웨이 관리들은 그 계약이 크루로가 부족에서 벗어나 정식 왕국 시민이 될 길을 열어 주니, 값싼 평생 노역과 맞바꾸기에 공정하다고 밝혔다."
+ },
+ "d01c0b96ac95": {
+  "en": "<strong>Intelligence:</strong> street smarts; she can haggle like nobody else, and knows a lot about the world from traveling with her parents.",
+  "t": "<strong>지능:</strong> 눈치가 있다. 누구보다 흥정을 잘하고, 부모와 여행하며 세상을 많이 알았다."
  },
  "d03383d21af7": {
   "en": "Her parents came from Sundeath and ended up in a village nearby. She married a man from a local village too, <a href=\"#severino-rebula\">Severino</a>, and they had a son, <a href=\"#vitor-rebula\">Vitor</a>. Life is simple, but good.",
@@ -2831,6 +3283,10 @@
   "en": "<strong>Attracted to:</strong> Darfaries women, especially younger ones.",
   "t": "<strong>끌리는 상대:</strong> 다르파리에스 여자, 특히 젊은 여자."
  },
+ "d2ca384f04a7": {
+  "en": "<strong>Attracted to:</strong> gentle older men.",
+  "t": "<strong>끌리는 상대:</strong> 다정한 연상 남자."
+ },
  "d3251eba2155": {
   "en": "<strong>Race:</strong> Cruro.",
   "t": "<strong>종족:</strong> 크루로."
@@ -2850,6 +3306,10 @@
  "d35973ca155c": {
   "en": "<strong>Strengths:</strong> active, always on to the next item on her endless to-do list; honest; energetic; sporting; self-confident; witty; skillful; well-rounded; somewhat mature about her feelings, but too self-indulgent.",
   "t": "<strong>장점:</strong> 활동적, 끝없는 할 일 목록의 다음 항목으로 늘 넘어감, 정직함, 활력, 스포츠맨십, 자신감, 재치, 솜씨, 다재다능, 감정에 대해선 어느 정도 성숙하지만 너무 제멋대로."
+ },
+ "d37ecd011c94": {
+  "en": "<strong>Habits:</strong> touchy, especially with people she thinks need help.",
+  "t": "<strong>버릇:</strong> 스킨십이 많다. 특히 도움이 필요하다고 생각하는 사람에게."
  },
  "d3891ec6db4f": {
   "en": "<strong>Attracted to:</strong> Darfaries men: strong, resolute and powerful.",
@@ -2915,6 +3375,10 @@
   "en": "<strong>Intelligence:</strong> keenly aware of the history of the Gandew Kingdom and its citizens. Nothing else matters to her.",
   "t": "<strong>지능:</strong> 간듀 왕국과 그 시민의 역사를 예리하게 안다. 그 밖의 건 그녀에게 중요하지 않다."
  },
+ "d8784843c906": {
+  "en": "<strong>Birthday:</strong> 997 A.G. Asa 64th.",
+  "t": "<strong>생일:</strong> 997 A.G. 아사 64일."
+ },
  "d88cbce8a3a5": {
   "en": "<strong>Birthday:</strong> 1029 A.G. Paulin 7th.",
   "t": "<strong>생일:</strong> 1029 A.G. 파울린 7일."
@@ -2927,6 +3391,10 @@
   "en": "<strong>Attracted to:</strong> humans: charming, jovial and dependent, who care about her more than anyone else.",
   "t": "<strong>끌리는 상대:</strong> 인간. 매력 있고 쾌활하고 의지할 수 있는, 누구보다 자기를 아끼는 사람."
  },
+ "d9556cb6adfd": {
+  "en": "<strong>Fascinated by:</strong> big women (starting with his mother's milk).",
+  "t": "<strong>푹 빠진 것:</strong> 큰 여자(엄마 젖에서 시작해서)."
+ },
  "da47d2e6534d": {
   "en": "Ryo Flatland Long-Blue",
   "t": "료 플랫랜드 롱 블루"
@@ -2934,6 +3402,14 @@
  "da52efd04974": {
   "en": "Jonem: a boy with short blue hair in a long gray-green cloak.",
   "t": "조넴: 짧은 파란 머리에 긴 회녹색 망토를 입은 소년."
+ },
+ "da618e3d258e": {
+  "en": "<strong>Intelligence:</strong> not as smart as she seems, especially in math-heavy deals. She can bend people to her will, but her lack of foresight means she can be played like a fiddle; she thinks too highly of herself.",
+  "t": "<strong>지능:</strong> 보이는 것만큼 영리하지 않다. 특히 계산이 많은 거래에서. 사람을 자기 뜻대로 구부릴 순 있지만, 앞을 내다보지 못해서 손바닥 위에서 놀아날 수 있다. 자기를 너무 높이 본다."
+ },
+ "da8bfb6f0116": {
+  "en": "<strong>Flaws:</strong> secretive and fake: she seems caring, but isn't; no foresight, only short-term goals; grumpy behind closed doors when her mascara isn't on; a gambler; greedy; lazy; narcissistic; ruthless; uncaring; extravagant; manipulative; cunning; calculating; dishonest; disloyal.",
+  "t": "<strong>단점:</strong> 비밀스럽고 가짜다. 배려하는 척하지만 아니다. 앞을 못 보고 단기 목표만 본다. 마스카라를 안 했을 땐 문 닫힌 곳에서 투덜거린다. 도박꾼, 탐욕, 게으름, 나르시시스트, 무자비, 무심함, 사치, 조종, 교활함, 계산적, 부정직, 불충."
  },
  "dad7a8452b79": {
   "en": "<strong>Intelligence:</strong> very good at seeing every possible outcome from what she knows, and even the second-best options, so no chance goes unused. She'll fight with all her strength for what she wants.",
@@ -3107,6 +3583,10 @@
   "en": "<strong>Flaws:</strong> abrasive; arrogant; boastful; self-indulgent; temperamental; not detail-oriented; truculent.",
   "t": "<strong>단점:</strong> 거슬림, 오만, 허세, 제멋대로, 변덕, 세부에 약함, 호전적."
  },
+ "e4d217cac809": {
+  "en": "<strong>Birthday:</strong> 1007 A.G. Paulin 101st.",
+  "t": "<strong>생일:</strong> 1007 A.G. 파울린 101일."
+ },
  "e4f5bb453099": {
   "en": "<strong>Likes and dislikes:</strong> loves a fight, or any competition, but only when there's an interesting fight to be had. Hates anyone who gets in her way, and having to deal with pathetic pussies. Likes strong drinks.",
   "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 싸움, 또는 어떤 경쟁이든 사랑한다. 단, 재미있는 싸움이 될 때만. 앞길을 막는 자, 그리고 한심한 겁쟁이들을 상대해야 하는 걸 싫어한다. 독한 술을 좋아한다."
@@ -3122,6 +3602,10 @@
  "e5740988e7d2": {
   "en": "<strong>Habits:</strong> writes while others talk, and waves his notebook around for attention if nobody is \"listening\" to him.",
   "t": "<strong>버릇:</strong> 남들이 말할 때 글을 쓰고, 아무도 자기 말을 ‘듣지’ 않으면 관심을 끌려고 공책을 흔든다."
+ },
+ "e58f949fbd1e": {
+  "en": "<strong>Likes and dislikes:</strong> anything he hasn't tasted or drunk before is an immediate yes. Loves meeting people; hates arguments and fights.",
+  "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 처음 먹거나 마셔 보는 건 뭐든 즉시 좋다. 사람 만나는 걸 사랑하고, 말다툼과 싸움을 싫어한다."
  },
  "e5d461104cf8": {
   "en": "<strong>Binaata</strong> is his full name; Biny is a nickname. Born in Forway to parents who lived paycheck to paycheck, he had to start working early and figure out what he wanted to do with his life. He never felt adventuring was his thing, so he worked his ass off at a desk job doing grunt work in the black castle. He saved enough to open a guild that takes on adventurers and invests in them, in exchange for 30% of every quest they do, with at least 2 quests a week (exceptions depend on the quest and its payout). He can advise on what quests a given adventurer should or can take, or even give insider tips on the best quests about to become available.",
@@ -3211,6 +3695,10 @@
   "en": "Bagarisa",
   "t": "바가리사"
  },
+ "ebd4393b8521": {
+  "en": "<strong>Birthday:</strong> 1027 A.G. Asa 17th.",
+  "t": "<strong>생일:</strong> 1027 A.G. 아사 17일."
+ },
  "ec2a2d29b90d": {
   "en": "<strong>Attracted to:</strong> a muscly man who can go mano a mano with her and keep up with her pace.",
   "t": "<strong>끌리는 상대:</strong> 자기와 맞짱 뜨며 자기 페이스를 따라올 수 있는 근육질 남자."
@@ -3243,6 +3731,10 @@
   "en": "Sanbi Villages",
   "t": "산비 마을"
  },
+ "ef1a695aebc0": {
+  "en": "<strong>Speech:</strong> loving, and she likes to talk, often reminiscing out loud. She gets a bit too chatty at times and can irritate some people, though she means well, but she usually notices and saves the situation by changing the subject or softening her words so the other person gets less defensive or snappy.",
+  "t": "<strong>말투:</strong> 다정하고, 말하길 좋아하며, 자주 소리 내 추억한다. 가끔 좀 수다스러워서 몇몇 사람을 짜증 나게 할 수 있지만 악의는 없다. 보통은 알아채고 화제를 바꾸거나 말을 누그러뜨려 상대가 덜 방어적이 되게 상황을 수습한다."
+ },
  "ef2c7c7548de": {
   "en": "<strong>Intelligence:</strong> smart enough, but her narrow-minded drive to be her sister is slowly chipping away at her sanity and her sense of self.",
   "t": "<strong>지능:</strong> 충분히 영리하지만, 언니가 되려는 편협한 집착이 그녀의 정신과 자아를 조금씩 갉아먹고 있다."
@@ -3258,6 +3750,10 @@
  "ef5062215353": {
   "en": "<strong>Strengths:</strong> helpful; active; productive; passionate; stern; empathetic; encouraging; idealistic; stoic; valiant; a sense of justice.",
   "t": "<strong>장점:</strong> 도움이 됨, 활동적, 생산적, 열정, 엄격함, 공감, 격려, 이상주의, 의연함, 용맹, 정의감."
+ },
+ "ef515c524367": {
+  "en": "<strong>Attracted to:</strong> her brother Gamal, since he's what feeds her Soul Energy.",
+  "t": "<strong>끌리는 상대:</strong> 오빠 가말. 그가 그녀의 영혼 에너지를 채워 주니까."
  },
  "ef63828f1e05": {
   "en": "151 cm",
@@ -3291,6 +3787,14 @@
   "en": "He plunged into a life of crime, and one day found a Walking Heart stone that melded with him perfectly. He didn't know the extent of its effects, though, and it has permanently changed him. With no going back, he kept expanding the Blue Wozens to hoard more shit, while trying to control his bursts of anger so the stone doesn't take him over completely. He has since lost track of why he founded the Blue Wozens in the first place.",
   "t": "그는 범죄의 삶에 뛰어들었고, 어느 날 자기와 완벽하게 융합하는 워킹 하트석을 찾았다. 하지만 그 효과가 어디까지인지 몰랐고, 돌은 그를 영원히 바꿔 놓았다. 돌아갈 길이 없자 그는 블루 워젠스를 계속 키우며 더 많은 걸 긁어모았고, 돌이 자기를 완전히 집어삼키지 않도록 분노의 폭발을 다스리려 애썼다. 그 사이 애초에 왜 블루 워젠스를 세웠는지는 잊어버렸다."
  },
+ "f1c6bcc42788": {
+  "en": "<strong>Strengths:</strong> enthusiastic; enterprising; versatile; amicable; knowledgeable; imaginative; fussy about his farming, to a fault.",
+  "t": "<strong>장점:</strong> 열정, 진취적, 다재다능, 상냥함, 박식함, 상상력, 농사에 지나칠 만큼 까다로움."
+ },
+ "f1de39a9b029": {
+  "en": "<strong>Flaws:</strong> shy about relationships; lazy about everything else; narrow-minded.",
+  "t": "<strong>단점:</strong> 관계에 수줍음, 그 밖의 일엔 게으름, 편협함."
+ },
  "f1fc2ab2323e": {
   "en": "<strong>Strengths:</strong> open-minded about deals; a listener; fair; daring; unassuming; uncomplaining; versatile; respectable; a negotiator; level-headed.",
   "t": "<strong>장점:</strong> 거래엔 열린 마음, 잘 들음, 공정함, 대담함, 겸손함, 불평 없음, 다재다능, 존경할 만함, 협상가, 침착함."
@@ -3298,6 +3802,10 @@
  "f32c3c90affb": {
   "en": "<strong>Habits:</strong> keeps her gloves on most of the time, but takes them off when dealing with people, especially to help them. Anxious: she wants to care for people, first and foremost, and may bite her nails when too many thoughts cloud her mind, one of the reasons she wears gloves. Her body hints at her emotions like an open book. Remembers things at odd times. Phantasia. Imitates some of the people she's close to.",
   "t": "<strong>버릇:</strong> 대부분 장갑을 끼고 있지만, 사람을 대할 땐, 특히 도울 땐 벗는다. 불안해한다. 무엇보다 사람을 돌보고 싶어 하고, 생각이 너무 많아 머리가 흐려지면 손톱을 물어뜯기도 하는데, 장갑을 끼는 이유 중 하나다. 몸이 펼친 책처럼 감정을 드러낸다. 엉뚱한 때에 뭔가를 떠올린다. 심상이 선명하다. 가까운 사람들의 몇몇 버릇을 따라 한다."
+ },
+ "f32d74573386": {
+  "en": "<strong>Likes and dislikes:</strong> loves food of all kinds and shapes; she'd eat her weight every day if she could. Dislikes people who try to take advantage of her, or of the people around her, and hates losing trust in someone she once trusted.",
+  "t": "<strong>좋아하는 것과 싫어하는 것:</strong> 온갖 종류와 모양의 음식을 사랑한다. 할 수만 있다면 매일 자기 몸무게만큼 먹을 것이다. 자기나 주변 사람을 이용하려는 사람을 싫어하고, 한때 믿었던 사람에 대한 믿음을 잃는 걸 증오한다."
  },
  "f385babd2d0c": {
   "en": "He once wore a Sweet Sting costume to gather Black Honey, and it felt so empowering that he saved for about a year and a half to have a unique, chitin-looking armor made, which makes up for his slow reflexes and hides his face. People are trying to figure out who this crazy warrior is, and nobody knows it's Morika: in the armor, he becomes another persona, <a href=\"#the-stinger\">The Stinger</a>.",
@@ -3323,6 +3831,10 @@
   "en": "<strong>Strengths:</strong> persuasive; charming; beautiful; girly; trustworthy; energetic.",
   "t": "<strong>장점:</strong> 설득력, 매력, 아름다움, 소녀다움, 믿음직함, 활력."
  },
+ "f4ef07e38aad": {
+  "en": "<strong>Speech:</strong> \"My mother is…\": she makes up for her age by flaunting everything her parents do.",
+  "t": "<strong>말투:</strong> “우리 엄마는…”: 어린 나이를 메우려고 부모가 하는 건 뭐든 자랑한다."
+ },
  "f4f0bdaceeac": {
   "en": "<strong>Intelligence:</strong> many years of experience in cooking, and in life in general; life has taught him to recognize the good and bad in people.",
   "t": "<strong>지능:</strong> 요리 경력이 오래됐고, 인생 경험도 많다. 인생이 그에게 사람의 좋은 점과 나쁜 점을 알아보는 법을 가르쳤다."
@@ -3330,6 +3842,10 @@
  "f4f81377f19a": {
   "en": "Arc 2 inset",
   "t": "아크 2 삽입 그림"
+ },
+ "f50ad85c2c18": {
+  "en": "<strong>Flaws:</strong> opinionated; jealous; bossy; blunt.",
+  "t": "<strong>단점:</strong> 고집, 질투, 우두머리 행세, 무뚝뚝함."
  },
  "f53b0fda280e": {
   "en": "<strong>Flaws:</strong> lustful; secretive; passive with his wife; too self-conscious at times, especially about keeping his secrets from leaking.",
@@ -3431,9 +3947,17 @@
   "en": "Katsuki Flatland Long-Blue",
   "t": "가쓰키 플랫랜드 롱 블루"
  },
+ "fc8f4ee78485": {
+  "en": "<strong>Attracted to:</strong> faithful, loving men who are kind by nature: more than just looks.",
+  "t": "<strong>끌리는 상대:</strong> 외모만이 아니라, 천성이 다정하고 성실하고 사랑이 많은 남자."
+ },
  "fc9d370c6604": {
   "en": "Laura: a woman with dark green hair in a long red dress with white trim, holding a small trinket.",
   "t": "로라: 흰 테두리가 있는 긴 빨간 드레스를 입고 작은 장신구를 든 짙은 초록 머리 여성."
+ },
+ "fcae9f902a85": {
+  "en": "<strong>Strengths:</strong> straight to the point; decisive; daring; likes to have everything in hand, or nearby.",
+  "t": "<strong>장점:</strong> 곧장 요점으로, 결단력, 대담함, 모든 걸 손에 쥐거나 가까이 두길 좋아함."
  },
  "fcb609cb62e8": {
   "en": "<strong>Habits:</strong> smiles; friendly, but reserved with physical contact; some of <a href=\"#neferteri-sanbi-royal\">Neferteri</a>'s elegance, but warmer and more sincere. Her eyes wander as her brain works out the bigger picture.",
@@ -3462,6 +3986,10 @@
  "fe3ae2010ce0": {
   "en": "Nina Sanbi Royal",
   "t": "니나 산비 로열"
+ },
+ "fe5abbdd1aee": {
+  "en": "<strong>Strengths:</strong> a bit more ambitious than Laramy; playful; loyal; loving; intuitive; straightforward; enthusiastic; quick on her feet, rolling with the punches; a bit of wanderlust.",
+  "t": "<strong>장점:</strong> 래러미보다 좀 더 야심, 장난기, 충성, 다정함, 직관, 솔직함, 열정, 순발력 있게 닥치는 대로 버팀, 약간의 방랑벽."
  },
  "fe69c9a5c32d": {
   "en": "Katsumi: two outfits of a smiling woman with short purple hair, a red top and skirt and a purple-and-white kimono-style dress.",
