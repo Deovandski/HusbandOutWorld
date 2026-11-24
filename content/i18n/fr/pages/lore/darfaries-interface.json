@@ -31,6 +31,10 @@
   "en": "Shock VERB",
   "t": "Shock VERB"
  },
+ "0f47dfa46a4f": {
+  "en": "<strong>Increase/Decrease</strong> and <strong>Restore/Disassemble:</strong> behave like Create/Destroy.",
+  "t": "<strong>Increase/Decrease</strong> et <strong>Restore/Disassemble :</strong> se comportent comme Create/Destroy."
+ },
  "10668848ecf1": {
   "en": "Gold → Mercury",
   "t": "Or → Mercure"
@@ -107,9 +111,17 @@
   "en": "Ice VERB",
   "t": "Ice VERB"
  },
+ "2a0404ceb303": {
+  "en": "The elemental verbs, with water.",
+  "t": "Les verbes élémentaires, avec l'eau."
+ },
  "2ca369f05b2d": {
   "en": "Nari sticks (nari stones chained together) fuel the spell. A single-use nari stick is spent in one cast, and they aren't cheap.",
   "t": "Les bâtons nari (des pierres nari enchaînées) alimentent le sort. Un bâton nari à usage unique se consume en un seul lancer, et ils ne sont pas donnés."
+ },
+ "2d68de584b52": {
+  "en": "The elemental verbs, with lava.",
+  "t": "Les verbes élémentaires, avec la lave."
  },
  "2dba29a226b6": {
   "en": "<strong>Destroy:</strong> tries to destroy the target's whole body. At low tiers it only causes internal or external bleeding; medium tiers can cause convulsions; high tiers cause an explosion.",
@@ -158,6 +170,10 @@
  "3a54978fb627": {
   "en": "Platinum → Gold",
   "t": "Platine → Or"
+ },
+ "3b226566c89d": {
+  "en": "The elemental verbs, with earth.",
+  "t": "Les verbes élémentaires, avec la terre."
  },
  "3c410b0a889e": {
   "en": "Dust VERB",
@@ -254,6 +270,10 @@
  "5255c62e691b": {
   "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Darfaries shells appear as you do. With a sigil ring:",
   "t": "<strong>Démarre le sort.</strong> Serre les doigts de la main qui tient le sort et l'énergie de l'âme. Les coques Darfaries apparaissent au même moment. Avec une bague à sceau :"
+ },
+ "5266e81985c6": {
+  "en": "The elemental verbs, with steam.",
+  "t": "Les verbes élémentaires, avec la vapeur."
  },
  "528b9fb4db2c": {
   "en": "<strong>Increase/Decrease:</strong> the whole body grows or shrinks.",
@@ -395,6 +415,10 @@
   "en": "Ash VERB",
   "t": "Ash VERB"
  },
+ "71812d5fae7a": {
+  "en": "Works like Gravity VERB. Gabiro improved it when he helped shape the new Darfaries Interface standard; the new sigil standard he was the centerpiece of lowered the cast failure rate, especially for Water Gravity, making fanchakis mature nearly twice as fast (Vol 3).",
+  "t": "Fonctionne comme Gravity VERB. Gabiro l'a amélioré quand il a aidé à définir la nouvelle norme de l'interface Darfaries ; la nouvelle norme des sceaux, dont il était la pièce maîtresse, a fait baisser le taux d'échec des lancers, surtout pour Water Gravity, ce qui fait mûrir les fanchakis presque deux fois plus vite (Tome 3)."
+ },
  "724c8389bd95": {
   "en": "Steam VERB",
   "t": "Steam VERB"
@@ -415,6 +439,10 @@
   "en": "Storm VERB",
   "t": "Storm VERB"
  },
+ "77947875b9a0": {
+  "en": "The elemental verbs, with wind. Its ball is more elongated than anything.",
+  "t": "Les verbes élémentaires, avec le vent. Sa boule est plus allongée qu'autre chose."
+ },
  "7802ad32f0ce": {
   "en": "Verbs",
   "t": "Verbes"
@@ -422,6 +450,10 @@
  "78c2d1c75d87": {
   "en": "Either way, a miscast explodes in soul flame in the caster's hands.",
   "t": "Dans les deux cas, un lancer raté explose en flamme de l'âme dans les mains du lanceur."
+ },
+ "7a513f3d316a": {
+  "en": "The elemental verbs, with storm.",
+  "t": "Les verbes élémentaires, avec la tempête."
  },
  "7a91c4983d68": {
   "en": "World VERB",
@@ -435,6 +467,10 @@
   "en": "Transmute",
   "t": "Transmute"
  },
+ "7d9145978885": {
+  "en": "The elemental verbs, with shock.",
+  "t": "Les verbes élémentaires, avec le choc."
+ },
  "7df913eb7771": {
   "en": "Ring #2: 8",
   "t": "Anneau #2 : 8"
@@ -446,6 +482,10 @@
  "83a077984fe7": {
   "en": "The Buhraies created this interface as an enhancement to their own soul energy interface, in an attempt to control the Darfaries as a versatile army of foot soldiers.",
   "t": "Les Buhraies ont créé cette interface pour améliorer leur propre interface d'énergie de l'âme, dans le but de contrôler les Darfaries comme une armée polyvalente de fantassins."
+ },
+ "83b7155e04f6": {
+  "en": "The elemental verbs, with mud.",
+  "t": "Les verbes élémentaires, avec la boue."
  },
  "840823ff59c1": {
   "en": "<strong>Restore:</strong> shapes the item into the desired object by combining elements around the caster, basically the reverse of chemical reactions. Have the elements it's made of nearby to improve the odds; otherwise the repaired object may break again if the new connections aren't strong.",
@@ -466,6 +506,14 @@
  "8a4a4532c533": {
   "en": "<strong>Apply the energy.</strong> Touch what you want to apply it to with your palm and straighten your fingers, or release the spell as it is for a ranged attack. Cock your arm and time it right for extra range. The caster's body feels the weight of the spell, like firing a gun.",
   "t": "<strong>Applique l'énergie.</strong> Touche avec ta paume ce sur quoi tu veux l'appliquer et tends les doigts, ou relâche le sort tel quel pour une attaque à distance. Arme ton bras et choisis bien ton moment pour plus de portée. Le corps du lanceur ressent le poids du sort, comme quand on tire avec une arme à feu."
+ },
+ "8a9201f37e41": {
+  "en": "<strong>Create/Destroy:</strong> Create makes a ball of the element for a ranged attack; Destroy turns the target's element back into virtual particles. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Create/Destroy :</strong> Create crée une boule de l'élément pour une attaque à distance ; Destroy ramène l'élément de la cible à l'état de particules virtuelles. Sans cible, la flamme de l'âme s'évapore simplement."
+ },
+ "8c04c55d7685": {
+  "en": "The elemental verbs, with dust.",
+  "t": "Les verbes élémentaires, avec la poussière."
  },
  "8ca6193582e9": {
   "en": "Water VERB",
@@ -615,13 +663,25 @@
   "en": "<strong>Repel/Attract:</strong> the target repels or attracts the element. With no target, the soul flame simply evaporates.",
   "t": "<strong>Repel/Attract :</strong> la cible repousse ou attire l'élément. Sans cible, la flamme de l'âme s'évapore simplement."
  },
+ "c7e54ecd4ad8": {
+  "en": "The ball's size follows the General Power Effects: 0.1 cm at Tier I, doubling with every tier (51.2 cm at Tier X).",
+  "t": "La taille de la boule suit les General Power Effects : 0,1 cm au Niveau I, doublée à chaque niveau (51,2 cm au Niveau X)."
+ },
  "c8c7488b1383": {
   "en": "Environmental changes, especially creation, destruction, and manipulation of elemental properties such as water, fire, terrain, and gravity, are commonly performed through this interface.",
   "t": "Les changements environnementaux, en particulier la création, la destruction et la manipulation de propriétés élémentaires comme l'eau, le feu, le terrain et la gravité, se font couramment par cette interface."
  },
+ "ca4adc8484ad": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts the element. This is the one meant for gravity control. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Repel/Attract :</strong> la cible repousse ou attire l'élément. C'est celui qui sert à contrôler la gravité. Sans cible, la flamme de l'âme s'évapore simplement."
+ },
  "cac2d50e5374": {
   "en": "It only restores the base genetic information; it doesn't deal with whatever is causing the damage, such as worms.",
   "t": "Il ne restaure que les informations génétiques de base ; il ne s'occupe pas de ce qui cause les dégâts, comme les vers."
+ },
+ "caca7f199089": {
+  "en": "The elemental verbs, with frozen earth.",
+  "t": "Les verbes élémentaires, avec la terre gelée."
  },
  "cb864e0c3c67": {
   "en": "Keeping your fingers clenched on the hand you used the logograms on, you must now trap the fingers, or nari stone stick, then reverse the motion while keeping the fingers clenched. This sort of “eating“ motion will suck the power and create a ball into one of the rings that will temporarily hold power. Do not worry about how fast it zips around. The rings will keep it in check until you release the spell in the final step.",
@@ -634,6 +694,10 @@
  "cd5fc47831e2": {
   "en": "Entangle",
   "t": "Entangle"
+ },
+ "cf492fe9525e": {
+  "en": "The elemental verbs, with ice.",
+  "t": "Les verbes élémentaires, avec la glace."
  },
  "d08ae5111258": {
   "en": "Minor cuts and minor blood loss",
@@ -691,6 +755,14 @@
   "en": "When a spell is cast, five rings appear around the hand holding it. Each shell holds a limited number of soul energy tiers:",
   "t": "Quand on lance un sort, cinq anneaux apparaissent autour de la main qui le tient. Chaque coque contient un nombre limité de niveaux d'énergie de l'âme :"
  },
+ "e2b868f1938f": {
+  "en": "The elemental verbs, with fire.",
+  "t": "Les verbes élémentaires, avec le feu."
+ },
+ "e36ef673808f": {
+  "en": "The elemental verbs, with ash.",
+  "t": "Les verbes élémentaires, avec la cendre."
+ },
  "e5df83155e66": {
   "en": "Full Darfaries Interface - Sigil and Nari stone mode (video)",
   "t": "Interface Darfaries complète - Mode sceau et pierre nari (vidéo)"
@@ -706,6 +778,10 @@
  "e8d0433850e4": {
   "en": "Fire VERB",
   "t": "Fire VERB"
+ },
+ "ea25d8fd0025": {
+  "en": "<strong>Create/Destroy:</strong> Create makes a ball of the element for a ranged attack (thanks to Hawking radiation, the black hole quickly disappears once cast); Destroy turns the target's element back into virtual particles. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Create/Destroy :</strong> Create crée une boule de l'élément pour une attaque à distance (grâce au rayonnement de Hawking, le trou noir disparaît vite une fois lancé) ; Destroy ramène l'élément de la cible à l'état de particules virtuelles. Sans cible, la flamme de l'âme s'évapore simplement."
  },
  "ef47633dff56": {
   "en": "Given Darfaries sport the most prominent Darfaries veins, its sheer additional volume allows them to finely sense soul energy disturbances around them, plus a rough sensation of humidity, wind, and barometric pressure—it’s like how they say, if a Darfaries tells you to buy an umbrella, you better buy one!",
