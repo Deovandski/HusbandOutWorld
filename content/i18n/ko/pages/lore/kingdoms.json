@@ -23,6 +23,10 @@
   "en": "<strong>Endland (#9):</strong> named for being close to the water.",
   "t": "<strong>엔드랜드 (#9):</strong> 물가에 가까워서 붙은 이름."
  },
+ "042dc0f49631": {
+  "en": "<strong>Sanbi's Main Street Market (#2):</strong> a thriving market on the main street, for trading all kinds of goods.",
+  "t": "<strong>산비 중앙로 시장 (#2):</strong> 중앙로에 있는 북적이는 시장으로, 온갖 물건을 사고판다."
+ },
  "0850c49e1db3": {
   "en": "Make sure to stop by during the Shake Belly festival! There's free grub! If you're willing to shake your belly for it, of course. Nothing is truly for free, after all—",
   "t": "배 흔들기 축제 때 꼭 들러 봐! 공짜 먹을거리가 있다! 물론 그걸 위해 배를 흔들 의향이 있다면. 결국 진짜 공짜인 건 없으니까—"
@@ -30,6 +34,10 @@
  "08bca64ce868": {
   "en": "Burial",
   "t": "장례"
+ },
+ "0c64f5f198c0": {
+  "en": "The tradition is to declare your love loud and clear in front of the Sanbi Fish fountain. If they accept, they share a passionate kiss and hug.",
+  "t": "전통은 산비 물고기 분수 앞에서 크고 또렷하게 사랑을 고백하는 것이다. 상대가 받아들이면, 둘은 뜨거운 키스와 포옹을 나눈다."
  },
  "0dad6a519ea4": {
   "en": "Cremation. The bones are washed with sand from the mountain, then stored in an urn with the ashes for the family to keep.",
@@ -55,9 +63,17 @@
   "en": "<strong>Economy:</strong> trades Wooly milk, wool and Wooly beef jerky with the other kingdoms (especially Sanbi), and Domar Carbey from Tolerideme. Also grows Rakuja, though less of it, for lack of space. Mints Sapphire and Aquamarine balls. Minerals and blacksmithing.",
   "t": "<strong>경제:</strong> 울리 젖, 털, 울리 소고기 육포를 다른 왕국들(특히 산비)과 교역하고, 톨레리데메의 도마르 카베이도 교역한다. 라쿠자도 기르지만, 공간이 모자라 양은 적다. 사파이어와 아쿠아마린 볼을 주조한다. 광물과 대장일."
  },
+ "11a7eb252841": {
+  "en": "<strong>Purply Smart Lambic Beer:</strong> Lofinghy and Itagiba love it.",
+  "t": "<strong>퍼플리 스마트 람빅 맥주:</strong> 로핑히와 이타지바가 아주 좋아한다."
+ },
  "11f50f578eb3": {
   "en": "<strong>Education:</strong> Darfaries children get many free things, including fundamental education and Wooly Gyut Milk, but they're heavily trained in the Gandew way of life.",
   "t": "<strong>교육:</strong> 다르파리에스 아이들은 기초 교육과 울리 귯 우유를 포함해 공짜로 받는 게 많지만, 간듀식 삶의 방식을 혹독하게 훈련받는다."
+ },
+ "12b9dc44f0a3": {
+  "en": "<strong>Guards:</strong> Tolerideme guards are considered the most chill of all, but they pack a punch with their defensive, gauntlet-like weapon. More often than not, though, they use the Darfaries interface on themselves to cast elemental damage and force their enemies to surrender. Their slow casting leaves them wide open, but they always move in large packs, and they can use nari gels in a pinch. So if you want to do damage, be quick and relentless about it, or you might be frozen, shocked, cooked, trampled, flogged or smashed by giant balls of elemental spells until your spirit breaks!",
+  "t": "<strong>경비병:</strong> 톨레리데메 경비병은 모든 경비병 중 가장 느긋하다고 여겨지지만, 방어용 건틀릿 같은 무기로 한 방이 있다. 그래도 대개는 다르파리에스 인터페이스를 자기 몸에 걸어 원소 피해를 입히고 적을 항복시킨다. 시전이 느려서 빈틈이 크지만, 늘 큰 무리로 움직이고, 급할 땐 나리 젤도 쓸 수 있다. 그러니 피해를 입히고 싶다면 재빠르고 끈질기게 해라. 아니면 정신이 꺾일 때까지 거대한 원소 주문 공에 얼고, 감전되고, 익고, 짓밟히고, 두들겨 맞고, 박살 날지도 모른다!"
  },
  "12f2b73c33f8": {
   "en": "Freeish Kingdom",
@@ -66,6 +82,10 @@
  "1336440d81b1": {
   "en": "<strong>Randy's Payupfront (#9):</strong> Randy owns a chain of small bars where you pay up front and drink whatever you want. Her wife is known as the coolest and most beautiful bartender; she has massive tits and is famous for pulling them out and spraying milk from afar when you want some.",
   "t": "<strong>랜디의 페이업프런트 (#9):</strong> 랜디는 돈을 먼저 내고 원하는 건 뭐든 마시는 작은 바 체인을 운영한다. 그녀의 아내는 가장 쿨하고 아름다운 바텐더로 알려져 있다. 젖가슴이 어마어마하고, 원하면 그걸 꺼내 멀리서 젖을 뿜어 주는 걸로 유명하다."
+ },
+ "13d096751fbb": {
+  "en": "<strong>The Sanbi Fish Parade:</strong> every Adrian, people dress up in Sanbi fish costumes to celebrate the end of another year.",
+  "t": "<strong>산비 물고기 퍼레이드:</strong> 매년 아드리안에 사람들이 산비 물고기 옷을 입고 또 한 해가 끝난 걸 축하한다."
  },
  "188d1a6ab63b": {
   "en": "Kingdoms",
@@ -91,9 +111,17 @@
   "en": "Names in this democratic kingdom sound like Brazilian names, and influences from other kingdoms' names and cultures are common, given its history. People rarely have Freeish as their city name; they use one of the villages below.",
   "t": "이 민주적인 왕국의 이름은 브라질 이름처럼 들리고, 역사 때문에 다른 왕국의 이름과 문화의 영향도 흔하다. 사람들이 도시 이름으로 프리이시를 쓰는 일은 드물고, 아래 마을 중 하나를 쓴다."
  },
+ "1e5f2da628df": {
+  "en": "<strong>Fermented Eggs</strong> and <strong>Long-Storage Eggs.</strong>",
+  "t": "<strong>발효 달걀</strong>과 <strong>장기 보관 달걀.</strong>"
+ },
  "1ec08a112969": {
   "en": "<strong>Gyut Wrap</strong> (more common in the Soil group): created by Big Gyut to attract more tourists. Gyut berries with Black Honey and other things mixed in. 7 Pearls each, about the size of a fist.",
   "t": "<strong>귯 랩</strong> (소일 집단에서 더 흔하다): 빅 귯이 관광객을 더 끌려고 만들었다. 귯 열매에 검은 꿀과 다른 것들을 섞은 것. 하나에 7펄, 주먹만 하다."
+ },
+ "201147595bd6": {
+  "en": "<strong>Education:</strong> not required, but not paid for by the kingdom either. Fewer children go than in other kingdoms, and overall intelligence is slightly lower.",
+  "t": "<strong>교육:</strong> 의무는 아니지만 왕국이 비용을 대 주지도 않는다. 다른 왕국보다 다니는 아이가 적고, 전체적인 지능도 살짝 낮다."
  },
  "20d791301943": {
   "en": "Big wood trunks mixed with Bone Wood:",
@@ -111,6 +139,10 @@
   "en": "<strong>Central Farm (#2):</strong> where local crops, Rakuja included, are grown most intensively.",
   "t": "<strong>중앙 농장 (#2):</strong> 라쿠자를 포함한 지역 작물을 가장 집중적으로 기르는 곳."
  },
+ "21dd983504bc": {
+  "en": "<strong>Hearty Cocona Stew:</strong> Cocona (black, or another saltier variant), roots and fire-broiled meat. See the cover of Vol 3.",
+  "t": "<strong>든든한 코코나 스튜:</strong> 코코나(검은 것이나 다른 더 짠 변종), 뿌리, 불에 구운 고기. 3권 표지 참조."
+ },
  "226558d6cd5d": {
   "en": "#3 - Farplace",
   "t": "#3 - 파플레이스"
@@ -118,6 +150,14 @@
  "22ff5786ebdf": {
   "en": "#7 - Sweet Siguash",
   "t": "#7 - 스위트 시구아시"
+ },
+ "2444bfd54709": {
+  "en": "Some Waterfall City residents look down on them for shunning physical work and relying too much on magic. Waterfall residents would also much rather negotiate prices and be flexible, while Toleridemians don't care for negotiating. The Wood People are a threat, but they don't seem to care.",
+  "t": "워터폴 시 주민 일부는 몸 쓰는 일을 피하고 마법에 너무 기댄다며 그들을 깔본다. 워터폴 주민들은 값을 흥정하고 유연하게 구는 걸 훨씬 좋아하는 반면, 톨레리데메 사람들은 흥정에 관심이 없다. 우드 피플은 위협이지만, 그들은 신경 쓰지 않는 듯하다."
+ },
+ "24c68ebe1d89": {
+  "en": "<strong>Miirin's cookery (#6):</strong> a girly tea place turned dinner spot, serving a variety of tapas-sized dishes. Their desserts are to die for!",
+  "t": "<strong>미린의 요리집 (#6):</strong> 아기자기한 찻집이었다가 저녁 식당이 된 곳으로, 타파스 크기의 다양한 요리를 낸다. 디저트가 죽여준다!"
  },
  "25eaa06ec19c": {
   "en": "<strong>Clothing:</strong> exposed skin, for warmer weather. White clothing with accents or embroidery in other colors. Soil clothing is looser, for farming; Blood clothing is closer to adventurer or guard clothing.",
@@ -159,6 +199,18 @@
   "en": "Asa the Powerful",
   "t": "아사 더 파워풀"
  },
+ "2e2a654bed0c": {
+  "en": "<strong>Economy:</strong> exports Sanbi fish products, such as dried fish and clothing made with Sanbi scales; fish meal to the Gandew and Tolerideme Kingdoms for farming; and fish oil. Trades with the Cruros. Some Fost stone collection, and salt production.",
+  "t": "<strong>경제:</strong> 말린 생선과 산비 비늘로 만든 옷 같은 산비 물고기 상품, 농사용으로 간듀와 톨레리데메 왕국에 보내는 어분, 그리고 생선 기름을 수출한다. 크루로와 교역한다. 포스트석 채집과 소금 생산도 좀 한다."
+ },
+ "2e32a7cfceed": {
+  "en": "There's no marriage. Adults do whatever they want, but if a child is born, both parents must raise it together, by law. Orgies are not uncommon.",
+  "t": "결혼은 없다. 어른들은 원하는 대로 하지만, 아이가 태어나면 법에 따라 부모 둘이 함께 키워야 한다. 난교도 드문 일이 아니다."
+ },
+ "2e6166e39297": {
+  "en": "Everything makes use of the Wood People. In Tolerideme, buildings tend to be vertical (about 5 floors) and nearly identical.",
+  "t": "모든 것에 우드 피플을 쓴다. 톨레리데메에서 건물은 세로로 높은 편이고(5층쯤), 거의 똑같다."
+ },
  "2e75a7fd31cf": {
   "en": "Sanbi Guards are flexible guards who can use knives, Nari gels, and Nari bombs to control a nuisance quickly or to get the fuck away if it’s too much for them to handle. Their large bows, combined with nari gels, allow them to have more varied battling techniques; they can be sneakier, have increased muscle mass, or even possess arrows poisoned with debilitating nari gels. There is a reason their training often emphasizes the “everything is a weapon” mentality, and so should you if you feel like disturbing the peace of their kingdom.",
   "t": "산비 경비병은 칼, 나리 젤, 나리 폭탄을 써서 골칫거리를 재빨리 제압하거나, 감당이 안 되면 씨발 냅다 도망치는 유연한 경비병이다. 커다란 활과 나리 젤을 조합해 더 다양한 전투 기술을 쓸 수 있다. 더 은밀해지거나, 근육량을 늘리거나, 몸을 약하게 만드는 나리 젤을 바른 독화살을 가질 수도 있다. 그들의 훈련이 “모든 것이 무기다”라는 사고방식을 강조하는 데는 이유가 있고, 네가 그들 왕국의 평화를 어지럽히고 싶다면 너도 그래야 할 거다."
@@ -175,9 +227,17 @@
   "en": "Festivals",
   "t": "축제"
  },
+ "34754abfcac2": {
+  "en": "They cremate the dead with Wood People wood, and use the ashes to fertilize the land they own.",
+  "t": "고인은 우드 피플 나무로 화장하고, 그 재는 자기 소유 땅의 거름으로 쓴다."
+ },
  "34bb1f96428b": {
   "en": "A village in the middle of other villages that rarely would be preyed upon by beasts.",
   "t": "다른 마을들 한가운데에 있어서 마수의 습격을 거의 받지 않는 마을."
+ },
+ "34e68bccdce7": {
+  "en": "<strong>Education:</strong> fundamental school focuses on three tracks: general, farmland and alcohol. Meals at fundamental school are free for citizens.",
+  "t": "<strong>교육:</strong> 기초 학교는 세 과정에 집중한다: 일반, 농지, 술. 시민은 기초 학교 급식이 무료다."
  },
  "35ffbca9cea4": {
   "en": "No royal markings: everyone should know who the leader is. The king is decided by challenging the previous king to a duel at King Fest; whoever rips out both of the previous king's tusks becomes the new king. If the defeated king has a daughter, he must give her away in marriage. A king's sons can't challenge their father, to prevent despotism and quid pro quo. The king is also the courtroom scientist, unless he appoints someone else (if he wants to, or cares just enough about Soul Energy). There's no queen: women can't fight for the king's spot.",
@@ -215,9 +275,21 @@
   "en": "Only Darfaries may live in the Gandew Kingdom permanently; Wozefaries and Sorefaries are thrown off the Goodbye Cliff. (Wozefaries can dampen the fall by activating the Darfaries interface as an antigravity spell, and Sorefaries can fly.) For Gandew, perfection is being Darfaries. All visitors are welcome.",
   "t": "간듀 왕국에 영구히 살 수 있는 건 다르파리에스뿐이다. 워제파리에스와 소레파리에스는 작별 절벽에서 내던져진다. (워제파리에스는 다르파리에스 인터페이스를 반중력 주문으로 써서 낙하를 누그러뜨릴 수 있고, 소레파리에스는 날 수 있다.) 간듀에게 완벽함이란 다르파리에스인 것이다. 방문객은 모두 환영한다."
  },
+ "3c3bac0f1a45": {
+  "en": "They love their rituals of social interaction, like the Tamada culture of Georgia (real-world comparison: the <a href=\"https://en.wikipedia.org/wiki/Tamada\" rel=\"noopener\">tamada</a>, a toastmaster at a feast). The toastmaster weaves the conversations of the different clusters of people at the table together, bringing a sense of unity and keeping the pace; they have to empty their glass at every toast and hold their drink at bay. Toasting can last several hours, and the toastmaster or any guest uses magic to raise their glass high for a toast.",
+  "t": "그들은 조지아의 타마다 문화처럼 사교 의식을 사랑한다(실제 세계와 비교하면: 잔치의 건배 진행자인 <a href=\"https://en.wikipedia.org/wiki/Tamada\" rel=\"noopener\">타마다</a>). 건배 진행자는 식탁의 여러 무리가 나누는 대화를 엮어 하나 된 느낌을 주고 흐름을 이끈다. 건배 때마다 잔을 비워야 하고, 술을 이겨 내야 한다. 건배는 몇 시간씩 이어지기도 하고, 건배 진행자나 손님 누구든 마법으로 잔을 높이 들어 올려 건배한다."
+ },
  "3d5b4efc17fb": {
   "en": "<strong>Education:</strong> similar to Forway, but each village group customizes the clothing and has different priorities: hunting versus farming.",
   "t": "<strong>교육:</strong> 포웨이와 비슷하지만, 마을 집단마다 옷을 맞춰 바꾸고 우선순위가 다르다: 사냥 대 농사."
+ },
+ "3db3e9824389": {
+  "en": "<strong>Sanbi's Dockyard (#1):</strong> where ships are built and repaired.",
+  "t": "<strong>산비 조선소 (#1):</strong> 배를 짓고 고치는 곳."
+ },
+ "3dca79c6e55b": {
+  "en": "A collar of stones gathered from the bottom of the sea is put around the person's neck (if there's no body, their favorite possession is offered instead). A heavy stone is tied to the body, and it's cast into the sea at the spot they wanted, or one their guild chooses. Before it's cast, friends and family usually hold a ceremony to talk about the person. As the body leaves for the ocean, usually from the Old Wharf, people chant: \"A person lives from the sea, and so shall the sea live from the body.\" If no one gathered, the person dropping the body into the sea says it.",
+  "t": "바다 밑바닥에서 모은 돌로 만든 목걸이를 고인의 목에 건다(시신이 없으면 고인이 가장 아끼던 물건을 대신 바친다). 무거운 돌을 시신에 묶고, 고인이 원한 자리나 길드가 고른 자리에서 바다에 던진다. 던지기 전에 친구와 가족이 보통 의식을 열어 고인에 대해 이야기한다. 시신이 대개 오래된 부두에서 바다로 떠날 때, 사람들은 이렇게 읊조린다: “사람은 바다로 살고, 바다도 몸으로 살리라.” 아무도 모이지 않았으면, 시신을 바다에 떨어뜨리는 사람이 그 말을 한다."
  },
  "3e1f26ecafd0": {
   "en": "Drinking cups are two-handled bowls. Real-world comparison: the Scottish <a href=\"https://en.wikipedia.org/wiki/Quaich\" rel=\"noopener\">quaich</a>.",
@@ -227,17 +299,45 @@
   "en": "Freeish Paulin",
   "t": "프리이시 파울린"
  },
+ "3ff5e845a04f": {
+  "en": "<strong>Carbey and Domar Carbey:</strong> see Flora.",
+  "t": "<strong>카베이와 도마르 카베이:</strong> 식물 참조."
+ },
  "40cf753b9f4c": {
   "en": "<strong>Treetop (#4):</strong> named after the area's hunters, who often attack prey from the treetops.",
   "t": "<strong>트리톱 (#4):</strong> 나무 꼭대기에서 사냥감을 덮치는 일이 많은 이 지역 사냥꾼들에게서 이름을 땄다."
+ },
+ "43224d76b4fa": {
+  "en": "<strong>South:</strong> the Monarchy department's living quarters; Eori's room is on the 3rd floor.",
+  "t": "<strong>남쪽:</strong> 군주 부서의 거처. 에오리의 방은 3층에 있다."
+ },
+ "4361e9d63727": {
+  "en": "<strong>The Dead Wozen (#5):</strong> a tavern.",
+  "t": "<strong>죽은 워젠 (#5):</strong> 주점."
  },
  "4470b07652a3": {
   "en": "On the street, lots of one-person vendors sell food and drinks; they also sell in the depths of the dungeons inside Gandew, beneath the sand, where beasts dig tunnels. A party of Darfaries usually has a \"bard\" who serves drinks and plays music to keep the party (a literal party, partying by slaying beasts) going.",
   "t": "거리에는 음식과 음료를 파는 1인 노점상이 많다. 그들은 마수들이 터널을 파 놓은, 모래 아래 간듀 안의 던전 깊은 곳에서도 장사를 한다. 다르파리에스 파티에는 보통 술을 나눠 주고 음악을 연주해 파티(말 그대로 파티, 마수를 베며 노는 파티)가 이어지게 하는 ‘음유시인’이 있다."
  },
+ "4479e909ee51": {
+  "en": "<strong>Redtree Processing Center (#4):</strong> not named after the Wood People, for obvious reasons. The biggest place, but not the only one, to buy Wood People-related goods.",
+  "t": "<strong>레드트리 가공 센터 (#4):</strong> 뻔한 이유로 우드 피플의 이름을 따지 않았다. 우드 피플 관련 상품을 사는 가장 큰 곳이지만, 유일한 곳은 아니다."
+ },
+ "4736fba8a794": {
+  "en": "<strong>Sanbi's Fish Oil Extractor Factory (#4):</strong> a large factory that extracts fish oil before the fish go to the Drier Factory. Scientists are often hired to cast Elemental Ice with the Darfaries interface, to winterize the oil while extracting it with ethanol.",
+  "t": "<strong>산비 생선 기름 추출 공장 (#4):</strong> 생선이 건조 공장으로 가기 전에 생선 기름을 짜는 큰 공장. 에탄올로 기름을 추출하면서 윈터라이징을 하려고, 다르파리에스 인터페이스로 원소 얼음을 걸 과학자를 고용하는 일이 많다."
+ },
+ "48ab5368018c": {
+  "en": "<strong>Half-Cruros (#6):</strong> Kiko, a highly intelligent Cruro who left Cruro land, created this guild for himself and every other Cruro who left to live a decent life. It also helps new Cruros who have just fled.",
+  "t": "<strong>하프 크루로 (#6):</strong> 크루로 땅을 떠난 아주 똑똑한 크루로 키코가, 자신과 제대로 된 삶을 살려고 떠난 다른 모든 크루로를 위해 만든 길드. 막 달아나 온 새 크루로도 돕는다."
+ },
  "48be0a54e3b8": {
   "en": "Tolerideme (Toleridemian)",
   "t": "톨레리데메 (톨레리데메 사람)"
+ },
+ "4964a68e001a": {
+  "en": "<strong>Bread beer:</strong> want to get drunk but don't have the money? Bread beer is the way to go, fermented from literally old bread. The taste varies wildly. About 3 Pearls a liter.",
+  "t": "<strong>빵 맥주:</strong> 취하고 싶은데 돈이 없다고? 그럼 빵 맥주다. 말 그대로 묵은 빵을 발효시켜 만든다. 맛은 천차만별. 리터당 3펄쯤."
  },
  "4b5f94837cc9": {
   "en": "See Novels › The True Sanbi King. They pray to the sea every day so it doesn't swallow their fishermen, and their burial rituals are closely tied to giving back what they took from the sea: \"Our soul is tied to the sea.\"",
@@ -247,9 +347,21 @@
   "en": "With the Prosperity Treaty, the decentralized villages became a kingdom in their own right, as an exchange of favors between the Freeish village leaders and each kingdom's courtroom scientists, so they could keep the same village leaders and governor system.",
   "t": "《번영 조약》으로 분산된 마을들은 하나의 어엿한 왕국이 되었다. 프리이시 마을 지도자들과 각 왕국 궁정 과학자들 사이의 호의 교환으로, 같은 마을 지도자와 총독 제도를 유지할 수 있게 된 것이다."
  },
+ "4bc14afd9996": {
+  "en": "<strong>Shaved Bagarisa:</strong> a tavern north of Sanbi Castle.",
+  "t": "<strong>털 깎은 바가리사:</strong> 산비 성 북쪽의 주점."
+ },
+ "4c042dc3ec0a": {
+  "en": "<strong>The 300kg Club (#6):</strong> only Tolerideme citizens weighing more than 300 kg can join. Coincidentally, members don't stay in the club for long.",
+  "t": "<strong>300kg 클럽 (#6):</strong> 몸무게가 300kg 넘는 톨레리데메 시민만 가입할 수 있다. 공교롭게도, 회원들은 클럽에 오래 머물지 않는다."
+ },
  "4c5383bef6e5": {
   "en": "Bijura Moacir",
   "t": "비주라 모아시르"
+ },
+ "4c93ce68b613": {
+  "en": "<strong>Guards:</strong> Sanbi guards are flexible: they use knives, nari gels and nari bombs to deal with a nuisance quickly, or to get the fuck away if it's too much for them. Their large bows, combined with nari gels, give them varied fighting techniques: they can be sneakier, build more muscle, or poison their arrows with debilitating nari gels. There's a reason their training stresses an \"everything is a weapon\" mindset, and so should you, if you feel like disturbing the peace of their kingdom.",
+  "t": "<strong>경비병:</strong> 산비 경비병은 유연하다: 칼, 나리 젤, 나리 폭탄으로 골칫거리를 재빨리 처리하거나, 감당이 안 되면 존나 빨리 내뺀다. 큰 활과 나리 젤을 합치면 싸움 기술이 다양해진다: 더 은밀해지거나, 근육을 더 키우거나, 화살에 몸을 약하게 만드는 나리 젤을 묻힐 수 있다. 그들의 훈련이 ‘모든 게 무기다’라는 마음가짐을 강조하는 데는 이유가 있고, 그들 왕국의 평화를 어지럽힐 생각이라면 당신도 그래야 한다."
  },
  "4d3df9cf7ecb": {
   "en": "#10 - Crossroads",
@@ -267,6 +379,10 @@
   "en": "<strong>The Blood Book:</strong> families gather in the spring, and villages in the fall. The head of the family or village opens the book and reads out the expectations and promises made last time for each signee. The signee says what they succeeded at, what they failed at, and what the new expectations will be. Meanwhile, anyone else may promise something to the signee, or challenge them to a duel: to bash some sense into their head, for failing to do something they promised, or to settle bad blood between them. Once reviewed, the signee signs in blood, making them responsible for what they stated. When everyone has been reviewed, the bookkeeper signs in blood, seals the book, and everyone feasts to celebrate life.",
   "t": "<strong>피의 책:</strong> 가족은 봄에, 마을은 가을에 모인다. 가장이나 마을 우두머리가 책을 펴고, 서명자마다 지난번에 한 기대와 약속을 읽는다. 서명자는 무엇에 성공했는지, 무엇에 실패했는지, 새 기대가 무엇일지 말한다. 그동안 다른 누구든 서명자에게 무언가를 약속하거나, 결투를 신청할 수 있다: 머리에 정신 좀 박아 넣으려고, 약속한 일을 못 했다고, 혹은 둘 사이의 악감정을 풀려고. 검토가 끝나면 서명자가 피로 서명해, 자기가 한 말에 책임을 진다. 모두의 검토가 끝나면 기록자가 피로 서명하고 책을 봉한 뒤, 모두가 삶을 축하하며 잔치를 벌인다."
  },
+ "50c4aa6ba305": {
+  "en": "They mastered building two- and three-story buildings, but techniques kept evolving, so not all buildings are quite the same, and there's never been any restriction on building size, type or architecture. Most interiors are white, since lime from Cruro is cheap. The roads:",
+  "t": "그들은 2층과 3층 건물 짓는 법을 터득했지만, 기술이 계속 발전해서 모든 건물이 똑같지는 않고, 건물 크기, 종류, 건축 양식에 제한이 있었던 적도 없다. 크루로에서 나는 석회가 싸서 실내는 대부분 하얗다. 길:"
+ },
  "517414900cb8": {
   "en": "A massive lone mountain in the desert holds the entire populace of Gandew, mainly composed of Darfaries and a few travelers passing by. You can stop here, but keep your hands and mouth to yourself unless you want to face off against a Darfaries citizen or a giant guard in heavy chitin armor in one of the dueling pits. Though, if fighting is your jam, then have at it! They love to crack the skull of troublemakers! Or you might score brownie points if you break their skull instead.",
   "t": "사막에 홀로 선 거대한 산 하나에 간듀의 모든 인구가 살고 있는데, 주로 다르파리에스와 지나가는 몇몇 여행자들이다. 여기 들를 수는 있지만, 결투장 중 하나에서 다르파리에스 시민이나 두꺼운 키틴 갑옷을 입은 거인 경비병과 맞붙고 싶지 않다면 손과 입을 조심해라. 하지만 싸우는 게 취향이라면, 마음껏 해 봐! 그들은 말썽꾼의 두개골을 깨는 걸 아주 좋아하니까! 아니면 네가 그들의 두개골을 깨면 오히려 점수를 딸지도 모른다."
@@ -275,13 +391,25 @@
   "en": "Daily life",
   "t": "일상"
  },
+ "52b43dc07a4a": {
+  "en": "<strong>The Alcohol School (#3):</strong> a school and research facility funded by most of the Alcohol District's companies. It teaches workers to handle beer safely, tests alcohol, gives input on taste, checks for impurities, and helps control impurities such as Soreno poop.",
+  "t": "<strong>술 학교 (#3):</strong> 술 구역 회사 대부분이 돈을 대는 학교 겸 연구 시설. 일꾼들에게 맥주를 안전하게 다루는 법을 가르치고, 술을 시험하고, 맛에 대해 의견을 주고, 불순물을 확인하며, 소레노 똥 같은 불순물 관리를 돕는다."
+ },
  "53dbe20b6c6d": {
   "en": "Freeish Guards are like a dollar store version of Forway guards, but their courageous spirit and sense of protecting their Kingdom more than compensates for their lighter yet versatile bone-wood armor. Whenever they remove their short swords from their forearm sleeve, you better get some distance unless you can parry and strike true like no other. They also like their Nari bombs as well to close the gap, so watch out. If that wasn’t enough, their reflex appears to be higher than average as the entire Freeish bloodline of guards developed a tradition of training on hallucinogens to increase situation awareness and reaction times from childhood.",
   "t": "프리이시 경비병은 포웨이 경비병의 싸구려 버전 같지만, 용감한 정신과 왕국을 지키려는 사명감이 더 가볍지만 다재다능한 본 우드 갑옷을 충분히 메워 준다. 그들이 팔뚝 소매에서 단검을 뽑으면, 누구보다 정확하게 막고 받아칠 수 있는 게 아니라면 거리를 두는 게 좋다. 거리를 좁히려고 나리 폭탄도 즐겨 쓰니 조심해라. 그걸로도 모자라 반사 신경이 평균보다 좋은 것 같은데, 프리이시 경비병 혈통 전체가 어릴 때부터 환각제를 먹고 훈련해서 상황 인식과 반응 속도를 높이는 전통을 만들었기 때문이다."
  },
+ "545493f796c3": {
+  "en": "<strong>Local embassy quests:</strong> Crocus control, Cruro reconnaissance, Aldemeri bounties, Newland exploration, overseeing the sea.",
+  "t": "<strong>지역 대사관 의뢰:</strong> 크로커스 관리, 크루로 정찰, 알데메리 현상금, 뉴랜드 탐사, 바다 감시."
+ },
  "551419dcc187": {
   "en": "Sanbi Kingdom emblem: a glossy blue disc with a line drawing of a whiskered fish.",
   "t": "산비 왕국 문장: 수염 난 물고기 선화가 그려진 윤기 나는 파란 원반."
+ },
+ "557731944fc1": {
+  "en": "<strong>Clothing:</strong> fish leather is everywhere. Exposed skin; sailor bandanas are common.",
+  "t": "<strong>옷차림:</strong> 생선 가죽이 어디에나 있다. 피부를 드러내고, 선원 반다나가 흔하다."
  },
  "557dacc52d05": {
   "en": "Gandew (Gandewian)",
@@ -294,6 +422,10 @@
  "56e736595a1f": {
   "en": "They worship the ancient Darfaries who took up the sword and cleansed the mountain of the other species. They believe all spirits live forever, and get lost in the desert if their bodies don't go through the proper rituals (from visions of people hallucinating in the heat).",
   "t": "그들은 칼을 들어 산에서 다른 종들을 정화한 고대 다르파리에스를 숭배한다. 그들은 모든 영혼이 영원히 살며, 몸이 제대로 된 의식을 거치지 않으면 사막에서 길을 잃는다고 믿는다(더위 속에서 환각을 본 사람들의 환영에서 나온 믿음이다)."
+ },
+ "570d430f6082": {
+  "en": "<strong>Sanbi Royal:</strong> every member governing the city (and their sons and daughters) is in this guild.",
+  "t": "<strong>산비 로열:</strong> 도시를 다스리는 모든 구성원(과 그 아들딸)이 이 길드에 있다."
  },
  "583fc1911821": {
   "en": "The Cruros, if they get too big; some Sanbi citizens still hold a grudge against them for taking away the easy job of collecting pearls. And the True Sanbi King, if the fish breaks the deal they have.",
@@ -310,6 +442,10 @@
  "5b29f8c9c50f": {
   "en": "<strong>Governor:</strong> the right side of the face is tattooed, kind of like below.",
   "t": "<strong>총독:</strong> 얼굴 오른쪽에 문신을 새긴다. 아래 그림과 좀 비슷하다."
+ },
+ "5b3058969250": {
+  "en": "Sanbi names are often the most unique, and unlike in other kingdoms, you can change yours as often as you like. So much so that the Sanbi Royals have a special subsidy contract with Forway to lower the cost of badge remakes for their citizens, while Forway officials are still dealing with the aneurysm-inducing problem of tracking previous names tied to each soul signature without ballooning costs. Names often sound like Brazilian Indigenous or Indian names. Sanbians like cool, distinct names, especially one that speaks to their soul: the kind that makes you want to scream it in the middle of the street on a stormy night, or the one you proudly repeat over and over because nobody can fucking understand how to write or say it.",
+  "t": "산비 이름은 가장 독특한 경우가 많고, 다른 왕국과 달리 원하는 만큼 자주 바꿀 수 있다. 얼마나 그러냐면, 산비 로열이 시민들의 신분패 재발급 비용을 낮추려고 포웨이와 특별 보조금 계약까지 맺었을 정도다. 그동안 포웨이 관리들은 비용을 불리지 않으면서 영혼 서명마다 묶인 예전 이름들을 추적하는, 동맥류가 터질 것 같은 문제와 아직도 씨름하고 있다. 이름은 브라질 원주민이나 인도 이름처럼 들리는 일이 많다. 산비 사람들은 멋지고 독특한 이름, 특히 자기 영혼에 와닿는 이름을 좋아한다: 폭풍우 치는 밤에 길 한복판에서 소리쳐 부르고 싶어지는 이름, 아니면 아무도 존나 어떻게 쓰고 읽는지 모르니까 자랑스럽게 몇 번이고 되풀이하는 그런 이름."
  },
  "5b4edcf2fe7b": {
   "en": "<strong>Carbeyland (#2):</strong> the \"original\" village, some say, where Carbey was first planted en masse. The other Carbeyland (#11) says the same: both call themselves the original, the first true village that founded what is now Freeish, and they resent each other to this day.",
@@ -351,6 +487,10 @@
   "en": "Freeish Kingdom emblem: a glossy green disc with a white branching line of dots.",
   "t": "프리이시 왕국 문장: 하얀 점들로 이루어진 갈라진 선이 그려진 윤기 나는 초록 원반."
  },
+ "609c26cb9cce": {
+  "en": "On the outer edges (the harbor area):",
+  "t": "바깥 가장자리(항구 지역):"
+ },
  "613890532d43": {
   "en": "Sanbi (Sanbian)",
   "t": "산비 (산비 사람)"
@@ -370,6 +510,10 @@
  "6468002e8fca": {
   "en": "People’s names in this democratic-focused kingdom sound similar to Brazilian names. Influences from other Kingdoms' names and cultures are not uncommon given this kingdom’s history. Rarely someone has a city name of Freeish, but rather one of the villages that makes up the kingdom.",
   "t": "민주주의를 중시하는 이 왕국 사람들의 이름은 브라질 이름과 비슷하게 들린다. 이 왕국의 역사를 생각하면 다른 왕국의 이름과 문화에서 영향을 받은 것도 드물지 않다. 도시 이름으로 프리이시를 쓰는 사람은 드물고, 대신 왕국을 이루는 마을 중 하나를 쓴다."
+ },
+ "66aa0564738e": {
+  "en": "<strong>Sanbi Castle:</strong> no marble; the walls are a fine white plaster, common across the Sanbi Kingdom. There's no war room, but there's a bar (Vol 2, Chapter 1) and the Monarchy office, where Neferteri prefers to negotiate. The castle maids are paid very well and it feels like family, so few walk away.",
+  "t": "<strong>산비 성:</strong> 대리석은 없다. 벽은 산비 왕국 곳곳에서 흔한 고운 흰 회반죽이다. 작전실은 없지만, 바(2권 1장)와 네페르테리가 협상하기 좋아하는 군주 집무실이 있다. 성의 메이드들은 보수를 아주 잘 받고 가족 같은 분위기라, 떠나는 사람이 거의 없다."
  },
  "673ced1d807f": {
   "en": "Sanbi Guards: a guard in blue with a bow, next to a map of the Sanbi region with its rivers and coast.",
@@ -395,6 +539,18 @@
   "en": "Food and drink",
   "t": "음식과 음료"
  },
+ "6cdca588d6fb": {
+  "en": "<strong>Ungandy's factory:</strong> not far from the Old Wharf, best known for making deep blue, non-explosive nari bombs.",
+  "t": "<strong>운가디의 공장:</strong> 오래된 부두에서 멀지 않고, 폭발하지 않는 짙은 파란 나리 폭탄을 만드는 것으로 가장 잘 알려져 있다."
+ },
+ "6da7431f551b": {
+  "en": "<strong>Crime and law:</strong> follows Forway Law. Minor punishments are paid by replacement. The major punishment is being thrown into the sea; if the criminal survives, the sea absolves them of their crime.",
+  "t": "<strong>범죄와 법:</strong> 포웨이 법을 따른다. 가벼운 처벌은 대체물로 갚는다. 무거운 처벌은 바다에 던져지는 것이다. 범인이 살아남으면, 바다가 그 죄를 사해 준다."
+ },
+ "6df6d7f6d8fd": {
+  "en": "<strong>Old Wharf:</strong> an old dock, now mostly used to bring smaller boats ashore, and by some eguas entering or leaving the river. A common place for Soul Send Away ceremonies.",
+  "t": "<strong>오래된 부두:</strong> 옛 부두로, 지금은 주로 작은 배를 뭍으로 끌어올리는 데, 그리고 강을 드나드는 에구아 몇 마리가 쓴다. 영혼 배웅식이 흔히 열리는 곳이다."
+ },
  "6f83e68b68ec": {
   "en": "Notable Kingdom Citizens",
   "t": "왕국의 유명 시민"
@@ -414,6 +570,10 @@
  "75da6420e379": {
   "en": "Do you like the smell of fish and humid, salty air? Do you prefer frugality and a sense of connection between people over material possessions? Yes? Then this is the place to be for you! Be amazed by the infinite ways they can prepare Sanbi fish; most dishes are tasty, but some can be too experimental and require an adventurous spirit to gulp it down.",
   "t": "생선 냄새와 습하고 짭짤한 공기를 좋아해? 물질적인 소유보다 검소함과 사람들 사이의 유대감을 더 좋아해? 그래? 그럼 여기가 바로 네가 있어야 할 곳이다! 산비 물고기를 요리하는 끝없는 방법들에 놀라게 될 거다. 대부분의 요리는 맛있지만, 어떤 건 너무 실험적이라 삼키려면 모험심이 필요하다."
+ },
+ "7678eba57d3e": {
+  "en": "Obese and overweight humans are fairly common; the poorest are easier to spot than the rich. Some Darfaries, also overweight; rarely Wozefaries or Sorefaries. Humans are on average shorter than Harry.",
+  "t": "비만이거나 과체중인 인간이 꽤 흔하다. 가장 가난한 사람이 부자보다 눈에 더 잘 띈다. 다르파리에스도 좀 있는데 역시 과체중이고, 워제파리에스나 소레파리에스는 드물다. 인간은 평균적으로 해리보다 키가 작다."
  },
  "7686a2fc3bd6": {
   "en": "<strong>Economic Department:</strong> the King-Maid handles economic affairs and bookkeeping, oversees the castle maids, and implements deals and writes up their minutes. Frugality is the name of the game. Eiri always meets Sora on Tollday and Sannday to catch up on the incoming flood of paperwork.",
@@ -463,6 +623,14 @@
   "en": "<strong>Central Herd (#3):</strong> where most Woolies live, and most meat and milk is produced.",
   "t": "<strong>중앙 목장 (#3):</strong> 울리 대부분이 살고, 고기와 젖 대부분이 생산되는 곳."
  },
+ "7f9f3ef28c69": {
+  "en": "<strong>Sanbi's Fountain:</strong> by the castle's only exit, with a figure of the biggest Sanbi fish caught to date in its center.",
+  "t": "<strong>산비 분수:</strong> 성의 유일한 출구 옆에 있고, 가운데에 지금까지 잡힌 가장 큰 산비 물고기의 조각상이 있다."
+ },
+ "809c0c68144a": {
+  "en": "Inland waterways:",
+  "t": "내륙 수로:"
+ },
  "8232d0b2a960": {
   "en": "Citizen’s names often lean towards Asian Names, specifically Chinese/Japanese.",
   "t": "시민들의 이름은 아시아계, 특히 중국·일본식 이름 쪽에 가깝다."
@@ -479,9 +647,17 @@
   "en": "<strong>Village Competition:</strong> held in Paulin 998 A.G., but a major fight broke out, so it was never held again. People are stirring the pot to have it again.",
   "t": "<strong>마을 대항전:</strong> 998 A.G. 파울린에 열렸지만 큰 싸움이 터져서, 다시는 열리지 않았다. 다시 열자고 부추기는 사람들이 있다."
  },
+ "85cd33728cc1": {
+  "en": "<strong>Sanbi Beer:</strong> made with Carbey and a little fish oil. Supposedly a strong aphrodisiac. About 6 Pearls a liter.",
+  "t": "<strong>산비 맥주:</strong> 카베이와 약간의 생선 기름으로 만든다. 강한 최음제라고들 한다. 리터당 6펄쯤."
+ },
  "85d3de793b22": {
   "en": "*More notorious than notable",
   "t": "*유명하다기보다는 악명이 높다"
+ },
+ "8704d20e3864": {
+  "en": "<strong>Harvest Festival:</strong> a massive festival in Moacir, right before Adrian. A huge feast is set up on the main streets by the castle, where alcohol makers compete for the best alcohol in each category. The popular-vote winners tend to raise their prices and batch sizes until the next vote.",
+  "t": "<strong>수확 축제:</strong> 모아시르, 아드리안 바로 전에 열리는 거대한 축제. 성 옆 중앙로에 엄청난 잔치가 차려지고, 술 제조자들이 분야마다 최고의 술을 두고 겨룬다. 인기투표 우승자들은 다음 투표까지 값과 생산량을 올리는 편이다."
  },
  "872f6b19dc18": {
   "en": "The “Original” village as some say where Carbey was planted in mass.",
@@ -495,9 +671,25 @@
   "en": "A village named for being close to the water.",
   "t": "물가에 가까워서 붙은 이름의 마을."
  },
+ "8803749c9a34": {
+  "en": "They revere the three smart ladies and aim to be as smart, and as fat, as they were. They don't really care what happens after death; they'd rather focus on staying revived as long as possible.",
+  "t": "그들은 영리한 세 숙녀를 숭배하고, 그들만큼 똑똑하고, 그만큼 뚱뚱해지려 한다. 죽은 뒤에 무슨 일이 일어나는지는 별로 신경 쓰지 않는다. 그보다는 최대한 오래 되살아난 채로 있는 데 집중한다."
+ },
+ "88053a86fe08": {
+  "en": "Sanbi people are closer to Brazilians on a random weekend than to ancient Greeks: news spreads as bar talk, not forums. They live for emotional sustenance: give in to what your heart desires. Very handsy, frugal, warm and friendly; somewhat sloppy and careless, not as intelligent as people from Forway, but often with more street smarts. Not many festivals, since people celebrate their daily lives and live in the present, but lots of weekend parties. A Sanbi rave can go on so long, with so much booze, that people get trampled to death and are revived once the party's over. Their gesture for \"you're fucked\" or \"you're done\": hands and arms flat in front, closing three times like a Sanbi's mouth.",
+  "t": "산비 사람들은 고대 그리스인보다는 아무 주말의 브라질 사람에 더 가깝다: 뉴스는 토론장이 아니라 술집 수다로 퍼진다. 그들은 감정의 양식으로 산다: 마음이 원하는 대로 해라. 스킨십이 많고, 검소하고, 따뜻하고 다정하다. 좀 너저분하고 덜렁대고, 포웨이 사람들만큼 똑똑하진 않지만, 길거리 머리는 더 좋은 일이 많다. 사람들이 하루하루의 삶을 축하하고 지금을 살기 때문에 축제는 많지 않지만, 주말 파티는 많다. 산비의 레이브는 어찌나 오래, 술을 얼마나 퍼부으며 이어지는지, 사람들이 밟혀 죽었다가 파티가 끝나면 되살아난다. ‘넌 좆됐어’나 ‘넌 끝났어’를 뜻하는 몸짓: 손과 팔을 앞으로 납작하게 뻗고, 산비의 입처럼 세 번 여닫는다."
+ },
+ "890a00c21919": {
+  "en": "<strong>Voluptuous Sex House (#2):</strong> a THICC house for people with certain desires.",
+  "t": "<strong>풍만한 섹스 하우스 (#2):</strong> 특정한 욕망을 가진 사람들을 위한 THICC한 집."
+ },
  "8a4d0fec3e63": {
   "en": "Royalty and politics",
   "t": "왕실과 정치"
+ },
+ "8afafcf42984": {
+  "en": "<strong>Clothing:</strong> colorful, often with vertical stripes, for slightly colder weather (see the Tolerideme character designs). Hats (like Aurora's) show their profession, life, etc.; some even show off their wealth. Heavy use of Tibou.",
+  "t": "<strong>옷차림:</strong> 알록달록하고 세로 줄무늬가 많은, 살짝 더 추운 날씨용 옷(톨레리데메 캐릭터 디자인 참조). 모자(오로라의 것 같은)는 직업, 삶 등을 보여 주고, 아예 재산을 자랑하는 모자도 있다. 티부를 많이 쓴다."
  },
  "8b062a07fa54": {
   "en": "Name characteristics are often akin to Brazilian Indians' names or Indian names as well. Sanbians like cool distinct names, especially one that speaks to your soul. Be it that kinda name that makes you want to scream out loud in the middle of the street on a rainy stormy night, or the one that you proudly have to repeat over and over because nobody can fucking understand how to write or say it.",
@@ -519,9 +711,17 @@
   "en": "It varies by village, but usually a proposal is made with a bundle of fruit, in front of everyone in the village plaza. If she accepts, they marry in front of the village leader, who says: \"Just like your feelings for one another, plant these seeds in a home filled with love and care.\" If both are residents of the village, they get a guild for free if they want to start one; if they're from different Freeish villages, the cost is split; if one isn't from Freeish, they pay their own costs.",
   "t": "마을마다 다르지만, 보통 마을 광장에서 모든 마을 사람 앞에서 과일 한 묶음으로 청혼한다. 그녀가 받아들이면, 둘은 마을 지도자 앞에서 결혼하고, 지도자는 이렇게 말한다: “서로를 향한 마음처럼, 이 씨앗을 사랑과 보살핌이 가득한 집에 심으세요.” 둘 다 그 마을 주민이면, 원할 경우 길드를 공짜로 만들 수 있다. 서로 다른 프리이시 마을 출신이면 비용을 나누고, 한쪽이 프리이시 출신이 아니면 각자 비용을 낸다."
  },
+ "8f7290be8727": {
+  "en": "Burial: the Soul Send Away",
+  "t": "장례: 영혼 배웅식"
+ },
  "8f965b8cf3fb": {
   "en": "Public text: kingdom-tolerideme.md",
   "t": "공개 텍스트: kingdom-tolerideme.md"
+ },
+ "907fbedfd469": {
+  "en": "<strong>Sanbi's Fish Drier Factory (#3):</strong> a large factory with tons of glass greenhouses, where fish are dried in the sun, to make dried fish or to send to Waterfall City for fish meal. Scientists are often hired to speed up the drying.",
+  "t": "<strong>산비 생선 건조 공장 (#3):</strong> 유리 온실이 잔뜩 있는 큰 공장으로, 햇볕에 생선을 말려 말린 생선을 만들거나 어분용으로 워터폴 시에 보낸다. 건조를 빠르게 하려고 과학자를 고용하는 일이 많다."
  },
  "928b852f5fd8": {
   "en": "Healing (Body Restore or Nari Refresher) removes the tattoos, so they have to be re-inked.",
@@ -543,6 +743,10 @@
   "en": "Contrary to all other kingdoms, residents vote on their city leader, and the leaders vote on the representative of Freeish. It seems to work for them, at least for the most part—",
   "t": "다른 모든 왕국과 달리, 주민들은 자기 도시의 지도자를 투표로 뽑고, 그 지도자들이 프리이시의 대표를 투표로 뽑는다. 적어도 대부분은 그들에게 잘 맞는 것 같다—"
  },
+ "967e7b1a6160": {
+  "en": "<strong>Local courier:</strong> the kingdom's own courier delivers anywhere in the kingdom for a flat 1 Pearl. It's not fast, since no Wingas are used (in emergencies, a human turns into a Large Winga and carries the message). Letters are one-way: if the address is wrong or the person isn't found, the mail goes to the castle, where it's stored for a while before being thrown out. Same postcard size as Winga mail, but the envelope is always white, to avoid confusion with Winga mail, and FROM and TO are written in uppercase.",
+  "t": "<strong>지역 택배:</strong> 왕국 자체 택배가 왕국 어디든 일괄 1펄에 배달한다. 윙가를 쓰지 않아서 빠르지는 않다(비상시에는 사람이 빅 윙가로 변해서 메시지를 나른다). 편지는 편도다: 주소가 틀렸거나 사람을 못 찾으면 우편물은 성으로 가서 한동안 보관되다 버려진다. 윙가 메일과 같은 엽서 크기지만, 윙가 메일과 헷갈리지 않게 봉투는 늘 흰색이고, FROM과 TO는 대문자로 쓴다."
+ },
  "982748d123d5": {
   "en": "The name stuck as this was the main village people fleeing from Sanbi/Tolerideme would see and make a decision of where to go next.",
   "t": "산비나 톨레리데메에서 도망쳐 온 사람들이 가장 먼저 보고 다음에 어디로 갈지 정하는 주요 마을이라서 굳어진 이름이다."
@@ -563,17 +767,45 @@
   "en": "The oldest village of the bunch of origins around the fall of Ganyrami. It came from a legend that people in the region hunted down and ate every one of the Lishies that survived the fall of Ganyrami.",
   "t": "가니라미 몰락 즈음에 생긴 마을들 중 가장 오래된 곳. 이 지역 사람들이 가니라미 몰락에서 살아남은 리시에스를 모조리 사냥해서 먹어 치웠다는 전설에서 유래했다."
  },
+ "9d2ae8a79f7a": {
+  "en": "<strong>News:</strong> official announcements are made by gathering people for an event around Sanbi Castle, or wherever suits the occasion: everything is an excuse to get together. Otherwise, the news goes to the guards, and people just ask a guard or a village elder. Not much is posted on walls; when something must be, like a wanted poster, the kingdom uses the embassy's services, for convenience.",
+  "t": "<strong>뉴스:</strong> 공식 발표는 산비 성 주변이나 상황에 맞는 곳에서 행사를 열어 사람들을 모아 한다: 뭐든 모일 핑계다. 그 밖에는 뉴스가 경비병에게 가고, 사람들은 그냥 경비병이나 마을 원로에게 묻는다. 벽에 붙는 건 별로 없다. 수배 전단처럼 꼭 붙여야 할 때는, 편해서 왕국이 대사관 서비스를 쓴다."
+ },
+ "9d701af3d2ad": {
+  "en": "<strong>Broken Beak Hotel (#7):</strong> where Kibe met one of the Aquamarine adventurers and got the Amethyst Smelly Killer Bagarisa. Known for hosting adventurers disembarking from Tastyleaf.",
+  "t": "<strong>부러진 부리 호텔 (#7):</strong> 키베가 아쿠아마린 모험가 중 한 명을 만나 애머시스트 스멜리 킬러 바가리사를 얻은 곳. 테이스티리프에서 내리는 모험가들을 받는 것으로 알려져 있다."
+ },
+ "9dd4207e8841": {
+  "en": "<strong>Sanbi's Castle Towers:</strong> five floors tall (the fifth is the triangular top).",
+  "t": "<strong>산비 성의 탑:</strong> 5층 높이(5층은 삼각형 꼭대기)."
+ },
+ "9fac47374d53": {
+  "en": "<strong>Shake Belly Festival:</strong> three days at the end of Adrian, to cheer everyone up for Asa. Each household cooks on one of the days (a ladle on the door marks the cooking households), while the others go around with decorated bowls, shaking their bellies at people's doors. The better the belly shake, the more food they get.",
+  "t": "<strong>배 흔들기 축제:</strong> 아드리안 말의 사흘 동안, 아사를 맞아 모두의 기운을 북돋운다. 집마다 그중 하루에 요리를 하고(요리하는 집은 문에 국자를 걸어 표시한다), 나머지는 꾸민 그릇을 들고 돌아다니며 집집마다 문 앞에서 배를 흔든다. 배를 잘 흔들수록 음식을 더 받는다."
+ },
  "a018b97d8576": {
   "en": "It's a small political threat to the other kingdoms if it gets further ahead than they do. The Blood and Soil groups have started fighting.",
   "t": "다른 왕국들보다 앞서 나가면, 그들에게 작은 정치적 위협이 된다. 블러드 집단과 소일 집단은 싸우기 시작했다."
+ },
+ "a091462a09bb": {
+  "en": "<strong>Local embassy quests:</strong> Wood People control, Bahyum control, elevator maintenance, Hifuna reconnaissance, acquiring and hauling Fost stones.",
+  "t": "<strong>지역 대사관 의뢰:</strong> 우드 피플 관리, 바혐 관리, 엘리베이터 정비, 히푸나 정찰, 포스트석 확보와 운반."
  },
  "a10c3c53920e": {
   "en": "<strong>Roasted Greenbread beans</strong> (more common in the Soil group): a chocolatey, cola-like treat with a caramel accent. 5 Pearls a bowl.",
   "t": "<strong>볶은 그린브레드 콩</strong> (소일 집단에서 더 흔하다): 캐러멜 향이 도는, 초콜릿 같고 콜라 같은 간식. 한 그릇에 5펄."
  },
+ "a2d0d8e9bb76": {
+  "en": "<strong>Alcohol Leader</strong> (the Alcohol King, or Booze King): carries a corkscrew on the hip, also passed down through the generations, and also nothing special, other than being the same one.",
+  "t": "<strong>술 지도자</strong>(술의 왕, 또는 술꾼 왕): 역시 대대로 물려받은 코르크 따개를 허리에 찬다. 이것도 같은 물건이라는 것 말고는 특별할 게 없다."
+ },
  "a2df78213bac": {
   "en": "Getting anywhere without an egua is tricky unless you love walking—and by that, I mean you might have to walk 20,000 steps a day to do all of your errands as everything is entirely horizontal-like as if people were mortally afraid of heights.",
   "t": "걷는 걸 정말 좋아하는 게 아니라면 에구아 없이 어디든 가기는 까다롭다—볼일을 다 보려면 하루에 2만 보를 걸어야 할 수도 있다는 뜻이다. 사람들이 높은 곳을 죽도록 무서워하기라도 하는 것처럼 모든 게 완전히 수평으로 펼쳐져 있으니까."
+ },
+ "a35c266862f4": {
+  "en": "<strong>Sanbi's Castle:</strong> three floors tall (one is the roof). A castle with three towers around it, equally spaced, surrounded by walls. The only known way in or out is in front of Sanbi's Fountain, and the door only opens when the guards outside open it. Above the guards in the Monarchy Room there's a drawing of the world map, and there's a bathroom somewhere on the first floor. The Forway clerk assigned to sketch Sanbi Castle had too much to drink the night he stayed.",
+  "t": "<strong>산비 성:</strong> 3층 높이(하나는 지붕). 세 탑이 같은 간격으로 둘러싸고, 성벽으로 에워싼 성이다. 알려진 유일한 출입구는 산비 분수 앞에 있고, 문은 바깥의 경비병이 열어 줄 때만 열린다. 군주실의 경비병들 위에는 세계 지도 그림이 있고, 1층 어딘가에 화장실이 있다. 산비 성을 스케치하도록 배정된 포웨이 서기는 머문 날 밤에 술을 너무 많이 마셨다."
  },
  "a36155bc1d73": {
   "en": "<strong>Guards:</strong> Freeish guards are like a dollar-store version of Forway guards, but their courage and drive to protect their kingdom more than make up for their lighter, versatile bone-wood armor. When they pull their short swords from their forearm sleeves, get some distance, unless you can parry and strike true like no other. They like their nari bombs to close the gap, too. And their reflexes seem higher than average: the whole Freeish bloodline of guards has a tradition of training on hallucinogens from childhood, to sharpen their awareness and reaction times.",
@@ -591,6 +823,14 @@
   "en": "<strong>Cadioca with Fried Fish &amp; Domar Gyut</strong> (more common in the Soil group): fish breaded in Domar Gyut and fried, eaten with Cadioca and Basi Pulp. About 14 Pearls a meal.",
   "t": "<strong>카디오카를 곁들인 생선 튀김 &amp; 도마르 귯</strong> (소일 집단에서 더 흔하다): 도마르 귯을 입혀 튀긴 생선을 카디오카, 바시 과육과 함께 먹는다. 한 끼에 14펄쯤."
  },
+ "ad052bfa5c1e": {
+  "en": "<strong>Farm Leader</strong> (the Farm King, or Dirt King): carries a wooden shovel on the hip, passed down through the generations. Nothing about it seems special.",
+  "t": "<strong>농업 지도자</strong>(농업왕, 또는 흙의 왕): 대대로 물려받은 나무 삽을 허리에 찬다. 특별해 보이는 건 하나도 없다."
+ },
+ "afc28b875f40": {
+  "en": "<strong>Fried Fish Balls:</strong> Sanbi fish dried, ground, mixed with Domar flour and fried, usually served on a wooden stick. 5 Pearls for a stick of 10 balls.",
+  "t": "<strong>생선 완자 튀김:</strong> 말린 산비 물고기를 빻아 도마르 가루와 섞어 튀긴 것으로, 보통 나무 꼬치에 꽂아 낸다. 완자 10개짜리 꼬치 하나에 5펄."
+ },
  "b010c23b5a5b": {
   "en": "<strong>Basi Pulp:</strong> common everywhere. A thick, filling paste that tastes earthy and slightly bitter, like pomegranate mixed with strong dark chocolate. Add Cadioca to make it grainier, or salt for an interesting taste, or go sweet with ice, fruit, etc. About 5 Pearls a bowl.",
   "t": "<strong>바시 과육:</strong> 어디서나 흔하다. 흙 맛이 나고 살짝 쓴, 석류에 진한 다크 초콜릿을 섞은 것 같은 걸쭉하고 든든한 페이스트. 카디오카를 넣으면 더 오돌토돌해지고, 소금을 넣으면 색다른 맛이 나며, 얼음이나 과일 등을 넣어 달게 먹어도 된다. 한 그릇에 5펄쯤."
@@ -598,6 +838,14 @@
  "b054a701a3cb": {
   "en": "<strong>Local embassy quests:</strong> desert protection and clearing sand off the roads; maintaining the mining holes and diving deeper; exploring and maintaining the desert and the west and north.",
   "t": "<strong>지역 대사관 의뢰:</strong> 사막 경호와 길에 쌓인 모래 치우기, 광산 구멍 정비와 더 깊이 파 들어가기, 사막과 서쪽과 북쪽 탐사와 정비."
+ },
+ "b1ca11a0b918": {
+  "en": "<strong>The Safe Fishing Prayer:</strong> every day, some people can be seen by the dock flailing their arms and feet to a rhythmic beat, looking at the sea and chanting fishing songs, hoping it will notice and listen to their request.",
+  "t": "<strong>안전한 낚시 기도:</strong> 날마다 부두 옆에서 몇몇 사람이 리듬에 맞춰 팔다리를 휘저으며 바다를 바라보고 낚시 노래를 부르는 모습을 볼 수 있다. 바다가 알아채고 그들의 부탁을 들어주길 바라는 것이다."
+ },
+ "b1dbc22971d4": {
+  "en": "Eiri's office:",
+  "t": "에이리의 집무실:"
  },
  "b21f6af02cd4": {
   "en": "Their customs revolve around fauna, flora, beasts and nature in general: basically a mix of other beliefs. There's a sense that one's own village and village group are better than the others, but people are very warm within their group. The Soil group protects the land more and is more in touch with the Trunk People, while the Blood group tends to be against them. People often say \"meet the darkness\" instead of \"death\". Real-world comparison: India, for its business style and wacky city layouts.",
@@ -631,6 +879,10 @@
   "en": "People from there were the first to plant Siguash in mass.",
   "t": "그곳 사람들이 처음으로 시구아시를 대량으로 심었다."
  },
+ "b8513ad2bb62": {
+  "en": "The land was incredibly fertile, but human technology couldn't make the most of it until the three sisters came along and revolutionized farming with Soul Energy and fish meal mixed with human poop. Over time an oligarchy formed, and it taxed alcohol to fund the war, until an uprising broke out. After the revolution, power was split between two people: the Farm Leader and the Alcohol Leader. When a leader dies, a castle party is held for the elite to say goodbye and appoint a new one. The courtroom scientist, a person appointed by Forway City, assists the pair and keeps them in check on the Prosperity Treaty.",
+  "t": "땅은 엄청나게 비옥했지만, 세 자매가 나타나 영혼 에너지와 사람 똥을 섞은 어분으로 농사에 혁명을 일으키기 전까지 인간의 기술로는 그걸 제대로 살리지 못했다. 시간이 흐르며 과두정이 생겼고, 전쟁 자금을 대려고 술에 세금을 매겼다가 봉기가 터졌다. 혁명 뒤 권력은 두 사람에게 나뉘었다: 농업 지도자와 술 지도자. 지도자가 죽으면 엘리트들이 작별을 고하고 새 지도자를 임명하는 성 파티가 열린다. 포웨이 시가 임명한 궁정 과학자가 두 사람을 돕고, 《번영 조약》에 맞게 견제한다."
+ },
  "b860ad1a442d": {
   "en": "<strong>Grand Hall (#4):</strong> where the current king and his family live.",
   "t": "<strong>대전당 (#4):</strong> 현 왕과 그 가족이 사는 곳."
@@ -663,9 +915,17 @@
   "en": "<strong>Wooly Rakuja Cheese:</strong> common throughout the kingdom, with a sharp, tangy flavor; if you like Rakuja, you'll like this. Slightly caramel in color and taste.",
   "t": "<strong>울리 라쿠자 치즈:</strong> 왕국 전역에서 흔하고, 톡 쏘고 새콤한 맛이 난다. 라쿠자를 좋아하면 이것도 좋아할 것이다. 색과 맛이 살짝 캐러멜 같다."
  },
+ "bd809297d6b8": {
+  "en": "<strong>Fish Gut Triage:</strong> Sanbi's suburbs, where things start to thin out.",
+  "t": "<strong>피시 거트 트리아지:</strong> 산비의 변두리. 여기서부터 집들이 듬성듬성해진다."
+ },
  "bd9274a5e0d3": {
   "en": "<strong>Low Pit (#5), Medium Pit (#6) and High Pit (#7):</strong> fighting places where Darfaries settle arguments and punishments; whoever loses has to clean up. The Low Pit is sandy, dry and hot; the Medium Pit warm and dry; the High Pit covered in snow.",
   "t": "<strong>로 핏 (#5), 미디엄 핏 (#6), 하이 핏 (#7):</strong> 다르파리에스가 다툼과 처벌을 결판내는 싸움터. 진 쪽이 뒷정리를 해야 한다. 로 핏은 모래투성이에 건조하고 덥고, 미디엄 핏은 따뜻하고 건조하며, 하이 핏은 눈으로 덮여 있다."
+ },
+ "be26a9b375df": {
+  "en": "<strong>East:</strong> guest bedrooms and storage. The main floor is a well-decorated living room of sorts, with toys, games, couches and boards scribbled with children's paintings.",
+  "t": "<strong>동쪽:</strong> 손님 침실과 창고. 1층은 장난감, 게임, 소파, 아이들 그림이 끄적여진 판이 있는, 잘 꾸민 일종의 거실이다."
  },
  "bfa399aa06f9": {
   "en": "Tolerideme Guards are considered the most chill of all the guards, but they can pack a punch with their defensive gauntlet-like weapon. Although they more often than not resort to using the Darfaries interface on themselves to cast elemental damage to force their enemies to surrender. That does make them wide open due to its slow casting, but they are always in large packs. They can use nari gels as well if they are in a pinch, so if you want to inflict damage, you better be quick and relentless about it, or you might be frozen, shocked, cooked, trampled, flogged, or smashed by giant balls of elemental spells until your spirit breaks!",
@@ -711,6 +971,10 @@
   "en": "Gandew Guards: a tall guard in tan armor with a mountain emblem and a spiked club, next to a desert map of Gandew.",
   "t": "간듀 경비병: 산 문장이 있는 황갈색 갑옷에 가시 곤봉을 든 키 큰 경비병. 옆에 간듀의 사막 지도가 있다."
  },
+ "ca42e54abbc8": {
+  "en": "<strong>Crime and law:</strong> follows Forway Law, but every punishment is starvation: the more severe the punishment, the longer the criminal starves.",
+  "t": "<strong>범죄와 법:</strong> 포웨이 법을 따르지만, 모든 처벌은 굶기기다: 처벌이 무거울수록 범인은 더 오래 굶는다."
+ },
  "caae19bc2e19": {
   "en": "<strong>Carbeyland (#11):</strong> the other \"original\" village where Carbey was first planted en masse (see Carbeyland #2).",
   "t": "<strong>카베이랜드 (#11):</strong> 카베이를 처음 대량으로 심었다는 또 다른 ‘원조’ 마을(카베이랜드 #2 참조)."
@@ -718,6 +982,10 @@
  "cac5418abb24": {
   "en": "Gandew Mountain is about 6 km tall. You have to travel above ground to Sundeath: underground, monsters mess with the tunnels, and people would probably get lost.",
   "t": "간듀산은 높이가 6km쯤이다. 선데스로 가려면 땅 위로 다녀야 한다: 땅 밑에서는 괴물들이 터널을 엉망으로 만들고, 사람들은 아마 길을 잃을 것이다."
+ },
+ "cbb391dbcd6e": {
+  "en": "Their impeccable precision reaches their names too: every name has an even number of letters, often exactly 4 or 6. Why? Because there's no \"maybe\" and no exceptions: it's what the Smart Ladies did, so it's the law. Names are usually in the English spectrum, from US to UK, with some Australian notes mixed in.",
+  "t": "그들의 흠잡을 데 없는 정확함은 이름에까지 미친다: 모든 이름은 글자 수가 짝수이고, 정확히 4자나 6자인 경우가 많다. 왜냐고? ‘아마도’도 예외도 없으니까: 영리한 숙녀들이 그렇게 했으니, 그게 법이다. 이름은 보통 미국에서 영국까지 영어권 범위에 있고, 호주 느낌이 좀 섞여 있다."
  },
  "cc0d447485b9": {
   "en": "<strong>Lollish-Floaters:</strong> a Gyut-based drink. Citrusy, orange-like and tart, with a ginger-like fist of flavor at the end. About 9 Pearls a drink. Topping, then base:",
@@ -727,9 +995,25 @@
   "en": "Customs and culture",
   "t": "관습과 문화"
  },
+ "cff04f101569": {
+  "en": "More honest than most, and ironclad: their culture likely won't ever change, since everyone follows it so closely. They don't negotiate: the stated price is the price they've concluded is fairest. They rely heavily on Soul Energy and avoid physical work as much as possible, with a \"fair work, fair pay\" mindset and a utilitarian view of tools. They're precise: if someone promised something, especially showing up on a given day and time, they'd better. Downing a massive amount of alcohol and keeping it down is considered tough. They wear hats to show their symbol, work, life, etc., and they're louder than most. Toilets are communal so the poop can be collected, and they still mix it with Soul Energy and fish meal.",
+  "t": "대부분보다 더 정직하고, 철벽같다: 모두가 문화를 철저히 따르니, 그 문화는 아마 결코 바뀌지 않을 것이다. 흥정하지 않는다: 부른 값이 그들이 가장 공정하다고 결론 내린 값이다. 영혼 에너지에 크게 기대고 몸 쓰는 일은 최대한 피하며, ‘공정한 일, 공정한 대가’라는 사고방식과 도구에 대한 실용주의적 시각을 갖고 있다. 정확하다: 누가 무언가를 약속했다면, 특히 어느 날 몇 시에 나타나겠다고 했다면, 그래야만 한다. 엄청난 양의 술을 들이켜고 토하지 않는 게 강인함으로 여겨진다. 상징, 일, 삶 등을 보여 주려고 모자를 쓰고, 대부분보다 시끄럽다. 똥을 모을 수 있게 화장실은 공용이고, 지금도 그걸 영혼 에너지와 어분과 섞는다."
+ },
+ "d0ebe51ea7ca": {
+  "en": "<strong>West:</strong> the Soul Energy department's living quarters, offices and testing sites.",
+  "t": "<strong>서쪽:</strong> 영혼 에너지 부서의 거처, 집무실, 시험장."
+ },
  "d1b36b2075ab": {
   "en": "You might also take a while to get used to the architecture since most buildings are part of cavern systems, and the temperature changes can be rather harsh. Lastly, don't be worried if you hear a deathly scream; it's probably just a Wooly about to become steak.",
   "t": "건물 대부분이 동굴 체계의 일부이고 기온 변화가 꽤 혹독할 수 있어서, 건축 양식에 익숙해지는 데도 시간이 좀 걸릴 거다. 마지막으로, 죽어 가는 듯한 비명이 들려도 걱정하지 마. 아마 울리 한 마리가 스테이크가 되려는 참일 테니까."
+ },
+ "d2a829a46818": {
+  "en": "<strong>Economy:</strong> Domar Carbey, for its impressive taste and quality; beers, ales and spirits; Fost stones.",
+  "t": "<strong>경제:</strong> 인상적인 맛과 품질의 도마르 카베이, 맥주, 에일, 증류주, 포스트석."
+ },
+ "d30630302a16": {
+  "en": "<strong>The Alcohol District (#5):</strong> a large area where many small beer, ale and spirit makers, working from generations of guild recipes, compete for the popular vote across the kingdom. Scientists often lend their services to the companies, and some become alcohol makers themselves.",
+  "t": "<strong>술 구역 (#5):</strong> 대대로 이어진 길드 레시피로 일하는 작은 맥주, 에일, 증류주 제조자들이 왕국 전역의 인기투표를 두고 겨루는 넓은 구역. 과학자들이 회사들에 서비스를 빌려주는 일이 많고, 직접 술 제조자가 되는 과학자도 있다."
  },
  "d3f4c887ccd1": {
   "en": "<strong>Sweet Siguash (#7):</strong> its people were the first to plant Siguash en masse.",
@@ -774,6 +1058,10 @@
  "dd1896525f59": {
   "en": "They get along with other species but keep their privacy; they rarely make friends, but when they do, it's for life. They avoid using Soul Energy for anything they can do by hand, so they don't grow dependent on it, since the ancient Darfaries cleaned the mountain with their bare hands (not quite 100% true). That runs through the rest of their society, including their reputation for preserved, non-refrigerated food. They greet with the Mountain Greeting, which Hiromi teaches Harry in Vol 2: hands up and feet spread apart, they come belly to belly and hand to hand, spreading their feet wider (or lowering a hand) to level with someone shorter. Communists, and very clean people despite the sand. Boots and sandals stay in one spot inside the home, like in Japanese homes.",
   "t": "다른 종과 잘 지내지만 사생활을 지킨다. 친구를 거의 사귀지 않지만, 사귀면 평생 간다. 손으로 할 수 있는 일에는 영혼 에너지를 쓰지 않으려 한다. 고대 다르파리에스가 맨손으로 산을 청소했으니(100% 사실은 아니다) 거기에 기대지 않으려는 것이다. 그 정신이 사회 나머지에도 배어 있어서, 냉장하지 않고 보존한 음식으로 유명한 것도 그 때문이다. 인사는 산의 인사로 한다. 2권에서 히로미가 해리에게 가르쳐 주는 인사다: 손을 들고 발을 벌린 채 배와 배, 손과 손을 맞대고, 키가 더 작은 상대와 높이를 맞추려면 발을 더 벌린다(아니면 손을 내린다). 공산주의자들이고, 모래투성이인데도 아주 깔끔하다. 장화와 샌들은 일본 집처럼 집 안 한곳에 둔다."
+ },
+ "de5320e78d34": {
+  "en": "<strong>Hard Mud:</strong> Sanbi's offshoot of the Gandew snack, with its own variants that don't rely on butter or milk: a brittle texture and a lardy flavor, with hints of something like pistachio and cinnamon. Some variants add Gyut.",
+  "t": "<strong>하드 머드:</strong> 간듀 간식에서 갈라져 나온 산비판으로, 버터나 우유에 기대지 않는 자기만의 변형이 있다: 바삭바삭한 식감에 라드 맛이 나고, 피스타치오와 계피 같은 기운이 돈다. 귯을 넣는 변형도 있다."
  },
  "e02ec5de7204": {
   "en": "Names often lean toward Asian names, especially Chinese and Japanese. City names are usually \"High-Gandew\", \"Medium-Gandew\" or \"Low-Gandew\". For all intents and purposes, that's the law of the land, and you'll likely be ostracized if it isn't on your badge. The culture has relaxed a bit, though: people shorten \"Medium-Gandew\" to \"Mid-Gandew\" on badges and get away with it, and at this rate \"Mid-Gandew\" may become official with the guards and kingdom staff.",
@@ -843,9 +1131,17 @@
   "en": "Also, they are not lazy! It's a simple matter of \"Work smarter, not harder!\" If soul energy can do it, they won't move a finger of their corpulent body to do it. In the same vein, if you decide to get into a contract with them, you better not assume they will go above and beyond for you. If it's not in the contract, it will not get done.",
   "t": "그리고 그들은 게으르지 않다! 그냥 “더 힘들게가 아니라 더 똑똑하게 일하라!”는 것뿐이다. 영혼 에너지로 할 수 있다면, 그들은 그 뚱뚱한 몸의 손가락 하나 까딱하지 않는다. 같은 맥락에서, 그들과 계약을 맺기로 했다면 너를 위해 그 이상을 해 줄 거라고 생각하지 마라. 계약에 없으면, 안 한다."
  },
+ "f827f1b85ff4": {
+  "en": "The Tolerideme Castle (#1)",
+  "t": "톨레리데메 성 (#1)"
+ },
  "f9cc9d999108": {
   "en": "<strong>Weapon Fest:</strong> every Adrian, to see who makes the toughest weapon in each category.",
   "t": "<strong>무기 축제:</strong> 매년 아드리안에 분야마다 누가 가장 튼튼한 무기를 만드는지 겨룬다."
+ },
+ "f9f29d6a4aca": {
+  "en": "<strong>Soul Send Away:</strong> the burial ritual, usually at the Old Wharf (see Burial).",
+  "t": "<strong>영혼 배웅식:</strong> 장례 의식으로, 보통 오래된 부두에서 한다(장례 참조)."
  },
  "f9fc99f2836d": {
   "en": "Freeish location names: a forest map with numbered villages from 1 to 12 around a lake.",
@@ -862,6 +1158,10 @@
  "fbc2d07cce25": {
   "en": "Gandew Guards are the most physical ones, and they’re brutal about it. If their blunt weapon touches you, you likely won’t be going anywhere for a while. They tend to travel alone for customary reasons, but you would be foolish to think they are easy pickings. Their chitin armor is tough, and they earn their paycheck with the blood and tears—of their enemies. Also, don’t expect to strike up many conversations with them when they have their helmet on; they are generally more reserved than other guards, but the issue is that their helmet locks their large tusks in place, preventing them from opening their mouths. Some still say, “Pfff—it was a design flaw with the armor, but they won’t admit it because Darfaries being Darfaries, am I right?” However, scholars proved already that it was to create a silent servitude, so it was a feature, not a bug.",
   "t": "간듀 경비병은 가장 육체파이고, 그 방식이 잔혹하다. 그들의 둔기에 닿기만 해도 한동안 어디도 못 갈 가능성이 높다. 관습상의 이유로 혼자 다니는 경향이 있지만, 쉬운 먹잇감이라고 생각한다면 바보다. 키틴 갑옷은 튼튼하고, 그들은 피와 눈물로 월급을 번다—적의 피와 눈물로. 그리고 투구를 쓰고 있을 때 그들과 대화를 나눌 거라고 기대하지 마. 다른 경비병들보다 대체로 과묵하기도 하지만, 문제는 투구가 커다란 엄니를 고정해서 입을 못 열게 한다는 거다. 어떤 이들은 여전히 “푸—그건 갑옷의 설계 결함인데, 다르파리에스는 다르파리에스니까 인정을 안 하는 거지, 안 그래?”라고 말한다. 하지만 학자들은 이미 그게 침묵의 복종을 만들기 위한 것이었다고, 즉 버그가 아니라 기능이었다고 증명했다."
+ },
+ "fc94da20709f": {
+  "en": "<strong>The Smart Ladies:</strong> a statue of three fat ladies, Evedyn, Everyn and Evelyn, whose farming knowledge made them incredibly useful to Tolerideme's rise as a kingdom. Their honesty, smarts and constant drive to better themselves became a way of life for many. Getting fat is part of that way of life, as a status symbol; so is wearing hats.",
+  "t": "<strong>영리한 숙녀들:</strong> 뚱뚱한 세 숙녀, 에베딘, 에버린, 에벌린의 조각상. 그들의 농사 지식은 톨레리데메가 왕국으로 일어서는 데 엄청나게 쓸모가 있었다. 그들의 정직함, 영리함, 끊임없이 나아지려는 의지는 많은 이의 삶의 방식이 되었다. 뚱뚱해지는 것도 지위의 상징으로서 그 삶의 방식의 일부고, 모자를 쓰는 것도 그렇다."
  },
  "fe0258830a54": {
   "en": "Visual references",
