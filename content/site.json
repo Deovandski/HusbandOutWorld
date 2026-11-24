@@ -607,6 +607,14 @@
         "data": "territory-snipping.json",
         "lore": "/lore/pastimes/#territory-snipping",
         "intro": "Play the round of <a href=\"{lore}\">Territory Snipping</a> from Vol 2, as Harry, against Hiromi."
+      },
+      {
+        "id": "minari",
+        "title": "Minari",
+        "component": "minari",
+        "data": "minari.json",
+        "lore": "/lore/pastimes/#minari",
+        "intro": "<a href=\"{lore}\">Minari</a>, the carved-statue game played in Sanbi Castle's game room: a working prototype, against Nina, Aurora or Neferteri."
       }
     ]
   },

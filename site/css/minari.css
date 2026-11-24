@@ -1,0 +1,100 @@
+/* Minari (reusable component): see site/js/minari.js for usage.
+   Theme: --minari-wood (the table), --minari-ink, --minari-accent, --minari-line. */
+.minari {
+  --_wood: var(--minari-wood, #6b4524);
+  --_ink: var(--minari-ink, inherit);
+  --_accent: var(--minari-accent, #39c5bb);
+  --_line: var(--minari-line, rgba(127, 127, 127, 0.4));
+  color: var(--_ink);
+  font-family: var(--sans, system-ui, sans-serif);
+  margin: 0 0 2rem;
+}
+.minari [hidden],
+.minari__strings { display: none !important; }
+.minari h3 { font-size: 1rem; margin: 1rem 0 0.4rem; }
+.minari__rules { margin: 0 0 0.8rem; border: 1px solid var(--_line); border-radius: 10px; padding: 0.4rem 0.8rem; font-size: 0.85rem; }
+.minari__rules summary { cursor: pointer; font-weight: 700; }
+.minari__rules ul { margin: 0.4rem 0 0.2rem; padding-inline-start: 1.2rem; }
+.minari__live { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.minari__sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.minari__hint, .minari__turn { margin: 0.3rem 0; font-weight: 700; }
+
+/* buttons */
+.minari button { font: inherit; color: inherit; cursor: pointer; }
+.minari button:disabled { cursor: default; }
+.minari button:focus-visible { outline: 2px solid var(--_accent); outline-offset: 2px; }
+.minari__btn { min-height: 44px; padding: 0.4rem 1.1rem; border-radius: 999px; border: 1px solid var(--_accent); background: transparent; color: var(--_accent); font-weight: 800; }
+.minari__btn--main { background: var(--_accent); color: var(--minari-on-accent, #062523); }
+.minari__btn:disabled { opacity: 0.45; }
+.minari__setup-actions, .minari__actions { display: flex; flex-wrap: wrap; align-items: center; gap: 0.6rem 1rem; margin-top: 0.9rem; }
+.minari__paint { display: inline-flex; align-items: center; gap: 0.3rem; font-size: 0.9rem; }
+
+/* opponents */
+.minari__opps { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.minari__opp { display: grid; grid-template-columns: auto 1fr; grid-template-rows: auto auto; column-gap: 0.6rem; align-items: center; text-align: start;
+  padding: 0.4rem 0.9rem 0.4rem 0.4rem; border: 1px solid var(--_line); border-radius: 12px; background: transparent; min-width: 11rem; }
+.minari__opp img { grid-row: span 2; border-radius: 50%; object-fit: cover; }
+.minari__opp span { font-size: 0.8rem; opacity: 0.8; }
+.minari__opp[aria-pressed='true'] { border-color: var(--_accent); box-shadow: inset 0 0 0 1px var(--_accent); }
+
+/* statues: carved wood, unless painted */
+.minari__pool, .minari__hand { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.minari__pick { padding: 0.25rem; border: 1px solid transparent; border-radius: 12px; background: transparent; }
+.minari__pick[aria-pressed='true'] { border-color: var(--_accent); background: rgba(127, 127, 127, 0.12); }
+.minari__pick:disabled { opacity: 0.6; }
+.minari__statue { position: relative; display: inline-grid; justify-items: center; width: 4.6rem; font-size: 0.7rem; line-height: 1.15; }
+.minari__statue img, .minari__blank { width: 3rem; height: 3rem; border-radius: 50% 50% 40% 40%; object-fit: cover; background: #a0703f;
+  border: 3px solid var(--_wood); box-shadow: 0 3px 0 #3a2412; filter: sepia(1) saturate(1.4) hue-rotate(-12deg) contrast(1.1) brightness(0.85); }
+.minari__statue.is-painted img { filter: none; }
+.minari__pw { position: absolute; top: -0.2rem; inset-inline-end: 0.35rem; min-width: 1.3rem; padding: 0 0.25rem; border-radius: 999px;
+  background: #1b1310; color: #fff; font-size: 0.75rem; text-align: center; font-variant-numeric: tabular-nums; }
+.minari__nm { margin-top: 0.15rem; max-width: 100%; overflow-wrap: anywhere; text-align: center; }
+.minari__gem { position: absolute; top: 1.9rem; inset-inline-start: 0.55rem; width: 0.8rem; height: 0.8rem; transform: rotate(45deg);
+  background: linear-gradient(135deg, #e7f6ff, #5fb3ff 60%, #2a5fa8); border: 1px solid #fff; }
+.minari__statue.is-out img { opacity: 0.35; }
+.minari__statue.is-out::after { content: '✕'; position: absolute; top: 0.6rem; font-size: 1.6rem; color: #d33; }
+.minari__flora-list { margin: 0; padding-inline-start: 1.2rem; font-size: 0.85rem; }
+
+/* the table */
+.minari__top { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 0.4rem; }
+.minari__opp-pic { border-radius: 50%; object-fit: cover; }
+.minari__status { display: flex; flex-wrap: wrap; gap: 0.2rem 1rem; font-size: 0.85rem; }
+.minari__board { padding: 0.5rem; border-radius: 14px; background: var(--_wood);
+  background-image: repeating-linear-gradient(90deg, rgba(0, 0, 0, 0.08) 0 2px, transparent 2px 22px); color: #fff; }
+.minari__side { margin: 0.1rem 0.2rem; font-size: 0.75rem; opacity: 0.85; }
+.minari__row { display: grid; grid-template-columns: repeat(var(--lanes, 5), minmax(0, 1fr)); gap: 0.35rem; }
+.minari__totals { margin: 0.25rem 0; font-size: 0.72rem; text-align: center; font-variant-numeric: tabular-nums; }
+.minari__sq { position: relative; display: flex; flex-direction: column; align-items: stretch; min-height: 6.5rem; padding: 0.25rem; border: 0;
+  border-radius: 8px; background: var(--sq); color: #1b1310; text-align: center;
+  box-shadow: 0 calc(var(--h, 0) * 4px + 2px) 0 rgba(0, 0, 0, 0.45); transform: translateY(calc(var(--h, 0) * -4px)); }
+.minari__sq-label { display: block; margin: 0 auto 0.2rem; padding: 0 0.35rem; border-radius: 6px; background: rgba(255, 255, 255, 0.82); font-size: 0.68rem; font-weight: 700; }
+
+.minari__sq:disabled { color: #1b1310; opacity: 1; }
+.minari__sq--you:not(:disabled) { outline: 2px dashed rgba(255, 255, 255, 0.9); outline-offset: -4px; }
+.minari__sq--you:not(:disabled):hover { filter: brightness(1.08); }
+.minari__pieces { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.1rem; margin: 0; padding: 0; list-style: none; }
+.minari__piece { position: relative; display: grid; justify-items: center; }
+.minari__piece .minari__statue { width: 3.4rem; }
+.minari__piece .minari__statue img, .minari__piece .minari__blank { width: 2.1rem; height: 2.1rem; border-width: 2px; }
+.minari__piece .minari__gem { top: 1.3rem; inset-inline-start: 0.4rem; }
+.minari__base { margin-top: -0.1rem; padding: 0 0.3rem; border-radius: 4px; background: #2f6b2a; color: #fff; font-size: 0.6rem; }
+
+.minari__bases { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.minari__base-btn { display: inline-flex; align-items: center; gap: 0.3rem; min-height: 40px; padding: 0.2rem 0.7rem; border-radius: 999px;
+  border: 1px solid var(--_line); background: transparent; font-size: 0.85rem; }
+.minari__base-btn img { border-radius: 50%; object-fit: cover; }
+.minari__base-btn[aria-pressed='true'] { border-color: var(--_accent); box-shadow: inset 0 0 0 1px var(--_accent); }
+.minari__base-btn:disabled { opacity: 0.55; }
+.minari__log { margin: 0.8rem 0 0; padding-inline-start: 1.2rem; font-size: 0.8rem; opacity: 0.85; }
+.minari__summary { margin-top: 0.8rem; padding: 0.6rem 0.9rem; border: 1px solid var(--_accent); border-radius: 12px; }
+.minari__summary ul { margin: 0 0 0.6rem; padding-inline-start: 1.2rem; }
+
+@media (max-width: 560px) {
+  .minari__sq { min-height: 5.5rem; }
+  .minari__piece .minari__statue { width: 2.6rem; }
+  .minari__piece .minari__nm { display: none; }
+  .minari__sq-label { font-size: 0.6rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .minari * { transition: none !important; animation: none !important; }
+}
