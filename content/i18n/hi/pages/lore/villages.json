@@ -1,4 +1,8 @@
 {
+ "0013ecdd6cce": {
+  "en": "A village east of Sanbi. Its blacksmiths, a father and son, suck at their job.",
+  "t": "सनबी के पूर्व में एक गाँव। इसके लोहार, एक बाप और बेटा, अपने काम में बेकार हैं।"
+ },
  "025d108f6ea1": {
   "en": "Saltwater",
   "t": "सॉल्टवॉटर"
@@ -7,9 +11,21 @@
   "en": "Todame",
   "t": "टोडामे"
  },
+ "076779d7d8cc": {
+  "en": "A small village by two rivers. It floods every spring, so every house is built off the ground.",
+  "t": "दो नदियों के किनारे एक छोटा गाँव। हर बसंत में यहाँ बाढ़ आती है, तो हर घर ज़मीन से ऊपर बना है।"
+ },
+ "0de63bd59d9f": {
+  "en": "A village west of Northpoint, founded by someone who was nearly the Lishies' food, though it never grew much, for whatever reason. It has a lighthouse.",
+  "t": "नॉर्थपॉइंट के पश्चिम में एक गाँव, जिसे किसी ऐसे ने बसाया जो लगभग लिशीज़ का खाना बन गया था, हालाँकि यह कभी ज़्यादा बढ़ा नहीं, जो भी वजह हो। वहाँ एक प्रकाश-स्तंभ है।"
+ },
  "159a1c3c92ce": {
   "en": "Tolame",
   "t": "टोलामे"
+ },
+ "1600c59ad2d1": {
+  "en": "A village not too far from Forway City, where Harry and Dalila got on a wagon. It's called Jack Wood because its early residents were famous for robbing travelers by blocking the road with trees (hijack, jack).",
+  "t": "फ़ॉरवे सिटी से ज़्यादा दूर नहीं एक गाँव, जहाँ हैरी और दलीला एक गाड़ी पर चढ़े। इसे जैक वुड इसलिए कहते हैं क्योंकि इसके शुरुआती बाशिंदे पेड़ों से सड़क रोककर यात्रियों को लूटने के लिए मशहूर थे (hijack, jack)।"
  },
  "164be3a324db": {
   "en": "Torame",
@@ -35,13 +51,33 @@
   "en": "Summary written by AI from the author's notes (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Villages.md\">Villages.md</a>). <a href=\"/about/ai-disclosure/\">AI disclosure</a>",
   "t": "लेखक के नोट्स से AI द्वारा लिखा गया सारांश (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Villages.md\">Villages.md</a>)। <a href=\"/about/ai-disclosure/\">AI प्रकटीकरण</a>"
  },
+ "2cd87c6f70bd": {
+  "en": "A village north of Sanbi. Sometimes saltwater and water from the waterfall mix in the harbor and make the water light up. It has a lighthouse.",
+  "t": "सनबी के उत्तर में एक गाँव। कभी-कभी बंदरगाह में खारा पानी और झरने का पानी मिलकर पानी को जगमगा देते हैं। वहाँ एक प्रकाश-स्तंभ है।"
+ },
+ "35ecd1f08177": {
+  "en": "A village east of Sanbi. The village chief, Tupinamba, is old and cranky but realistic: when he says something is shit, it's because it is. He seems about as old as Gabiro, but a bit fatter and taller.",
+  "t": "सनबी के पूर्व में एक गाँव। गाँव का मुखिया, तुपिनाम्बा, बूढ़ा और चिड़चिड़ा पर यथार्थवादी है: जब वह कहता है कि कोई चीज़ बकवास है, तो इसलिए कि वह है। वह लगभग गबीरो जितना बूढ़ा लगता है, पर थोड़ा ज़्यादा मोटा और लंबा।"
+ },
+ "3cf7066fe8f0": {
+  "en": "It floods every spring, as the river flow changes and the snow melts, so every house is built off the ground.",
+  "t": "हर बसंत में यहाँ बाढ़ आती है, जब नदी का बहाव बदलता है और बर्फ़ पिघलती है, तो हर घर ज़मीन से ऊपर बना है।"
+ },
  "4175524e9250": {
   "en": "Minala",
   "t": "मिनाला"
  },
+ "41e6b1c41ef1": {
+  "en": "A village next to Bahyum; see Bahyum under Land for more, including the castle mood tracker.",
+  "t": "बाह्युम के बगल में एक गाँव; और जानकारी के लिए, क़िले के मूड वाले सूचक समेत, भूमि में बाह्युम देखो।"
+ },
  "4291c6875b62": {
   "en": "Totame",
   "t": "टोटामे"
+ },
+ "4f75c386ee02": {
+  "en": "A really old village in the middle of nowhere. There's a fair amount of inbreeding.",
+  "t": "बीच वीराने में एक सचमुच पुराना गाँव। यहाँ आपस में शादियाँ काफ़ी होती हैं।"
  },
  "544ef03fd71c": {
   "en": "Banhia",
@@ -51,6 +87,10 @@
   "en": "Tomame",
   "t": "टोमामे"
  },
+ "58b46653244f": {
+  "en": "Usually one or two people in this \"village\", who dare to stay isolated long enough to get rich. Its lighthouse keeps boats from straying too far northeast by accident, and boats coming from Newland from going too far south.",
+  "t": "इस \"गाँव\" में आम तौर पर एक या दो लोग होते हैं, जो अमीर बनने तक अकेले रहने की हिम्मत करते हैं। इसका प्रकाश-स्तंभ नावों को ग़लती से बहुत उत्तर-पूर्व भटकने से, और न्यूलैंड से आती नावों को बहुत दक्षिण जाने से रोकता है।"
+ },
  "5a2eae7c1c93": {
   "en": "Tofame",
   "t": "टोफ़ामे"
@@ -58,6 +98,10 @@
  "5b68530e46b5": {
   "en": "Otherside",
   "t": "अदरसाइड"
+ },
+ "5b7dc6d64e31": {
+  "en": "A village on the left edge of Endlessfog Island. It has a lighthouse.",
+  "t": "एंडलेसफ़ॉग द्वीप के बाएँ किनारे पर एक गाँव। वहाँ एक प्रकाश-स्तंभ है।"
  },
  "5c874ea7ca09": {
   "en": "Tohame",
@@ -67,9 +111,21 @@
   "en": "Long Bridge",
   "t": "लॉन्ग ब्रिज"
  },
+ "5f8f9e1f2bb7": {
+  "en": "A small village on Ganyrami Bay. It has a lighthouse.",
+  "t": "गैनीरामी बे पर एक छोटा गाँव। वहाँ एक प्रकाश-स्तंभ है।"
+ },
+ "63056165b37d": {
+  "en": "A village on the island on the other side: the goal for many, a long time ago, as they fled the Lishies' hungry mouths.",
+  "t": "दूसरी ओर के द्वीप पर एक गाँव: बहुत पहले बहुतों की मंज़िल, जब वे लिशीज़ के भूखे मुँहों से भाग रहे थे।"
+ },
  "66317632fdc8": {
   "en": "Fastwater",
   "t": "फ़ास्टवॉटर"
+ },
+ "6fc4cc7dea18": {
+  "en": "A village between Sanbi and Forway. Back in the day, crossing the river was a must, so a village grew around this resting point. The village elder, Tomanius, is a caring older guy. The bridge is four times as long as the reference, a bit like the one in Skyrim.",
+  "t": "सनबी और फ़ॉरवे के बीच एक गाँव। पुराने ज़माने में, नदी पार करना ज़रूरी था, तो इस पड़ाव के आसपास एक गाँव बस गया। गाँव का बुज़ुर्ग, टोमानियस, एक परवाह करने वाला अधेड़ आदमी है। पुल संदर्भ से चार गुना लंबा है, कुछ-कुछ स्काइरिम वाले जैसा।"
  },
  "70306a42ee97": {
   "en": "Green Sea",
@@ -79,9 +135,17 @@
   "en": "Lakeeye",
   "t": "लेकआई"
  },
+ "72d405bed437": {
+  "en": "A village southeast of Forway, near Likenia.",
+  "t": "फ़ॉरवे के दक्षिण-पूर्व में, लिकेनिया के पास एक गाँव।"
+ },
  "77eeb2f03e9d": {
   "en": "45 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "इस पेज की 45 और प्रविष्टियाँ सिर्फ़ <button class=\"linklike\" data-go-bts>पर्दे के पीछे</button> में हैं।"
+ },
+ "8028cee75734": {
+  "en": "A village east of Sanbi, not far from where Eori kept Harry hostage. The basement of Eori's hideout:",
+  "t": "सनबी के पूर्व में एक गाँव, उस जगह से ज़्यादा दूर नहीं जहाँ एओरी ने हैरी को बंधक बनाकर रखा। एओरी के ठिकाने का तहख़ाना:"
  },
  "844edd56f865": {
   "en": "Villages · #HusbandOutWorld",
@@ -103,6 +167,14 @@
   "en": "Jack Wood",
   "t": "जैक वुड"
  },
+ "8e7c1c5547fc": {
+  "en": "North of Tolerideme. Wood People are forced into place, forming a wall with Fost Stone.",
+  "t": "टॉलरिडीम के उत्तर में। वुड पीपल को ज़बरदस्ती जगह पर रखा जाता है, फ़ॉस्ट पत्थर के साथ एक दीवार बनाते हुए।"
+ },
+ "8f687d534f83": {
+  "en": "A village near Flatland, where a bandit group used broken weapons in their attacks, until adventurers flattened them a long time ago.",
+  "t": "फ़्लैटलैंड के पास एक गाँव, जहाँ डाकुओं का एक गिरोह अपने हमलों में टूटे हथियार इस्तेमाल करता था, जब तक बहुत पहले साहसियों ने उन्हें कुचल नहीं दिया।"
+ },
  "93f7ba85c7ed": {
   "en": "Freeish Region",
   "t": "फ़्रीइश क्षेत्र"
@@ -110,6 +182,18 @@
  "94f9a9d581cc": {
   "en": "Gandew Region",
   "t": "गैंड्यू क्षेत्र"
+ },
+ "968f0599653f": {
+  "en": "A village south of Sanbi. It has a lighthouse.",
+  "t": "सनबी के दक्षिण में एक गाँव। वहाँ एक प्रकाश-स्तंभ है।"
+ },
+ "976739e9be2b": {
+  "en": "A small village off Deltacross. It has a Gandew lighthouse.",
+  "t": "डेल्टाक्रॉस के पास एक छोटा गाँव। वहाँ गैंड्यू का एक प्रकाश-स्तंभ है।"
+ },
+ "98c7cb4f62c5": {
+  "en": "A village east of Sanbi.",
+  "t": "सनबी के पूर्व में एक गाँव।"
  },
  "993afbf1792a": {
   "en": "Rebula",
@@ -123,6 +207,10 @@
   "en": "An old lady, Fiera, took care of every passerby, whatever their origin or destination, and some like-minded people decided to stay and help strangers too.",
   "t": "फ़िएरा नाम की एक बूढ़ी औरत हर राहगीर की देखभाल करती थी, चाहे वह कहीं से भी आया हो या कहीं भी जा रहा हो, और कुछ उसी सोच वाले लोगों ने वहीं रुककर अजनबियों की मदद करने का फ़ैसला किया।"
  },
+ "a7972ad7eb55": {
+  "en": "A village near where two rivers meet, for people who wanted a peaceful life, but not too far from civilization.",
+  "t": "वहाँ के पास एक गाँव जहाँ दो नदियाँ मिलती हैं, उन लोगों के लिए जो एक शांत ज़िंदगी चाहते थे, पर सभ्यता से बहुत दूर नहीं।"
+ },
  "a8bdbf7926eb": {
   "en": "Arukia in Arc 1: two outfits of a brown-haired young woman, a black-and-blue maid dress and a casual blue top with a purple skirt.",
   "t": "आर्क 1 में अरुकिया: भूरे बालों वाली एक नौजवान औरत की दो पोशाकें, एक काली-नीली नौकरानी पोशाक और बैंगनी स्कर्ट के साथ एक आम नीला टॉप।"
@@ -131,6 +219,10 @@
   "en": "Villages (World Lore illustration)",
   "t": "गाँव (संसार का चित्र)"
  },
+ "aa99df9d1268": {
+  "en": "A village east of Sanbi, south of Green Sea. The village chief, Manbola, is an old lady who's chill with everything, just living life.",
+  "t": "सनबी के पूर्व में, ग्रीन सी के दक्षिण में एक गाँव। गाँव की मुखिया, मानबोला, एक बूढ़ी औरत है जो हर चीज़ को लेकर बेफ़िक्र है, बस ज़िंदगी जी रही है।"
+ },
  "bb32aa7791df": {
   "en": "Fostwater",
   "t": "फ़ॉस्टवॉटर"
@@ -138,6 +230,10 @@
  "bc510c5ac0fc": {
   "en": "Tosame",
   "t": "टोसामे"
+ },
+ "bfaff2cad3b8": {
+  "en": "A village on the north point of the bay. It has a lighthouse.",
+  "t": "खाड़ी के उत्तरी सिरे पर एक गाँव। वहाँ एक प्रकाश-स्तंभ है।"
  },
  "bfe6f52444a9": {
   "en": "Cliffbay",
@@ -175,6 +271,10 @@
   "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Villages.md\">Legacy/Behind The Scenes/World Lore/Villages.md</a>",
   "t": "स्रोत: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Villages.md\">Legacy/Behind The Scenes/World Lore/Villages.md</a>"
  },
+ "c85613d7f49b": {
+  "en": "A village quite far from Forway City, which Harry and Dalila passed through. Nailah, Severino and Vitor live here. Since it's deep in the forest, the village is fortified with walls.",
+  "t": "फ़ॉरवे सिटी से काफ़ी दूर एक गाँव, जिससे होकर हैरी और दलीला गुज़रे। नायला, सेवेरीनो और वितोर यहाँ रहते हैं। चूँकि यह जंगल के भीतर गहरे में है, गाँव दीवारों से क़िलेबंद है।"
+ },
  "c918beef2c0c": {
   "en": "Tojame",
   "t": "टोजामे"
@@ -182,6 +282,14 @@
  "c96e19027eee": {
   "en": "Togame",
   "t": "टोगामे"
+ },
+ "cc3de8998411": {
+  "en": "A village under Tolerideme's \"protection\", acting like an extension of the kingdom.",
+  "t": "टॉलरिडीम की \"सुरक्षा\" में एक गाँव, जो राज्य के ही एक विस्तार जैसा काम करता है।"
+ },
+ "cd8fa1407db5": {
+  "en": "<strong>Food:</strong> Fiera's baked pies, from recipes passed down through the generations. Deliciously moist.",
+  "t": "<strong>भोजन:</strong> फ़िएरा की सेंकी पाई, पीढ़ियों से चली आ रही विधियों से। लज़ीज़ और नरम।"
  },
  "cd94d22e162b": {
   "en": "Fiera’s Hut",
@@ -202,6 +310,14 @@
  "d7018b5be1b1": {
   "en": "Cocona: a palm tree with rainbow-colored fronds and several colorful nut-like fruits.",
   "t": "कोकोना: इंद्रधनुषी पत्तों और कई रंगीन, अखरोट जैसे फलों वाला एक ताड़ का पेड़।"
+ },
+ "d77003e40ffb": {
+  "en": "A village on the skinny part of the island. Nobody knows why the name Sandwich stuck.",
+  "t": "द्वीप के पतले हिस्से पर एक गाँव। कोई नहीं जानता कि सैंडविच नाम क्यों चिपक गया।"
+ },
+ "da39c22fbdeb": {
+  "en": "Not a very inventive name, but quite descriptive and honest. It has a lighthouse.",
+  "t": "कोई बहुत रचनात्मक नाम नहीं, पर काफ़ी वर्णनात्मक और ईमानदार। वहाँ एक प्रकाश-स्तंभ है।"
  },
  "dcd640303d5c": {
   "en": "Rich Island",
