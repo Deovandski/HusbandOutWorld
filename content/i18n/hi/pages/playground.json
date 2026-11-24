@@ -1,11 +1,47 @@
 {
+ "00f03137e155": {
+  "en": "Easy",
+  "t": "आसान"
+ },
+ "0105b596e57e": {
+  "en": "Base: {flora}",
+  "t": "आधार: {flora}"
+ },
+ "016c526a1d2a": {
+  "en": "Rounds won: you {you}, {opp} {them}",
+  "t": "जीते राउंड: तुम {you}, {opp} {them}"
+ },
+ "0240b5832a42": {
+  "en": "Plains",
+  "t": "मैदान"
+ },
+ "03f0feececb0": {
+  "en": "Flying",
+  "t": "उड़ान"
+ },
+ "08271419319f": {
+  "en": "Shield",
+  "t": "ढाल"
+ },
+ "0a27a3b002bc": {
+  "en": "Round {n}",
+  "t": "राउंड {n}"
+ },
  "0bf9322efcf3": {
   "en": "Final score: {you} {youScore}, {rival} {rivalScore}. {verdict}",
   "t": "अंतिम स्कोर: {you} {youScore}, {rival} {rivalScore}। {verdict}"
  },
+ "0cb6b91a7c7b": {
+  "en": "Take turns placing one statue on a square on your side, on a flora base if you like, or pass. Every piece you place is spent for the match, so save some for later rounds.",
+  "t": "बारी-बारी से अपनी तरफ़ एक ख़ाने पर एक मूर्ति रखो, चाहो तो किसी वनस्पति-आधार पर, या पास करो। तुम्हारा रखा हर मोहरा पूरे मैच के लिए ख़र्च हो जाता है, तो कुछ अगले राउंडों के लिए बचाकर रखो।"
+ },
  "0d4b087148ae": {
   "en": "Playground · #HusbandOutWorld",
   "t": "खेल का मैदान · #HusbandOutWorld"
+ },
+ "0e818bfa0679": {
+  "en": "monster",
+  "t": "राक्षस"
  },
  "11b7f08bcb49": {
   "en": "{player} snipes the {colour} territory ({points}).",
@@ -15,21 +51,85 @@
   "en": "Your turn: press Throw (or Space) when the aim is where you want it.",
   "t": "तुम्हारी बारी: जब निशाना सही जगह हो तब \"फेंको!\" (या स्पेस) दबाओ।"
  },
+ "20f062e88b88": {
+  "en": "−{n} to the strongest opposing statue in its lane",
+  "t": "इसकी क़तार में सबसे ताक़तवर विरोधी मूर्ति को −{n}"
+ },
  "21504db71017": {
   "en": "Play full screen",
   "t": "फ़ुल स्क्रीन में खेलो"
+ },
+ "2222ccdea406": {
+  "en": "+{n} at height {h} or more",
+  "t": "ऊँचाई {h} या उससे ज़्यादा पर +{n}"
+ },
+ "227af057c460": {
+  "en": "never weaker than its carving",
+  "t": "अपनी नक़्क़ाशी से कभी कमज़ोर नहीं"
+ },
+ "22ef541999f0": {
+  "en": "Next round",
+  "t": "अगला राउंड"
+ },
+ "24ae8a560983": {
+  "en": "Paint my statues",
+  "t": "मेरी मूर्तियाँ रँगो"
+ },
+ "25ab59baf8e0": {
+  "en": "Your side",
+  "t": "तुम्हारी तरफ़"
+ },
+ "2640f77e9f83": {
+  "en": "Now choose a square for {name}.",
+  "t": "अब {name} के लिए एक ख़ाना चुनो।"
  },
  "27bbcef16995": {
   "en": "Hiromi",
   "t": "हिरोमी"
  },
+ "285691ff158a": {
+  "en": "ignores lower ground",
+  "t": "नीची ज़मीन को अनदेखा करती है"
+ },
+ "28a2784f6046": {
+  "en": "You found the nari stone in {name}!",
+  "t": "तुम्हें {name} में नरी पत्थर मिल गया!"
+ },
+ "2f157d7130ab": {
+  "en": "Choose a statue for your nari stone first.",
+  "t": "पहले अपने नरी पत्थर के लिए एक मूर्ति चुनो।"
+ },
+ "3199ea056253": {
+  "en": "animal",
+  "t": "जानवर"
+ },
+ "320089389f44": {
+  "en": "Your battalion",
+  "t": "तुम्हारी बटालियन"
+ },
  "38d4249ff036": {
   "en": "⏱ {seconds}s · darts: {you} {youLeft}, {rival} {rivalLeft}",
   "t": "⏱ {seconds}s · डार्ट: {you} {youLeft}, {rival} {rivalLeft}"
  },
+ "39db64b96126": {
+  "en": "{opp} wins the match.",
+  "t": "मैच {opp} का।"
+ },
+ "3d254c73066e": {
+  "en": "None left.",
+  "t": "कुछ नहीं बचा।"
+ },
+ "3f21515a1b11": {
+  "en": "No base",
+  "t": "कोई आधार नहीं"
+ },
  "40e405b6605c": {
   "en": "I haven’t heard of that, but yeah, I prefer targeting the yellow ones, as those are worth more if you snipe all territories.",
   "t": "मैंने उसके बारे में नहीं सुना, पर हाँ, मुझे पीले वाले पर निशाना लगाना पसंद है, क्योंकि अगर तुम सारे इलाक़े छीन लो तो वे ज़्यादा क़ीमती होते हैं।"
+ },
+ "41fb3a0ef555": {
+  "en": "You win round {n}.",
+  "t": "राउंड {n} तुम्हारा।"
  },
  "42766efba402": {
   "en": "Middle ring",
@@ -38,6 +138,22 @@
  "42ae6cb3cd8f": {
   "en": "Time! The room starts to move too much…",
   "t": "समय! कमरा बहुत ज्यादा हिलने लगा…"
+ },
+ "449177d90198": {
+  "en": "its power stays hidden until the lanes are counted",
+  "t": "क़तारें गिने जाने तक इसकी ताक़त छिपी रहती है"
+ },
+ "45e05fa03651": {
+  "en": "Minari needs JavaScript to play.",
+  "t": "मिनारी खेलने के लिए JavaScript चाहिए।"
+ },
+ "46b474188aa4": {
+  "en": "Battlefield: {region}",
+  "t": "रणभूमि: {region}"
+ },
+ "4a4331759c36": {
+  "en": "<a href=\"/lore/pastimes/#minari\">Minari</a>, the carved-statue game played in Sanbi Castle's game room: a working prototype, against Nina, Aurora or Neferteri.",
+  "t": "<a href=\"/lore/pastimes/#minari\">मिनारी</a>, सनबी क़िले के खेल-कक्ष में खेला जाने वाला तराशी मूर्तियों का खेल: एक चलता-फिरता प्रोटोटाइप, नीना, अरोरा या नेफ़रटेरी के ख़िलाफ़।"
  },
  "4c660686dc07": {
   "en": "His first dart clings, then falls. The second lands on a green territory near the centre.",
@@ -51,21 +167,73 @@
   "en": "Kinda? Was the board always this big and colored? I thought it was rounded too— OH YEAH! The center is worth more, right?",
   "t": "कुछ-कुछ? क्या बोर्ड हमेशा इतना बड़ा और रंगीन होता था? मुझे लगा था वह गोल भी होता है— अरे हाँ! बीच वाला ज़्यादा क़ीमती होता है, है न?"
  },
+ "4ec00394908f": {
+  "en": "How to play",
+  "t": "कैसे खेलें"
+ },
+ "4f0919dac51a": {
+  "en": "Neferteri",
+  "t": "नेफ़रटेरी"
+ },
+ "4f4e60287877": {
+  "en": "You win the match!",
+  "t": "मैच तुम्हारा!"
+ },
  "50ccc5e2e037": {
   "en": "He aims for the same green, and lands far above it, on purple.",
   "t": "वही हरा निशाना लगाया और उससे बहुत ऊपर बैंगनी पर गिरा।"
+ },
+ "530cececb444": {
+  "en": "no stone inside.",
+  "t": "भीतर कोई पत्थर नहीं।"
+ },
+ "5719e9acd479": {
+  "en": "The table has <strong>5 lanes</strong>. Each lane has a square on your side and one on theirs, with a terrain and a height. A statue on its home terrain gets <strong>+2</strong>; standing higher than the square across gives <strong>+1 per level</strong>, lower gives the same as a minus.",
+  "t": "मेज़ पर <strong>5 क़तारें</strong> हैं। हर क़तार में एक ख़ाना तुम्हारी तरफ़ और एक उनकी तरफ़ है, एक ज़मीन और एक ऊँचाई के साथ। अपनी घरेलू ज़मीन पर मूर्ति को <strong>+2</strong> मिलता है; सामने वाले ख़ाने से ऊँचे होने पर <strong>हर स्तर पर +1</strong> मिलता है, नीचे होने पर उतना ही घटता है।"
  },
  "576766d387ec": {
   "en": "Play again",
   "t": "फिर से खेलो"
  },
+ "595f9c0beff7": {
+  "en": "{name} is eliminated: {result}",
+  "t": "{name} बाहर: {result}"
+ },
+ "5ad1c0fc4343": {
+  "en": "{who} passed.",
+  "t": "{who}: पास।"
+ },
+ "5c209e93ce26": {
+  "en": "Start the match",
+  "t": "मैच शुरू करो"
+ },
+ "5d0ac69701af": {
+  "en": "power {n}",
+  "t": "ताक़त {n}"
+ },
+ "6572f28b79ce": {
+  "en": "Lane {n}: tied, {a} to {b}.",
+  "t": "क़तार {n}: बराबरी, {a} बनाम {b}।"
+ },
  "69b0b68def54": {
   "en": "SEE? It’s all about mindset! You know what, Harry? You’re cool! So why not play a bit of territory snipping to celebrate?",
   "t": "देखा? सब सोच का खेल है! पता है क्या, हैरी? तुम मस्त हो! तो जश्न के लिए थोड़ी टेरिटरी स्निपिंग क्यों न खेलें?"
  },
+ "6cd280647632": {
+  "en": "{name}, {kind}, power {power}, home: {terrains}{traits}",
+  "t": "{name}, {kind}, ताक़त {power}, घरेलू ज़मीन: {terrains}{traits}"
+ },
+ "7468786df7e7": {
+  "en": "Your flora bases",
+  "t": "तुम्हारे वनस्पति-आधार"
+ },
  "76262d314611": {
   "en": "Territory Snipping: turn your phone sideways",
   "t": "टेरिटरी स्निपिंग: अपना फ़ोन आड़ा करो"
+ },
+ "78981b123f83": {
+  "en": "When both sides have passed, each lane goes to the side with more power there. The losing side's statues in that lane are <strong>eliminated</strong>, and you see whether the nari stone was inside.",
+  "t": "जब दोनों तरफ़ पास कर दें, हर क़तार उस तरफ़ जाती है जिसकी वहाँ ताक़त ज़्यादा है। उस क़तार में हारने वाली तरफ़ की मूर्तियाँ <strong>बाहर</strong> हो जाती हैं, और तुम देखते हो कि नरी पत्थर भीतर था या नहीं।"
  },
  "78988010b890": {
   "en": "red",
@@ -75,25 +243,65 @@
   "en": "{n} pt",
   "t": "{n} अंक"
  },
+ "7e99995a1667": {
+  "en": "Choose your opponent",
+  "t": "अपना विरोधी चुनो"
+ },
  "85a1ecacad2c": {
   "en": "That’s the spirit! … You played this before, right?",
   "t": "यह हुई न बात! … तुमने यह पहले खेला है, है न?"
+ },
+ "864900d5a132": {
+  "en": "hides your nari stone",
+  "t": "तुम्हारा नरी पत्थर छिपाती है"
+ },
+ "8845064f5b91": {
+  "en": "+{n} to a {kind}",
+  "t": "किसी {kind} को +{n}"
+ },
+ "888d16612e6f": {
+  "en": "Choose the statue that hides your nari stone.",
+  "t": "वह मूर्ति चुनो जो तुम्हारा नरी पत्थर छिपाएगी।"
  },
  "8bf12a38bad0": {
   "en": "Throw!",
   "t": "फेंको!"
  },
+ "8c8d4feff7de": {
+  "en": "Your nari stone is inside {name}.",
+  "t": "तुम्हारा नरी पत्थर {name} के भीतर है।"
+ },
+ "905cb326c779": {
+  "en": "You",
+  "t": "तुम"
+ },
+ "91586b73ba8c": {
+  "en": "the nari stone was inside!",
+  "t": "नरी पत्थर भीतर था!"
+ },
  "935f6cd89f4a": {
   "en": "A draw!",
   "t": "बराबरी!"
+ },
+ "93c3ef1e3de3": {
+  "en": "That square is full.",
+  "t": "वह ख़ाना भरा है।"
  },
  "94e6a3ea4d1f": {
   "en": "Turn your phone sideways to play.",
   "t": "खेलने के लिए अपना फ़ोन आड़ा करो।"
  },
+ "955ddba3d08e": {
+  "en": "{name}: {effect}",
+  "t": "{name}: {effect}"
+ },
  "96de5543d183": {
   "en": "yellow",
   "t": "पीला"
+ },
+ "98dc61652f7c": {
+  "en": "{opp} is choosing…",
+  "t": "{opp} की बारी…"
  },
  "992fb4c6838e": {
   "en": "{you} wins, somehow!",
@@ -103,6 +311,10 @@
   "en": "You’re coolio too!",
   "t": "तुम भी मस्तमौला हो!"
  },
+ "9c8238f65551": {
+  "en": "Snow",
+  "t": "बर्फ़"
+ },
  "a691267c5647": {
   "en": "{rival} wins.",
   "t": "{rival} जीत गया।"
@@ -111,6 +323,18 @@
   "en": "Cancelled! Both darts on the {colour} territory are out.",
   "t": "रद्द! {colour} इलाक़े पर दोनों डार्ट बाहर।"
  },
+ "a93e8afda9a1": {
+  "en": "Before the match, hide your <strong>nari stone</strong> inside one of your statues. Your opponent hides theirs too.",
+  "t": "मैच से पहले, अपनी किसी एक मूर्ति के भीतर अपना <strong>नरी पत्थर</strong> छिपाओ। तुम्हारा विरोधी भी अपना छिपाता है।"
+ },
+ "abb89bf474d1": {
+  "en": "home: {terrains}",
+  "t": "घरेलू ज़मीन: {terrains}"
+ },
+ "af503a976364": {
+  "en": "a random {min} to +{max}",
+  "t": "{min} से +{max} तक कोई भी संख्या"
+ },
  "afaed75406bd": {
   "en": "purple",
   "t": "बैंगनी"
@@ -118,6 +342,10 @@
  "b2b52c2fc7c2": {
   "en": "Snipe all territories? That’s—different—I think. Can—can you explain?",
   "t": "सारे इलाक़े छीन लो? यह तो—अलग है—मुझे लगता है। क्या—क्या तुम समझा सकते हो?"
+ },
+ "b31d36c1c500": {
+  "en": "Challenging",
+  "t": "चुनौती भरा"
  },
  "b8c8d91c4ad6": {
   "en": "Yellow centre",
@@ -143,9 +371,25 @@
   "en": "Next",
   "t": "अगला"
  },
+ "be2f6b076cd7": {
+  "en": "Minari: turn your phone sideways",
+  "t": "मिनारी: अपना फ़ोन आड़ा करो"
+ },
+ "be3975e50f11": {
+  "en": "{sign}{n} to the statue on it",
+  "t": "इस पर रखी मूर्ति को {sign}{n}"
+ },
  "c1218408e29a": {
   "en": "Just a hunk—that was me warming up! Now try to throw on a green section or anywhere else.",
   "t": "बस एक हंक—वह तो मेरा वॉर्म-अप था! अब हरे हिस्से पर या कहीं और फेंकने की कोशिश करो।"
+ },
+ "c30902149f0e": {
+  "en": "{opp}'s side",
+  "t": "{opp} की तरफ़"
+ },
+ "c384517d1937": {
+  "en": "{name}, power {power}",
+  "t": "{name}, ताक़त {power}"
  },
  "c7abd16eb68f": {
   "en": "Brotha—you suck at this—Harry?",
@@ -155,17 +399,37 @@
   "en": "—Yea? So I play next?",
   "t": "—हाँ? तो अगली बारी मेरी?"
  },
+ "c91b25d0e00d": {
+  "en": "−{n} to every opposing statue in its lane",
+  "t": "इसकी क़तार में हर विरोधी मूर्ति को −{n}"
+ },
  "caab81299f22": {
   "en": "The game starts as soon as the phone is sideways.",
   "t": "फ़ोन आड़ा होते ही गेम शुरू हो जाएगा।"
+ },
+ "cc14463c4dab": {
+  "en": "Lane {n}: {who} wins, {a} to {b}.",
+  "t": "क़तार {n}: {who} की जीत, {a} बनाम {b}।"
  },
  "cc60a1651cdd": {
   "en": "Final: {you} {youScore} · {rival} {rivalScore} · {verdict}",
   "t": "अंतिम: {you} {youScore} · {rival} {rivalScore} · {verdict}"
  },
+ "ce31bd9a119b": {
+  "en": "Nari stone",
+  "t": "नरी पत्थर"
+ },
  "ce3c494a5e85": {
   "en": "Aiight!",
   "t": "चलो ठीक!"
+ },
+ "d0bb566c5184": {
+  "en": "The match is a draw.",
+  "t": "मैच बराबरी पर।"
+ },
+ "d0db58d3de1d": {
+  "en": "humanoid",
+  "t": "इंसान जैसी"
  },
  "d153c794ecdb": {
   "en": "Play upright instead",
@@ -179,6 +443,50 @@
   "en": "Your dart flies low and lodges in the wall below the board.",
   "t": "तुम्हारा डार्ट नीचे उड़ा और बोर्ड के नीचे दीवार में धँस गया।"
  },
+ "d2c984ccb77d": {
+  "en": "Each side has <strong>10 carved statues</strong> (Races, Fauna and Beasts) and <strong>4 flora bases</strong>. The creature a statue shows is its power.",
+  "t": "हर तरफ़ <strong>10 तराशी मूर्तियाँ</strong> (नस्लें, जीव-जंतु और दरिंदे) और <strong>4 वनस्पति-आधार</strong> हैं। मूर्ति जो जीव दिखाती है, वही उसकी ताक़त है।"
+ },
+ "d3724d122484": {
+  "en": "{who} found the nari stone in {name}!",
+  "t": "{who}: {name} में नरी पत्थर मिल गया!"
+ },
+ "d404968ea90b": {
+  "en": "Medium",
+  "t": "मध्यम"
+ },
+ "d5936b9a0d86": {
+  "en": "Eliminated",
+  "t": "बाहर"
+ },
+ "d7cd56f2a2a3": {
+  "en": "Pass",
+  "t": "पास"
+ },
+ "ddc8e3b2c330": {
+  "en": "Your turn: choose a statue, then a square on your side.",
+  "t": "तुम्हारी बारी: एक मूर्ति चुनो, फिर अपनी तरफ़ एक ख़ाना।"
+ },
+ "dfe153f0c577": {
+  "en": "{who} placed {name} on a {flora} base, on {terrain} (power {power}).",
+  "t": "{who}: {name}, {flora} आधार पर, {terrain} पर (ताक़त {power})।"
+ },
+ "e48d1e99bbff": {
+  "en": "{a} : {b}",
+  "t": "{a} : {b}"
+ },
+ "e601068c1509": {
+  "en": "{who} wins round {n}.",
+  "t": "राउंड {n}: {who} की जीत।"
+ },
+ "e818d1b014a8": {
+  "en": "Lane {n}",
+  "t": "क़तार {n}"
+ },
+ "e8e05bdea850": {
+  "en": "Cloak",
+  "t": "छलावा"
+ },
  "e99283406209": {
   "en": "Play the round of <a href=\"/lore/pastimes/#territory-snipping\">Territory Snipping</a> from Vol 2, as Harry, against Hiromi.",
   "t": "खंड 2 की <a href=\"/lore/pastimes/#territory-snipping\">टेरिटरी स्निपिंग</a> की बाज़ी खेलिए, हैरी बनकर, हिरोमी के ख़िलाफ़।"
@@ -187,17 +495,77 @@
   "en": "Good try! Good try! C’mon! Try again!",
   "t": "अच्छी कोशिश! अच्छी कोशिश! चलो! फिर कोशिश करो!"
  },
+ "ea71ac574d84": {
+  "en": "Win more lanes to win the round. First to <strong>2 rounds</strong> wins, but finding the other side's nari stone wins at once.",
+  "t": "राउंड जीतने के लिए ज़्यादा क़तारें जीतो। जो पहले <strong>2 राउंड</strong> जीते वह जीतता है, पर दूसरी तरफ़ का नरी पत्थर ढूँढ लेना फ़ौरन जीत दिला देता है।"
+ },
+ "ee61b8c6ee53": {
+  "en": "Your statues",
+  "t": "तुम्हारी मूर्तियाँ"
+ },
+ "eeee9b76ec5d": {
+  "en": "Aurora",
+  "t": "अरोरा"
+ },
  "ef0ebbb77298": {
   "en": "orange",
   "t": "नारंगी"
+ },
+ "ef6906d30a91": {
+  "en": "Painting your statues is just for looks.",
+  "t": "अपनी मूर्तियाँ रँगना बस दिखावे के लिए है।"
+ },
+ "f1b44b944d26": {
+  "en": "{who} placed {name} on {terrain} (power {power}).",
+  "t": "{who}: {name}, {terrain} पर (ताक़त {power})।"
  },
  "f290164d1315": {
   "en": "Outer ring",
   "t": "बाहरी रिंग"
  },
+ "f2c741477316": {
+  "en": "a statue",
+  "t": "एक मूर्ति"
+ },
+ "f41c4e4dab0b": {
+  "en": "Forest",
+  "t": "जंगल"
+ },
+ "f4904bf63ad4": {
+  "en": "Nina",
+  "t": "नीना"
+ },
+ "f4c2739717c4": {
+  "en": "{terrain}, height {h}",
+  "t": "{terrain}, ऊँचाई {h}"
+ },
+ "f674ac08752f": {
+  "en": "+{n} on {terrain}",
+  "t": "{terrain} पर +{n}"
+ },
+ "f6db3f96e9e3": {
+  "en": "Desert",
+  "t": "रेगिस्तान"
+ },
+ "fa27d1b6d725": {
+  "en": "+1 when outnumbered in its lane",
+  "t": "अपनी क़तार में गिनती में कम होने पर +1"
+ },
  "fb23c9ff0d27": {
   "en": "Inner ring",
   "t": "भीतरी रिंग"
+ },
+ "fbf6a2b00397": {
+  "en": "Lane {n}: you win, {a} to {b}.",
+  "t": "क़तार {n}: तुम्हारी जीत, {a} बनाम {b}।"
+ },
+ "fe4f28f307a2": {
+  "en": "Round {n} is a draw.",
+  "t": "राउंड {n} बराबरी पर।"
+ },
+ "fe527bb5037f": {
+  "en": "Carve a new battalion",
+  "t": "नई बटालियन तराशो"
  },
  "feddfb10fb8d": {
   "en": "We all play at the same time. GO!",
