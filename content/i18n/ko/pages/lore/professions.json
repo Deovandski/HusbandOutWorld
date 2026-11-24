@@ -79,6 +79,14 @@
   "en": "Tier VI Professions",
   "t": "VI등급 직업"
  },
+ "0f2afddf1f32": {
+  "en": "<strong>Duties:</strong> extract stone from quarries.",
+  "t": "<strong>업무:</strong> 채석장에서 돌을 캐낸다."
+ },
+ "118ca2335b44": {
+  "en": "<strong>Duties:</strong> prepare for fishing, fish, clean the fish and carry it off the boat.",
+  "t": "<strong>업무:</strong> 낚시를 준비하고, 물고기를 잡고, 손질해서 배에서 내린다."
+ },
  "1247f153760d": {
   "en": "Tier II Professions",
   "t": "II등급 직업"
@@ -147,6 +155,10 @@
   "en": "Famous Courtesans",
   "t": "유명 고급 창부"
  },
+ "2be7482d961c": {
+  "en": "<strong>Duties:</strong> plow fields, harvest, fertilize and mill grain.",
+  "t": "<strong>업무:</strong> 밭을 갈고, 수확하고, 거름을 주고, 곡식을 빻는다."
+ },
  "2c74044a7e3b": {
   "en": "<strong>Duties:</strong> handle livestock and crops, and get dirty on the job. Maybe handle a person or two, but usually just guild members.",
   "t": "<strong>업무:</strong> 가축과 작물을 다루고, 일하다 손을 더럽힌다. 한두 사람을 다룰 수도 있지만, 대개는 길드 구성원뿐이다."
@@ -187,6 +199,10 @@
   "en": "Tier V Professions",
   "t": "V등급 직업"
  },
+ "32c032c2d5a1": {
+  "en": "<strong>Duties:</strong> take care of eguas, groom and feed them, and help with egua births.",
+  "t": "<strong>업무:</strong> 에구아를 돌보고, 손질하고, 먹이고, 출산을 돕는다."
+ },
  "32ed08835c99": {
   "en": "Lumberjack",
   "t": "나무꾼"
@@ -215,6 +231,10 @@
   "en": "<strong>Duties:</strong> fix and clean boats.",
   "t": "<strong>업무:</strong> 배를 고치고 청소한다."
  },
+ "39973efcf6c4": {
+  "en": "<strong>History:</strong> richer districts of cities and kingdoms often employ street cleaners, usually paid by the people living in the area rather than the government (depending on how the kingdom is organized).",
+  "t": "<strong>역사:</strong> 도시와 왕국의 부유한 구역은 거리 청소부를 쓰는 일이 많고, 보통 정부가 아니라 그 지역 주민들이 돈을 낸다(왕국이 어떻게 조직되어 있느냐에 따라)."
+ },
  "3aa5b22c7b20": {
   "en": "The third richest people in the world. Their power reaches a city at most.",
   "t": "세계에서 세 번째로 부유한 사람들. 권력은 기껏해야 한 도시에 미친다."
@@ -234,6 +254,10 @@
  "3de66eb212b0": {
   "en": "<strong>Training:</strong> Fundamental School helps, but this is self-employed, so you do you.",
   "t": "<strong>훈련:</strong> 기초 학교가 도움이 되지만, 자영업이니 알아서 하자."
+ },
+ "3f5701b74569": {
+  "en": "<strong>History:</strong> people like meat, so someone needs to gut the animals and make sausages.",
+  "t": "<strong>역사:</strong> 사람들은 고기를 좋아하니, 누군가는 동물 내장을 빼고 소시지를 만들어야 한다."
  },
  "4023098315ae": {
   "en": "Road Maintainers",
@@ -287,6 +311,10 @@
   "en": "<strong>Duties:</strong> keep the balance between food orders and meat and milk sales, etc. Also takes care of the Woolies when time allows.",
   "t": "<strong>업무:</strong> 식량 주문과 고기, 젖 판매 사이의 균형을 맞춘다. 시간이 나면 울리도 돌본다."
  },
+ "4a3cac295494": {
+  "en": "<strong>Duties:</strong> clean latrines.",
+  "t": "<strong>업무:</strong> 변소를 청소한다."
+ },
  "4a693b717f91": {
   "en": "<strong>Duties:</strong> take care of the kingdom, working directly under the courtroom scientists.",
   "t": "<strong>업무:</strong> 궁정 과학자 바로 아래에서 일하며 왕국을 돌본다."
@@ -294,6 +322,10 @@
  "4aecf373d658": {
   "en": "Artisan Cheesemaker",
   "t": "장인 치즈 장인"
+ },
+ "4cbf0ebcab36": {
+  "en": "<strong>History:</strong> carrying around water-filled fruit is expensive and stupid, so these people come into play.",
+  "t": "<strong>역사:</strong> 물 가득한 과일을 들고 다니는 건 비싸고 멍청하니, 이 사람들이 등장한다."
  },
  "4cc0e4e2b542": {
   "en": "<strong>History:</strong> because some cheese tastes better than others.",
@@ -451,6 +483,10 @@
   "en": "<strong>Training:</strong> Fundamental School and Historian/Teaching School.",
   "t": "<strong>훈련:</strong> 기초 학교와 역사/교육 학교."
  },
+ "735d6ad94d9e": {
+  "en": "<strong>Duties:</strong> see Natural &amp; Crafted Resources.",
+  "t": "<strong>업무:</strong> 천연 자원과 제작 자원 참조."
+ },
  "7506752cedeb": {
   "en": "Wood/Stone Worker",
   "t": "나무/돌 일꾼"
@@ -458,6 +494,10 @@
  "7510681254ef": {
   "en": "Historians/Teachers",
   "t": "역사가/교사"
+ },
+ "76e3a446b863": {
+  "en": "<strong>Average pay:</strong> 1 Pearl an hour, for apprentices and masters alike.",
+  "t": "<strong>평균 급여:</strong> 견습이든 장인이든 시간당 1펄."
  },
  "7944c42b1f36": {
   "en": "The second richest people in the world. Their power reaches a region at most.",
@@ -483,9 +523,17 @@
   "en": "Large Farm Owner",
   "t": "대농장주"
  },
+ "8735f4858edd": {
+  "en": "<strong>Duties:</strong> extract wood from forests.",
+  "t": "<strong>업무:</strong> 숲에서 나무를 베어 낸다."
+ },
  "87af01bd9c7e": {
   "en": "Sanbi Eye",
   "t": "산비 아이"
+ },
+ "8869272e670d": {
+  "en": "<strong>Duties:</strong> make vellum from animal skin, and paper from wood pulp.",
+  "t": "<strong>업무:</strong> 동물 가죽으로 양피지를, 나무 펄프로 종이를 만든다."
  },
  "893b7a9113f6": {
   "en": "<strong>Duties:</strong> housekeeping. How far it goes depends on the household and the maid's prestige: from more \"normal\" maids, up to someone like Eiri, a King-Maid, whose job extends into finances, cooking, cleaning and taxes.",
@@ -515,9 +563,17 @@
   "en": "<strong>History:</strong> someone has to take care of the dead, especially once people develop complex rituals.",
   "t": "<strong>역사:</strong> 누군가는 죽은 이를 돌봐야 한다. 특히 사람들이 복잡한 의식을 만들어 내면."
  },
+ "904f51b879b7": {
+  "en": "<strong>Duties:</strong> take care of the lighthouse: pump water into the fost stone, replace the stone, etc.",
+  "t": "<strong>업무:</strong> 등대를 돌본다: 포스트석에 물을 퍼 넣고, 돌을 갈아 끼우는 등."
+ },
  "90a167603476": {
   "en": "<strong>Training:</strong> knowing how to read speeds up going from apprentice to master; otherwise, learn on the job.",
   "t": "<strong>훈련:</strong> 글을 읽을 줄 알면 견습에서 장인이 되는 게 빨라진다. 아니면 일하면서 배운다."
+ },
+ "9211c4167577": {
+  "en": "<strong>History:</strong> one of the earliest jobs in existence.",
+  "t": "<strong>역사:</strong> 존재하는 가장 오래된 일 중 하나."
  },
  "9312d57b974b": {
   "en": "<strong>Training:</strong> Tailoring School.",
@@ -527,9 +583,17 @@
   "en": "How much of this applies depends on how the kingdom is organized.",
   "t": "이 중 얼마나 해당하는지는 왕국이 어떻게 조직되어 있느냐에 달렸다."
  },
+ "9866309d4236": {
+  "en": "<strong>History:</strong> paper is half the battle, so someone needs to make the ink and the wax.",
+  "t": "<strong>역사:</strong> 종이는 반쪽짜리 싸움이니, 누군가는 잉크와 밀랍을 만들어야 한다."
+ },
  "9b85c6e5d0b9": {
   "en": "<strong>Duties:</strong> keep the peace, assist in investigations and help medics. Also coordinate nari stone usage, work with adventurers, and coordinate with the King and courtroom scientists (depending on how the kingdom is organized).",
   "t": "<strong>업무:</strong> 평화를 지키고, 수사를 돕고, 의료진을 돕는다. 나리석 사용도 조율하고, 모험가와 함께 일하며, 왕과 궁정 과학자와 조율한다(왕국이 어떻게 조직되어 있느냐에 따라)."
+ },
+ "9bb4137522b5": {
+  "en": "<strong>Training:</strong> learn on the job; no reading required.",
+  "t": "<strong>훈련:</strong> 일하면서 배운다. 글을 몰라도 된다."
  },
  "9cc2644f0b21": {
   "en": "<strong>Duties:</strong> handle egua births and health, and manage the stable business.",
@@ -567,13 +631,29 @@
   "en": "Street Cleaner",
   "t": "거리 청소부"
  },
+ "a69d012911c6": {
+  "en": "<strong>Duties:</strong> treat leather and animal skin for dresses, weapons and vellum.",
+  "t": "<strong>업무:</strong> 옷, 무기, 양피지에 쓸 가죽과 동물 피부를 처리한다."
+ },
+ "aa5928af8f30": {
+  "en": "<strong>History:</strong> works alongside butchers to treat game skin and bones.",
+  "t": "<strong>역사:</strong> 도축업자와 함께 사냥감의 가죽과 뼈를 처리한다."
+ },
  "aaacdfb70de3": {
   "en": "<strong>Training:</strong> Fundamental School isn't required, but it's really hard to do without.",
   "t": "<strong>훈련:</strong> 기초 학교가 필수는 아니지만, 없으면 정말 힘들다."
  },
+ "ab43b4c49d47": {
+  "en": "<strong>History:</strong> as eguas were domesticated, people were needed to handle them.",
+  "t": "<strong>역사:</strong> 에구아가 가축이 되자, 그들을 다룰 사람이 필요해졌다."
+ },
  "ac2b1387dbe5": {
   "en": "<strong>History:</strong> someone who takes merchanting extremely seriously.",
   "t": "<strong>역사:</strong> 장사를 극도로 진지하게 하는 사람."
+ },
+ "ac55d9500a19": {
+  "en": "<strong>Duties:</strong> drive egua carts from city to city, carrying basic goods.",
+  "t": "<strong>업무:</strong> 에구아 수레를 몰고 도시에서 도시로 기본 물품을 나른다."
  },
  "acab31af4a94": {
   "en": "Blacksmiths",
@@ -602,6 +682,22 @@
  "b44d69d8fd77": {
   "en": "<strong>Duties:</strong> read, play and write songs.",
   "t": "<strong>업무:</strong> 노래를 읽고, 연주하고, 쓴다."
+ },
+ "b45bc2b2a503": {
+  "en": "<strong>History:</strong> an easy job, but kind of boring, and slightly dangerous at times.",
+  "t": "<strong>역사:</strong> 쉬운 일이지만 좀 지루하고, 가끔 살짝 위험하다."
+ },
+ "b510917433fe": {
+  "en": "<strong>Duties:</strong> dry fruits, herbs and plenty more for transport.",
+  "t": "<strong>업무:</strong> 운송을 위해 과일, 약초, 그 밖의 많은 것을 말린다."
+ },
+ "b6070e32bbe6": {
+  "en": "<strong>Duties:</strong> mine ore, open tunnels and carry the ore to the surface.",
+  "t": "<strong>업무:</strong> 광석을 캐고, 갱도를 뚫고, 광석을 지상으로 나른다."
+ },
+ "b867944bc051": {
+  "en": "<strong>Duties:</strong> hunt prey, butcher it, and bring it back somewhere to sell.",
+  "t": "<strong>업무:</strong> 사냥감을 사냥해 손질하고, 어딘가로 가져가 판다."
  },
  "bad034722d1e": {
   "en": "Butcher",
@@ -675,9 +771,17 @@
   "en": "<strong>History:</strong> wherever humans live, history soon follows, filling libraries. But some history was lost during the Greed Period, when wars raged for a long time, and tons more because before Ganyrami it was mostly passed by word of mouth among humans. The Darfaries burned their own history, which makes the past kind of sketchy. And some people don't care about history, because they prefer living in the present. So people in this profession usually teach at the fundamental level to earn a livable wage while they pursue research nobody is funding.",
   "t": "<strong>역사:</strong> 인간이 사는 곳이면 곧 역사가 따르고, 도서관을 채운다. 하지만 전쟁이 오래 휘몰아친 탐욕기 동안 일부 역사가 사라졌고, 가니라미 이전에는 주로 인간들 사이의 입소문으로 전해졌기 때문에 훨씬 더 많이 사라졌다. 다르파리에스는 자기들 역사를 불태워서, 과거가 좀 흐릿하다. 그리고 지금을 사는 게 더 좋아서 역사에 신경 쓰지 않는 사람도 있다. 그래서 이 직업의 사람들은 보통, 아무도 돈을 대 주지 않는 연구를 하면서 먹고살 만한 돈을 벌려고 기초 과정을 가르친다."
  },
+ "d86a0b9b9510": {
+  "en": "<strong>Duties:</strong> skin game for tanners, slice game, cure meat, etc.",
+  "t": "<strong>업무:</strong> 무두장이를 위해 사냥감 가죽을 벗기고, 고기를 썰고, 고기를 절이는 등."
+ },
  "da654b0ff3a4": {
   "en": "<strong>Training:</strong> Fundamental School and Cooking School.",
   "t": "<strong>훈련:</strong> 기초 학교와 요리 학교."
+ },
+ "dc0cff2c2774": {
+  "en": "<strong>History:</strong> cleans latrines and cesspits.",
+  "t": "<strong>역사:</strong> 변소와 오물 구덩이를 청소한다."
  },
  "e08eaff25c85": {
   "en": "Stable Hand Manager",
@@ -722,6 +826,18 @@
  "e9b43d11425b": {
   "en": "City Guard",
   "t": "도시 경비병"
+ },
+ "eec4b8a22e47": {
+  "en": "The sixth richest people in the world. Their power is none.",
+  "t": "세계에서 여섯 번째로 부유한 사람들. 권력은 없다."
+ },
+ "f2e56469294d": {
+  "en": "<strong>History:</strong> one of the earliest jobs in existence: hunting in the nearby woods, a quite dangerous job. Mostly replaced by adventurer hunting, since hunters on their own don't have the safety net adventurers have with the embassies.",
+  "t": "<strong>역사:</strong> 존재하는 가장 오래된 일 중 하나: 근처 숲에서 사냥하는, 꽤 위험한 일이다. 혼자 다니는 사냥꾼에게는 모험가가 대사관에서 받는 안전망이 없어서, 대부분 모험가의 사냥으로 대체되었다."
+ },
+ "f3c4e3eb138e": {
+  "en": "<strong>Duties:</strong> clean the streets.",
+  "t": "<strong>업무:</strong> 거리를 청소한다."
  },
  "f8a9289d923c": {
   "en": "Tanner",
