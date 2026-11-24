@@ -3,20 +3,116 @@
   "en": "2 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "このページの残り2項目は<button class=\"linklike\" data-go-bts>舞台裏</button>にのみあります。"
  },
+ "0524b04b9a36": {
+  "en": "<strong>Clothing:</strong> depends on the school. Some have a standard (cooking, adventuring, blacksmithing, etc.); others are more laid-back (Soul Energy, accounting, tailoring, etc.).",
+  "t": "<strong>服装：</strong>学校による。標準があるところもあれば（料理、冒険者、鍛冶など）、もっとゆるいところもある（魂のエネルギー、会計、仕立てなど）。"
+ },
+ "1a26de7c4914": {
+  "en": "<strong>Cost:</strong> 5 Sapphire for the whole program, including a room and simple meals: breakfast at Sunnilow and a late lunch at Sunnohigh (some students don't eat after that).",
+  "t": "<strong>費用：</strong>全課程でサファイア 5 個。部屋と簡単な食事つきで、朝食はサンニロウ、遅めの昼食はサンノハイ（そのあとは食べない学生もいる）。"
+ },
  "1e64df84f612": {
   "en": "Summary written by AI from the author's notes (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Education.md\">Education.md</a>). <a href=\"/about/ai-disclosure/\">AI disclosure</a>",
   "t": "作者のメモから AI が書いた要約（<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Education.md\">Education.md</a>）。<a href=\"/about/ai-disclosure/\">AI の利用について</a>"
+ },
+ "242ff14546d8": {
+  "en": "<strong>Combat School (#E7):</strong> close-quarters combat with swords or clubs, shields, bows, etc. It's tailored to guards, but some make the jump to adventuring instead.",
+  "t": "<strong>戦闘学校（#E7）：</strong>剣や棍棒、盾、弓などを使った接近戦。衛兵向けに作られているが、かわりに冒険者へ転身する者もいる。"
+ },
+ "2e8097a4f434": {
+  "en": "<strong>Soul Energy School (#E9):</strong> Soul Energy and every available interface, while students grow their soul so they don't have to rely on nari stones. It's mostly research, for people who love Soul Energy but are afraid of becoming adventurers. Some study it to research on the go, or to find new niches that make money by supporting parties.",
+  "t": "<strong>魂のエネルギー学校（#E9）：</strong>魂のエネルギーと、利用できるあらゆるインターフェース。学生はナリストーンに頼らなくて済むように、自分の魂を育てる。ほとんどは研究で、魂のエネルギーを愛しているが冒険者になるのは怖い人向けだ。旅をしながら研究するため、あるいはパーティーを支えて稼げる新しい隙間を見つけるために学ぶ者もいる。"
+ },
+ "3778b6c22900": {
+  "en": "<strong>Accounting School (#E4):</strong> trading, bookkeeping and everything related.",
+  "t": "<strong>会計学校（#E4）：</strong>交易、簿記、それに関わるあらゆること。"
+ },
+ "6ac279a7e14a": {
+  "en": "<strong>Cost:</strong> about 1 Aquamarine, paid to your local school. Some places do it differently:\n<ul>\n<li><strong>Gandew:</strong> free for Darfaries children (among many other free things, like Wooly Gyut Milk), who are trained heavily in the Gandew ways of living.</li>\n<li><strong>Tolerideme:</strong> meals at the fundamental school are free for citizens.</li>\n<li><strong>Tastyleaf:</strong> Forway provides it free to citizens who sign a contract to stay on Tastyleaf for the rest of their lives, to give the tree some protection.</li>\n<li><strong>Sanbi:</strong> not required, but not paid for by the kingdom either, so fewer children go than in other kingdoms.</li>\n</ul>\n",
+  "t": "<strong>費用：</strong>約アクアマリン 1 個で、地元の学校に支払う。やり方の違う場所もある：\n<ul>\n<li><strong>ガンデュー：</strong>ダルファリエスの子どもは無料（ウーリー・ギュット・ミルクなど、ほかにもたくさんのものが無料）で、ガンデューの生き方をみっちり仕込まれる。</li>\n<li><strong>トレリデメ：</strong>基礎学校の食事は市民なら無料。</li>\n<li><strong>テイスティリーフ：</strong>木をいくらか守るために、一生テイスティリーフにとどまるという契約に署名した市民には、フォーウェイが無料で提供する。</li>\n<li><strong>サンビ：</strong>必須ではないが、王国が費用を出すわけでもないので、ほかの王国より通う子どもが少ない。</li>\n</ul>"
+ },
+ "6ac7aee63760": {
+  "en": "<strong>Tailoring School (#E2):</strong> the craft of making and repairing clothing.",
+  "t": "<strong>仕立て学校（#E2）：</strong>服を作り、直す技術。"
+ },
+ "6e325aafc244": {
+  "en": "<strong>Adventurer School (#E8):</strong> how Forway uses adventurers, and how best to keep the peace under Forway's control of the region: for example, a deep understanding of how each kingdom behaves, and threats not disclosed to the public. Usually taken together with Combat School or Soul Energy School.",
+  "t": "<strong>冒険者学校（#E8）：</strong>フォーウェイが冒険者をどう使うか、そしてフォーウェイによるこの地域の支配のもとで平和を保つ最善の方法。たとえば、それぞれの王国がどう振る舞うかについての深い理解や、一般には明かされていない脅威など。たいてい戦闘学校か魂のエネルギー学校と一緒に受講する。"
  },
  "728054813456": {
   "en": "Education · #HusbandOutWorld",
   "t": "教育 · #HusbandOutWorld"
  },
+ "7603c3c432a3": {
+  "en": "Education (World Lore illustration)",
+  "t": "教育（世界観イラスト）"
+ },
+ "7942ebebaeab": {
+  "en": "<strong>Construction School (#E3):</strong> construction; students are trained to be construction managers.",
+  "t": "<strong>建築学校（#E3）：</strong>建築。学生は建設現場の監督になるよう訓練される。"
+ },
+ "7fd190337ff0": {
+  "en": "<strong>Length:</strong> 5 years.",
+  "t": "<strong>期間：</strong>5 年。"
+ },
+ "83d292d63cb9": {
+  "en": "Specialized School",
+  "t": "専門学校"
+ },
+ "8c4ab294987c": {
+  "en": "<strong>Length:</strong> about 4 years. Adventurer School takes only half a year.",
+  "t": "<strong>期間：</strong>約 4 年。冒険者学校は半年だけ。"
+ },
+ "8c84bf0253cc": {
+  "en": "<strong>Clothing:</strong> depends on the kingdom. In cities coordinated by Forway, children wear the standard clothing below.",
+  "t": "<strong>服装：</strong>王国による。フォーウェイが取りまとめる都市では、子どもたちは下記の標準の服を着る。"
+ },
+ "90bc8f3e8b5b": {
+  "en": "<strong>Skipping it:</strong> anyone can take a replacement test at any school instead, to prove they have the fundamental knowledge.",
+  "t": "<strong>通わない場合：</strong>誰でも、かわりにどこの学校でも代替試験を受けて、基礎的な知識があることを証明できる。"
+ },
+ "9830e3cc108a": {
+  "en": "<strong>After school:</strong> graduates start working as apprentices at around 16 and usually stay apprentices for about 10 years, becoming masters at around 26.",
+  "t": "<strong>卒業後：</strong>卒業生は 16 歳ごろに見習いとして働き始め、たいてい約 10 年間見習いのままで、26 歳ごろに親方になる。"
+ },
+ "9a64f444a080": {
+  "en": "<strong>Who goes:</strong> children from Profession Tiers III to VI usually start at around age 6. Children from Tiers I and II become apprentices in the same line of work instead, until they're promoted to masters at around 18, though most of them still attend classes.",
+  "t": "<strong>通う者：</strong>職業ティア III〜VI の子どもは、たいてい 6 歳ごろに通い始める。ティア I と II の子どもはかわりに同じ職種の見習いになり、18 歳ごろに親方に昇格するまで続けるが、そのほとんどはそれでも授業に出ている。"
+ },
  "a0bf2966c530": {
   "en": "Children learn reading and basic math in five years of fundamental school. After that, some go on to one of the specialized schools in Forway City, which teach cooking, tailoring, construction, accounting, history and teaching, blacksmithing, combat, adventuring and soul energy. Most specialized programs take about four years and cost 5 sapphires, room and simple meals included. Graduates then spend about ten years as apprentices before becoming masters.",
   "t": "子どもたちは5年間の基礎学校で読み書きと基本的な算数を学ぶ。その後、一部はフォーウェイ市にある専門学校のひとつに進み、料理、仕立て、建築、経理、歴史と教職、鍛冶、戦闘、冒険、魂のエネルギーを学ぶ。ほとんどの専門課程は約4年かかり、費用はサファイア5枚で、部屋と簡単な食事が含まれる。卒業生はその後、約10年間見習いとして過ごしてから、親方になる。"
  },
+ "a0ceb59a8bfb": {
+  "en": "<strong>Historian/Teaching School (#E5):</strong> the kingdom's history, and teaching. Archaeologists often pair up with adventurers.",
+  "t": "<strong>歴史家／教育学校（#E5）：</strong>王国の歴史と、教えること。考古学者はよく冒険者と組む。"
+ },
+ "af49faf0cd18": {
+  "en": "<strong>Cooking School (#E1):</strong> cooking, including how to detect poisonous food.",
+  "t": "<strong>料理学校（#E1）：</strong>毒のある食べ物の見分け方を含む料理。"
+ },
+ "b86d443a51d1": {
+  "en": "Fundamental School",
+  "t": "基礎学校"
+ },
+ "c833faf604b7": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Education.md\">Legacy/Behind The Scenes/World Lore/Education.md</a>",
+  "t": "出典：<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Education.md\">Legacy/Behind The Scenes/World Lore/Education.md</a>"
+ },
+ "cf1d887f45e0": {
+  "en": "Every kingdom and city has fundamental schools, where children learn reading and basic math.",
+  "t": "どの王国と都市にも基礎学校があり、子どもたちはそこで読み書きと基本的な計算を学ぶ。"
+ },
+ "d6c6e96d5675": {
+  "en": "After fundamental school, children may go on to a specialized school. All nine are in Forway City:",
+  "t": "基礎学校のあと、子どもたちは専門学校に進むことができる。九校すべてがフォーウェイ・シティにある："
+ },
  "e2231803fbe3": {
   "en": "Children learn reading and basic math in five years of fundamental school.",
   "t": "子どもたちは5年間の基礎学校で読み書きと基本的な算数を学ぶ。"
+ },
+ "f99762f37c73": {
+  "en": "<strong>Blacksmithing School (#E6):</strong> smithing in the material the student wants, such as Darkwood, Bone or Iron.",
+  "t": "<strong>鍛冶学校（#E6）：</strong>ダークウッド、骨、鉄など、学生の望む素材での鍛冶。"
  }
 }

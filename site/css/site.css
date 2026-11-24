@@ -397,3 +397,8 @@ html[dir="rtl"] .pager .prev, html[dir="rtl"] .pager .next { direction: rtl; }
 .raw-notes { margin: .4rem 0 1rem; border: 1px solid var(--line); border-radius: var(--radius); padding: .5rem .9rem; }
 .raw-notes > summary { cursor: pointer; font: 600 14px var(--sans); color: var(--ink2); }
 .raw-notes[open] > summary { margin-bottom: .6rem; }
+/* Playground (#128): theme its games with the site's colours */
+.playground-game { --darts-accent: var(--accent); --darts-on-accent: var(--bg); --sideways-accent: var(--accent); --sideways-muted: var(--ink2); --sideways-bg: var(--bg); margin-top: 2rem; }
+.playground-game .iso-darts__title { display: none; } /* the section's own heading already names the game */
+.play-link { margin: .8rem 0 0; font: 600 .9em var(--sans); }
+.playground-game { --minari-accent: var(--accent); --minari-on-accent: var(--bg); --minari-line: var(--line); }

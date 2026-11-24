@@ -392,6 +392,164 @@ def sub_heading_search(pub_html, bts_html, url, section, entry_title, entry_bts)
 
 VIDEO_EXT = ('.mp4', '.webm')
 
+def playground_game(lore_url):
+    """The Playground game (content/site.json "playground") whose lore entry is at lore_url, or None."""
+    return next((g for g in CFG.get('playground', {}).get('games', []) if g.get('lore') == lore_url), None)
+
+def iso_darts_html(game, title, uid):
+    """Reusable component: the iso darts scene (script site/js/iso-darts.js, styles site/css/iso-darts.css),
+    ported from Deovandski/Deovandski (IsoDarts.astro). `game` is the JSON in content/territory-snipping.json;
+    `uid` keeps the SVG's ids apart when there are several on a page. Every word the game shows is written
+    in the hidden .iso-darts__strings block, so the translations reach it ({name} slots stay as they are)."""
+    strings = {'you': game['players']['you']['name'], 'rival': game['players']['rival']['name'],
+               **{f'line{i}': s['text'] for i, s in enumerate(game['script'])},
+               'ringCentre': 'Yellow centre', 'ringInner': 'Inner ring', 'ringMiddle': 'Middle ring', 'ringOuter': 'Outer ring',
+               'pt': '{n} pt', 'pts': '{n} pts',
+               'yellow': 'yellow', 'orange': 'orange', 'purple': 'purple', 'green': 'green', 'blue': 'blue', 'red': 'red',
+               'bounced': "{player}'s dart bounced off the wall.",
+               'cancelled': 'Cancelled! Both darts on the {colour} territory are out.',
+               'snipes': '{player} snipes the {colour} territory ({points}).',
+               'clock': '⏱ {seconds}s · darts: {you} {youLeft}, {rival} {rivalLeft}',
+               'low': 'Your dart flies low and lodges in the wall below the board.',
+               'time': 'Time! The room starts to move too much…',
+               'warmup': 'His first dart clings, then falls. The second lands on a green territory near the centre.',
+               'yourTurn': 'Your turn: press Throw (or Space) when the aim is where you want it.',
+               'miss': 'He aims for the same green, and lands far above it, on purple.',
+               'youWin': '{you} wins, somehow!', 'rivalWins': '{rival} wins.', 'draw': 'A draw!',
+               'finalLive': 'Final score: {you} {youScore}, {rival} {rivalScore}. {verdict}',
+               'finalTally': 'Final: {you} {youScore} · {rival} {rivalScore} · {verdict}'}
+    data = {k: v for k, v in game.items() if not k.startswith('_')}
+    spans = ''.join(f'<span data-k="{k}">{esc(v)}</span>' for k, v in strings.items())
+    return f"""<div class="iso-darts" data-no-zoom data-game="{esc(json.dumps(data, ensure_ascii=False))}">
+<div class="iso-darts__strings" hidden>{spans}</div>
+<h3 class="iso-darts__title">{esc(title)}</h3>
+<div class="iso-darts__stage">
+<svg class="iso-darts__scene" viewBox="0 0 480 300" role="img" aria-label="An isometric tavern corner with a round, coloured dartboard on the wall">
+<defs><pattern id="{uid}-planks" width="24" height="12" patternUnits="userSpaceOnUse" patternTransform="matrix(0.866 0.5 -0.866 0.5 0 0)"><rect width="24" height="12" fill="#6b4524"/><path d="M0 11.5 H24 M12 0 V12" stroke="#4e311a" stroke-width="1"/></pattern></defs>
+<polygon points="240,400 20,273 240,146 460,273" fill="url(#{uid}-planks)"/>
+<polygon points="20,273 20,-100 240,-227 240,146" fill="#3d2a22"/>
+<polygon points="240,146 240,-227 460,-100 460,273" fill="#4a3329"/>
+<path d="M240 146 V-227" stroke="#2a1c16" stroke-width="2"/>
+<g transform="translate(100 250)"><polygon points="0,0 60,-35 110,-6 50,29" fill="#8a5a32" stroke="#4e311a" stroke-width="2"/><polygon points="50,29 110,-6 110,2 50,37" fill="#5e3c20"/><polygon points="0,0 50,29 50,37 0,8" fill="#6e4726"/><rect x="38" y="-28" width="10" height="16" rx="3" fill="#d9a441" opacity="0.85"/><rect x="62" y="-20" width="12" height="18" rx="3" fill="#d9a441" opacity="0.85"/></g>
+<g class="iso-darts__wall" transform="matrix(0.62 0.36 0 0.72 350 110)"><circle r="110" fill="#2b1d16"/><g class="iso-darts__board"></g><g class="iso-darts__darts"></g><g class="iso-darts__reticle" visibility="hidden"><circle r="9" fill="none" stroke="#fff" stroke-width="2.5"/><path d="M-14 0 H-5 M5 0 H14 M0 -14 V-5 M0 5 V14" stroke="#fff" stroke-width="2.5"/></g></g>
+</svg>
+<div class="iso-darts__bubble" data-who="rival"><b class="iso-darts__who"></b><p class="iso-darts__line"></p></div>
+<div class="iso-darts__hud" hidden><span class="iso-darts__clock"></span><span class="iso-darts__tally"></span></div>
+</div>
+<div class="iso-darts__controls"><button type="button" class="iso-darts__next">Next</button><button type="button" class="iso-darts__throw" hidden>Throw!</button><button type="button" class="iso-darts__restart" hidden>Play again</button></div>
+<p class="iso-darts__live" aria-live="polite"></p>
+<dl class="iso-darts__legend" aria-label="What each territory is worth"></dl>
+</div>"""
+
+MINARI_TERRAINS = {'plains': 'Plains', 'forest': 'Forest', 'water': 'Water', 'desert': 'Desert', 'snow': 'Snow', 'hifuna': 'Hifuna'}
+MINARI_KINDS = {'races': 'humanoid', 'fauna': 'animal', 'beasts': 'monster'}
+MINARI_STRINGS = {
+    'pickOpponent': 'Choose your opponent', 'lv_easy': 'Easy', 'lv_medium': 'Medium', 'lv_hard': 'Challenging',
+    'yourBattalion': 'Your battalion', 'reroll': 'Carve a new battalion',
+    'hideStone': 'Choose the statue that hides your nari stone.', 'stoneIn': 'Your nari stone is inside {name}.',
+    'needStone': 'Choose a statue for your nari stone first.', 'paint': 'Paint my statues', 'start': 'Start the match',
+    'round': 'Round {n}', 'score': 'Rounds won: you {you}, {opp} {them}', 'field': 'Battlefield: {region}',
+    'yourTurn': 'Your turn: choose a statue, then a square on your side.', 'oppTurn': '{opp} is choosing…',
+    'pickSquare': 'Now choose a square for {name}.', 'withBase': 'Base: {flora}', 'noBase': 'No base',
+    'pass': 'Pass', 'passed': '{who} passed.', 'you': 'You', 'full': 'That square is full.',
+    'played': '{who} placed {name} on {terrain} (power {power}).',
+    'playedBase': '{who} placed {name} on a {flora} base, on {terrain} (power {power}).',
+    'laneWin': 'Lane {n}: {who} wins, {a} to {b}.', 'laneWinYou': 'Lane {n}: you win, {a} to {b}.', 'laneTie': 'Lane {n}: tied, {a} to {b}.',
+    'eliminated': '{name} is eliminated: {result}', 'stoneYes': 'the nari stone was inside!', 'stoneNo': 'no stone inside.',
+    'roundWin': '{who} wins round {n}.', 'roundWinYou': 'You win round {n}.', 'roundDraw': 'Round {n} is a draw.',
+    'found': '{who} found the nari stone in {name}!', 'foundYou': 'You found the nari stone in {name}!',
+    'matchWin': 'You win the match!', 'matchLose': '{opp} wins the match.', 'matchDraw': 'The match is a draw.',
+    'again': 'Play again', 'nextRound': 'Next round', 'power': 'power {n}', 'home': 'home: {terrains}',
+    'flying': 'Flying', 'armor': 'Armor', 'shield': 'Shield', 'cloak': 'Cloak',
+    'flyingHelp': 'ignores lower ground', 'armorHelp': 'never weaker than its carving', 'shieldHelp': '+1 when outnumbered in its lane',
+    'cloakHelp': 'its power stays hidden until the lanes are counted',
+    'kind_humanoid': 'humanoid', 'kind_animal': 'animal', 'kind_monster': 'monster',
+    'hand': 'Your statues', 'bases': 'Your flora bases', 'empty': 'None left.',
+    'theirSide': "{opp}'s side", 'yourSide': 'Your side',
+    'square': '{terrain}, height {h}', 'laneLabel': 'Lane {n}', 'hidden': '?', 'unknown': 'a statue',
+    'stoneMark': 'Nari stone', 'out': 'Eliminated',
+    'effPlus': '{sign}{n} to the statue on it', 'effPlusOn': '+{n} on {terrain}', 'effHeight': '+{n} at height {h} or more',
+    'effKind': '+{n} to a {kind}', 'effFoeLane': '−{n} to every opposing statue in its lane',
+    'effFoeTop': '−{n} to the strongest opposing statue in its lane', 'effRandom': 'a random {min} to +{max}',
+    'statueInfo': '{name}, {kind}, power {power}, home: {terrains}{traits}', 'baseInfo': '{name}: {effect}',
+    'statueOn': '{name}, power {power}', 'laneTotals': '{a} : {b}', 'stoneHidden': 'hides your nari stone',
+}
+
+def minari_summary(game):
+    """One paragraph for the Markdown twin and llms.txt: what Minari is on this site."""
+    return (f'A browser version of Minari, the carved-statue game from the series (World Lore, Sports, Games & Pastimes): '
+            f'you play against {", ".join(o["short"] for o in game["opponents"][:-1])} or {game["opponents"][-1]["short"]}. Each side has {game["rules"]["statuesPerPlayer"]} statues '
+            f'(Races, Fauna and Beasts) and {game["rules"]["floraPerPlayer"]} flora bases, hides its nari stone in one statue, and plays over '
+            f'{game["rules"]["lanes"]} lanes of terrain from the Lands of Vraki. Best of three rounds, or find the other side\'s nari stone.')
+
+def minari_html(game, uid, info):
+    """Reusable component: Minari, the carved-statue game (script site/js/minari.js, styles site/css/minari.css), #131.
+    `game` is content/minari.json; `info` maps (topic slug, lore entry title) to {'anchor', 'img'} from the World Lore
+    pages, so each statue's, base's, land's and opponent's name, picture and lore link come from Legacy (one source).
+    A name in minari.json that isn't a lore entry stops the build. Every word the game shows is written into the
+    hidden .minari__strings block, so the translations reach it."""
+    def entry(topic, name):
+        e = info.get((topic, name))
+        if not e:
+            raise SystemExit(f'content/minari.json: "{name}" is not an entry of the {topic} topic in World Lore')
+        return e
+    def pic(e):
+        return (e['img'] or {}).get('thumb') or (e['img'] or {}).get('url') or ''
+    strings = dict(MINARI_STRINGS)
+    strings.update({f't_{k}': v for k, v in MINARI_TERRAINS.items()})
+    data = {'rules': game['rules'], 'terrains': [{'id': t['id'], 'color': t['color']} for t in game['terrains']],
+            'regions': [], 'statues': [], 'flora': [], 'opponents': []}
+    for i, r in enumerate(game['regions']):
+        e = entry(r['topic'], r['name'])
+        strings[f'r_{i}'] = r['name']
+        data['regions'].append({'mix': r['mix'], 'height': r['height'], 'lore': f'/lore/{r["topic"]}/#{e["anchor"]}'})
+    for i, st in enumerate(game['statues']):
+        e = entry(st['topic'], st['name'])
+        strings[f's_{i}'] = st['name']
+        data['statues'].append({'power': st['power'], 'homes': st['homes'], 'traits': st['traits'],
+                                'kind': MINARI_KINDS[st['topic']], 'img': pic(e), 'lore': f'/lore/{st["topic"]}/#{e["anchor"]}'})
+    for i, f in enumerate(game['flora']):
+        e = entry('flora', f['name'])
+        strings[f'f_{i}'] = f['name']
+        data['flora'].append({'effect': f['effect'], 'img': pic(e), 'lore': f'/lore/flora/#{e["anchor"]}'})
+    for o in game['opponents']:
+        e = entry('characters', o['name'])
+        strings[f'o_{o["id"]}'] = o['short']
+        data['opponents'].append({'id': o['id'], 'level': o['level'], 'img': pic(e), 'lore': f'/lore/characters/#{e["anchor"]}'})
+    spans = ''.join(f'<span data-k="{k}">{esc(v)}</span>' for k, v in strings.items())
+    rules = ''.join(f'<li>{x}</li>' for x in [
+        f'Each side has <strong>{game["rules"]["statuesPerPlayer"]} carved statues</strong> (Races, Fauna and Beasts) and <strong>{game["rules"]["floraPerPlayer"]} flora bases</strong>. The creature a statue shows is its power.',
+        'Before the match, hide your <strong>nari stone</strong> inside one of your statues. Your opponent hides theirs too.',
+        f'The table has <strong>{game["rules"]["lanes"]} lanes</strong>. Each lane has a square on your side and one on theirs, with a terrain and a height. A statue on its home terrain gets <strong>+{game["rules"]["homeBonus"]}</strong>; standing higher than the square across gives <strong>+{game["rules"]["heightBonus"]} per level</strong>, lower gives the same as a minus.',
+        'Take turns placing one statue on a square on your side, on a flora base if you like, or pass. Every piece you place is spent for the match, so save some for later rounds.',
+        'When both sides have passed, each lane goes to the side with more power there. The losing side\'s statues in that lane are <strong>eliminated</strong>, and you see whether the nari stone was inside.',
+        f'Win more lanes to win the round. First to <strong>{game["rules"]["roundsToWin"]} rounds</strong> wins, but finding the other side\'s nari stone wins at once.',
+        'Painting your statues is just for looks.'])
+    return (f'<div class="minari" id="{uid}-game" data-no-zoom data-game="{esc(json.dumps(data, ensure_ascii=False))}">'
+            f'<div class="minari__strings" hidden>{spans}</div>'
+            f'<details class="minari__rules"><summary>How to play</summary><ul>{rules}</ul></details>'
+            '<div class="minari__app"><p class="minari__noscript">Minari needs JavaScript to play.</p></div>'
+            '<p class="minari__live" aria-live="polite"></p>'
+            '</div>')
+
+def play_sideways_html(title, inner):
+    """Reusable component: asks a phone held upright to turn sideways before showing a wide game (script
+    site/js/play-sideways.js, styles site/css/play-sideways.css). Adapted from Deovandski/Deovandski
+    (GimmickPlay.astro). Its words are in this markup, so the translations cover them."""
+    return (f'<div class="play-sideways">'
+            f'<div class="play-sideways__gate" role="group" aria-label="{esc(title)}: turn your phone sideways" hidden>'
+            '<svg width="110" height="110" viewBox="0 0 140 140" aria-hidden="true">'
+            '<rect x="46" y="22" width="48" height="86" rx="9" fill="none" stroke="currentColor" stroke-opacity="0.55" stroke-width="3"/>'
+            '<rect x="27" y="56" width="86" height="48" rx="9" fill="none" stroke="var(--sideways-accent, #39c5bb)" stroke-width="3.5"/>'
+            '<path d="M108 30 A40 40 0 0 1 122 62" fill="none" stroke="var(--sideways-accent, #39c5bb)" stroke-width="3" stroke-linecap="round"/>'
+            '<path d="M114 62 L122 64 L126 56" fill="none" stroke="var(--sideways-accent, #39c5bb)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>'
+            f'<p class="play-sideways__title">{esc(title)}</p>'
+            '<p>Turn your phone sideways to play.</p>'
+            '<p class="play-sideways__fine">The game starts as soon as the phone is sideways.</p>'
+            '<button type="button" class="play-sideways__full" hidden>Play full screen</button>'
+            '<button type="button" class="play-sideways__upright">Play upright instead</button>'
+            f'</div><div class="play-sideways__game">{inner}</div></div>')
+
 def photo_viewer_html():
     """Reusable component: the photo viewer every picture opens in (script site/js/photo-viewer.js, styles
     site/css/photo-viewer.css). One per page, written into the page shell. Its words ("Enlarge", Close,
@@ -592,6 +750,7 @@ class Builder:
         self.pages = []
         self.glossary = []
         self.used_art = set()
+        self.entry_info = {}  # (topic slug, entry title) -> {'anchor', 'img'}: lore entries other pages point at (Minari, #131)
 
     # ---- helpers
     def add(self, page):
@@ -824,6 +983,7 @@ class Builder:
                 self.used_art.add(img_src['src'])
             anchor = slugify(e['title'])
             layer = 'both' if pub_md and not is_meta else 'bts'
+            self.entry_info[(t['slug'], e['title'])] = {'anchor': anchor, 'img': img_src}
             if layer == 'bts':
                 hidden_count += 1
             page.toc.append((anchor, e['title'], layer, 'entry'))
@@ -854,6 +1014,9 @@ class Builder:
                 h.append(f'<div class="layer bts">{"" if pub_md else fig}<p class="bts-label">{label}</p>'
                          f'{bts_html}'
                          f'<p class="src">Source: <a href="{gh_link(os.path.join(ROOT, e["origin"]))}">{esc(e["origin"])}</a></p></div>')
+            play = playground_game(url + '#' + anchor)
+            if play:  # the game on the Playground that plays this entry (#128)
+                h.append(f'<p class="play-link"><a href="/playground/#{play["id"]}">▶ Play {esc(play["title"])} on the Playground</a></p>')
             h.append('</section>')
             body.append('\n'.join(h))
             if pub_md:
@@ -1383,6 +1546,9 @@ class Builder:
             parts_ = (['the Prologue'] if any(e['kind'] == 'prologue' for e in eps) else []) + [f'Chapter {webcomic.roman_numeral(c)}' for c in chs]
             webcomic_card = (f'<a class="home-card" href="/webcomic/"><h2>Webcomic</h2><p>Arc #1 in pictures: {" and ".join(parts_)} so far, '
                              f'{len(eps)} episodes. Scroll down to read, like on Webtoons.</p></a>')
+        pg = CFG.get('playground')
+        playground_link = (f'<a class="home-link" href="/playground/"><strong>{esc(pg["title"])}</strong><span>{esc(pg["blurb"])}</span></a>'
+                           if pg else '')
         p.html = f'''
 <section class="hero">
   <img class="hero-banner" src="{logo['url']}" alt="{esc(ALT.get(logo['src'], {}).get('alt', 'A Husband Out of This World'))}" width="2500" height="1626">
@@ -1406,6 +1572,7 @@ class Builder:
   <div class="home-links">
     <a class="home-link" href="/about/faq/"><strong>FAQ</strong><span>Readers' questions, answered by the author.</span></a>
     <a class="home-link" href="/about/afterwords/"><strong>Afterwords</strong><span>The author's notes at the end of each volume.</span></a>
+    {playground_link}
     <a class="home-link" href="/about/ai-disclosure/"><strong>AI Disclosure</strong><span>What a human made, what an AI made, and how they fit.</span></a>
     <a class="home-link ext" href="{CFG["dnd_url"]}" rel="noopener"><strong>D&amp;D West March Campaign</strong><span>A West Marches D&amp;D 5e campaign set in the world of #HusbandOutWorld.</span></a>
     <a class="home-link ext" href="{CFG["vraki_url"]}" rel="noopener"><strong>Vraki Language app</strong><span>The 2017 Windows app the Vraki writing grew from.</span></a>
@@ -1427,7 +1594,8 @@ class Builder:
                        + '- [World Lore](/lore/index.md)\n- [Gallery](/gallery/index.md)\n'
                        '- [Glossary](/glossary/index.md)\n- [Blog](/blog/index.md)\n'
                        '\n## About the series\n\n- [FAQ](/about/faq/index.md)\n- [Afterwords](/about/afterwords/index.md)\n'
-                       '- [AI Disclosure](/about/ai-disclosure/index.md)\n'
+                       + (f'- [{CFG["playground"]["title"]}](/playground/index.md): {CFG["playground"]["blurb"]}\n' if CFG.get('playground') else '')
+                       + '- [AI Disclosure](/about/ai-disclosure/index.md)\n'
                        f'- [D&D West March Campaign]({CFG["dnd_url"]})\n- [Vraki Language app]({CFG["vraki_url"]})\n'
                        f'- [GitHub repository]({CFG["repo_url"]})\n')
         p.desc = blurb[:160]
@@ -1458,6 +1626,39 @@ class Builder:
                   '<p class="muted layer public-only">Searching Public pages. Switch to Behind The Scenes to search the full notes too.</p>'
                   '<ol id="search-results" class="search-results"></ol>')
         p.desc = 'Search the #HusbandOutWorld website.'
+        self.add(p)
+
+    def build_playground(self):
+        """/playground/: interactive extras, linked from the homepage's "About the series" (#128)."""
+        pg = CFG.get('playground')
+        if not pg:
+            return
+        p = Page('/playground/', pg['title'], 'About', desc=pg['blurb'])
+        parts = [f'<h1>{esc(pg["title"])}</h1>', f'<p class="lead">{esc(pg["blurb"])}</p>']
+        md = [f'# {pg["title"]}', '', pg['blurb'], '']
+        css, js = ['/css/play-sideways.css'], ['/js/play-sideways.js']
+        for g in pg['games']:
+            game = json.load(open(os.path.join(CONTENT, g['data']), encoding='utf-8'))
+            intro = g['intro'].replace('{lore}', g['lore'])
+            kind = g.get('component', 'iso-darts')
+            if kind == 'minari':
+                inner, about = minari_html(game, g['id'], self.entry_info), minari_summary(game)
+            else:
+                inner = iso_darts_html(game, g['title'], g['id'])
+                about = (f'An interactive darts game in the browser, played as {game["players"]["you"]["name"]} against '
+                         f'{game["players"]["rival"]["name"]}: {len(game["script"])} lines of dialogue from Vol 2, then a '
+                         f'{game["roundSeconds"]}-second round with {game["dartsPerPlayer"]} darts each.')
+            css.append(f'/css/{kind}.css'); js.append(f'/js/{kind}.js')
+            parts.append(f'<section class="playground-game" id="{g["id"]}"><h2>{esc(g["title"])}</h2>'
+                         f'<p>{intro}</p>'
+                         + play_sideways_html(g['title'], inner) + '</section>')
+            md += [f'## {g["title"]}', '', re.sub(r'<a href="([^"]+)">([^<]+)</a>', r'[\2](\1)', intro), '', about, '']
+            p.search.append({'t': g['title'], 'u': f'/playground/#{g["id"]}', 's': pg['title'], 'x': re.sub(r'<[^>]+>', '', intro), 'b': False})
+        p.html = '\n'.join(parts)
+        p.md_public = '\n'.join(md)
+        p.extra_css = list(dict.fromkeys(css))
+        p.extra_js = list(dict.fromkeys(js))
+        p.search.append({'t': pg['title'], 'u': '/playground/', 's': 'About', 'x': pg['blurb'], 'b': False})
         self.add(p)
 
     def build_404(self):
@@ -2015,6 +2216,7 @@ def main():
     b.build_gallery()
     b.build_glossary()
     b.build_about()
+    b.build_playground()
     b.build_search_page()
     b.build_404()
     b.media.process()

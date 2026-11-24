@@ -1,0 +1,54 @@
+/* Play sideways (reusable component): see site/js/play-sideways.js for usage.
+   Theme: --sideways-accent, --sideways-muted, --sideways-bg. */
+.play-sideways [hidden] {
+  display: none !important;
+}
+.play-sideways:fullscreen {
+  overflow: auto;
+  padding: 0.75rem 1rem;
+  background: var(--sideways-bg, #101719);
+}
+.play-sideways__gate {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.7rem;
+  padding: 2rem 1.25rem;
+  border: 1px solid var(--sideways-muted, #9aa3b5);
+  border-radius: 14px;
+  text-align: center;
+  font-family: var(--sans, system-ui, sans-serif);
+}
+.play-sideways__gate svg {
+  color: var(--sideways-muted, #9aa3b5);
+}
+.play-sideways__gate p {
+  margin: 0;
+}
+.play-sideways__title {
+  font-size: 1.25rem;
+  font-weight: 800;
+}
+.play-sideways__fine {
+  font-size: 0.85rem;
+  color: var(--sideways-muted, #9aa3b5);
+}
+.play-sideways__gate button {
+  width: min(100%, 18rem);
+  min-height: 48px;
+  border-radius: 999px;
+  border: 2px solid var(--sideways-accent, #39c5bb);
+  background: transparent;
+  color: var(--sideways-accent, #39c5bb);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+.play-sideways__gate .play-sideways__full {
+  background: var(--sideways-accent, #39c5bb);
+  color: var(--sideways-bg, #101719);
+}
+.play-sideways__gate button:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
