@@ -1,7 +1,39 @@
 {
+ "1e5e2991dedc": {
+  "en": "<strong>Tiers:</strong> the mass affected follows the General Power Effects: 0.1 kg at Tier I, doubling with every tier (51.2 kg at Tier X). Because it changes the genetic information, not the soul, the change stays even after Body Restore, as long as the genetic information isn't lost.",
+  "t": "<strong>Tingkat:</strong> massa yang terpengaruh mengikuti Efek Kekuatan Umum: 0,1 kg di Tingkat I, berlipat dua setiap tingkat (51,2 kg di Tingkat X). Karena yang diubah adalah informasi genetik, bukan jiwa, perubahannya tetap ada bahkan setelah Body Restore, selama informasi genetiknya tidak hilang."
+ },
+ "29070357c173": {
+  "en": "Soul Energy - Buhraies Interface (World Lore illustration)",
+  "t": "Energi Jiwa - Antarmuka Buhraies (ilustrasi Lore Dunia)"
+ },
+ "2c0fd516e171": {
+  "en": "<strong>Draw the spell.</strong> Cut the target logogram into your skin with something sharp (see Language › Buhraies Interface Language), or just cut two empty squares, which has to be done with a knife.",
+  "t": "<strong>Gambar mantranya.</strong> Torehkan logogram target ke kulitmu dengan benda tajam (lihat Bahasa › Bahasa Antarmuka Buhraies), atau torehkan saja dua kotak kosong, yang harus dilakukan dengan pisau."
+ },
+ "31d48e291ac1": {
+  "en": "<strong>Tiers:</strong> the higher the tier, the more it increases the soul qualities of the summon, with the increase split across several skills. Only tiers above X had a noticeable effect, and only once the soul reconnected to new flesh, if it worked.",
+  "t": "<strong>Tingkat:</strong> makin tinggi tingkatnya, makin besar peningkatan kualitas jiwa makhluk yang dipanggil, dengan peningkatan itu terbagi ke beberapa kemampuan. Hanya tingkat di atas X yang efeknya terasa, dan hanya setelah jiwa terhubung kembali dengan daging baru, kalau berhasil."
+ },
  "3705910a532f": {
   "en": "A \"fleshy\" focused evolution to the Finaies interface! Its capabilities outgrew Finaies in raw power and eventually led Buhraies to force themselves to become powerful enough to reshape the land and other creatures to their liking.",
   "t": "Evolusi antarmuka Finaies yang berfokus pada \"daging\"! Kemampuannya melampaui Finaies dalam hal kekuatan mentah dan akhirnya mendorong Buhraies memaksa diri mereka menjadi cukup kuat untuk membentuk ulang tanah dan makhluk lain sesuka hati."
+ },
+ "3ae348503d46": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Buhraies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Buhraies Interface.md</a>",
+  "t": "Sumber: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Buhraies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Buhraies Interface.md</a>"
+ },
+ "48ba5cb16a12": {
+  "en": "Alters the target's body DNA according to the caster's desires.",
+  "t": "Mengubah DNA tubuh target sesuai keinginan pelempar mantra."
+ },
+ "552e97590e22": {
+  "en": "Soul VERB",
+  "t": "Soul VERB"
+ },
+ "58266576143d": {
+  "en": "Alters the target's soul DNA according to the caster's desires.",
+  "t": "Mengubah DNA jiwa target sesuai keinginan pelempar mantra."
  },
  "5fed524a49f2": {
   "en": "That is, unless you’re doing a freeform! You will not have the pain of carving your palm, but it might cost your soul or the souls of people around you. Despite Buhraies having a natural inkling for controlling free-forming, including being able to shape the very land to their will, that same power was likely their demise.",
@@ -11,13 +43,33 @@
   "en": "You must carve the logograms into the skin of one of your palms, then clench your fingers to start the interface while keeping the palm visible.",
   "t": "Kamu harus mengukir logogram di kulit salah satu telapak tanganmu, lalu menggenggamkan jari untuk merapal antarmuka sambil tetap memperlihatkan telapak tangan."
  },
+ "6351722bd568": {
+  "en": "Soul Spectrum",
+  "t": "Spektrum Jiwa"
+ },
+ "76a6e41714ed": {
+  "en": "Soul energy shapes the spell using logograms drawn from the knowledge shared by the souls of the people nearby.",
+  "t": "Energi jiwa membentuk mantra memakai logogram yang diambil dari pengetahuan yang dibagi jiwa-jiwa orang di sekitar."
+ },
  "7f9bd04a4f99": {
   "en": "A \"fleshy\" focused evolution to the Finaies interface! Its capabilities outgrew Finaies in raw power and eventually led Buhraies to force themselves to become…",
   "t": "Evolusi antarmuka Finaies yang berfokus pada \"daging\"! Kemampuannya melampaui Finaies dalam hal kekuatan mentah dan akhirnya mendorong Buhraies memaksa diri mereka menjadi…"
  },
+ "7fed7d4ad2e4": {
+  "en": "The Buhraies developed this interface as the blood they drank mutated their bodies, and because they wanted more power. Its logograms are the guardrails: cast without them, and you are altering the soul itself.",
+  "t": "Para Buhraies mengembangkan antarmuka ini ketika darah yang mereka minum memutasi tubuh mereka, dan karena mereka menginginkan kekuatan lebih. Logogramnya adalah pagar pengaman: rapal tanpa logogram, dan kamu mengubah jiwa itu sendiri."
+ },
  "93c6a70f8e61": {
   "en": "Public text: science-buhraies-interface.md",
   "t": "Teks publik: science-buhraies-interface.md"
+ },
+ "9aa1e6e34620": {
+  "en": "Nobody has ever maxed it out to know what would happen. The current theory is that going past the theoretical maximum would make the whole thing explode, possibly in a White Hole event.",
+  "t": "Belum pernah ada yang memaksimalkannya untuk tahu apa yang akan terjadi. Teori saat ini adalah bahwa melewati batas maksimum teoretis akan membuat semuanya meledak, mungkin dalam peristiwa White Hole."
+ },
+ "a078821d2b2e": {
+  "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Buhraies shells appear as you do.",
+  "t": "<strong>Mulai mantranya.</strong> Kepalkan jari-jari tangan yang memegang mantra dan energi jiwa. Cangkang-cangkang Buhraies muncul saat kamu melakukannya."
  },
  "a23b9db367c5": {
   "en": "3 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
@@ -35,8 +87,28 @@
   "en": "091 (images illustration)",
   "t": "091 (ilustrasi gambar)"
  },
+ "dd527ba2bcfb": {
+  "en": "<strong>Target:</strong> what the spell acts on. With no target, the soul energy falls back on the caster's own idea of how it should apply itself, and a miscast explodes in soul flame in the caster's hand.",
+  "t": "<strong>Target:</strong> apa yang dikenai mantra. Tanpa target, energi jiwa kembali mengikuti gagasan pelempar mantra sendiri tentang bagaimana ia harus bekerja, dan mantra yang gagal meledak menjadi api jiwa di tangan pelempar mantra."
+ },
+ "dfcfe195c9f1": {
+  "en": "An analysis of the soul. Research with it can find soul harmony, and the Buhraies used it to selectively breed people and enhance their power.",
+  "t": "Analisis jiwa. Riset dengannya bisa menemukan harmoni jiwa, dan para Buhraies memakainya untuk mengembangbiakkan orang secara selektif dan meningkatkan kekuatan mereka."
+ },
  "e3cc5a5f7427": {
   "en": "All Buhraies show the markings of controlled flight and built-in spell-casting mechanisms using specialized nerves attuned to soul energy that appear as veins, at least to the untrained eye, throughout the body. These reddened nerves run up and down their body.",
   "t": "Semua Buhraies memiliki tanda terbang terkendali dan mekanisme perapal mantra bawaan, berkat saraf khusus yang selaras dengan energi jiwa yang terlihat seperti urat, setidaknya bagi mata awam, di seluruh tubuh. Saraf kemerahan ini menjalar ke atas dan ke bawah tubuh mereka."
+ },
+ "e5d418c7583e": {
+  "en": "<strong>Verb:</strong> what you want to do. You have to think it clearly; a lack of concentration means a miscast, an explosion, or even blowback.",
+  "t": "<strong>Verb:</strong> apa yang ingin kamu lakukan. Kamu harus memikirkannya dengan jernih; kurang konsentrasi berarti mantra gagal, ledakan, atau bahkan serangan balik."
+ },
+ "f2508a76391f": {
+  "en": "<strong>Infuse soul energy.</strong> The casting hand takes in energy when the caster \"eats\" with it. Touching the middle and ring fingers lights up the Buhraies veins in that hand with soul flame, and when the other hand \"eats\", the flames are absorbed. A spell is only stable at a soul energy tier, so energy always fills up to the next tier (after a partial charge, it adds the difference).",
+  "t": "<strong>Isi energi jiwa.</strong> Tangan perapal menyerap energi ketika pelempar mantra \"makan\" dengannya. Menyentuhkan jari tengah dan jari manis menyalakan urat Buhraies di tangan itu dengan api jiwa, dan ketika tangan yang lain \"makan\", apinya terserap. Mantra hanya stabil di satu tingkat energi jiwa, jadi energi selalu terisi sampai tingkat berikutnya (setelah pengisian sebagian, ia menambahkan selisihnya)."
+ },
+ "f6eb3327d46d": {
+  "en": "When a spell is cast, five rings appear around the hand holding it. Each shell, on its own, holds a limited number of soul energy tiers:",
+  "t": "Saat sebuah mantra dirapal, lima cincin muncul di sekitar tangan yang memegangnya. Setiap cangkang, sendiri-sendiri, menampung sejumlah terbatas tingkat energi jiwa:"
  }
 }
