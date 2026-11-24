@@ -1,4 +1,12 @@
 {
+ "0035d8454125": {
+  "en": "<strong>Intelligence:</strong> Monkey. They can plan ahead, attack, defend, form families, recognize people, and communicate with others.",
+  "t": "<strong>สติปัญญา:</strong> ลิง พวกมันวางแผนล่วงหน้า โจมตี ป้องกัน สร้างครอบครัว จดจำคน และสื่อสารกับตัวอื่นได้"
+ },
+ "004a42cb08b0": {
+  "en": "<strong>Reproduction:</strong> Somewhere between Wingas and Flingas: about 3 or 4 couples get together for a swing party, then build a shared nest to care for the eggs, which take the whole summer to hatch. Around 5 Big Winga eggs are laid each year (Wingas lay about 20, Flingas about 2).",
+  "t": "<strong>การสืบพันธุ์:</strong> อยู่ระหว่างวิงกากับฟลิงกา: ราว 3 หรือ 4 คู่มารวมกันในงานปาร์ตี้สวิง แล้วสร้างรังร่วมกันเพื่อดูแลไข่ ซึ่งใช้เวลาทั้งฤดูร้อนกว่าจะฟัก บิ๊กวิงกาวางไข่ราว 5 ฟองต่อปี (วิงกาวางราว 20 ฟลิงการาว 2)"
+ },
  "017e994c4257": {
   "en": "Two Big Wingas: huge blue parrot-like birds with red crests and rainbow-banded feathers, shown next to Harry for scale.",
   "t": "บิ๊กวิงกาสองตัว: นกยักษ์สีฟ้าคล้ายนกแก้วมีหงอนสีแดงและขนลายแถบสีรุ้ง แสดงข้างแฮร์รีเพื่อเทียบขนาด"
@@ -6,6 +14,22 @@
  "01da0414b35d": {
   "en": "Bruntos",
   "t": "บรุนโตส"
+ },
+ "026c72b11c9a": {
+  "en": "<strong>Reproduction:</strong> Around 2 Flinga eggs are laid each year.",
+  "t": "<strong>การสืบพันธุ์:</strong> ฟลิงกาวางไข่ราว 2 ฟองต่อปี"
+ },
+ "02c5d96c04e2": {
+  "en": "<strong>Koalin Hide/Fur</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>หนัง/ขนโคอาลิน</strong>: หนัง/ขนที่คนขายเนื้อเตรียมไว้ให้ช่างฝีมือนำไปใช้"
+ },
+ "03c03fde9344": {
+  "en": "<strong>Interface:</strong> Beard (males only).",
+  "t": "<strong>อินเทอร์เฟซ:</strong> เครา (เฉพาะตัวผู้)"
+ },
+ "04edcec10fdd": {
+  "en": "<strong>Skills:</strong> Often more powerful versions of the original skills.",
+  "t": "<strong>ทักษะ:</strong> มักเป็นทักษะเดิมในเวอร์ชันที่ทรงพลังกว่า"
  },
  "060bb756d097": {
   "en": "<strong>Hifuna People</strong> are like the crazy cousin and are proof that Hifuna will fuck anyone up, including something as sturdy as a tree. They will slice and beat everything in their sight, including their own, to a mashed-potato consistency, then squat on top of it to absorb its nutrients. Wood People could also do that, but no one has seen them do it. It's a grim fate fighting these beasts; a Sapphire adventurer will have to be quick on its feet to evade how much soul energy Hifuna People pour into their interface—their attacks are much stronger than Wood People's, plus additional skills in the vines like making sonic booms, creating razor-sharp edges, and creating spikes that it launches towards you, not to be scoffed at. Don't forget the exploding branches too! It can tear them off itself and chuck them toward you in desperation. On the plus side, Hifuna Yabucas sells well on the black market! Not that we condone doing so, of course—",
@@ -23,13 +47,93 @@
   "en": "Walking Flathead, or simply Flathead. All textbooks keep it simple: If you see one, you're fucked. Everyone at this point assumes they are the Bahyum castle's leaders, acting like its physical manifestation. How many are there? Nobody knows. What species did they transform from? Nobody knows either. What some do know is that whatever the fuck this thing is, it must have been part of the reason Buhraies lost control over their own castle, holding countless scientific experimentations, and likely also a factor that forced them to withdraw into Gandew Mountain. What adventurers and guards do know is that if you manage to kill one and drag its body to a seller, you can live like a king for a whole year. Odds are not on your side, so most likely, you will become a walking flesh and then walking skin for eternity—think of the plus side! You will become part of something greater than yourself! Just like working a corporate job!",
   "t": "วอล์กกิงแฟลตเฮด หรือเรียกสั้นๆ ว่าแฟลตเฮด ตำราทุกเล่มเขียนไว้ง่ายๆ ว่า ถ้าเห็นมัน คุณซวยแล้ว ตอนนี้ทุกคนต่างสันนิษฐานว่าพวกมันเป็นผู้นำของปราสาทบาฮยุม ทำตัวเหมือนเป็นร่างจริงของปราสาท มีกี่ตัว? ไม่มีใครรู้ กลายร่างมาจากเผ่าพันธุ์อะไร? ก็ไม่มีใครรู้เหมือนกัน สิ่งที่บางคนรู้คือ ไม่ว่าไอ้สิ่งนี้มันจะเป็นอะไรก็ตาม มันต้องเป็นส่วนหนึ่งของเหตุผลที่บูไรส์สูญเสียการควบคุมปราสาทของตัวเองซึ่งเป็นที่ทดลองทางวิทยาศาสตร์นับไม่ถ้วน และน่าจะเป็นปัจจัยที่บีบให้พวกเขาต้องถอยเข้าไปในภูเขาแกนดิวด้วย สิ่งที่นักผจญภัยและทหารยามรู้คือ ถ้าคุณฆ่ามันได้สักตัวแล้วลากซากไปขาย คุณจะอยู่อย่างราชาได้ทั้งปี โอกาสไม่เข้าข้างคุณหรอก ส่วนใหญ่คุณจะกลายเป็นวอล์กกิงเฟลช แล้วเป็นวอล์กกิงสกินไปชั่วนิรันดร์—มองในแง่ดีสิ! คุณจะได้เป็นส่วนหนึ่งของสิ่งที่ยิ่งใหญ่กว่าตัวเอง! เหมือนทำงานบริษัทนั่นแหละ!"
  },
+ "09c85b376a38": {
+  "en": "<strong>Other:</strong> Maybe it’s a single life form, with each piece acting independently to gather information.",
+  "t": "<strong>อื่นๆ:</strong> บางทีมันอาจเป็นสิ่งมีชีวิตเดียว โดยแต่ละชิ้นทำงานอิสระเพื่อรวบรวมข้อมูล"
+ },
+ "0a7fd7ebb990": {
+  "en": "<strong>Habitat:</strong> Bahyum Castle, sometimes invading the Buhraies Plains.",
+  "t": "<strong>ถิ่นที่อยู่:</strong> ปราสาทบาฮยุม บางครั้งบุกรุกที่ราบบูไรส์"
+ },
+ "0bb55a138139": {
+  "en": "<strong>Sand Worm Jerky</strong>: Jerky prepared by a butcher. Few people want it, because of its strong, gamey flavor; it’s usually served to poorer people.",
+  "t": "<strong>เนื้อแห้งแซนด์เวิร์ม</strong>: เนื้อแห้งที่คนขายเนื้อทำ ไม่ค่อยมีคนอยากได้เพราะรสเข้มและกลิ่นสาบ ปกติเสิร์ฟให้คนจน"
+ },
+ "0cb8d28a7735": {
+  "en": "<strong>Tier II (Common Goods):</strong> processed meat, plus elemental interface actions for longer storage; feathers and fur of large animals, and other animal parts.",
+  "t": "<strong>ระดับ II (สินค้าทั่วไป):</strong> เนื้อแปรรูป รวมถึงการกระทำของอินเทอร์เฟซธาตุเพื่อเก็บได้นานขึ้น ขนนกและขนของสัตว์ใหญ่ และชิ้นส่วนสัตว์อื่นๆ"
+ },
+ "0fe2256d4115": {
+  "en": "<strong>Black Honey</strong>: One of the best-tasting honeys in the kingdoms. Very high in calories; some even say it’s addictive. Often used to speed up Body Heal.",
+  "t": "<strong>น้ำผึ้งดำ</strong>: หนึ่งในน้ำผึ้งที่อร่อยที่สุดในอาณาจักร แคลอรีสูงมาก บางคนถึงกับบอกว่าเสพติด มักใช้เร่งบอดีฮีล"
+ },
+ "10a37fd62f38": {
+  "en": "<strong>Inspired by:</strong> Macaw.",
+  "t": "<strong>ได้แรงบันดาลใจจาก:</strong> นกมาคอว์"
+ },
+ "10ecda494ac5": {
+  "en": "A worm that burrows into the ground and attacks passersby, a relative of the Nari Worms, and the kingdoms' main source of chitin.",
+  "t": "หนอนที่ขุดลงดินแล้วโจมตีคนที่เดินผ่าน เป็นญาติของนาริเวิร์ม และเป็นแหล่งไคตินหลักของอาณาจักร"
+ },
  "11d57139eee8": {
   "en": "Hifuna People are like the crazy cousin and are proof that Hifuna will fuck anyone up, including something as sturdy as a tree. They will slice and beat everything in their sight, including their own, to a mashed potato consistency, then squat on top of it to absorb its nutrients into itself. Wood People could also do that, but no one has seen them do it. It's a grim fate fighting these beasts; a Sapphire adventurer will have to be quick on its feet to evade how much soul energy Hifuna People pour into their interface—their attacks are much stronger than Wood People's, plus additional skills in the vines like making sonic booms, creating razor sharp edges, and creating spikes that it launches towards you at not to be scoffed at. Don't forget the exploding branches too! It can tear them off itself and chuck them toward you in desperation. On the plus side, Hifuna Yabucas sells well on the black market! Not that we condone doing so, of course—",
   "t": "ฮิฟูนาพีเพิลเปรียบเหมือนญาติผู้บ้าคลั่ง และเป็นหลักฐานว่าฮิฟูนาจะทำให้ใครก็ตามพังพินาศได้ แม้แต่สิ่งที่แข็งแรงอย่างต้นไม้ พวกมันจะฟันและทุบทุกอย่างที่ขวางหน้า รวมถึงพวกเดียวกันเอง จนเละเหมือนมันบด แล้วนั่งยองๆ ทับมันเพื่อดูดซับสารอาหารเข้าสู่ตัวเอง วูดพีเพิลก็ทำแบบนั้นได้ แต่ไม่มีใครเคยเห็นพวกมันทำ การต่อสู้กับสัตว์อสูรพวกนี้เป็นชะตากรรมอันมืดมน นักผจญภัยระดับแซฟไฟร์จะต้องว่องไวเพื่อหลบพลังวิญญาณมหาศาลที่ฮิฟูนาพีเพิลอัดเข้าสู่อินเทอร์เฟซของพวกมัน—การโจมตีของพวกมันรุนแรงกว่าวูดพีเพิลมาก แถมยังมีทักษะเพิ่มเติมในเถาวัลย์ เช่น สร้างเสียงระเบิดโซนิก สร้างคมมีดที่คมกริบ และสร้างหนามยิงใส่คุณ ซึ่งไม่ใช่เรื่องที่จะดูเบาได้ อย่าลืมกิ่งไม้ระเบิดด้วย! มันฉีกกิ่งออกจากตัวเองแล้วขว้างใส่คุณได้ตอนจนตรอก ข้อดีคือ ฮิฟูนายาบูกาขายดีในตลาดมืด! ไม่ใช่ว่าเราสนับสนุนให้ทำแบบนั้นหรอกนะ—"
  },
+ "13f703bba1b7": {
+  "en": "<strong>Skills:</strong> And don’t forget the exploding branches! They can tear them off and chuck them at you.",
+  "t": "<strong>ทักษะ:</strong> และอย่าลืมกิ่งไม้ระเบิด! พวกมันฉีกกิ่งแล้วขว้างใส่คุณได้"
+ },
+ "149b1ed15aa0": {
+  "en": "<strong>Tastes like:</strong> The originating species, gone bad: it smells rotten, metallic, bloody, burnt, grassy and generally off, and tastes of sulfur, singed hair, burnt feathers, burnt oil and rancid fat. The meat can turn green, brown, red or yellow, and some gives off a yellow, saliva-like ooze. (Real-world comparison: this is how irradiated food has been described; see the <a href=\"https://www.centerforfoodsafety.org/files/food_irradiation_gross_failure.pdf\" rel=\"noopener\">Center for Food Safety report</a>.)",
+  "t": "<strong>รสชาติเหมือน:</strong> สปีชีส์ต้นกำเนิดที่เสียแล้ว: กลิ่นเน่า กลิ่นโลหะ กลิ่นเลือด กลิ่นไหม้ กลิ่นหญ้า และโดยรวมผิดปกติ และรสเหมือนกำมะถัน ขนไหม้ ขนนกไหม้ น้ำมันไหม้ และไขมันหืน เนื้ออาจกลายเป็นสีเขียว น้ำตาล แดง หรือเหลือง และบางส่วนมีเมือกสีเหลืองคล้ายน้ำลายไหลออกมา (เทียบกับโลกจริง: นี่คือวิธีที่อาหารฉายรังสีถูกบรรยายไว้ ดู <a href=\"https://www.centerforfoodsafety.org/files/food_irradiation_gross_failure.pdf\" rel=\"noopener\">รายงานของ Center for Food Safety</a>)"
+ },
+ "1538b771d71e": {
+  "en": "<strong>Skills:</strong> Fast Strike (punches a hole in the target’s flesh) by altering the physical properties of their vines. Their attacks are much stronger than Wood People’s, and their vines have more skills: sonic booms, razor-sharp edges, and even spikes they launch at you.",
+  "t": "<strong>ทักษะ:</strong> ฟาสต์สไตรก์ (เจาะรูในเนื้อของเป้าหมาย) โดยเปลี่ยนคุณสมบัติทางกายภาพของเถาวัลย์ การโจมตีของพวกมันแรงกว่าวูดพีเพิลมาก และเถาวัลย์ก็มีทักษะมากกว่า: โซนิกบูม คมเหมือนใบมีดโกน และแม้แต่หนามที่ยิงใส่คุณ"
+ },
+ "165f72987b35": {
+  "en": "<strong>Habitat:</strong> The southwest.",
+  "t": "<strong>ถิ่นที่อยู่:</strong> ทางตะวันตกเฉียงใต้"
+ },
+ "166cfe25cd96": {
+  "en": "<strong>Habitat:</strong> Underground, around the mountains of Blood City (see Nari Caverns).",
+  "t": "<strong>ถิ่นที่อยู่:</strong> ใต้ดิน รอบภูเขาของเมืองบลัด (ดู ถ้ำนาริ)"
+ },
+ "16c89a6d14fc": {
+  "en": "<strong>Tastes like:</strong> Bone, and dry, flaky skin.",
+  "t": "<strong>รสชาติเหมือน:</strong> กระดูก และผิวหนังแห้งเป็นขุย"
+ },
  "16fb57d15e12": {
   "en": "Nari Worms",
   "t": "นาริเวิร์ม"
+ },
+ "17a76cf3c8d5": {
+  "en": "<strong>Other:</strong> Grows indefinitely, about ~10 cm a year, but most stop around this size, because they can’t eat enough to make up for the energy hunting takes.",
+  "t": "<strong>อื่นๆ:</strong> โตไม่สิ้นสุด ราว ~10 ซม. ต่อปี แต่ส่วนใหญ่หยุดที่ขนาดนี้ เพราะกินไม่พอชดเชยพลังงานที่ใช้ล่า"
+ },
+ "17f45b2bd269": {
+  "en": "A cousin of the Soreno, rarely tamed. Usually a hunter takes a baby away from its mother; it bonds with them and becomes a pet. Getting it to bond with someone else is nearly impossible.",
+  "t": "ญาติของโซเรโน ไม่ค่อยถูกฝึกให้เชื่อง ปกตินักล่าจะพาลูกของมันออกมาจากแม่ มันจะผูกพันกับนักล่าและกลายเป็นสัตว์เลี้ยง การทำให้มันผูกพันกับคนอื่นแทบเป็นไปไม่ได้"
+ },
+ "188b4291bc16": {
+  "en": "Endless experiments with what's now known as the Walking Heart stone left a few Walking Flatheads in Bahyum Castle. They're incredibly hard to kill.",
+  "t": "การทดลองไม่รู้จบกับสิ่งที่ปัจจุบันรู้จักกันในชื่อหินวอล์กกิงฮาร์ต ทิ้งวอล์กกิงแฟลตเฮดไว้ไม่กี่ตัวในปราสาทบาฮยุม พวกมันฆ่ายากอย่างเหลือเชื่อ"
+ },
+ "19624e1b0fd7": {
+  "en": "A bigger, more voracious version of any fauna, beast or race that has lived in Hifuna long enough: usually with hair fallen out, a bigger size, and some body parts bigger or smaller than others.",
+  "t": "สัตว์ สัตว์อสูร หรือเผ่าพันธุ์ใดก็ตามที่อาศัยอยู่ในฮิฟูนานานพอ จะกลายเป็นรุ่นที่ใหญ่และตะกละกว่า: ปกติขนร่วง ตัวใหญ่ขึ้น และชิ้นส่วนร่างกายบางส่วนใหญ่หรือเล็กกว่าส่วนอื่น"
+ },
+ "19b39ce33804": {
+  "en": "None. See Fauna › Monica.",
+  "t": "ไม่มี ดู สัตว์ › โมนิกา"
+ },
+ "1b3717302810": {
+  "en": "<strong>Hifuna People Vines</strong>: Often used for ropes, construction, etc. Quite elastic, almost like rubber.",
+  "t": "<strong>เถาวัลย์ฮิฟูนาพีเพิล</strong>: มักใช้ทำเชือก การก่อสร้าง ฯลฯ ค่อนข้างยืดหยุ่น เกือบเหมือนยาง"
+ },
+ "1b607a554a07": {
+  "en": "<strong>Reproduction:</strong> They clone themselves by splitting right down the middle, but usually only when there is enough space around them.",
+  "t": "<strong>การสืบพันธุ์:</strong> โคลนตัวเองด้วยการแยกร่างตรงกลาง แต่ปกติเฉพาะเมื่อมีพื้นที่รอบตัวพอ"
  },
  "1c59d3d634d7": {
   "en": "Defensive",
@@ -39,9 +143,25 @@
   "en": "Hifuna Wood People",
   "t": "ฮิฟูนาวูดพีเพิล"
  },
+ "1ebc11da32c8": {
+  "en": "<strong>Reproduction:</strong> By attacking flesh animals and laying worms in them.",
+  "t": "<strong>การสืบพันธุ์:</strong> โดยโจมตีสัตว์ที่มีเนื้อหนังแล้ววางหนอนไว้ในตัวพวกมัน"
+ },
  "205c5b2248b6": {
   "en": "Teefyro: a shaggy brown wolf-like beast with rows of teeth, shown with its jaws closed and wide open, beside Harry.",
   "t": "ทีฟีโร: สัตว์อสูรคล้ายหมาป่าขนรุงรังสีน้ำตาลที่มีฟันหลายแถว แสดงทั้งตอนหุบปากและอ้าปากกว้าง ข้างแฮร์รี"
+ },
+ "2139b5b83c6e": {
+  "en": "<strong>Koalin Brains, Eyes and Moustache</strong>: Used for Mind Enabler, which is illegal. Anyone carrying these to sell will be brought in for questioning.",
+  "t": "<strong>สมอง ตา และหนวดโคอาลิน</strong>: ใช้ทำไมนด์เอนาเบลอร์ ซึ่งผิดกฎหมาย ใครพกของเหล่านี้ไปขายจะถูกนำตัวไปสอบสวน"
+ },
+ "231a153957d9": {
+  "en": "Much larger Wingas that lived in Wingarest: physically altered Wingas the Buhraies used to fly around. Some still exist, but they're a rare sight, since they grew afraid of the humans who hunted them nearly to extinction. Their meat isn't as sweet as Winga meat, since Big Wingas developed a taste for meat too. You'll commonly see them with Forway guards, but those are guards wearing the nari gel.",
+  "t": "วิงกาที่ใหญ่กว่ามากซึ่งเคยอาศัยอยู่ในวิงกาเรสต์: วิงกาที่ถูกดัดแปลงร่างกายซึ่งบูไรส์ใช้บินไปไหนมาไหน บางตัวยังมีอยู่ แต่หาดูได้ยาก เพราะพวกมันกลัวมนุษย์ที่ล่าพวกมันจนเกือบสูญพันธุ์ เนื้อของพวกมันไม่หวานเท่าเนื้อวิงกา เพราะบิ๊กวิงกาก็ติดรสเนื้อด้วย คุณจะเห็นพวกมันกับทหารยามฟอร์เวย์บ่อยๆ แต่นั่นคือทหารยามที่ใช้เจลนาริ"
+ },
+ "24b22080aaf5": {
+  "en": "<strong>Food:</strong> See Fauna &gt; Monica.",
+  "t": "<strong>อาหาร:</strong> ดู สัตว์ &gt; โมนิกา"
  },
  "26dfc070d350": {
   "en": "<strong>Walking Skin,</strong> sometimes called <strong>Walking Bones,</strong> is the name given to any species unlucky or dumb enough to have been sequestered by the Bahyum Castle creepy residents whenever they go on a rampage. Species that become walking skin seem to all act in a hive-mind manner, usually going for quantity over quality to kill anyone in their path. A good proportion of the walking skins are human. Some scientists believe it's just a matter of fact, given how many humans have been sequestered by the castle, but others believe the castle itself is breeding or somehow creating them through the walking heart stones. The Buhraies built the castle for soul experimentation, so expecting it to do creepy shit is not a crazy assumption—after all, the castle itself is alive and moody too. Just ask the most guards and adventurers in the local Bahyum village, and they will jokingly say it's moodier than a Wozefaries girl in her PMS.",
@@ -51,49 +171,205 @@
   "en": "Nari Worm: a giant serpent with blue scaled plates, red eyes and a toothy mouth, coiled around Harry.",
   "t": "นาริเวิร์ม: งูยักษ์ที่มีแผ่นเกล็ดสีฟ้า ตาแดง และปากเต็มไปด้วยฟัน ขดรอบตัวแฮร์รี"
  },
+ "285860632716": {
+  "en": "<strong>Intelligence:</strong> Capybara/Golden Retriever.",
+  "t": "<strong>สติปัญญา:</strong> คาปิบารา/โกลเดนรีทรีฟเวอร์"
+ },
+ "28cb1ef48739": {
+  "en": "<strong>Walking Flathead Claws</strong>: Often used for weapons and sharp tools.",
+  "t": "<strong>กรงเล็บวอล์กกิงแฟลตเฮด</strong>: มักใช้ทำอาวุธและเครื่องมือมีคม"
+ },
+ "2a20d18c9d49": {
+  "en": "<strong>Intelligence:</strong> Rather mindless; they act purely on instinct and go out of their way to attack anything they see, even other Hifuna People. Shoving a Fost stone into the top of the trunk paralyzes them.",
+  "t": "<strong>สติปัญญา:</strong> ค่อนข้างไร้สติ พวกมันทำตามสัญชาตญาณล้วนๆ และจงใจโจมตีทุกอย่างที่เห็น แม้แต่ฮิฟูนาพีเพิลด้วยกัน การยัดหินฟอสต์เข้าที่ยอดลำต้นทำให้พวกมันเป็นอัมพาต"
+ },
+ "2a2e709839ef": {
+  "en": "Prices: see <a href=\"/lore/economy/\">Economy</a>.",
+  "t": "ราคา: ดู <a href=\"/lore/economy/\">เศรษฐกิจ</a>"
+ },
+ "2b3f61572512": {
+  "en": "<strong>Skills:</strong> Slow Regen; Halted Decomposition; See the Soul Energy of creatures.",
+  "t": "<strong>ทักษะ:</strong> ฟื้นฟูช้า หยุดการเน่าเปื่อย มองเห็นพลังวิญญาณของสิ่งมีชีวิต"
+ },
  "2b4860ca4a82": {
   "en": "Big Wingas",
   "t": "บิ๊กวิงกา"
+ },
+ "2c0ee230d700": {
+  "en": "<strong>Tastes like:</strong> Bone-dry, flaky skin.",
+  "t": "<strong>รสชาติเหมือน:</strong> ผิวหนังแห้งกรังเป็นขุย"
+ },
+ "2df7e1e008ae": {
+  "en": "<strong>Intelligence:</strong> Dolphin.",
+  "t": "<strong>สติปัญญา:</strong> โลมา"
+ },
+ "2fa5736682cf": {
+  "en": "<strong>Reproduction:</strong> Because of their size and long lives, they rarely reproduce; when they do, it’s three or four eggs at most, which take months to hatch.",
+  "t": "<strong>การสืบพันธุ์:</strong> เพราะขนาดและอายุยืน พวกมันจึงไม่ค่อยสืบพันธุ์ เมื่อสืบพันธุ์ก็วางไข่อย่างมากสามหรือสี่ฟอง ซึ่งใช้เวลาหลายเดือนกว่าจะฟัก"
+ },
+ "3027db7e2f27": {
+  "en": "The Buhraies created them by altering the souls of Yabuca trees, then confined them to small forests across the Buhraies Plains to produce food and lumber in a controlled way. Their blood, or sap, is pink. Wood People's bodies are used for all kinds of things, especially buildings, but you have to get one somewhere before you cut it down, or trick it into following you like a herd; otherwise, you float the corpse down a river or stream, or use several Eguas to haul it a short distance (under 100 km). Jamming a Fost stone into their tops paralyzes them in place, which is how walls of Wood People are made.",
+  "t": "บูไรส์สร้างพวกมันขึ้นด้วยการเปลี่ยนวิญญาณของต้นยาบูกา แล้วกักไว้ในป่าเล็กๆ ทั่วที่ราบบูไรส์เพื่อผลิตอาหารและไม้แบบควบคุมได้ เลือดหรือยางของพวกมันเป็นสีชมพู ร่างของวูดพีเพิลใช้ทำได้ทุกอย่าง โดยเฉพาะอาคาร แต่คุณต้องพามันไปที่ไหนสักแห่งก่อนจะโค่น หรือหลอกให้มันเดินตามคุณเป็นฝูง ไม่อย่างนั้นก็ปล่อยซากลอยตามแม่น้ำหรือลำธาร หรือใช้เอกัวหลายตัวลากไปในระยะสั้น (ไม่ถึง 100 กม.) การกระแทกหินฟอสต์เข้าที่ยอดของพวกมันทำให้พวกมันเป็นอัมพาตอยู่กับที่ ซึ่งเป็นวิธีสร้างกำแพงวูดพีเพิล"
  },
  "3128debb4d32": {
   "en": "Hifuna People are like the crazy cousin and are proof that Hifuna will fuck anyone up, including something as sturdy as a tree.",
   "t": "ฮิฟูนาพีเพิลเปรียบเหมือนญาติผู้บ้าคลั่ง และเป็นหลักฐานว่าฮิฟูนาจะทำให้ใครก็ตามพังพินาศได้ แม้แต่สิ่งที่แข็งแรงอย่างต้นไม้"
  },
+ "324b6e7d527b": {
+  "en": "<strong>Food:</strong> Nectar.",
+  "t": "<strong>อาหาร:</strong> น้ำหวานดอกไม้"
+ },
+ "33a450f96e48": {
+  "en": "<strong>Food:</strong> Dead matter; opportunistic.",
+  "t": "<strong>อาหาร:</strong> ซากสิ่งมีชีวิต ฉวยโอกาส"
+ },
  "3473fbafe0b8": {
   "en": "Walking Flathead",
   "t": "วอล์กกิงแฟลตเฮด"
+ },
+ "3542d37c1d05": {
+  "en": "<strong>Bruntos Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>เนื้อบรุนโตส</strong>: เนื้อที่คนขายเนื้อชำแหละ"
+ },
+ "35b86cca6bd2": {
+  "en": "<strong>Trunk People Hair</strong>: Used in nari gels.",
+  "t": "<strong>ผมทรังก์พีเพิล</strong>: ใช้ในเจลนาริ"
  },
  "36df22a0f5fd": {
   "en": "Male and female Bruntos: small furry ape-like creatures with pale manes, standing beside Harry on a height chart.",
   "t": "บรุนโตสตัวผู้และตัวเมีย: สิ่งมีชีวิตตัวเล็กขนปุยคล้ายลิงไม่มีหางที่มีแผงคอสีซีด ยืนข้างแฮร์รีบนแผนภูมิความสูง"
  },
+ "37b8a934e27f": {
+  "en": "<strong>Food:</strong> Omnivores: insects, fruits, etc.",
+  "t": "<strong>อาหาร:</strong> กินทั้งพืชและสัตว์: แมลง ผลไม้ ฯลฯ"
+ },
+ "37d00f54dbe7": {
+  "en": "<strong>Tastes like:</strong> Rotten dried meat.",
+  "t": "<strong>รสชาติเหมือน:</strong> เนื้อแห้งที่เน่าแล้ว"
+ },
+ "38a2031ebc0b": {
+  "en": "<strong>Extermination</strong>: Usually one piece (often the head) is torn off and brought back as proof of the hunt. See Embassy Quests for more details.",
+  "t": "<strong>การกำจัด</strong>: ปกติจะฉีกชิ้นส่วนหนึ่ง (มักเป็นหัว) กลับมาเป็นหลักฐานการล่า ดูรายละเอียดเพิ่มเติมได้ที่ภารกิจของสถานทูต"
+ },
+ "38c1912f9705": {
+  "en": "<strong>Intelligence:</strong> Instinctual, and highly defensive of their spots.",
+  "t": "<strong>สติปัญญา:</strong> ตามสัญชาตญาณ และหวงถิ่นมาก"
+ },
+ "3b7b3ee80d59": {
+  "en": "<strong>Interface:</strong> Internal organs.",
+  "t": "<strong>อินเทอร์เฟซ:</strong> อวัยวะภายใน"
+ },
  "3baebebd0b58": {
   "en": "Sweet Sting: a giant bee, shown at full size and at normal bee size, next to Harry.",
   "t": "สวีตสติง: ผึ้งยักษ์ แสดงทั้งขนาดเต็มและขนาดผึ้งปกติ ข้างแฮร์รี"
+ },
+ "3cf398eff263": {
+  "en": "<strong>Food:</strong> Rocks.",
+  "t": "<strong>อาหาร:</strong> หิน"
+ },
+ "3dac76633c34": {
+  "en": "<strong>Inspired by:</strong> Radiation mutation.",
+  "t": "<strong>ได้แรงบันดาลใจจาก:</strong> การกลายพันธุ์จากรังสี"
+ },
+ "3e062fc63a54": {
+  "en": "<strong>Big Winga Egg</strong>: A treat for many people due to its sweet taste.",
+  "t": "<strong>ไข่บิ๊กวิงกา</strong>: ของอร่อยสำหรับหลายคนเพราะรสหวาน"
  },
  "3e0731f635a1": {
   "en": "Hifuna Wood People: a tree with golden leaves and long trailing roots, shown with a small fruit and Harry for scale.",
   "t": "ฮิฟูนาวูดพีเพิล: ต้นไม้ใบสีทองที่มีรากยาวระโยงระยาง แสดงพร้อมผลเล็กๆ และแฮร์รีเพื่อเทียบขนาด"
  },
+ "3e18cc4fec8f": {
+  "en": "<strong>Tastes like:</strong> Wood.",
+  "t": "<strong>รสชาติเหมือน:</strong> ไม้"
+ },
+ "3f31cc5ac057": {
+  "en": "<strong>Flinga Egg</strong>: Rarely found, and Humans, Darfaries and others have never managed to hatch one.",
+  "t": "<strong>ไข่ฟลิงกา</strong>: หาได้ยาก และมนุษย์ ดาร์แฟรีส์ และอื่นๆ ไม่เคยฟักได้สำเร็จสักฟอง"
+ },
+ "4137fad0287c": {
+  "en": "<strong>Interface:</strong> See Fauna &gt; Monica.",
+  "t": "<strong>อินเทอร์เฟซ:</strong> ดู สัตว์ &gt; โมนิกา"
+ },
+ "418f7fc9e858": {
+  "en": "<strong>Tier III (Expensive Goods):</strong> jerky, plus elemental interface actions for storage; feathers and fur of smaller animals, especially higher-quality ones; live beasts; rare animal parts.",
+  "t": "<strong>ระดับ III (สินค้าราคาแพง):</strong> เนื้อแห้ง รวมถึงการกระทำของอินเทอร์เฟซธาตุเพื่อการเก็บรักษา ขนนกและขนของสัตว์เล็ก โดยเฉพาะที่มีคุณภาพสูงกว่า สัตว์อสูรเป็นๆ ชิ้นส่วนสัตว์หายาก"
+ },
  "430cd841045f": {
   "en": "4 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "อีก 4 รายการในหน้านี้มีเฉพาะใน <button class=\"linklike\" data-go-bts>เบื้องหลัง</button>"
+ },
+ "449ee8d376d3": {
+  "en": "<strong>Intelligence:</strong> Chimpanzee. They haven’t discovered fire yet, but they use some tools, especially if trained by humans. Great for adventurers who need a cargo mate on very rough terrain.",
+  "t": "<strong>สติปัญญา:</strong> ชิมแปนซี พวกมันยังไม่ค้นพบไฟ แต่ใช้เครื่องมือบางอย่าง โดยเฉพาะถ้ามนุษย์ฝึก เหมาะมากสำหรับนักผจญภัยที่ต้องการเพื่อนช่วยแบกของในภูมิประเทศที่ทุรกันดารมาก"
+ },
+ "45a384823cd2": {
+  "en": "<strong>Inspired by:</strong> Trees, kind of. They map their surroundings with their vines and with vibrations in the ground and the wind. They are drawn to Fost stones, because they can somewhat sense a direction in them.",
+  "t": "<strong>ได้แรงบันดาลใจจาก:</strong> ต้นไม้ ประมาณนั้น พวกมันสำรวจรอบตัวด้วยเถาวัลย์และแรงสั่นสะเทือนในพื้นดินและลม พวกมันถูกดึงดูดเข้าหาหินฟอสต์ เพราะรับรู้ทิศทางในหินได้บ้าง"
  },
  "46d85d6d1093": {
   "en": "Sand Worm: a segmented tan worm with a gaping toothy mouth, next to Harry for scale.",
   "t": "แซนด์เวิร์ม: หนอนสีน้ำตาลอ่อนเป็นปล้องๆ อ้าปากกว้างเต็มไปด้วยฟัน อยู่ข้างแฮร์รีเพื่อเทียบขนาด"
  },
+ "478075c93998": {
+  "en": "Economic value",
+  "t": "มูลค่าทางเศรษฐกิจ"
+ },
  "4784b024f480": {
   "en": "Shapeshifters are presumed to be one of the last remaining ancient species in this world. They are intelligent, have forethought capabilities, have an interface with a wide range of actions, and can even communicate in the shape of the creature they are mimicking. However, a growing group of scientists is classifying it as a beast instead, as all of its apparent intelligence is just another form of mimicry because, at the end of the day, its communication skills show that it is nothing other than a mindless blob, seeking to grow large enough to divide itself in half. Or the shapeshifters that got captured are the dumb ones. Who knows? Although tavern gossip about it floats around once in a while, such as a specific shapeshifter that more than once approached lonely male adventurers with a distinct hole in the middle that they felt was perfectly lubricated and warm. Some seemed flustered when asked how they knew that, while others stated they interacted with it recreationally.",
   "t": "เชปชิฟเตอร์ถูกสันนิษฐานว่าเป็นหนึ่งในเผ่าพันธุ์โบราณกลุ่มสุดท้ายที่ยังเหลืออยู่ในโลกนี้ พวกมันฉลาด คิดล่วงหน้าได้ มีอินเทอร์เฟซที่ทำได้หลากหลาย และสื่อสารในร่างของสิ่งมีชีวิตที่มันเลียนแบบได้ด้วย แต่นักวิทยาศาสตร์กลุ่มหนึ่งที่มีมากขึ้นเรื่อยๆ จัดให้มันเป็นสัตว์อสูรแทน เพราะความฉลาดที่เห็นทั้งหมดเป็นแค่การเลียนแบบอีกรูปแบบหนึ่ง สุดท้ายแล้วทักษะการสื่อสารของมันแสดงว่ามันไม่ใช่อะไรนอกจากก้อนไร้สมองที่พยายามโตให้ใหญ่พอจะแบ่งตัวเป็นสองส่วน หรือไม่ก็ตัวที่ถูกจับได้คือตัวที่โง่ ใครจะรู้? ถึงจะมีเรื่องซุบซิบในโรงเตี๊ยมลอยมาเป็นครั้งคราว เช่น เชปชิฟเตอร์ตัวหนึ่งที่เข้าหานักผจญภัยชายผู้โดดเดี่ยวมากกว่าหนึ่งครั้ง โดยมีรูเฉพาะอยู่ตรงกลางที่พวกเขารู้สึกว่าลื่นและอุ่นอย่างพอดิบพอดี บางคนดูเขินอายเมื่อถูกถามว่ารู้ได้ยังไง ขณะที่บางคนบอกว่ามีปฏิสัมพันธ์กับมันเพื่อความบันเทิง"
+ },
+ "47dd103fbc7a": {
+  "en": "<strong>Hifuna People Leaves</strong>: Sun-dried, clean leaves mostly used for crafting.",
+  "t": "<strong>ใบฮิฟูนาพีเพิล</strong>: ใบที่ตากแดดและสะอาด ส่วนใหญ่ใช้ทำงานฝีมือ"
  },
  "4c13a61584c7": {
   "en": "Walking {X} Flesh",
   "t": "วอล์กกิง {X} เฟลช"
  },
+ "4c4d992af6e5": {
+  "en": "<a href=\"/lore/fauna/\">Fauna</a>: low-intelligence species.",
+  "t": "<a href=\"/lore/fauna/\">สัตว์</a>: สปีชีส์ที่มีสติปัญญาต่ำ"
+ },
+ "4e04cf6a9185": {
+  "en": "<strong>Sand Worm Meat</strong>: Meat cut by a butcher. Not very desirable, so it’s mostly sold as a by-product of killing Sand Worms for their chitin.",
+  "t": "<strong>เนื้อแซนด์เวิร์ม</strong>: เนื้อที่คนขายเนื้อชำแหละ ไม่ค่อยเป็นที่ต้องการ จึงส่วนใหญ่ขายเป็นผลพลอยได้จากการฆ่าแซนด์เวิร์มเพื่อเอาไคติน"
+ },
+ "4e13733f827a": {
+  "en": "<strong>Inspired by:</strong> Mutated tree branches.",
+  "t": "<strong>ได้แรงบันดาลใจจาก:</strong> กิ่งไม้กลายพันธุ์"
+ },
+ "4ff610708d48": {
+  "en": "<strong>Big Winga Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>เนื้อแห้งบิ๊กวิงกา</strong>: เนื้อแห้งที่คนขายเนื้อทำ"
+ },
  "50a8033439b1": {
   "en": "Wood People: a tree with bright pink leaves and long trailing roots, with a small fruit and Harry for scale.",
   "t": "วูดพีเพิล: ต้นไม้ใบสีชมพูสดที่มีรากยาวระโยงระยาง พร้อมผลเล็กๆ และแฮร์รีเพื่อเทียบขนาด"
+ },
+ "512ce6ff8cf0": {
+  "en": "<a href=\"/lore/races/\">Races</a>: species at or above human intelligence.",
+  "t": "<a href=\"/lore/races/\">เผ่าพันธุ์</a>: สปีชีส์ที่มีสติปัญญาเท่าหรือสูงกว่ามนุษย์"
+ },
+ "52a8dc922658": {
+  "en": "<strong>Interface:</strong> Branches, too.",
+  "t": "<strong>อินเทอร์เฟซ:</strong> กิ่งก้านด้วย"
+ },
+ "53627ab837e3": {
+  "en": "<strong>Tastes like:</strong> See Fauna &gt; Monica.",
+  "t": "<strong>รสชาติเหมือน:</strong> ดู สัตว์ &gt; โมนิกา"
+ },
+ "54c367b1869a": {
+  "en": "<strong>Habitat:</strong> Bahyum Castle.",
+  "t": "<strong>ถิ่นที่อยู่:</strong> ปราสาทบาฮยุม"
+ },
+ "5655d33421e9": {
+  "en": "<strong>Reproduction:</strong> Often incapable.",
+  "t": "<strong>การสืบพันธุ์:</strong> มักไม่สามารถสืบพันธุ์ได้"
+ },
+ "587c728b1652": {
+  "en": "Beasts by tier:",
+  "t": "สัตว์อสูรแบ่งตามระดับ:"
  },
  "58ffde096ea8": {
   "en": "Sucker Lady: a gaunt gray humanoid with long black hair covering her face, standing beside Harry.",
@@ -107,6 +383,18 @@
   "en": "Male and female Flingas: tall dark-blue beasts with long curved horns and red crests, plus a close-up of a head, next to Harry.",
   "t": "ฟลิงกาตัวผู้และตัวเมีย: สัตว์อสูรตัวสูงสีน้ำเงินเข้มมีเขาโค้งยาวและหงอนสีแดง พร้อมภาพหัวระยะใกล้ ข้างแฮร์รี"
  },
+ "5d97b7b1f3a8": {
+  "en": "<strong>Flinga Meat</strong>: Meat cut by a butcher. A refined, rare product that some people in Forway insist on having, even though there’s nothing special about it.",
+  "t": "<strong>เนื้อฟลิงกา</strong>: เนื้อที่คนขายเนื้อชำแหละ เป็นสินค้าหรูหายากที่บางคนในฟอร์เวย์ยืนกรานจะต้องมี แม้ไม่มีอะไรพิเศษเลย"
+ },
+ "5da74770aa33": {
+  "en": "Beasts (World Lore illustration)",
+  "t": "สัตว์อสูร (ภาพประกอบตำนานโลก)"
+ },
+ "5db2f3d257c3": {
+  "en": "<strong>Reproduction:</strong> Throughout the year, more in the summer.",
+  "t": "<strong>การสืบพันธุ์:</strong> ตลอดทั้งปี มากขึ้นในฤดูร้อน"
+ },
  "5fa3e182ab03": {
   "en": "004 (images illustration)",
   "t": "004 (ภาพประกอบ)"
@@ -115,9 +403,21 @@
   "en": "Teefyro",
   "t": "ทีฟีโร"
  },
+ "632a1556dc63": {
+  "en": "<strong>Reproduction:</strong> Every summer, through a flower with pollen on their heads.",
+  "t": "<strong>การสืบพันธุ์:</strong> ทุกฤดูร้อน ผ่านดอกไม้ที่มีเกสรบนหัว"
+ },
  "63b396f5f9b7": {
   "en": "Sucker Lady",
   "t": "ซักเกอร์เลดี"
+ },
+ "65318a520a2a": {
+  "en": "<strong>Habitat:</strong> Buhraies Plains.",
+  "t": "<strong>ถิ่นที่อยู่:</strong> ที่ราบบูไรส์"
+ },
+ "65b0ff14ee99": {
+  "en": "<strong>Koalin Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>เนื้อโคอาลิน</strong>: เนื้อที่คนขายเนื้อชำแหละ"
  },
  "66c61ec563ee": {
   "en": "Public text: Website Description in Legacy/Behind The Scenes/World Lore/Beasts.md",
@@ -126,6 +426,10 @@
  "67d6f70025a8": {
   "en": "Walking {X} Skin",
   "t": "วอล์กกิง {X} สกิน"
+ },
+ "67f02df425bd": {
+  "en": "<strong>Food:</strong> Large berries and fruits.",
+  "t": "<strong>อาหาร:</strong> ผลไม้ป่าและผลไม้ขนาดใหญ่"
  },
  "696bfe5adfc8": {
   "en": "Teefyro baffles scientists and makes many disagree if this thing is a beast or fauna. It definitely lacks any formal intelligence as it rampages around aimlessly, sometimes even killing each other through the usual process of exploding its gums and sending its teeth as a projectile—sometimes killing itself in the process by bleeding to death, or in rarer cases, the interface controlling the explosion goes full haywire and detonates the entire body, leaving a crater where the beast once stood as a shower of blood and guts precipitates the whole area. It also randomly casts different spells through its flesh composition of the diverse fauna pieces and other beasts. Scientists still aren't sure how many combinations there are, but if it has something akin to teeth that explodes outwardly, and its body shape reminds, or at least smells like a Bagarisa, then for sure, it's a Teefyro.",
@@ -139,37 +443,237 @@
   "en": "Trunk People: a youngling and an adult tree creature with leafy green heads in a forest, on a height chart.",
   "t": "ทรังก์พีเพิล: ต้นไม้มีชีวิตหัวเป็นใบไม้สีเขียว ตัวเล็กหนึ่งตัวและตัวเต็มวัยหนึ่งตัวในป่า บนแผนภูมิความสูง"
  },
+ "6dcff1a618d7": {
+  "en": "<strong>Inspired by:</strong> The natural look of a bryozoan colony.",
+  "t": "<strong>ได้แรงบันดาลใจจาก:</strong> รูปลักษณ์ตามธรรมชาติของโคโลนีไบรโอซัว"
+ },
+ "6de573c49d82": {
+  "en": "<strong>Sweet Sting Poison</strong>: Often used in nari gels.",
+  "t": "<strong>พิษสวีตสติง</strong>: มักใช้ในเจลนาริ"
+ },
+ "6df614a0901c": {
+  "en": "<strong>Nari Worm Meat</strong>: Meat cut by a butcher. It tastes horrible.",
+  "t": "<strong>เนื้อนาริเวิร์ม</strong>: เนื้อที่คนขายเนื้อชำแหละ รสชาติแย่มาก"
+ },
+ "6feb69b2b624": {
+  "en": "A mutated tree branch that sparked to life. They're very protective of their surroundings and will use their interface if they feel threatened. They communicate only by casting different colors of light, since they can't hear, and their hair is pollen. They live in the trunks of Live Wood trees. In and around the Freeish Kingdom, people often use them as public lights on large Soul Wood trees, and some use them inside their homes too. They can also be used as a seed, to plant the tree wherever the owner wants.",
+  "t": "กิ่งไม้กลายพันธุ์ที่มีชีวิตขึ้นมา พวกมันหวงพื้นที่รอบตัวมากและจะใช้อินเทอร์เฟซถ้ารู้สึกถูกคุกคาม พวกมันสื่อสารด้วยการเปล่งแสงสีต่างๆ เท่านั้น เพราะไม่ได้ยิน และผมของพวกมันคือเกสร พวกมันอาศัยในลำต้นของต้นไลฟ์วูด ในและรอบอาณาจักรฟรีอิช ผู้คนมักใช้พวกมันเป็นไฟสาธารณะบนต้นโซลวูดขนาดใหญ่ และบางคนก็ใช้ในบ้านด้วย พวกมันยังใช้เป็นเมล็ดพันธุ์ได้ เพื่อปลูกต้นไม้ในที่ที่เจ้าของต้องการ"
+ },
+ "714a3bf27817": {
+  "en": "<strong>Inspired by:</strong> Capybara.",
+  "t": "<strong>ได้แรงบันดาลใจจาก:</strong> คาปิบารา"
+ },
  "71ba8c3b02ac": {
   "en": "Shapeshifter: a brown blob in a sunlit forest, with a chart of how it moves, attacks, flees and defends, and its size at Harry's knee level.",
   "t": "เชปชิฟเตอร์: ก้อนสีน้ำตาลในป่าที่มีแสงแดดส่อง พร้อมแผนภาพการเคลื่อนที่ โจมตี หนี และป้องกันตัว และขนาดของมันสูงระดับเข่าแฮร์รี"
+ },
+ "72dba6373ee0": {
+  "en": "<strong>Interface:</strong> Usually the same as the originating species.",
+  "t": "<strong>อินเทอร์เฟซ:</strong> ปกติเหมือนสปีชีส์ต้นกำเนิด"
+ },
+ "734c760d73c6": {
+  "en": "<strong>Uses:</strong> Forway guards ride them to fly around without needing a nari gel themselves (the Big Winga under them is often another guard transformed with one). They're used for quick transportation of goods, scouting and flyovers.",
+  "t": "<strong>ประโยชน์:</strong> ทหารยามฟอร์เวย์ขี่พวกมันบินไปไหนมาไหนโดยไม่ต้องใช้เจลนาริเอง (บิ๊กวิงกาที่อยู่ข้างใต้มักเป็นทหารยามอีกคนที่แปลงร่างด้วยเจล) ใช้ขนส่งสินค้าอย่างรวดเร็ว สอดแนม และบินลาดตระเวน"
+ },
+ "7632aa3679a9": {
+  "en": "<strong>Big Winga Feathers</strong>: Feathers, prepared by a butcher for artisans to work on.",
+  "t": "<strong>ขนบิ๊กวิงกา</strong>: ขนนกที่คนขายเนื้อเตรียมไว้ให้ช่างฝีมือนำไปใช้"
+ },
+ "767940b9c663": {
+  "en": "<strong>Food:</strong> Grass and some other plants.",
+  "t": "<strong>อาหาร:</strong> หญ้าและพืชอื่นๆ บางชนิด"
  },
  "7698ce3d747b": {
   "en": "Sand Worms are native to the deserts around Gandew and must be the absolute worst creature from that region! They are always either burying themselves below the surface or cloaking themselves in plain sight, then viciously attacking unsuspecting victims. Luckily Saynas often detect them to turn the tables and allow adventurers to hunt them instead. It's crazy how some Darfaries still refuse to use Saynas and instead prefer to get high on the thrill of being attacked at any moment; it's pretty gruesome seeing a Darfaries and a Sand Worm duel to the death.",
   "t": "แซนด์เวิร์มเป็นสัตว์ท้องถิ่นของทะเลทรายรอบแกนดิว และต้องเป็นสิ่งมีชีวิตที่แย่ที่สุดในภูมิภาคนั้นแน่ๆ! พวกมันมักฝังตัวอยู่ใต้ผิวทรายหรือพรางตัวให้กลืนไปกับสภาพแวดล้อม แล้วจู่โจมเหยื่อที่ไม่ทันระวังอย่างดุร้าย โชคดีที่ไซนามักตรวจจับพวกมันได้ จนพลิกสถานการณ์ให้นักผจญภัยเป็นฝ่ายล่าแทน เหลือเชื่อที่ดาร์แฟรีส์บางคนยังปฏิเสธจะใช้ไซนา และชอบเมามันกับความตื่นเต้นที่จะถูกโจมตีได้ทุกเมื่อ ภาพดาร์แฟรีส์กับแซนด์เวิร์มดวลกันจนตายนั้นน่าสยดสยองทีเดียว"
  },
+ "76bafbc8d5c6": {
+  "en": "<strong>Tastes like:</strong> Same as Winga.",
+  "t": "<strong>รสชาติเหมือน:</strong> เหมือนวิงกา"
+ },
+ "76f29b94560d": {
+  "en": "<strong>Inspired by:</strong> Pteranodon.",
+  "t": "<strong>ได้แรงบันดาลใจจาก:</strong> เทอราโนดอน"
+ },
+ "77f33594f204": {
+  "en": "<strong>Tastes like:</strong> Pork.",
+  "t": "<strong>รสชาติเหมือน:</strong> หมู"
+ },
+ "78403b06d289": {
+  "en": "<strong>Inspired by:</strong> Worms.",
+  "t": "<strong>ได้แรงบันดาลใจจาก:</strong> หนอน"
+ },
+ "78dfb58a0a63": {
+  "en": "<strong>Skills:</strong> Generate Light; Sense Lifeforms; Generate Air Shield.",
+  "t": "<strong>ทักษะ:</strong> สร้างแสง รับรู้สิ่งมีชีวิต สร้างโล่อากาศ"
+ },
  "78f5ed6037a2": {
   "en": "Walking Flesh is the common name for any species stuck in this half-state thing. They are undead and seem to share some hive-mind cognition, but they don't seem completely devoid of their intelligence either. If they are taken far away from the castle, some transformed species will rampage against anything; some will idle, while some even demonstrate docile behaviors. The transformation does compound on the behaviors, so the more they are transformed towards the walking skin version, the more they lose whatever remains of their sanity. Don't underestimate their fighting capabilities; you might just become one of them.",
   "t": "วอล์กกิงเฟลชเป็นชื่อเรียกทั่วไปของเผ่าพันธุ์ใดก็ตามที่ติดอยู่ในสภาพครึ่งๆ กลางๆ นี้ พวกมันเป็นซากศพเดินได้และดูเหมือนจะมีจิตสำนึกร่วมแบบรังผึ้ง แต่ก็ไม่ได้ไร้สติปัญญาเสียทีเดียว ถ้าพาพวกมันไปไกลจากปราสาท บางเผ่าพันธุ์ที่กลายร่างจะอาละวาดใส่ทุกสิ่ง บางตัวจะอยู่เฉยๆ ส่วนบางตัวถึงกับแสดงพฤติกรรมเชื่อง การกลายร่างส่งผลทบต่อพฤติกรรม ยิ่งกลายร่างไปทางวอล์กกิงสกินมากเท่าไหร่ ก็ยิ่งสูญเสียสติที่เหลืออยู่มากเท่านั้น อย่าประเมินความสามารถในการต่อสู้ของพวกมันต่ำไป ไม่งั้นคุณอาจกลายเป็นหนึ่งในนั้น"
+ },
+ "7965549e73d3": {
+  "en": "<strong>Tastes like:</strong> Metallic and earthy.",
+  "t": "<strong>รสชาติเหมือน:</strong> กลิ่นโลหะและกลิ่นดิน"
+ },
+ "7a9f0b234fc8": {
+  "en": "Big birds only ever seen flying high in the air, except during winter (most years). Nobody knows how they eat, sleep, etc. Nobody except the Finaies, who made a pact with the Flingas to watch over the south and plan a comeback. In 1039 A.G., Flingas were seen flying around in winter, something that hadn't happened in quite a while.",
+  "t": "นกขนาดใหญ่ที่เห็นได้แต่ตอนบินสูงบนฟ้า ยกเว้นในฤดูหนาว (ส่วนใหญ่ของปี) ไม่มีใครรู้ว่าพวกมันกิน นอน ฯลฯ อย่างไร ไม่มีใครเลยนอกจากฟิเนส์ ซึ่งทำข้อตกลงกับฟลิงกาให้เฝ้าดูทางใต้และวางแผนกลับมา ในปี 1039 A.G. มีคนเห็นฟลิงกาบินไปมาในฤดูหนาว ซึ่งไม่ได้เกิดขึ้นมานานพอสมควรแล้ว"
+ },
+ "7af8721e68f3": {
+  "en": "<strong>Inspired by:</strong> Eunice aphroditois.",
+  "t": "<strong>ได้แรงบันดาลใจจาก:</strong> Eunice aphroditois"
+ },
+ "7c2592fcb57e": {
+  "en": "Goods are sorted into four tiers by how they look to a common person in Vraki, from cheap things anyone buys to things only the very rich can afford. The boundaries are blurry on purpose: it's a spectrum, and the tiers just help picture it (see <a href=\"/lore/nari-gels/\">Nari Gels</a>).",
+  "t": "สินค้าถูกแบ่งเป็นสี่ระดับตามที่คนทั่วไปในวรากีมองเห็น ตั้งแต่ของถูกที่ใครก็ซื้อ ไปจนถึงของที่มีแต่คนรวยมากเท่านั้นที่ซื้อได้ ขอบเขตจงใจให้คลุมเครือ: มันคือสเปกตรัม และระดับแค่ช่วยให้นึกภาพออก (ดู <a href=\"/lore/nari-gels/\">เจลนาริ</a>)"
+ },
+ "7e5c7c939d77": {
+  "en": "<strong>Habitat:</strong> From west of Blood into Freeish; rarely seen much farther east, near Forway.",
+  "t": "<strong>ถิ่นที่อยู่:</strong> ตั้งแต่ตะวันตกของบลัดเข้าไปถึงฟรีอิช ไม่ค่อยเห็นไกลไปทางตะวันออกใกล้ฟอร์เวย์"
+ },
+ "7f0b28b34972": {
+  "en": "<strong>Interface:</strong> Mouth pincers; a black flame comes out of the black stripes on them.",
+  "t": "<strong>อินเทอร์เฟซ:</strong> คีมที่ปาก เปลวไฟสีดำออกมาจากลายดำบนคีม"
  },
  "80222f64dc85": {
   "en": "Sand Worms",
   "t": "แซนด์เวิร์ม"
  },
+ "80271cf989cd": {
+  "en": "<strong>Intelligence:</strong> Instinctual, bee-like.",
+  "t": "<strong>สติปัญญา:</strong> ตามสัญชาตญาณ คล้ายผึ้ง"
+ },
+ "806c111752d9": {
+  "en": "<strong>Hifuna People Wood</strong>: The same reddish tone, but plagued with Hifuna disease, so most people won’t use it for crafting.",
+  "t": "<strong>ไม้ฮิฟูนาพีเพิล</strong>: สีแดงแบบเดียวกัน แต่ติดโรคฮิฟูนา คนส่วนใหญ่จึงไม่ใช้ทำงานฝีมือ"
+ },
+ "81ae2bfa4c4e": {
+  "en": "<strong>Jelly Blob</strong>: Usually a piece cut off a Shapeshifter and put in a jar for transport. Expensive, because they’re hard to catch.",
+  "t": "<strong>ก้อนวุ้น</strong>: ปกติเป็นชิ้นที่ตัดจากเชปชิฟเตอร์แล้วใส่โหลไว้ขนส่ง ราคาแพงเพราะจับยาก"
+ },
+ "82a339cde6dc": {
+  "en": "<strong>Tastes like:</strong> Not tender, somewhat greasy, and kind of bland.",
+  "t": "<strong>รสชาติเหมือน:</strong> ไม่นุ่ม ค่อนข้างมัน และค่อนข้างจืด"
+ },
+ "83774f3c017a": {
+  "en": "<strong>Flinga Tamed</strong>: No one in the four kingdoms has managed to tame a Flinga yet. Taming one would have a huge impact on transportation, and so on costs and expansion.",
+  "t": "<strong>ฟลิงกาเชื่อง</strong>: ยังไม่มีใครในสี่อาณาจักรฝึกฟลิงกาให้เชื่องได้ การฝึกได้สักตัวจะส่งผลมหาศาลต่อการขนส่ง และต่อต้นทุนและการขยายตัว"
+ },
+ "846308e26fa1": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Beasts.md\">Legacy/Behind The Scenes/World Lore/Beasts.md</a>",
+  "t": "แหล่งที่มา: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Beasts.md\">Legacy/Behind The Scenes/World Lore/Beasts.md</a>"
+ },
+ "84aa58ed9da6": {
+  "en": "<strong>Food:</strong> Same as Winga, but they also eat bigger fruits, especially greenbread.",
+  "t": "<strong>อาหาร:</strong> เหมือนวิงกา แต่ยังกินผลไม้ที่ใหญ่กว่า โดยเฉพาะกรีนเบรด"
+ },
+ "8646424e8834": {
+  "en": "<strong>Skills:</strong> Slow Regen; Halted Decomposition; Decompose Target; Steal Soul Energy.",
+  "t": "<strong>ทักษะ:</strong> ฟื้นฟูช้า หยุดการเน่าเปื่อย ทำให้เป้าหมายเน่าเปื่อย ขโมยพลังวิญญาณ"
+ },
+ "88387cc837bb": {
+  "en": "<strong>Flinga Jerky</strong>: Jerky prepared by a butcher. A refined, rare product that some people in Forway insist on having, even though there’s nothing special about it.",
+  "t": "<strong>เนื้อแห้งฟลิงกา</strong>: เนื้อแห้งที่คนขายเนื้อทำ เป็นสินค้าหรูหายากที่บางคนในฟอร์เวย์ยืนกรานจะต้องมี แม้ไม่มีอะไรพิเศษเลย"
+ },
+ "8bcdc001eb42": {
+  "en": "<strong>Inspired by:</strong> The Trioxin zombies of <em>The Return of the Living Dead</em>.",
+  "t": "<strong>ได้แรงบันดาลใจจาก:</strong> ซอมบี้ไตรออกซินจาก <em>The Return of the Living Dead</em>"
+ },
+ "8c651869ce44": {
+  "en": "<strong>Big Winga Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>เนื้อบิ๊กวิงกา</strong>: เนื้อที่คนขายเนื้อชำแหละ"
+ },
+ "8c76ef7d364a": {
+  "en": "<strong>Food:</strong> Soul Energy from Bahyum Castle.",
+  "t": "<strong>อาหาร:</strong> พลังวิญญาณจากปราสาทบาฮยุม"
+ },
+ "8cb49002eb9e": {
+  "en": "<strong>Intelligence:</strong> Often ~50% of the original intelligence, but far more dangerous. They are also more aggressive, even species that are usually defensive or friendly.",
+  "t": "<strong>สติปัญญา:</strong> มักราว ~50% ของสติปัญญาเดิม แต่อันตรายกว่ามาก และก้าวร้าวกว่า แม้แต่สปีชีส์ที่ปกติตั้งรับหรือเป็นมิตร"
+ },
  "8f0690c6c26e": {
   "en": "Flinga",
   "t": "ฟลิงกา"
+ },
+ "901962a56ac6": {
+  "en": "<strong>Habitat:</strong> Throughout the lowlands; most often spotted in the grasslands to the east.",
+  "t": "<strong>ถิ่นที่อยู่:</strong> ทั่วที่ราบลุ่ม พบบ่อยที่สุดในทุ่งหญ้าทางตะวันออก"
+ },
+ "902576d502a8": {
+  "en": "<strong>Reproduction:</strong> By attacking certain trees for their sap.",
+  "t": "<strong>การสืบพันธุ์:</strong> โดยโจมตีต้นไม้บางชนิดเพื่อเอายาง"
  },
  "91ece0116be9": {
   "en": "Koalins are truly a unique breed of beast; some scientists still dispute whether they should be categorized as beasts in the first place. They don’t really bite, claw, or kill people. What they do, however, is far worse! Through the unique special wave generation organs in their head, alongside the white silky white beard that focuses those waves towards a target, they can strike virtually anyone with strong mental impairment. If they are just being defensive, they can make you feel a looming doom, a fearful sensation, but if they amp up the intensity, they can lead weak-minded people to kill themselves. If you resist that, they will increase the intensity to debilitating pain. There’s no winning against a Koalin. They are also nearly untamable, but if you manage to tame one, they are inseparable and will earn you reaches you never thought possible!",
   "t": "โคอาลินเป็นสัตว์อสูรสายพันธุ์ที่ไม่เหมือนใครจริงๆ นักวิทยาศาสตร์บางคนยังเถียงกันว่าควรจัดเป็นสัตว์อสูรตั้งแต่แรกหรือเปล่า พวกมันไม่ค่อยกัด ข่วน หรือฆ่าคน แต่สิ่งที่พวกมันทำนั้นแย่กว่ามาก! ด้วยอวัยวะสร้างคลื่นพิเศษในหัว ประกอบกับเคราขาวนุ่มเหมือนไหมที่รวมคลื่นไปยังเป้าหมาย พวกมันโจมตีแทบทุกคนให้จิตใจบกพร่องอย่างรุนแรงได้ ถ้าแค่ป้องกันตัว พวกมันทำให้คุณรู้สึกถึงหายนะที่ใกล้เข้ามา รู้สึกหวาดกลัว แต่ถ้าเพิ่มความรุนแรง พวกมันสามารถทำให้คนจิตใจอ่อนแอฆ่าตัวตายได้ ถ้าคุณต้านไหว พวกมันจะเพิ่มความรุนแรงเป็นความเจ็บปวดที่ทำให้หมดเรี่ยวแรง ไม่มีทางชนะโคอาลินได้ พวกมันยังแทบเชื่องไม่ได้เลย แต่ถ้าคุณทำให้เชื่องได้สักตัว พวกมันจะไม่ยอมห่างจากคุณ และจะพาคุณไปถึงจุดที่ไม่เคยคิดว่าจะเป็นไปได้!"
  },
+ "930f8cadc07c": {
+  "en": "Endless experiments with what's now known as the Walking Heart stone left tons of zombies in Bahyum Castle. They're slower and dumber than Walking Flesh.",
+  "t": "การทดลองไม่รู้จบกับสิ่งที่ปัจจุบันรู้จักกันในชื่อหินวอล์กกิงฮาร์ต ทิ้งซอมบี้ไว้มากมายในปราสาทบาฮยุม พวกมันช้ากว่าและโง่กว่าวอล์กกิงเฟลช"
+ },
  "936ea19d7d0a": {
   "en": "White Roundies",
   "t": "ไวต์ราวนดีส์"
  },
+ "941c57b40421": {
+  "en": "<strong>Tastes like:</strong> Slightly salty jelly.",
+  "t": "<strong>รสชาติเหมือน:</strong> วุ้นเค็มเล็กน้อย"
+ },
+ "94dd084d3ae0": {
+  "en": "<strong>Sand Worm Chitin</strong>: Chitin, prepared by a butcher for artisans to work on.",
+  "t": "<strong>ไคตินแซนด์เวิร์ม</strong>: ไคตินที่คนขายเนื้อเตรียมไว้ให้ช่างฝีมือนำไปใช้"
+ },
+ "978e215b19ae": {
+  "en": "<a href=\"/lore/beasts/\">Beasts</a>: mildly intelligent species, or highly dangerous beasts.",
+  "t": "<a href=\"/lore/beasts/\">สัตว์อสูร</a>: สปีชีส์ที่ฉลาดพอสมควร หรือสัตว์อสูรที่อันตรายมาก"
+ },
+ "99ad77410a1f": {
+  "en": "<strong>Walking Flathead Tongue</strong>: Often used in nari gels.",
+  "t": "<strong>ลิ้นวอล์กกิงแฟลตเฮด</strong>: มักใช้ในเจลนาริ"
+ },
+ "99c297f0a691": {
+  "en": "<strong>Skills:</strong> Harden parts of their bodies; Generate Acid; Cloak; Increase Size.",
+  "t": "<strong>ทักษะ:</strong> ทำให้บางส่วนของร่างกายแข็ง สร้างกรด อำพรางตัว เพิ่มขนาด"
+ },
+ "9c96138b628e": {
+  "en": "<strong>Reproduction:</strong> Females give birth to 5–7 babies every year.",
+  "t": "<strong>การสืบพันธุ์:</strong> ตัวเมียออกลูก 5–7 ตัวทุกปี"
+ },
+ "9eece3967a5b": {
+  "en": "<strong>Extermination</strong>: Usually one piece (often the Walking Heart stone with the head bone) is torn off and brought back as proof of the hunt. See Embassy Quests for more details.",
+  "t": "<strong>การกำจัด</strong>: ปกติจะฉีกชิ้นส่วนหนึ่ง (มักเป็นหินวอล์กกิงฮาร์ตพร้อมกระดูกหัว) กลับมาเป็นหลักฐานการล่า ดูรายละเอียดเพิ่มเติมได้ที่ภารกิจของสถานทูต"
+ },
+ "a09bc593edc1": {
+  "en": "<strong>Habitat:</strong> Hifuna, though some make their way down to lower ground and cause havoc.",
+  "t": "<strong>ถิ่นที่อยู่:</strong> ฮิฟูนา แต่บางตัวก็ลงมายังที่ต่ำและก่อความวุ่นวาย"
+ },
+ "a20b9f3830c7": {
+  "en": "<strong>Food:</strong> The same as the originating species; often other Hifuna species, which build up radiation.",
+  "t": "<strong>อาหาร:</strong> เหมือนสปีชีส์ต้นกำเนิด มักเป็นสปีชีส์อื่นจากฮิฟูนา ซึ่งสะสมรังสี"
+ },
+ "a283fa0b9785": {
+  "en": "<strong>Wood People Leaves</strong>: Sun-dried, clean leaves mostly used for crafting.",
+  "t": "<strong>ใบวูดพีเพิล</strong>: ใบที่ตากแดดและสะอาด ส่วนใหญ่ใช้ทำงานฝีมือ"
+ },
+ "a298cddd185c": {
+  "en": "<strong>Skills:</strong> Fast Strike (punches a hole in the target’s flesh) by altering the physical properties of their vines.",
+  "t": "<strong>ทักษะ:</strong> ฟาสต์สไตรก์ (เจาะรูในเนื้อของเป้าหมาย) โดยเปลี่ยนคุณสมบัติทางกายภาพของเถาวัลย์"
+ },
+ "a38b81e5ae8e": {
+  "en": "<strong>Wood People Vines</strong>: Often used for ropes, construction, etc. Quite elastic, almost like rubber.",
+  "t": "<strong>เถาวัลย์วูดพีเพิล</strong>: มักใช้ทำเชือก การก่อสร้าง ฯลฯ ค่อนข้างยืดหยุ่น เกือบเหมือนยาง"
+ },
+ "a3c7b118e2b6": {
+  "en": "<strong>Skills:</strong> Eye Catch; Bigger Looking; Hypnosis.",
+  "t": "<strong>ทักษะ:</strong> ดึงดูดสายตา ดูตัวใหญ่ขึ้น สะกดจิต"
+ },
  "a4596ef28211": {
   "en": "Sweet Sting is found west of the Freeish Kingdom, with SweetLake being their HQ of sorts. They can be heard quite away, their wings making a deeper buzzing sound as they carry pollen or tree sap back to make black honey—an extremely nutritious yet diabetically sweet paste. It might sound threatening, but that's just a female worker passing by. They don't have stingers like their smaller male counterparts, but their pinchers are still quite powerful! If you see black flames emerge from their pincers, get ready as they are about to shoot a poisonous spit that gets accelerated to near sonic speeds by their soul energy interface. Don't count on evading because they never seem to miss a shot! There's even a common phrase in the local populace, I'm sure as a spitting Sweet Sting.",
   "t": "สวีตสติงพบได้ทางตะวันตกของอาณาจักรฟรีอิช โดยมีสวีตเลกเป็นเหมือนกองบัญชาการของพวกมัน ได้ยินเสียงพวกมันได้จากไกลพอสมควร ปีกของพวกมันส่งเสียงหึ่งทุ้มขณะขนเกสรหรือยางไม้กลับไปทำน้ำผึ้งดำ—เนื้อครีมที่มีคุณค่าทางอาหารสูงมากแต่หวานจนเป็นเบาหวาน มันอาจฟังดูน่ากลัว แต่นั่นก็แค่ผึ้งงานตัวเมียบินผ่าน พวกมันไม่มีเหล็กไนเหมือนตัวผู้ที่ตัวเล็กกว่า แต่คีมของพวกมันก็ยังทรงพลังมาก! ถ้าเห็นเปลวไฟสีดำโผล่ออกจากคีม เตรียมตัวไว้ได้เลย เพราะพวกมันกำลังจะพ่นน้ำลายพิษที่ถูกเร่งความเร็วจนเกือบเท่าความเร็วเสียงด้วยอินเทอร์เฟซพลังวิญญาณ อย่าหวังว่าจะหลบได้ เพราะพวกมันไม่เคยพลาดเป้า! ถึงขั้นมีสำนวนติดปากของคนในท้องถิ่นว่า แน่นอนเหมือนสวีตสติงพ่นน้ำลาย"
+ },
+ "a4c219359bad": {
+  "en": "<strong>Habitat:</strong> Desert.",
+  "t": "<strong>ถิ่นที่อยู่:</strong> ทะเลทราย"
  },
  "a4cd5782cc2d": {
   "en": "Walking Flathead: a skeletal gray creature with a long spine-like tail creature above it, next to Harry.",
@@ -179,17 +683,69 @@
   "en": "Beasts",
   "t": "สัตว์อสูร"
  },
+ "a644a36bb4c3": {
+  "en": "<strong>Skills:</strong> Launches its teeth forward.",
+  "t": "<strong>ทักษะ:</strong> ยิงฟันพุ่งออกไปข้างหน้า"
+ },
+ "a69c5b666ab6": {
+  "en": "<strong>Tier I (Cheap Goods):</strong> freshly killed animals, plus elemental interface actions for longer storage.",
+  "t": "<strong>ระดับ I (สินค้าราคาถูก):</strong> สัตว์ที่เพิ่งฆ่า รวมถึงการกระทำของอินเทอร์เฟซธาตุเพื่อเก็บได้นานขึ้น"
+ },
  "a7042371544b": {
   "en": "Walking Flesh: a red, skinless humanoid figure with small reference images, beside Harry.",
   "t": "วอล์กกิงเฟลช: ร่างมนุษย์สีแดงไร้ผิวหนังพร้อมภาพอ้างอิงเล็กๆ ข้างแฮร์รี"
+ },
+ "a870cba28053": {
+  "en": "<strong>Reproduction:</strong> They can duplicate themselves at the cost of half their mass, but most rocks first combine with other rocks and then split, so they can share their life experiences.",
+  "t": "<strong>การสืบพันธุ์:</strong> พวกมันแบ่งตัวเองได้โดยแลกกับมวลครึ่งหนึ่ง แต่หินส่วนใหญ่จะรวมกับหินก้อนอื่นก่อนแล้วจึงแยก เพื่อแบ่งปันประสบการณ์ชีวิต"
+ },
+ "a872978f1d4f": {
+  "en": "<strong>Extermination</strong>: Usually one piece (often the head) is torn off and brought back as proof of the hunt, because the meat and other body parts are usually too irradiated to be of any use. See Embassy Quests for more details.",
+  "t": "<strong>การกำจัด</strong>: ปกติจะฉีกชิ้นส่วนหนึ่ง (มักเป็นหัว) กลับมาเป็นหลักฐานการล่า เพราะเนื้อและชิ้นส่วนอื่นมักมีรังสีมากเกินจะใช้ประโยชน์ได้ ดูรายละเอียดเพิ่มเติมได้ที่ภารกิจของสถานทูต"
+ },
+ "aadd3dfa7175": {
+  "en": "<strong>Skills:</strong> Harden parts of their bodies; Generate Acid.",
+  "t": "<strong>ทักษะ:</strong> ทำให้บางส่วนของร่างกายแข็ง สร้างกรด"
+ },
+ "ac0239a98d1f": {
+  "en": "<strong>Reproduction:</strong> Each worm has both sexes; several worms are born every year.",
+  "t": "<strong>การสืบพันธุ์:</strong> หนอนแต่ละตัวมีทั้งสองเพศ หนอนหลายตัวเกิดทุกปี"
+ },
+ "ac492c452b6c": {
+  "en": "<strong>Hifuna People Sap</strong>: Processed sap, sometimes used in nari gels.",
+  "t": "<strong>ยางฮิฟูนาพีเพิล</strong>: ยางที่ผ่านการแปรรูป บางครั้งใช้ในเจลนาริ"
+ },
+ "ad4fdb69b8ff": {
+  "en": "<strong>Intelligence:</strong> Rather mindless; they act purely on instinct and only use their vines to defend themselves. They are drawn to Fost stones, but shoving a Fost stone into the top of the trunk paralyzes them.",
+  "t": "<strong>สติปัญญา:</strong> ค่อนข้างไร้สติ พวกมันทำตามสัญชาตญาณล้วนๆ และใช้เถาวัลย์เพื่อป้องกันตัวเท่านั้น พวกมันถูกดึงดูดเข้าหาหินฟอสต์ แต่การยัดหินฟอสต์เข้าที่ยอดลำต้นทำให้พวกมันเป็นอัมพาต"
  },
  "b0536ef796be": {
   "en": "Crazed Muckman",
   "t": "เครซด์มักแมน"
  },
+ "b0c45c4e62fa": {
+  "en": "<strong>Skills:</strong> Slow Regen; Halted Decomposition; Decompose Target; Steal Soul Energy; plus the original skills.",
+  "t": "<strong>ทักษะ:</strong> ฟื้นฟูช้า หยุดการเน่าเปื่อย ทำให้เป้าหมายเน่าเปื่อย ขโมยพลังวิญญาณ รวมถึงทักษะเดิม"
+ },
+ "b1a21c8f58a3": {
+  "en": "<strong>Intelligence:</strong> Rather instinctual, but slowly developing a sense of self. Some of these rocks are smart enough to understand a few words from adventurers.",
+  "t": "<strong>สติปัญญา:</strong> ค่อนข้างตามสัญชาตญาณ แต่ค่อยๆ พัฒนาความรู้สึกถึงตัวตน หินบางก้อนฉลาดพอจะเข้าใจคำพูดของนักผจญภัยได้ไม่กี่คำ"
+ },
  "b3065cdc24a2": {
   "en": "Flingas are massive beasts that fly high up in the sky, rarely ever coming close to the ground. Nobody knows where these beasts nest their younglings—if they even do that. Their complete lack of migratory patterns and sometimes random flight patterns, like flying over a specific city for days, still baffles all scientists and historians to this day. There are tales by the campfire surrounding a sapphire adventurer that wore Big Winga skin to fly back home, and on the way, he saw what appeared to be a child-sized wood humanoid riding on top of it. Some Scientists suspect it was a child of an ancient species called Fuhraies; others state it could be Finaies, another ancient species rumored to live north of Hifuna. Attempting to capture a Flinga is also damn nearly impossible as not only do they quickly climb higher at any sight of danger, but they can also use their soul energy interface to stun enemies with a few attacks, including unfathomably high-pitched screams and air gust streams.",
   "t": "ฟลิงกาเป็นสัตว์อสูรขนาดมหึมาที่บินสูงบนฟ้า แทบไม่เคยลงมาใกล้พื้นดิน ไม่มีใครรู้ว่าสัตว์อสูรพวกนี้ทำรังเลี้ยงลูกที่ไหน—ถ้าพวกมันทำแบบนั้นจริง การที่พวกมันไม่มีรูปแบบการอพยพเลยและบางครั้งบินแบบสุ่ม เช่น บินวนเหนือเมืองใดเมืองหนึ่งหลายวัน ยังทำให้นักวิทยาศาสตร์และนักประวัติศาสตร์ทุกคนงุนงงจนถึงทุกวันนี้ มีเรื่องเล่ารอบกองไฟเกี่ยวกับนักผจญภัยระดับแซฟไฟร์ที่สวมผิวบิ๊กวิงกาบินกลับบ้าน แล้วระหว่างทางเขาเห็นสิ่งที่ดูเหมือนมนุษย์ไม้ขนาดเท่าเด็กขี่อยู่บนหลังมัน นักวิทยาศาสตร์บางคนสงสัยว่าเป็นลูกของเผ่าพันธุ์โบราณที่เรียกว่าฟูไรส์ บางคนว่าอาจเป็นฟิเนส์ อีกเผ่าพันธุ์โบราณที่ลือกันว่าอาศัยอยู่ทางเหนือของฮิฟูนา การพยายามจับฟลิงกาก็แทบเป็นไปไม่ได้ เพราะนอกจากพวกมันจะบินขึ้นสูงอย่างรวดเร็วทันทีที่เห็นอันตรายแล้ว ยังใช้อินเทอร์เฟซพลังวิญญาณทำให้ศัตรูมึนงงด้วยการโจมตีไม่กี่แบบ รวมถึงเสียงกรีดร้องแหลมสูงจนเกินจินตนาการและกระแสลมกระโชก"
+ },
+ "b46c5f8fab9e": {
+  "en": "<strong>Inspired by:</strong> Chimpanzee.",
+  "t": "<strong>ได้แรงบันดาลใจจาก:</strong> ชิมแปนซี"
+ },
+ "b521396978a6": {
+  "en": "Endless experiments with what's now known as the Walking Heart stone left tons of zombies of different species in Bahyum Castle, and it somehow keeps creating more.",
+  "t": "การทดลองไม่รู้จบกับสิ่งที่ปัจจุบันรู้จักกันในชื่อหินวอล์กกิงฮาร์ต ทิ้งซอมบี้หลากหลายสปีชีส์ไว้มากมายในปราสาทบาฮยุม และไม่รู้ทำไมมันยังสร้างเพิ่มอยู่เรื่อยๆ"
+ },
+ "b779317c1ecf": {
+  "en": "<strong>Interface:</strong> Vines.",
+  "t": "<strong>อินเทอร์เฟซ:</strong> เถาวัลย์"
  },
  "b7d8c8b48485": {
   "en": "Two Koalins: brown bear-like creatures with striped faces, one adult and one young, beside Harry.",
@@ -199,13 +755,89 @@
   "en": "Wood People were, amongst many other things, another one of Buhraies experimentation gone wrong—or right. The debate of what they were trying to achieve is still a hot topic, but historians at least agree that Buhraies somehow wanted to make them foot soldiers plus a stable source of food and lumber. Meanwhile, scientists still can't fully wrap their heads around how they engineered a tree to be able to unearth itself and walk around in packs, let alone control its vines to defend itself. They did figure out that Buhraies used fost stones to paralyze and control Wood People based on specimens and tools found throughout the ages. Now they could be considered a plague as they are absolutely everywhere in the Buhraies Plains. Entire villages exist solely to strip these beasts for resources, with good prices going for their fantastic rubbery vines! That is if you can cut them off, as they won't go down without a fight. If you get a beating, you can at least sink your teeth into a nearly head-sized tasty Wood People Yabuca to appease your emotional wounds.",
   "t": "วูดพีเพิลเป็นอีกหนึ่งในการทดลองมากมายของบูไรส์ที่ผิดพลาด—หรืออาจสำเร็จก็ได้ การถกเถียงว่าพวกเขาพยายามทำอะไรยังเป็นประเด็นร้อน แต่นักประวัติศาสตร์อย่างน้อยก็เห็นตรงกันว่าบูไรส์อยากให้พวกมันเป็นทหารราบ พร้อมเป็นแหล่งอาหารและไม้ที่มั่นคง ขณะเดียวกัน นักวิทยาศาสตร์ยังคิดไม่ออกว่าพวกเขาออกแบบต้นไม้ให้ถอนรากตัวเองขึ้นมาและเดินเป็นฝูงได้อย่างไร ไม่ต้องพูดถึงการควบคุมเถาวัลย์เพื่อป้องกันตัว พวกเขาพบว่าบูไรส์ใช้หินฟอสต์ทำให้วูดพีเพิลเป็นอัมพาตและควบคุมพวกมัน จากตัวอย่างและเครื่องมือที่ค้นพบตลอดหลายยุค ตอนนี้พวกมันนับเป็นโรคระบาดได้เลย เพราะมีอยู่ทุกหนแห่งในที่ราบบูไรส์ มีหมู่บ้านทั้งหมู่บ้านที่ดำรงอยู่เพื่อชำแหละสัตว์อสูรพวกนี้เป็นทรัพยากร โดยเถาวัลย์ที่ยืดหยุ่นเหมือนยางชั้นเยี่ยมของพวกมันขายได้ราคาดี! นั่นถ้าคุณตัดมันได้นะ เพราะพวกมันไม่ยอมแพ้ง่ายๆ ถ้าโดนซัดยับ อย่างน้อยคุณก็ฝังฟันลงบนวูดพีเพิลยาบูกาแสนอร่อยที่ใหญ่เกือบเท่าหัวเพื่อปลอบแผลใจได้"
  },
+ "be900e85f50d": {
+  "en": "<strong>Skills:</strong> Launch a copy of their pincers forward.",
+  "t": "<strong>ทักษะ:</strong> ยิงสำเนาของคีมพุ่งออกไปข้างหน้า"
+ },
  "beca63384ced": {
   "en": "Hifuna People",
   "t": "ฮิฟูนาพีเพิล"
  },
+ "c2018b90555e": {
+  "en": "<strong>Intelligence:</strong> Lion.",
+  "t": "<strong>สติปัญญา:</strong> สิงโต"
+ },
+ "c21ad57d8448": {
+  "en": "<strong>Tastes like:</strong> Strong, earthy and nutty.",
+  "t": "<strong>รสชาติเหมือน:</strong> เข้มข้น กลิ่นดิน และมัน"
+ },
+ "c45a08fc875b": {
+  "en": "Hash {X}",
+  "t": "Hash {X}"
+ },
+ "c46dc6be487a": {
+  "en": "One of the last ancient-species experiments still in the world, from when one of the ancient species tested rocks in the forest. Many years later, the rocks began to grow and take on a jelly-like look; many years after that, some began assimilating nearby living beings and turning into them, while others assimilated each other to share experiences.",
+  "t": "หนึ่งในการทดลองของเผ่าพันธุ์โบราณชิ้นสุดท้ายที่ยังอยู่ในโลก จากสมัยที่เผ่าพันธุ์โบราณหนึ่งทดลองกับก้อนหินในป่า หลายปีต่อมา หินเริ่มเติบโตและมีลักษณะคล้ายวุ้น อีกหลายปีหลังจากนั้น บางก้อนเริ่มกลืนสิ่งมีชีวิตใกล้เคียงและกลายเป็นสิ่งนั้น ขณะที่บางก้อนกลืนกันเองเพื่อแบ่งปันประสบการณ์"
+ },
+ "c485163f2014": {
+  "en": "<strong>Habitat:</strong> The biggest nest is in Sweetlake.",
+  "t": "<strong>ถิ่นที่อยู่:</strong> รังที่ใหญ่ที่สุดอยู่ในสวีตเลก"
+ },
+ "c50c0638709c": {
+  "en": "Brought over by the Buhraies as summoning experiments, then soon left to their fate on what is now Endlessfog. As their population grew, so did their tribes and their wars, until a single Brunto led an army of conquest and united all the tribes under one leader, now honored by the Endlessfog statue (see Endlessfog). Killing them is prohibited by Endlessfog law, which doesn't apply in greater Forway, especially the Freeish Region.",
+  "t": "บูไรส์นำพวกมันมาเป็นการทดลองอัญเชิญ แล้วไม่นานก็ปล่อยทิ้งไว้ตามยถากรรมบนเกาะที่ปัจจุบันคือเอนด์เลสฟอก เมื่อประชากรเพิ่มขึ้น เผ่าและสงครามของพวกมันก็เพิ่มตาม จนบรุนโตตัวหนึ่งนำกองทัพพิชิตและรวมทุกเผ่าไว้ใต้ผู้นำคนเดียว ซึ่งปัจจุบันได้รับการยกย่องด้วยรูปปั้นเอนด์เลสฟอก (ดู เอนด์เลสฟอก) การฆ่าพวกมันเป็นสิ่งต้องห้ามตามกฎหมายเอนด์เลสฟอก ซึ่งไม่มีผลในเขตฟอร์เวย์ใหญ่ โดยเฉพาะภูมิภาคฟรีอิช"
+ },
+ "c51840f5dd2b": {
+  "en": "<strong>Inspired by:</strong> Trees, kind of. They map their surroundings with their vines and with vibrations in the ground and the wind, and they can also sense Soul Energy with their leaves.",
+  "t": "<strong>ได้แรงบันดาลใจจาก:</strong> ต้นไม้ ประมาณนั้น พวกมันสำรวจรอบตัวด้วยเถาวัลย์และแรงสั่นสะเทือนในพื้นดินและลม และยังรับรู้พลังวิญญาณได้ด้วยใบ"
+ },
+ "c51f76b3770a": {
+  "en": "<strong>Reproduction:</strong> Through Soul Energy; it all depends on Bahyum Castle.",
+  "t": "<strong>การสืบพันธุ์:</strong> ผ่านพลังวิญญาณ ทั้งหมดขึ้นอยู่กับปราสาทบาฮยุม"
+ },
+ "c550875876ca": {
+  "en": "<strong>Other:</strong> Explosive growth as their cells mutate.",
+  "t": "<strong>อื่นๆ:</strong> เติบโตแบบก้าวกระโดดเมื่อเซลล์กลายพันธุ์"
+ },
  "c6b259840636": {
   "en": "Koalin",
   "t": "โคอาลิน"
+ },
+ "ca4936ec973b": {
+  "en": "<strong>Interface:</strong> Shell.",
+  "t": "<strong>อินเทอร์เฟซ:</strong> เปลือก"
+ },
+ "caa12c4b606f": {
+  "en": "Adventurers hunting fauna or beasts butcher the corpses before hauling them, to cut costs.",
+  "t": "นักผจญภัยที่ล่าสัตว์หรือสัตว์อสูรจะชำแหละซากก่อนขนกลับ เพื่อลดต้นทุน"
+ },
+ "cac5b3c9032e": {
+  "en": "<strong>Habitat:</strong> Hifuna.",
+  "t": "<strong>ถิ่นที่อยู่:</strong> ฮิฟูนา"
+ },
+ "ce2d8c15400c": {
+  "en": "<strong>Inspired by:</strong> Ghouls.",
+  "t": "<strong>ได้แรงบันดาลใจจาก:</strong> กูล"
+ },
+ "ce4ce2bafb92": {
+  "en": "<strong>Inspired by:</strong> A swarm of butterflies.",
+  "t": "<strong>ได้แรงบันดาลใจจาก:</strong> ฝูงผีเสื้อ"
+ },
+ "d18281ada717": {
+  "en": "The list isn't complete: it covers the species that matter most to the economy and the story.",
+  "t": "รายการนี้ยังไม่ครบ: ครอบคลุมสปีชีส์ที่สำคัญที่สุดต่อเศรษฐกิจและเรื่องราว"
+ },
+ "d2ac3d882ee7": {
+  "en": "<strong>Food:</strong> Smaller people, mammals, etc.: anything that moves and steps too close.",
+  "t": "<strong>อาหาร:</strong> คนตัวเล็กกว่า สัตว์เลี้ยงลูกด้วยนม ฯลฯ: อะไรก็ได้ที่เคลื่อนไหวและก้าวเข้ามาใกล้เกินไป"
+ },
+ "d356e3c2af66": {
+  "en": "<strong>Intelligence:</strong> Butterfly.",
+  "t": "<strong>สติปัญญา:</strong> ผีเสื้อ"
+ },
+ "d3f4c76a9a45": {
+  "en": "A few Shapeshifters assimilated bees and began building hives west of Blood City. What makes them special: they're much bigger than normal bees, and they make an extremely tasty black honey. The females make honey from tree sap and build massive anthill-like structures to store it. If a male stings you, your sense of taste is overwhelmed with sweetness while you scream in agony.",
+  "t": "เชปชิฟเตอร์ไม่กี่ตัวกลืนผึ้งแล้วเริ่มสร้างรังทางตะวันตกของเมืองบลัด สิ่งที่ทำให้พวกมันพิเศษ: พวกมันใหญ่กว่าผึ้งธรรมดามาก และทำน้ำผึ้งสีดำที่อร่อยสุดๆ ตัวเมียทำน้ำผึ้งจากยางไม้และสร้างโครงสร้างขนาดมหึมาคล้ายจอมปลวกเพื่อเก็บมัน ถ้าตัวผู้ต่อยคุณ ประสาทรับรสของคุณจะท่วมท้นไปด้วยความหวานขณะที่คุณกรีดร้องด้วยความเจ็บปวด"
  },
  "d412d5ae3550": {
   "en": "Trunk People are native to heavy, thick forests around the Freeish Kingdom. They are easily recognizable by their four arms, with each being able to show different colored flames, including altering their intensity. The name Trunk People is an old name, for scientists now know they are nothing but parasites! Still, they are cute and can even recognize faces. You see them everywhere in Freeish and surrounding communities as public light sources and even as security for some because their flaming and blinding capabilities are pretty impressive for their size. Some can also respond to certain body motions and training, often becoming part of shows and traveling bands.",
@@ -215,13 +847,89 @@
   "en": "Sweet Sting",
   "t": "สวีตสติง"
  },
+ "d5b3c731749c": {
+  "en": "<strong>Habitat:</strong> Rarely seen throughout the four kingdoms; now they often live in Wingarest.",
+  "t": "<strong>ถิ่นที่อยู่:</strong> หาดูได้ยากทั่วสี่อาณาจักร ตอนนี้มักอาศัยอยู่ในวิงกาเรสต์"
+ },
+ "d73de6d2d8f5": {
+  "en": "<strong>Food:</strong> Sunlight, blood and guts (more specifically, the Soul Energy in them).",
+  "t": "<strong>อาหาร:</strong> แสงแดด เลือด และเครื่องใน (ให้ชัดกว่านั้นคือพลังวิญญาณในสิ่งเหล่านั้น)"
+ },
+ "d8935671db5f": {
+  "en": "<strong>Other:</strong> Grows indefinitely, but seems to stop around this size because of how much it would need to eat.",
+  "t": "<strong>อื่นๆ:</strong> โตไม่สิ้นสุด แต่ดูเหมือนจะหยุดที่ขนาดนี้เพราะปริมาณที่ต้องกิน"
+ },
+ "d8af6a9b563c": {
+  "en": "<strong>Interface:</strong> Walking Heart.",
+  "t": "<strong>อินเทอร์เฟซ:</strong> วอล์กกิงฮาร์ต"
+ },
+ "d9a507ad961b": {
+  "en": "<strong>Tastes like:</strong> Tough chicken.",
+  "t": "<strong>รสชาติเหมือน:</strong> ไก่เหนียว"
+ },
+ "dbc656eb0b41": {
+  "en": "<strong>Intelligence:</strong> Depends on the experiment: from mindless to wolf.",
+  "t": "<strong>สติปัญญา:</strong> ขึ้นอยู่กับการทดลอง: ตั้งแต่ไร้สติจนถึงระดับหมาป่า"
+ },
+ "dc2cd44debb4": {
+  "en": "<strong>Flinga Head Feathers</strong>: A bundle of head feathers, used in nari gels. Just plain hard to get: Flingas rarely land south of Hifuna, fly high and are evasive.",
+  "t": "<strong>ขนหัวฟลิงกา</strong>: ขนหัวมัดหนึ่ง ใช้ในเจลนาริ หาได้ยากมาก: ฟลิงกาแทบไม่เคยลงจอดทางใต้ของฮิฟูนา บินสูงและหลบหลีกเก่ง"
+ },
+ "dc8c863696b9": {
+  "en": "<strong>Interface:</strong> Flat head.",
+  "t": "<strong>อินเทอร์เฟซ:</strong> หัวแบน"
+ },
+ "dcec7b19c0ef": {
+  "en": "<strong>Skills:</strong> Light Flames; Light Explosion (blinds).",
+  "t": "<strong>ทักษะ:</strong> จุดเปลวไฟ ระเบิดแสง (ทำให้ตาบอด)"
+ },
  "ddd1cce9bc4b": {
   "en": "Nari Worms are native to the underground caverns below Blood. Despite their threatening look and massive size, they are quite amicable to everyone, even when you find their eggs. Avoid the curiosity of eating them or harming these worms in any way, or you will be in deep shit if Forway finds out. They are so protective of these creatures that they are not afraid of using the worst punishment in the books, including being shipped out to Hifuna. It is certainly harsh, but it is fair as nari stones are a byproduct from the shed skin of Nari Worms, and no other creature or scientific process can accumulate this much soul energy in a ready-to-use form.",
   "t": "นาริเวิร์มเป็นสัตว์ท้องถิ่นของถ้ำใต้ดินใต้เมืองบลัด แม้จะดูน่ากลัวและตัวใหญ่มหึมา แต่พวกมันค่อนข้างเป็นมิตรกับทุกคน แม้คุณจะไปเจอไข่ของมันก็ตาม อย่าอยากรู้อยากลองกินพวกมันหรือทำร้ายหนอนเหล่านี้ไม่ว่าทางใด ไม่งั้นคุณจะเดือดร้อนหนักถ้าฟอร์เวย์รู้เข้า พวกเขาปกป้องสิ่งมีชีวิตเหล่านี้มากจนไม่กลัวที่จะใช้บทลงโทษที่หนักที่สุดในกฎหมาย รวมถึงการส่งตัวไปฮิฟูนา มันโหดร้ายแน่นอน แต่ก็ยุติธรรม เพราะหินนาริเป็นผลพลอยได้จากคราบผิวหนังที่นาริเวิร์มลอกออก และไม่มีสิ่งมีชีวิตหรือกระบวนการทางวิทยาศาสตร์อื่นใดสะสมพลังวิญญาณได้มากขนาดนี้ในรูปแบบที่พร้อมใช้งาน"
  },
+ "e0de365b53c4": {
+  "en": "A swarm of Monica butterflies that groups up and flees bad weather. Their blue lights together make a wall of blue in the distance, warning anyone in the way to take cover from the coming storm. Depending on the size of the swarm, they can devour a rotting corpse in a few hours.",
+  "t": "ฝูงผีเสื้อโมนิกาที่รวมกลุ่มกันหนีสภาพอากาศเลวร้าย แสงสีฟ้าของพวกมันรวมกันกลายเป็นกำแพงสีฟ้าแต่ไกล เตือนทุกคนที่ขวางทางให้หาที่หลบพายุที่กำลังจะมา ขึ้นอยู่กับขนาดของฝูง พวกมันกินซากเน่าได้หมดในไม่กี่ชั่วโมง"
+ },
+ "e2034fc4f144": {
+  "en": "<strong>Koalin Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>เนื้อแห้งโคอาลิน</strong>: เนื้อแห้งที่คนขายเนื้อทำ"
+ },
+ "e3b50c28b9f4": {
+  "en": "<strong>Inspired by:</strong> Megachile pluto.",
+  "t": "<strong>ได้แรงบันดาลใจจาก:</strong> Megachile pluto"
+ },
+ "e490decd791b": {
+  "en": "<strong>Habitat:</strong> The lower plains.",
+  "t": "<strong>ถิ่นที่อยู่:</strong> ที่ราบลุ่มต่ำ"
+ },
+ "e6f51af91733": {
+  "en": "<strong>Big Winga Tamed</strong>: A great hunting companion for Aquamarine adventurers, or a pet for richer people. Rare to find and costly to raise, but at least they live long.",
+  "t": "<strong>บิ๊กวิงกาเชื่อง</strong>: เพื่อนล่าสัตว์ชั้นยอดสำหรับนักผจญภัยระดับอความารีน หรือสัตว์เลี้ยงของคนรวย หายากและเลี้ยงแพง แต่อย่างน้อยก็อายุยืน"
+ },
+ "e7b99d4e85d6": {
+  "en": "<strong>Tier IV (Nobility Goods):</strong> high-quality hides and furs, especially from rare game.",
+  "t": "<strong>ระดับ IV (สินค้าของชนชั้นสูง):</strong> หนังและขนสัตว์คุณภาพสูง โดยเฉพาะจากสัตว์หายาก"
+ },
+ "e93e9b4f10c8": {
+  "en": "With no predators, this worm grew large and specialized in burrowing and eating stone, using an organ that casts Soul Energy through a unique interface. The acids in its stomach mix with the hair-thin nari veins into its shell, which it replaces every few months as it grows. Humans hunt down the shed shells and grind them for all kinds of uses. Killing the worms is prohibited by Forway and Blood law.",
+  "t": "เมื่อไม่มีผู้ล่า หนอนชนิดนี้จึงตัวใหญ่ขึ้นและเชี่ยวชาญในการขุดและกินหิน โดยใช้อวัยวะที่ร่ายพลังวิญญาณผ่านอินเทอร์เฟซเฉพาะตัว กรดในกระเพาะผสมกับเส้นนาริบางเท่าเส้นผมเข้าไปในเปลือก ซึ่งมันเปลี่ยนทุกไม่กี่เดือนขณะเติบโต มนุษย์ล่าเปลือกที่ลอกทิ้งแล้วนำไปบดใช้สารพัดประโยชน์ การฆ่าหนอนเป็นสิ่งต้องห้ามตามกฎหมายของฟอร์เวย์และบลัด"
+ },
+ "ea9a3e5899c3": {
+  "en": "<strong>Wood People Wood</strong>: Very durable, with a dark red color. It gives off a strong, woody musk when soaked.",
+  "t": "<strong>ไม้วูดพีเพิล</strong>: ทนทานมาก มีสีแดงเข้ม ส่งกลิ่นมัสก์ไม้แรงเมื่อแช่น้ำ"
+ },
+ "eab5a9fab590": {
+  "en": "<strong>Tastes like:</strong> Nutty, smoky and slightly sweet.",
+  "t": "<strong>รสชาติเหมือน:</strong> มัน รมควัน และหวานเล็กน้อย"
+ },
  "ec6bcc5d14d6": {
   "en": "Shapeshifter",
   "t": "เชปชิฟเตอร์"
+ },
+ "ecd626be4ed2": {
+  "en": "<strong>Food:</strong> Sunlight.",
+  "t": "<strong>อาหาร:</strong> แสงแดด"
  },
  "ed7d26b9c119": {
   "en": "Male and female White Roundies: gray seal-like creatures with long whiskers and pale tails, next to Harry.",
@@ -231,16 +939,84 @@
   "en": "Beasts · #HusbandOutWorld",
   "t": "สัตว์อสูร · #HusbandOutWorld"
  },
+ "ef54085fbe5f": {
+  "en": "<strong>Habitat:</strong> Mostly west of Blood City.",
+  "t": "<strong>ถิ่นที่อยู่:</strong> ส่วนใหญ่ทางตะวันตกของเมืองบลัด"
+ },
+ "ef9a4c4ad2ae": {
+  "en": "<strong>Trunk People Arms</strong>: Used in nari gels.",
+  "t": "<strong>แขนทรังก์พีเพิล</strong>: ใช้ในเจลนาริ"
+ },
  "efbe055dc485": {
   "en": "Bruntos are a glimpse of the endless curiosity and tampering mindset of the ancient Buhraies race. Not only content in messing with plants and the land itself, but they were also as far south as Endlessfog, altering the local ecosystem to their will until Lishies wrecked the place up and tried to eat anything that moved in the whole island. That's what historians say, but scientists are still perplexed about how they created an entirely new species out of thin air. Nothing close to Bruntos other than Naked Bruntos also called humans, existed—not even in Newland. Some scientists speculate that this is substantial proof that our physical bodies are interconnected to a soul plane and that other planes of existence are also connected to this shared soul plane—this must be how Buhraies connected flesh to the soul and brought us all here. Other scientists say these scientists need to lay off the Magina and stop getting high at their jobs. Either way, Bruntos makes great companions!",
   "t": "บรุนโตสเป็นภาพสะท้อนความอยากรู้อยากเห็นไม่สิ้นสุดและนิสัยชอบดัดแปลงของเผ่าพันธุ์โบราณบูไรส์ ไม่เพียงพอใจกับการยุ่งกับพืชและแผ่นดิน พวกเขายังไปไกลถึงทางใต้ที่เอนด์เลสฟอก ดัดแปลงระบบนิเวศท้องถิ่นตามใจ จนกระทั่งลิชีส์มาทำลายที่นั่นและพยายามกินทุกสิ่งที่ขยับได้ทั่วทั้งเกาะ นั่นคือสิ่งที่นักประวัติศาสตร์บอก แต่นักวิทยาศาสตร์ยังงงว่าพวกเขาสร้างเผ่าพันธุ์ใหม่ทั้งหมดขึ้นมาจากอากาศได้อย่างไร ไม่เคยมีอะไรใกล้เคียงบรุนโตสนอกจากเนกเคดบรุนโตส หรือที่เรียกว่ามนุษย์—ไม่มีแม้แต่ในนิวแลนด์ นักวิทยาศาสตร์บางคนคาดว่านี่คือหลักฐานสำคัญว่าร่างกายของเราเชื่อมต่อกับระนาบวิญญาณ และระนาบการดำรงอยู่อื่นๆ ก็เชื่อมต่อกับระนาบวิญญาณร่วมนี้ด้วย—นี่ต้องเป็นวิธีที่บูไรส์เชื่อมเนื้อหนังเข้ากับวิญญาณแล้วพาพวกเราทุกคนมาที่นี่ นักวิทยาศาสตร์อีกฝ่ายบอกว่านักวิทยาศาสตร์พวกนี้ควรเลิกเสพมาจีนาและเลิกเมาระหว่างทำงานได้แล้ว ยังไงก็ตาม บรุนโตสเป็นเพื่อนคู่ใจที่ยอดเยี่ยม!"
+ },
+ "eff5a3fcf2e8": {
+  "en": "<strong>Habitat:</strong> Endlessfog Island, and the Freeish region (some escaped into the wild through trade by boat).",
+  "t": "<strong>ถิ่นที่อยู่:</strong> เกาะเอนด์เลสฟอก และภูมิภาคฟรีอิช (บางตัวหนีเข้าป่าผ่านการค้าทางเรือ)"
+ },
+ "f07e62e60deb": {
+  "en": "<strong>Intelligence:</strong> Same as Winga.",
+  "t": "<strong>สติปัญญา:</strong> เหมือนวิงกา"
+ },
+ "f142831cbfee": {
+  "en": "<strong>Nari Worm Jerky</strong>: Jerky prepared by a butcher. Not really desirable.",
+  "t": "<strong>เนื้อแห้งนาริเวิร์ม</strong>: เนื้อแห้งที่คนขายเนื้อทำ ไม่ค่อยเป็นที่ต้องการ"
+ },
+ "f2031ad6b2f3": {
+  "en": "<strong>Interface:</strong> Head feathers.",
+  "t": "<strong>อินเทอร์เฟซ:</strong> ขนบนหัว"
+ },
+ "f259a7107aee": {
+  "en": "<strong>Other:</strong> Grows ~30 cm.",
+  "t": "<strong>อื่นๆ:</strong> โตราว ~30 ซม."
+ },
+ "f33b562fab0d": {
+  "en": "<strong>Intelligence:</strong> Comparable to a snake: mostly instinctual, but they respond to certain foods. They communicate through pheromones and sound.",
+  "t": "<strong>สติปัญญา:</strong> เทียบได้กับงู: ส่วนใหญ่ตามสัญชาตญาณ แต่ตอบสนองต่ออาหารบางอย่าง พวกมันสื่อสารผ่านฟีโรโมนและเสียง"
  },
  "f37067015083": {
   "en": "Public text: beasts.md",
   "t": "ข้อความสาธารณะ: beasts.md"
  },
+ "f3e99258087e": {
+  "en": "<strong>Reproduction:</strong> Impossible.",
+  "t": "<strong>การสืบพันธุ์:</strong> เป็นไปไม่ได้"
+ },
+ "f55b065d3862": {
+  "en": "<strong>Skills:</strong> Transmogrify.",
+  "t": "<strong>ทักษะ:</strong> แปลงสภาพ"
+ },
  "f5e978a4f160": {
   "en": "White Roundies are gentle mammals from the far south known as Whiteland, often coming up to the shores of Freeish but sometimes as far as Sanbi during the winter to feast on their heart, given the winter in Whiteland is far colder than the Four Kingdoms' winter. Don't let their cute nature fool you, though! They are incredibly intelligent, with some scientists dedicating their lives to investigating their culture alone. It is commonly accepted that this beast is likely on track to become their own race in the far future, but people disagree on what is the turning point. For some, the fact we can't understand their language is the most significant differentiator from Cruros. Others fight that argument on the grounds that they might be even more intelligent than us, and we don't understand them. Others think this whole back-and-forth is a waste of time and prefer to play catch, rub their bellies to hear the rumbling noise that sounds like a pur they make with their neck sensory tentacles, or straight up make companions out of them. If you're one of these people, there's a whole festival around their arrival in Freeish Kingdom you cannot miss out on.",
   "t": "ไวต์ราวนดีส์เป็นสัตว์เลี้ยงลูกด้วยนมที่อ่อนโยนจากทางใต้สุดที่เรียกว่าไวต์แลนด์ มักขึ้นมาที่ชายฝั่งฟรีอิช แต่บางครั้งก็ไปไกลถึงซันบีในฤดูหนาวเพื่อกินกันอย่างจุใจ เพราะฤดูหนาวในไวต์แลนด์หนาวกว่าฤดูหนาวของสี่อาณาจักรมาก แต่อย่าให้ความน่ารักของพวกมันหลอกคุณได้! พวกมันฉลาดมาก นักวิทยาศาสตร์บางคนอุทิศชีวิตเพื่อศึกษาวัฒนธรรมของพวกมันอย่างเดียว เป็นที่ยอมรับกันทั่วไปว่าสัตว์อสูรนี้น่าจะกำลังมุ่งสู่การเป็นเผ่าพันธุ์ของตัวเองในอนาคตอันไกล แต่ผู้คนเห็นไม่ตรงกันว่าจุดเปลี่ยนคืออะไร สำหรับบางคน การที่เราไม่เข้าใจภาษาของพวกมันคือสิ่งที่แตกต่างจากครูโรมากที่สุด คนอื่นแย้งว่าพวกมันอาจฉลาดกว่าเราด้วยซ้ำ และเราต่างหากที่ไม่เข้าใจพวกมัน ส่วนบางคนคิดว่าการเถียงไปมาทั้งหมดนี้เสียเวลาเปล่า และชอบเล่นโยนรับ ลูบท้องพวกมันเพื่อฟังเสียงครืดคราดคล้ายเสียงครางที่พวกมันทำด้วยหนวดรับสัมผัสที่คอ หรือรับมาเป็นเพื่อนเลย ถ้าคุณเป็นหนึ่งในคนเหล่านั้น มีเทศกาลทั้งเทศกาลเพื่อต้อนรับการมาถึงของพวกมันในอาณาจักรฟรีอิชที่คุณพลาดไม่ได้"
+ },
+ "f884107d2275": {
+  "en": "<strong>Habitat:</strong> Seen flying all over the region.",
+  "t": "<strong>ถิ่นที่อยู่:</strong> เห็นบินไปทั่วภูมิภาค"
+ },
+ "f8c4e153a0b2": {
+  "en": "<strong>Food:</strong> Tree sap.",
+  "t": "<strong>อาหาร:</strong> ยางไม้"
+ },
+ "f93d4d236826": {
+  "en": "<strong>Interface:</strong> Arm branches.",
+  "t": "<strong>อินเทอร์เฟซ:</strong> กิ่งแขน"
+ },
+ "f9f91a66aed1": {
+  "en": "<strong>Reproduction:</strong> Males are much smaller than females, and they do most of the work. Females defend the colony and gather pollen.",
+  "t": "<strong>การสืบพันธุ์:</strong> ตัวผู้เล็กกว่าตัวเมียมาก และทำงานส่วนใหญ่ ตัวเมียปกป้องรังและเก็บเกสร"
+ },
+ "fb99e9739b28": {
+  "en": "<strong>Wood People Sap</strong>: Processed sap, often used in nari gels.",
+  "t": "<strong>ยางวูดพีเพิล</strong>: ยางที่ผ่านการแปรรูป มักใช้ในเจลนาริ"
+ },
+ "fca49bae5a25": {
+  "en": "<strong>Interface:</strong> Teeth.",
+  "t": "<strong>อินเทอร์เฟซ:</strong> ฟัน"
+ },
+ "fe57948c79b6": {
+  "en": "<strong>Skills:</strong> The same as Wingas: Sense Lifeforms; Generate Air Shield; Louder-than-usual shriek; strengthening the beak and claws to diamond level, so they cut through anything.",
+  "t": "<strong>ทักษะ:</strong> เหมือนวิงกา: รับรู้สิ่งมีชีวิต สร้างโล่อากาศ ส่งเสียงกรีดร้องดังกว่าปกติ เสริมจะงอยปากและกรงเล็บให้แข็งระดับเพชรจนตัดผ่านได้ทุกอย่าง"
  }
 }
