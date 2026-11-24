@@ -1,11 +1,47 @@
 {
+ "00f03137e155": {
+  "en": "Easy",
+  "t": "やさしい"
+ },
+ "0105b596e57e": {
+  "en": "Base: {flora}",
+  "t": "台座：{flora}"
+ },
+ "016c526a1d2a": {
+  "en": "Rounds won: you {you}, {opp} {them}",
+  "t": "勝ったラウンド：あなた {you}、{opp} {them}"
+ },
+ "0240b5832a42": {
+  "en": "Plains",
+  "t": "平原"
+ },
+ "03f0feececb0": {
+  "en": "Flying",
+  "t": "飛行"
+ },
+ "08271419319f": {
+  "en": "Shield",
+  "t": "盾"
+ },
+ "0a27a3b002bc": {
+  "en": "Round {n}",
+  "t": "第{n}ラウンド"
+ },
  "0bf9322efcf3": {
   "en": "Final score: {you} {youScore}, {rival} {rivalScore}. {verdict}",
   "t": "最終スコア：{you} {youScore}、{rival} {rivalScore}。{verdict}"
  },
+ "0cb6b91a7c7b": {
+  "en": "Take turns placing one statue on a square on your side, on a flora base if you like, or pass. Every piece you place is spent for the match, so save some for later rounds.",
+  "t": "交互に、自分の側のマスに像をひとつ置く（好みで植物の台座に乗せてもいい）か、パスする。置いた駒はその対局のあいだ使い切りになるので、後のラウンドのために少し残しておけ。"
+ },
  "0d4b087148ae": {
   "en": "Playground · #HusbandOutWorld",
   "t": "遊び場 · #HusbandOutWorld"
+ },
+ "0e818bfa0679": {
+  "en": "monster",
+  "t": "怪物"
  },
  "11b7f08bcb49": {
   "en": "{player} snipes the {colour} territory ({points}).",
@@ -15,21 +51,85 @@
   "en": "Your turn: press Throw (or Space) when the aim is where you want it.",
   "t": "あなたの番：狙いが定まったら「投げる！」（またはスペース）を押せ。"
  },
+ "20f062e88b88": {
+  "en": "−{n} to the strongest opposing statue in its lane",
+  "t": "同じレーンで一番強い相手の像に −{n}"
+ },
  "21504db71017": {
   "en": "Play full screen",
   "t": "全画面で遊ぶ"
+ },
+ "2222ccdea406": {
+  "en": "+{n} at height {h} or more",
+  "t": "高さ {h} 以上で +{n}"
+ },
+ "227af057c460": {
+  "en": "never weaker than its carving",
+  "t": "彫られた強さより弱くならない"
+ },
+ "22ef541999f0": {
+  "en": "Next round",
+  "t": "次のラウンド"
+ },
+ "24ae8a560983": {
+  "en": "Paint my statues",
+  "t": "像に色を塗る"
+ },
+ "25ab59baf8e0": {
+  "en": "Your side",
+  "t": "あなたの側"
+ },
+ "2640f77e9f83": {
+  "en": "Now choose a square for {name}.",
+  "t": "次は{name}を置くマスを選べ。"
  },
  "27bbcef16995": {
   "en": "Hiromi",
   "t": "ヒロミ"
  },
+ "285691ff158a": {
+  "en": "ignores lower ground",
+  "t": "低い地形を無視する"
+ },
+ "28a2784f6046": {
+  "en": "You found the nari stone in {name}!",
+  "t": "あなたが{name}の中にナリストーンを見つけた！"
+ },
+ "2f157d7130ab": {
+  "en": "Choose a statue for your nari stone first.",
+  "t": "まずナリストーンを隠す像を選べ。"
+ },
+ "3199ea056253": {
+  "en": "animal",
+  "t": "動物"
+ },
+ "320089389f44": {
+  "en": "Your battalion",
+  "t": "あなたの部隊"
+ },
  "38d4249ff036": {
   "en": "⏱ {seconds}s · darts: {you} {youLeft}, {rival} {rivalLeft}",
   "t": "⏱ {seconds}s · ダーツ：{you} {youLeft}、{rival} {rivalLeft}"
  },
+ "39db64b96126": {
+  "en": "{opp} wins the match.",
+  "t": "対局は{opp}の勝ち。"
+ },
+ "3d254c73066e": {
+  "en": "None left.",
+  "t": "もう残っていない。"
+ },
+ "3f21515a1b11": {
+  "en": "No base",
+  "t": "台座なし"
+ },
  "40e405b6605c": {
   "en": "I haven’t heard of that, but yeah, I prefer targeting the yellow ones, as those are worth more if you snipe all territories.",
   "t": "そんなのは聞いたことないが、まあ、俺は黄色を狙うのが好きだな。全部のテリトリーを狙い撃ちすれば、そっちのほうが得点が高いから"
+ },
+ "41fb3a0ef555": {
+  "en": "You win round {n}.",
+  "t": "第{n}ラウンドはあなたの勝ち。"
  },
  "42766efba402": {
   "en": "Middle ring",
@@ -38,6 +138,22 @@
  "42ae6cb3cd8f": {
   "en": "Time! The room starts to move too much…",
   "t": "時間切れ！部屋が動きすぎ始めた…"
+ },
+ "449177d90198": {
+  "en": "its power stays hidden until the lanes are counted",
+  "t": "レーンを数えるまでパワーは隠れたまま"
+ },
+ "45e05fa03651": {
+  "en": "Minari needs JavaScript to play.",
+  "t": "ミナリを遊ぶには JavaScript が必要。"
+ },
+ "46b474188aa4": {
+  "en": "Battlefield: {region}",
+  "t": "戦場：{region}"
+ },
+ "4a4331759c36": {
+  "en": "<a href=\"/lore/pastimes/#minari\">Minari</a>, the carved-statue game played in Sanbi Castle's game room: a working prototype, against Nina, Aurora or Neferteri.",
+  "t": "<a href=\"/lore/pastimes/#minari\">ミナリ</a>、サンビ城の遊戯室で遊ばれる彫像のゲーム：実際に遊べる試作版で、相手はニナ、アウロラ、ネフェルテリから選べる。"
  },
  "4c660686dc07": {
   "en": "His first dart clings, then falls. The second lands on a green territory near the centre.",
@@ -51,21 +167,73 @@
   "en": "Kinda? Was the board always this big and colored? I thought it was rounded too— OH YEAH! The center is worth more, right?",
   "t": "なんとなく？ ボードってこんなに大きくてカラフルでしたっけ？ 丸いと思ってたんですけど——そうだ！ 真ん中のほうが得点が高いんですよね？"
  },
+ "4ec00394908f": {
+  "en": "How to play",
+  "t": "遊び方"
+ },
+ "4f0919dac51a": {
+  "en": "Neferteri",
+  "t": "ネフェルテリ"
+ },
+ "4f4e60287877": {
+  "en": "You win the match!",
+  "t": "対局はあなたの勝ち！"
+ },
  "50ccc5e2e037": {
   "en": "He aims for the same green, and lands far above it, on purple.",
   "t": "同じ緑を狙ったが、ずっと上の紫に着地した。"
+ },
+ "530cececb444": {
+  "en": "no stone inside.",
+  "t": "中は空っぽ。"
+ },
+ "5719e9acd479": {
+  "en": "The table has <strong>5 lanes</strong>. Each lane has a square on your side and one on theirs, with a terrain and a height. A statue on its home terrain gets <strong>+2</strong>; standing higher than the square across gives <strong>+1 per level</strong>, lower gives the same as a minus.",
+  "t": "テーブルには<strong>5本のレーン</strong>がある。各レーンには自分の側と相手の側にマスがひとつずつあり、それぞれに地形と高さがある。ホームの地形に立つ像は<strong>+2</strong>。向かいのマスより高ければ<strong>1段ごとに+1</strong>、低ければ同じだけマイナスになる。"
  },
  "576766d387ec": {
   "en": "Play again",
   "t": "もう一度プレイ"
  },
+ "595f9c0beff7": {
+  "en": "{name} is eliminated: {result}",
+  "t": "{name}は脱落：{result}"
+ },
+ "5ad1c0fc4343": {
+  "en": "{who} passed.",
+  "t": "{who}：パス。"
+ },
+ "5c209e93ce26": {
+  "en": "Start the match",
+  "t": "対局開始"
+ },
+ "5d0ac69701af": {
+  "en": "power {n}",
+  "t": "パワー {n}"
+ },
+ "6572f28b79ce": {
+  "en": "Lane {n}: tied, {a} to {b}.",
+  "t": "レーン{n}：引き分け、{a} 対 {b}。"
+ },
  "69b0b68def54": {
   "en": "SEE? It’s all about mindset! You know what, Harry? You’re cool! So why not play a bit of territory snipping to celebrate?",
   "t": "だろ？ 全部考え方次第なんだよ！ なあ、ハリー？ お前、いい奴だな！ だから、祝いにテリトリー・スナイプでも一勝負しようぜ？"
  },
+ "6cd280647632": {
+  "en": "{name}, {kind}, power {power}, home: {terrains}{traits}",
+  "t": "{name}、{kind}、パワー {power}、ホーム：{terrains}{traits}"
+ },
+ "7468786df7e7": {
+  "en": "Your flora bases",
+  "t": "あなたの植物の台座"
+ },
  "76262d314611": {
   "en": "Territory Snipping: turn your phone sideways",
   "t": "テリトリー・スナイプ：スマホを横向きに"
+ },
+ "78981b123f83": {
+  "en": "When both sides have passed, each lane goes to the side with more power there. The losing side's statues in that lane are <strong>eliminated</strong>, and you see whether the nari stone was inside.",
+  "t": "両者がパスしたら、各レーンはパワーの大きい側のものになる。負けた側のそのレーンの像は<strong>脱落</strong>し、中にナリストーンがあったかどうかがわかる。"
  },
  "78988010b890": {
   "en": "red",
@@ -75,25 +243,65 @@
   "en": "{n} pt",
   "t": "{n} 点"
  },
+ "7e99995a1667": {
+  "en": "Choose your opponent",
+  "t": "相手を選べ"
+ },
  "85a1ecacad2c": {
   "en": "That’s the spirit! … You played this before, right?",
   "t": "その意気だ！…これ、やったことあるよな？"
+ },
+ "864900d5a132": {
+  "en": "hides your nari stone",
+  "t": "あなたのナリストーンを隠している"
+ },
+ "8845064f5b91": {
+  "en": "+{n} to a {kind}",
+  "t": "{kind}に +{n}"
+ },
+ "888d16612e6f": {
+  "en": "Choose the statue that hides your nari stone.",
+  "t": "ナリストーンを隠す像を選べ。"
  },
  "8bf12a38bad0": {
   "en": "Throw!",
   "t": "投げる！"
  },
+ "8c8d4feff7de": {
+  "en": "Your nari stone is inside {name}.",
+  "t": "あなたのナリストーンは{name}の中だ。"
+ },
+ "905cb326c779": {
+  "en": "You",
+  "t": "あなた"
+ },
+ "91586b73ba8c": {
+  "en": "the nari stone was inside!",
+  "t": "中にナリストーンがあった！"
+ },
  "935f6cd89f4a": {
   "en": "A draw!",
   "t": "引き分け！"
+ },
+ "93c3ef1e3de3": {
+  "en": "That square is full.",
+  "t": "そのマスはもう埋まっている。"
  },
  "94e6a3ea4d1f": {
   "en": "Turn your phone sideways to play.",
   "t": "スマホを横向きにして遊ぼう。"
  },
+ "955ddba3d08e": {
+  "en": "{name}: {effect}",
+  "t": "{name}：{effect}"
+ },
  "96de5543d183": {
   "en": "yellow",
   "t": "黄色"
+ },
+ "98dc61652f7c": {
+  "en": "{opp} is choosing…",
+  "t": "{opp}が選んでいる…"
  },
  "992fb4c6838e": {
   "en": "{you} wins, somehow!",
@@ -103,6 +311,10 @@
   "en": "You’re coolio too!",
   "t": "あなたもイケてますよ！"
  },
+ "9c8238f65551": {
+  "en": "Snow",
+  "t": "雪原"
+ },
  "a691267c5647": {
   "en": "{rival} wins.",
   "t": "{rival} の勝ち。"
@@ -111,6 +323,18 @@
   "en": "Cancelled! Both darts on the {colour} territory are out.",
   "t": "キャンセル！{colour}のテリトリーのダーツは両方アウト。"
  },
+ "a93e8afda9a1": {
+  "en": "Before the match, hide your <strong>nari stone</strong> inside one of your statues. Your opponent hides theirs too.",
+  "t": "対局の前に、自分の像のひとつに<strong>ナリストーン</strong>を隠せ。相手も同じように隠す。"
+ },
+ "abb89bf474d1": {
+  "en": "home: {terrains}",
+  "t": "ホーム：{terrains}"
+ },
+ "af503a976364": {
+  "en": "a random {min} to +{max}",
+  "t": "ランダムで {min} 〜 +{max}"
+ },
  "afaed75406bd": {
   "en": "purple",
   "t": "紫"
@@ -118,6 +342,10 @@
  "b2b52c2fc7c2": {
   "en": "Snipe all territories? That’s—different—I think. Can—can you explain?",
   "t": "全部のテリトリーを狙い撃ち？ それって——違いますね——たぶんせ——説明してもらえますか？"
+ },
+ "b31d36c1c500": {
+  "en": "Challenging",
+  "t": "手ごわい"
  },
  "b8c8d91c4ad6": {
   "en": "Yellow centre",
@@ -143,9 +371,25 @@
   "en": "Next",
   "t": "次へ"
  },
+ "be2f6b076cd7": {
+  "en": "Minari: turn your phone sideways",
+  "t": "ミナリ：スマホを横向きにしてね"
+ },
+ "be3975e50f11": {
+  "en": "{sign}{n} to the statue on it",
+  "t": "上に乗る像に {sign}{n}"
+ },
  "c1218408e29a": {
   "en": "Just a hunk—that was me warming up! Now try to throw on a green section or anywhere else.",
   "t": "ちょっと待ってくれ——今のはウォームアップだ！さあ、緑の区画か、他のどこでもいいから投げてみろ"
+ },
+ "c30902149f0e": {
+  "en": "{opp}'s side",
+  "t": "{opp}の側"
+ },
+ "c384517d1937": {
+  "en": "{name}, power {power}",
+  "t": "{name}、パワー {power}"
  },
  "c7abd16eb68f": {
   "en": "Brotha—you suck at this—Harry?",
@@ -155,17 +399,37 @@
   "en": "—Yea? So I play next?",
   "t": "——はい？ じゃあ、次は俺の番ですか？"
  },
+ "c91b25d0e00d": {
+  "en": "−{n} to every opposing statue in its lane",
+  "t": "同じレーンの相手の像すべてに −{n}"
+ },
  "caab81299f22": {
   "en": "The game starts as soon as the phone is sideways.",
   "t": "スマホを横にするとすぐにゲームが始まる。"
+ },
+ "cc14463c4dab": {
+  "en": "Lane {n}: {who} wins, {a} to {b}.",
+  "t": "レーン{n}：{who}の勝ち、{a} 対 {b}。"
  },
  "cc60a1651cdd": {
   "en": "Final: {you} {youScore} · {rival} {rivalScore} · {verdict}",
   "t": "最終：{you} {youScore} · {rival} {rivalScore} · {verdict}"
  },
+ "ce31bd9a119b": {
+  "en": "Nari stone",
+  "t": "ナリストーン"
+ },
  "ce3c494a5e85": {
   "en": "Aiight!",
   "t": "よっしゃ！"
+ },
+ "d0bb566c5184": {
+  "en": "The match is a draw.",
+  "t": "対局は引き分け。"
+ },
+ "d0db58d3de1d": {
+  "en": "humanoid",
+  "t": "人型"
  },
  "d153c794ecdb": {
   "en": "Play upright instead",
@@ -179,6 +443,50 @@
   "en": "Your dart flies low and lodges in the wall below the board.",
   "t": "ダーツが低く飛んでボードの下の壁に刺さった。"
  },
+ "d2c984ccb77d": {
+  "en": "Each side has <strong>10 carved statues</strong> (Races, Fauna and Beasts) and <strong>4 flora bases</strong>. The creature a statue shows is its power.",
+  "t": "それぞれ<strong>10体の彫像</strong>（種族・動物・魔獣）と<strong>4つの植物の台座</strong>を持つ。像が表す生き物が、その像のパワーだ。"
+ },
+ "d3724d122484": {
+  "en": "{who} found the nari stone in {name}!",
+  "t": "{who}が{name}の中にナリストーンを見つけた！"
+ },
+ "d404968ea90b": {
+  "en": "Medium",
+  "t": "ふつう"
+ },
+ "d5936b9a0d86": {
+  "en": "Eliminated",
+  "t": "脱落"
+ },
+ "d7cd56f2a2a3": {
+  "en": "Pass",
+  "t": "パス"
+ },
+ "ddc8e3b2c330": {
+  "en": "Your turn: choose a statue, then a square on your side.",
+  "t": "あなたの番：像を選んでから、自分の側のマスを選べ。"
+ },
+ "dfe153f0c577": {
+  "en": "{who} placed {name} on a {flora} base, on {terrain} (power {power}).",
+  "t": "{who}：{name}を{flora}の台座に乗せて{terrain}に置いた（パワー {power}）。"
+ },
+ "e48d1e99bbff": {
+  "en": "{a} : {b}",
+  "t": "{a} : {b}"
+ },
+ "e601068c1509": {
+  "en": "{who} wins round {n}.",
+  "t": "第{n}ラウンドは{who}の勝ち。"
+ },
+ "e818d1b014a8": {
+  "en": "Lane {n}",
+  "t": "レーン{n}"
+ },
+ "e8e05bdea850": {
+  "en": "Cloak",
+  "t": "マント"
+ },
  "e99283406209": {
   "en": "Play the round of <a href=\"/lore/pastimes/#territory-snipping\">Territory Snipping</a> from Vol 2, as Harry, against Hiromi.",
   "t": "Vol 2 に出てくる<a href=\"/lore/pastimes/#territory-snipping\">テリトリー・スナイプ</a>の一勝負を、ハリーとしてヒロミ相手に遊ぼう。"
@@ -187,17 +495,77 @@
   "en": "Good try! Good try! C’mon! Try again!",
   "t": "いい線いってる！ いい線いってる！ ほら！ もう一回！"
  },
+ "ea71ac574d84": {
+  "en": "Win more lanes to win the round. First to <strong>2 rounds</strong> wins, but finding the other side's nari stone wins at once.",
+  "t": "より多くのレーンを取ればそのラウンドの勝ち。先に<strong>2ラウンド</strong>取った方が勝つが、相手のナリストーンを見つければその場で勝ちだ。"
+ },
+ "ee61b8c6ee53": {
+  "en": "Your statues",
+  "t": "あなたの像"
+ },
+ "eeee9b76ec5d": {
+  "en": "Aurora",
+  "t": "アウロラ"
+ },
  "ef0ebbb77298": {
   "en": "orange",
   "t": "オレンジ"
+ },
+ "ef6906d30a91": {
+  "en": "Painting your statues is just for looks.",
+  "t": "像の色塗りは見た目だけ。"
+ },
+ "f1b44b944d26": {
+  "en": "{who} placed {name} on {terrain} (power {power}).",
+  "t": "{who}：{name}を{terrain}に置いた（パワー {power}）。"
  },
  "f290164d1315": {
   "en": "Outer ring",
   "t": "外側の輪"
  },
+ "f2c741477316": {
+  "en": "a statue",
+  "t": "像"
+ },
+ "f41c4e4dab0b": {
+  "en": "Forest",
+  "t": "森"
+ },
+ "f4904bf63ad4": {
+  "en": "Nina",
+  "t": "ニナ"
+ },
+ "f4c2739717c4": {
+  "en": "{terrain}, height {h}",
+  "t": "{terrain}、高さ {h}"
+ },
+ "f674ac08752f": {
+  "en": "+{n} on {terrain}",
+  "t": "{terrain}で +{n}"
+ },
+ "f6db3f96e9e3": {
+  "en": "Desert",
+  "t": "砂漠"
+ },
+ "fa27d1b6d725": {
+  "en": "+1 when outnumbered in its lane",
+  "t": "レーンで数が負けているとき +1"
+ },
  "fb23c9ff0d27": {
   "en": "Inner ring",
   "t": "内側の輪"
+ },
+ "fbf6a2b00397": {
+  "en": "Lane {n}: you win, {a} to {b}.",
+  "t": "レーン{n}：あなたの勝ち、{a} 対 {b}。"
+ },
+ "fe4f28f307a2": {
+  "en": "Round {n} is a draw.",
+  "t": "第{n}ラウンドは引き分け。"
+ },
+ "fe527bb5037f": {
+  "en": "Carve a new battalion",
+  "t": "新しい部隊を彫る"
  },
  "feddfb10fb8d": {
   "en": "We all play at the same time. GO!",

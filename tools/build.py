@@ -783,7 +783,8 @@ class Builder:
         html_out = self.md_bts_block(abridged_md, refs, origin, ids=ids) + ABRIDGED_NOTE
         if raw_md.strip():   # a section heading with no raw notes of its own has nothing to show
             raw_html = self.md_bts_block(raw_md, refs, origin)
-            html_out += f'<details class="raw-notes" translate="no" lang="en"><summary>Show the original notes</summary>{raw_html}</details>'
+            # only the raw notes stay in English (left to right, also inside Arabic); the toggle's label is translated (#142)
+            html_out += f'<details class="raw-notes"><summary>Show the original notes</summary><div class="raw-notes-body" translate="no" lang="en" dir="ltr">{raw_html}</div></details>'
         return html_out
 
     def md_bts_block(self, md, refs, origin, ids=None):
