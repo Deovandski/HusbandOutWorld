@@ -1,4 +1,8 @@
 {
+ "03acadced801": {
+  "en": "<strong>Nari stones:</strong> one stone for Tier I, two for Tier II, four for Tier III, and so on. Once used, a nari stone turns diamond-like as its blue hue fades.",
+  "t": "<strong>Pietre nari:</strong> una pietra per il Livello I, due per il Livello II, quattro per il Livello III, e così via. Una volta usata, una pietra nari diventa simile al diamante mentre la sua sfumatura blu svanisce."
+ },
  "07b9494886d6": {
   "en": "Using The Interface - Feed",
   "t": "Usare l'interfaccia - Alimentazione"
@@ -15,33 +19,101 @@
   "en": "This is where some progress has been made in extending the interface framework! Nobody has successfully transformed the OBJECT and VERB structure of the interface—but they have been able to increase the information density of the object while retaining consistent casting.",
   "t": "Qui sono stati fatti alcuni progressi nell'estendere il quadro dell'interfaccia! Nessuno è riuscito a trasformare la struttura OGGETTO e VERBO dell'interfaccia—ma sono riusciti ad aumentare la densità di informazione dell'oggetto mantenendo un lancio coerente."
  },
+ "0d754b757652": {
+  "en": "Copper → Zinc",
+  "t": "Rame → Zinco"
+ },
  "0dd08d5e4d8c": {
   "en": "As you feed a specific command and energy into the interface, you will see balls representing the command. You can never mix and match commands; only one command + energy + release may be executed. Below is a plain reference of the different ball statuses",
   "t": "Man mano che immetti un comando specifico ed energia nell'interfaccia, vedrai delle palle che rappresentano il comando. Non puoi mai mescolare i comandi; si può eseguire solo un comando + energia + rilascio. Qui sotto c'è un semplice riferimento dei diversi stati delle palle"
+ },
+ "0e4e80712ada": {
+  "en": "Shock VERB",
+  "t": "Shock VERB"
+ },
+ "10668848ecf1": {
+  "en": "Gold → Mercury",
+  "t": "Oro → Mercurio"
+ },
+ "117351fd0784": {
+  "en": "Healing with Body Restore",
+  "t": "Guarire con Body Restore"
  },
  "11aa2b4fa9b9": {
   "en": "Full Darfaries Interface - scribling and soul energy stone mode (video)",
   "t": "Interfaccia Darfaries completa - Modalità scarabocchio e pietra di energia dell'anima (video)"
  },
+ "11cd9fd209af": {
+  "en": "Missing legs or arms",
+  "t": "Gambe o braccia mancanti"
+ },
+ "124ba39cf2f3": {
+  "en": "Earth VERB",
+  "t": "Earth VERB"
+ },
  "12ef1365e090": {
   "en": "But hey, at least your best friend might be honored to be stuffed and cooked—vorarephilia is a thing anyways.",
   "t": "Ma ehi, almeno il tuo migliore amico potrebbe sentirsi onorato di essere farcito e cucinato—tanto la vorarefilia esiste."
+ },
+ "132a84ea1843": {
+  "en": "<strong>Create:</strong> tries to recreate the target's body, born where the spell was started. It must be fed Black Honey to grow the clone, and it stays lifeless unless the original is killed, since only one being can connect to a soul. Cloning yourself shortens your lifespan and raises your cancer risk, because the soul's link is forced to thin out, so it's heavily discouraged.",
+  "t": "<strong>Create:</strong> cerca di ricreare il corpo del bersaglio, che nasce dove è stato avviato l'incantesimo. Va nutrito con Black Honey per far crescere il clone, e resta senza vita a meno che l'originale non venga ucciso, perché solo un essere può collegarsi a un'anima. Clonarsi accorcia la vita e aumenta il rischio di cancro, perché il legame dell'anima è costretto ad assottigliarsi, quindi è fortemente sconsigliato."
+ },
+ "1364798c2866": {
+  "en": "Nari Refresher, injected with a glass syringe, undoes nari gel body mods.",
+  "t": "Il Nari Refresher, iniettato con una siringa di vetro, annulla le modifiche corporee dei gel nari."
  },
  "13ef126e315c": {
   "en": "To not have any significant amount means you likely came from a bloodline that lived far remote or perhaps outside the four kingdoms, as free commerce and right of passage are perfectly positive correlations with mixing biological fluids between species.",
   "t": "Non averne una quantità significativa significa che probabilmente vieni da una stirpe che viveva molto isolata o forse fuori dai quattro regni, perché il libero commercio e il diritto di passaggio sono in correlazione perfettamente positiva con il mescolarsi di fluidi biologici tra specie."
  },
+ "154544b93e9e": {
+  "en": "Spells in this category can be released into an object, or in the air, or as a projectile if you cock your arm back and release the spell as you push it forward.",
+  "t": "Gli incantesimi di questa categoria si possono rilasciare in un oggetto, o nell'aria, o come proiettile se carichi il braccio all'indietro e rilasci l'incantesimo spingendolo in avanti."
+ },
+ "19e2f002b0a7": {
+  "en": "This is where some progress has been made in extending the interface. Nobody has managed to change its OBJECT and VERB structure, but people have packed more information into the object while keeping the casting consistent. Forway hasn't approved a new compound object for sigil rings in a while: there's a single requirement, but it's incredibly tough to meet. Random passersby are asked to use the experimental sigil ring, and if any of them miscasts, the compound object isn't approved.",
+  "t": "È qui che si sono fatti alcuni progressi nell'estendere l'interfaccia. Nessuno è riuscito a cambiarne la struttura OBJECT e VERB, ma si è riusciti a inserire più informazioni nell'oggetto mantenendo coerente il lancio. Forway non approva un nuovo oggetto composto per gli anelli sigillo da un po': c'è un unico requisito, ma è incredibilmente difficile da soddisfare. Si chiede a dei passanti a caso di usare l'anello sigillo sperimentale, e se anche uno solo di loro sbaglia il lancio, l'oggetto composto non viene approvato."
+ },
+ "1e9148fad723": {
+  "en": "Cat. Elemental",
+  "t": "Cat. Elementale"
+ },
+ "2142eb994fdb": {
+  "en": "Among researchers, a faint rumor calls it \"Uncontrolled Create\".",
+  "t": "Tra i ricercatori, una voce appena sussurrata lo chiama “Uncontrolled Create”."
+ },
  "23d178528dd4": {
   "en": "Ring #5 (closest to elbow): 50*",
   "t": "Anello #5 (il più vicino al gomito): 50*"
+ },
+ "254617659d40": {
+  "en": "One or two deeper cuts and minor blood loss",
+  "t": "Uno o due tagli più profondi e lieve perdita di sangue"
  },
  "26d10a4d512d": {
   "en": "Instead of fingers, you can use nari stones sticks to feed power without using yours, or someone else's, Soul Energy.",
   "t": "Al posto delle dita, puoi usare bastoncini di pietra nari per immettere potenza senza usare la tua energia dell'anima, o quella di qualcun altro."
  },
+ "277f47c12f8c": {
+  "en": "<strong>Tiers:</strong> the more soul energy (and flesh) put in, the higher the chance of getting a soul to your specifications. The more things you seek in a soul, the more its power is diluted across those skills: ask for someone good at singing, baking and herding, and the energy poured in will most likely be spread evenly among the three. At times the distribution comes out erratic, because the spell \"captures\" and summons a soul in decay that happens to match the summoner's requirements. It also de-ages the target soul.",
+  "t": "<strong>Livelli:</strong> più energia dell'anima (e carne) ci metti, più alta è la probabilità di ottenere un'anima su misura. Più cose cerchi in un'anima, più il suo potere si diluisce tra quelle abilità: chiedi qualcuno bravo a cantare, a cuocere il pane e a pascolare, e l'energia versata verrà molto probabilmente divisa in parti uguali tra le tre. A volte la distribuzione viene fuori irregolare, perché l'incantesimo “cattura” ed evoca un'anima in decomposizione che corrisponde per caso ai requisiti di chi evoca. Ringiovanisce anche l'anima bersaglio."
+ },
  "2853d1cbd2ea": {
   "en": "Simple Objects",
   "t": "Oggetti semplici"
+ },
+ "2874ac07bfa0": {
+  "en": "Ice VERB",
+  "t": "Ice VERB"
+ },
+ "2ca369f05b2d": {
+  "en": "Nari sticks (nari stones chained together) fuel the spell. A single-use nari stick is spent in one cast, and they aren't cheap.",
+  "t": "Le barrette nari (pietre nari concatenate) alimentano l'incantesimo. Una barretta nari monouso si consuma in un solo lancio, e non sono economiche."
+ },
+ "2dba29a226b6": {
+  "en": "<strong>Destroy:</strong> tries to destroy the target's whole body. At low tiers it only causes internal or external bleeding; medium tiers can cause convulsions; high tiers cause an explosion.",
+  "t": "<strong>Destroy:</strong> cerca di distruggere l'intero corpo del bersaglio. Ai livelli bassi causa solo emorragie interne o esterne; ai livelli medi può causare convulsioni; ai livelli alti causa un'esplosione."
  },
  "2e99783c4368": {
   "en": "Controlled Flight",
@@ -51,6 +123,18 @@
   "en": "This widely-known interface came up as a merger between the ancient species Fuhraies’s, Buhraies’s, and Lishies’s genetics and their own interfaces. One would assume that would lead to one of the most potent, versatile interfaces that would be as, if not more, powerful than Buhraies interface. In some ways, it is as it gels incredibly well with sigil rings or drawing logograms on it, as you don’t even have to think about it once you get the hand coordination just right. However, this came at the expense that if you do not draw a logogram, it is nearly impossible to control it.",
   "t": "Questa interfaccia molto conosciuta nacque dalla fusione tra la genetica delle specie antiche Fuhraies, Buhraies e Lishies e la loro interfacce. Si potrebbe pensare che questo abbia portato a una delle interfacce più potenti e versatili, potente quanto, se non più, dell'interfaccia Buhraies. In un certo senso lo è, perché si sposa incredibilmente bene con gli anelli sigillo o con il disegnarvi sopra i logogrammi, dato che non devi nemmeno pensarci una volta che la coordinazione della mano è quella giusta. Però questo ha avuto un prezzo: se non disegni un logogramma, è quasi impossibile controllarla."
  },
+ "304bfc2c3ef8": {
+  "en": "Among certain researchers, a faint rumor says it can also be used as \"Uncontrolled Create\", with bigger potential gains and risks.",
+  "t": "Tra certi ricercatori, una voce appena sussurrata dice che si può usare anche come “Uncontrolled Create”, con guadagni e rischi potenziali più grandi."
+ },
+ "308ba49d2897": {
+  "en": "Casting a spell",
+  "t": "Lanciare un incantesimo"
+ },
+ "30c372919601": {
+  "en": "Near-instant regeneration, if there's enough fat or Black Honey to heal with",
+  "t": "Rigenerazione quasi istantanea, se c'è abbastanza grasso o Black Honey per guarire"
+ },
  "35e10a8d52ff": {
   "en": "Variant Verbs",
   "t": "Verbi varianti"
@@ -59,17 +143,53 @@
   "en": "Such a feat did claim a lot of street creds among scientists but also a lot of enemies. Not enemies in the traditional sense, as we’re talking a bunch of nerdy scientists that fight with pens and papers rather than bloody means… Except for some who tried to get physical with Gabiro, but when he was younger, he was not as defenseless as one might expect from a shut-in.",
   "t": "Un'impresa del genere gli fece guadagnare parecchia reputazione tra gli scienziati, ma anche parecchi nemici. Non nemici in senso tradizionale, dato che parliamo di un mucchio di scienziati secchioni che combattono con penna e carta invece che con mezzi sanguinosi… A parte alcuni che cercarono di venire alle mani con Gabiro, ma da giovane non era indifeso come ci si aspetterebbe da uno che non esce mai di casa."
  },
+ "37e04d60d2e6": {
+  "en": "<strong>What happened in Vol 1, Chapter 1:</strong> Gabiro was trying to bind a specific soul. A lack of proper concentration and not enough nari power made all the soul and body genetic information suddenly meld, triggering a White Hole event, and the soul energy of everyone involved fused into a single being. In that event, a nearly decayed soul (Harry's) was bound by pure chance. What was left of the soul tied to the bagarisa corpse used in the \"summoning ritual\" was wildly different from Harry's. When the explosion happened, Gabiro's own soul was fused into the mix too, and Harry's soul absorbed the capacity of all three. That's how Harry woke up able to speak Vraki, the common language, and why he later develops a custom interface (Vol 4).",
+  "t": "<strong>Cosa è successo nel Vol. 1, Capitolo 1:</strong> Gabiro stava cercando di legare un'anima specifica. Una mancanza di concentrazione adeguata e un potere nari insufficiente fecero fondere all'improvviso tutte le informazioni genetiche dell'anima e del corpo, innescando un evento White Hole, e l'energia dell'anima di tutti i coinvolti si fuse in un unico essere. In quell'evento, un'anima quasi decomposta (quella di Harry) fu legata per puro caso. Ciò che restava dell'anima legata al cadavere di bagarisa usato nel “rituale di evocazione” era molto diverso da quella di Harry. Quando avvenne l'esplosione, anche l'anima stessa di Gabiro finì nel miscuglio, e l'anima di Harry assorbì la capacità di tutte e tre. È così che Harry si svegliò capace di parlare il Vraki, la lingua comune, ed è per questo che più avanti sviluppa un'interfaccia tutta sua (Vol. 4)."
+ },
+ "38819f04d9eb": {
+  "en": "Blank sigil rings are forbidden, to prevent accidents. Only courtroom scientists and Aquamarine or Sapphire adventurers may use them, to experiment with new spells.",
+  "t": "Gli anelli sigillo vuoti sono vietati, per evitare incidenti. Solo gli scienziati di corte e gli avventurieri Aquamarine o Sapphire possono usarli, per sperimentare nuovi incantesimi."
+ },
+ "398793d966e2": {
+  "en": "Manganese → Iron",
+  "t": "Manganese → Ferro"
+ },
+ "3a54978fb627": {
+  "en": "Platinum → Gold",
+  "t": "Platino → Oro"
+ },
+ "3c410b0a889e": {
+  "en": "Dust VERB",
+  "t": "Dust VERB"
+ },
  "3d33ae375a2b": {
   "en": "The rings themselves can only hold so much, although as far as everyone knows, nobody except probably Buhraies or perhaps only the primordial species Finaies could cast such a spell at a world-changing scale.",
   "t": "Gli anelli stessi possono contenere solo fino a un certo punto, anche se, per quanto se ne sappia, nessuno tranne probabilmente i Buhraies o forse solo la specie primordiale Finaies potrebbe lanciare un incantesimo del genere su una scala capace di cambiare il mondo."
+ },
+ "3e4dc5c341ad": {
+  "en": "A piece of someone's flesh can be grown with Body Restore to see their real body (to identify a disguised intruder, for example).",
+  "t": "Si può far crescere con Body Restore un pezzo della carne di qualcuno per vederne il vero corpo (per identificare un intruso travestito, per esempio)."
+ },
+ "3fe9f0d4a994": {
+  "en": "<strong>Create:</strong> tries to create objects from the target using all the elements around. Have the elements it's made of nearby to improve the odds.",
+  "t": "<strong>Create:</strong> cerca di creare oggetti a partire dal bersaglio usando tutti gli elementi intorno. Tieni vicini gli elementi di cui è fatto per aumentare le probabilità."
  },
  "402c5a0d838c": {
   "en": "21 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "Altre 21 voci di questa pagina sono solo in <button class=\"linklike\" data-go-bts>Dietro le quinte</button>."
  },
+ "408579690be8": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts other bodies. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Repel/Attract:</strong> il bersaglio respinge o attira altri corpi. Senza bersaglio, la fiamma dell'anima semplicemente evapora."
+ },
  "42463c89d747": {
   "en": "Using The Interface - Setup",
   "t": "Usare l'interfaccia - Preparazione"
+ },
+ "42c245d29157": {
+  "en": "Material manipulation is an experimental Darfaries research branch, meant to manipulate the world around.",
+  "t": "La manipolazione dei materiali è un ramo sperimentale della ricerca Darfaries, pensato per manipolare il mondo circostante."
  },
  "430a66b55695": {
   "en": "{BodyPart} VERB",
@@ -79,9 +199,41 @@
   "en": "It has been a while since Forway approved a new compound object for sigil rings. There is a single requirement, but succeeding is incredibly tough!",
   "t": "È passato un po' di tempo da quando Forway ha approvato un nuovo oggetto composto per gli anelli sigillo. C'è un solo requisito, ma riuscirci è incredibilmente difficile!"
  },
+ "450b29b2cf51": {
+  "en": "<strong>Someone's soul energy:</strong> when the person touches their middle and ring fingers, the Darfaries veins in their hand light up with soul flame (every race that came after the ancient species has them: Darfaries, Wozefaries, Sorefaries and humans), and the caster's other hand \"eats\" the flames.",
+  "t": "<strong>L'energia dell'anima di qualcuno:</strong> quando la persona si tocca il medio e l'anulare, le vene Darfaries della sua mano si accendono di fiamma dell'anima (ogni razza venuta dopo le specie antiche le ha: Darfaries, Wozefaries, Sorefaries e umani), e l'altra mano di chi lancia “mangia” le fiamme."
+ },
  "450d017ad77c": {
   "en": "Then stick out your middle and ring fingers and touch them on the logograms of the open palm.",
   "t": "Poi tendi il medio e l'anulare e toccali sui logogrammi del palmo aperto."
+ },
+ "458fa8521bce": {
+  "en": "<strong>Increase/Decrease:</strong> the target grows or shrinks, but its weight stays the same, since its density changes. If the density goes up too much, the item shrinks into infinity and disappears forever. It can harm an item whose function depends on its density. It can turn one metal into another through fusion, but it explodes most of the time.",
+  "t": "<strong>Increase/Decrease:</strong> il bersaglio cresce o si rimpicciolisce, ma il suo peso resta lo stesso, perché cambia la sua densità. Se la densità sale troppo, l'oggetto si rimpicciolisce all'infinito e sparisce per sempre. Può danneggiare un oggetto la cui funzione dipende dalla densità. Può trasformare un metallo in un altro per fusione, ma il più delle volte esplode."
+ },
+ "46020650f5bc": {
+  "en": "<strong>Disassemble:</strong> tries to explode the body.",
+  "t": "<strong>Disassemble:</strong> cerca di far esplodere il corpo."
+ },
+ "460f450c5a7f": {
+  "en": "<strong>Increase/Decrease:</strong> behaves like Create/Destroy.",
+  "t": "<strong>Increase/Decrease:</strong> si comporta come Create/Destroy."
+ },
+ "47fb12785962": {
+  "en": "A missing head",
+  "t": "Una testa mancante"
+ },
+ "48b4259f25a7": {
+  "en": "<strong>Destroy:</strong> explodes the target into a shower of extremely fine particles and gas, basically a fine dust; at lower tiers, it might only destroy the object's outer shell.",
+  "t": "<strong>Destroy:</strong> fa esplodere il bersaglio in una pioggia di particelle e gas finissimi, in pratica una polvere fine; ai livelli più bassi, potrebbe distruggere solo il guscio esterno dell'oggetto."
+ },
+ "4966438ddf0f": {
+  "en": "Researchers don't fully understand the process. In reality, the spell doesn't create a soul: it tries to pull a disconnected soul into the flesh you want, where it melds with that flesh's own leftover soul connections into a final hybrid. Sex and giving birth are somewhat like that process too: giving new life is basically mixing two souls, giving part of yourself for a newborn to form.",
+  "t": "I ricercatori non capiscono del tutto il processo. In realtà, l'incantesimo non crea un'anima: cerca di trascinare un'anima scollegata nella carne che vuoi, dove si fonde con i legami dell'anima rimasti in quella carne in un ibrido finale. Anche il sesso e il parto somigliano un po' a quel processo: dare una nuova vita è in pratica mescolare due anime, dando una parte di sé perché si formi un neonato."
+ },
+ "4e20ac3a2fdc": {
+  "en": "Shock Create restarts the heart. Storm Create at Tier II or more also works (higher the fatter the person), but it creates a localized storm that harms the skin, so it's more of a \"punishment revival\".",
+  "t": "Shock Create fa ripartire il cuore. Funziona anche Storm Create al Livello II o superiore (più alto, più la persona è grassa), ma crea una tempesta localizzata che danneggia la pelle, quindi è più una “rianimazione punitiva”."
  },
  "4e68b482c7fd": {
   "en": "If you see one of those in a sigil, then for sure it was manufactured before 987 A.G! Some even collect those as trinkets, which increased their price, which then brought fakes to be manufactured. Seeing the shitstorm developing, Forway officialized production of the old versions, which dismantled the market for it, and the problem was solved! Still, lots of people were pissed, but at least it stopped the grift.",
@@ -95,17 +247,57 @@
   "en": "Cat. Body",
   "t": "Cat. Corpo"
  },
+ "503bdeb70c12": {
+  "en": "Multiple broken bones and major blood loss",
+  "t": "Fratture multiple e grave perdita di sangue"
+ },
+ "5255c62e691b": {
+  "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Darfaries shells appear as you do. With a sigil ring:",
+  "t": "<strong>Avvia l'incantesimo.</strong> Stringi le dita della mano che tiene l'incantesimo e l'energia dell'anima. Mentre lo fai, compaiono i gusci Darfaries. Con un anello sigillo:"
+ },
+ "528b9fb4db2c": {
+  "en": "<strong>Increase/Decrease:</strong> the whole body grows or shrinks.",
+  "t": "<strong>Increase/Decrease:</strong> tutto il corpo cresce o si rimpicciolisce."
+ },
+ "55f999e07aab": {
+  "en": "Restore and Create started out as two different spells. But the logograms are an interface to raw soul energy, whose meaning all users share as fact, and over time both came to mean the same thing: regrow what's missing from the body, be it a finger, or everything else if only a finger is left. If no genetic information remains, see Cat. Soul or other interfaces.",
+  "t": "Restore e Create nacquero come due incantesimi diversi. Ma i logogrammi sono un'interfaccia verso l'energia dell'anima grezza, il cui significato tutti gli utenti condividono come un dato di fatto, e col tempo entrambi arrivarono a significare la stessa cosa: far ricrescere ciò che manca al corpo, che sia un dito, o tutto il resto se rimane solo un dito. Se non resta alcuna informazione genetica, vedi Cat. Anima o altre interfacce."
+ },
  "560c3c8d4c6b": {
   "en": "Ring #1 (closest to wrist): 2",
   "t": "Anello #1 (il più vicino al polso): 2"
+ },
+ "57a8586e6216": {
+  "en": "Interface shells",
+  "t": "Gusci dell'interfaccia"
  },
  "583b25caa114": {
   "en": "Healing is also often performed through this interface due to its abundant nature or as a way to heal a living soul being affected by the nari gel interface without resetting its effects, as one interface cannot reset or manipulate another interface.",
   "t": "Anche la guarigione viene spesso eseguita attraverso questa interfaccia, per la sua natura abbondante o come modo per guarire un'anima vivente colpita dall'interfaccia dei gel nari senza annullarne gli effetti, dato che un'interfaccia non può annullare né manipolare un'altra interfaccia."
  },
+ "595c54a14320": {
+  "en": "The mass affected follows the General Power Effects: 0.1 kg at Tier I, doubling with every tier (51.2 kg at Tier X).",
+  "t": "La massa interessata segue i General Power Effects: 0,1 kg al Livello I, raddoppiando a ogni livello (51,2 kg al Livello X)."
+ },
+ "599af3d37f22": {
+  "en": "Mud VERB",
+  "t": "Mud VERB"
+ },
  "59ddf0bbb393": {
   "en": "Darfaries interface status: a glowing light-blue ring around a forearm with small colored icons orbiting it.",
   "t": "Stato dell'interfaccia Darfaries: un anello luminoso azzurro chiaro intorno a un avambraccio con piccole icone colorate che gli orbitano intorno."
+ },
+ "5bd44ebe63cd": {
+  "en": "Tier",
+  "t": "Livello"
+ },
+ "5c0704ac369f": {
+  "en": "A missing torso",
+  "t": "Un torso mancante"
+ },
+ "5c447d60de4b": {
+  "en": "V (largest, farthest from the hand)",
+  "t": "V (il più grande, il più lontano dalla mano)"
  },
  "5cb6d6625907": {
   "en": "Darfaries Interface · #HusbandOutWorld",
@@ -119,9 +311,21 @@
   "en": "Interface \"Balls\"",
   "t": "Le \"palle\" dell'interfaccia"
  },
+ "5e59f0f13ed9": {
+  "en": "If healing isn't happening, the target must be fed Black Honey or another energy-dense food. Five bottles of Black Honey are like eating tens of 2,000-calorie junk food meals. It's expensive, but there's plenty to go around.",
+  "t": "Se la guarigione non avviene, il bersaglio va nutrito con Black Honey o con un altro cibo ad alta densità energetica. Cinque bottiglie di Black Honey sono come mangiare decine di pasti spazzatura da 2.000 calorie. È caro, ma ce n'è in abbondanza."
+ },
  "5e6cc8d41ac1": {
   "en": "987 A.G, the one and only Gabiro Sanbi Royal, landed the formalization of Darfaries interface verbs and the addition of both Transmute and Entangle by creating a new version from the older interfaces. You could say he stole Right, Up, Down, Left, &amp; Rolls from other scientists claiming it, but he was the one who created a uniformity that no other scientists had in mind, so he took home all the glory.",
   "t": "Nel 987 A.G, l'unico e solo Gabiro Sanbi Royal ottenne la formalizzazione dei verbi dell'interfaccia Darfaries e l'aggiunta sia di Transmute sia di Entangle, creando una nuova versione a partire dalle interfacce più vecchie. Si potrebbe dire che rubò Right, Up, Down, Left, &amp; Rolls ad altri scienziati che li rivendicavano, ma fu lui a creare un'uniformità che nessun altro scienziato aveva in mente, quindi si portò a casa tutta la gloria."
+ },
+ "61c1c4f2478a": {
+  "en": "The Buhraies either were more efficient with this interface or used something else that gave them a leg up. Forway made the Transmute symbol official purely to help research.",
+  "t": "I Buhraies o erano più efficienti con questa interfaccia o usavano qualcos'altro che dava loro un vantaggio. Forway ha reso ufficiale il simbolo Transmute solo per aiutare la ricerca."
+ },
+ "6462a34fdd62": {
+  "en": "Put lost limbs close to the body, so regrowing them doesn't take as much energy. Severe damage makes the body use a lot of energy to heal.",
+  "t": "Avvicina al corpo gli arti persi, così ricrescerli non richiede tanta energia. I danni gravi fanno consumare al corpo molta energia per guarire."
  },
  "66d73579e999": {
   "en": "176 (images illustration)",
@@ -131,25 +335,105 @@
   "en": "You must apply the logograms to the skin of one of your palms, or use sigil rings, then clench your fingers to start the interface while keeping the palm visible.",
   "t": "Devi applicare i logogrammi sulla pelle di uno dei palmi, o usare gli anelli sigillo, poi stringere le dita per avviare l'interfaccia tenendo il palmo visibile."
  },
+ "68fd817c6916": {
+  "en": "A sigil ring brings forth a spell: its logograms make soul energy mutate and do what the caster wants.",
+  "t": "Un anello sigillo fa scaturire un incantesimo: i suoi logogrammi fanno mutare l'energia dell'anima e le fanno fare ciò che vuole chi lancia."
+ },
+ "69722a5e4037": {
+  "en": "Gravity VERB",
+  "t": "Gravity VERB"
+ },
  "69776ca57e19": {
   "en": "*At least that’s what scientists calculated, as no official Forway record of an exceedingly high-tier spell being cast exists.",
   "t": "*Almeno questo è ciò che hanno calcolato gli scienziati, dato che non esiste alcun registro ufficiale di Forway di un incantesimo di livello estremamente alto lanciato."
+ },
+ "6b174442593e": {
+  "en": "What each tier can heal:",
+  "t": "Cosa può guarire ogni livello:"
+ },
+ "6b805f489c01": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts everything around it (gravity still affects it). With no target, the soul flame simply evaporates.",
+  "t": "<strong>Repel/Attract:</strong> il bersaglio respinge o attira tutto ciò che ha intorno (la gravità agisce ancora su di lui). Senza bersaglio, la fiamma dell'anima semplicemente evapora."
  },
  "6bb5f88148f9": {
   "en": "Ring #3: 18",
   "t": "Anello #3: 18"
  },
+ "6bf9374ceec0": {
+  "en": "Body VERB",
+  "t": "Body VERB"
+ },
+ "6cf9bf72fbec": {
+  "en": "<strong>Restore/Disassemble:</strong> draws the element into the target from its surroundings, or explodes it out of the target into its surroundings.",
+  "t": "<strong>Restore/Disassemble:</strong> attira l'elemento nel bersaglio dall'ambiente circostante, o lo fa esplodere fuori dal bersaglio nell'ambiente circostante."
+ },
  "6d5c5b3cf877": {
   "en": "Using the Darfaries Interface is a process of its own. Though, like riding an egua, once you learn it, it just becomes second nature.",
   "t": "Usare l'interfaccia Darfaries è un procedimento a sé. Però, come cavalcare un'egua, una volta imparato diventa una seconda natura."
+ },
+ "6d7e4622451a": {
+  "en": "Body manipulation spells are easier to cast, but they can be risky if the caster doesn't know the side effects. Some people may develop side effects not listed here.",
+  "t": "Gli incantesimi di manipolazione del corpo sono più facili da lanciare, ma possono essere rischiosi se chi lancia non conosce gli effetti collaterali. Alcune persone possono sviluppare effetti collaterali non elencati qui."
+ },
+ "6d98ffb6c2df": {
+  "en": "When the body runs out of fuel, Black Honey finishes the healing, so the target doesn't turn skeletal from undernourishment.",
+  "t": "Quando il corpo finisce il carburante, il Black Honey completa la guarigione, così il bersaglio non diventa scheletrico per la denutrizione."
+ },
+ "6fadfb89a110": {
+  "en": "<strong>Verb:</strong> the change being applied. With no verb, the soul energy falls back on the caster's own idea of what it should do.",
+  "t": "<strong>Verbo:</strong> il cambiamento che si applica. Senza verbo, l'energia dell'anima ripiega sull'idea che chi lancia ha di cosa dovrebbe fare."
+ },
+ "703d02d20cde": {
+  "en": "In short: choose the spell, put energy into it, and release it. A spell has two parts:",
+  "t": "In breve: scegli l'incantesimo, mettici energia, e rilascialo. Un incantesimo ha due parti:"
+ },
+ "705649a46934": {
+  "en": "Frozen Earth VERB",
+  "t": "Frozen Earth VERB"
+ },
+ "7135a4e587c8": {
+  "en": "Ash VERB",
+  "t": "Ash VERB"
+ },
+ "724c8389bd95": {
+  "en": "Steam VERB",
+  "t": "Steam VERB"
  },
  "73b453b0f98a": {
   "en": "Forway considered banning non-logogram usage of this interface in the early 800s A.G., but the scientific community's pushback was too strong. Community opinion shifted in the early 900s A.G. after many scientific tragedies occurred without clear progress. By the late 900s A.G., only fringe scientists like Gabiro Sundeath (also known as Gabiro Sanbi Royal) seemed to be still investigating it.",
   "t": "Forway valutò di vietare l'uso di questa interfaccia senza logogrammi all'inizio degli 800 A.G., ma l'opposizione della comunità scientifica fu troppo forte. L'opinione della comunità cambiò all'inizio dei 900 A.G., dopo che si verificarono molte tragedie scientifiche senza progressi evidenti. Alla fine dei 900 A.G., sembravano studiarla ancora solo scienziati ai margini come Gabiro Sundeath (noto anche come Gabiro Sanbi Royal)."
  },
+ "756bf4c104c4": {
+  "en": "<strong>Uses:</strong> mainly to entangle the sounds reaching people's ears, so they all hear the same thing. It can be overwhelming: sounds echo when people are close to each other, and it gets harder to tell where sounds other than voices are coming from.",
+  "t": "<strong>Usi:</strong> soprattutto per intrecciare i suoni che arrivano alle orecchie delle persone, così che tutti sentano la stessa cosa. Può essere travolgente: i suoni fanno eco quando le persone sono vicine tra loro, e diventa più difficile capire da dove vengano i suoni che non sono voci."
+ },
+ "76c79f05025e": {
+  "en": "Sigil rings",
+  "t": "Anelli sigillo"
+ },
+ "76f489077f50": {
+  "en": "Storm VERB",
+  "t": "Storm VERB"
+ },
+ "7802ad32f0ce": {
+  "en": "Verbs",
+  "t": "Verbi"
+ },
+ "78c2d1c75d87": {
+  "en": "Either way, a miscast explodes in soul flame in the caster's hands.",
+  "t": "In entrambi i casi, un lancio sbagliato esplode in fiamma dell'anima nelle mani di chi lancia."
+ },
+ "7a91c4983d68": {
+  "en": "World VERB",
+  "t": "World VERB"
+ },
  "7c67e01db87c": {
   "en": "Full Darfaries Interface - Sigil and Nari stone mode",
   "t": "Interfaccia Darfaries completa - Modalità sigillo e pietra nari"
+ },
+ "7cde42e1eb31": {
+  "en": "Transmute",
+  "t": "Transmute"
  },
  "7df913eb7771": {
   "en": "Ring #2: 8",
@@ -159,21 +443,69 @@
   "en": "To release the spell, unclench the fingers. To add motion to the spell, cock your arm, then throw it towards the target to transfer the inertia into the spell.",
   "t": "Per rilasciare l'incantesimo, apri le dita. Per dare movimento all'incantesimo, carica il braccio, poi lancialo verso il bersaglio per trasferire l'inerzia all'incantesimo."
  },
+ "83a077984fe7": {
+  "en": "The Buhraies created this interface as an enhancement to their own soul energy interface, in an attempt to control the Darfaries as a versatile army of foot soldiers.",
+  "t": "I Buhraies crearono questa interfaccia come potenziamento della propria interfaccia di energia dell'anima, nel tentativo di controllare i Darfaries come un versatile esercito di fanti."
+ },
+ "840823ff59c1": {
+  "en": "<strong>Restore:</strong> shapes the item into the desired object by combining elements around the caster, basically the reverse of chemical reactions. Have the elements it's made of nearby to improve the odds; otherwise the repaired object may break again if the new connections aren't strong.",
+  "t": "<strong>Restore:</strong> dà all'oggetto la forma desiderata combinando gli elementi intorno a chi lancia, in pratica il contrario delle reazioni chimiche. Tieni vicini gli elementi di cui è fatto per aumentare le probabilità; altrimenti l'oggetto riparato può rompersi di nuovo se i nuovi legami non sono forti."
+ },
+ "845f813c2b56": {
+  "en": "<strong>Tiers:</strong> the mass affected follows the General Power Effects (0.1 kg at Tier I, doubling with every tier).",
+  "t": "<strong>Livelli:</strong> la massa interessata segue i General Power Effects (0,1 kg al Livello I, raddoppiando a ogni livello)."
+ },
+ "85e7149e86b7": {
+  "en": "<strong>Revival, step by step</strong> (as Morika does it in Vol 4):",
+  "t": "<strong>Rianimazione, passo per passo</strong> (come la fa Morika nel Vol. 4):"
+ },
  "889505c1f708": {
   "en": "This widely-known interface came up as a merger between the ancient species Fuhraies’s, Buhraies’s, and Lishies’s genetics and their own interfaces.",
   "t": "Questa interfaccia molto conosciuta nacque dalla fusione tra la genetica delle specie antiche Fuhraies, Buhraies e Lishies e la loro interfacce."
+ },
+ "8a4a4532c533": {
+  "en": "<strong>Apply the energy.</strong> Touch what you want to apply it to with your palm and straighten your fingers, or release the spell as it is for a ranged attack. Cock your arm and time it right for extra range. The caster's body feels the weight of the spell, like firing a gun.",
+  "t": "<strong>Applica l'energia.</strong> Tocca con il palmo ciò su cui vuoi applicarla e distendi le dita, oppure rilascia l'incantesimo così com'è per un attacco a distanza. Carica il braccio e scegli il momento giusto per una gittata maggiore. Il corpo di chi lancia sente il peso dell'incantesimo, come quando si spara con un'arma da fuoco."
+ },
+ "8ca6193582e9": {
+  "en": "Water VERB",
+  "t": "Water VERB"
+ },
+ "8d204a0435e5": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Darfaries%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Darfaries Interface.md</a>",
+  "t": "Fonte: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Darfaries%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Darfaries Interface.md</a>"
  },
  "8f6687bd0076": {
   "en": "The “Veins”",
   "t": "Le “vene”"
  },
+ "930585f35c72": {
+  "en": "<strong>Choose the spell</strong> (see Language › Darfaries Interface Language). Either put on a sigil ring:",
+  "t": "<strong>Scegli l'incantesimo</strong> (vedi Linguaggio › Linguaggio dell'interfaccia Darfaries). O ti metti un anello sigillo:"
+ },
+ "95ca95757aa4": {
+  "en": "Cat. Soul",
+  "t": "Cat. Anima"
+ },
+ "984bfe340ee0": {
+  "en": "Healing matches the flesh to how the soul looks, so old scars don't exist in Vraki unless someone is too poor for nari gels or the Darfaries Interface. Tattoos are removed as soon as Body Restore is used.",
+  "t": "La guarigione adegua la carne all'aspetto dell'anima, quindi a Vraki le vecchie cicatrici non esistono, a meno che qualcuno non sia troppo povero per i gel nari o per l'interfaccia Darfaries. I tatuaggi spariscono appena si usa Body Restore."
+ },
  "995e5279ac7d": {
   "en": "To add more power, repeat this action. Be aware that each “eating“ motion attempts to bring the spell to the next stable tier, or energy level, so awareness of the increased soul energy needed between each higher tier is essential.",
   "t": "Per aggiungere potenza, ripeti questa azione. Tieni presente che ogni movimento da “mangiare“ cerca di portare l'incantesimo al livello stabile successivo, o livello di energia, quindi è essenziale essere consapevoli dell'aumento di energia dell'anima necessario tra un livello superiore e l'altro."
  },
+ "9bd96337042b": {
+  "en": "Nickel → Copper",
+  "t": "Nichel → Rame"
+ },
  "9f156873d1d5": {
   "en": "Sigil rings are a modern and quicker way to interact with the Darfaries Interface. Without it, one must draw the logograms into the skin of their palm, which can be a lengthy process, even for seasoned adventurers. Dangerous, too, as if you draw something unclear as it could cause the interface to default to your thoughts, and you needlessly turn your best friend into a fanchaki all because you thought about what’s cooking for dinner while casting it. And if you’re really messing with the soul, even if by accident, you might never find a way to undo it.",
   "t": "Gli anelli sigillo sono un modo moderno e più rapido di interagire con l'interfaccia Darfaries. Senza, bisogna disegnare i logogrammi sulla pelle del palmo, il che può essere un procedimento lungo, anche per avventurieri esperti. E pericoloso, perché se disegni qualcosa di poco chiaro potrebbe far sì che l'interfaccia ripieghi sui tuoi pensieri, e trasformi inutilmente il tuo migliore amico in un fanchaki solo perché pensavi a cosa c'è per cena mentre lanciavi. E se stai davvero pasticciando con l'anima, anche per sbaglio, potresti non trovare mai un modo per annullarlo."
+ },
+ "a2719cb8ed6e": {
+  "en": "Every elemental spell works the same way:",
+  "t": "Ogni incantesimo elementale funziona allo stesso modo:"
  },
  "a2b9afce0d53": {
   "en": "Ring #4: 32*",
@@ -183,45 +515,169 @@
   "en": "Darfaries Interface",
   "t": "Interfaccia Darfaries"
  },
+ "a37a0f7da74e": {
+  "en": "Iron → Cobalt",
+  "t": "Ferro → Cobalto"
+ },
+ "a565144f956c": {
+  "en": "Creates a soul with specific soul genetic information, using flesh as the base. The incantation tries to picture the target and think aloud about its characteristics.",
+  "t": "Crea un'anima con informazioni genetiche dell'anima specifiche, usando la carne come base. L'incantesimo cerca di raffigurare il bersaglio e di pensare ad alta voce alle sue caratteristiche."
+ },
  "a669783c12a0": {
   "en": "Using The Interface - Release",
   "t": "Usare l'interfaccia - Rilascio"
+ },
+ "a6eb045a1ff1": {
+  "en": "<strong>Create/Destroy:</strong> Create does nothing. Destroy explodes the target into a shower of extremely fine particles and gas, basically a fine dust; at lower tiers, it might only destroy the object's outer shell.",
+  "t": "<strong>Create/Destroy:</strong> Create non fa niente. Destroy fa esplodere il bersaglio in una pioggia di particelle e gas finissimi, in pratica una polvere fine; ai livelli più bassi, potrebbe distruggere solo il guscio esterno dell'oggetto."
+ },
+ "a7eb38f676c7": {
+  "en": "<strong>Restore:</strong> soul energy uses the target's soul genetic information to find what's out of place in their body, and corrects it using stored energy to fuel the changes. More below.",
+  "t": "<strong>Restore:</strong> l'energia dell'anima usa le informazioni genetiche dell'anima del bersaglio per trovare ciò che è fuori posto nel suo corpo, e lo corregge usando l'energia immagazzinata per alimentare i cambiamenti. Altro qui sotto."
  },
  "a8fe88bccc82": {
   "en": "Full Darfaries Interface - scribling and soul energy stone mode",
   "t": "Interfaccia Darfaries completa - Modalità scarabocchio e pietra di energia dell'anima"
  },
+ "aa288905b03d": {
+  "en": "I (smallest, closest to the hand)",
+  "t": "I (il più piccolo, il più vicino alla mano)"
+ },
+ "aa39015fda61": {
+  "en": "Science - Darfaries Interface (World Lore illustration)",
+  "t": "Scienza - Interfaccia Darfaries (illustrazione della Lore del mondo)"
+ },
+ "ad0f7e005000": {
+  "en": "Body Restore, through a sigil ring fueled by nari sticks.",
+  "t": "Body Restore, tramite un anello sigillo alimentato da barrette nari."
+ },
  "ad789405eb37": {
   "en": "Compound objects",
   "t": "Oggetti composti"
+ },
+ "aeaf0ba689f9": {
+  "en": "Cobalt → Nickel",
+  "t": "Cobalto → Nichel"
+ },
+ "b325204b56ca": {
+  "en": "The best-known spells (healing, reviving, elemental and more) can be bought at any Soul Energy shop.",
+  "t": "Gli incantesimi più noti (guarigione, rianimazione, elementali e altri) si possono comprare in qualsiasi negozio di Energia dell'anima."
  },
  "b4801c89826b": {
   "en": "Due to their size, Darfaries cannot fly, but they can somewhat dampen their fall from approximately three-story buildings. Wozefaries can dampen their fall from up to ten-story buildings, while Sorefaries can control their attitude at will, and even carry some weight with them. The weight depends on the Sorefaries’ strength, dexterity, and soul energy capacity.",
   "t": "A causa delle loro dimensioni, i Darfaries non possono volare, ma possono in parte attutire la caduta da edifici di circa tre piani. I Wozefaries possono attutire la caduta da edifici fino a dieci piani, mentre i Sorefaries possono controllare il proprio assetto a volontà, e perfino portare un po' di peso con sé. Il peso dipende dalla forza, dalla destrezza e dalla capacità di energia dell'anima del Sorefaries."
  },
+ "b647f1de4ac0": {
+  "en": "Bruises",
+  "t": "Lividi"
+ },
+ "b92c87f1b12d": {
+  "en": "Soul energy shapes the spell using logograms drawn from the knowledge shared by the people nearby.",
+  "t": "L'energia dell'anima dà forma all'incantesimo usando logogrammi tratti dalla conoscenza condivisa dalle persone vicine."
+ },
+ "ba9989c6673e": {
+  "en": "<strong>Subject:</strong> the target of the spell. With no subject, the soul energy falls back on the caster's own idea of how it should apply itself.",
+  "t": "<strong>Soggetto:</strong> il bersaglio dell'incantesimo. Senza soggetto, l'energia dell'anima ripiega sull'idea che chi lancia ha di come dovrebbe applicarsi."
+ },
+ "baded418ca13": {
+  "en": "A White Hole (also called White Fire) is what happens when soul energy doesn't convert properly into the desired outcome: it backfires, explodes, or becomes nothing instead of something. These events aren't quite an urban legend: scientists and researchers know about them. They were better known in the old days, before Forway really became a thing and resentment against messing with the soul became commonplace.",
+  "t": "Un White Hole (chiamato anche White Fire) è ciò che succede quando l'energia dell'anima non si converte come dovrebbe nel risultato desiderato: ha un contraccolpo, esplode, o diventa niente invece di qualcosa. Questi eventi non sono proprio una leggenda metropolitana: scienziati e ricercatori ne sono al corrente. Erano più noti ai vecchi tempi, prima che Forway diventasse davvero qualcosa e che il risentimento contro chi trafficava con l'anima diventasse comune."
+ },
+ "bc6f4bc6da01": {
+  "en": "Heals",
+  "t": "Guarisce"
+ },
+ "bdc1fd5d3c0f": {
+  "en": "Shell",
+  "t": "Guscio"
+ },
+ "be58ecb5f9ad": {
+  "en": "Drawn logograms are forbidden inside city and kingdom perimeters, because of the risk of explosions and miscasts:",
+  "t": "I logogrammi disegnati sono vietati entro i perimetri delle città e dei regni, per il rischio di esplosioni e lanci sbagliati:"
+ },
  "c0074aa34b2d": {
   "en": "Darfaries Interface Video showcase",
   "t": "Dimostrazione video dell'interfaccia Darfaries"
+ },
+ "c0a448a02870": {
+  "en": "Water Gravity VERB",
+  "t": "Water Gravity VERB"
+ },
+ "c4ebb12ada7e": {
+  "en": "Soul Create (Book I Chapter I Gabiro’s version)",
+  "t": "Soul Create (Libro I, Capitolo I, versione di Gabiro)"
+ },
+ "c4f55f2d0048": {
+  "en": "<strong>Restore/Disassemble:</strong> Restore doesn't put things back together from their pieces; it just makes the object look newer. Disassemble does the reverse: it rusts an item. It's basically the reverse of chemical reactions.",
+  "t": "<strong>Restore/Disassemble:</strong> Restore non rimette insieme le cose dai loro pezzi; fa solo sembrare l'oggetto più nuovo. Disassemble fa il contrario: arrugginisce un oggetto. È in pratica il contrario delle reazioni chimiche."
+ },
+ "c6838a9cbc77": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts the element. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Repel/Attract:</strong> il bersaglio respinge o attira l'elemento. Senza bersaglio, la fiamma dell'anima semplicemente evapora."
  },
  "c8c7488b1383": {
   "en": "Environmental changes, especially creation, destruction, and manipulation of elemental properties such as water, fire, terrain, and gravity, are commonly performed through this interface.",
   "t": "I cambiamenti ambientali, soprattutto la creazione, la distruzione e la manipolazione di proprietà elementali come acqua, fuoco, terreno e gravità, vengono comunemente eseguiti attraverso questa interfaccia."
  },
+ "cac2d50e5374": {
+  "en": "It only restores the base genetic information; it doesn't deal with whatever is causing the damage, such as worms.",
+  "t": "Ripristina solo le informazioni genetiche di base; non si occupa di ciò che causa il danno, come i vermi."
+ },
  "cb864e0c3c67": {
   "en": "Keeping your fingers clenched on the hand you used the logograms on, you must now trap the fingers, or nari stone stick, then reverse the motion while keeping the fingers clenched. This sort of “eating“ motion will suck the power and create a ball into one of the rings that will temporarily hold power. Do not worry about how fast it zips around. The rings will keep it in check until you release the spell in the final step.",
   "t": "Tenendo strette le dita della mano su cui hai messo i logogrammi, ora devi intrappolare le dita, o il bastoncino di pietra nari, poi invertire il movimento tenendo le dita strette. Questa specie di movimento da “mangiare“ risucchierà la potenza e creerà una palla in uno degli anelli, che conterrà temporaneamente la potenza. Non preoccuparti di quanto velocemente sfreccia. Gli anelli la terranno sotto controllo finché non rilascerai l'incantesimo nell'ultimo passaggio."
+ },
+ "cbe94eef3d69": {
+  "en": "<strong>Infuse soul energy.</strong> The casting hand takes in energy when the caster \"eats\" with it. A spell is only stable at a soul energy tier, so energy always fills up to the next tier (after a partial charge, it adds the difference). The energy can come from:",
+  "t": "<strong>Infondi l'energia dell'anima.</strong> La mano che lancia assorbe energia quando chi lancia “mangia” con essa. Un incantesimo è stabile solo a un livello di energia dell'anima, quindi l'energia si riempie sempre fino al livello successivo (dopo una carica parziale, aggiunge la differenza). L'energia può venire da:"
+ },
+ "cd5fc47831e2": {
+  "en": "Entangle",
+  "t": "Entangle"
+ },
+ "d08ae5111258": {
+  "en": "Minor cuts and minor blood loss",
+  "t": "Tagli minori e lieve perdita di sangue"
  },
  "d3ffc8903c8c": {
   "en": "Darfaries, Wozefaries, and Sorefaries show the markings of controlled flight and built-in spell-casting mechanisms using specialized nerves attuned to soul energy that appear as veins, at least to the untrained eye, throughout the upper body. These reddened nerves always ran up their hands and arms and met in the back with a distinct capillary branching appearance.",
   "t": "Darfaries, Wozefaries e Sorefaries mostrano i segni del volo controllato e di meccanismi incorporati per lanciare incantesimi, grazie a nervi specializzati sintonizzati sull'energia dell'anima che sembrano vene, almeno a un occhio inesperto, in tutta la parte superiore del corpo. Questi nervi arrossati risalgono sempre le mani e le braccia e si incontrano sulla schiena con un caratteristico aspetto a ramificazioni capillari."
  },
+ "d41f0dd4cd5a": {
+  "en": "<strong>Uses:</strong> active research is trying to figure out how the Buhraies used it to shape the land and do all kinds of shit with it. Some researchers think it could outright make gold, which seems possible, since people have transmuted these (it just doesn't make much economic sense):",
+  "t": "<strong>Usi:</strong> ricerche in corso cercano di capire come i Buhraies lo usassero per modellare la terra e farci ogni genere di cazzata. Alcuni ricercatori pensano che potrebbe perfino produrre oro, il che sembra possibile, visto che si è riusciti a trasmutare questi (solo che economicamente non ha molto senso):"
+ },
+ "d50e6f0c1670": {
+  "en": "The logograms are the guardrails. Every race with the Darfaries interface can try to override them by using a knife to reach the Buhraies interface underneath, as Gabiro does in the Vol 1 prologue. It's dangerous: an empty logogram forces the user into immense concentration, and the odds aren't in their favor. So for common folk, it's basically like being unable to reach the \"ancient roots\" of the interface.",
+  "t": "I logogrammi sono i guardrail. Ogni razza con l'interfaccia Darfaries può provare a scavalcarli usando un coltello per raggiungere l'interfaccia Buhraies sottostante, come fa Gabiro nel prologo del Vol. 1. È pericoloso: un logogramma vuoto costringe chi lo usa a una concentrazione immensa, e le probabilità non sono a suo favore. Quindi per la gente comune è in pratica come non poter raggiungere le “radici antiche” dell'interfaccia."
+ },
  "d5fc3c0d596b": {
   "en": "Currently, 26 Simple Objects are widely accepted, as in Forway-approved, for Sigil rings. They are mostly inherited from previous interfaces and haven’t changed in hundreds of years.",
   "t": "Attualmente, 26 Oggetti semplici sono ampiamente accettati, cioè approvati da Forway, per gli anelli sigillo. Sono per lo più ereditati dalle interfacce precedenti e non sono cambiati da centinaia di anni."
  },
+ "d7506f50f91f": {
+  "en": "Cat. Material",
+  "t": "Cat. Materiale"
+ },
+ "d8d1f53225ee": {
+  "en": "Gabiro brought Entangle back from the history books. Many had tried before him, but the side effects were always too strong; Gabiro understood how it worked in principle far better than anyone. Most people don't use it day to day, but it's a fundamental tool for the adventurers and guards who protect them.",
+  "t": "Gabiro riportò Entangle fuori dai libri di storia. Molti ci avevano provato prima di lui, ma gli effetti collaterali erano sempre troppo forti; Gabiro capiva in linea di principio come funzionava molto meglio di chiunque altro. Quasi nessuno lo usa nella vita di tutti i giorni, ma è uno strumento fondamentale per gli avventurieri e per le guardie che li proteggono."
+ },
+ "d90ca37eeeb8": {
+  "en": "{Object} VERB",
+  "t": "{Object} VERB"
+ },
  "d91500bfa542": {
   "en": "Public text: science-darfaries-interface.md",
   "t": "Testo pubblico: science-darfaries-interface.md"
+ },
+ "dcc44733ccdb": {
+  "en": "Minor broken bones and medium blood loss",
+  "t": "Fratture minori e media perdita di sangue"
+ },
+ "ddf5082031ec": {
+  "en": "Each ring has one spell carved into it, such as Body Restore or Shock Create.",
+  "t": "In ogni anello è inciso un incantesimo, come Body Restore o Shock Create."
  },
  "de1369b50eb5": {
   "en": "Not to say humans can’t use this interface. They certainly can! Although, only if they have shared blood with Darfaries or Wozefaries in their family.",
@@ -230,6 +686,10 @@
  "ded446aabbba": {
   "en": "Now you must make a fist with your other hand. If you can use this interface, a distinct group of five rings will surge from the white flames in your arms and expand outward, with the smallest ring closer to your wrist.",
   "t": "Ora devi chiudere l'altra mano a pugno. Se sai usare questa interfaccia, un gruppo distinto di cinque anelli emergerà dalle fiamme bianche delle tue braccia e si espanderà verso l'esterno, con l'anello più piccolo più vicino al polso."
+ },
+ "e0c1969b54cd": {
+  "en": "When a spell is cast, five rings appear around the hand holding it. Each shell holds a limited number of soul energy tiers:",
+  "t": "Quando si lancia un incantesimo, cinque anelli compaiono intorno alla mano che lo tiene. Ogni guscio contiene un numero limitato di livelli di energia dell'anima:"
  },
  "e5df83155e66": {
   "en": "Full Darfaries Interface - Sigil and Nari stone mode (video)",
@@ -243,6 +703,10 @@
   "en": "This is where some scientists spent their entire lives trying to claim a new verb to be accepted by Forway, but all their works became food for paper rot and forgotten to history because of a single man who broke through the hundreds of years stalemate.",
   "t": "È qui che alcuni scienziati hanno passato l'intera vita cercando di far accettare a Forway un nuovo verbo, ma tutti i loro lavori sono diventati cibo per la carta che marcisce e sono stati dimenticati dalla storia a causa di un solo uomo che ha rotto lo stallo durato centinaia di anni."
  },
+ "e8d0433850e4": {
+  "en": "Fire VERB",
+  "t": "Fire VERB"
+ },
  "ef47633dff56": {
   "en": "Given Darfaries sport the most prominent Darfaries veins, its sheer additional volume allows them to finely sense soul energy disturbances around them, plus a rough sensation of humidity, wind, and barometric pressure—it’s like how they say, if a Darfaries tells you to buy an umbrella, you better buy one!",
   "t": "Dato che i Darfaries sfoggiano le vene Darfaries più pronunciate, il loro puro volume aggiuntivo permette loro di percepire con finezza i disturbi dell'energia dell'anima intorno a loro, oltre a una sensazione approssimativa di umidità, vento e pressione atmosferica—come si suol dire, se un Darfaries ti dice di comprare un ombrello, faresti meglio a comprarne uno!"
@@ -250,5 +714,21 @@
  "f329090850be": {
   "en": "Shared Blood",
   "t": "Sangue condiviso"
+ },
+ "f5526de22a80": {
+  "en": "Or draw the logograms by hand. In the early 800s A.G., Forway considered banning the use of the interface without a sigil ring: partly to stop people drawing logograms by hand, which invites mistakes, misuse and, in rare cases, an accidental White Hole, but even more to stop anyone using the interface without logograms (the guardrails) at all. The scientific community pushed back too hard. Opinion shifted in the early 900s A.G., after many scientific tragedies with no clear progress, and by the late 900s A.G. only fringe scientists like Gabiro Sundeath (also known as Gabiro Sanbi Royal) still seemed to be investigating it.",
+  "t": "Oppure disegni i logogrammi a mano. All'inizio degli 800 A.G., Forway valutò di vietare l'uso dell'interfaccia senza anello sigillo: in parte per impedire che la gente disegnasse i logogrammi a mano, cosa che invita a errori, abusi e, in rari casi, a un White Hole accidentale, ma ancora di più per impedire che qualcuno usasse l'interfaccia del tutto senza logogrammi (i guardrail). La comunità scientifica si oppose troppo. L'opinione cambiò all'inizio dei 900 A.G., dopo molte tragedie scientifiche senza progressi evidenti, e verso la fine dei 900 A.G. solo scienziati marginali come Gabiro Sundeath (noto anche come Gabiro Sanbi Royal) sembravano ancora indagarci."
+ },
+ "f6bd920f19f0": {
+  "en": "Lava VERB",
+  "t": "Lava VERB"
+ },
+ "f7e4312c3e9b": {
+  "en": "Body parts for later use are kept in jars of a viscous red jelly: finely ground nari stone mixed with blood.",
+  "t": "Le parti del corpo da usare più tardi si conservano in barattoli di una gelatina rossa e viscosa: pietra nari macinata finissima mescolata con sangue."
+ },
+ "ff5ced0ff9c1": {
+  "en": "Wind VERB",
+  "t": "Wind VERB"
  }
 }
