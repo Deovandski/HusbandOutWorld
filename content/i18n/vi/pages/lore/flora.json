@@ -1,4 +1,8 @@
 {
+ "00b4fa5c6d2d": {
+  "en": "Used to make beer, bread, and everything in between.",
+  "t": "Dùng để làm bia, bánh mì, và mọi thứ ở giữa."
+ },
  "01f1130763dc": {
   "en": "Tastyleaf: a huge tree with pale-blue leaves and a twisted dark trunk.",
   "t": "Tastyleaf: một cây khổng lồ lá xanh nhạt với thân sẫm màu xoắn vặn."
@@ -19,6 +23,10 @@
   "en": "<strong>Tier II (Common Goods):</strong> flowers, mushrooms and roots.",
   "t": "<strong>Bậc II (Hàng thông thường):</strong> hoa, nấm ăn và rễ."
  },
+ "06f8b86becdf": {
+  "en": "<strong>Bread</strong>: It’s bread, with a texture close to French bread.",
+  "t": "<strong>Bánh mì</strong>: Là bánh mì, với kết cấu gần giống bánh mì Pháp."
+ },
  "095e6988b83b": {
   "en": "<strong>Lonllow Juice</strong>: Kind of good; better in vitamin shakes.",
   "t": "<strong>Nước ép Lonllow</strong>: Khá ngon; ngon hơn trong sinh tố vitamin."
@@ -31,21 +39,53 @@
   "en": "<strong>Habitat:</strong> Around Blood City and Freeish, and hardly anywhere else in the kingdoms. They are lone trees that sprout from small, colorful seeds. Trunk People love to live on them.",
   "t": "<strong>Môi trường sống:</strong> Quanh thành phố Blood và Freeish, và hầu như không có ở nơi nào khác trong các vương quốc. Chúng là những cây đơn độc mọc lên từ những hạt nhỏ nhiều màu sắc. Trunk People thích sống trên chúng."
  },
+ "0ba6664b41ca": {
+  "en": "<strong>Dried Gyut</strong>: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack.",
+  "t": "<strong>Gyut sấy khô</strong>: Làm để dự trữ lương thực, bán cho các vương quốc khác, làm bánh, hoặc làm đồ ăn vặt khi đi đường."
+ },
+ "0bd6bc703016": {
+  "en": "<strong>Ale</strong>: Like beer, but slightly stronger.",
+  "t": "<strong>Ale</strong>: Như bia, nhưng mạnh hơn một chút."
+ },
+ "0d96598d1fa5": {
+  "en": "<strong>Child Beer</strong>: A weak, mildly sweet and very nutritious beer meant for children. (Real-world comparison: <a href=\"https://en.wikipedia.org/wiki/Small_beer\" rel=\"noopener\">small beer</a>, the weak beer once drunk daily by children and adults alike.)",
+  "t": "<strong>Bia trẻ em</strong>: Một loại bia nhẹ, hơi ngọt và rất bổ dưỡng dành cho trẻ em. (So sánh với thế giới thực: <a href=\"https://en.wikipedia.org/wiki/Small_beer\" rel=\"noopener\">small beer</a>, loại bia nhẹ từng được cả trẻ em lẫn người lớn uống hằng ngày.)"
+ },
+ "10b51080bea5": {
+  "en": "<strong>Domar Child Beer</strong>: A weak, mildly sweet and very nutritious beer meant for children. (Real-world comparison: <a href=\"https://en.wikipedia.org/wiki/Small_beer\" rel=\"noopener\">small beer</a>, the weak beer once drunk daily by children and adults alike.)",
+  "t": "<strong>Bia trẻ em Domar</strong>: Một loại bia nhẹ, hơi ngọt và rất bổ dưỡng dành cho trẻ em. (So sánh với thế giới thực: <a href=\"https://en.wikipedia.org/wiki/Small_beer\" rel=\"noopener\">small beer</a>, loại bia nhẹ từng được cả trẻ em lẫn người lớn uống hằng ngày.)"
+ },
  "10d6fee23412": {
   "en": "<strong>Habitat:</strong> ~0–1 km above sea level. Some variety grows everywhere, but the Yabuca people want (the Yabuca variety, also called the traditional variety) is only found in the south, where it is farmed intensively in the Freeish Kingdom.",
   "t": "<strong>Môi trường sống:</strong> ~0–1 km trên mực nước biển. Biến thể nào đó mọc ở khắp nơi, nhưng loại Yabuca người ta muốn (giống Yabuca, còn gọi là giống truyền thống) chỉ có ở phía nam, nơi nó được trồng thâm canh ở Vương quốc Freeish."
+ },
+ "10f91c529df0": {
+  "en": "<strong>Breadplate</strong>: Bread used as a plate; often eaten afterward or given to the poor.",
+  "t": "<strong>Bánh mì đĩa</strong>: Bánh mì dùng làm đĩa; thường được ăn sau đó hoặc cho người nghèo."
  },
  "11311ca4a1d2": {
   "en": "Steen: a narrow, tall green conifer-like plant with a spiky leaf rosette shown above.",
   "t": "Steen: một cây xanh cao, hẹp giống cây lá kim với một cụm lá gai hình hoa thị phía trên."
  },
+ "11b81bada804": {
+  "en": "<strong>Fried Cadioca</strong>: A popular food throughout the kingdoms, also invented in the Freeish Kingdom.",
+  "t": "<strong>Cadioca chiên</strong>: Một món ăn phổ biến khắp các vương quốc, cũng được phát minh ở Vương quốc Freeish."
+ },
  "1207e16ead81": {
   "en": "<strong>Interface:</strong> Transparent petals.",
   "t": "<strong>Giao diện:</strong> Cánh hoa trong suốt."
  },
+ "1298326dd399": {
+  "en": "<strong>Tastes like:</strong> Carbey, with hints of Parmesan cheese.",
+  "t": "<strong>Vị giống:</strong> Carbey, thoang thoảng vị phô mai Parmesan."
+ },
  "12a81303cac9": {
   "en": "Basi berries are gathered and then beaten down mechanically to separate the flesh into a thick pulp akin to petroleum jelly. The dark thick pulp comes with an earthy, slightly bitter taste akin to mixing 80% dark chocolate and blackberry with a tinge of red huckleberry, and it's a food staple on Freeish Kingdom. Folks over there eat it with literally everything, pairing it with grilled or fried fish, dried jerky, and even adding sugar and ice cubes and eating it as a dessert. It is also quite heavy on fiber, which explains why the Freeish Kingdom basically grinds to a halt for a bit after lunch and dinner! Other kingdoms likely don't partake much in that cuisine as the basi pulp only tastes good fresh, and as soon as you refrigerate or freeze it, the flavor breaks down to tasting like dirt.",
   "t": "Quả Basi được hái rồi đập bằng máy để tách thịt thành một thứ bột nhão đặc giống vaseline. Thứ bột nhão sẫm màu đặc này có vị đất, hơi đắng giống như trộn sô cô la đen 80% với mâm xôi đen và chút việt quất đỏ, và là lương thực chính ở Vương quốc Freeish. Dân ở đó ăn nó với đúng nghĩa là mọi thứ, kết hợp với cá nướng hay chiên, thịt khô, và thậm chí thêm đường và đá viên để ăn tráng miệng. Nó cũng khá nhiều chất xơ, giải thích vì sao Vương quốc Freeish về cơ bản ngừng trệ một lúc sau bữa trưa và bữa tối! Các vương quốc khác có lẽ không mấy dùng món này vì bột basi chỉ ngon khi còn tươi, và ngay khi bạn để lạnh hay đông đá, hương vị phân hủy đến mức như ăn đất."
+ },
+ "140036d902d2": {
+  "en": "A bushy plant that grows in the wild.",
+  "t": "Một loài cây bụi mọc hoang."
  },
  "14c4cfe385d1": {
   "en": "Emerenthy or methyl for some, is a common plant in the forests of Freeish. Mostly known for offering a bit of light at night for people and animals in the forest. Some say that if Trunk people like you, they will get the methyl to guide you. Others think it's egua shit and that they only exist to attract insects to feed on its sweet nectar. You can also rip them off the ground and shake them as an emergency torch, but they don’t last that long. But if you collect enough of them, you can use them as a fibrous addition to any meal, like celery.",
@@ -59,6 +99,10 @@
   "en": "Hifuna Yabuca Fruit",
   "t": "Quả Hifuna Yabuca"
  },
+ "17da56d7c677": {
+  "en": "<strong>Tastes like:</strong> Mushroomy apples.",
+  "t": "<strong>Vị giống:</strong> Táo có vị nấm."
+ },
  "185d2f4a935b": {
   "en": "Flora",
   "t": "Thực vật"
@@ -70,6 +114,10 @@
  "1b3b8bddf67d": {
   "en": "<strong>Dried Cocona</strong>: Sold to other kingdoms, eaten on the road, as a snack, etc. Like the water, it comes in several colors.",
   "t": "<strong>Cocona sấy khô</strong>: Bán cho các vương quốc khác, ăn khi đi đường, làm đồ ăn vặt, v.v. Như nước, nó có nhiều màu."
+ },
+ "1c4db7e6b26b": {
+  "en": "<strong>Tastes like:</strong> Wheat.",
+  "t": "<strong>Vị giống:</strong> Lúa mì."
  },
  "1d7b53b93269": {
   "en": "<strong>Buzeta Hard Juice</strong>: Fermented juice.",
@@ -87,6 +135,10 @@
   "en": "<strong>Growth:</strong> One bush gives ~1 kg of berries per harvest season.",
   "t": "<strong>Sinh trưởng:</strong> Một bụi cho ~1 kg quả mọng mỗi mùa thu hoạch."
  },
+ "22ee8bfd082b": {
+  "en": "<strong>Tastes like:</strong> Blood Oranges.",
+  "t": "<strong>Vị giống:</strong> Cam máu."
+ },
  "2304e6e254bf": {
   "en": "Greenbread Fruit",
   "t": "Quả Greenbread"
@@ -103,6 +155,10 @@
   "en": "Lakata",
   "t": "Lakata"
  },
+ "26615683ce9c": {
+  "en": "<strong>Domar Beer</strong>: A highly nutritious, low-alcohol drink enjoyed by everyone.",
+  "t": "<strong>Bia Domar</strong>: Một thức uống rất bổ dưỡng, ít cồn, ai cũng thích."
+ },
  "266eff7cd05c": {
   "en": "<strong>Wood Yabuca Juice</strong>: Refreshing.",
   "t": "<strong>Nước ép Wood Yabuca</strong>: Sảng khoái."
@@ -110,6 +166,10 @@
  "276aed3b99b6": {
   "en": "<strong>Inspired by:</strong> Cannabis sativa.",
   "t": "<strong>Lấy cảm hứng từ:</strong> Cannabis sativa."
+ },
+ "27cbad34fd54": {
+  "en": "<strong>Domar Bread</strong>: It’s bread, with a texture close to French bread.",
+  "t": "<strong>Bánh mì Domar</strong>: Là bánh mì, với kết cấu gần giống bánh mì Pháp."
  },
  "2820686c8f0f": {
   "en": "The highly coveted variety Jonabuca is farmed intensively in the Freeish kingdom for its consistently sweet appley flavor and crispy texture. Some of the other types are still considered tasty, with some people swearing they are better than Jonabuca! These different variants often have multiple tastes or textures, are inconsistent in their yields, or look or are straight-up unappetizing—with a notorious Yabuca tree being the perfect example after it sprouted by an outhouse and began producing Yabucas that literally tasted like shit. Regardless, anyone with extra balls in their pocket will fork over to get the coveted variety instead to sink their teeth into. It's just like the ad plastered over the fruit shop that says, \"If it ain't Jonabuca, then it ain't Yabuca!\"",
@@ -138,6 +198,10 @@
  "2c5fb16a5006": {
   "en": "Emerenthy Flowers",
   "t": "Hoa Emerenthy"
+ },
+ "2d2512be146a": {
+  "en": "Lolish Roots",
+  "t": "Củ Lolish"
  },
  "2d2f23c3ef96": {
   "en": "A wild fruit popular with adventurers, known for mutating in the wild into new variants. Its flavor is unlike anything else in this world, almost as if it didn't belong there. The Buhraies brought it to life with genetic engineering, and the main variety they made is still the most popular and the hardiest; the second is Wood Yabuca. Many species exist in the wild, and some fear it will eventually crowd out every fruit but Yabucas.",
@@ -179,6 +243,14 @@
   "en": "<strong>Growth:</strong> Fruits in the summer.",
   "t": "<strong>Sinh trưởng:</strong> Ra quả vào mùa hè."
  },
+ "3203b1b33db2": {
+  "en": "<strong>Carbey Flour</strong>: See Carbey.",
+  "t": "<strong>Bột Carbey</strong>: Xem Carbey."
+ },
+ "32acf5bd96eb": {
+  "en": "A fungus often used to slow the heartbeat, found in rotting trees.",
+  "t": "Một loại nấm thường dùng để làm chậm nhịp tim, tìm thấy trong những thân cây mục."
+ },
  "3321ca59cd9f": {
   "en": "Magina is a potent mind-altering drug that Forway banned, given the societal risks it imposes. Users experience a blissful state where they live out their dreams or nightmares if they have a terrible trip in such a realistic fashion that afterward, these people will swear the event actually happened to them rather than realizing it was all just a vivid dream. Some highly renowned scientists still research it to cure specific mental ailments like PTSD by trying to reign in and control the drug, but success has been spotty as each individual reacts so uniquely to it it's hard to find patterns. If you see someone completely zoned out, even after you punch them in the face, they are definitely using Magina, with it most likely being bought on the black market from the Black Magina faction.",
   "t": "Magina là một loại ma túy thay đổi tâm trí mạnh mà Forway đã cấm vì những rủi ro xã hội nó gây ra. Người dùng trải qua trạng thái cực lạc nơi họ sống trong giấc mơ, hoặc ác mộng nếu phê tệ, một cách chân thực đến mức sau đó họ thề rằng sự việc thật sự đã xảy ra với mình thay vì nhận ra tất cả chỉ là một giấc mơ sống động. Một số nhà khoa học rất có tiếng vẫn nghiên cứu nó để chữa những bệnh tâm thần cụ thể như PTSD bằng cách cố kiềm chế và kiểm soát loại thuốc này, nhưng thành công còn chắp vá vì mỗi người phản ứng với nó quá khác biệt nên khó tìm ra quy luật. Nếu bạn thấy ai đó hoàn toàn mất hồn, kể cả sau khi bạn đấm vào mặt họ, chắc chắn họ đang dùng Magina, nhiều khả năng mua ở chợ đen từ phe Black Magina."
@@ -199,9 +271,17 @@
   "en": "A bushy plant that grows in the wild, and is farmed intensively in Freeish.",
   "t": "Một loài cây bụi mọc hoang, và được trồng thâm canh ở Freeish."
  },
+ "35fcc0fd69e9": {
+  "en": "<strong>Tastes like:</strong> Mango, but smaller and sweeter with a hint of pomegranate. Very soft.",
+  "t": "<strong>Vị giống:</strong> Xoài, nhưng nhỏ hơn và ngọt hơn, thoang thoảng vị lựu. Rất mềm."
+ },
  "3621c4cedceb": {
   "en": "Tenderthrough is the name humans gave this peculiar-shaped fruit tree after penetrating their way into the islands southeast of Sanbi and purging the ancient species that lived there. It tastes very close to papaya, with the seeds still being used to cleanse and heal one's guts far more cheaply than using Body Restore or other interfaces. There are plantations in the Freeish kingdom, but it just doesn't taste as good as the ones from the islands, so get your ass in the next boat to the islands if you want to experience its most authentic flavor!",
   "t": "Tenderthrough là cái tên con người đặt cho cây ăn quả có hình dạng kỳ lạ này sau khi tiến vào các hòn đảo phía đông nam Sanbi và thanh trừng chủng loài cổ đại sống ở đó. Vị của nó rất gần với đu đủ, và hạt vẫn được dùng để làm sạch và chữa lành đường ruột rẻ hơn nhiều so với dùng Body Restore hay các giao diện khác. Có những đồn điền ở vương quốc Freeish, nhưng vị không ngon bằng loại từ các hòn đảo, nên hãy lết cái mông lên chuyến thuyền tiếp theo ra đảo nếu muốn trải nghiệm hương vị chính gốc nhất!"
+ },
+ "36aaaf636ea0": {
+  "en": "<strong>Inspired by:</strong> Reishi (Ganoderma lucidum).",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Nấm Linh chi (Ganoderma lucidum)."
  },
  "36ec78a12c36": {
   "en": "<strong>Skills:</strong> Drop Fruit.",
@@ -214,6 +294,10 @@
  "3aef7411008b": {
   "en": "A common plant used in nari gels and teas. Depending on how much you take, it can soothe the stomach, or cause diarrhea and vomiting.",
   "t": "Một loài cây phổ biến dùng trong gel nari và trà. Tùy lượng dùng, nó có thể làm dịu dạ dày, hoặc gây tiêu chảy và nôn mửa."
+ },
+ "3b9ae67b0f21": {
+  "en": "Tyr Caps",
+  "t": "Mũ nấm Tyr"
  },
  "3ba1a2421422": {
   "en": "Domar Carbey: a few stalks of bright purple grain.",
@@ -235,6 +319,10 @@
   "en": "Plants",
   "t": "Cây cỏ"
  },
+ "3e3a7fe81632": {
+  "en": "<strong>Inspired by:</strong> Chaga (Inonotus obliquus).",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Nấm Chaga (Inonotus obliquus)."
+ },
  "3e469df72aac": {
   "en": "<strong>Skills:</strong> Adrenaline Inducer.",
   "t": "<strong>Kỹ năng:</strong> Adrenaline Inducer."
@@ -251,9 +339,21 @@
   "en": "A common plant, used for cooking.",
   "t": "Một loài cây phổ biến, dùng để nấu ăn."
  },
+ "400b83c14fb6": {
+  "en": "<strong>Growth:</strong> ~2 seasons.",
+  "t": "<strong>Sinh trưởng:</strong> ~2 mùa."
+ },
  "424d82e07570": {
   "en": "Rakuja is a vine that often has a symbiotic mutualistic relationship with the trees it infests. Found only in colder climates, it helps the host trees by injecting an antifreeze gel it creates when it detects lower temps. This relationship works great in regions like Gandew, Fuhrair, and Old Fuhrair. The same can't be said with Tolerideme, where Wood People took over the land. The relationship between them always turns Amensalistic. Not only have scientists figured out that this antifreeze gel is an excellent toxin for killing Wood People, but they also have their own vines, which they use to remove and kill off any Rakuja that tries to grow on them. Nonetheless, people drool over the tangy, tart flavor fruits with citrusy notes and heavy aromatic smells! Be it dried or not, you can find them across all kingdoms, but depending on where you are, be ready to fork over a lot of balls to fill up your belly on Rakuja. If you don't have much money, you can get your fix with some Rakuja hard juice that will get you drunk too.",
   "t": "Rakuja là một loài dây leo thường có quan hệ cộng sinh hỗ sinh với cây mà nó bám vào. Chỉ tìm thấy ở vùng khí hậu lạnh hơn, nó giúp cây chủ bằng cách tiêm một loại gel chống đông mà nó tạo ra khi phát hiện nhiệt độ hạ thấp. Mối quan hệ này hoạt động rất tốt ở những vùng như Gandew, Fuhrair và Old Fuhrair. Không thể nói điều tương tự với Tolerideme, nơi Wood People đã chiếm đất. Quan hệ giữa chúng luôn trở thành hại một bên. Không chỉ các nhà khoa học phát hiện gel chống đông này là chất độc tuyệt vời để giết Wood People, mà chúng còn có dây leo riêng, dùng để gỡ và giết bất kỳ cây Rakuja nào cố mọc trên mình. Dù vậy, người ta vẫn chảy nước miếng với loại quả vị chua chát, thoảng hương cam quýt và mùi thơm nồng! Dù sấy khô hay không, bạn có thể tìm thấy chúng khắp mọi vương quốc, nhưng tùy nơi bạn ở, hãy sẵn sàng chi rất nhiều bi để ăn Rakuja no bụng. Nếu không có nhiều tiền, bạn có thể thỏa cơn thèm bằng chút rượu Rakuja mạnh cũng sẽ khiến bạn say."
+ },
+ "439675ec4ff9": {
+  "en": "<strong>Interface:</strong> Fungus.",
+  "t": "<strong>Giao diện:</strong> Nấm."
+ },
+ "43edec05c3e4": {
+  "en": "<strong>Inspired by:</strong> Blue Festuca.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Cỏ đuôi cáo xanh (Blue Festuca)."
  },
  "453bec6b2bd8": {
   "en": "Tenderthrough: a tall thin tree with a palm-like crown and green fruit that opens to yellow flesh with black seeds, beside Harry.",
@@ -262,6 +362,10 @@
  "4563f88a6a5f": {
   "en": "<strong>Skills:</strong> Biolight.",
   "t": "<strong>Kỹ năng:</strong> Biolight."
+ },
+ "45e9d6405fb2": {
+  "en": "<strong>Skills:</strong> Melt and Bleed (both when damaged).",
+  "t": "<strong>Kỹ năng:</strong> Melt và Bleed (cả hai khi bị tổn thương)."
  },
  "466485e34c0b": {
   "en": "<strong>Inspired by:</strong> Maracuja (passion fruit), but the fruit is ~2× bigger.",
@@ -367,6 +471,10 @@
   "en": "<strong>Gyut Berries</strong>: The bushes are big: picking 1 kg of berries takes ~30 minutes to 1 hour. A staple good, used to set the value of the Balls currency. Each berry is about the size of a fingertip.",
   "t": "<strong>Quả mọng Gyut</strong>: Các bụi cây rất lớn: hái 1 kg quả mất ~30 phút đến 1 giờ. Một mặt hàng chủ lực, dùng để định giá tiền tệ Bi. Mỗi quả to cỡ đầu ngón tay."
  },
+ "547e97c7dee3": {
+  "en": "<strong>Inspired by:</strong> Wheat.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Lúa mì."
+ },
  "5547baceb60e": {
   "en": "Emerenthy",
   "t": "Emerenthy"
@@ -374,6 +482,10 @@
  "561ab600fe02": {
   "en": "<strong>Inspired by:</strong> Acerola.",
   "t": "<strong>Lấy cảm hứng từ:</strong> Sơ ri."
+ },
+ "56ab4e38055e": {
+  "en": "<strong>Domar Ale</strong>: Like beer, but slightly stronger.",
+  "t": "<strong>Ale Domar</strong>: Như bia, nhưng mạnh hơn một chút."
  },
  "56ef4d8852af": {
   "en": "Emerenthy or methyl for some, is a common plant in the forests of Freeish.",
@@ -386,6 +498,10 @@
  "578c42cf3b94": {
   "en": "<strong>Inspired by:</strong> Mangosteen.",
   "t": "<strong>Lấy cảm hứng từ:</strong> Măng cụt."
+ },
+ "5790265cf726": {
+  "en": "<strong>Siguash Berries</strong>: Each bush has less fruit than a Gyut bush, so harvesting 1 kg of berries takes ~60 minutes. A staple good, used to set the value of the Balls currency. Each berry is about the size of a fingertip.",
+  "t": "<strong>Quả mọng Siguash</strong>: Mỗi bụi có ít quả hơn bụi Gyut, nên thu hoạch 1 kg quả mất ~60 phút. Một mặt hàng chủ lực, dùng để định giá tiền tệ Bi. Mỗi quả to cỡ đầu ngón tay."
  },
  "58841083b43d": {
   "en": "Girdol: a tall spike of purple flowers with white bell-like blooms rising from spiky leaves.",
@@ -402,6 +518,18 @@
  "597e20352b60": {
   "en": "<strong>Growth:</strong> One month in the wild, then another three months to mature.",
   "t": "<strong>Sinh trưởng:</strong> Một tháng ngoài tự nhiên, rồi thêm ba tháng nữa để chín."
+ },
+ "59cd99598608": {
+  "en": "Panita Caps",
+  "t": "Mũ nấm Panita"
+ },
+ "5b66dc457aaa": {
+  "en": "<strong>Inspired by:</strong> Siriguela.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Siriguela."
+ },
+ "5b7532baa0a1": {
+  "en": "<strong>Growth:</strong> ~150 kg of Carbey per acre (an acre here is 20 m × 200 m), which makes ~125 kg of Carbey flour.",
+  "t": "<strong>Sinh trưởng:</strong> ~150 kg Carbey mỗi mẫu (một mẫu ở đây là 20 m × 200 m), làm ra ~125 kg bột Carbey."
  },
  "5ca2f6c334b8": {
   "en": "<strong>Habitat:</strong> ~1–2 km above sea level, on the Buhraies Plains.",
@@ -427,6 +555,10 @@
   "en": "Tibou",
   "t": "Tibou"
  },
+ "5f64ccd144ab": {
+  "en": "<strong>Habitat:</strong> Across the kingdoms in non-desert areas below 1 km above sea level, especially in forests.",
+  "t": "<strong>Môi trường sống:</strong> Khắp các vương quốc ở những vùng không phải sa mạc dưới 1 km trên mực nước biển, nhất là trong rừng."
+ },
  "5f847bb373ec": {
   "en": "Yabuca fruit, nowadays, refers to a specific coveted variety named Jonabuca, created by a family of scientists by grafting the best properties of the thousands of wild types as the Yabuca tree seems way too willing to mutate. Some believe a sneeze around a seedling is enough to change the flavor profile of the future fruits to snot, which later a scientist confirmed was indeed the case after investing way too much time in such a specific endeavor.",
   "t": "Quả Yabuca ngày nay chỉ một giống cụ thể được thèm muốn tên là Jonabuca, do một gia đình nhà khoa học tạo ra bằng cách ghép những đặc tính tốt nhất từ hàng nghìn giống hoang dã, vì cây Yabuca dường như quá sẵn lòng đột biến. Một số người tin rằng chỉ một cái hắt hơi gần cây con cũng đủ đổi hương vị của những quả sau này thành vị nước mũi, điều sau đó một nhà khoa học xác nhận là đúng sau khi dành quá nhiều thời gian cho một nỗ lực cụ thể đến vậy."
@@ -438,6 +570,14 @@
  "65a33270e2d3": {
   "en": "<strong>Interface:</strong> Petals.",
   "t": "<strong>Giao diện:</strong> Cánh hoa."
+ },
+ "66ba80d721bd": {
+  "en": "<strong>Inspired by:</strong> Cassava.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Sắn."
+ },
+ "677ab7119fec": {
+  "en": "<strong>Carbey</strong>: Used to feed Eguas, or to make other things.",
+  "t": "<strong>Carbey</strong>: Dùng làm thức ăn cho Egua, hoặc để làm những thứ khác."
  },
  "681bda0bb608": {
   "en": "Non-Fruit Trees",
@@ -463,6 +603,10 @@
   "en": "Girdol is a plant often used for nari gels for its gut-changing properties or as a tea for its lemony soothing taste. You can find it easily in the wild, but since Toleridemians live higher up, they tend to care for it in their home or community greenhouse instead, given how much they consume to ease their stomach after a large meal.",
   "t": "Girdol là loài cây thường được dùng làm gel nari vì đặc tính thay đổi đường ruột hoặc pha trà vì vị chanh dịu nhẹ. Bạn có thể dễ dàng tìm thấy nó ngoài tự nhiên, nhưng vì người Tolerideme sống ở vùng cao hơn, họ thường trồng nó trong nhà hoặc trong nhà kính cộng đồng, xét lượng họ dùng để làm dịu dạ dày sau một bữa ăn lớn."
  },
+ "6d53419c570e": {
+  "en": "Lakata Caps",
+  "t": "Mũ nấm Lakata"
+ },
  "6e6f048ea91d": {
   "en": "<strong>Ground TastyLeaf</strong>: Often used in spices. The leaves are dried and ground, so they last much longer.",
   "t": "<strong>Bột TastyLeaf</strong>: Thường dùng trong gia vị. Lá được sấy khô và nghiền, nên giữ được lâu hơn nhiều."
@@ -474,6 +618,10 @@
  "6ff171b72010": {
   "en": "<strong>Growth:</strong> ~15 years to mature, then ~50 fruits per tree a year.",
   "t": "<strong>Sinh trưởng:</strong> ~15 năm để trưởng thành, rồi ~50 quả mỗi cây mỗi năm."
+ },
+ "70541b235796": {
+  "en": "<strong>Cadioca Roots</strong>: One of the staple foods of the kingdoms.",
+  "t": "<strong>Củ Cadioca</strong>: Một trong những lương thực chủ lực của các vương quốc."
  },
  "70c663f214f0": {
   "en": "<strong>Gosutam Fruit</strong>: People often plant this tree in their backyards; the fruit is rather expensive for how little of it you can eat.",
@@ -491,6 +639,10 @@
   "en": "Basi: a tall thin palm-like tree with a green crown and hanging dark seed clusters, beside Harry.",
   "t": "Basi: một cây cao gầy giống cọ với tán xanh và những chùm hạt sẫm màu treo lủng lẳng, bên cạnh Harry."
  },
+ "729631cd8d80": {
+  "en": "A mushroom often used in the Bleed Out nari gel.",
+  "t": "Một loại nấm thường dùng trong gel nari Bleed Out."
+ },
  "72ad272751b1": {
   "en": "Buzeta: a broad green tree with yellow fruit, shown whole and cut open, beside Harry.",
   "t": "Buzeta: một cây xanh tán rộng với quả vàng, vẽ nguyên quả và bổ đôi, bên cạnh Harry."
@@ -498,6 +650,10 @@
  "73dd89c3bd18": {
   "en": "Deep green inside, with rather metallic, shiny bark. It's an example of flora that somehow escaped Vraki and ended up in our world: the Buhraies were messing around with sending things into the soul realm, and that's how this tree made its way here. Trunk People love this tree!",
   "t": "Bên trong màu xanh lục đậm, với lớp vỏ cây sáng bóng khá giống kim loại. Đây là một ví dụ về thực vật bằng cách nào đó đã thoát khỏi Vraki và đến thế giới của chúng ta: người Buhraies đang nghịch ngợm việc gửi đồ vật vào cõi linh hồn, và đó là cách cái cây này đến được đây. Trunk People mê cái cây này!"
+ },
+ "74f803414b7b": {
+  "en": "<strong>Growth:</strong> Several months.",
+  "t": "<strong>Sinh trưởng:</strong> Vài tháng."
  },
  "75f0818483fb": {
   "en": "<strong>Tastes like:</strong> Lemony.",
@@ -514,6 +670,10 @@
  "79541a500062": {
   "en": "Found on beaches all over the four kingdoms, since humans found it near Lukewarm Lake and started taking it everywhere. Farmed intensively in Deltacross, being close to Forway. Coconas are twice the size of coconuts.",
   "t": "Có trên các bãi biển khắp bốn vương quốc, vì loài người tìm thấy nó gần Lukewarm Lake và bắt đầu mang nó đi khắp nơi. Được trồng thâm canh ở Deltacross, vì gần Forway. Quả Cocona to gấp đôi quả dừa."
+ },
+ "79b40aee52bd": {
+  "en": "Used in the Smooth Gut nari gel, and for its digestive properties, especially for the liver. Also great as a hangover remedy.",
+  "t": "Dùng trong gel nari Smooth Gut, và vì đặc tính hỗ trợ tiêu hóa, nhất là cho gan. Cũng rất tốt để giải rượu."
  },
  "79cfd03ae2d3": {
   "en": "<strong>Ground Soul Wood</strong>: Often used in spices for a nutmeg and vanilla-like taste. Baking the seeds takes away the vanilla and makes the nutmeg far stronger; in large amounts, it can be antiseptic. Basically the world’s coffee.",
@@ -534,6 +694,10 @@
  "7acb0944473f": {
   "en": "<strong>Tastes like:</strong> Strawberry or raspberry.",
   "t": "<strong>Vị giống:</strong> Dâu tây hoặc mâm xôi."
+ },
+ "7c0cde09b7a0": {
+  "en": "<strong>Man Beer</strong>: An incredibly strong beer.",
+  "t": "<strong>Bia đàn ông</strong>: Một loại bia cực kỳ mạnh."
  },
  "7ce9293eae37": {
   "en": "Girdol",
@@ -559,6 +723,10 @@
   "en": "A huge tree in the large forests around the Freeish Kingdom and Blood City. Its fruit tastes like melon pan, grows only a few at a time, is hard to reach, and is the size of a human. Its leaves have a tangy, chlorophyll note. A staple product of the Freeish Kingdom's Greenbread fields.",
   "t": "Một cây khổng lồ trong những khu rừng lớn quanh Vương quốc Freeish và thành phố Blood. Quả của nó có vị như bánh melon pan, mỗi lần chỉ mọc vài quả, khó với tới, và to cỡ một người. Lá của nó có vị chua nhẹ, mùi diệp lục. Một sản phẩm chủ lực của các cánh đồng Greenbread của Vương quốc Freeish."
  },
+ "7f6890437a51": {
+  "en": "A root found in the desert of Gandew.",
+  "t": "Một loại củ tìm thấy ở sa mạc của Gandew."
+ },
  "7f86575329d8": {
   "en": "Flora's average Soul Energy tier is <strong>Tier I</strong>, recharging <strong>1</strong> soul a day or less.",
   "t": "Bậc Năng lượng linh hồn trung bình của thực vật là <strong>Bậc I</strong>, hồi phục <strong>1</strong> linh hồn mỗi ngày hoặc ít hơn."
@@ -574,6 +742,10 @@
  "826c3f9fa810": {
   "en": "<strong>Habitat:</strong> Mostly in the south, near Freeish, where it is farmed heavily. The other kingdoms don’t really partake in it.",
   "t": "<strong>Môi trường sống:</strong> Chủ yếu ở phía nam, gần Freeish, nơi nó được trồng nhiều. Các vương quốc khác không thực sự dùng nó."
+ },
+ "83660375e72d": {
+  "en": "<strong>Gyut Bread</strong>: Bread mixed with Gyut berries. A staple dessert for the poor throughout the four kingdoms, first invented in Freeish.",
+  "t": "<strong>Bánh mì Gyut</strong>: Bánh mì trộn quả Gyut. Một món tráng miệng chủ lực của người nghèo khắp bốn vương quốc, lần đầu được phát minh ở Freeish."
  },
  "83cab85106b2": {
   "en": "Wood Yabuca",
@@ -594,6 +766,10 @@
  "8659ba55ba3b": {
   "en": "Greenbread: a large tree with stilt-like roots and big round green fruit about 170 cm across.",
   "t": "Greenbread: một cây lớn với rễ như cà kheo và những quả tròn màu xanh to, đường kính khoảng 170 cm."
+ },
+ "88aa5a6734b6": {
+  "en": "Lehuj Grass",
+  "t": "Cỏ Lehuj"
  },
  "88bdeacd0acf": {
   "en": "<strong>Inspired by:</strong> Eucalyptus deglupta.",
@@ -627,6 +803,10 @@
   "en": "Siguash",
   "t": "Siguash"
  },
+ "8f593f4a94bc": {
+  "en": "<strong>Domar Carbey</strong>: Tolerideme has the upper hand in planting it for trading.",
+  "t": "<strong>Domar Carbey</strong>: Tolerideme có ưu thế trồng nó để buôn bán."
+ },
  "902aa2e3486c": {
   "en": "<strong>Habitat:</strong> ~0–1 km above sea level, in the desert’s transitional zone.",
   "t": "<strong>Môi trường sống:</strong> ~0–1 km trên mực nước biển, ở vùng chuyển tiếp của sa mạc."
@@ -634,6 +814,14 @@
  "904d427af08d": {
   "en": "Gyut: a small bush covered in red fruit, beside Harry.",
   "t": "Gyut: một bụi cây nhỏ phủ đầy quả đỏ, bên cạnh Harry."
+ },
+ "9193cdc8a9ca": {
+  "en": "<strong>Siguash Juice</strong>: Refreshing.",
+  "t": "<strong>Nước ép Siguash</strong>: Sảng khoái."
+ },
+ "92cab0b9a4e9": {
+  "en": "<strong>Habitat:</strong> ~0 km above sea level, in the muddy, deep forests of the south.",
+  "t": "<strong>Môi trường sống:</strong> ~0 km trên mực nước biển, trong những khu rừng sâu lầy lội ở phía nam."
  },
  "92f34fd1c31a": {
   "en": "<strong>Inspired by:</strong> Mango Buceta.",
@@ -651,9 +839,17 @@
   "en": "<strong>Rakuja Hard Juice</strong>: Fermented juice: fizzy, less sweet, but less tart as well.",
   "t": "<strong>Nước ép lên men Rakuja</strong>: Nước ép lên men: có ga, bớt ngọt, nhưng cũng bớt chua."
  },
+ "94d59cd424bd": {
+  "en": "<strong>Tastes like:</strong> Roasted Grapes.",
+  "t": "<strong>Vị giống:</strong> Nho nướng."
+ },
  "95207ccb8b2f": {
   "en": "One of the most sought-after plants, for making soap and shampoo out of its shells. Not really used in teas, though some like it. The cotton-like fiber inside the case is used for fabric.",
   "t": "Một trong những loài cây được săn lùng nhất, để làm xà phòng và dầu gội từ vỏ của nó. Không thực sự được dùng trong trà, dù một số người thích. Sợi giống bông bên trong vỏ được dùng làm vải."
+ },
+ "95857e9df55f": {
+  "en": "<strong>Gyut Juice</strong>: Refreshing.",
+  "t": "<strong>Nước ép Gyut</strong>: Sảng khoái."
  },
  "95e9fae64713": {
   "en": "<strong>Visual reference:</strong> Exterior only; the inside is the same as a normal banana.",
@@ -674,6 +870,10 @@
  "97235f9778f5": {
   "en": "Buzeta Fruit",
   "t": "Quả Buzeta"
+ },
+ "9889b8b563d8": {
+  "en": "<strong>Habitat:</strong> Buried in the desert, closer to the transitional zones.",
+  "t": "<strong>Môi trường sống:</strong> Vùi trong sa mạc, gần các vùng chuyển tiếp hơn."
  },
  "98a95112463e": {
   "en": "See Beasts -&gt; Hifuna People",
@@ -727,6 +927,10 @@
   "en": "<strong>Inspired by:</strong> Birgit Bonnier Apples.",
   "t": "<strong>Lấy cảm hứng từ:</strong> Táo Birgit Bonnier."
  },
+ "9fdb0b131cb6": {
+  "en": "<strong>Habitat:</strong> Throughout the entire lower region, except the desert.",
+  "t": "<strong>Môi trường sống:</strong> Khắp toàn bộ vùng thấp, trừ sa mạc."
+ },
  "a0b3c4a0e3a2": {
   "en": "<strong>Growth:</strong> About 10 months to a harvest.",
   "t": "<strong>Sinh trưởng:</strong> Khoảng 10 tháng đến một vụ thu hoạch."
@@ -734,6 +938,10 @@
  "a0bb4f59cf66": {
   "en": "<strong>Lonllow Hard Juice</strong>: Fermented juice.",
   "t": "<strong>Nước ép lên men Lonllow</strong>: Nước ép lên men."
+ },
+ "a1ec7dc8d1c3": {
+  "en": "<strong>Skills:</strong> Hallucinate.",
+  "t": "<strong>Kỹ năng:</strong> Hallucinate."
  },
  "a23ee4b56931": {
   "en": "<strong>Tier I (Cheap Goods):</strong> berries, fruit, fungus and grass.",
@@ -755,9 +963,21 @@
   "en": "<strong>Inspired by:</strong> Papaya.",
   "t": "<strong>Lấy cảm hứng từ:</strong> Đu đủ."
  },
+ "a455f4245603": {
+  "en": "<strong>Habitat:</strong> The Buhraies Plains, in the Tolerideme Kingdom.",
+  "t": "<strong>Môi trường sống:</strong> Buhraies Plains, ở Vương quốc Tolerideme."
+ },
  "a4757cb7e64a": {
   "en": "<strong>Inspired by:</strong> Phalaenopsis orchid.",
   "t": "<strong>Lấy cảm hứng từ:</strong> Lan hồ điệp."
+ },
+ "a5032b243951": {
+  "en": "<strong>Beer</strong>: A highly nutritious, low-alcohol drink enjoyed by everyone.",
+  "t": "<strong>Bia</strong>: Một thức uống rất bổ dưỡng, ít cồn, ai cũng thích."
+ },
+ "a51cc16d8108": {
+  "en": "<strong>Tastes like:</strong> Slightly sweet and acidic.",
+  "t": "<strong>Vị giống:</strong> Hơi ngọt và chua."
  },
  "a5cac2861755": {
   "en": "Nica",
@@ -766,6 +986,10 @@
  "a819f91b0bec": {
   "en": "<strong>Purplebread Hard Juice</strong>: Fermented juice.",
   "t": "<strong>Nước ép lên men Purplebread</strong>: Nước ép lên men."
+ },
+ "a82743355031": {
+  "en": "<strong>Growth:</strong> One bush gives ~0.5 kg of berries a day for ~10 days during the harvest season.",
+  "t": "<strong>Sinh trưởng:</strong> Một bụi cho ~0,5 kg quả mọng mỗi ngày trong ~10 ngày của mùa thu hoạch."
  },
  "a9752f76f383": {
   "en": "Lehuj",
@@ -807,9 +1031,17 @@
   "en": "Black Sapphire Tree",
   "t": "Black Sapphire Tree"
  },
+ "af9b630858be": {
+  "en": "<strong>Tastes like:</strong> Cassava.",
+  "t": "<strong>Vị giống:</strong> Sắn."
+ },
  "afd111d393ff": {
   "en": "Purplebread: a feathery green tree with a brown husked fruit that opens to purple flesh, about 12 cm, beside Harry.",
   "t": "Purplebread: một cây lá lông chim xanh với quả vỏ nâu mở ra phần thịt tím, khoảng 12 cm, bên cạnh Harry."
+ },
+ "b07934dcd8ce": {
+  "en": "<strong>Skills:</strong> Pacifier.",
+  "t": "<strong>Kỹ năng:</strong> Pacifier."
  },
  "b0c3a9db443b": {
   "en": "Cadioca: a leafy green plant with a thick reddish root, about knee height.",
@@ -827,9 +1059,17 @@
   "en": "<strong>Black Wood</strong>: Dark and dense. Often used with nari stones, sigils and containers that hold Soul Energy, to keep the Soul Energy from leaking.",
   "t": "<strong>Gỗ đen</strong>: Sẫm màu và đặc. Thường dùng cùng đá nari, ấn ký và vật chứa giữ Năng lượng linh hồn, để Năng lượng linh hồn không bị rò rỉ."
  },
+ "b279020505fb": {
+  "en": "<strong>Inspired by:</strong> Ginger.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Gừng."
+ },
  "b2b23b52802a": {
   "en": "<strong>Tastes like:</strong> Slightly sweet and fleshy, a little like raspberries and apples.",
   "t": "<strong>Vị giống:</strong> Hơi ngọt và nhiều thịt, hơi giống mâm xôi và táo."
+ },
+ "b345516c97d3": {
+  "en": "<strong>Gyut Hard Juice</strong>: Fermented juice.",
+  "t": "<strong>Nước ép lên men Gyut</strong>: Nước ép lên men."
  },
  "b3996f605338": {
   "en": "Tyr affects the nervous system like Lakata, but it focuses its effects on messing with the sympathetic nervous system and reality perception instead. The worst effect people report is hearing or seeing disturbing things while feeling locked inside your body because you're trying to fight or run away from it, but your fight-or-flight doesn't work. It's not too far off from sleep paralysis. There are other properties from Tyr as well, like triggering narcoleptic sleep, but isolating it has been challenging. A research paper reported being able to hear others' thoughts as well, but the scientists who tried it could not replicate it and chalked it up to a bad trip instead.",
@@ -842,6 +1082,14 @@
  "b3e3b2749e3e": {
   "en": "<strong>Buzeta Juice</strong>: Pretty good; better in vitamin shakes.",
   "t": "<strong>Nước ép Buzeta</strong>: Khá ngon; ngon hơn trong sinh tố vitamin."
+ },
+ "b3fd57c49b32": {
+  "en": "<strong>Inspired by:</strong> Exsudoporus frostii.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Exsudoporus frostii."
+ },
+ "b4623889a43a": {
+  "en": "<strong>Growth:</strong> One month.",
+  "t": "<strong>Sinh trưởng:</strong> Một tháng."
  },
  "b4e93eccc1f4": {
   "en": "Mushrooms",
@@ -867,6 +1115,10 @@
   "en": "Lonllow",
   "t": "Lonllow"
  },
+ "bf95afef3b85": {
+  "en": "<strong>Cadioca Flour</strong>: Just like Domar Carbey flour.",
+  "t": "<strong>Bột Cadioca</strong>: Y như bột Domar Carbey."
+ },
  "bfedb8f28e8b": {
   "en": "<strong>Growth:</strong> Several months in the wild.",
   "t": "<strong>Sinh trưởng:</strong> Vài tháng ngoài tự nhiên."
@@ -887,6 +1139,10 @@
   "en": "Carbey was annoying grass everyone hated it, at least until they discovered how tasty it is to mix it with water and yeast and then shove it in a wood stove. Farmed intensively in Freeish, like most other things, but some holdouts in Tolerideme insist their Carbey yields taste far better, specifically when used for spirits, despite it being much harder to cultivate over there. Carbey is another staple food Forway uses to establish the base value of a single pearl ball.",
   "t": "Carbey từng là thứ cỏ phiền phức ai cũng ghét, ít nhất cho đến khi họ phát hiện nó ngon thế nào khi trộn với nước và men rồi tống vào lò củi. Được trồng thâm canh ở Freeish, như hầu hết mọi thứ khác, nhưng một số người cứng đầu ở Tolerideme khăng khăng Carbey của họ ngon hơn nhiều, đặc biệt khi dùng nấu rượu, dù ở đó khó trồng hơn nhiều. Carbey là một lương thực chủ lực khác mà Forway dùng để định giá cơ bản của một bi pearl."
  },
+ "c3e9d579f4af": {
+  "en": "<strong>Growth:</strong> ~300 kg per acre (an acre here is 20 m × 200 m), which makes ~250 kg of flour.",
+  "t": "<strong>Sinh trưởng:</strong> ~300 kg mỗi mẫu (một mẫu ở đây là 20 m × 200 m), làm ra ~250 kg bột."
+ },
  "c441f84d3e76": {
   "en": "<strong>Skills:</strong> Grow Spikes; Sweat Induction.",
   "t": "<strong>Kỹ năng:</strong> Grow Spikes; Sweat Induction."
@@ -898,6 +1154,18 @@
  "c4eaa319eefd": {
   "en": "<strong>Basi Pulp</strong>: The pulp, separated from the fruit: a thick paste, eaten with both salty and sweet things.",
   "t": "<strong>Cùi Basi</strong>: Phần cùi, tách khỏi quả: một hỗn hợp sệt, ăn kèm cả đồ mặn lẫn đồ ngọt."
+ },
+ "c513902bfa45": {
+  "en": "A fungus similar to Lakata, but far too poisonous (it causes auditory and visual hallucinations).",
+  "t": "Một loại nấm tương tự Lakata, nhưng quá độc (nó gây ảo giác thính giác và thị giác)."
+ },
+ "c6a7270cfd89": {
+  "en": "Poisonous raw: it has to soak in the river for 2 days, then dry in the sun.",
+  "t": "Độc khi còn sống: phải ngâm dưới sông 2 ngày, rồi phơi nắng."
+ },
+ "c7db54175361": {
+  "en": "<strong>Siguash Hard Juice</strong>: Fermented juice.",
+  "t": "<strong>Nước ép lên men Siguash</strong>: Nước ép lên men."
  },
  "c8c1b01732df": {
   "en": "Greenbread",
@@ -935,6 +1203,10 @@
   "en": "<strong>Growth:</strong> Its leaves drop every fall, and the tree grows slightly each year.",
   "t": "<strong>Sinh trưởng:</strong> Lá của nó rụng mỗi mùa thu, và cây lớn thêm một chút mỗi năm."
  },
+ "d6739909ba41": {
+  "en": "<strong>Interface:</strong> Mushroom.",
+  "t": "<strong>Giao diện:</strong> Nấm."
+ },
  "d77d70ae5957": {
   "en": "<strong>Dried Greenbread</strong>: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack.",
   "t": "<strong>Greenbread sấy khô</strong>: Làm để dự trữ lương thực, bán cho các vương quốc khác, làm bánh, hoặc làm đồ ăn vặt khi đi đường."
@@ -951,6 +1223,10 @@
   "en": "Tenderthrough Fruit",
   "t": "Quả Tenderthrough"
  },
+ "d9198890ff1c": {
+  "en": "<strong>Cadioca Coarse Flour</strong>: Eaten with all kinds of things. (Real-world comparison: farinha, the toasted cassava flour of Brazilian cooking.)",
+  "t": "<strong>Bột Cadioca thô</strong>: Ăn kèm với đủ thứ. (So sánh với thế giới thực: farinha, bột sắn rang của ẩm thực Brazil.)"
+ },
  "da107475bbb4": {
   "en": "Flora by tier:",
   "t": "Thực vật theo bậc:"
@@ -958,6 +1234,10 @@
  "dbacaa414755": {
   "en": "Lakata: a small dark trumpet-shaped mushroom.",
   "t": "Lakata: một cây nấm nhỏ sẫm màu hình kèn."
+ },
+ "dbefd26139b2": {
+  "en": "<strong>Growth:</strong> Wild.",
+  "t": "<strong>Sinh trưởng:</strong> Hoang dã."
  },
  "dc7499d1800a": {
   "en": "A large Yabuca variant, created when the Buhraies mutated Wood People from Yabuca trees. Up to about 26 cm.",
@@ -974,6 +1254,10 @@
  "dda1790312f4": {
   "en": "<strong>Growth:</strong> Three months in the wild.",
   "t": "<strong>Sinh trưởng:</strong> Ba tháng ngoài tự nhiên."
+ },
+ "de44dc8868ab": {
+  "en": "<strong>Dried Siguash</strong>: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack. (Visual reference: like cherry tomatoes, but yellowish.)",
+  "t": "<strong>Siguash sấy khô</strong>: Làm để dự trữ lương thực, bán cho các vương quốc khác, làm bánh, hoặc làm đồ ăn vặt khi đi đường. (Tham khảo hình ảnh: như cà chua bi, nhưng màu vàng nhạt.)"
  },
  "defc4045a107": {
   "en": "<strong>Tastes like:</strong> Mango.",
@@ -998,6 +1282,10 @@
  "e2c57c610cf4": {
   "en": "Flora · #HusbandOutWorld",
   "t": "Thực vật · #HusbandOutWorld"
+ },
+ "e331c5464180": {
+  "en": "<strong>Domar Gyut Bread</strong>: Bread mixed with Gyut berries.",
+  "t": "<strong>Bánh mì Domar Gyut</strong>: Bánh mì trộn quả Gyut."
  },
  "e3ea690b9b78": {
   "en": "<strong>Tastes like:</strong> Banana.",
@@ -1043,6 +1331,10 @@
   "en": "<strong>Purplebread Juice</strong>: Refreshing.",
   "t": "<strong>Nước ép Purplebread</strong>: Mát lạnh sảng khoái."
  },
+ "ebe0ba6a0914": {
+  "en": "<strong>Tastes like:</strong> Ginger.",
+  "t": "<strong>Vị giống:</strong> Gừng."
+ },
  "ec0d8c23f282": {
   "en": "Tyr: a small mushroom with a mottled pink-and-purple cap and a green-gilled stem.",
   "t": "Tyr: một cây nấm nhỏ với mũ lốm đốm hồng tím và thân phiến xanh lá."
@@ -1063,6 +1355,10 @@
   "en": "See Beasts -&gt; Wood People",
   "t": "Xem Quái thú -&gt; Wood People"
  },
+ "ef79b8933ed9": {
+  "en": "<strong>Domar Carbey Flour</strong>: See Domar Carbey.",
+  "t": "<strong>Bột Domar Carbey</strong>: Xem Domar Carbey."
+ },
  "f066042ff172": {
   "en": "<strong>Basi Berries</strong>: Stripping a bush of all its berries takes 4 hours and yields 1 to 2 kg; a shaker can cut that time in half. Each berry is about the size of a fingertip and has to be separated from the hair-like structure.",
   "t": "<strong>Quả mọng Basi</strong>: Tuốt sạch quả của một bụi mất 4 giờ và được 1 đến 2 kg; một máy lắc có thể rút ngắn thời gian đó một nửa. Mỗi quả to cỡ đầu ngón tay và phải được tách khỏi cấu trúc giống sợi lông."
@@ -1074,6 +1370,10 @@
  "f344ab6cddf6": {
   "en": "Domar Carbey is a version of Carbey created by one of the three smart sisters by crossbreeding with Wood People. It only grows in the Tolerideme region, as it is de facto the base of the Tolerideme economy. From spirits, food export, clothing, etc! Everything comes from Domar Carbey. The wheat itself tastes slightly cheesy, like parmesan, with a rich grain smell that gives an extra oompf to whatever you bake! Although it only goes well with desserts if you're talking about specific ones like Gyut bread or other deserts where it's on the citrusy spectrum. Something like creme brule, pudding, or anything with more yolk taste doesn't seem to work.",
   "t": "Domar Carbey là một phiên bản Carbey do một trong ba chị em thông minh tạo ra bằng cách lai với Wood People. Nó chỉ mọc ở vùng Tolerideme, vì trên thực tế nó là nền tảng của nền kinh tế Tolerideme. Từ rượu, thực phẩm xuất khẩu, quần áo, v.v.! Mọi thứ đều đến từ Domar Carbey. Bản thân lúa mì có vị hơi giống phô mai, như parmesan, với mùi ngũ cốc đậm đà mang lại thêm điểm nhấn cho bất cứ thứ gì bạn nướng! Dù vậy nó chỉ hợp với đồ ngọt nếu là những món cụ thể như bánh mì Gyut hoặc các món tráng miệng thiên về vị cam chanh. Những thứ như crème brûlée, bánh pudding, hay bất cứ thứ gì nhiều vị lòng đỏ trứng có vẻ không hợp."
+ },
+ "f384b379f2b6": {
+  "en": "A version of Carbey that one of the three smart sisters created by crossbreeding it with Wood People. Used to make beer, bread and everything in between, and more nutritious and tastier than Carbey.",
+  "t": "Một phiên bản Carbey mà một trong ba chị em thông thái tạo ra bằng cách lai nó với Wood People. Dùng để làm bia, bánh mì và mọi thứ ở giữa, bổ dưỡng và ngon hơn Carbey."
  },
  "f3a03e9ecd73": {
   "en": "Soul Tree",
@@ -1087,9 +1387,17 @@
   "en": "Rakuja: a leafy tree with round brown fruit about 8 cm across, shown whole and cut open, beside Harry.",
   "t": "Rakuja: một cây rậm lá với quả tròn màu nâu đường kính khoảng 8 cm, vẽ nguyên quả và bổ đôi, bên cạnh Harry."
  },
+ "f5b2d0c1fcfd": {
+  "en": "<strong>Domar Man Beer</strong>: An incredibly strong beer.",
+  "t": "<strong>Bia đàn ông Domar</strong>: Một loại bia cực kỳ mạnh."
+ },
  "f745ff7e7155": {
   "en": "Public text: flora.md",
   "t": "Văn bản công khai: flora.md"
+ },
+ "f7c912bfef80": {
+  "en": "<strong>Habitat:</strong> A root found in the lowlands; heavily farmed in Freeish.",
+  "t": "<strong>Môi trường sống:</strong> Một loại củ tìm thấy ở vùng đất thấp; được trồng nhiều ở Freeish."
  },
  "f825c7410a05": {
   "en": "Tastyleaf is an absolute mega chungus of a tree, measuring about 104 meters tall, with girth alone in the upper 40 meters. No other tree comes even close to its size or properties. It was discovered inside what had to be a not-so-secret garden by one of the first tribes of humans who fled the Buhraies plains. Accounts of that history were passed down orally, so narratives diverged on whether humans killed the Buhraies garden owners and took over before they could call for help or if it was simply abandoned instead. Either way, this tree granted humans a sanctuary against the hungry beast and fauna as it has similar light properties to fost stone, including lighting up when it rains and repelling beasts and fauna.",
