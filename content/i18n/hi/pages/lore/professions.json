@@ -79,6 +79,14 @@
   "en": "Tier VI Professions",
   "t": "स्तर VI के पेशे"
  },
+ "0f2afddf1f32": {
+  "en": "<strong>Duties:</strong> extract stone from quarries.",
+  "t": "<strong>काम:</strong> खदानों से पत्थर निकालना।"
+ },
+ "118ca2335b44": {
+  "en": "<strong>Duties:</strong> prepare for fishing, fish, clean the fish and carry it off the boat.",
+  "t": "<strong>काम:</strong> मछली पकड़ने की तैयारी करना, मछली पकड़ना, उसे साफ़ करना और नाव से उतारना।"
+ },
  "1247f153760d": {
   "en": "Tier II Professions",
   "t": "स्तर II के पेशे"
@@ -147,6 +155,10 @@
   "en": "Famous Courtesans",
   "t": "मशहूर गणिकाएँ"
  },
+ "2be7482d961c": {
+  "en": "<strong>Duties:</strong> plow fields, harvest, fertilize and mill grain.",
+  "t": "<strong>काम:</strong> खेत जोतना, फ़सल काटना, खाद डालना और अनाज पीसना।"
+ },
  "2c74044a7e3b": {
   "en": "<strong>Duties:</strong> handle livestock and crops, and get dirty on the job. Maybe handle a person or two, but usually just guild members.",
   "t": "<strong>काम:</strong> मवेशियों और फ़सलों को सँभालना, और काम पर गंदे होना। शायद एक-दो लोगों को भी सँभालना, पर आम तौर पर बस गिल्ड के सदस्यों को।"
@@ -187,6 +199,10 @@
   "en": "Tier V Professions",
   "t": "स्तर V के पेशे"
  },
+ "32c032c2d5a1": {
+  "en": "<strong>Duties:</strong> take care of eguas, groom and feed them, and help with egua births.",
+  "t": "<strong>काम:</strong> एगुआ की देखभाल करना, उन्हें सँवारना और खिलाना, और एगुआ के जन्म में मदद करना।"
+ },
  "32ed08835c99": {
   "en": "Lumberjack",
   "t": "लकड़हारा"
@@ -215,6 +231,10 @@
   "en": "<strong>Duties:</strong> fix and clean boats.",
   "t": "<strong>काम:</strong> नावें ठीक करना और साफ़ करना।"
  },
+ "39973efcf6c4": {
+  "en": "<strong>History:</strong> richer districts of cities and kingdoms often employ street cleaners, usually paid by the people living in the area rather than the government (depending on how the kingdom is organized).",
+  "t": "<strong>इतिहास:</strong> शहरों और राज्यों के अमीर इलाक़े अक्सर सड़क-सफ़ाईकर्मी रखते हैं, जिन्हें आम तौर पर सरकार के बजाय इलाक़े में रहने वाले लोग पैसे देते हैं (इस पर निर्भर कि राज्य कैसे संगठित है)।"
+ },
  "3aa5b22c7b20": {
   "en": "The third richest people in the world. Their power reaches a city at most.",
   "t": "दुनिया के तीसरे सबसे अमीर लोग। उनकी ताक़त ज़्यादा से ज़्यादा एक शहर तक पहुँचती है।"
@@ -234,6 +254,10 @@
  "3de66eb212b0": {
   "en": "<strong>Training:</strong> Fundamental School helps, but this is self-employed, so you do you.",
   "t": "<strong>प्रशिक्षण:</strong> बुनियादी स्कूल मदद करता है, पर यह अपना काम है, तो जैसा तुम्हें ठीक लगे।"
+ },
+ "3f5701b74569": {
+  "en": "<strong>History:</strong> people like meat, so someone needs to gut the animals and make sausages.",
+  "t": "<strong>इतिहास:</strong> लोगों को मांस पसंद है, तो किसी को जानवरों की अंतड़ियाँ निकालनी और सॉसेज बनाने होते हैं।"
  },
  "4023098315ae": {
   "en": "Road Maintainers",
@@ -287,6 +311,10 @@
   "en": "<strong>Duties:</strong> keep the balance between food orders and meat and milk sales, etc. Also takes care of the Woolies when time allows.",
   "t": "<strong>काम:</strong> चारे के ऑर्डर और मांस व दूध की बिक्री वग़ैरह के बीच संतुलन बनाए रखना। वक़्त मिले तो वूली की देखभाल भी करता है।"
  },
+ "4a3cac295494": {
+  "en": "<strong>Duties:</strong> clean latrines.",
+  "t": "<strong>काम:</strong> शौचालय साफ़ करना।"
+ },
  "4a693b717f91": {
   "en": "<strong>Duties:</strong> take care of the kingdom, working directly under the courtroom scientists.",
   "t": "<strong>काम:</strong> राज्य की देखभाल करना, सीधे दरबारी वैज्ञानिकों के अधीन काम करते हुए।"
@@ -294,6 +322,10 @@
  "4aecf373d658": {
   "en": "Artisan Cheesemaker",
   "t": "कारीगर पनीर-साज़"
+ },
+ "4cbf0ebcab36": {
+  "en": "<strong>History:</strong> carrying around water-filled fruit is expensive and stupid, so these people come into play.",
+  "t": "<strong>इतिहास:</strong> पानी से भरे फल लादकर घूमना महँगा और बेवक़ूफ़ी है, तो ये लोग काम आते हैं।"
  },
  "4cc0e4e2b542": {
   "en": "<strong>History:</strong> because some cheese tastes better than others.",
@@ -451,6 +483,10 @@
   "en": "<strong>Training:</strong> Fundamental School and Historian/Teaching School.",
   "t": "<strong>प्रशिक्षण:</strong> बुनियादी स्कूल और इतिहास/शिक्षण स्कूल।"
  },
+ "735d6ad94d9e": {
+  "en": "<strong>Duties:</strong> see Natural &amp; Crafted Resources.",
+  "t": "<strong>काम:</strong> प्राकृतिक &amp; बनाए गए संसाधन देखो।"
+ },
  "7506752cedeb": {
   "en": "Wood/Stone Worker",
   "t": "लकड़ी/पत्थर का कारीगर"
@@ -458,6 +494,10 @@
  "7510681254ef": {
   "en": "Historians/Teachers",
   "t": "इतिहासकार/शिक्षक"
+ },
+ "76e3a446b863": {
+  "en": "<strong>Average pay:</strong> 1 Pearl an hour, for apprentices and masters alike.",
+  "t": "<strong>औसत वेतन:</strong> 1 पर्ल प्रति घंटा, शागिर्दों और उस्तादों दोनों के लिए।"
  },
  "7944c42b1f36": {
   "en": "The second richest people in the world. Their power reaches a region at most.",
@@ -483,9 +523,17 @@
   "en": "Large Farm Owner",
   "t": "बड़े खेत का मालिक"
  },
+ "8735f4858edd": {
+  "en": "<strong>Duties:</strong> extract wood from forests.",
+  "t": "<strong>काम:</strong> जंगलों से लकड़ी निकालना।"
+ },
  "87af01bd9c7e": {
   "en": "Sanbi Eye",
   "t": "सनबी आई"
+ },
+ "8869272e670d": {
+  "en": "<strong>Duties:</strong> make vellum from animal skin, and paper from wood pulp.",
+  "t": "<strong>काम:</strong> जानवरों की खाल से चर्मपत्र, और लकड़ी की लुगदी से काग़ज़ बनाना।"
  },
  "893b7a9113f6": {
   "en": "<strong>Duties:</strong> housekeeping. How far it goes depends on the household and the maid's prestige: from more \"normal\" maids, up to someone like Eiri, a King-Maid, whose job extends into finances, cooking, cleaning and taxes.",
@@ -515,9 +563,17 @@
   "en": "<strong>History:</strong> someone has to take care of the dead, especially once people develop complex rituals.",
   "t": "<strong>इतिहास:</strong> मुर्दों की देखभाल किसी को तो करनी है, ख़ासकर जब लोग जटिल रीति-रिवाज बना लेते हैं।"
  },
+ "904f51b879b7": {
+  "en": "<strong>Duties:</strong> take care of the lighthouse: pump water into the fost stone, replace the stone, etc.",
+  "t": "<strong>काम:</strong> प्रकाश-स्तंभ की देखभाल करना: फ़ॉस्ट पत्थर पर पानी पंप करना, पत्थर बदलना, वग़ैरह।"
+ },
  "90a167603476": {
   "en": "<strong>Training:</strong> knowing how to read speeds up going from apprentice to master; otherwise, learn on the job.",
   "t": "<strong>प्रशिक्षण:</strong> पढ़ना आता हो तो शागिर्द से उस्ताद बनना तेज़ होता है; वरना काम करते-करते सीखो।"
+ },
+ "9211c4167577": {
+  "en": "<strong>History:</strong> one of the earliest jobs in existence.",
+  "t": "<strong>इतिहास:</strong> अस्तित्व में आए सबसे पुराने कामों में से एक।"
  },
  "9312d57b974b": {
   "en": "<strong>Training:</strong> Tailoring School.",
@@ -527,9 +583,17 @@
   "en": "How much of this applies depends on how the kingdom is organized.",
   "t": "इसमें से कितना लागू होता है, यह इस पर निर्भर है कि राज्य कैसे संगठित है।"
  },
+ "9866309d4236": {
+  "en": "<strong>History:</strong> paper is half the battle, so someone needs to make the ink and the wax.",
+  "t": "<strong>इतिहास:</strong> काग़ज़ आधी लड़ाई है, तो किसी को स्याही और मोम बनाना होता है।"
+ },
  "9b85c6e5d0b9": {
   "en": "<strong>Duties:</strong> keep the peace, assist in investigations and help medics. Also coordinate nari stone usage, work with adventurers, and coordinate with the King and courtroom scientists (depending on how the kingdom is organized).",
   "t": "<strong>काम:</strong> शांति बनाए रखना, जाँच में मदद करना और वैद्यों की मदद करना। नरी पत्थरों के इस्तेमाल में तालमेल बिठाना, साहसियों के साथ काम करना, और राजा और दरबारी वैज्ञानिकों के साथ तालमेल रखना भी (इस पर निर्भर कि राज्य कैसे संगठित है)।"
+ },
+ "9bb4137522b5": {
+  "en": "<strong>Training:</strong> learn on the job; no reading required.",
+  "t": "<strong>प्रशिक्षण:</strong> काम करते-करते सीखो; पढ़ना आना ज़रूरी नहीं।"
  },
  "9cc2644f0b21": {
   "en": "<strong>Duties:</strong> handle egua births and health, and manage the stable business.",
@@ -567,13 +631,29 @@
   "en": "Street Cleaner",
   "t": "सड़क-सफ़ाईकर्मी"
  },
+ "a69d012911c6": {
+  "en": "<strong>Duties:</strong> treat leather and animal skin for dresses, weapons and vellum.",
+  "t": "<strong>काम:</strong> पोशाकों, हथियारों और चर्मपत्र के लिए चमड़ा और जानवरों की खाल तैयार करना।"
+ },
+ "aa5928af8f30": {
+  "en": "<strong>History:</strong> works alongside butchers to treat game skin and bones.",
+  "t": "<strong>इतिहास:</strong> शिकार की खाल और हड्डियाँ तैयार करने के लिए क़साइयों के साथ काम करता है।"
+ },
  "aaacdfb70de3": {
   "en": "<strong>Training:</strong> Fundamental School isn't required, but it's really hard to do without.",
   "t": "<strong>प्रशिक्षण:</strong> बुनियादी स्कूल ज़रूरी नहीं, पर उसके बिना यह सच में मुश्किल है।"
  },
+ "ab43b4c49d47": {
+  "en": "<strong>History:</strong> as eguas were domesticated, people were needed to handle them.",
+  "t": "<strong>इतिहास:</strong> जब एगुआ पालतू बनाए गए, तो उन्हें सँभालने के लिए लोगों की ज़रूरत पड़ी।"
+ },
  "ac2b1387dbe5": {
   "en": "<strong>History:</strong> someone who takes merchanting extremely seriously.",
   "t": "<strong>इतिहास:</strong> कोई जो व्यापार को बेहद गंभीरता से लेता है।"
+ },
+ "ac55d9500a19": {
+  "en": "<strong>Duties:</strong> drive egua carts from city to city, carrying basic goods.",
+  "t": "<strong>काम:</strong> शहर-दर-शहर एगुआ गाड़ियाँ चलाना, बुनियादी माल ढोते हुए।"
  },
  "acab31af4a94": {
   "en": "Blacksmiths",
@@ -602,6 +682,22 @@
  "b44d69d8fd77": {
   "en": "<strong>Duties:</strong> read, play and write songs.",
   "t": "<strong>काम:</strong> गीत पढ़ना, बजाना और लिखना।"
+ },
+ "b45bc2b2a503": {
+  "en": "<strong>History:</strong> an easy job, but kind of boring, and slightly dangerous at times.",
+  "t": "<strong>इतिहास:</strong> एक आसान काम, पर कुछ उबाऊ, और कभी-कभी थोड़ा ख़तरनाक।"
+ },
+ "b510917433fe": {
+  "en": "<strong>Duties:</strong> dry fruits, herbs and plenty more for transport.",
+  "t": "<strong>काम:</strong> ढुलाई के लिए फल, जड़ी-बूटियाँ और बहुत कुछ सुखाना।"
+ },
+ "b6070e32bbe6": {
+  "en": "<strong>Duties:</strong> mine ore, open tunnels and carry the ore to the surface.",
+  "t": "<strong>काम:</strong> अयस्क खोदना, सुरंगें खोलना और अयस्क सतह तक ढोना।"
+ },
+ "b867944bc051": {
+  "en": "<strong>Duties:</strong> hunt prey, butcher it, and bring it back somewhere to sell.",
+  "t": "<strong>काम:</strong> शिकार मारना, उसे काटना-छाँटना, और बेचने के लिए कहीं वापस लाना।"
  },
  "bad034722d1e": {
   "en": "Butcher",
@@ -675,9 +771,17 @@
   "en": "<strong>History:</strong> wherever humans live, history soon follows, filling libraries. But some history was lost during the Greed Period, when wars raged for a long time, and tons more because before Ganyrami it was mostly passed by word of mouth among humans. The Darfaries burned their own history, which makes the past kind of sketchy. And some people don't care about history, because they prefer living in the present. So people in this profession usually teach at the fundamental level to earn a livable wage while they pursue research nobody is funding.",
   "t": "<strong>इतिहास:</strong> इंसान जहाँ भी रहते हैं, इतिहास जल्द ही पीछे-पीछे आता है, पुस्तकालय भरते हुए। पर कुछ इतिहास लालच के दौर में खो गया, जब लंबे समय तक जंगें छिड़ी रहीं, और उससे भी कहीं ज़्यादा इसलिए कि गैनीरामी से पहले इंसानों में यह ज़्यादातर ज़ुबानी चलता था। डारफ़ेरीज़ ने अपना ही इतिहास जला दिया, जिससे अतीत कुछ धुँधला है। और कुछ लोगों को इतिहास की परवाह नहीं, क्योंकि वे आज में जीना पसंद करते हैं। तो इस पेशे के लोग आम तौर पर गुज़ारे लायक़ कमाई के लिए बुनियादी स्तर पर पढ़ाते हैं, जबकि वे ऐसा शोध करते हैं जिसका ख़र्च कोई नहीं उठा रहा।"
  },
+ "d86a0b9b9510": {
+  "en": "<strong>Duties:</strong> skin game for tanners, slice game, cure meat, etc.",
+  "t": "<strong>काम:</strong> चर्मकारों के लिए शिकार की खाल उतारना, शिकार काटना, मांस सुखाना-सहेजना, वग़ैरह।"
+ },
  "da654b0ff3a4": {
   "en": "<strong>Training:</strong> Fundamental School and Cooking School.",
   "t": "<strong>प्रशिक्षण:</strong> बुनियादी स्कूल और पाक-कला स्कूल।"
+ },
+ "dc0cff2c2774": {
+  "en": "<strong>History:</strong> cleans latrines and cesspits.",
+  "t": "<strong>इतिहास:</strong> शौचालय और मल-गड्ढे साफ़ करता है।"
  },
  "e08eaff25c85": {
   "en": "Stable Hand Manager",
@@ -722,6 +826,18 @@
  "e9b43d11425b": {
   "en": "City Guard",
   "t": "शहर का पहरेदार"
+ },
+ "eec4b8a22e47": {
+  "en": "The sixth richest people in the world. Their power is none.",
+  "t": "दुनिया के छठे सबसे अमीर लोग। उनकी कोई ताक़त नहीं।"
+ },
+ "f2e56469294d": {
+  "en": "<strong>History:</strong> one of the earliest jobs in existence: hunting in the nearby woods, a quite dangerous job. Mostly replaced by adventurer hunting, since hunters on their own don't have the safety net adventurers have with the embassies.",
+  "t": "<strong>इतिहास:</strong> अस्तित्व में आए सबसे पुराने कामों में से एक: पास के जंगलों में शिकार, एक काफ़ी ख़तरनाक काम। ज़्यादातर साहसियों के शिकार ने इसकी जगह ले ली, क्योंकि अकेले शिकारियों के पास वह सुरक्षा-जाल नहीं होता जो साहसियों के पास दूतावासों के साथ होता है।"
+ },
+ "f3c4e3eb138e": {
+  "en": "<strong>Duties:</strong> clean the streets.",
+  "t": "<strong>काम:</strong> सड़कें साफ़ करना।"
  },
  "f8a9289d923c": {
   "en": "Tanner",

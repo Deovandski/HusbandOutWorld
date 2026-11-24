@@ -1,11 +1,211 @@
 {
+ "02b88522b961": {
+  "en": "Bagarisa Fur Toothbrush",
+  "t": "बागरीसा फ़र का टूथब्रश"
+ },
+ "08b561d3f1c8": {
+  "en": "~20 Pearls for a simple one",
+  "t": "एक सादे के लिए ~20 पर्ल"
+ },
+ "0cacdf04aae4": {
+  "en": "<strong>Tier I (Cheap Goods):</strong> natural resources; paper and vellum.",
+  "t": "<strong>स्तर I (सस्ता माल):</strong> प्राकृतिक संसाधन; काग़ज़ और चर्मपत्र।"
+ },
+ "0f3899a6f453": {
+  "en": "Fost Stone",
+  "t": "फ़ॉस्ट पत्थर"
+ },
+ "14f8d549c5d9": {
+  "en": "~5 Pearls",
+  "t": "~5 पर्ल"
+ },
+ "17770172fb8f": {
+  "en": "~2 Pearls",
+  "t": "~2 पर्ल"
+ },
+ "1918925582d5": {
+  "en": "Wood People sap",
+  "t": "वुड पीपल का रस"
+ },
+ "1a2ed0c8f120": {
+  "en": "<strong>Where there's none:</strong> people burn animal-fat torches, though not usually inside homes. Gandew and Sundeath use more torches than anywhere else, because they're far from where fost stones are mined.",
+  "t": "<strong>जहाँ नहीं है:</strong> लोग जानवरों की चर्बी की मशालें जलाते हैं, हालाँकि आम तौर पर घरों के भीतर नहीं। गैंड्यू और सनडेथ कहीं और से ज़्यादा मशालें इस्तेमाल करते हैं, क्योंकि वे फ़ॉस्ट पत्थरों की खदानों से दूर हैं।"
+ },
+ "1adb8bc81b63": {
+  "en": "A custom-made weapon of chitin and finely crafted Bone Wood, with Winga beaks and claws for close-quarters combat (CQC). It works as a bow, but also as a melee weapon if needed.",
+  "t": "काइटिन और बारीकी से बनी हड्डी-लकड़ी का एक ख़ास बनवाया हथियार, नज़दीकी लड़ाई (CQC) के लिए विंगा की चोंचों और पंजों के साथ। यह धनुष का काम करता है, पर ज़रूरत पड़े तो हाथापाई के हथियार का भी।"
+ },
+ "1e5106d75f3c": {
+  "en": "Wood ~10 Pearls; Bone Wood ~20 Pearls; chitin ~40 Pearls; iron ~85 Pearls; steel ~2 Amethysts; gold ~4 Aquamarines",
+  "t": "लकड़ी ~10 पर्ल; हड्डी-लकड़ी ~20 पर्ल; काइटिन ~40 पर्ल; लोहा ~85 पर्ल; इस्पात ~2 एमेथिस्ट; सोना ~4 एक्वामरीन"
+ },
+ "1e7081d736f4": {
+  "en": "Trees",
+  "t": "पेड़"
+ },
+ "1f9c51d4d790": {
+  "en": "<strong>Simple Journal</strong> (6×9, 50 pages)",
+  "t": "<strong>सादी डायरी</strong> (6×9, 50 पन्ने)"
+ },
+ "23f033a801a0": {
+  "en": "Natural Resources",
+  "t": "प्राकृतिक संसाधन"
+ },
+ "24e56b632ea6": {
+  "en": "~15 Pearls",
+  "t": "~15 पर्ल"
+ },
+ "2504ce24727b": {
+  "en": "A Tier I worker (master level) saving half their pay needs, on average, about 450 working days for a full iron set, 660 for steel, 310 for Bone Wood, 260 for chitin and about 150 for Tibou or leather. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Equipment Price Calculator).",
+  "t": "स्तर I का एक कामगार (उस्ताद स्तर पर) अपनी आधी तनख़्वाह बचाते हुए, औसतन, लोहे के पूरे सेट के लिए लगभग 450 कामकाजी दिन, इस्पात के लिए 660, हड्डी-लकड़ी के लिए 310, काइटिन के लिए 260 और टीबू या चमड़े के लिए लगभग 150 चाहता है। <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">अर्थव्यवस्था का स्प्रेडशीट</a> (Equipment Price Calculator) देखो।"
+ },
+ "2ac93d2e4e96": {
+  "en": "Toothpaste",
+  "t": "टूथपेस्ट"
+ },
+ "3033ea8c6184": {
+  "en": "<strong>Tier III (Expensive Goods):</strong> rare mineral resources (gold, titanium); higher-quality armor and weapons.",
+  "t": "<strong>स्तर III (महँगा माल):</strong> दुर्लभ खनिज संसाधन (सोना, टाइटेनियम); ज़्यादा गुणवत्ता वाले कवच और हथियार।"
+ },
+ "31e653361e0e": {
+  "en": "Made of Soul Wood or Black Wood.",
+  "t": "सोल वुड या ब्लैक वुड से बना।"
+ },
+ "32dc4384ef54": {
+  "en": "Soul Energy Related",
+  "t": "आत्मा-ऊर्जा से जुड़ी चीज़ें"
+ },
+ "32e3377c4e63": {
+  "en": "~9 Pearls",
+  "t": "~9 पर्ल"
+ },
+ "33a29dab963f": {
+  "en": "<strong>Ice Preserver</strong> (a fridge-freezer): made of wood and clay (~1 Amethyst), or iron, wood and clay (~1 Aquamarine).",
+  "t": "<strong>आइस प्रिज़र्वर</strong> (एक फ़्रिज-फ़्रीज़र): लकड़ी और मिट्टी का (~1 एमेथिस्ट), या लोहे, लकड़ी और मिट्टी का (~1 एक्वामरीन)।"
+ },
+ "37619fc13053": {
+  "en": "White",
+  "t": "सफ़ेद"
+ },
+ "3862ac04f34f": {
+  "en": "<strong>Sword:</strong> iron ~683–767; steel ~1,008–1,092; Bone Wood ~285–596; chitin ~185–521.",
+  "t": "<strong>तलवार:</strong> लोहा ~683–767; इस्पात ~1,008–1,092; हड्डी-लकड़ी ~285–596; काइटिन ~185–521।"
+ },
+ "3889502093b8": {
+  "en": "~1 Pearl",
+  "t": "~1 पर्ल"
+ },
+ "394d220c45d2": {
+  "en": "Cost a bottle",
+  "t": "क़ीमत प्रति बोतल"
+ },
+ "39a8bd07a18b": {
+  "en": "Iron and steel cost the same everywhere except Tolerideme, where they're a little pricier. Bone Wood is cheapest in Freeish and Chitin in Gandew. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Weapon &amp; Household Price Calculator).",
+  "t": "लोहा और इस्पात टॉलरिडीम को छोड़कर हर जगह एक ही दाम के हैं, जहाँ वे थोड़े महँगे हैं। हड्डी-लकड़ी फ़्रीइश में सबसे सस्ती है और काइटिन गैंड्यू में। <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">अर्थव्यवस्था का स्प्रेडशीट</a> (Weapon &amp; Household Price Calculator) देखो।"
+ },
+ "3c9be150028c": {
+  "en": "Bathroom Related",
+  "t": "ग़ुसलख़ाने से जुड़ी चीज़ें"
+ },
  "3e86255de7aa": {
   "en": "Natural & Crafted Resources · #HusbandOutWorld",
   "t": "प्राकृतिक और बनाए गए संसाधन · #HusbandOutWorld"
  },
+ "4424d0dd18ef": {
+  "en": "Charcoal, sometimes wrapped in wood to look fancy (see <a href=\"/lore/characters/#kiko-sanbi-half-cruro\">Kiko</a>).",
+  "t": "कोयला, कभी-कभी शानदार दिखने के लिए लकड़ी में लिपटा (<a href=\"/lore/characters/#kiko-sanbi-half-cruro\">किको</a> देखो)।"
+ },
+ "4616570b68e6": {
+  "en": "Walking Heart",
+  "t": "वॉकिंग हार्ट"
+ },
+ "4765bbc0170f": {
+  "en": "<strong>Used for:</strong> construction and furniture; decorating armor and weapons.",
+  "t": "<strong>उपयोग:</strong> निर्माण और फ़र्नीचर; कवच और हथियारों की सजावट।"
+ },
+ "48481822223b": {
+  "en": "<strong>Paper</strong> (a bundle of ~10 loose pages)",
+  "t": "<strong>काग़ज़</strong> (~10 खुले पन्नों का एक बंडल)"
+ },
+ "49e8ea38afbd": {
+  "en": "<strong>Used for:</strong> weapons; tools.",
+  "t": "<strong>उपयोग:</strong> हथियार; औज़ार।"
+ },
+ "4d76a703efd4": {
+  "en": "Writing Stick",
+  "t": "लिखने की छड़ी"
+ },
+ "4ef827bf0b4e": {
+  "en": "Paper, leather and glue",
+  "t": "काग़ज़, चमड़ा और गोंद"
+ },
+ "4fe8d925db58": {
+  "en": "A special chitin armor designed after the <a href=\"/lore/beasts/#sweet-sting\">Sweet Sting</a>, used for CQC and impaling. <a href=\"/lore/characters/#morika-tolerideme\">Morika</a> once wore a Sweet Sting costume to gather Black Honey and liked how empowering it felt, so he saved for about a year and a half to have it made. It makes up for his slow reflexes and hides his face. He becomes another persona in it, <a href=\"/lore/characters/#the-stinger\">The Stinger</a>, and kills with the spike of his Stinger helmet.",
+  "t": "<a href=\"/lore/beasts/#sweet-sting\">स्वीट स्टिंग</a> की तर्ज़ पर बना एक ख़ास काइटिन कवच, नज़दीकी लड़ाई (CQC) और आर-पार भोंकने के लिए। <a href=\"/lore/characters/#morika-tolerideme\">मोरीका</a> ने एक बार काला शहद इकट्ठा करने के लिए स्वीट स्टिंग की पोशाक पहनी और उसे उसमें ताक़त का एहसास पसंद आया, तो उसने इसे बनवाने के लिए लगभग डेढ़ साल पैसे बचाए। यह उसकी धीमी प्रतिक्रियाओं की कमी पूरी करता है और उसका चेहरा छिपाता है। इसमें वह एक और व्यक्तित्व बन जाता है, <a href=\"/lore/characters/#the-stinger\">द स्टिंगर</a>, और अपने स्टिंगर टोप के काँटे से मारता है।"
+ },
+ "51c64938ac53": {
+  "en": "The Tibou plant, with animal fat and other ingredients.",
+  "t": "टीबू का पौधा, जानवरों की चर्बी और दूसरी सामग्रियों के साथ।"
+ },
+ "52996fa554f2": {
+  "en": "Household",
+  "t": "घर-गृहस्थी"
+ },
+ "54076359fdc7": {
+  "en": "Pink",
+  "t": "गुलाबी"
+ },
+ "54132c44f968": {
+  "en": "Tibou Soap",
+  "t": "टीबू साबुन"
+ },
+ "5757b2155f92": {
+  "en": "What the materials alone cost, shipping included, in Pearls. The range runs from the cheapest region to the most expensive; crafting costs come on top.",
+  "t": "सिर्फ़ सामग्रियों की लागत, ढुलाई समेत, पर्ल में। दायरा सबसे सस्ते इलाक़े से सबसे महँगे तक जाता है; बनवाई का ख़र्च ऊपर से।"
+ },
+ "57ae620e41ee": {
+  "en": "Seal Stamp",
+  "t": "मुहर का ठप्पा"
+ },
  "59cb822763ff": {
   "en": "15 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "इस पेज की 15 और प्रविष्टियाँ सिर्फ़ <button class=\"linklike\" data-go-bts>पर्दे के पीछे</button> में हैं।"
+ },
+ "5ca532404946": {
+  "en": "<strong>Wine/Mead Mug:</strong> gotta be fancy. Wood ~13 Pearls; Bone Wood ~16 Pearls; chitin ~23 Pearls; iron ~29 Pearls; steel ~2 Amethysts; gold ~3 Aquamarines.",
+  "t": "<strong>वाइन/मीड का मग:</strong> शान तो दिखानी ही है। लकड़ी ~13 पर्ल; हड्डी-लकड़ी ~16 पर्ल; काइटिन ~23 पर्ल; लोहा ~29 पर्ल; इस्पात ~2 एमेथिस्ट; सोना ~3 एक्वामरीन।"
+ },
+ "5d70259efbb0": {
+  "en": "Inks/Dyes",
+  "t": "स्याहियाँ/रंग"
+ },
+ "5e49b52715ce": {
+  "en": "A stone found in the sediment of the Buhraies lake, on the Buhraies Plains, and all the way from Waterfall City to the Sanbi Kingdom. Closer to the ocean, the riverbed lights up where the rocks get too close to salt water. Fauna, and beasts especially, seem to avoid places where it lies underwater.",
+  "t": "बुरेज़ झील की तलछट में, बुरेज़ मैदानों पर, और वॉटरफ़ॉल सिटी से सनबी राज्य तक पूरे रास्ते मिलने वाला एक पत्थर। समुद्र के क़रीब, जहाँ पत्थर खारे पानी के बहुत पास आ जाते हैं, वहाँ नदी की तलहटी जगमगा उठती है। जीव-जंतु, और ख़ासकर दरिंदे, उन जगहों से बचते लगते हैं जहाँ यह पानी के नीचे पड़ा हो।"
+ },
+ "5f5a2affd95f": {
+  "en": "A plain piece of charcoal ~0–2 Pearls; a charcoal stick ~7 Pearls; a refined charcoal stick ~30 Pearls",
+  "t": "कोयले का एक सादा टुकड़ा ~0–2 पर्ल; कोयले की एक छड़ी ~7 पर्ल; एक निखरी कोयले की छड़ी ~30 पर्ल"
+ },
+ "635af13363af": {
+  "en": "<strong>Bread Plate/Bowl:</strong> made of bread (~0–2 Pearls). It soaks up the juices of your food, and is given to the poor afterward.",
+  "t": "<strong>ब्रेड की थाली/कटोरा:</strong> ब्रेड से बना (~0–2 पर्ल)। यह तुम्हारे खाने का रस सोख लेता है, और बाद में ग़रीबों को दे दिया जाता है।"
+ },
+ "64ae43e8fe76": {
+  "en": "Cost",
+  "t": "क़ीमत"
+ },
+ "69f060ea9f2e": {
+  "en": "Usually iron or another metal that can withstand the water pressure. Pull it, and water flows from the pipe.",
+  "t": "आम तौर पर लोहा या कोई और धातु जो पानी का दबाव सह सके। इसे खींचो, और पाइप से पानी बहने लगता है।"
+ },
+ "6acdd3ea77dc": {
+  "en": "<strong>Tier IV (Nobility Goods):</strong> custom armor and weapons; household items, or any item of extremely high craft or quality.",
+  "t": "<strong>स्तर IV (कुलीनों का माल):</strong> ख़ास बनवाए कवच और हथियार; घरेलू चीज़ें, या बेहद ऊँची कारीगरी या गुणवत्ता वाली कोई भी चीज़।"
+ },
+ "6b0c0b7d6913": {
+  "en": "Leather",
+  "t": "चमड़ा"
  },
  "6e97b1eafd0e": {
   "en": "The materials and goods of Vraki, from natural resources like Fost Stone (a stone that lights up in salt water and keeps beasts away) and Bone Wood, to…",
@@ -15,20 +215,280 @@
   "en": "Winga",
   "t": "विंगा"
  },
+ "7414e4da6d8b": {
+  "en": "Natural and Crafted Resources (World Lore illustration)",
+  "t": "प्राकृतिक और बनाए गए संसाधन (संसार का चित्र)"
+ },
  "756046544fb1": {
   "en": "Summary written by AI from the author's notes (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Natural and Crafted Resources.md</a>). <a href=\"/about/ai-disclosure/\">AI disclosure</a>",
   "t": "लेखक के नोट्स से AI द्वारा लिखा गया सारांश (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Natural and Crafted Resources.md</a>)। <a href=\"/about/ai-disclosure/\">AI प्रकटीकरण</a>"
+ },
+ "76478bf1274b": {
+  "en": "<strong>No switch:</strong> there's no \"turning off the lights\". To put one out, you pour out the water to stop the reaction.",
+  "t": "<strong>कोई स्विच नहीं:</strong> \"बत्ती बुझाने\" जैसी कोई चीज़ नहीं। एक को बुझाने के लिए, तुम प्रतिक्रिया रोकने को पानी बाहर उँडेल देते हो।"
  },
  "77299e0e6193": {
   "en": "Natural &amp; Crafted Resources",
   "t": "प्राकृतिक &amp; बनाए गए संसाधन"
  },
+ "7a1649119e6a": {
+  "en": "<strong>Picker:</strong> a two-pronged fork on one end and a spoon on the other. Each person commonly has their own and takes it with them; some decorate theirs or have their name carved on it to make it unique. Wood ~5 Pearls; Bone Wood ~10 Pearls; chitin ~17 Pearls; iron ~25 Pearls; steel ~1 Amethyst; gold ~1 Aquamarine.",
+  "t": "<strong>पिकर:</strong> एक सिरे पर दो-दाँतों वाला काँटा और दूसरे पर एक चम्मच। आम तौर पर हर व्यक्ति का अपना होता है और वह उसे साथ ले जाता है; कुछ अपना सजाते हैं या उसे अनोखा बनाने के लिए उस पर अपना नाम खुदवाते हैं। लकड़ी ~5 पर्ल; हड्डी-लकड़ी ~10 पर्ल; काइटिन ~17 पर्ल; लोहा ~25 पर्ल; इस्पात ~1 एमेथिस्ट; सोना ~1 एक्वामरीन।"
+ },
+ "7d141a438f76": {
+  "en": "<strong>Used for:</strong> construction and furniture; armor; weapons.",
+  "t": "<strong>उपयोग:</strong> निर्माण और फ़र्नीचर; कवच; हथियार।"
+ },
+ "7d44bc449c2a": {
+  "en": "Blue",
+  "t": "नीला"
+ },
+ "7d6a8b1e4781": {
+  "en": "<strong>No candles:</strong> there are no candles in Vraki. Wax exists, but it's for sealing letters (like the Winga mail Forway provides).",
+  "t": "<strong>कोई मोमबत्ती नहीं:</strong> व्राकी में मोमबत्तियाँ नहीं हैं। मोम मौजूद है, पर वह चिट्ठियाँ मुहरबंद करने के लिए है (जैसे फ़ॉरवे की दी हुई विंगा डाक)।"
+ },
+ "7d8dcf0d9ced": {
+  "en": "<strong>Longsword:</strong> iron ~1,464–1,644; steel ~2,160–2,340; Bone Wood ~611–1,277; chitin ~396–1,116.",
+  "t": "<strong>लंबी तलवार:</strong> लोहा ~1,464–1,644; इस्पात ~2,160–2,340; हड्डी-लकड़ी ~611–1,277; काइटिन ~396–1,116।"
+ },
+ "80ae57ffe1d6": {
+  "en": "~11 Pearls",
+  "t": "~11 पर्ल"
+ },
  "81e16785271f": {
   "en": "The materials and goods of Vraki, from natural resources like Fost Stone (a stone that lights up in salt water and keeps beasts away) and Bone Wood, to weapons, armor and household items. Goods are sorted into four cost tiers by how expensive they are to move, from cheap goods like paper up to custom nobility pieces.",
   "t": "व्राकी की सामग्रियाँ और वस्तुएँ, फ़ॉस्ट पत्थर (एक पत्थर जो खारे पानी में चमकता है और दरिंदों को दूर रखता है) और हड्डी-लकड़ी से लेकर हथियारों, कवचों और रोज़मर्रा की चीज़ों तक। सामान उनकी ढुलाई की क़ीमत के हिसाब से लागत के चार स्तरों में बँटा है, काग़ज़ जैसी सस्ती चीज़ों से लेकर रईसों के लिए बनी ख़ास चीज़ों तक।"
  },
+ "81ebd1383e1b": {
+  "en": "<a class=\"img-link\" href=\"/media/57be02b5784726.webp\" data-full=\"/media/57be02b5784726.webp\"><img src=\"/media/57be02b5784726.webp\" alt=\"Natural and Crafted Resources (World Lore illustration)\" loading=\"lazy\"></a> (slightly grainier) <a class=\"img-link\" href=\"/media/e19e5abc32069d.webp\" data-full=\"/media/e19e5abc32069d.webp\"><img src=\"/media/e19e5abc32069d.webp\" alt=\"Natural and Crafted Resources (World Lore illustration)\" loading=\"lazy\"></a>",
+  "t": "<a class=\"img-link\" href=\"/media/57be02b5784726.webp\" data-full=\"/media/57be02b5784726.webp\"><img src=\"/media/57be02b5784726.webp\" alt=\"प्राकृतिक और बनाए गए संसाधन (संसार का चित्र)\" loading=\"lazy\"></a> (थोड़ा ज़्यादा दानेदार) <a class=\"img-link\" href=\"/media/e19e5abc32069d.webp\" data-full=\"/media/e19e5abc32069d.webp\"><img src=\"/media/e19e5abc32069d.webp\" alt=\"प्राकृतिक और बनाए गए संसाधन (संसार का चित्र)\" loading=\"lazy\"></a>"
+ },
+ "835c092f5294": {
+  "en": "Fost Lamp",
+  "t": "फ़ॉस्ट लैंप"
+ },
+ "8564fe3b4b67": {
+  "en": "Iron",
+  "t": "लोहा"
+ },
+ "8613e2c6eb2d": {
+  "en": "<strong>Tier II (Common Goods):</strong> expensive mineral resources (Nari stones, sapphires, aquamarines, amethysts); Black Honey; sigil rings; lower-quality armor and weapons; inks and dyes.",
+  "t": "<strong>स्तर II (आम माल):</strong> महँगे खनिज संसाधन (नरी पत्थर, सफ़ायर, एक्वामरीन, एमेथिस्ट); काला शहद; मुहर वाली अँगूठियाँ; कम गुणवत्ता वाले कवच और हथियार; स्याहियाँ और रंग।"
+ },
+ "86c7738b66fa": {
+  "en": "Wood, Bone Wood, chitin, iron, steel or gold",
+  "t": "लकड़ी, हड्डी-लकड़ी, काइटिन, लोहा, इस्पात या सोना"
+ },
+ "8a2f4b2b3d66": {
+  "en": "Chitin",
+  "t": "काइटिन"
+ },
+ "8e5c5f44a3db": {
+  "en": "Corals (Cruroland)",
+  "t": "मूँगे (क्रूरोलैंड)"
+ },
+ "8fe87962b633": {
+  "en": "Sweet Sting wax and ink dye",
+  "t": "स्वीट स्टिंग का मोम और स्याही का रंग"
+ },
+ "91157d355643": {
+  "en": "Wood People wood is very durable, with a dark red color, and gives off a strong, woody musk when soaked (see <a href=\"/lore/beasts/#wood-people\">Wood People</a>).",
+  "t": "वुड पीपल की लकड़ी बहुत टिकाऊ है, गहरे लाल रंग की, और भीगने पर एक तेज़, लकड़ी जैसी कस्तूरी गंध देती है (<a href=\"/lore/beasts/#wood-people\">वुड पीपल</a> देखो)।"
+ },
+ "92bf1c1e2196": {
+  "en": "<strong>Beer Mug:</strong> getting drunk requires the proper tools. Wood ~15 Pearls; Bone Wood ~20 Pearls; chitin ~28 Pearls; iron ~35 Pearls; steel ~3 Amethysts; gold ~5 Aquamarines.",
+  "t": "<strong>बीयर का मग:</strong> धुत होने के लिए सही औज़ार चाहिए। लकड़ी ~15 पर्ल; हड्डी-लकड़ी ~20 पर्ल; काइटिन ~28 पर्ल; लोहा ~35 पर्ल; इस्पात ~3 एमेथिस्ट; सोना ~5 एक्वामरीन।"
+ },
+ "92fe15c90db7": {
+  "en": "The wood of the Soul Tree, a lone tree with metallic, shiny bark that grows around Blood City and Freeish (see <a href=\"/lore/flora/#soul-tree\">Soul Tree</a>). It's often used with nari stones, sigils and containers that hold Soul Energy, to keep the Soul Energy from leaking, and most badges are made of it (hence their greenish color). Its seeds give caffeine, and ground, they're basically the world's coffee.",
+  "t": "सोल ट्री की लकड़ी, धात्विक, चमकदार छाल वाला एक अकेला पेड़ जो ब्लड सिटी और फ़्रीइश के आसपास उगता है (<a href=\"/lore/flora/#soul-tree\">सोल ट्री</a> देखो)। इसे अक्सर नरी पत्थरों, मुहरों और आत्मा-ऊर्जा रखने वाले पात्रों के साथ इस्तेमाल किया जाता है, ताकि आत्मा-ऊर्जा रिसे नहीं, और ज़्यादातर बैज इसी से बने हैं (इसीलिए उनका हरा-सा रंग)। इसके बीज कैफ़ीन देते हैं, और पीसकर, वे असल में दुनिया की कॉफ़ी हैं।"
+ },
+ "937d89baf2b3": {
+  "en": "Plants mixed with salt and alcohol; some mix in wine, etc. A green syrup of mint, green tea and citrus that can numb your tongue if you use too much.",
+  "t": "नमक और शराब में मिलाए पौधे; कुछ वाइन वग़ैरह मिलाते हैं। पुदीने, हरी चाय और खट्टे फलों का एक हरा शरबत, जो ज़्यादा इस्तेमाल करने पर तुम्हारी जीभ सुन्न कर सकता है।"
+ },
+ "9500b232835e": {
+  "en": "A full set of armor (helmet, chest, arms and legs), materials alone, shipping included, in Pearls, from the cheapest region to the most expensive:",
+  "t": "कवच का एक पूरा सेट (टोप, सीना, बाँहें और टाँगें), सिर्फ़ सामग्रियाँ, ढुलाई समेत, पर्ल में, सबसे सस्ते इलाक़े से सबसे महँगे तक:"
+ },
+ "970e3bbf2f8b": {
+  "en": "<strong>Dagger:</strong> iron ~293–329; steel ~432–468; Bone Wood ~122–255; chitin ~79–223.",
+  "t": "<strong>ख़ंजर:</strong> लोहा ~293–329; इस्पात ~432–468; हड्डी-लकड़ी ~122–255; काइटिन ~79–223।"
+ },
+ "9a63061471e2": {
+  "en": "Black Wood",
+  "t": "ब्लैक वुड"
+ },
  "9b445d328e30": {
   "en": "Natural &amp; Crafted Resources · #HusbandOutWorld",
   "t": "प्राकृतिक &amp; बनाए गए संसाधन · #HusbandOutWorld"
+ },
+ "9d680d4bfc10": {
+  "en": "Wood People Paper",
+  "t": "वुड पीपल का काग़ज़"
+ },
+ "9e988d0ed278": {
+  "en": "When <a href=\"/lore/characters/#fernan-blood-blue-flower-red-bone\">Fernan</a> disappeared, so did his bow: his daughter <a href=\"/lore/characters/#magi-blood-blue-flower-red-bone\">Magi</a> wants to find him, or at least his bow. Wilson Big-Gyut once tried to steal it and got punched for it, so he recreated it as closely as he could from memory.",
+  "t": "जब <a href=\"/lore/characters/#fernan-blood-blue-flower-red-bone\">फ़र्नान</a> ग़ायब हुआ, उसका धनुष भी ग़ायब हो गया: उसकी बेटी <a href=\"/lore/characters/#magi-blood-blue-flower-red-bone\">मागी</a> उसे ढूँढना चाहती है, या कम से कम उसका धनुष। विल्सन बिग-ग्युट ने एक बार उसे चुराने की कोशिश की और इसके लिए घूँसा खाया, तो उसने याद से जितना हो सका उतना हूबहू उसे फिर से बनाया।"
+ },
+ "9ea7f4f324fb": {
+  "en": "Wood &amp; Wood People Wood",
+  "t": "लकड़ी &amp; वुड पीपल की लकड़ी"
+ },
+ "9f85bed5d7aa": {
+  "en": "Keeps monsters at bay.",
+  "t": "राक्षसों को दूर रखता है।"
+ },
+ "a6c4186ee9cf": {
+  "en": "~20–40 Pearls a bottle",
+  "t": "~20–40 पर्ल प्रति बोतल"
+ },
+ "a709ff5b2aa3": {
+  "en": "~35 Pearls",
+  "t": "~35 पर्ल"
+ },
+ "a7e223624109": {
+  "en": "Bone Wood",
+  "t": "हड्डी-लकड़ी"
+ },
+ "aae8079e464c": {
+  "en": "The wood of the Black Sapphire Tree, a rare lone tree found between Flatland and Forway that looks dead and soaks up Soul Energy from its surroundings (see <a href=\"/lore/flora/#black-sapphire-tree\">Black Sapphire Tree</a>). Dark and dense, it keeps Soul Energy from leaking like no other wood, even better than Soul Wood; it's used with nari stones, sigils and Soul Energy containers to keep the Soul Energy from leaking. A single small or medium tree can cost a whole sapphire. Black wood badges are given to city officials, kingdom representatives and embassy representatives.",
+  "t": "ब्लैक सफ़ायर ट्री की लकड़ी, फ़्लैटलैंड और फ़ॉरवे के बीच मिलने वाला एक दुर्लभ अकेला पेड़, जो मरा हुआ लगता है और अपने आसपास से आत्मा-ऊर्जा सोख लेता है (<a href=\"/lore/flora/#black-sapphire-tree\">ब्लैक सफ़ायर ट्री</a> देखो)। गहरी और घनी, यह किसी भी दूसरी लकड़ी की तरह नहीं, सोल वुड से भी बेहतर, आत्मा-ऊर्जा को रिसने से रोकती है; इसे नरी पत्थरों, मुहरों और आत्मा-ऊर्जा के पात्रों के साथ इस्तेमाल किया जाता है ताकि आत्मा-ऊर्जा रिसे नहीं। एक छोटे या मझोले पेड़ की क़ीमत एक पूरा सफ़ायर हो सकती है। ब्लैक वुड के बैज शहर के अधिकारियों, राज्य के प्रतिनिधियों और दूतावास के प्रतिनिधियों को दिए जाते हैं।"
+ },
+ "adbc3d28d91a": {
+  "en": "<strong>Why gems are Tier II:</strong> sapphires, aquamarines and amethysts are the currency, and from a shipping and handling perspective, currency is a common good. Security is what makes it special: only Forway moves large amounts of currency between cities and kingdoms, in heavily fortified wagons, and for the bandits salivating over those wagons, it's basically Tier IV.",
+  "t": "<strong>रत्न स्तर II क्यों हैं:</strong> सफ़ायर, एक्वामरीन और एमेथिस्ट ही मुद्रा हैं, और ढुलाई और रख-रखाव के नज़रिए से, मुद्रा एक आम माल है। सुरक्षा उसे ख़ास बनाती है: सिर्फ़ फ़ॉरवे ही शहरों और राज्यों के बीच बड़ी मात्रा में मुद्रा ले जाता है, भारी क़िलेबंद गाड़ियों में, और उन गाड़ियों पर लार टपकाते डाकुओं के लिए, यह असल में स्तर IV है।"
+ },
+ "b163ade34cf8": {
+  "en": "Bagarisa fur and wood: a wooden toothbrush with stiff red bristles.",
+  "t": "बागरीसा का फ़र और लकड़ी: सख़्त लाल बालों वाला एक लकड़ी का टूथब्रश।"
+ },
+ "b1a3970a58ca": {
+  "en": "Fernan’s Bow",
+  "t": "फ़र्नान का धनुष"
+ },
+ "b2602a6c00ce": {
+  "en": "Made from",
+  "t": "किससे बनी"
+ },
+ "b406fb57b29f": {
+  "en": "Black",
+  "t": "काला"
+ },
+ "b569f8e73d21": {
+  "en": "Winga beaks and claws, ground up with other beaks and claws. They all have to be strengthened by a Winga before they're removed, and the effect lasts for years before it starts to wear off (see <a href=\"/lore/fauna/#winga-pink-winga\">Winga</a>). Used to make tools that \"cut through anything\", since the dust makes them as hard as diamond: usually a coating is applied, then replaced every few years.",
+  "t": "विंगा की चोंचें और पंजे, दूसरी चोंचों और पंजों के साथ पीसे हुए। निकाले जाने से पहले इन सबको किसी विंगा से मज़बूत करवाना पड़ता है, और असर बरसों टिकता है, फिर फीका पड़ने लगता है (<a href=\"/lore/fauna/#winga-pink-winga\">विंगा</a> देखो)। ऐसे औज़ार बनाने में इस्तेमाल होती है जो \"कुछ भी काट दें\", क्योंकि यह धूल उन्हें हीरे जितना सख़्त बना देती है: आम तौर पर एक परत चढ़ाई जाती है, फिर हर कुछ साल में बदली जाती है।"
+ },
+ "bbfdc67480be": {
+  "en": "<strong>Bow:</strong> iron ~586–658; steel ~864–936; Bone Wood ~244–511; chitin ~158–446.",
+  "t": "<strong>धनुष:</strong> लोहा ~586–658; इस्पात ~864–936; हड्डी-लकड़ी ~244–511; काइटिन ~158–446।"
+ },
+ "bd7eac52298a": {
+  "en": "Soul Wood ~22–102 Pearls; Black Wood ~62–158 Pearls (materials and shipping)",
+  "t": "सोल वुड ~22–102 पर्ल; ब्लैक वुड ~62–158 पर्ल (सामग्रियाँ और ढुलाई)"
+ },
+ "c2f03233d800": {
+  "en": "Lapis lazuli, mined just like amethyst",
+  "t": "लाजवर्द, एमेथिस्ट की तरह ही खोदा जाता है"
+ },
+ "c4b60d49642e": {
+  "en": "Writing Related",
+  "t": "लिखने से जुड़ी चीज़ें"
+ },
+ "ca06fcec99c8": {
+  "en": "Water System Pull-Gate Handle",
+  "t": "जल-व्यवस्था का खींचने वाला फाटक-हत्था"
+ },
+ "ccbd5f06d3c9": {
+  "en": "~10 Pearls",
+  "t": "~10 पर्ल"
+ },
+ "d0ae9aaba06a": {
+  "en": "Morika’s Armor",
+  "t": "मोरीका का कवच"
+ },
+ "d4b2c60f333d": {
+  "en": "Black, fist-sized stones that form in the irradiated zones of Hifuna, with glowing colors inside that tell what powers they will likely grant. Whoever replaces their heart with one becomes undead, if they survive the binding. Forway has banned them. See <a href=\"/lore/walking-heart/\">Walking Heart Interface</a>.",
+  "t": "काले, मुट्ठी के आकार के पत्थर जो हिफ़ूना के विकिरण-ग्रस्त इलाक़ों में बनते हैं, भीतर चमकते रंगों के साथ जो बताते हैं कि वे शायद कौन-सी ताक़तें देंगे। जो कोई अपने दिल की जगह इनमें से एक लगा ले, वह अमर-मुर्दा बन जाता है, अगर वह बंधन से बच जाए। फ़ॉरवे ने इन पर रोक लगाई है। <a href=\"/lore/walking-heart/\">वॉकिंग हार्ट इंटरफ़ेस</a> देखो।"
+ },
+ "d4e7d7d330f0": {
+  "en": "Flowers",
+  "t": "फूल"
+ },
+ "d51ab0c09f09": {
+  "en": "Soul Wood",
+  "t": "सोल वुड"
+ },
+ "d5a4bf79be82": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Legacy/Behind The Scenes/World Lore/Natural and Crafted Resources.md</a>",
+  "t": "स्रोत: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Legacy/Behind The Scenes/World Lore/Natural and Crafted Resources.md</a>"
+ },
+ "d8169782b57c": {
+  "en": "Material",
+  "t": "सामग्री"
+ },
+ "db530238cd9e": {
+  "en": "A fist-sized fost stone in a glass and wood case with an opening on top. In contact with salt water, it glows brighter than a candle would (candles aren't a thing in Vraki, and neither are oil lamps). The stone lasts about a year when used mostly at night. A big, new fost lamp is unusually bright (like a dentist's office) and can cost as much as a handful of amethysts, a steep price for common folk.",
+  "t": "काँच और लकड़ी के एक खोल में मुट्ठी के आकार का एक फ़ॉस्ट पत्थर, ऊपर एक खुले मुँह के साथ। खारे पानी के संपर्क में, यह किसी मोमबत्ती से ज़्यादा चमकता है (व्राकी में मोमबत्तियाँ नहीं होतीं, और तेल के दीये भी नहीं)। ज़्यादातर रात में इस्तेमाल करने पर पत्थर लगभग एक साल चलता है। एक बड़ा, नया फ़ॉस्ट लैंप असाधारण रूप से चमकीला होता है (किसी दाँतों के डॉक्टर के दफ़्तर जैसा) और उसकी क़ीमत मुट्ठी भर एमेथिस्ट जितनी हो सकती है, आम लोगों के लिए एक भारी दाम।"
+ },
+ "dfe272d8b6f7": {
+  "en": "Kitchen/Dining Table",
+  "t": "रसोई/खाने की मेज़"
+ },
+ "e3d189693c16": {
+  "en": "Winga Writing Feather",
+  "t": "विंगा का लिखने वाला पंख"
+ },
+ "e51d781719a1": {
+  "en": "Seal Wax",
+  "t": "मुहर का मोम"
+ },
+ "e7a3fffa3295": {
+  "en": "Goods are sorted into four tiers, which set how much it costs to ship them (see <a href=\"/lore/economy/\">Economy</a>).",
+  "t": "माल को चार स्तरों में बाँटा जाता है, जो तय करते हैं कि उन्हें भेजने में कितना ख़र्च आता है (<a href=\"/lore/economy/\">अर्थव्यवस्था</a> देखो)।"
+ },
+ "e9a14adf2735": {
+  "en": "Full set",
+  "t": "पूरा सेट"
+ },
+ "ecdda59aea5e": {
+  "en": "Item",
+  "t": "चीज़"
+ },
+ "ee432e447835": {
+  "en": "~12 Pearls",
+  "t": "~12 पर्ल"
+ },
+ "f0d67dc167ae": {
+  "en": "~28 Pearls",
+  "t": "~28 पर्ल"
+ },
+ "f32d0645a833": {
+  "en": "Weapons",
+  "t": "हथियार"
+ },
+ "f351cf27d401": {
+  "en": "~20 Pearls, plus tubing",
+  "t": "~20 पर्ल, साथ में नलियाँ"
+ },
+ "f596d7e234c5": {
+  "en": "A mixture of bone, iron, ground Nari and Greenbread fruit core. Less flexible than most wood, but it lasts much longer, and mixed with other materials, it can be made more flexible for armor and weapons.",
+  "t": "हड्डी, लोहे, पिसे नरी और ग्रीनब्रेड फल के गूदे का मिश्रण। ज़्यादातर लकड़ी से कम लचीली, पर कहीं ज़्यादा टिकती है, और दूसरी सामग्रियों के साथ मिलाकर, कवच और हथियारों के लिए ज़्यादा लचीली बनाई जा सकती है।"
+ },
+ "f709e0f9691d": {
+  "en": "Winga Dust",
+  "t": "विंगा डस्ट"
+ },
+ "f8c94a3b4b1e": {
+  "en": "What it is",
+  "t": "यह क्या है"
+ },
+ "f958260588e1": {
+  "en": "Steel",
+  "t": "इस्पात"
+ },
+ "fb764acb28a3": {
+  "en": "<strong>Light source:</strong> it needs water and salt to work. There's no wick, flame or smoke; the hissing a lit fost stone makes is the water and salt reacting with the stone, which gives off light and steam.",
+  "t": "<strong>रोशनी का स्रोत:</strong> इसे काम करने के लिए पानी और नमक चाहिए। कोई बत्ती, लौ या धुआँ नहीं; जलते फ़ॉस्ट पत्थर की सनसनाहट पानी और नमक की पत्थर से प्रतिक्रिया है, जो रोशनी और भाप देती है।"
  }
 }
