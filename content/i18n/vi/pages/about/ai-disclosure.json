@@ -23,6 +23,10 @@
   "en": "PRs are welcome, with or without AI help. If you used AI for a contribution, say so in the PR description and add a line to the table above.",
   "t": "PR luôn được hoan nghênh, dù có hay không có sự trợ giúp của AI. Nếu bạn dùng AI cho một đóng góp, hãy nói rõ trong phần mô tả PR và thêm một dòng vào bảng ở trên."
  },
+ "227ad95d5503": {
+  "en": "content/bts",
+  "t": "content/bts"
+ },
  "23eebfe076f3": {
   "en": "<strong>Shortened and paraphrased</strong> them into one-paragraph public summaries, because the blog never had pages for these topics. No new facts. Each summary is labeled on the website as AI-written.",
   "t": "<strong>Rút gọn và diễn đạt lại</strong> chúng thành các bản tóm tắt công khai một đoạn, vì blog chưa từng có trang cho các chủ đề này. Không có sự kiện mới. Mỗi bản tóm tắt đều được ghi trên trang web là do AI viết."
@@ -259,6 +263,14 @@
   "en": "content/summaries.json",
   "t": "content/summaries.json"
  },
+ "c43f5ab5035a": {
+  "en": "<strong>Written by the AI</strong> with the author: the abridged Behind The Scenes text the website shows (grammar fixed, brain dumps turned into readable prose and lists, gaps filled only from other Legacy sources or the author's answers). Every question asked, every answer (in the author's words), every filled gap with its source and every discrepancy is recorded in <a href=\"content/bts/qa\">content/bts/qa</a>, one file per Legacy doc. The Glossary's Behind The Scenes descriptions are taken from this abridged text. The raw notes in Legacy are unchanged; where the author ruled a correction or addition \"official\", it shows in the raw notes on the website as a display-only fix in <a href=\"content/fixes.json\">content/fixes.json</a>.",
+  "t": "<strong>Do AI viết</strong> cùng với tác giả: văn bản Hậu trường đã rút gọn mà trang web hiển thị (sửa ngữ pháp, biến những dòng ý tưởng lộn xộn thành văn xuôi và danh sách dễ đọc, chỉ lấp chỗ trống từ các nguồn Legacy khác hoặc câu trả lời của tác giả). Mọi câu hỏi đã hỏi, mọi câu trả lời (bằng lời của tác giả), mọi chỗ trống đã lấp cùng nguồn của nó và mọi điểm mâu thuẫn đều được ghi lại trong <a href=\"content/bts/qa\">content/bts/qa</a>, mỗi tài liệu Legacy một tệp. Các mô tả Hậu trường trong Thuật ngữ được lấy từ văn bản rút gọn này. Các ghi chú thô trong Legacy không bị thay đổi; ở nơi tác giả phán quyết một chỉnh sửa hay bổ sung là “chính thức”, nó hiển thị trong ghi chú thô trên trang web dưới dạng bản sửa chỉ để hiển thị trong <a href=\"content/fixes.json\">content/fixes.json</a>."
+ },
+ "c92dbea049c4": {
+  "en": "<strong>The website shows the author's own words.</strong> The novel chapters and the public descriptions (from the old blog) are displayed as written, and so are the Behind The Scenes notes that haven't been abridged yet. The AI's job was to arrange them, not to rewrite them. The exception: Behind The Scenes notes that have been <strong>abridged</strong> (see <code>content/bts</code> below) are an AI-assisted rewrite of the author's raw notes into readable form, labeled as such on every section, with the raw notes one click away.",
+  "t": "<strong>Trang web hiển thị chính lời văn của tác giả.</strong> Các chương tiểu thuyết và các mô tả công khai (từ blog cũ) được hiển thị đúng như đã viết, các ghi chú Hậu trường chưa được rút gọn cũng vậy. Nhiệm vụ của AI là sắp xếp chúng, không phải viết lại chúng. Ngoại lệ: các ghi chú Hậu trường đã được <strong>rút gọn</strong> (xem <code>content/bts</code> bên dưới) là bản viết lại có AI hỗ trợ từ ghi chú thô của tác giả sang dạng dễ đọc, được ghi nhãn như vậy ở mọi phần, với ghi chú thô chỉ cách một cú nhấp."
+ },
  "ca17d9e86677": {
   "en": "Modeled on the questions in IBM's <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> (what AI was used, what it contributed, how much humans shaped it, and who is accountable):",
   "t": "Dựa theo các câu hỏi trong <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> của IBM (AI nào được dùng, nó đóng góp gì, con người định hình nó đến đâu, và ai chịu trách nhiệm):"
@@ -278,6 +290,10 @@
  "e8ebc8d12782": {
   "en": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter), for the structured data in each page",
   "t": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter), cho dữ liệu có cấu trúc trong mỗi trang"
+ },
+ "f1afd477240d": {
+  "en": "The raw Behind The Scenes notes in Legacy, the published novels, and the author's answers to the AI's questions.",
+  "t": "Các ghi chú Hậu trường thô trong Legacy, các tiểu thuyết đã xuất bản, và câu trả lời của tác giả cho các câu hỏi của AI."
  },
  "f5234aaefa0e": {
   "en": "Eight Behind The Scenes docs: World Timeline, Villages, Land, Professions, Education, Sports, Novels, Natural and Crafted Resources (human).",
