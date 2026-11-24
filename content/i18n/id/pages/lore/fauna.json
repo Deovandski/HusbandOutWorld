@@ -1,4 +1,36 @@
 {
+ "0044e37fe1da": {
+  "en": "<strong>Sanbi Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>Daging Sanbi</strong>: Daging yang dipotong tukang jagal."
+ },
+ "014e2ebcc276": {
+  "en": "A classic case of convergent evolution.",
+  "t": "Contoh klasik evolusi konvergen."
+ },
+ "0291cae0f9b8": {
+  "en": "<strong>Interface:</strong> Hair on the head and chin.",
+  "t": "<strong>Antarmuka:</strong> Rambut di kepala dan dagu."
+ },
+ "039f5679c3f6": {
+  "en": "<strong>Hide/Fur</strong>: Hide/fur, prepared by a butcher for artisans to work on; incredibly flexible to work with.",
+  "t": "<strong>Kulit/Bulu</strong>: Kulit/bulu, disiapkan tukang jagal untuk dikerjakan para pengrajin. Luar biasa lentur untuk dikerjakan."
+ },
+ "0469898a5d6d": {
+  "en": "<strong>Ptaina Oil</strong>: Used in beer, in food, for greasing things, etc.",
+  "t": "<strong>Minyak Ptaina</strong>: Dipakai dalam bir, makanan, untuk melumasi barang, dll."
+ },
+ "046cbe8c1a3a": {
+  "en": "~15 km",
+  "t": "~15 km"
+ },
+ "04e62b3dcc96": {
+  "en": "<strong>Barina Lungs</strong>: Useful for nari gels.",
+  "t": "<strong>Paru-paru Barina</strong>: Berguna untuk nari gel."
+ },
+ "04ee21f55656": {
+  "en": "<strong>Legunia Egg</strong>: More of an upscale culinary ingredient than everyday food, because of its stronger taste and smell.",
+  "t": "<strong>Telur Legunia</strong>: Lebih merupakan bahan kuliner kelas atas daripada makanan sehari-hari, karena rasa dan baunya yang lebih kuat."
+ },
  "053d9599488e": {
   "en": "<strong>Skills:</strong> Its carapace can flip between Walking Heart modes at will, activating the Walking Heart by inflating it with blood, though it can't seem to keep that up for long.",
   "t": "<strong>Kemampuan:</strong> Cangkangnya bisa berganti mode Walking Heart sesuka hati, mengaktifkan Walking Heart dengan menggembungkannya dengan darah, meski tampaknya tak bisa mempertahankannya lama."
@@ -7,9 +39,53 @@
   "en": "Fauna",
   "t": "Fauna"
  },
+ "06051c61df2d": {
+  "en": "<strong>Skills:</strong> Gravity Down; Oil Up.",
+  "t": "<strong>Kemampuan:</strong> Gravity Down; Oil Up."
+ },
+ "0658a4d6291b": {
+  "en": "<strong>Interface:</strong> Spikes on back; See Races &gt; Cruro.",
+  "t": "<strong>Antarmuka:</strong> Duri di punggung; Lihat Ras &gt; Cruro."
+ },
+ "0661c4022922": {
+  "en": "<strong>Tastes like:</strong> Chewy, rubbery chicken.",
+  "t": "<strong>Rasanya seperti:</strong> Ayam yang alot dan kenyal seperti karet."
+ },
+ "06be860b4b3e": {
+  "en": "<strong>Food:</strong> Berries &amp; Fruits.",
+  "t": "<strong>Makanan:</strong> Beri &amp; Buah."
+ },
  "07435648d9f3": {
   "en": "Cinikas, meanwhile, are not exactly as extraordinary unless there's a swarm of them and you're a sweaty Wozefaries or Sorefaries; then you're big trouble as they will swarm you, paralyze you, and lick your sweet sweat. The soul energy interface of a single Cinika is not that powerful, but when there's a swarm of them, they might overwhelm even a Hifuna beast. They also behave distinctly differently in reaction to pressure and humidity changes—actually, that is extraordinary! If you see them make a tight-closed swarm and flutter around like they are seeking shelter, then for sure, there's a nasty storm brewing on the horizon.",
   "t": "Sementara itu, Cinika tidak begitu istimewa kecuali ada sekawanan besar dan kamu seorang Wozefaries atau Sorefaries yang berkeringat; saat itu kamu dalam masalah besar karena mereka akan mengerubutimu, melumpuhkanmu, dan menjilati keringat manismu. Antarmuka energi jiwa seekor Cinika tidak terlalu kuat, tapi dalam kawanan besar, mereka mungkin bisa melumpuhkan bahkan makhluk buas Hifuna. Mereka juga berperilaku sangat berbeda sebagai respons terhadap perubahan tekanan dan kelembapan—itu sebenarnya luar biasa! Kalau kamu melihat mereka membentuk kawanan rapat dan beterbangan seolah mencari tempat berlindung, berarti badai hebat pasti sedang datang di cakrawala."
+ },
+ "0753b4a20179": {
+  "en": "~35 km",
+  "t": "~35 km"
+ },
+ "080be8501b1b": {
+  "en": "<strong>Skills:</strong> Sense Surroundings; Communicate in radio waves; Emit strong radio waves that cause migraines in most people; Inflate/expand their lips, then rupture them out of their bodies as fake prey. Usually as an escape maneuver; They can do the same with their tails and grow them extra long to evade beasts/hunters.",
+  "t": "<strong>Kemampuan:</strong> Sense Surroundings; berkomunikasi dengan gelombang radio; memancarkan gelombang radio kuat yang menyebabkan migrain pada kebanyakan orang; menggembungkan/memperbesar bibirnya, lalu memecahkannya keluar dari tubuh sebagai mangsa palsu. Biasanya sebagai manuver melarikan diri; mereka bisa melakukan hal yang sama dengan ekornya dan memanjangkannya untuk menghindari makhluk buas/pemburu."
+ },
+ "08187a6acb2d": {
+  "en": "<strong>Wozen Nose</strong>: Used in nari gels.",
+  "t": "<strong>Hidung Wozen</strong>: Dipakai dalam nari gel."
+ },
+ "085a75e4aa78": {
+  "en": "<strong>Reproduction:</strong> Every 6 months.",
+  "t": "<strong>Reproduksi:</strong> Setiap 6 bulan."
+ },
+ "08756e3e421f": {
+  "en": "<strong>Tamed Legunia</strong>: A great pet, and that's about it: it flees at the first sign of danger, and it isn't very smart or social.",
+  "t": "<strong>Legunia Jinak</strong>: Hewan peliharaan yang bagus, dan cuma itu: ia kabur pada tanda bahaya pertama, dan tidak terlalu cerdas atau suka bergaul."
+ },
+ "08b1ecdb061a": {
+  "en": "<strong>Fihi Corpse</strong>: Freshly killed nearby and stored in a wagon with ice, ready for the butcher shops or to be shipped out.",
+  "t": "<strong>Bangkai Fihi</strong>: Baru dibunuh di dekat situ dan disimpan di gerobak berisi es, siap untuk toko-toko jagal atau dikirim ke luar."
+ },
+ "08c2c67ed670": {
+  "en": "<strong>Tamed Fanchaki</strong>: Some keep them as pets, but they're mostly livestock. Some use them as bait for predators, especially for their Soul Energy abilities.",
+  "t": "<strong>Fanchaki Jinak</strong>: Sebagian memeliharanya sebagai hewan peliharaan, tapi kebanyakan ternak. Sebagian memakainya sebagai umpan untuk pemangsa, terutama karena kemampuan Energi Jiwanya."
  },
  "08cd94ec60ad": {
   "en": "Barina",
@@ -23,13 +99,65 @@
   "en": "Crocus is the progenitor species of the Cruros. Nothing exactly special about them other than they look hella cute, chunky, and bite like a mean motherfucker. Someone said they tamed one and got it as a pet, but there's no recorded proof. If any crazy scientists figure it out, Forway will have a new pet craze.",
   "t": "Crocus adalah spesies leluhur Cruro. Tidak ada yang istimewa dari mereka selain mereka lucu sekali, gemuk, dan menggigit seperti bajingan galak. Ada yang bilang pernah menjinakkan seekor dan menjadikannya hewan peliharaan, tapi tidak ada bukti tertulis. Kalau ada ilmuwan gila yang berhasil, Forway akan dilanda tren hewan peliharaan baru."
  },
+ "0b2c64e4b62c": {
+  "en": "<strong>Reproduction:</strong> About 10 are born every few months.",
+  "t": "<strong>Reproduksi:</strong> Sekitar 10 lahir setiap beberapa bulan."
+ },
+ "0bf9b2f261b8": {
+  "en": "<strong>Barina Venom Glands</strong>: Used in nari gels.",
+  "t": "<strong>Kelenjar Bisa Barina</strong>: Dipakai dalam nari gel."
+ },
  "0c24c85d2564": {
   "en": "<strong>Food:</strong> Flower nectar.",
   "t": "<strong>Makanan:</strong> Nektar bunga."
  },
+ "0c8277ae3994": {
+  "en": "<strong>Reproduction:</strong> Every few months.",
+  "t": "<strong>Reproduksi:</strong> Setiap beberapa bulan."
+ },
+ "0dbf69cc4c24": {
+  "en": "<strong>Reproduction:</strong> Tens of Sanbi fish a year.",
+  "t": "<strong>Reproduksi:</strong> Puluhan ikan Sanbi setahun."
+ },
+ "115bbcf5dd6f": {
+  "en": "<strong>Interface:</strong> Jumping Feet; Microwave detection (whiskers); Can spot objects in the walls/dirt. It’s like an infrared camera of sorts.",
+  "t": "<strong>Antarmuka:</strong> Kaki Pelompat; deteksi gelombang mikro (kumis); bisa melihat benda di dalam dinding/tanah. Semacam kamera inframerah."
+ },
+ "11ec1babc73d": {
+  "en": "<strong>Interface:</strong> Wattle.",
+  "t": "<strong>Antarmuka:</strong> Gelambir."
+ },
+ "1281489bcdfb": {
+  "en": "<strong>Skills:</strong> High Jump; Super Speed.",
+  "t": "<strong>Kemampuan:</strong> High Jump; Super Speed."
+ },
+ "128ffeb49119": {
+  "en": "<strong>Wooly Dried Milk</strong>: Milk often dried for transport to the rest of the kingdoms.",
+  "t": "<strong>Susu Kering Wooly</strong>: Susu yang sering dikeringkan untuk diangkut ke kerajaan-kerajaan lainnya."
+ },
  "140e208733de": {
   "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Fauna.md\">Legacy/Behind The Scenes/World Lore/Fauna.md</a>",
   "t": "Sumber: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Fauna.md\">Legacy/Behind The Scenes/World Lore/Fauna.md</a>"
+ },
+ "151d88477aac": {
+  "en": "<strong>Tastes like:</strong> Chicken meat near the bone, fattier and stronger.",
+  "t": "<strong>Rasanya seperti:</strong> Daging ayam di dekat tulang, lebih berlemak dan lebih kuat."
+ },
+ "1542647c4a28": {
+  "en": "<strong>Habitat:</strong> Oceans, mostly near deltas.",
+  "t": "<strong>Habitat:</strong> Laut, kebanyakan dekat delta."
+ },
+ "16695cfd09d5": {
+  "en": "<strong>Skills:</strong> Speedy Reaction; Fake Body.",
+  "t": "<strong>Kemampuan:</strong> Speedy Reaction; Fake Body."
+ },
+ "1690d73235ec": {
+  "en": "<strong>Legunia Fat</strong>: A delicacy, like duck fat, used in lots of cooking.",
+  "t": "<strong>Lemak Legunia</strong>: Hidangan istimewa, seperti lemak bebek, dipakai dalam banyak masakan."
+ },
+ "16e720a9a4f9": {
+  "en": "<strong>Tastes like:</strong> Chicken, but hard, only good for stew, and it doesn't freeze well. It smells clean and mild, almost like fresh tuna without the ocean smell: more like faint wet grass, like being downwind of someone cutting grass.",
+  "t": "<strong>Rasanya seperti:</strong> Ayam, tapi keras, hanya enak untuk semur, dan tidak tahan dibekukan. Baunya bersih dan lembut, nyaris seperti tuna segar tanpa bau laut: lebih seperti rumput basah samar, seperti berada di arah angin dari seseorang yang memotong rumput."
  },
  "17d4b0096fcf": {
   "en": "Lansha",
@@ -43,17 +171,53 @@
   "en": "Ptaina",
   "t": "Ptaina"
  },
+ "19b16e9c735f": {
+  "en": "<strong>Inspired by:</strong> Fennec Fox; Horned Lizard.",
+  "t": "<strong>Terinspirasi dari:</strong> Rubah Fennec; Kadal Bertanduk."
+ },
+ "1a705d073f31": {
+  "en": "<strong>Intelligence:</strong> Alligator.",
+  "t": "<strong>Kecerdasan:</strong> Aligator."
+ },
  "1b00bcc07773": {
   "en": "Winga is famous for being a social companion with a remarkable memory of landscapes and people's faces; they are the backbone of the interkingdom Winga mail courier services. Some, on the other hand, find its sweet meat a delicacy! Even the wild ones taste just as great too! Watch out for their interface if you decide to hunt them yourself—they will shriek so loud to make your ears bleed to strengthen their beak and claws to cut through anything to break free. Oh! Almost forgot! You will be in deep shit if you hunt down a Winga working for Forway.",
   "t": "Winga terkenal sebagai teman yang suka bergaul dengan ingatan luar biasa akan lanskap dan wajah; mereka adalah tulang punggung layanan kurir surat Winga antarkerajaan. Di sisi lain, sebagian orang menganggap dagingnya yang manis sebagai hidangan istimewa! Bahkan yang liar pun sama enaknya! Waspadai antarmuka mereka kalau kamu memutuskan memburunya sendiri—mereka akan menjerit begitu nyaring sampai telingamu berdarah, untuk memperkuat paruh dan cakar mereka agar bisa memotong apa saja demi meloloskan diri. Oh! Hampir lupa! Kamu akan terjerumus dalam masalah besar kalau memburu Winga yang bekerja untuk Forway."
+ },
+ "1b24bb431e26": {
+  "en": "<strong>Habitat:</strong> Throughout the four kingdoms and their cities, and in the wild, mostly in open fields.",
+  "t": "<strong>Habitat:</strong> Di seluruh empat kerajaan dan kota-kotanya, dan di alam liar, kebanyakan di padang terbuka."
  },
  "1e204423cd31": {
   "en": "Barina: a small black-and-yellow frog-like creature with a spiny blue tail, at about knee height.",
   "t": "Barina: makhluk kecil hitam-kuning mirip katak dengan ekor biru berduri, kira-kira setinggi lutut."
  },
+ "1e4f10ae7904": {
+  "en": "<strong>Tamed Adult Egua</strong>: An adult Egua, ready to work.",
+  "t": "<strong>Egua Dewasa Jinak</strong>: Egua dewasa, siap bekerja."
+ },
+ "1ee37fbe724d": {
+  "en": "<strong>Habitat:</strong> Nowadays they only live in the Gandew Kingdom, and in the wild in the high mountains that border the desert (Old Fuhrair), at about 4 to 6 km. They would suffocate in their own fur at altitudes &lt; 4km, or the humidity would spoil their fur. They were meant for high altitudes.",
+  "t": "<strong>Habitat:</strong> Kini mereka hanya hidup di Kerajaan Gandew, dan di alam liar di pegunungan tinggi yang berbatasan dengan gurun (Old Fuhrair), di ketinggian sekitar 4 sampai 6 km. Mereka akan tercekik oleh bulunya sendiri di ketinggian &lt; 4km, atau kelembapan akan merusak bulunya. Mereka memang diciptakan untuk dataran tinggi."
+ },
+ "205eb12c794b": {
+  "en": "<strong>Skills:</strong> Shooting the spikes off their back in self-defense; Harden Skin; Invisibility (bending light around themselves, slightly distorted), which often lasts for hours, since they usually stay still.",
+  "t": "<strong>Kemampuan:</strong> Menembakkan duri dari punggungnya untuk membela diri; Harden Skin; Invisibility (membelokkan cahaya di sekitar dirinya, sedikit terdistorsi), yang sering bertahan berjam-jam, karena mereka biasanya diam."
+ },
+ "20c0fb61694d": {
+  "en": "<strong>Ptaina Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>Daging Ptaina</strong>: Daging yang dipotong tukang jagal."
+ },
  "20c90d695153": {
   "en": "Fauna · #HusbandOutWorld",
   "t": "Fauna · #HusbandOutWorld"
+ },
+ "22ae8bca0cdd": {
+  "en": "<strong>Interface:</strong> Eyes/Ears.",
+  "t": "<strong>Antarmuka:</strong> Mata/Telinga."
+ },
+ "23ec7a1af084": {
+  "en": "<strong>Wozen Jerky</strong>: Jerky prepared by a butcher. Not really desirable by many people due to its strong gamey flavor. Usually served up to poorer people.",
+  "t": "<strong>Dendeng Wozen</strong>: Dendeng buatan tukang jagal. Tidak terlalu diminati banyak orang karena rasa liarnya yang kuat. Biasanya disajikan untuk orang yang lebih miskin."
  },
  "25be17d8e5c2": {
   "en": "<strong>Cuisine</strong>: See Freeish Kingdom.",
@@ -63,21 +227,85 @@
   "en": "Fanchaki",
   "t": "Fanchaki"
  },
+ "260fc1f74452": {
+  "en": "<strong>Reproduction:</strong> Every year; 7 eggs laid, of which only a few reach adulthood.",
+  "t": "<strong>Reproduksi:</strong> Setiap tahun; 7 telur, dan hanya sedikit yang mencapai dewasa."
+ },
+ "26417dd405ab": {
+  "en": "<strong>Tastes like:</strong> Light chicken or white fish.",
+  "t": "<strong>Rasanya seperti:</strong> Ayam ringan atau ikan putih."
+ },
+ "2680a4a5913e": {
+  "en": "~7 km/h",
+  "t": "~7 km/jam"
+ },
+ "268e9914ffdc": {
+  "en": "<strong>Sanbi Fish Roe</strong>: A treat for some.",
+  "t": "<strong>Telur Ikan Sanbi</strong>: Camilan istimewa bagi sebagian orang."
+ },
+ "275857ac51bd": {
+  "en": "<strong>Tastes like:</strong> Honey turkey breast, but not as tender.",
+  "t": "<strong>Rasanya seperti:</strong> Dada kalkun madu, tapi tidak selembut itu."
+ },
+ "27b8bbffa474": {
+  "en": "~10 km/h",
+  "t": "~10 km/jam"
+ },
+ "27c5117f780e": {
+  "en": "<strong>Fihi Skin</strong>: Skin prepared by a butcher. A common treat of the people in the lower regions. Usually fried.",
+  "t": "<strong>Kulit Fihi</strong>: Kulit yang disiapkan tukang jagal. Camilan umum orang-orang di wilayah bawah. Biasanya digoreng."
+ },
+ "2808f68554ff": {
+  "en": "<strong>Fatupari Meat</strong>: Meat cut by a butcher. Cheap, since most people hate it; it's mostly eaten by poorer people, or by some weirdos who swear by its taste.",
+  "t": "<strong>Daging Fatupari</strong>: Daging yang dipotong tukang jagal. Murah, karena kebanyakan orang membencinya; kebanyakan dimakan orang yang lebih miskin, atau beberapa orang aneh yang bersumpah rasanya enak."
+ },
+ "281967452d11": {
+  "en": "<strong>Wooly Hide/Fur/Pelt</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Kulit/Bulu/Kulit Berbulu Wooly</strong>: Kulit/bulu, disiapkan tukang jagal untuk dikerjakan para pengrajin."
+ },
  "28c2e029ba4d": {
   "en": "<strong>Habitat:</strong> Ponds. Someone dumped Walking Hearts into a pond near the Freeish Kingdom; the worms ate them, and it altered their souls.",
   "t": "<strong>Habitat:</strong> Kolam. Seseorang membuang Walking Heart ke kolam di dekat Kerajaan Freeish; cacing-cacing itu memakannya, dan itu mengubah jiwa mereka."
+ },
+ "28e799875885": {
+  "en": "<strong>Reproduction:</strong> One to three Woolies a year.",
+  "t": "<strong>Reproduksi:</strong> Satu sampai tiga Wooly setahun."
  },
  "2c129c23a434": {
   "en": "Legunia is a desert bird that mimics a sand worm in everything it does, except it eats berries and such instead of other mammals. You can use the hump in their backs as an easy “indicator species” of how survivable the desert currently is. If their hump is deflatable, you should get out while you still can, unless you know exactly what you’re doing. Hunting them down for food and water is easier said than done. Then can easily be miles away before your second shot.",
   "t": "Legunia adalah burung gurun yang meniru sand worm dalam segala hal yang ia lakukan, kecuali ia memakan beri dan sejenisnya, bukan mamalia lain. Kamu bisa memakai punuk di punggungnya sebagai “spesies indikator” yang mudah untuk melihat seberapa layak huni gurun saat itu. Kalau punuknya kempis, sebaiknya kamu keluar selagi bisa, kecuali kamu benar-benar tahu apa yang kamu lakukan. Memburu mereka untuk makanan dan air lebih mudah diucapkan daripada dilakukan. Mereka bisa dengan mudah berada berkilo-kilometer jauhnya sebelum tembakan keduamu."
  },
+ "2d2cb022bc3d": {
+  "en": "Speed",
+  "t": "Kecepatan"
+ },
  "2e7c4501a51f": {
   "en": "<strong>Skills:</strong> Water Walk; Dirt Repel; Increase/decrease size of legs; Eject their privates or intestines through their asshole (very specific, but that's how they got away from certain predators).",
   "t": "<strong>Kemampuan:</strong> Water Walk; Dirt Repel; Increase/decrease ukuran kaki; Mengeluarkan alat kelamin atau ususnya lewat lubang pantat (sangat spesifik, tapi begitulah cara mereka lolos dari pemangsa tertentu)."
  },
+ "2ec7dfe9217b": {
+  "en": "<strong>Skills:</strong> Distant Hearing; Cloak detection; Blood Shield (self-defense only).",
+  "t": "<strong>Kemampuan:</strong> Distant Hearing; deteksi Cloak; Blood Shield (hanya untuk membela diri)."
+ },
+ "2f12699f173c": {
+  "en": "<strong>Skills:</strong> Launching themselves at a target; Air Buoyancy.",
+  "t": "<strong>Kemampuan:</strong> Melontarkan diri ke target; Air Buoyancy."
+ },
+ "305016cbc048": {
+  "en": "<strong>Sayna Hide/Carapace</strong>: Hide/fur, prepared by a butcher for artisans to work on. Rare to find.",
+  "t": "<strong>Kulit/Cangkang Sayna</strong>: Kulit/bulu, disiapkan tukang jagal untuk dikerjakan para pengrajin. Langka ditemukan."
+ },
  "3105ba0cdecb": {
   "en": "Wozens are pests that wander mostly in the denser forests around Freeish, but it is not unusual to see them attack people at night in the plains close to Forway. They are predators, so their interface usage makes them near impossible to be seen or heard as they prowl around. Once they decide on a victim, they can jump several times their height, and once their jaw shuts tight on your flesh, there's no letting go as it casts attraction on its teeth. Their pelt and some body parts like eyes are certainly valuable, but its incredibly tough and gamey meat is not—except for people in the slums, or poorer villages, so if you have space to haul it to your nearest butcher, then do so! Some places even consider it as charitable tax write-offs!",
   "t": "Wozen adalah hama yang kebanyakan berkeliaran di hutan lebat sekitar Freeish, tapi bukan hal aneh melihat mereka menyerang orang di malam hari di dataran dekat Forway. Mereka predator, dan penggunaan antarmuka mereka membuat mereka hampir mustahil terlihat atau terdengar saat mengintai. Begitu memilih korban, mereka bisa melompat beberapa kali tinggi badannya, dan begitu rahangnya mengatup di dagingmu, mereka tidak akan melepaskannya, karena mereka merapal daya tarik pada giginya. Bulu dan beberapa bagian tubuh seperti mata memang berharga, tapi dagingnya yang sangat alot dan prengus tidak—kecuali bagi orang-orang di daerah kumuh atau desa yang lebih miskin, jadi kalau kamu punya tempat untuk menyeretnya ke tukang daging terdekat, lakukanlah! Sebagian tempat bahkan menganggapnya sumbangan yang bisa mengurangi pajak!"
+ },
+ "31cef8928785": {
+  "en": "<strong>Food:</strong> Primarily Gyut Berries.",
+  "t": "<strong>Makanan:</strong> Terutama buah beri Gyut."
+ },
+ "322914c82758": {
+  "en": "<strong>Food:</strong> Insects and small rodents.",
+  "t": "<strong>Makanan:</strong> Serangga dan hewan pengerat kecil."
  },
  "339c23234c8e": {
   "en": "Fatupari, based on their size, would assume they would be classified as Beasts, but not only are they kinda dumb relative to other beasts, but they are also easier to dispatch than one thinks. If you tear their pink webbing, they can't use any magic against you. Or you can fight them fairly if you want to take it up a notch for whatever reason. Either way, some random weirdos swear by its distinctively bitter taste—like soaking wild pheasant breasts in quinine and cooking it until it's stringy and tough for shits and giggles. At least their hide and webbing are usual for a myriad of things for their rugged and water-repellant properties; plus, it looks pretty snazzy too!",
@@ -95,6 +323,34 @@
   "en": "Monikas are loner butterflies tightly associated with death and decay. Their interface is considered the best at identifying corpses, especially if the corpse is tied to a soul pool with a lot of soul energy. They also have the ability to turn desired volatile compounds of scents into a visual representation that aids in understanding its concentration and source—known as Monika sight, a nari gel concoction customized with the desired volatile compound, turned even exceptional if paired with Wozen Smell for both finding things like dead adventurers, detect poisonous things like traps, or even track down live animals or humans by using the droppings or sweat. Adventurers on the brink of death often implore to be found by these peaceful-looking butterflies—at least some do until they remember the cost of revival.",
   "t": "Monika adalah kupu-kupu penyendiri yang sangat lekat dengan kematian dan pembusukan. Antarmuka mereka dianggap yang terbaik untuk mengenali mayat, terutama jika mayat itu terikat dengan kolam jiwa yang kaya energi jiwa. Mereka juga mampu mengubah senyawa volatil yang diinginkan dari suatu bau menjadi gambaran visual yang membantu memahami kadar dan sumbernya—dikenal sebagai Monika sight, racikan nari gel khusus dengan senyawa volatil yang diinginkan, yang menjadi luar biasa bila dipadukan dengan Wozen Smell, baik untuk menemukan hal-hal seperti petualang yang tewas, mendeteksi hal beracun seperti perangkap, bahkan melacak hewan atau manusia hidup lewat kotoran atau keringatnya. Petualang di ambang kematian sering memohon agar ditemukan oleh kupu-kupu yang tampak damai ini—setidaknya sebagian, sampai mereka ingat biaya penghidupan kembali."
  },
+ "3866bfafb0fe": {
+  "en": "<strong>Intelligence:</strong> Like a rabbit or so. Tends to be in groups. Tends to be defensive/run away. When you get close to it, it tends to hiss. If attacked, it screams like a dying human.",
+  "t": "<strong>Kecerdasan:</strong> Kira-kira seperti kelinci. Cenderung berkelompok. Cenderung defensif/kabur. Saat kamu mendekat, ia cenderung mendesis. Kalau diserang, ia menjerit seperti manusia sekarat."
+ },
+ "3866f1ec044e": {
+  "en": "~30 km/h",
+  "t": "~30 km/jam"
+ },
+ "3ba25d3a3411": {
+  "en": "Created by a Buhraies who fell in love with a Lishie and had to prove himself, with something that would help the Lishies, to be accepted into the mountains. A hybrid of cow and sheep DNA that only thrives at high altitudes, where it's colder and drier. Its milk and wool are a staple of Gandew's economy, and so is its meat, from older females, or males without the best genes or health. When dying or giving birth, it lets out a massive scream that can be heard for kilometers.",
+  "t": "Diciptakan seorang Buhraies yang jatuh cinta pada seorang Lishie dan harus membuktikan dirinya, dengan sesuatu yang akan membantu para Lishies, agar diterima di pegunungan. Hibrida DNA sapi dan domba yang hanya berkembang di dataran tinggi, tempat yang lebih dingin dan kering. Susu dan wolnya menjadi andalan ekonomi Gandew, begitu pula dagingnya, dari betina yang lebih tua, atau jantan yang gen atau kesehatannya bukan yang terbaik. Saat sekarat atau melahirkan, ia mengeluarkan jeritan dahsyat yang bisa terdengar sampai berkilo-kilometer."
+ },
+ "3c194790829e": {
+  "en": "<strong>Inspired by:</strong> Kushlukia.",
+  "t": "<strong>Terinspirasi dari:</strong> Kushlukia."
+ },
+ "3cd1c71de2fe": {
+  "en": "<strong>Wozen Meat</strong>: Meat cut by a butcher. Not very desirable, so it's mostly sold as a by-product of killing Wozens for their pelts.",
+  "t": "<strong>Daging Wozen</strong>: Daging yang dipotong tukang jagal. Tidak terlalu diminati, jadi kebanyakan dijual sebagai hasil sampingan dari membunuh Wozen demi kulit berbulunya."
+ },
+ "3d3824559256": {
+  "en": "<strong>Food:</strong> Gulps down smaller fish.",
+  "t": "<strong>Makanan:</strong> Menelan ikan-ikan yang lebih kecil."
+ },
+ "3e49d79b0624": {
+  "en": "<strong>Inspired by:</strong> Babirusa.",
+  "t": "<strong>Terinspirasi dari:</strong> Babirusa."
+ },
  "3e8bdb039dee": {
   "en": "Legunia: a tall brown-and-cream bird with a long neck and a fan-like crest.",
   "t": "Legunia: burung tinggi berwarna cokelat dan krem dengan leher panjang dan jambul mirip kipas."
@@ -103,17 +359,93 @@
   "en": "Male and female Sorenos: small round brown rodents with white bellies, at about knee height.",
   "t": "Soreno jantan dan betina: hewan pengerat kecil cokelat yang bulat dengan perut putih, kira-kira setinggi lutut."
  },
+ "4070ae935aaf": {
+  "en": "<strong>Tamed Child Egua</strong>: Can work, but with smaller loads (about 0.4 of an adult's; see Load and strain above). Adventurers tend to buy young Eguas to carry some of their gear and loot as they walk alongside them.",
+  "t": "<strong>Egua Anak Jinak</strong>: Bisa bekerja, tapi dengan beban lebih kecil (sekitar 0,4 dari yang dewasa; lihat Beban dan tekanan di atas). Para petualang cenderung membeli Egua muda untuk mengangkut sebagian perlengkapan dan jarahan mereka sambil berjalan di sampingnya."
+ },
+ "42052b2fa751": {
+  "en": "<strong>Reproduction:</strong> Every year; ~3 eggs laid, of which only a few reach adulthood.",
+  "t": "<strong>Reproduksi:</strong> Setiap tahun; ~3 telur, dan hanya sedikit yang mencapai dewasa."
+ },
+ "445fca514b10": {
+  "en": "<strong>Skills:</strong> Shocking targets in front of them.",
+  "t": "<strong>Kemampuan:</strong> Menyetrum target di depannya."
+ },
  "4519d490ec5c": {
   "en": "<strong>Tastes like:</strong> Dirt. Very earthy.",
   "t": "<strong>Rasanya seperti:</strong> Tanah. Sangat bersahaja seperti tanah."
+ },
+ "4556ee6c7b54": {
+  "en": "<strong>Food:</strong> Rodents.",
+  "t": "<strong>Makanan:</strong> Hewan pengerat."
  },
  "4647df281022": {
   "en": "An adult Egua weighs about 900 kg. <strong>Strain</strong> is the share of that body weight it's working against: more weight means more strain, and so does going faster. Up to 10% strain is comfortable all day; 20% is the maximum.",
   "t": "Egua dewasa beratnya sekitar 900 kg. <strong>Tekanan</strong> adalah bagian dari berat badan itu yang harus dilawannya: makin berat, makin besar tekanannya, begitu pula kalau makin cepat. Tekanan sampai 10% nyaman sepanjang hari; 20% adalah maksimum."
  },
+ "46698ab0fa79": {
+  "en": "<strong>Tamed Winga</strong>: A great hunter companion, or pet.",
+  "t": "<strong>Winga Jinak</strong>: Pendamping berburu yang hebat, atau hewan peliharaan."
+ },
+ "47180e6bf534": {
+  "en": "<strong>Tastes like:</strong> Fatty chicken, very tender.",
+  "t": "<strong>Rasanya seperti:</strong> Ayam berlemak, sangat empuk."
+ },
+ "4865428de0f8": {
+  "en": "<strong>Inspired by:</strong> Gopher/Gerbil; Hops around like a gerbil.",
+  "t": "<strong>Terinspirasi dari:</strong> Gopher/Gerbil; Melompat-lompat seperti gerbil."
+ },
+ "4a0b4c2ccf85": {
+  "en": "<strong>Intelligence:</strong> Parrot.",
+  "t": "<strong>Kecerdasan:</strong> Burung beo."
+ },
+ "4a6203e8226d": {
+  "en": "<strong>Skills:</strong> Cloak (temperature and vision); Hearing; Long-distance communication; Imitating animal voices; Shooting themselves in any direction with a quick motion.",
+  "t": "<strong>Kemampuan:</strong> Cloak (suhu dan penglihatan); Pendengaran; Komunikasi jarak jauh; Meniru suara hewan; Melontarkan diri ke arah mana pun dengan gerakan cepat."
+ },
+ "4a6c485608b8": {
+  "en": "<strong>Wooly Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Dendeng Wooly</strong>: Dendeng buatan tukang jagal."
+ },
  "4a70f16255ca": {
   "en": "Sayna",
   "t": "Sayna"
+ },
+ "4b7574850a69": {
+  "en": "<strong>Wooly Horns</strong>: Horns, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Tanduk Wooly</strong>: Tanduk, disiapkan tukang jagal untuk dikerjakan para pengrajin."
+ },
+ "4bfb4d81087a": {
+  "en": "<strong>Inspired by:</strong> Chinese Alligator.",
+  "t": "<strong>Terinspirasi dari:</strong> Aligator Tiongkok."
+ },
+ "4c2ef3dc6f45": {
+  "en": "<strong>Interface:</strong> Ears.",
+  "t": "<strong>Antarmuka:</strong> Telinga."
+ },
+ "4ccfb2775cda": {
+  "en": "<strong>Intelligence:</strong> Anaconda.",
+  "t": "<strong>Kecerdasan:</strong> Anakonda."
+ },
+ "4d0a0eed90cb": {
+  "en": "<strong>Tamed Adult Soreno</strong>: They take a while to train properly, but they can relay conversations over long distances without other humans hearing, because of their high pitch. A secret trick of the Hidden Sorenos gang.",
+  "t": "<strong>Soreno Dewasa Jinak</strong>: Butuh waktu untuk dilatih dengan benar, tapi mereka bisa menyampaikan percakapan jarak jauh tanpa terdengar manusia lain, karena nadanya yang tinggi. Trik rahasia geng Hidden Sorenos."
+ },
+ "4d7055021ed1": {
+  "en": "<strong>Inspired by:</strong> Cow &amp; Sheep.",
+  "t": "<strong>Terinspirasi dari:</strong> Sapi &amp; Domba."
+ },
+ "4dafbcd2ed94": {
+  "en": "<strong>Bagarisa Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Dendeng Bagarisa</strong>: Dendeng buatan tukang jagal."
+ },
+ "4f1dae52b2ee": {
+  "en": "<strong>Sanbi Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Dendeng Sanbi</strong>: Dendeng buatan tukang jagal."
+ },
+ "509148b74cd4": {
+  "en": "<strong>Egua Hide/Fur</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Kulit/Bulu Egua</strong>: Kulit/bulu, disiapkan tukang jagal untuk dikerjakan para pengrajin."
  },
  "52011a660ccb": {
   "en": "Yuyta",
@@ -123,9 +455,25 @@
   "en": "Ptaina’s gelatinous thingy in its head has rays of purplish light coming out within that will never send you good vibes. In the opposite, actually. It can send ultrasonic vibrations that can tear your insides—if you’re in the water, of course. It’s not as powerful on land except you’re dumb enough to touch it. Plus, they can mess with your compass and your sense of orientation, and give you a nasty headache, too! The raw meat has a more pungent taste and rougher texture, kinda like shark meat, so people usually season and stew the fuck out of it. Or you’re too poor to buy good stuff and have to eat Ptaina to survive. Or you’re so goddam rich that you think it’s a delicacy.",
   "t": "Benda bergelatin di kepala Ptaina memancarkan sinar keunguan dari dalam yang tidak akan pernah memberimu aura baik. Malah sebaliknya. Ia bisa mengirim getaran ultrasonik yang mampu merobek isi perutmu—kalau kamu di dalam air, tentu saja. Di darat ia tidak sekuat itu, kecuali kamu cukup bodoh untuk menyentuhnya. Ditambah lagi, ia bisa mengacaukan kompas dan rasa arahmu, sekaligus memberimu sakit kepala hebat! Daging mentahnya beraroma lebih tajam dan bertekstur lebih kasar, agak mirip daging hiu, jadi orang biasanya membumbui dan merebusnya lama sekali. Atau kamu terlalu miskin untuk membeli yang enak dan terpaksa makan Ptaina untuk bertahan hidup. Atau kamu begitu kaya raya sampai menganggapnya hidangan istimewa."
  },
+ "55b2034d4d36": {
+  "en": "<strong>Inspired by:</strong> Elephant with Hippopotamus.",
+  "t": "<strong>Terinspirasi dari:</strong> Gajah dengan kuda nil."
+ },
+ "55ba512805c6": {
+  "en": "<strong>Legunia Feathers</strong>: Feathers, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Bulu Legunia</strong>: Bulu, disiapkan tukang jagal untuk dikerjakan para pengrajin."
+ },
  "55f513d86654": {
   "en": "<strong>Tier I (Cheap Goods):</strong> freshly killed animals, plus elemental Soul Energy interface actions for storage.",
   "t": "<strong>Tingkat I (Barang Murah):</strong> hewan yang baru dibunuh, ditambah tindakan antarmuka Energi Jiwa elemen untuk penyimpanan."
+ },
+ "56500fb78d75": {
+  "en": "<strong>Reproduction:</strong> Hundreds of Ptainas per year, but most become food for other fish along the way.",
+  "t": "<strong>Reproduksi:</strong> Ratusan Ptaina per tahun, tapi kebanyakan menjadi makanan ikan lain di sepanjang jalan."
+ },
+ "578d54e46391": {
+  "en": "<strong>Intelligence:</strong> Dog, great for a companion. Golden Retriever. Goofy.",
+  "t": "<strong>Kecerdasan:</strong> Anjing, bagus untuk pendamping. Golden Retriever. Konyol."
  },
  "57c9e45d2e4a": {
   "en": "Load and strain",
@@ -139,6 +487,14 @@
   "en": "<strong>Intelligence:</strong> Horse.",
   "t": "<strong>Kecerdasan:</strong> Kuda."
  },
+ "595bdb8f427c": {
+  "en": "Night hunters, known for snacking on humans when given the chance. They run fast and are skilled in close combat with their claws. They tend to be defensive, except at night, when they come out to hunt.",
+  "t": "Pemburu malam, dikenal suka mengudap manusia kalau ada kesempatan. Mereka berlari cepat dan terampil bertarung jarak dekat dengan cakarnya. Mereka cenderung defensif, kecuali di malam hari, saat mereka keluar berburu."
+ },
+ "5b6f20dad83c": {
+  "en": "<strong>Fihi Oil</strong>: Used in beer, in food, for greasing things, etc.",
+  "t": "<strong>Minyak Fihi</strong>: Dipakai dalam bir, makanan, untuk melumasi barang, dll."
+ },
  "5c0f1a625789": {
   "en": "Herbivores",
   "t": "Herbivora"
@@ -147,9 +503,37 @@
   "en": "Fihi looks closer to a mammal than a fish, but I assure you it's a fish. It's even kinda cute, except when it opens its beak and reveals an esophagus that looks closer to turtles that will hunt you in your nightmares. They are commonly found on Buhraies plains, but much bigger ones have been spotted on Lukewarm Lake, and the bigger they get, the more aggressive they become. It's a fun catch, with meat akin to catfish, so special preparation is needed to tame the fishy taste. Or you can sell it! Fihis are used for nari gels to extract their ability to control elemental energy, whether absorbing, creating, or releasing it.",
   "t": "Fihi lebih mirip mamalia daripada ikan, tapi saya jamin ia ikan. Ia bahkan cukup lucu, kecuali saat membuka paruhnya dan memperlihatkan kerongkongan yang lebih mirip milik penyu, yang akan menghantuimu dalam mimpi buruk. Ikan ini umum ditemukan di Buhraies plains, tapi yang jauh lebih besar pernah terlihat di Lukewarm Lake, dan semakin besar ukurannya, semakin agresif ia. Tangkapan yang menyenangkan, dengan daging mirip ikan lele, jadi butuh persiapan khusus untuk meredam rasa amisnya. Atau kamu bisa menjualnya! Fihi dipakai dalam nari gel untuk mengekstrak kemampuannya mengendalikan energi unsur, entah menyerap, menciptakan, atau melepaskannya."
  },
+ "5d11f12d5446": {
+  "en": "<strong>Tastes like:</strong> Deer with notes of olive oil.",
+  "t": "<strong>Rasanya seperti:</strong> Daging rusa dengan sentuhan minyak zaitun."
+ },
+ "5d5f32140738": {
+  "en": "<strong>Fatupari Hide</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Kulit Fatupari</strong>: Kulit/bulu, disiapkan tukang jagal untuk dikerjakan para pengrajin."
+ },
+ "5d8891303f1e": {
+  "en": "<strong>Habitat:</strong> Lukewarm Buhraies Lake and the Buhraies region. The Fihi in Lukewarm Buhraies Lake are much bigger, and they eat humans.",
+  "t": "<strong>Habitat:</strong> Lukewarm Buhraies Lake dan wilayah Buhraies. Fihi di Lukewarm Buhraies Lake jauh lebih besar, dan mereka memakan manusia."
+ },
+ "5ef2142ac7d3": {
+  "en": "<strong>Habitat:</strong> Mainly in the ocean to the east of the Sanbi Kingdom.",
+  "t": "<strong>Habitat:</strong> Terutama di laut sebelah timur Kerajaan Sanbi."
+ },
+ "60b48d0dc6ce": {
+  "en": "<strong>Food:</strong> Mainly seeds and insects.",
+  "t": "<strong>Makanan:</strong> Terutama biji-bijian dan serangga."
+ },
  "6163ffb69538": {
   "en": "<strong>Medallions</strong>: Used for some nari gels, but also chopped up and grilled; part of the Freeish Region's cuisine.",
   "t": "<strong>Medali</strong>: Dipakai untuk beberapa nari gel, tapi juga dicincang dan dipanggang; bagian dari masakan Wilayah Freeish."
+ },
+ "62bac2942e06": {
+  "en": "<strong>Intelligence:</strong> Cow.",
+  "t": "<strong>Kecerdasan:</strong> Sapi."
+ },
+ "636aa1543a40": {
+  "en": "<strong>Interface:</strong> Nose.",
+  "t": "<strong>Antarmuka:</strong> Hidung."
  },
  "640820e7cb76": {
   "en": "Fanchaki is a mutation from Chaki and is proof of one of the first, if not the first, successful Buhraies soul tampering, according to historians. Their capability of breeding quicker, growing stronger and better using their interface for defense must have been fundamental to somehow survive the savage Lishies and then humans—because the Chakis are long extinct. Their marbled, tender purple meat became a staple on everyone's menu after The Prosperity Treaty brought more substantial trading across the kingdoms and even turned some adventurers away from adventuring into just hunting these fat bastards to keep up with demand.",
@@ -159,6 +543,22 @@
   "en": "Fihi",
   "t": "Fihi"
  },
+ "663b306bc2a2": {
+  "en": "<strong>Interface:</strong> Tail/Ears/Mouth.",
+  "t": "<strong>Antarmuka:</strong> Ekor/Telinga/Mulut."
+ },
+ "66a6f2b95292": {
+  "en": "<strong>Inspired by:</strong> Chicken.",
+  "t": "<strong>Terinspirasi dari:</strong> Ayam."
+ },
+ "68e5d6c7ae9b": {
+  "en": "<strong>Tastes like:</strong> Earthy and sandy, like fox meat, with a minty taste similar to lamb, but not as tough as you'd imagine. A delicacy, eaten only by some people, since most think they're too cute to eat. Sundeath worships them.",
+  "t": "<strong>Rasanya seperti:</strong> Bersahaja dan berpasir, seperti daging rubah, dengan rasa mint yang mirip daging domba, tapi tidak sealot yang kamu bayangkan. Hidangan istimewa, hanya dimakan sebagian orang, karena kebanyakan menganggap mereka terlalu imut untuk dimakan. Sundeath memuja mereka."
+ },
+ "6a9782185aab": {
+  "en": "<strong>Skills:</strong> Sense Lifeforms; Generate Air Shield; Louder-than-usual shriek; strengthening the beak and claws to diamond level, so they cut through anything.",
+  "t": "<strong>Kemampuan:</strong> Sense Lifeforms; Generate Air Shield; jeritan yang lebih keras dari biasanya; memperkuat paruh dan cakar sampai sekuat intan, sehingga bisa memotong apa saja."
+ },
  "6a9d76361231": {
   "en": "Fauna by tier:",
   "t": "Fauna menurut tingkat:"
@@ -167,13 +567,41 @@
   "en": "<strong>Skills:</strong> Detect Pressure; Detect Humidity; Detect Temperature; Paralyze.",
   "t": "<strong>Kemampuan:</strong> Detect Pressure; Detect Humidity; Detect Temperature; Paralyze."
  },
+ "6b75b1784232": {
+  "en": "<strong>Distance a day:</strong> ≈ the distance at 10% strain × (10% ÷ strain), never more than ~65 km.",
+  "t": "<strong>Jarak sehari:</strong> ≈ jarak pada tekanan 10% × (10% ÷ tekanan), tak pernah lebih dari ~65 km."
+ },
+ "6d00c02a20a5": {
+  "en": "<strong>Legunia Jerky</strong>: Jerky prepared by a butcher, with a notoriously stronger taste.",
+  "t": "<strong>Dendeng Legunia</strong>: Dendeng buatan tukang jagal, dengan rasa yang terkenal lebih kuat."
+ },
+ "6d18339bb512": {
+  "en": "<strong>Winga Feathers</strong>: Feathers, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Bulu Winga</strong>: Bulu, disiapkan tukang jagal untuk dikerjakan para pengrajin."
+ },
+ "6e4159fbe1fe": {
+  "en": "Distance at 20% strain (~180 kg)",
+  "t": "Jarak pada tekanan 20% (~180 kg)"
+ },
+ "6f203f6dcc34": {
+  "en": "Their antennae always glow blue. They gather near rotting bodies, usually a sign that a predator is nearby. They prefer bodies with more soul energy, so they can also lead people to dead adventurers. Monica is the usual spelling, though some people, usually in and around Freeish, spell it Monika.",
+  "t": "Antenanya selalu menyala biru. Mereka berkumpul di dekat bangkai yang membusuk, biasanya tanda ada pemangsa di dekatnya. Mereka lebih suka bangkai dengan lebih banyak energi jiwa, jadi mereka juga bisa menuntun orang ke petualang yang mati. Monica adalah ejaan yang biasa, meski sebagian orang, biasanya di dalam dan sekitar Freeish, mengejanya Monika."
+ },
  "6f81b5e5f4da": {
   "en": "Male and female Wozens: lean dog-like animals, one red with dark spots and one orange with tiger stripes.",
   "t": "Wozen jantan dan betina: hewan ramping mirip anjing, satu merah berbintik gelap dan satu oranye bergaris harimau."
  },
+ "6f81f2a34e04": {
+  "en": "<strong>Inspired by:</strong> Vulpes Vulpes.",
+  "t": "<strong>Terinspirasi dari:</strong> Vulpes Vulpes."
+ },
  "700bc8fe10e3": {
   "en": "<strong>Carrying on its back:</strong> strain = load ÷ 900 kg. So 90 kg is 10% strain, and 180 kg (20%) is the most an Egua can carry.",
   "t": "<strong>Mengangkut di punggungnya:</strong> tekanan = beban ÷ 900 kg. Jadi 90 kg berarti tekanan 10%, dan 180 kg (20%) adalah yang paling banyak bisa diangkut seekor Egua."
+ },
+ "714ef9f9b031": {
+  "en": "<strong>Habitat:</strong> Most common in the dense forests along the coast and around Freeish and Blood.",
+  "t": "<strong>Habitat:</strong> Paling umum di hutan lebat di sepanjang pantai dan di sekitar Freeish dan Blood."
  },
  "715817193298": {
   "en": "<strong>Tier II (Common Goods):</strong> processed meat, plus elemental Soul Energy interface actions for storage; feathers and fur of large animals, and other animal parts.",
@@ -187,6 +615,10 @@
   "en": "<strong>Reproduction:</strong> By themselves or with other Culuim.",
   "t": "<strong>Reproduksi:</strong> Sendiri atau dengan Culuim lain."
  },
+ "74c9aadd00aa": {
+  "en": "<strong>Food:</strong> Omnivore: mostly grass, but likes to snack on Sorenos once in a while.",
+  "t": "<strong>Makanan:</strong> Omnivora: kebanyakan rumput, tapi sesekali suka mengudap Soreno."
+ },
  "76726706af4a": {
   "en": "<strong>Tier III (Expensive Goods):</strong> jerky, plus elemental Soul Energy interface actions for storage; feathers and fur of smaller animals, especially higher-quality ones; tamed or live fauna; rare animal parts.",
   "t": "<strong>Tingkat III (Barang Mahal):</strong> dendeng, ditambah tindakan antarmuka Energi Jiwa elemen untuk penyimpanan; bulu dan rambut hewan yang lebih kecil, terutama yang berkualitas lebih tinggi; fauna jinak atau hidup; bagian hewan yang langka."
@@ -199,9 +631,33 @@
   "en": "Cinika: a bright turquoise butterfly with black-veined wings and long tail streamers.",
   "t": "Cinika: kupu-kupu pirus terang dengan sayap berurat hitam dan ekor panjang yang melambai."
  },
+ "77934e38268c": {
+  "en": "<strong>Winga Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Dendeng Winga</strong>: Dendeng buatan tukang jagal."
+ },
+ "77d49eed8479": {
+  "en": "Gait",
+  "t": "Gaya jalan"
+ },
+ "79d266236d29": {
+  "en": "<strong>Monica Butterflies</strong>: Freshly killed nearby and stored in a wagon with ice, ready for the butcher shops or to be shipped out.",
+  "t": "<strong>Kupu-kupu Monica</strong>: Baru dibunuh di dekat situ dan disimpan di gerobak berisi es, siap untuk toko-toko jagal atau dikirim ke luar."
+ },
+ "7a3b86bb05ba": {
+  "en": "<strong>Reproduction:</strong> Every fall, 2 or 3 Saynas are born.",
+  "t": "<strong>Reproduksi:</strong> Setiap musim gugur, 2 atau 3 Sayna lahir."
+ },
+ "7a3c51af3a4c": {
+  "en": "<strong>Fihi Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>Daging Fihi</strong>: Daging yang dipotong tukang jagal."
+ },
  "7aeb69b7c757": {
   "en": "<strong>Food:</strong> Mainly about 20 kg of grass, hay or Carbey a day.",
   "t": "<strong>Makanan:</strong> Terutama sekitar 20 kg rumput, jerami, atau Carbey sehari."
+ },
+ "7b190f73177e": {
+  "en": "<strong>Fihi Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Dendeng Fihi</strong>: Dendeng buatan tukang jagal."
  },
  "7b9856128610": {
   "en": "Wingas: male and female blue parrot-like birds with colorful wing bands, next to a larger pink Tolerideme Winga.",
@@ -210,6 +666,10 @@
  "7bb9c6f60656": {
   "en": "Male and female Lanshas: small gray elephant-like animals with large ears, one rearing up.",
   "t": "Lansha jantan dan betina: hewan kecil kelabu mirip gajah dengan telinga besar, salah satunya berdiri di atas kaki belakang."
+ },
+ "7d9f5ef9d7d1": {
+  "en": "<strong>Inspired by:</strong> Emerald Tree Boa.",
+  "t": "<strong>Terinspirasi dari:</strong> Emerald Tree Boa."
  },
  "7db75d5f2142": {
   "en": "Winga/Pink Winga",
@@ -223,25 +683,69 @@
   "en": "Male and female Crocus: upright gray-green reptiles with spiky backs and long tails.",
   "t": "Crocus jantan dan betina: reptil hijau keabu-abuan yang berdiri tegak dengan punggung berduri dan ekor panjang."
  },
+ "8082a21f083d": {
+  "en": "<strong>Wooly Gyut Dried Milk</strong>: Milk often dried for transport to the rest of the kingdoms.",
+  "t": "<strong>Susu Kering Wooly Gyut</strong>: Susu yang sering dikeringkan untuk diangkut ke kerajaan-kerajaan lainnya."
+ },
+ "81096b8135bd": {
+  "en": "<strong>Skills:</strong> Super Smell; Sound Bounce (makes them impossible to hear); Light Bounce (makes them darker than their surroundings); Super Jump; Jaw Clench (they cast Attract once they bite their prey, so they won't let go).",
+  "t": "<strong>Kemampuan:</strong> Super Smell; Sound Bounce (membuat mereka mustahil didengar); Light Bounce (membuat mereka lebih gelap dari sekitarnya); Super Jump; Jaw Clench (mereka merapal Attract begitu menggigit mangsanya, jadi tak akan melepaskannya)."
+ },
  "82e94d931d4c": {
   "en": "<strong>Tastes like:</strong> Bland, old-tasting beef, with a texture like a tougher top sirloin, since only old Eguas are eaten.",
   "t": "<strong>Rasanya seperti:</strong> Daging sapi yang hambar dan terasa tua, dengan tekstur seperti top sirloin yang lebih alot, karena hanya Egua tua yang dimakan."
+ },
+ "8499b8bf1e3c": {
+  "en": "<strong>Wozen Pelt</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Kulit Berbulu Wozen</strong>: Kulit/bulu, disiapkan tukang jagal untuk dikerjakan para pengrajin."
+ },
+ "84a08ea3c124": {
+  "en": "<strong>Food:</strong> About 18 kg of Domar Carbey a day, plus about 2 kg of Gyut berries for richer milk; about 20 kg of Carbey a day for meat production.",
+  "t": "<strong>Makanan:</strong> Sekitar 18 kg Domar Carbey sehari, ditambah sekitar 2 kg buah beri Gyut untuk susu yang lebih kental; sekitar 20 kg Carbey sehari untuk produksi daging."
+ },
+ "84edbcad2a64": {
+  "en": "<strong>Tamed Adult Sayna</strong>: They take a while to train properly, especially to use their skills on command, because of their energetic, goofy nature.",
+  "t": "<strong>Sayna Dewasa Jinak</strong>: Butuh waktu untuk dilatih dengan benar, terutama memakai kemampuannya sesuai perintah, karena sifatnya yang energik dan konyol."
  },
  "8561960acacb": {
   "en": "Crocus",
   "t": "Crocus"
  },
+ "85a05be55b0e": {
+  "en": "<strong>Skills:</strong> Sense Surroundings.",
+  "t": "<strong>Kemampuan:</strong> Sense Surroundings."
+ },
+ "85dd7e93abf9": {
+  "en": "<strong>Reproduction:</strong> Lays one egg every day; fertilized eggs hatch in about 21 days.",
+  "t": "<strong>Reproduksi:</strong> Bertelur satu butir setiap hari; telur yang dibuahi menetas dalam sekitar 21 hari."
+ },
  "87e293098ca7": {
   "en": "<strong>Habitat:</strong> Lower plains.",
   "t": "<strong>Habitat:</strong> Dataran rendah."
+ },
+ "885cd7219ff1": {
+  "en": "<strong>Wooly Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>Daging Wooly</strong>: Daging yang dipotong tukang jagal."
  },
  "88eaf8a4d441": {
   "en": "Ptaina: a red fish with a huge toothy grin and a glowing bubble on its head, about 45 cm long.",
   "t": "Ptaina: ikan merah dengan seringai lebar penuh gigi dan gelembung bercahaya di kepalanya, panjangnya sekitar 45 cm."
  },
+ "8abfb6164e9b": {
+  "en": "<strong>Tastes like:</strong> Eel.",
+  "t": "<strong>Rasanya seperti:</strong> Belut."
+ },
+ "8afd1457616b": {
+  "en": "<strong>Legunia Meat</strong>: Meat cut by a butcher. Same price as Winga, since there's more meat per body, and a stronger taste.",
+  "t": "<strong>Daging Legunia</strong>: Daging yang dipotong tukang jagal. Harganya sama dengan Winga, karena dagingnya lebih banyak per tubuh, dan rasanya lebih kuat."
+ },
  "8cd22c540fdb": {
   "en": "Public text: Website Description in Legacy/Behind The Scenes/World Lore/Fauna.md",
   "t": "Teks publik: Website Description di Legacy/Behind The Scenes/World Lore/Fauna.md"
+ },
+ "8d32f817b48e": {
+  "en": "<strong>Egua Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Dendeng Egua</strong>: Dendeng buatan tukang jagal."
  },
  "8d463a231ed8": {
   "en": "<strong>Reproduction:</strong> Females give birth once a year.",
@@ -251,6 +755,14 @@
   "en": "Monika: a pale-blue butterfly with rounded wings.",
   "t": "Monika: kupu-kupu biru pucat dengan sayap bundar."
  },
+ "8e756c99fadf": {
+  "en": "<strong>Food:</strong> Loves eating Bagarisa, and snacks on humans given the chance.",
+  "t": "<strong>Makanan:</strong> Suka makan Bagarisa, dan mengudap manusia kalau ada kesempatan."
+ },
+ "9004aef13e49": {
+  "en": "It has existed since recorded history began. Nothing too special about them.",
+  "t": "Sudah ada sejak sejarah tercatat dimulai. Tidak ada yang terlalu istimewa dari mereka."
+ },
  "914b8e28a156": {
   "en": "Egua",
   "t": "Egua"
@@ -259,33 +771,117 @@
   "en": "Fatupari: a two-headed green sea serpent with pink fins and red eyes.",
   "t": "Fatupari: ular laut hijau berkepala dua dengan sirip merah muda dan mata merah."
  },
+ "91593e4c2e4f": {
+  "en": "~65 km",
+  "t": "~65 km"
+ },
  "91599f7a416f": {
   "en": "Soreno",
   "t": "Soreno"
+ },
+ "92799f74bb00": {
+  "en": "<strong>Tastes like:</strong> Tuna.",
+  "t": "<strong>Rasanya seperti:</strong> Tuna."
+ },
+ "9328b74027bf": {
+  "en": "<strong>Wozen Eye</strong>: Used in nari gels.",
+  "t": "<strong>Mata Wozen</strong>: Dipakai dalam nari gel."
  },
  "93e19d37b157": {
   "en": "<strong>Inspired by:</strong> Protorohippus; Hippopotamus; Ardennes Heavy Horse Breed.",
   "t": "<strong>Terinspirasi dari:</strong> Protorohippus; Kuda nil; Ras Kuda Berat Ardennes."
  },
+ "94c0af4386c3": {
+  "en": "<strong>Wooly Milk</strong>: Females fed only Carbey produce about 8 liters of milk a day, tasting somewhere between cow's and sheep's milk. Mostly available only in Gandew.",
+  "t": "<strong>Susu Wooly</strong>: Betina yang hanya diberi makan Carbey menghasilkan sekitar 8 liter susu sehari, rasanya di antara susu sapi dan susu domba. Kebanyakan hanya tersedia di Gandew."
+ },
+ "95086f8a6bfa": {
+  "en": "<strong>Intelligence:</strong> Tuna/Shark.",
+  "t": "<strong>Kecerdasan:</strong> Tuna/Hiu."
+ },
+ "95d1550b230b": {
+  "en": "<strong>Winga Egg</strong>: A treat for many, thanks to its sweet taste.",
+  "t": "<strong>Telur Winga</strong>: Camilan istimewa bagi banyak orang, berkat rasanya yang manis."
+ },
  "961908588296": {
   "en": "Culuim: a small worm-like creature arched in two humps, red underneath and blue on top, about 30 cm long.",
   "t": "Culuim: makhluk kecil mirip cacing yang melengkung membentuk dua punuk, merah di bawah dan biru di atas, panjangnya sekitar 30 cm."
+ },
+ "97268c91b00b": {
+  "en": "<strong>Habitat:</strong> Deep forests in the south.",
+  "t": "<strong>Habitat:</strong> Hutan lebat di selatan."
+ },
+ "974b626235ec": {
+  "en": "<strong>Interface:</strong> Tail.",
+  "t": "<strong>Antarmuka:</strong> Ekor."
+ },
+ "980834a67a71": {
+  "en": "<strong>Lansha Meat</strong>: Tastes like lamb. Every Cruro's favorite.",
+  "t": "<strong>Daging Lansha</strong>: Rasanya seperti daging domba. Favorit setiap Cruro."
  },
  "98c1c7d6f123": {
   "en": "Cinikas, meanwhile, are not exactly as extraordinary unless there's a swarm of them and you're a sweaty Wozefaries or Sorefaries; then you're big trouble as…",
   "t": "Sementara itu, Cinika tidak begitu istimewa kecuali ada sekawanan besar dan kamu seorang Wozefaries atau Sorefaries yang berkeringat; saat itu kamu dalam masalah besar karena…"
  },
+ "9a016e52b46d": {
+  "en": "<strong>Sayna Meat</strong>: Meat cut by a butcher. A delicacy for some rich folks, and nourishment for some in the desert.",
+  "t": "<strong>Daging Sayna</strong>: Daging yang dipotong tukang jagal. Hidangan istimewa bagi sebagian orang kaya, dan sumber gizi bagi sebagian orang di gurun."
+ },
+ "9bb90fb73f19": {
+  "en": "<strong>Food:</strong> Mainly fish, but any other animal that passes by.",
+  "t": "<strong>Makanan:</strong> Terutama ikan, tapi juga hewan lain apa pun yang lewat."
+ },
+ "9be79bf71f99": {
+  "en": "<strong>Child Eguas:</strong> about 0.4 of an adult in everything: ~360 kg of body weight, ~36 kg comfortable on its back, ~72 kg at most.",
+  "t": "<strong>Egua anak:</strong> sekitar 0,4 dari yang dewasa dalam segala hal: berat badan ~360 kg, ~36 kg nyaman di punggungnya, paling banyak ~72 kg."
+ },
+ "9bfdf81a5df9": {
+  "en": "<strong>Food:</strong> Insects.",
+  "t": "<strong>Makanan:</strong> Serangga."
+ },
+ "9c21b19c301a": {
+  "en": "<strong>Inspired by:</strong> Platypus, electric eel.",
+  "t": "<strong>Terinspirasi dari:</strong> Platipus, belut listrik."
+ },
+ "9c7d7a961d3d": {
+  "en": "<strong>Habitat:</strong> Mostly in the dense forests around Blood City and the Freeish Kingdom.",
+  "t": "<strong>Habitat:</strong> Kebanyakan di hutan lebat sekitar Blood City dan Kerajaan Freeish."
+ },
  "9dfd01727122": {
   "en": "<strong>Inspired by:</strong> Worms (average).",
   "t": "<strong>Terinspirasi dari:</strong> Cacing (rata-rata)."
+ },
+ "9e3441475fe9": {
+  "en": "<strong>Pulling a cart:</strong> strain = (cart + cargo + driver) × road factor ÷ 900 kg. The road factor is 0.05 on a good, hard road, 0.10 on a dirt road and 0.15 on soft ground, mud or sand. A full day at 10% strain means about 1,800 kg on a good road, 900 kg on a dirt road or 600 kg in sand.",
+  "t": "<strong>Menarik gerobak:</strong> tekanan = (gerobak + muatan + kusir) × faktor jalan ÷ 900 kg. Faktor jalannya 0,05 di jalan yang bagus dan keras, 0,10 di jalan tanah, dan 0,15 di tanah lunak, lumpur, atau pasir. Sehari penuh dengan tekanan 10% berarti sekitar 1.800 kg di jalan yang bagus, 900 kg di jalan tanah, atau 600 kg di pasir."
+ },
+ "a0f9018b2064": {
+  "en": "<strong>Fanchaki Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Dendeng Fanchaki</strong>: Dendeng buatan tukang jagal."
+ },
+ "a10d066313db": {
+  "en": "<strong>Food:</strong> Insects and grain.",
+  "t": "<strong>Makanan:</strong> Serangga dan biji-bijian."
  },
  "a11dc364d78f": {
   "en": "Bagarisas compete with Fanchakis to be the most-eaten animal in the four kingdoms. Well, to be fair, they didn't have much choice in participating in that competition, but it's their fault that their irresistibly earthy, mushroom-accented meat that isn't too gamey appeases the palate of all races. They are always in packs, and they will not hold back in lighting up their tusks in flames to rush toward you. They are also skilled with ranged attacks by generating a flaming ball between their tusks, then creating a gust of hot wind that begins in the red crest at the tip of their tails and speeds up towards their head. The bagarisa can tilt its head up to make the hot air strike the ball of flame and turn it into a fireball. If that wasn't enough, they also have a distinct musk of shrimp brine that can make a lot of people gag profusely—dealing with that is one of the many things they teach adventures in the one and only adventurers school in Forway. They also teach them that if they are going for a clean shot, then they need an extra long arrow to perforate the two hearts it has in the chest and lower gut.",
   "t": "Bagarisa bersaing dengan Fanchaki sebagai hewan yang paling banyak dimakan di empat kerajaan. Ya, jujur saja, mereka tidak punya banyak pilihan untuk ikut kompetisi ini, tapi salah mereka sendiri dagingnya yang beraroma tanah dengan sentuhan jamur dan tidak terlalu prengus begitu menggoda selera semua ras. Mereka selalu berkelompok, dan tidak akan ragu menyalakan api di gading mereka untuk menyerudukmu. Mereka juga mahir menyerang dari jauh, dengan membuat bola api di antara gadingnya, lalu menciptakan embusan angin panas yang bermula dari jambul merah di ujung ekor dan melesat ke arah kepala. Bagarisa bisa mengangkat kepalanya agar udara panas itu menghantam bola api dan mengubahnya menjadi bola api yang melesat. Seolah itu belum cukup, mereka juga mengeluarkan bau musk khas seperti air rendaman udang yang bisa membuat banyak orang mual hebat—menghadapinya adalah salah satu dari banyak hal yang diajarkan kepada petualang di satu-satunya sekolah petualang di Forway. Mereka juga diajari bahwa untuk tembakan yang bersih, dibutuhkan anak panah ekstra panjang untuk menembus dua jantungnya yang ada di dada dan perut bagian bawah."
  },
+ "a16b00e09b42": {
+  "en": "Birds native to the deserts, where they spend most of their lives; they come down to the lower plains for the breeding season.",
+  "t": "Burung asli gurun, tempat mereka menghabiskan sebagian besar hidupnya; mereka turun ke dataran rendah saat musim kawin."
+ },
+ "a1f7ad199ac1": {
+  "en": "<strong>Ptaina Fish Meal</strong>: Unused fish parts, or fish unfit for human consumption, turned into fish meal: usually whatever is left over after extracting the oil.",
+  "t": "<strong>Tepung Ikan Ptaina</strong>: Bagian ikan yang tidak terpakai, atau ikan yang tidak layak dikonsumsi manusia, diolah menjadi tepung ikan: biasanya apa pun yang tersisa setelah minyaknya diambil."
+ },
  "a28b148b2cec": {
   "en": "Cinika",
   "t": "Cinika"
+ },
+ "a31218bfa119": {
+  "en": "<strong>Skills:</strong> Detect Temperature; Detect Soul Energy; Enhance Smell/Turn certain smells visible.",
+  "t": "<strong>Kemampuan:</strong> Detect Temperature; Detect Soul Energy; Enhance Smell/membuat bau tertentu terlihat."
  },
  "a36483e8f6e6": {
   "en": "Fatupari",
@@ -295,21 +891,113 @@
   "en": "Male and female Fanchakis: plump black chicken-like birds with white-edged feathers and red faces.",
   "t": "Fanchaki jantan dan betina: burung hitam montok mirip ayam dengan bulu bertepi putih dan wajah merah."
  },
+ "a739131c6074": {
+  "en": "<strong>Habitat:</strong> Mostly in the swamps from Sanbi to Tastyleaf.",
+  "t": "<strong>Habitat:</strong> Kebanyakan di rawa-rawa dari Sanbi sampai Tastyleaf."
+ },
  "aad2aeaf73ba": {
   "en": "<strong>Earth animals that don't exist in Vraki</strong> (for writers): no goats (use Legunia), no dogs or cats (use a Bagarisa where a dog would go), no pigeons (use wild Wingas). (World Lore Q&amp;A › Vol 4 Draft 2, Q8.)",
   "t": "<strong>Hewan Bumi yang tidak ada di Vraki</strong> (untuk para penulis): tidak ada kambing (pakai Legunia), tidak ada anjing atau kucing (pakai Bagarisa di tempat anjing), tidak ada merpati (pakai Winga liar). (Tanya Jawab Lore Dunia › Vol 4 Draft 2, Q8.)"
+ },
+ "ab44bcf4ec19": {
+  "en": "<strong>Winga Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>Daging Winga</strong>: Daging yang dipotong tukang jagal."
  },
  "ab65bffd7d33": {
   "en": "Sanbi is the staple of which kingdom? If you didn't answer Sanbi, then oh boy, you might have been smoking too much Magina. If you plan to visit, then give \"The True Sanbi King\" novel a read first, or you might be baffled as to why people put the dead old people in small boats and push them off their docks (sometimes not quite so dead if the fishing is weak but that's neither here nor there.) Either way, only that fisherman's family seems to have the prowess or pure luck to catch these darn tasty fish! You're welcome to try, though! But you'll likely only catch meat from their lips as they swell and shed it off, or suffer a massive headache as it's always keen to tap into its soul energy interface to fend off predators.",
   "t": "Sanbi adalah makanan pokok kerajaan mana? Kalau jawabanmu bukan Sanbi, aduh, mungkin kamu kebanyakan mengisap Magina. Kalau kamu berencana berkunjung, bacalah dulu novel \"The True Sanbi King\", atau kamu mungkin bingung kenapa orang-orang menaruh orang tua mereka yang sudah mati ke perahu kecil dan mendorongnya menjauh dari dermaga (kadang belum sepenuhnya mati kalau tangkapan ikan sedang sedikit, tapi bukan itu intinya.) Bagaimanapun, hanya keluarga nelayan itu yang tampaknya punya keahlian atau sekadar keberuntungan untuk menangkap ikan yang enaknya keterlaluan ini! Kamu boleh saja mencoba! Tapi kamu mungkin hanya akan menangkap daging bibirnya karena bibir itu membengkak lalu lepas, atau menderita sakit kepala hebat karena ikan ini selalu siap memakai antarmuka energi jiwanya untuk mengusir pemangsa."
  },
+ "ab9d6b2075a0": {
+  "en": "<strong>Winga Dust</strong>: Usually ground, using other beaks and claws to do it. They must have been strengthened by the Winga before they were removed, and the effect lasts for years before it starts to wear off. The coating can be as strong as diamond until the effect wears off.",
+  "t": "<strong>Debu Winga</strong>: Biasanya digiling, memakai paruh dan cakar lain untuk melakukannya. Paruh dan cakarnya harus sudah diperkuat oleh Winga sebelum dilepas, dan efeknya bertahan bertahun-tahun sebelum mulai memudar. Lapisannya bisa sekuat intan sampai efeknya memudar."
+ },
+ "abbcc9d2e5d1": {
+  "en": "A fish from the deeper ocean that stuns and messes with other fish, for food and maybe for fun.",
+  "t": "Ikan dari laut yang lebih dalam yang melumpuhkan dan mengacau ikan lain, untuk makanan dan mungkin untuk bersenang-senang."
+ },
+ "abc9c825c542": {
+  "en": "<strong>Habitat:</strong> Ponds.",
+  "t": "<strong>Habitat:</strong> Kolam."
+ },
+ "ac6e9c8cf058": {
+  "en": "<strong>Intelligence:</strong> Like elephants or Hippos. By themselves, they are chill and timid, but in a group, they are more aggressive and territorial.",
+  "t": "<strong>Kecerdasan:</strong> Seperti gajah atau kuda nil. Sendirian, mereka santai dan penakut, tapi dalam kelompok, mereka lebih agresif dan teritorial."
+ },
+ "adebdf04e687": {
+  "en": "A fish famous for controlling elemental energy: absorbing, creating or releasing it.",
+  "t": "Ikan yang terkenal karena mengendalikan energi elemen: menyerap, menciptakan, atau melepaskannya."
+ },
+ "ae2df3ced076": {
+  "en": "Gallop",
+  "t": "Mencongklang"
+ },
+ "ae79095d0fcb": {
+  "en": "<strong>Intelligence:</strong> Wild Boar.",
+  "t": "<strong>Kecerdasan:</strong> Babi hutan."
+ },
+ "b14a3a047e09": {
+  "en": "Big flying birds that eat Gyut berries, and their meat tastes sweet. They settle high in the trees to rest and breed, and may attack humans who come too close, depending on past encounters. They're famous for flying fast and high, which makes them hard to hunt. Tamed, they make loyal companions, and since they recognize people's faces and places, they make a great courier service. Pink Wingas, which some call Tolerideme Wingas, are incredibly hard to find, since they camouflage themselves really well.",
+  "t": "Burung terbang besar yang memakan buah beri Gyut, dan dagingnya terasa manis. Mereka bertengger tinggi di pohon untuk beristirahat dan berbiak, dan bisa menyerang manusia yang terlalu dekat, tergantung pertemuan sebelumnya. Mereka terkenal terbang cepat dan tinggi, yang membuat mereka sulit diburu. Saat dijinakkan, mereka menjadi pendamping yang setia, dan karena mereka mengenali wajah dan tempat, mereka menjadi layanan kurir yang hebat. Winga Merah Muda, yang sebagian orang sebut Winga Tolerideme, luar biasa sulit ditemukan, karena mereka menyamarkan diri dengan sangat baik."
+ },
+ "b2357f57439e": {
+  "en": "<strong>Food:</strong> Trees, leaves and plants.",
+  "t": "<strong>Makanan:</strong> Pohon, daun, dan tumbuhan."
+ },
+ "b31876f752d9": {
+  "en": "Distance at 10% strain (~90 kg)",
+  "t": "Jarak pada tekanan 10% (~90 kg)"
+ },
+ "b361f1ddd348": {
+  "en": "<strong>Sanbi Scales</strong>: Scales, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Sisik Sanbi</strong>: Sisik, disiapkan tukang jagal untuk dikerjakan para pengrajin."
+ },
+ "b4f93a988d4e": {
+  "en": "<strong>Fihi Fish Meal</strong>: Unused fish parts, or fish unfit for human consumption, turned into fish meal: usually whatever is left over after extracting the oil.",
+  "t": "<strong>Tepung Ikan Fihi</strong>: Bagian ikan yang tidak terpakai, atau ikan yang tidak layak dikonsumsi manusia, diolah menjadi tepung ikan: biasanya apa pun yang tersisa setelah minyaknya diambil."
+ },
+ "b5013d989d78": {
+  "en": "<strong>Food:</strong> Organic matter, dead things, etc.",
+  "t": "<strong>Makanan:</strong> Bahan organik, benda mati, dll."
+ },
+ "b6440b2c0bd2": {
+  "en": "Small mammals that eat insects and grain. They prefer insects, so in small numbers they're great pest control; in large numbers, they become pests themselves. Hunters and Pearl adventurers are constantly hired to keep them in check.",
+  "t": "Mamalia kecil yang memakan serangga dan biji-bijian. Mereka lebih suka serangga, jadi dalam jumlah kecil mereka pengendali hama yang hebat; dalam jumlah besar, mereka sendiri menjadi hama. Pemburu dan petualang Pearl terus-menerus disewa untuk mengendalikan mereka."
+ },
+ "b68dfac1563a": {
+  "en": "<strong>Sanbi Fish Meal</strong>: Unused fish parts, or fish unfit for human consumption, turned into fish meal: usually whatever is left over after extracting the oil.",
+  "t": "<strong>Tepung Ikan Sanbi</strong>: Bagian ikan yang tidak terpakai, atau ikan yang tidak layak dikonsumsi manusia, diolah menjadi tepung ikan: biasanya apa pun yang tersisa setelah minyaknya diambil."
+ },
  "b6e1bd12e4b2": {
   "en": "<strong>Food:</strong> Ground.",
   "t": "<strong>Makanan:</strong> Tanah."
  },
+ "b771573a1570": {
+  "en": "<strong>Interface:</strong> Feet &amp; beak.",
+  "t": "<strong>Antarmuka:</strong> Kaki &amp; paruh."
+ },
+ "b82c3e966676": {
+  "en": "<strong>Inspired by:</strong> Rats &amp; Shrews.",
+  "t": "<strong>Terinspirasi dari:</strong> Tikus &amp; Cecurut."
+ },
  "b952669231be": {
   "en": "Legunia",
   "t": "Legunia"
+ },
+ "b9703b7af938": {
+  "en": "~20 km/h",
+  "t": "~20 km/jam"
+ },
+ "ba86c5147701": {
+  "en": "<strong>Egua Hoof/Leg hair</strong>: Used in nari gels. Taken from dead Eguas, or sometimes from damaged hooves before healing is cast.",
+  "t": "<strong>Kuku/Bulu Kaki Egua</strong>: Dipakai dalam nari gel. Diambil dari Egua yang mati, atau kadang dari kuku yang rusak sebelum penyembuhan dirapal."
+ },
+ "bd819a3d6000": {
+  "en": "<strong>Habitat:</strong> Throughout the Lower and Buhraies Plains, with a larger population in Wingarest.",
+  "t": "<strong>Habitat:</strong> Di seluruh Lower Plains dan Buhraies Plains, dengan populasi lebih besar di Wingarest."
+ },
+ "bd83994dd2c7": {
+  "en": "<strong>Intelligence:</strong> Predatory Fish/Eel.",
+  "t": "<strong>Kecerdasan:</strong> Ikan Pemangsa/Belut."
  },
  "bdd0e53e27c7": {
   "en": "Monikas are loner butterflies tightly associated with death and decay. Their interface is considered the best at identifying corpses, especially if the corpse is tied to a soul pooled with lots of soul energy. They also have the ability to turn desired volatile compounds of scents into a visual representation that aids in understanding its concentration and source—known as Monika sight, a nari gel concoction customized with the desired volatile compound, turned even exceptional if paired with Wozen Smell for both finding things like dead adventurers, detect poisonous things like traps, or even track down live animals or humans by using the droppings or sweat. Adventurers on the brink of death often implore to be found by these peaceful-looking butterflies—at least some do until they remember the cost of revival.",
@@ -319,9 +1007,65 @@
   "en": "Soreno is favored by scientists who avoid human experimentation or can't contract one to experiment on. It is not exactly a close match to the real thing, but it's good enough to iterate through experiments quickly and cheaply,  publish papers, and make a name for yourself! Some are on the other spectrum—with often pearl adventurers tasked to keep the Soreno population in cities, especially in grain silos, on the delicate balance between pest control and being a pest themselves. Plus, it's cheap meat for these pearl adventurers who are probably in so much debt that any single pearl they can avoid wasting now is amethysts off their loan due to their jacked-up interests. The caveat is that the meat smells and tastes like stale piss and that you will likely need to heal yourself if you slip up and don't cook it well done—or have difficulty catching them as they cloak themselves in both sight and heat signatures, and talk to one another in such a high pitch tone you will either need a Sayna or use nari gel to alter your ears to a Soreno. They also imitate other animals and can dash an arm's length as quickly as a blink of an eye in almost any direction a few times too.",
   "t": "Soreno adalah favorit ilmuwan yang menghindari eksperimen pada manusia atau tidak bisa mengontrak seseorang untuk dijadikan bahan percobaan. Memang tidak sama persis dengan aslinya, tapi cukup bagus untuk mengulang eksperimen dengan cepat dan murah,  menerbitkan makalah, dan membangun nama! Ada pula yang berada di ujung spektrum lain—para petualang pearl yang sering ditugasi menjaga populasi Soreno di kota-kota, terutama di lumbung, dalam keseimbangan rapuh antara membasmi hama dan menjadi hama itu sendiri. Ditambah lagi, ini daging murah bagi para petualang pearl yang mungkin begitu banyak berutang sampai setiap pearl yang bisa mereka hemat sekarang berarti berkurangnya amethyst dari pinjaman mereka, mengingat bunganya yang membengkak. Masalahnya, dagingnya berbau dan berasa seperti air kencing basi, dan kamu mungkin harus menyembuhkan diri kalau salah langkah dan tidak memasaknya sampai matang—atau kesulitan menangkapnya, karena mereka menyamarkan diri dari penglihatan maupun jejak panas, dan berbicara satu sama lain dengan nada begitu tinggi sampai kamu butuh Sayna atau nari gel untuk mengubah telingamu menjadi telinga Soreno. Mereka juga meniru hewan lain dan bisa melesat sejauh satu lengan dalam sekejap ke hampir segala arah, berkali-kali pula."
  },
+ "be7b971aef88": {
+  "en": "Yuyta meat",
+  "t": "Daging Yuyta"
+ },
+ "bf2e419868c8": {
+  "en": "Looks like a fox, but is as rocky as a horned lizard. Very friendly with humans, and a good addition to an adventurer's party. It makes a cute sound: \"Pohw-pohhhhwww!\"",
+  "t": "Tampak seperti rubah, tapi berbatu-batu seperti kadal bertanduk. Sangat ramah kepada manusia, dan tambahan yang bagus untuk rombongan petualang. Ia mengeluarkan suara imut: \"Pohw-pohhhhwww!\""
+ },
+ "bff3359ad9d1": {
+  "en": "<strong>Food:</strong> Grass.",
+  "t": "<strong>Makanan:</strong> Rumput."
+ },
+ "c17066c19ce4": {
+  "en": "Canter",
+  "t": "Lari derap"
+ },
  "c182cbeda856": {
   "en": "<strong>Intelligence:</strong> Worm.",
   "t": "<strong>Kecerdasan:</strong> Cacing."
+ },
+ "c2d5e9d12b16": {
+  "en": "The Sanbi Kingdom is named after this fish, its main food source and economy. It's famous for taking all of a normal human's strength to reel in: even muscular fishermen catch at most 2 adults a day, if they're lucky, unless they tap into nari gels and the like. More in the novel The True Sanbi King.",
+  "t": "Kerajaan Sanbi dinamai dari ikan ini, sumber makanan dan ekonomi utamanya. Ikan ini terkenal butuh seluruh tenaga manusia biasa untuk menariknya: bahkan nelayan berotot paling banyak menangkap 2 ekor dewasa sehari, kalau beruntung, kecuali mereka memakai nari gel dan sejenisnya. Selengkapnya di novel The True Sanbi King."
+ },
+ "c341b3850c53": {
+  "en": "<strong>Ptaina Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Dendeng Ptaina</strong>: Dendeng buatan tukang jagal."
+ },
+ "c393d69f7c61": {
+  "en": "<strong>Sayna Jerky</strong>: Jerky prepared by a butcher. Rare to find to its taste.",
+  "t": "<strong>Dendeng Sayna</strong>: Dendeng buatan tukang jagal. Langka ditemukan yang sesuai seleranya."
+ },
+ "c40eb11148e4": {
+  "en": "<strong>Tastes like:</strong> Lamb/Goat.",
+  "t": "<strong>Rasanya seperti:</strong> Daging domba/kambing."
+ },
+ "c42130ff5cc3": {
+  "en": "A native of the Cruro lands, sometimes found as far south as Waterfall, or as far up as Tastyleaf.",
+  "t": "Hewan asli negeri Cruro, kadang ditemukan sejauh Waterfall di selatan, atau sejauh Tastyleaf di utara."
+ },
+ "c4c548507778": {
+  "en": "<strong>Hide</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Kulit</strong>: Kulit/bulu, disiapkan tukang jagal untuk dikerjakan para pengrajin."
+ },
+ "c50f91f11623": {
+  "en": "<strong>Skills:</strong> Blood Heal; Flaming Tusks (balls of flame created between the tusks); a gust of hot air, built up from the tail and shot through the hair crest, which combined with the flame creates a flamethrower effect.",
+  "t": "<strong>Kemampuan:</strong> Blood Heal; Flaming Tusks (bola api yang tercipta di antara taringnya); semburan udara panas, dihimpun dari ekor dan ditembakkan lewat jambul bulunya, yang bersama api menciptakan efek penyembur api."
+ },
+ "c52792714823": {
+  "en": "<strong>Inspired by:</strong> Frog.",
+  "t": "<strong>Terinspirasi dari:</strong> Katak."
+ },
+ "c571c8aaec73": {
+  "en": "<strong>Tastes like:</strong> Beef with a slight note of mutton.",
+  "t": "<strong>Rasanya seperti:</strong> Daging sapi dengan sedikit sentuhan daging domba."
+ },
+ "c643a9a65315": {
+  "en": "<strong>Bagarisa Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>Daging Bagarisa</strong>: Daging yang dipotong tukang jagal."
  },
  "c67a6b41df1f": {
   "en": "Monica",
@@ -339,13 +1083,45 @@
   "en": "Sayna is a \"smol\" creature that made the desert its habitat. Worshiped in some sense by the Sundeath citizens as it is crucial in reducing the number of deaths by sand worms. Its enormous ears and cuteness make it a highly sought-after companion for adventurers and traders alike—so much so that about two-fifths of export from Sundeath each year are trained Saynas. The city also exports sayna meat as well, but only more affluent folks who enjoy tasting things more than admiring their cuteness can afford it. The ruling pharaohs—a weird name they call the ruler—tried to intervene with a trade blockade to prevent overhunting, but the city ruler cracked under the might of Forway's guards and law.",
   "t": "Sayna adalah makhluk \"imut sekali\" yang menjadikan gurun sebagai habitatnya. Dipuja dalam arti tertentu oleh warga Sundeath karena sangat penting dalam mengurangi jumlah kematian akibat sand worm. Telinganya yang besar dan keimutannya membuatnya menjadi teman yang sangat dicari petualang maupun pedagang—sampai sekitar dua perlima ekspor tahunan Sundeath adalah Sayna terlatih. Kota itu juga mengekspor daging sayna, tapi hanya orang berada yang lebih suka mencicipi sesuatu daripada mengagumi keimutannya yang mampu membelinya. Firaun yang berkuasa—nama aneh yang mereka berikan untuk penguasa—mencoba turun tangan dengan blokade dagang untuk mencegah perburuan berlebihan, tapi penguasa kota itu tunduk di bawah kekuatan pengawal dan hukum Forway."
  },
+ "c6e037db4d85": {
+  "en": "<strong>Interface:</strong> Fins on sides.",
+  "t": "<strong>Antarmuka:</strong> Sirip di sisi tubuh."
+ },
+ "c8cdebaf733c": {
+  "en": "<strong>Intelligence:</strong> Frog.",
+  "t": "<strong>Kecerdasan:</strong> Katak."
+ },
  "c9b04316ba1a": {
   "en": "Public text: fauna.md",
   "t": "Teks publik: fauna.md"
  },
+ "caa0a1a96a34": {
+  "en": "<strong>Wooly Gyut Milk</strong>: Females produce about 10 liters a day, and the milk looks and tastes like caramel when they're fed Gyut berries. Free for Darfaries children.",
+  "t": "<strong>Susu Wooly Gyut</strong>: Betina menghasilkan sekitar 10 liter sehari, dan susunya tampak dan terasa seperti karamel saat mereka diberi makan buah beri Gyut. Gratis untuk anak-anak Darfaries."
+ },
  "cb7a989df4da": {
   "en": "Culuim proves that Hifuna should always be considered a threat to the soul, even if you live as far away as the Freeish Kingdom. This story started when an asshole adventurer from Big Gyut returned from Hifuna with a bag of Walking Hearts ready to sell in the black market. He probably was smiling wide with excitement about making it back without being caught, but then one of his guild mates rattled on him to the guards—because of an affair like usual. Instead of turning the bag in, the asshole adventurer buried it near a pond to get rid of the evidence—the rest is history as worms ate the contaminated soul, and a new species was born. Forway tried to exterminate it, but it was to no avail, so they shifted to focus instead to ensure that it didn't present a danger to the public. Luckily that was the case, and soon after, it somehow became a popular street food for people in a pinch because of its girth size and abundant nature. They taste like dirt, and the flesh is pretty chewy, but with enough seasoning, it goes down nicely after some beers. Scientists love them even more for being an animal model for the effects of Walking Heart.",
   "t": "Culuim membuktikan bahwa Hifuna harus selalu dianggap ancaman bagi jiwa, bahkan kalau kamu tinggal sejauh Kerajaan Freeish. Kisah ini bermula ketika seorang petualang brengsek dari Big Gyut pulang dari Hifuna membawa sekantong Walking Heart yang siap dijual di pasar gelap. Ia pasti menyeringai lebar, girang karena berhasil pulang tanpa tertangkap, tapi lalu salah satu rekan gildanya melaporkannya kepada pengawal—karena urusan perselingkuhan, seperti biasa. Alih-alih menyerahkan kantong itu, petualang brengsek itu menguburnya di dekat kolam untuk menghilangkan bukti—sisanya tinggal sejarah, karena cacing-cacing memakan jiwa yang tercemar itu, dan lahirlah spesies baru. Forway mencoba memusnahkannya, tapi sia-sia, jadi mereka beralih fokus untuk memastikan makhluk itu tidak membahayakan masyarakat. Untungnya memang tidak, dan tak lama kemudian, entah bagaimana ia menjadi jajanan jalanan populer bagi orang-orang yang sedang bokek karena ukurannya yang gemuk dan jumlahnya yang melimpah. Rasanya seperti tanah dan dagingnya cukup alot, tapi dengan bumbu yang cukup, ia mudah masuk setelah beberapa gelas bir. Para ilmuwan lebih menyukainya lagi sebagai hewan model untuk efek Walking Heart."
+ },
+ "cd5c8dbd9c7e": {
+  "en": "A pig- and deer-like mammal whose meat isn't too gamy: a bit earthy, with hints of mushroom. Famous for shrugging off arrows, since an instant kill means shooting both of its hearts: one in the chest, and another in the gut, which has its own pathways that can also power the hind legs. Its musk smells like shrimp brine.",
+  "t": "Mamalia mirip babi dan rusa yang dagingnya tidak terlalu berbau liar: sedikit bersahaja seperti tanah, dengan sentuhan jamur. Terkenal tahan panah, karena membunuhnya seketika berarti memanah kedua jantungnya: satu di dada, dan satu lagi di perut, yang punya jalurnya sendiri yang juga bisa menggerakkan kaki belakang. Baunya seperti air rendaman udang."
+ },
+ "ceb3008882ba": {
+  "en": "<strong>Ptaina Fish Roe</strong>: A treat for some.",
+  "t": "<strong>Telur Ikan Ptaina</strong>: Camilan istimewa bagi sebagian orang."
+ },
+ "ceec885211ca": {
+  "en": "<strong>Barina Leg Meat</strong>: Meat cut by a butcher, often used in Freeish Kingdom dishes.",
+  "t": "<strong>Daging Kaki Barina</strong>: Daging yang dipotong tukang jagal, sering dipakai dalam hidangan Kerajaan Freeish."
+ },
+ "cefd76615954": {
+  "en": "Gait (walk)",
+  "t": "Gaya jalan (berjalan)"
+ },
+ "cf2876144923": {
+  "en": "Trot",
+  "t": "Lari anjing"
  },
  "cfdc5df49da6": {
   "en": "Male and female Saynas: small spotted fox-like animals with very large ears.",
@@ -355,37 +1131,157 @@
   "en": "Yuytas might look friendly to some, but they are not keen on human contact. If you poach a baby one from its mother, you might get a solid companion, but you wouldn't count on it. They are not as intelligent as cats, yet just as finicky. Their most desirable trait, aside from their tuna-like meat that has a faint freshly cut grass rather than oceanic notes, is the whiskers for nari gels, as with those, it allows you to see or feel stuff behind walls. They hang out in groups, and you can see them jumping about, enjoying their lives with their big plumpy butts for all to see. Hunters, and villagers at large, use these creatures' butts as a barometer for harvest quality. It's like what they say, \"Winter's gonna suck ass when you see a flappy butt flapping on Fall!\"",
   "t": "Yuyta mungkin tampak ramah bagi sebagian orang, tapi mereka tidak suka disentuh manusia. Kalau kamu mencuri anaknya dari induknya, kamu mungkin mendapat teman yang setia, tapi jangan terlalu berharap. Mereka tidak secerdas kucing, tapi sama rewelnya. Sifat yang paling dicari dari mereka, selain dagingnya yang mirip tuna dengan sedikit aroma rumput yang baru dipotong alih-alih aroma laut, adalah kumisnya untuk nari gel, karena dengannya, kamu bisa melihat atau merasakan benda di balik dinding. Mereka bergerombol, dan kamu bisa melihat mereka melompat-lompat ke mana-mana, menikmati hidup dengan pantat besar mereka yang montok untuk dilihat semua orang. Para pemburu, dan penduduk desa pada umumnya, memakai pantat makhluk ini sebagai barometer kualitas panen. Seperti kata orang: \"Musim dingin bakal parah banget kalau kamu lihat pantat kendur bergoyang di musim gugur!\""
  },
+ "d1317ad4680b": {
+  "en": "A frog known for staying underwater for a long time and for the toxins on its back. Its tail is useful for nari gels too.",
+  "t": "Katak yang dikenal bisa bertahan lama di bawah air dan karena racun di punggungnya. Ekornya juga berguna untuk nari gel."
+ },
+ "d2236ce106ac": {
+  "en": "<strong>Interface:</strong> Hair on head and chin.",
+  "t": "<strong>Antarmuka:</strong> Rambut di kepala dan dagu."
+ },
  "d3f1d96b05ca": {
   "en": "A small cyan butterfly that spreads everywhere every spring. Known for attacking Wozefaries and Sorefaries in swarms and paralyzing them to lick their sweat. One of the most popular butterflies around: when they swarm and flee, adventurers and commoners know bad weather is coming.",
   "t": "Kupu-kupu kecil berwarna sian yang menyebar ke mana-mana setiap musim semi. Dikenal menyerang Wozefaries dan Sorefaries secara berkerumun dan melumpuhkan mereka untuk menjilati keringatnya. Salah satu kupu-kupu paling populer: saat mereka berkerumun dan kabur, para petualang dan rakyat biasa tahu cuaca buruk akan datang."
+ },
+ "d4d4721c833c": {
+  "en": "<strong>Inspired by:</strong> Black Drum Fish.",
+  "t": "<strong>Terinspirasi dari:</strong> Ikan Black Drum."
+ },
+ "d5ac19f2411a": {
+  "en": "<strong>Inspired by:</strong> Flamingo with Winga mix.",
+  "t": "<strong>Terinspirasi dari:</strong> Flamingo bercampur Winga."
  },
  "d5e22df7e97b": {
   "en": "Wozen",
   "t": "Wozen"
  },
+ "d6d432b15cb4": {
+  "en": "<strong>Interface:</strong> Horns.",
+  "t": "<strong>Antarmuka:</strong> Tanduk."
+ },
  "d73ce8370633": {
   "en": "Egua became the foundation of trading across the four Kingdoms, and if you think more about it, the core reason why the prosperity treaty is prosperous. Sure, Gravity Repel is still used to decrease the weight of goods, but then you have to deal with volume too through World Decrease. The cost alone would make things prohibitively expensive to trade, but that's not all! The fact that not every good can handle having its density altered by factors of ten, if not hundreds, makes using Soul Energy for everything a pain in the ass. All of this brings back the point that with its interface that allows it to walk on water, endurance to carry a lot of weight, and friction control over muddy terrain, it truly is an essential asset in keeping the balls flowing by enriching trading and making wars unlikely. Some people, mostly Forway and Freeish folks, plus some adventurers here and there still like to indulge in Egua's meat for its meatier notes and low-fat content that makes tasty beef jerky. Just beware of its capabilities to eject its intestines from its bunghole when in self-defense—it's entertainingly bizarre to watch a Wozen, or anything for that matter, give up chasing an Egua when the shower of shit and guts starts to rain towards them.",
   "t": "Egua menjadi landasan perdagangan di seluruh empat Kerajaan, dan kalau dipikir-pikir, alasan utama perjanjian kemakmuran itu benar-benar makmur. Memang, Gravity Repel masih dipakai untuk mengurangi berat barang, tapi lalu kamu juga harus mengurus volumenya lewat World Decrease. Biayanya saja sudah membuat perdagangan terlalu mahal, tapi bukan itu saja! Kenyataan bahwa tidak semua barang tahan kerapatannya diubah sepuluh kali lipat, bahkan ratusan, membuat memakai Energi Jiwa untuk segalanya benar-benar merepotkan. Semua itu kembali pada kenyataan bahwa dengan antarmukanya yang memungkinkannya berjalan di atas air, daya tahannya mengangkut beban berat, dan kendali cengkeramannya di medan berlumpur, egua benar-benar aset penting yang menjaga bola terus mengalir, memperkaya perdagangan dan membuat perang jadi tidak mungkin. Sebagian orang, kebanyakan orang Forway dan Freeish, ditambah beberapa petualang di sana-sini, masih suka menikmati daging Egua karena rasanya yang lebih padat dan kadar lemaknya yang rendah, yang menghasilkan dendeng yang enak. Hanya saja, waspadai kemampuannya mengeluarkan ususnya lewat lubang pantat untuk membela diri—aneh tapi menghibur melihat seekor Wozen, atau apa pun, berhenti mengejar Egua ketika hujan kotoran dan isi perut mulai mengguyur mereka."
+ },
+ "d87d047b29d2": {
+  "en": "<strong>Skills:</strong> Reverberate Voice; Create Light.",
+  "t": "<strong>Kemampuan:</strong> Reverberate Voice; Create Light."
+ },
+ "d886ec863afa": {
+  "en": "<strong>Habitat:</strong> Cruro lands.",
+  "t": "<strong>Habitat:</strong> Negeri Cruro."
+ },
+ "d88e42687f14": {
+  "en": "<strong>Habitat:</strong> Throughout the lower region.",
+  "t": "<strong>Habitat:</strong> Di seluruh wilayah bawah."
  },
  "da13c60d054c": {
   "en": "Grass",
   "t": "Herba"
  },
+ "db42cb0cab14": {
+  "en": "<strong>Crocus Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>Daging Crocus</strong>: Daging yang dipotong tukang jagal."
+ },
+ "e096ca9e3833": {
+  "en": "<strong>Intelligence:</strong> Rats.",
+  "t": "<strong>Kecerdasan:</strong> Tikus."
+ },
+ "e179b32e7576": {
+  "en": "<strong>Reproduction:</strong> Tens of Fihi a year.",
+  "t": "<strong>Reproduksi:</strong> Puluhan Fihi setahun."
+ },
+ "e26709a487ee": {
+  "en": "<strong>Intelligence:</strong> Leopard.",
+  "t": "<strong>Kecerdasan:</strong> Macan tutul."
+ },
+ "e448b3b39740": {
+  "en": "<strong>Fihi Fish Roe</strong>: A treat for some.",
+  "t": "<strong>Telur Ikan Fihi</strong>: Camilan istimewa bagi sebagian orang."
+ },
+ "e54948829158": {
+  "en": "<strong>Tastes like:</strong> Gamy and tough.",
+  "t": "<strong>Rasanya seperti:</strong> Berbau hewan liar dan alot."
+ },
+ "e556b83aaed6": {
+  "en": "<strong>Interface:</strong> Its skin is tougher than normal fish skin, including being able to dissipate elemental energy—or rather, absorb it like a shield.",
+  "t": "<strong>Antarmuka:</strong> Kulitnya lebih alot dari kulit ikan biasa, termasuk bisa menghamburkan energi elemen—atau lebih tepatnya, menyerapnya seperti perisai."
+ },
  "e6431f6bf11c": {
   "en": "Yuyta: a white rodent with big front teeth, shown from the front, the back and as a head close-up.",
   "t": "Yuyta: hewan pengerat putih dengan gigi depan besar, ditampilkan dari depan, belakang, dan dalam gambar dekat kepala."
+ },
+ "e76195943c36": {
+  "en": "A Buhraies subjugation experiment: the Buhraies took a few chakis (chickens) and transformed them into fanchakis. As usual, both escaped containment, but the chakis went extinct, eaten up by the fauna and the Lishies. Fanchakis breed fast (like rats), so they survived and spread like wildfire, even with the Lishies hunting them by the thousands.",
+  "t": "Eksperimen penaklukan Buhraies: para Buhraies mengambil beberapa chaki (ayam) dan mengubahnya menjadi fanchaki. Seperti biasa, keduanya lolos dari kurungan, tapi chaki punah, dimakan habis oleh fauna dan para Lishies. Fanchaki berbiak cepat (seperti tikus), jadi mereka bertahan dan menyebar bak api, bahkan dengan para Lishies memburu mereka beribu-ribu."
+ },
+ "e76e5b4d4fd2": {
+  "en": "<strong>Egua Meat</strong>: Meat cut by a butcher. Relatively cheap, since it comes from older Eguas that no longer carry cargo or people.",
+  "t": "<strong>Daging Egua</strong>: Daging yang dipotong tukang jagal. Relatif murah, karena berasal dari Egua tua yang tak lagi mengangkut muatan atau orang."
+ },
+ "e77b78c71d82": {
+  "en": "<strong>Fanchaki Meat</strong>: Meat cut by a butcher. The kingdoms' favorite meat, for how good it tastes for the price.",
+  "t": "<strong>Daging Fanchaki</strong>: Daging yang dipotong tukang jagal. Daging favorit seluruh kerajaan, karena rasanya begitu enak untuk harganya."
  },
  "e80edef60f16": {
   "en": "Lansha is a Cruro favorite! So much so, you often can trade anything you want from them with a simple succulent chunk of grilled Lansha—or if the cruro is pretty savage, it will just snatch it from you, and your hand too! The meat's flavor is akin to goat or lamb. It takes getting used to, but once you do, it goes well with anything. Catching one and cooking it can be tricky if you don’t know what you’re doing. Their main defense is coating their bodies with a sour secretion that makes biting them impossible to stomach. Hunting them down requires skill to one-shot their brain, and even more skill to skin them and their sour glands.",
   "t": "Lansha adalah kesukaan para Cruro! Sampai-sampai kamu sering bisa menukar apa pun yang kamu mau dari mereka dengan sepotong Lansha panggang yang juicy—atau kalau cruro-nya agak liar, ia akan merampasnya darimu, beserta tanganmu! Rasa dagingnya mirip kambing atau domba. Perlu waktu untuk terbiasa, tapi begitu terbiasa, daging ini cocok dengan apa saja. Menangkap dan memasaknya bisa sulit kalau kamu tidak tahu apa yang kamu lakukan. Pertahanan utama mereka adalah melumuri tubuh dengan cairan asam yang membuat gigitan apa pun tidak bisa ditelan. Memburu mereka butuh keterampilan untuk menembus otak mereka dalam sekali tembak, dan lebih banyak keterampilan lagi untuk menguliti dan membuang kelenjar asam mereka."
  },
+ "e942eadd436d": {
+  "en": "<strong>Intelligence:</strong> Cockatoo.",
+  "t": "<strong>Kecerdasan:</strong> Kakatua."
+ },
+ "e9521d3eb018": {
+  "en": "See Cruro for more information!",
+  "t": "Lihat Cruro untuk informasi lebih lanjut!"
+ },
+ "e96e6f7d86ec": {
+  "en": "<strong>Tastes like:</strong> Bitter; only goes down in a heavily seasoned soup, though some people swear by its taste.",
+  "t": "<strong>Rasanya seperti:</strong> Pahit; hanya bisa ditelan dalam sup yang dibumbui banyak, meski sebagian orang bersumpah rasanya enak."
+ },
+ "e98e294b8c11": {
+  "en": "<strong>Tastes like:</strong> Bitter, and smells like urine. The meat is given to wild animals or used as fertilizer, though some Pearl adventurers still eat it, because it's free meat.",
+  "t": "<strong>Rasanya seperti:</strong> Pahit, dan baunya seperti air kencing. Dagingnya diberikan ke hewan liar atau dipakai sebagai pupuk, meski sebagian petualang Pearl tetap memakannya, karena dagingnya gratis."
+ },
+ "e99b71a69b07": {
+  "en": "One of the most terrifying snakes around for its size... but looks aren't everything.",
+  "t": "Salah satu ular paling menakutkan untuk ukurannya... tapi penampilan bukan segalanya."
+ },
+ "e9bfc573cd1f": {
+  "en": "<strong>Reproduction:</strong> Every summer; 25 eggs laid, of which only a few reach adulthood.",
+  "t": "<strong>Reproduksi:</strong> Setiap musim panas; 25 telur, dan hanya sedikit yang mencapai dewasa."
+ },
+ "ea1f882e807e": {
+  "en": "<strong>Sanbi Oil</strong>: Used in beer, in food, for greasing things, etc.",
+  "t": "<strong>Minyak Sanbi</strong>: Dipakai dalam bir, makanan, untuk melumasi barang, dll."
+ },
+ "ea2a96791612": {
+  "en": "<strong>Fanchaki Egg</strong>: A common food.",
+  "t": "<strong>Telur Fanchaki</strong>: Makanan umum."
+ },
+ "ea918f305a68": {
+  "en": "<strong>Interface:</strong> Hair on Back/Tusks on fronts.",
+  "t": "<strong>Antarmuka:</strong> Bulu di Punggung/Taring di depan."
+ },
  "edb2fa9e8d54": {
   "en": "Wooly is truly a staple of Gandew. The fact that there aren't many other places it can survive due to its demanding nature is strong enough by itself to warrant Gandew gaining the comparative advantage from Forway—but that isn't the only fact either. Darfaries acquired several unique masteries over the generations over the entire spectrum of by-products! From herding them in Mid-Gandew to processing their milk into varieties of cheeses, creating wet and dry-aged beef that is to soul die for, and even soft, warm wool and clothing! Toleridemians are the heaviest consumers, both in the literal and figurative sense, of these tantalizing exports, and try as they might, they cannot compete with Gandew on that front. Buhraies Plains is just not high enough for these creatures to feel at home, and whatever they produced so far under \"research\" was laughable.",
   "t": "Wooly benar-benar pilar Gandew. Kenyataan bahwa tidak banyak tempat lain yang bisa menjadi tempat hidupnya, karena sifatnya yang rewel, sudah cukup kuat dengan sendirinya untuk membenarkan Gandew mendapat keunggulan komparatif dari Forway—tapi itu juga bukan satu-satunya alasan. Darfaries memperoleh beberapa keahlian unik turun-temurun yang mencakup seluruh spektrum hasil sampingannya! Dari beternak di Mid-Gandew hingga mengolah susunya menjadi beragam jenis keju, menghasilkan daging sapi yang di-aging basah dan kering yang enaknya sampai mati jiwa, bahkan wol dan pakaian yang lembut dan hangat! Orang Tolerideme adalah konsumen terberat, secara harfiah maupun kiasan, dari ekspor yang menggiurkan ini, dan seberapa keras pun mereka mencoba, mereka tidak bisa menyaingi Gandew dalam hal itu. Buhraies Plains memang tidak cukup tinggi bagi makhluk ini untuk merasa betah, dan apa pun yang mereka hasilkan sejauh ini atas nama \"penelitian\" sungguh menggelikan."
  },
+ "ee3e2adc67b2": {
+  "en": "<strong>Bagarisa Hide/Fur</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Kulit/Bulu Bagarisa</strong>: Kulit/bulu, disiapkan tukang jagal untuk dikerjakan para pengrajin."
+ },
  "ef97b49d1a9a": {
   "en": "<strong>Inspired by:</strong> Butterfly.",
   "t": "<strong>Terinspirasi dari:</strong> Kupu-kupu."
+ },
+ "efecdea30ac3": {
+  "en": "~5 km",
+  "t": "~5 km"
+ },
+ "effdb360e78b": {
+  "en": "<strong>Reproduction:</strong> Every spring; ~30 eggs laid, of which only a few reach adulthood.",
+  "t": "<strong>Reproduksi:</strong> Setiap musim semi; ~30 telur, dan hanya sedikit yang mencapai dewasa."
  },
  "f03bfe0fce40": {
   "en": "Culuim",
@@ -395,9 +1291,53 @@
   "en": "<strong>Interface:</strong> Hair on legs.",
   "t": "<strong>Antarmuka:</strong> Bulu di kaki."
  },
+ "f14bb452ecbf": {
+  "en": "<strong>Ptaina Scales</strong>: Scales, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Sisik Ptaina</strong>: Sisik, disiapkan tukang jagal untuk dikerjakan para pengrajin."
+ },
+ "f5f3755cabe6": {
+  "en": "<strong>Habitat:</strong> Mostly the forests of the Sanbi region and up the coast.",
+  "t": "<strong>Habitat:</strong> Kebanyakan di hutan-hutan wilayah Sanbi dan ke utara menyusuri pantai."
+ },
  "f8bfebcf4201": {
   "en": "<strong>Habitat:</strong> Throughout the four kingdoms; wild ones live on the plains around Forway City.",
   "t": "<strong>Habitat:</strong> Di seluruh empat kerajaan; yang liar hidup di dataran sekitar Forway City."
+ },
+ "f8eb6490e08e": {
+  "en": "<strong>Fanchaki Feathers</strong>: Feathers, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Bulu Fanchaki</strong>: Bulu, disiapkan tukang jagal untuk dikerjakan para pengrajin."
+ },
+ "faacfbb4d60d": {
+  "en": "<strong>Reproduction:</strong> Females give birth to 2 or 3 babies every 3 months.",
+  "t": "<strong>Reproduksi:</strong> Betina melahirkan 2 atau 3 anak setiap 3 bulan."
+ },
+ "fb53a27c3daf": {
+  "en": "<strong>Reproduction:</strong> 3 or 4 Winga couples get together for a swing party, then build a shared nest to care for the eggs, which hatch in less than a month. About 20 Winga eggs are laid every year.",
+  "t": "<strong>Reproduksi:</strong> 3 atau 4 pasang Winga berkumpul untuk pesta tukar pasangan, lalu membangun sarang bersama untuk merawat telur-telurnya, yang menetas dalam waktu kurang dari sebulan. Sekitar 20 telur Winga dihasilkan setiap tahun."
+ },
+ "fb6c2dca1fec": {
+  "en": "<strong>Reproduction:</strong> Every year, they tend to have about 2 or 3 baby Wozens.",
+  "t": "<strong>Reproduksi:</strong> Setiap tahun, mereka cenderung punya sekitar 2 atau 3 bayi Wozen."
+ },
+ "fbf4f9e2165d": {
+  "en": "<strong>Fatupari Jerky</strong>: Jerky prepared by a butcher. See Fatupari Meat.",
+  "t": "<strong>Dendeng Fatupari</strong>: Dendeng buatan tukang jagal. Lihat Daging Fatupari."
+ },
+ "fc575baee407": {
+  "en": "<strong>Intelligence:</strong> Chicken.",
+  "t": "<strong>Kecerdasan:</strong> Ayam."
+ },
+ "fcfafdd5bf13": {
+  "en": "<strong>Crocus Eggs</strong>: An interesting food for some.",
+  "t": "<strong>Telur Crocus</strong>: Makanan yang menarik bagi sebagian orang."
+ },
+ "fd7cb8d7ed78": {
+  "en": "<strong>Crocus Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Dendeng Crocus</strong>: Dendeng buatan tukang jagal."
+ },
+ "ff51f79062c7": {
+  "en": "<strong>Skills:</strong> Cloak; Toxin Air Diffusion.",
+  "t": "<strong>Kemampuan:</strong> Cloak; Toxin Air Diffusion."
  },
  "ff5a6de9851b": {
   "en": "A heavy horse with a hippopotamus-like head. Herbivores that didn't mind being around other species, they were quickly domesticated. They love being petted and understand basic instructions, but hurting them, physically or emotionally, makes them violent. Their Soul Energy interface lets them walk on water naturally, which makes them the basis of transportation across the Shared Delta. Humans respect their friendliness so much that Eguas are often given human burials. Some people do eat their meat, but mostly when the opportunity arises (older Eguas, for example).",
