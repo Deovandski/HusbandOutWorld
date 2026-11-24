@@ -1,4 +1,12 @@
 {
+ "0035d8454125": {
+  "en": "<strong>Intelligence:</strong> Monkey. They can plan ahead, attack, defend, form families, recognize people, and communicate with others.",
+  "t": "<strong>지능:</strong> 원숭이. 앞일을 계획하고, 공격하고, 방어하고, 가족을 이루고, 사람을 알아보고, 서로 소통할 수 있다."
+ },
+ "004a42cb08b0": {
+  "en": "<strong>Reproduction:</strong> Somewhere between Wingas and Flingas: about 3 or 4 couples get together for a swing party, then build a shared nest to care for the eggs, which take the whole summer to hatch. Around 5 Big Winga eggs are laid each year (Wingas lay about 20, Flingas about 2).",
+  "t": "<strong>번식:</strong> 윙가와 플링가의 중간쯤. 약 3~4쌍이 모여 스와핑 파티를 하고, 공동 둥지를 지어 알을 돌본다. 알은 여름 내내 걸려 부화한다. 해마다 빅 윙가 알은 5개쯤 낳는다(윙가는 약 20개, 플링가는 약 2개)."
+ },
  "017e994c4257": {
   "en": "Two Big Wingas: huge blue parrot-like birds with red crests and rainbow-banded feathers, shown next to Harry for scale.",
   "t": "빅 윙가 두 마리: 빨간 볏과 무지개 띠 깃털을 가진 거대한 파란 앵무새 같은 새. 크기 비교를 위해 해리가 옆에 있다."
@@ -6,6 +14,22 @@
  "01da0414b35d": {
   "en": "Bruntos",
   "t": "브룬토스"
+ },
+ "026c72b11c9a": {
+  "en": "<strong>Reproduction:</strong> Around 2 Flinga eggs are laid each year.",
+  "t": "<strong>번식:</strong> 해마다 플링가 알은 2개쯤 낳는다."
+ },
+ "02c5d96c04e2": {
+  "en": "<strong>Koalin Hide/Fur</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>코알린 가죽/털</strong>: 장인이 다룰 수 있게 도축업자가 손질한 가죽/털."
+ },
+ "03c03fde9344": {
+  "en": "<strong>Interface:</strong> Beard (males only).",
+  "t": "<strong>인터페이스:</strong> 수염(수컷만)."
+ },
+ "04edcec10fdd": {
+  "en": "<strong>Skills:</strong> Often more powerful versions of the original skills.",
+  "t": "<strong>능력:</strong> 대개 원래 능력의 더 강한 버전."
  },
  "060bb756d097": {
   "en": "<strong>Hifuna People</strong> are like the crazy cousin and are proof that Hifuna will fuck anyone up, including something as sturdy as a tree. They will slice and beat everything in their sight, including their own, to a mashed-potato consistency, then squat on top of it to absorb its nutrients. Wood People could also do that, but no one has seen them do it. It's a grim fate fighting these beasts; a Sapphire adventurer will have to be quick on its feet to evade how much soul energy Hifuna People pour into their interface—their attacks are much stronger than Wood People's, plus additional skills in the vines like making sonic booms, creating razor-sharp edges, and creating spikes that it launches towards you, not to be scoffed at. Don't forget the exploding branches too! It can tear them off itself and chuck them toward you in desperation. On the plus side, Hifuna Yabucas sells well on the black market! Not that we condone doing so, of course—",
@@ -23,13 +47,93 @@
   "en": "Walking Flathead, or simply Flathead. All textbooks keep it simple: If you see one, you're fucked. Everyone at this point assumes they are the Bahyum castle's leaders, acting like its physical manifestation. How many are there? Nobody knows. What species did they transform from? Nobody knows either. What some do know is that whatever the fuck this thing is, it must have been part of the reason Buhraies lost control over their own castle, holding countless scientific experimentations, and likely also a factor that forced them to withdraw into Gandew Mountain. What adventurers and guards do know is that if you manage to kill one and drag its body to a seller, you can live like a king for a whole year. Odds are not on your side, so most likely, you will become a walking flesh and then walking skin for eternity—think of the plus side! You will become part of something greater than yourself! Just like working a corporate job!",
   "t": "워킹 플랫헤드, 또는 그냥 플랫헤드. 모든 교과서는 간단하게 말한다. 하나라도 보면, 넌 좆된 거다. 이제 다들 그것들이 바혐 성의 지도자들이고, 성의 물리적인 화신처럼 행동한다고 생각한다. 몇이나 있냐고? 아무도 모른다. 어떤 종족이 변한 거냐고? 그것도 아무도 모른다. 일부가 아는 건, 이게 씨발 뭐든 간에, 부라이에스가 수많은 과학 실험이 이뤄지던 자기들 성의 통제권을 잃은 이유 중 하나였을 테고, 그들을 간듀 산으로 물러나게 만든 요인이기도 했을 거라는 점이다. 모험가와 경비병들이 아는 건, 하나를 죽여서 그 시체를 상인에게 끌고 가면 1년 내내 왕처럼 살 수 있다는 것이다. 확률은 네 편이 아니니까, 아마 넌 워킹 플레시가 됐다가 영원히 워킹 스킨이 될 거다—좋은 쪽으로 생각해! 너보다 더 위대한 무언가의 일부가 되는 거야! 대기업에 다니는 것처럼!"
  },
+ "09c85b376a38": {
+  "en": "<strong>Other:</strong> Maybe it’s a single life form, with each piece acting independently to gather information.",
+  "t": "<strong>기타:</strong> 어쩌면 하나의 생명체이고, 조각마다 따로 움직이며 정보를 모으는 것일지도 모른다."
+ },
+ "0a7fd7ebb990": {
+  "en": "<strong>Habitat:</strong> Bahyum Castle, sometimes invading the Buhraies Plains.",
+  "t": "<strong>서식지:</strong> 바혐 성. 가끔 부라이에스 평원을 침범한다."
+ },
+ "0bb55a138139": {
+  "en": "<strong>Sand Worm Jerky</strong>: Jerky prepared by a butcher. Few people want it, because of its strong, gamey flavor; it’s usually served to poorer people.",
+  "t": "<strong>샌드 웜 육포</strong>: 도축업자가 만든 육포. 맛이 세고 누린내가 나서 찾는 사람이 적다. 보통 가난한 사람들에게 내놓는다."
+ },
+ "0cb8d28a7735": {
+  "en": "<strong>Tier II (Common Goods):</strong> processed meat, plus elemental interface actions for longer storage; feathers and fur of large animals, and other animal parts.",
+  "t": "<strong>II등급(흔한 물건):</strong> 가공한 고기와 오래 보관하기 위한 원소 인터페이스 동작, 큰 동물의 깃털과 털, 그 밖의 동물 부위."
+ },
+ "0fe2256d4115": {
+  "en": "<strong>Black Honey</strong>: One of the best-tasting honeys in the kingdoms. Very high in calories; some even say it’s addictive. Often used to speed up Body Heal.",
+  "t": "<strong>검은 꿀</strong>: 왕국에서 가장 맛있는 꿀 중 하나. 칼로리가 아주 높고, 중독성이 있다는 사람도 있다. 보디 힐을 빠르게 하는 데 자주 쓴다."
+ },
+ "10a37fd62f38": {
+  "en": "<strong>Inspired by:</strong> Macaw.",
+  "t": "<strong>모티브:</strong> 마코앵무."
+ },
+ "10ecda494ac5": {
+  "en": "A worm that burrows into the ground and attacks passersby, a relative of the Nari Worms, and the kingdoms' main source of chitin.",
+  "t": "땅속을 파고들어 지나가는 이를 공격하는 벌레로, 나리 웜의 친척이자 왕국들의 주요 키틴 공급원이다."
+ },
  "11d57139eee8": {
   "en": "Hifuna People are like the crazy cousin and are proof that Hifuna will fuck anyone up, including something as sturdy as a tree. They will slice and beat everything in their sight, including their own, to a mashed potato consistency, then squat on top of it to absorb its nutrients into itself. Wood People could also do that, but no one has seen them do it. It's a grim fate fighting these beasts; a Sapphire adventurer will have to be quick on its feet to evade how much soul energy Hifuna People pour into their interface—their attacks are much stronger than Wood People's, plus additional skills in the vines like making sonic booms, creating razor sharp edges, and creating spikes that it launches towards you at not to be scoffed at. Don't forget the exploding branches too! It can tear them off itself and chuck them toward you in desperation. On the plus side, Hifuna Yabucas sells well on the black market! Not that we condone doing so, of course—",
   "t": "히푸나 피플는 말하자면 정신 나간 사촌 같은 존재로, 히푸나는 나무처럼 튼튼한 것조차 누구든 박살 낸다는 증거다. 눈에 보이는 모든 것을, 같은 종족까지 포함해서 베고 두들겨 으깬 감자처럼 만든 다음, 그 위에 쭈그리고 앉아 양분을 자기 몸으로 빨아들인다. 우드 피플도 그럴 수 있겠지만, 그러는 걸 본 사람은 아무도 없다. 이 마수들과 싸우는 건 끔찍한 운명이다. 사파이어 모험가라도 히푸나 피플이 인터페이스에 쏟아붓는 엄청난 영혼 에너지를 피하려면 몸놀림이 빨라야 한다—공격은 우드 피플보다 훨씬 강하고, 덩굴에는 음속 폭음을 일으키고, 면도날처럼 날카로운 칼날을 만들고, 가시를 만들어 쏘아 대는 등 무시할 수 없는 능력까지 있다. 폭발하는 가지도 잊지 마! 자기 몸에서 뜯어내 필사적으로 던져 댄다. 좋은 점도 있다. 히푸나 야부카는 암시장에서 잘 팔린다! 물론 그러라고 권하는 건 아니지만—"
  },
+ "13f703bba1b7": {
+  "en": "<strong>Skills:</strong> And don’t forget the exploding branches! They can tear them off and chuck them at you.",
+  "t": "<strong>능력:</strong> 터지는 가지도 잊지 말자! 가지를 뜯어서 던진다."
+ },
+ "149b1ed15aa0": {
+  "en": "<strong>Tastes like:</strong> The originating species, gone bad: it smells rotten, metallic, bloody, burnt, grassy and generally off, and tastes of sulfur, singed hair, burnt feathers, burnt oil and rancid fat. The meat can turn green, brown, red or yellow, and some gives off a yellow, saliva-like ooze. (Real-world comparison: this is how irradiated food has been described; see the <a href=\"https://www.centerforfoodsafety.org/files/food_irradiation_gross_failure.pdf\" rel=\"noopener\">Center for Food Safety report</a>.)",
+  "t": "<strong>맛:</strong> 원래 종이 상한 맛. 썩은 내, 쇠 냄새, 피 냄새, 탄내, 풀 냄새가 나고 전반적으로 이상하며, 유황, 그을린 털, 탄 깃털, 탄 기름, 썩은 지방 맛이 난다. 고기는 초록, 갈색, 빨강, 노랑으로 변할 수 있고, 일부는 침 같은 노란 진물을 낸다. (현실 비교: 방사선 조사 식품을 묘사할 때 이런 표현을 쓴다. <a href=\"https://www.centerforfoodsafety.org/files/food_irradiation_gross_failure.pdf\" rel=\"noopener\">Center for Food Safety 보고서</a> 참조.)"
+ },
+ "1538b771d71e": {
+  "en": "<strong>Skills:</strong> Fast Strike (punches a hole in the target’s flesh) by altering the physical properties of their vines. Their attacks are much stronger than Wood People’s, and their vines have more skills: sonic booms, razor-sharp edges, and even spikes they launch at you.",
+  "t": "<strong>능력:</strong> 덩굴의 물리적 성질을 바꿔 쓰는 패스트 스트라이크(대상의 살에 구멍을 낸다). 공격은 우드 피플보다 훨씬 강하고, 덩굴 능력도 더 많다. 음속 폭음, 면도날 같은 날, 심지어 쏘아 보내는 가시까지."
+ },
+ "165f72987b35": {
+  "en": "<strong>Habitat:</strong> The southwest.",
+  "t": "<strong>서식지:</strong> 남서부."
+ },
+ "166cfe25cd96": {
+  "en": "<strong>Habitat:</strong> Underground, around the mountains of Blood City (see Nari Caverns).",
+  "t": "<strong>서식지:</strong> 블러드 시 산들 주변의 땅속(나리 동굴 참조)."
+ },
+ "16c89a6d14fc": {
+  "en": "<strong>Tastes like:</strong> Bone, and dry, flaky skin.",
+  "t": "<strong>맛:</strong> 뼈, 그리고 바싹 마른 각질 같은 피부."
+ },
  "16fb57d15e12": {
   "en": "Nari Worms",
   "t": "나리 웜"
+ },
+ "17a76cf3c8d5": {
+  "en": "<strong>Other:</strong> Grows indefinitely, about ~10 cm a year, but most stop around this size, because they can’t eat enough to make up for the energy hunting takes.",
+  "t": "<strong>기타:</strong> 끝없이 자란다. 해마다 ~10cm쯤. 하지만 대부분 이 크기쯤에서 멈추는데, 사냥에 드는 에너지를 메울 만큼 먹을 수 없기 때문이다."
+ },
+ "17f45b2bd269": {
+  "en": "A cousin of the Soreno, rarely tamed. Usually a hunter takes a baby away from its mother; it bonds with them and becomes a pet. Getting it to bond with someone else is nearly impossible.",
+  "t": "소레노의 사촌으로, 길들이는 일이 드물다. 보통 사냥꾼이 새끼를 어미에게서 떼어 오면, 새끼가 그 사냥꾼에게 정을 붙여 애완동물이 된다. 다른 사람에게 정을 붙이게 하는 건 거의 불가능하다."
+ },
+ "188b4291bc16": {
+  "en": "Endless experiments with what's now known as the Walking Heart stone left a few Walking Flatheads in Bahyum Castle. They're incredibly hard to kill.",
+  "t": "지금은 워킹 하트석으로 알려진 돌을 끝없이 실험한 결과, 바혐 성에 워킹 플랫헤드 몇 마리가 남았다. 죽이기가 엄청나게 어렵다."
+ },
+ "19624e1b0fd7": {
+  "en": "A bigger, more voracious version of any fauna, beast or race that has lived in Hifuna long enough: usually with hair fallen out, a bigger size, and some body parts bigger or smaller than others.",
+  "t": "히푸나에서 충분히 오래 산 동물, 마수, 종족이 더 크고 더 탐욕스러워진 것. 보통 털이 빠지고, 몸집이 커지며, 어떤 신체 부위는 다른 부위보다 크거나 작아진다."
+ },
+ "19b39ce33804": {
+  "en": "None. See Fauna › Monica.",
+  "t": "없음. 동물 › 모니카 참조."
+ },
+ "1b3717302810": {
+  "en": "<strong>Hifuna People Vines</strong>: Often used for ropes, construction, etc. Quite elastic, almost like rubber.",
+  "t": "<strong>히푸나 피플 덩굴</strong>: 밧줄, 건축 등에 자주 쓴다. 고무처럼 꽤 탄력 있다."
+ },
+ "1b607a554a07": {
+  "en": "<strong>Reproduction:</strong> They clone themselves by splitting right down the middle, but usually only when there is enough space around them.",
+  "t": "<strong>번식:</strong> 몸 한가운데를 쪼개 스스로를 복제한다. 보통 주변에 공간이 충분할 때만."
  },
  "1c59d3d634d7": {
   "en": "Defensive",
@@ -39,9 +143,25 @@
   "en": "Hifuna Wood People",
   "t": "히푸나 우드 피플"
  },
+ "1ebc11da32c8": {
+  "en": "<strong>Reproduction:</strong> By attacking flesh animals and laying worms in them.",
+  "t": "<strong>번식:</strong> 살아 있는 동물을 공격해 그 안에 벌레를 낳는다."
+ },
  "205c5b2248b6": {
   "en": "Teefyro: a shaggy brown wolf-like beast with rows of teeth, shown with its jaws closed and wide open, beside Harry.",
   "t": "티피로: 이빨이 여러 줄 난 털북숭이 갈색 늑대 같은 마수. 입을 다문 모습과 크게 벌린 모습이 해리 옆에 그려져 있다."
+ },
+ "2139b5b83c6e": {
+  "en": "<strong>Koalin Brains, Eyes and Moustache</strong>: Used for Mind Enabler, which is illegal. Anyone carrying these to sell will be brought in for questioning.",
+  "t": "<strong>코알린 뇌, 눈, 수염</strong>: 불법인 마인드 이네이블러에 쓴다. 이걸 팔려고 가지고 다니는 사람은 누구든 심문을 받는다."
+ },
+ "231a153957d9": {
+  "en": "Much larger Wingas that lived in Wingarest: physically altered Wingas the Buhraies used to fly around. Some still exist, but they're a rare sight, since they grew afraid of the humans who hunted them nearly to extinction. Their meat isn't as sweet as Winga meat, since Big Wingas developed a taste for meat too. You'll commonly see them with Forway guards, but those are guards wearing the nari gel.",
+  "t": "윙가레스트에 살던 훨씬 큰 윙가. 부라이에스가 타고 날아다니려고 몸을 바꿔 놓은 윙가다. 아직 일부 남아 있지만, 자기들을 거의 멸종시킬 만큼 사냥한 인간을 두려워하게 돼서 보기 드물다. 빅 윙가는 고기 맛도 들여서, 그 고기는 윙가 고기만큼 달지 않다. 포웨이 경비병과 함께 있는 걸 흔히 보지만, 그건 나리 젤을 먹은 경비병이다."
+ },
+ "24b22080aaf5": {
+  "en": "<strong>Food:</strong> See Fauna &gt; Monica.",
+  "t": "<strong>먹이:</strong> 동물 &gt; 모니카 참조."
  },
  "26dfc070d350": {
   "en": "<strong>Walking Skin,</strong> sometimes called <strong>Walking Bones,</strong> is the name given to any species unlucky or dumb enough to have been sequestered by the Bahyum Castle creepy residents whenever they go on a rampage. Species that become walking skin seem to all act in a hive-mind manner, usually going for quantity over quality to kill anyone in their path. A good proportion of the walking skins are human. Some scientists believe it's just a matter of fact, given how many humans have been sequestered by the castle, but others believe the castle itself is breeding or somehow creating them through the walking heart stones. The Buhraies built the castle for soul experimentation, so expecting it to do creepy shit is not a crazy assumption—after all, the castle itself is alive and moody too. Just ask the most guards and adventurers in the local Bahyum village, and they will jokingly say it's moodier than a Wozefaries girl in her PMS.",
@@ -51,49 +171,213 @@
   "en": "Nari Worm: a giant serpent with blue scaled plates, red eyes and a toothy mouth, coiled around Harry.",
   "t": "나리 웜: 파란 비늘판과 빨간 눈, 이빨이 가득한 입을 가진 거대한 뱀이 해리를 휘감고 있다."
  },
+ "285860632716": {
+  "en": "<strong>Intelligence:</strong> Capybara/Golden Retriever.",
+  "t": "<strong>지능:</strong> 카피바라/골든 리트리버."
+ },
+ "28cb1ef48739": {
+  "en": "<strong>Walking Flathead Claws</strong>: Often used for weapons and sharp tools.",
+  "t": "<strong>워킹 플랫헤드 발톱</strong>: 무기와 날카로운 도구에 자주 쓴다."
+ },
+ "2a20d18c9d49": {
+  "en": "<strong>Intelligence:</strong> Rather mindless; they act purely on instinct and go out of their way to attack anything they see, even other Hifuna People. Shoving a Fost stone into the top of the trunk paralyzes them.",
+  "t": "<strong>지능:</strong> 거의 생각이 없다. 순전히 본능대로 움직이며, 다른 히푸나 피플까지 포함해 눈에 보이는 건 뭐든 일부러 찾아가 공격한다. 줄기 꼭대기에 포스트석을 박아 넣으면 마비된다."
+ },
+ "2a2e709839ef": {
+  "en": "Prices: see <a href=\"/lore/economy/\">Economy</a>.",
+  "t": "가격: <a href=\"/lore/economy/\">경제</a> 참조."
+ },
+ "2b3f61572512": {
+  "en": "<strong>Skills:</strong> Slow Regen; Halted Decomposition; See the Soul Energy of creatures.",
+  "t": "<strong>능력:</strong> 느린 재생, 부패 정지, 생물의 영혼 에너지 보기."
+ },
  "2b4860ca4a82": {
   "en": "Big Wingas",
   "t": "빅 윙가"
+ },
+ "2c0ee230d700": {
+  "en": "<strong>Tastes like:</strong> Bone-dry, flaky skin.",
+  "t": "<strong>맛:</strong> 바싹 마른 각질 같은 피부."
+ },
+ "2df7e1e008ae": {
+  "en": "<strong>Intelligence:</strong> Dolphin.",
+  "t": "<strong>지능:</strong> 돌고래."
+ },
+ "2fa5736682cf": {
+  "en": "<strong>Reproduction:</strong> Because of their size and long lives, they rarely reproduce; when they do, it’s three or four eggs at most, which take months to hatch.",
+  "t": "<strong>번식:</strong> 몸집이 크고 오래 살아서 번식이 드물다. 번식하면 기껏해야 알 서너 개고, 부화까지 몇 달 걸린다."
+ },
+ "3027db7e2f27": {
+  "en": "The Buhraies created them by altering the souls of Yabuca trees, then confined them to small forests across the Buhraies Plains to produce food and lumber in a controlled way. Their blood, or sap, is pink. Wood People's bodies are used for all kinds of things, especially buildings, but you have to get one somewhere before you cut it down, or trick it into following you like a herd; otherwise, you float the corpse down a river or stream, or use several Eguas to haul it a short distance (under 100 km). Jamming a Fost stone into their tops paralyzes them in place, which is how walls of Wood People are made.",
+  "t": "부라이에스가 야부카 나무의 영혼을 바꿔 만든 뒤, 식량과 목재를 통제된 방식으로 생산하려고 부라이에스 평원 곳곳의 작은 숲에 가둬 두었다. 피, 즉 수액은 분홍색이다. 우드 피플의 몸은 온갖 데, 특히 건물에 쓰이지만, 베기 전에 원하는 곳까지 데려오거나 무리처럼 따라오게 속여야 한다. 아니면 사체를 강이나 개울에 띄워 보내거나, 짧은 거리(100km 미만)는 에구아 여러 마리로 끌고 간다. 꼭대기에 포스트석을 박으면 그 자리에 마비되는데, 우드 피플 장벽은 그렇게 만든다."
  },
  "3128debb4d32": {
   "en": "Hifuna People are like the crazy cousin and are proof that Hifuna will fuck anyone up, including something as sturdy as a tree.",
   "t": "히푸나 피플은 말하자면 정신 나간 사촌 같은 존재로, 히푸나는 나무처럼 튼튼한 것조차 누구든 박살 낸다는 증거다."
  },
+ "324b6e7d527b": {
+  "en": "<strong>Food:</strong> Nectar.",
+  "t": "<strong>먹이:</strong> 꿀(넥타)."
+ },
+ "33a450f96e48": {
+  "en": "<strong>Food:</strong> Dead matter; opportunistic.",
+  "t": "<strong>먹이:</strong> 죽은 물질. 기회주의적."
+ },
  "3473fbafe0b8": {
   "en": "Walking Flathead",
   "t": "워킹 플랫헤드"
+ },
+ "3542d37c1d05": {
+  "en": "<strong>Bruntos Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>브룬토스 고기</strong>: 도축업자가 손질한 고기."
+ },
+ "35b86cca6bd2": {
+  "en": "<strong>Trunk People Hair</strong>: Used in nari gels.",
+  "t": "<strong>트렁크 피플 머리카락</strong>: 나리 젤에 쓴다."
  },
  "36df22a0f5fd": {
   "en": "Male and female Bruntos: small furry ape-like creatures with pale manes, standing beside Harry on a height chart.",
   "t": "수컷과 암컷 브룬토스: 연한 갈기를 가진 작고 털복숭이인 유인원 같은 생물. 키 비교표 위의 해리 옆에 서 있다."
  },
+ "37b8a934e27f": {
+  "en": "<strong>Food:</strong> Omnivores: insects, fruits, etc.",
+  "t": "<strong>먹이:</strong> 잡식. 곤충, 과일 등."
+ },
+ "37d00f54dbe7": {
+  "en": "<strong>Tastes like:</strong> Rotten dried meat.",
+  "t": "<strong>맛:</strong> 썩은 말린 고기."
+ },
+ "38a2031ebc0b": {
+  "en": "<strong>Extermination</strong>: Usually one piece (often the head) is torn off and brought back as proof of the hunt. See Embassy Quests for more details.",
+  "t": "<strong>토벌</strong>: 보통 사냥의 증거로 한 부위(대개 머리)를 뜯어 가져온다. 자세한 건 대사관 의뢰 참조."
+ },
+ "38c1912f9705": {
+  "en": "<strong>Intelligence:</strong> Instinctual, and highly defensive of their spots.",
+  "t": "<strong>지능:</strong> 본능적이고, 자기 영역을 매우 방어적으로 지킨다."
+ },
+ "3b7b3ee80d59": {
+  "en": "<strong>Interface:</strong> Internal organs.",
+  "t": "<strong>인터페이스:</strong> 내장 기관."
+ },
  "3baebebd0b58": {
   "en": "Sweet Sting: a giant bee, shown at full size and at normal bee size, next to Harry.",
   "t": "스위트 스팅: 실제 크기와 보통 벌 크기로 그려진 거대한 벌. 해리 옆에 있다."
+ },
+ "3cf398eff263": {
+  "en": "<strong>Food:</strong> Rocks.",
+  "t": "<strong>먹이:</strong> 돌."
+ },
+ "3dac76633c34": {
+  "en": "<strong>Inspired by:</strong> Radiation mutation.",
+  "t": "<strong>모티브:</strong> 방사능 돌연변이."
+ },
+ "3e062fc63a54": {
+  "en": "<strong>Big Winga Egg</strong>: A treat for many people due to its sweet taste.",
+  "t": "<strong>빅 윙가 알</strong>: 달콤한 맛 덕분에 많은 이에게 별미다."
  },
  "3e0731f635a1": {
   "en": "Hifuna Wood People: a tree with golden leaves and long trailing roots, shown with a small fruit and Harry for scale.",
   "t": "히푸나 우드 피플: 금색 잎과 길게 늘어진 뿌리를 가진 나무. 작은 열매와 크기 비교용 해리가 함께 그려져 있다."
  },
+ "3e18cc4fec8f": {
+  "en": "<strong>Tastes like:</strong> Wood.",
+  "t": "<strong>맛:</strong> 나무."
+ },
+ "3f31cc5ac057": {
+  "en": "<strong>Flinga Egg</strong>: Rarely found, and Humans, Darfaries and others have never managed to hatch one.",
+  "t": "<strong>플링가 알</strong>: 드물게 발견되고, 인간이나 다르파리에스나 누구도 부화시키는 데 성공한 적이 없다."
+ },
+ "4137fad0287c": {
+  "en": "<strong>Interface:</strong> See Fauna &gt; Monica.",
+  "t": "<strong>인터페이스:</strong> 동물 &gt; 모니카 참조."
+ },
+ "418f7fc9e858": {
+  "en": "<strong>Tier III (Expensive Goods):</strong> jerky, plus elemental interface actions for storage; feathers and fur of smaller animals, especially higher-quality ones; live beasts; rare animal parts.",
+  "t": "<strong>III등급(비싼 물건):</strong> 육포와 보관을 위한 원소 인터페이스 동작, 작은 동물의 깃털과 털(특히 고품질), 살아 있는 마수, 희귀한 동물 부위."
+ },
  "430cd841045f": {
   "en": "4 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "이 페이지의 항목 4개는 <button class=\"linklike\" data-go-bts>비하인드</button>에서만 볼 수 있습니다."
+ },
+ "449ee8d376d3": {
+  "en": "<strong>Intelligence:</strong> Chimpanzee. They haven’t discovered fire yet, but they use some tools, especially if trained by humans. Great for adventurers who need a cargo mate on very rough terrain.",
+  "t": "<strong>지능:</strong> 침팬지. 아직 불은 발견하지 못했지만 도구를 좀 쓰고, 특히 인간이 훈련시키면 더 잘 쓴다. 아주 험한 지형에서 짐꾼이 필요한 모험가에게 딱이다."
+ },
+ "45a384823cd2": {
+  "en": "<strong>Inspired by:</strong> Trees, kind of. They map their surroundings with their vines and with vibrations in the ground and the wind. They are drawn to Fost stones, because they can somewhat sense a direction in them.",
+  "t": "<strong>모티브:</strong> 나무, 그런 셈. 덩굴과 땅과 바람의 진동으로 주변을 파악한다. 포스트석에서 어렴풋이 방향을 느낄 수 있어서 포스트석에 끌린다."
  },
  "46d85d6d1093": {
   "en": "Sand Worm: a segmented tan worm with a gaping toothy mouth, next to Harry for scale.",
   "t": "샌드 웜: 이빨이 가득한 입을 크게 벌린 황갈색 마디 벌레. 크기 비교를 위해 해리가 옆에 있다."
  },
+ "478075c93998": {
+  "en": "Economic value",
+  "t": "경제적 가치"
+ },
  "4784b024f480": {
   "en": "Shapeshifters are presumed to be one of the last remaining ancient species in this world. They are intelligent, have forethought capabilities, have an interface with a wide range of actions, and can even communicate in the shape of the creature they are mimicking. However, a growing group of scientists is classifying it as a beast instead, as all of its apparent intelligence is just another form of mimicry because, at the end of the day, its communication skills show that it is nothing other than a mindless blob, seeking to grow large enough to divide itself in half. Or the shapeshifters that got captured are the dumb ones. Who knows? Although tavern gossip about it floats around once in a while, such as a specific shapeshifter that more than once approached lonely male adventurers with a distinct hole in the middle that they felt was perfectly lubricated and warm. Some seemed flustered when asked how they knew that, while others stated they interacted with it recreationally.",
   "t": "셰이프시프터는 이 세계에 마지막으로 남은 고대 종족 중 하나로 여겨진다. 지능이 있고, 앞을 내다볼 줄 알며, 다양한 동작을 하는 인터페이스를 가지고 있고, 흉내 내는 생물의 모습으로 의사소통까지 할 수 있다. 하지만 점점 더 많은 과학자들이 이를 마수로 분류하고 있다. 겉으로 보이는 지능은 모두 또 다른 형태의 흉내일 뿐이고, 결국 그 의사소통 능력이 보여 주는 건 그저 자기 몸을 반으로 나눌 만큼 커지려는 생각 없는 덩어리라는 것뿐이기 때문이다. 아니면 잡힌 셰이프시프터들만 멍청한 녀석들이었거나. 누가 알겠어? 그런데 가끔 이에 관한 술집 소문이 떠돌기도 한다. 어떤 셰이프시프터가 외로운 남자 모험가들에게 한 번 이상 다가왔는데, 가운데에 뚜렷한 구멍이 있었고 거기가 완벽하게 미끈하고 따뜻했다는 거다. 어떻게 그걸 아냐고 물으면 어떤 이들은 당황했고, 다른 이들은 그것과 오락 삼아 어울렸다고 털어놓았다."
+ },
+ "47dd103fbc7a": {
+  "en": "<strong>Hifuna People Leaves</strong>: Sun-dried, clean leaves mostly used for crafting.",
+  "t": "<strong>히푸나 피플 잎</strong>: 햇볕에 말린 깨끗한 잎. 주로 공예에 쓴다."
  },
  "4c13a61584c7": {
   "en": "Walking {X} Flesh",
   "t": "워킹 {X} 플레시"
  },
+ "4c4d992af6e5": {
+  "en": "<a href=\"/lore/fauna/\">Fauna</a>: low-intelligence species.",
+  "t": "<a href=\"/lore/fauna/\">동물</a>: 지능이 낮은 종."
+ },
+ "4e04cf6a9185": {
+  "en": "<strong>Sand Worm Meat</strong>: Meat cut by a butcher. Not very desirable, so it’s mostly sold as a by-product of killing Sand Worms for their chitin.",
+  "t": "<strong>샌드 웜 고기</strong>: 도축업자가 손질한 고기. 별로 인기가 없어서, 주로 키틴을 얻으려고 샌드 웜을 잡은 부산물로 팔린다."
+ },
+ "4e13733f827a": {
+  "en": "<strong>Inspired by:</strong> Mutated tree branches.",
+  "t": "<strong>모티브:</strong> 돌연변이 나뭇가지."
+ },
+ "4ff610708d48": {
+  "en": "<strong>Big Winga Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>빅 윙가 육포</strong>: 도축업자가 만든 육포."
+ },
  "50a8033439b1": {
   "en": "Wood People: a tree with bright pink leaves and long trailing roots, with a small fruit and Harry for scale.",
   "t": "우드 피플: 선명한 분홍색 잎과 길게 늘어진 뿌리를 가진 나무. 작은 열매와 크기 비교용 해리가 함께 그려져 있다."
+ },
+ "512ce6ff8cf0": {
+  "en": "<a href=\"/lore/races/\">Races</a>: species at or above human intelligence.",
+  "t": "<a href=\"/lore/races/\">종족</a>: 지능이 인간과 같거나 그 이상인 종."
+ },
+ "52a8dc922658": {
+  "en": "<strong>Interface:</strong> Branches, too.",
+  "t": "<strong>인터페이스:</strong> 가지도."
+ },
+ "53627ab837e3": {
+  "en": "<strong>Tastes like:</strong> See Fauna &gt; Monica.",
+  "t": "<strong>맛:</strong> 동물 &gt; 모니카 참조."
+ },
+ "538b29264865": {
+  "en": "<strong>Nari Worm Chitin</strong>: Chitin from when Nari Worms shed their skin. When heated, it smells slightly oily, with a mildewy, earthy finish, like a distant cousin of cockroaches.",
+  "t": "<strong>나리 웜 키틴</strong>: 나리 웜이 허물을 벗을 때 나온 키틴. 가열하면 살짝 기름 냄새가 나고, 끝에 곰팡내 섞인 흙냄새가 남는다. 바퀴벌레의 먼 사촌 같은 냄새."
+ },
+ "53d4eed1d9b5": {
+  "en": "<strong>Skills:</strong> Use Soul Energy to detect things around them; Create sound blast waves that can deafen anyone nearby, which they use to stun their prey.",
+  "t": "<strong>능력:</strong> 영혼 에너지로 주변의 사물 감지하기, 근처의 누구든 귀를 멀게 할 수 있는 음파 폭발 만들기(먹잇감을 기절시키는 데 쓴다)."
+ },
+ "54c367b1869a": {
+  "en": "<strong>Habitat:</strong> Bahyum Castle.",
+  "t": "<strong>서식지:</strong> 바혐 성."
+ },
+ "5655d33421e9": {
+  "en": "<strong>Reproduction:</strong> Often incapable.",
+  "t": "<strong>번식:</strong> 대개 불가능."
+ },
+ "587c728b1652": {
+  "en": "Beasts by tier:",
+  "t": "등급별 마수:"
  },
  "58ffde096ea8": {
   "en": "Sucker Lady: a gaunt gray humanoid with long black hair covering her face, standing beside Harry.",
@@ -107,6 +391,22 @@
   "en": "Male and female Flingas: tall dark-blue beasts with long curved horns and red crests, plus a close-up of a head, next to Harry.",
   "t": "수컷과 암컷 플링가: 길게 굽은 뿔과 빨간 볏을 가진 키 큰 짙은 파란색 마수와 머리 클로즈업. 해리 옆에 있다."
  },
+ "5bac2a3e6f47": {
+  "en": "<strong>Habitat:</strong> Whiteland for most of the year; in the winter they come to the shores of the four kingdoms to eat tons of fish, then go back south to breed in the spring.",
+  "t": "<strong>서식지:</strong> 일 년 대부분은 화이트랜드. 겨울엔 네 왕국 해안에 와서 물고기를 잔뜩 먹고, 봄이 되면 번식하러 남쪽으로 돌아간다."
+ },
+ "5d97b7b1f3a8": {
+  "en": "<strong>Flinga Meat</strong>: Meat cut by a butcher. A refined, rare product that some people in Forway insist on having, even though there’s nothing special about it.",
+  "t": "<strong>플링가 고기</strong>: 도축업자가 손질한 고기. 포웨이의 몇몇 사람이 고집하는 고급 희귀품이지만, 특별할 건 하나도 없다."
+ },
+ "5da74770aa33": {
+  "en": "Beasts (World Lore illustration)",
+  "t": "마수 (세계관 삽화)"
+ },
+ "5db2f3d257c3": {
+  "en": "<strong>Reproduction:</strong> Throughout the year, more in the summer.",
+  "t": "<strong>번식:</strong> 일 년 내내, 여름에 더 많이."
+ },
  "5fa3e182ab03": {
   "en": "004 (images illustration)",
   "t": "004 (삽화)"
@@ -115,9 +415,21 @@
   "en": "Teefyro",
   "t": "티피로"
  },
+ "632a1556dc63": {
+  "en": "<strong>Reproduction:</strong> Every summer, through a flower with pollen on their heads.",
+  "t": "<strong>번식:</strong> 여름마다 머리에 꽃가루가 달린 꽃을 통해."
+ },
  "63b396f5f9b7": {
   "en": "Sucker Lady",
   "t": "서커 레이디"
+ },
+ "65318a520a2a": {
+  "en": "<strong>Habitat:</strong> Buhraies Plains.",
+  "t": "<strong>서식지:</strong> 부라이에스 평원."
+ },
+ "65b0ff14ee99": {
+  "en": "<strong>Koalin Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>코알린 고기</strong>: 도축업자가 손질한 고기."
  },
  "66c61ec563ee": {
   "en": "Public text: Website Description in Legacy/Behind The Scenes/World Lore/Beasts.md",
@@ -126,6 +438,10 @@
  "67d6f70025a8": {
   "en": "Walking {X} Skin",
   "t": "워킹 {X} 스킨"
+ },
+ "67f02df425bd": {
+  "en": "<strong>Food:</strong> Large berries and fruits.",
+  "t": "<strong>먹이:</strong> 큰 베리와 과일."
  },
  "696bfe5adfc8": {
   "en": "Teefyro baffles scientists and makes many disagree if this thing is a beast or fauna. It definitely lacks any formal intelligence as it rampages around aimlessly, sometimes even killing each other through the usual process of exploding its gums and sending its teeth as a projectile—sometimes killing itself in the process by bleeding to death, or in rarer cases, the interface controlling the explosion goes full haywire and detonates the entire body, leaving a crater where the beast once stood as a shower of blood and guts precipitates the whole area. It also randomly casts different spells through its flesh composition of the diverse fauna pieces and other beasts. Scientists still aren't sure how many combinations there are, but if it has something akin to teeth that explodes outwardly, and its body shape reminds, or at least smells like a Bagarisa, then for sure, it's a Teefyro.",
@@ -139,37 +455,261 @@
   "en": "Trunk People: a youngling and an adult tree creature with leafy green heads in a forest, on a height chart.",
   "t": "트렁크 피플: 숲속에 있는 머리에 초록 잎이 난 나무 생물의 새끼와 어른. 키 비교표 위에 그려져 있다."
  },
+ "6dc66fe048ae": {
+  "en": "<strong>Tastes like:</strong> Fishy and duck-like.",
+  "t": "<strong>맛:</strong> 비린내 나는 오리고기 같은 맛."
+ },
+ "6dcff1a618d7": {
+  "en": "<strong>Inspired by:</strong> The natural look of a bryozoan colony.",
+  "t": "<strong>모티브:</strong> 이끼벌레 군체의 자연스러운 모습."
+ },
+ "6de573c49d82": {
+  "en": "<strong>Sweet Sting Poison</strong>: Often used in nari gels.",
+  "t": "<strong>스위트 스팅 독</strong>: 나리 젤에 자주 쓴다."
+ },
+ "6df614a0901c": {
+  "en": "<strong>Nari Worm Meat</strong>: Meat cut by a butcher. It tastes horrible.",
+  "t": "<strong>나리 웜 고기</strong>: 도축업자가 손질한 고기. 맛이 끔찍하다."
+ },
+ "6feb69b2b624": {
+  "en": "A mutated tree branch that sparked to life. They're very protective of their surroundings and will use their interface if they feel threatened. They communicate only by casting different colors of light, since they can't hear, and their hair is pollen. They live in the trunks of Live Wood trees. In and around the Freeish Kingdom, people often use them as public lights on large Soul Wood trees, and some use them inside their homes too. They can also be used as a seed, to plant the tree wherever the owner wants.",
+  "t": "생명이 깃든 돌연변이 나뭇가지. 주변을 아주 보호하려 들고, 위협을 느끼면 인터페이스를 쓴다. 들을 수 없어서 여러 색의 빛을 내는 것으로만 의사소통하고, 머리카락은 꽃가루다. 라이브 우드 나무의 줄기 속에 산다. 프리이시 왕국과 그 주변에서는 큰 영혼 나무에 매달아 공공 조명으로 흔히 쓰고, 집 안에서 쓰는 사람도 있다. 씨앗으로 써서 주인이 원하는 곳에 나무를 심을 수도 있다."
+ },
+ "714a3bf27817": {
+  "en": "<strong>Inspired by:</strong> Capybara.",
+  "t": "<strong>모티브:</strong> 카피바라."
+ },
  "71ba8c3b02ac": {
   "en": "Shapeshifter: a brown blob in a sunlit forest, with a chart of how it moves, attacks, flees and defends, and its size at Harry's knee level.",
   "t": "셰이프시프터: 햇살이 비치는 숲속의 갈색 덩어리. 이동, 공격, 도망, 방어 방식을 보여 주는 도표와 해리의 무릎 높이 정도인 크기가 함께 있다."
+ },
+ "72dba6373ee0": {
+  "en": "<strong>Interface:</strong> Usually the same as the originating species.",
+  "t": "<strong>인터페이스:</strong> 대개 원래 종과 같다."
+ },
+ "734c760d73c6": {
+  "en": "<strong>Uses:</strong> Forway guards ride them to fly around without needing a nari gel themselves (the Big Winga under them is often another guard transformed with one). They're used for quick transportation of goods, scouting and flyovers.",
+  "t": "<strong>용도:</strong> 포웨이 경비병은 자기는 나리 젤 없이 날아다니려고 빅 윙가를 탄다(밑에 있는 빅 윙가는 대개 나리 젤로 변신한 다른 경비병이다). 물자 신속 운송, 정찰, 상공 비행에 쓴다."
+ },
+ "7382ab3ff705": {
+  "en": "<strong>White Roundies Hair Strands</strong>: Used in nari gels.",
+  "t": "<strong>화이트 라운디 털 가닥</strong>: 나리 젤에 쓴다."
+ },
+ "7632aa3679a9": {
+  "en": "<strong>Big Winga Feathers</strong>: Feathers, prepared by a butcher for artisans to work on.",
+  "t": "<strong>빅 윙가 깃털</strong>: 장인이 다룰 수 있게 도축업자가 손질한 깃털."
+ },
+ "767940b9c663": {
+  "en": "<strong>Food:</strong> Grass and some other plants.",
+  "t": "<strong>먹이:</strong> 풀과 몇몇 다른 식물."
  },
  "7698ce3d747b": {
   "en": "Sand Worms are native to the deserts around Gandew and must be the absolute worst creature from that region! They are always either burying themselves below the surface or cloaking themselves in plain sight, then viciously attacking unsuspecting victims. Luckily Saynas often detect them to turn the tables and allow adventurers to hunt them instead. It's crazy how some Darfaries still refuse to use Saynas and instead prefer to get high on the thrill of being attacked at any moment; it's pretty gruesome seeing a Darfaries and a Sand Worm duel to the death.",
   "t": "샌드 웜은 간듀 주변 사막에 서식하며, 그 지역에서 가장 최악의 생물임이 틀림없다! 늘 땅속에 몸을 묻거나 대놓고 몸을 감춘 채 있다가, 방심한 희생자를 사납게 덮친다. 다행히 사이나가 자주 이들을 감지해서 판을 뒤집고, 오히려 모험가들이 사냥할 수 있게 해 준다. 어떤 다르파리에스들은 아직도 사이나를 쓰지 않고 언제 공격당할지 모른다는 스릴에 취하는 걸 더 좋아한다니, 미친 소리다. 다르파리에스와 샌드 웜이 목숨을 걸고 결투하는 광경은 꽤 끔찍하다."
  },
+ "76bafbc8d5c6": {
+  "en": "<strong>Tastes like:</strong> Same as Winga.",
+  "t": "<strong>맛:</strong> 윙가와 같다."
+ },
+ "76f29b94560d": {
+  "en": "<strong>Inspired by:</strong> Pteranodon.",
+  "t": "<strong>모티브:</strong> 프테라노돈."
+ },
+ "77f33594f204": {
+  "en": "<strong>Tastes like:</strong> Pork.",
+  "t": "<strong>맛:</strong> 돼지고기."
+ },
+ "78403b06d289": {
+  "en": "<strong>Inspired by:</strong> Worms.",
+  "t": "<strong>모티브:</strong> 지렁이."
+ },
+ "78dfb58a0a63": {
+  "en": "<strong>Skills:</strong> Generate Light; Sense Lifeforms; Generate Air Shield.",
+  "t": "<strong>능력:</strong> 빛 생성, 생명체 감지, 공기 방패 생성."
+ },
  "78f5ed6037a2": {
   "en": "Walking Flesh is the common name for any species stuck in this half-state thing. They are undead and seem to share some hive-mind cognition, but they don't seem completely devoid of their intelligence either. If they are taken far away from the castle, some transformed species will rampage against anything; some will idle, while some even demonstrate docile behaviors. The transformation does compound on the behaviors, so the more they are transformed towards the walking skin version, the more they lose whatever remains of their sanity. Don't underestimate their fighting capabilities; you might just become one of them.",
   "t": "워킹 플레시는 이 어중간한 상태에 갇힌 모든 종족을 통틀어 부르는 이름이다. 그것들은 언데드이고 일종의 군체 의식을 공유하는 듯하지만, 지능을 완전히 잃은 것 같지도 않다. 성에서 멀리 데려가면 변이한 종족 중 어떤 것은 무엇에든 덤벼들고, 어떤 것은 멍하니 있고, 어떤 것은 온순한 모습까지 보인다. 변이는 행동을 점점 악화시키기 때문에, 워킹 스킨 쪽으로 변해 갈수록 남아 있던 제정신마저 잃어 간다. 그것들의 전투 능력을 얕보지 마. 너도 그중 하나가 될지 모르니까."
+ },
+ "7965549e73d3": {
+  "en": "<strong>Tastes like:</strong> Metallic and earthy.",
+  "t": "<strong>맛:</strong> 쇠 맛에 흙 맛."
+ },
+ "7a9f0b234fc8": {
+  "en": "Big birds only ever seen flying high in the air, except during winter (most years). Nobody knows how they eat, sleep, etc. Nobody except the Finaies, who made a pact with the Flingas to watch over the south and plan a comeback. In 1039 A.G., Flingas were seen flying around in winter, something that hadn't happened in quite a while.",
+  "t": "하늘 높이 나는 모습만 보이는 큰 새. 겨울만 빼고(대부분의 해에). 어떻게 먹고 자는지 아무도 모른다. 남쪽을 감시하고 재기를 계획하려고 플링가와 계약을 맺은 피나이에스 말고는. 1039 A.G.에는 한동안 없던 일인데, 겨울에 플링가가 날아다니는 모습이 목격됐다."
+ },
+ "7af8721e68f3": {
+  "en": "<strong>Inspired by:</strong> Eunice aphroditois.",
+  "t": "<strong>모티브:</strong> 유니스 아프로디토이스(Eunice aphroditois)."
+ },
+ "7c2592fcb57e": {
+  "en": "Goods are sorted into four tiers by how they look to a common person in Vraki, from cheap things anyone buys to things only the very rich can afford. The boundaries are blurry on purpose: it's a spectrum, and the tiers just help picture it (see <a href=\"/lore/nari-gels/\">Nari Gels</a>).",
+  "t": "상품은 브라키의 평범한 사람 눈에 어떻게 보이느냐에 따라, 누구나 사는 싼 물건부터 아주 부유한 사람만 살 수 있는 물건까지 네 등급으로 나뉜다. 경계는 일부러 흐릿하다. 연속된 스펙트럼이고, 등급은 그걸 그려 보는 데 도움을 줄 뿐이다(<a href=\"/lore/nari-gels/\">나리 젤</a> 참조)."
+ },
+ "7e5c7c939d77": {
+  "en": "<strong>Habitat:</strong> From west of Blood into Freeish; rarely seen much farther east, near Forway.",
+  "t": "<strong>서식지:</strong> 블러드 서쪽부터 프리이시까지. 동쪽 멀리 포웨이 근처에서는 드물게 보인다."
+ },
+ "7f0b28b34972": {
+  "en": "<strong>Interface:</strong> Mouth pincers; a black flame comes out of the black stripes on them.",
+  "t": "<strong>인터페이스:</strong> 입의 집게. 집게의 검은 줄무늬에서 검은 불꽃이 나온다."
  },
  "80222f64dc85": {
   "en": "Sand Worms",
   "t": "샌드 웜"
  },
+ "80271cf989cd": {
+  "en": "<strong>Intelligence:</strong> Instinctual, bee-like.",
+  "t": "<strong>지능:</strong> 본능적. 벌과 비슷하다."
+ },
+ "806c111752d9": {
+  "en": "<strong>Hifuna People Wood</strong>: The same reddish tone, but plagued with Hifuna disease, so most people won’t use it for crafting.",
+  "t": "<strong>히푸나 피플 목재</strong>: 같은 붉은 빛깔이지만 히푸나 병에 시달려서, 대부분 공예에 쓰지 않는다."
+ },
+ "81857ff25203": {
+  "en": "<strong>Nari Worm Egg</strong>: A rare find, packed with Soul Energy. It replenishes about Tier III and also works as a Nari Refresher. Somewhat delicate, and it may hatch into a tiny Nari Worm at random.",
+  "t": "<strong>나리 웜 알</strong>: 영혼 에너지가 가득한 희귀한 발견물. 약 III등급만큼 보충해 주고, 나리 리프레셔 역할도 한다. 다소 연약하고, 아무 때나 작은 나리 웜으로 부화할 수 있다."
+ },
+ "81ae2bfa4c4e": {
+  "en": "<strong>Jelly Blob</strong>: Usually a piece cut off a Shapeshifter and put in a jar for transport. Expensive, because they’re hard to catch.",
+  "t": "<strong>젤리 덩어리</strong>: 보통 셰이프시프터에서 떼어 낸 조각을 운반용 병에 담은 것. 잡기 어려워서 비싸다."
+ },
+ "82a339cde6dc": {
+  "en": "<strong>Tastes like:</strong> Not tender, somewhat greasy, and kind of bland.",
+  "t": "<strong>맛:</strong> 질기고, 좀 기름지고, 밍밍한 편."
+ },
+ "83774f3c017a": {
+  "en": "<strong>Flinga Tamed</strong>: No one in the four kingdoms has managed to tame a Flinga yet. Taming one would have a huge impact on transportation, and so on costs and expansion.",
+  "t": "<strong>길들인 플링가</strong>: 네 왕국에서 아직 아무도 플링가를 길들이지 못했다. 하나라도 길들이면 운송에, 따라서 비용과 확장에 엄청난 영향을 미칠 것이다."
+ },
+ "846308e26fa1": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Beasts.md\">Legacy/Behind The Scenes/World Lore/Beasts.md</a>",
+  "t": "출처: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Beasts.md\">Legacy/Behind The Scenes/World Lore/Beasts.md</a>"
+ },
+ "84aa58ed9da6": {
+  "en": "<strong>Food:</strong> Same as Winga, but they also eat bigger fruits, especially greenbread.",
+  "t": "<strong>먹이:</strong> 윙가와 같지만, 더 큰 과일, 특히 그린브레드도 먹는다."
+ },
+ "8646424e8834": {
+  "en": "<strong>Skills:</strong> Slow Regen; Halted Decomposition; Decompose Target; Steal Soul Energy.",
+  "t": "<strong>능력:</strong> 느린 재생, 부패 정지, 대상 부패시키기, 영혼 에너지 훔치기."
+ },
+ "87fe827ea783": {
+  "en": "<strong>Nari Stones</strong>: See Nari Caverns. Some species don’t have enough Soul Energy in their bodies for higher-tier spells, so they cast with the energy stored in Nari stones. Forway considers the stone of the utmost importance to the balance of life, and waives its transport costs, since adventurers take on the responsibility of moving such important goods. To make one, the Nari Worm shell is ground and heated into small stones that recombine into a crystalline, diamond-like shape, which is set into Soul Wood and polished to a point for easier stacking. Nari stones can be chained together to speed up casting and to store more. Once used, the blue hue fades and the stone turns diamond-like. Some people toss the spent stones on the ground as waste, but most sell them in bulk, to be melted into a glass that feels somewhat plasticky and is less translucent.",
+  "t": "<strong>나리석</strong>: 나리 동굴 참조. 어떤 종은 몸에 영혼 에너지가 부족해 높은 등급의 주문을 못 쓰므로, 나리석에 저장된 에너지로 시전한다. 포웨이는 이 돌을 생명의 균형에 가장 중요한 것으로 여겨 운송비를 면제하는데, 모험가들이 이런 중요한 물자를 옮기는 책임을 맡기 때문이다. 만드는 법: 나리 웜 껍데기를 갈아 가열하면 작은 돌들이 다이아몬드 같은 결정 모양으로 다시 뭉치고, 이걸 영혼 나무에 박아 쌓기 쉽게 뾰족하게 다듬는다. 나리석은 서로 이어 붙여 시전 속도를 높이고 더 많이 저장할 수 있다. 다 쓰면 푸른빛이 바래고 다이아몬드처럼 변한다. 다 쓴 돌을 땅에 버리는 사람도 있지만, 대부분 대량으로 팔아 녹여서, 좀 플라스틱 같은 느낌에 덜 투명한 유리로 만든다."
+ },
+ "88387cc837bb": {
+  "en": "<strong>Flinga Jerky</strong>: Jerky prepared by a butcher. A refined, rare product that some people in Forway insist on having, even though there’s nothing special about it.",
+  "t": "<strong>플링가 육포</strong>: 도축업자가 만든 육포. 포웨이의 몇몇 사람이 고집하는 고급 희귀품이지만, 특별할 건 하나도 없다."
+ },
+ "8bcdc001eb42": {
+  "en": "<strong>Inspired by:</strong> The Trioxin zombies of <em>The Return of the Living Dead</em>.",
+  "t": "<strong>모티브:</strong> <em>The Return of the Living Dead</em>의 트라이옥신 좀비."
+ },
+ "8c651869ce44": {
+  "en": "<strong>Big Winga Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>빅 윙가 고기</strong>: 도축업자가 손질한 고기."
+ },
+ "8c76ef7d364a": {
+  "en": "<strong>Food:</strong> Soul Energy from Bahyum Castle.",
+  "t": "<strong>먹이:</strong> 바혐 성의 영혼 에너지."
+ },
+ "8cb49002eb9e": {
+  "en": "<strong>Intelligence:</strong> Often ~50% of the original intelligence, but far more dangerous. They are also more aggressive, even species that are usually defensive or friendly.",
+  "t": "<strong>지능:</strong> 대개 원래 지능의 약 50%지만 훨씬 위험하다. 평소 방어적이거나 우호적인 종이라도 더 공격적이 된다."
+ },
  "8f0690c6c26e": {
   "en": "Flinga",
   "t": "플링가"
+ },
+ "901962a56ac6": {
+  "en": "<strong>Habitat:</strong> Throughout the lowlands; most often spotted in the grasslands to the east.",
+  "t": "<strong>서식지:</strong> 저지대 전역. 동쪽 초원에서 가장 자주 보인다."
+ },
+ "902576d502a8": {
+  "en": "<strong>Reproduction:</strong> By attacking certain trees for their sap.",
+  "t": "<strong>번식:</strong> 특정 나무를 공격해 수액을 얻는다."
  },
  "91ece0116be9": {
   "en": "Koalins are truly a unique breed of beast; some scientists still dispute whether they should be categorized as beasts in the first place. They don’t really bite, claw, or kill people. What they do, however, is far worse! Through the unique special wave generation organs in their head, alongside the white silky white beard that focuses those waves towards a target, they can strike virtually anyone with strong mental impairment. If they are just being defensive, they can make you feel a looming doom, a fearful sensation, but if they amp up the intensity, they can lead weak-minded people to kill themselves. If you resist that, they will increase the intensity to debilitating pain. There’s no winning against a Koalin. They are also nearly untamable, but if you manage to tame one, they are inseparable and will earn you reaches you never thought possible!",
   "t": "코알린은 정말 독특한 마수다. 아직도 일부 과학자들은 애초에 이들을 마수로 분류해야 하는지를 두고 논쟁한다. 이들은 딱히 물거나, 할퀴거나, 사람을 죽이지 않는다. 하지만 이들이 하는 짓은 훨씬 나쁘다! 머리에 있는 독특한 특수 파동 생성 기관과, 그 파동을 목표에 집중시키는 하얗고 비단 같은 수염 덕분에 거의 누구에게나 강한 정신적 손상을 입힐 수 있다. 그냥 방어하는 중이라면 다가오는 파멸감이나 두려움을 느끼게 하는 정도지만, 강도를 높이면 마음이 약한 사람은 스스로 목숨을 끊게 만들 수도 있다. 그걸 버텨 내면, 강도를 올려 꼼짝도 못 할 만큼의 고통을 준다. 코알린을 상대로는 이길 방법이 없다. 길들이는 것도 거의 불가능하지만, 만약 길들이는 데 성공한다면 떼려야 뗄 수 없는 사이가 되어 생각지도 못한 경지로 데려다줄 거다!"
  },
+ "930f8cadc07c": {
+  "en": "Endless experiments with what's now known as the Walking Heart stone left tons of zombies in Bahyum Castle. They're slower and dumber than Walking Flesh.",
+  "t": "지금은 워킹 하트석으로 알려진 돌을 끝없이 실험한 결과, 바혐 성에 좀비가 잔뜩 남았다. 워킹 플레시보다 느리고 멍청하다."
+ },
  "936ea19d7d0a": {
   "en": "White Roundies",
   "t": "화이트 라운디스"
  },
+ "941c57b40421": {
+  "en": "<strong>Tastes like:</strong> Slightly salty jelly.",
+  "t": "<strong>맛:</strong> 살짝 짭짤한 젤리."
+ },
+ "94dd084d3ae0": {
+  "en": "<strong>Sand Worm Chitin</strong>: Chitin, prepared by a butcher for artisans to work on.",
+  "t": "<strong>샌드 웜 키틴</strong>: 장인이 다룰 수 있게 도축업자가 손질한 키틴."
+ },
+ "978e215b19ae": {
+  "en": "<a href=\"/lore/beasts/\">Beasts</a>: mildly intelligent species, or highly dangerous beasts.",
+  "t": "<a href=\"/lore/beasts/\">마수</a>: 지능이 약간 있는 종, 또는 매우 위험한 짐승."
+ },
+ "99ad77410a1f": {
+  "en": "<strong>Walking Flathead Tongue</strong>: Often used in nari gels.",
+  "t": "<strong>워킹 플랫헤드 혀</strong>: 나리 젤에 자주 쓴다."
+ },
+ "99c297f0a691": {
+  "en": "<strong>Skills:</strong> Harden parts of their bodies; Generate Acid; Cloak; Increase Size.",
+  "t": "<strong>능력:</strong> 몸의 일부를 단단하게 하기, 산 생성, 은신, 크기 증가."
+ },
+ "9b1905acada7": {
+  "en": "<strong>Intelligence:</strong> Much higher than a dog’s, and of a very specific kind. They have their own cultures and social norms. They can’t speak or understand Vraki, but they understand actions, like pointing to the sea while holding a big slice of meat. Their trades might seem random, but the better the meat, the more likely they are to pay back the kindness. Sometimes they make odd sounds that sound like Vraki, as if they were trying to learn, or at least repeat what they heard people say.",
+  "t": "<strong>지능:</strong> 개보다 훨씬 높고, 아주 독특한 종류다. 자기들만의 문화와 사회 규범이 있다. 브라키어를 말하거나 알아듣지는 못하지만, 큰 고기 한 덩이를 들고 바다를 가리키는 것 같은 행동은 이해한다. 거래가 제멋대로처럼 보일 수 있지만, 고기가 좋을수록 친절에 보답할 가능성이 높다. 가끔 브라키어처럼 들리는 이상한 소리를 내는데, 배우려는 건지 적어도 사람들이 한 말을 따라 하려는 것 같다."
+ },
+ "9c96138b628e": {
+  "en": "<strong>Reproduction:</strong> Females give birth to 5–7 babies every year.",
+  "t": "<strong>번식:</strong> 암컷이 해마다 새끼를 5~7마리 낳는다."
+ },
+ "9e08f4c26423": {
+  "en": "<strong>White Roundies Meat</strong>: Some people like it, but eating it is often considered weird because of its unusual taste. Much more expensive, or simply unavailable, outside the winter.",
+  "t": "<strong>화이트 라운디 고기</strong>: 좋아하는 사람도 있지만, 맛이 특이해서 먹으면 흔히 이상하게 여긴다. 겨울이 아니면 훨씬 비싸거나 아예 구할 수 없다."
+ },
+ "9eece3967a5b": {
+  "en": "<strong>Extermination</strong>: Usually one piece (often the Walking Heart stone with the head bone) is torn off and brought back as proof of the hunt. See Embassy Quests for more details.",
+  "t": "<strong>토벌</strong>: 보통 사냥의 증거로 한 부위(대개 머리뼈와 함께 붙은 워킹 하트석)를 뜯어 가져온다. 자세한 건 대사관 의뢰 참조."
+ },
+ "a09bc593edc1": {
+  "en": "<strong>Habitat:</strong> Hifuna, though some make their way down to lower ground and cause havoc.",
+  "t": "<strong>서식지:</strong> 히푸나. 일부는 낮은 땅으로 내려와 난장판을 만든다."
+ },
+ "a20b9f3830c7": {
+  "en": "<strong>Food:</strong> The same as the originating species; often other Hifuna species, which build up radiation.",
+  "t": "<strong>먹이:</strong> 원래 종과 같다. 다른 히푸나 종을 먹는 일이 많아 방사능이 쌓인다."
+ },
+ "a283fa0b9785": {
+  "en": "<strong>Wood People Leaves</strong>: Sun-dried, clean leaves mostly used for crafting.",
+  "t": "<strong>우드 피플 잎</strong>: 햇볕에 말린 깨끗한 잎. 주로 공예에 쓴다."
+ },
+ "a298cddd185c": {
+  "en": "<strong>Skills:</strong> Fast Strike (punches a hole in the target’s flesh) by altering the physical properties of their vines.",
+  "t": "<strong>능력:</strong> 덩굴의 물리적 성질을 바꿔 쓰는 패스트 스트라이크(대상의 살에 구멍을 낸다)."
+ },
+ "a38b81e5ae8e": {
+  "en": "<strong>Wood People Vines</strong>: Often used for ropes, construction, etc. Quite elastic, almost like rubber.",
+  "t": "<strong>우드 피플 덩굴</strong>: 밧줄, 건축 등에 자주 쓴다. 고무처럼 꽤 탄력 있다."
+ },
+ "a3c7b118e2b6": {
+  "en": "<strong>Skills:</strong> Eye Catch; Bigger Looking; Hypnosis.",
+  "t": "<strong>능력:</strong> 시선 끌기, 커 보이기, 최면."
+ },
  "a4596ef28211": {
   "en": "Sweet Sting is found west of the Freeish Kingdom, with SweetLake being their HQ of sorts. They can be heard quite away, their wings making a deeper buzzing sound as they carry pollen or tree sap back to make black honey—an extremely nutritious yet diabetically sweet paste. It might sound threatening, but that's just a female worker passing by. They don't have stingers like their smaller male counterparts, but their pinchers are still quite powerful! If you see black flames emerge from their pincers, get ready as they are about to shoot a poisonous spit that gets accelerated to near sonic speeds by their soul energy interface. Don't count on evading because they never seem to miss a shot! There's even a common phrase in the local populace, I'm sure as a spitting Sweet Sting.",
   "t": "스위트 스팅은 프리이시 왕국 서쪽에서 볼 수 있으며, 스위트레이크가 일종의 본거지다. 꽤 멀리서도 소리가 들리는데, 꽃가루나 나무 수액을 날라 검은 꿀—영양이 엄청나지만 당뇨가 올 만큼 단 반죽—을 만들러 돌아갈 때 날개에서 더 낮은 윙윙 소리가 난다. 위협적으로 들릴 수도 있지만, 그건 그냥 지나가는 암컷 일벌일 뿐이다. 더 작은 수컷들처럼 침이 있지는 않지만, 집게는 여전히 꽤 강력하다! 집게에서 검은 불꽃이 피어오르면 각오해라. 영혼 에너지 인터페이스로 거의 음속까지 가속된 독침 같은 침을 뱉으려는 참이니까. 피할 생각은 하지 마. 놈들은 절대 빗나가지 않는 것 같거든! 그 지역 사람들 사이에는 “침 뱉는 스위트 스팅만큼 확실하다”는 말까지 있다."
+ },
+ "a4c219359bad": {
+  "en": "<strong>Habitat:</strong> Desert.",
+  "t": "<strong>서식지:</strong> 사막."
  },
  "a4cd5782cc2d": {
   "en": "Walking Flathead: a skeletal gray creature with a long spine-like tail creature above it, next to Harry.",
@@ -179,17 +719,77 @@
   "en": "Beasts",
   "t": "마수"
  },
+ "a644a36bb4c3": {
+  "en": "<strong>Skills:</strong> Launches its teeth forward.",
+  "t": "<strong>능력:</strong> 이빨을 앞으로 쏘아 보낸다."
+ },
+ "a69c5b666ab6": {
+  "en": "<strong>Tier I (Cheap Goods):</strong> freshly killed animals, plus elemental interface actions for longer storage.",
+  "t": "<strong>I등급(싼 물건):</strong> 갓 잡은 동물, 그리고 오래 보관하기 위한 원소 인터페이스 동작."
+ },
  "a7042371544b": {
   "en": "Walking Flesh: a red, skinless humanoid figure with small reference images, beside Harry.",
   "t": "워킹 플레시: 피부가 없는 붉은 인간형 형체와 작은 참고 그림들. 해리 옆에 있다."
+ },
+ "a870cba28053": {
+  "en": "<strong>Reproduction:</strong> They can duplicate themselves at the cost of half their mass, but most rocks first combine with other rocks and then split, so they can share their life experiences.",
+  "t": "<strong>번식:</strong> 질량의 절반을 대가로 스스로를 복제할 수 있지만, 대부분은 먼저 다른 돌과 합쳤다가 나뉘어 삶의 경험을 나눈다."
+ },
+ "a872978f1d4f": {
+  "en": "<strong>Extermination</strong>: Usually one piece (often the head) is torn off and brought back as proof of the hunt, because the meat and other body parts are usually too irradiated to be of any use. See Embassy Quests for more details.",
+  "t": "<strong>토벌</strong>: 보통 사냥의 증거로 한 부위(대개 머리)를 뜯어 가져온다. 고기와 다른 부위는 대개 방사능에 너무 오염돼 쓸모가 없기 때문이다. 자세한 건 대사관 의뢰 참조."
+ },
+ "aadd3dfa7175": {
+  "en": "<strong>Skills:</strong> Harden parts of their bodies; Generate Acid.",
+  "t": "<strong>능력:</strong> 몸의 일부를 단단하게 하기, 산 생성."
+ },
+ "ac0239a98d1f": {
+  "en": "<strong>Reproduction:</strong> Each worm has both sexes; several worms are born every year.",
+  "t": "<strong>번식:</strong> 벌레마다 암수가 함께 있고, 해마다 여러 마리가 태어난다."
+ },
+ "ac492c452b6c": {
+  "en": "<strong>Hifuna People Sap</strong>: Processed sap, sometimes used in nari gels.",
+  "t": "<strong>히푸나 피플 수액</strong>: 가공한 수액. 가끔 나리 젤에 쓴다."
+ },
+ "ad4fdb69b8ff": {
+  "en": "<strong>Intelligence:</strong> Rather mindless; they act purely on instinct and only use their vines to defend themselves. They are drawn to Fost stones, but shoving a Fost stone into the top of the trunk paralyzes them.",
+  "t": "<strong>지능:</strong> 거의 생각이 없다. 순전히 본능대로 움직이고 덩굴은 자기를 지킬 때만 쓴다. 포스트석에 끌리지만, 줄기 꼭대기에 포스트석을 박으면 마비된다."
  },
  "b0536ef796be": {
   "en": "Crazed Muckman",
   "t": "크레이즈드 머크맨"
  },
+ "b0c45c4e62fa": {
+  "en": "<strong>Skills:</strong> Slow Regen; Halted Decomposition; Decompose Target; Steal Soul Energy; plus the original skills.",
+  "t": "<strong>능력:</strong> 느린 재생, 부패 정지, 대상 부패시키기, 영혼 에너지 훔치기, 그리고 원래 능력."
+ },
+ "b19ffd8bc405": {
+  "en": "Monica Swarm",
+  "t": "모니카 무리"
+ },
+ "b1a21c8f58a3": {
+  "en": "<strong>Intelligence:</strong> Rather instinctual, but slowly developing a sense of self. Some of these rocks are smart enough to understand a few words from adventurers.",
+  "t": "<strong>지능:</strong> 꽤 본능적이지만, 천천히 자아를 키워 가고 있다. 일부 돌은 모험가의 말 몇 마디를 알아들을 만큼 영리하다."
+ },
  "b3065cdc24a2": {
   "en": "Flingas are massive beasts that fly high up in the sky, rarely ever coming close to the ground. Nobody knows where these beasts nest their younglings—if they even do that. Their complete lack of migratory patterns and sometimes random flight patterns, like flying over a specific city for days, still baffles all scientists and historians to this day. There are tales by the campfire surrounding a sapphire adventurer that wore Big Winga skin to fly back home, and on the way, he saw what appeared to be a child-sized wood humanoid riding on top of it. Some Scientists suspect it was a child of an ancient species called Fuhraies; others state it could be Finaies, another ancient species rumored to live north of Hifuna. Attempting to capture a Flinga is also damn nearly impossible as not only do they quickly climb higher at any sight of danger, but they can also use their soul energy interface to stun enemies with a few attacks, including unfathomably high-pitched screams and air gust streams.",
   "t": "플링가는 하늘 높이 나는 거대한 마수로, 땅 가까이 내려오는 일은 거의 없다. 이 마수들이 새끼를 어디에 둥지 틀고 키우는지—그러긴 하는지—아무도 모른다. 철새 같은 이동 패턴이 전혀 없고, 며칠 동안 특정 도시 위를 맴도는 것처럼 비행 경로가 가끔 제멋대로라서, 지금까지도 모든 과학자와 역사가들을 당황하게 만든다. 모닥불 가에서는 빅 윙가 가죽을 입고 날아서 집으로 돌아가던 어느 사파이어 모험가가, 가는 길에 아이만 한 나무 인간형 존재가 플링가 위에 타고 있는 걸 봤다는 이야기가 돈다. 어떤 과학자들은 그게 푸라이에스라는 고대 종족의 아이였을 거라 의심하고, 다른 이들은 히푸나 북쪽에 산다는 소문이 있는 또 다른 고대 종족 피나이에스였을 수도 있다고 말한다. 플링가를 잡으려는 것도 씨발 거의 불가능하다. 위험이 보이면 재빨리 더 높이 올라갈 뿐만 아니라, 상상도 못 할 만큼 높은 비명과 돌풍 같은 몇 가지 공격으로 영혼 에너지 인터페이스를 써서 적을 기절시킬 수도 있기 때문이다."
+ },
+ "b46c5f8fab9e": {
+  "en": "<strong>Inspired by:</strong> Chimpanzee.",
+  "t": "<strong>모티브:</strong> 침팬지."
+ },
+ "b50deeb8ddf5": {
+  "en": "<strong>Inspired by:</strong> Seals and penguins.",
+  "t": "<strong>모티브:</strong> 물개와 펭귄."
+ },
+ "b521396978a6": {
+  "en": "Endless experiments with what's now known as the Walking Heart stone left tons of zombies of different species in Bahyum Castle, and it somehow keeps creating more.",
+  "t": "지금은 워킹 하트석으로 알려진 돌을 끝없이 실험한 결과, 바혐 성에 여러 종의 좀비가 잔뜩 남았고, 성은 어째서인지 계속 더 만들어 낸다."
+ },
+ "b779317c1ecf": {
+  "en": "<strong>Interface:</strong> Vines.",
+  "t": "<strong>인터페이스:</strong> 덩굴."
  },
  "b7d8c8b48485": {
   "en": "Two Koalins: brown bear-like creatures with striped faces, one adult and one young, beside Harry.",
@@ -199,13 +799,97 @@
   "en": "Wood People were, amongst many other things, another one of Buhraies experimentation gone wrong—or right. The debate of what they were trying to achieve is still a hot topic, but historians at least agree that Buhraies somehow wanted to make them foot soldiers plus a stable source of food and lumber. Meanwhile, scientists still can't fully wrap their heads around how they engineered a tree to be able to unearth itself and walk around in packs, let alone control its vines to defend itself. They did figure out that Buhraies used fost stones to paralyze and control Wood People based on specimens and tools found throughout the ages. Now they could be considered a plague as they are absolutely everywhere in the Buhraies Plains. Entire villages exist solely to strip these beasts for resources, with good prices going for their fantastic rubbery vines! That is if you can cut them off, as they won't go down without a fight. If you get a beating, you can at least sink your teeth into a nearly head-sized tasty Wood People Yabuca to appease your emotional wounds.",
   "t": "우드 피플은 여러 면에서 또 하나의 잘못된—아니면 제대로 된—부라이에스의 실험 결과였다. 그들이 무엇을 이루려 했는지는 아직도 뜨거운 논쟁거리지만, 역사가들은 적어도 부라이에스가 이들을 보병이자 안정적인 식량과 목재 공급원으로 삼으려 했다는 데에는 동의한다. 한편 과학자들은 그들이 어떻게 나무를 스스로 땅에서 빠져나와 무리 지어 걸어 다니게 만들었는지, 하물며 덩굴을 조종해 스스로를 지키게 만들었는지 아직도 완전히 이해하지 못한다. 대대로 발견된 표본과 도구들을 바탕으로, 부라이에스가 포스트석을 써서 우드 피플을 마비시키고 조종했다는 건 알아냈다. 이제 이들은 부라이에스 평원 어디에나 널려 있어서 재앙이라 할 만하다. 오로지 이 마수들을 벗겨 자원을 얻는 것만으로 먹고사는 마을들이 있고, 환상적인 고무 같은 덩굴은 값이 꽤 나간다! 덩굴을 잘라 낼 수 있다면 말이다. 그냥 쓰러지진 않을 테니까. 두들겨 맞더라도, 사람 머리만 한 맛있는 우드 피플 야부카를 한 입 베어 물며 마음의 상처를 달랠 수는 있다."
  },
+ "be900e85f50d": {
+  "en": "<strong>Skills:</strong> Launch a copy of their pincers forward.",
+  "t": "<strong>능력:</strong> 집게의 복제를 앞으로 쏘아 보낸다."
+ },
  "beca63384ced": {
   "en": "Hifuna People",
   "t": "히푸나 피플"
  },
+ "bf8dfb4caa32": {
+  "en": "<strong>Reproduction:</strong> Every spring, after fattening up in the warmer waters during the winter.",
+  "t": "<strong>번식:</strong> 겨울 동안 따뜻한 바다에서 살을 찌운 뒤, 봄마다."
+ },
+ "c2018b90555e": {
+  "en": "<strong>Intelligence:</strong> Lion.",
+  "t": "<strong>지능:</strong> 사자."
+ },
+ "c21ad57d8448": {
+  "en": "<strong>Tastes like:</strong> Strong, earthy and nutty.",
+  "t": "<strong>맛:</strong> 진하고, 흙 맛에 고소하다."
+ },
+ "c2d3c43fbc94": {
+  "en": "<strong>Food:</strong> Fish.",
+  "t": "<strong>먹이:</strong> 물고기."
+ },
+ "c45a08fc875b": {
+  "en": "Hash {X}",
+  "t": "해시 {X}"
+ },
+ "c46dc6be487a": {
+  "en": "One of the last ancient-species experiments still in the world, from when one of the ancient species tested rocks in the forest. Many years later, the rocks began to grow and take on a jelly-like look; many years after that, some began assimilating nearby living beings and turning into them, while others assimilated each other to share experiences.",
+  "t": "세상에 아직 남은 마지막 고대 종족 실험 중 하나로, 고대 종족 하나가 숲에서 돌을 시험하던 때의 것이다. 수많은 세월 뒤 돌들이 자라며 젤리 같은 모습이 됐고, 다시 수많은 세월 뒤 일부는 근처 생명체를 흡수해 그것으로 변했으며, 다른 것들은 서로를 흡수해 경험을 나눴다."
+ },
+ "c485163f2014": {
+  "en": "<strong>Habitat:</strong> The biggest nest is in Sweetlake.",
+  "t": "<strong>서식지:</strong> 가장 큰 둥지는 스위트레이크에 있다."
+ },
+ "c50c0638709c": {
+  "en": "Brought over by the Buhraies as summoning experiments, then soon left to their fate on what is now Endlessfog. As their population grew, so did their tribes and their wars, until a single Brunto led an army of conquest and united all the tribes under one leader, now honored by the Endlessfog statue (see Endlessfog). Killing them is prohibited by Endlessfog law, which doesn't apply in greater Forway, especially the Freeish Region.",
+  "t": "부라이에스가 소환 실험으로 데려왔다가 곧 지금의 엔들리스포그에 버려두었다. 개체 수가 늘면서 부족과 전쟁도 늘었고, 결국 한 브룬토가 정복군을 이끌고 모든 부족을 한 지도자 아래 통일했다. 그는 지금 엔들리스포그 동상으로 기려진다(엔들리스포그 참조). 엔들리스포그 법은 이들을 죽이는 걸 금지하지만, 그 법은 대포웨이, 특히 프리이시 지역에는 적용되지 않는다."
+ },
+ "c51840f5dd2b": {
+  "en": "<strong>Inspired by:</strong> Trees, kind of. They map their surroundings with their vines and with vibrations in the ground and the wind, and they can also sense Soul Energy with their leaves.",
+  "t": "<strong>모티브:</strong> 나무, 그런 셈. 덩굴과 땅과 바람의 진동으로 주변을 파악하고, 잎으로 영혼 에너지도 감지한다."
+ },
+ "c51f76b3770a": {
+  "en": "<strong>Reproduction:</strong> Through Soul Energy; it all depends on Bahyum Castle.",
+  "t": "<strong>번식:</strong> 영혼 에너지로. 모든 건 바혐 성에 달렸다."
+ },
+ "c550875876ca": {
+  "en": "<strong>Other:</strong> Explosive growth as their cells mutate.",
+  "t": "<strong>기타:</strong> 세포가 변이하며 폭발적으로 자란다."
+ },
  "c6b259840636": {
   "en": "Koalin",
   "t": "코알린"
+ },
+ "ca4936ec973b": {
+  "en": "<strong>Interface:</strong> Shell.",
+  "t": "<strong>인터페이스:</strong> 껍데기."
+ },
+ "caa12c4b606f": {
+  "en": "Adventurers hunting fauna or beasts butcher the corpses before hauling them, to cut costs.",
+  "t": "동물이나 마수를 사냥하는 모험가는 운반 비용을 줄이려고 사체를 먼저 해체한다."
+ },
+ "cac5b3c9032e": {
+  "en": "<strong>Habitat:</strong> Hifuna.",
+  "t": "<strong>서식지:</strong> 히푸나."
+ },
+ "ce2d8c15400c": {
+  "en": "<strong>Inspired by:</strong> Ghouls.",
+  "t": "<strong>모티브:</strong> 구울."
+ },
+ "ce4ce2bafb92": {
+  "en": "<strong>Inspired by:</strong> A swarm of butterflies.",
+  "t": "<strong>모티브:</strong> 나비 떼."
+ },
+ "d18281ada717": {
+  "en": "The list isn't complete: it covers the species that matter most to the economy and the story.",
+  "t": "이 목록이 전부는 아니다. 경제와 이야기에 가장 중요한 종을 다룬다."
+ },
+ "d2ac3d882ee7": {
+  "en": "<strong>Food:</strong> Smaller people, mammals, etc.: anything that moves and steps too close.",
+  "t": "<strong>먹이:</strong> 작은 사람, 포유류 등. 움직이면서 너무 가까이 다가오는 건 뭐든."
+ },
+ "d356e3c2af66": {
+  "en": "<strong>Intelligence:</strong> Butterfly.",
+  "t": "<strong>지능:</strong> 나비."
+ },
+ "d3f4c76a9a45": {
+  "en": "A few Shapeshifters assimilated bees and began building hives west of Blood City. What makes them special: they're much bigger than normal bees, and they make an extremely tasty black honey. The females make honey from tree sap and build massive anthill-like structures to store it. If a male stings you, your sense of taste is overwhelmed with sweetness while you scream in agony.",
+  "t": "셰이프시프터 몇이 벌을 흡수해 블러드 시 서쪽에 벌집을 짓기 시작했다. 특별한 점: 보통 벌보다 훨씬 크고, 기막히게 맛있는 검은 꿀을 만든다. 암컷은 나무 수액으로 꿀을 만들고, 그걸 저장하려고 개미집 같은 거대한 구조물을 짓는다. 수컷에게 쏘이면 비명을 지르며 고통스러워하는 동안 혀가 단맛에 압도된다."
  },
  "d412d5ae3550": {
   "en": "Trunk People are native to heavy, thick forests around the Freeish Kingdom. They are easily recognizable by their four arms, with each being able to show different colored flames, including altering their intensity. The name Trunk People is an old name, for scientists now know they are nothing but parasites! Still, they are cute and can even recognize faces. You see them everywhere in Freeish and surrounding communities as public light sources and even as security for some because their flaming and blinding capabilities are pretty impressive for their size. Some can also respond to certain body motions and training, often becoming part of shows and traveling bands.",
@@ -215,32 +899,184 @@
   "en": "Sweet Sting",
   "t": "스위트 스팅"
  },
+ "d5b3c731749c": {
+  "en": "<strong>Habitat:</strong> Rarely seen throughout the four kingdoms; now they often live in Wingarest.",
+  "t": "<strong>서식지:</strong> 네 왕국 전역에서 드물게 보인다. 지금은 주로 윙가레스트에 산다."
+ },
+ "d73de6d2d8f5": {
+  "en": "<strong>Food:</strong> Sunlight, blood and guts (more specifically, the Soul Energy in them).",
+  "t": "<strong>먹이:</strong> 햇빛, 피와 내장(더 정확히는 그 안의 영혼 에너지)."
+ },
+ "d8935671db5f": {
+  "en": "<strong>Other:</strong> Grows indefinitely, but seems to stop around this size because of how much it would need to eat.",
+  "t": "<strong>기타:</strong> 끝없이 자라지만, 먹어야 할 양 때문인지 이 크기쯤에서 멈추는 것 같다."
+ },
+ "d8af6a9b563c": {
+  "en": "<strong>Interface:</strong> Walking Heart.",
+  "t": "<strong>인터페이스:</strong> 워킹 하트."
+ },
+ "d9a507ad961b": {
+  "en": "<strong>Tastes like:</strong> Tough chicken.",
+  "t": "<strong>맛:</strong> 질긴 닭고기."
+ },
+ "dbc656eb0b41": {
+  "en": "<strong>Intelligence:</strong> Depends on the experiment: from mindless to wolf.",
+  "t": "<strong>지능:</strong> 실험에 따라 다르다. 생각이 없는 것부터 늑대 수준까지."
+ },
+ "dc2cd44debb4": {
+  "en": "<strong>Flinga Head Feathers</strong>: A bundle of head feathers, used in nari gels. Just plain hard to get: Flingas rarely land south of Hifuna, fly high and are evasive.",
+  "t": "<strong>플링가 머리 깃털</strong>: 나리 젤에 쓰는 머리 깃털 한 묶음. 그냥 구하기가 어렵다. 플링가는 히푸나 남쪽에 거의 내려앉지 않고, 높이 날며 잘 피한다."
+ },
+ "dc8c863696b9": {
+  "en": "<strong>Interface:</strong> Flat head.",
+  "t": "<strong>인터페이스:</strong> 납작한 머리."
+ },
+ "dcec7b19c0ef": {
+  "en": "<strong>Skills:</strong> Light Flames; Light Explosion (blinds).",
+  "t": "<strong>능력:</strong> 빛의 불꽃, 빛 폭발(눈을 멀게 한다)."
+ },
  "ddd1cce9bc4b": {
   "en": "Nari Worms are native to the underground caverns below Blood. Despite their threatening look and massive size, they are quite amicable to everyone, even when you find their eggs. Avoid the curiosity of eating them or harming these worms in any way, or you will be in deep shit if Forway finds out. They are so protective of these creatures that they are not afraid of using the worst punishment in the books, including being shipped out to Hifuna. It is certainly harsh, but it is fair as nari stones are a byproduct from the shed skin of Nari Worms, and no other creature or scientific process can accumulate this much soul energy in a ready-to-use form.",
   "t": "나리 웜은 블러드 아래의 지하 동굴에 서식한다. 위협적인 생김새와 거대한 몸집에도 불구하고 누구에게나 꽤 우호적이다. 알을 발견했을 때조차도. 호기심에 먹어 보거나 어떤 식으로든 해치는 건 피해라. 포웨이가 알게 되면 큰일 나니까. 그들은 이 생물을 너무나 철저히 보호해서, 히푸나로 보내 버리는 것까지 포함해 법전에서 가장 무거운 처벌도 서슴지 않는다. 확실히 가혹하지만 공정하기도 하다. 나리석은 나리 웜이 벗은 허물의 부산물이고, 다른 어떤 생물이나 과학적 방법으로도 이만큼 많은 영혼 에너지를 바로 쓸 수 있는 형태로 모을 수 없기 때문이다."
+ },
+ "e0de365b53c4": {
+  "en": "A swarm of Monica butterflies that groups up and flees bad weather. Their blue lights together make a wall of blue in the distance, warning anyone in the way to take cover from the coming storm. Depending on the size of the swarm, they can devour a rotting corpse in a few hours.",
+  "t": "궂은 날씨를 피해 무리 지어 달아나는 모니카 나비 떼. 함께 모인 파란 빛이 멀리서 파란 벽을 이뤄, 길목에 있는 누구에게나 다가오는 폭풍을 피하라고 경고한다. 떼의 크기에 따라 썩어 가는 시체를 몇 시간 만에 먹어 치울 수 있다."
+ },
+ "e2034fc4f144": {
+  "en": "<strong>Koalin Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>코알린 육포</strong>: 도축업자가 만든 육포."
+ },
+ "e3b50c28b9f4": {
+  "en": "<strong>Inspired by:</strong> Megachile pluto.",
+  "t": "<strong>모티브:</strong> 메가킬레 플루토(Megachile pluto)."
+ },
+ "e490decd791b": {
+  "en": "<strong>Habitat:</strong> The lower plains.",
+  "t": "<strong>서식지:</strong> 낮은 평원."
+ },
+ "e6f51af91733": {
+  "en": "<strong>Big Winga Tamed</strong>: A great hunting companion for Aquamarine adventurers, or a pet for richer people. Rare to find and costly to raise, but at least they live long.",
+  "t": "<strong>길들인 빅 윙가</strong>: 아쿠아마린 모험가에게는 훌륭한 사냥 동료, 부자에게는 애완동물. 구하기 드물고 키우는 데 돈이 많이 들지만, 적어도 오래 산다."
+ },
+ "e7b99d4e85d6": {
+  "en": "<strong>Tier IV (Nobility Goods):</strong> high-quality hides and furs, especially from rare game.",
+  "t": "<strong>IV등급(귀족의 물건):</strong> 고품질 가죽과 모피, 특히 희귀한 사냥감의 것."
+ },
+ "e93e9b4f10c8": {
+  "en": "With no predators, this worm grew large and specialized in burrowing and eating stone, using an organ that casts Soul Energy through a unique interface. The acids in its stomach mix with the hair-thin nari veins into its shell, which it replaces every few months as it grows. Humans hunt down the shed shells and grind them for all kinds of uses. Killing the worms is prohibited by Forway and Blood law.",
+  "t": "천적이 없어 크게 자랐고, 독특한 인터페이스로 영혼 에너지를 쓰는 기관으로 땅을 파고 돌을 먹는 데 특화됐다. 위산이 머리카락처럼 가는 나리 맥과 섞여 껍데기를 이루고, 자라면서 몇 달마다 껍데기를 간다. 인간은 벗겨진 껍데기를 찾아다니며 갈아서 온갖 데 쓴다. 포웨이와 블러드 법은 이 벌레를 죽이는 걸 금지한다."
+ },
+ "ea9a3e5899c3": {
+  "en": "<strong>Wood People Wood</strong>: Very durable, with a dark red color. It gives off a strong, woody musk when soaked.",
+  "t": "<strong>우드 피플 목재</strong>: 아주 튼튼하고 짙은 붉은색. 물에 적시면 강한 나무 사향을 풍긴다."
+ },
+ "eab5a9fab590": {
+  "en": "<strong>Tastes like:</strong> Nutty, smoky and slightly sweet.",
+  "t": "<strong>맛:</strong> 고소하고, 훈제 향에, 살짝 달다."
  },
  "ec6bcc5d14d6": {
   "en": "Shapeshifter",
   "t": "셰이프시프터"
  },
+ "ecd626be4ed2": {
+  "en": "<strong>Food:</strong> Sunlight.",
+  "t": "<strong>먹이:</strong> 햇빛."
+ },
  "ed7d26b9c119": {
   "en": "Male and female White Roundies: gray seal-like creatures with long whiskers and pale tails, next to Harry.",
   "t": "수컷과 암컷 화이트 라운디스: 긴 수염과 연한 꼬리를 가진 회색 물범 같은 생물. 해리 옆에 있다."
+ },
+ "ee952739d3ca": {
+  "en": "<strong>Interface:</strong> The hair around their necks, which vibrates and makes a rumbling sound above water.",
+  "t": "<strong>인터페이스:</strong> 목 주변의 털. 떨리면서 물 위에서 우르릉 소리를 낸다."
  },
  "ef4e11ca8495": {
   "en": "Beasts · #HusbandOutWorld",
   "t": "마수 · #HusbandOutWorld"
  },
+ "ef54085fbe5f": {
+  "en": "<strong>Habitat:</strong> Mostly west of Blood City.",
+  "t": "<strong>서식지:</strong> 주로 블러드 시 서쪽."
+ },
+ "ef9a4c4ad2ae": {
+  "en": "<strong>Trunk People Arms</strong>: Used in nari gels.",
+  "t": "<strong>트렁크 피플 팔</strong>: 나리 젤에 쓴다."
+ },
  "efbe055dc485": {
   "en": "Bruntos are a glimpse of the endless curiosity and tampering mindset of the ancient Buhraies race. Not only content in messing with plants and the land itself, but they were also as far south as Endlessfog, altering the local ecosystem to their will until Lishies wrecked the place up and tried to eat anything that moved in the whole island. That's what historians say, but scientists are still perplexed about how they created an entirely new species out of thin air. Nothing close to Bruntos other than Naked Bruntos also called humans, existed—not even in Newland. Some scientists speculate that this is substantial proof that our physical bodies are interconnected to a soul plane and that other planes of existence are also connected to this shared soul plane—this must be how Buhraies connected flesh to the soul and brought us all here. Other scientists say these scientists need to lay off the Magina and stop getting high at their jobs. Either way, Bruntos makes great companions!",
   "t": "브룬토스는 고대 부라이에스 종족의 끝없는 호기심과 이것저것 건드리는 사고방식을 엿볼 수 있게 해 준다. 그들은 식물과 땅 자체를 건드리는 것에 만족하지 않고 남쪽으로 엔들리스포그까지 가서 그 지역 생태계를 마음대로 바꿨다. 리시에스가 그곳을 박살 내고 섬 전체에서 움직이는 건 뭐든 먹어 치우려 들기 전까지 말이다. 역사가들은 그렇게 말하지만, 과학자들은 그들이 어떻게 허공에서 완전히 새로운 종을 만들어 냈는지 아직도 어리둥절해한다. 인간이라고도 불리는 털 없는 브룬토스 말고는 브룬토스와 비슷한 건 아무것도 없었다—뉴랜드에도 없었다. 일부 과학자들은 이것이 우리의 육체가 영혼계와 서로 연결되어 있고, 다른 존재의 차원들도 이 공유된 영혼계에 연결되어 있다는 확실한 증거라고 추측한다—부라이에스는 분명 그렇게 육체와 영혼을 연결해 우리 모두를 이곳에 데려왔을 거라고. 다른 과학자들은 그 과학자들더러 마지나 좀 그만 피우고 근무 중에 그만 취하라고 말한다. 어느 쪽이든, 브룬토스는 훌륭한 동반자다!"
+ },
+ "eff5a3fcf2e8": {
+  "en": "<strong>Habitat:</strong> Endlessfog Island, and the Freeish region (some escaped into the wild through trade by boat).",
+  "t": "<strong>서식지:</strong> 엔들리스포그 섬과 프리이시 지역(일부는 배를 이용한 교역을 통해 야생으로 달아났다)."
+ },
+ "f07e62e60deb": {
+  "en": "<strong>Intelligence:</strong> Same as Winga.",
+  "t": "<strong>지능:</strong> 윙가와 같다."
+ },
+ "f142831cbfee": {
+  "en": "<strong>Nari Worm Jerky</strong>: Jerky prepared by a butcher. Not really desirable.",
+  "t": "<strong>나리 웜 육포</strong>: 도축업자가 만든 육포. 별로 인기 없다."
+ },
+ "f2031ad6b2f3": {
+  "en": "<strong>Interface:</strong> Head feathers.",
+  "t": "<strong>인터페이스:</strong> 머리 깃털."
+ },
+ "f259a7107aee": {
+  "en": "<strong>Other:</strong> Grows ~30 cm.",
+  "t": "<strong>기타:</strong> ~30cm 자란다."
+ },
+ "f33b562fab0d": {
+  "en": "<strong>Intelligence:</strong> Comparable to a snake: mostly instinctual, but they respond to certain foods. They communicate through pheromones and sound.",
+  "t": "<strong>지능:</strong> 뱀과 비슷하다. 대개 본능적이지만, 특정 먹이에는 반응한다. 페로몬과 소리로 소통한다."
  },
  "f37067015083": {
   "en": "Public text: beasts.md",
   "t": "공개 텍스트: beasts.md"
  },
+ "f3e99258087e": {
+  "en": "<strong>Reproduction:</strong> Impossible.",
+  "t": "<strong>번식:</strong> 불가능."
+ },
+ "f55b065d3862": {
+  "en": "<strong>Skills:</strong> Transmogrify.",
+  "t": "<strong>능력:</strong> 변형."
+ },
  "f5e978a4f160": {
   "en": "White Roundies are gentle mammals from the far south known as Whiteland, often coming up to the shores of Freeish but sometimes as far as Sanbi during the winter to feast on their heart, given the winter in Whiteland is far colder than the Four Kingdoms' winter. Don't let their cute nature fool you, though! They are incredibly intelligent, with some scientists dedicating their lives to investigating their culture alone. It is commonly accepted that this beast is likely on track to become their own race in the far future, but people disagree on what is the turning point. For some, the fact we can't understand their language is the most significant differentiator from Cruros. Others fight that argument on the grounds that they might be even more intelligent than us, and we don't understand them. Others think this whole back-and-forth is a waste of time and prefer to play catch, rub their bellies to hear the rumbling noise that sounds like a pur they make with their neck sensory tentacles, or straight up make companions out of them. If you're one of these people, there's a whole festival around their arrival in Freeish Kingdom you cannot miss out on.",
   "t": "화이트 라운디스는 화이트랜드라 불리는 먼 남쪽에서 온 온순한 포유동물이다. 겨울이면 자주 프리이시 해안까지 올라오고, 가끔은 산비까지 와서 그들의 심장을 실컷 먹는다. 화이트랜드의 겨울은 네 왕국의 겨울보다 훨씬 춥기 때문이다. 하지만 귀여운 모습에 속지 마! 믿을 수 없을 만큼 똑똑해서, 어떤 과학자들은 평생을 이들의 문화를 연구하는 데에만 바친다. 이 마수가 먼 미래에 하나의 종족이 될 가능성이 높다는 건 널리 받아들여지지만, 어디가 전환점인지에 대해서는 의견이 갈린다. 어떤 이들에게는 우리가 이들의 언어를 이해하지 못한다는 점이 크루로와의 가장 큰 차이다. 다른 이들은 이들이 우리보다 더 똑똑할지도 모르고, 우리가 이해하지 못할 뿐이라며 그 주장에 반박한다. 또 다른 이들은 이런 논쟁 자체가 시간 낭비라고 생각하고, 그냥 같이 공놀이를 하거나, 배를 문질러 목의 감각 촉수로 내는 가르랑거림 같은 우르릉 소리를 듣거나, 아예 동반자로 삼는 걸 더 좋아한다. 네가 그런 사람이라면, 프리이시 왕국에는 이들의 도착을 기념하는 축제가 통째로 있으니 절대 놓치지 마."
+ },
+ "f70be7341df5": {
+  "en": "A seal-like mammal that lives in the far south most of the year. They're often killed in winter, when they move to northern waters to fatten up for spring, though most people frown on it, since they seem too intelligent, especially people who think like Endlessfog's residents.",
+  "t": "일 년 대부분을 먼 남쪽에서 사는 물개 같은 포유류. 겨울에 봄을 앞두고 살을 찌우려 북쪽 바다로 올라올 때 자주 잡히지만, 대부분은 이를 언짢게 여긴다. 너무 영리해 보이기 때문인데, 엔들리스포그 주민처럼 생각하는 사람들이 특히 그렇다."
+ },
+ "f884107d2275": {
+  "en": "<strong>Habitat:</strong> Seen flying all over the region.",
+  "t": "<strong>서식지:</strong> 지역 전역에서 날아다니는 모습이 보인다."
+ },
+ "f8c4e153a0b2": {
+  "en": "<strong>Food:</strong> Tree sap.",
+  "t": "<strong>먹이:</strong> 나무 수액."
+ },
+ "f93d4d236826": {
+  "en": "<strong>Interface:</strong> Arm branches.",
+  "t": "<strong>인터페이스:</strong> 팔 가지."
+ },
+ "f9f91a66aed1": {
+  "en": "<strong>Reproduction:</strong> Males are much smaller than females, and they do most of the work. Females defend the colony and gather pollen.",
+  "t": "<strong>번식:</strong> 수컷은 암컷보다 훨씬 작고, 일 대부분을 한다. 암컷은 군체를 지키고 꽃가루를 모은다."
+ },
+ "fb99e9739b28": {
+  "en": "<strong>Wood People Sap</strong>: Processed sap, often used in nari gels.",
+  "t": "<strong>우드 피플 수액</strong>: 가공한 수액. 나리 젤에 자주 쓴다."
+ },
+ "fca49bae5a25": {
+  "en": "<strong>Interface:</strong> Teeth.",
+  "t": "<strong>인터페이스:</strong> 이빨."
+ },
+ "fe57948c79b6": {
+  "en": "<strong>Skills:</strong> The same as Wingas: Sense Lifeforms; Generate Air Shield; Louder-than-usual shriek; strengthening the beak and claws to diamond level, so they cut through anything.",
+  "t": "<strong>능력:</strong> 윙가와 같다. 생명체 감지, 공기 방패 생성, 평소보다 큰 울음소리, 부리와 발톱을 다이아몬드 수준으로 강화해 뭐든 베어 내기."
  }
 }

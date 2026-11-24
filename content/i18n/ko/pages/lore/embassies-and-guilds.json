@@ -1,19 +1,63 @@
 {
+ "02a031ca9a25": {
+  "en": "<strong>Tier IV, Sapphire:</strong> Well-rounded in many parts of life, including battle and conflict management (talking with kings and queens, investigations, etc.). Most seem loyal to Forway City and to keeping its power throughout the kingdoms, and a handful are tight-lipped, especially about Forway's private matters. Requires Adventurer School and many years of loyal service.",
+  "t": "<strong>IV등급, 사파이어:</strong> 전투와 분쟁 관리(왕과 여왕과의 대화, 조사 등)를 포함해 삶의 여러 면에서 두루 능하다. 대부분 포웨이 시에, 그리고 왕국들에 걸친 포웨이의 권력을 지키는 데 충성하는 듯하고, 몇몇은 특히 포웨이의 사적인 일에 대해 입이 무겁다. 모험가 학교와 오랜 충성스러운 복무가 필요하다."
+ },
+ "0352e771baad": {
+  "en": "Every newborn should be registered promptly with a badge from the local embassy; it's the only way to use the embassies' services. It's common for people of Tier I and II status not to have a badge, or to get one later in life.",
+  "t": "갓난아기는 모두 지역 대사관에서 신분패를 받아 곧바로 등록해야 한다. 그게 대사관 서비스를 쓰는 유일한 방법이다. I·II등급 신분의 사람들은 신분패가 없거나, 나중에야 받는 경우가 흔하다."
+ },
  "05ec697dfbca": {
   "en": "Forway Winga and Big Winga: a Forway guard riding a huge blue parrot-like Big Winga, with smaller Wingas in flight.",
   "t": "포웨이의 윙가와 빅 윙가: 거대한 파란 앵무새 같은 빅 윙가를 탄 포웨이 경비병과, 하늘을 나는 작은 윙가들."
+ },
+ "062f9ac90d0c": {
+  "en": "A badge is official identification, especially for adventurers as they're promoted between tiers. It's about the size of a credit card, normally made of soul wood (hence its greenish color), with the holder's name carved in and the Forway logo on the back; a fresh one still smells of burnt wood. Four balls decorate the corners: iron for a regular citizen (like Eiri's in Vol 1), or matched to the rank for adventurers: every adventurer starts as a Pearl and moves up to Amethyst, Aquamarine and Sapphire. Black wood badges are for city officials, kingdom representatives and embassy representatives: in Sanbi, only Itagiba Sanbi Royal and Lofinghy Sanbi Forway General have one (Itagiba's corners have four distinctly colored shiny balls: red, blue, green and yellow). A badge costs 1 amethyst.",
+  "t": "신분패는 공식 신분증이고, 특히 등급 사이를 오르는 모험가에게 그렇다. 크기는 신용카드만 하고, 보통 소울 우드로 만들어서(그래서 초록빛이 돈다) 소지자의 이름이 새겨져 있고 뒷면에 포웨이 로고가 있다. 새것에서는 아직 탄 나무 냄새가 난다. 네 모서리를 볼 네 개가 장식한다: 일반 시민은 철(1권의 에이리 것처럼), 모험가는 계급에 맞춘다. 모험가는 모두 펄에서 시작해 애머시스트, 아쿠아마린, 사파이어로 올라간다. 검은 나무 신분패는 도시 관리, 왕국 대표, 대사관 대표용이다: 산비에서는 이타지바 산비 로열과 로핑히 산비 포웨이 제너럴만 갖고 있다(이타지바의 모서리에는 빨강, 파랑, 초록, 노랑으로 뚜렷이 다른 색의 반짝이는 볼 네 개가 있다). 신분패 하나에 애머시스트 1개."
+ },
+ "08cc02d1b8eb": {
+  "en": "Jobs offered to adventurers. Some require a minimum rank; for local quests, see the local embassy.",
+  "t": "모험가에게 주는 일. 최소 계급이 필요한 것도 있다. 지역 의뢰는 지역 대사관을 참조."
  },
  "09d7889c3137": {
   "en": "Adventurers",
   "t": "모험가"
  },
+ "0d4fb3c30205": {
+  "en": "Any adventurer can be revived at any embassy if they choose. When taking a quest, they accept a deadline, after which a search party is sent to recover their body and try to finish the quest for them. If the body is found, they're revived, and Forway takes 50% of their profit on every other quest until the debt is repaid. If they die again before repaying it, they're forced to become Forway guards; if they flee, they become wanted criminals. Some people consider this effectively slavery.",
+  "t": "모험가는 원하면 어느 대사관에서든 부활할 수 있다. 의뢰를 받을 때 기한을 받아들이는데, 기한이 지나면 수색대가 파견되어 시신을 수습하고 대신 의뢰를 마치려 한다. 시신을 찾으면 부활시키고, 빚을 다 갚을 때까지 포웨이가 다른 모든 의뢰 수익의 50%를 가져간다. 갚기 전에 또 죽으면 강제로 포웨이 경비병이 되고, 달아나면 수배범이 된다. 이걸 사실상 노예제로 보는 사람도 있다."
+ },
+ "0f35aa699c52": {
+  "en": "<strong>Tier II, Amethyst:</strong> Often carriage protection, beast and bandit hunting, and related requests. The de facto fauna hunters, often paired with Pearls for training and a helping hand. Some bounty hunting; sets bandit traps.",
+  "t": "<strong>II등급, 애머시스트:</strong> 주로 마차 경호, 마수와 산적 사냥, 그리고 관련 요청. 사실상 동물 사냥꾼이고, 훈련과 일손 거들기를 위해 펄과 짝을 짓는 일이 많다. 현상금 사냥도 좀 하고, 산적 덫을 놓는다."
+ },
  "155d421bc4d5": {
   "en": "Embassy News",
   "t": "대사관 뉴스"
  },
+ "15bd4a14ac0f": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Embassies%20%26%20Guilds.md\">Legacy/Behind The Scenes/World Lore/Embassies &amp; Guilds.md</a>",
+  "t": "출처: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Embassies%20%26%20Guilds.md\">Legacy/Behind The Scenes/World Lore/Embassies &amp; Guilds.md</a>"
+ },
+ "187f43c429c8": {
+  "en": "<strong>1. General</strong> (1 Pearl + rewards): The cheapest. Usually people looking for specific things, or wanting to brag; over the years it turned into a marketplace for odd things. Posted on the general board and in the weekly Forway News printout, where anyone can read it or ask a guard. Pearl adventurers sometimes check this board, but don't count on it.",
+  "t": "<strong>1. 일반</strong> (1펄 + 보상): 가장 싸다. 보통 특정한 걸 찾거나 자랑하고 싶은 사람들이 쓰고, 세월이 흐르며 별난 물건 장터가 됐다. 일반 게시판과 주간 포웨이 뉴스 인쇄물에 실려서, 누구나 읽거나 경비병에게 물어볼 수 있다. 펄 모험가가 가끔 이 게시판을 보긴 하지만, 기대는 말자."
+ },
  "1a9e871a3a0a": {
   "en": "Missing People, personal protection, etc. Usually, all quests are classified as Local warnings. The usual “Pay to Win,” or rather, “Pay To Be Heard.” Your thing will be posted on the Quest board, which is where Adventurers are far more keen to check out. The captain will also announce all open quests/news of this level on every Monnalow. Some companies/traders advertise their wares at this level as well.",
   "t": "실종자, 개인 경호 등. 보통 모든 의뢰는 지역 경보로 분류된다. 흔한 “돈 내면 이긴다”, 아니 그보다는 “돈 내야 들어 준다”. 네 건은 의뢰 게시판에 실리는데, 모험가들이 훨씬 더 열심히 확인하는 곳이다. 대장은 매 몬나로에 이 등급의 모든 열린 의뢰와 뉴스도 알린다. 몇몇 회사와 상인들도 이 등급에서 자기 물건을 광고한다."
+ },
+ "1defd1949b9d": {
+  "en": "Quest",
+  "t": "의뢰"
+ },
+ "2101e24f1892": {
+  "en": "Adventurer is officially a Forway City job, created to keep order and keep tabs on the rumors spreading through the kingdoms: a kind of decentralized military. Retired adventurers and Forway City officials rank adventurers to match them to quests. Recognitions and promotions are handed out once a year, at the Adventurer feast every Paulin 100th. It's a way for people of lower stature to get a better life, though more dangerous than city life (that is, if they don't die too much).",
+  "t": "모험가는 공식적으로 포웨이 시의 직업이다. 질서를 지키고 왕국들에 퍼지는 소문을 감시하려고 만든, 일종의 분산된 군대다. 은퇴한 모험가와 포웨이 시 관리들이 모험가의 계급을 매겨 의뢰에 맞춘다. 표창과 승급은 1년에 한 번, 매년 파울린 100일 모험가 연회에서 수여된다. 신분이 낮은 사람들이 더 나은 삶을 얻는 길이지만, 도시 생활보다 위험하다(너무 많이 죽지만 않는다면)."
+ },
+ "2133268410f1": {
+  "en": "Embassies & Guilds (World Lore illustration)",
+  "t": "대사관과 길드 (세계관 삽화)"
  },
  "2a3829fdb5da": {
   "en": "Type 1: General",
@@ -31,13 +75,37 @@
   "en": "Badges",
   "t": "신분패"
  },
+ "314f20edf89c": {
+  "en": "<strong>Guilds:</strong> for one sapphire, you can create an officially recognized guild. The embassy keeps the official member list by duplicating members' badges and storing them in-house. Guild services include property management for certain members, asset management, storage, etc. Adventurers and families use it widely to share resources.",
+  "t": "<strong>길드:</strong> 사파이어 하나면 공식 인정 길드를 만들 수 있다. 대사관은 구성원의 신분패를 복제해 내부에 보관하는 식으로 공식 구성원 명단을 관리한다. 길드 서비스에는 특정 구성원의 재산 관리, 자산 관리, 보관 등이 있다. 모험가와 가족들이 자원을 나누려고 널리 쓴다."
+ },
  "32281ce01ca1": {
   "en": "Badges, Embassies &amp; Guilds",
   "t": "신분패, 대사관과 길드"
  },
+ "32767bc87ce3": {
+  "en": "Contracts",
+  "t": "계약"
+ },
+ "34c808d0a63f": {
+  "en": "News",
+  "t": "뉴스"
+ },
+ "35c8ef17664f": {
+  "en": "Cargo Protection, Beast Hunt, Bounty Hunting, Bandit Traps, Training, Village Checker",
+  "t": "화물 경호, 마수 사냥, 현상금 사냥, 산적 덫, 훈련, 마을 점검"
+ },
  "3d2e183679d3": {
   "en": "Type 3: Kingdom Alert",
   "t": "유형 3: 왕국 경계령"
+ },
+ "3eb17f3f25b8": {
+  "en": "Forway holds the price at 1 Pearl to send a letter to any embassy. The envelope comes with a single white page; you can buy premium paper at the embassy or bring your own, as long as the letter weighs no more than four pearl balls. Anything heavier goes by private mail or the storage service.",
+  "t": "포웨이는 어느 대사관으로든 편지 한 통 보내는 값을 1펄로 묶어 둔다. 봉투에는 흰 종이가 한 장 들어 있다. 대사관에서 고급 종이를 사거나 직접 가져와도 되는데, 편지가 펄 볼 네 개 무게를 넘으면 안 된다. 그보다 무거운 건 사설 우편이나 보관 서비스로 보낸다."
+ },
+ "406349649d33": {
+  "en": "Soul Energy Assist, Fauna Hunting, Construction Assistance (in the wild, such as roads), Lighthouse Assistance, Road Maintenance Assistance",
+  "t": "영혼 에너지 지원, 동물 사냥, 건설 보조(도로처럼 야외에서), 등대 보조, 도로 정비 보조"
  },
  "4b9871f50afd": {
   "en": "Some become loved, some become feared, and sometimes both, depending on who you ask, but either way, they all work towards that one goal.",
@@ -59,21 +127,61 @@
   "en": "Embassies are opulent seven-story tall buildings planted in major Forway cities and every kingdom. Their overall dark-looking construction contrasted the accenting bright red, orange, blue, and green from the four kingdoms, even going so far as using the same specialty-made nari-glass from the Forway City palace, giving this building a unique look that doesn’t matter where you came from or where you go, you know what this building stands for, and who it belongs to—including the black fence surrounding the moat.<br>\nIf you want to use the building like any other badge-holder citizen of the kingdoms, then they will welcome you with wide open arms and a kiss! Maybe not a kiss, but you get the point. They provide badge, courier, banking, revival, guild, contract, storage, quest, and adventurer services, so this building is always packed with citizens, Forway guards, and adventurers.",
   "t": "대사관은 포웨이의 주요 도시들과 모든 왕국에 세워진 화려한 7층 건물이다. 전체적으로 어두운 건물은 네 왕국의 밝은 빨강, 주황, 파랑, 초록 장식과 대비를 이루고, 포웨이 시 궁전과 같은 특수 제작 나리 유리까지 써서, 네가 어디서 왔든 어디로 가든 이 건물이 무엇을 상징하고 누구의 것인지 알 수 있는 독특한 모습을 갖추었다—해자를 둘러싼 검은 울타리까지.<br>\n왕국의 다른 신분패 소지 시민들처럼 이 건물을 이용하고 싶다면, 두 팔 벌려 키스와 함께 환영해 줄 거다! 키스까지는 아닐지 몰라도, 무슨 말인지 알 거다. 신분패, 배달, 은행, 부활, 길드, 계약, 보관, 의뢰, 모험가 서비스를 제공하기 때문에 이 건물은 늘 시민, 포웨이 경비병, 모험가들로 북적인다."
  },
+ "5cb01c69b512": {
+  "en": "Revival services",
+  "t": "부활 서비스"
+ },
+ "5eef32f9590e": {
+  "en": "Who runs it",
+  "t": "운영하는 사람"
+ },
  "5f9bef959fb9": {
   "en": "They are so strict with it that it doesn't matter if you're a Sanbi guard that found themselves in the wrong place. Your king or queen won't be able to move a finger despite the Forway embassy being inside the Sanbi Kingdom. You will be Sanbi shit out of luck. Same for any other embassies.",
   "t": "그들은 이 점에서 너무 엄격해서, 네가 엉뚱한 곳에 와 버린 산비 경비병이라 해도 소용없다. 포웨이 대사관이 산비 왕국 안에 있어도 네 왕이나 왕비는 손가락 하나 까딱하지 못할 거다. 산비고 뭐고 넌 운이 다한 거다. 다른 어느 대사관도 마찬가지다."
+ },
+ "63129358bafe": {
+  "en": "Adventurer lounge and quest boards, where people come in to post quests",
+  "t": "모험가 라운지와 의뢰 게시판. 사람들이 의뢰를 붙이러 들어오는 곳"
+ },
+ "66f7de7d105d": {
+  "en": "<strong>Tier V, Black Sapphire (hidden):</strong> See <a href=\"/lore/factions/\">Factions › Black Sapphires</a>.",
+  "t": "<strong>V등급, 블랙 사파이어 (숨겨짐):</strong> <a href=\"/lore/factions/\">파벌 › 블랙 사파이어스</a> 참조."
+ },
+ "692f41323528": {
+  "en": "Open concept: you can see the horizon, and Forway guards receive and release wingas here. All mail is sent and received on this floor.",
+  "t": "개방형: 지평선이 보이고, 포웨이 경비병들이 여기서 윙가를 받고 날려 보낸다. 모든 우편이 이 층에서 오간다."
  },
  "6e38c9740c9e": {
   "en": "Badges, Embassies & Guilds · #HusbandOutWorld",
   "t": "신분패, 대사관과 길드 · #HusbandOutWorld"
  },
+ "6f84b38f429b": {
+  "en": "<strong>Tier III, Aquamarine:</strong> Tackles more dangerous quests: wiping out bandit camps, dangerous beasts, Hifuna control. Highly sought-after bounty hunting. Requires Fundamental School, or passing a test.",
+  "t": "<strong>III등급, 아쿠아마린:</strong> 더 위험한 의뢰를 맡는다: 산적 소굴 소탕, 위험한 마수, 히푸나 통제. 현상금 사냥에서 인기가 높다. 기초 학교를 나오거나 시험을 통과해야 한다."
+ },
  "73dbf724d595": {
   "en": "Type 2: Local Warning",
   "t": "유형 2: 지역 경보"
  },
+ "78b923bae335": {
+  "en": "Captains have been essential to keeping stability, peace and prosperity ever since the Prosperity Treaty. Some are loved, some feared, sometimes both, depending on who you ask, but they all work toward the same goal. Why would someone of that stature dress like a guard, with only a fancy cap to set them apart? Forway makes all generals' armor and social clothing the same as the soldiers', so they remember where they came from and the impact of their actions: it's easy to get lost in the numbers and make a decision that looks good on paper but strains the relationship between the kingdoms, or the people, and Forway.",
+  "t": "대장들은 《번영 조약》 이래로 안정, 평화, 번영을 지키는 데 없어서는 안 될 존재였다. 누구에게 묻느냐에 따라 사랑받는 대장도, 두려움을 사는 대장도, 둘 다인 대장도 있지만, 모두 같은 목표를 향해 일한다. 그런 지위의 사람이 왜 멋진 모자 하나 말고는 다를 게 없는 경비병 차림을 할까? 포웨이는 모든 장군의 갑옷과 사교복을 병사들 것과 똑같이 만든다. 자기가 어디서 왔는지, 자기 행동이 어떤 영향을 미치는지 잊지 말라는 것이다: 숫자에 빠져 서류상으로는 좋아 보이지만 왕국들, 혹은 사람들과 포웨이 사이의 관계를 해치는 결정을 내리기 쉬우니까."
+ },
  "796b471d3a57": {
   "en": "There’s always at least one guard mounted in a big winga flying around, but do be wary that big winga is another forway guard who transformed himself into a big winga, so they are much wiser than the beasts—if you have somehow seen one given their pretty much extinct nature.\nAlso, don’t forget the cutesy wingas tirelessly traveling back and forth between embassies, carrying vital information, love letters, and of course, gossip and shit posting all over the land. They are not known for spying on the contents of letters, but if you’re up to no good, you should obscure the messaging just in case.",
   "t": "늘 적어도 한 명의 경비병이 빅 윙가를 타고 날아다니는데, 그 빅 윙가는 스스로 빅 윙가로 변한 또 다른 포웨이 경비병이니 마수보다 훨씬 영리하다는 걸 조심해라—거의 멸종했다는 걸 생각하면, 네가 하나라도 본 적이 있다면 말이지만.\n그리고 귀여운 윙가들이 대사관 사이를 지칠 줄 모르고 오가며, 중요한 정보와 연애편지, 그리고 물론 온 땅에 퍼지는 소문과 똥글까지 나른다는 것도 잊지 마. 편지 내용을 훔쳐보는 걸로 알려져 있진 않지만, 나쁜 짓을 꾸미고 있다면 혹시 모르니 메시지를 숨겨 두는 게 좋다."
+ },
+ "79ba345928fc": {
+  "en": "<strong>2. Local Warning</strong> (1 Amethyst + rewards): Missing people, personal protection, etc. Usually, all quests are Local Warnings: the usual \"Pay To Be Heard\". Posted on the quest board, which adventurers are far keener to check, and the captain announces every open quest and news item of this level each Monnalow. Some companies and traders advertise here too. Posting may be delayed while they investigate.",
+  "t": "<strong>2. 지역 경보</strong> (애머시스트 1개 + 보상): 실종자, 개인 경호 등. 보통 모든 의뢰는 지역 경보다: 늘 그렇듯 “돈 내야 들어 준다”. 모험가들이 훨씬 열심히 확인하는 의뢰 게시판에 실리고, 대장이 매 몬나로에 이 등급의 열린 의뢰와 뉴스를 모두 알린다. 회사나 상인이 여기 광고를 내기도 한다. 조사하는 동안 게시가 늦어질 수 있다."
+ },
+ "7ba6c8c730d7": {
+  "en": "Area Surveillance",
+  "t": "지역 감시"
+ },
+ "7db82f74092f": {
+  "en": "Floor",
+  "t": "층"
  },
  "7ecb87d513c0": {
   "en": "265 (images illustration)",
@@ -83,17 +191,93 @@
   "en": "Now, why would someone of such stature be dressed like a guard, with only a fancy cap to differentiate them? It's simple, really! Forway enforces all the generals' armor and social clothing to be the same as soldiers to ensure they remain aware of where they came from and the impact of all their actions, as it's easy to get lost in the numbers and make a decision that seems good on paper but creates a strain in the relationship between the kingdoms, or people, and Forway.",
   "t": "그런데 왜 그런 지위의 사람이 멋진 모자 하나로만 구별되는 경비병 차림을 하고 있을까? 사실 간단하다! 포웨이는 모든 장군의 갑옷과 사교복을 병사들과 똑같이 하도록 강제한다. 그래야 자신이 어디서 왔는지, 자신의 모든 행동이 어떤 영향을 미치는지 계속 의식하니까. 숫자에 빠져서 서류상으로는 좋아 보이지만 왕국이나 사람들과 포웨이 사이의 관계에 부담을 주는 결정을 내리기 쉽기 때문이다."
  },
+ "8395769df0da": {
+  "en": "Message Spreader (around cities and villages when there aren't enough Forway guards)",
+  "t": "소식 전달자 (포웨이 경비병이 모자랄 때 도시와 마을 주변에서)"
+ },
  "844505a8fe2e": {
   "en": "Embassies are also responsible for being the news source and relay for Forway (and in some aspects for Kingdoms as well). They have a classification for news events, each costing progressively more than the previous one:",
   "t": "대사관은 포웨이의(어떤 면에서는 왕국들의) 뉴스 출처이자 중계소 역할도 맡는다. 뉴스 사건에는 분류가 있고, 각 분류는 앞의 것보다 점점 더 비싸다:"
+ },
+ "86c3c99b59c8": {
+  "en": "Bandit Extermination, Personal Protection, Adventurer Hunter/Rescuer operations, Archeologist Assistance",
+  "t": "산적 소탕, 개인 경호, 모험가 추적/구조 작전, 고고학자 보조"
+ },
+ "8b2e11244b43": {
+  "en": "People with similar skills, trades or character band together to share ownership of their assets. Since people have no last names, a guild is also how an individual stands out.",
+  "t": "기술, 생업, 성격이 비슷한 사람들이 뭉쳐 자산을 공동 소유한다. 사람들에게 성이 없으니, 길드는 개인이 자신을 드러내는 방법이기도 하다."
+ },
+ "8ce8bbb9cd26": {
+  "en": "Winga mail is the size of a postcard. The envelope comes in the destination kingdom's color, with a seal on top, and the back is the same color as the front.",
+  "t": "윙가 메일은 엽서만 하다. 봉투는 받는 왕국의 색이고, 위에 봉인이 있으며, 뒷면도 앞면과 같은 색이다."
+ },
+ "8d42049e06f6": {
+  "en": "<strong>Tier I, Pearl:</strong> Bottom-of-the-barrel tasks: helping with lighthouse keeping, construction outside cities, etc. They often travel from city to city to find work, gain experience and grow their soul energy, and help Amethysts.",
+  "t": "<strong>I등급, 펄:</strong> 밑바닥 일: 등대 관리 돕기, 도시 밖 건설 등. 일감을 찾고, 경험을 쌓고, 영혼 에너지를 키우려고 도시에서 도시로 떠도는 일이 많고, 애머시스트를 돕는다."
+ },
+ "9450835c35a9": {
+  "en": "<strong>The embassy captain (its Forway general)</strong> is the highest authority of their embassy: over the whole city if Forway manages it, otherwise over the embassy grounds, while the kingdom around it belongs to whoever owns it. Generals carry the gem ranks too. Kingdom embassies have Aquamarine or Sapphire generals (the Forway embassy in Sanbi has an Aquamarine General), since Forway officials must trust their own future to them: there, the job is diplomacy and handling the relationship with a reigning king or queen, or an elected official. City embassies usually get a lower-rank Pearl or Amethyst General, partly because the cities are smaller, but also because they're under Forway's rule to begin with, so diplomacy isn't really much of a thing; a smaller city's embassy serves a more functional purpose: Winga mail, badges, adventurer quests, revivals, banking, etc. Sapphire Generals work at the Forway level, so their decisions affect everyone, and kingdoms with voting power help decide who becomes one. There are no archdukes in Vraki.",
+  "t": "<strong>대사관 대장(그 대사관의 포웨이 장군)</strong>은 자기 대사관의 최고 권위자다: 포웨이가 관리하는 도시면 도시 전체를, 아니면 대사관 부지를 맡고, 그 주변 왕국은 주인의 것이다. 장군도 보석 계급을 단다. 왕국 대사관에는 아쿠아마린이나 사파이어 장군이 있다(산비의 포웨이 대사관에는 아쿠아마린 장군이 있다). 포웨이 관리들이 자기 앞날을 그들에게 맡겨야 하기 때문이다: 거기서 하는 일은 외교, 그리고 재위 중인 왕이나 여왕, 혹은 선출직 관리와의 관계를 다루는 것이다. 도시 대사관에는 보통 계급이 더 낮은 펄이나 애머시스트 장군이 온다. 도시가 더 작기도 하지만, 애초에 포웨이의 통치 아래 있어서 외교라 할 게 별로 없기 때문이다. 작은 도시의 대사관은 더 실무적인 역할을 한다: 윙가 우편, 신분패, 모험가 의뢰, 부활, 은행 업무 등. 사파이어 장군은 포웨이 차원에서 일해서 그 결정이 모두에게 영향을 미치고, 투표권이 있는 왕국들이 누가 사파이어 장군이 될지 정하는 데 참여한다. 브라키에는 대공이 없다."
+ },
+ "94feda186216": {
+  "en": "Banking, guild and storage services",
+  "t": "은행, 길드, 보관 서비스"
+ },
+ "98746e3f35f6": {
+  "en": "3 and 4",
+  "t": "3층과 4층"
+ },
+ "9f3073c10805": {
+  "en": "Whoever issues a contract is responsible for taking the right blood from the right person. That's why public contracts are often signed at an embassy, where a proper witness makes sure it's formal and legally binding. Kingdoms can have their own contract authority, just as legal as Forway's.",
+  "t": "계약을 발행하는 사람이 맞는 사람에게서 맞는 피를 받을 책임을 진다. 그래서 공적인 계약은 대사관에서 서명하는 일이 많다. 거기서 제대로 된 증인이 계약이 정식이고 법적 구속력이 있는지 확인해 준다. 왕국도 포웨이 것만큼 합법적인 자체 계약 기관을 둘 수 있다."
+ },
+ "9f4ee5721dae": {
+  "en": "<strong>Storage:</strong> kingdom-wide. Whatever you deposit at one embassy can be picked up at any other. Don't expect quick turnaround, since costs are kept down by moving things whenever cargo space is available, but it's for sure the most secure way to store your stuff.",
+  "t": "<strong>보관:</strong> 왕국 전역. 한 대사관에 맡긴 건 다른 어느 대사관에서든 찾을 수 있다. 화물칸에 자리가 날 때마다 옮겨서 비용을 낮추니 빨리 받길 기대하진 말자. 하지만 물건을 보관하는 가장 안전한 방법인 건 확실하다."
  },
  "a5396a42f990": {
   "en": "For when shits the fan, such as an external invasion or an army of Hifuna monsters, somehow decide to march down towards Forway. This has never happened since Forway was established, so it’s just a news type in theory. Some higher-ups in Forway even pushed for the removal of it since it costs resources, keeping every embassy at the ready for an emergency level of alert (which most likely aren’t.) It includes being able to staff at least a hundred adventurers with lodging, food, and fighting resources within three days, be able to defend itself from a Tier X spell, etc.",
   "t": "외부의 침공이라든가, 히푸나 괴물 군대가 어째서인지 포웨이를 향해 행진하기로 하는 것처럼 진짜 큰일이 났을 때를 위한 것이다. 포웨이가 세워진 이후로 한 번도 일어난 적이 없으니, 이론상으로만 있는 뉴스 유형이다. 포웨이의 일부 고위층은 모든 대사관을 비상 등급 경계에 대비시키는 데(대부분 아마 대비가 안 되어 있겠지만) 자원이 드니 없애자고 밀어붙이기까지 했다. 사흘 안에 최소 모험가 백 명에게 숙소, 식량, 전투 자원을 제공할 수 있어야 하고, X등급 주문으로부터 스스로를 지킬 수 있어야 하는 것 등이 포함된다."
  },
+ "a56f23520c31": {
+  "en": "To verify a contract, place the person's badge on the signature field: if the blood signature matches, the badge base (where the thumb goes) lights up.",
+  "t": "계약을 확인하려면 그 사람의 신분패를 서명란에 올려놓는다: 피 서명이 맞으면 신분패 아랫부분(엄지가 닿는 곳)이 빛난다."
+ },
+ "a76237069f37": {
+  "en": "If an adventurer's body isn't found within a reasonable time for their soul to still be revived, Forway processes them as \"Presumed Soul Dead\". Forway keeps the badge so no one can impersonate them, and every guild they belonged to is notified: their personal inventory and services move to the top guild they chose, or are split between guilds according to the will they made when signing up. If they had no guild, the state donates their belongings to charities within one calendar year.",
+  "t": "영혼을 아직 되살릴 수 있는 적당한 기간 안에 모험가의 시신을 찾지 못하면, 포웨이는 그 사람을 ‘영혼 사망 추정’으로 처리한다. 아무도 그 사람을 사칭하지 못하게 포웨이가 신분패를 보관하고, 그 사람이 속한 모든 길드에 통보한다: 개인 소지품과 서비스는 그 사람이 고른 최상위 길드로 넘어가거나, 가입할 때 쓴 유언에 따라 길드들 사이에 나뉜다. 길드가 없었으면 국가가 1년 안에 유품을 자선 단체에 기부한다."
+ },
+ "ae86c9f10c45": {
+  "en": "Under the Prosperity Treaty (Section #2, Sub 3), no adventurer may carry out judgment unless authorized by a Forway guard or a kingdom representative.",
+  "t": "《번영 조약》(제2조 제3항)에 따라, 어떤 모험가도 포웨이 경비병이나 왕국 대표의 허가 없이는 심판을 집행할 수 없다."
+ },
  "b295a70e0bbe": {
   "en": "To make name, contract &amp; negotiations easier, Forway implemented a naming schema that began with any kingdom child born after the prosperity treaty came into effect in 671 A.G.<br>\nNAME PLACE GUILD<br>\nNAME:<br>\n·       Given by parents when the child is born. Uniqueness and name characteristics depend on the region.<br>\nPLACE:<br>\n·       City of origin or main residence.<br>\n·       Often associated with where their primary guild is located.<br>\nGUILD:<br>\n·       If participating in multiple guilds, then any preferred of them.<br>\n·       If the guild name is described as CITY-GUILD, and the city is the current place of the badge owner, then it is not written (e.g. Itagiba Sanbi Royal vs Itagiba Sanbi Sanbi-Royal)<br>\n·       If not actively participating in any guild, this part of the name is skipped.",
   "t": "이름, 계약, 협상을 더 쉽게 하려고, 포웨이는 671 A.G.에 번영 조약이 발효된 뒤 태어난 모든 왕국 아이들부터 적용되는 명명 체계를 도입했다.<br>\n이름 장소 길드<br>\n이름:<br>\n·       아이가 태어날 때 부모가 지어 준다. 이름의 고유성과 특징은 지역에 따라 다르다.<br>\n장소:<br>\n·       출신 도시 또는 주 거주지.<br>\n·       주된 길드가 있는 곳과 관련된 경우가 많다.<br>\n길드:<br>\n·       여러 길드에 속해 있다면, 그중 원하는 아무 길드.<br>\n·       길드 이름이 “도시-길드”로 되어 있고 그 도시가 신분패 주인의 현재 장소라면, 쓰지 않는다(예: “이타지바 산비 산비-로열”이 아니라 “이타지바 산비 로열”)<br>\n·       어떤 길드에도 활동하지 않는다면, 이름의 이 부분은 생략한다."
+ },
+ "b54d71c1d1d0": {
+  "en": "<strong>Missing Person:</strong> an adventurer can retrieve the missing person's badge to confirm them, but if they lose it, they pay 10 times the quest reward or face forced labor. They have 1 week to return the badge; after that, a fine equal to the reward is added every week (up to 10 times), and a warrant is issued for their arrest. This is only allowed for adventurers doing investigations who have a good lead or information, to keep adventurers from hogging badges for no reason.",
+  "t": "<strong>실종자:</strong> 모험가는 실종자의 신분패를 회수해 신원을 확인할 수 있지만, 잃어버리면 의뢰 보상의 10배를 물거나 강제 노동을 해야 한다. 신분패를 돌려줄 기한은 1주이고, 그 뒤로는 매주 보상만큼의 벌금이 붙으며(최대 10배), 체포 영장이 발부된다. 모험가들이 이유 없이 신분패를 쥐고 있지 못하게, 좋은 단서나 정보가 있는 조사 중인 모험가에게만 허용된다."
+ },
+ "b5fc36ce3fb4": {
+  "en": "Kingdom/Guild/Business Law Compliance (secret)",
+  "t": "왕국/길드/사업 법규 준수 (비밀)"
+ },
+ "b8be3d126431": {
+  "en": "Administration",
+  "t": "행정"
+ },
+ "b96c9888e345": {
+  "en": "Where and what",
+  "t": "어디에, 무엇이"
+ },
+ "ba589d85e03d": {
+  "en": "Every contract has nullification clauses, which must be on the back.",
+  "t": "모든 계약에는 무효 조항이 있고, 반드시 뒷면에 적어야 한다."
+ },
+ "bda6c00006b4": {
+  "en": "<strong>Banking:</strong> available at any embassy. Kingdoms manage their own money instead of keeping it all in Forway City, so it stays decentralized. Withdrawals and deposits mean submitting a request and waiting a few days while the embassy confirms the funds with Forway. Loans are available, with fees depending on whether an individual or a guild is asking. Investments are possible too, but only in Forway-backed projects; individual projects go through direct contracts.",
+  "t": "<strong>은행:</strong> 어느 대사관에서나 된다. 왕국들은 돈을 몽땅 포웨이 시에 두지 않고 직접 관리해서, 분산된 상태를 유지한다. 출금과 입금은 요청서를 내고, 대사관이 포웨이와 자금을 확인하는 며칠을 기다려야 한다. 대출도 되는데, 수수료는 개인이 빌리느냐 길드가 빌리느냐에 따라 다르다. 투자도 되지만 포웨이가 보증하는 사업에만 할 수 있고, 개인 사업은 직접 계약으로 한다."
  },
  "be6206af0b70": {
   "en": "On the subject of doing no good, the building is filled with riches since that’s where the Forway taxes and banking deposits are accumulated and transferred to/from the Forway palace. However, think twice, maybe three times, about getting your grubby hands on it as the embassy land, even though it might be inside a kingdom, is still entirely under Forway’s jurisdiction. And don’t bother using your slivery tongue to talk your way out if you get caught fucking with them, as the supremacy of the Prosperity Treaty protects the embassies and the guards—even if they went as far as pulling your intestines out, wrapping your feet with it, then throwing you from the open fifth floor for an exclusive bungee jumping experience.",
@@ -103,6 +287,22 @@
   "en": "Adventurers—or as some would put it—Forway's bitches on a tight leash are akin to a decentralized army composed of freelancers. A great majority of them are either indebted to a hosting guild or a private lender for the initial seed investment to gear up or cover the revival costs, sometimes getting debts from shady backgrounds, all for a simple goal! Have a better life. Some can become indebted to Forway itself, but by that point, you're already an Aquamarine or Sapphire, and debts are part of life.<br>\nTalking about the adventurers' tiers, Forway has a firm structure of recognition, with recognitions and promotions being held on the annual Adventurer feast every Paulin 100th:<br>\nTier I - Pearl are the newcomers, prohibited from most jobs due to their lack of experience. Plus, Forway is not as willing to trust them either, so they are given menial tasks to improve their skills and specifically increase their soul energy, such as pest control or certain fauna hunting or flora gathering within or around cities, assisting civil construction, maintaining lighthouses, and area surveillance. In emergencies, they are relied upon as message spreaders to free up Forway guards and other higher-ranking adventurers to deal with the crisis itself.<br>\nTier II - Amethyst are given jobs similar to Pearls but tend to be out in the wild instead, like hunting Bagarisas. Plus, they are often used for Bounties, Bandit traps, and even some beast hunting or cargo protection. It's common to see Amethysts paired with Aquamarines since it's quite symbiotic—the Amethyst adventurer gains experience and more balls by participating in more dangerous quests while the Aquamarine saves balls as they get a higher cut of the quest.<br>\nTier III - Aquamarines are the ones who somehow survived this challenging profession long enough to have the opportunity to partake in even more dangerous quests, including participating in rescue parties for presumed dead adventurers to revive and stick them with an even more outstanding debt as revival ain't free! Some luck out with well-paid personal security jobs that mainly involve posturing around looking tough, while others are so addicted to the thrill of the fight they prefer to take bandit camps exterminations alongside Forway guards.<br>\nTier IV - Sapphires genuinely are the perfect soldiers. Their experiences alone would fill many books, so much so that it's not uncommon to have some of them turn into advisors or straight-up Forway officials when they get older. Plus, Forway itself trusts them with fully paid admission to Adventurer School if they haven't done so already, plus access to secret quests and official matters that most of their Forway guards never dreamed of being part of. It's like the old saying goes: If you see a Sapphire passing by while leading an adventurer party, then you can rest safe that they will put an end to whatever is troubling you. However, if you see a group of nothing but Sapphires, then run away as shit is about to go down.",
   "t": "모험가—아니면 누군가의 말처럼—목줄을 바짝 맨 포웨이의 개들은 프리랜서로 이루어진 분산된 군대 같은 존재다. 그들 대다수는 장비를 갖추거나 부활 비용을 대기 위한 초기 자금 때문에 후원 길드나 개인 대부업자에게 빚을 지고 있고, 가끔은 출처가 수상한 빚까지 지는데, 모두 단 하나의 목표를 위해서다! 더 나은 삶을 사는 것. 포웨이 자체에 빚을 지는 사람도 있지만, 그 정도면 이미 아쿠아마린이나 사파이어이고, 빚은 삶의 일부다.<br>\n모험가 등급에 대해 말하자면, 포웨이에는 확고한 표창 구조가 있고, 표창과 승급은 매년 파울린 100일의 모험가 연회에서 열린다:<br>\nI등급 - 펄은 신참으로, 경험이 부족해서 대부분의 일이 금지된다. 게다가 포웨이도 그들을 그다지 믿지 않으니, 실력을 늘리고 특히 영혼 에너지를 키우기 위한 자잘한 일을 맡긴다. 도시 안이나 주변의 해충 구제나 특정 동물 사냥 또는 식물 채집, 토목 공사 보조, 등대 관리, 지역 감시 같은 것들이다. 비상시에는 포웨이 경비병과 다른 상위 모험가들이 위기 자체에 대처할 수 있도록 전령으로 쓰인다.<br>\nII등급 - 애머시스트는 펄과 비슷한 일을 받지만, 바가리사 사냥처럼 주로 야외에서 하는 일이다. 게다가 현상금, 산적 함정, 심지어 일부 마수 사냥이나 화물 호위에도 자주 쓰인다. 애머시스트가 아쿠아마린과 짝을 이루는 걸 흔히 볼 수 있는데, 꽤 공생적이기 때문이다—애머시스트 모험가는 더 위험한 의뢰에 참여해 경험과 더 많은 볼을 얻고, 아쿠아마린은 의뢰 몫을 더 많이 가져가니 볼을 아낀다.<br>\nIII등급 - 아쿠아마린은 이 험난한 직업에서 어떻게든 오래 살아남아 더 위험한 의뢰에 참여할 기회를 얻은 사람들이다. 죽은 것으로 추정되는 모험가를 찾아 부활시키고, 부활은 공짜가 아니니 그들에게 더 큰 빚을 지우는 구조대에 참여하는 것도 포함된다! 강해 보이게 폼만 잡고 돌아다니면 되는 보수 좋은 개인 경호 일을 얻는 운 좋은 이들도 있고, 싸움의 스릴에 너무 중독되어 포웨이 경비병들과 함께 산적 소굴 소탕에 나서는 걸 더 좋아하는 이들도 있다.<br>\nIV등급 - 사파이어는 진정으로 완벽한 병사다. 그들의 경험만으로도 책 여러 권을 채울 수 있을 정도라, 나이가 들어 고문이 되거나 아예 포웨이 관리가 되는 경우도 드물지 않다. 게다가 포웨이는 아직 다니지 않았다면 모험가 학교 학비를 전액 지원할 만큼 그들을 신뢰하고, 대부분의 포웨이 경비병들은 꿈도 못 꿀 비밀 의뢰와 공무에도 참여시킨다. 옛말에 이런 게 있다. 사파이어가 모험가 파티를 이끌고 지나가는 걸 보면, 무엇이 널 괴롭히든 그들이 끝장내 줄 테니 안심해도 된다. 하지만 사파이어만으로 이루어진 무리를 보면, 도망쳐라. 큰일이 터지기 직전이니까."
  },
+ "c77859acbbba": {
+  "en": "Winga courier",
+  "t": "윙가 택배"
+ },
+ "c920952efbc2": {
+  "en": "Embassies were created right after the Prosperity Treaty, so Forway's influence could reach every city and kingdom involved. The area inside an embassy's marked boundary is officially Forway City territory. Forway guards are always present, and some even guard the embassy as Big Wingas (guards wearing the Big Winga nari gel).",
+  "t": "대사관은 《번영 조약》 직후에 만들어졌다. 포웨이의 영향력이 관련된 모든 도시와 왕국에 닿게 하려는 것이었다. 대사관의 표시된 경계 안쪽은 공식적으로 포웨이 시의 영토다. 포웨이 경비병이 늘 있고, 빅 윙가(빅 윙가 나리 젤을 쓴 경비병)의 모습으로 대사관을 지키는 경비병도 있다."
+ },
+ "cbfc489f2d11": {
+  "en": "<strong>4. Emergency</strong> (1 Sapphire + rewards): For when shit hits the fan, like an external invasion, or an army of Hifuna monsters marching down toward Forway. It has never happened since Forway was established, so it's a news type in theory only, and some Forway higher-ups have pushed to remove it, since keeping every embassy ready for an emergency costs resources: staffing at least a hundred adventurers with lodging, food and fighting supplies within three days, defending against a Tier X spell, etc. Posted immediately.",
+  "t": "<strong>4. 비상</strong> (사파이어 1개 + 보상): 외부 침략이나, 히푸나 괴물 군대가 포웨이를 향해 내려오는 것처럼 똥이 선풍기에 맞았을 때. 포웨이가 세워진 이래 한 번도 일어난 적이 없어서 이론상으로만 있는 뉴스 유형이고, 포웨이 고위층 일부는 없애자고 밀어붙였다. 모든 대사관을 비상에 대비시켜 두는 데 자원이 들기 때문이다: 사흘 안에 숙소, 식량, 전투 물자를 갖춘 모험가를 최소 백 명 배치하기, X등급 주문 막아 내기 등. 곧바로 게시된다."
+ },
+ "cc6785849041": {
+  "en": "Winga rest",
+  "t": "윙가 휴식처"
+ },
  "cc6a82139ccd": {
   "en": "Embassies",
   "t": "대사관"
@@ -110,6 +310,22 @@
  "cc8a16b1caa8": {
   "en": "Forway embassy at night under a green moon: the dark stone building with orange, green and blue arches and glowing windows.",
   "t": "초록 달 아래 밤의 포웨이 대사관: 주황, 초록, 파란 아치와 빛나는 창문이 있는 어두운 석조 건물."
+ },
+ "cd3d078086e3": {
+  "en": "Every embassy offers Winga courier services; kingdoms tend to run their own separate Winga couriers for more private communication (see Kingdoms).",
+  "t": "모든 대사관이 윙가 택배 서비스를 제공한다. 왕국들은 더 사적인 연락을 위해 따로 자기 윙가 택배를 운영하는 편이다(왕국 참조)."
+ },
+ "d26df437f67d": {
+  "en": "Relaying official news is part of an embassy's job. Every day around Monnalow, the local Forway captain ends their shift by going to the public square and shouting out the day's news from Forway. Weekly printouts covering the week are available at every embassy every Forrday; they're more of a thing in Tolerideme and Forway, where more people can read. Everyone else prefers the shouting (shoutcasting) or word of mouth.",
+  "t": "공식 뉴스를 전하는 것도 대사관 일이다. 매일 몬나로쯤, 지역 포웨이 대장이 근무를 마치며 광장에 나가 포웨이에서 온 그날의 뉴스를 외친다. 한 주를 정리한 주간 인쇄물은 매주 포데이에 모든 대사관에서 구할 수 있다. 글을 읽을 줄 아는 사람이 더 많은 톨레리데메와 포웨이에서 더 통한다. 나머지는 외치는 소리(샤우트캐스트)나 입소문을 더 좋아한다."
+ },
+ "d296db839336": {
+  "en": "Birth documentation and badges",
+  "t": "출생 등록과 신분패"
+ },
+ "d40297bcc286": {
+  "en": "Pearl around cities, Amethyst out in the wild",
+  "t": "도시 주변은 펄, 야외는 애머시스트"
  },
  "d5770ca38523": {
   "en": "Embassy Captains",
@@ -123,6 +339,14 @@
   "en": "Has the Buhraies castle decided to spill a bunch of undead garbage once again? Has a Kingdom official been taken hostage? Do you have a lot of money and want something done quickly, or do you want everyone to know about it? Then this is what happens when you pay out of the ass for news. Alongside the quest board and shouting at Monnalow, the captain will immediately send a shoutout across the kingdom's main cities/villages to gather all available adventurers to assist with your request (if necessary) or just shout out the news as-is.",
   "t": "부라이에스 성이 또다시 언데드 쓰레기를 잔뜩 쏟아 내기로 했나? 왕국 관리가 인질로 잡혔나? 돈이 많아서 뭔가를 빨리 해치우고 싶거나, 모두가 알게 하고 싶나? 그렇다면 이게 뉴스에 돈을 왕창 쏟아부을 때 일어나는 일이다. 의뢰 게시판과 몬나로의 발표와 함께, 대장은 즉시 왕국의 주요 도시와 마을 전체에 알림을 보내 모든 가능한 모험가를 모아 네 요청을 돕게 하거나(필요하다면), 그냥 뉴스를 있는 그대로 알린다."
  },
+ "de7b6bfa71f6": {
+  "en": "<strong>Family:</strong> \"relatives\" and \"family\" are well-known words, but last names don't exist; people use the guild in place of a family name.",
+  "t": "<strong>가족:</strong> ‘친척’과 ‘가족’은 잘 알려진 말이지만 성은 없다. 사람들은 성 대신 길드를 쓴다."
+ },
+ "df7f768ed7c5": {
+  "en": "<strong>3. Kingdom Alert</strong> (1 Aquamarine + rewards): Has the Buhraies castle spilled a bunch of undead garbage again? Has a kingdom official been taken hostage? Do you have a lot of money and want something done fast, or want everyone to know? On top of the quest board and the Monnalow shoutcast, the captain immediately sends shoutcasts across the kingdom's main cities and villages to gather every available adventurer (if needed), or just shouts the news as it is. Posting may be delayed while they investigate. Once shoutcast, it can't be taken back: the embassy can only soft-de-escalate a posted search, not shut it down. Whoever posted it can withdraw it, but has to announce the withdrawal publicly, and embarrassment follows, plus likely punishment from Forway depending on what they did. A kingdom that issues an emergency \"for the lolz\" is heavily punished, with sanctions and the withdrawal of comparative advantage rulings.",
+  "t": "<strong>3. 왕국 경보</strong> (아쿠아마린 1개 + 보상): 부라이에스 성에서 또 언데드 쓰레기가 왕창 쏟아졌나? 왕국 관리가 인질로 잡혔나? 돈이 많은데 빨리 일을 처리하고 싶거나, 모두가 알았으면 좋겠나? 의뢰 게시판과 몬나로 샤우트캐스트에 더해, 대장이 곧바로 왕국의 주요 도시와 마을에 샤우트캐스트를 보내 쓸 수 있는 모험가를 모두 모으거나(필요하면), 그냥 뉴스를 있는 그대로 외친다. 조사하는 동안 게시가 늦어질 수 있다. 일단 샤우트캐스트되면 되돌릴 수 없다: 대사관은 게시된 수색을 살살 진정시킬 수만 있고, 중단시킬 수는 없다. 게시한 사람은 철회할 수 있지만, 공개적으로 철회를 알려야 하고, 망신이 따른다. 무슨 짓을 했느냐에 따라 포웨이의 처벌도 따를 가능성이 크다. 왕국이 “재미로” 비상을 걸면 제재와 비교 우위 판정 철회로 무겁게 처벌받는다."
+ },
  "e0740d79bc1d": {
   "en": "Public text: adventurers-guilds.md",
   "t": "공개 텍스트: adventurers-guilds.md"
@@ -134,6 +358,38 @@
  "e81a8058fee5": {
   "en": "Guilds are, succinctly, officially registered families, whether bonded by blood or not. Families use it to share governance of their wealth, properties, and storage amongst the members or just to set up inheritance ahead of time to prevent infighting—or just for the sake of clout. Adventurers often do the same but share resources, especially in larger guilds. Forway storage services are cheaper than private alternatives, but they are undoubtedly the safest. Just don't expect fast turnaround times unless you pay out of the ass!",
   "t": "길드는 간단히 말해 혈연이든 아니든 공식 등록된 가족이다. 가족들은 이걸 이용해 구성원들 사이에서 재산, 부동산, 보관품을 공동으로 관리하거나, 내분을 막기 위해 상속을 미리 정해 두거나—아니면 그냥 체면 때문에 쓴다. 모험가들도 흔히 같은 걸 하는데, 특히 큰 길드에서는 자원을 공유한다. 포웨이의 보관 서비스는 민간 대안보다 싸고 확실히 가장 안전하다. 다만 돈을 왕창 내지 않는 한 빠른 처리는 기대하지 마!"
+ },
+ "eabbf7a20204": {
+  "en": "Every kingdom and major recognized city has an embassy, and they all report to the Forway City Palace. Every embassy smells of stamp wax and sweaty adventurers coming and going (sending and receiving Winga letters is one of their core jobs), and has a blackboard with the entire Prosperity Treaty carved into it in clear white lettering.",
+  "t": "모든 왕국과 주요 공인 도시에는 대사관이 있고, 모두 포웨이 시 궁전에 보고한다. 어느 대사관이든 봉인 밀랍 냄새와 드나드는 모험가들의 땀 냄새가 나고(윙가 편지를 보내고 받는 게 핵심 업무 중 하나다), 《번영 조약》 전문이 또렷한 흰 글씨로 새겨진 칠판이 있다."
+ },
+ "ec8af1bc5379": {
+  "en": "How do you stop someone from getting a second badge at another embassy? Forway has specialized Wingas fly samples of people's blood, mixed with ground nari stone, from every corner of the world to Forway, where the central soul repository is. Running it is such a behemoth of a cost that it would be far too much for any single kingdom. A central repository also makes it possible to identify a corpse mangled beyond recognition, found by the side of the road.",
+  "t": "다른 대사관에서 신분패를 또 받는 걸 어떻게 막을까? 포웨이는 특수 훈련된 윙가를 시켜, 곱게 간 나리석을 섞은 사람들의 피 샘플을 세상 구석구석에서 중앙 영혼 보관소가 있는 포웨이로 날려 보낸다. 운영비가 어마어마해서, 어느 한 왕국이 감당하기에는 턱없이 많다. 중앙 보관소가 있으면 길가에서 발견된, 알아볼 수 없을 만큼 짓이겨진 시체의 신원도 밝힐 수 있다."
+ },
+ "eca701b5e1d8": {
+  "en": "Quests",
+  "t": "의뢰"
+ },
+ "f0157ca3ea5c": {
+  "en": "From, To and the embassy name are written in white ink (sometimes another color when needed).",
+  "t": "보내는 사람, 받는 사람, 대사관 이름은 흰 잉크로 쓴다(필요하면 다른 색으로 쓰기도 한다)."
+ },
+ "f33ef084da82": {
+  "en": "Minimum rank",
+  "t": "최소 계급"
+ },
+ "f34a64383f8d": {
+  "en": "Missing Person (in some places, including boat and person rescue)",
+  "t": "실종자 (어떤 곳에서는 배와 사람 구조 포함)"
+ },
+ "f904d495cf31": {
+  "en": "People moving contract-bound individuals carry their contracts, plus a letter for the Forway officials inspecting cargo, stating who is contracted to deliver whom.",
+  "t": "계약에 묶인 사람을 옮기는 이들은 그들의 계약서와 함께, 화물을 검사하는 포웨이 관리들에게 보일 편지를 지닌다. 누가 누구를 넘기기로 계약했는지 적힌 편지다."
+ },
+ "fc3f866f9f74": {
+  "en": "Contracts need the blood signature of everyone involved, mixed with nari on signing. There are no household crests on documents: the blood signature is the seal, and a contract made on someone's behalf needs that person's blood.",
+  "t": "계약에는 관련된 모두의 피 서명이 필요하고, 서명할 때 나리와 섞는다. 문서에 가문 문장은 없다: 피 서명이 곧 인장이고, 누군가를 대신해 맺는 계약에는 그 사람의 피가 필요하다."
  },
  "fdb31a2c3dee": {
   "en": "Type 4: Emergency",

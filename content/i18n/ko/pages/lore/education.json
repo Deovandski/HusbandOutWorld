@@ -3,20 +3,116 @@
   "en": "2 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "이 페이지의 항목 2개는 <button class=\"linklike\" data-go-bts>비하인드</button>에서만 볼 수 있습니다."
  },
+ "0524b04b9a36": {
+  "en": "<strong>Clothing:</strong> depends on the school. Some have a standard (cooking, adventuring, blacksmithing, etc.); others are more laid-back (Soul Energy, accounting, tailoring, etc.).",
+  "t": "<strong>옷차림:</strong> 학교에 따라 다르다. 표준 복장이 있는 곳도 있고(요리, 모험가, 대장장이 등), 더 자유로운 곳도 있다(영혼 에너지, 회계, 재봉 등)."
+ },
+ "1a26de7c4914": {
+  "en": "<strong>Cost:</strong> 5 Sapphire for the whole program, including a room and simple meals: breakfast at Sunnilow and a late lunch at Sunnohigh (some students don't eat after that).",
+  "t": "<strong>비용:</strong> 과정 전체에 사파이어 5개. 방과 간단한 식사 포함: 순니로에 아침, 순노하이에 늦은 점심(그 뒤로는 안 먹는 학생도 있다)."
+ },
  "1e64df84f612": {
   "en": "Summary written by AI from the author's notes (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Education.md\">Education.md</a>). <a href=\"/about/ai-disclosure/\">AI disclosure</a>",
   "t": "작가의 노트(<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Education.md\">Education.md</a>)를 바탕으로 AI가 작성한 요약입니다. <a href=\"/about/ai-disclosure/\">AI 사용 안내</a>"
+ },
+ "242ff14546d8": {
+  "en": "<strong>Combat School (#E7):</strong> close-quarters combat with swords or clubs, shields, bows, etc. It's tailored to guards, but some make the jump to adventuring instead.",
+  "t": "<strong>전투 학교 (#E7):</strong> 검이나 곤봉, 방패, 활 등을 쓰는 근접 전투. 경비병에 맞춘 과정이지만, 대신 모험가로 넘어가는 사람도 있다."
+ },
+ "2e8097a4f434": {
+  "en": "<strong>Soul Energy School (#E9):</strong> Soul Energy and every available interface, while students grow their soul so they don't have to rely on nari stones. It's mostly research, for people who love Soul Energy but are afraid of becoming adventurers. Some study it to research on the go, or to find new niches that make money by supporting parties.",
+  "t": "<strong>영혼 에너지 학교 (#E9):</strong> 영혼 에너지와 쓸 수 있는 모든 인터페이스를 배우면서, 나리석에 기대지 않아도 되도록 영혼을 키운다. 대부분 연구라서, 영혼 에너지를 사랑하지만 모험가가 되기는 무서운 사람들이 다닌다. 돌아다니며 연구하려고, 혹은 파티를 지원해 돈을 버는 새 틈새를 찾으려고 공부하는 사람도 있다."
+ },
+ "3778b6c22900": {
+  "en": "<strong>Accounting School (#E4):</strong> trading, bookkeeping and everything related.",
+  "t": "<strong>회계 학교 (#E4):</strong> 교역, 장부 정리, 그리고 관련된 모든 것."
+ },
+ "6ac279a7e14a": {
+  "en": "<strong>Cost:</strong> about 1 Aquamarine, paid to your local school. Some places do it differently:\n<ul>\n<li><strong>Gandew:</strong> free for Darfaries children (among many other free things, like Wooly Gyut Milk), who are trained heavily in the Gandew ways of living.</li>\n<li><strong>Tolerideme:</strong> meals at the fundamental school are free for citizens.</li>\n<li><strong>Tastyleaf:</strong> Forway provides it free to citizens who sign a contract to stay on Tastyleaf for the rest of their lives, to give the tree some protection.</li>\n<li><strong>Sanbi:</strong> not required, but not paid for by the kingdom either, so fewer children go than in other kingdoms.</li>\n</ul>\n",
+  "t": "<strong>비용:</strong> 아쿠아마린 1개쯤, 자기 지역 학교에 낸다. 방식이 다른 곳도 있다:\n<ul>\n<li><strong>간듀:</strong> 다르파리에스 아이들은 무료다(울리 귯 우유처럼 공짜인 게 그 밖에도 많다). 간듀식 생활 방식을 혹독하게 훈련받는다.</li>\n<li><strong>톨레리데메:</strong> 시민은 기초 학교 급식이 무료다.</li>\n<li><strong>테이스티리프:</strong> 평생 테이스티리프에 머물겠다는 계약에 서명한 시민에게 포웨이가 무료로 제공한다. 나무를 좀 지키게 하려는 것이다.</li>\n<li><strong>산비:</strong> 의무는 아니지만 왕국이 비용을 대 주지도 않아서, 다른 왕국보다 다니는 아이가 적다.</li>\n</ul>"
+ },
+ "6ac7aee63760": {
+  "en": "<strong>Tailoring School (#E2):</strong> the craft of making and repairing clothing.",
+  "t": "<strong>재봉 학교 (#E2):</strong> 옷을 만들고 고치는 기술."
+ },
+ "6e325aafc244": {
+  "en": "<strong>Adventurer School (#E8):</strong> how Forway uses adventurers, and how best to keep the peace under Forway's control of the region: for example, a deep understanding of how each kingdom behaves, and threats not disclosed to the public. Usually taken together with Combat School or Soul Energy School.",
+  "t": "<strong>모험가 학교 (#E8):</strong> 포웨이가 모험가를 어떻게 쓰는지, 그리고 포웨이가 이 지역을 통제하는 아래에서 평화를 가장 잘 지키는 법: 이를테면 각 왕국이 어떻게 행동하는지에 대한 깊은 이해, 대중에게 공개되지 않은 위협 같은 것. 보통 전투 학교나 영혼 에너지 학교와 함께 다닌다."
  },
  "728054813456": {
   "en": "Education · #HusbandOutWorld",
   "t": "교육 · #HusbandOutWorld"
  },
+ "7603c3c432a3": {
+  "en": "Education (World Lore illustration)",
+  "t": "교육 (세계관 삽화)"
+ },
+ "7942ebebaeab": {
+  "en": "<strong>Construction School (#E3):</strong> construction; students are trained to be construction managers.",
+  "t": "<strong>건축 학교 (#E3):</strong> 건축. 학생들은 건설 관리자로 훈련받는다."
+ },
+ "7fd190337ff0": {
+  "en": "<strong>Length:</strong> 5 years.",
+  "t": "<strong>기간:</strong> 5년."
+ },
+ "83d292d63cb9": {
+  "en": "Specialized School",
+  "t": "전문 학교"
+ },
+ "8c4ab294987c": {
+  "en": "<strong>Length:</strong> about 4 years. Adventurer School takes only half a year.",
+  "t": "<strong>기간:</strong> 4년쯤. 모험가 학교는 반년이면 된다."
+ },
+ "8c84bf0253cc": {
+  "en": "<strong>Clothing:</strong> depends on the kingdom. In cities coordinated by Forway, children wear the standard clothing below.",
+  "t": "<strong>옷차림:</strong> 왕국에 따라 다르다. 포웨이가 조율하는 도시에서는 아이들이 아래의 표준 복장을 입는다."
+ },
+ "90bc8f3e8b5b": {
+  "en": "<strong>Skipping it:</strong> anyone can take a replacement test at any school instead, to prove they have the fundamental knowledge.",
+  "t": "<strong>건너뛰기:</strong> 누구나 어느 학교에서든 대체 시험을 쳐서 기초 지식이 있음을 증명할 수 있다."
+ },
+ "9830e3cc108a": {
+  "en": "<strong>After school:</strong> graduates start working as apprentices at around 16 and usually stay apprentices for about 10 years, becoming masters at around 26.",
+  "t": "<strong>졸업 후:</strong> 졸업생은 열여섯 살쯤 견습으로 일하기 시작해 보통 10년쯤 견습으로 지내고, 스물여섯 살쯤 장인이 된다."
+ },
+ "9a64f444a080": {
+  "en": "<strong>Who goes:</strong> children from Profession Tiers III to VI usually start at around age 6. Children from Tiers I and II become apprentices in the same line of work instead, until they're promoted to masters at around 18, though most of them still attend classes.",
+  "t": "<strong>다니는 사람:</strong> 직업 등급 III~VI의 아이들은 보통 여섯 살쯤 시작한다. I·II등급의 아이들은 대신 같은 일의 견습이 되어 열여덟 살쯤 장인으로 승급할 때까지 일하지만, 그래도 대부분은 수업을 듣는다."
+ },
  "a0bf2966c530": {
   "en": "Children learn reading and basic math in five years of fundamental school. After that, some go on to one of the specialized schools in Forway City, which teach cooking, tailoring, construction, accounting, history and teaching, blacksmithing, combat, adventuring and soul energy. Most specialized programs take about four years and cost 5 sapphires, room and simple meals included. Graduates then spend about ten years as apprentices before becoming masters.",
   "t": "아이들은 5년간의 기초 학교에서 읽기와 기초 수학을 배운다. 그 뒤 일부는 포웨이 시의 전문 학교 중 하나에 진학하는데, 요리, 재봉, 건축, 회계, 역사와 교육, 대장장이 일, 전투, 모험, 영혼 에너지를 가르친다. 대부분의 전문 과정은 약 4년이 걸리고, 숙소와 간단한 식사를 포함해 사파이어 5개가 든다. 졸업생은 그 뒤 약 10년 동안 견습생으로 일한 뒤에야 장인이 된다."
  },
+ "a0ceb59a8bfb": {
+  "en": "<strong>Historian/Teaching School (#E5):</strong> the kingdom's history, and teaching. Archaeologists often pair up with adventurers.",
+  "t": "<strong>역사/교육 학교 (#E5):</strong> 왕국의 역사, 그리고 가르치는 일. 고고학자는 모험가와 짝을 짓는 일이 많다."
+ },
+ "af49faf0cd18": {
+  "en": "<strong>Cooking School (#E1):</strong> cooking, including how to detect poisonous food.",
+  "t": "<strong>요리 학교 (#E1):</strong> 요리, 그리고 독 든 음식을 알아내는 법까지."
+ },
+ "b86d443a51d1": {
+  "en": "Fundamental School",
+  "t": "기초 학교"
+ },
+ "c833faf604b7": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Education.md\">Legacy/Behind The Scenes/World Lore/Education.md</a>",
+  "t": "출처: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Education.md\">Legacy/Behind The Scenes/World Lore/Education.md</a>"
+ },
+ "cf1d887f45e0": {
+  "en": "Every kingdom and city has fundamental schools, where children learn reading and basic math.",
+  "t": "모든 왕국과 도시에 기초 학교가 있어서, 아이들이 읽기와 기초 수학을 배운다."
+ },
+ "d6c6e96d5675": {
+  "en": "After fundamental school, children may go on to a specialized school. All nine are in Forway City:",
+  "t": "기초 학교를 마친 아이들은 전문 학교에 갈 수 있다. 아홉 곳 모두 포웨이 시에 있다:"
+ },
  "e2231803fbe3": {
   "en": "Children learn reading and basic math in five years of fundamental school.",
   "t": "아이들은 5년간의 기초 학교에서 읽기와 기초 수학을 배운다."
+ },
+ "f99762f37c73": {
+  "en": "<strong>Blacksmithing School (#E6):</strong> smithing in the material the student wants, such as Darkwood, Bone or Iron.",
+  "t": "<strong>대장장이 학교 (#E6):</strong> 학생이 원하는 재료, 이를테면 다크우드, 뼈, 철로 하는 대장일."
  }
 }

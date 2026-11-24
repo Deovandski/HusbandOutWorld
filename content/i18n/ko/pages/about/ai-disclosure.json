@@ -23,6 +23,10 @@
   "en": "PRs are welcome, with or without AI help. If you used AI for a contribution, say so in the PR description and add a line to the table above.",
   "t": "AI의 도움을 받았든 아니든 PR을 환영합니다. 기여에 AI를 사용했다면 PR 설명에 그렇게 적고, 위의 표에 한 줄을 추가해 주세요."
  },
+ "227ad95d5503": {
+  "en": "content/bts",
+  "t": "content/bts"
+ },
  "23eebfe076f3": {
   "en": "<strong>Shortened and paraphrased</strong> them into one-paragraph public summaries, because the blog never had pages for these topics. No new facts. Each summary is labeled on the website as AI-written.",
   "t": "블로그에 이 주제들의 페이지가 없었기 때문에, 한 단락짜리 공개 요약으로 <strong>줄이고 바꿔 썼습니다</strong>. 새로운 사실은 없습니다. 각 요약은 웹사이트에 AI가 썼다고 표시되어 있습니다."
@@ -259,6 +263,14 @@
   "en": "content/summaries.json",
   "t": "content/summaries.json"
  },
+ "c43f5ab5035a": {
+  "en": "<strong>Written by the AI</strong> with the author: the abridged Behind The Scenes text the website shows (grammar fixed, brain dumps turned into readable prose and lists, gaps filled only from other Legacy sources or the author's answers). Every question asked, every answer (in the author's words), every filled gap with its source and every discrepancy is recorded in <a href=\"content/bts/qa\">content/bts/qa</a>, one file per Legacy doc. The Glossary's Behind The Scenes descriptions are taken from this abridged text. The raw notes in Legacy are unchanged; where the author ruled a correction or addition \"official\", it shows in the raw notes on the website as a display-only fix in <a href=\"content/fixes.json\">content/fixes.json</a>.",
+  "t": "작가와 함께 <strong>AI가 작성</strong>: 웹사이트에 표시되는 요약된 비하인드 텍스트(문법 수정, 두서없는 메모를 읽기 쉬운 글과 목록으로 정리, 빈틈은 다른 Legacy 자료나 작가의 답변으로만 채움). 모든 질문, (작가의 말 그대로의) 모든 답변, 출처와 함께 채운 모든 빈틈, 모든 불일치는 Legacy 문서마다 한 파일씩 <a href=\"content/bts/qa\">content/bts/qa</a>에 기록되어 있습니다. 용어집의 비하인드 설명은 이 요약 텍스트에서 가져옵니다. Legacy의 원본 노트는 바뀌지 않았으며, 작가가 수정이나 추가를 “공식”으로 정한 경우에는 웹사이트의 원본 노트에 <a href=\"content/fixes.json\">content/fixes.json</a>의 표시 전용 수정으로 나타납니다."
+ },
+ "c92dbea049c4": {
+  "en": "<strong>The website shows the author's own words.</strong> The novel chapters and the public descriptions (from the old blog) are displayed as written, and so are the Behind The Scenes notes that haven't been abridged yet. The AI's job was to arrange them, not to rewrite them. The exception: Behind The Scenes notes that have been <strong>abridged</strong> (see <code>content/bts</code> below) are an AI-assisted rewrite of the author's raw notes into readable form, labeled as such on every section, with the raw notes one click away.",
+  "t": "<strong>웹사이트는 작가 본인의 글을 보여줍니다.</strong> 소설 챕터와 (옛 블로그의) 공개 설명은 쓰인 그대로 표시되며, 아직 요약되지 않은 비하인드 노트도 마찬가지입니다. AI의 역할은 그것들을 정리하는 것이지, 다시 쓰는 것이 아니었습니다. 예외: <strong>요약된</strong> 비하인드 노트(아래 <code>content/bts</code> 참조)는 작가의 원본 노트를 읽기 쉬운 형태로 AI의 도움을 받아 다시 쓴 것으로, 모든 섹션에 그렇게 표시되어 있으며 원본 노트는 클릭 한 번이면 볼 수 있습니다."
+ },
  "ca17d9e86677": {
   "en": "Modeled on the questions in IBM's <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> (what AI was used, what it contributed, how much humans shaped it, and who is accountable):",
   "t": "IBM의 <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a>에 나오는 질문(어떤 AI를 사용했는지, 무엇을 기여했는지, 사람이 얼마나 다듬었는지, 누가 책임지는지)을 본떴습니다:"
@@ -278,6 +290,10 @@
  "e8ebc8d12782": {
   "en": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter), for the structured data in each page",
   "t": "각 페이지의 구조화된 데이터를 위한 <a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a>(BookSeries, Book, Chapter)"
+ },
+ "f1afd477240d": {
+  "en": "The raw Behind The Scenes notes in Legacy, the published novels, and the author's answers to the AI's questions.",
+  "t": "Legacy의 원본 비하인드 노트, 출간된 소설, 그리고 AI의 질문에 대한 작가의 답변."
  },
  "f5234aaefa0e": {
   "en": "Eight Behind The Scenes docs: World Timeline, Villages, Land, Professions, Education, Sports, Novels, Natural and Crafted Resources (human).",

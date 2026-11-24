@@ -1,87 +1,751 @@
 {
+ "00640566f143": {
+  "en": "Boilfeel",
+  "t": "보일필"
+ },
+ "00f84293c735": {
+  "en": "Largeadi",
+  "t": "라지아디"
+ },
+ "0327058117a2": {
+  "en": "Monnolow",
+  "t": "몬노로"
+ },
+ "067cecfa46a5": {
+  "en": "10 g",
+  "t": "10g"
+ },
+ "072dd1aa11aa": {
+  "en": "800 to 1,000 ºC",
+  "t": "800~1,000ºC"
+ },
+ "082bc378cd60": {
+  "en": "Month",
+  "t": "달"
+ },
+ "08d62754f0ec": {
+  "en": "Δ0 km*",
+  "t": "Δ0km*"
+ },
+ "095b5fb3dcd7": {
+  "en": "1 kg",
+  "t": "1kg"
+ },
+ "098d63035968": {
+  "en": "Lead Meltfeel",
+  "t": "납 멜트필"
+ },
  "09df91ed37ab": {
   "en": "To read the Time Keeper properly, start from the bottom (6 o’clock), where the separation between yellow and navy blue sections represents sunrise. The entire yellow chunk is Sunna, equivalent to a timehunk, or about three hours. The Vraki writing within it breaks down the timehunk into half timehunks called Sunnalow and Sunnahigh.",
   "t": "타임 키퍼를 제대로 읽으려면 아래쪽(6시 방향)에서 시작하는데, 노란 구역과 남색 구역의 경계가 해돋이를 나타낸다. 노란 덩어리 전체가 순나로, timehunk 하나, 약 세 시간에 해당한다. 그 안의 브라키 문자는 timehunk를 순나로와 순나하이라는 반 timehunk로 나눈다."
+ },
+ "0a4171b127ab": {
+  "en": "Weekend",
+  "t": "주말"
+ },
+ "0a8b0e6ef0fd": {
+  "en": "-15 ºC",
+  "t": "-15ºC"
+ },
+ "0d3ae782c548": {
+  "en": "Sunnohigh",
+  "t": "순노하이"
+ },
+ "0db1b7a0dfab": {
+  "en": "Vraki unit",
+  "t": "브라키 단위"
+ },
+ "0dfd35b99042": {
+  "en": "<strong>The months</strong> are named after the three courtroom scientists, plus the man who kickstarted the rebellion that led to the Prosperity Treaty (Freeish Paulin):",
+  "t": "<strong>달</strong>의 이름은 세 궁정 과학자, 그리고 《번영 조약》으로 이어진 반란을 시작한 남자(프리이시 파울린)에게서 따왔다:"
+ },
+ "0fb90882f795": {
+  "en": "6:00 to 7:30 pm",
+  "t": "오후 6:00~7:30"
+ },
+ "1097b553dcf8": {
+  "en": "Night",
+  "t": "밤"
+ },
+ "1184a7d28d1a": {
+  "en": "1:30 to 3:00 am",
+  "t": "오전 1:30~3:00"
+ },
+ "11c2a61f1901": {
+  "en": "80 to 100 ºC",
+  "t": "80~100ºC"
+ },
+ "12d9ddc7883a": {
+  "en": "Δ is the height above the sea.",
+  "t": "Δ는 해발 높이다."
+ },
+ "15b3dc66acf0": {
+  "en": "Brass Meltfeel",
+  "t": "황동 멜트필"
  },
  "160e1e286a9e": {
   "en": "050 (images illustration)",
   "t": "050 (삽화)"
  },
+ "185e83377611": {
+  "en": "25 ºC",
+  "t": "25ºC"
+ },
+ "18f6ba55b582": {
+  "en": "Soreblood",
+  "t": "소레블러드"
+ },
+ "19ee7b45b717": {
+  "en": "Warmfeel",
+  "t": "웜필"
+ },
+ "1aac4c4313ef": {
+  "en": "0 ºC",
+  "t": "0ºC"
+ },
+ "1c1b51cb273d": {
+  "en": "60 to 80 ºC",
+  "t": "60~80ºC"
+ },
+ "1c6abfa41006": {
+  "en": "-10 ºC",
+  "t": "-10ºC"
+ },
  "1d25c0f1357e": {
   "en": "Time, Calendar &amp; Units",
   "t": "시간, 달력과 단위"
+ },
+ "1d5aed97e212": {
+  "en": "200 to 400 ºC",
+  "t": "200~400ºC"
  },
  "1d5f0fb7e72e": {
   "en": "On every Asa 1st, Forway also releases a lunar mapping for Hunters, farmers, adventurers, and others that depend on the lunar phases to gauge environmental tendencies for a measly twenty pearls.",
   "t": "매년 아사 1일, 포웨이는 달의 위상으로 환경의 흐름을 가늠하는 사냥꾼, 농부, 모험가 등을 위해 고작 펄 20개에 달 지도도 발행한다."
  },
+ "1ec76278c94b": {
+  "en": "Δ8 km",
+  "t": "Δ8km"
+ },
+ "1f5b5fdf4102": {
+  "en": "1 mL",
+  "t": "1mL"
+ },
+ "24615d93d230": {
+  "en": "Winter",
+  "t": "겨울"
+ },
+ "25d38a0fc40a": {
+  "en": "Half Timehunk",
+  "t": "timehunk 반"
+ },
+ "27cba1e2173f": {
+  "en": "Tinyadi",
+  "t": "타이니아디"
+ },
+ "27d882d46a38": {
+  "en": "Seasons",
+  "t": "계절"
+ },
+ "2b13b43ff8d5": {
+  "en": "Tolerideme, the second kingdom to join",
+  "t": "두 번째로 합류한 왕국, 톨레리데메"
+ },
+ "2d51499cc55a": {
+  "en": "1 cm",
+  "t": "1cm"
+ },
+ "2df7b525a980": {
+  "en": "Asa (Spring)",
+  "t": "아사 (봄)"
+ },
+ "31f678daf2ab": {
+  "en": "Forway City created and standardized the calendar (see the World Timeline). Every Asa 1st, Forway also releases a lunar mapping, for a measly twenty pearls, for hunters, farmers, adventurers and anyone else who reads the lunar phases to gauge environmental tendencies.",
+  "t": "포웨이 시가 달력을 만들고 표준화했다(세계 연표 참조). 매년 아사 1일, 포웨이는 사냥꾼, 농부, 모험가, 그리고 달의 위상으로 환경의 흐름을 가늠하는 모든 이를 위해 단돈 20펄에 달 지도도 낸다."
+ },
+ "3239b0395e71": {
+  "en": "Sunnulow",
+  "t": "순누로"
+ },
+ "32d4ee6d2347": {
+  "en": "<strong>Guild:</strong> the guild's name; if they're in several guilds, any of them. If they're in no guild, this part is skipped. When the guild is named CITY-GUILD and the city is already the badge owner's place, the city isn't written twice: Itagiba Sanbi Royal, not Itagiba Sanbi Sanbi-Royal.",
+  "t": "<strong>길드:</strong> 길드 이름. 여러 길드에 속해 있으면 그중 아무거나. 길드가 없으면 이 부분은 빠진다. 길드 이름이 도시-길드이고 그 도시가 이미 신분패 주인의 장소라면, 도시를 두 번 쓰지 않는다: 이타지바 산비 산비-로열이 아니라 이타지바 산비 로열."
+ },
+ "331b99f024a7": {
+  "en": "<strong>Place:</strong> the city of origin or main residence, often where the person's main guild is.",
+  "t": "<strong>장소:</strong> 출신 도시나 주 거주지로, 그 사람의 주 길드가 있는 곳인 경우가 많다."
+ },
  "33c3abe62dd5": {
   "en": "Sunnalow, Sunnahigh, Sunnilow, Sunnihigh, Sunnolow, Sunnohigh, Sunnulow, Sunnuhigh.",
   "t": "순나로, 순나하이, 순니로, 순니하이, 순노로, 순노하이, 순누로, 순누하이."
+ },
+ "342b21d5b1e2": {
+  "en": "45 minutes",
+  "t": "45분"
+ },
+ "36011c46dc52": {
+  "en": "Monnilow",
+  "t": "몬니로"
  },
  "3764c59684cf": {
   "en": "5 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "이 페이지의 항목 5개는 <button class=\"linklike\" data-go-bts>비하인드</button>에서만 볼 수 있습니다."
  },
+ "3951fbf20b84": {
+  "en": "Name Schema",
+  "t": "이름 체계"
+ },
+ "3b18e8e33250": {
+  "en": "Volume",
+  "t": "부피"
+ },
+ "3beb3c2a430e": {
+  "en": "Magnesium Meltfeel",
+  "t": "마그네슘 멜트필"
+ },
+ "3c5674635b4b": {
+  "en": "9:00 to 10:30 pm",
+  "t": "오후 9:00~10:30"
+ },
+ "3d8f75b6b7c3": {
+  "en": "Adrian (Winter)",
+  "t": "아드리안 (겨울)"
+ },
+ "3e62b97e840c": {
+  "en": "Adrian (the same courtroom scientist who helped create the calendar) standardized every unit of measure. He was from Tolerideme, and the units' accuracy comes from Tolerideme's culture and its desire to standardize. Adrian also loved hunting, especially near Blood, so the units are named after it: Sorebone, for example, comes from \"Soreno bones\".",
+  "t": "아드리안(달력을 만드는 데 힘을 보탠 바로 그 궁정 과학자)이 모든 측정 단위를 표준화했다. 그는 톨레리데메 출신이고, 단위의 정확함은 톨레리데메의 문화와 표준화하려는 욕구에서 나왔다. 아드리안은 사냥, 특히 블러드 근처에서의 사냥도 아주 좋아해서, 단위 이름을 거기서 따왔다: 이를테면 소레본은 ‘소레노 뼈’에서 왔다."
+ },
  "3e90f4f9258f": {
   "en": "Going clockwise from the start (6 o’clock), you would read out the time as follows:",
   "t": "시작점(6시 방향)에서 시계 방향으로 가면서 시각을 이렇게 읽는다:"
+ },
+ "3fe7e14f9c72": {
+  "en": "Monnihigh",
+  "t": "몬니하이"
+ },
+ "405f9861c810": {
+  "en": "Vraki UOM",
+  "t": "브라키 측정 단위"
  },
  "40819a282455": {
   "en": "Each day of the week is named after one of the respective kingdoms, with Forrday being named after Forway and declared the end of the week (weekend).",
   "t": "요일은 각 왕국의 이름을 땄고, 포데이는 포웨이에서 따와 한 주의 끝(주말)으로 정해졌다."
  },
+ "423208095dd7": {
+  "en": "Distance",
+  "t": "거리"
+ },
+ "46026dc598fa": {
+  "en": "9:00 to 10:30 am",
+  "t": "오전 9:00~10:30"
+ },
+ "463e2c643444": {
+  "en": "Hotfeel",
+  "t": "핫필"
+ },
+ "464e77c2b377": {
+  "en": "Day &amp; Night",
+  "t": "낮 &amp; 밤"
+ },
+ "4668d10a06bb": {
+  "en": "1 m",
+  "t": "1m"
+ },
  "473e4c41cb04": {
   "en": "The edge between red and light green (12 o’clock) represents sundown, and if you continue to read out clockwise, the half timehunks are:",
   "t": "빨간색과 연두색의 경계(12시 방향)는 해넘이를 나타내며, 계속 시계 방향으로 읽으면 반 timehunk는 다음과 같다:"
+ },
+ "4b89709e3579": {
+  "en": "Δ6 km",
+  "t": "Δ6km"
+ },
+ "4ca980c6077f": {
+  "en": "Monnalow",
+  "t": "몬나로"
  },
  "4d39b159c4d0": {
   "en": "Kingdom’s culture over how close they keep track of their Time Keepers varies substantially. The most common example is that Sanbians are rarely on time, while Toleridemians are unnecessarily punctual.",
   "t": "타임 키퍼를 얼마나 정확히 지키는지는 왕국의 문화에 따라 크게 다르다. 가장 흔한 예로, 산비 사람들은 거의 시간을 지키지 않고, 톨레리데메 사람들은 쓸데없이 시간을 칼같이 지킨다."
  },
+ "4d8b36b2cab2": {
+  "en": "Δ4 km",
+  "t": "Δ4km"
+ },
+ "5003a5790b63": {
+  "en": "Sunnalow",
+  "t": "순나로"
+ },
  "5179743b6fd7": {
   "en": "Vraki Calendar &amp; Birth Age",
   "t": "브라키 달력과 출생 나이"
+ },
+ "522469bfc43d": {
+  "en": "<strong>A week</strong> has 5 days, each named after a kingdom (or Forway):",
+  "t": "<strong>1주</strong>는 5일이고, 날마다 왕국(또는 포웨이)의 이름을 땄다:"
+ },
+ "533ab897774d": {
+  "en": "Adi",
+  "t": "아디"
+ },
+ "54b569290e9a": {
+  "en": "2. Tollday",
+  "t": "2. 톨데이"
+ },
+ "557f1d12eb9c": {
+  "en": "600 to 800 ºC",
+  "t": "600~800ºC"
+ },
+ "55b9dbfb57a2": {
+  "en": "Smalladi",
+  "t": "스몰아디"
+ },
+ "55bfabd5ca83": {
+  "en": "Zinc Meltfeel",
+  "t": "아연 멜트필"
+ },
+ "5801218a701d": {
+  "en": "3:00 to 4:30 pm",
+  "t": "오후 3:00~4:30"
+ },
+ "580b511c179b": {
+  "en": "6:00 to 7:30 am",
+  "t": "오전 6:00~7:30"
+ },
+ "5815f22f5440": {
+  "en": "Adrian",
+  "t": "아드리안"
+ },
+ "5866b42f41c2": {
+  "en": "Nobody knows how old the planet is, but it's estimated to be billions of years old. The world map made by the Four Kingdoms covers the southern part of the planet.",
+  "t": "행성이 얼마나 오래됐는지는 아무도 모르지만, 수십억 년으로 추정된다. 네 왕국이 만든 세계 지도는 행성의 남쪽 부분을 다룬다."
  },
  "599fa08312b8": {
   "en": "The Vraki calendar was adopted as the official calendar when The Prosperity Treaty was signed.",
   "t": "브라키 달력은 《번영 조약》이 체결될 때 공식 달력으로 채택되었다."
  },
+ "5b15093d169f": {
+  "en": "7:30 to 9:00 pm",
+  "t": "오후 7:30~9:00"
+ },
+ "5bc9fb0a1a2d": {
+  "en": "1,500 ºC and up",
+  "t": "1,500ºC 이상"
+ },
+ "5c1ae82c2954": {
+  "en": "Fall",
+  "t": "가을"
+ },
+ "5c3702a61c8e": {
+  "en": "Work day",
+  "t": "일하는 날"
+ },
+ "5ee6a94131da": {
+  "en": "Sanbi, the third",
+  "t": "세 번째, 산비"
+ },
+ "612ffc7bff03": {
+  "en": "World Map, Name, Vraki Calendar & UOM, etc (World Lore illustration)",
+  "t": "세계 지도, 이름, 브라키 달력 & 측정 단위 등 (세계관 삽화)"
+ },
+ "61ef45277576": {
+  "en": "1 g",
+  "t": "1g"
+ },
+ "62255f5671e8": {
+  "en": "Season",
+  "t": "계절"
+ },
+ "6265176cc349": {
+  "en": "<strong>A year</strong> has 4 months, 73 weeks and 365 days.",
+  "t": "<strong>1년</strong>은 4개월, 73주, 365일이다."
+ },
+ "63c727b431e1": {
+  "en": "noon to 1:30 pm",
+  "t": "정오~오후 1:30"
+ },
+ "63d26e829107": {
+  "en": "3 hours",
+  "t": "3시간"
+ },
+ "683e7e78122c": {
+  "en": "Chakiblood",
+  "t": "차키블러드"
+ },
+ "69c0b81540bd": {
+  "en": "Weight",
+  "t": "무게"
+ },
+ "6a849eea10ba": {
+  "en": "5 ºC",
+  "t": "5ºC"
+ },
  "6a997a7b9c20": {
   "en": "Public text: time-calendar.md",
   "t": "공개 텍스트: time-calendar.md"
+ },
+ "6b21fb791ac0": {
+  "en": "About",
+  "t": "대략"
  },
  "6b28109e511a": {
   "en": "The start of the calendar is determined by the fall of Ganyrami; hence this new era is called After Ganyrami (A.G.), and everything prior to it is called Before Ganyrami (B.G.)",
   "t": "달력의 시작은 가니라미의 몰락으로 정해진다. 그래서 이 새 시대를 가니라미 이후(A.G.)라 부르고, 그 이전은 모두 가니라미 이전(B.G.)이라 부른다."
  },
+ "6bc4eb60f3d6": {
+  "en": "1.5 hours",
+  "t": "1.5시간"
+ },
+ "6c82e6dd8680": {
+  "en": "Time",
+  "t": "시간"
+ },
+ "6cdd71655f64": {
+  "en": "Sunnuhigh",
+  "t": "순누하이"
+ },
+ "6e6edbd4ce19": {
+  "en": "Δ2 km",
+  "t": "Δ2km"
+ },
+ "6fa4f2555fc3": {
+  "en": "5. Forrday",
+  "t": "5. 포데이"
+ },
+ "754bd3e319de": {
+  "en": "11.25 minutes",
+  "t": "11.25분"
+ },
+ "786808fab79b": {
+  "en": "Gold Meltfeel",
+  "t": "금 멜트필"
+ },
+ "79c629b0c7b8": {
+  "en": "<strong>Name:</strong> given by the parents at birth. How unique names are, and what they sound like, varies by region.",
+  "t": "<strong>이름:</strong> 태어날 때 부모가 지어 준다. 이름이 얼마나 독특한지, 어떻게 들리는지는 지역마다 다르다."
+ },
+ "7b9d5cbba6ee": {
+  "en": "100 to 200 ºC",
+  "t": "100~200ºC"
+ },
+ "7c92fc5cf65f": {
+  "en": "Summer",
+  "t": "여름"
+ },
+ "7d75266a53b9": {
+  "en": "Weeks",
+  "t": "주"
+ },
  "7d7d858d2707": {
   "en": "*A mapping to the Gregorian calendar can be seen in blue.",
   "t": "*그레고리력과의 대응은 파란색으로 표시되어 있다."
+ },
+ "81fffacbe869": {
+  "en": "Goodfeel",
+  "t": "굿필"
+ },
+ "85aef9b195fe": {
+  "en": "1 km",
+  "t": "1km"
+ },
+ "86e13ebffa37": {
+  "en": "Sunnahigh",
+  "t": "순나하이"
  },
  "874cb5da6c59": {
   "en": "Time, Calendar & Units · #HusbandOutWorld",
   "t": "시간, 달력과 단위 · #HusbandOutWorld"
  },
+ "87f637981db6": {
+  "en": "Named after",
+  "t": "이름의 유래"
+ },
  "8814add2a8ad": {
   "en": "Monnalow, Monnahigh, Monnilow, Monnihigh, Monnolow, Monnohigh, Monnulow, Monnuhigh.",
   "t": "몬나로, 몬나하이, 몬니로, 몬니하이, 몬노로, 몬노하이, 몬누로, 몬누하이."
+ },
+ "883d3ef46ab0": {
+  "en": "10:30 pm to midnight",
+  "t": "오후 10:30~자정"
+ },
+ "88e3ffa7a0fc": {
+  "en": "15 ºC",
+  "t": "15ºC"
+ },
+ "8932f1da88eb": {
+  "en": "1. Freeday",
+  "t": "1. 프리데이"
+ },
+ "896139ca858c": {
+  "en": "Icefeel",
+  "t": "아이스필"
+ },
+ "89677615c2ec": {
+  "en": "Spring",
+  "t": "봄"
  },
  "8ab4f98c8e68": {
   "en": "048 (images illustration)",
   "t": "048 (삽화)"
  },
+ "8b9613e1368b": {
+  "en": "1 mm",
+  "t": "1mm"
+ },
+ "8c5742107502": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/World%20Map%2C%20Name%2C%20Vraki%20Calendar%20%26%20UOM%2C%20etc.md\">Legacy/Behind The Scenes/World Lore/World Map, Name, Vraki Calendar &amp; UOM, etc.md</a>",
+  "t": "출처: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/World%20Map%2C%20Name%2C%20Vraki%20Calendar%20%26%20UOM%2C%20etc.md\">Legacy/Behind The Scenes/World Lore/World Map, Name, Vraki Calendar &amp; UOM, etc.md</a>"
+ },
  "8d62793b7022": {
   "en": "Akin to a sundial, the Time Keeper tells the time of day by shining it with sunlight or moonlight. Shortly after, you will be able to tell the time based on which section is growing bioluminescent.",
   "t": "해시계처럼 타임 키퍼는 햇빛이나 달빛을 비추면 하루의 시각을 알려 준다. 잠시 뒤 어느 구역이 생물 발광하는지를 보고 시각을 알 수 있다."
+ },
+ "91bdbe40263e": {
+  "en": "Monnulow",
+  "t": "몬누로"
+ },
+ "931275a2bca5": {
+  "en": "midnight to 1:30 am",
+  "t": "자정~오전 1:30"
+ },
+ "93f2bc4f34ec": {
+  "en": "3. Sannday",
+  "t": "3. 산데이"
+ },
+ "957fab35724e": {
+  "en": "4:30 to 6:00 pm",
+  "t": "오후 4:30~6:00"
+ },
+ "987b9ced08d4": {
+  "en": "Day",
+  "t": "낮"
+ },
+ "98d4b5922c55": {
+  "en": "Small Timehunk",
+  "t": "스몰 timehunk"
+ },
+ "9a39d7403f0b": {
+  "en": "A full name is <strong>NAME PLACE GUILD</strong>:",
+  "t": "전체 이름은 <strong>이름 장소 길드</strong>다:"
+ },
+ "9a964b1f2e91": {
+  "en": "If you focus moonlight on a small point, any living being glows within its shine (more in the World Timeline). The night is laid out like the day, with the same low and high halves.",
+  "t": "달빛을 작은 점에 모으면, 살아 있는 존재는 모두 그 빛 속에서 빛난다(더 많은 건 세계 연표에). 밤도 낮처럼 같은 로와 하이 반쪽으로 나뉜다."
+ },
+ "9aec85cccb53": {
+  "en": "Moacir (Fall)",
+  "t": "모아시르 (가을)"
+ },
+ "9b272e538a31": {
+  "en": "Quarter Timehunk",
+  "t": "timehunk 4분의 1"
+ },
+ "9b9fdce88e1e": {
+  "en": "10:30 am to noon",
+  "t": "오전 10:30~정오"
+ },
+ "9d038dc6301e": {
+  "en": "30 ºC",
+  "t": "30ºC"
+ },
+ "a0adbb339710": {
+  "en": "Monnahigh",
+  "t": "몬나하이"
+ },
+ "a3c41dfac1aa": {
+  "en": "3:00 to 4:30 am",
+  "t": "오전 3:00~4:30"
  },
  "a42da8a6ed07": {
   "en": "Time can be further divided into quarter, small, and tiny timehunks, but one would use a Time Counter (akin to a sand clock) to do so, as day-to-day interactions are often expressed as “Let’s meet at Moonahigh for some fun time.”",
   "t": "시간은 4분의 1, 작은, 아주 작은 timehunk로 더 나눌 수 있지만, 그러려면 타임 카운터(모래시계 같은 것)를 써야 한다. 일상에서는 보통 “몬나하이에 만나서 재밌게 놀자” 같은 식으로 말하니까."
  },
+ "a4fe01fec5dc": {
+  "en": "Coldfeel",
+  "t": "콜드필"
+ },
+ "a62001eccad5": {
+  "en": "4:30 to 6:00 am",
+  "t": "오전 4:30~6:00"
+ },
+ "a64c61a321b9": {
+  "en": "0 to 20 ºC",
+  "t": "0~20ºC"
+ },
+ "a6d9bc0aec05": {
+  "en": "<strong>Birth age:</strong> a person's age is the number of years they've been alive as of the current year. The day and month they were born don't matter.",
+  "t": "<strong>나이:</strong> 사람의 나이는 올해 기준으로 살아온 햇수다. 태어난 날과 달은 상관없다."
+ },
+ "a9b6a1b01682": {
+  "en": "40 to 60 ºC",
+  "t": "40~60ºC"
+ },
+ "ab20f9f8aed2": {
+  "en": "Average temperature:",
+  "t": "평균 기온:"
+ },
+ "ab478f3efc84": {
+  "en": "Map",
+  "t": "지도"
+ },
+ "af93c4561130": {
+  "en": "20 ºC",
+  "t": "20ºC"
+ },
+ "b138c327dc56": {
+  "en": "Vraki",
+  "t": "브라키"
+ },
+ "b1d0a74ecfe2": {
+  "en": "10 ºC",
+  "t": "10ºC"
+ },
+ "b1f43e144f06": {
+  "en": "Everything is in the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/World%20Calendar%20%26%20UOM.xlsx\">World Calendar &amp; UOM spreadsheet</a> (UOM tab).",
+  "t": "모든 건 <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/World%20Calendar%20%26%20UOM.xlsx\">세계 달력 &amp; 측정 단위 스프레드시트</a>(UOM 탭)에 있다."
+ },
  "b4667d2ad6ef": {
   "en": "Time, Calendar &amp; Units · #HusbandOutWorld",
   "t": "시간, 달력과 단위 · #HusbandOutWorld"
+ },
+ "b4e38f0f3094": {
+  "en": "Δ0 km",
+  "t": "Δ0km"
+ },
+ "b9096bc00e67": {
+  "en": "Bagabone",
+  "t": "바가본"
+ },
+ "b95b502e5e9c": {
+  "en": "400 to 600 ºC",
+  "t": "400~600ºC"
+ },
+ "ba2a27c917f2": {
+  "en": "below 0 ºC",
+  "t": "0ºC 미만"
+ },
+ "bbeafdd0b5be": {
+  "en": "Sunnihigh",
+  "t": "순니하이"
+ },
+ "bc9a069aa370": {
+  "en": "Tiny Sorebone",
+  "t": "타이니 소레본"
+ },
+ "c105925b739e": {
+  "en": "1:30 to 3:00 pm",
+  "t": "오후 1:30~3:00"
+ },
+ "c2ee60e46d14": {
+  "en": "For the Four Kingdoms themselves, see the Four Kingdoms map; for the unknown regions, its metadata map. Both are in the art on this page.",
+  "t": "네 왕국 자체는 네 왕국 지도를, 미지의 지역은 그 메타데이터 지도를 보자. 둘 다 이 페이지의 그림에 있다."
+ },
+ "c48183639a25": {
+  "en": "Temperature is named by how it feels, or by what it melts:",
+  "t": "온도는 느낌으로, 또는 무엇이 녹느냐로 이름 붙인다:"
+ },
+ "c4c3b395aac2": {
+  "en": "Paulin",
+  "t": "파울린"
+ },
+ "c50d3c6d69a5": {
+  "en": "Monnuhigh",
+  "t": "몬누하이"
+ },
+ "c8c210a838a7": {
+  "en": "Monnohigh",
+  "t": "몬노하이"
+ },
+ "c931c2b3d432": {
+  "en": "1,000 to 1,500 ºC",
+  "t": "1,000~1,500ºC"
+ },
+ "cc07c88a6444": {
+  "en": "Sunnilow",
+  "t": "순니로"
+ },
+ "cd9bb2359c6e": {
+  "en": "The Freeish Kingdom, which gets the first day of the working week because the rebellion began there",
+  "t": "반란이 시작된 곳이라 한 주의 첫 일하는 날을 받은 프리이시 왕국"
+ },
+ "d1ec353c55bb": {
+  "en": "Sunnolow",
+  "t": "순노로"
+ },
+ "d219ae24c6ee": {
+  "en": "To make names, contracts and negotiations easier, Forway introduced a naming schema for every kingdom child born after the Prosperity Treaty came into effect in 680 A.G.",
+  "t": "이름, 계약, 협상을 더 쉽게 하려고, 포웨이는 680 A.G.에 《번영 조약》이 발효된 뒤 태어난 모든 왕국 아이에게 이름 체계를 도입했다."
+ },
+ "d2c64f7edf44": {
+  "en": "Moacir",
+  "t": "모아시르"
+ },
+ "d35d1b098262": {
+  "en": "Forway (\"Forward Day\"): all embassies are closed to the public",
+  "t": "포웨이(‘앞으로 가는 날’): 모든 대사관이 일반에 문을 닫는다"
+ },
+ "d422dd74af8c": {
+  "en": "1 L",
+  "t": "1L"
+ },
+ "d4756da146e8": {
+  "en": "Asa",
+  "t": "아사"
+ },
+ "d4fd0a232ee5": {
+  "en": "Measure",
+  "t": "측정"
+ },
+ "d62f9077000f": {
+  "en": "*Only close to water, like the Sanbi Kingdom. Otherwise, treat it like Δ1 km.",
+  "t": "*산비 왕국처럼 물 가까이에서만. 아니면 Δ1km로 친다."
+ },
+ "dbbbde6d447e": {
+  "en": "The Gandew Kingdom, the last kingdom to join",
+  "t": "마지막으로 합류한 왕국, 간듀 왕국"
+ },
+ "dd203b21dde6": {
+  "en": "Vraki's sun behaves much like ours. The day is split into four timehunks, each divided in two: a low and a high half (times are approximate, since they shift with the seasons). Low and high refer to the ratio of nari crystals in the mixture for each chunk.",
+  "t": "브라키의 해는 우리 해와 거의 똑같이 움직인다. 하루는 timehunk 넷으로 나뉘고, 각각 다시 둘로 나뉜다: 로와 하이 반쪽이다(시간은 계절에 따라 바뀌어서 대략적이다). 로와 하이는 각 구간의 혼합물에 든 나리 결정의 비율을 가리킨다."
+ },
+ "e00ce628e70c": {
+  "en": "-20 ºC",
+  "t": "-20ºC"
+ },
+ "e36b8379325a": {
+  "en": "Sorebone",
+  "t": "소레본"
+ },
+ "e3bce32d1813": {
+  "en": "Tiny Timehunk",
+  "t": "타이니 timehunk"
+ },
+ "e4399bdb8eb0": {
+  "en": "7:30 to 9:00 am",
+  "t": "오전 7:30~9:00"
+ },
+ "e60820dff6a3": {
+  "en": "Paulin (Summer)",
+  "t": "파울린 (여름)"
+ },
+ "e7520d121b1a": {
+  "en": "Average humidity:",
+  "t": "평균 습도:"
+ },
+ "e89ad2b981ab": {
+  "en": "4. Gannday",
+  "t": "4. 간데이"
+ },
+ "e89ad650b515": {
+  "en": "The moon is like Earth's, except for its color. The night sky uses the moon's color palette (#61f878). See the Time Keeper for more.",
+  "t": "달은 색만 빼면 지구의 달과 같다. 밤하늘은 달의 색 팔레트(#61f878)를 쓴다. 더 많은 건 타임 키퍼 참조."
+ },
+ "eb49a60dd9eb": {
+  "en": "Timehunk",
+  "t": "timehunk"
+ },
+ "ee082afae4c5": {
+  "en": "20 to 40 ºC",
+  "t": "20~40ºC"
  },
  "efcfa06e2090": {
   "en": "The Vraki calendar was adopted as the official calendar when The Prosperity Treaty was signed. Adrian, who spearheaded standardizing UOMs, also assisted in creating a standardized calendar. Wanting to immortalize themselves, he found a way to split a year amongst the courtroom scientist that created The Prosperity Treaty.",
@@ -90,5 +754,29 @@
  "f3d2efd02782": {
   "en": "Time Keeper",
   "t": "타임 키퍼"
+ },
+ "f45916418176": {
+  "en": "-5 ºC",
+  "t": "-5ºC"
+ },
+ "f6bb0f468a85": {
+  "en": "Days",
+  "t": "일수"
+ },
+ "f70037cdb687": {
+  "en": "Meltfeel",
+  "t": "멜트필"
+ },
+ "f87a7d72cc18": {
+  "en": "Steel Meltfeel",
+  "t": "강철 멜트필"
+ },
+ "fd4d4fe7fdd8": {
+  "en": "22.5 minutes",
+  "t": "22.5분"
+ },
+ "fd7a1415ea75": {
+  "en": "The whole calendar, with a day-by-day comparison to the Gregorian calendar, is in the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/World%20Calendar%20%26%20UOM.xlsx\">World Calendar &amp; UOM spreadsheet</a>.",
+  "t": "그레고리력과 하루하루 비교한 달력 전체는 <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/World%20Calendar%20%26%20UOM.xlsx\">세계 달력 &amp; 측정 단위 스프레드시트</a>에 있다."
  }
 }
