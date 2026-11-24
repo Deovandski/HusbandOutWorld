@@ -1,7 +1,27 @@
 {
+ "0a2af398fe47": {
+  "en": "Ice",
+  "t": "الجليد"
+ },
+ "0a48d44e337c": {
+  "en": "<strong>Shape the spell.</strong> Draw its logogram in the air (see Language › Finaies Interface Language), then hold the left hand's two fingers with the other hand for the element to appear.",
+  "t": "<strong>شكّل التعويذة.</strong> ارسم رمزها في الهواء (انظر اللغة › لغة واجهة فينايس)، ثم أمسك إصبعي اليد اليسرى باليد الأخرى ليظهر العنصر."
+ },
+ "1273827574a8": {
+  "en": "Ash",
+  "t": "الرماد"
+ },
+ "142b5758f344": {
+  "en": "Wind",
+  "t": "الريح"
+ },
  "2359f9fd7d5a": {
   "en": "The primordial interface of what we know as the Darfaries interface nowadays. Some say it’s the start of all interfaces as well, but that never left the ranting books of scientists as proof of that has been quite elusive.",
   "t": "الواجهة البدائية لما نعرفه اليوم بواجهة دارفاريس. يقول البعض إنها بداية كل الواجهات أيضًا، لكن ذلك لم يخرج قط من كتب العلماء المليئة بالتذمر، فالدليل على ذلك ظل بعيد المنال."
+ },
+ "2d2b9fe1f9fe": {
+  "en": "Creates a ball of lava.",
+  "t": "يصنع كرة من الحمم."
  },
  "2d56d7adc9a6": {
   "en": "Finaies Interface · #HusbandOutWorld",
@@ -15,16 +35,140 @@
   "en": "Why is the interface symbology so small and specific? The consensus believes that it is related to the nature-focused and simplistic minds of Finaies.",
   "t": "لماذا رموز هذه الواجهة صغيرة ومحددة إلى هذا الحد؟ يرى الإجماع أن ذلك مرتبط بعقول الفينايس البسيطة المتمحورة حول الطبيعة."
  },
+ "3749c8439c7a": {
+  "en": "Storm",
+  "t": "العاصفة"
+ },
+ "4a00822dbc67": {
+  "en": "Ball size (cm)",
+  "t": "حجم الكرة (سم)"
+ },
+ "4c32a85dc8ec": {
+  "en": "Creates a ball of mud.",
+  "t": "يصنع كرة من الطين."
+ },
+ "4d1dbb53b348": {
+  "en": "<strong>Hold.</strong> Keep the fingers clenched to power up the holding hand. The longer you hold, the stronger the spell, and the more soul energy it costs. Other Finaies can touch you to give you soul energy and power the spell up faster.",
+  "t": "<strong>أمسك.</strong> أبقِ الإصبعين مقبوضين لشحن اليد الممسكة. كلما أمسكت أطول، صارت التعويذة أقوى، وكلفت طاقة روح أكثر. يستطيع فينايس آخرون لمسك ليعطوك طاقة روح ويشحنوا التعويذة أسرع."
+ },
+ "4ebc18247e08": {
+  "en": "Steam",
+  "t": "البخار"
+ },
+ "4f3226d88153": {
+  "en": "Creates a ball of wind.",
+  "t": "يصنع كرة من الريح."
+ },
+ "604b6f188c5d": {
+  "en": "Creates a ball of water.",
+  "t": "يصنع كرة من الماء."
+ },
+ "64a9807143ef": {
+  "en": "Creates a ball of ice.",
+  "t": "يصنع كرة من الجليد."
+ },
+ "674982955154": {
+  "en": "Shock",
+  "t": "الصعق"
+ },
+ "78baebfcb4b5": {
+  "en": "Fire",
+  "t": "النار"
+ },
+ "7914569e33cc": {
+  "en": "The ball's size follows the General Power Effects: 0.1 cm at Tier I, doubling with every tier.",
+  "t": "حجم الكرة يتبع التأثيرات العامة للقوة: 0.1 سم في المستوى I، ويتضاعف مع كل مستوى."
+ },
+ "795fe475b669": {
+  "en": "Spells in this category are released in the air, or as a projectile if you cock your arm back and release the spell as you push it forward.",
+  "t": "تُطلق تعاويذ هذه الفئة في الهواء، أو كمقذوف إن سحبت ذراعك إلى الخلف وأطلقت التعويذة وأنت تدفعها إلى الأمام."
+ },
+ "7ef5d32f52cd": {
+  "en": "Creates a ball of ash.",
+  "t": "يصنع كرة من الرماد."
+ },
+ "8017fe7bff1c": {
+  "en": "Creates a ball of shock.",
+  "t": "يصنع كرة من الصعق."
+ },
+ "8820d95a1ff1": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Finaies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Finaies Interface.md</a>",
+  "t": "المصدر: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Finaies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Finaies Interface.md</a>"
+ },
  "8a7ee68cd8b1": {
   "en": "Unlike complex casting rituals of specific interfaces such as Darfaries and Buhraies, their interface resembles animals like Bagarisa. The casting is done with a simple, singular hand movement matching the desired output, and voila! The spell comes out swiftly and aggressively out of their stubbed hands.",
   "t": "على عكس طقوس الإلقاء المعقدة لواجهات معينة مثل دارفاريس وبورايس، تشبه واجهتهم واجهات حيوانات مثل الباغاريسا. يتم الإلقاء بحركة يد بسيطة واحدة تطابق النتيجة المرغوبة، وها هي! تخرج التعويذة بسرعة وشراسة من أيديهم القصيرة."
+ },
+ "8be71aeae090": {
+  "en": "Creates a ball of frozen earth.",
+  "t": "يصنع كرة من التراب المتجمد."
+ },
+ "8d45a32dc1bd": {
+  "en": "Soul Energy - Finaies Interface (World Lore illustration)",
+  "t": "طاقة الروح - واجهة فينايس (رسم توضيحي من عالم القصة)"
+ },
+ "9134ec5b6078": {
+  "en": "Creates a ball of fire.",
+  "t": "يصنع كرة من النار."
+ },
+ "95a1423259bb": {
+  "en": "Creates a ball of earth.",
+  "t": "يصنع كرة من التراب."
+ },
+ "9c0cf1058f68": {
+  "en": "Frozen Earth",
+  "t": "التراب المتجمد"
+ },
+ "a074430f352b": {
+  "en": "Earth",
+  "t": "التراب"
+ },
+ "a1b06dfc3df5": {
+  "en": "<strong>Release.</strong> Separate your fingers to release the spell, or cock your arm back for a ranged attack.",
+  "t": "<strong>أطلق.</strong> افصل إصبعيك لإطلاق التعويذة، أو اسحب ذراعك إلى الخلف لهجوم بعيد المدى."
+ },
+ "b9a3fb9ac695": {
+  "en": "Lava",
+  "t": "الحمم"
+ },
+ "ca30ca77ff43": {
+  "en": "In short: draw the spell in the air, hold to charge it, then release.",
+  "t": "باختصار: ارسم التعويذة في الهواء، وامسكها لتشحنها، ثم أطلقها."
  },
  "cbf8ef1393dd": {
   "en": "The primordial interface of what we know as the Darfaries interface nowadays.",
   "t": "الواجهة البدائية لما نعرفه اليوم بواجهة دارفاريس."
  },
+ "cfad124318ab": {
+  "en": "Creates a ball of dust.",
+  "t": "يصنع كرة من الغبار."
+ },
+ "de9b1be49dae": {
+  "en": "Water",
+  "t": "الماء"
+ },
  "e0f540f92c72": {
   "en": "Casting",
   "t": "الإلقاء"
+ },
+ "eaff7cfcc0b1": {
+  "en": "Mud",
+  "t": "الطين"
+ },
+ "f596e6062c48": {
+  "en": "Dust",
+  "t": "الغبار"
+ },
+ "f74808bef3bb": {
+  "en": "Creates a ball of steam.",
+  "t": "يصنع كرة من البخار."
+ },
+ "fbe443348c64": {
+  "en": "Creates a ball of storm.",
+  "t": "يصنع كرة من العاصفة."
+ },
+ "fd20e268a43c": {
+  "en": "A natural evolution of the Finaies that lets them use a basic, elemental soul energy interface. A Finaies draws the spell's logogram in the air with the left hand, and soul energy shapes the spell from that movement. Finaies hands have only two fingers, branch-like.",
+  "t": "تطور طبيعي لدى الفينايس يتيح لهم استخدام واجهة طاقة روح أساسية عنصرية. يرسم الفينايس رمز التعويذة في الهواء باليد اليسرى، وتشكّل طاقة الروح التعويذة من تلك الحركة. أيدي الفينايس فيها إصبعان فقط، كالأغصان."
  }
 }

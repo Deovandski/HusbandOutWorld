@@ -23,6 +23,10 @@
   "en": "PRs are welcome, with or without AI help. If you used AI for a contribution, say so in the PR description and add a line to the table above.",
   "t": "طلبات الدمج مرحب بها، بمساعدة الذكاء الاصطناعي أو بدونها. إن استخدمت الذكاء الاصطناعي في مساهمتك، فاذكر ذلك في وصف طلب الدمج وأضف سطرًا إلى الجدول أعلاه."
  },
+ "227ad95d5503": {
+  "en": "content/bts",
+  "t": "content/bts"
+ },
  "23eebfe076f3": {
   "en": "<strong>Shortened and paraphrased</strong> them into one-paragraph public summaries, because the blog never had pages for these topics. No new facts. Each summary is labeled on the website as AI-written.",
   "t": "<strong>اختصرها وأعاد صياغتها</strong> في ملخصات عامة من فقرة واحدة، لأن المدونة لم تتضمن قط صفحات لهذه المواضيع. لا حقائق جديدة. كل ملخص مُعلَّم في الموقع بأنه من كتابة الذكاء الاصطناعي."
@@ -259,6 +263,14 @@
   "en": "content/summaries.json",
   "t": "content/summaries.json"
  },
+ "c43f5ab5035a": {
+  "en": "<strong>Written by the AI</strong> with the author: the abridged Behind The Scenes text the website shows (grammar fixed, brain dumps turned into readable prose and lists, gaps filled only from other Legacy sources or the author's answers). Every question asked, every answer (in the author's words), every filled gap with its source and every discrepancy is recorded in <a href=\"content/bts/qa\">content/bts/qa</a>, one file per Legacy doc. The Glossary's Behind The Scenes descriptions are taken from this abridged text. The raw notes in Legacy are unchanged; where the author ruled a correction or addition \"official\", it shows in the raw notes on the website as a display-only fix in <a href=\"content/fixes.json\">content/fixes.json</a>.",
+  "t": "<strong>كتبه الذكاء الاصطناعي</strong> مع المؤلف: نص خلف الكواليس المختصر الذي يعرضه الموقع (قواعد اللغة مصححة، والأفكار المتدفقة محوّلة إلى نثر وقوائم مقروءة، والفجوات مملوءة فقط من مصادر Legacy الأخرى أو من أجوبة المؤلف). كل سؤال طُرح، وكل جواب (بكلمات المؤلف)، وكل فجوة مُلئت مع مصدرها، وكل تعارض، مسجل في <a href=\"content/bts/qa\">content/bts/qa</a>، ملف واحد لكل مستند في Legacy. أوصاف خلف الكواليس في المسرد مأخوذة من هذا النص المختصر. الملاحظات الخام في Legacy لم تتغير؛ وحيثما قضى المؤلف بأن تصحيحًا أو إضافة «رسمية»، تظهر في الملاحظات الخام على الموقع كتصحيح للعرض فقط في <a href=\"content/fixes.json\">content/fixes.json</a>."
+ },
+ "c92dbea049c4": {
+  "en": "<strong>The website shows the author's own words.</strong> The novel chapters and the public descriptions (from the old blog) are displayed as written, and so are the Behind The Scenes notes that haven't been abridged yet. The AI's job was to arrange them, not to rewrite them. The exception: Behind The Scenes notes that have been <strong>abridged</strong> (see <code>content/bts</code> below) are an AI-assisted rewrite of the author's raw notes into readable form, labeled as such on every section, with the raw notes one click away.",
+  "t": "<strong>يعرض الموقع كلمات المؤلف نفسه.</strong> فصول الرواية والأوصاف العامة (من المدونة القديمة) معروضة كما كُتبت، وكذلك ملاحظات خلف الكواليس التي لم تُختصر بعد. كانت مهمة الذكاء الاصطناعي ترتيبها، لا إعادة كتابتها. الاستثناء: ملاحظات خلف الكواليس التي <strong>اختُصرت</strong> (انظر <code>content/bts</code> أدناه) هي إعادة صياغة بمساعدة الذكاء الاصطناعي لملاحظات المؤلف الخام في شكل مقروء، موسومة بذلك في كل قسم، والملاحظات الخام على بعد نقرة واحدة."
+ },
  "ca17d9e86677": {
   "en": "Modeled on the questions in IBM's <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> (what AI was used, what it contributed, how much humans shaped it, and who is accountable):",
   "t": "على غرار الأسئلة في <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> من IBM (أي ذكاء اصطناعي استُخدم، وبماذا أسهم، وإلى أي حد شكّله البشر، ومن المسؤول):"
@@ -278,6 +290,10 @@
  "e8ebc8d12782": {
   "en": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter), for the structured data in each page",
   "t": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries وBook وChapter)، للبيانات المنظمة في كل صفحة"
+ },
+ "f1afd477240d": {
+  "en": "The raw Behind The Scenes notes in Legacy, the published novels, and the author's answers to the AI's questions.",
+  "t": "ملاحظات خلف الكواليس الخام في Legacy، والروايات المنشورة، وأجوبة المؤلف عن أسئلة الذكاء الاصطناعي."
  },
  "f5234aaefa0e": {
   "en": "Eight Behind The Scenes docs: World Timeline, Villages, Land, Professions, Education, Sports, Novels, Natural and Crafted Resources (human).",

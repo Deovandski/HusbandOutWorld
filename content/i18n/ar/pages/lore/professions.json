@@ -1,46 +1,862 @@
 {
+ "00375d65fc23": {
+  "en": "<strong>History:</strong> a city guard who also specializes in Soul Energy is promoted to City Guard Captain. A guard with great communication skills or innate Soul Energy talent might have that schooling paid for by the kingdom (depending on how the kingdom is organized).",
+  "t": "<strong>التاريخ:</strong> حارس المدينة المتخصص أيضًا في طاقة الروح يُرقّى إلى قائد حرس المدينة. والحارس ذو مهارات التواصل الكبيرة أو الموهبة الفطرية في طاقة الروح قد تدفع المملكة تكاليف دراسته (بحسب طريقة تنظيم المملكة)."
+ },
+ "0091129d644c": {
+  "en": "<strong>History:</strong> someone has to organize the building and repair of things.",
+  "t": "<strong>التاريخ:</strong> لا بد أن ينظّم أحدٌ بناء الأشياء وإصلاحها."
+ },
+ "009fb6b22db7": {
+  "en": "<strong>History:</strong> someone has to take care of the people traveling through cities.",
+  "t": "<strong>التاريخ:</strong> لا بد أن يعتني أحدٌ بالمسافرين عبر المدن."
+ },
+ "00a2ebb46466": {
+  "en": "<strong>Training:</strong> knowing how to please the guest goes a long way; otherwise, learn on the job.",
+  "t": "<strong>التدريب:</strong> معرفة كيف تُرضي الضيف تقطع شوطًا طويلًا؛ وإلا فتعلّم أثناء العمل."
+ },
+ "00b2688c2097": {
+  "en": "<strong>Training:</strong> learn on the job as an apprentice; no reading required.",
+  "t": "<strong>التدريب:</strong> التعلم أثناء العمل كمتدرّب؛ لا تُشترط القراءة."
+ },
+ "01455a3069c1": {
+  "en": "<strong>Training:</strong> Fundamental School helps.",
+  "t": "<strong>التدريب:</strong> المدرسة الأساسية تساعد."
+ },
+ "0181d3ad31fd": {
+  "en": "City Guard Captain",
+  "t": "قائد حرس المدينة"
+ },
+ "0205d40adecd": {
+  "en": "<strong>History:</strong> they buy and sell as they travel from city to city. The best place to find odd trinkets is with one of them.",
+  "t": "<strong>التاريخ:</strong> يشترون ويبيعون وهم يتنقلون من مدينة إلى مدينة. أفضل مكان لإيجاد الحلي الغريبة هو عند واحد منهم."
+ },
+ "04320838c308": {
+  "en": "<strong>Training:</strong> Fundamental School and Combat School.",
+  "t": "<strong>التدريب:</strong> المدرسة الأساسية ومدرسة القتال."
+ },
+ "04d2b1d98bab": {
+  "en": "<strong>History:</strong> most kingdoms need to plan ahead for their courtroom scientist's demise.",
+  "t": "<strong>التاريخ:</strong> تحتاج معظم الممالك إلى التخطيط مسبقًا لرحيل عالِم البلاط."
+ },
+ "055b9db55503": {
+  "en": "<strong>History:</strong> someone has to build stuff.",
+  "t": "<strong>التاريخ:</strong> لا بد أن يبني أحدٌ الأشياء."
+ },
  "061957d75186": {
   "en": "Male and female Woolies: shaggy orange cattle-like animals with long curved horns.",
   "t": "ذكر وأنثى الوولي: حيوانات برتقالية كثيفة الشعر تشبه الماشية بقرون طويلة منحنية."
+ },
+ "0706ee124d03": {
+  "en": "Lighthouse Keeper",
+  "t": "حارس المنارة"
+ },
+ "09d1158c4a7b": {
+  "en": "Diener",
+  "t": "خادم المشرحة"
+ },
+ "0b767e247a06": {
+  "en": "Fruit/Herbs Dryer",
+  "t": "مجفف الفاكهة/الأعشاب"
+ },
+ "0bc6a6b16e86": {
+  "en": "<strong>Duties:</strong> beauty is in the eye of the beholder.",
+  "t": "<strong>المهام:</strong> الجمال في عين الناظر."
+ },
+ "0c4a53144651": {
+  "en": "Waste Manager",
+  "t": "مدير النفايات"
+ },
+ "0d9122fb134f": {
+  "en": "<strong>Duties:</strong> plan construction, assign roles, manage people, and manage costs, material orders, etc.",
+  "t": "<strong>المهام:</strong> تخطيط البناء، وتوزيع الأدوار، وإدارة الناس، وإدارة التكاليف وطلبات المواد وغيرها."
+ },
+ "0db304bdd851": {
+  "en": "Classy Courtesans",
+  "t": "المحظيات الراقيات"
+ },
+ "0e41a042a432": {
+  "en": "Tier VI Professions",
+  "t": "مهن المستوى VI"
+ },
+ "0f2afddf1f32": {
+  "en": "<strong>Duties:</strong> extract stone from quarries.",
+  "t": "<strong>المهام:</strong> استخراج الحجارة من المحاجر."
+ },
+ "118ca2335b44": {
+  "en": "<strong>Duties:</strong> prepare for fishing, fish, clean the fish and carry it off the boat.",
+  "t": "<strong>المهام:</strong> الاستعداد للصيد، والصيد، وتنظيف السمك وحمله خارج القارب."
+ },
+ "1247f153760d": {
+  "en": "Tier II Professions",
+  "t": "مهن المستوى II"
+ },
+ "12e503810d6f": {
+  "en": "<strong>Average pay:</strong> 5 Pearls an hour for apprentices, 6 for masters.",
+  "t": "<strong>متوسط الأجر:</strong> 5 بيرل في الساعة للمتدرّبين، و6 للمعلّمين."
+ },
+ "130edefe1f46": {
+  "en": "<strong>Training:</strong> Adventurer School.",
+  "t": "<strong>التدريب:</strong> مدرسة المغامرين."
+ },
+ "147847d73ee8": {
+  "en": "Hunter",
+  "t": "الصياد"
+ },
+ "1517b4c084b4": {
+  "en": "<strong>Training:</strong> learn on the job.",
+  "t": "<strong>التدريب:</strong> التعلم أثناء العمل."
+ },
+ "17f180a8667b": {
+  "en": "<strong>Duties:</strong> write down historical events, keep libraries organized and books in top shape, and study the ruins.",
+  "t": "<strong>المهام:</strong> تدوين الأحداث التاريخية، وإبقاء المكتبات منظمة والكتب في أفضل حال، ودراسة الأطلال."
+ },
+ "1dd0155b64c8": {
+  "en": "<strong>Duties:</strong> be good at negotiating prices.",
+  "t": "<strong>المهام:</strong> إتقان المساومة على الأسعار."
+ },
+ "1ee1a81d47c2": {
+  "en": "<strong>Duties:</strong> create and repair armor, tunics and related items.",
+  "t": "<strong>المهام:</strong> صنع وإصلاح الدروع والسترات وما يتصل بها."
+ },
+ "206a2bc39c03": {
+  "en": "<strong>History:</strong> you can get paid to get fucked.",
+  "t": "<strong>التاريخ:</strong> يمكنك أن تتقاضى أجرًا لتُنكح."
+ },
+ "20eac6bf0636": {
+  "en": "<strong>History:</strong> why not get paid to get fucked, especially if you're handsome or pretty, and famous?",
+  "t": "<strong>التاريخ:</strong> لمَ لا تتقاضى أجرًا لتُنكح، خاصة إن كنت وسيمًا أو جميلة، ومشهورًا؟"
+ },
+ "21c6d2cb35a3": {
+  "en": "<strong>Duties:</strong> take care of Woolies and help with their births.",
+  "t": "<strong>المهام:</strong> رعاية الوولي والمساعدة في ولاداتها."
+ },
+ "2370de6d52bc": {
+  "en": "<strong>Average pay:</strong> 2 Pearls an hour for apprentices, 3 for masters.",
+  "t": "<strong>متوسط الأجر:</strong> 2 بيرل في الساعة للمتدرّبين، و3 للمعلّمين."
+ },
+ "2442142a33ee": {
+  "en": "<strong>Training:</strong> knowing how to please the guest goes a long way; otherwise, learn on the job. Luck and street smarts help.",
+  "t": "<strong>التدريب:</strong> معرفة كيف تُرضي الضيف تقطع شوطًا طويلًا؛ وإلا فتعلّم أثناء العمل. الحظ وذكاء الشارع يساعدان."
+ },
+ "25a5a56ebe59": {
+  "en": "<strong>Training:</strong> Blacksmithing School, and a natural talent for crafting.",
+  "t": "<strong>التدريب:</strong> مدرسة الحدادة، وموهبة فطرية في الصنعة."
  },
  "25dd3b485e48": {
   "en": "Professions · #HusbandOutWorld",
   "t": "المهن · #HusbandOutWorld"
  },
+ "2908e8b6af90": {
+  "en": "Tier III Professions",
+  "t": "مهن المستوى III"
+ },
+ "2a8b7e82d527": {
+  "en": "Famous Courtesans",
+  "t": "المحظيات المشهورات"
+ },
+ "2be7482d961c": {
+  "en": "<strong>Duties:</strong> plow fields, harvest, fertilize and mill grain.",
+  "t": "<strong>المهام:</strong> حرث الحقول، والحصاد، والتسميد، وطحن الحبوب."
+ },
+ "2c74044a7e3b": {
+  "en": "<strong>Duties:</strong> handle livestock and crops, and get dirty on the job. Maybe handle a person or two, but usually just guild members.",
+  "t": "<strong>المهام:</strong> إدارة الماشية والمحاصيل، والتلطخ بالتراب أثناء العمل. وربما إدارة شخص أو اثنين، لكن عادةً أعضاء النقابة فقط."
+ },
+ "2ca4943a7001": {
+  "en": "The fourth richest people in the world. Their power reaches a neighborhood at most.",
+  "t": "رابع أغنى الناس في العالم. تصل سلطتهم إلى حي على الأكثر."
+ },
+ "2d0df710fde7": {
+  "en": "Aquamarine-Adventurer",
+  "t": "مغامر أكوامارين"
+ },
+ "2d8fd340266c": {
+  "en": "<strong>Training:</strong> Fundamental School, Soul Energy School, and Tier VI Soul Energy capabilities.",
+  "t": "<strong>التدريب:</strong> المدرسة الأساسية، ومدرسة طاقة الروح، وقدرات طاقة روح من المستوى VI."
+ },
+ "2df123cf8c88": {
+  "en": "<strong>Duties:</strong> listen to people's requests and relay them to the Sanbi Kingdom as official requests. Basically, an on-the-go stand-in for the King and Queen, so everyone is heard.",
+  "t": "<strong>المهام:</strong> الاستماع إلى طلبات الناس ونقلها إلى مملكة سانبي بوصفها طلبات رسمية. في الأساس، بديل متنقل عن الملك والملكة، لكي يُسمع الجميع."
+ },
+ "2e8be980ce98": {
+  "en": "<strong>History:</strong> the job came into being when great adventurers founded the kingdoms and needed more help running them.",
+  "t": "<strong>التاريخ:</strong> نشأت المهنة حين أسس المغامرون العظام الممالك واحتاجوا إلى مزيد من المساعدة في إدارتها."
+ },
+ "2f50ef5863f0": {
+  "en": "<strong>History:</strong> one of the earliest jobs, first done by the same person who extracted the resource.",
+  "t": "<strong>التاريخ:</strong> من أقدم المهن، كان يؤديها أولًا الشخص نفسه الذي يستخرج المورد."
+ },
+ "2f980c70dd52": {
+  "en": "<strong>Duties:</strong> handle people, livestock and crops, and maybe get dirty on the job.",
+  "t": "<strong>المهام:</strong> إدارة الناس والماشية والمحاصيل، وربما التلطخ بالتراب أثناء العمل."
+ },
  "30621505b695": {
   "en": "Jobs in the Four Kingdoms are ranked in tiers, from Tier VI (kings, queens and courtroom scientists, the richest people in the kingdoms) down through artisans…",
   "t": "تُرتب الوظائف في الممالك الأربع في مستويات، من المستوى VI (الملوك والملكات وعلماء المحاكم، أغنى الناس في الممالك) نزولًا إلى الحرفيين…"
+ },
+ "31fb072ed162": {
+  "en": "Tier V Professions",
+  "t": "مهن المستوى V"
+ },
+ "32c032c2d5a1": {
+  "en": "<strong>Duties:</strong> take care of eguas, groom and feed them, and help with egua births.",
+  "t": "<strong>المهام:</strong> رعاية الإيغوا، وتمشيطها وإطعامها، والمساعدة في ولاداتها."
+ },
+ "32ed08835c99": {
+  "en": "Lumberjack",
+  "t": "الحطّاب"
+ },
+ "33df308e3a5b": {
+  "en": "<strong>Duties:</strong> prepare stone and wood for buildings and artisans.",
+  "t": "<strong>المهام:</strong> تجهيز الحجارة والخشب للمباني والحرفيين."
+ },
+ "3406aa18360d": {
+  "en": "<strong>History:</strong> large farms are usually the result of many generations of hard-working people.",
+  "t": "<strong>التاريخ:</strong> المزارع الكبيرة عادةً ثمرة أجيال كثيرة من الناس الكادحين."
+ },
+ "364d37be779d": {
+  "en": "King",
+  "t": "الملك"
  },
  "36e49964836d": {
   "en": "Male and female Eguas: sturdy brown horse-like animals with saddles and saddlebags.",
   "t": "ذكر وأنثى الإيغوا: حيوانات بنية قوية تشبه الخيول بسروج وحقائب سرج."
  },
+ "39180cc0f501": {
+  "en": "<strong>Duties:</strong> create and repair highly detailed armor, tunics and related items.",
+  "t": "<strong>المهام:</strong> صنع وإصلاح الدروع والسترات وما يتصل بها بدقة عالية."
+ },
+ "3923a027a9d7": {
+  "en": "<strong>Duties:</strong> fix and clean boats.",
+  "t": "<strong>المهام:</strong> إصلاح القوارب وتنظيفها."
+ },
+ "39973efcf6c4": {
+  "en": "<strong>History:</strong> richer districts of cities and kingdoms often employ street cleaners, usually paid by the people living in the area rather than the government (depending on how the kingdom is organized).",
+  "t": "<strong>التاريخ:</strong> كثيرًا ما توظف الأحياء الأغنى في المدن والممالك عمال نظافة للشوارع، يدفع أجرهم عادةً سكان المنطقة لا الحكومة (بحسب طريقة تنظيم المملكة)."
+ },
+ "3aa5b22c7b20": {
+  "en": "The third richest people in the world. Their power reaches a city at most.",
+  "t": "ثالث أغنى الناس في العالم. تصل سلطتهم إلى مدينة على الأكثر."
+ },
+ "3c5c26cd0d32": {
+  "en": "<strong>Duties:</strong> carry the dead to the mortuary, prepare them for the ritual, and clean up bodily fluids to contain disease (depending on the local culture).",
+  "t": "<strong>المهام:</strong> حمل الموتى إلى المشرحة، وتجهيزهم للطقس، وتنظيف سوائل الجسد لاحتواء الأمراض (بحسب الثقافة المحلية)."
+ },
+ "3d566d72aa21": {
+  "en": "<strong>Duties:</strong> own, part-own or manage a general trading goods store, often in touch with traveling and regional merchants.",
+  "t": "<strong>المهام:</strong> امتلاك متجر للسلع التجارية العامة أو امتلاك جزء منه أو إدارته، وكثيرًا ما يكون على اتصال بالتجار المتجولين وتجار المناطق."
+ },
+ "3db63b4904a3": {
+  "en": "<strong>Training:</strong> Fundamental School.",
+  "t": "<strong>التدريب:</strong> المدرسة الأساسية."
+ },
+ "3de66eb212b0": {
+  "en": "<strong>Training:</strong> Fundamental School helps, but this is self-employed, so you do you.",
+  "t": "<strong>التدريب:</strong> المدرسة الأساسية تساعد، لكن هذا عمل حر، فافعل ما يناسبك."
+ },
+ "3f5701b74569": {
+  "en": "<strong>History:</strong> people like meat, so someone needs to gut the animals and make sausages.",
+  "t": "<strong>التاريخ:</strong> الناس يحبون اللحم، فلا بد أن ينظّف أحدٌ أحشاء الحيوانات ويصنع النقانق."
+ },
+ "4023098315ae": {
+  "en": "Road Maintainers",
+  "t": "صائنو الطرق"
+ },
+ "4115b1b799db": {
+  "en": "Small-Farm-Owner",
+  "t": "مالك مزرعة صغيرة"
+ },
  "415a1063368d": {
   "en": "Jobs in the Four Kingdoms are ranked in tiers, from Tier VI (kings, queens and courtroom scientists, the richest people in the kingdoms) down through artisans, merchants, guards, adventurers, maids and farmers. Each entry lists how the job came to be, what it requires, and which schooling it takes.",
   "t": "تُرتب الوظائف في الممالك الأربع في مستويات، من المستوى VI (الملوك والملكات وعلماء المحاكم، أغنى الناس في الممالك) نزولًا إلى الحرفيين والتجار والحراس والمغامرين والخادمات والمزارعين. ويذكر كل مدخل كيف نشأت الوظيفة، وما تتطلبه، وأي تعليم تحتاجه."
+ },
+ "41dc2c98c0fa": {
+  "en": "Tailor",
+  "t": "الخيّاط"
+ },
+ "440f228b6ef7": {
+  "en": "Egua Rider",
+  "t": "راكب الإيغوا"
+ },
+ "449ace1ad144": {
+  "en": "<strong>History:</strong> created by the Sanbi Kingdom as a plot device to hide what actually happened to Harry. Neferteri created the whole thing so Eori would have Harry exclusively for herself. The public Sanbi Eye was Sinoi wearing Harry's fake skin; only Neferteri knew.",
+  "t": "<strong>التاريخ:</strong> أنشأتها مملكة سانبي حيلةً لإخفاء ما حدث لهاري فعلًا. صنعت نفرتيري الأمر كله لكي تحظى إيوري بهاري لنفسها وحدها. وكانت عين سانبي العلنية سينوي مرتديًا جلد هاري المزيف؛ ولم تعرف إلا نفرتيري."
+ },
+ "44fcb4d1413f": {
+  "en": "Artisan Tailors",
+  "t": "الخياطون الحِرفيون"
+ },
+ "45720464b541": {
+  "en": "<strong>History:</strong> as the number of cities grew, cities needed to correspond.",
+  "t": "<strong>التاريخ:</strong> مع تزايد عدد المدن، احتاجت المدن إلى التراسل."
+ },
+ "463637964c66": {
+  "en": "<strong>Training:</strong> Fundamental School and Accounting School.",
+  "t": "<strong>التدريب:</strong> المدرسة الأساسية ومدرسة المحاسبة."
+ },
+ "4791fe5201d9": {
+  "en": "<strong>Duties:</strong> handle people, livestock and crops, and get dirty on the job.",
+  "t": "<strong>المهام:</strong> إدارة الناس والماشية والمحاصيل، والتلطخ بالتراب أثناء العمل."
+ },
+ "48def28988d3": {
+  "en": "Local Merchants",
+  "t": "التجار المحليون"
+ },
+ "4954ddd99bae": {
+  "en": "<strong>Training:</strong> Fundamental School, Soul Energy School, and Tier VII Soul Energy capabilities.",
+  "t": "<strong>التدريب:</strong> المدرسة الأساسية، ومدرسة طاقة الروح، وقدرات طاقة روح من المستوى VII."
+ },
+ "4a2a438e2e86": {
+  "en": "<strong>Duties:</strong> keep the balance between food orders and meat and milk sales, etc. Also takes care of the Woolies when time allows.",
+  "t": "<strong>المهام:</strong> الموازنة بين طلبات العلف ومبيعات اللحم والحليب، وغير ذلك. ويرعى الوولي أيضًا حين يسمح الوقت."
+ },
+ "4a3cac295494": {
+  "en": "<strong>Duties:</strong> clean latrines.",
+  "t": "<strong>المهام:</strong> تنظيف المراحيض."
+ },
+ "4a693b717f91": {
+  "en": "<strong>Duties:</strong> take care of the kingdom, working directly under the courtroom scientists.",
+  "t": "<strong>المهام:</strong> رعاية المملكة، بالعمل مباشرة تحت إمرة علماء البلاط."
+ },
+ "4aecf373d658": {
+  "en": "Artisan Cheesemaker",
+  "t": "صانع الجبن الحِرفي"
+ },
+ "4cbf0ebcab36": {
+  "en": "<strong>History:</strong> carrying around water-filled fruit is expensive and stupid, so these people come into play.",
+  "t": "<strong>التاريخ:</strong> حمل الفاكهة المليئة بالماء مكلف وغبي، فيأتي دور هؤلاء الناس."
+ },
+ "4cc0e4e2b542": {
+  "en": "<strong>History:</strong> because some cheese tastes better than others.",
+  "t": "<strong>التاريخ:</strong> لأن بعض الأجبان أطيب من غيرها."
+ },
+ "4cc30bf0e4df": {
+  "en": "<strong>History:</strong> information is necessary, so some people make vellum and paper for it.",
+  "t": "<strong>التاريخ:</strong> المعلومات ضرورية، فيصنع بعض الناس الرَّق والورق من أجلها."
+ },
+ "4e490ca564ff": {
+  "en": "Stable Hand",
+  "t": "عامل الإسطبل"
  },
  "4e7433e7ccf8": {
   "en": "Itagiba: a man with dark blue hair in a blue-and-yellow scale-patterned tunic and a white cape.",
   "t": "إيتاجيبا: رجل بشعر أزرق داكن في سترة زرقاء وصفراء بنقش حراشف ورداء أبيض."
  },
+ "5017ecaaa687": {
+  "en": "<strong>History:</strong> as roads were built, maintaining them became a job.",
+  "t": "<strong>التاريخ:</strong> حين بُنيت الطرق، صارت صيانتها مهنة."
+ },
+ "50954eebb17f": {
+  "en": "Courtroom Scientists",
+  "t": "علماء البلاط"
+ },
+ "51a3785f5d91": {
+  "en": "The fifth richest people in the world. Their power reaches the village at most.",
+  "t": "خامس أغنى الناس في العالم. تصل سلطتهم إلى القرية على الأكثر."
+ },
  "527c8f4739ce": {
   "en": "Neferteri: a woman with long dark wavy hair in a fitted dark-blue gown with gold shoulder pieces.",
   "t": "نفرتيري: امرأة بشعر داكن طويل مموج في ثوب أزرق داكن ضيق بقطع كتف ذهبية."
+ },
+ "54502895326e": {
+  "en": "<strong>History:</strong> as prosperity created wealthy people, they wanted someone else to handle running the home, correspondence, etc.",
+  "t": "<strong>التاريخ:</strong> حين صنع الرخاء أثرياء، أرادوا أن يتولى غيرهم إدارة البيت والمراسلات وغيرها."
+ },
+ "5617d0e19fd1": {
+  "en": "<strong>Average pay:</strong> 7 Pearls an hour for apprentices, 8 for masters.",
+  "t": "<strong>متوسط الأجر:</strong> 7 بيرل في الساعة للمتدرّبين، و8 للمعلّمين."
+ },
+ "56bc447690c6": {
+  "en": "Tier I Professions",
+  "t": "مهن المستوى I"
+ },
+ "56e0dda2c924": {
+  "en": "<strong>History:</strong> people kill people, so someone needs to make the instruments.",
+  "t": "<strong>التاريخ:</strong> الناس يقتلون الناس، فلا بد أن يصنع أحدٌ الأدوات."
+ },
+ "59d300feaf18": {
+  "en": "<strong>Duties:</strong> look after the Royal Guild's needs and security, and coordinate the maids under them to keep the castle clean and the food stock full.",
+  "t": "<strong>المهام:</strong> رعاية احتياجات النقابة الملكية وأمنها، وتنسيق الخادمات تحت إمرتها لإبقاء القلعة نظيفة ومخزون الطعام ممتلئًا."
+ },
+ "5a6f65812b37": {
+  "en": "<strong>History:</strong> detail-oriented blacksmiths end up becoming artisan blacksmiths.",
+  "t": "<strong>التاريخ:</strong> الحدادون المهتمون بالتفاصيل ينتهي بهم الأمر حدادين حِرفيين."
+ },
+ "5a98da265d5e": {
+  "en": "<strong>Training:</strong> Tailoring School, and a natural talent for tailoring.",
+  "t": "<strong>التدريب:</strong> مدرسة الخياطة، وموهبة فطرية في الخياطة."
+ },
+ "5aee24487cc6": {
+  "en": "Wooly Herder Manager",
+  "t": "مدير رعاة الوولي"
+ },
+ "5e469c7af7f3": {
+  "en": "<strong>History:</strong> you can get paid to get fucked, especially if you're handsome or pretty.",
+  "t": "<strong>التاريخ:</strong> يمكنك أن تتقاضى أجرًا لتُنكح، خاصة إن كنت وسيمًا أو جميلة."
+ },
+ "5efe7a99b20c": {
+  "en": "<strong>Duties:</strong> create highly detailed weapons, armor, etc.",
+  "t": "<strong>المهام:</strong> صنع أسلحة ودروع وغيرها بالغة الدقة."
+ },
+ "5f3ad4b71849": {
+  "en": "Common Courtesans",
+  "t": "المحظيات العاديات"
+ },
+ "608568177053": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Professions.md\">Legacy/Behind The Scenes/World Lore/Professions.md</a>",
+  "t": "المصدر: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Professions.md\">Legacy/Behind The Scenes/World Lore/Professions.md</a>"
+ },
+ "60b088d5f48f": {
+  "en": "Artisan Blacksmiths",
+  "t": "الحدادون الحِرفيون"
+ },
+ "6157f51be11a": {
+  "en": "Travelling Merchants",
+  "t": "التجار المتجولون"
+ },
+ "6376a98f2ee7": {
+  "en": "Tier IV Professions",
+  "t": "مهن المستوى IV"
+ },
+ "63d06880bbbb": {
+  "en": "<strong>History:</strong> people need to cover up their private parts.",
+  "t": "<strong>التاريخ:</strong> الناس يحتاجون إلى تغطية أعضائهم الخاصة."
+ },
+ "6544e8527e29": {
+  "en": "Paper/Vellum Crafter",
+  "t": "صانع الورق/الرَّق"
+ },
+ "671c09582799": {
+  "en": "Ore Smelter",
+  "t": "صاهر الخام"
  },
  "679e8553a8c5": {
   "en": "58 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "هناك 58 مدخلًا آخر في هذه الصفحة متاحة فقط في <button class=\"linklike\" data-go-bts>خلف الكواليس</button>."
  },
+ "6813b11bf2ee": {
+  "en": "<strong>Training:</strong> Fundamental School and Construction School.",
+  "t": "<strong>التدريب:</strong> المدرسة الأساسية ومدرسة البناء."
+ },
+ "68a7f27f1b12": {
+  "en": "Sapphire Adventurer",
+  "t": "مغامر سافاير"
+ },
+ "68c5f1755e66": {
+  "en": "<strong>Training:</strong> Fundamental School plus two specialized schools.",
+  "t": "<strong>التدريب:</strong> المدرسة الأساسية إضافة إلى مدرستين متخصصتين."
+ },
+ "6911adcc6c62": {
+  "en": "Queen",
+  "t": "الملكة"
+ },
+ "6c3918982164": {
+  "en": "Construction Manager",
+  "t": "مدير البناء"
+ },
+ "6e81e6be1642": {
+  "en": "<strong>History:</strong> as villages grew bigger, someone had to step in and keep the peace.",
+  "t": "<strong>التاريخ:</strong> حين كبرت القرى، كان لا بد أن يتدخل أحدٌ ليحفظ السلام."
+ },
+ "6f79a5b62983": {
+  "en": "<strong>Training:</strong> Blacksmithing School.",
+  "t": "<strong>التدريب:</strong> مدرسة الحدادة."
+ },
+ "70016c9d6d2a": {
+  "en": "<strong>History:</strong> people need to cover up their private parts in fashion.",
+  "t": "<strong>التاريخ:</strong> الناس يحتاجون إلى تغطية أعضائهم الخاصة بأناقة."
+ },
+ "7064ebb74cf6": {
+  "en": "Innkeeper &amp; Barkeepers",
+  "t": "أصحاب النُّزل والحانات"
+ },
+ "715c2089fc59": {
+  "en": "<strong>Training:</strong> Fundamental School, plus Combat and Soul Energy School.",
+  "t": "<strong>التدريب:</strong> المدرسة الأساسية، إضافة إلى مدرستي القتال وطاقة الروح."
+ },
+ "730844dedb2a": {
+  "en": "<strong>Duties:</strong> take care of the kingdom. Work with the Queen, the courtroom scientists and the other kingdoms to comply with the Prosperity Treaty, and plan city protection with the courtroom scientists and city guards.",
+  "t": "<strong>المهام:</strong> رعاية المملكة. العمل مع الملكة وعلماء البلاط والممالك الأخرى للالتزام بمعاهدة الرخاء، والتخطيط لحماية المدينة مع علماء البلاط وحرس المدينة."
+ },
+ "733e77b5c07a": {
+  "en": "<strong>Training:</strong> Fundamental School and Historian/Teaching School.",
+  "t": "<strong>التدريب:</strong> المدرسة الأساسية ومدرسة المؤرخين/التدريس."
+ },
+ "735d6ad94d9e": {
+  "en": "<strong>Duties:</strong> see Natural &amp; Crafted Resources.",
+  "t": "<strong>المهام:</strong> انظر الموارد الطبيعية والمصنوعة."
+ },
+ "7506752cedeb": {
+  "en": "Wood/Stone Worker",
+  "t": "عامل الخشب/الحجر"
+ },
+ "7510681254ef": {
+  "en": "Historians/Teachers",
+  "t": "المؤرخون/المعلمون"
+ },
+ "76e3a446b863": {
+  "en": "<strong>Average pay:</strong> 1 Pearl an hour, for apprentices and masters alike.",
+  "t": "<strong>متوسط الأجر:</strong> 1 بيرل في الساعة، للمتدرّبين والمعلّمين على حد سواء."
+ },
+ "7944c42b1f36": {
+  "en": "The second richest people in the world. Their power reaches a region at most.",
+  "t": "ثاني أغنى الناس في العالم. تصل سلطتهم إلى منطقة على الأكثر."
+ },
+ "80d320af3392": {
+  "en": "<strong>Duties:</strong> help take care of the kingdom. Work with the King, the Queen and the other kingdoms to comply with the Prosperity Treaty, and plan city protection with the King and city guards. How much depends on how the kingdom is organized.",
+  "t": "<strong>المهام:</strong> المساعدة في رعاية المملكة. العمل مع الملك والملكة والممالك الأخرى للالتزام بمعاهدة الرخاء، والتخطيط لحماية المدينة مع الملك وحرس المدينة. ويعتمد المدى على طريقة تنظيم المملكة."
+ },
+ "812b84ec0b97": {
+  "en": "Maid",
+  "t": "الخادمة"
+ },
+ "84c1568c097f": {
+  "en": "<strong>History:</strong> because cheese tastes good.",
+  "t": "<strong>التاريخ:</strong> لأن الجبن لذيذ."
+ },
  "85fb53e4bc11": {
   "en": "Professions",
   "t": "المهن"
+ },
+ "8655c454b395": {
+  "en": "Large Farm Owner",
+  "t": "مالك مزرعة كبيرة"
+ },
+ "8735f4858edd": {
+  "en": "<strong>Duties:</strong> extract wood from forests.",
+  "t": "<strong>المهام:</strong> استخراج الخشب من الغابات."
+ },
+ "87af01bd9c7e": {
+  "en": "Sanbi Eye",
+  "t": "عين سانبي"
+ },
+ "8869272e670d": {
+  "en": "<strong>Duties:</strong> make vellum from animal skin, and paper from wood pulp.",
+  "t": "<strong>المهام:</strong> صنع الرَّق من جلد الحيوان، والورق من لب الخشب."
+ },
+ "893b7a9113f6": {
+  "en": "<strong>Duties:</strong> housekeeping. How far it goes depends on the household and the maid's prestige: from more \"normal\" maids, up to someone like Eiri, a King-Maid, whose job extends into finances, cooking, cleaning and taxes.",
+  "t": "<strong>المهام:</strong> التدبير المنزلي. ويعتمد مداه على البيت ومكانة الخادمة: من الخادمات «العاديات» أكثر، وصولًا إلى شخص مثل إيري، الخادمة الملكية، التي يمتد عملها إلى المالية والطهي والتنظيف والضرائب."
+ },
+ "8b2083a989d7": {
+  "en": "<strong>History:</strong> someone who takes merchanting very seriously. Usually passed down through the guild, and often started by a traveling merchant who settled down and created a guild.",
+  "t": "<strong>التاريخ:</strong> شخص يأخذ التجارة بجدية بالغة. تنتقل عادةً عبر النقابة، وكثيرًا ما يبدؤها تاجر متجول استقر وأسس نقابة."
+ },
+ "8cd18dc81c09": {
+  "en": "Courtroom Scientists Apprentice",
+  "t": "متدرّب علماء البلاط"
+ },
+ "8dbd7e9ca168": {
+  "en": "King-Maid",
+  "t": "الخادمة الملكية"
+ },
+ "8e5ec084d90d": {
+  "en": "Quarrymen",
+  "t": "عمال المحاجر"
  },
  "8e6a957df8e2": {
   "en": "Summary written by AI from the author's notes (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Professions.md\">Professions.md</a>). <a href=\"/about/ai-disclosure/\">AI disclosure</a>",
   "t": "ملخص كتبه الذكاء الاصطناعي من ملاحظات المؤلف (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Professions.md\">Professions.md</a>). <a href=\"/about/ai-disclosure/\">الإفصاح عن استخدام الذكاء الاصطناعي</a>"
  },
+ "8f0a0926f3dc": {
+  "en": "<strong>History:</strong> someone has to take care of the dead, especially once people develop complex rituals.",
+  "t": "<strong>التاريخ:</strong> لا بد أن يعتني أحدٌ بالموتى، خاصة حين يطوّر الناس طقوسًا معقدة."
+ },
+ "904f51b879b7": {
+  "en": "<strong>Duties:</strong> take care of the lighthouse: pump water into the fost stone, replace the stone, etc.",
+  "t": "<strong>المهام:</strong> رعاية المنارة: ضخ الماء إلى حجر فوست، واستبدال الحجر، وغير ذلك."
+ },
+ "90a167603476": {
+  "en": "<strong>Training:</strong> knowing how to read speeds up going from apprentice to master; otherwise, learn on the job.",
+  "t": "<strong>التدريب:</strong> معرفة القراءة تسرّع الانتقال من متدرّب إلى معلّم؛ وإلا فالتعلم أثناء العمل."
+ },
+ "9211c4167577": {
+  "en": "<strong>History:</strong> one of the earliest jobs in existence.",
+  "t": "<strong>التاريخ:</strong> من أقدم المهن على الإطلاق."
+ },
+ "9312d57b974b": {
+  "en": "<strong>Training:</strong> Tailoring School.",
+  "t": "<strong>التدريب:</strong> مدرسة الخياطة."
+ },
+ "97850b76d678": {
+  "en": "How much of this applies depends on how the kingdom is organized.",
+  "t": "مدى انطباق هذا يعتمد على طريقة تنظيم المملكة."
+ },
+ "9866309d4236": {
+  "en": "<strong>History:</strong> paper is half the battle, so someone needs to make the ink and the wax.",
+  "t": "<strong>التاريخ:</strong> الورق نصف المعركة، فلا بد أن يصنع أحدٌ الحبر والشمع."
+ },
+ "9b85c6e5d0b9": {
+  "en": "<strong>Duties:</strong> keep the peace, assist in investigations and help medics. Also coordinate nari stone usage, work with adventurers, and coordinate with the King and courtroom scientists (depending on how the kingdom is organized).",
+  "t": "<strong>المهام:</strong> حفظ السلام، والمساعدة في التحقيقات، ومساعدة المسعفين. وأيضًا تنسيق استخدام أحجار ناري، والعمل مع المغامرين، والتنسيق مع الملك وعلماء البلاط (بحسب طريقة تنظيم المملكة)."
+ },
+ "9bb4137522b5": {
+  "en": "<strong>Training:</strong> learn on the job; no reading required.",
+  "t": "<strong>التدريب:</strong> التعلم أثناء العمل؛ لا تُشترط القراءة."
+ },
+ "9cc2644f0b21": {
+  "en": "<strong>Duties:</strong> handle egua births and health, and manage the stable business.",
+  "t": "<strong>المهام:</strong> التعامل مع ولادات الإيغوا وصحتها، وإدارة تجارة الإسطبل."
+ },
+ "9cf048940577": {
+  "en": "<strong>Duties:</strong> own one or more general trading goods stores, often in touch with traveling and local merchants.",
+  "t": "<strong>المهام:</strong> امتلاك متجر أو أكثر للسلع التجارية العامة، وكثيرًا ما يكون على اتصال بالتجار المتجولين والمحليين."
+ },
+ "9de10e4e0588": {
+  "en": "<strong>Duties:</strong> take care of the kingdom. Work with the King, the courtroom scientists and the other kingdoms to comply with the Prosperity Treaty.",
+  "t": "<strong>المهام:</strong> رعاية المملكة. العمل مع الملك وعلماء البلاط والممالك الأخرى للالتزام بمعاهدة الرخاء."
+ },
+ "9e14a9b61df8": {
+  "en": "Pearl-Adventurer",
+  "t": "مغامر بيرل"
+ },
+ "9ef0113ea58c": {
+  "en": "<strong>Average pay:</strong> 3 Pearls an hour for apprentices, 4 for masters.",
+  "t": "<strong>متوسط الأجر:</strong> 3 بيرل في الساعة للمتدرّبين، و4 للمعلّمين."
+ },
+ "a0016405da13": {
+  "en": "Region Merchants",
+  "t": "تجار المناطق"
+ },
+ "a40ce03445ed": {
+  "en": "Cheesemaker",
+  "t": "صانع الجبن"
+ },
+ "a4ea7abd9faa": {
+  "en": "Ore Miner",
+  "t": "عامل المنجم"
+ },
+ "a60170890f1f": {
+  "en": "Street Cleaner",
+  "t": "عامل نظافة الشوارع"
+ },
+ "a69d012911c6": {
+  "en": "<strong>Duties:</strong> treat leather and animal skin for dresses, weapons and vellum.",
+  "t": "<strong>المهام:</strong> معالجة الجلد وجلود الحيوانات للفساتين والأسلحة والرَّق."
+ },
+ "aa5928af8f30": {
+  "en": "<strong>History:</strong> works alongside butchers to treat game skin and bones.",
+  "t": "<strong>التاريخ:</strong> يعمل جنبًا إلى جنب مع الجزارين لمعالجة جلود الطرائد وعظامها."
+ },
+ "aaacdfb70de3": {
+  "en": "<strong>Training:</strong> Fundamental School isn't required, but it's really hard to do without.",
+  "t": "<strong>التدريب:</strong> المدرسة الأساسية ليست مطلوبة، لكن من الصعب جدًا الاستغناء عنها."
+ },
+ "ab43b4c49d47": {
+  "en": "<strong>History:</strong> as eguas were domesticated, people were needed to handle them.",
+  "t": "<strong>التاريخ:</strong> مع تدجين الإيغوا، احتيج إلى أناس يتعاملون معها."
+ },
+ "ac2b1387dbe5": {
+  "en": "<strong>History:</strong> someone who takes merchanting extremely seriously.",
+  "t": "<strong>التاريخ:</strong> شخص يأخذ التجارة بجدية بالغة جدًا."
+ },
+ "ac55d9500a19": {
+  "en": "<strong>Duties:</strong> drive egua carts from city to city, carrying basic goods.",
+  "t": "<strong>المهام:</strong> قيادة عربات الإيغوا من مدينة إلى مدينة، محمّلة بالسلع الأساسية."
+ },
+ "acab31af4a94": {
+  "en": "Blacksmiths",
+  "t": "الحدادون"
+ },
+ "ad03f38d3329": {
+  "en": "<strong>History:</strong> as Sanbi became a fishing hub, boat repair became necessary.",
+  "t": "<strong>التاريخ:</strong> حين صارت سانبي مركزًا للصيد، صار إصلاح القوارب ضرورة."
+ },
+ "ad040d86c60e": {
+  "en": "<strong>History:</strong> the job started in the Sanbi Kingdom, when great adventurers built castles and needed someone they trusted to help run them.",
+  "t": "<strong>التاريخ:</strong> بدأت المهنة في مملكة سانبي، حين بنى المغامرون العظام القلاع واحتاجوا إلى شخص يثقون به للمساعدة في إدارتها."
+ },
+ "ae37fc145770": {
+  "en": "<strong>Duties:</strong> tame wingas from the egg into adulthood for courier services.",
+  "t": "<strong>المهام:</strong> ترويض الوينغا من البيضة حتى البلوغ لخدمات البريد."
+ },
+ "b189e5d0c2de": {
+  "en": "<strong>History:</strong> small farmers exist all over the place, usually feeding themselves and selling the leftovers for other things.",
+  "t": "<strong>التاريخ:</strong> صغار المزارعين موجودون في كل مكان، وعادةً يطعمون أنفسهم ويبيعون الفائض مقابل أشياء أخرى."
+ },
+ "b1dc1614410d": {
+  "en": "Ink/Wax Crafter",
+  "t": "صانع الحبر/الشمع"
+ },
+ "b44d69d8fd77": {
+  "en": "<strong>Duties:</strong> read, play and write songs.",
+  "t": "<strong>المهام:</strong> قراءة الأغاني وعزفها وكتابتها."
+ },
+ "b45bc2b2a503": {
+  "en": "<strong>History:</strong> an easy job, but kind of boring, and slightly dangerous at times.",
+  "t": "<strong>التاريخ:</strong> عمل سهل، لكنه ممل نوعًا ما، وخطير قليلًا أحيانًا."
+ },
+ "b510917433fe": {
+  "en": "<strong>Duties:</strong> dry fruits, herbs and plenty more for transport.",
+  "t": "<strong>المهام:</strong> تجفيف الفاكهة والأعشاب وغيرها الكثير للنقل."
+ },
+ "b6070e32bbe6": {
+  "en": "<strong>Duties:</strong> mine ore, open tunnels and carry the ore to the surface.",
+  "t": "<strong>المهام:</strong> استخراج الخام، وفتح الأنفاق، وحمل الخام إلى السطح."
+ },
+ "b867944bc051": {
+  "en": "<strong>Duties:</strong> hunt prey, butcher it, and bring it back somewhere to sell.",
+  "t": "<strong>المهام:</strong> صيد الطرائد، وذبحها، وإعادتها إلى مكان ما لبيعها."
+ },
+ "bad034722d1e": {
+  "en": "Butcher",
+  "t": "الجزار"
+ },
+ "bb36fe9ded56": {
+  "en": "<strong>Duties:</strong> make cheese, store it and care for it.",
+  "t": "<strong>المهام:</strong> صنع الجبن وتخزينه والعناية به."
+ },
+ "bda34c2a7451": {
+  "en": "<strong>Average pay:</strong> 10 Pearls an hour for apprentices, 15 for masters.",
+  "t": "<strong>متوسط الأجر:</strong> 10 بيرل في الساعة للمتدرّبين، و15 للمعلّمين."
+ },
+ "c2201e677745": {
+  "en": "<strong>Duties:</strong> fix the roads and clear the forest from them. The risk of bandits makes the job better paid.",
+  "t": "<strong>المهام:</strong> إصلاح الطرق وتنظيفها من الغابة. خطر اللصوص يجعل أجر المهنة أفضل."
+ },
+ "c30883afd5f6": {
+  "en": "Amethyst-Adventurer",
+  "t": "مغامر أميثيست"
+ },
  "c4667604a234": {
   "en": "Sanbi: a large pale-blue fish with long whiskers and a surprised face, about 100 cm long.",
   "t": "سانبي: سمكة كبيرة زرقاء شاحبة بشوارب طويلة ووجه مندهش، طولها نحو 100 سم."
+ },
+ "cbb51621835d": {
+  "en": "Wooly Herder",
+  "t": "راعي الوولي"
+ },
+ "cbd68c37cc78": {
+  "en": "Boat Repair",
+  "t": "إصلاح القوارب"
+ },
+ "cbed7f59d6fd": {
+  "en": "Winga Tamers",
+  "t": "مروّضو الوينغا"
+ },
+ "cc39950b13a6": {
+  "en": "Fisherman",
+  "t": "الصياد البحري"
+ },
+ "ccf0ec7f8e69": {
+  "en": "The richest people in the four kingdoms. Their power is immense, and their riches are vast.",
+  "t": "أغنى الناس في الممالك الأربع. سلطتهم هائلة، وثرواتهم طائلة."
+ },
+ "d2e41bcd0d7f": {
+  "en": "<strong>History:</strong> the job came into being when great adventurers founded the kingdoms.",
+  "t": "<strong>التاريخ:</strong> نشأت المهنة حين أسس المغامرون العظام الممالك."
+ },
+ "d3a73806f843": {
+  "en": "<strong>Training:</strong> Fundamental School, Accounting School and Cooking School.",
+  "t": "<strong>التدريب:</strong> المدرسة الأساسية، ومدرسة المحاسبة، ومدرسة الطهي."
+ },
+ "d484cd3a84d0": {
+  "en": "<strong>History:</strong> someone has to do the smelting, but not everyone wants to.",
+  "t": "<strong>التاريخ:</strong> لا بد أن يقوم أحدٌ بالصهر، لكن ليس الجميع يريد ذلك."
+ },
+ "d5c2162ccaf8": {
+  "en": "<strong>Duties:</strong> bookkeeping, inventory and social management.",
+  "t": "<strong>المهام:</strong> مسك الدفاتر، والجرد، والإدارة الاجتماعية."
+ },
+ "d6019c93262f": {
+  "en": "<strong>Duties:</strong> smelt ores into bars and remove impurities.",
+  "t": "<strong>المهام:</strong> صهر الخامات إلى سبائك وإزالة الشوائب."
+ },
+ "d61406cedc5f": {
+  "en": "<strong>Training:</strong> none.",
+  "t": "<strong>التدريب:</strong> لا يوجد."
+ },
+ "d69650457fa0": {
+  "en": "<strong>History:</strong> wherever humans live, history soon follows, filling libraries. But some history was lost during the Greed Period, when wars raged for a long time, and tons more because before Ganyrami it was mostly passed by word of mouth among humans. The Darfaries burned their own history, which makes the past kind of sketchy. And some people don't care about history, because they prefer living in the present. So people in this profession usually teach at the fundamental level to earn a livable wage while they pursue research nobody is funding.",
+  "t": "<strong>التاريخ:</strong> حيثما عاش البشر، تبعهم التاريخ سريعًا، فملأ المكتبات. لكن بعض التاريخ ضاع خلال فترة الجشع، حين احتدمت الحروب طويلًا، وضاع أطنان أكثر لأنه قبل غانيرامي كان يُنقل في الغالب شفهيًا بين البشر. وأحرق الدارفاريس تاريخهم بأنفسهم، مما يجعل الماضي مبهمًا نوعًا ما. وبعض الناس لا يهتمون بالتاريخ، لأنهم يفضّلون العيش في الحاضر. لذا عادةً يدرّس أهل هذه المهنة في المستوى الأساسي ليكسبوا أجرًا يكفي للعيش بينما يواصلون أبحاثًا لا يموّلها أحد."
+ },
+ "d86a0b9b9510": {
+  "en": "<strong>Duties:</strong> skin game for tanners, slice game, cure meat, etc.",
+  "t": "<strong>المهام:</strong> سلخ الطرائد للدبّاغين، وتقطيعها، وتقديد اللحم، وغير ذلك."
+ },
+ "da654b0ff3a4": {
+  "en": "<strong>Training:</strong> Fundamental School and Cooking School.",
+  "t": "<strong>التدريب:</strong> المدرسة الأساسية ومدرسة الطهي."
+ },
+ "dc0cff2c2774": {
+  "en": "<strong>History:</strong> cleans latrines and cesspits.",
+  "t": "<strong>التاريخ:</strong> ينظّف المراحيض وحفر الصرف."
+ },
+ "e08eaff25c85": {
+  "en": "Stable Hand Manager",
+  "t": "مدير عمال الإسطبل"
+ },
+ "e13a98f3de63": {
+  "en": "<strong>Duties:</strong> build and repair buildings, following the construction manager's orders.",
+  "t": "<strong>المهام:</strong> بناء المباني وإصلاحها، باتباع أوامر مدير البناء."
+ },
+ "e1fc1d68d654": {
+  "en": "Construction Worker",
+  "t": "عامل البناء"
+ },
+ "e23d1749a392": {
+  "en": "<strong>Training:</strong> Fundamental School and Accounting School help, but aren't necessary.",
+  "t": "<strong>التدريب:</strong> المدرسة الأساسية ومدرسة المحاسبة تساعدان، لكنهما ليستا ضروريتين."
+ },
+ "e4b3b9f96c31": {
+  "en": "Bards",
+  "t": "الشعراء الجوالون"
+ },
+ "e4ca89513f69": {
+  "en": "<strong>Duties:</strong> create weapons, armor, etc.",
+  "t": "<strong>المهام:</strong> صنع الأسلحة والدروع وغيرها."
+ },
+ "e5c4e470299e": {
+  "en": "Farmer",
+  "t": "المزارع"
+ },
+ "e630e59b38c5": {
+  "en": "<strong>Duties:</strong> keep the peace, assist in investigations and help medics.",
+  "t": "<strong>المهام:</strong> حفظ السلام، والمساعدة في التحقيقات، ومساعدة المسعفين."
+ },
+ "e8f3b4c1733e": {
+  "en": "<strong>History:</strong> medium-sized farmers exist all over the place, usually both feeding themselves and selling crops and livestock.",
+  "t": "<strong>التاريخ:</strong> المزارعون متوسطو الحجم موجودون في كل مكان، وعادةً يطعمون أنفسهم ويبيعون المحاصيل والماشية معًا."
+ },
+ "e90669a4b73b": {
+  "en": "<strong>History:</strong> as egua taming became more common, someone had to oversee the stable.",
+  "t": "<strong>التاريخ:</strong> حين صار ترويض الإيغوا أكثر شيوعًا، كان لا بد أن يشرف أحدٌ على الإسطبل."
+ },
+ "e9b43d11425b": {
+  "en": "City Guard",
+  "t": "حارس المدينة"
+ },
+ "eec4b8a22e47": {
+  "en": "The sixth richest people in the world. Their power is none.",
+  "t": "سادس أغنى الناس في العالم. لا سلطة لهم."
+ },
+ "f2e56469294d": {
+  "en": "<strong>History:</strong> one of the earliest jobs in existence: hunting in the nearby woods, a quite dangerous job. Mostly replaced by adventurer hunting, since hunters on their own don't have the safety net adventurers have with the embassies.",
+  "t": "<strong>التاريخ:</strong> من أقدم المهن على الإطلاق: الصيد في الغابات القريبة، وهو عمل خطير جدًا. حلّ محله في الغالب صيد المغامرين، لأن الصيادين وحدهم لا يملكون شبكة الأمان التي يملكها المغامرون مع السفارات."
+ },
+ "f3c4e3eb138e": {
+  "en": "<strong>Duties:</strong> clean the streets.",
+  "t": "<strong>المهام:</strong> تنظيف الشوارع."
+ },
+ "f8a9289d923c": {
+  "en": "Tanner",
+  "t": "الدبّاغ"
+ },
+ "f8f1865f17cf": {
+  "en": "Medium-Farm-Owner",
+  "t": "مالك مزرعة متوسطة"
+ },
+ "fb7077c5ef7b": {
+  "en": "<strong>History:</strong> wherever people go, entertainment soon follows.",
+  "t": "<strong>التاريخ:</strong> حيثما ذهب الناس، تبعتهم التسلية سريعًا."
+ },
+ "fd3902b68f3e": {
+  "en": "See <a href=\"/lore/embassies-and-guilds/\">Badges, Embassies &amp; Guilds</a>.",
+  "t": "انظر <a href=\"/lore/embassies-and-guilds/\">البطاقات والسفارات والنقابات</a>."
+ },
+ "fe27264e70d4": {
+  "en": "<strong>History:</strong> because Woolies are kind of stupid.",
+  "t": "<strong>التاريخ:</strong> لأن الوولي أغبياء نوعًا ما."
  }
 }
