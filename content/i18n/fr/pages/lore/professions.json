@@ -1,46 +1,862 @@
 {
+ "00375d65fc23": {
+  "en": "<strong>History:</strong> a city guard who also specializes in Soul Energy is promoted to City Guard Captain. A guard with great communication skills or innate Soul Energy talent might have that schooling paid for by the kingdom (depending on how the kingdom is organized).",
+  "t": "<strong>Histoire :</strong> un garde de la ville qui se spécialise aussi en énergie de l'âme est promu Capitaine de la garde de la ville. Un garde doué pour la communication ou qui a un talent inné pour l'énergie de l'âme peut voir cette formation payée par le royaume (selon l'organisation du royaume)."
+ },
+ "0091129d644c": {
+  "en": "<strong>History:</strong> someone has to organize the building and repair of things.",
+  "t": "<strong>Histoire :</strong> il faut quelqu'un pour organiser la construction et la réparation des choses."
+ },
+ "009fb6b22db7": {
+  "en": "<strong>History:</strong> someone has to take care of the people traveling through cities.",
+  "t": "<strong>Histoire :</strong> il faut quelqu'un pour s'occuper des gens qui traversent les villes."
+ },
+ "00a2ebb46466": {
+  "en": "<strong>Training:</strong> knowing how to please the guest goes a long way; otherwise, learn on the job.",
+  "t": "<strong>Formation :</strong> savoir faire plaisir au client aide beaucoup ; sinon, apprendre sur le tas."
+ },
+ "00b2688c2097": {
+  "en": "<strong>Training:</strong> learn on the job as an apprentice; no reading required.",
+  "t": "<strong>Formation :</strong> apprendre sur le tas comme apprenti ; pas besoin de savoir lire."
+ },
+ "01455a3069c1": {
+  "en": "<strong>Training:</strong> Fundamental School helps.",
+  "t": "<strong>Formation :</strong> l'école fondamentale aide."
+ },
+ "0181d3ad31fd": {
+  "en": "City Guard Captain",
+  "t": "Capitaine de la garde de la ville"
+ },
+ "0205d40adecd": {
+  "en": "<strong>History:</strong> they buy and sell as they travel from city to city. The best place to find odd trinkets is with one of them.",
+  "t": "<strong>Histoire :</strong> ils achètent et vendent en voyageant de ville en ville. Le meilleur endroit pour trouver des babioles bizarres, c'est chez l'un d'eux."
+ },
+ "04320838c308": {
+  "en": "<strong>Training:</strong> Fundamental School and Combat School.",
+  "t": "<strong>Formation :</strong> l'école fondamentale et la Combat School."
+ },
+ "04d2b1d98bab": {
+  "en": "<strong>History:</strong> most kingdoms need to plan ahead for their courtroom scientist's demise.",
+  "t": "<strong>Histoire :</strong> la plupart des royaumes doivent prévoir la disparition de leur scientifique de la cour."
+ },
+ "055b9db55503": {
+  "en": "<strong>History:</strong> someone has to build stuff.",
+  "t": "<strong>Histoire :</strong> il faut quelqu'un pour construire des trucs."
+ },
  "061957d75186": {
   "en": "Male and female Woolies: shaggy orange cattle-like animals with long curved horns.",
   "t": "Woolies mâle et femelle : des animaux orange et hirsutes ressemblant à des bovins, aux longues cornes recourbées."
+ },
+ "0706ee124d03": {
+  "en": "Lighthouse Keeper",
+  "t": "Gardien de phare"
+ },
+ "09d1158c4a7b": {
+  "en": "Diener",
+  "t": "Diener"
+ },
+ "0b767e247a06": {
+  "en": "Fruit/Herbs Dryer",
+  "t": "Sécheur de fruits/d'herbes"
+ },
+ "0bc6a6b16e86": {
+  "en": "<strong>Duties:</strong> beauty is in the eye of the beholder.",
+  "t": "<strong>Tâches :</strong> la beauté est dans l'œil de celui qui regarde."
+ },
+ "0c4a53144651": {
+  "en": "Waste Manager",
+  "t": "Gestionnaire des déchets"
+ },
+ "0d9122fb134f": {
+  "en": "<strong>Duties:</strong> plan construction, assign roles, manage people, and manage costs, material orders, etc.",
+  "t": "<strong>Tâches :</strong> planifier la construction, attribuer les rôles, gérer les gens, et gérer les coûts, les commandes de matériaux, etc."
+ },
+ "0db304bdd851": {
+  "en": "Classy Courtesans",
+  "t": "Courtisanes chics"
+ },
+ "0e41a042a432": {
+  "en": "Tier VI Professions",
+  "t": "Métiers de Niveau VI"
+ },
+ "0f2afddf1f32": {
+  "en": "<strong>Duties:</strong> extract stone from quarries.",
+  "t": "<strong>Tâches :</strong> extraire la pierre des carrières."
+ },
+ "118ca2335b44": {
+  "en": "<strong>Duties:</strong> prepare for fishing, fish, clean the fish and carry it off the boat.",
+  "t": "<strong>Tâches :</strong> préparer la pêche, pêcher, nettoyer le poisson et le décharger du bateau."
+ },
+ "1247f153760d": {
+  "en": "Tier II Professions",
+  "t": "Métiers de Niveau II"
+ },
+ "12e503810d6f": {
+  "en": "<strong>Average pay:</strong> 5 Pearls an hour for apprentices, 6 for masters.",
+  "t": "<strong>Paie moyenne :</strong> 5 Pearls de l'heure pour les apprentis, 6 pour les maîtres."
+ },
+ "130edefe1f46": {
+  "en": "<strong>Training:</strong> Adventurer School.",
+  "t": "<strong>Formation :</strong> l'Adventurer School."
+ },
+ "147847d73ee8": {
+  "en": "Hunter",
+  "t": "Chasseur"
+ },
+ "1517b4c084b4": {
+  "en": "<strong>Training:</strong> learn on the job.",
+  "t": "<strong>Formation :</strong> apprendre sur le tas."
+ },
+ "17f180a8667b": {
+  "en": "<strong>Duties:</strong> write down historical events, keep libraries organized and books in top shape, and study the ruins.",
+  "t": "<strong>Tâches :</strong> consigner les événements historiques, garder les bibliothèques en ordre et les livres en parfait état, et étudier les ruines."
+ },
+ "1dd0155b64c8": {
+  "en": "<strong>Duties:</strong> be good at negotiating prices.",
+  "t": "<strong>Tâches :</strong> être doué pour négocier les prix."
+ },
+ "1ee1a81d47c2": {
+  "en": "<strong>Duties:</strong> create and repair armor, tunics and related items.",
+  "t": "<strong>Tâches :</strong> créer et réparer des armures, des tuniques et des articles du même genre."
+ },
+ "206a2bc39c03": {
+  "en": "<strong>History:</strong> you can get paid to get fucked.",
+  "t": "<strong>Histoire :</strong> tu peux être payé pour te faire baiser."
+ },
+ "20eac6bf0636": {
+  "en": "<strong>History:</strong> why not get paid to get fucked, especially if you're handsome or pretty, and famous?",
+  "t": "<strong>Histoire :</strong> pourquoi ne pas être payé pour se faire baiser, surtout si tu es beau ou belle, et célèbre ?"
+ },
+ "21c6d2cb35a3": {
+  "en": "<strong>Duties:</strong> take care of Woolies and help with their births.",
+  "t": "<strong>Tâches :</strong> s'occuper des Woolies et aider à leurs naissances."
+ },
+ "2370de6d52bc": {
+  "en": "<strong>Average pay:</strong> 2 Pearls an hour for apprentices, 3 for masters.",
+  "t": "<strong>Paie moyenne :</strong> 2 Pearls de l'heure pour les apprentis, 3 pour les maîtres."
+ },
+ "2442142a33ee": {
+  "en": "<strong>Training:</strong> knowing how to please the guest goes a long way; otherwise, learn on the job. Luck and street smarts help.",
+  "t": "<strong>Formation :</strong> savoir faire plaisir au client aide beaucoup ; sinon, apprendre sur le tas. La chance et la débrouillardise aident."
+ },
+ "25a5a56ebe59": {
+  "en": "<strong>Training:</strong> Blacksmithing School, and a natural talent for crafting.",
+  "t": "<strong>Formation :</strong> la Blacksmithing School, et un talent naturel pour l'artisanat."
  },
  "25dd3b485e48": {
   "en": "Professions · #HusbandOutWorld",
   "t": "Métiers · #HusbandOutWorld"
  },
+ "2908e8b6af90": {
+  "en": "Tier III Professions",
+  "t": "Métiers de Niveau III"
+ },
+ "2a8b7e82d527": {
+  "en": "Famous Courtesans",
+  "t": "Courtisanes célèbres"
+ },
+ "2be7482d961c": {
+  "en": "<strong>Duties:</strong> plow fields, harvest, fertilize and mill grain.",
+  "t": "<strong>Tâches :</strong> labourer les champs, récolter, fertiliser et moudre le grain."
+ },
+ "2c74044a7e3b": {
+  "en": "<strong>Duties:</strong> handle livestock and crops, and get dirty on the job. Maybe handle a person or two, but usually just guild members.",
+  "t": "<strong>Tâches :</strong> gérer le bétail et les cultures, et se salir les mains. Peut-être gérer une personne ou deux, mais en général juste des membres de la guilde."
+ },
+ "2ca4943a7001": {
+  "en": "The fourth richest people in the world. Their power reaches a neighborhood at most.",
+  "t": "Les quatrièmes gens les plus riches du monde. Leur pouvoir s'étend au plus à un quartier."
+ },
+ "2d0df710fde7": {
+  "en": "Aquamarine-Adventurer",
+  "t": "Aventurier Aquamarine"
+ },
+ "2d8fd340266c": {
+  "en": "<strong>Training:</strong> Fundamental School, Soul Energy School, and Tier VI Soul Energy capabilities.",
+  "t": "<strong>Formation :</strong> l'école fondamentale, la Soul Energy School, et des capacités d'énergie de l'âme de Niveau VI."
+ },
+ "2df123cf8c88": {
+  "en": "<strong>Duties:</strong> listen to people's requests and relay them to the Sanbi Kingdom as official requests. Basically, an on-the-go stand-in for the King and Queen, so everyone is heard.",
+  "t": "<strong>Tâches :</strong> écouter les demandes des gens et les transmettre au Royaume de Sanbi comme demandes officielles. En gros, un remplaçant itinérant du Roi et de la Reine, pour que tout le monde soit entendu."
+ },
+ "2e8be980ce98": {
+  "en": "<strong>History:</strong> the job came into being when great adventurers founded the kingdoms and needed more help running them.",
+  "t": "<strong>Histoire :</strong> le métier est né quand de grands aventuriers ont fondé les royaumes et ont eu besoin de plus d'aide pour les diriger."
+ },
+ "2f50ef5863f0": {
+  "en": "<strong>History:</strong> one of the earliest jobs, first done by the same person who extracted the resource.",
+  "t": "<strong>Histoire :</strong> l'un des premiers métiers, d'abord fait par la personne même qui extrayait la ressource."
+ },
+ "2f980c70dd52": {
+  "en": "<strong>Duties:</strong> handle people, livestock and crops, and maybe get dirty on the job.",
+  "t": "<strong>Tâches :</strong> gérer les gens, le bétail et les cultures, et peut-être se salir les mains."
+ },
  "30621505b695": {
   "en": "Jobs in the Four Kingdoms are ranked in tiers, from Tier VI (kings, queens and courtroom scientists, the richest people in the kingdoms) down through artisans…",
   "t": "Les métiers des Quatre Royaumes sont classés par niveaux, du Niveau VI (rois, reines et scientifiques de la cour, les gens les plus riches des royaumes) jusqu'aux artisans…"
+ },
+ "31fb072ed162": {
+  "en": "Tier V Professions",
+  "t": "Métiers de Niveau V"
+ },
+ "32c032c2d5a1": {
+  "en": "<strong>Duties:</strong> take care of eguas, groom and feed them, and help with egua births.",
+  "t": "<strong>Tâches :</strong> s'occuper des eguas, les panser et les nourrir, et aider aux naissances d'eguas."
+ },
+ "32ed08835c99": {
+  "en": "Lumberjack",
+  "t": "Bûcheron"
+ },
+ "33df308e3a5b": {
+  "en": "<strong>Duties:</strong> prepare stone and wood for buildings and artisans.",
+  "t": "<strong>Tâches :</strong> préparer la pierre et le bois pour les bâtiments et les artisans."
+ },
+ "3406aa18360d": {
+  "en": "<strong>History:</strong> large farms are usually the result of many generations of hard-working people.",
+  "t": "<strong>Histoire :</strong> les grandes fermes sont en général le fruit de nombreuses générations de gens travailleurs."
+ },
+ "364d37be779d": {
+  "en": "King",
+  "t": "Roi"
  },
  "36e49964836d": {
   "en": "Male and female Eguas: sturdy brown horse-like animals with saddles and saddlebags.",
   "t": "Eguas mâle et femelle : des animaux bruns et robustes ressemblant à des chevaux, avec selles et sacoches."
  },
+ "39180cc0f501": {
+  "en": "<strong>Duties:</strong> create and repair highly detailed armor, tunics and related items.",
+  "t": "<strong>Tâches :</strong> créer et réparer des armures, des tuniques et des articles du même genre très détaillés."
+ },
+ "3923a027a9d7": {
+  "en": "<strong>Duties:</strong> fix and clean boats.",
+  "t": "<strong>Tâches :</strong> réparer et nettoyer les bateaux."
+ },
+ "39973efcf6c4": {
+  "en": "<strong>History:</strong> richer districts of cities and kingdoms often employ street cleaners, usually paid by the people living in the area rather than the government (depending on how the kingdom is organized).",
+  "t": "<strong>Histoire :</strong> les quartiers plus riches des villes et des royaumes emploient souvent des balayeurs de rue, en général payés par les habitants du quartier plutôt que par le gouvernement (selon l'organisation du royaume)."
+ },
+ "3aa5b22c7b20": {
+  "en": "The third richest people in the world. Their power reaches a city at most.",
+  "t": "Les troisièmes gens les plus riches du monde. Leur pouvoir s'étend au plus à une ville."
+ },
+ "3c5c26cd0d32": {
+  "en": "<strong>Duties:</strong> carry the dead to the mortuary, prepare them for the ritual, and clean up bodily fluids to contain disease (depending on the local culture).",
+  "t": "<strong>Tâches :</strong> porter les morts à la morgue, les préparer pour le rituel, et nettoyer les fluides corporels pour contenir les maladies (selon la culture locale)."
+ },
+ "3d566d72aa21": {
+  "en": "<strong>Duties:</strong> own, part-own or manage a general trading goods store, often in touch with traveling and regional merchants.",
+  "t": "<strong>Tâches :</strong> posséder, posséder en partie ou gérer un magasin de marchandises générales, souvent en contact avec des marchands itinérants et régionaux."
+ },
+ "3db63b4904a3": {
+  "en": "<strong>Training:</strong> Fundamental School.",
+  "t": "<strong>Formation :</strong> l'école fondamentale."
+ },
+ "3de66eb212b0": {
+  "en": "<strong>Training:</strong> Fundamental School helps, but this is self-employed, so you do you.",
+  "t": "<strong>Formation :</strong> l'école fondamentale aide, mais c'est un travail à son compte, donc fais comme tu le sens."
+ },
+ "3f5701b74569": {
+  "en": "<strong>History:</strong> people like meat, so someone needs to gut the animals and make sausages.",
+  "t": "<strong>Histoire :</strong> les gens aiment la viande, donc il faut quelqu'un pour vider les animaux et faire des saucisses."
+ },
+ "4023098315ae": {
+  "en": "Road Maintainers",
+  "t": "Cantonniers"
+ },
+ "4115b1b799db": {
+  "en": "Small-Farm-Owner",
+  "t": "Propriétaire d'une petite ferme"
+ },
  "415a1063368d": {
   "en": "Jobs in the Four Kingdoms are ranked in tiers, from Tier VI (kings, queens and courtroom scientists, the richest people in the kingdoms) down through artisans, merchants, guards, adventurers, maids and farmers. Each entry lists how the job came to be, what it requires, and which schooling it takes.",
   "t": "Les métiers des Quatre Royaumes sont classés par niveaux, du Niveau VI (rois, reines et scientifiques de la cour, les gens les plus riches des royaumes) jusqu'aux artisans, aux marchands, aux gardes, aux aventuriers, aux domestiques et aux fermiers. Chaque entrée explique comment le métier est né, ce qu'il exige et quelle formation il demande."
+ },
+ "41dc2c98c0fa": {
+  "en": "Tailor",
+  "t": "Tailleur"
+ },
+ "440f228b6ef7": {
+  "en": "Egua Rider",
+  "t": "Cavalier d'Egua"
+ },
+ "449ace1ad144": {
+  "en": "<strong>History:</strong> created by the Sanbi Kingdom as a plot device to hide what actually happened to Harry. Neferteri created the whole thing so Eori would have Harry exclusively for herself. The public Sanbi Eye was Sinoi wearing Harry's fake skin; only Neferteri knew.",
+  "t": "<strong>Histoire :</strong> créé par le Royaume de Sanbi comme ressort narratif pour cacher ce qui est vraiment arrivé à Harry. Neferteri a tout créé pour qu'Eori ait Harry rien que pour elle. Le Sanbi Eye public était Sinoi portant la fausse peau de Harry ; seule Neferteri le savait."
+ },
+ "44fcb4d1413f": {
+  "en": "Artisan Tailors",
+  "t": "Tailleurs artisans"
+ },
+ "45720464b541": {
+  "en": "<strong>History:</strong> as the number of cities grew, cities needed to correspond.",
+  "t": "<strong>Histoire :</strong> à mesure que le nombre de villes augmentait, les villes ont eu besoin de correspondre."
+ },
+ "463637964c66": {
+  "en": "<strong>Training:</strong> Fundamental School and Accounting School.",
+  "t": "<strong>Formation :</strong> l'école fondamentale et l'Accounting School."
+ },
+ "4791fe5201d9": {
+  "en": "<strong>Duties:</strong> handle people, livestock and crops, and get dirty on the job.",
+  "t": "<strong>Tâches :</strong> gérer les gens, le bétail et les cultures, et se salir les mains."
+ },
+ "48def28988d3": {
+  "en": "Local Merchants",
+  "t": "Marchands locaux"
+ },
+ "4954ddd99bae": {
+  "en": "<strong>Training:</strong> Fundamental School, Soul Energy School, and Tier VII Soul Energy capabilities.",
+  "t": "<strong>Formation :</strong> l'école fondamentale, la Soul Energy School, et des capacités d'énergie de l'âme de Niveau VII."
+ },
+ "4a2a438e2e86": {
+  "en": "<strong>Duties:</strong> keep the balance between food orders and meat and milk sales, etc. Also takes care of the Woolies when time allows.",
+  "t": "<strong>Tâches :</strong> garder l'équilibre entre les commandes de nourriture et les ventes de viande et de lait, etc. S'occupe aussi des Woolies quand le temps le permet."
+ },
+ "4a3cac295494": {
+  "en": "<strong>Duties:</strong> clean latrines.",
+  "t": "<strong>Tâches :</strong> nettoyer les latrines."
+ },
+ "4a693b717f91": {
+  "en": "<strong>Duties:</strong> take care of the kingdom, working directly under the courtroom scientists.",
+  "t": "<strong>Tâches :</strong> prendre soin du royaume, en travaillant directement sous les scientifiques de la cour."
+ },
+ "4aecf373d658": {
+  "en": "Artisan Cheesemaker",
+  "t": "Fromager artisan"
+ },
+ "4cbf0ebcab36": {
+  "en": "<strong>History:</strong> carrying around water-filled fruit is expensive and stupid, so these people come into play.",
+  "t": "<strong>Histoire :</strong> transporter des fruits pleins d'eau, c'est cher et stupide, alors ces gens entrent en jeu."
+ },
+ "4cc0e4e2b542": {
+  "en": "<strong>History:</strong> because some cheese tastes better than others.",
+  "t": "<strong>Histoire :</strong> parce que certains fromages ont meilleur goût que d'autres."
+ },
+ "4cc30bf0e4df": {
+  "en": "<strong>History:</strong> information is necessary, so some people make vellum and paper for it.",
+  "t": "<strong>Histoire :</strong> l'information est nécessaire, donc certaines personnes font du vélin et du papier pour elle."
+ },
+ "4e490ca564ff": {
+  "en": "Stable Hand",
+  "t": "Palefrenier"
  },
  "4e7433e7ccf8": {
   "en": "Itagiba: a man with dark blue hair in a blue-and-yellow scale-patterned tunic and a white cape.",
   "t": "Itagiba : un homme aux cheveux bleu foncé en tunique bleue et jaune à motif d'écailles et cape blanche."
  },
+ "5017ecaaa687": {
+  "en": "<strong>History:</strong> as roads were built, maintaining them became a job.",
+  "t": "<strong>Histoire :</strong> à mesure qu'on construisait des routes, les entretenir est devenu un métier."
+ },
+ "50954eebb17f": {
+  "en": "Courtroom Scientists",
+  "t": "Scientifiques de la cour"
+ },
+ "51a3785f5d91": {
+  "en": "The fifth richest people in the world. Their power reaches the village at most.",
+  "t": "Les cinquièmes gens les plus riches du monde. Leur pouvoir s'étend au plus au village."
+ },
  "527c8f4739ce": {
   "en": "Neferteri: a woman with long dark wavy hair in a fitted dark-blue gown with gold shoulder pieces.",
   "t": "Neferteri : une femme aux longs cheveux sombres et ondulés en robe ajustée bleu foncé avec des épaulettes dorées."
+ },
+ "54502895326e": {
+  "en": "<strong>History:</strong> as prosperity created wealthy people, they wanted someone else to handle running the home, correspondence, etc.",
+  "t": "<strong>Histoire :</strong> quand la prospérité a créé des gens riches, ils ont voulu que quelqu'un d'autre s'occupe de la maison, de la correspondance, etc."
+ },
+ "5617d0e19fd1": {
+  "en": "<strong>Average pay:</strong> 7 Pearls an hour for apprentices, 8 for masters.",
+  "t": "<strong>Paie moyenne :</strong> 7 Pearls de l'heure pour les apprentis, 8 pour les maîtres."
+ },
+ "56bc447690c6": {
+  "en": "Tier I Professions",
+  "t": "Métiers de Niveau I"
+ },
+ "56e0dda2c924": {
+  "en": "<strong>History:</strong> people kill people, so someone needs to make the instruments.",
+  "t": "<strong>Histoire :</strong> les gens tuent des gens, donc il faut quelqu'un pour fabriquer les instruments."
+ },
+ "59d300feaf18": {
+  "en": "<strong>Duties:</strong> look after the Royal Guild's needs and security, and coordinate the maids under them to keep the castle clean and the food stock full.",
+  "t": "<strong>Tâches :</strong> veiller aux besoins et à la sécurité de la Royal Guild, et coordonner les domestiques sous ses ordres pour garder le château propre et les réserves de nourriture pleines."
+ },
+ "5a6f65812b37": {
+  "en": "<strong>History:</strong> detail-oriented blacksmiths end up becoming artisan blacksmiths.",
+  "t": "<strong>Histoire :</strong> les forgerons soucieux du détail finissent par devenir forgerons artisans."
+ },
+ "5a98da265d5e": {
+  "en": "<strong>Training:</strong> Tailoring School, and a natural talent for tailoring.",
+  "t": "<strong>Formation :</strong> la Tailoring School, et un talent naturel pour la couture."
+ },
+ "5aee24487cc6": {
+  "en": "Wooly Herder Manager",
+  "t": "Chef éleveur de Woolies"
+ },
+ "5e469c7af7f3": {
+  "en": "<strong>History:</strong> you can get paid to get fucked, especially if you're handsome or pretty.",
+  "t": "<strong>Histoire :</strong> tu peux être payé pour te faire baiser, surtout si tu es beau ou belle."
+ },
+ "5efe7a99b20c": {
+  "en": "<strong>Duties:</strong> create highly detailed weapons, armor, etc.",
+  "t": "<strong>Tâches :</strong> créer des armes, des armures, etc. très détaillées."
+ },
+ "5f3ad4b71849": {
+  "en": "Common Courtesans",
+  "t": "Courtisanes ordinaires"
+ },
+ "608568177053": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Professions.md\">Legacy/Behind The Scenes/World Lore/Professions.md</a>",
+  "t": "Source : <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Professions.md\">Legacy/Behind The Scenes/World Lore/Professions.md</a>"
+ },
+ "60b088d5f48f": {
+  "en": "Artisan Blacksmiths",
+  "t": "Forgerons artisans"
+ },
+ "6157f51be11a": {
+  "en": "Travelling Merchants",
+  "t": "Marchands itinérants"
+ },
+ "6376a98f2ee7": {
+  "en": "Tier IV Professions",
+  "t": "Métiers de Niveau IV"
+ },
+ "63d06880bbbb": {
+  "en": "<strong>History:</strong> people need to cover up their private parts.",
+  "t": "<strong>Histoire :</strong> les gens ont besoin de couvrir leurs parties intimes."
+ },
+ "6544e8527e29": {
+  "en": "Paper/Vellum Crafter",
+  "t": "Fabricant de papier/vélin"
+ },
+ "671c09582799": {
+  "en": "Ore Smelter",
+  "t": "Fondeur de minerai"
  },
  "679e8553a8c5": {
   "en": "58 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "58 autres entrées de cette page se trouvent uniquement dans <button class=\"linklike\" data-go-bts>Les coulisses</button>."
  },
+ "6813b11bf2ee": {
+  "en": "<strong>Training:</strong> Fundamental School and Construction School.",
+  "t": "<strong>Formation :</strong> l'école fondamentale et la Construction School."
+ },
+ "68a7f27f1b12": {
+  "en": "Sapphire Adventurer",
+  "t": "Aventurier Sapphire"
+ },
+ "68c5f1755e66": {
+  "en": "<strong>Training:</strong> Fundamental School plus two specialized schools.",
+  "t": "<strong>Formation :</strong> l'école fondamentale plus deux écoles spécialisées."
+ },
+ "6911adcc6c62": {
+  "en": "Queen",
+  "t": "Reine"
+ },
+ "6c3918982164": {
+  "en": "Construction Manager",
+  "t": "Chef de chantier"
+ },
+ "6e81e6be1642": {
+  "en": "<strong>History:</strong> as villages grew bigger, someone had to step in and keep the peace.",
+  "t": "<strong>Histoire :</strong> à mesure que les villages grandissaient, il a fallu quelqu'un pour maintenir la paix."
+ },
+ "6f79a5b62983": {
+  "en": "<strong>Training:</strong> Blacksmithing School.",
+  "t": "<strong>Formation :</strong> la Blacksmithing School."
+ },
+ "70016c9d6d2a": {
+  "en": "<strong>History:</strong> people need to cover up their private parts in fashion.",
+  "t": "<strong>Histoire :</strong> les gens ont besoin de couvrir leurs parties intimes avec style."
+ },
+ "7064ebb74cf6": {
+  "en": "Innkeeper &amp; Barkeepers",
+  "t": "Aubergistes &amp; tenanciers de bar"
+ },
+ "715c2089fc59": {
+  "en": "<strong>Training:</strong> Fundamental School, plus Combat and Soul Energy School.",
+  "t": "<strong>Formation :</strong> l'école fondamentale, plus la Combat School et la Soul Energy School."
+ },
+ "730844dedb2a": {
+  "en": "<strong>Duties:</strong> take care of the kingdom. Work with the Queen, the courtroom scientists and the other kingdoms to comply with the Prosperity Treaty, and plan city protection with the courtroom scientists and city guards.",
+  "t": "<strong>Tâches :</strong> prendre soin du royaume. Travailler avec la Reine, les scientifiques de la cour et les autres royaumes pour respecter le Traité de la Prospérité, et planifier la protection de la ville avec les scientifiques de la cour et les gardes de la ville."
+ },
+ "733e77b5c07a": {
+  "en": "<strong>Training:</strong> Fundamental School and Historian/Teaching School.",
+  "t": "<strong>Formation :</strong> l'école fondamentale et l'Historian/Teaching School."
+ },
+ "735d6ad94d9e": {
+  "en": "<strong>Duties:</strong> see Natural &amp; Crafted Resources.",
+  "t": "<strong>Tâches :</strong> voir Ressources naturelles &amp; fabriquées."
+ },
+ "7506752cedeb": {
+  "en": "Wood/Stone Worker",
+  "t": "Ouvrier du bois/de la pierre"
+ },
+ "7510681254ef": {
+  "en": "Historians/Teachers",
+  "t": "Historiens/enseignants"
+ },
+ "76e3a446b863": {
+  "en": "<strong>Average pay:</strong> 1 Pearl an hour, for apprentices and masters alike.",
+  "t": "<strong>Paie moyenne :</strong> 1 Pearl de l'heure, pour les apprentis comme pour les maîtres."
+ },
+ "7944c42b1f36": {
+  "en": "The second richest people in the world. Their power reaches a region at most.",
+  "t": "Les deuxièmes gens les plus riches du monde. Leur pouvoir s'étend au plus à une région."
+ },
+ "80d320af3392": {
+  "en": "<strong>Duties:</strong> help take care of the kingdom. Work with the King, the Queen and the other kingdoms to comply with the Prosperity Treaty, and plan city protection with the King and city guards. How much depends on how the kingdom is organized.",
+  "t": "<strong>Tâches :</strong> aider à prendre soin du royaume. Travailler avec le Roi, la Reine et les autres royaumes pour respecter le Traité de la Prospérité, et planifier la protection de la ville avec le Roi et les gardes de la ville. La part dépend de l'organisation du royaume."
+ },
+ "812b84ec0b97": {
+  "en": "Maid",
+  "t": "Domestique"
+ },
+ "84c1568c097f": {
+  "en": "<strong>History:</strong> because cheese tastes good.",
+  "t": "<strong>Histoire :</strong> parce que le fromage, c'est bon."
+ },
  "85fb53e4bc11": {
   "en": "Professions",
   "t": "Métiers"
+ },
+ "8655c454b395": {
+  "en": "Large Farm Owner",
+  "t": "Propriétaire d'une grande ferme"
+ },
+ "8735f4858edd": {
+  "en": "<strong>Duties:</strong> extract wood from forests.",
+  "t": "<strong>Tâches :</strong> extraire le bois des forêts."
+ },
+ "87af01bd9c7e": {
+  "en": "Sanbi Eye",
+  "t": "Sanbi Eye"
+ },
+ "8869272e670d": {
+  "en": "<strong>Duties:</strong> make vellum from animal skin, and paper from wood pulp.",
+  "t": "<strong>Tâches :</strong> faire du vélin avec de la peau d'animal, et du papier avec de la pâte de bois."
+ },
+ "893b7a9113f6": {
+  "en": "<strong>Duties:</strong> housekeeping. How far it goes depends on the household and the maid's prestige: from more \"normal\" maids, up to someone like Eiri, a King-Maid, whose job extends into finances, cooking, cleaning and taxes.",
+  "t": "<strong>Tâches :</strong> le ménage. Jusqu'où ça va dépend du foyer et du prestige de la domestique : des domestiques plus « normales », jusqu'à quelqu'un comme Eiri, une King-Maid, dont le travail s'étend aux finances, à la cuisine, au ménage et aux impôts."
+ },
+ "8b2083a989d7": {
+  "en": "<strong>History:</strong> someone who takes merchanting very seriously. Usually passed down through the guild, and often started by a traveling merchant who settled down and created a guild.",
+  "t": "<strong>Histoire :</strong> quelqu'un qui prend le commerce très au sérieux. En général transmis par la guilde, et souvent commencé par un marchand itinérant qui s'est installé et a créé une guilde."
+ },
+ "8cd18dc81c09": {
+  "en": "Courtroom Scientists Apprentice",
+  "t": "Apprenti scientifique de la cour"
+ },
+ "8dbd7e9ca168": {
+  "en": "King-Maid",
+  "t": "King-Maid"
+ },
+ "8e5ec084d90d": {
+  "en": "Quarrymen",
+  "t": "Carriers"
  },
  "8e6a957df8e2": {
   "en": "Summary written by AI from the author's notes (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Professions.md\">Professions.md</a>). <a href=\"/about/ai-disclosure/\">AI disclosure</a>",
   "t": "Résumé rédigé par une IA à partir des notes de l'auteur (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Professions.md\">Professions.md</a>). <a href=\"/about/ai-disclosure/\">Transparence sur l'IA</a>"
  },
+ "8f0a0926f3dc": {
+  "en": "<strong>History:</strong> someone has to take care of the dead, especially once people develop complex rituals.",
+  "t": "<strong>Histoire :</strong> il faut quelqu'un pour s'occuper des morts, surtout une fois que les gens ont développé des rituels complexes."
+ },
+ "904f51b879b7": {
+  "en": "<strong>Duties:</strong> take care of the lighthouse: pump water into the fost stone, replace the stone, etc.",
+  "t": "<strong>Tâches :</strong> s'occuper du phare : pomper de l'eau dans la pierre fost, remplacer la pierre, etc."
+ },
+ "90a167603476": {
+  "en": "<strong>Training:</strong> knowing how to read speeds up going from apprentice to master; otherwise, learn on the job.",
+  "t": "<strong>Formation :</strong> savoir lire accélère le passage d'apprenti à maître ; sinon, apprendre sur le tas."
+ },
+ "9211c4167577": {
+  "en": "<strong>History:</strong> one of the earliest jobs in existence.",
+  "t": "<strong>Histoire :</strong> l'un des plus anciens métiers qui existent."
+ },
+ "9312d57b974b": {
+  "en": "<strong>Training:</strong> Tailoring School.",
+  "t": "<strong>Formation :</strong> la Tailoring School."
+ },
+ "97850b76d678": {
+  "en": "How much of this applies depends on how the kingdom is organized.",
+  "t": "La part qui s'applique dépend de l'organisation du royaume."
+ },
+ "9866309d4236": {
+  "en": "<strong>History:</strong> paper is half the battle, so someone needs to make the ink and the wax.",
+  "t": "<strong>Histoire :</strong> le papier, c'est la moitié du travail, donc il faut quelqu'un pour faire l'encre et la cire."
+ },
+ "9b85c6e5d0b9": {
+  "en": "<strong>Duties:</strong> keep the peace, assist in investigations and help medics. Also coordinate nari stone usage, work with adventurers, and coordinate with the King and courtroom scientists (depending on how the kingdom is organized).",
+  "t": "<strong>Tâches :</strong> maintenir la paix, aider aux enquêtes et aider les soigneurs. Aussi coordonner l'utilisation des pierres nari, travailler avec les aventuriers, et se coordonner avec le Roi et les scientifiques de la cour (selon l'organisation du royaume)."
+ },
+ "9bb4137522b5": {
+  "en": "<strong>Training:</strong> learn on the job; no reading required.",
+  "t": "<strong>Formation :</strong> apprendre sur le tas ; pas besoin de savoir lire."
+ },
+ "9cc2644f0b21": {
+  "en": "<strong>Duties:</strong> handle egua births and health, and manage the stable business.",
+  "t": "<strong>Tâches :</strong> gérer les naissances et la santé des eguas, et gérer le commerce de l'écurie."
+ },
+ "9cf048940577": {
+  "en": "<strong>Duties:</strong> own one or more general trading goods stores, often in touch with traveling and local merchants.",
+  "t": "<strong>Tâches :</strong> posséder un ou plusieurs magasins de marchandises générales, souvent en contact avec des marchands itinérants et locaux."
+ },
+ "9de10e4e0588": {
+  "en": "<strong>Duties:</strong> take care of the kingdom. Work with the King, the courtroom scientists and the other kingdoms to comply with the Prosperity Treaty.",
+  "t": "<strong>Tâches :</strong> prendre soin du royaume. Travailler avec le Roi, les scientifiques de la cour et les autres royaumes pour respecter le Traité de la Prospérité."
+ },
+ "9e14a9b61df8": {
+  "en": "Pearl-Adventurer",
+  "t": "Aventurier Pearl"
+ },
+ "9ef0113ea58c": {
+  "en": "<strong>Average pay:</strong> 3 Pearls an hour for apprentices, 4 for masters.",
+  "t": "<strong>Paie moyenne :</strong> 3 Pearls de l'heure pour les apprentis, 4 pour les maîtres."
+ },
+ "a0016405da13": {
+  "en": "Region Merchants",
+  "t": "Marchands régionaux"
+ },
+ "a40ce03445ed": {
+  "en": "Cheesemaker",
+  "t": "Fromager"
+ },
+ "a4ea7abd9faa": {
+  "en": "Ore Miner",
+  "t": "Mineur"
+ },
+ "a60170890f1f": {
+  "en": "Street Cleaner",
+  "t": "Balayeur de rue"
+ },
+ "a69d012911c6": {
+  "en": "<strong>Duties:</strong> treat leather and animal skin for dresses, weapons and vellum.",
+  "t": "<strong>Tâches :</strong> traiter le cuir et la peau d'animal pour les robes, les armes et le vélin."
+ },
+ "aa5928af8f30": {
+  "en": "<strong>History:</strong> works alongside butchers to treat game skin and bones.",
+  "t": "<strong>Histoire :</strong> travaille avec les bouchers pour traiter la peau et les os du gibier."
+ },
+ "aaacdfb70de3": {
+  "en": "<strong>Training:</strong> Fundamental School isn't required, but it's really hard to do without.",
+  "t": "<strong>Formation :</strong> l'école fondamentale n'est pas obligatoire, mais c'est vraiment dur de s'en passer."
+ },
+ "ab43b4c49d47": {
+  "en": "<strong>History:</strong> as eguas were domesticated, people were needed to handle them.",
+  "t": "<strong>Histoire :</strong> quand les eguas ont été domestiquées, il a fallu des gens pour s'en occuper."
+ },
+ "ac2b1387dbe5": {
+  "en": "<strong>History:</strong> someone who takes merchanting extremely seriously.",
+  "t": "<strong>Histoire :</strong> quelqu'un qui prend le commerce extrêmement au sérieux."
+ },
+ "ac55d9500a19": {
+  "en": "<strong>Duties:</strong> drive egua carts from city to city, carrying basic goods.",
+  "t": "<strong>Tâches :</strong> conduire des charrettes à egua de ville en ville, en transportant des marchandises de base."
+ },
+ "acab31af4a94": {
+  "en": "Blacksmiths",
+  "t": "Forgerons"
+ },
+ "ad03f38d3329": {
+  "en": "<strong>History:</strong> as Sanbi became a fishing hub, boat repair became necessary.",
+  "t": "<strong>Histoire :</strong> quand Sanbi est devenu un centre de pêche, la réparation des bateaux est devenue nécessaire."
+ },
+ "ad040d86c60e": {
+  "en": "<strong>History:</strong> the job started in the Sanbi Kingdom, when great adventurers built castles and needed someone they trusted to help run them.",
+  "t": "<strong>Histoire :</strong> le métier est né dans le Royaume de Sanbi, quand de grands aventuriers ont construit des châteaux et ont eu besoin de quelqu'un de confiance pour les aider à les gérer."
+ },
+ "ae37fc145770": {
+  "en": "<strong>Duties:</strong> tame wingas from the egg into adulthood for courier services.",
+  "t": "<strong>Tâches :</strong> dresser les wingas de l'œuf à l'âge adulte pour les services de courrier."
+ },
+ "b189e5d0c2de": {
+  "en": "<strong>History:</strong> small farmers exist all over the place, usually feeding themselves and selling the leftovers for other things.",
+  "t": "<strong>Histoire :</strong> il y a de petits fermiers partout, qui en général se nourrissent eux-mêmes et vendent le surplus contre d'autres choses."
+ },
+ "b1dc1614410d": {
+  "en": "Ink/Wax Crafter",
+  "t": "Fabricant d'encre/de cire"
+ },
+ "b44d69d8fd77": {
+  "en": "<strong>Duties:</strong> read, play and write songs.",
+  "t": "<strong>Tâches :</strong> lire, jouer et écrire des chansons."
+ },
+ "b45bc2b2a503": {
+  "en": "<strong>History:</strong> an easy job, but kind of boring, and slightly dangerous at times.",
+  "t": "<strong>Histoire :</strong> un travail facile, mais un peu ennuyeux, et parfois un peu dangereux."
+ },
+ "b510917433fe": {
+  "en": "<strong>Duties:</strong> dry fruits, herbs and plenty more for transport.",
+  "t": "<strong>Tâches :</strong> sécher les fruits, les herbes et bien d'autres choses pour le transport."
+ },
+ "b6070e32bbe6": {
+  "en": "<strong>Duties:</strong> mine ore, open tunnels and carry the ore to the surface.",
+  "t": "<strong>Tâches :</strong> extraire le minerai, ouvrir des tunnels et remonter le minerai à la surface."
+ },
+ "b867944bc051": {
+  "en": "<strong>Duties:</strong> hunt prey, butcher it, and bring it back somewhere to sell.",
+  "t": "<strong>Tâches :</strong> chasser des proies, les dépecer, et les ramener quelque part pour les vendre."
+ },
+ "bad034722d1e": {
+  "en": "Butcher",
+  "t": "Boucher"
+ },
+ "bb36fe9ded56": {
+  "en": "<strong>Duties:</strong> make cheese, store it and care for it.",
+  "t": "<strong>Tâches :</strong> faire le fromage, le stocker et en prendre soin."
+ },
+ "bda34c2a7451": {
+  "en": "<strong>Average pay:</strong> 10 Pearls an hour for apprentices, 15 for masters.",
+  "t": "<strong>Paie moyenne :</strong> 10 Pearls de l'heure pour les apprentis, 15 pour les maîtres."
+ },
+ "c2201e677745": {
+  "en": "<strong>Duties:</strong> fix the roads and clear the forest from them. The risk of bandits makes the job better paid.",
+  "t": "<strong>Tâches :</strong> réparer les routes et les dégager de la forêt. Le risque de bandits rend le travail mieux payé."
+ },
+ "c30883afd5f6": {
+  "en": "Amethyst-Adventurer",
+  "t": "Aventurier Amethyst"
+ },
  "c4667604a234": {
   "en": "Sanbi: a large pale-blue fish with long whiskers and a surprised face, about 100 cm long.",
   "t": "Sanbi : un grand poisson bleu pâle aux longues moustaches et à l'air surpris, d'environ 100 cm de long."
+ },
+ "cbb51621835d": {
+  "en": "Wooly Herder",
+  "t": "Éleveur de Woolies"
+ },
+ "cbd68c37cc78": {
+  "en": "Boat Repair",
+  "t": "Réparateur de bateaux"
+ },
+ "cbed7f59d6fd": {
+  "en": "Winga Tamers",
+  "t": "Dresseurs de Wingas"
+ },
+ "cc39950b13a6": {
+  "en": "Fisherman",
+  "t": "Pêcheur"
+ },
+ "ccf0ec7f8e69": {
+  "en": "The richest people in the four kingdoms. Their power is immense, and their riches are vast.",
+  "t": "Les gens les plus riches des quatre royaumes. Leur pouvoir est immense, et leurs richesses sont vastes."
+ },
+ "d2e41bcd0d7f": {
+  "en": "<strong>History:</strong> the job came into being when great adventurers founded the kingdoms.",
+  "t": "<strong>Histoire :</strong> le métier est né quand de grands aventuriers ont fondé les royaumes."
+ },
+ "d3a73806f843": {
+  "en": "<strong>Training:</strong> Fundamental School, Accounting School and Cooking School.",
+  "t": "<strong>Formation :</strong> l'école fondamentale, l'Accounting School et la Cooking School."
+ },
+ "d484cd3a84d0": {
+  "en": "<strong>History:</strong> someone has to do the smelting, but not everyone wants to.",
+  "t": "<strong>Histoire :</strong> il faut quelqu'un pour la fonte, mais tout le monde n'en a pas envie."
+ },
+ "d5c2162ccaf8": {
+  "en": "<strong>Duties:</strong> bookkeeping, inventory and social management.",
+  "t": "<strong>Tâches :</strong> la comptabilité, l'inventaire et la gestion sociale."
+ },
+ "d6019c93262f": {
+  "en": "<strong>Duties:</strong> smelt ores into bars and remove impurities.",
+  "t": "<strong>Tâches :</strong> fondre les minerais en lingots et enlever les impuretés."
+ },
+ "d61406cedc5f": {
+  "en": "<strong>Training:</strong> none.",
+  "t": "<strong>Formation :</strong> aucune."
+ },
+ "d69650457fa0": {
+  "en": "<strong>History:</strong> wherever humans live, history soon follows, filling libraries. But some history was lost during the Greed Period, when wars raged for a long time, and tons more because before Ganyrami it was mostly passed by word of mouth among humans. The Darfaries burned their own history, which makes the past kind of sketchy. And some people don't care about history, because they prefer living in the present. So people in this profession usually teach at the fundamental level to earn a livable wage while they pursue research nobody is funding.",
+  "t": "<strong>Histoire :</strong> partout où vivent des humains, l'histoire suit bientôt, remplissant des bibliothèques. Mais une partie de l'histoire s'est perdue pendant la Période de l'Avidité, quand les guerres ont fait rage longtemps, et des tonnes d'autres parce qu'avant Ganyrami, elle se transmettait surtout de bouche à oreille chez les humains. Les Darfaries ont brûlé leur propre histoire, ce qui rend le passé un peu flou. Et certaines personnes se fichent de l'histoire, parce qu'elles préfèrent vivre dans le présent. Donc les gens de ce métier enseignent en général au niveau fondamental pour gagner de quoi vivre pendant qu'ils poursuivent des recherches que personne ne finance."
+ },
+ "d86a0b9b9510": {
+  "en": "<strong>Duties:</strong> skin game for tanners, slice game, cure meat, etc.",
+  "t": "<strong>Tâches :</strong> dépecer le gibier pour les tanneurs, découper le gibier, saler la viande, etc."
+ },
+ "da654b0ff3a4": {
+  "en": "<strong>Training:</strong> Fundamental School and Cooking School.",
+  "t": "<strong>Formation :</strong> l'école fondamentale et la Cooking School."
+ },
+ "dc0cff2c2774": {
+  "en": "<strong>History:</strong> cleans latrines and cesspits.",
+  "t": "<strong>Histoire :</strong> nettoie les latrines et les fosses d'aisance."
+ },
+ "e08eaff25c85": {
+  "en": "Stable Hand Manager",
+  "t": "Chef palefrenier"
+ },
+ "e13a98f3de63": {
+  "en": "<strong>Duties:</strong> build and repair buildings, following the construction manager's orders.",
+  "t": "<strong>Tâches :</strong> construire et réparer des bâtiments, en suivant les ordres du chef de chantier."
+ },
+ "e1fc1d68d654": {
+  "en": "Construction Worker",
+  "t": "Ouvrier du bâtiment"
+ },
+ "e23d1749a392": {
+  "en": "<strong>Training:</strong> Fundamental School and Accounting School help, but aren't necessary.",
+  "t": "<strong>Formation :</strong> l'école fondamentale et l'Accounting School aident, mais ne sont pas nécessaires."
+ },
+ "e4b3b9f96c31": {
+  "en": "Bards",
+  "t": "Bardes"
+ },
+ "e4ca89513f69": {
+  "en": "<strong>Duties:</strong> create weapons, armor, etc.",
+  "t": "<strong>Tâches :</strong> créer des armes, des armures, etc."
+ },
+ "e5c4e470299e": {
+  "en": "Farmer",
+  "t": "Fermier"
+ },
+ "e630e59b38c5": {
+  "en": "<strong>Duties:</strong> keep the peace, assist in investigations and help medics.",
+  "t": "<strong>Tâches :</strong> maintenir la paix, aider aux enquêtes et aider les soigneurs."
+ },
+ "e8f3b4c1733e": {
+  "en": "<strong>History:</strong> medium-sized farmers exist all over the place, usually both feeding themselves and selling crops and livestock.",
+  "t": "<strong>Histoire :</strong> il y a des fermiers moyens partout, qui en général se nourrissent eux-mêmes et vendent des récoltes et du bétail."
+ },
+ "e90669a4b73b": {
+  "en": "<strong>History:</strong> as egua taming became more common, someone had to oversee the stable.",
+  "t": "<strong>Histoire :</strong> quand le dressage des eguas est devenu plus courant, il a fallu quelqu'un pour superviser l'écurie."
+ },
+ "e9b43d11425b": {
+  "en": "City Guard",
+  "t": "Garde de la ville"
+ },
+ "eec4b8a22e47": {
+  "en": "The sixth richest people in the world. Their power is none.",
+  "t": "Les sixièmes gens les plus riches du monde. Leur pouvoir est nul."
+ },
+ "f2e56469294d": {
+  "en": "<strong>History:</strong> one of the earliest jobs in existence: hunting in the nearby woods, a quite dangerous job. Mostly replaced by adventurer hunting, since hunters on their own don't have the safety net adventurers have with the embassies.",
+  "t": "<strong>Histoire :</strong> l'un des plus anciens métiers qui existent : chasser dans les bois voisins, un travail assez dangereux. En grande partie remplacé par la chasse des aventuriers, puisque les chasseurs seuls n'ont pas le filet de sécurité qu'ont les aventuriers avec les ambassades."
+ },
+ "f3c4e3eb138e": {
+  "en": "<strong>Duties:</strong> clean the streets.",
+  "t": "<strong>Tâches :</strong> nettoyer les rues."
+ },
+ "f8a9289d923c": {
+  "en": "Tanner",
+  "t": "Tanneur"
+ },
+ "f8f1865f17cf": {
+  "en": "Medium-Farm-Owner",
+  "t": "Propriétaire d'une ferme moyenne"
+ },
+ "fb7077c5ef7b": {
+  "en": "<strong>History:</strong> wherever people go, entertainment soon follows.",
+  "t": "<strong>Histoire :</strong> partout où vont les gens, le divertissement suit bientôt."
+ },
+ "fd3902b68f3e": {
+  "en": "See <a href=\"/lore/embassies-and-guilds/\">Badges, Embassies &amp; Guilds</a>.",
+  "t": "Voir <a href=\"/lore/embassies-and-guilds/\">Badges, ambassades &amp; guildes</a>."
+ },
+ "fe27264e70d4": {
+  "en": "<strong>History:</strong> because Woolies are kind of stupid.",
+  "t": "<strong>Histoire :</strong> parce que les Woolies sont un peu stupides."
  }
 }

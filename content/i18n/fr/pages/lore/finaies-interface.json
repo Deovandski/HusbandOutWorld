@@ -1,7 +1,27 @@
 {
+ "0a2af398fe47": {
+  "en": "Ice",
+  "t": "Glace"
+ },
+ "0a48d44e337c": {
+  "en": "<strong>Shape the spell.</strong> Draw its logogram in the air (see Language › Finaies Interface Language), then hold the left hand's two fingers with the other hand for the element to appear.",
+  "t": "<strong>Façonne le sort.</strong> Dessine son logogramme dans l'air (voir Langage › Langage de l'interface Finaies), puis tiens les deux doigts de la main gauche avec l'autre main pour que l'élément apparaisse."
+ },
+ "1273827574a8": {
+  "en": "Ash",
+  "t": "Cendre"
+ },
+ "142b5758f344": {
+  "en": "Wind",
+  "t": "Vent"
+ },
  "2359f9fd7d5a": {
   "en": "The primordial interface of what we know as the Darfaries interface nowadays. Some say it’s the start of all interfaces as well, but that never left the ranting books of scientists as proof of that has been quite elusive.",
   "t": "L'interface primordiale de ce que nous connaissons aujourd'hui sous le nom d'interface Darfaries. Certains disent que c'est aussi le point de départ de toutes les interfaces, mais ça n'est jamais sorti des livres de coups de gueule des scientifiques, car la preuve en est restée plutôt insaisissable."
+ },
+ "2d2b9fe1f9fe": {
+  "en": "Creates a ball of lava.",
+  "t": "Crée une boule de lave."
  },
  "2d56d7adc9a6": {
   "en": "Finaies Interface · #HusbandOutWorld",
@@ -15,16 +35,140 @@
   "en": "Why is the interface symbology so small and specific? The consensus believes that it is related to the nature-focused and simplistic minds of Finaies.",
   "t": "Pourquoi la symbolique de l'interface est-elle si réduite et si précise ? Le consensus pense que c'est lié à l'esprit simple et tourné vers la nature des Finaies."
  },
+ "3749c8439c7a": {
+  "en": "Storm",
+  "t": "Tempête"
+ },
+ "4a00822dbc67": {
+  "en": "Ball size (cm)",
+  "t": "Taille de la boule (cm)"
+ },
+ "4c32a85dc8ec": {
+  "en": "Creates a ball of mud.",
+  "t": "Crée une boule de boue."
+ },
+ "4d1dbb53b348": {
+  "en": "<strong>Hold.</strong> Keep the fingers clenched to power up the holding hand. The longer you hold, the stronger the spell, and the more soul energy it costs. Other Finaies can touch you to give you soul energy and power the spell up faster.",
+  "t": "<strong>Maintiens.</strong> Garde les doigts serrés pour charger la main qui tient. Plus tu maintiens, plus le sort est fort, et plus il coûte d'énergie de l'âme. D'autres Finaies peuvent te toucher pour te donner de l'énergie de l'âme et charger le sort plus vite."
+ },
+ "4ebc18247e08": {
+  "en": "Steam",
+  "t": "Vapeur"
+ },
+ "4f3226d88153": {
+  "en": "Creates a ball of wind.",
+  "t": "Crée une boule de vent."
+ },
+ "604b6f188c5d": {
+  "en": "Creates a ball of water.",
+  "t": "Crée une boule d'eau."
+ },
+ "64a9807143ef": {
+  "en": "Creates a ball of ice.",
+  "t": "Crée une boule de glace."
+ },
+ "674982955154": {
+  "en": "Shock",
+  "t": "Choc"
+ },
+ "78baebfcb4b5": {
+  "en": "Fire",
+  "t": "Feu"
+ },
+ "7914569e33cc": {
+  "en": "The ball's size follows the General Power Effects: 0.1 cm at Tier I, doubling with every tier.",
+  "t": "La taille de la boule suit les General Power Effects : 0,1 cm au Niveau I, doublée à chaque niveau."
+ },
+ "795fe475b669": {
+  "en": "Spells in this category are released in the air, or as a projectile if you cock your arm back and release the spell as you push it forward.",
+  "t": "Les sorts de cette catégorie sont relâchés dans l'air, ou comme projectile si tu armes ton bras en arrière et relâches le sort en le poussant vers l'avant."
+ },
+ "7ef5d32f52cd": {
+  "en": "Creates a ball of ash.",
+  "t": "Crée une boule de cendre."
+ },
+ "8017fe7bff1c": {
+  "en": "Creates a ball of shock.",
+  "t": "Crée une boule de choc."
+ },
+ "8820d95a1ff1": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Finaies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Finaies Interface.md</a>",
+  "t": "Source : <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Finaies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Finaies Interface.md</a>"
+ },
  "8a7ee68cd8b1": {
   "en": "Unlike complex casting rituals of specific interfaces such as Darfaries and Buhraies, their interface resembles animals like Bagarisa. The casting is done with a simple, singular hand movement matching the desired output, and voila! The spell comes out swiftly and aggressively out of their stubbed hands.",
   "t": "Contrairement aux rituels de lancement complexes de certaines interfaces comme celles des Darfaries et des Buhraies, leur interface ressemble à celle d'animaux comme le Bagarisa. Le lancement se fait d'un simple mouvement unique de la main correspondant au résultat voulu, et voilà ! Le sort jaillit vite et violemment de leurs mains trapues."
+ },
+ "8be71aeae090": {
+  "en": "Creates a ball of frozen earth.",
+  "t": "Crée une boule de terre gelée."
+ },
+ "8d45a32dc1bd": {
+  "en": "Soul Energy - Finaies Interface (World Lore illustration)",
+  "t": "Énergie de l'âme - Interface Finaies (illustration de l'Univers)"
+ },
+ "9134ec5b6078": {
+  "en": "Creates a ball of fire.",
+  "t": "Crée une boule de feu."
+ },
+ "95a1423259bb": {
+  "en": "Creates a ball of earth.",
+  "t": "Crée une boule de terre."
+ },
+ "9c0cf1058f68": {
+  "en": "Frozen Earth",
+  "t": "Terre gelée"
+ },
+ "a074430f352b": {
+  "en": "Earth",
+  "t": "Terre"
+ },
+ "a1b06dfc3df5": {
+  "en": "<strong>Release.</strong> Separate your fingers to release the spell, or cock your arm back for a ranged attack.",
+  "t": "<strong>Relâche.</strong> Écarte les doigts pour relâcher le sort, ou arme ton bras en arrière pour une attaque à distance."
+ },
+ "b9a3fb9ac695": {
+  "en": "Lava",
+  "t": "Lave"
+ },
+ "ca30ca77ff43": {
+  "en": "In short: draw the spell in the air, hold to charge it, then release.",
+  "t": "En bref : dessine le sort dans l'air, maintiens pour le charger, puis relâche."
  },
  "cbf8ef1393dd": {
   "en": "The primordial interface of what we know as the Darfaries interface nowadays.",
   "t": "L'interface primordiale de ce que nous connaissons aujourd'hui sous le nom d'interface Darfaries."
  },
+ "cfad124318ab": {
+  "en": "Creates a ball of dust.",
+  "t": "Crée une boule de poussière."
+ },
+ "de9b1be49dae": {
+  "en": "Water",
+  "t": "Eau"
+ },
  "e0f540f92c72": {
   "en": "Casting",
   "t": "Lancement"
+ },
+ "eaff7cfcc0b1": {
+  "en": "Mud",
+  "t": "Boue"
+ },
+ "f596e6062c48": {
+  "en": "Dust",
+  "t": "Poussière"
+ },
+ "f74808bef3bb": {
+  "en": "Creates a ball of steam.",
+  "t": "Crée une boule de vapeur."
+ },
+ "fbe443348c64": {
+  "en": "Creates a ball of storm.",
+  "t": "Crée une boule de tempête."
+ },
+ "fd20e268a43c": {
+  "en": "A natural evolution of the Finaies that lets them use a basic, elemental soul energy interface. A Finaies draws the spell's logogram in the air with the left hand, and soul energy shapes the spell from that movement. Finaies hands have only two fingers, branch-like.",
+  "t": "Une évolution naturelle des Finaies qui leur permet d'utiliser une interface d'énergie de l'âme élémentaire et basique. Un Finaies dessine le logogramme du sort dans l'air avec la main gauche, et l'énergie de l'âme façonne le sort à partir de ce mouvement. Les mains des Finaies n'ont que deux doigts, comme des branches."
  }
 }

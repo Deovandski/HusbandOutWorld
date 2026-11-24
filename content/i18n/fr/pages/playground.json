@@ -1,11 +1,47 @@
 {
+ "00f03137e155": {
+  "en": "Easy",
+  "t": "Facile"
+ },
+ "0105b596e57e": {
+  "en": "Base: {flora}",
+  "t": "Socle : {flora}"
+ },
+ "016c526a1d2a": {
+  "en": "Rounds won: you {you}, {opp} {them}",
+  "t": "Manches gagnées : toi {you}, {opp} {them}"
+ },
+ "0240b5832a42": {
+  "en": "Plains",
+  "t": "Plaine"
+ },
+ "03f0feececb0": {
+  "en": "Flying",
+  "t": "Vol"
+ },
+ "08271419319f": {
+  "en": "Shield",
+  "t": "Bouclier"
+ },
+ "0a27a3b002bc": {
+  "en": "Round {n}",
+  "t": "Manche {n}"
+ },
  "0bf9322efcf3": {
   "en": "Final score: {you} {youScore}, {rival} {rivalScore}. {verdict}",
   "t": "Score final : {you} {youScore}, {rival} {rivalScore}. {verdict}"
  },
+ "0cb6b91a7c7b": {
+  "en": "Take turns placing one statue on a square on your side, on a flora base if you like, or pass. Every piece you place is spent for the match, so save some for later rounds.",
+  "t": "Chacun votre tour, place une statuette sur une case de ton côté, sur un socle de flore si tu veux, ou passe. Chaque pièce placée est consommée pour la partie, alors garde-en pour les manches suivantes."
+ },
  "0d4b087148ae": {
   "en": "Playground · #HusbandOutWorld",
   "t": "Terrain de jeu · #HusbandOutWorld"
+ },
+ "0e818bfa0679": {
+  "en": "monster",
+  "t": "monstre"
  },
  "11b7f08bcb49": {
   "en": "{player} snipes the {colour} territory ({points}).",
@@ -15,21 +51,85 @@
   "en": "Your turn: press Throw (or Space) when the aim is where you want it.",
   "t": "À toi : appuie sur Lance ! (ou Espace) quand la visée est où tu veux."
  },
+ "20f062e88b88": {
+  "en": "−{n} to the strongest opposing statue in its lane",
+  "t": "−{n} à la statuette adverse la plus forte de son couloir"
+ },
  "21504db71017": {
   "en": "Play full screen",
   "t": "Jouer en plein écran"
+ },
+ "2222ccdea406": {
+  "en": "+{n} at height {h} or more",
+  "t": "+{n} à partir de la hauteur {h}"
+ },
+ "227af057c460": {
+  "en": "never weaker than its carving",
+  "t": "jamais plus faible que sa sculpture"
+ },
+ "22ef541999f0": {
+  "en": "Next round",
+  "t": "Manche suivante"
+ },
+ "24ae8a560983": {
+  "en": "Paint my statues",
+  "t": "Peindre mes statuettes"
+ },
+ "25ab59baf8e0": {
+  "en": "Your side",
+  "t": "Ton côté"
+ },
+ "2640f77e9f83": {
+  "en": "Now choose a square for {name}.",
+  "t": "Choisis maintenant une case pour {name}."
  },
  "27bbcef16995": {
   "en": "Hiromi",
   "t": "Hiromi"
  },
+ "285691ff158a": {
+  "en": "ignores lower ground",
+  "t": "ignore les terrains plus bas"
+ },
+ "28a2784f6046": {
+  "en": "You found the nari stone in {name}!",
+  "t": "Tu as trouvé la pierre nari dans {name} !"
+ },
+ "2f157d7130ab": {
+  "en": "Choose a statue for your nari stone first.",
+  "t": "Choisis d'abord une statuette pour ta pierre nari."
+ },
+ "3199ea056253": {
+  "en": "animal",
+  "t": "animal"
+ },
+ "320089389f44": {
+  "en": "Your battalion",
+  "t": "Ton bataillon"
+ },
  "38d4249ff036": {
   "en": "⏱ {seconds}s · darts: {you} {youLeft}, {rival} {rivalLeft}",
   "t": "⏱ {seconds}s · fléchettes : {you} {youLeft}, {rival} {rivalLeft}"
  },
+ "39db64b96126": {
+  "en": "{opp} wins the match.",
+  "t": "{opp} remporte la partie."
+ },
+ "3d254c73066e": {
+  "en": "None left.",
+  "t": "Il n'en reste plus."
+ },
+ "3f21515a1b11": {
+  "en": "No base",
+  "t": "Sans socle"
+ },
  "40e405b6605c": {
   "en": "I haven’t heard of that, but yeah, I prefer targeting the yellow ones, as those are worth more if you snipe all territories.",
   "t": "J'ai pas entendu parler de ça, mais ouais, je préfère viser les jaunes, parce qu'elles valent plus si tu snipes tous les territoires."
+ },
+ "41fb3a0ef555": {
+  "en": "You win round {n}.",
+  "t": "Tu remportes la manche {n}."
  },
  "42766efba402": {
   "en": "Middle ring",
@@ -38,6 +138,22 @@
  "42ae6cb3cd8f": {
   "en": "Time! The room starts to move too much…",
   "t": "Temps ! La pièce commence à trop bouger…"
+ },
+ "449177d90198": {
+  "en": "its power stays hidden until the lanes are counted",
+  "t": "sa puissance reste cachée jusqu'au décompte des couloirs"
+ },
+ "45e05fa03651": {
+  "en": "Minari needs JavaScript to play.",
+  "t": "Il faut JavaScript pour jouer à Minari."
+ },
+ "46b474188aa4": {
+  "en": "Battlefield: {region}",
+  "t": "Champ de bataille : {region}"
+ },
+ "4a4331759c36": {
+  "en": "<a href=\"/lore/pastimes/#minari\">Minari</a>, the carved-statue game played in Sanbi Castle's game room: a working prototype, against Nina, Aurora or Neferteri.",
+  "t": "<a href=\"/lore/pastimes/#minari\">Minari</a>, le jeu de statuettes sculptées auquel on joue dans la salle de jeux du château de Sanbi : un prototype jouable, contre Nina, Aurora ou Neferteri."
  },
  "4c660686dc07": {
   "en": "His first dart clings, then falls. The second lands on a green territory near the centre.",
@@ -51,21 +167,73 @@
   "en": "Kinda? Was the board always this big and colored? I thought it was rounded too— OH YEAH! The center is worth more, right?",
   "t": "Un peu ? La cible a toujours été aussi grande et colorée ? Je pensais qu'elle était ronde aussi— OH OUAIS ! Le centre vaut plus, c'est ça ?"
  },
+ "4ec00394908f": {
+  "en": "How to play",
+  "t": "Comment jouer"
+ },
+ "4f0919dac51a": {
+  "en": "Neferteri",
+  "t": "Neferteri"
+ },
+ "4f4e60287877": {
+  "en": "You win the match!",
+  "t": "Tu remportes la partie !"
+ },
  "50ccc5e2e037": {
   "en": "He aims for the same green, and lands far above it, on purple.",
   "t": "Il vise le même vert et atterrit bien au-dessus, sur le violet."
+ },
+ "530cececb444": {
+  "en": "no stone inside.",
+  "t": "pas de pierre dedans."
+ },
+ "5719e9acd479": {
+  "en": "The table has <strong>5 lanes</strong>. Each lane has a square on your side and one on theirs, with a terrain and a height. A statue on its home terrain gets <strong>+2</strong>; standing higher than the square across gives <strong>+1 per level</strong>, lower gives the same as a minus.",
+  "t": "La table a <strong>5 couloirs</strong>. Chaque couloir a une case de ton côté et une du sien, avec un terrain et une hauteur. Une statuette sur son terrain de prédilection gagne <strong>+2</strong> ; être plus haut que la case d'en face donne <strong>+1 par niveau</strong>, être plus bas donne la même chose en négatif."
  },
  "576766d387ec": {
   "en": "Play again",
   "t": "Rejouer"
  },
+ "595f9c0beff7": {
+  "en": "{name} is eliminated: {result}",
+  "t": "{name} est éliminé : {result}"
+ },
+ "5ad1c0fc4343": {
+  "en": "{who} passed.",
+  "t": "{who} : passe."
+ },
+ "5c209e93ce26": {
+  "en": "Start the match",
+  "t": "Commencer la partie"
+ },
+ "5d0ac69701af": {
+  "en": "power {n}",
+  "t": "puissance {n}"
+ },
+ "6572f28b79ce": {
+  "en": "Lane {n}: tied, {a} to {b}.",
+  "t": "Couloir {n} : égalité, {a} à {b}."
+ },
  "69b0b68def54": {
   "en": "SEE? It’s all about mindset! You know what, Harry? You’re cool! So why not play a bit of territory snipping to celebrate?",
   "t": "TU VOIS ? Tout est une question d'état d'esprit ! Tu sais quoi, Harry ? T'es cool ! Alors pourquoi pas jouer un peu au territory snipping pour fêter ça ?"
  },
+ "6cd280647632": {
+  "en": "{name}, {kind}, power {power}, home: {terrains}{traits}",
+  "t": "{name}, {kind}, puissance {power}, terrain de prédilection : {terrains}{traits}"
+ },
+ "7468786df7e7": {
+  "en": "Your flora bases",
+  "t": "Tes socles de flore"
+ },
  "76262d314611": {
   "en": "Territory Snipping: turn your phone sideways",
   "t": "Territory Snipping : tourne ton téléphone à l’horizontale"
+ },
+ "78981b123f83": {
+  "en": "When both sides have passed, each lane goes to the side with more power there. The losing side's statues in that lane are <strong>eliminated</strong>, and you see whether the nari stone was inside.",
+  "t": "Quand les deux camps ont passé, chaque couloir revient au camp qui y a le plus de puissance. Les statuettes du camp perdant dans ce couloir sont <strong>éliminées</strong>, et tu vois si la pierre nari était dedans."
  },
  "78988010b890": {
   "en": "red",
@@ -75,25 +243,65 @@
   "en": "{n} pt",
   "t": "{n} pt"
  },
+ "7e99995a1667": {
+  "en": "Choose your opponent",
+  "t": "Choisis ton adversaire"
+ },
  "85a1ecacad2c": {
   "en": "That’s the spirit! … You played this before, right?",
   "t": "C'est l'esprit ! … T'as déjà joué à ça, hein ?"
+ },
+ "864900d5a132": {
+  "en": "hides your nari stone",
+  "t": "cache ta pierre nari"
+ },
+ "8845064f5b91": {
+  "en": "+{n} to a {kind}",
+  "t": "+{n} à un {kind}"
+ },
+ "888d16612e6f": {
+  "en": "Choose the statue that hides your nari stone.",
+  "t": "Choisis la statuette qui cache ta pierre nari."
  },
  "8bf12a38bad0": {
   "en": "Throw!",
   "t": "Lance !"
  },
+ "8c8d4feff7de": {
+  "en": "Your nari stone is inside {name}.",
+  "t": "Ta pierre nari est dans {name}."
+ },
+ "905cb326c779": {
+  "en": "You",
+  "t": "Toi"
+ },
+ "91586b73ba8c": {
+  "en": "the nari stone was inside!",
+  "t": "la pierre nari était dedans !"
+ },
  "935f6cd89f4a": {
   "en": "A draw!",
   "t": "Égalité !"
+ },
+ "93c3ef1e3de3": {
+  "en": "That square is full.",
+  "t": "Cette case est occupée."
  },
  "94e6a3ea4d1f": {
   "en": "Turn your phone sideways to play.",
   "t": "Tourne ton téléphone à l’horizontale pour jouer."
  },
+ "955ddba3d08e": {
+  "en": "{name}: {effect}",
+  "t": "{name} : {effect}"
+ },
  "96de5543d183": {
   "en": "yellow",
   "t": "jaune"
+ },
+ "98dc61652f7c": {
+  "en": "{opp} is choosing…",
+  "t": "{opp} réfléchit…"
  },
  "992fb4c6838e": {
   "en": "{you} wins, somehow!",
@@ -103,6 +311,10 @@
   "en": "You’re coolio too!",
   "t": "T'es trop cool aussi !"
  },
+ "9c8238f65551": {
+  "en": "Snow",
+  "t": "Neige"
+ },
  "a691267c5647": {
   "en": "{rival} wins.",
   "t": "{rival} gagne."
@@ -111,6 +323,18 @@
   "en": "Cancelled! Both darts on the {colour} territory are out.",
   "t": "Annulé ! Les deux fléchettes sur le territoire {colour} sont hors jeu."
  },
+ "a93e8afda9a1": {
+  "en": "Before the match, hide your <strong>nari stone</strong> inside one of your statues. Your opponent hides theirs too.",
+  "t": "Avant la partie, cache ta <strong>pierre nari</strong> dans l'une de tes statuettes. Ton adversaire cache aussi la sienne."
+ },
+ "abb89bf474d1": {
+  "en": "home: {terrains}",
+  "t": "terrain de prédilection : {terrains}"
+ },
+ "af503a976364": {
+  "en": "a random {min} to +{max}",
+  "t": "un nombre aléatoire de {min} à +{max}"
+ },
  "afaed75406bd": {
   "en": "purple",
   "t": "violet"
@@ -118,6 +342,10 @@
  "b2b52c2fc7c2": {
   "en": "Snipe all territories? That’s—different—I think. Can—can you explain?",
   "t": "Sniper tous les territoires ? C'est—différent—je crois. Tu—tu peux expliquer ?"
+ },
+ "b31d36c1c500": {
+  "en": "Challenging",
+  "t": "Difficile"
  },
  "b8c8d91c4ad6": {
   "en": "Yellow centre",
@@ -143,9 +371,25 @@
   "en": "Next",
   "t": "Suivant"
  },
+ "be2f6b076cd7": {
+  "en": "Minari: turn your phone sideways",
+  "t": "Minari : tourne ton téléphone à l'horizontale"
+ },
+ "be3975e50f11": {
+  "en": "{sign}{n} to the statue on it",
+  "t": "{sign}{n} pour la statuette posée dessus"
+ },
  "c1218408e29a": {
   "en": "Just a hunk—that was me warming up! Now try to throw on a green section or anywhere else.",
   "t": "Juste un hunk—c'était pour m'échauffer ! Maintenant, essaie de lancer sur une section verte ou n'importe où ailleurs."
+ },
+ "c30902149f0e": {
+  "en": "{opp}'s side",
+  "t": "Côté de {opp}"
+ },
+ "c384517d1937": {
+  "en": "{name}, power {power}",
+  "t": "{name}, puissance {power}"
  },
  "c7abd16eb68f": {
   "en": "Brotha—you suck at this—Harry?",
@@ -155,17 +399,37 @@
   "en": "—Yea? So I play next?",
   "t": "—Ouais ? Alors c'est à moi après ?"
  },
+ "c91b25d0e00d": {
+  "en": "−{n} to every opposing statue in its lane",
+  "t": "−{n} à chaque statuette adverse de son couloir"
+ },
  "caab81299f22": {
   "en": "The game starts as soon as the phone is sideways.",
   "t": "Le jeu démarre dès que le téléphone est à l’horizontale."
+ },
+ "cc14463c4dab": {
+  "en": "Lane {n}: {who} wins, {a} to {b}.",
+  "t": "Couloir {n} : victoire de {who}, {a} à {b}."
  },
  "cc60a1651cdd": {
   "en": "Final: {you} {youScore} · {rival} {rivalScore} · {verdict}",
   "t": "Final : {you} {youScore} · {rival} {rivalScore} · {verdict}"
  },
+ "ce31bd9a119b": {
+  "en": "Nari stone",
+  "t": "Pierre nari"
+ },
  "ce3c494a5e85": {
   "en": "Aiight!",
   "t": "Ça marche !"
+ },
+ "d0bb566c5184": {
+  "en": "The match is a draw.",
+  "t": "La partie se termine sur une égalité."
+ },
+ "d0db58d3de1d": {
+  "en": "humanoid",
+  "t": "humanoïde"
  },
  "d153c794ecdb": {
   "en": "Play upright instead",
@@ -179,6 +443,50 @@
   "en": "Your dart flies low and lodges in the wall below the board.",
   "t": "Ta fléchette vole bas et se plante dans le mur sous le plateau."
  },
+ "d2c984ccb77d": {
+  "en": "Each side has <strong>10 carved statues</strong> (Races, Fauna and Beasts) and <strong>4 flora bases</strong>. The creature a statue shows is its power.",
+  "t": "Chaque camp a <strong>10 statuettes sculptées</strong> (Races, Faune et Bêtes) et <strong>4 socles de flore</strong>. La créature que représente une statuette fait sa puissance."
+ },
+ "d3724d122484": {
+  "en": "{who} found the nari stone in {name}!",
+  "t": "{who} a trouvé la pierre nari dans {name} !"
+ },
+ "d404968ea90b": {
+  "en": "Medium",
+  "t": "Moyen"
+ },
+ "d5936b9a0d86": {
+  "en": "Eliminated",
+  "t": "Éliminée"
+ },
+ "d7cd56f2a2a3": {
+  "en": "Pass",
+  "t": "Passer"
+ },
+ "ddc8e3b2c330": {
+  "en": "Your turn: choose a statue, then a square on your side.",
+  "t": "À toi : choisis une statuette, puis une case de ton côté."
+ },
+ "dfe153f0c577": {
+  "en": "{who} placed {name} on a {flora} base, on {terrain} (power {power}).",
+  "t": "{who} : {name} sur un socle {flora}, sur une case {terrain} (puissance {power})."
+ },
+ "e48d1e99bbff": {
+  "en": "{a} : {b}",
+  "t": "{a} : {b}"
+ },
+ "e601068c1509": {
+  "en": "{who} wins round {n}.",
+  "t": "{who} remporte la manche {n}."
+ },
+ "e818d1b014a8": {
+  "en": "Lane {n}",
+  "t": "Couloir {n}"
+ },
+ "e8e05bdea850": {
+  "en": "Cloak",
+  "t": "Cape"
+ },
  "e99283406209": {
   "en": "Play the round of <a href=\"/lore/pastimes/#territory-snipping\">Territory Snipping</a> from Vol 2, as Harry, against Hiromi.",
   "t": "Jouez la partie de <a href=\"/lore/pastimes/#territory-snipping\">Territory Snipping</a> du Tome 2, dans la peau de Harry, contre Hiromi."
@@ -187,17 +495,77 @@
   "en": "Good try! Good try! C’mon! Try again!",
   "t": "Bien essayé ! Bien essayé ! Allez ! Réessaie !"
  },
+ "ea71ac574d84": {
+  "en": "Win more lanes to win the round. First to <strong>2 rounds</strong> wins, but finding the other side's nari stone wins at once.",
+  "t": "Gagne plus de couloirs pour remporter la manche. Le premier à <strong>2 manches</strong> gagne, mais trouver la pierre nari de l'autre camp fait gagner tout de suite."
+ },
+ "ee61b8c6ee53": {
+  "en": "Your statues",
+  "t": "Tes statuettes"
+ },
+ "eeee9b76ec5d": {
+  "en": "Aurora",
+  "t": "Aurora"
+ },
  "ef0ebbb77298": {
   "en": "orange",
   "t": "orange"
+ },
+ "ef6906d30a91": {
+  "en": "Painting your statues is just for looks.",
+  "t": "Peindre tes statuettes, c'est juste pour le look."
+ },
+ "f1b44b944d26": {
+  "en": "{who} placed {name} on {terrain} (power {power}).",
+  "t": "{who} : {name} sur une case {terrain} (puissance {power})."
  },
  "f290164d1315": {
   "en": "Outer ring",
   "t": "Anneau extérieur"
  },
+ "f2c741477316": {
+  "en": "a statue",
+  "t": "une statuette"
+ },
+ "f41c4e4dab0b": {
+  "en": "Forest",
+  "t": "Forêt"
+ },
+ "f4904bf63ad4": {
+  "en": "Nina",
+  "t": "Nina"
+ },
+ "f4c2739717c4": {
+  "en": "{terrain}, height {h}",
+  "t": "{terrain}, hauteur {h}"
+ },
+ "f674ac08752f": {
+  "en": "+{n} on {terrain}",
+  "t": "+{n} sur {terrain}"
+ },
+ "f6db3f96e9e3": {
+  "en": "Desert",
+  "t": "Désert"
+ },
+ "fa27d1b6d725": {
+  "en": "+1 when outnumbered in its lane",
+  "t": "+1 en infériorité numérique dans son couloir"
+ },
  "fb23c9ff0d27": {
   "en": "Inner ring",
   "t": "Anneau intérieur"
+ },
+ "fbf6a2b00397": {
+  "en": "Lane {n}: you win, {a} to {b}.",
+  "t": "Couloir {n} : tu gagnes, {a} à {b}."
+ },
+ "fe4f28f307a2": {
+  "en": "Round {n} is a draw.",
+  "t": "La manche {n} se termine sur une égalité."
+ },
+ "fe527bb5037f": {
+  "en": "Carve a new battalion",
+  "t": "Sculpter un nouveau bataillon"
  },
  "feddfb10fb8d": {
   "en": "We all play at the same time. GO!",
