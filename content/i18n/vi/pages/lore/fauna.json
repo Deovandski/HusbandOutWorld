@@ -1,4 +1,36 @@
 {
+ "0044e37fe1da": {
+  "en": "<strong>Sanbi Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>Thịt Sanbi</strong>: Thịt do người bán thịt xẻ."
+ },
+ "014e2ebcc276": {
+  "en": "A classic case of convergent evolution.",
+  "t": "Một trường hợp kinh điển của tiến hóa hội tụ."
+ },
+ "0291cae0f9b8": {
+  "en": "<strong>Interface:</strong> Hair on the head and chin.",
+  "t": "<strong>Giao diện:</strong> Lông trên đầu và cằm."
+ },
+ "039f5679c3f6": {
+  "en": "<strong>Hide/Fur</strong>: Hide/fur, prepared by a butcher for artisans to work on; incredibly flexible to work with.",
+  "t": "<strong>Da/lông</strong>: Da/lông, do người bán thịt sơ chế cho thợ thủ công gia công; cực kỳ dẻo dai khi gia công."
+ },
+ "0469898a5d6d": {
+  "en": "<strong>Ptaina Oil</strong>: Used in beer, in food, for greasing things, etc.",
+  "t": "<strong>Dầu Ptaina</strong>: Dùng trong bia, đồ ăn, để bôi trơn, v.v."
+ },
+ "046cbe8c1a3a": {
+  "en": "~15 km",
+  "t": "~15 km"
+ },
+ "04e62b3dcc96": {
+  "en": "<strong>Barina Lungs</strong>: Useful for nari gels.",
+  "t": "<strong>Phổi Barina</strong>: Hữu ích cho gel nari."
+ },
+ "04ee21f55656": {
+  "en": "<strong>Legunia Egg</strong>: More of an upscale culinary ingredient than everyday food, because of its stronger taste and smell.",
+  "t": "<strong>Trứng Legunia</strong>: Là nguyên liệu ẩm thực cao cấp hơn là món ăn hằng ngày, vì vị và mùi đậm hơn."
+ },
  "053d9599488e": {
   "en": "<strong>Skills:</strong> Its carapace can flip between Walking Heart modes at will, activating the Walking Heart by inflating it with blood, though it can't seem to keep that up for long.",
   "t": "<strong>Kỹ năng:</strong> Lớp vỏ của nó có thể chuyển đổi giữa các chế độ Walking Heart tùy ý, kích hoạt Walking Heart bằng cách bơm máu vào, dù nó dường như không duy trì được lâu."
@@ -7,9 +39,53 @@
   "en": "Fauna",
   "t": "Động vật"
  },
+ "06051c61df2d": {
+  "en": "<strong>Skills:</strong> Gravity Down; Oil Up.",
+  "t": "<strong>Kỹ năng:</strong> Gravity Down; Oil Up."
+ },
+ "0658a4d6291b": {
+  "en": "<strong>Interface:</strong> Spikes on back; See Races &gt; Cruro.",
+  "t": "<strong>Giao diện:</strong> Gai trên lưng; xem Chủng tộc &gt; Cruro."
+ },
+ "0661c4022922": {
+  "en": "<strong>Tastes like:</strong> Chewy, rubbery chicken.",
+  "t": "<strong>Vị giống:</strong> Thịt gà dai, như cao su."
+ },
+ "06be860b4b3e": {
+  "en": "<strong>Food:</strong> Berries &amp; Fruits.",
+  "t": "<strong>Thức ăn:</strong> Quả mọng &amp; trái cây."
+ },
  "07435648d9f3": {
   "en": "Cinikas, meanwhile, are not exactly as extraordinary unless there's a swarm of them and you're a sweaty Wozefaries or Sorefaries; then you're big trouble as they will swarm you, paralyze you, and lick your sweet sweat. The soul energy interface of a single Cinika is not that powerful, but when there's a swarm of them, they might overwhelm even a Hifuna beast. They also behave distinctly differently in reaction to pressure and humidity changes—actually, that is extraordinary! If you see them make a tight-closed swarm and flutter around like they are seeking shelter, then for sure, there's a nasty storm brewing on the horizon.",
   "t": "Trong khi đó, Cinika không hẳn phi thường như vậy trừ khi có cả một đàn và bạn là một Wozefaries hay Sorefaries đẫm mồ hôi; khi đó bạn gặp rắc rối to vì chúng sẽ bu quanh bạn, làm bạn tê liệt và liếm mồ hôi ngọt ngào của bạn. Giao diện năng lượng linh hồn của một con Cinika không mạnh lắm, nhưng khi có cả một đàn, chúng có thể áp đảo cả một quái thú Hifuna. Chúng cũng cư xử khác hẳn khi phản ứng với thay đổi áp suất và độ ẩm—thật ra điều đó mới phi thường! Nếu bạn thấy chúng tụ thành một đàn khít chặt và bay lượn như đang tìm chỗ trú, thì chắc chắn một cơn bão dữ đang hình thành ở chân trời."
+ },
+ "0753b4a20179": {
+  "en": "~35 km",
+  "t": "~35 km"
+ },
+ "080be8501b1b": {
+  "en": "<strong>Skills:</strong> Sense Surroundings; Communicate in radio waves; Emit strong radio waves that cause migraines in most people; Inflate/expand their lips, then rupture them out of their bodies as fake prey. Usually as an escape maneuver; They can do the same with their tails and grow them extra long to evade beasts/hunters.",
+  "t": "<strong>Kỹ năng:</strong> Sense Surroundings; Giao tiếp bằng sóng vô tuyến; Phát ra sóng vô tuyến mạnh gây đau nửa đầu cho hầu hết mọi người; Thổi phồng/nở môi, rồi bứt chúng ra khỏi cơ thể làm con mồi giả. Thường là một cách tẩu thoát; Chúng có thể làm tương tự với đuôi và kéo dài nó ra thật dài để né thú dữ/thợ săn."
+ },
+ "08187a6acb2d": {
+  "en": "<strong>Wozen Nose</strong>: Used in nari gels.",
+  "t": "<strong>Mũi Wozen</strong>: Dùng trong gel nari."
+ },
+ "085a75e4aa78": {
+  "en": "<strong>Reproduction:</strong> Every 6 months.",
+  "t": "<strong>Sinh sản:</strong> Mỗi 6 tháng."
+ },
+ "08756e3e421f": {
+  "en": "<strong>Tamed Legunia</strong>: A great pet, and that's about it: it flees at the first sign of danger, and it isn't very smart or social.",
+  "t": "<strong>Legunia đã thuần hóa</strong>: Một con thú cưng tuyệt vời, và chỉ có vậy: nó bỏ chạy ngay khi có dấu hiệu nguy hiểm đầu tiên, và không thông minh hay hòa đồng lắm."
+ },
+ "08b1ecdb061a": {
+  "en": "<strong>Fihi Corpse</strong>: Freshly killed nearby and stored in a wagon with ice, ready for the butcher shops or to be shipped out.",
+  "t": "<strong>Xác Fihi</strong>: Vừa giết ở gần đó và được cất trong xe có đá lạnh, sẵn sàng cho các cửa hàng thịt hoặc để vận chuyển đi."
+ },
+ "08c2c67ed670": {
+  "en": "<strong>Tamed Fanchaki</strong>: Some keep them as pets, but they're mostly livestock. Some use them as bait for predators, especially for their Soul Energy abilities.",
+  "t": "<strong>Fanchaki đã thuần hóa</strong>: Một số người nuôi làm thú cưng, nhưng chủ yếu là gia súc. Một số dùng chúng làm mồi nhử kẻ săn mồi, nhất là nhờ khả năng Năng lượng linh hồn của chúng."
  },
  "08cd94ec60ad": {
   "en": "Barina",
@@ -23,13 +99,65 @@
   "en": "Crocus is the progenitor species of the Cruros. Nothing exactly special about them other than they look hella cute, chunky, and bite like a mean motherfucker. Someone said they tamed one and got it as a pet, but there's no recorded proof. If any crazy scientists figure it out, Forway will have a new pet craze.",
   "t": "Crocus là loài tổ tiên của Cruro. Không có gì đặc biệt ở chúng ngoài việc trông dễ thương vãi, mũm mĩm, và cắn như một thằng khốn hung dữ. Có người nói đã thuần hóa được một con và nuôi làm thú cưng, nhưng không có bằng chứng ghi lại. Nếu nhà khoa học điên nào tìm ra cách, Forway sẽ có một cơn sốt thú cưng mới."
  },
+ "0b2c64e4b62c": {
+  "en": "<strong>Reproduction:</strong> About 10 are born every few months.",
+  "t": "<strong>Sinh sản:</strong> Khoảng 10 con ra đời mỗi vài tháng."
+ },
+ "0bf9b2f261b8": {
+  "en": "<strong>Barina Venom Glands</strong>: Used in nari gels.",
+  "t": "<strong>Tuyến độc Barina</strong>: Dùng trong gel nari."
+ },
  "0c24c85d2564": {
   "en": "<strong>Food:</strong> Flower nectar.",
   "t": "<strong>Thức ăn:</strong> Mật hoa."
  },
+ "0c8277ae3994": {
+  "en": "<strong>Reproduction:</strong> Every few months.",
+  "t": "<strong>Sinh sản:</strong> Mỗi vài tháng."
+ },
+ "0dbf69cc4c24": {
+  "en": "<strong>Reproduction:</strong> Tens of Sanbi fish a year.",
+  "t": "<strong>Sinh sản:</strong> Hàng chục con cá Sanbi mỗi năm."
+ },
+ "115bbcf5dd6f": {
+  "en": "<strong>Interface:</strong> Jumping Feet; Microwave detection (whiskers); Can spot objects in the walls/dirt. It’s like an infrared camera of sorts.",
+  "t": "<strong>Giao diện:</strong> Chân nhảy; Phát hiện vi sóng (ria); Có thể phát hiện vật thể trong tường/đất. Giống như một kiểu camera hồng ngoại."
+ },
+ "11ec1babc73d": {
+  "en": "<strong>Interface:</strong> Wattle.",
+  "t": "<strong>Giao diện:</strong> Yếm thịt."
+ },
+ "1281489bcdfb": {
+  "en": "<strong>Skills:</strong> High Jump; Super Speed.",
+  "t": "<strong>Kỹ năng:</strong> High Jump; Super Speed."
+ },
+ "128ffeb49119": {
+  "en": "<strong>Wooly Dried Milk</strong>: Milk often dried for transport to the rest of the kingdoms.",
+  "t": "<strong>Sữa khô Wooly</strong>: Sữa thường được sấy khô để vận chuyển đến các vương quốc còn lại."
+ },
  "140e208733de": {
   "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Fauna.md\">Legacy/Behind The Scenes/World Lore/Fauna.md</a>",
   "t": "Nguồn: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Fauna.md\">Legacy/Behind The Scenes/World Lore/Fauna.md</a>"
+ },
+ "151d88477aac": {
+  "en": "<strong>Tastes like:</strong> Chicken meat near the bone, fattier and stronger.",
+  "t": "<strong>Vị giống:</strong> Thịt gà gần xương, béo hơn và đậm vị hơn."
+ },
+ "1542647c4a28": {
+  "en": "<strong>Habitat:</strong> Oceans, mostly near deltas.",
+  "t": "<strong>Môi trường sống:</strong> Đại dương, chủ yếu gần các vùng châu thổ."
+ },
+ "16695cfd09d5": {
+  "en": "<strong>Skills:</strong> Speedy Reaction; Fake Body.",
+  "t": "<strong>Kỹ năng:</strong> Speedy Reaction; Fake Body."
+ },
+ "1690d73235ec": {
+  "en": "<strong>Legunia Fat</strong>: A delicacy, like duck fat, used in lots of cooking.",
+  "t": "<strong>Mỡ Legunia</strong>: Một món cao lương, như mỡ vịt, dùng nhiều trong nấu nướng."
+ },
+ "16e720a9a4f9": {
+  "en": "<strong>Tastes like:</strong> Chicken, but hard, only good for stew, and it doesn't freeze well. It smells clean and mild, almost like fresh tuna without the ocean smell: more like faint wet grass, like being downwind of someone cutting grass.",
+  "t": "<strong>Vị giống:</strong> Thịt gà, nhưng cứng, chỉ hợp để hầm, và không trữ đông tốt. Nó có mùi sạch và nhẹ, gần giống cá ngừ tươi mà không có mùi biển: giống mùi cỏ ướt thoang thoảng hơn, như khi đứng cuối gió chỗ ai đó đang cắt cỏ."
  },
  "17d4b0096fcf": {
   "en": "Lansha",
@@ -43,17 +171,53 @@
   "en": "Ptaina",
   "t": "Ptaina"
  },
+ "19b16e9c735f": {
+  "en": "<strong>Inspired by:</strong> Fennec Fox; Horned Lizard.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Cáo Fennec; Thằn lằn sừng."
+ },
+ "1a705d073f31": {
+  "en": "<strong>Intelligence:</strong> Alligator.",
+  "t": "<strong>Trí thông minh:</strong> Cá sấu."
+ },
  "1b00bcc07773": {
   "en": "Winga is famous for being a social companion with a remarkable memory of landscapes and people's faces; they are the backbone of the interkingdom Winga mail courier services. Some, on the other hand, find its sweet meat a delicacy! Even the wild ones taste just as great too! Watch out for their interface if you decide to hunt them yourself—they will shriek so loud to make your ears bleed to strengthen their beak and claws to cut through anything to break free. Oh! Almost forgot! You will be in deep shit if you hunt down a Winga working for Forway.",
   "t": "Winga nổi tiếng là bạn đồng hành hòa đồng với trí nhớ đáng nể về cảnh vật và khuôn mặt người; chúng là xương sống của dịch vụ thư Winga liên vương quốc. Mặt khác, một số người thấy thịt ngọt của chúng là đặc sản! Ngay cả loài hoang dã cũng ngon không kém! Cẩn thận với giao diện của chúng nếu bạn quyết định tự săn—chúng sẽ thét to đến mức tai bạn chảy máu để tăng sức mạnh cho mỏ và móng, cắt xuyên mọi thứ để thoát thân. Ôi! Suýt quên! Bạn sẽ gặp rắc rối to nếu săn một con Winga đang làm việc cho Forway."
+ },
+ "1b24bb431e26": {
+  "en": "<strong>Habitat:</strong> Throughout the four kingdoms and their cities, and in the wild, mostly in open fields.",
+  "t": "<strong>Môi trường sống:</strong> Khắp bốn vương quốc và các thành phố của họ, và ngoài hoang dã, chủ yếu ở những cánh đồng trống."
  },
  "1e204423cd31": {
   "en": "Barina: a small black-and-yellow frog-like creature with a spiny blue tail, at about knee height.",
   "t": "Barina: một sinh vật nhỏ đen vàng giống ếch với đuôi gai màu xanh, cao khoảng đầu gối."
  },
+ "1e4f10ae7904": {
+  "en": "<strong>Tamed Adult Egua</strong>: An adult Egua, ready to work.",
+  "t": "<strong>Egua trưởng thành đã thuần hóa</strong>: Một con Egua trưởng thành, sẵn sàng làm việc."
+ },
+ "1ee37fbe724d": {
+  "en": "<strong>Habitat:</strong> Nowadays they only live in the Gandew Kingdom, and in the wild in the high mountains that border the desert (Old Fuhrair), at about 4 to 6 km. They would suffocate in their own fur at altitudes &lt; 4km, or the humidity would spoil their fur. They were meant for high altitudes.",
+  "t": "<strong>Môi trường sống:</strong> Ngày nay chúng chỉ sống ở Vương quốc Gandew, và hoang dã trên những ngọn núi cao giáp sa mạc (Old Fuhrair), ở độ cao khoảng 4 đến 6 km. Chúng sẽ chết ngạt trong chính bộ lông của mình ở độ cao &lt; 4km, hoặc độ ẩm sẽ làm hỏng bộ lông. Chúng sinh ra là để sống ở độ cao lớn."
+ },
+ "205eb12c794b": {
+  "en": "<strong>Skills:</strong> Shooting the spikes off their back in self-defense; Harden Skin; Invisibility (bending light around themselves, slightly distorted), which often lasts for hours, since they usually stay still.",
+  "t": "<strong>Kỹ năng:</strong> Bắn gai trên lưng để tự vệ; Harden Skin; Tàng hình (bẻ cong ánh sáng quanh mình, hơi méo), thường kéo dài hàng giờ, vì chúng thường nằm yên."
+ },
+ "20c0fb61694d": {
+  "en": "<strong>Ptaina Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>Thịt Ptaina</strong>: Thịt do người bán thịt xẻ."
+ },
  "20c90d695153": {
   "en": "Fauna · #HusbandOutWorld",
   "t": "Động vật · #HusbandOutWorld"
+ },
+ "22ae8bca0cdd": {
+  "en": "<strong>Interface:</strong> Eyes/Ears.",
+  "t": "<strong>Giao diện:</strong> Mắt/Tai."
+ },
+ "23ec7a1af084": {
+  "en": "<strong>Wozen Jerky</strong>: Jerky prepared by a butcher. Not really desirable by many people due to its strong gamey flavor. Usually served up to poorer people.",
+  "t": "<strong>Thịt khô Wozen</strong>: Thịt khô do người bán thịt làm. Không được nhiều người ưa chuộng vì mùi thú hoang nồng. Thường được bán cho người nghèo."
  },
  "25be17d8e5c2": {
   "en": "<strong>Cuisine</strong>: See Freeish Kingdom.",
@@ -63,21 +227,85 @@
   "en": "Fanchaki",
   "t": "Fanchaki"
  },
+ "260fc1f74452": {
+  "en": "<strong>Reproduction:</strong> Every year; 7 eggs laid, of which only a few reach adulthood.",
+  "t": "<strong>Sinh sản:</strong> Mỗi năm; đẻ 7 trứng, chỉ vài con sống đến lúc trưởng thành."
+ },
+ "26417dd405ab": {
+  "en": "<strong>Tastes like:</strong> Light chicken or white fish.",
+  "t": "<strong>Vị giống:</strong> Thịt gà nhạt hoặc cá thịt trắng."
+ },
+ "2680a4a5913e": {
+  "en": "~7 km/h",
+  "t": "~7 km/h"
+ },
+ "268e9914ffdc": {
+  "en": "<strong>Sanbi Fish Roe</strong>: A treat for some.",
+  "t": "<strong>Trứng cá Sanbi</strong>: Món khoái khẩu của một số người."
+ },
+ "275857ac51bd": {
+  "en": "<strong>Tastes like:</strong> Honey turkey breast, but not as tender.",
+  "t": "<strong>Vị giống:</strong> Ức gà tây mật ong, nhưng không mềm bằng."
+ },
+ "27b8bbffa474": {
+  "en": "~10 km/h",
+  "t": "~10 km/h"
+ },
+ "27c5117f780e": {
+  "en": "<strong>Fihi Skin</strong>: Skin prepared by a butcher. A common treat of the people in the lower regions. Usually fried.",
+  "t": "<strong>Da Fihi</strong>: Da do người bán thịt sơ chế. Một món khoái khẩu phổ biến của người dân vùng thấp. Thường được chiên."
+ },
+ "2808f68554ff": {
+  "en": "<strong>Fatupari Meat</strong>: Meat cut by a butcher. Cheap, since most people hate it; it's mostly eaten by poorer people, or by some weirdos who swear by its taste.",
+  "t": "<strong>Thịt Fatupari</strong>: Thịt do người bán thịt xẻ. Rẻ, vì hầu hết mọi người ghét nó; chủ yếu người nghèo ăn, hoặc vài kẻ lập dị thề là nó ngon."
+ },
+ "281967452d11": {
+  "en": "<strong>Wooly Hide/Fur/Pelt</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Da/lông Wooly</strong>: Da/lông, do người bán thịt sơ chế cho thợ thủ công gia công."
+ },
  "28c2e029ba4d": {
   "en": "<strong>Habitat:</strong> Ponds. Someone dumped Walking Hearts into a pond near the Freeish Kingdom; the worms ate them, and it altered their souls.",
   "t": "<strong>Môi trường sống:</strong> Ao. Ai đó đã đổ Walking Heart vào một cái ao gần Vương quốc Freeish; lũ giun ăn chúng, và nó làm thay đổi linh hồn của chúng."
+ },
+ "28e799875885": {
+  "en": "<strong>Reproduction:</strong> One to three Woolies a year.",
+  "t": "<strong>Sinh sản:</strong> Một đến ba con Wooly mỗi năm."
  },
  "2c129c23a434": {
   "en": "Legunia is a desert bird that mimics a sand worm in everything it does, except it eats berries and such instead of other mammals. You can use the hump in their backs as an easy “indicator species” of how survivable the desert currently is. If their hump is deflatable, you should get out while you still can, unless you know exactly what you’re doing. Hunting them down for food and water is easier said than done. Then can easily be miles away before your second shot.",
   "t": "Legunia là loài chim sa mạc bắt chước sand worm trong mọi việc chúng làm, trừ việc chúng ăn quả mọng và những thứ tương tự thay vì động vật có vú khác. Bạn có thể dùng cái bướu trên lưng chúng như một “loài chỉ thị” dễ dàng cho biết sa mạc hiện có dễ sống sót hay không. Nếu bướu của chúng xẹp xuống, bạn nên rời đi khi còn có thể, trừ khi bạn biết chính xác mình đang làm gì. Săn chúng lấy thức ăn và nước nói thì dễ hơn làm. Chúng có thể dễ dàng cách xa hàng dặm trước phát bắn thứ hai của bạn."
  },
+ "2d2cb022bc3d": {
+  "en": "Speed",
+  "t": "Tốc độ"
+ },
  "2e7c4501a51f": {
   "en": "<strong>Skills:</strong> Water Walk; Dirt Repel; Increase/decrease size of legs; Eject their privates or intestines through their asshole (very specific, but that's how they got away from certain predators).",
   "t": "<strong>Kỹ năng:</strong> Water Walk; Dirt Repel; Tăng/giảm kích thước chân; Phóng bộ phận sinh dục hoặc ruột ra qua lỗ đít (rất cụ thể, nhưng đó là cách chúng thoát khỏi một số kẻ săn mồi)."
  },
+ "2ec7dfe9217b": {
+  "en": "<strong>Skills:</strong> Distant Hearing; Cloak detection; Blood Shield (self-defense only).",
+  "t": "<strong>Kỹ năng:</strong> Distant Hearing; Cloak detection; Blood Shield (chỉ để tự vệ)."
+ },
+ "2f12699f173c": {
+  "en": "<strong>Skills:</strong> Launching themselves at a target; Air Buoyancy.",
+  "t": "<strong>Kỹ năng:</strong> Phóng mình vào mục tiêu; Air Buoyancy."
+ },
+ "305016cbc048": {
+  "en": "<strong>Sayna Hide/Carapace</strong>: Hide/fur, prepared by a butcher for artisans to work on. Rare to find.",
+  "t": "<strong>Da/mai Sayna</strong>: Da/lông, do người bán thịt sơ chế cho thợ thủ công gia công. Hiếm tìm."
+ },
  "3105ba0cdecb": {
   "en": "Wozens are pests that wander mostly in the denser forests around Freeish, but it is not unusual to see them attack people at night in the plains close to Forway. They are predators, so their interface usage makes them near impossible to be seen or heard as they prowl around. Once they decide on a victim, they can jump several times their height, and once their jaw shuts tight on your flesh, there's no letting go as it casts attraction on its teeth. Their pelt and some body parts like eyes are certainly valuable, but its incredibly tough and gamey meat is not—except for people in the slums, or poorer villages, so if you have space to haul it to your nearest butcher, then do so! Some places even consider it as charitable tax write-offs!",
   "t": "Wozen là loài gây hại chủ yếu lang thang trong những khu rừng rậm quanh Freeish, nhưng không có gì lạ khi thấy chúng tấn công người vào ban đêm ở những đồng bằng gần Forway. Chúng là kẻ săn mồi, nên việc sử dụng giao diện khiến gần như không thể thấy hay nghe chúng khi rình rập. Khi đã chọn được nạn nhân, chúng có thể nhảy cao gấp nhiều lần chiều cao của mình, và một khi hàm chúng đã ngoạm chặt vào thịt bạn, không có chuyện nhả ra vì nó thi triển lực hút lên răng. Bộ lông và một số bộ phận như mắt chắc chắn có giá trị, nhưng thịt cực dai và hôi của nó thì không—trừ với người ở khu ổ chuột, hoặc những làng nghèo, nên nếu bạn còn chỗ để kéo nó đến lò mổ gần nhất, hãy làm đi! Một số nơi thậm chí còn coi đó là khoản từ thiện được khấu trừ thuế!"
+ },
+ "31cef8928785": {
+  "en": "<strong>Food:</strong> Primarily Gyut Berries.",
+  "t": "<strong>Thức ăn:</strong> Chủ yếu là quả Gyut."
+ },
+ "322914c82758": {
+  "en": "<strong>Food:</strong> Insects and small rodents.",
+  "t": "<strong>Thức ăn:</strong> Côn trùng và loài gặm nhấm nhỏ."
  },
  "339c23234c8e": {
   "en": "Fatupari, based on their size, would assume they would be classified as Beasts, but not only are they kinda dumb relative to other beasts, but they are also easier to dispatch than one thinks. If you tear their pink webbing, they can't use any magic against you. Or you can fight them fairly if you want to take it up a notch for whatever reason. Either way, some random weirdos swear by its distinctively bitter taste—like soaking wild pheasant breasts in quinine and cooking it until it's stringy and tough for shits and giggles. At least their hide and webbing are usual for a myriad of things for their rugged and water-repellant properties; plus, it looks pretty snazzy too!",
@@ -95,6 +323,34 @@
   "en": "Monikas are loner butterflies tightly associated with death and decay. Their interface is considered the best at identifying corpses, especially if the corpse is tied to a soul pool with a lot of soul energy. They also have the ability to turn desired volatile compounds of scents into a visual representation that aids in understanding its concentration and source—known as Monika sight, a nari gel concoction customized with the desired volatile compound, turned even exceptional if paired with Wozen Smell for both finding things like dead adventurers, detect poisonous things like traps, or even track down live animals or humans by using the droppings or sweat. Adventurers on the brink of death often implore to be found by these peaceful-looking butterflies—at least some do until they remember the cost of revival.",
   "t": "Monika là loài bướm sống đơn độc gắn liền với cái chết và sự phân hủy. Giao diện của chúng được coi là giỏi nhất trong việc nhận diện xác chết, đặc biệt nếu xác đó gắn với một bể linh hồn có nhiều năng lượng linh hồn. Chúng còn có khả năng biến các hợp chất mùi dễ bay hơi mong muốn thành hình ảnh trực quan giúp hiểu được nồng độ và nguồn gốc của chúng—được gọi là Monika sight, một loại gel nari pha chế tùy chỉnh theo hợp chất dễ bay hơi mong muốn, càng trở nên xuất sắc nếu kết hợp với Wozen Smell để tìm những thứ như nhà mạo hiểm đã chết, phát hiện những thứ độc hại như bẫy, hoặc thậm chí lần theo động vật hay con người còn sống nhờ phân hoặc mồ hôi. Những nhà mạo hiểm cận kề cái chết thường van xin được những chú bướm trông hiền hòa này tìm thấy—ít nhất là một số người, cho đến khi họ nhớ ra chi phí hồi sinh."
  },
+ "3866bfafb0fe": {
+  "en": "<strong>Intelligence:</strong> Like a rabbit or so. Tends to be in groups. Tends to be defensive/run away. When you get close to it, it tends to hiss. If attacked, it screams like a dying human.",
+  "t": "<strong>Trí thông minh:</strong> Như một con thỏ hay tương tự. Thường sống theo nhóm. Thường phòng thủ/bỏ chạy. Khi bạn lại gần, nó thường rít lên. Nếu bị tấn công, nó thét như một người sắp chết."
+ },
+ "3866f1ec044e": {
+  "en": "~30 km/h",
+  "t": "~30 km/h"
+ },
+ "3ba25d3a3411": {
+  "en": "Created by a Buhraies who fell in love with a Lishie and had to prove himself, with something that would help the Lishies, to be accepted into the mountains. A hybrid of cow and sheep DNA that only thrives at high altitudes, where it's colder and drier. Its milk and wool are a staple of Gandew's economy, and so is its meat, from older females, or males without the best genes or health. When dying or giving birth, it lets out a massive scream that can be heard for kilometers.",
+  "t": "Được tạo ra bởi một người Buhraies đã phải lòng một người Lishy và phải chứng tỏ bản thân, bằng thứ gì đó giúp ích cho Lishy, để được chấp nhận vào núi. Là con lai giữa DNA bò và cừu, chỉ phát triển tốt ở độ cao lớn, nơi lạnh và khô hơn. Sữa và lông của nó là mặt hàng chủ lực của nền kinh tế Gandew, và thịt cũng vậy, từ những con cái già, hoặc con đực không có gen hay sức khỏe tốt nhất. Khi sắp chết hoặc sinh con, nó phát ra một tiếng thét khủng khiếp có thể nghe thấy từ cách xa hàng kilômét."
+ },
+ "3c194790829e": {
+  "en": "<strong>Inspired by:</strong> Kushlukia.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Kushlukia."
+ },
+ "3cd1c71de2fe": {
+  "en": "<strong>Wozen Meat</strong>: Meat cut by a butcher. Not very desirable, so it's mostly sold as a by-product of killing Wozens for their pelts.",
+  "t": "<strong>Thịt Wozen</strong>: Thịt do người bán thịt xẻ. Không được ưa chuộng lắm, nên chủ yếu được bán như phụ phẩm của việc giết Wozen lấy da lông."
+ },
+ "3d3824559256": {
+  "en": "<strong>Food:</strong> Gulps down smaller fish.",
+  "t": "<strong>Thức ăn:</strong> Nuốt chửng cá nhỏ hơn."
+ },
+ "3e49d79b0624": {
+  "en": "<strong>Inspired by:</strong> Babirusa.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Babirusa."
+ },
  "3e8bdb039dee": {
   "en": "Legunia: a tall brown-and-cream bird with a long neck and a fan-like crest.",
   "t": "Legunia: một con chim cao màu nâu và kem với cổ dài và mào hình quạt."
@@ -103,17 +359,93 @@
   "en": "Male and female Sorenos: small round brown rodents with white bellies, at about knee height.",
   "t": "Soreno đực và cái: những con gặm nhấm nhỏ tròn màu nâu bụng trắng, cao khoảng đầu gối."
  },
+ "4070ae935aaf": {
+  "en": "<strong>Tamed Child Egua</strong>: Can work, but with smaller loads (about 0.4 of an adult's; see Load and strain above). Adventurers tend to buy young Eguas to carry some of their gear and loot as they walk alongside them.",
+  "t": "<strong>Egua con đã thuần hóa</strong>: Có thể làm việc, nhưng với tải nhẹ hơn (khoảng 0,4 lần một con trưởng thành; xem Tải trọng và sức căng ở trên). Các nhà mạo hiểm hay mua Egua non để chở một phần đồ đạc và chiến lợi phẩm khi đi bộ bên cạnh chúng."
+ },
+ "42052b2fa751": {
+  "en": "<strong>Reproduction:</strong> Every year; ~3 eggs laid, of which only a few reach adulthood.",
+  "t": "<strong>Sinh sản:</strong> Mỗi năm; đẻ ~3 trứng, chỉ vài con sống đến lúc trưởng thành."
+ },
+ "445fca514b10": {
+  "en": "<strong>Skills:</strong> Shocking targets in front of them.",
+  "t": "<strong>Kỹ năng:</strong> Giật điện các mục tiêu phía trước."
+ },
  "4519d490ec5c": {
   "en": "<strong>Tastes like:</strong> Dirt. Very earthy.",
   "t": "<strong>Vị giống:</strong> Đất. Rất nồng mùi đất."
+ },
+ "4556ee6c7b54": {
+  "en": "<strong>Food:</strong> Rodents.",
+  "t": "<strong>Thức ăn:</strong> Loài gặm nhấm."
  },
  "4647df281022": {
   "en": "An adult Egua weighs about 900 kg. <strong>Strain</strong> is the share of that body weight it's working against: more weight means more strain, and so does going faster. Up to 10% strain is comfortable all day; 20% is the maximum.",
   "t": "Một con Egua trưởng thành nặng khoảng 900 kg. <strong>Sức căng</strong> là phần trọng lượng cơ thể mà nó đang phải chống lại: nặng hơn nghĩa là căng hơn, và đi nhanh hơn cũng vậy. Sức căng đến 10% là thoải mái cả ngày; 20% là tối đa."
  },
+ "46698ab0fa79": {
+  "en": "<strong>Tamed Winga</strong>: A great hunter companion, or pet.",
+  "t": "<strong>Winga đã thuần hóa</strong>: Một người bạn đồng hành đi săn tuyệt vời, hoặc thú cưng."
+ },
+ "47180e6bf534": {
+  "en": "<strong>Tastes like:</strong> Fatty chicken, very tender.",
+  "t": "<strong>Vị giống:</strong> Thịt gà béo, rất mềm."
+ },
+ "4865428de0f8": {
+  "en": "<strong>Inspired by:</strong> Gopher/Gerbil; Hops around like a gerbil.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Chuột túi má/Chuột nhảy; Nhảy tưng tưng như chuột nhảy."
+ },
+ "4a0b4c2ccf85": {
+  "en": "<strong>Intelligence:</strong> Parrot.",
+  "t": "<strong>Trí thông minh:</strong> Vẹt."
+ },
+ "4a6203e8226d": {
+  "en": "<strong>Skills:</strong> Cloak (temperature and vision); Hearing; Long-distance communication; Imitating animal voices; Shooting themselves in any direction with a quick motion.",
+  "t": "<strong>Kỹ năng:</strong> Cloak (nhiệt độ và thị giác); Thính giác; Giao tiếp tầm xa; Bắt chước tiếng động vật; Tự phóng mình theo bất kỳ hướng nào bằng một cử động nhanh."
+ },
+ "4a6c485608b8": {
+  "en": "<strong>Wooly Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Thịt khô Wooly</strong>: Thịt khô do người bán thịt làm."
+ },
  "4a70f16255ca": {
   "en": "Sayna",
   "t": "Sayna"
+ },
+ "4b7574850a69": {
+  "en": "<strong>Wooly Horns</strong>: Horns, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Sừng Wooly</strong>: Sừng, do người bán thịt sơ chế cho thợ thủ công gia công."
+ },
+ "4bfb4d81087a": {
+  "en": "<strong>Inspired by:</strong> Chinese Alligator.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Cá sấu Dương Tử."
+ },
+ "4c2ef3dc6f45": {
+  "en": "<strong>Interface:</strong> Ears.",
+  "t": "<strong>Giao diện:</strong> Tai."
+ },
+ "4ccfb2775cda": {
+  "en": "<strong>Intelligence:</strong> Anaconda.",
+  "t": "<strong>Trí thông minh:</strong> Trăn Nam Mỹ."
+ },
+ "4d0a0eed90cb": {
+  "en": "<strong>Tamed Adult Soreno</strong>: They take a while to train properly, but they can relay conversations over long distances without other humans hearing, because of their high pitch. A secret trick of the Hidden Sorenos gang.",
+  "t": "<strong>Soreno trưởng thành đã thuần hóa</strong>: Chúng mất một thời gian mới huấn luyện được đúng cách, nhưng chúng có thể truyền các cuộc trò chuyện qua khoảng cách xa mà người khác không nghe thấy, nhờ giọng cao. Một mẹo bí mật của băng Hidden Sorenos."
+ },
+ "4d7055021ed1": {
+  "en": "<strong>Inspired by:</strong> Cow &amp; Sheep.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Bò &amp; Cừu."
+ },
+ "4dafbcd2ed94": {
+  "en": "<strong>Bagarisa Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Thịt khô Bagarisa</strong>: Thịt khô do người bán thịt làm."
+ },
+ "4f1dae52b2ee": {
+  "en": "<strong>Sanbi Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Thịt khô Sanbi</strong>: Thịt khô do người bán thịt làm."
+ },
+ "509148b74cd4": {
+  "en": "<strong>Egua Hide/Fur</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Da/lông Egua</strong>: Da/lông, do người bán thịt sơ chế cho thợ thủ công gia công."
  },
  "52011a660ccb": {
   "en": "Yuyta",
@@ -123,9 +455,25 @@
   "en": "Ptaina’s gelatinous thingy in its head has rays of purplish light coming out within that will never send you good vibes. In the opposite, actually. It can send ultrasonic vibrations that can tear your insides—if you’re in the water, of course. It’s not as powerful on land except you’re dumb enough to touch it. Plus, they can mess with your compass and your sense of orientation, and give you a nasty headache, too! The raw meat has a more pungent taste and rougher texture, kinda like shark meat, so people usually season and stew the fuck out of it. Or you’re too poor to buy good stuff and have to eat Ptaina to survive. Or you’re so goddam rich that you think it’s a delicacy.",
   "t": "Cái thứ sền sệt trong đầu Ptaina có những tia sáng tím phát ra từ bên trong sẽ không bao giờ mang lại cho bạn cảm giác tốt đẹp. Thật ra là ngược lại. Nó có thể phát ra rung động siêu âm xé nát nội tạng bạn—tất nhiên là nếu bạn ở dưới nước. Trên cạn nó không mạnh bằng trừ khi bạn ngu đến mức chạm vào nó. Thêm nữa, chúng có thể làm loạn la bàn và khả năng định hướng của bạn, và cho bạn một cơn đau đầu tệ hại nữa! Thịt sống có vị nồng hơn và thớ thô hơn, kiểu như thịt cá mập, nên người ta thường tẩm ướp và hầm nó nhừ tử. Hoặc bạn quá nghèo để mua đồ ngon và phải ăn Ptaina để sống. Hoặc bạn giàu chết tiệt đến mức nghĩ nó là đặc sản."
  },
+ "55b2034d4d36": {
+  "en": "<strong>Inspired by:</strong> Elephant with Hippopotamus.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Voi kết hợp hà mã."
+ },
+ "55ba512805c6": {
+  "en": "<strong>Legunia Feathers</strong>: Feathers, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Lông vũ Legunia</strong>: Lông vũ, do người bán thịt sơ chế cho thợ thủ công gia công."
+ },
  "55f513d86654": {
   "en": "<strong>Tier I (Cheap Goods):</strong> freshly killed animals, plus elemental Soul Energy interface actions for storage.",
   "t": "<strong>Bậc I (Hàng rẻ):</strong> động vật vừa giết, cùng các thao tác giao diện Năng lượng linh hồn nguyên tố để bảo quản."
+ },
+ "56500fb78d75": {
+  "en": "<strong>Reproduction:</strong> Hundreds of Ptainas per year, but most become food for other fish along the way.",
+  "t": "<strong>Sinh sản:</strong> Hàng trăm con Ptaina mỗi năm, nhưng phần lớn trở thành thức ăn cho cá khác dọc đường."
+ },
+ "578d54e46391": {
+  "en": "<strong>Intelligence:</strong> Dog, great for a companion. Golden Retriever. Goofy.",
+  "t": "<strong>Trí thông minh:</strong> Chó, tuyệt vời để làm bạn đồng hành. Golden Retriever. Ngốc nghếch."
  },
  "57c9e45d2e4a": {
   "en": "Load and strain",
@@ -139,6 +487,14 @@
   "en": "<strong>Intelligence:</strong> Horse.",
   "t": "<strong>Trí thông minh:</strong> Ngựa."
  },
+ "595bdb8f427c": {
+  "en": "Night hunters, known for snacking on humans when given the chance. They run fast and are skilled in close combat with their claws. They tend to be defensive, except at night, when they come out to hunt.",
+  "t": "Những thợ săn đêm, nổi tiếng hay ăn vặt thịt người khi có cơ hội. Chúng chạy nhanh và giỏi cận chiến bằng móng vuốt. Chúng có xu hướng phòng thủ, trừ ban đêm, khi chúng ra ngoài săn mồi."
+ },
+ "5b6f20dad83c": {
+  "en": "<strong>Fihi Oil</strong>: Used in beer, in food, for greasing things, etc.",
+  "t": "<strong>Dầu Fihi</strong>: Dùng trong bia, đồ ăn, để bôi trơn, v.v."
+ },
  "5c0f1a625789": {
   "en": "Herbivores",
   "t": "Động vật ăn cỏ"
@@ -147,9 +503,37 @@
   "en": "Fihi looks closer to a mammal than a fish, but I assure you it's a fish. It's even kinda cute, except when it opens its beak and reveals an esophagus that looks closer to turtles that will hunt you in your nightmares. They are commonly found on Buhraies plains, but much bigger ones have been spotted on Lukewarm Lake, and the bigger they get, the more aggressive they become. It's a fun catch, with meat akin to catfish, so special preparation is needed to tame the fishy taste. Or you can sell it! Fihis are used for nari gels to extract their ability to control elemental energy, whether absorbing, creating, or releasing it.",
   "t": "Fihi trông giống động vật có vú hơn là cá, nhưng tôi cam đoan nó là cá. Nó thậm chí khá dễ thương, trừ khi mở mỏ và để lộ một cái thực quản giống của rùa sẽ săn bạn trong ác mộng. Chúng thường được tìm thấy ở Buhraies plains, nhưng những con to hơn nhiều đã được phát hiện ở Lukewarm Lake, và càng to chúng càng hung dữ. Câu nó rất vui, thịt giống cá da trơn, nên cần chế biến đặc biệt để khử mùi tanh. Hoặc bạn có thể bán nó! Fihi được dùng làm gel nari để chiết xuất khả năng điều khiển năng lượng nguyên tố của chúng, dù là hấp thụ, tạo ra hay giải phóng."
  },
+ "5d11f12d5446": {
+  "en": "<strong>Tastes like:</strong> Deer with notes of olive oil.",
+  "t": "<strong>Vị giống:</strong> Thịt hươu với hương dầu ô liu."
+ },
+ "5d5f32140738": {
+  "en": "<strong>Fatupari Hide</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Da Fatupari</strong>: Da/lông, do người bán thịt sơ chế cho thợ thủ công gia công."
+ },
+ "5d8891303f1e": {
+  "en": "<strong>Habitat:</strong> Lukewarm Buhraies Lake and the Buhraies region. The Fihi in Lukewarm Buhraies Lake are much bigger, and they eat humans.",
+  "t": "<strong>Môi trường sống:</strong> Lukewarm Buhraies Lake và vùng Buhraies. Fihi ở Lukewarm Buhraies Lake to hơn nhiều, và chúng ăn thịt người."
+ },
+ "5ef2142ac7d3": {
+  "en": "<strong>Habitat:</strong> Mainly in the ocean to the east of the Sanbi Kingdom.",
+  "t": "<strong>Môi trường sống:</strong> Chủ yếu ở đại dương phía đông Vương quốc Sanbi."
+ },
+ "60b48d0dc6ce": {
+  "en": "<strong>Food:</strong> Mainly seeds and insects.",
+  "t": "<strong>Thức ăn:</strong> Chủ yếu là hạt và côn trùng."
+ },
  "6163ffb69538": {
   "en": "<strong>Medallions</strong>: Used for some nari gels, but also chopped up and grilled; part of the Freeish Region's cuisine.",
   "t": "<strong>Huy chương</strong>: Dùng cho một số gel nari, nhưng cũng được cắt nhỏ và nướng; là một phần ẩm thực của vùng Freeish."
+ },
+ "62bac2942e06": {
+  "en": "<strong>Intelligence:</strong> Cow.",
+  "t": "<strong>Trí thông minh:</strong> Bò."
+ },
+ "636aa1543a40": {
+  "en": "<strong>Interface:</strong> Nose.",
+  "t": "<strong>Giao diện:</strong> Mũi."
  },
  "640820e7cb76": {
   "en": "Fanchaki is a mutation from Chaki and is proof of one of the first, if not the first, successful Buhraies soul tampering, according to historians. Their capability of breeding quicker, growing stronger and better using their interface for defense must have been fundamental to somehow survive the savage Lishies and then humans—because the Chakis are long extinct. Their marbled, tender purple meat became a staple on everyone's menu after The Prosperity Treaty brought more substantial trading across the kingdoms and even turned some adventurers away from adventuring into just hunting these fat bastards to keep up with demand.",
@@ -159,6 +543,22 @@
   "en": "Fihi",
   "t": "Fihi"
  },
+ "663b306bc2a2": {
+  "en": "<strong>Interface:</strong> Tail/Ears/Mouth.",
+  "t": "<strong>Giao diện:</strong> Đuôi/Tai/Miệng."
+ },
+ "66a6f2b95292": {
+  "en": "<strong>Inspired by:</strong> Chicken.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Gà."
+ },
+ "68e5d6c7ae9b": {
+  "en": "<strong>Tastes like:</strong> Earthy and sandy, like fox meat, with a minty taste similar to lamb, but not as tough as you'd imagine. A delicacy, eaten only by some people, since most think they're too cute to eat. Sundeath worships them.",
+  "t": "<strong>Vị giống:</strong> Mùi đất và cát, như thịt cáo, với vị bạc hà giống thịt cừu, nhưng không dai như bạn tưởng. Một món cao lương, chỉ một số người ăn, vì hầu hết nghĩ chúng quá dễ thương để ăn. Sundeath thờ chúng."
+ },
+ "6a9782185aab": {
+  "en": "<strong>Skills:</strong> Sense Lifeforms; Generate Air Shield; Louder-than-usual shriek; strengthening the beak and claws to diamond level, so they cut through anything.",
+  "t": "<strong>Kỹ năng:</strong> Sense Lifeforms; Generate Air Shield; tiếng rít to hơn bình thường; cường hóa mỏ và móng vuốt đến cứng như kim cương, nên chúng cắt xuyên được mọi thứ."
+ },
  "6a9d76361231": {
   "en": "Fauna by tier:",
   "t": "Động vật theo bậc:"
@@ -167,13 +567,41 @@
   "en": "<strong>Skills:</strong> Detect Pressure; Detect Humidity; Detect Temperature; Paralyze.",
   "t": "<strong>Kỹ năng:</strong> Detect Pressure; Detect Humidity; Detect Temperature; Paralyze."
  },
+ "6b75b1784232": {
+  "en": "<strong>Distance a day:</strong> ≈ the distance at 10% strain × (10% ÷ strain), never more than ~65 km.",
+  "t": "<strong>Quãng đường mỗi ngày:</strong> ≈ quãng đường ở sức căng 10% × (10% ÷ sức căng), không bao giờ quá ~65 km."
+ },
+ "6d00c02a20a5": {
+  "en": "<strong>Legunia Jerky</strong>: Jerky prepared by a butcher, with a notoriously stronger taste.",
+  "t": "<strong>Thịt khô Legunia</strong>: Thịt khô do người bán thịt làm, nổi tiếng có vị đậm hơn."
+ },
+ "6d18339bb512": {
+  "en": "<strong>Winga Feathers</strong>: Feathers, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Lông vũ Winga</strong>: Lông vũ, do người bán thịt sơ chế cho thợ thủ công gia công."
+ },
+ "6e4159fbe1fe": {
+  "en": "Distance at 20% strain (~180 kg)",
+  "t": "Quãng đường ở sức căng 20% (~180 kg)"
+ },
+ "6f203f6dcc34": {
+  "en": "Their antennae always glow blue. They gather near rotting bodies, usually a sign that a predator is nearby. They prefer bodies with more soul energy, so they can also lead people to dead adventurers. Monica is the usual spelling, though some people, usually in and around Freeish, spell it Monika.",
+  "t": "Râu của chúng luôn phát sáng màu xanh. Chúng tụ tập gần các xác đang thối rữa, thường là dấu hiệu có kẻ săn mồi ở gần. Chúng thích những xác có nhiều năng lượng linh hồn hơn, nên cũng có thể dẫn người ta đến chỗ các nhà mạo hiểm đã chết. Monica là cách viết thông dụng, dù một số người, thường ở trong và quanh Freeish, viết là Monika."
+ },
  "6f81b5e5f4da": {
   "en": "Male and female Wozens: lean dog-like animals, one red with dark spots and one orange with tiger stripes.",
   "t": "Wozen đực và cái: những con vật thon gọn giống chó, một con màu đỏ có đốm sẫm và một con màu cam có sọc hổ."
  },
+ "6f81f2a34e04": {
+  "en": "<strong>Inspired by:</strong> Vulpes Vulpes.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Vulpes Vulpes."
+ },
  "700bc8fe10e3": {
   "en": "<strong>Carrying on its back:</strong> strain = load ÷ 900 kg. So 90 kg is 10% strain, and 180 kg (20%) is the most an Egua can carry.",
   "t": "<strong>Chở trên lưng:</strong> sức căng = tải trọng ÷ 900 kg. Vậy 90 kg là sức căng 10%, và 180 kg (20%) là mức tối đa một con Egua có thể chở."
+ },
+ "714ef9f9b031": {
+  "en": "<strong>Habitat:</strong> Most common in the dense forests along the coast and around Freeish and Blood.",
+  "t": "<strong>Môi trường sống:</strong> Phổ biến nhất trong các khu rừng rậm dọc bờ biển và quanh Freeish và Blood."
  },
  "715817193298": {
   "en": "<strong>Tier II (Common Goods):</strong> processed meat, plus elemental Soul Energy interface actions for storage; feathers and fur of large animals, and other animal parts.",
@@ -187,6 +615,10 @@
   "en": "<strong>Reproduction:</strong> By themselves or with other Culuim.",
   "t": "<strong>Sinh sản:</strong> Tự sinh sản hoặc với Culuim khác."
  },
+ "74c9aadd00aa": {
+  "en": "<strong>Food:</strong> Omnivore: mostly grass, but likes to snack on Sorenos once in a while.",
+  "t": "<strong>Thức ăn:</strong> Ăn tạp: chủ yếu là cỏ, nhưng thỉnh thoảng thích ăn vặt Soreno."
+ },
  "76726706af4a": {
   "en": "<strong>Tier III (Expensive Goods):</strong> jerky, plus elemental Soul Energy interface actions for storage; feathers and fur of smaller animals, especially higher-quality ones; tamed or live fauna; rare animal parts.",
   "t": "<strong>Bậc III (Hàng đắt tiền):</strong> thịt khô, cùng các thao tác giao diện Năng lượng linh hồn nguyên tố để bảo quản; lông vũ và lông thú của động vật nhỏ hơn, nhất là loại chất lượng cao; động vật đã thuần hóa hoặc còn sống; các bộ phận động vật quý hiếm."
@@ -199,9 +631,33 @@
   "en": "Cinika: a bright turquoise butterfly with black-veined wings and long tail streamers.",
   "t": "Cinika: một con bướm màu xanh ngọc rực rỡ với đôi cánh gân đen và những dải đuôi dài."
  },
+ "77934e38268c": {
+  "en": "<strong>Winga Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Thịt khô Winga</strong>: Thịt khô do người bán thịt làm."
+ },
+ "77d49eed8479": {
+  "en": "Gait",
+  "t": "Dáng đi"
+ },
+ "79d266236d29": {
+  "en": "<strong>Monica Butterflies</strong>: Freshly killed nearby and stored in a wagon with ice, ready for the butcher shops or to be shipped out.",
+  "t": "<strong>Bướm Monica</strong>: Vừa giết ở gần đó và được cất trong xe có đá lạnh, sẵn sàng cho các cửa hàng thịt hoặc để vận chuyển đi."
+ },
+ "7a3b86bb05ba": {
+  "en": "<strong>Reproduction:</strong> Every fall, 2 or 3 Saynas are born.",
+  "t": "<strong>Sinh sản:</strong> Mỗi mùa thu, 2 hoặc 3 con Sayna ra đời."
+ },
+ "7a3c51af3a4c": {
+  "en": "<strong>Fihi Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>Thịt Fihi</strong>: Thịt do người bán thịt xẻ."
+ },
  "7aeb69b7c757": {
   "en": "<strong>Food:</strong> Mainly about 20 kg of grass, hay or Carbey a day.",
   "t": "<strong>Thức ăn:</strong> Chủ yếu khoảng 20 kg cỏ, cỏ khô hoặc Carbey mỗi ngày."
+ },
+ "7b190f73177e": {
+  "en": "<strong>Fihi Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Thịt khô Fihi</strong>: Thịt khô do người bán thịt làm."
  },
  "7b9856128610": {
   "en": "Wingas: male and female blue parrot-like birds with colorful wing bands, next to a larger pink Tolerideme Winga.",
@@ -210,6 +666,10 @@
  "7bb9c6f60656": {
   "en": "Male and female Lanshas: small gray elephant-like animals with large ears, one rearing up.",
   "t": "Lansha đực và cái: những con vật nhỏ màu xám giống voi với đôi tai lớn, một con đang đứng chồm lên."
+ },
+ "7d9f5ef9d7d1": {
+  "en": "<strong>Inspired by:</strong> Emerald Tree Boa.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Trăn cây ngọc lục bảo."
  },
  "7db75d5f2142": {
   "en": "Winga/Pink Winga",
@@ -223,25 +683,69 @@
   "en": "Male and female Crocus: upright gray-green reptiles with spiky backs and long tails.",
   "t": "Crocus đực và cái: những loài bò sát đứng thẳng màu xám xanh với lưng gai và đuôi dài."
  },
+ "8082a21f083d": {
+  "en": "<strong>Wooly Gyut Dried Milk</strong>: Milk often dried for transport to the rest of the kingdoms.",
+  "t": "<strong>Sữa khô Wooly Gyut</strong>: Sữa thường được sấy khô để vận chuyển đến các vương quốc còn lại."
+ },
+ "81096b8135bd": {
+  "en": "<strong>Skills:</strong> Super Smell; Sound Bounce (makes them impossible to hear); Light Bounce (makes them darker than their surroundings); Super Jump; Jaw Clench (they cast Attract once they bite their prey, so they won't let go).",
+  "t": "<strong>Kỹ năng:</strong> Super Smell; Sound Bounce (khiến không thể nghe thấy chúng); Light Bounce (khiến chúng tối hơn môi trường xung quanh); Super Jump; Jaw Clench (chúng thi triển Attract ngay khi cắn con mồi, để không nhả ra)."
+ },
  "82e94d931d4c": {
   "en": "<strong>Tastes like:</strong> Bland, old-tasting beef, with a texture like a tougher top sirloin, since only old Eguas are eaten.",
   "t": "<strong>Vị giống:</strong> Thịt bò nhạt, vị già, với kết cấu như thăn ngoại dai hơn, vì chỉ Egua già mới bị ăn."
+ },
+ "8499b8bf1e3c": {
+  "en": "<strong>Wozen Pelt</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Da lông Wozen</strong>: Da/lông, do người bán thịt sơ chế cho thợ thủ công gia công."
+ },
+ "84a08ea3c124": {
+  "en": "<strong>Food:</strong> About 18 kg of Domar Carbey a day, plus about 2 kg of Gyut berries for richer milk; about 20 kg of Carbey a day for meat production.",
+  "t": "<strong>Thức ăn:</strong> Khoảng 18 kg Domar Carbey mỗi ngày, cộng khoảng 2 kg quả Gyut để sữa béo hơn; khoảng 20 kg Carbey mỗi ngày để lấy thịt."
+ },
+ "84edbcad2a64": {
+  "en": "<strong>Tamed Adult Sayna</strong>: They take a while to train properly, especially to use their skills on command, because of their energetic, goofy nature.",
+  "t": "<strong>Sayna trưởng thành đã thuần hóa</strong>: Chúng mất một thời gian mới huấn luyện được đúng cách, nhất là để dùng kỹ năng theo lệnh, vì bản tính năng động, ngốc nghếch."
  },
  "8561960acacb": {
   "en": "Crocus",
   "t": "Crocus"
  },
+ "85a05be55b0e": {
+  "en": "<strong>Skills:</strong> Sense Surroundings.",
+  "t": "<strong>Kỹ năng:</strong> Sense Surroundings."
+ },
+ "85dd7e93abf9": {
+  "en": "<strong>Reproduction:</strong> Lays one egg every day; fertilized eggs hatch in about 21 days.",
+  "t": "<strong>Sinh sản:</strong> Đẻ một trứng mỗi ngày; trứng đã thụ tinh nở sau khoảng 21 ngày."
+ },
  "87e293098ca7": {
   "en": "<strong>Habitat:</strong> Lower plains.",
   "t": "<strong>Môi trường sống:</strong> Đồng bằng thấp."
+ },
+ "885cd7219ff1": {
+  "en": "<strong>Wooly Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>Thịt Wooly</strong>: Thịt do người bán thịt xẻ."
  },
  "88eaf8a4d441": {
   "en": "Ptaina: a red fish with a huge toothy grin and a glowing bubble on its head, about 45 cm long.",
   "t": "Ptaina: một con cá đỏ với nụ cười toe toét đầy răng và một bong bóng phát sáng trên đầu, dài khoảng 45 cm."
  },
+ "8abfb6164e9b": {
+  "en": "<strong>Tastes like:</strong> Eel.",
+  "t": "<strong>Vị giống:</strong> Lươn."
+ },
+ "8afd1457616b": {
+  "en": "<strong>Legunia Meat</strong>: Meat cut by a butcher. Same price as Winga, since there's more meat per body, and a stronger taste.",
+  "t": "<strong>Thịt Legunia</strong>: Thịt do người bán thịt xẻ. Cùng giá với Winga, vì mỗi con có nhiều thịt hơn, và vị đậm hơn."
+ },
  "8cd22c540fdb": {
   "en": "Public text: Website Description in Legacy/Behind The Scenes/World Lore/Fauna.md",
   "t": "Văn bản công khai: Website Description in Legacy/Behind The Scenes/World Lore/Fauna.md"
+ },
+ "8d32f817b48e": {
+  "en": "<strong>Egua Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Thịt khô Egua</strong>: Thịt khô do người bán thịt làm."
  },
  "8d463a231ed8": {
   "en": "<strong>Reproduction:</strong> Females give birth once a year.",
@@ -251,6 +755,14 @@
   "en": "Monika: a pale-blue butterfly with rounded wings.",
   "t": "Monika: một con bướm màu xanh nhạt với đôi cánh tròn."
  },
+ "8e756c99fadf": {
+  "en": "<strong>Food:</strong> Loves eating Bagarisa, and snacks on humans given the chance.",
+  "t": "<strong>Thức ăn:</strong> Mê ăn Bagarisa, và ăn vặt thịt người khi có cơ hội."
+ },
+ "9004aef13e49": {
+  "en": "It has existed since recorded history began. Nothing too special about them.",
+  "t": "Nó đã tồn tại từ khi lịch sử được ghi chép. Chẳng có gì quá đặc biệt về chúng."
+ },
  "914b8e28a156": {
   "en": "Egua",
   "t": "Egua"
@@ -259,33 +771,117 @@
   "en": "Fatupari: a two-headed green sea serpent with pink fins and red eyes.",
   "t": "Fatupari: một con rắn biển hai đầu màu xanh lá với vây hồng và mắt đỏ."
  },
+ "91593e4c2e4f": {
+  "en": "~65 km",
+  "t": "~65 km"
+ },
  "91599f7a416f": {
   "en": "Soreno",
   "t": "Soreno"
+ },
+ "92799f74bb00": {
+  "en": "<strong>Tastes like:</strong> Tuna.",
+  "t": "<strong>Vị giống:</strong> Cá ngừ."
+ },
+ "9328b74027bf": {
+  "en": "<strong>Wozen Eye</strong>: Used in nari gels.",
+  "t": "<strong>Mắt Wozen</strong>: Dùng trong gel nari."
  },
  "93e19d37b157": {
   "en": "<strong>Inspired by:</strong> Protorohippus; Hippopotamus; Ardennes Heavy Horse Breed.",
   "t": "<strong>Lấy cảm hứng từ:</strong> Protorohippus; Hà mã; Giống ngựa nặng Ardennes."
  },
+ "94c0af4386c3": {
+  "en": "<strong>Wooly Milk</strong>: Females fed only Carbey produce about 8 liters of milk a day, tasting somewhere between cow's and sheep's milk. Mostly available only in Gandew.",
+  "t": "<strong>Sữa Wooly</strong>: Con cái chỉ ăn Carbey cho khoảng 8 lít sữa mỗi ngày, vị nằm giữa sữa bò và sữa cừu. Chủ yếu chỉ có ở Gandew."
+ },
+ "95086f8a6bfa": {
+  "en": "<strong>Intelligence:</strong> Tuna/Shark.",
+  "t": "<strong>Trí thông minh:</strong> Cá ngừ/Cá mập."
+ },
+ "95d1550b230b": {
+  "en": "<strong>Winga Egg</strong>: A treat for many, thanks to its sweet taste.",
+  "t": "<strong>Trứng Winga</strong>: Món khoái khẩu của nhiều người, nhờ vị ngọt."
+ },
  "961908588296": {
   "en": "Culuim: a small worm-like creature arched in two humps, red underneath and blue on top, about 30 cm long.",
   "t": "Culuim: một sinh vật nhỏ giống giun uốn thành hai bướu, bên dưới màu đỏ và bên trên màu xanh, dài khoảng 30 cm."
+ },
+ "97268c91b00b": {
+  "en": "<strong>Habitat:</strong> Deep forests in the south.",
+  "t": "<strong>Môi trường sống:</strong> Rừng sâu ở phía nam."
+ },
+ "974b626235ec": {
+  "en": "<strong>Interface:</strong> Tail.",
+  "t": "<strong>Giao diện:</strong> Đuôi."
+ },
+ "980834a67a71": {
+  "en": "<strong>Lansha Meat</strong>: Tastes like lamb. Every Cruro's favorite.",
+  "t": "<strong>Thịt Lansha</strong>: Vị như thịt cừu. Món khoái khẩu của mọi người Cruro."
  },
  "98c1c7d6f123": {
   "en": "Cinikas, meanwhile, are not exactly as extraordinary unless there's a swarm of them and you're a sweaty Wozefaries or Sorefaries; then you're big trouble as…",
   "t": "Trong khi đó, Cinika không hẳn phi thường như vậy trừ khi có cả một đàn và bạn là một Wozefaries hay Sorefaries đẫm mồ hôi; khi đó bạn gặp rắc rối to vì…"
  },
+ "9a016e52b46d": {
+  "en": "<strong>Sayna Meat</strong>: Meat cut by a butcher. A delicacy for some rich folks, and nourishment for some in the desert.",
+  "t": "<strong>Thịt Sayna</strong>: Thịt do người bán thịt xẻ. Một món cao lương với một số người giàu, và nguồn dinh dưỡng cho một số người ở sa mạc."
+ },
+ "9bb90fb73f19": {
+  "en": "<strong>Food:</strong> Mainly fish, but any other animal that passes by.",
+  "t": "<strong>Thức ăn:</strong> Chủ yếu là cá, nhưng cả bất kỳ con vật nào khác đi ngang qua."
+ },
+ "9be79bf71f99": {
+  "en": "<strong>Child Eguas:</strong> about 0.4 of an adult in everything: ~360 kg of body weight, ~36 kg comfortable on its back, ~72 kg at most.",
+  "t": "<strong>Egua con:</strong> khoảng 0,4 lần một con trưởng thành ở mọi mặt: ~360 kg trọng lượng cơ thể, ~36 kg thoải mái trên lưng, tối đa ~72 kg."
+ },
+ "9bfdf81a5df9": {
+  "en": "<strong>Food:</strong> Insects.",
+  "t": "<strong>Thức ăn:</strong> Côn trùng."
+ },
+ "9c21b19c301a": {
+  "en": "<strong>Inspired by:</strong> Platypus, electric eel.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Thú mỏ vịt, lươn điện."
+ },
+ "9c7d7a961d3d": {
+  "en": "<strong>Habitat:</strong> Mostly in the dense forests around Blood City and the Freeish Kingdom.",
+  "t": "<strong>Môi trường sống:</strong> Chủ yếu trong các khu rừng rậm quanh thành phố Blood và Vương quốc Freeish."
+ },
  "9dfd01727122": {
   "en": "<strong>Inspired by:</strong> Worms (average).",
   "t": "<strong>Lấy cảm hứng từ:</strong> Giun (loại trung bình)."
+ },
+ "9e3441475fe9": {
+  "en": "<strong>Pulling a cart:</strong> strain = (cart + cargo + driver) × road factor ÷ 900 kg. The road factor is 0.05 on a good, hard road, 0.10 on a dirt road and 0.15 on soft ground, mud or sand. A full day at 10% strain means about 1,800 kg on a good road, 900 kg on a dirt road or 600 kg in sand.",
+  "t": "<strong>Kéo xe:</strong> sức căng = (xe + hàng + người đánh xe) × hệ số đường ÷ 900 kg. Hệ số đường là 0,05 trên đường tốt, cứng, 0,10 trên đường đất và 0,15 trên đất mềm, bùn hoặc cát. Một ngày trọn ở sức căng 10% nghĩa là khoảng 1.800 kg trên đường tốt, 900 kg trên đường đất hoặc 600 kg trên cát."
+ },
+ "a0f9018b2064": {
+  "en": "<strong>Fanchaki Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Thịt khô Fanchaki</strong>: Thịt khô do người bán thịt làm."
+ },
+ "a10d066313db": {
+  "en": "<strong>Food:</strong> Insects and grain.",
+  "t": "<strong>Thức ăn:</strong> Côn trùng và ngũ cốc."
  },
  "a11dc364d78f": {
   "en": "Bagarisas compete with Fanchakis to be the most-eaten animal in the four kingdoms. Well, to be fair, they didn't have much choice in participating in that competition, but it's their fault that their irresistibly earthy, mushroom-accented meat that isn't too gamey appeases the palate of all races. They are always in packs, and they will not hold back in lighting up their tusks in flames to rush toward you. They are also skilled with ranged attacks by generating a flaming ball between their tusks, then creating a gust of hot wind that begins in the red crest at the tip of their tails and speeds up towards their head. The bagarisa can tilt its head up to make the hot air strike the ball of flame and turn it into a fireball. If that wasn't enough, they also have a distinct musk of shrimp brine that can make a lot of people gag profusely—dealing with that is one of the many things they teach adventures in the one and only adventurers school in Forway. They also teach them that if they are going for a clean shot, then they need an extra long arrow to perforate the two hearts it has in the chest and lower gut.",
   "t": "Bagarisa cạnh tranh với Fanchaki để trở thành loài vật bị ăn nhiều nhất ở bốn vương quốc. Công bằng mà nói, chúng chẳng có nhiều lựa chọn khi tham gia cuộc đua đó, nhưng lỗi của chúng là thịt có vị đất, thoảng hương nấm không quá hôi, chiều lòng khẩu vị của mọi chủng tộc. Chúng luôn đi theo bầy, và sẽ không ngần ngại đốt lửa trên ngà để lao về phía bạn. Chúng cũng giỏi tấn công tầm xa bằng cách tạo ra một quả cầu lửa giữa hai ngà, rồi tạo một luồng gió nóng bắt đầu từ mào đỏ ở chóp đuôi và tăng tốc về phía đầu. Con bagarisa có thể ngẩng đầu để luồng khí nóng đánh vào quả cầu lửa và biến nó thành hỏa cầu. Như thế chưa đủ, chúng còn có một mùi xạ đặc trưng như nước muối tôm khiến rất nhiều người nôn ọe dữ dội—đối phó với điều đó là một trong nhiều thứ được dạy cho nhà mạo hiểm ở trường nhà mạo hiểm có một không hai ở Forway. Họ cũng dạy rằng nếu muốn bắn gọn, họ cần một mũi tên thật dài để xuyên qua hai trái tim của nó ở ngực và bụng dưới."
  },
+ "a16b00e09b42": {
+  "en": "Birds native to the deserts, where they spend most of their lives; they come down to the lower plains for the breeding season.",
+  "t": "Loài chim bản địa của sa mạc, nơi chúng sống phần lớn cuộc đời; chúng xuống các đồng bằng thấp vào mùa sinh sản."
+ },
+ "a1f7ad199ac1": {
+  "en": "<strong>Ptaina Fish Meal</strong>: Unused fish parts, or fish unfit for human consumption, turned into fish meal: usually whatever is left over after extracting the oil.",
+  "t": "<strong>Bột cá Ptaina</strong>: Những phần cá không dùng đến, hoặc cá không hợp để người ăn, được làm thành bột cá: thường là phần còn lại sau khi chiết dầu."
+ },
  "a28b148b2cec": {
   "en": "Cinika",
   "t": "Cinika"
+ },
+ "a31218bfa119": {
+  "en": "<strong>Skills:</strong> Detect Temperature; Detect Soul Energy; Enhance Smell/Turn certain smells visible.",
+  "t": "<strong>Kỹ năng:</strong> Detect Temperature; Detect Soul Energy; Enhance Smell/Turn certain smells visible."
  },
  "a36483e8f6e6": {
   "en": "Fatupari",
@@ -295,21 +891,113 @@
   "en": "Male and female Fanchakis: plump black chicken-like birds with white-edged feathers and red faces.",
   "t": "Fanchaki đực và cái: những con chim mập đen giống gà với lông viền trắng và mặt đỏ."
  },
+ "a739131c6074": {
+  "en": "<strong>Habitat:</strong> Mostly in the swamps from Sanbi to Tastyleaf.",
+  "t": "<strong>Môi trường sống:</strong> Chủ yếu ở các đầm lầy từ Sanbi đến Tastyleaf."
+ },
  "aad2aeaf73ba": {
   "en": "<strong>Earth animals that don't exist in Vraki</strong> (for writers): no goats (use Legunia), no dogs or cats (use a Bagarisa where a dog would go), no pigeons (use wild Wingas). (World Lore Q&amp;A › Vol 4 Draft 2, Q8.)",
   "t": "<strong>Những loài vật trên Trái Đất không tồn tại ở Vraki</strong> (dành cho người viết): không có dê (dùng Legunia), không có chó hay mèo (dùng Bagarisa ở chỗ lẽ ra là chó), không có bồ câu (dùng Winga hoang). (World Lore Q&amp;A › Vol 4 Draft 2, Q8.)"
+ },
+ "ab44bcf4ec19": {
+  "en": "<strong>Winga Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>Thịt Winga</strong>: Thịt do người bán thịt xẻ."
  },
  "ab65bffd7d33": {
   "en": "Sanbi is the staple of which kingdom? If you didn't answer Sanbi, then oh boy, you might have been smoking too much Magina. If you plan to visit, then give \"The True Sanbi King\" novel a read first, or you might be baffled as to why people put the dead old people in small boats and push them off their docks (sometimes not quite so dead if the fishing is weak but that's neither here nor there.) Either way, only that fisherman's family seems to have the prowess or pure luck to catch these darn tasty fish! You're welcome to try, though! But you'll likely only catch meat from their lips as they swell and shed it off, or suffer a massive headache as it's always keen to tap into its soul energy interface to fend off predators.",
   "t": "Sanbi là món chủ lực của vương quốc nào? Nếu bạn không trả lời Sanbi, thì ôi trời, có lẽ bạn hút quá nhiều Magina rồi. Nếu định đến thăm, hãy đọc cuốn tiểu thuyết \"The True Sanbi King\" trước, nếu không bạn có thể bối rối vì sao người ta đặt những người già đã chết lên thuyền nhỏ và đẩy họ ra khỏi bến (đôi khi chưa hẳn đã chết nếu câu cá kém, nhưng chuyện đó không quan trọng.) Dù sao thì chỉ có gia đình người đánh cá đó dường như có tài hoặc may mắn thuần túy để bắt được những con cá ngon chết tiệt này! Tuy nhiên, bạn cứ thử! Nhưng có lẽ bạn sẽ chỉ bắt được thịt từ môi chúng khi chúng phồng lên và tróc ra, hoặc chịu một cơn đau đầu dữ dội vì nó luôn sẵn sàng khai thác giao diện năng lượng linh hồn để chống lại kẻ săn mồi."
  },
+ "ab9d6b2075a0": {
+  "en": "<strong>Winga Dust</strong>: Usually ground, using other beaks and claws to do it. They must have been strengthened by the Winga before they were removed, and the effect lasts for years before it starts to wear off. The coating can be as strong as diamond until the effect wears off.",
+  "t": "<strong>Bột Winga</strong>: Thường được nghiền, dùng mỏ và móng vuốt khác để nghiền. Chúng phải được Winga cường hóa trước khi bị lấy ra, và hiệu ứng kéo dài nhiều năm trước khi bắt đầu phai. Lớp phủ có thể cứng như kim cương cho đến khi hiệu ứng phai đi."
+ },
+ "abbcc9d2e5d1": {
+  "en": "A fish from the deeper ocean that stuns and messes with other fish, for food and maybe for fun.",
+  "t": "Một loài cá ở đại dương sâu hơn làm choáng và quấy nhiễu những con cá khác, để kiếm ăn và có lẽ để giải trí."
+ },
+ "abc9c825c542": {
+  "en": "<strong>Habitat:</strong> Ponds.",
+  "t": "<strong>Môi trường sống:</strong> Ao."
+ },
+ "ac6e9c8cf058": {
+  "en": "<strong>Intelligence:</strong> Like elephants or Hippos. By themselves, they are chill and timid, but in a group, they are more aggressive and territorial.",
+  "t": "<strong>Trí thông minh:</strong> Như voi hay hà mã. Khi ở một mình, chúng thong thả và nhút nhát, nhưng khi theo bầy, chúng hung hăng và có tính lãnh thổ hơn."
+ },
+ "adebdf04e687": {
+  "en": "A fish famous for controlling elemental energy: absorbing, creating or releasing it.",
+  "t": "Một loài cá nổi tiếng điều khiển được năng lượng nguyên tố: hấp thụ, tạo ra hoặc giải phóng nó."
+ },
+ "ae2df3ced076": {
+  "en": "Gallop",
+  "t": "Phi nước đại"
+ },
+ "ae79095d0fcb": {
+  "en": "<strong>Intelligence:</strong> Wild Boar.",
+  "t": "<strong>Trí thông minh:</strong> Lợn rừng."
+ },
+ "b14a3a047e09": {
+  "en": "Big flying birds that eat Gyut berries, and their meat tastes sweet. They settle high in the trees to rest and breed, and may attack humans who come too close, depending on past encounters. They're famous for flying fast and high, which makes them hard to hunt. Tamed, they make loyal companions, and since they recognize people's faces and places, they make a great courier service. Pink Wingas, which some call Tolerideme Wingas, are incredibly hard to find, since they camouflage themselves really well.",
+  "t": "Những con chim lớn biết bay ăn quả Gyut, và thịt của chúng có vị ngọt. Chúng đậu trên cao trong các cây để nghỉ ngơi và sinh sản, và có thể tấn công người đến quá gần, tùy vào những lần chạm trán trước đó. Chúng nổi tiếng bay nhanh và cao, khiến chúng khó săn. Khi được thuần hóa, chúng là những người bạn đồng hành trung thành, và vì nhận ra được mặt người và địa điểm, chúng làm dịch vụ chuyển thư rất tốt. Winga hồng, mà một số người gọi là Winga Tolerideme, cực kỳ khó tìm, vì chúng ngụy trang rất giỏi."
+ },
+ "b2357f57439e": {
+  "en": "<strong>Food:</strong> Trees, leaves and plants.",
+  "t": "<strong>Thức ăn:</strong> Cây, lá và thực vật."
+ },
+ "b31876f752d9": {
+  "en": "Distance at 10% strain (~90 kg)",
+  "t": "Quãng đường ở sức căng 10% (~90 kg)"
+ },
+ "b361f1ddd348": {
+  "en": "<strong>Sanbi Scales</strong>: Scales, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Vảy Sanbi</strong>: Vảy, do người bán thịt sơ chế cho thợ thủ công gia công."
+ },
+ "b4f93a988d4e": {
+  "en": "<strong>Fihi Fish Meal</strong>: Unused fish parts, or fish unfit for human consumption, turned into fish meal: usually whatever is left over after extracting the oil.",
+  "t": "<strong>Bột cá Fihi</strong>: Những phần cá không dùng đến, hoặc cá không hợp để người ăn, được làm thành bột cá: thường là phần còn lại sau khi chiết dầu."
+ },
+ "b5013d989d78": {
+  "en": "<strong>Food:</strong> Organic matter, dead things, etc.",
+  "t": "<strong>Thức ăn:</strong> Chất hữu cơ, xác chết, v.v."
+ },
+ "b6440b2c0bd2": {
+  "en": "Small mammals that eat insects and grain. They prefer insects, so in small numbers they're great pest control; in large numbers, they become pests themselves. Hunters and Pearl adventurers are constantly hired to keep them in check.",
+  "t": "Những loài thú có vú nhỏ ăn côn trùng và ngũ cốc. Chúng thích côn trùng hơn, nên khi ít, chúng kiểm soát sâu bọ rất tốt; khi nhiều, chính chúng trở thành sâu bọ. Thợ săn và nhà mạo hiểm Pearl liên tục được thuê để kiềm chế chúng."
+ },
+ "b68dfac1563a": {
+  "en": "<strong>Sanbi Fish Meal</strong>: Unused fish parts, or fish unfit for human consumption, turned into fish meal: usually whatever is left over after extracting the oil.",
+  "t": "<strong>Bột cá Sanbi</strong>: Những phần cá không dùng đến, hoặc cá không hợp để người ăn, được làm thành bột cá: thường là phần còn lại sau khi chiết dầu."
+ },
  "b6e1bd12e4b2": {
   "en": "<strong>Food:</strong> Ground.",
   "t": "<strong>Thức ăn:</strong> Đất."
  },
+ "b771573a1570": {
+  "en": "<strong>Interface:</strong> Feet &amp; beak.",
+  "t": "<strong>Giao diện:</strong> Chân &amp; mỏ."
+ },
+ "b82c3e966676": {
+  "en": "<strong>Inspired by:</strong> Rats &amp; Shrews.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Chuột &amp; Chuột chù."
+ },
  "b952669231be": {
   "en": "Legunia",
   "t": "Legunia"
+ },
+ "b9703b7af938": {
+  "en": "~20 km/h",
+  "t": "~20 km/h"
+ },
+ "ba86c5147701": {
+  "en": "<strong>Egua Hoof/Leg hair</strong>: Used in nari gels. Taken from dead Eguas, or sometimes from damaged hooves before healing is cast.",
+  "t": "<strong>Móng/lông chân Egua</strong>: Dùng trong gel nari. Lấy từ Egua đã chết, hoặc đôi khi từ móng bị tổn thương trước khi thi triển phép chữa lành."
+ },
+ "bd819a3d6000": {
+  "en": "<strong>Habitat:</strong> Throughout the Lower and Buhraies Plains, with a larger population in Wingarest.",
+  "t": "<strong>Môi trường sống:</strong> Khắp các đồng bằng thấp và Buhraies Plains, với số lượng lớn hơn ở Wingarest."
+ },
+ "bd83994dd2c7": {
+  "en": "<strong>Intelligence:</strong> Predatory Fish/Eel.",
+  "t": "<strong>Trí thông minh:</strong> Cá săn mồi/Lươn."
  },
  "bdd0e53e27c7": {
   "en": "Monikas are loner butterflies tightly associated with death and decay. Their interface is considered the best at identifying corpses, especially if the corpse is tied to a soul pooled with lots of soul energy. They also have the ability to turn desired volatile compounds of scents into a visual representation that aids in understanding its concentration and source—known as Monika sight, a nari gel concoction customized with the desired volatile compound, turned even exceptional if paired with Wozen Smell for both finding things like dead adventurers, detect poisonous things like traps, or even track down live animals or humans by using the droppings or sweat. Adventurers on the brink of death often implore to be found by these peaceful-looking butterflies—at least some do until they remember the cost of revival.",
@@ -319,9 +1007,65 @@
   "en": "Soreno is favored by scientists who avoid human experimentation or can't contract one to experiment on. It is not exactly a close match to the real thing, but it's good enough to iterate through experiments quickly and cheaply,  publish papers, and make a name for yourself! Some are on the other spectrum—with often pearl adventurers tasked to keep the Soreno population in cities, especially in grain silos, on the delicate balance between pest control and being a pest themselves. Plus, it's cheap meat for these pearl adventurers who are probably in so much debt that any single pearl they can avoid wasting now is amethysts off their loan due to their jacked-up interests. The caveat is that the meat smells and tastes like stale piss and that you will likely need to heal yourself if you slip up and don't cook it well done—or have difficulty catching them as they cloak themselves in both sight and heat signatures, and talk to one another in such a high pitch tone you will either need a Sayna or use nari gel to alter your ears to a Soreno. They also imitate other animals and can dash an arm's length as quickly as a blink of an eye in almost any direction a few times too.",
   "t": "Soreno được các nhà khoa học ưa chuộng khi họ tránh thí nghiệm trên người hoặc không thuê được ai để thí nghiệm. Nó không hẳn giống với hàng thật, nhưng đủ tốt để làm thí nghiệm nhanh và rẻ, xuất bản bài báo, và tạo tên tuổi cho bản thân! Một số ở phía bên kia—thường là nhà mạo hiểm hạng pearl được giao giữ số lượng Soreno trong thành phố, đặc biệt là trong các kho thóc, ở mức cân bằng mong manh giữa kiểm soát dịch hại và tự mình thành dịch hại. Thêm nữa, đó là thịt rẻ cho những nhà mạo hiểm pearl có lẽ đang nợ ngập đầu đến mức mỗi pearl họ tránh lãng phí bây giờ là bớt được amethyst trong khoản vay vì lãi suất cắt cổ. Có điều thịt có mùi và vị như nước tiểu ôi và bạn có lẽ sẽ phải tự chữa thương nếu sơ suất không nấu chín kỹ—hoặc khó bắt chúng vì chúng ngụy trang cả hình ảnh lẫn dấu hiệu nhiệt, và nói chuyện với nhau bằng âm vực cao đến mức bạn sẽ cần một con Sayna hoặc dùng gel nari để biến tai mình thành tai Soreno. Chúng còn bắt chước các loài vật khác và có thể lao đi một sải tay nhanh như chớp mắt theo gần như mọi hướng vài lần."
  },
+ "be7b971aef88": {
+  "en": "Yuyta meat",
+  "t": "Thịt Yuyta"
+ },
+ "bf2e419868c8": {
+  "en": "Looks like a fox, but is as rocky as a horned lizard. Very friendly with humans, and a good addition to an adventurer's party. It makes a cute sound: \"Pohw-pohhhhwww!\"",
+  "t": "Trông như một con cáo, nhưng sần sùi như thằn lằn sừng. Rất thân thiện với con người, và là một bổ sung tốt cho nhóm của nhà mạo hiểm. Nó phát ra một âm thanh dễ thương: “Pohw-pohhhhwww!”"
+ },
+ "bff3359ad9d1": {
+  "en": "<strong>Food:</strong> Grass.",
+  "t": "<strong>Thức ăn:</strong> Cỏ."
+ },
+ "c17066c19ce4": {
+  "en": "Canter",
+  "t": "Phi nước kiệu"
+ },
  "c182cbeda856": {
   "en": "<strong>Intelligence:</strong> Worm.",
   "t": "<strong>Trí thông minh:</strong> Giun."
+ },
+ "c2d5e9d12b16": {
+  "en": "The Sanbi Kingdom is named after this fish, its main food source and economy. It's famous for taking all of a normal human's strength to reel in: even muscular fishermen catch at most 2 adults a day, if they're lucky, unless they tap into nari gels and the like. More in the novel The True Sanbi King.",
+  "t": "Vương quốc Sanbi được đặt tên theo loài cá này, nguồn thức ăn và nền kinh tế chính của nó. Nó nổi tiếng là phải dùng toàn bộ sức của một người bình thường mới kéo lên được: ngay cả những ngư dân cơ bắp cũng chỉ bắt được nhiều nhất 2 con trưởng thành mỗi ngày, nếu may mắn, trừ khi họ dùng đến gel nari và những thứ tương tự. Xem thêm trong tiểu thuyết The True Sanbi King."
+ },
+ "c341b3850c53": {
+  "en": "<strong>Ptaina Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Thịt khô Ptaina</strong>: Thịt khô do người bán thịt làm."
+ },
+ "c393d69f7c61": {
+  "en": "<strong>Sayna Jerky</strong>: Jerky prepared by a butcher. Rare to find to its taste.",
+  "t": "<strong>Thịt khô Sayna</strong>: Thịt khô do người bán thịt làm. Hiếm tìm được loại vừa ý."
+ },
+ "c40eb11148e4": {
+  "en": "<strong>Tastes like:</strong> Lamb/Goat.",
+  "t": "<strong>Vị giống:</strong> Cừu/Dê."
+ },
+ "c42130ff5cc3": {
+  "en": "A native of the Cruro lands, sometimes found as far south as Waterfall, or as far up as Tastyleaf.",
+  "t": "Một loài bản địa của vùng đất Cruro, đôi khi được tìm thấy xa về phía nam đến tận Waterfall, hoặc xa về phía bắc đến tận Tastyleaf."
+ },
+ "c4c548507778": {
+  "en": "<strong>Hide</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Da</strong>: Da/lông, do người bán thịt sơ chế cho thợ thủ công gia công."
+ },
+ "c50f91f11623": {
+  "en": "<strong>Skills:</strong> Blood Heal; Flaming Tusks (balls of flame created between the tusks); a gust of hot air, built up from the tail and shot through the hair crest, which combined with the flame creates a flamethrower effect.",
+  "t": "<strong>Kỹ năng:</strong> Blood Heal; Flaming Tusks (những quả cầu lửa tạo ra giữa hai chiếc ngà); một luồng khí nóng, tích tụ từ đuôi và phóng qua bờm lông, kết hợp với lửa tạo hiệu ứng súng phun lửa."
+ },
+ "c52792714823": {
+  "en": "<strong>Inspired by:</strong> Frog.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Ếch."
+ },
+ "c571c8aaec73": {
+  "en": "<strong>Tastes like:</strong> Beef with a slight note of mutton.",
+  "t": "<strong>Vị giống:</strong> Thịt bò thoang thoảng vị thịt cừu."
+ },
+ "c643a9a65315": {
+  "en": "<strong>Bagarisa Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>Thịt Bagarisa</strong>: Thịt do người bán thịt xẻ."
  },
  "c67a6b41df1f": {
   "en": "Monica",
@@ -339,13 +1083,45 @@
   "en": "Sayna is a \"smol\" creature that made the desert its habitat. Worshiped in some sense by the Sundeath citizens as it is crucial in reducing the number of deaths by sand worms. Its enormous ears and cuteness make it a highly sought-after companion for adventurers and traders alike—so much so that about two-fifths of export from Sundeath each year are trained Saynas. The city also exports sayna meat as well, but only more affluent folks who enjoy tasting things more than admiring their cuteness can afford it. The ruling pharaohs—a weird name they call the ruler—tried to intervene with a trade blockade to prevent overhunting, but the city ruler cracked under the might of Forway's guards and law.",
   "t": "Sayna là một sinh vật \"bé xíu\" đã chọn sa mạc làm môi trường sống. Được công dân Sundeath tôn thờ theo một nghĩa nào đó vì nó đóng vai trò quan trọng trong việc giảm số người chết do sand worm. Đôi tai khổng lồ và vẻ dễ thương khiến nó trở thành bạn đồng hành được săn đón bởi cả nhà mạo hiểm lẫn thương nhân—đến mức khoảng hai phần năm lượng xuất khẩu của Sundeath mỗi năm là Sayna đã được huấn luyện. Thành phố cũng xuất khẩu cả thịt sayna, nhưng chỉ những người khá giả thích nếm hơn là ngắm sự dễ thương của chúng mới đủ tiền mua. Các pharaoh cai trị—cái tên kỳ quặc họ dùng để gọi người cai trị—đã cố can thiệp bằng lệnh phong tỏa thương mại để ngăn săn bắt quá mức, nhưng kẻ cai trị thành phố đã gục ngã trước sức mạnh của lính canh và luật pháp Forway."
  },
+ "c6e037db4d85": {
+  "en": "<strong>Interface:</strong> Fins on sides.",
+  "t": "<strong>Giao diện:</strong> Vây hai bên."
+ },
+ "c8cdebaf733c": {
+  "en": "<strong>Intelligence:</strong> Frog.",
+  "t": "<strong>Trí thông minh:</strong> Ếch."
+ },
  "c9b04316ba1a": {
   "en": "Public text: fauna.md",
   "t": "Văn bản công khai: fauna.md"
  },
+ "caa0a1a96a34": {
+  "en": "<strong>Wooly Gyut Milk</strong>: Females produce about 10 liters a day, and the milk looks and tastes like caramel when they're fed Gyut berries. Free for Darfaries children.",
+  "t": "<strong>Sữa Wooly Gyut</strong>: Con cái cho khoảng 10 lít mỗi ngày, và sữa trông và có vị như caramen khi chúng được cho ăn quả Gyut. Miễn phí cho trẻ em Darfaries."
+ },
  "cb7a989df4da": {
   "en": "Culuim proves that Hifuna should always be considered a threat to the soul, even if you live as far away as the Freeish Kingdom. This story started when an asshole adventurer from Big Gyut returned from Hifuna with a bag of Walking Hearts ready to sell in the black market. He probably was smiling wide with excitement about making it back without being caught, but then one of his guild mates rattled on him to the guards—because of an affair like usual. Instead of turning the bag in, the asshole adventurer buried it near a pond to get rid of the evidence—the rest is history as worms ate the contaminated soul, and a new species was born. Forway tried to exterminate it, but it was to no avail, so they shifted to focus instead to ensure that it didn't present a danger to the public. Luckily that was the case, and soon after, it somehow became a popular street food for people in a pinch because of its girth size and abundant nature. They taste like dirt, and the flesh is pretty chewy, but with enough seasoning, it goes down nicely after some beers. Scientists love them even more for being an animal model for the effects of Walking Heart.",
   "t": "Culuim chứng minh rằng Hifuna luôn nên được coi là mối đe dọa với linh hồn, kể cả khi bạn sống xa tận Vương quốc Freeish. Câu chuyện bắt đầu khi một gã nhà mạo hiểm khốn nạn từ Big Gyut trở về từ Hifuna với một túi Walking Heart sẵn sàng bán ở chợ đen. Hắn có lẽ đang cười toe vì phấn khích được trở về mà không bị bắt, nhưng rồi một người cùng hội tố cáo hắn với lính canh—như thường lệ là vì chuyện ngoại tình. Thay vì nộp túi, gã nhà mạo hiểm khốn nạn chôn nó gần một cái ao để phi tang bằng chứng—phần còn lại là lịch sử khi giun ăn phải linh hồn bị ô nhiễm, và một loài mới ra đời. Forway cố tiêu diệt nó nhưng vô ích, nên họ chuyển sang tập trung bảo đảm nó không gây nguy hiểm cho công chúng. May mắn là vậy, và không lâu sau, bằng cách nào đó nó trở thành món ăn đường phố phổ biến cho những người túng thiếu vì kích thước to và số lượng dồi dào. Chúng có vị như đất, và thịt khá dai, nhưng với đủ gia vị, nó trôi tuột sau vài cốc bia. Các nhà khoa học còn mê chúng hơn vì chúng là mô hình động vật cho tác động của Walking Heart."
+ },
+ "cd5c8dbd9c7e": {
+  "en": "A pig- and deer-like mammal whose meat isn't too gamy: a bit earthy, with hints of mushroom. Famous for shrugging off arrows, since an instant kill means shooting both of its hearts: one in the chest, and another in the gut, which has its own pathways that can also power the hind legs. Its musk smells like shrimp brine.",
+  "t": "Một loài thú có vú giống lợn và hươu mà thịt không quá hăng mùi thú hoang: hơi có mùi đất, thoang thoảng vị nấm. Nổi tiếng là trúng tên vẫn trơ ra, vì muốn giết ngay phải bắn trúng cả hai quả tim của nó: một ở ngực, và một ở bụng, quả tim có hệ mạch riêng cũng có thể cấp sức cho hai chân sau. Mùi xạ của nó giống nước muối ngâm tôm."
+ },
+ "ceb3008882ba": {
+  "en": "<strong>Ptaina Fish Roe</strong>: A treat for some.",
+  "t": "<strong>Trứng cá Ptaina</strong>: Món khoái khẩu của một số người."
+ },
+ "ceec885211ca": {
+  "en": "<strong>Barina Leg Meat</strong>: Meat cut by a butcher, often used in Freeish Kingdom dishes.",
+  "t": "<strong>Thịt đùi Barina</strong>: Thịt do người bán thịt xẻ, thường dùng trong các món ăn của Vương quốc Freeish."
+ },
+ "cefd76615954": {
+  "en": "Gait (walk)",
+  "t": "Dáng đi (đi bộ)"
+ },
+ "cf2876144923": {
+  "en": "Trot",
+  "t": "Chạy nước kiệu"
  },
  "cfdc5df49da6": {
   "en": "Male and female Saynas: small spotted fox-like animals with very large ears.",
@@ -355,37 +1131,157 @@
   "en": "Yuytas might look friendly to some, but they are not keen on human contact. If you poach a baby one from its mother, you might get a solid companion, but you wouldn't count on it. They are not as intelligent as cats, yet just as finicky. Their most desirable trait, aside from their tuna-like meat that has a faint freshly cut grass rather than oceanic notes, is the whiskers for nari gels, as with those, it allows you to see or feel stuff behind walls. They hang out in groups, and you can see them jumping about, enjoying their lives with their big plumpy butts for all to see. Hunters, and villagers at large, use these creatures' butts as a barometer for harvest quality. It's like what they say, \"Winter's gonna suck ass when you see a flappy butt flapping on Fall!\"",
   "t": "Yuyta có thể trông thân thiện với một số người, nhưng chúng không thích tiếp xúc với con người. Nếu bạn bắt trộm một con non từ mẹ nó, bạn có thể có một bạn đồng hành vững chắc, nhưng đừng trông vào điều đó. Chúng không thông minh bằng mèo, nhưng khó chiều y như vậy. Đặc điểm được thèm muốn nhất của chúng, ngoài thịt giống cá ngừ thoang thoảng mùi cỏ mới cắt hơn là hương biển, là bộ ria dùng làm gel nari, vì với nó, bạn có thể thấy hoặc cảm nhận được những thứ sau tường. Chúng tụ tập thành nhóm, và bạn có thể thấy chúng nhảy nhót, tận hưởng cuộc sống với cái mông to tròn phô ra cho mọi người thấy. Thợ săn, và dân làng nói chung, dùng mông của những sinh vật này làm phong vũ biểu cho chất lượng mùa màng. Như người ta nói, \"Mùa đông sẽ tệ hại nếu bạn thấy một cái mông lép kẹp lủng lẳng vào mùa thu!\""
  },
+ "d1317ad4680b": {
+  "en": "A frog known for staying underwater for a long time and for the toxins on its back. Its tail is useful for nari gels too.",
+  "t": "Một loài ếch nổi tiếng ở dưới nước rất lâu và có độc tố trên lưng. Đuôi của nó cũng hữu ích cho gel nari."
+ },
+ "d2236ce106ac": {
+  "en": "<strong>Interface:</strong> Hair on head and chin.",
+  "t": "<strong>Giao diện:</strong> Lông trên đầu và cằm."
+ },
  "d3f1d96b05ca": {
   "en": "A small cyan butterfly that spreads everywhere every spring. Known for attacking Wozefaries and Sorefaries in swarms and paralyzing them to lick their sweat. One of the most popular butterflies around: when they swarm and flee, adventurers and commoners know bad weather is coming.",
   "t": "Một loài bướm nhỏ màu lục lam tràn ngập khắp nơi vào mỗi mùa xuân. Nổi tiếng với việc tấn công người Wozefaries và Sorefaries thành bầy và làm tê liệt họ để liếm mồ hôi. Một trong những loài bướm phổ biến nhất: khi chúng tụ thành bầy và bỏ chạy, nhà mạo hiểm và dân thường biết thời tiết xấu sắp đến."
+ },
+ "d4d4721c833c": {
+  "en": "<strong>Inspired by:</strong> Black Drum Fish.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Cá đù đen."
+ },
+ "d5ac19f2411a": {
+  "en": "<strong>Inspired by:</strong> Flamingo with Winga mix.",
+  "t": "<strong>Lấy cảm hứng từ:</strong> Hồng hạc pha Winga."
  },
  "d5e22df7e97b": {
   "en": "Wozen",
   "t": "Wozen"
  },
+ "d6d432b15cb4": {
+  "en": "<strong>Interface:</strong> Horns.",
+  "t": "<strong>Giao diện:</strong> Sừng."
+ },
  "d73ce8370633": {
   "en": "Egua became the foundation of trading across the four Kingdoms, and if you think more about it, the core reason why the prosperity treaty is prosperous. Sure, Gravity Repel is still used to decrease the weight of goods, but then you have to deal with volume too through World Decrease. The cost alone would make things prohibitively expensive to trade, but that's not all! The fact that not every good can handle having its density altered by factors of ten, if not hundreds, makes using Soul Energy for everything a pain in the ass. All of this brings back the point that with its interface that allows it to walk on water, endurance to carry a lot of weight, and friction control over muddy terrain, it truly is an essential asset in keeping the balls flowing by enriching trading and making wars unlikely. Some people, mostly Forway and Freeish folks, plus some adventurers here and there still like to indulge in Egua's meat for its meatier notes and low-fat content that makes tasty beef jerky. Just beware of its capabilities to eject its intestines from its bunghole when in self-defense—it's entertainingly bizarre to watch a Wozen, or anything for that matter, give up chasing an Egua when the shower of shit and guts starts to rain towards them.",
   "t": "Egua đã trở thành nền tảng của thương mại khắp bốn Vương quốc, và nếu nghĩ kỹ hơn, là lý do cốt lõi khiến hiệp ước thịnh vượng thật sự thịnh vượng. Đúng là Gravity Repel vẫn được dùng để giảm trọng lượng hàng hóa, nhưng rồi bạn cũng phải xử lý thể tích bằng World Decrease. Riêng chi phí đã khiến việc buôn bán đắt đến mức không kham nổi, nhưng chưa hết! Việc không phải hàng hóa nào cũng chịu được việc mật độ bị thay đổi gấp mười, nếu không phải hàng trăm lần, khiến việc dùng Năng lượng linh hồn cho mọi thứ thật là một cực hình. Tất cả đưa ta về điểm rằng với giao diện cho phép đi trên mặt nước, sức bền mang được nhiều trọng lượng, và khả năng kiểm soát ma sát trên địa hình lầy lội, nó thật sự là tài sản thiết yếu giữ cho bi lưu chuyển bằng cách làm giàu thương mại và khiến chiến tranh khó xảy ra. Một số người, chủ yếu là dân Forway và Freeish, cộng thêm vài nhà mạo hiểm đây đó vẫn thích thưởng thức thịt Egua vì vị đậm đà và ít mỡ, làm khô bò rất ngon. Chỉ cần cẩn thận với khả năng phóng ruột ra từ hậu môn khi tự vệ—xem một con Wozen, hay bất cứ thứ gì, bỏ cuộc đuổi theo Egua khi cơn mưa phân và ruột bắt đầu trút về phía nó thật kỳ quặc một cách thú vị."
+ },
+ "d87d047b29d2": {
+  "en": "<strong>Skills:</strong> Reverberate Voice; Create Light.",
+  "t": "<strong>Kỹ năng:</strong> Reverberate Voice; Create Light."
+ },
+ "d886ec863afa": {
+  "en": "<strong>Habitat:</strong> Cruro lands.",
+  "t": "<strong>Môi trường sống:</strong> Vùng đất Cruro."
+ },
+ "d88e42687f14": {
+  "en": "<strong>Habitat:</strong> Throughout the lower region.",
+  "t": "<strong>Môi trường sống:</strong> Khắp vùng thấp."
  },
  "da13c60d054c": {
   "en": "Grass",
   "t": "Cỏ"
  },
+ "db42cb0cab14": {
+  "en": "<strong>Crocus Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>Thịt Crocus</strong>: Thịt do người bán thịt xẻ."
+ },
+ "e096ca9e3833": {
+  "en": "<strong>Intelligence:</strong> Rats.",
+  "t": "<strong>Trí thông minh:</strong> Chuột."
+ },
+ "e179b32e7576": {
+  "en": "<strong>Reproduction:</strong> Tens of Fihi a year.",
+  "t": "<strong>Sinh sản:</strong> Hàng chục con Fihi mỗi năm."
+ },
+ "e26709a487ee": {
+  "en": "<strong>Intelligence:</strong> Leopard.",
+  "t": "<strong>Trí thông minh:</strong> Báo."
+ },
+ "e448b3b39740": {
+  "en": "<strong>Fihi Fish Roe</strong>: A treat for some.",
+  "t": "<strong>Trứng cá Fihi</strong>: Món khoái khẩu của một số người."
+ },
+ "e54948829158": {
+  "en": "<strong>Tastes like:</strong> Gamy and tough.",
+  "t": "<strong>Vị giống:</strong> Mùi thú hoang và dai."
+ },
+ "e556b83aaed6": {
+  "en": "<strong>Interface:</strong> Its skin is tougher than normal fish skin, including being able to dissipate elemental energy—or rather, absorb it like a shield.",
+  "t": "<strong>Giao diện:</strong> Da của nó cứng hơn da cá bình thường, bao gồm cả khả năng làm tiêu tan năng lượng nguyên tố, hay đúng hơn, hấp thụ nó như một tấm khiên."
+ },
  "e6431f6bf11c": {
   "en": "Yuyta: a white rodent with big front teeth, shown from the front, the back and as a head close-up.",
   "t": "Yuyta: một con gặm nhấm trắng răng cửa to, nhìn từ phía trước, phía sau và cận cảnh đầu."
+ },
+ "e76195943c36": {
+  "en": "A Buhraies subjugation experiment: the Buhraies took a few chakis (chickens) and transformed them into fanchakis. As usual, both escaped containment, but the chakis went extinct, eaten up by the fauna and the Lishies. Fanchakis breed fast (like rats), so they survived and spread like wildfire, even with the Lishies hunting them by the thousands.",
+  "t": "Một thí nghiệm khuất phục của người Buhraies: người Buhraies lấy vài con chaki (gà) và biến chúng thành fanchaki. Như thường lệ, cả hai đều thoát khỏi nơi giam giữ, nhưng chaki tuyệt chủng, bị động vật và Lishy ăn sạch. Fanchaki sinh sản nhanh (như chuột), nên chúng sống sót và lan nhanh như cháy rừng, kể cả khi Lishy săn chúng hàng nghìn con."
+ },
+ "e76e5b4d4fd2": {
+  "en": "<strong>Egua Meat</strong>: Meat cut by a butcher. Relatively cheap, since it comes from older Eguas that no longer carry cargo or people.",
+  "t": "<strong>Thịt Egua</strong>: Thịt do người bán thịt xẻ. Tương đối rẻ, vì nó đến từ những con Egua già không còn chở hàng hay người nữa."
+ },
+ "e77b78c71d82": {
+  "en": "<strong>Fanchaki Meat</strong>: Meat cut by a butcher. The kingdoms' favorite meat, for how good it tastes for the price.",
+  "t": "<strong>Thịt Fanchaki</strong>: Thịt do người bán thịt xẻ. Loại thịt được yêu thích nhất của các vương quốc, vì ngon so với giá."
  },
  "e80edef60f16": {
   "en": "Lansha is a Cruro favorite! So much so, you often can trade anything you want from them with a simple succulent chunk of grilled Lansha—or if the cruro is pretty savage, it will just snatch it from you, and your hand too! The meat's flavor is akin to goat or lamb. It takes getting used to, but once you do, it goes well with anything. Catching one and cooking it can be tricky if you don’t know what you’re doing. Their main defense is coating their bodies with a sour secretion that makes biting them impossible to stomach. Hunting them down requires skill to one-shot their brain, and even more skill to skin them and their sour glands.",
   "t": "Lansha là món khoái khẩu của Cruro! Khoái đến mức bạn thường có thể đổi bất cứ thứ gì bạn muốn từ họ chỉ bằng một miếng Lansha nướng mọng nước—hoặc nếu cruro khá man rợ, nó sẽ giật luôn từ tay bạn, và cả bàn tay bạn nữa! Vị thịt giống thịt dê hoặc cừu. Cần thời gian để quen, nhưng một khi quen rồi, nó hợp với mọi thứ. Bắt một con và nấu nó có thể khó nếu bạn không biết mình đang làm gì. Cách tự vệ chính của chúng là phủ lên người một chất tiết chua khiến không ai nuốt nổi khi cắn chúng. Săn chúng đòi hỏi kỹ năng một phát trúng não, và còn nhiều kỹ năng hơn để lột da và tuyến chua của chúng."
  },
+ "e942eadd436d": {
+  "en": "<strong>Intelligence:</strong> Cockatoo.",
+  "t": "<strong>Trí thông minh:</strong> Vẹt mào."
+ },
+ "e9521d3eb018": {
+  "en": "See Cruro for more information!",
+  "t": "Xem Cruro để biết thêm thông tin!"
+ },
+ "e96e6f7d86ec": {
+  "en": "<strong>Tastes like:</strong> Bitter; only goes down in a heavily seasoned soup, though some people swear by its taste.",
+  "t": "<strong>Vị giống:</strong> Đắng; chỉ nuốt được trong một bát súp nêm thật đậm, dù một số người thề là nó ngon."
+ },
+ "e98e294b8c11": {
+  "en": "<strong>Tastes like:</strong> Bitter, and smells like urine. The meat is given to wild animals or used as fertilizer, though some Pearl adventurers still eat it, because it's free meat.",
+  "t": "<strong>Vị giống:</strong> Đắng, và có mùi nước tiểu. Thịt được cho thú hoang ăn hoặc dùng làm phân bón, dù vài nhà mạo hiểm Pearl vẫn ăn, vì là thịt miễn phí."
+ },
+ "e99b71a69b07": {
+  "en": "One of the most terrifying snakes around for its size... but looks aren't everything.",
+  "t": "Một trong những loài rắn đáng sợ nhất xét theo kích thước... nhưng vẻ ngoài không phải là tất cả."
+ },
+ "e9bfc573cd1f": {
+  "en": "<strong>Reproduction:</strong> Every summer; 25 eggs laid, of which only a few reach adulthood.",
+  "t": "<strong>Sinh sản:</strong> Mỗi mùa hè; đẻ 25 trứng, chỉ vài con sống đến lúc trưởng thành."
+ },
+ "ea1f882e807e": {
+  "en": "<strong>Sanbi Oil</strong>: Used in beer, in food, for greasing things, etc.",
+  "t": "<strong>Dầu Sanbi</strong>: Dùng trong bia, đồ ăn, để bôi trơn, v.v."
+ },
+ "ea2a96791612": {
+  "en": "<strong>Fanchaki Egg</strong>: A common food.",
+  "t": "<strong>Trứng Fanchaki</strong>: Một món ăn thông dụng."
+ },
+ "ea918f305a68": {
+  "en": "<strong>Interface:</strong> Hair on Back/Tusks on fronts.",
+  "t": "<strong>Giao diện:</strong> Lông trên lưng/Ngà phía trước."
+ },
  "edb2fa9e8d54": {
   "en": "Wooly is truly a staple of Gandew. The fact that there aren't many other places it can survive due to its demanding nature is strong enough by itself to warrant Gandew gaining the comparative advantage from Forway—but that isn't the only fact either. Darfaries acquired several unique masteries over the generations over the entire spectrum of by-products! From herding them in Mid-Gandew to processing their milk into varieties of cheeses, creating wet and dry-aged beef that is to soul die for, and even soft, warm wool and clothing! Toleridemians are the heaviest consumers, both in the literal and figurative sense, of these tantalizing exports, and try as they might, they cannot compete with Gandew on that front. Buhraies Plains is just not high enough for these creatures to feel at home, and whatever they produced so far under \"research\" was laughable.",
   "t": "Wooly thật sự là đặc sản của Gandew. Việc không có nhiều nơi khác chúng có thể sống sót do bản tính khó tính đã đủ để Gandew được Forway trao lợi thế so sánh—nhưng đó cũng không phải điều duy nhất. Darfaries đã tích lũy nhiều tay nghề độc nhất qua các thế hệ trên toàn bộ các sản phẩm phụ! Từ chăn thả chúng ở Mid-Gandew đến chế biến sữa thành đủ loại phô mai, làm thịt bò ủ ướt và ủ khô ngon đến chết linh hồn, và thậm chí cả len ấm mềm và quần áo! Người Tolerideme là khách hàng tiêu thụ nặng nề nhất, cả theo nghĩa đen lẫn nghĩa bóng, của những mặt hàng xuất khẩu hấp dẫn này, và dù cố đến đâu, họ cũng không thể cạnh tranh với Gandew ở mảng đó. Buhraies Plains đơn giản là không đủ cao để những sinh vật này thấy như ở nhà, và những gì họ tạo ra đến nay dưới danh nghĩa \"nghiên cứu\" thật nực cười."
  },
+ "ee3e2adc67b2": {
+  "en": "<strong>Bagarisa Hide/Fur</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Da/lông Bagarisa</strong>: Da/lông, do người bán thịt sơ chế cho thợ thủ công gia công."
+ },
  "ef97b49d1a9a": {
   "en": "<strong>Inspired by:</strong> Butterfly.",
   "t": "<strong>Lấy cảm hứng từ:</strong> Bướm."
+ },
+ "efecdea30ac3": {
+  "en": "~5 km",
+  "t": "~5 km"
+ },
+ "effdb360e78b": {
+  "en": "<strong>Reproduction:</strong> Every spring; ~30 eggs laid, of which only a few reach adulthood.",
+  "t": "<strong>Sinh sản:</strong> Mỗi mùa xuân; đẻ ~30 trứng, chỉ vài con sống đến lúc trưởng thành."
  },
  "f03bfe0fce40": {
   "en": "Culuim",
@@ -395,9 +1291,53 @@
   "en": "<strong>Interface:</strong> Hair on legs.",
   "t": "<strong>Giao diện:</strong> Lông ở chân."
  },
+ "f14bb452ecbf": {
+  "en": "<strong>Ptaina Scales</strong>: Scales, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Vảy Ptaina</strong>: Vảy, do người bán thịt sơ chế cho thợ thủ công gia công."
+ },
+ "f5f3755cabe6": {
+  "en": "<strong>Habitat:</strong> Mostly the forests of the Sanbi region and up the coast.",
+  "t": "<strong>Môi trường sống:</strong> Chủ yếu là các khu rừng của vùng Sanbi và ngược lên bờ biển."
+ },
  "f8bfebcf4201": {
   "en": "<strong>Habitat:</strong> Throughout the four kingdoms; wild ones live on the plains around Forway City.",
   "t": "<strong>Môi trường sống:</strong> Khắp bốn vương quốc; những con hoang sống trên các đồng bằng quanh thành phố Forway."
+ },
+ "f8eb6490e08e": {
+  "en": "<strong>Fanchaki Feathers</strong>: Feathers, prepared by a butcher for artisans to work on.",
+  "t": "<strong>Lông vũ Fanchaki</strong>: Lông vũ, do người bán thịt sơ chế cho thợ thủ công gia công."
+ },
+ "faacfbb4d60d": {
+  "en": "<strong>Reproduction:</strong> Females give birth to 2 or 3 babies every 3 months.",
+  "t": "<strong>Sinh sản:</strong> Con cái sinh 2 hoặc 3 con mỗi 3 tháng."
+ },
+ "fb53a27c3daf": {
+  "en": "<strong>Reproduction:</strong> 3 or 4 Winga couples get together for a swing party, then build a shared nest to care for the eggs, which hatch in less than a month. About 20 Winga eggs are laid every year.",
+  "t": "<strong>Sinh sản:</strong> 3 hoặc 4 cặp Winga tụ lại cho một bữa tiệc đổi vợ đổi chồng, rồi xây một tổ chung để chăm trứng, trứng nở chưa đầy một tháng. Mỗi năm khoảng 20 quả trứng Winga được đẻ ra."
+ },
+ "fb6c2dca1fec": {
+  "en": "<strong>Reproduction:</strong> Every year, they tend to have about 2 or 3 baby Wozens.",
+  "t": "<strong>Sinh sản:</strong> Mỗi năm, chúng thường có khoảng 2 hoặc 3 con Wozen con."
+ },
+ "fbf4f9e2165d": {
+  "en": "<strong>Fatupari Jerky</strong>: Jerky prepared by a butcher. See Fatupari Meat.",
+  "t": "<strong>Thịt khô Fatupari</strong>: Thịt khô do người bán thịt làm. Xem Thịt Fatupari."
+ },
+ "fc575baee407": {
+  "en": "<strong>Intelligence:</strong> Chicken.",
+  "t": "<strong>Trí thông minh:</strong> Gà."
+ },
+ "fcfafdd5bf13": {
+  "en": "<strong>Crocus Eggs</strong>: An interesting food for some.",
+  "t": "<strong>Trứng Crocus</strong>: Một món ăn thú vị với một số người."
+ },
+ "fd7cb8d7ed78": {
+  "en": "<strong>Crocus Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>Thịt khô Crocus</strong>: Thịt khô do người bán thịt làm."
+ },
+ "ff51f79062c7": {
+  "en": "<strong>Skills:</strong> Cloak; Toxin Air Diffusion.",
+  "t": "<strong>Kỹ năng:</strong> Cloak; Toxin Air Diffusion."
  },
  "ff5a6de9851b": {
   "en": "A heavy horse with a hippopotamus-like head. Herbivores that didn't mind being around other species, they were quickly domesticated. They love being petted and understand basic instructions, but hurting them, physically or emotionally, makes them violent. Their Soul Energy interface lets them walk on water naturally, which makes them the basis of transportation across the Shared Delta. Humans respect their friendliness so much that Eguas are often given human burials. Some people do eat their meat, but mostly when the opportunity arises (older Eguas, for example).",
