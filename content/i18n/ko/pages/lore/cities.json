@@ -1,7 +1,27 @@
 {
+ "00188f98e9c6": {
+  "en": "<strong>Old Kick in the Ass:</strong> a mix of a bunch of different shit, just to clear out stock. Guaranteed to taste funky, and to kick your ass.",
+  "t": "<strong>올드 킥 인 디 애스:</strong> 재고를 털려고 온갖 잡것을 섞은 것. 맛이 괴상한 건 보장, 엉덩이를 걷어차이는 것도 보장."
+ },
+ "00484c295d5e": {
+  "en": "<strong>Triangle Fest:</strong> every Moacir, a crowd plays the triangle to the same rhythm around the cathedral, hoping to boost the triangle's power to keep enemies at bay.",
+  "t": "<strong>트라이앵글 축제:</strong> 매년 모아시르에 군중이 대성당 주위에서 같은 박자로 트라이앵글을 연주한다. 적을 막아 주는 삼각형의 힘을 북돋우려는 것이다."
+ },
+ "00b4bdc0d8d8": {
+  "en": "<strong>Visual references:</strong> houses with a medieval mix of sharp angles, plus a concrete-and-glass look.",
+  "t": "<strong>시각 자료:</strong> 날카로운 각이 뒤섞인 중세풍 집들, 그리고 콘크리트와 유리의 느낌."
+ },
+ "00b5ab702520": {
+  "en": "<strong>Clothing:</strong> similar to Sanbi, but made from Crocus leather (the animal, not the Cruros, though some humans have done that too: killing and skinning too-smart-for-their-own-good Cruros who tried to swindle a far more cunning, or angrier, human, and wearing them).",
+  "t": "<strong>옷차림:</strong> 산비와 비슷하지만 크로커스 가죽으로 만든다(동물 크로커스 말이고, 크루로가 아니다. 다만 그렇게 한 인간도 좀 있다: 훨씬 더 교활한, 혹은 더 화난 인간을 속이려던 잘난 척하는 크루로를 죽여 가죽을 벗기고 입은 것이다)."
+ },
  "0145f741e3be": {
   "en": "<strong>Calm Water Resort Guild (#4):</strong> adventurers who are getting old and have no money left join this guild, spending their retirement at the Calm Water Resort in exchange for helping protect it against threats.",
   "t": "<strong>캄 워터 리조트 길드(#4):</strong> 늙어 가고 돈이 바닥난 모험가들이 이 길드에 들어와, 위협으로부터 지키는 걸 돕는 대가로 캄 워터 리조트에서 노후를 보낸다."
+ },
+ "020871e3965d": {
+  "en": "<strong>Education:</strong> none; those who want a proper education go to Tolerideme.",
+  "t": "<strong>교육:</strong> 없다. 제대로 교육받고 싶은 사람은 톨레리데메로 간다."
  },
  "023fe97a0a48": {
   "en": "Mostly humans, with a handful of Darfaries, a few Wozefaries and tons of Sorefaries, plus a handful of adventurers with Bruntos or Sorefaries.",
@@ -11,9 +31,21 @@
   "en": "<strong>Local embassy quests:</strong> embassy checking and verification.",
   "t": "<strong>지역 대사관 의뢰:</strong> 대사관 점검과 확인."
  },
+ "03b9ab7c0978": {
+  "en": "<strong>Crime and law:</strong> similar to Forway Law, but with the presumption of guilt until proven innocent. Many people avoid the city because of this law, and how easily locals abuse it over trivial matters.",
+  "t": "<strong>범죄와 법:</strong> 포웨이 법과 비슷하지만, 무죄가 입증될 때까지 유죄로 추정한다. 이 법, 그리고 주민들이 사소한 일로 이 법을 얼마나 쉽게 악용하는지 때문에 이 도시를 피하는 사람이 많다."
+ },
+ "05d6b2b74b9e": {
+  "en": "<strong>Waterfall Grand Race:</strong> every summer, a race to see who reaches Sanbi fastest after jumping off the docks at the foot of the waterfall and swimming downstream. Soul Energy of any kind and intensity is allowed, and so is any clothing; you can't harm others, and your body is yours to enhance as you like. The record holder is a female Darfaries, at 13.5 hours.",
+  "t": "<strong>워터폴 대경주:</strong> 매년 여름, 폭포 아래 부두에서 뛰어내려 하류로 헤엄쳐 누가 가장 빨리 산비에 닿나 겨루는 경주. 어떤 종류와 강도의 영혼 에너지든 허용되고, 옷도 아무거나 된다. 남을 해치면 안 되고, 자기 몸은 마음대로 강화해도 된다. 기록 보유자는 다르파리에스 여성으로, 13.5시간이다."
+ },
  "068ba6951d50": {
   "en": "Cadioca",
   "t": "카디오카"
+ },
+ "06f37f31e0e1": {
+  "en": "<strong>Black Gold Trading (#2):</strong> on its way to becoming one of the biggest trading companies. The people behind this corporate office are freaking geniuses.",
+  "t": "<strong>블랙 골드 무역 (#2):</strong> 손꼽히게 큰 무역 회사가 되어 가는 중이다. 이 본사 뒤에 있는 사람들은 진짜 천재다."
  },
  "076d86a5f35b": {
   "en": "Tastyleaf",
@@ -23,13 +55,33 @@
   "en": "<strong>Economy:</strong> exports Lonllows all year long; the five guilds' cooperation keeps a constant supply flowing through the kingdoms.",
   "t": "<strong>경제:</strong> 일 년 내내 론로를 수출한다. 다섯 길드의 협력 덕에 왕국들 사이로 꾸준히 공급이 흐른다."
  },
+ "08be3570b4c5": {
+  "en": "<strong>Food Paste:</strong> Ganyrami invented food pastes and still makes the best. They come in all kinds of flavors and let people travel long distances on the cheap, especially with a large batch for the road. Some bandits use them to avoid certain places, or to scout new spots to hit.",
+  "t": "<strong>음식 페이스트:</strong> 음식 페이스트는 가니라미가 발명했고, 지금도 가장 좋은 걸 만든다. 온갖 맛이 있고, 특히 길에 가져갈 걸 한 무더기 사 두면 싸게 먼 길을 갈 수 있다. 어떤 산적들은 이걸로 특정 장소를 피하거나 털 곳을 새로 정찰한다."
+ },
+ "0b87903a4168": {
+  "en": "<strong>Marriage:</strong> a man and a woman can marry with the pharaoh's approval; richer couples create a guild.",
+  "t": "<strong>결혼:</strong> 남자와 여자는 파라오의 승인을 받아 결혼할 수 있다. 부유한 부부는 길드를 만든다."
+ },
  "0b9e98ac54d6": {
   "en": "<strong>Education:</strong> follows Forway.",
   "t": "<strong>교육:</strong> 포웨이를 따른다."
  },
+ "0bf7bc6fbb6a": {
+  "en": "<strong>Black Mead:</strong> mead made from Black Honey.",
+  "t": "<strong>검은 미드:</strong> 검은 꿀로 만든 미드."
+ },
+ "0c7ef40c21bb": {
+  "en": "Mostly humans, plus a significant number of Wozefaries, from back when they were slaves. People worship the tree for its natural protection against the beasts. Similar to Sanbi, but warier of strangers; they constantly argue over the tree's grounds, but will act if anyone dares to harm it.",
+  "t": "대부분 인간이고, 노예였던 시절부터 이어진 워제파리에스도 상당수 있다. 사람들은 마수로부터 자연스럽게 지켜 주는 나무를 숭배한다. 산비와 비슷하지만 낯선 사람을 더 경계한다. 나무 땅을 두고 끊임없이 다투지만, 누가 감히 나무를 해치려 하면 나선다."
+ },
  "0cdeb9641aef": {
   "en": "<strong>Clothing:</strong> warm-weather hunting clothes.",
   "t": "<strong>옷차림:</strong> 따뜻한 날씨용 사냥복."
+ },
+ "0d7e46628d90": {
+  "en": "A triangle on the forehead marks the three royal guilds, which control everything on the island.",
+  "t": "이마의 삼각형은 섬의 모든 것을 통제하는 세 왕실 길드를 나타낸다."
  },
  "0e5922e6bdae": {
   "en": "Other races rarely visit, out of fear of the Cruros, who act on instinct.",
@@ -39,13 +91,37 @@
   "en": "<strong>Asa, Paulin, Moacir and Adrian Lonllow Harvest (#2 to #5):</strong> each guild coordinates the harvest in its own month of the year.",
   "t": "<strong>아사, 파울린, 모아시르, 아드리안 론로 수확(#2~#5):</strong> 각 길드가 한 해 중 자기 달의 수확을 맡는다."
  },
+ "0e8875a51f44": {
+  "en": "When humans fled the Lishies' hungry mouths, they came across land where natural rocks formed triangles. They began building in triangular shapes, and since the triangle is such a strong natural structure, the buildings survived the harsh storms from the sea. Certain people took the idea and created a community to make sure everyone followed the triangle way of doing things. When tons of people fled to the city during the Greed Period, the community forced \"The Triangle Way\" on everyone: it calmed and organized the people, while letting three guilds control essentially everything. They control everyone so tightly that even people's poop schedules are synced: there are bathrooms everywhere, and everyone goes at the same time.",
+  "t": "인간들이 리시에스의 굶주린 입을 피해 달아나다가, 자연석이 삼각형을 이룬 땅을 만났다. 그들은 삼각형 모양으로 짓기 시작했고, 삼각형은 아주 튼튼한 자연 구조라 건물들이 바다에서 오는 거센 폭풍을 견뎌 냈다. 어떤 사람들이 이 생각을 가져다 공동체를 만들고, 모두가 삼각형 방식을 따르도록 했다. 탐욕기에 엄청난 사람들이 이 도시로 피난 오자, 공동체는 모두에게 ‘트라이앵글의 길’을 강요했다. 그건 사람들을 진정시키고 조직했지만, 동시에 세 길드가 사실상 모든 것을 쥐게 했다. 이들은 모두를 어찌나 빡빡하게 통제하는지 사람들 똥 싸는 시간까지 맞춰져 있다: 화장실이 어디에나 있고, 다들 같은 시간에 간다."
+ },
  "0f398def6755": {
   "en": "Two villages across the lake offer transport, and the constant flow of people through them gave the city its economic lifeline. They see themselves as villages of the Freeish Kingdom, but Forway made them a city of their own to shrink the kingdom; through backdoor negotiations, they stay part of the Freeish Kingdom anyway.",
   "t": "호수 건너편의 두 마을이 운송을 맡고, 그곳을 끊임없이 오가는 사람들이 이 도시의 경제적 생명줄이 됐다. 그들은 자신을 프리이시 왕국의 마을로 여기지만, 포웨이는 왕국을 줄이려고 그들을 별개의 도시로 만들었다. 뒷거래 협상을 통해 그들은 어쨌든 프리이시 왕국의 일부로 남아 있다."
  },
+ "10c605835f2c": {
+  "en": "A royal family line commands everything. The pharaoh's word is absolute; pharaohs wear a gold crown with jewels, and the one in command decides who becomes the next pharaoh when they grow too old.",
+  "t": "왕가 혈통 하나가 모든 것을 지휘한다. 파라오의 말은 절대적이다. 파라오는 보석 박힌 금관을 쓰고, 지휘하는 파라오가 너무 늙으면 다음 파라오를 정한다."
+ },
  "135aa68327b2": {
   "en": "<strong>Clothing:</strong> a gap between rich and poor, mixing styles from every other kingdom.",
   "t": "<strong>옷차림:</strong> 빈부 격차가 있고, 다른 모든 왕국의 스타일이 섞여 있다."
+ },
+ "1458e81e71d2": {
+  "en": "<strong>Marriage:</strong> they teach a Winga to say \"X, would you marry me?\"",
+  "t": "<strong>결혼:</strong> 윙가에게 “X, 나랑 결혼해 줄래?”라고 말하도록 가르친다."
+ },
+ "15258b405ab2": {
+  "en": "<strong>Local embassy quests:</strong> discovery and infiltration quests to find bandits, given only to adventurers they trust a whole lot.",
+  "t": "<strong>지역 대사관 의뢰:</strong> 산적을 찾아내는 탐색·잠입 의뢰. 아주 많이 신뢰하는 모험가에게만 준다."
+ },
+ "165402a0a6a0": {
+  "en": "The largest mining town, built among the ruins of Old Fuhrair. Some leftover buildings remain, and Fuhraies traps can still be uncovered.",
+  "t": "가장 큰 광산 도시로, 옛 푸레어의 폐허 사이에 세워졌다. 남은 건물이 몇 채 있고, 아직도 푸라이에스의 함정이 발견되기도 한다."
+ },
+ "165a67fbab32": {
+  "en": "<strong>Marriage:</strong> like the Tolerideme Kingdom; declaring your love during an elevator descent is rather common.",
+  "t": "<strong>결혼:</strong> 톨레리데메 왕국과 같다. 엘리베이터로 내려가는 동안 사랑을 고백하는 게 꽤 흔하다."
  },
  "17f112e14a68": {
   "en": "<strong>Names:</strong> like the Gandew Kingdom and Forway.",
@@ -59,6 +135,18 @@
   "en": "<strong>Broken Knuckle:</strong> the tavern where Honati worked.",
   "t": "<strong>부러진 주먹:</strong> 호나티가 일하던 선술집."
  },
+ "1aab7a1b1159": {
+  "en": "<strong>Halfway Inn (#5):</strong> a cheap inn and restaurant with a couples' discount for taking the stairs together.",
+  "t": "<strong>중간 여관 (#5):</strong> 싼 여관 겸 식당. 계단을 함께 오르는 커플에게 할인을 해 준다."
+ },
+ "1bde74afd9fd": {
+  "en": "<strong>Education:</strong> barely any.",
+  "t": "<strong>교육:</strong> 거의 없다."
+ },
+ "1d2c4af3e84c": {
+  "en": "<strong>Threats:</strong> the desert, and Forway deciding to take over completely.",
+  "t": "<strong>위협:</strong> 사막, 그리고 포웨이가 완전히 장악하기로 하는 것."
+ },
  "1f2ead0d49db": {
   "en": "City (World Lore illustration)",
   "t": "도시 (세계관 삽화)"
@@ -67,17 +155,53 @@
   "en": "According to the smartest Cruros, quite a few tribes divide the territory:",
   "t": "가장 영리한 크루로들에 따르면, 꽤 많은 부족이 영역을 나눠 갖고 있다:"
  },
+ "20ed36cc79b7": {
+  "en": "<strong>Festivals:</strong> none. The culture is too uncoordinated for anything that brings everyone together.",
+  "t": "<strong>축제:</strong> 없다. 문화가 너무 제각각이라 모두를 한데 모으는 일은 못 한다."
+ },
  "220ddf150e26": {
   "en": "<strong>Marriage:</strong> mixed. Some marry by their own customs, going to the palace to speak with their kingdom or city representative. A growing trend is contract marriage between money-hungry people.",
   "t": "<strong>결혼:</strong> 섞여 있다. 어떤 이들은 자기 관습대로 결혼하며, 궁에 가서 자기 왕국이나 도시의 대표와 이야기한다. 돈에 굶주린 사람들 사이의 계약 결혼이 늘어나는 추세다."
+ },
+ "24504900d644": {
+  "en": "<strong>Education:</strong> like Forway.",
+  "t": "<strong>교육:</strong> 포웨이와 같다."
  },
  "24652e28b940": {
   "en": "Blood",
   "t": "블러드"
  },
+ "248b50d50631": {
+  "en": "<strong>Local embassy quests:</strong> exploring the west and the desert.",
+  "t": "<strong>지역 대사관 의뢰:</strong> 서쪽과 사막 탐사."
+ },
+ "26e56d809f79": {
+  "en": "<strong>Visual references:</strong> like the Sanbi Kingdom, but smaller.",
+  "t": "<strong>시각 자료:</strong> 산비 왕국과 같지만 더 작다."
+ },
+ "27bbd2aa3731": {
+  "en": "<strong>Economy:</strong> mining.",
+  "t": "<strong>경제:</strong> 채굴."
+ },
+ "290979e4143a": {
+  "en": "<strong>Clothing:</strong> similar to Tolerideme.",
+  "t": "<strong>옷차림:</strong> 톨레리데메와 비슷하다."
+ },
+ "29d59967fcaa": {
+  "en": "<strong>Names:</strong> like the Tolerideme and Sanbi Kingdoms.",
+  "t": "<strong>이름:</strong> 톨레리데메 왕국, 산비 왕국과 같다."
+ },
+ "2a1dcf6425bb": {
+  "en": "<strong>Bloody Honey:</strong> one of the largest honey-gathering guilds in the region.",
+  "t": "<strong>블러디 허니:</strong> 이 지역에서 손꼽히게 큰 꿀 채집 길드."
+ },
  "2aa2f5bb5a66": {
   "en": "Rich fauna and flora drew hunters (back before adventurers were a thing) to spend most of their lives around here. A single fire pit and a nearby hut slowly grew into a cluster of stone fireplaces with a city around them. The fire pits are constantly fed carcasses and other unusable garbage to smelt iron and other minerals and for blacksmithing, and since the city grew out of community spirit, they're public and publicly maintained.",
   "t": "풍부한 동식물에 이끌린 사냥꾼들이(모험가라는 게 생기기 전 이야기다) 평생 대부분을 이 근처에서 보냈다. 화덕 하나와 근처 오두막 하나가 천천히 돌 화덕 무리로 자랐고, 그 주위로 도시가 생겼다. 화덕엔 쇠와 다른 광물을 녹이고 대장일을 하려고 사체와 쓸모없는 쓰레기를 끊임없이 넣는다. 도시가 공동체 정신에서 자랐기에, 화덕은 공공의 것이고 공공으로 관리된다."
+ },
+ "2bdfdaefc599": {
+  "en": "<strong>Marriage, names and burial:</strong> mixed, leaning toward Gandew's ways.",
+  "t": "<strong>결혼, 이름, 장례:</strong> 뒤섞여 있고, 간듀 방식 쪽으로 기운다."
  },
  "2c16e9a223de": {
   "en": "<strong>Threats:</strong> the occasional drunk, pervert or bandit, or all three in one person; and adventurers investigating something a Flatland guild didn't hide well enough.",
@@ -86,6 +210,18 @@
  "2ca032c0016d": {
   "en": "<strong>Marriage:</strong> made official by the village leader. Then the couple (who must buy or build a house first) goes to the House of Bruntos to bond with one and bring it home.",
   "t": "<strong>결혼:</strong> 마을 지도자가 공식화한다. 그런 다음 부부는(먼저 집을 사거나 지어야 한다) 브룬토스의 집에 가서 하나와 유대를 맺고 집으로 데려온다."
+ },
+ "2fbb374b68bd": {
+  "en": "Statues of the land's beasts and fauna stand around, with eyes of pure Fost stone and bodies of mud. The Sayna is one of the most powerful humanoids. Most people wear simple, plain clothing, and richer people wear gold accessories. They're shy by nature, especially with foreigners, very clean, and drenched in perfume. Pharaohs can only marry their brothers or sisters. Boots and sandals are left outside the home.",
+  "t": "이 땅의 마수와 동물 조각상이 곳곳에 서 있는데, 눈은 순수한 포스트석이고 몸은 진흙이다. 사이나는 가장 강력한 인간형 중 하나다. 대부분 수수하고 단순한 옷을 입고, 부자들은 금 장신구를 단다. 천성이 수줍고, 특히 외지인에게 그렇다. 아주 깔끔하고, 향수를 흠뻑 뿌린다. 파라오는 형제자매하고만 결혼할 수 있다. 장화와 샌들은 집 밖에 벗어 둔다."
+ },
+ "305e211fa391": {
+  "en": "<strong>Clothing:</strong> simple things, for the dense, muggy forest.",
+  "t": "<strong>옷차림:</strong> 빽빽하고 후텁지근한 숲에 맞춘 단순한 것들."
+ },
+ "30d57c960344": {
+  "en": "<strong>Crime and law:</strong> Forway Law, but people tend to sort things out themselves, since Forway guards rarely come by.",
+  "t": "<strong>범죄와 법:</strong> 포웨이 법이지만, 포웨이 경비병이 거의 안 오니 사람들은 대개 알아서 해결한다."
  },
  "3139dba5b647": {
   "en": "<strong>Names:</strong> mixed.",
@@ -103,9 +239,17 @@
   "en": "<strong>Names:</strong> they don't have names. The highly intelligent ones get one from the Sanbi or Tastyleaf embassy, through the Half-Cruro guild.",
   "t": "<strong>이름:</strong> 이름이 없다. 아주 영리한 크루로는 하프 크루로 길드를 통해 산비나 테이스티리프 대사관에서 이름을 받는다."
  },
+ "358ad909843a": {
+  "en": "<strong>Marriage:</strong> in the Triangle Cathedral, with both people's guilds present.",
+  "t": "<strong>결혼:</strong> 트라이앵글 대성당에서, 두 사람의 길드가 모두 참석한 가운데 한다."
+ },
  "35b259290ec3": {
   "en": "Food",
   "t": "음식"
+ },
+ "371267194be7": {
+  "en": "<strong>Elevators:</strong> guided up and down by cables along the side of the wooden structure. They move at about 10 km/h (about 12 minutes up or down, with speeding up and slowing down). Maximum load: 5,120 kg. 20 Pearls a person (double if really fat, or a Darfaries; Sorefaries ride free), or 1 Pearl per 3 kg of cargo. Locks at the top and bottom keep the elevator from floating away when it has no cargo.",
+  "t": "<strong>엘리베이터:</strong> 나무 구조물 옆면을 따라 놓인 케이블로 오르내린다. 시속 10km쯤으로 움직인다(가속과 감속을 포함해 오르거나 내리는 데 12분쯤). 최대 하중은 5,120kg. 한 사람에 20펄(진짜 뚱뚱하거나 다르파리에스면 두 배, 소레파리에스는 공짜), 화물은 3kg당 1펄. 위아래의 잠금장치가 화물이 없을 때 엘리베이터가 떠내려가지 않게 붙잡아 둔다."
  },
  "37f55ee4a86e": {
   "en": "Forway Guards: a guard in white-and-gray hooded armor, next to a map section around Forway city.",
@@ -123,6 +267,10 @@
   "en": "<strong>Crime and law:</strong> like the Sanbi Kingdom.",
   "t": "<strong>범죄와 법:</strong> 산비 왕국과 같다."
  },
+ "3d5ef9931f9c": {
+  "en": "<strong>Burial:</strong> cremated with Wood People wood.",
+  "t": "<strong>장례:</strong> 우드 피플 나무로 화장한다."
+ },
  "3e940f401b10": {
   "en": "<strong>Egua Uniform Contest:</strong> every Asa and Adrian, a contest to design new uniforms for the eguas; they must be waterproof and suit the weather. The winner's name goes on a board displayed at the crossing buildings.",
   "t": "<strong>에구아 제복 대회:</strong> 매년 아사와 아드리안에 에구아의 새 제복을 디자인하는 대회. 방수가 되고 날씨에 맞아야 한다. 우승자의 이름은 도하 건물에 걸린 판에 오른다."
@@ -130,6 +278,14 @@
  "3eb7936bcef6": {
   "en": "<strong>Clothing:</strong> closer to the Freeish Kingdom, mixed with Forway.",
   "t": "<strong>옷차림:</strong> 프리이시 왕국에 가깝고, 포웨이가 섞였다."
+ },
+ "3fe4c2957ba2": {
+  "en": "<strong>Threats:</strong> the bandits taking over if the symbiosis breaks, or if they leech too much; Forway deciding to take firm action.",
+  "t": "<strong>위협:</strong> 공생이 깨지거나 산적들이 너무 빨아먹으면 산적들이 장악하는 것. 포웨이가 강경 조치에 나서는 것."
+ },
+ "40848991389a": {
+  "en": "<strong>Burial:</strong> mostly thrown into the sea, some cremation. Some adventurers' bodies are sent back to where they came from.",
+  "t": "<strong>장례:</strong> 대부분 바다에 던지고, 화장도 좀 한다. 모험가 시신 중에는 온 곳으로 돌려보내지는 것도 있다."
  },
  "40e5eb2ae546": {
   "en": "<strong>Second Life:</strong> every Moacir, a festival across the whole town celebrating every Wozefaries and Sorefaries who has landed since the last one.",
@@ -139,13 +295,37 @@
   "en": "<strong>#2:</strong> rather peaceful.",
   "t": "<strong>#2:</strong> 꽤 평화롭다."
  },
+ "41ae9feb9bf9": {
+  "en": "<strong>Burial:</strong> mummies placed at great depths, for people who are worthy, or who paid large sums. Anyone with a shady or dark past is most likely thrown out into the desert, so they don't taint the others' \"after-living\" space.",
+  "t": "<strong>장례:</strong> 자격이 있거나 큰돈을 낸 사람은 미라로 만들어 아주 깊은 곳에 안치한다. 수상하거나 어두운 과거가 있는 사람은 다른 이들의 '사후 거처'를 더럽히지 않도록 사막에 내던져질 가능성이 크다."
+ },
+ "41fa99625841": {
+  "en": "<strong>End Lake (a.k.a. the Shitter):</strong> a man-made lake south of the city center where Forway's sewage is dumped, since there's too much to handle with Soul Energy alone.",
+  "t": "<strong>엔드 호수 (일명 똥통):</strong> 도심 남쪽의 인공 호수. 포웨이의 오물을 여기에 버린다. 영혼 에너지만으로는 감당이 안 될 만큼 양이 많아서다."
+ },
+ "4410418c5bee": {
+  "en": "Mostly humans, some Darfaries, and some adventurers who settled here for Winga hunting. No real beliefs, just respect for their food source. They have Tolerideme's laziness: everything is chill and calm, and everyone is sleepy all the time, without a care in the world. It feels like a dreamy little town lost in time, a remote corner at the end of the road, a long ride from anywhere, where the days drift by, people linger at the market, and nobody hurries for anything.",
+  "t": "대부분 인간이고, 다르파리에스와, 윙가 사냥 때문에 눌러앉은 모험가가 좀 있다. 딱히 믿음은 없고, 먹을거리에 대한 존중만 있다. 톨레리데메의 게으름을 닮았다: 모든 게 느긋하고 차분하며, 다들 늘 졸리고 세상 걱정이 없다. 시간 속에 길을 잃은 꿈결 같은 작은 마을, 어디서든 한참 가야 닿는 길 끝 외딴 구석처럼 느껴진다. 날들은 흘러가고, 사람들은 시장에서 어슬렁거리고, 아무도 뭘 위해 서두르지 않는다."
+ },
  "44f9fb0aa7cd": {
   "en": "<strong>The Floating Egua Hotel (#2):</strong> one of the oldest hotels, with entertainment for all tastes.",
   "t": "<strong>떠다니는 에구아 호텔(#2):</strong> 가장 오래된 호텔 중 하나로, 온갖 취향의 오락거리가 있다."
  },
+ "455c3c95a6b7": {
+  "en": "<strong>Education:</strong> Forway provides basic education free to citizens who sign a contract to stay on Tastyleaf for the rest of their lives, to give the tree some protection, at least until someone figures out how to clone it.",
+  "t": "<strong>교육:</strong> 포웨이는 평생 테이스티리프에 머물겠다는 계약에 서명한 시민에게 기초 교육을 무료로 제공한다. 적어도 누군가 나무를 복제하는 법을 알아낼 때까지, 나무를 좀 지키게 하려는 것이다."
+ },
  "463e87409dfc": {
   "en": "<strong>Economy:</strong> vellum from animal skin; butchers working game, bone and skin; bone armor and swords; bone meal and items such as totems; Black Mead; nari.",
   "t": "<strong>경제:</strong> 동물 가죽으로 만든 양피지, 사냥감과 뼈와 가죽을 다루는 도축업자, 뼈 갑옷과 검, 골분과 토템 같은 물건, 검은 벌꿀술, 나리."
+ },
+ "46ffea411313": {
+  "en": "<strong>Cliff Walk (10,764 steps):</strong> carved into the stone long ago by former Sanbi Kingdom citizens; each step is 20 cm. With the great elevators built, it's now mostly used as a punishment, or by people who want to avoid the elevators, for money, law or weight-loss reasons (and who prefer not to die, or suffer by other means).",
+  "t": "<strong>절벽 길 (10,764계단):</strong> 오래전 옛 산비 왕국 시민들이 바위에 새긴 계단. 한 계단이 20cm다. 거대한 엘리베이터가 생긴 지금은 대개 벌로 쓰이거나, 돈이나 법이나 살 빼기 때문에 엘리베이터를 피하려는 사람들이 쓴다(그리고 죽거나 다른 식으로 고생하고 싶지 않은 사람들)."
+ },
+ "47728d911f79": {
+  "en": "<strong>Economy:</strong> some local goods from the forest, plus an unnatural boom (likely from all the stolen shit): you can find all kinds of things, from all kinds of places.",
+  "t": "<strong>경제:</strong> 숲에서 나는 지역 물품 약간, 그리고 부자연스러운 호황(아마 훔친 물건들 덕): 온갖 곳에서 온 온갖 물건을 찾을 수 있다."
  },
  "47d32a030409": {
   "en": "Points of interest: the Cruro tribes",
@@ -154,6 +334,22 @@
  "481dca803873": {
   "en": "<strong>Local embassy quests:</strong> nothing extra.",
   "t": "<strong>지역 대사관 의뢰:</strong> 특별한 건 없다."
+ },
+ "4974fc1b2695": {
+  "en": "<strong>East Ground (#1), South Ground (#2), West Ground (#3) and North Ground (#4):</strong> each controls the leaves that fall on its side of the tree.",
+  "t": "<strong>이스트 그라운드 (#1), 사우스 그라운드 (#2), 웨스트 그라운드 (#3), 노스 그라운드 (#4):</strong> 각자 나무의 자기 쪽에 떨어지는 잎을 관리한다."
+ },
+ "4bac92960c37": {
+  "en": "Similar to Blood, but with more adventurers living around here as they seek out new lands. <strong>Threats:</strong> beasts, and disorganization from within.",
+  "t": "블러드와 비슷하지만, 새 땅을 찾아 이 근처에 사는 모험가가 더 많다. <strong>위협:</strong> 마수, 그리고 내부의 무질서."
+ },
+ "4c4f75d2ead3": {
+  "en": "<strong>Longing for Sun Hotel (#3):</strong> one of the cheapest hotels around: no windows, just a rough painting of the sun where the windows used to be.",
+  "t": "<strong>해를 그리는 호텔 (#3):</strong> 이 근처에서 손꼽히게 싼 호텔. 창문이 없고, 창문이 있던 자리에 해를 대충 그린 그림만 있다."
+ },
+ "4c6e94b4bb23": {
+  "en": "<strong>WhiteLeaf Hotel/Tavern (#6):</strong> one of the area's first hotels. It expanded, added a tavern, and set itself apart with Wozefaries and humans dancing around wearing nothing but preserved white leaves.",
+  "t": "<strong>화이트리프 호텔/주점 (#6):</strong> 이 일대 최초의 호텔 중 하나. 확장해서 주점을 더했고, 보존 처리한 하얀 잎만 걸친 워제파리에스와 인간들이 춤추는 것으로 차별화했다."
  },
  "4c896db0ae12": {
   "en": "<strong>Names:</strong> like the Sanbi Kingdom.",
@@ -167,9 +363,21 @@
   "en": "Forway Guards",
   "t": "포웨이 경비병"
  },
+ "4daf4c517611": {
+  "en": "<strong>Marriage:</strong> like Sanbi, but with a heart made of perfect leaves.",
+  "t": "<strong>결혼:</strong> 산비와 같지만, 완벽한 잎으로 만든 하트를 쓴다."
+ },
+ "4de3e2a24a5d": {
+  "en": "<strong>The Wood People Picker (#1):</strong> Yosuke Forway's restaurant, outside the gates.",
+  "t": "<strong>우드 피플 피커 (#1):</strong> 요스케 포웨이의 식당. 성문 밖에 있다."
+ },
  "4ea20ea71e1d": {
   "en": "<strong>Lonllow Breadcake:</strong> a delicious, not-too-sweet breadcake, common on Endlessfog. About 9 Pearls for a loaf the size of two fists.",
   "t": "<strong>론로 브레드케이크:</strong> 너무 달지 않은 맛있는 브레드케이크로, 엔들리스포그에서 흔하다. 주먹 두 개만 한 한 덩이에 약 9펄."
+ },
+ "4eac00b5b307": {
+  "en": "<strong>Education:</strong> none to speak of, since the jobs are basically mining stuff out of the ground.",
+  "t": "<strong>교육:</strong> 내세울 만한 게 없다. 일이라는 게 기본적으로 땅에서 뭘 캐내는 거라서."
  },
  "4f383ae666f2": {
   "en": "Mostly Bruntos, with humans coordinating with them. People are often paler than usual, from less sun. They're nature-minded: at some point they even started burying people in the land and planting banana trees on top. Colder to foreigners, and outright violent with anyone who harms them or the Bruntos.",
@@ -179,13 +387,33 @@
   "en": "Society and culture",
   "t": "사회와 문화"
  },
+ "509462978535": {
+  "en": "<strong>Crime and law:</strong> follows Forway Law, but with no embassy, people sort things out among themselves, since guards rarely come by.",
+  "t": "<strong>범죄와 법:</strong> 포웨이 법을 따르지만, 대사관이 없어서 사람들끼리 해결한다. 경비병이 거의 안 오기 때문이다."
+ },
  "50948c24ec90": {
   "en": "<strong>Burial:</strong> bodies are often buried in the desert; Wozefaries and Sorefaries grew used to being buried at the same spot where they landed.",
   "t": "<strong>장례:</strong> 시신은 흔히 사막에 묻는다. 워제파리에스와 소레파리에스는 자기가 내려앉은 바로 그 자리에 묻히는 데 익숙해졌다."
  },
+ "50ac76c68e55": {
+  "en": "<strong>Festivals:</strong> the Drunken Sweet Sting Festival (see Blood).",
+  "t": "<strong>축제:</strong> 취한 스위트 스팅 축제 (블러드 참조)."
+ },
+ "50e741a5b183": {
+  "en": "Somewhat detached from everyone. The Freeish leaders have some shady dealings with people here, so they're left alone, and Forway is finding it hard to intervene.",
+  "t": "다른 모두와 어느 정도 동떨어져 있다. 프리이시 지도자들이 이곳 사람들과 수상한 거래를 하고 있어서 내버려 두고, 포웨이는 개입하기가 어렵다."
+ },
  "51112a2e7385": {
   "en": "Forway Guards trust their crossbows with their lives. Their shiny armor and respectable funding from Forway make them rather visible and somewhat slow, but they always travel in groups, so picking a fight with them is not advised. That is unless you know how to exploit their superiority complex, which is a common trait amongst these guards. Just make them think they have the upper hand, then attack them with a surprise counterattack at the last second to make them bleed out. Some have successfully baited them into a trap as well, but that ain’t as easy when they have a Sorefaries or another companion watching their surroundings. Either way, once you start battling them, be wary of their revival capabilities if you don’t take away their hearty and expensive supply of black honey often stored in their leg pockets.",
   "t": "포웨이 경비병들은 목숨을 석궁에 맡긴다. 반짝이는 갑옷과 포웨이의 넉넉한 지원금 덕분에 꽤 눈에 띄고 다소 느리지만, 늘 무리 지어 다니니까 싸움을 거는 건 권하지 않는다. 이 경비병들의 공통된 특징인 우월감을 이용할 줄 안다면 얘기가 다르지만. 그냥 그들이 우위에 있다고 생각하게 만든 다음, 마지막 순간에 기습적인 반격으로 피를 흘리게 하면 된다. 그들을 함정으로 유인하는 데 성공한 사람들도 있지만, 소레파리에스나 다른 동료가 주변을 감시하고 있다면 그렇게 쉽지 않다. 어느 쪽이든, 일단 싸우기 시작했다면, 그들이 보통 다리 주머니에 넣어 두는 든든하고 비싼 검은 꿀을 빼앗지 않는 한 그들의 부활 능력을 조심해라."
+ },
+ "51909187b26a": {
+  "en": "<strong>Festivals:</strong> none. People are too lazy to do anything.",
+  "t": "<strong>축제:</strong> 없다. 사람들이 너무 게을러서 아무것도 안 한다."
+ },
+ "521ec808954b": {
+  "en": "<strong>Quick Cake:</strong> a Tenderthrough and Lonllow cake that tastes amazing, but passes through you incredibly fast. About 5 Pearls for a big slice.",
+  "t": "<strong>퀵 케이크:</strong> 텐더스루와 론로로 만든 케이크. 맛은 끝내주지만 엄청나게 빨리 몸을 통과해 나간다. 큰 조각 하나에 5펄쯤."
  },
  "5333ec4aed89": {
   "en": "<strong>Forway and You:</strong> the biggest journal, issued weekly on Freeday, with news, fashion and more.",
@@ -195,6 +423,14 @@
   "en": "<strong>Crossing Buildings (#1):</strong> large buildings where eguas and their carriages board a bigger boat, pulled by six eguas. Because of the water, the boat pulls about 10 tons: 15 full wagons per crossing, back and forth. 15 Pearls per wagon per crossing, 2 Pearls per person. The eguas pulling the boat are all dressed in uniform, a tradition from the village's early days.",
   "t": "<strong>도하 건물(#1):</strong> 에구아와 마차가 에구아 여섯 마리가 끄는 더 큰 배에 오르는 큰 건물. 물 덕분에 배는 약 10톤, 한 번에 짐마차 15대를 실어 오간다. 마차 한 대당 한 번에 15펄, 사람 하나당 2펄. 배를 끄는 에구아는 모두 제복을 입는데, 마을 초창기부터 내려온 전통이다."
  },
+ "54179e2aba09": {
+  "en": "<strong>Buna's Fishery:</strong> an old place that somehow has never been robbed, likely because its owners have deep connections to shady stuff, with hints (past rumors) of what they did to people who tried.",
+  "t": "<strong>부나 어장:</strong> 오래된 곳인데 어찌 된 일인지 한 번도 털린 적이 없다. 주인들이 수상한 쪽과 깊은 연줄이 있어서일 가능성이 크고, 털려고 한 자들에게 무슨 짓을 했는지 넌지시 알려 주는 (옛) 소문도 있다."
+ },
+ "543df8b2dba8": {
+  "en": "<strong>White Roundies Arrival:</strong> every winter the White Roundies arrive, and people elsewhere party with them, since they behave like dogs but are the size of a human, and try to trade them food for things they find in the deep sea: sometimes gold, sometimes a half-eaten fish. Triangle citizens tend to keep them at a distance.",
+  "t": "<strong>화이트 라운디스의 도래:</strong> 매년 겨울 화이트 라운디스가 오면, 다른 곳 사람들은 함께 파티를 벌인다. 하는 짓은 개 같은데 크기는 사람만 하고, 깊은 바다에서 찾은 것(금일 때도 있고, 반쯤 먹은 물고기일 때도 있다)을 음식과 바꾸려고 하기 때문이다. 트라이앵글 시민들은 대개 거리를 둔다."
+ },
  "54753e9d684e": {
   "en": "<strong>Crime and law:</strong> Forway Law. If the person can pay for the crime, they walk away; if not, they go to prison.",
   "t": "<strong>범죄와 법:</strong> 포웨이 법. 죗값을 치를 수 있으면 걸어 나가고, 못 치르면 감옥에 간다."
@@ -202,6 +438,10 @@
  "55008f0a0573": {
   "en": "<strong>Sun-Rotted Animals:</strong> a delicacy among Cruros, and perhaps some humans. Traded for other food, or free if the Tribe Leader gives it to you.",
   "t": "<strong>햇볕에 썩힌 동물:</strong> 크루로들 사이의 별미고, 어쩌면 몇몇 인간에게도. 다른 음식과 바꾸거나, 부족장이 주면 공짜."
+ },
+ "55576be86aff": {
+  "en": "<strong>Economy:</strong> grinding Domar wheat (by boat from Tolerideme) into flour and dried fish (by boat from the Sanbi Kingdom) into fish meal, plus the goods passing through the elevators.",
+  "t": "<strong>경제:</strong> 도마르 밀(톨레리데메에서 배로 온다)을 밀가루로, 말린 생선(산비 왕국에서 배로 온다)을 어분으로 빻는 일, 그리고 엘리베이터를 오가는 물품."
  },
  "555b9db7a85f": {
   "en": "<strong>Visual references:</strong> like the Freeish Kingdom, but with hunting totems instead of trees with Trunk People.",
@@ -227,6 +467,14 @@
   "en": "<strong>Boiling Ramen:</strong> ramen (from Tolerideme) cooked on the hottest geyser, with seasonings found only here, served with meat, wild game or fish. 7 to 30 Pearls a bowl.",
   "t": "<strong>보일링 라멘:</strong> (톨레리데메에서 온) 라멘을 가장 뜨거운 간헐천에서 이곳에서만 나는 양념으로 끓여, 고기, 사냥감, 생선과 함께 낸다. 한 그릇에 7~30펄."
  },
+ "5cb004d2a689": {
+  "en": "Only humans may live in the city; any other species must wear a triangle amulet for the length of their stay. The triangle gave them new life, protecting them from the elements; it started with people, and has become something above and beyond people: a thing, a concept. Similar to Sanbi, but not as warm and friendly if you don't believe in the power of the triangle, and not exactly friendly to other species either; pets are frowned upon. They worship triangles, especially the original triangle, kept in the Triangle Cathedral. People come to touch it for good luck and health, and some come from elsewhere hoping it will fix problems caused by their DNA, since Soul Energy can't seem to.",
+  "t": "도시에는 인간만 살 수 있다. 다른 종족은 머무는 동안 삼각형 부적을 차야 한다. 삼각형은 그들에게 새 삶을 주고 자연의 위협에서 지켜 주었다. 사람에서 시작해 사람을 넘어선 무언가, 하나의 사물이자 개념이 되었다. 산비와 비슷하지만, 삼각형의 힘을 믿지 않으면 그만큼 따뜻하고 친절하지 않고, 다른 종족에게도 딱히 친절하지 않다. 애완동물은 눈총을 받는다. 그들은 삼각형, 특히 트라이앵글 대성당에 모셔진 원조 삼각형을 숭배한다. 사람들은 행운과 건강을 바라며 그걸 만지러 오고, 영혼 에너지로도 못 고치는 듯한 DNA 문제를 고쳐 주길 바라며 먼 데서 오는 사람도 있다."
+ },
+ "5d890006ed85": {
+  "en": "<strong>Finger Cake Maker:</strong> controls Waterfall's famous finger cakes.",
+  "t": "<strong>핑거 케이크 메이커:</strong> 워터폴의 유명한 핑거 케이크를 관리한다."
+ },
  "5dbce8852528": {
   "en": "Visual references:",
   "t": "시각 자료:"
@@ -243,17 +491,41 @@
   "en": "<strong>Local embassy quests:</strong> Sweetlake assistance, Woodland exploration, Nari Caves assistance.",
   "t": "<strong>지역 대사관 의뢰:</strong> 스위트레이크 지원, 우드랜드 탐험, 나리 동굴 지원."
  },
+ "61ebe18228e5": {
+  "en": "<strong>Falling Rock Tavern (#1):</strong> a famous tavern where people fresh from underground go to get lit!",
+  "t": "<strong>폴링 록 주점 (#1):</strong> 땅속에서 막 올라온 사람들이 취하러 가는 유명한 주점!"
+ },
  "623fffd32004": {
   "en": "<strong>The Great Hunter/Huntress competition:</strong> every Asa, a two-week competition for the strongest hunters: tree cutting, hunting, skinning, wrestling, survival, honey gathering, etc.",
   "t": "<strong>위대한 사냥꾼 대회:</strong> 매년 아사에 열리는, 가장 강한 사냥꾼을 가리는 2주간의 대회. 나무 베기, 사냥, 가죽 벗기기, 레슬링, 생존, 꿀 채취 등."
+ },
+ "624719895c87": {
+  "en": "<strong>Drunk Step Bar (#4):</strong> a bar so old it once had another name, but so many people came here to get loaded before climbing the massive stairs that it got renamed.",
+  "t": "<strong>취한 계단 바 (#4):</strong> 원래는 다른 이름이 있었을 만큼 오래된 바인데, 그 거대한 계단을 오르기 전에 술을 퍼마시러 오는 사람이 하도 많아서 이름이 바뀌었다."
+ },
+ "62e85c43993e": {
+  "en": "Mostly humans, with a decent number of fat people, since Tolerideme is nearby and fresh-baked bread is cheap. Darfaries are around too, also slightly overweight; not many Wozefaries or Sorefaries, because of the colder climate. Beliefs mix respect for the \"Sea\" god with reverence for the \"Three Smart Ladies\". They keep to themselves but aren't unwelcoming to strangers, except Tolerideme citizens, who get the \"you wait in line longer\" treatment. They're on the lazy side, with so much job stability; they shit on Tolerideme citizens, but apparently don't see their own laziness.",
+  "t": "대부분 인간이고, 뚱뚱한 사람이 꽤 많다. 톨레리데메가 가까워서 갓 구운 빵이 싸기 때문이다. 다르파리에스도 있는데 역시 살짝 과체중이다. 날씨가 더 추워서 워제파리에스나 소레파리에스는 많지 않다. 믿음은 ‘바다’ 신에 대한 존경과 ‘세 현명한 숙녀’에 대한 경외가 섞여 있다. 끼리끼리 지내지만 낯선 사람을 반기지 않는 건 아닌데, 톨레리데메 시민만은 예외로 ‘줄 더 오래 서세요’ 대접을 받는다. 일자리가 워낙 안정적이라 좀 게으른 편이다. 톨레리데메 시민을 깔아뭉개면서, 정작 자기들 게으름은 못 보는 모양이다."
  },
  "6450ad627cc1": {
   "en": "<strong>Economy:</strong> trade and tourism.",
   "t": "<strong>경제:</strong> 무역과 관광."
  },
+ "66f944432277": {
+  "en": "<strong>Threats:</strong> not really.",
+  "t": "<strong>위협:</strong> 딱히 없다."
+ },
  "66fa8b201802": {
   "en": "<strong>Nari Extraction Coordination Office (#5):</strong> a long name for a building that investigates and prosecutes anyone who harms the nari worms.",
   "t": "<strong>나리 채굴 조정 사무소(#5):</strong> 나리 웜을 해치는 자를 조사하고 기소하는 건물치고 이름이 길다."
+ },
+ "673478ebddee": {
+  "en": "<strong>Crime and law:</strong> unreported. People sort things out themselves instead of relying on the embassy or the guards, and those who do rely on the guards tend to get into bigger trouble anyway.",
+  "t": "<strong>범죄와 법:</strong> 신고되지 않는다. 사람들은 대사관이나 경비병에 기대지 않고 알아서 해결하고, 경비병에 기대는 사람은 어차피 더 큰 곤란에 빠지기 십상이다."
+ },
+ "697cf04a8a50": {
+  "en": "<strong>Pickled Winga Eggs:</strong> Wingarest's famous food: fresh Winga eggs pickled with special seasonings. About 1 Pearl an egg pickled for half a year, about 2 Pearls for a year.",
+  "t": "<strong>윙가 알 절임:</strong> 윙가레스트의 유명한 음식: 신선한 윙가 알을 특별한 양념으로 절인 것. 반년 절인 건 알 하나에 1펄쯤, 1년 절인 건 2펄쯤."
  },
  "6a904b823b54": {
   "en": "Forway city emblem: a silver-ringed disc split into tan, red, blue and green sections with a mountain, wheat, a fish and a branching line around a pearl.",
@@ -283,13 +555,33 @@
   "en": "Politics",
   "t": "정치"
  },
+ "6e5d1afdd773": {
+  "en": "<strong>Old Bert's Bar:</strong> the oldest place in the region, open only for dinner.",
+  "t": "<strong>올드 버트의 바:</strong> 이 지역에서 가장 오래된 곳. 저녁에만 연다."
+ },
+ "6f0c1ed249de": {
+  "en": "One of the first tribes to become a city after Aldemeri fell, though its one-of-a-kind economy keeps it distant from everything. Humans found a giant tree in a hidden garden whose leaves make most things incredibly tasty; the story diverges on whether humans killed the garden's owners or found it abandoned. The tree also lights up when it rains, and helps keep Hifuna's beasts away from the settlement.",
+  "t": "알데메리가 무너진 뒤 도시가 된 첫 부족 중 하나지만, 하나뿐인 독특한 경제 때문에 모든 것과 거리를 둔다. 인간들이 숨겨진 정원에서 거대한 나무를 발견했는데, 그 잎은 웬만한 건 다 엄청나게 맛있게 만든다. 인간들이 정원 주인들을 죽였는지, 버려진 정원을 발견했는지는 이야기마다 갈린다. 이 나무는 비가 오면 빛나기도 하고, 히푸나의 마수들이 정착지에 다가오지 못하게 막는 데도 도움이 된다."
+ },
  "6f4a9745dca7": {
   "en": "<strong>Fireplaces:</strong> the stone fireplaces the city grew around.",
   "t": "<strong>화덕:</strong> 도시가 그 주위로 자라난 돌 화덕."
  },
+ "6f733814d5f4": {
+  "en": "<strong>Marriage:</strong> no commonly accepted official way, and guilds rarely form, since people don't talk about their pasts.",
+  "t": "<strong>결혼:</strong> 흔히 받아들여지는 공식 방식이 없고, 사람들이 과거 얘기를 안 해서 길드도 거의 안 생긴다."
+ },
  "70cc4278b6b4": {
   "en": "<strong>Threats:</strong> anyone trying to overthrow the current balance of power, or planting false information between leaders to provoke arguments.",
   "t": "<strong>위협:</strong> 현재의 권력 균형을 뒤엎으려는 자, 또는 지도자들 사이에 거짓 정보를 심어 다툼을 일으키려는 자."
+ },
+ "716f3c12fa6b": {
+  "en": "<strong>Burial:</strong> depends on whether anyone knew what the person wanted; otherwise, burial in the forest, away from prying eyes, but expect to be stripped of all valuables.",
+  "t": "<strong>장례:</strong> 고인이 원한 걸 아는 사람이 있었느냐에 달렸다. 없으면 남의 눈을 피해 숲에 묻지만, 값나가는 건 다 털릴 각오를 해야 한다."
+ },
+ "72435d9405ad": {
+  "en": "<strong>Pharaohs (#2):</strong> the most powerful guild in Sundeath.",
+  "t": "<strong>파라오스 (#2):</strong> 선데스에서 가장 강력한 길드."
  },
  "727c0903d1e8": {
   "en": "<strong>Specialized Schools (#E types):</strong> see Education.",
@@ -299,6 +591,14 @@
   "en": "Triangle",
   "t": "트라이앵글"
  },
+ "7493b9bf6414": {
+  "en": "<strong>Names:</strong> Egyptian.",
+  "t": "<strong>이름:</strong> 이집트식."
+ },
+ "74c3e05e71bb": {
+  "en": "<strong>Clothing:</strong> like the Sanbi Kingdom, but with triangle cuts in their shirts, and everything else revolving around the triangle craziness.",
+  "t": "<strong>옷차림:</strong> 산비 왕국과 같지만, 셔츠에 삼각형 트임이 있고, 그 밖의 모든 것이 삼각형 광기를 중심으로 돌아간다."
+ },
  "75e9b2db66d6": {
   "en": "<strong>Threats:</strong> the dumb ones, or their pets, attack passersby once in a while, and if the population grows too large, adventurers could invade to thin it out. Some Sanbi citizens still hold a grudge against the Cruros for taking away the easy job of collecting pearls.",
   "t": "<strong>위협:</strong> 멍청한 놈들이나 그 애완동물이 가끔 지나가는 사람을 공격하고, 개체 수가 너무 늘면 모험가들이 솎아 내려고 쳐들어올 수 있다. 진주 줍는 쉬운 일을 크루로에게 빼앗겼다고 아직 원한을 품은 산비 시민도 있다."
@@ -306,6 +606,14 @@
  "7735fd308fce": {
   "en": "Cities",
   "t": "도시"
+ },
+ "794f7fa35c0f": {
+  "en": "<strong>Above the Clouds Hotel (#2):</strong> a rich hotel with spectacular views of the clouds.",
+  "t": "<strong>구름 위 호텔 (#2):</strong> 구름을 내려다보는 장관을 자랑하는 부자 호텔."
+ },
+ "7a9bf2cea653": {
+  "en": "<strong>Fashion Show:</strong> at the start of every month, for artists to show off their work.",
+  "t": "<strong>패션쇼:</strong> 매달 초, 예술가들이 작품을 뽐내는 자리."
  },
  "7af50d9988db": {
   "en": "<strong>InBalls Spring Resort:</strong> like OutBalls, but female-focused.",
@@ -319,6 +627,30 @@
   "en": "<strong>Burial:</strong> they trade their dead for food.",
   "t": "<strong>장례:</strong> 죽은 동족을 음식과 바꾼다."
  },
+ "7dcfe65b605a": {
+  "en": "<strong>Local embassy quests:</strong> Newland exploration, Crocus extermination, Cruro reconnaissance, checking on Hifuna.",
+  "t": "<strong>지역 대사관 의뢰:</strong> 뉴랜드 탐사, 크로커스 퇴치, 크루로 정찰, 히푸나 확인."
+ },
+ "7dec929067f0": {
+  "en": "<strong>Trial Center (#1):</strong> people are often judged and executed in front of everyone, and their remains thrown into the desert.",
+  "t": "<strong>재판소 (#1):</strong> 사람들이 모두가 보는 앞에서 재판받고 처형되는 일이 잦고, 유해는 사막에 내던져진다."
+ },
+ "7edc3557f592": {
+  "en": "<strong>All the way festival:</strong> every Moacir, each city and kingdom builds a movable monument and parades it through Forway amid the festivities, to promote cultural integration in such a mixed city.",
+  "t": "<strong>올 더 웨이 축제:</strong> 매년 모아시르에 도시와 왕국마다 움직이는 기념물을 만들어 축제 속에 포웨이 곳곳을 행진한다. 이렇게 뒤섞인 도시에서 문화 통합을 북돋우려는 것이다."
+ },
+ "7fc8944db07d": {
+  "en": "<strong>Tastyleaf Tree:</strong> see Tastyleaf under Flora.",
+  "t": "<strong>테이스티리프 나무:</strong> 식물의 테이스티리프 참조."
+ },
+ "8057e856ff6d": {
+  "en": "<strong>Economy:</strong> Tenderthrough, and serving as the trade bridge between Freeish and Sanbi at the south end of the region.",
+  "t": "<strong>경제:</strong> 텐더스루, 그리고 이 지역 남쪽 끝에서 프리이시와 산비 사이의 교역 다리 역할."
+ },
+ "812d496bf5bf": {
+  "en": "<strong>Protector Celebration:</strong> every Forrday, a celebration of one of the protectors (humanoid animals, beasts or fauna).",
+  "t": "<strong>수호자 축제:</strong> 매년 포데이에 수호자(인간형 동물, 마수 또는 동물) 중 하나를 기리는 축제."
+ },
  "82337815f0c0": {
   "en": "<strong>Bloody Blood Sausage:</strong> Blood City's famous Bagarisa-and-blood sausage, in a wavy pattern.",
   "t": "<strong>블러디 블러드 소시지:</strong> 블러드 시의 명물, 물결 무늬의 바가리사와 피 소시지."
@@ -327,9 +659,17 @@
   "en": "13 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "이 페이지의 항목 13개는 <button class=\"linklike\" data-go-bts>비하인드</button>에서만 볼 수 있습니다."
  },
+ "82af29bcf071": {
+  "en": "<strong>Clothing:</strong> similar to Blood.",
+  "t": "<strong>옷차림:</strong> 블러드와 비슷하다."
+ },
  "8335d5e3de66": {
   "en": "<strong>Economy:</strong> a spring town for travelers and a rest stop before the Gandew Kingdom; adventurers hire Sorefaries here. Mines Amethysts for Forway City, and mines and processes Fost stones.",
   "t": "<strong>경제:</strong> 여행자를 위한 온천 마을이자 간듀 왕국 전의 쉼터. 모험가들이 여기서 소레파리에스를 고용한다. 포웨이 시를 위해 애머시스트를 캐고, 포스트석을 캐서 가공한다."
+ },
+ "834e451bbb2f": {
+  "en": "<strong>Threats:</strong> the Cruros eat a few people a year; sea travel is difficult; and beasts that stray south run into people traveling around.",
+  "t": "<strong>위협:</strong> 크루로가 해마다 몇 명을 잡아먹는다. 바닷길이 험하다. 남쪽으로 내려온 마수들이 돌아다니는 사람들과 맞닥뜨린다."
  },
  "85cf1d68359d": {
   "en": "<strong>Drunken Sweet Sting Festival:</strong> every Adrian, the top 10 of the Great Hunter/Huntress competition dress in special Sweet Sting costumes and bar-hop around Blood and Sweetlake, drinking Black Mead. Other adventurers follow along celebrating, and bars put on their best show and goods to lure the famous adventurers in.",
@@ -343,6 +683,10 @@
   "en": "<strong>Education:</strong> a standard dress code and teaching (see Education).",
   "t": "<strong>교육:</strong> 표준 복장 규정과 교육(교육 참조)."
  },
+ "86c07c9f97a8": {
+  "en": "<strong>Elevator Guild (#1):</strong> where the people who own and maintain the elevators gather.",
+  "t": "<strong>엘리베이터 길드 (#1):</strong> 엘리베이터를 소유하고 정비하는 사람들이 모이는 곳."
+ },
  "873af5201944": {
   "en": "<strong>Marriage:</strong> the tribe leader is the only one who can mate with all the Crocus in the region.",
   "t": "<strong>결혼:</strong> 부족장만이 그 지역의 모든 크로커스와 짝짓기할 수 있다."
@@ -350,6 +694,10 @@
  "88b120300609": {
   "en": "Mostly Crocus and dumb Cruros, a few intelligent Cruros, and rarely a highly intelligent one who stays. No religion. Tribal: a young Cruro's rite of passage is to kill one Wood Person, bring the body back to build a hut, and tame a Crocus.",
   "t": "대부분 크로커스와 멍청한 크루로, 영리한 크루로 몇, 그리고 드물게 남아 있는 아주 영리한 크루로. 종교는 없다. 부족적이다. 어린 크루로의 성인식은 우드 피플 하나를 죽여 그 몸을 가져와 오두막을 짓고, 크로커스 하나를 길들이는 것이다."
+ },
+ "88fe39fe893c": {
+  "en": "<strong>Finger Cake Factory (#6):</strong> a large factory making all kinds of finger cakes.",
+  "t": "<strong>핑거 케이크 공장 (#6):</strong> 온갖 핑거 케이크를 만드는 큰 공장."
  },
  "8a239039d68b": {
   "en": "<strong>Grand Miner (#5):</strong> the region's biggest mining operation, specializing in Amethysts for minting.",
@@ -375,17 +723,49 @@
   "en": "<strong>#1 and #10:</strong> too busy dealing with the Wood People to care what happens around them.",
   "t": "<strong>#1과 #10:</strong> 우드 피플을 상대하느라 바빠서 주변에서 무슨 일이 일어나든 신경 쓰지 않는다."
  },
+ "8d5b45bda887": {
+  "en": "<strong>Sleepy Jona:</strong> famous for crafting the most comfortable beds in the kingdoms.",
+  "t": "<strong>슬리피 조나:</strong> 왕국들에서 가장 편안한 침대를 만드는 것으로 유명하다."
+ },
  "8d9e36c67cfe": {
   "en": "A tribe leader's word is final. To become tribe leader, you fight the current one; when another Cruro wins, all the previous leader's infants are killed and eaten. Highly intelligent Cruros don't take part in the tribal fights.",
   "t": "부족장의 말이 곧 법이다. 부족장이 되려면 현 부족장과 싸운다. 다른 크루로가 이기면, 전 부족장의 갓난 새끼들은 모두 죽여서 먹는다. 아주 영리한 크루로는 부족 싸움에 끼지 않는다."
+ },
+ "8f531231a807": {
+  "en": "<strong>Education:</strong> based on Forway, but with an emphasis on Triangle teachings, to pull people into the cult from early on.",
+  "t": "<strong>교육:</strong> 포웨이를 바탕으로 하되 트라이앵글 가르침에 중점을 둬서, 어릴 때부터 사람들을 사이비로 끌어들인다."
+ },
+ "8fe3d6c8f66f": {
+  "en": "Since the fall of Ganyrami, some humans have made the ruins their home. Some bandits live in the refuge too, but they seem to live in symbiosis with the locals. That made Forway want to place an embassy here to change the vibe, but it was, and still is, pretty tough.",
+  "t": "가니라미가 몰락한 뒤로 일부 인간이 폐허를 집으로 삼았다. 이 은신처에는 산적도 좀 살지만, 주민들과 공생하는 것처럼 보인다. 그래서 포웨이는 분위기를 바꾸려고 여기에 대사관을 두고 싶어 했지만, 그건 예나 지금이나 꽤 힘든 일이다."
+ },
+ "9127946cf126": {
+  "en": "<strong>Ronaldo Lazyeye (#1), Purple-Magina (#2) and Angry-Jin (#3):</strong> the mansions of the three guilds controlling the island; their colors are yellow, purple and red.",
+  "t": "<strong>호나우두 레이지아이 (#1), 퍼플 마지나 (#2), 앵그리 진 (#3):</strong> 섬을 통제하는 세 길드의 저택. 색은 노랑, 보라, 빨강이다."
  },
  "926dbe8a1db4": {
   "en": "<strong>Hot in the Cold:</strong> every Asa, a food festival around the Skin Peeler Geyser.",
   "t": "<strong>추위 속의 뜨거움:</strong> 매년 아사에 스킨 필러 간헐천 주위에서 열리는 음식 축제."
  },
+ "9292f2e36e01": {
+  "en": "<strong>Pathway:</strong> two massive tunnels running from the entrance almost to the other end of the mountain. Non-citizens may only use these pathways; every road off them is closed to non-citizens, since local guilds own them.",
+  "t": "<strong>통로:</strong> 입구에서 산 반대편 끝 가까이까지 뻗은 거대한 터널 두 개. 비시민은 이 통로만 쓸 수 있다. 통로에서 갈라지는 길은 지역 길드 소유라 비시민에게는 모두 막혀 있다."
+ },
  "94f8b3c408cf": {
   "en": "Forway",
   "t": "포웨이"
+ },
+ "95352852431e": {
+  "en": "Mostly darker-skinned people, with some Darfaries, Wozefaries and Sorefaries, and adventurers.",
+  "t": "대부분 피부가 더 짙은 사람들이고, 다르파리에스, 워제파리에스, 소레파리에스와 모험가가 좀 있다."
+ },
+ "957b34060bdd": {
+  "en": "<strong>Triangle Central:</strong> the central building behind Triangle City.",
+  "t": "<strong>트라이앵글 센트럴:</strong> 트라이앵글 시 뒤에 있는 중앙 건물."
+ },
+ "96d28e63e2d3": {
+  "en": "<strong>Baked Crocus with Tastyleaf:</strong> Crocus meat seasoned with Tastyleaf.",
+  "t": "<strong>테이스티리프 크로커스 구이:</strong> 테이스티리프로 양념한 크로커스 고기."
  },
  "96f45a12aa71": {
   "en": "In a way, it can be considered its own Kingdom, but its officials would vehemently deny that's the case.",
@@ -395,13 +775,29 @@
   "en": "<strong>Clothing:</strong> none.",
   "t": "<strong>옷차림:</strong> 없음."
  },
+ "9768c33d8253": {
+  "en": "<strong>Education:</strong> like Forway, with more about fauna and beasts.",
+  "t": "<strong>교육:</strong> 포웨이와 같지만, 동물과 마수에 대해 더 배운다."
+ },
+ "9793612093e2": {
+  "en": "<strong>Lonida Stadium (#2):</strong> a privately owned stadium where some big events happen.",
+  "t": "<strong>로니다 경기장 (#2):</strong> 개인 소유 경기장. 큰 행사가 몇몇 여기서 열린다."
+ },
  "97b96e73dce8": {
   "en": "<strong>Threats:</strong> Forway stamping on their way of life for trying to be part of the Freeish Kingdom.",
   "t": "<strong>위협:</strong> 프리이시 왕국의 일부가 되려 한다는 이유로 그들의 생활 방식을 짓밟는 포웨이."
  },
+ "9830b7462d81": {
+  "en": "<strong>Names:</strong> all kinds; people usually give themselves new names.",
+  "t": "<strong>이름:</strong> 온갖 이름. 대개 스스로 새 이름을 짓는다."
+ },
  "99caf98549dc": {
   "en": "<strong>Calm Water Resort (#4):</strong> home of the Calm Water Resort Guild. Wealthier residents who believe in Gandew's spiritual powers often come to live here in their later years, especially those who think they might be haunted by the spirits of people they screwed over.",
   "t": "<strong>캄 워터 리조트(#4):</strong> 캄 워터 리조트 길드의 본거지. 간듀의 영적인 힘을 믿는 부유한 주민들이 말년에 자주 이곳에 와서 산다. 특히 자기가 등쳐 먹은 사람들의 혼령에 시달릴지도 모른다고 생각하는 이들이."
+ },
+ "99f29a2174e5": {
+  "en": "<strong>Big Rock (#2):</strong> one of the most famous guilds, where a single person found a large Sapphire and spent it all on pussy and beer.",
+  "t": "<strong>빅 록 (#2):</strong> 가장 유명한 길드 중 하나. 한 사람이 큰 사파이어를 찾아내서 몽땅 보지랑 맥주에 써 버린 곳이다."
  },
  "99f3cf9d24f6": {
   "en": "Sundeath",
@@ -419,9 +815,17 @@
   "en": "If you are unfamiliar with Forway, then take a friend when you visit! Not that it's that violent, but like any big city, tourists can be easy pickings for people with bad intentions and suave speech, especially if they go to know sketchier parts. Also, don't be alarmed by how much nari gel people use. Fashion trends come and go, so if you have the money, why not participate as well? It might be the ticket to get into bed, and the pockets, of a socialite.",
   "t": "포웨이가 낯설다면, 갈 때 친구를 데려가! 그렇게 위험한 곳은 아니지만, 다른 대도시처럼 관광객은 나쁜 의도와 번지르르한 말솜씨를 가진 사람들의 쉬운 먹잇감이 될 수 있다. 특히 더 수상한 곳을 알게 된다면. 그리고 사람들이 나리 젤을 얼마나 많이 쓰는지 보고 놀라지 마. 유행은 왔다 가는 거니까, 돈이 있다면 너도 해 보는 게 어때? 사교계 명사의 침대와 지갑에 들어가는 티켓이 될지도 모르니까."
  },
+ "9ca4c3f35b6e": {
+  "en": "<strong>Purplebread with Sandworm:</strong> a sweet and nutty combination of fruit and meat on a stick. About 15 Pearls.",
+  "t": "<strong>샌드 웜을 곁들인 퍼플브레드:</strong> 과일과 고기를 꼬치에 꽂은, 달고 고소한 조합. 15펄쯤."
+ },
  "9d3eeafe6d68": {
   "en": "<strong>Sweetlake Blood-Tribe (#8):</strong> once one of the richest blood-tribes, now the poorest, about to die out with its last member. People call him a lunatic and avoid the place at all costs. He's researching shapeshifters, since that might reveal what happened to his guild after they all disappeared; he was left behind because he felt lazy that day.",
   "t": "<strong>스위트레이크 블러드 부족(#8):</strong> 한때 가장 부유한 블러드 부족 중 하나였지만, 지금은 가장 가난하고 마지막 한 명과 함께 사라지기 직전이다. 사람들은 그를 미치광이라 부르며 그곳을 어떻게든 피한다. 그는 셰이프시프터를 연구하고 있다. 길드원 모두가 사라진 뒤 무슨 일이 있었는지 밝혀 줄지도 모르니까. 그날 그는 귀찮아서 남아 있었기에 혼자 남았다."
+ },
+ "9def6658cc13": {
+  "en": "<strong>Crime and law:</strong> like Forway, but for major cases, the criminal is forced to go out and fight beasts; if they survive, their punishment is absolved.",
+  "t": "<strong>범죄와 법:</strong> 포웨이와 같지만, 중대 사건이면 범인을 억지로 내보내 마수와 싸우게 한다. 살아남으면 형벌이 면제된다."
  },
  "9df882bae139": {
   "en": "Flatland",
@@ -431,13 +835,29 @@
   "en": "<strong>Emelia's Flowery Paradise:</strong> Emelia's flower shop, one of Red Winga's proxy businesses (see Factions), in Forway's southwest district, with a bakery nearby.",
   "t": "<strong>에멜리아의 꽃 낙원:</strong> 레드 윙가의 위장 사업 중 하나인 에멜리아의 꽃집(파벌 참조)으로, 포웨이 남서 구역에 있고 근처에 빵집이 있다."
  },
+ "9f422d60c8f4": {
+  "en": "<strong>Burial:</strong> depends heavily on the culture. If the person has no money, the body is incinerated.",
+  "t": "<strong>장례:</strong> 문화에 따라 크게 다르다. 돈이 없는 사람이면 시신을 소각한다."
+ },
  "9f5afd2a1f67": {
   "en": "Prices are in the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a>.",
   "t": "가격은 <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">경제 스프레드시트</a>에 있다."
  },
+ "a0f8a8f02245": {
+  "en": "All kinds of people and beliefs, including some shady characters. The past is the past, and nobody talks about it: you deal with your own shit. Badges are rarely used, since they mean showing your true self, and contracts are mostly made outside the normal contract system, so you have to enforce them yourself if needed.",
+  "t": "온갖 사람과 믿음이 있고, 수상한 인물도 좀 있다. 과거는 과거고, 아무도 그 얘기를 안 한다. 자기 똥은 자기가 치운다. 신분패는 진짜 자신을 드러내는 거라 거의 안 쓰고, 계약도 대개 정식 계약 제도 밖에서 맺으니, 필요하면 직접 집행해야 한다."
+ },
+ "a31c9c6ed462": {
+  "en": "<strong>Economy:</strong> Black Honey, mead, and being the western front for exploration.",
+  "t": "<strong>경제:</strong> 검은 꿀, 미드, 그리고 탐사의 서부 전선 역할."
+ },
  "a32cf9a56b75": {
   "en": "As humans settled on this island, the Bruntos began interacting with them and grew close. Humans made great-tasting food and shelter for them, and the Bruntos brought raw ingredients, helped with farming, and helped them hide from the Lishies. Living here for years, people noticed the weather is unusually warm and humid all year long, with rain every day at Sunnu; it's certainly not for everyone. Humans and Bruntos developed a taste for Lonllows, but humans couldn't farm them on a large scale until the Bruntos taught them to plant fish in the ground before putting in the Lonllow branches. With that, they could be farmed all year long.",
   "t": "인간이 이 섬에 정착하자 브룬토스가 인간과 어울리기 시작했고, 사이가 가까워졌다. 인간은 그들에게 맛있는 음식과 쉼터를 마련해 줬고, 브룬토스는 날재료를 가져다주고, 농사를 돕고, 리시에스에게서 숨는 걸 도왔다. 여기서 수년간 살면서 사람들은 날씨가 일 년 내내 유난히 따뜻하고 습하며, 매일 순누에 비가 온다는 걸 알게 됐다. 분명 아무에게나 맞는 곳은 아니다. 인간과 브룬토스는 론로 맛에 빠졌지만, 브룬토스가 론로 가지를 꽂기 전에 땅에 물고기를 묻는 법을 가르쳐 주기 전까지 인간은 대규모로 재배하지 못했다. 그 뒤로는 일 년 내내 재배할 수 있게 됐다."
+ },
+ "a359957ac419": {
+  "en": "<strong>Threats:</strong> other places, if they discover the truth; tsunamis.",
+  "t": "<strong>위협:</strong> 진실을 알게 된 다른 곳들. 해일."
  },
  "a3eab71925bf": {
   "en": "<strong>Long &amp; Yellow Sanbi Celebration:</strong> every Adrian, a grand festival celebrates the first contact between humans and Bruntos. Lonllows are baked with Sanbi, cheese and a tiny bit of Tastyleaf.",
@@ -446,6 +866,10 @@
  "a4ac5f2194e8": {
   "en": "<strong>#7 and #8:</strong> have some sort of alliance.",
   "t": "<strong>#7과 #8:</strong> 일종의 동맹을 맺고 있다."
+ },
+ "a7699e862ba7": {
+  "en": "<strong>Central Hut:</strong> one of the biggest Lishies huts ever seen. It stood the test of time and somehow survived the fall of Ganyrami (mostly because the human who conquered it took the throne for himself). There's no leader, but people take turns keeping the hut's fire lit and having someone there to act as leader, since Forway demanded someone answer for the city. The leader is basically whoever feels like keeping the fire going. The catch: Forway requires that person's badge, and they always say they don't have one. It infuriates the Forway representatives, but they don't want to overstep and cause unrest.",
+  "t": "<strong>중앙 오두막:</strong> 지금껏 본 것 중 손꼽히게 큰 리시에스 오두막. 세월을 견뎌 냈고, 어찌어찌 가니라미의 몰락에서도 살아남았다(대개 그곳을 정복한 인간이 왕좌를 차지했기 때문이다). 지도자는 없지만, 포웨이가 도시를 대표해 책임질 사람을 요구해서, 사람들이 돌아가며 오두막의 불을 지키고 지도자 역할을 할 사람을 둔다. 지도자는 그냥 불을 지키고 싶은 사람이다. 문제는, 포웨이가 그 사람의 신분패를 요구하는데 다들 늘 없다고 한다는 것. 포웨이 대표들은 열 받지만, 선을 넘어 소요를 일으키고 싶지는 않다."
  },
  "a7a2530ec39f": {
   "en": "Wingarest",
@@ -458,6 +882,22 @@
  "ade9183d9189": {
   "en": "<strong>Visual reference:</strong> Brazil's Pantanal.",
   "t": "<strong>시각 자료:</strong> 브라질의 판타나우."
+ },
+ "adf80a376277": {
+  "en": "<strong>Visual references</strong> (with roads instead of walls):",
+  "t": "<strong>시각 자료</strong> (성벽 대신 도로로):"
+ },
+ "af0927d6ad4e": {
+  "en": "Everyone is out for themselves. <strong>Threats:</strong> cold snaps, and themselves.",
+  "t": "다들 자기 살길만 찾는다. <strong>위협:</strong> 한파, 그리고 자기 자신들."
+ },
+ "af2b17e19012": {
+  "en": "<strong>Rainy Waterfalls:</strong> when the Buhraies Plains were created, a double waterfall appeared, splitting the land between them into a spot the Wood People couldn't reach. The waterfalls are so big and tall they create clouds over the whole region.",
+  "t": "<strong>비 내리는 폭포:</strong> 부라이에스 평원이 만들어졌을 때 쌍둥이 폭포가 생겨나, 그 사이 땅을 우드 피플이 닿을 수 없는 곳으로 갈라놓았다. 폭포가 어찌나 크고 높은지 지역 전체 위에 구름을 만든다."
+ },
+ "af979cdc023d": {
+  "en": "<strong>Picking Festival:</strong> every fall, when the Tastyleaf tree begins to shed its leaves, people from the four guilds compete to gather the most leaves, using wind Soul Energy to move them.",
+  "t": "<strong>잎 줍기 축제:</strong> 매년 가을 테이스티리프 나무가 잎을 떨구기 시작하면, 네 길드 사람들이 바람 영혼 에너지로 잎을 움직여 누가 가장 많이 모으나 겨룬다."
  },
  "af9bddb40575": {
   "en": "<strong>Old Bone:</strong> every Paulin, the Calm Water Resort hosts a festival for the old people living there, with tons of music, fight choreography, bards' tales, etc.",
@@ -475,6 +915,10 @@
   "en": "<strong>Delta Bar (#5):</strong> a famous open-air bar with no seats, out in the calm waters; beer and food are served from covered stands. Open only in the summer.",
   "t": "<strong>델타 바(#5):</strong> 잔잔한 물 위에 있는, 좌석 없는 유명한 야외 술집. 맥주와 음식은 지붕 덮인 가판대에서 판다. 여름에만 연다."
  },
+ "b46d3a906ce6": {
+  "en": "<strong>Guilds:</strong> no Forway-recognized guild is based here; Forway is trying to change that, without much luck.",
+  "t": "<strong>길드:</strong> 포웨이가 인정한 길드 중 여기에 근거지를 둔 곳은 없다. 포웨이가 바꾸려 하지만 별 성과가 없다."
+ },
  "b69c6a5b80db": {
   "en": "The central command for all the kingdoms and cities. Security is tightened to show the Forway leaders' power, especially at the time of the Prosperity Treaty meeting (Section #7).",
   "t": "모든 왕국과 도시를 아우르는 중앙 사령부. 포웨이 지도자들의 힘을 보여 주려고 경비가 삼엄하다. 특히 《번영 조약》 회의(제7조) 때."
@@ -482,6 +926,14 @@
  "b7860700fe2a": {
   "en": "<strong>Sorefaries Line (#4):</strong> a really fast zip line from the mountain down to the base of the Skin Peeler Geyser.",
   "t": "<strong>소레파리에스 라인(#4):</strong> 산에서 스킨 필러 간헐천 아래까지 내려가는 엄청 빠른 짚라인."
+ },
+ "b7e7e94680e0": {
+  "en": "<strong>Water Mills:</strong> several mills harness the waterfall to grind all kinds of things. A few are owned by the same guild, which makes it rather powerful.",
+  "t": "<strong>물레방아:</strong> 여러 물레방아가 폭포의 힘으로 온갖 것을 빻는다. 몇 곳은 같은 길드 소유라서, 그 길드가 꽤 막강하다."
+ },
+ "b7e9ec668ed5": {
+  "en": "<strong>Names:</strong> like Tolerideme.",
+  "t": "<strong>이름:</strong> 톨레리데메와 같다."
  },
  "ba6c9519c9f6": {
   "en": "<strong>Burial:</strong> the dead are shoved into the furnace: in their mindset, people are no different from animals.",
@@ -507,9 +959,17 @@
   "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/City.md\">Legacy/Behind The Scenes/World Lore/City.md</a>",
   "t": "출처: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/City.md\">Legacy/Behind The Scenes/World Lore/City.md</a>"
  },
+ "c1ad2499ee63": {
+  "en": "<strong>Sweetlake Sting Hive (#1):</strong> in the center of the lake, the biggest known Sweet Sting hive; many others exist.",
+  "t": "<strong>스위트레이크 스팅 벌집 (#1):</strong> 호수 한가운데 있는, 알려진 것 중 가장 큰 스위트 스팅 벌집. 다른 벌집도 많다."
+ },
  "c1d6c141a589": {
   "en": "Old Fuhrair",
   "t": "옛 푸레어"
+ },
+ "c2e43e7f35a6": {
+  "en": "<strong>Mining Entry Points (#3):</strong> the mining happens beneath the city, with many ways in. Most are public; a few are privately held by guilds.",
+  "t": "<strong>광산 입구 (#3):</strong> 채굴은 도시 밑에서 이루어지고, 들어가는 길이 많다. 대부분 공용이고, 몇 곳은 길드가 사유하고 있다."
  },
  "c3a1047a7d99": {
   "en": "<strong>Threats:</strong> beasts, and Forway probing around.",
@@ -531,6 +991,22 @@
   "en": "<strong>Blue-Flower-Red-Bone (#7):</strong> created when Akemi and Fernan married.",
   "t": "<strong>블루 플라워 레드 본(#7):</strong> 아케미와 페르난이 결혼하며 생겼다."
  },
+ "c597b8f61fce": {
+  "en": "<strong>Tastyleaf Docking (#5):</strong> the main way in and out of Tastyleaf; few dare to go through the Cruro tribes instead.",
+  "t": "<strong>테이스티리프 선착장 (#5):</strong> 테이스티리프를 드나드는 주된 길. 크루로 부족들을 지나가는 길을 택하는 사람은 드물다."
+ },
+ "c5f3478318b6": {
+  "en": "<strong>Economy:</strong> crafting materials from Wingas, living off fish and the Wood People, and trading with Tolerideme.",
+  "t": "<strong>경제:</strong> 윙가로 만드는 제작 재료, 생선과 우드 피플로 먹고살기, 톨레리데메와의 교역."
+ },
+ "c67b713ccffe": {
+  "en": "The kingdoms' main western city, the frontier for exploring the villages out west and unknown lands.",
+  "t": "왕국들의 주요 서부 도시로, 서쪽 마을들과 미지의 땅을 탐사하는 최전선이다."
+ },
+ "c6a35174aa8e": {
+  "en": "<strong>Clothing:</strong> heavy, Gandew style.",
+  "t": "<strong>옷차림:</strong> 두꺼운 간듀 스타일."
+ },
  "c7ffee865901": {
   "en": "<strong>Sand Sea (#6):</strong> known for capturing Wozefaries and Sorefaries in the desert.",
   "t": "<strong>샌드 시(#6):</strong> 사막에서 워제파리에스와 소레파리에스를 포획하는 걸로 알려져 있다."
@@ -542,6 +1018,14 @@
  "c9688b3d1150": {
   "en": "Mixed, in people and beliefs, though money is becoming the religion. A big city: people don't talk to strangers much, everyone minds their own business, and people are commonly called by their profession, especially by those who can't be bothered to remember names. A nari gel frenzy for style is common, so you see people of every color, texture, clothing and body type. The craziest body mods are for the rich; everyone else tends to change their hair, in droves, or small body parts that don't affect their work.",
   "t": "사람도 믿음도 섞여 있지만, 돈이 종교가 되어 가고 있다. 큰 도시라 사람들은 낯선 이에게 별로 말을 걸지 않고, 다들 제 일만 신경 쓰며, 특히 이름 외우기 귀찮은 사람들은 흔히 직업으로 사람을 부른다. 스타일을 위한 나리 젤 열풍이 흔해서, 온갖 색과 질감과 옷차림과 체형의 사람을 볼 수 있다. 가장 과격한 신체 개조는 부자들 몫이고, 나머지는 떼 지어 머리를 바꾸거나 일에 지장 없는 작은 신체 부위를 바꾸는 편이다."
+ },
+ "c9a553c8e4a3": {
+  "en": "<strong>Sweetlake Bottled Water:</strong> created by a snake-oil salesman to get money out of rich people. 30 Pearls a liter.",
+  "t": "<strong>스위트레이크 병입수:</strong> 돌팔이 약장수가 부자들 돈을 뜯어내려고 만들었다. 리터당 30펄."
+ },
+ "ca21798a09d0": {
+  "en": "Over time, smart people saw the potential of using the waterfall to grind grain, and the city flourished. With the Prosperity Treaty, it became the center for producing fish meal (from Sanbi's dried fish) and flour (from Tolerideme's Domar wheat), and for tourists who come to see its beauty.",
+  "t": "시간이 흐르며 똑똑한 사람들이 폭포로 곡식을 빻을 수 있다는 걸 알아봤고, 도시는 번성했다. 《번영 조약》으로 이곳은 어분(산비의 말린 생선으로)과 밀가루(톨레리데메의 도마르 밀로) 생산의 중심이자, 그 아름다움을 보러 오는 관광객의 중심이 되었다."
  },
  "cd31a7679f24": {
   "en": "<strong>#3, #4, #5 and #6:</strong> the oldest, in a constant power struggle.",
@@ -555,9 +1039,29 @@
   "en": "<strong>Crime and law:</strong> it seems like a free-for-all, but they manage to survive in a rather brutal, tribal way of life.",
   "t": "<strong>범죄와 법:</strong> 무법천지 같지만, 꽤 잔혹하고 부족적인 생활 방식으로 그럭저럭 살아남는다."
  },
+ "ce0e1aaa706d": {
+  "en": "<strong>Marriage and names:</strong> like the Freeish Kingdom, but the proposal is made with liters of Black Honey instead of fruit.",
+  "t": "<strong>결혼과 이름:</strong> 프리이시 왕국과 같지만, 청혼할 때 과일 대신 검은 꿀 몇 리터를 바친다."
+ },
+ "d196cab74753": {
+  "en": "<strong>Clothing:</strong> like Tolerideme.",
+  "t": "<strong>옷차림:</strong> 톨레리데메와 같다."
+ },
+ "d1c3420915fb": {
+  "en": "\"Those who control the water mills control the city.\" They're kind of lazy about the controlling part, though, and unwilling to deal with anything that doesn't affect them directly, so Forway City usually has to bring in someone to run the embassy, which also runs the city. Some citizens still treat Sanbi citizens better than Tolerideme's, since Toleridemians are seen as lazy for relying on Soul Energy for everything. Part of it is that Tolerideme is always fair on pay and straight in negotiation, which leaves the more Sanbian, flexible Waterfall in a tough spot.",
+  "t": "“물레방아를 쥔 자가 도시를 쥔다.” 다만 그들은 통제하는 일에는 좀 게으르고, 자기에게 직접 영향이 없는 일은 상대하려 하지 않아서, 보통 포웨이 시가 대사관을 운영할 사람을 데려와야 한다. 그 대사관이 도시도 운영한다. 아직도 톨레리데메 시민보다 산비 시민을 더 잘 대해 주는 시민들이 있는데, 톨레리데메 사람들은 뭐든 영혼 에너지에 기대서 게으르다고 여겨지기 때문이다. 톨레리데메가 늘 공정하게 값을 치르고 정직하게 협상하다 보니, 더 산비스럽고 융통성 있는 워터폴이 곤란해지는 것도 한몫한다."
+ },
+ "d461d21cd50a": {
+  "en": "<strong>Finger Cake:</strong> after someone lost a finger in the cogs, they saw a cool cake possibility and created dense finger cakes, great for adventuring. Famous flavors include Domar, Gyut Domar, Lonllow Domar, Purplebread Domar, Fishmeal with Tastyleaf Domar, Black Honey Domar, Rakuja Gyut Domar, Cadioca and Tastyleaf Cadioca. About 7 Pearls each, about the size of a fist; a refillable leather pack of 6 costs 68 Pearls, and a refill alone 42. From Vol 2: \"From the same crochet bag, she dug around, pulled out a rectangular thatch box, and slid it open, revealing a yellowish color with red dots along the width and girth of a finger inside.\"",
+  "t": "<strong>핑거 케이크:</strong> 누가 톱니바퀴에 손가락을 잃은 뒤, 멋진 케이크 아이디어를 떠올려 촘촘한 핑거 케이크를 만들었다. 모험에 딱이다. 유명한 맛으로는 도마르, 귯 도마르, 론로 도마르, 퍼플브레드 도마르, 테이스티리프를 넣은 어분 도마르, 검은 꿀 도마르, 라쿠자 귯 도마르, 카디오카, 테이스티리프 카디오카가 있다. 하나에 7펄쯤이고 주먹만 하다. 다시 채울 수 있는 6개들이 가죽 팩은 68펄, 리필만 하면 42펄. 2권에서: “같은 코바늘뜨개질 가방에서 그녀는 안을 뒤적이다 네모난 밀짚 상자를 꺼내 밀어 열었다. 안에는 손가락만 한 굵기와 너비의, 빨간 점이 박힌 노르스름한 것이 들어 있었다.”"
+ },
  "d561614afd40": {
   "en": "<strong>Bone Meal:</strong> animal bone ground into meal, for crafting, construction or as a meal aid.",
   "t": "<strong>골분:</strong> 동물 뼈를 갈아 만든 가루. 공예, 건축, 또는 식사 보조용."
+ },
+ "d5cbbf11e272": {
+  "en": "<strong>Local embassy quests:</strong> like Blood.",
+  "t": "<strong>지역 대사관 의뢰:</strong> 블러드와 같다."
  },
  "d657bdeff661": {
   "en": "A few dominant guilds, tied to the leftover bandits and their children, basically control Flatland, so they pick the embassy representative. They put the most charming Wozefaries from their guilds out front as a facade for their suspicious activities. They're very strict with anyone who makes false accusations or speaks badly of the royal guilds, and find ways to punish them (real-world comparison: Thailand's royal family).",
@@ -571,9 +1075,21 @@
   "en": "<strong>Quarries (#1 to #4):</strong> a group of hunter brothers always tried to outdo each other in popularity. One built a quarry to win favor building Blood City, the others followed suit, and now Blood City is a popular source of stone.",
   "t": "<strong>채석장(#1~#4):</strong> 사냥꾼 형제 무리가 늘 인기로 서로를 이기려 했다. 하나가 블러드 시를 짓는 데 환심을 사려고 채석장을 세우자 나머지도 따라 했고, 이제 블러드 시는 인기 있는 석재 산지가 됐다."
  },
+ "d8eea0f5fb59": {
+  "en": "<strong>Education:</strong> none provided, for now; some people move to Blood for schooling.",
+  "t": "<strong>교육:</strong> 아직은 제공되지 않는다. 학교 때문에 블러드로 이사하는 사람도 있다."
+ },
  "d959a5281641": {
   "en": "Cities · #HusbandOutWorld",
   "t": "도시 · #HusbandOutWorld"
+ },
+ "d9d40930fd92": {
+  "en": "The village elders keep things afloat, since Forway doesn't seem to care much. <strong>Threats:</strong> not really, apart from the Wood People.",
+  "t": "포웨이가 별로 신경 쓰지 않는 듯해서, 마을 원로들이 그럭저럭 꾸려 간다. <strong>위협:</strong> 우드 피플 말고는 딱히 없다."
+ },
+ "dbb968710c5d": {
+  "en": "<strong>Economy:</strong> revolves around the Tastyleaf tree in the fall, when the major shipments come and go. The rest of the year it trades with the Cruros and serves as a town for the adventurers working the area.",
+  "t": "<strong>경제:</strong> 가을에는 테이스티리프 나무를 중심으로 돌아간다. 큰 화물이 오가는 때다. 나머지 기간에는 크루로와 교역하고, 이 일대에서 일하는 모험가들의 마을 역할을 한다."
  },
  "dbf9006b201f": {
   "en": "On the surface, like the other cities; on the down low, like the villages of the Freeish Kingdom.",
@@ -587,9 +1103,33 @@
   "en": "<strong>Companion Meetup:</strong> every Adrian, a massive meetup where Sorefaries sit at tables and adventurers come over to talk about themselves. If the adventurers and a Sorefaries form a bond, the adventurers pay the city a fee to take them as a companion.",
   "t": "<strong>동료 만남회:</strong> 매년 아드리안에 열리는 거대한 만남회. 소레파리에스가 테이블에 앉아 있으면 모험가들이 와서 자기소개를 한다. 모험가와 소레파리에스가 유대를 맺으면, 모험가는 동료로 데려가는 대가로 도시에 요금을 낸다."
  },
+ "de82c2774096": {
+  "en": "<strong>Elevator:</strong> controls the elevators.",
+  "t": "<strong>엘리베이터:</strong> 엘리베이터를 관리한다."
+ },
  "dedb02314408": {
   "en": "<strong>Animal Part Extraction Facility (#6):</strong> since some animal parts vary in quality and are growing rarer, Forway invested in a facility where the best specimens with desirable parts are kept freshly dead and harvested with Body Heal.",
   "t": "<strong>동물 부위 채취 시설(#6):</strong> 어떤 동물 부위는 품질이 들쭉날쭉하고 점점 귀해지고 있어서, 포웨이는 원하는 부위를 지닌 최상급 개체를 갓 죽은 상태로 보관하며 보디 힐로 채취하는 시설에 투자했다."
+ },
+ "e05928b1f21a": {
+  "en": "A smaller village that grew in the backbone of Wingarest, also serving as a resting stop for adventurers. Notorious for being the laziest thing around; some people visit just to chill.",
+  "t": "윙가레스트의 등줄기에 자리 잡은 작은 마을로, 모험가들의 쉼터 역할도 한다. 이 근방에서 가장 게으른 곳으로 악명이 높아서, 그냥 늘어지러 오는 사람도 있다."
+ },
+ "e07f8aab2be5": {
+  "en": "Politics, society and culture",
+  "t": "정치, 사회, 문화"
+ },
+ "e3ce9de90ca7": {
+  "en": "<strong>Adventurer recognition:</strong> every Paulin, to recognize adventurers and promote the best (most loyal) ones.",
+  "t": "<strong>모험가 표창:</strong> 매년 파울린에 모험가를 표창하고, 가장 뛰어난(가장 충성스러운) 이들을 승급시킨다."
+ },
+ "e4cf1f366910": {
+  "en": "<strong>The Great Cluster:</strong> a mountain with clusters of mud houses built by Big Wingas. A human could fit in the holes, which shows how big they were, and the claw marks still there show how fearsome the species was. It's now mostly home to Wingas. What was once a royal or leader's house, the biggest mud house of all, now stands empty.",
+  "t": "<strong>그레이트 클러스터:</strong> 빅 윙가가 지은 진흙집 무리가 있는 산. 구멍에 사람이 들어갈 수 있을 정도라 그들이 얼마나 컸는지 알 수 있고, 아직 남은 발톱 자국은 그 종이 얼마나 무시무시했는지 보여 준다. 지금은 대개 윙가가 산다. 한때 왕이나 지도자의 집이었던, 가장 큰 진흙집은 이제 텅 비어 있다."
+ },
+ "e4ef96943fdd": {
+  "en": "<strong>Burial:</strong> like Blood and the Freeish Kingdom.",
+  "t": "<strong>장례:</strong> 블러드, 프리이시 왕국과 같다."
  },
  "e5a52f7c95e7": {
   "en": "The \"All the Way Festival\" takes the cake among the many festivals. Seeing the adventurer recognition festival is fun and all, but the name \"All the Way\" implies how grandiose it is.",
@@ -611,9 +1151,17 @@
   "en": "<strong>Hot Skin:</strong> one of the earliest guilds, famous for running the OutBalls and InBalls resorts. It's common to see carriages packed with men stop right in front of the guild and everyone go straight in for fun times: inside, the women working there move about, and you can pick one to \"spend time with\".",
   "t": "<strong>핫 스킨:</strong> 가장 초창기 길드 중 하나로, 아웃볼스와 인볼스 리조트를 운영하는 걸로 유명하다. 남자들로 꽉 찬 마차가 길드 바로 앞에 서서 다들 곧장 즐기러 들어가는 광경은 흔하다. 안에는 거기서 일하는 여자들이 오가고, 하나를 골라 ‘시간을 보낼’ 수 있다."
  },
+ "eb2eb95b0821": {
+  "en": "<strong>Economy:</strong> farming and selling desert goods. It's something of an adventurer town, with hotels, healers, etc.",
+  "t": "<strong>경제:</strong> 농사와 사막 물품 판매. 호텔, 치유사 등이 있는 일종의 모험가 마을이다."
+ },
  "ed52520d2d75": {
   "en": "In a way, it can be considered its own Kingdom, but its officials would vehemently deny that's the case. For them, Forway is a common ground for all kingdoms to trade freely, communicate clearly, and peacefully settle any issues. To that extent, Forway also keeps the peace by managing all cities outside a given Kingdom's permanently fixed sphere of influence.",
   "t": "어떤 의미에서는 독자적인 왕국으로 볼 수도 있지만, 그곳의 관리들은 그렇지 않다고 강하게 부인할 거다. 그들에게 포웨이는 모든 왕국이 자유롭게 교역하고, 분명하게 소통하고, 어떤 문제든 평화롭게 해결하는 공동의 장이다. 그런 의미에서 포웨이는 각 왕국의 영구히 고정된 세력권 밖에 있는 모든 도시를 관리함으로써 평화를 지키기도 한다."
+ },
+ "eebb55d6a7ba": {
+  "en": "<strong>Black Honey Aged Wooly Cheese:</strong> a specialty made by putting Wooly cheese into some of Sweetlake's Black Honey vaults and letting it rest for about 3 months.",
+  "t": "<strong>검은 꿀 숙성 울리 치즈:</strong> 울리 치즈를 스위트레이크의 검은 꿀 저장고에 넣고 3개월쯤 묵혀서 만드는 특산품."
  },
  "f02c45c22059": {
   "en": "<strong>#9:</strong> a newer tribe that works well with the Half-Cruros.",
@@ -623,9 +1171,17 @@
   "en": "Public text: city-forway.md",
   "t": "공개 텍스트: city-forway.md"
  },
+ "f164793481dc": {
+  "en": "<strong>Visual references:</strong> like Sanbi, but hillier, mixed with Tolerideme's Wood People building structures.",
+  "t": "<strong>시각 자료:</strong> 산비와 같지만 언덕이 더 많고, 톨레리데메의 우드 피플 건축 구조가 섞여 있다."
+ },
  "f265571363e8": {
   "en": "Waterfall",
   "t": "워터폴"
+ },
+ "f2680d345212": {
+  "en": "<strong>Clothing:</strong> Egyptian and medieval themed.",
+  "t": "<strong>옷차림:</strong> 이집트풍에 중세풍."
  },
  "f4577fab042c": {
   "en": "<strong>Guards:</strong> Forway guards trust their crossbows with their lives. Their shiny armor and generous Forway funding make them very visible and somewhat slow, but they always travel in groups, so picking a fight isn't advised, unless you know how to exploit their superiority complex, common among these guards: let them think they have the upper hand, then hit back with a surprise counterattack at the last second and make them bleed out. Some have baited them into traps, too, but that's harder when they have a Sorefaries or another companion watching their surroundings. Either way, once you're fighting them, beware of their revival capabilities, unless you take away their hearty and expensive supply of Black Honey, often kept in their leg pockets.",
@@ -635,9 +1191,25 @@
   "en": "<strong>Forway Palace:</strong> also known as the Black Tower: the giant tower at the city center, where all business and administration flows through. People casually call it the Forway castle. Entering requires a badge. The lower floors are the embassy, the upper floors are restricted to Sapphire adventurers and kingdom and city officials, and underground is research and experimentation. They cross-check names against books and other people if they suspect someone.",
   "t": "<strong>포웨이 궁:</strong> 검은 탑이라고도 한다. 도시 중심의 거대한 탑으로, 모든 사업과 행정이 이곳을 거친다. 사람들은 편하게 포웨이 성이라고 부른다. 들어가려면 신분패가 필요하다. 아래층은 대사관, 위층은 사파이어 모험가와 왕국·도시 관리만 출입할 수 있고, 지하는 연구와 실험용이다. 누군가 의심스러우면 이름을 책과 다른 사람들과 대조한다."
  },
+ "f608e074989f": {
+  "en": "<strong>Burial:</strong> like Sanbi, but the stones here are triangle-shaped.",
+  "t": "<strong>장례:</strong> 산비와 같지만, 여기서는 돌이 삼각형 모양이다."
+ },
  "f68b291af767": {
   "en": "Deltacross",
   "t": "델타크로스"
+ },
+ "f6eac8e2b844": {
+  "en": "<strong>Burial:</strong> some follow Sanbi's practices, others Tolerideme's.",
+  "t": "<strong>장례:</strong> 산비 관습을 따르는 사람도 있고, 톨레리데메 관습을 따르는 사람도 있다."
+ },
+ "f87e165393d2": {
+  "en": "Mixed, with more Darfaries than humans, and beliefs leaning toward the individualist side. Gambling is everywhere: people are trying to make as much money as possible.",
+  "t": "뒤섞여 있지만 인간보다 다르파리에스가 많고, 믿음은 개인주의 쪽으로 기운다. 도박이 어디에나 있다: 다들 최대한 많은 돈을 벌려고 한다."
+ },
+ "fa3345c262ab": {
+  "en": "<strong>Waterfall Jump Race:</strong> every summer, a competition to see who drops down the waterfall fastest and lands safely in the water below.",
+  "t": "<strong>워터폴 점프 경주:</strong> 매년 여름, 누가 가장 빨리 폭포를 내려가 아래 물에 무사히 떨어지나 겨루는 대회."
  },
  "fc3f7024f773": {
   "en": "Cruro",
@@ -650,5 +1222,17 @@
  "fe025cbd55e7": {
   "en": "<strong>Abandoned Dock (#3):</strong> fishing isn't considered viable on the massive lake, even though Fihi is its specialty: the Fihi there developed a taste for humans and figured out how to sink them into the water. Usually adventurers fish there, or people cast from the shore; most people catch their Fihi on the Buhraies Plains instead.",
   "t": "<strong>버려진 부두(#3):</strong> 피히가 명물인데도 거대한 호수에서의 고기잡이는 할 만하지 않다고 여겨진다. 그곳 피히는 인간 맛을 들였고, 인간을 물속으로 끌어들이는 법을 터득했다. 보통 모험가가 거기서 낚시하거나, 사람들이 물가에서 낚싯대를 던진다. 대부분은 대신 부라이에스 평원에서 피히를 잡는다."
+ },
+ "fe2c69944d77": {
+  "en": "<strong>Crime and law:</strong> sorted out among the people. When things get hairy, Sapphire adventurers are sent in to stop it, and Amethysts are sent regularly to help the guards rotating through the city.",
+  "t": "<strong>범죄와 법:</strong> 사람들끼리 해결한다. 일이 험악해지면 사파이어 모험가를 보내 막고, 도시를 순환 근무하는 경비병을 도우라고 애머시스트를 정기적으로 보낸다."
+ },
+ "ffe789ac0469": {
+  "en": "The tree is massive, so at first everyone shared it. But as the city grew, so did the number of people who wanted to own and profit from it, and people from different guilds banded together into new guilds to seize control of the tree. Forway kind of turns a blind eye, as long as the tree isn't harmed.",
+  "t": "나무가 워낙 커서 처음에는 모두가 함께 나눠 썼다. 하지만 도시가 커지면서 나무를 차지해 이득을 보려는 사람도 늘었고, 여러 길드 사람들이 뭉쳐 새 길드를 만들어 나무의 지배권을 쥐었다. 포웨이는 나무만 해치지 않으면 대충 눈감아 준다."
+ },
+ "ffffd5c40749": {
+  "en": "<strong>Cleansing Fountain:</strong> where people go for public enemas: they touch their butt to the fountain, and it cleans them out.",
+  "t": "<strong>정화의 분수:</strong> 사람들이 공개 관장을 하러 가는 곳: 엉덩이를 분수에 대면 속을 싹 비워 준다."
  }
 }
