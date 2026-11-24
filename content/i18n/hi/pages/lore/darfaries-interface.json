@@ -31,6 +31,10 @@
   "en": "Shock VERB",
   "t": "Shock VERB"
  },
+ "0f47dfa46a4f": {
+  "en": "<strong>Increase/Decrease</strong> and <strong>Restore/Disassemble:</strong> behave like Create/Destroy.",
+  "t": "<strong>Increase/Decrease</strong> और <strong>Restore/Disassemble:</strong> Create/Destroy की तरह बर्ताव करते हैं।"
+ },
  "10668848ecf1": {
   "en": "Gold → Mercury",
   "t": "सोना → पारा"
@@ -107,9 +111,17 @@
   "en": "Ice VERB",
   "t": "Ice VERB"
  },
+ "2a0404ceb303": {
+  "en": "The elemental verbs, with water.",
+  "t": "तत्व वाली क्रियाएँ, पानी के साथ।"
+ },
  "2ca369f05b2d": {
   "en": "Nari sticks (nari stones chained together) fuel the spell. A single-use nari stick is spent in one cast, and they aren't cheap.",
   "t": "नरी स्टिक (एक साथ जोड़े गए नरी पत्थर) मंत्र को ईंधन देती हैं। एक बार इस्तेमाल वाली नरी स्टिक एक ही मंत्र में ख़र्च हो जाती है, और वे सस्ती नहीं होतीं।"
+ },
+ "2d68de584b52": {
+  "en": "The elemental verbs, with lava.",
+  "t": "तत्व वाली क्रियाएँ, लावा के साथ।"
  },
  "2dba29a226b6": {
   "en": "<strong>Destroy:</strong> tries to destroy the target's whole body. At low tiers it only causes internal or external bleeding; medium tiers can cause convulsions; high tiers cause an explosion.",
@@ -158,6 +170,10 @@
  "3a54978fb627": {
   "en": "Platinum → Gold",
   "t": "प्लैटिनम → सोना"
+ },
+ "3b226566c89d": {
+  "en": "The elemental verbs, with earth.",
+  "t": "तत्व वाली क्रियाएँ, मिट्टी के साथ।"
  },
  "3c410b0a889e": {
   "en": "Dust VERB",
@@ -254,6 +270,10 @@
  "5255c62e691b": {
   "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Darfaries shells appear as you do. With a sigil ring:",
   "t": "<strong>मंत्र शुरू करो।</strong> मंत्र और आत्मा-ऊर्जा थामने वाले हाथ की उँगलियाँ भींचो। ऐसा करते ही डारफ़ेरीज़ कवच दिखने लगते हैं। मुहर वाली अँगूठी के साथ:"
+ },
+ "5266e81985c6": {
+  "en": "The elemental verbs, with steam.",
+  "t": "तत्व वाली क्रियाएँ, भाप के साथ।"
  },
  "528b9fb4db2c": {
   "en": "<strong>Increase/Decrease:</strong> the whole body grows or shrinks.",
@@ -395,6 +415,10 @@
   "en": "Ash VERB",
   "t": "Ash VERB"
  },
+ "71812d5fae7a": {
+  "en": "Works like Gravity VERB. Gabiro improved it when he helped shape the new Darfaries Interface standard; the new sigil standard he was the centerpiece of lowered the cast failure rate, especially for Water Gravity, making fanchakis mature nearly twice as fast (Vol 3).",
+  "t": "Gravity VERB की तरह काम करता है। गबीरो ने इसे तब सुधारा जब उसने नए डारफ़ेरीज़ इंटरफ़ेस मानक को आकार देने में मदद की; मुहर का वह नया मानक, जिसके केंद्र में वह था, मंत्र नाकाम होने की दर घटा गया, ख़ासकर वॉटर ग्रैविटी के लिए, जिससे फ़ानचाकी लगभग दोगुनी तेज़ी से बड़े होने लगे (खंड 3)।"
+ },
  "724c8389bd95": {
   "en": "Steam VERB",
   "t": "Steam VERB"
@@ -415,6 +439,10 @@
   "en": "Storm VERB",
   "t": "Storm VERB"
  },
+ "77947875b9a0": {
+  "en": "The elemental verbs, with wind. Its ball is more elongated than anything.",
+  "t": "तत्व वाली क्रियाएँ, हवा के साथ। इसका गोला किसी भी चीज़ से ज़्यादा लंबोतरा होता है।"
+ },
  "7802ad32f0ce": {
   "en": "Verbs",
   "t": "क्रियाएँ"
@@ -422,6 +450,10 @@
  "78c2d1c75d87": {
   "en": "Either way, a miscast explodes in soul flame in the caster's hands.",
   "t": "दोनों ही सूरतों में, ग़लत मंत्र मंत्र चलाने वाले के हाथों में आत्मा की लौ बनकर फट पड़ता है।"
+ },
+ "7a513f3d316a": {
+  "en": "The elemental verbs, with storm.",
+  "t": "तत्व वाली क्रियाएँ, तूफ़ान के साथ।"
  },
  "7a91c4983d68": {
   "en": "World VERB",
@@ -435,6 +467,10 @@
   "en": "Transmute",
   "t": "Transmute"
  },
+ "7d9145978885": {
+  "en": "The elemental verbs, with shock.",
+  "t": "तत्व वाली क्रियाएँ, बिजली के झटके के साथ।"
+ },
  "7df913eb7771": {
   "en": "Ring #2: 8",
   "t": "छल्ला #2: 8"
@@ -446,6 +482,10 @@
  "83a077984fe7": {
   "en": "The Buhraies created this interface as an enhancement to their own soul energy interface, in an attempt to control the Darfaries as a versatile army of foot soldiers.",
   "t": "बुरेज़ ने यह इंटरफ़ेस अपने आत्मा-ऊर्जा इंटरफ़ेस के सुधार के तौर पर बनाया, डारफ़ेरीज़ को पैदल सैनिकों की एक बहुमुखी सेना के रूप में नियंत्रित करने की कोशिश में।"
+ },
+ "83b7155e04f6": {
+  "en": "The elemental verbs, with mud.",
+  "t": "तत्व वाली क्रियाएँ, कीचड़ के साथ।"
  },
  "840823ff59c1": {
   "en": "<strong>Restore:</strong> shapes the item into the desired object by combining elements around the caster, basically the reverse of chemical reactions. Have the elements it's made of nearby to improve the odds; otherwise the repaired object may break again if the new connections aren't strong.",
@@ -466,6 +506,14 @@
  "8a4a4532c533": {
   "en": "<strong>Apply the energy.</strong> Touch what you want to apply it to with your palm and straighten your fingers, or release the spell as it is for a ranged attack. Cock your arm and time it right for extra range. The caster's body feels the weight of the spell, like firing a gun.",
   "t": "<strong>ऊर्जा लगाओ।</strong> जिस पर लगाना चाहते हो उसे अपनी हथेली से छुओ और उँगलियाँ सीधी करो, या दूर के हमले के लिए मंत्र को वैसे ही छोड़ दो। ज़्यादा दूरी के लिए अपनी बाँह पीछे खींचो और सही वक़्त पर छोड़ो। मंत्र चलाने वाले के शरीर को मंत्र का वज़न महसूस होता है, जैसे बंदूक़ चलाते वक़्त।"
+ },
+ "8a9201f37e41": {
+  "en": "<strong>Create/Destroy:</strong> Create makes a ball of the element for a ranged attack; Destroy turns the target's element back into virtual particles. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Create/Destroy:</strong> Create दूर के हमले के लिए तत्व का एक गोला बनाता है; Destroy निशाने के तत्व को वापस आभासी कणों में बदल देता है। अगर कोई निशाना न हो, तो आत्मा की लौ बस भाप बनकर उड़ जाती है।"
+ },
+ "8c04c55d7685": {
+  "en": "The elemental verbs, with dust.",
+  "t": "तत्व वाली क्रियाएँ, धूल के साथ।"
  },
  "8ca6193582e9": {
   "en": "Water VERB",
@@ -615,13 +663,25 @@
   "en": "<strong>Repel/Attract:</strong> the target repels or attracts the element. With no target, the soul flame simply evaporates.",
   "t": "<strong>Repel/Attract:</strong> निशाना तत्व को दूर धकेलता या खींचता है। अगर कोई निशाना न हो, तो आत्मा की लौ बस भाप बनकर उड़ जाती है।"
  },
+ "c7e54ecd4ad8": {
+  "en": "The ball's size follows the General Power Effects: 0.1 cm at Tier I, doubling with every tier (51.2 cm at Tier X).",
+  "t": "गोले का आकार सामान्य शक्ति प्रभावों के हिसाब से चलता है: स्तर I पर 0.1 cm, और हर स्तर पर दोगुना (स्तर X पर 51.2 cm)।"
+ },
  "c8c7488b1383": {
   "en": "Environmental changes, especially creation, destruction, and manipulation of elemental properties such as water, fire, terrain, and gravity, are commonly performed through this interface.",
   "t": "पर्यावरण में बदलाव, ख़ासकर पानी, आग, ज़मीन और गुरुत्व जैसे तत्वों के गुणों को बनाना, नष्ट करना और बदलना, आम तौर पर इसी इंटरफ़ेस से होता है।"
  },
+ "ca4adc8484ad": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts the element. This is the one meant for gravity control. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Repel/Attract:</strong> निशाना तत्व को दूर धकेलता या खींचता है। गुरुत्वाकर्षण पर क़ाबू के लिए यही है। अगर कोई निशाना न हो, तो आत्मा की लौ बस भाप बनकर उड़ जाती है।"
+ },
  "cac2d50e5374": {
   "en": "It only restores the base genetic information; it doesn't deal with whatever is causing the damage, such as worms.",
   "t": "यह सिर्फ़ बुनियादी आनुवंशिक जानकारी बहाल करता है; नुक़सान की वजह, जैसे कीड़ों, से नहीं निपटता।"
+ },
+ "caca7f199089": {
+  "en": "The elemental verbs, with frozen earth.",
+  "t": "तत्व वाली क्रियाएँ, जमी हुई मिट्टी के साथ।"
  },
  "cb864e0c3c67": {
   "en": "Keeping your fingers clenched on the hand you used the logograms on, you must now trap the fingers, or nari stone stick, then reverse the motion while keeping the fingers clenched. This sort of “eating“ motion will suck the power and create a ball into one of the rings that will temporarily hold power. Do not worry about how fast it zips around. The rings will keep it in check until you release the spell in the final step.",
@@ -634,6 +694,10 @@
  "cd5fc47831e2": {
   "en": "Entangle",
   "t": "Entangle"
+ },
+ "cf492fe9525e": {
+  "en": "The elemental verbs, with ice.",
+  "t": "तत्व वाली क्रियाएँ, बर्फ़ के साथ।"
  },
  "d08ae5111258": {
   "en": "Minor cuts and minor blood loss",
@@ -691,6 +755,14 @@
   "en": "When a spell is cast, five rings appear around the hand holding it. Each shell holds a limited number of soul energy tiers:",
   "t": "जब मंत्र चलाया जाता है, तो उसे थामने वाले हाथ के चारों ओर पाँच छल्ले दिखते हैं। हर कवच आत्मा-ऊर्जा के सीमित स्तर ही थाम सकता है:"
  },
+ "e2b868f1938f": {
+  "en": "The elemental verbs, with fire.",
+  "t": "तत्व वाली क्रियाएँ, आग के साथ।"
+ },
+ "e36ef673808f": {
+  "en": "The elemental verbs, with ash.",
+  "t": "तत्व वाली क्रियाएँ, राख के साथ।"
+ },
  "e5df83155e66": {
   "en": "Full Darfaries Interface - Sigil and Nari stone mode (video)",
   "t": "पूरा डारफ़ेरीज़ इंटरफ़ेस - मुहर और नरी पत्थर मोड (वीडियो)"
@@ -706,6 +778,10 @@
  "e8d0433850e4": {
   "en": "Fire VERB",
   "t": "Fire VERB"
+ },
+ "ea25d8fd0025": {
+  "en": "<strong>Create/Destroy:</strong> Create makes a ball of the element for a ranged attack (thanks to Hawking radiation, the black hole quickly disappears once cast); Destroy turns the target's element back into virtual particles. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Create/Destroy:</strong> Create दूर के हमले के लिए तत्व का एक गोला बनाता है (हॉकिंग विकिरण की बदौलत, मंत्र चलने के बाद ब्लैक होल जल्दी ग़ायब हो जाता है); Destroy निशाने के तत्व को वापस आभासी कणों में बदल देता है। अगर कोई निशाना न हो, तो आत्मा की लौ बस भाप बनकर उड़ जाती है।"
  },
  "ef47633dff56": {
   "en": "Given Darfaries sport the most prominent Darfaries veins, its sheer additional volume allows them to finely sense soul energy disturbances around them, plus a rough sensation of humidity, wind, and barometric pressure—it’s like how they say, if a Darfaries tells you to buy an umbrella, you better buy one!",
