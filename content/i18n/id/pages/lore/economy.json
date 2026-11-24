@@ -1,4 +1,8 @@
 {
+ "000a6bd9e4af": {
+  "en": "Tier V",
+  "t": "Tingkat V"
+ },
  "0054289dba33": {
   "en": "Before the Prosperity Treaty, Kingdom UOMs were all over the place, making trading harder and opening the door for sketchier traders to forge papers to evade authorities and rip off customers. Adrian, one of the courtroom scientists that overthrew all rulers at the end of The Greed Period, saw the treaty they were establishing as an opportunity to standardize all measurements based on using the most accurate one in existence—which happened to be the Tolerideme Kingdom, coincidentally where he was from. Gandew, of course, still uses their own to this day alongside the Vraki measurements. In contrast, everyone else's historical measurement implementations are now the type of knowledge that only historians care to know.",
   "t": "Sebelum Perjanjian Kemakmuran, satuan ukur tiap Kerajaan simpang siur, mempersulit perdagangan dan membuka pintu bagi pedagang yang lebih licik untuk memalsukan dokumen demi menghindari pihak berwenang dan menipu pelanggan. Adrian, salah satu ilmuwan istana yang menggulingkan semua penguasa di akhir The Greed Period, melihat perjanjian yang sedang mereka susun sebagai kesempatan untuk menyeragamkan semua ukuran berdasarkan yang paling akurat yang ada—yang kebetulan milik Kerajaan Tolerideme, yang juga kebetulan tempat asalnya. Gandew, tentu saja, masih memakai ukurannya sendiri hingga hari ini berdampingan dengan ukuran Vraki. Sebaliknya, penerapan ukuran historis semua pihak lain kini menjadi jenis pengetahuan yang hanya dipedulikan sejarawan."
@@ -7,77 +11,301 @@
   "en": "10 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "10 entri lain di halaman ini hanya ada di <button class=\"linklike\" data-go-bts>Di Balik Layar</button>."
  },
+ "015c979a68a6": {
+  "en": "<strong>Where it comes from:</strong> mined from Flatland City to Blood City, deep inside the mountains (about 1 km down).",
+  "t": "<strong>Asal:</strong> ditambang dari Flatland City sampai Blood City, jauh di dalam pegunungan (sekitar 1 km ke bawah)."
+ },
  "022aabbee753": {
   "en": "Vraki UOMs",
   "t": "Satuan Ukur Vraki"
+ },
+ "0326ae1448a0": {
+  "en": "Economic activity in Vraki comes from fauna, flora and beasts, and the goods and services made from them. It's divided into four economic regions, and comparative advantage decides which goods are worth exporting from one region to another.",
+  "t": "Kegiatan ekonomi di Vraki berasal dari fauna, flora, dan makhluk buas, serta barang dan jasa yang dibuat darinya. Kegiatan ini terbagi menjadi empat wilayah ekonomi, dan keunggulan komparatif menentukan barang mana yang layak diekspor dari satu wilayah ke wilayah lain."
+ },
+ "0351367464a7": {
+  "en": "Master, per day",
+  "t": "Ahli, per hari"
  },
  "03ebd5a3d869": {
   "en": "*The name Vraki is a homage to ancient texts that portrayed Buhraies working hard to unify language across species.",
   "t": "*Nama Vraki adalah penghormatan pada teks-teks purba yang menggambarkan Buhraies bekerja keras menyatukan bahasa antarspesies."
  },
+ "057dea8c73ac": {
+  "en": "Hardness:",
+  "t": "Kekerasan:"
+ },
+ "0d5c49323965": {
+  "en": "~3,300 km",
+  "t": "~3.300 km"
+ },
+ "0e7f700547cb": {
+  "en": "<strong>Example:</strong> fanchaki farms are spread out everywhere, but Freeish and Blood have the comparative advantage for large-scale farming. Raising larger fanchakis (like Sanbi's experimental farm) costs more than their meat sells for.",
+  "t": "<strong>Contoh:</strong> peternakan fanchaki tersebar di mana-mana, tapi Freeish dan Blood punya keunggulan komparatif untuk peternakan skala besar. Membesarkan fanchaki yang lebih besar (seperti peternakan eksperimental Sanbi) lebih mahal daripada harga jual dagingnya."
+ },
+ "0f217179940c": {
+  "en": "Region",
+  "t": "Wilayah"
+ },
+ "144301cf556b": {
+  "en": "The full numbers are in the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Distance Cost Calculator).",
+  "t": "Angka lengkapnya ada di <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">spreadsheet Ekonomi</a> (Distance Cost Calculator)."
+ },
+ "15d14b4ee5c3": {
+  "en": "<strong>Hardness:</strong> 2.5 to 4.5",
+  "t": "<strong>Kekerasan:</strong> 2,5 sampai 4,5"
+ },
+ "15dded0b93d1": {
+  "en": "1 ball",
+  "t": "1 bola"
+ },
+ "18000a4c2290": {
+  "en": "Tier II",
+  "t": "Tingkat II"
+ },
  "184272d237d3": {
   "en": "The most common currency is Pearls, which denotes the currency's minimum value. For reference, on an average working day, a gatherer of Gyut (a berry akin to Acerola) would earn one pearl per kg of berries picked (around thirty minutes to one hour of labor, depending on their efficiency.) Assuming a newbie gatherer worked for twelve hours, they would likely pay five pearls for a simple but hearty dinner with a mug of cheap beer, then another five for renting a humble hostel bed, with two pearls left over to save for tomorrow. Usually, one would use pearls for food or standard simple services like wagon rides for relatively short distances.",
   "t": "Mata uang yang paling umum adalah Pearl, yang mewakili nilai terkecil. Sebagai gambaran, pada hari kerja biasa, seorang pemetik Gyut (buah beri mirip acerola) akan mendapat satu pearl untuk setiap kg beri yang dipetik (sekitar tiga puluh menit sampai satu jam kerja, tergantung kecekatannya.) Kalau seorang pemetik pemula bekerja dua belas jam, ia mungkin membayar lima pearl untuk makan malam sederhana tapi mengenyangkan dengan segelas bir murah, lalu lima lagi untuk menyewa ranjang penginapan yang sederhana, dan sisanya dua pearl untuk ditabung bagi besok. Umumnya, orang memakai pearl untuk makanan atau layanan sederhana sehari-hari seperti naik gerobak untuk jarak yang relatif dekat."
+ },
+ "1b22feb0c0c1": {
+  "en": "Between",
+  "t": "Antara"
+ },
+ "1cb449c11266": {
+  "en": "Members",
+  "t": "Anggota"
  },
  "1ef532cce6fe": {
   "en": "Amethyst",
   "t": "Amethyst"
  },
+ "1fc3153191c2": {
+  "en": "~2,000 km",
+  "t": "~2.000 km"
+ },
  "26287b561096": {
   "en": "Economy &amp; Units",
   "t": "Ekonomi &amp; Satuan"
+ },
+ "279761c183c0": {
+  "en": "The average daily pay, for an average work day of 12 hours. Work time varies by job, and this doesn't account for jobs that depend on luck, like fishing.",
+  "t": "Upah harian rata-rata, untuk hari kerja rata-rata 12 jam. Waktu kerja bervariasi menurut pekerjaan, dan ini tidak memperhitungkan pekerjaan yang bergantung pada keberuntungan, seperti memancing."
+ },
+ "27d92d43befe": {
+  "en": "Expenses take about 75% of earnings, so a Tier I worker keeps about 3 Pearls a day. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Salary Calculator).",
+  "t": "Pengeluaran memakan sekitar 75% pendapatan, jadi pekerja Tingkat I menyisakan sekitar 3 Pearl sehari. Lihat <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">spreadsheet Ekonomi</a> (Salary Calculator)."
+ },
+ "28c0eafbd6ce": {
+  "en": "Over a year (73 weeks), that's 3,504 Pearls at Tier I, up to 35,040 for a Tier VI apprentice or 52,560 for a Tier VI master. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Salary Calculator).",
+  "t": "Dalam setahun (73 minggu), itu 3.504 Pearl di Tingkat I, sampai 35.040 untuk magang Tingkat VI atau 52.560 untuk ahli Tingkat VI. Lihat <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">spreadsheet Ekonomi</a> (Salary Calculator)."
+ },
+ "2a32ad9fccf0": {
+  "en": "Freeish and Gandew regions",
+  "t": "Wilayah Freeish dan Gandew"
+ },
+ "33e4a381fa43": {
+  "en": "<strong>Size:</strong> slightly bigger than a fingernail, about 2 cm across.",
+  "t": "<strong>Ukuran:</strong> sedikit lebih besar dari kuku, sekitar 2 cm."
+ },
+ "34f93d99f29c": {
+  "en": "~3,000 km",
+  "t": "~3.000 km"
+ },
+ "392c485a6389": {
+  "en": "~1,000 km",
+  "t": "~1.000 km"
+ },
+ "3bae79216122": {
+  "en": "Forway, Flatland, Gandew, Sundeath",
+  "t": "Forway, Flatland, Gandew, Sundeath"
+ },
+ "438a2a268b29": {
+  "en": "Tier IV",
+  "t": "Tingkat IV"
  },
  "440282475500": {
   "en": "Amethyst ball: a purple faceted coin-like disc with golden swirling arms.",
   "t": "Bola Amethyst: cakram mirip koin bersegi berwarna ungu dengan lengan berpilin keemasan."
  },
+ "442e401b464d": {
+  "en": "~4,000 km",
+  "t": "~4.000 km"
+ },
  "467122e96ae1": {
   "en": "Aquamarine ball: a light-blue faceted coin-like disc with golden swirling arms.",
   "t": "Bola Aquamarine: cakram mirip koin bersegi berwarna biru muda dengan lengan berpilin keemasan."
+ },
+ "484b801fd210": {
+  "en": "<strong>Hardness:</strong> 7.5 to 8",
+  "t": "<strong>Kekerasan:</strong> 7,5 sampai 8"
+ },
+ "497865c53617": {
+  "en": "<strong>Worth:</strong> 10 Aquamarine, 100 Amethyst or 5,000 Pearls.",
+  "t": "<strong>Nilai:</strong> 10 Aquamarine, 100 Amethyst, atau 5.000 Pearl."
+ },
+ "4a9ba1f13c83": {
+  "en": "Minerals, Wooly and chitin",
+  "t": "Mineral, Wooly, dan kitin"
  },
  "4b8a751f1630": {
   "en": "Public text: economy-uoms.md",
   "t": "Teks publik: economy-uoms.md"
  },
+ "50870d79e6f4": {
+  "en": "Tier I",
+  "t": "Tingkat I"
+ },
  "52086129a3b5": {
   "en": "Sapphire",
   "t": "Sapphire"
+ },
+ "5396c116b2e2": {
+  "en": "<strong>What it buys:</strong> custom-crafted armor and weapons, or good gear in general; a young tamed egua; an adult tamed Big Winga; well-protected, guarded travel; fancier hotels; fundamental education; fancy clothing, usually with gold or precious-metal details; Tier VI to VIII Soul Energy. For some people, it's their entire life savings.",
+  "t": "<strong>Yang bisa dibeli:</strong> zirah dan senjata buatan khusus, atau perlengkapan bagus pada umumnya; egua jinak yang masih muda; Big Winga jinak dewasa; perjalanan yang terlindungi dan dijaga dengan baik; hotel yang lebih mewah; pendidikan dasar; pakaian mewah, biasanya dengan detail emas atau logam mulia; Energi Jiwa Tingkat VI sampai VIII. Bagi sebagian orang, itu seluruh tabungan hidup mereka."
+ },
+ "5957b01cfd38": {
+  "en": "Forway, Sanbi, Waterfall, Triangle, Tastyleaf, Endlessfog",
+  "t": "Forway, Sanbi, Waterfall, Triangle, Tastyleaf, Endlessfog"
+ },
+ "59eb58190849": {
+  "en": "Gandew and Sanbi regions",
+  "t": "Wilayah Gandew dan Sanbi"
+ },
+ "5f618a292277": {
+  "en": "Master, per hour",
+  "t": "Ahli, per jam"
+ },
+ "634a223bb76e": {
+  "en": "Balls are the common currency of the four kingdoms (Tolerideme, the Sanbi Kingdom, the Freeish Kingdom and the Gandew Kingdom) and all the participating cities around them. The Prosperity Treaty introduced them in Section #3, since bartering is forbidden between the treaty's parties. Balls are made throughout the kingdom, and the city or kingdom's embassy oversees their manufacturing.",
+  "t": "Bola adalah mata uang bersama empat kerajaan (Tolerideme, Kerajaan Sanbi, Kerajaan Freeish, dan Kerajaan Gandew) serta semua kota peserta di sekitarnya. Perjanjian Kemakmuran memperkenalkannya di Bagian #3, karena barter dilarang di antara para pihak perjanjian. Bola dibuat di seluruh kerajaan, dan kedutaan kota atau kerajaan mengawasi pembuatannya."
+ },
+ "6ab35da38a12": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Economy.md\">Legacy/Behind The Scenes/World Lore/Economy.md</a>",
+  "t": "Sumber: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Economy.md\">Legacy/Behind The Scenes/World Lore/Economy.md</a>"
+ },
+ "6ea75f6d8e5e": {
+  "en": "Sanbi and Tolerideme regions",
+  "t": "Wilayah Sanbi dan Tolerideme"
+ },
+ "70a1618f804e": {
+  "en": "There are four balls. From the most valuable:",
+  "t": "Ada empat bola. Dari yang paling berharga:"
  },
  "73deb2e5251c": {
   "en": "Aquamarine",
   "t": "Aquamarine"
  },
+ "7465c0ac951d": {
+  "en": "Tier VI",
+  "t": "Tingkat VI"
+ },
+ "75f16b9dcc19": {
+  "en": "Economical Regions",
+  "t": "Wilayah Ekonomi"
+ },
+ "77d1f61d0852": {
+  "en": "Comparative Advantage",
+  "t": "Keunggulan Komparatif"
+ },
+ "78f3842f0201": {
+  "en": "Master",
+  "t": "Ahli"
+ },
  "7927d99fd832": {
   "en": "Pearl",
   "t": "Pearl"
+ },
+ "798f64e2c7a7": {
+  "en": "Balls Currency",
+  "t": "Mata Uang Bola"
+ },
+ "7baec53c6c26": {
+  "en": "Gandew and Tolerideme regions",
+  "t": "Wilayah Gandew dan Tolerideme"
  },
  "7e1741308837": {
   "en": "087 (images illustration)",
   "t": "087 (ilustrasi gambar)"
  },
+ "7e8548c30fef": {
+  "en": "Economy",
+  "t": "Ekonomi"
+ },
  "7f5bd97d3d97": {
   "en": "Balls are the standardized currency as determined by the Prosperity Treaty. Each ball is about the size of a marble and is encrusted by the golden circular metallic decoration that protects the mineral inside and makes it harder to counterfeit or tamper with.",
   "t": "Bola adalah mata uang standar sebagaimana ditetapkan oleh Perjanjian Kemakmuran. Setiap bola kira-kira sebesar kelereng dan dibingkai hiasan logam bundar keemasan yang melindungi mineral di dalamnya dan membuatnya lebih sulit dipalsukan atau diutak-atik."
+ },
+ "8010f7aa2e17": {
+  "en": "<strong>What it buys:</strong> common food and beer; a day's lodging in a hostel or cheap hotel; bargain armor and weapons; hay for an egua; travel by wagon (less comfortable and less protected); utensils; used clothing (sometimes with wear and tear) or very cheap clothing; most nari gels at weak effect tiers; Tier I to III Soul Energy; paper, ink, etc.",
+  "t": "<strong>Yang bisa dibeli:</strong> makanan dan bir biasa; penginapan sehari di asrama atau hotel murah; zirah dan senjata obral; jerami untuk egua; perjalanan dengan gerobak (kurang nyaman dan kurang terlindungi); peralatan makan; pakaian bekas (kadang sudah aus) atau pakaian yang sangat murah; kebanyakan nari gel di tingkat efek yang lemah; Energi Jiwa Tingkat I sampai III; kertas, tinta, dll."
  },
  "813681598d7d": {
   "en": "Sapphire ball: a deep-blue faceted coin-like disc with golden swirling arms.",
   "t": "Bola Sapphire: cakram mirip koin bersegi berwarna biru tua dengan lengan berpilin keemasan."
  },
+ "87565be67953": {
+  "en": "Daily Salary",
+  "t": "Upah Harian"
+ },
+ "8a842f1db687": {
+  "en": "Weekly Salary",
+  "t": "Upah Mingguan"
+ },
  "8bc2bd89c625": {
   "en": "Economy & Units · #HusbandOutWorld",
   "t": "Ekonomi &amp; Satuan · #HusbandOutWorld"
+ },
+ "8de8b2b021b0": {
+  "en": "<strong>Worth:</strong> 50 Pearls.",
+  "t": "<strong>Nilai:</strong> 50 Pearl."
+ },
+ "93e739da0daa": {
+  "en": "<strong>Worth:</strong> 10 Amethyst or 500 Pearls.",
+  "t": "<strong>Nilai:</strong> 10 Amethyst atau 500 Pearl."
+ },
+ "969e1d31bffe": {
+  "en": "<strong>Worth:</strong> the lowest ball; the others are counted in Pearls.",
+  "t": "<strong>Nilai:</strong> bola paling rendah; bola lainnya dihitung dalam Pearl."
  },
  "9a3c5c2b363f": {
   "en": "If you gather fifty Pearls, then you can trade it for a single Amethyst. Some books can be as low as a single amethyst if the janky ass printing presses back at Forway work well, but most people would use their amethyst to buy household items like fost lamps or live animals like a tamed Winga or pay their rent. Some clothing can be found for a few amethysts, but don’t expect them to be a pussy (or dick) magnet. You could skip the flatteries and just go to a brothel after drinking a few beers instead of not paying much attention to what you’re stuffing or being stuffed by. If you want to use your balls on something else instead, buy some nari gels, nari stones, or better lodging!",
   "t": "Kalau kamu mengumpulkan lima puluh Pearl, kamu bisa menukarnya dengan satu Amethyst. Sebagian buku bisa semurah satu amethyst kalau mesin cetak Forway yang reyot sedang bekerja dengan baik, tapi kebanyakan orang memakai amethyst mereka untuk membeli barang rumah tangga seperti lampu fost atau hewan hidup seperti Winga jinak, atau untuk membayar sewa. Sebagian pakaian bisa didapat dengan beberapa amethyst, tapi jangan harap itu jadi magnet memek (atau kontol). Kamu bisa lewati semua rayuan dan langsung ke rumah bordil setelah beberapa gelas bir, daripada tidak terlalu memperhatikan apa yang kamu masuki atau apa yang memasukimu. Kalau kamu ingin memakai bolamu untuk hal lain, belilah nari gel, nari stone, atau tempat tinggal yang lebih baik!"
  },
+ "9e1b38d9dd9c": {
+  "en": "<strong>What it buys:</strong> 1 nari stone; common household items like a table or fost lamps; fancier food and drinks; average armor and weapons; a better travel experience; maps (more complex ones cost an Aquamarine); average lodging, often with breakfast; new cheap clothing, or somewhat more refined clothing; most nari gels at higher effect tiers; Tier IV to VI Soul Energy; sigil rings; a Winga companion.",
+  "t": "<strong>Yang bisa dibeli:</strong> 1 batu nari; barang rumah tangga umum seperti meja atau lampu fost; makanan dan minuman yang lebih mewah; zirah dan senjata rata-rata; pengalaman perjalanan yang lebih baik; peta (yang lebih rumit seharga satu Aquamarine); penginapan rata-rata, sering dengan sarapan; pakaian baru yang murah, atau pakaian yang agak lebih halus; kebanyakan nari gel di tingkat efek yang lebih tinggi; Energi Jiwa Tingkat IV sampai VI; cincin sigil; pendamping Winga."
+ },
  "9e4f472331f2": {
   "en": "088 (images illustration)",
   "t": "088 (ilustrasi gambar)"
  },
+ "a155061e792a": {
+  "en": "Forway, Triangle, Deltacross, Freeish, Blood, Sweetlake, Sundeath",
+  "t": "Forway, Triangle, Deltacross, Freeish, Blood, Sweetlake, Sundeath"
+ },
+ "a97fc84fe87e": {
+  "en": "Domar Carbey, Wood People and Wingas",
+  "t": "Domar Carbey, Wood People, dan Winga"
+ },
  "af2c8b7ef70a": {
   "en": "Pearl ball: a pale cream coin-like disc with golden swirling arms.",
   "t": "Bola Pearl: cakram mirip koin berwarna krem pucat dengan lengan berpilin keemasan."
+ },
+ "afa77f1b0017": {
+  "en": "Forway, Tolerideme, Waterfall, Tastyleaf, Wingarest",
+  "t": "Forway, Tolerideme, Waterfall, Tastyleaf, Wingarest"
+ },
+ "b0e7db565d4b": {
+  "en": "Pearls",
+  "t": "Pearl"
+ },
+ "b59f457aba63": {
+  "en": "Sanbi, fish-related products, etc.",
+  "t": "Sanbi, produk olahan ikan, dll."
+ },
+ "bca7fc3d041e": {
+  "en": "Tier III",
+  "t": "Tingkat III"
  },
  "c0d962e3dfae": {
   "en": "You somehow got ten Aquamarines? Damm. You could trade that in for shiny Saphire. This is the scale of balls where you can obtain specialized education for you or your children. Depending on their worth, you can have someone bend to your will with life-long contracts in the tens if not hundreds of sapphires. Or you can buy properties and even guilds! The world is yours! But depending on where you go, you will need to hire adventurers to serve you as bodyguards, as some miscreants will love to have a chat with you. Or wear fake skin, and none would be the wiser.",
@@ -87,16 +315,84 @@
   "en": "And if you somehow saved ten amethysts, then you can trade for a single aquamarine. You fancy! Don’t walk around showing it off, or some miscreant might request a “compulsory loan to keep you alive! You could buy a small egua for that price! Or even a tamed Big Winga! Or you can invest in yourself by enrolling at a local fundamental education school to open the door to new opportunities. If that’s not your thing, then you could do all the things amethysts can, but fancier. Fancier clothing, fancier hoes, and fancier beer too. Some people’s life savings amounts to one or a couple of aquamarines, so",
   "t": "Dan kalau entah bagaimana kamu berhasil menabung sepuluh amethyst, kamu bisa menukarnya dengan satu aquamarine. Gaya sekali! Jangan berkeliling memamerkannya, atau ada penjahat yang mungkin meminta “pinjaman wajib agar kamu tetap hidup! Kamu bisa membeli egua kecil dengan harga segitu! Atau bahkan Big Winga jinak! Atau kamu bisa berinvestasi pada dirimu sendiri dengan mendaftar di sekolah dasar setempat untuk membuka peluang baru. Kalau itu bukan seleramu, kamu bisa melakukan semua hal yang bisa dilakukan dengan amethyst, tapi lebih mewah. Pakaian lebih mewah, pelacur lebih mewah, dan bir lebih mewah juga. Tabungan seumur hidup sebagian orang berjumlah satu atau beberapa aquamarine, jadi"
  },
+ "c73383dce58f": {
+  "en": "Pearls per week",
+  "t": "Pearl per minggu"
+ },
+ "c8813ecb9014": {
+  "en": "The price covers more than the egua's work. On rough routes, cargo goes on a pack egua's back: up to about 150 kg, at about 30 km a day (about 65 km a day when ridden). Where the roads allow carts, one egua pulls far more (about 900 kg on a dirt road, about 1,800 kg on a good road; see <a href=\"/lore/fauna/#egua--load-and-strain\">Load and strain</a> on the Egua), so hauling gets cheaper. Shipping prices stay the same anyway, because they also pay for protection, insurance and the shipper's profit.",
+  "t": "Harganya mencakup lebih dari kerja egua. Di rute yang sulit, muatan diangkut di punggung egua beban: sampai sekitar 150 kg, sekitar 30 km sehari (sekitar 65 km sehari saat ditunggangi). Di tempat jalannya bisa dilalui gerobak, satu egua menarik jauh lebih banyak (sekitar 900 kg di jalan tanah, sekitar 1.800 kg di jalan yang bagus; lihat <a href=\"/lore/fauna/#egua--load-and-strain\">Beban dan tekanan</a> pada Egua), jadi pengangkutan jadi lebih murah. Ongkos kirim tetap sama, karena juga membayar perlindungan, asuransi, dan keuntungan pengirim."
+ },
  "cfd2d2068e7f": {
   "en": "Economy &amp; Units · #HusbandOutWorld",
   "t": "Ekonomi &amp; Satuan · #HusbandOutWorld"
+ },
+ "db19b0df6fcb": {
+  "en": "Forway is part of all four regions, and so is any village within a region's shared boundaries. A few cities sit in two.",
+  "t": "Forway adalah bagian dari keempat wilayah, begitu pula desa mana pun di dalam batas bersama sebuah wilayah. Beberapa kota berada di dua wilayah."
+ },
+ "dc7ecc031030": {
+  "en": "<strong>Moving goods.</strong> Shipping costs about 1 Pearl per kg for every 120 km for Tier I (cheap) goods, 84 km for Tier II (common), 58.8 km for Tier III (expensive) and 29.4 km for Tier IV (nobility).",
+  "t": "<strong>Memindahkan barang.</strong> Ongkos kirim sekitar 1 Pearl per kg untuk setiap 120 km bagi barang Tingkat I (murah), 84 km untuk Tingkat II (umum), 58,8 km untuk Tingkat III (mahal), dan 29,4 km untuk Tingkat IV (bangsawan)."
+ },
+ "dedff028b5cd": {
+  "en": "<strong>Where it comes from:</strong> fishermen from Sanbi gathered them at first, but once the Cruros showed up, it became their task, since it was close to free labor.",
+  "t": "<strong>Asal:</strong> awalnya nelayan Sanbi yang mengumpulkannya, tapi begitu para Cruro muncul, itu menjadi tugas mereka, karena nyaris seperti tenaga kerja gratis."
  },
  "e159c87db02d": {
   "en": "Balls are the standardized currency as determined by the Prosperity Treaty.",
   "t": "Bola adalah mata uang standar sebagaimana ditetapkan oleh Perjanjian Kemakmuran."
  },
+ "e22cccd20b15": {
+  "en": "Apprentice",
+  "t": "Magang"
+ },
+ "e4bd9e6e33ad": {
+  "en": "To get a feel for the value, the author's spreadsheet counts 1 Pearl as about 1 US dollar.",
+  "t": "Untuk merasakan nilainya, spreadsheet sang penulis menghitung 1 Pearl kira-kira sama dengan 1 dolar AS."
+ },
+ "e531fa700ac9": {
+  "en": "Freeish and Tolerideme regions",
+  "t": "Wilayah Freeish dan Tolerideme"
+ },
+ "e68b25011dad": {
+  "en": "The average weekly pay assumes pay for every work day: 4 a week, with Forrday off. Some professions don't accrue pay on days off.",
+  "t": "Upah mingguan rata-rata mengasumsikan upah untuk setiap hari kerja: 4 hari seminggu, dengan Forrday libur. Sebagian pekerjaan tidak menghasilkan upah di hari libur."
+ },
+ "e752de704b66": {
+  "en": "Mainly exports",
+  "t": "Ekspor utama"
+ },
  "eb60618ad04c": {
   "en": "Sigil Rings",
   "t": "Cincin Sigil"
+ },
+ "ec5ccdb787af": {
+  "en": "A ton of flora and fauna",
+  "t": "Banyak sekali flora dan fauna"
+ },
+ "ee4f72170e2b": {
+  "en": "<strong>What it buys:</strong> a fully grown tamed egua, properties, slavery contracts, guilds, specialized education, Tier IX+ Soul Energy.",
+  "t": "<strong>Yang bisa dibeli:</strong> egua jinak yang sudah dewasa penuh, properti, kontrak perbudakan, gilda, pendidikan khusus, Energi Jiwa Tingkat IX ke atas."
+ },
+ "f0d211264deb": {
+  "en": "Apprentice, per hour",
+  "t": "Magang, per jam"
+ },
+ "f118bc6e6f02": {
+  "en": "Freeish and Sanbi regions",
+  "t": "Wilayah Freeish dan Sanbi"
+ },
+ "f2ddf5a1dc47": {
+  "en": "Pay in Pearls, by Profession Tier:",
+  "t": "Upah dalam Pearl, menurut Tingkat Pekerjaan:"
+ },
+ "fb18d7612151": {
+  "en": "Apprentice, per day",
+  "t": "Magang, per hari"
+ },
+ "fb2d8283aad6": {
+  "en": "A region has a comparative advantage when its members can carry out a particular economic activity more efficiently than another region's. The Distance Cost Tier (D.C.T, the cost of moving goods) must be accounted for before claiming one either way.",
+  "t": "Sebuah wilayah punya keunggulan komparatif ketika anggotanya bisa menjalankan kegiatan ekonomi tertentu lebih efisien daripada anggota wilayah lain. Distance Cost Tier (D.C.T, biaya memindahkan barang) harus diperhitungkan sebelum menyatakannya ke arah mana pun."
  }
 }
