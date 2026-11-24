@@ -1,4 +1,36 @@
 {
+ "0044e37fe1da": {
+  "en": "<strong>Sanbi Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>सनबी का मांस</strong>: क़साई का काटा हुआ मांस।"
+ },
+ "014e2ebcc276": {
+  "en": "A classic case of convergent evolution.",
+  "t": "अभिसारी विकास का एक क्लासिक मामला।"
+ },
+ "0291cae0f9b8": {
+  "en": "<strong>Interface:</strong> Hair on the head and chin.",
+  "t": "<strong>इंटरफ़ेस:</strong> सिर और ठोड़ी के बाल।"
+ },
+ "039f5679c3f6": {
+  "en": "<strong>Hide/Fur</strong>: Hide/fur, prepared by a butcher for artisans to work on; incredibly flexible to work with.",
+  "t": "<strong>खाल/फ़र</strong>: खाल/फ़र, जिसे क़साई कारीगरों के काम के लिए तैयार करता है; इस पर काम करना बेहद लचीला है।"
+ },
+ "0469898a5d6d": {
+  "en": "<strong>Ptaina Oil</strong>: Used in beer, in food, for greasing things, etc.",
+  "t": "<strong>प्टाइना का तेल</strong>: बीयर में, खाने में, चीज़ों को चिकना करने वग़ैरह में इस्तेमाल होता है।"
+ },
+ "046cbe8c1a3a": {
+  "en": "~15 km",
+  "t": "~15 km"
+ },
+ "04e62b3dcc96": {
+  "en": "<strong>Barina Lungs</strong>: Useful for nari gels.",
+  "t": "<strong>बरीना के फेफड़े</strong>: नरी जेल के लिए काम के।"
+ },
+ "04ee21f55656": {
+  "en": "<strong>Legunia Egg</strong>: More of an upscale culinary ingredient than everyday food, because of its stronger taste and smell.",
+  "t": "<strong>लेगुनिया का अंडा</strong>: रोज़ के खाने से ज़्यादा ऊँचे दर्जे का पाक-सामान, अपने तेज़ स्वाद और गंध की वजह से।"
+ },
  "053d9599488e": {
   "en": "<strong>Skills:</strong> Its carapace can flip between Walking Heart modes at will, activating the Walking Heart by inflating it with blood, though it can't seem to keep that up for long.",
   "t": "<strong>कौशल:</strong> इसका कवच अपनी मर्ज़ी से वॉकिंग हार्ट के रूपों के बीच पलट सकता है, ख़ून से फुलाकर वॉकिंग हार्ट को सक्रिय करते हुए, हालाँकि लगता है यह इसे ज़्यादा देर नहीं रख पाता।"
@@ -7,9 +39,53 @@
   "en": "Fauna",
   "t": "जीव-जंतु"
  },
+ "06051c61df2d": {
+  "en": "<strong>Skills:</strong> Gravity Down; Oil Up.",
+  "t": "<strong>कौशल:</strong> ग्रैविटी डाउन; ऑयल अप।"
+ },
+ "0658a4d6291b": {
+  "en": "<strong>Interface:</strong> Spikes on back; See Races &gt; Cruro.",
+  "t": "<strong>इंटरफ़ेस:</strong> पीठ के काँटे; नस्लें &gt; क्रूरो देखो।"
+ },
+ "0661c4022922": {
+  "en": "<strong>Tastes like:</strong> Chewy, rubbery chicken.",
+  "t": "<strong>स्वाद:</strong> चबाने में सख़्त, रबर जैसा मुर्ग़ा।"
+ },
+ "06be860b4b3e": {
+  "en": "<strong>Food:</strong> Berries &amp; Fruits.",
+  "t": "<strong>भोजन:</strong> बेरियाँ &amp; फल।"
+ },
  "07435648d9f3": {
   "en": "Cinikas, meanwhile, are not exactly as extraordinary unless there's a swarm of them and you're a sweaty Wozefaries or Sorefaries; then you're big trouble as they will swarm you, paralyze you, and lick your sweet sweat. The soul energy interface of a single Cinika is not that powerful, but when there's a swarm of them, they might overwhelm even a Hifuna beast. They also behave distinctly differently in reaction to pressure and humidity changes—actually, that is extraordinary! If you see them make a tight-closed swarm and flutter around like they are seeking shelter, then for sure, there's a nasty storm brewing on the horizon.",
   "t": "वहीं सिनिका कुछ ख़ास असाधारण नहीं हैं, जब तक कि उनका झुंड न हो और तुम पसीने से तर वोज़फ़ेरीज़ या सोरफ़ेरीज़ न हो; तब तुम बड़ी मुसीबत में हो, क्योंकि वे तुम पर छा जाएँगी, तुम्हें सुन्न कर देंगी और तुम्हारा मीठा पसीना चाटेंगी। एक अकेली सिनिका का आत्मा-ऊर्जा इंटरफ़ेस बहुत ताक़तवर नहीं, पर झुंड में वे हिफ़ूना के किसी दरिंदे को भी दबोच सकती हैं। वे दाब और नमी के बदलावों पर भी साफ़ तौर पर अलग बर्ताव करती हैं—यह तो असल में कमाल की बात है! अगर तुम उन्हें घना झुंड बनाकर ऐसे फड़फड़ाते देखो जैसे पनाह ढूँढ रही हों, तो क्षितिज पर एक भयानक तूफ़ान आ रहा है, पक्का।"
+ },
+ "0753b4a20179": {
+  "en": "~35 km",
+  "t": "~35 km"
+ },
+ "080be8501b1b": {
+  "en": "<strong>Skills:</strong> Sense Surroundings; Communicate in radio waves; Emit strong radio waves that cause migraines in most people; Inflate/expand their lips, then rupture them out of their bodies as fake prey. Usually as an escape maneuver; They can do the same with their tails and grow them extra long to evade beasts/hunters.",
+  "t": "<strong>कौशल:</strong> आसपास भाँपना; रेडियो तरंगों में बात करना; तेज़ रेडियो तरंगें छोड़ना जिनसे ज़्यादातर लोगों को माइग्रेन होता है; अपने होंठ फुलाना/फैलाना, फिर उन्हें नक़ली शिकार की तरह शरीर से फाड़कर बाहर निकालना। आम तौर पर बचने की चाल के तौर पर; यही वे अपनी पूँछों के साथ भी कर सकती हैं और दरिंदों/शिकारियों से बचने के लिए उन्हें बहुत लंबा बढ़ा सकती हैं।"
+ },
+ "08187a6acb2d": {
+  "en": "<strong>Wozen Nose</strong>: Used in nari gels.",
+  "t": "<strong>वोज़ेन की नाक</strong>: नरी जेल में इस्तेमाल होती है।"
+ },
+ "085a75e4aa78": {
+  "en": "<strong>Reproduction:</strong> Every 6 months.",
+  "t": "<strong>प्रजनन:</strong> हर 6 महीने।"
+ },
+ "08756e3e421f": {
+  "en": "<strong>Tamed Legunia</strong>: A great pet, and that's about it: it flees at the first sign of danger, and it isn't very smart or social.",
+  "t": "<strong>पालतू लेगुनिया</strong>: बढ़िया पालतू, और बस इतना ही: ख़तरे के पहले इशारे पर भाग जाता है, और न बहुत होशियार है न मिलनसार।"
+ },
+ "08b1ecdb061a": {
+  "en": "<strong>Fihi Corpse</strong>: Freshly killed nearby and stored in a wagon with ice, ready for the butcher shops or to be shipped out.",
+  "t": "<strong>फ़ीही की लाश</strong>: पास में ताज़ा मारी गई और बर्फ़ के साथ एक वैगन में रखी हुई, क़साई की दुकानों के लिए या बाहर भेजने के लिए तैयार।"
+ },
+ "08c2c67ed670": {
+  "en": "<strong>Tamed Fanchaki</strong>: Some keep them as pets, but they're mostly livestock. Some use them as bait for predators, especially for their Soul Energy abilities.",
+  "t": "<strong>पालतू फ़ानचाकी</strong>: कुछ इन्हें पालतू रखते हैं, पर ज़्यादातर ये मवेशी हैं। कुछ इन्हें शिकारियों के लिए चारे के तौर पर इस्तेमाल करते हैं, ख़ासकर इनकी आत्मा-ऊर्जा क्षमताओं के लिए।"
  },
  "08cd94ec60ad": {
   "en": "Barina",
@@ -23,13 +99,65 @@
   "en": "Crocus is the progenitor species of the Cruros. Nothing exactly special about them other than they look hella cute, chunky, and bite like a mean motherfucker. Someone said they tamed one and got it as a pet, but there's no recorded proof. If any crazy scientists figure it out, Forway will have a new pet craze.",
   "t": "क्रोकस क्रूरो की पूर्वज प्रजाति है। उनमें कुछ ख़ास नहीं, सिवाय इसके कि वे बेहद प्यारे, गोल-मटोल हैं और कमीनों की तरह काटते हैं। किसी ने कहा था कि उसने एक को पालतू बनाकर रखा है, पर कोई लिखित सबूत नहीं। अगर कोई सनकी वैज्ञानिक इसमें कामयाब हो गया, तो फ़ॉरवे में पालतू जानवरों का एक नया जुनून छा जाएगा।"
  },
+ "0b2c64e4b62c": {
+  "en": "<strong>Reproduction:</strong> About 10 are born every few months.",
+  "t": "<strong>प्रजनन:</strong> हर कुछ महीनों में लगभग 10 पैदा होते हैं।"
+ },
+ "0bf9b2f261b8": {
+  "en": "<strong>Barina Venom Glands</strong>: Used in nari gels.",
+  "t": "<strong>बरीना की ज़हर-ग्रंथियाँ</strong>: नरी जेल में इस्तेमाल होती हैं।"
+ },
  "0c24c85d2564": {
   "en": "<strong>Food:</strong> Flower nectar.",
   "t": "<strong>भोजन:</strong> फूलों का मकरंद।"
  },
+ "0c8277ae3994": {
+  "en": "<strong>Reproduction:</strong> Every few months.",
+  "t": "<strong>प्रजनन:</strong> हर कुछ महीने।"
+ },
+ "0dbf69cc4c24": {
+  "en": "<strong>Reproduction:</strong> Tens of Sanbi fish a year.",
+  "t": "<strong>प्रजनन:</strong> साल में दसियों सनबी मछलियाँ।"
+ },
+ "115bbcf5dd6f": {
+  "en": "<strong>Interface:</strong> Jumping Feet; Microwave detection (whiskers); Can spot objects in the walls/dirt. It’s like an infrared camera of sorts.",
+  "t": "<strong>इंटरफ़ेस:</strong> उछलने वाले पैर; माइक्रोवेव भाँपना (मूँछें); दीवारों/मिट्टी के भीतर की चीज़ें देख सकता है। यह एक तरह के इन्फ्रारेड कैमरे जैसा है।"
+ },
+ "11ec1babc73d": {
+  "en": "<strong>Interface:</strong> Wattle.",
+  "t": "<strong>इंटरफ़ेस:</strong> गलकंबल।"
+ },
+ "1281489bcdfb": {
+  "en": "<strong>Skills:</strong> High Jump; Super Speed.",
+  "t": "<strong>कौशल:</strong> ऊँची छलाँग; तेज़ रफ़्तार।"
+ },
+ "128ffeb49119": {
+  "en": "<strong>Wooly Dried Milk</strong>: Milk often dried for transport to the rest of the kingdoms.",
+  "t": "<strong>वूली का सूखा दूध</strong>: बाक़ी राज्यों तक ले जाने के लिए अक्सर सुखाया गया दूध।"
+ },
  "140e208733de": {
   "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Fauna.md\">Legacy/Behind The Scenes/World Lore/Fauna.md</a>",
   "t": "स्रोत: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Fauna.md\">Legacy/Behind The Scenes/World Lore/Fauna.md</a>"
+ },
+ "151d88477aac": {
+  "en": "<strong>Tastes like:</strong> Chicken meat near the bone, fattier and stronger.",
+  "t": "<strong>स्वाद:</strong> हड्डी के पास का मुर्ग़े का मांस, ज़्यादा चर्बी वाला और तेज़।"
+ },
+ "1542647c4a28": {
+  "en": "<strong>Habitat:</strong> Oceans, mostly near deltas.",
+  "t": "<strong>पर्यावास:</strong> समुद्र, ज़्यादातर डेल्टाओं के पास।"
+ },
+ "16695cfd09d5": {
+  "en": "<strong>Skills:</strong> Speedy Reaction; Fake Body.",
+  "t": "<strong>कौशल:</strong> तेज़ प्रतिक्रिया; फ़ेक बॉडी।"
+ },
+ "1690d73235ec": {
+  "en": "<strong>Legunia Fat</strong>: A delicacy, like duck fat, used in lots of cooking.",
+  "t": "<strong>लेगुनिया की चर्बी</strong>: बत्तख़ की चर्बी जैसी एक नफ़ीस चीज़, बहुत-से पकवानों में इस्तेमाल होती है।"
+ },
+ "16e720a9a4f9": {
+  "en": "<strong>Tastes like:</strong> Chicken, but hard, only good for stew, and it doesn't freeze well. It smells clean and mild, almost like fresh tuna without the ocean smell: more like faint wet grass, like being downwind of someone cutting grass.",
+  "t": "<strong>स्वाद:</strong> मुर्ग़ा, पर सख़्त, सिर्फ़ स्टू के लायक़, और अच्छे से जमता नहीं। इसकी गंध साफ़ और हल्की है, लगभग समुद्र की गंध के बिना ताज़ा टूना जैसी: ज़्यादा हल्की गीली घास जैसी, जैसे घास काटते किसी की हवा की दिशा में खड़े हो।"
  },
  "17d4b0096fcf": {
   "en": "Lansha",
@@ -43,17 +171,53 @@
   "en": "Ptaina",
   "t": "प्टाइना"
  },
+ "19b16e9c735f": {
+  "en": "<strong>Inspired by:</strong> Fennec Fox; Horned Lizard.",
+  "t": "<strong>प्रेरणा:</strong> फ़ेनेक लोमड़ी; सींग वाली छिपकली।"
+ },
+ "1a705d073f31": {
+  "en": "<strong>Intelligence:</strong> Alligator.",
+  "t": "<strong>बुद्धि:</strong> घड़ियाल।"
+ },
  "1b00bcc07773": {
   "en": "Winga is famous for being a social companion with a remarkable memory of landscapes and people's faces; they are the backbone of the interkingdom Winga mail courier services. Some, on the other hand, find its sweet meat a delicacy! Even the wild ones taste just as great too! Watch out for their interface if you decide to hunt them yourself—they will shriek so loud to make your ears bleed to strengthen their beak and claws to cut through anything to break free. Oh! Almost forgot! You will be in deep shit if you hunt down a Winga working for Forway.",
   "t": "विंगा नज़ारों और चेहरों की ग़ज़ब की याददाश्त वाला एक मिलनसार साथी होने के लिए मशहूर है; यह राज्यों के बीच विंगा डाक-सेवाओं की रीढ़ है। वहीं दूसरों को इसका मीठा मांस लज़ीज़ लगता है! जंगली वाले भी उतने ही अच्छे हैं! अगर तुम ख़ुद उनका शिकार करने का फ़ैसला करो, तो उनके इंटरफ़ेस से सावधान रहना—वे इतनी तीखी चीख़ें मारेंगे कि तुम्हारे कानों से ख़ून निकल आए, ताकि अपनी चोंच और पंजों को मज़बूत करके आज़ाद होने के लिए कुछ भी काट डालें। अरे! मैं भूल ही गया! अगर तुमने फ़ॉरवे के लिए काम करने वाले किसी विंगा का शिकार किया, तो तुम गले तक मुसीबत में होगे।"
+ },
+ "1b24bb431e26": {
+  "en": "<strong>Habitat:</strong> Throughout the four kingdoms and their cities, and in the wild, mostly in open fields.",
+  "t": "<strong>पर्यावास:</strong> चारों राज्यों और उनके शहरों में, और जंगल में, ज़्यादातर खुले मैदानों में।"
  },
  "1e204423cd31": {
   "en": "Barina: a small black-and-yellow frog-like creature with a spiny blue tail, at about knee height.",
   "t": "बरीना: नीली काँटेदार पूँछ वाला एक छोटा काला-पीला मेंढक जैसा जीव, लगभग घुटने तक ऊँचा।"
  },
+ "1e4f10ae7904": {
+  "en": "<strong>Tamed Adult Egua</strong>: An adult Egua, ready to work.",
+  "t": "<strong>पालतू बड़ा एगुआ</strong>: एक बड़ा एगुआ, काम के लिए तैयार।"
+ },
+ "1ee37fbe724d": {
+  "en": "<strong>Habitat:</strong> Nowadays they only live in the Gandew Kingdom, and in the wild in the high mountains that border the desert (Old Fuhrair), at about 4 to 6 km. They would suffocate in their own fur at altitudes &lt; 4km, or the humidity would spoil their fur. They were meant for high altitudes.",
+  "t": "<strong>पर्यावास:</strong> आजकल ये सिर्फ़ गैंड्यू राज्य में रहते हैं, और जंगल में रेगिस्तान (ओल्ड फ़ुरेयर) से लगे ऊँचे पहाड़ों में, लगभग 4 से 6 km पर। &lt; 4km की ऊँचाई पर ये अपने ही फ़र में दम घुटने से मर जाएँगे, या नमी उनका फ़र ख़राब कर देगी। ये ऊँचाई के लिए ही बने थे।"
+ },
+ "205eb12c794b": {
+  "en": "<strong>Skills:</strong> Shooting the spikes off their back in self-defense; Harden Skin; Invisibility (bending light around themselves, slightly distorted), which often lasts for hours, since they usually stay still.",
+  "t": "<strong>कौशल:</strong> आत्मरक्षा में पीठ के काँटे दाग़ना; त्वचा सख़्त करना; अदृश्यता (अपने चारों ओर रोशनी मोड़ना, कुछ विकृत), जो अक्सर घंटों चलती है, क्योंकि ये आम तौर पर स्थिर रहते हैं।"
+ },
+ "20c0fb61694d": {
+  "en": "<strong>Ptaina Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>प्टाइना का मांस</strong>: क़साई का काटा हुआ मांस।"
+ },
  "20c90d695153": {
   "en": "Fauna · #HusbandOutWorld",
   "t": "जीव-जंतु · #HusbandOutWorld"
+ },
+ "22ae8bca0cdd": {
+  "en": "<strong>Interface:</strong> Eyes/Ears.",
+  "t": "<strong>इंटरफ़ेस:</strong> आँखें/कान।"
+ },
+ "23ec7a1af084": {
+  "en": "<strong>Wozen Jerky</strong>: Jerky prepared by a butcher. Not really desirable by many people due to its strong gamey flavor. Usually served up to poorer people.",
+  "t": "<strong>वोज़ेन का सूखा मांस</strong>: क़साई का बनाया सूखा मांस। अपने तेज़, जंगली स्वाद की वजह से बहुत लोग इसे ज़्यादा पसंद नहीं करते। आम तौर पर ग़रीब लोगों को परोसा जाता है।"
  },
  "25be17d8e5c2": {
   "en": "<strong>Cuisine</strong>: See Freeish Kingdom.",
@@ -63,21 +227,85 @@
   "en": "Fanchaki",
   "t": "फ़ानचाकी"
  },
+ "260fc1f74452": {
+  "en": "<strong>Reproduction:</strong> Every year; 7 eggs laid, of which only a few reach adulthood.",
+  "t": "<strong>प्रजनन:</strong> हर साल; 7 अंडे दिए जाते हैं, जिनमें से कुछ ही बड़े हो पाते हैं।"
+ },
+ "26417dd405ab": {
+  "en": "<strong>Tastes like:</strong> Light chicken or white fish.",
+  "t": "<strong>स्वाद:</strong> हल्का मुर्ग़ा या सफ़ेद मछली।"
+ },
+ "2680a4a5913e": {
+  "en": "~7 km/h",
+  "t": "~7 km/h"
+ },
+ "268e9914ffdc": {
+  "en": "<strong>Sanbi Fish Roe</strong>: A treat for some.",
+  "t": "<strong>सनबी मछली के अंडे</strong>: कुछ लोगों के लिए एक दावत।"
+ },
+ "275857ac51bd": {
+  "en": "<strong>Tastes like:</strong> Honey turkey breast, but not as tender.",
+  "t": "<strong>स्वाद:</strong> शहद वाला टर्की का सीना, पर उतना नरम नहीं।"
+ },
+ "27b8bbffa474": {
+  "en": "~10 km/h",
+  "t": "~10 km/h"
+ },
+ "27c5117f780e": {
+  "en": "<strong>Fihi Skin</strong>: Skin prepared by a butcher. A common treat of the people in the lower regions. Usually fried.",
+  "t": "<strong>फ़ीही की त्वचा</strong>: क़साई की तैयार की हुई त्वचा। निचले इलाक़ों के लोगों की एक आम दावत। आम तौर पर तली हुई।"
+ },
+ "2808f68554ff": {
+  "en": "<strong>Fatupari Meat</strong>: Meat cut by a butcher. Cheap, since most people hate it; it's mostly eaten by poorer people, or by some weirdos who swear by its taste.",
+  "t": "<strong>फ़ातुपारी का मांस</strong>: क़साई का काटा हुआ मांस। सस्ता, क्योंकि ज़्यादातर लोग इससे नफ़रत करते हैं; इसे ज़्यादातर ग़रीब लोग खाते हैं, या कुछ अजीब लोग जो इसके स्वाद की क़सम खाते हैं।"
+ },
+ "281967452d11": {
+  "en": "<strong>Wooly Hide/Fur/Pelt</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>वूली की खाल/फ़र/पोस्तीन</strong>: खाल/फ़र, जिसे क़साई कारीगरों के काम के लिए तैयार करता है।"
+ },
  "28c2e029ba4d": {
   "en": "<strong>Habitat:</strong> Ponds. Someone dumped Walking Hearts into a pond near the Freeish Kingdom; the worms ate them, and it altered their souls.",
   "t": "<strong>पर्यावास:</strong> तालाब। किसी ने फ़्रीइश राज्य के पास एक तालाब में वॉकिंग हार्ट फेंक दिए; कीड़ों ने उन्हें खा लिया, और इससे उनकी आत्माएँ बदल गईं।"
+ },
+ "28e799875885": {
+  "en": "<strong>Reproduction:</strong> One to three Woolies a year.",
+  "t": "<strong>प्रजनन:</strong> साल में एक से तीन वूली।"
  },
  "2c129c23a434": {
   "en": "Legunia is a desert bird that mimics a sand worm in everything it does, except it eats berries and such instead of other mammals. You can use the hump in their backs as an easy “indicator species” of how survivable the desert currently is. If their hump is deflatable, you should get out while you still can, unless you know exactly what you’re doing. Hunting them down for food and water is easier said than done. Then can easily be miles away before your second shot.",
   "t": "लेगुनिया एक रेगिस्तानी पक्षी है जो हर काम में सैंड वर्म की नक़ल करता है, बस दूसरे स्तनधारियों के बजाय बेरियाँ वग़ैरह खाता है। तुम उसकी पीठ के कूबड़ को रेगिस्तान के मौजूदा रहने लायक़ होने की एक आसान \"सूचक प्रजाति\" के तौर पर इस्तेमाल कर सकते हो। अगर उनका कूबड़ पिचका हुआ है, तो जब तक निकल सकते हो निकल जाओ, जब तक तुम्हें ठीक-ठीक पता न हो कि क्या कर रहे हो। खाने और पानी के लिए उनका शिकार कहने में आसान है, करने में नहीं। तुम्हारे दूसरे वार से पहले वे आसानी से किलोमीटरों दूर हो सकती हैं।"
  },
+ "2d2cb022bc3d": {
+  "en": "Speed",
+  "t": "रफ़्तार"
+ },
  "2e7c4501a51f": {
   "en": "<strong>Skills:</strong> Water Walk; Dirt Repel; Increase/decrease size of legs; Eject their privates or intestines through their asshole (very specific, but that's how they got away from certain predators).",
   "t": "<strong>कौशल:</strong> पानी पर चलना; मिट्टी को दूर धकेलना; टाँगों का आकार बढ़ाना/घटाना; अपने गुप्तांग या आँतें अपनी गांड से बाहर फेंकना (बहुत ख़ास, पर इसी तरह वे कुछ शिकारियों से बच निकले)।"
  },
+ "2ec7dfe9217b": {
+  "en": "<strong>Skills:</strong> Distant Hearing; Cloak detection; Blood Shield (self-defense only).",
+  "t": "<strong>कौशल:</strong> दूर तक सुनना; छिपाव भाँपना; ख़ून की ढाल (सिर्फ़ आत्मरक्षा में)।"
+ },
+ "2f12699f173c": {
+  "en": "<strong>Skills:</strong> Launching themselves at a target; Air Buoyancy.",
+  "t": "<strong>कौशल:</strong> निशाने पर ख़ुद को झपटाना; हवा में तैरना।"
+ },
+ "305016cbc048": {
+  "en": "<strong>Sayna Hide/Carapace</strong>: Hide/fur, prepared by a butcher for artisans to work on. Rare to find.",
+  "t": "<strong>सायना की खाल/कवच</strong>: खाल/फ़र, जिसे क़साई कारीगरों के काम के लिए तैयार करता है। मिलना दुर्लभ।"
+ },
  "3105ba0cdecb": {
   "en": "Wozens are pests that wander mostly in the denser forests around Freeish, but it is not unusual to see them attack people at night in the plains close to Forway. They are predators, so their interface usage makes them near impossible to be seen or heard as they prowl around. Once they decide on a victim, they can jump several times their height, and once their jaw shuts tight on your flesh, there's no letting go as it casts attraction on its teeth. Their pelt and some body parts like eyes are certainly valuable, but its incredibly tough and gamey meat is not—except for people in the slums, or poorer villages, so if you have space to haul it to your nearest butcher, then do so! Some places even consider it as charitable tax write-offs!",
   "t": "वोज़ेन ऐसे कीट हैं जो ज़्यादातर फ़्रीइश के आसपास के घने जंगलों में घूमते हैं, पर फ़ॉरवे के पास के मैदानों में रात को लोगों पर उनका हमला कोई अनोखी बात नहीं। वे शिकारी हैं, और अपने इंटरफ़ेस के इस्तेमाल से घात लगाते समय उन्हें देखना या सुनना लगभग नामुमकिन हो जाता है। एक बार शिकार चुन लेने के बाद, वे अपनी ऊँचाई से कई गुना उछल सकते हैं, और एक बार उनका जबड़ा तुम्हारे मांस पर बंद हो गया, तो वे छोड़ते नहीं, क्योंकि वे अपने दाँतों पर खिंचाव का जादू चलाते हैं। उनकी फ़र और आँखों जैसे शरीर के कुछ हिस्से क़ीमती ज़रूर हैं, पर शिकार जैसे स्वाद वाला उनका बेहद सख़्त मांस नहीं—सिवाय बस्तियों या ग़रीब गाँवों के लोगों के लिए, तो अगर तुम्हारे पास उसे सबसे पास के क़साई तक घसीटने की जगह हो, तो ज़रूर करो! कुछ जगहें तो इसे कर-छूट वाला दान भी मानती हैं!"
+ },
+ "31cef8928785": {
+  "en": "<strong>Food:</strong> Primarily Gyut Berries.",
+  "t": "<strong>भोजन:</strong> मुख्य रूप से ग्युट बेरियाँ।"
+ },
+ "322914c82758": {
+  "en": "<strong>Food:</strong> Insects and small rodents.",
+  "t": "<strong>भोजन:</strong> कीड़े-मकोड़े और छोटे कुतरने वाले जीव।"
  },
  "339c23234c8e": {
   "en": "Fatupari, based on their size, would assume they would be classified as Beasts, but not only are they kinda dumb relative to other beasts, but they are also easier to dispatch than one thinks. If you tear their pink webbing, they can't use any magic against you. Or you can fight them fairly if you want to take it up a notch for whatever reason. Either way, some random weirdos swear by its distinctively bitter taste—like soaking wild pheasant breasts in quinine and cooking it until it's stringy and tough for shits and giggles. At least their hide and webbing are usual for a myriad of things for their rugged and water-repellant properties; plus, it looks pretty snazzy too!",
@@ -95,6 +323,34 @@
   "en": "Monikas are loner butterflies tightly associated with death and decay. Their interface is considered the best at identifying corpses, especially if the corpse is tied to a soul pool with a lot of soul energy. They also have the ability to turn desired volatile compounds of scents into a visual representation that aids in understanding its concentration and source—known as Monika sight, a nari gel concoction customized with the desired volatile compound, turned even exceptional if paired with Wozen Smell for both finding things like dead adventurers, detect poisonous things like traps, or even track down live animals or humans by using the droppings or sweat. Adventurers on the brink of death often implore to be found by these peaceful-looking butterflies—at least some do until they remember the cost of revival.",
   "t": "मोनिका अकेली रहने वाली तितलियाँ हैं जो मौत और सड़न से गहराई से जुड़ी हैं। उनका इंटरफ़ेस लाशों की पहचान के लिए सबसे अच्छा माना जाता है, ख़ासकर अगर लाश किसी आत्मा-भंडार से जुड़ी हो जिसमें भरपूर आत्मा-ऊर्जा हो। उनमें चाही गई गंधवाले उड़नशील यौगिकों को एक दृश्य रूप में बदलने की क्षमता भी है, जो उनकी सांद्रता और स्रोत समझने में मदद करता है—इसे मोनिका साइट कहते हैं, चाहे गए उड़नशील यौगिक के साथ बनी एक ख़ास नरी जेल, जो वोज़ेन स्मेल के साथ मिलकर तो लाजवाब हो जाती है, चाहे मरे साहसियों जैसी चीज़ें ढूँढनी हों, जाल जैसी ज़हरीली चीज़ें भाँपनी हों, या ज़िंदा जानवरों या इंसानों का उनके मल या पसीने से पीछा करना हो। मौत की दहलीज़ पर खड़े साहसी अक्सर गिड़गिड़ाते हैं कि ये शांत दिखने वाली तितलियाँ उन्हें ढूँढ लें—कम से कम कुछ, जब तक उन्हें फिर से ज़िंदा किए जाने का ख़र्च याद नहीं आता।"
  },
+ "3866bfafb0fe": {
+  "en": "<strong>Intelligence:</strong> Like a rabbit or so. Tends to be in groups. Tends to be defensive/run away. When you get close to it, it tends to hiss. If attacked, it screams like a dying human.",
+  "t": "<strong>बुद्धि:</strong> ख़रगोश जैसी या उसके आसपास। समूहों में रहने की प्रवृत्ति। बचाव करने/भाग जाने की प्रवृत्ति। जब तुम इसके पास जाओ, तो यह फुफकारता है। हमला होने पर, यह मरते इंसान की तरह चीख़ता है।"
+ },
+ "3866f1ec044e": {
+  "en": "~30 km/h",
+  "t": "~30 km/h"
+ },
+ "3ba25d3a3411": {
+  "en": "Created by a Buhraies who fell in love with a Lishie and had to prove himself, with something that would help the Lishies, to be accepted into the mountains. A hybrid of cow and sheep DNA that only thrives at high altitudes, where it's colder and drier. Its milk and wool are a staple of Gandew's economy, and so is its meat, from older females, or males without the best genes or health. When dying or giving birth, it lets out a massive scream that can be heard for kilometers.",
+  "t": "एक बुरेज़ ने बनाया जिसे एक लिशी से प्यार हो गया और पहाड़ों में स्वीकार किए जाने के लिए उसे कुछ ऐसा बनाकर ख़ुद को साबित करना पड़ा जो लिशीज़ की मदद करे। गाय और भेड़ के DNA का एक संकर जो सिर्फ़ ऊँचाई पर पनपता है, जहाँ ज़्यादा ठंड और सूखापन है। इसका दूध और ऊन गैंड्यू की अर्थव्यवस्था की मुख्य चीज़ें हैं, और इसका मांस भी, बूढ़ी मादाओं से, या बेहतरीन जीन या सेहत न रखने वाले नरों से। मरते वक़्त या जन्म देते वक़्त यह एक ज़बरदस्त चीख़ निकालता है जो किलोमीटरों दूर सुनाई देती है।"
+ },
+ "3c194790829e": {
+  "en": "<strong>Inspired by:</strong> Kushlukia.",
+  "t": "<strong>प्रेरणा:</strong> कुशलुकिया।"
+ },
+ "3cd1c71de2fe": {
+  "en": "<strong>Wozen Meat</strong>: Meat cut by a butcher. Not very desirable, so it's mostly sold as a by-product of killing Wozens for their pelts.",
+  "t": "<strong>वोज़ेन का मांस</strong>: क़साई का काटा हुआ मांस। ज़्यादा पसंद नहीं किया जाता, तो ज़्यादातर वोज़ेन्स को उनकी पोस्तीन के लिए मारने के उप-उत्पाद के तौर पर बिकता है।"
+ },
+ "3d3824559256": {
+  "en": "<strong>Food:</strong> Gulps down smaller fish.",
+  "t": "<strong>भोजन:</strong> छोटी मछलियाँ निगल जाती है।"
+ },
+ "3e49d79b0624": {
+  "en": "<strong>Inspired by:</strong> Babirusa.",
+  "t": "<strong>प्रेरणा:</strong> बाबिरूसा।"
+ },
  "3e8bdb039dee": {
   "en": "Legunia: a tall brown-and-cream bird with a long neck and a fan-like crest.",
   "t": "लेगुनिया: लंबी गर्दन और पंखे जैसी कलगी वाला एक बड़ा भूरा-क्रीम पक्षी।"
@@ -103,17 +359,93 @@
   "en": "Male and female Sorenos: small round brown rodents with white bellies, at about knee height.",
   "t": "नर और मादा सोरेनो: सफ़ेद पेट वाले छोटे, भूरे, गोल कुतरने वाले जीव, लगभग घुटने तक ऊँचे।"
  },
+ "4070ae935aaf": {
+  "en": "<strong>Tamed Child Egua</strong>: Can work, but with smaller loads (about 0.4 of an adult's; see Load and strain above). Adventurers tend to buy young Eguas to carry some of their gear and loot as they walk alongside them.",
+  "t": "<strong>पालतू बच्चा एगुआ</strong>: काम कर सकता है, पर कम भार के साथ (एक बड़े का लगभग 0.4; ऊपर भार और खिंचाव देखो)। साहसी अक्सर अपना कुछ साज़ो-सामान और लूट ढोने के लिए जवान एगुआ ख़रीदते हैं, जबकि ख़ुद साथ-साथ पैदल चलते हैं।"
+ },
+ "42052b2fa751": {
+  "en": "<strong>Reproduction:</strong> Every year; ~3 eggs laid, of which only a few reach adulthood.",
+  "t": "<strong>प्रजनन:</strong> हर साल; ~3 अंडे दिए जाते हैं, जिनमें से कुछ ही बड़े हो पाते हैं।"
+ },
+ "445fca514b10": {
+  "en": "<strong>Skills:</strong> Shocking targets in front of them.",
+  "t": "<strong>कौशल:</strong> अपने सामने के निशानों को झटका देना।"
+ },
  "4519d490ec5c": {
   "en": "<strong>Tastes like:</strong> Dirt. Very earthy.",
   "t": "<strong>स्वाद:</strong> मिट्टी। बहुत मिट्टी जैसा।"
+ },
+ "4556ee6c7b54": {
+  "en": "<strong>Food:</strong> Rodents.",
+  "t": "<strong>भोजन:</strong> कुतरने वाले जीव।"
  },
  "4647df281022": {
   "en": "An adult Egua weighs about 900 kg. <strong>Strain</strong> is the share of that body weight it's working against: more weight means more strain, and so does going faster. Up to 10% strain is comfortable all day; 20% is the maximum.",
   "t": "एक बड़ा एगुआ लगभग 900 kg का होता है। <strong>खिंचाव</strong> उस शरीर-भार का वह हिस्सा है जिसके ख़िलाफ़ वह काम कर रहा है: ज़्यादा वज़न का मतलब ज़्यादा खिंचाव, और ज़्यादा तेज़ चलने का भी। 10% तक का खिंचाव पूरे दिन आराम से चलता है; 20% अधिकतम है।"
  },
+ "46698ab0fa79": {
+  "en": "<strong>Tamed Winga</strong>: A great hunter companion, or pet.",
+  "t": "<strong>पालतू विंगा</strong>: शिकार का बढ़िया साथी, या पालतू।"
+ },
+ "47180e6bf534": {
+  "en": "<strong>Tastes like:</strong> Fatty chicken, very tender.",
+  "t": "<strong>स्वाद:</strong> चर्बी वाला मुर्ग़ा, बहुत नरम।"
+ },
+ "4865428de0f8": {
+  "en": "<strong>Inspired by:</strong> Gopher/Gerbil; Hops around like a gerbil.",
+  "t": "<strong>प्रेरणा:</strong> गोफ़र/गरबिल; गरबिल की तरह फुदकता है।"
+ },
+ "4a0b4c2ccf85": {
+  "en": "<strong>Intelligence:</strong> Parrot.",
+  "t": "<strong>बुद्धि:</strong> तोता।"
+ },
+ "4a6203e8226d": {
+  "en": "<strong>Skills:</strong> Cloak (temperature and vision); Hearing; Long-distance communication; Imitating animal voices; Shooting themselves in any direction with a quick motion.",
+  "t": "<strong>कौशल:</strong> छिपाव (तापमान और नज़र); सुनना; लंबी दूरी की बातचीत; जानवरों की आवाज़ों की नक़ल; एक तेज़ हरकत से ख़ुद को किसी भी दिशा में उछाल देना।"
+ },
+ "4a6c485608b8": {
+  "en": "<strong>Wooly Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>वूली का सूखा मांस</strong>: क़साई का बनाया सूखा मांस।"
+ },
  "4a70f16255ca": {
   "en": "Sayna",
   "t": "सायना"
+ },
+ "4b7574850a69": {
+  "en": "<strong>Wooly Horns</strong>: Horns, prepared by a butcher for artisans to work on.",
+  "t": "<strong>वूली के सींग</strong>: सींग, जिन्हें क़साई कारीगरों के काम के लिए तैयार करता है।"
+ },
+ "4bfb4d81087a": {
+  "en": "<strong>Inspired by:</strong> Chinese Alligator.",
+  "t": "<strong>प्रेरणा:</strong> चीनी घड़ियाल।"
+ },
+ "4c2ef3dc6f45": {
+  "en": "<strong>Interface:</strong> Ears.",
+  "t": "<strong>इंटरफ़ेस:</strong> कान।"
+ },
+ "4ccfb2775cda": {
+  "en": "<strong>Intelligence:</strong> Anaconda.",
+  "t": "<strong>बुद्धि:</strong> एनाकोंडा।"
+ },
+ "4d0a0eed90cb": {
+  "en": "<strong>Tamed Adult Soreno</strong>: They take a while to train properly, but they can relay conversations over long distances without other humans hearing, because of their high pitch. A secret trick of the Hidden Sorenos gang.",
+  "t": "<strong>पालतू बड़ा सोरेनो</strong>: इन्हें ठीक से सिखाने में वक़्त लगता है, पर ये अपनी ऊँची आवाज़ की वजह से दूसरे इंसानों के सुने बिना लंबी दूरी तक बातचीत पहुँचा सकते हैं। हिडन सोरेनोस गिरोह की एक गुप्त तरकीब।"
+ },
+ "4d7055021ed1": {
+  "en": "<strong>Inspired by:</strong> Cow &amp; Sheep.",
+  "t": "<strong>प्रेरणा:</strong> गाय &amp; भेड़।"
+ },
+ "4dafbcd2ed94": {
+  "en": "<strong>Bagarisa Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>बागरीसा का सूखा मांस</strong>: क़साई का बनाया सूखा मांस।"
+ },
+ "4f1dae52b2ee": {
+  "en": "<strong>Sanbi Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>सनबी का सूखा मांस</strong>: क़साई का बनाया सूखा मांस।"
+ },
+ "509148b74cd4": {
+  "en": "<strong>Egua Hide/Fur</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>एगुआ की खाल/फ़र</strong>: खाल/फ़र, जिसे क़साई कारीगरों के काम के लिए तैयार करता है।"
  },
  "52011a660ccb": {
   "en": "Yuyta",
@@ -123,9 +455,25 @@
   "en": "Ptaina’s gelatinous thingy in its head has rays of purplish light coming out within that will never send you good vibes. In the opposite, actually. It can send ultrasonic vibrations that can tear your insides—if you’re in the water, of course. It’s not as powerful on land except you’re dumb enough to touch it. Plus, they can mess with your compass and your sense of orientation, and give you a nasty headache, too! The raw meat has a more pungent taste and rougher texture, kinda like shark meat, so people usually season and stew the fuck out of it. Or you’re too poor to buy good stuff and have to eat Ptaina to survive. Or you’re so goddam rich that you think it’s a delicacy.",
   "t": "प्टाइना के सिर पर लगी जेली जैसी चीज़ भीतर से बैंगनी-सी रोशनी की किरणें छोड़ती है जो तुम्हें कभी अच्छी तरंगें नहीं भेजेंगी। उलटा ही, असल में। यह अल्ट्रासोनिक कंपन भेज सकती है जो तुम्हारी अंतड़ियाँ फाड़ दें—अगर तुम पानी में हो, बेशक। ज़मीन पर यह उतनी ताक़तवर नहीं, जब तक तुम इतने बेवक़ूफ़ न हो कि उसे छू लो। ऊपर से, यह तुम्हारे कम्पास और दिशा-बोध को गड़बड़ा सकती है, और तुम्हें भयंकर सिरदर्द भी दे सकती है! कच्चे मांस का स्वाद ज़्यादा तीखा और बनावट ज़्यादा खुरदरी है, कुछ-कुछ शार्क के मांस जैसी, तो लोग आम तौर पर उसमें मसाले डालकर उसे जी भरकर पकाते हैं। या फिर तुम अच्छी चीज़ें ख़रीदने के लिए बहुत ग़रीब हो और ज़िंदा रहने के लिए प्टाइना खानी पड़ती है। या फिर तुम इतने अमीर हो कि तुम्हें यह कोई नायाब पकवान लगती है।"
  },
+ "55b2034d4d36": {
+  "en": "<strong>Inspired by:</strong> Elephant with Hippopotamus.",
+  "t": "<strong>प्रेरणा:</strong> हाथी, दरियाई घोड़े के साथ।"
+ },
+ "55ba512805c6": {
+  "en": "<strong>Legunia Feathers</strong>: Feathers, prepared by a butcher for artisans to work on.",
+  "t": "<strong>लेगुनिया के पंख</strong>: पंख, जिन्हें क़साई कारीगरों के काम के लिए तैयार करता है।"
+ },
  "55f513d86654": {
   "en": "<strong>Tier I (Cheap Goods):</strong> freshly killed animals, plus elemental Soul Energy interface actions for storage.",
   "t": "<strong>स्तर I (सस्ता माल):</strong> ताज़ा मारे गए जानवर, साथ में भंडारण के लिए आत्मा-ऊर्जा के तत्व-इंटरफ़ेस की क्रियाएँ।"
+ },
+ "56500fb78d75": {
+  "en": "<strong>Reproduction:</strong> Hundreds of Ptainas per year, but most become food for other fish along the way.",
+  "t": "<strong>प्रजनन:</strong> हर साल सैकड़ों प्टाइना, पर ज़्यादातर रास्ते में दूसरी मछलियों का खाना बन जाती हैं।"
+ },
+ "578d54e46391": {
+  "en": "<strong>Intelligence:</strong> Dog, great for a companion. Golden Retriever. Goofy.",
+  "t": "<strong>बुद्धि:</strong> कुत्ता, साथी के लिए बढ़िया। गोल्डन रिट्रीवर। बुद्धू-सा।"
  },
  "57c9e45d2e4a": {
   "en": "Load and strain",
@@ -139,6 +487,14 @@
   "en": "<strong>Intelligence:</strong> Horse.",
   "t": "<strong>बुद्धि:</strong> घोड़ा।"
  },
+ "595bdb8f427c": {
+  "en": "Night hunters, known for snacking on humans when given the chance. They run fast and are skilled in close combat with their claws. They tend to be defensive, except at night, when they come out to hunt.",
+  "t": "रात के शिकारी, मौक़ा मिलने पर इंसानों पर हाथ साफ़ करने के लिए जाने जाते हैं। ये तेज़ दौड़ते हैं और अपने पंजों से नज़दीकी लड़ाई में माहिर हैं। ये बचाव की मुद्रा में रहते हैं, सिवाय रात के, जब ये शिकार पर निकलते हैं।"
+ },
+ "5b6f20dad83c": {
+  "en": "<strong>Fihi Oil</strong>: Used in beer, in food, for greasing things, etc.",
+  "t": "<strong>फ़ीही का तेल</strong>: बीयर में, खाने में, चीज़ों को चिकना करने वग़ैरह में इस्तेमाल होता है।"
+ },
  "5c0f1a625789": {
   "en": "Herbivores",
   "t": "शाकाहारी"
@@ -147,9 +503,37 @@
   "en": "Fihi looks closer to a mammal than a fish, but I assure you it's a fish. It's even kinda cute, except when it opens its beak and reveals an esophagus that looks closer to turtles that will hunt you in your nightmares. They are commonly found on Buhraies plains, but much bigger ones have been spotted on Lukewarm Lake, and the bigger they get, the more aggressive they become. It's a fun catch, with meat akin to catfish, so special preparation is needed to tame the fishy taste. Or you can sell it! Fihis are used for nari gels to extract their ability to control elemental energy, whether absorbing, creating, or releasing it.",
   "t": "फ़ीही मछली से ज़्यादा स्तनधारी जैसी दिखती है, पर यक़ीन मानो, यह मछली ही है। यह काफ़ी प्यारी भी है, सिवाय तब के जब यह अपनी चोंच खोलकर कछुओं जैसी एक भोजन-नली दिखाती है, जो तुम्हारे बुरे सपनों में तुम्हें सताएगी। ये आम तौर पर बुरेज़ मैदान में मिलती हैं, पर कहीं बड़े नमूने ल्यूकवॉर्म झील में देखे गए हैं, और जितनी बड़ी होती हैं, उतनी आक्रामक होती जाती हैं। यह एक मज़ेदार शिकार है, जिसका मांस कैटफ़िश जैसा है, तो मछली की गंध कम करने के लिए ख़ास तैयारी चाहिए। या तुम इसे बेच सकते हो! फ़ीही को नरी जेल में तत्व-ऊर्जा को नियंत्रित करने की क्षमता निकालने के लिए इस्तेमाल किया जाता है, चाहे उसे सोखना हो, बनाना हो या छोड़ना।"
  },
+ "5d11f12d5446": {
+  "en": "<strong>Tastes like:</strong> Deer with notes of olive oil.",
+  "t": "<strong>स्वाद:</strong> जैतून के तेल के सुरों वाला हिरण।"
+ },
+ "5d5f32140738": {
+  "en": "<strong>Fatupari Hide</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>फ़ातुपारी की खाल</strong>: खाल/फ़र, जिसे क़साई कारीगरों के काम के लिए तैयार करता है।"
+ },
+ "5d8891303f1e": {
+  "en": "<strong>Habitat:</strong> Lukewarm Buhraies Lake and the Buhraies region. The Fihi in Lukewarm Buhraies Lake are much bigger, and they eat humans.",
+  "t": "<strong>पर्यावास:</strong> ल्यूकवॉर्म बुरेज़ झील और बुरेज़ इलाक़ा। ल्यूकवॉर्म बुरेज़ झील की फ़ीही कहीं बड़ी होती हैं, और इंसानों को खाती हैं।"
+ },
+ "5ef2142ac7d3": {
+  "en": "<strong>Habitat:</strong> Mainly in the ocean to the east of the Sanbi Kingdom.",
+  "t": "<strong>पर्यावास:</strong> मुख्य रूप से सनबी राज्य के पूर्व के समुद्र में।"
+ },
+ "60b48d0dc6ce": {
+  "en": "<strong>Food:</strong> Mainly seeds and insects.",
+  "t": "<strong>भोजन:</strong> मुख्य रूप से बीज और कीड़े-मकोड़े।"
+ },
  "6163ffb69538": {
   "en": "<strong>Medallions</strong>: Used for some nari gels, but also chopped up and grilled; part of the Freeish Region's cuisine.",
   "t": "<strong>तमग़े</strong>: कुछ नरी जेल में इस्तेमाल होते हैं, पर काटकर ग्रिल भी किए जाते हैं; फ़्रीइश इलाक़े के खान-पान का हिस्सा।"
+ },
+ "62bac2942e06": {
+  "en": "<strong>Intelligence:</strong> Cow.",
+  "t": "<strong>बुद्धि:</strong> गाय।"
+ },
+ "636aa1543a40": {
+  "en": "<strong>Interface:</strong> Nose.",
+  "t": "<strong>इंटरफ़ेस:</strong> नाक।"
  },
  "640820e7cb76": {
   "en": "Fanchaki is a mutation from Chaki and is proof of one of the first, if not the first, successful Buhraies soul tampering, according to historians. Their capability of breeding quicker, growing stronger and better using their interface for defense must have been fundamental to somehow survive the savage Lishies and then humans—because the Chakis are long extinct. Their marbled, tender purple meat became a staple on everyone's menu after The Prosperity Treaty brought more substantial trading across the kingdoms and even turned some adventurers away from adventuring into just hunting these fat bastards to keep up with demand.",
@@ -159,6 +543,22 @@
   "en": "Fihi",
   "t": "फ़ीही"
  },
+ "663b306bc2a2": {
+  "en": "<strong>Interface:</strong> Tail/Ears/Mouth.",
+  "t": "<strong>इंटरफ़ेस:</strong> पूँछ/कान/मुँह।"
+ },
+ "66a6f2b95292": {
+  "en": "<strong>Inspired by:</strong> Chicken.",
+  "t": "<strong>प्रेरणा:</strong> मुर्ग़ा।"
+ },
+ "68e5d6c7ae9b": {
+  "en": "<strong>Tastes like:</strong> Earthy and sandy, like fox meat, with a minty taste similar to lamb, but not as tough as you'd imagine. A delicacy, eaten only by some people, since most think they're too cute to eat. Sundeath worships them.",
+  "t": "<strong>स्वाद:</strong> मिट्टी और रेत जैसा, लोमड़ी के मांस की तरह, मेमने जैसे पुदीने वाले स्वाद के साथ, पर उतना सख़्त नहीं जितना तुम सोचोगे। एक नफ़ीस चीज़, जिसे कुछ ही लोग खाते हैं, क्योंकि ज़्यादातर को लगता है कि वे खाने के लिए बहुत प्यारे हैं। सनडेथ उनकी पूजा करता है।"
+ },
+ "6a9782185aab": {
+  "en": "<strong>Skills:</strong> Sense Lifeforms; Generate Air Shield; Louder-than-usual shriek; strengthening the beak and claws to diamond level, so they cut through anything.",
+  "t": "<strong>कौशल:</strong> जीवों को भाँपना; हवा की ढाल बनाना; आम से ज़्यादा ऊँची चीख़; चोंच और पंजों को हीरे के स्तर तक मज़बूत करना, ताकि वे किसी भी चीज़ को काट दें।"
+ },
  "6a9d76361231": {
   "en": "Fauna by tier:",
   "t": "स्तर के हिसाब से जीव-जंतु:"
@@ -167,13 +567,41 @@
   "en": "<strong>Skills:</strong> Detect Pressure; Detect Humidity; Detect Temperature; Paralyze.",
   "t": "<strong>कौशल:</strong> दबाव भाँपना; नमी भाँपना; तापमान भाँपना; सुन्न करना।"
  },
+ "6b75b1784232": {
+  "en": "<strong>Distance a day:</strong> ≈ the distance at 10% strain × (10% ÷ strain), never more than ~65 km.",
+  "t": "<strong>दिन की दूरी:</strong> ≈ 10% खिंचाव वाली दूरी × (10% ÷ खिंचाव), ~65 km से कभी ज़्यादा नहीं।"
+ },
+ "6d00c02a20a5": {
+  "en": "<strong>Legunia Jerky</strong>: Jerky prepared by a butcher, with a notoriously stronger taste.",
+  "t": "<strong>लेगुनिया का सूखा मांस</strong>: क़साई का बनाया सूखा मांस, बदनाम रूप से ज़्यादा तेज़ स्वाद वाला।"
+ },
+ "6d18339bb512": {
+  "en": "<strong>Winga Feathers</strong>: Feathers, prepared by a butcher for artisans to work on.",
+  "t": "<strong>विंगा के पंख</strong>: पंख, जिन्हें क़साई कारीगरों के काम के लिए तैयार करता है।"
+ },
+ "6e4159fbe1fe": {
+  "en": "Distance at 20% strain (~180 kg)",
+  "t": "20% खिंचाव पर दूरी (~180 kg)"
+ },
+ "6f203f6dcc34": {
+  "en": "Their antennae always glow blue. They gather near rotting bodies, usually a sign that a predator is nearby. They prefer bodies with more soul energy, so they can also lead people to dead adventurers. Monica is the usual spelling, though some people, usually in and around Freeish, spell it Monika.",
+  "t": "इनके एंटीना हमेशा नीले चमकते हैं। ये सड़ती लाशों के पास इकट्ठा होती हैं, आम तौर पर इस बात का इशारा कि कोई शिकारी पास है। इन्हें ज़्यादा आत्मा-ऊर्जा वाली लाशें पसंद हैं, तो ये लोगों को मरे हुए साहसियों तक भी ले जा सकती हैं। मोनिका आम वर्तनी है, हालाँकि कुछ लोग, आम तौर पर फ़्रीइश में और उसके आसपास, इसे मोनिका (Monika) लिखते हैं।"
+ },
  "6f81b5e5f4da": {
   "en": "Male and female Wozens: lean dog-like animals, one red with dark spots and one orange with tiger stripes.",
   "t": "नर और मादा वोज़ेन: छरहरे, कुत्ते जैसे जानवर, एक गहरे धब्बों वाला लाल और दूसरा बाघ जैसी धारियों वाला नारंगी।"
  },
+ "6f81f2a34e04": {
+  "en": "<strong>Inspired by:</strong> Vulpes Vulpes.",
+  "t": "<strong>प्रेरणा:</strong> वल्पीज़ वल्पीज़।"
+ },
  "700bc8fe10e3": {
   "en": "<strong>Carrying on its back:</strong> strain = load ÷ 900 kg. So 90 kg is 10% strain, and 180 kg (20%) is the most an Egua can carry.",
   "t": "<strong>पीठ पर ढोना:</strong> खिंचाव = भार ÷ 900 kg। तो 90 kg का मतलब 10% खिंचाव, और 180 kg (20%) सबसे ज़्यादा है जो एक एगुआ ढो सकता है।"
+ },
+ "714ef9f9b031": {
+  "en": "<strong>Habitat:</strong> Most common in the dense forests along the coast and around Freeish and Blood.",
+  "t": "<strong>पर्यावास:</strong> तट के किनारे और फ़्रीइश और ब्लड के आसपास के घने जंगलों में सबसे आम।"
  },
  "715817193298": {
   "en": "<strong>Tier II (Common Goods):</strong> processed meat, plus elemental Soul Energy interface actions for storage; feathers and fur of large animals, and other animal parts.",
@@ -187,6 +615,10 @@
   "en": "<strong>Reproduction:</strong> By themselves or with other Culuim.",
   "t": "<strong>प्रजनन:</strong> अपने आप या दूसरे कुलुइम के साथ।"
  },
+ "74c9aadd00aa": {
+  "en": "<strong>Food:</strong> Omnivore: mostly grass, but likes to snack on Sorenos once in a while.",
+  "t": "<strong>भोजन:</strong> सर्वाहारी: ज़्यादातर घास, पर कभी-कभार सोरेनो पर हाथ साफ़ करना पसंद है।"
+ },
  "76726706af4a": {
   "en": "<strong>Tier III (Expensive Goods):</strong> jerky, plus elemental Soul Energy interface actions for storage; feathers and fur of smaller animals, especially higher-quality ones; tamed or live fauna; rare animal parts.",
   "t": "<strong>स्तर III (महँगा माल):</strong> सूखा मांस, साथ में भंडारण के लिए आत्मा-ऊर्जा के तत्व-इंटरफ़ेस की क्रियाएँ; छोटे जानवरों के पंख और फ़र, ख़ासकर ऊँची क़िस्म वाले; पालतू या ज़िंदा जीव-जंतु; जानवरों के दुर्लभ हिस्से।"
@@ -199,9 +631,33 @@
   "en": "Cinika: a bright turquoise butterfly with black-veined wings and long tail streamers.",
   "t": "सिनिका: काली नसों वाले पंखों और लंबी पूँछों वाली एक चटक फ़िरोज़ी तितली।"
  },
+ "77934e38268c": {
+  "en": "<strong>Winga Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>विंगा का सूखा मांस</strong>: क़साई का बनाया सूखा मांस।"
+ },
+ "77d49eed8479": {
+  "en": "Gait",
+  "t": "चाल"
+ },
+ "79d266236d29": {
+  "en": "<strong>Monica Butterflies</strong>: Freshly killed nearby and stored in a wagon with ice, ready for the butcher shops or to be shipped out.",
+  "t": "<strong>मोनिका तितलियाँ</strong>: पास में ताज़ा मारी गईं और बर्फ़ के साथ एक वैगन में रखी हुईं, क़साई की दुकानों के लिए या बाहर भेजने के लिए तैयार।"
+ },
+ "7a3b86bb05ba": {
+  "en": "<strong>Reproduction:</strong> Every fall, 2 or 3 Saynas are born.",
+  "t": "<strong>प्रजनन:</strong> हर पतझड़, 2 या 3 सायना पैदा होते हैं।"
+ },
+ "7a3c51af3a4c": {
+  "en": "<strong>Fihi Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>फ़ीही का मांस</strong>: क़साई का काटा हुआ मांस।"
+ },
  "7aeb69b7c757": {
   "en": "<strong>Food:</strong> Mainly about 20 kg of grass, hay or Carbey a day.",
   "t": "<strong>भोजन:</strong> मुख्य रूप से दिन में लगभग 20 kg घास, भूसा या कार्बी।"
+ },
+ "7b190f73177e": {
+  "en": "<strong>Fihi Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>फ़ीही का सूखा मांस</strong>: क़साई का बनाया सूखा मांस।"
  },
  "7b9856128610": {
   "en": "Wingas: male and female blue parrot-like birds with colorful wing bands, next to a larger pink Tolerideme Winga.",
@@ -210,6 +666,10 @@
  "7bb9c6f60656": {
   "en": "Male and female Lanshas: small gray elephant-like animals with large ears, one rearing up.",
   "t": "नर और मादा लांशा: बड़े कानों वाले हाथी जैसे छोटे धूसर जानवर, एक पिछले पैरों पर खड़ा।"
+ },
+ "7d9f5ef9d7d1": {
+  "en": "<strong>Inspired by:</strong> Emerald Tree Boa.",
+  "t": "<strong>प्रेरणा:</strong> एमरल्ड ट्री बोआ।"
  },
  "7db75d5f2142": {
   "en": "Winga/Pink Winga",
@@ -223,25 +683,69 @@
   "en": "Male and female Crocus: upright gray-green reptiles with spiky backs and long tails.",
   "t": "नर और मादा क्रोकस: काँटेदार पीठ और लंबी पूँछ वाले, सीधे खड़े धूसर-हरे सरीसृप।"
  },
+ "8082a21f083d": {
+  "en": "<strong>Wooly Gyut Dried Milk</strong>: Milk often dried for transport to the rest of the kingdoms.",
+  "t": "<strong>वूली ग्युट का सूखा दूध</strong>: बाक़ी राज्यों तक ले जाने के लिए अक्सर सुखाया गया दूध।"
+ },
+ "81096b8135bd": {
+  "en": "<strong>Skills:</strong> Super Smell; Sound Bounce (makes them impossible to hear); Light Bounce (makes them darker than their surroundings); Super Jump; Jaw Clench (they cast Attract once they bite their prey, so they won't let go).",
+  "t": "<strong>कौशल:</strong> तेज़ गंध; आवाज़ उछालना (इन्हें सुनना नामुमकिन बना देता है); रोशनी उछालना (इन्हें अपने आसपास से ज़्यादा अँधेरा बना देता है); ऊँची छलाँग; जबड़ा भींचना (शिकार को काटते ही ये Attract चलाते हैं, ताकि छोड़ें नहीं)।"
+ },
  "82e94d931d4c": {
   "en": "<strong>Tastes like:</strong> Bland, old-tasting beef, with a texture like a tougher top sirloin, since only old Eguas are eaten.",
   "t": "<strong>स्वाद:</strong> फीका, पुराने स्वाद वाला गोमांस, ज़्यादा सख़्त टॉप सरलॉइन जैसी बनावट के साथ, क्योंकि सिर्फ़ बूढ़े एगुआ खाए जाते हैं।"
+ },
+ "8499b8bf1e3c": {
+  "en": "<strong>Wozen Pelt</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>वोज़ेन की पोस्तीन</strong>: खाल/फ़र, जिसे क़साई कारीगरों के काम के लिए तैयार करता है।"
+ },
+ "84a08ea3c124": {
+  "en": "<strong>Food:</strong> About 18 kg of Domar Carbey a day, plus about 2 kg of Gyut berries for richer milk; about 20 kg of Carbey a day for meat production.",
+  "t": "<strong>भोजन:</strong> दिन में लगभग 18 kg डोमार कार्बी, साथ में ज़्यादा गाढ़े दूध के लिए लगभग 2 kg ग्युट बेरियाँ; मांस उत्पादन के लिए दिन में लगभग 20 kg कार्बी।"
+ },
+ "84edbcad2a64": {
+  "en": "<strong>Tamed Adult Sayna</strong>: They take a while to train properly, especially to use their skills on command, because of their energetic, goofy nature.",
+  "t": "<strong>पालतू बड़ा सायना</strong>: इन्हें ठीक से सिखाने में वक़्त लगता है, ख़ासकर हुक्म पर अपने कौशल इस्तेमाल करना, उनके ऊर्जा भरे, बुद्धू-से स्वभाव की वजह से।"
  },
  "8561960acacb": {
   "en": "Crocus",
   "t": "क्रोकस"
  },
+ "85a05be55b0e": {
+  "en": "<strong>Skills:</strong> Sense Surroundings.",
+  "t": "<strong>कौशल:</strong> आसपास भाँपना।"
+ },
+ "85dd7e93abf9": {
+  "en": "<strong>Reproduction:</strong> Lays one egg every day; fertilized eggs hatch in about 21 days.",
+  "t": "<strong>प्रजनन:</strong> हर दिन एक अंडा देता है; निषेचित अंडे लगभग 21 दिनों में फूटते हैं।"
+ },
  "87e293098ca7": {
   "en": "<strong>Habitat:</strong> Lower plains.",
   "t": "<strong>पर्यावास:</strong> निचले मैदान।"
+ },
+ "885cd7219ff1": {
+  "en": "<strong>Wooly Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>वूली का मांस</strong>: क़साई का काटा हुआ मांस।"
  },
  "88eaf8a4d441": {
   "en": "Ptaina: a red fish with a huge toothy grin and a glowing bubble on its head, about 45 cm long.",
   "t": "प्टाइना: सिर पर चमकते बुलबुले और दाँतों भरी चौड़ी मुस्कान वाली एक लाल मछली, लगभग 45 सेमी लंबी।"
  },
+ "8abfb6164e9b": {
+  "en": "<strong>Tastes like:</strong> Eel.",
+  "t": "<strong>स्वाद:</strong> ईल।"
+ },
+ "8afd1457616b": {
+  "en": "<strong>Legunia Meat</strong>: Meat cut by a butcher. Same price as Winga, since there's more meat per body, and a stronger taste.",
+  "t": "<strong>लेगुनिया का मांस</strong>: क़साई का काटा हुआ मांस। विंगा जितनी ही क़ीमत, क्योंकि हर शरीर में ज़्यादा मांस होता है, और स्वाद तेज़।"
+ },
  "8cd22c540fdb": {
   "en": "Public text: Website Description in Legacy/Behind The Scenes/World Lore/Fauna.md",
   "t": "सार्वजनिक पाठ: Website Description in Legacy/Behind The Scenes/World Lore/Fauna.md"
+ },
+ "8d32f817b48e": {
+  "en": "<strong>Egua Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>एगुआ का सूखा मांस</strong>: क़साई का बनाया सूखा मांस।"
  },
  "8d463a231ed8": {
   "en": "<strong>Reproduction:</strong> Females give birth once a year.",
@@ -251,6 +755,14 @@
   "en": "Monika: a pale-blue butterfly with rounded wings.",
   "t": "मोनिका: गोल पंखों वाली एक हल्की नीली तितली।"
  },
+ "8e756c99fadf": {
+  "en": "<strong>Food:</strong> Loves eating Bagarisa, and snacks on humans given the chance.",
+  "t": "<strong>भोजन:</strong> बागरीसा खाना बहुत पसंद है, और मौक़ा मिलने पर इंसानों पर हाथ साफ़ करते हैं।"
+ },
+ "9004aef13e49": {
+  "en": "It has existed since recorded history began. Nothing too special about them.",
+  "t": "यह तब से है जब से इतिहास दर्ज होना शुरू हुआ। इनमें कुछ ख़ास नहीं।"
+ },
  "914b8e28a156": {
   "en": "Egua",
   "t": "एगुआ"
@@ -259,33 +771,117 @@
   "en": "Fatupari: a two-headed green sea serpent with pink fins and red eyes.",
   "t": "फ़ातुपारी: गुलाबी पंखों और लाल आँखों वाला एक दो-सिरा हरा समुद्री साँप।"
  },
+ "91593e4c2e4f": {
+  "en": "~65 km",
+  "t": "~65 km"
+ },
  "91599f7a416f": {
   "en": "Soreno",
   "t": "सोरेनो"
+ },
+ "92799f74bb00": {
+  "en": "<strong>Tastes like:</strong> Tuna.",
+  "t": "<strong>स्वाद:</strong> टूना।"
+ },
+ "9328b74027bf": {
+  "en": "<strong>Wozen Eye</strong>: Used in nari gels.",
+  "t": "<strong>वोज़ेन की आँख</strong>: नरी जेल में इस्तेमाल होती है।"
  },
  "93e19d37b157": {
   "en": "<strong>Inspired by:</strong> Protorohippus; Hippopotamus; Ardennes Heavy Horse Breed.",
   "t": "<strong>प्रेरणा:</strong> प्रोटोरोहिप्पस; दरियाई घोड़ा; आर्देन भारी घोड़े की नस्ल।"
  },
+ "94c0af4386c3": {
+  "en": "<strong>Wooly Milk</strong>: Females fed only Carbey produce about 8 liters of milk a day, tasting somewhere between cow's and sheep's milk. Mostly available only in Gandew.",
+  "t": "<strong>वूली का दूध</strong>: सिर्फ़ कार्बी खाने वाली मादाएँ दिन में लगभग 8 लीटर दूध देती हैं, जिसका स्वाद गाय और भेड़ के दूध के बीच का है। ज़्यादातर सिर्फ़ गैंड्यू में मिलता है।"
+ },
+ "95086f8a6bfa": {
+  "en": "<strong>Intelligence:</strong> Tuna/Shark.",
+  "t": "<strong>बुद्धि:</strong> टूना/शार्क।"
+ },
+ "95d1550b230b": {
+  "en": "<strong>Winga Egg</strong>: A treat for many, thanks to its sweet taste.",
+  "t": "<strong>विंगा का अंडा</strong>: अपने मीठे स्वाद की बदौलत बहुतों के लिए एक दावत।"
+ },
  "961908588296": {
   "en": "Culuim: a small worm-like creature arched in two humps, red underneath and blue on top, about 30 cm long.",
   "t": "कुलुइम: लगभग 30 सेमी लंबा एक छोटा, कीड़े जैसा जीव, दो कूबड़ों में मुड़ा, नीचे लाल और ऊपर नीला।"
+ },
+ "97268c91b00b": {
+  "en": "<strong>Habitat:</strong> Deep forests in the south.",
+  "t": "<strong>पर्यावास:</strong> दक्षिण के घने जंगल।"
+ },
+ "974b626235ec": {
+  "en": "<strong>Interface:</strong> Tail.",
+  "t": "<strong>इंटरफ़ेस:</strong> पूँछ।"
+ },
+ "980834a67a71": {
+  "en": "<strong>Lansha Meat</strong>: Tastes like lamb. Every Cruro's favorite.",
+  "t": "<strong>लांशा का मांस</strong>: मेमने जैसा स्वाद। हर क्रूरो का पसंदीदा।"
  },
  "98c1c7d6f123": {
   "en": "Cinikas, meanwhile, are not exactly as extraordinary unless there's a swarm of them and you're a sweaty Wozefaries or Sorefaries; then you're big trouble as…",
   "t": "वहीं सिनिका कुछ ख़ास असाधारण नहीं हैं, जब तक कि उनका झुंड न हो और तुम पसीने से तर वोज़फ़ेरीज़ या सोरफ़ेरीज़ न हो; तब तुम बड़ी मुसीबत में हो, क्योंकि…"
  },
+ "9a016e52b46d": {
+  "en": "<strong>Sayna Meat</strong>: Meat cut by a butcher. A delicacy for some rich folks, and nourishment for some in the desert.",
+  "t": "<strong>सायना का मांस</strong>: क़साई का काटा हुआ मांस। कुछ अमीरों के लिए एक नफ़ीस चीज़, और रेगिस्तान में कुछ के लिए पोषण।"
+ },
+ "9bb90fb73f19": {
+  "en": "<strong>Food:</strong> Mainly fish, but any other animal that passes by.",
+  "t": "<strong>भोजन:</strong> मुख्य रूप से मछली, पर पास से गुज़रने वाला कोई भी दूसरा जानवर।"
+ },
+ "9be79bf71f99": {
+  "en": "<strong>Child Eguas:</strong> about 0.4 of an adult in everything: ~360 kg of body weight, ~36 kg comfortable on its back, ~72 kg at most.",
+  "t": "<strong>बच्चे एगुआ:</strong> हर चीज़ में एक बड़े का लगभग 0.4: ~360 kg शरीर-भार, पीठ पर आराम से ~36 kg, ज़्यादा से ज़्यादा ~72 kg।"
+ },
+ "9bfdf81a5df9": {
+  "en": "<strong>Food:</strong> Insects.",
+  "t": "<strong>भोजन:</strong> कीड़े-मकोड़े।"
+ },
+ "9c21b19c301a": {
+  "en": "<strong>Inspired by:</strong> Platypus, electric eel.",
+  "t": "<strong>प्रेरणा:</strong> प्लैटिपस, बिजली वाली ईल।"
+ },
+ "9c7d7a961d3d": {
+  "en": "<strong>Habitat:</strong> Mostly in the dense forests around Blood City and the Freeish Kingdom.",
+  "t": "<strong>पर्यावास:</strong> ज़्यादातर ब्लड सिटी और फ़्रीइश राज्य के आसपास के घने जंगलों में।"
+ },
  "9dfd01727122": {
   "en": "<strong>Inspired by:</strong> Worms (average).",
   "t": "<strong>प्रेरणा:</strong> कीड़े (औसत)।"
+ },
+ "9e3441475fe9": {
+  "en": "<strong>Pulling a cart:</strong> strain = (cart + cargo + driver) × road factor ÷ 900 kg. The road factor is 0.05 on a good, hard road, 0.10 on a dirt road and 0.15 on soft ground, mud or sand. A full day at 10% strain means about 1,800 kg on a good road, 900 kg on a dirt road or 600 kg in sand.",
+  "t": "<strong>गाड़ी खींचना:</strong> खिंचाव = (गाड़ी + माल + चालक) × सड़क-गुणक ÷ 900 kg। सड़क-गुणक अच्छी, पक्की सड़क पर 0.05, कच्ची सड़क पर 0.10 और नरम ज़मीन, कीचड़ या रेत पर 0.15 है। 10% खिंचाव पर पूरे दिन का मतलब है अच्छी सड़क पर लगभग 1,800 kg, कच्ची सड़क पर 900 kg या रेत में 600 kg।"
+ },
+ "a0f9018b2064": {
+  "en": "<strong>Fanchaki Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>फ़ानचाकी का सूखा मांस</strong>: क़साई का बनाया सूखा मांस।"
+ },
+ "a10d066313db": {
+  "en": "<strong>Food:</strong> Insects and grain.",
+  "t": "<strong>भोजन:</strong> कीड़े-मकोड़े और अनाज।"
  },
  "a11dc364d78f": {
   "en": "Bagarisas compete with Fanchakis to be the most-eaten animal in the four kingdoms. Well, to be fair, they didn't have much choice in participating in that competition, but it's their fault that their irresistibly earthy, mushroom-accented meat that isn't too gamey appeases the palate of all races. They are always in packs, and they will not hold back in lighting up their tusks in flames to rush toward you. They are also skilled with ranged attacks by generating a flaming ball between their tusks, then creating a gust of hot wind that begins in the red crest at the tip of their tails and speeds up towards their head. The bagarisa can tilt its head up to make the hot air strike the ball of flame and turn it into a fireball. If that wasn't enough, they also have a distinct musk of shrimp brine that can make a lot of people gag profusely—dealing with that is one of the many things they teach adventures in the one and only adventurers school in Forway. They also teach them that if they are going for a clean shot, then they need an extra long arrow to perforate the two hearts it has in the chest and lower gut.",
   "t": "बागरीसा चार राज्यों में सबसे ज़्यादा खाए जाने वाले जानवर होने के लिए फ़ानचाकी से होड़ करते हैं। ख़ैर, सच कहें तो, इस होड़ में हिस्सा लेने में उनके पास ज़्यादा चारा नहीं था, पर यह उनकी ही ग़लती है कि उनका मिट्टी जैसे स्वाद वाला, खुंभी के पुट वाला और शिकार की ज़्यादा तेज़ गंध के बिना मांस हर नस्ल की ज़ुबान को भाता है। वे हमेशा झुंड में होते हैं, और तुम पर धावा बोलने के लिए अपने खाँगों में आग लगाने से नहीं हिचकेंगे। वे दूर से हमलों में भी माहिर हैं, अपने खाँगों के बीच आग का एक गोला बनाकर, फिर अपनी पूँछ के सिरे की लाल कलगी से शुरू होकर सिर की ओर तेज़ होता गरम हवा का एक झोंका बनाकर। बागरीसा अपना सिर उठा सकता है ताकि गरम हवा लपटों के गोले से टकराकर उसे आग के गोले में बदल दे। जैसे इतना काफ़ी न हो, वे झींगे के खारे पानी जैसी एक ख़ास कस्तूरी-गंध भी छोड़ते हैं जो बहुत-से लोगों को ज़ोरदार उबकाई दिला सकती है—इससे निपटना उन कई चीज़ों में से एक है जो फ़ॉरवे के इकलौते साहसी-स्कूल में साहसियों को सिखाई जाती हैं। उन्हें यह भी सिखाया जाता है कि एक साफ़ वार के लिए, उसके सीने और निचले पेट के दोनों दिलों को भेदने के लिए अतिरिक्त लंबा तीर चाहिए।"
  },
+ "a16b00e09b42": {
+  "en": "Birds native to the deserts, where they spend most of their lives; they come down to the lower plains for the breeding season.",
+  "t": "रेगिस्तानों के मूल पक्षी, जहाँ वे अपनी ज़्यादातर ज़िंदगी बिताते हैं; प्रजनन के मौसम में वे निचले मैदानों में उतर आते हैं।"
+ },
+ "a1f7ad199ac1": {
+  "en": "<strong>Ptaina Fish Meal</strong>: Unused fish parts, or fish unfit for human consumption, turned into fish meal: usually whatever is left over after extracting the oil.",
+  "t": "<strong>प्टाइना मछली का चूरा</strong>: मछली के बेकार हिस्से, या इंसानों के खाने लायक़ न रही मछली, मछली के चूरे में बदली हुई: आम तौर पर तेल निकालने के बाद जो बचता है।"
+ },
  "a28b148b2cec": {
   "en": "Cinika",
   "t": "सिनिका"
+ },
+ "a31218bfa119": {
+  "en": "<strong>Skills:</strong> Detect Temperature; Detect Soul Energy; Enhance Smell/Turn certain smells visible.",
+  "t": "<strong>कौशल:</strong> तापमान भाँपना; आत्मा-ऊर्जा भाँपना; गंध तेज़ करना/कुछ गंधों को दिखाई देने लायक़ बनाना।"
  },
  "a36483e8f6e6": {
   "en": "Fatupari",
@@ -295,21 +891,113 @@
   "en": "Male and female Fanchakis: plump black chicken-like birds with white-edged feathers and red faces.",
   "t": "नर और मादा फ़ानचाकी: सफ़ेद किनारी वाले पंखों और लाल चेहरे वाले गोल-मटोल, काले, मुर्ग़ी जैसे पक्षी।"
  },
+ "a739131c6074": {
+  "en": "<strong>Habitat:</strong> Mostly in the swamps from Sanbi to Tastyleaf.",
+  "t": "<strong>पर्यावास:</strong> ज़्यादातर सनबी से टेस्टीलीफ़ तक के दलदलों में।"
+ },
  "aad2aeaf73ba": {
   "en": "<strong>Earth animals that don't exist in Vraki</strong> (for writers): no goats (use Legunia), no dogs or cats (use a Bagarisa where a dog would go), no pigeons (use wild Wingas). (World Lore Q&amp;A › Vol 4 Draft 2, Q8.)",
   "t": "<strong>पृथ्वी के वे जानवर जो व्राकी में नहीं होते</strong> (लेखकों के लिए): बकरियाँ नहीं (लेगुनिया इस्तेमाल करो), कुत्ते या बिल्लियाँ नहीं (जहाँ कुत्ता होता वहाँ बागरीसा इस्तेमाल करो), कबूतर नहीं (जंगली विंगा इस्तेमाल करो)। (संसार प्रश्नोत्तर › खंड 4 मसौदा 2, Q8।)"
+ },
+ "ab44bcf4ec19": {
+  "en": "<strong>Winga Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>विंगा का मांस</strong>: क़साई का काटा हुआ मांस।"
  },
  "ab65bffd7d33": {
   "en": "Sanbi is the staple of which kingdom? If you didn't answer Sanbi, then oh boy, you might have been smoking too much Magina. If you plan to visit, then give \"The True Sanbi King\" novel a read first, or you might be baffled as to why people put the dead old people in small boats and push them off their docks (sometimes not quite so dead if the fishing is weak but that's neither here nor there.) Either way, only that fisherman's family seems to have the prowess or pure luck to catch these darn tasty fish! You're welcome to try, though! But you'll likely only catch meat from their lips as they swell and shed it off, or suffer a massive headache as it's always keen to tap into its soul energy interface to fend off predators.",
   "t": "सनबी किस राज्य का मुख्य भोजन है? अगर तुम्हारा जवाब सनबी नहीं था, तो बेचारे, शायद तुमने बहुत ज़्यादा मजीना फूँक ली है। अगर तुम वहाँ जाने की सोच रहे हो, तो पहले उपन्यास \"द ट्रू सनबी किंग\" पढ़ लो, वरना लोगों को अपने बूढ़े मुर्दों को छोटी नावों में रखकर घाटों से दूर धकेलते देख तुम उलझन में पड़ सकते हो (कभी-कभी अगर मछली कम मिल रही हो तो पूरी तरह मरे भी नहीं, पर बात वह नहीं।) जो भी हो, सिर्फ़ उस मछुआरे के परिवार में ही इन कमबख़्त, इतनी स्वादिष्ट मछलियों को पकड़ने का हुनर या निरी क़िस्मत लगती है! वैसे, तुम कोशिश करने के लिए आज़ाद हो! पर शायद तुम्हें बस उनके होंठों का मांस मिलेगा, जो फूलकर अलग हो जाते हैं, या तुम्हें भयंकर सिरदर्द होगा, क्योंकि शिकारियों को भगाने के लिए यह हमेशा अपने आत्मा-ऊर्जा इंटरफ़ेस का सहारा लेने को तैयार रहती है।"
  },
+ "ab9d6b2075a0": {
+  "en": "<strong>Winga Dust</strong>: Usually ground, using other beaks and claws to do it. They must have been strengthened by the Winga before they were removed, and the effect lasts for years before it starts to wear off. The coating can be as strong as diamond until the effect wears off.",
+  "t": "<strong>विंगा का चूरा</strong>: आम तौर पर पीसा हुआ, दूसरी चोंचों और पंजों से। निकालने से पहले इन्हें विंगा से मज़बूत करवाया गया होना चाहिए, और असर उतरना शुरू होने से पहले बरसों रहता है। असर उतरने तक परत हीरे जितनी मज़बूत हो सकती है।"
+ },
+ "abbcc9d2e5d1": {
+  "en": "A fish from the deeper ocean that stuns and messes with other fish, for food and maybe for fun.",
+  "t": "गहरे समुद्र की एक मछली जो खाने के लिए, और शायद मज़े के लिए, दूसरी मछलियों को सुन्न करती और उनसे छेड़छाड़ करती है।"
+ },
+ "abc9c825c542": {
+  "en": "<strong>Habitat:</strong> Ponds.",
+  "t": "<strong>पर्यावास:</strong> तालाब।"
+ },
+ "ac6e9c8cf058": {
+  "en": "<strong>Intelligence:</strong> Like elephants or Hippos. By themselves, they are chill and timid, but in a group, they are more aggressive and territorial.",
+  "t": "<strong>बुद्धि:</strong> हाथियों या दरियाई घोड़ों जैसी। अकेले हों तो शांत और डरपोक, पर समूह में ज़्यादा आक्रामक और अपने इलाक़े को लेकर हिंसक।"
+ },
+ "adebdf04e687": {
+  "en": "A fish famous for controlling elemental energy: absorbing, creating or releasing it.",
+  "t": "तत्व-ऊर्जा पर क़ाबू के लिए मशहूर एक मछली: उसे सोखना, बनाना या छोड़ना।"
+ },
+ "ae2df3ced076": {
+  "en": "Gallop",
+  "t": "सरपट"
+ },
+ "ae79095d0fcb": {
+  "en": "<strong>Intelligence:</strong> Wild Boar.",
+  "t": "<strong>बुद्धि:</strong> जंगली सूअर।"
+ },
+ "b14a3a047e09": {
+  "en": "Big flying birds that eat Gyut berries, and their meat tastes sweet. They settle high in the trees to rest and breed, and may attack humans who come too close, depending on past encounters. They're famous for flying fast and high, which makes them hard to hunt. Tamed, they make loyal companions, and since they recognize people's faces and places, they make a great courier service. Pink Wingas, which some call Tolerideme Wingas, are incredibly hard to find, since they camouflage themselves really well.",
+  "t": "बड़े उड़ने वाले पक्षी जो ग्युट बेरियाँ खाते हैं, और इनके मांस का स्वाद मीठा होता है। ये आराम और प्रजनन के लिए पेड़ों पर ऊँचे बसते हैं, और पिछली मुठभेड़ों के हिसाब से बहुत क़रीब आने वाले इंसानों पर हमला कर सकते हैं। ये तेज़ और ऊँचा उड़ने के लिए मशहूर हैं, जिससे इनका शिकार मुश्किल है। पालतू बनने पर ये वफ़ादार साथी बनते हैं, और चूँकि ये लोगों के चेहरे और जगहें पहचानते हैं, एक बढ़िया डाक-सेवा बनाते हैं। पिंक विंगा, जिन्हें कुछ लोग टॉलरिडीम विंगा कहते हैं, ढूँढना बेहद मुश्किल है, क्योंकि ये ख़ुद को बहुत अच्छे से छिपा लेते हैं।"
+ },
+ "b2357f57439e": {
+  "en": "<strong>Food:</strong> Trees, leaves and plants.",
+  "t": "<strong>भोजन:</strong> पेड़, पत्तियाँ और पौधे।"
+ },
+ "b31876f752d9": {
+  "en": "Distance at 10% strain (~90 kg)",
+  "t": "10% खिंचाव पर दूरी (~90 kg)"
+ },
+ "b361f1ddd348": {
+  "en": "<strong>Sanbi Scales</strong>: Scales, prepared by a butcher for artisans to work on.",
+  "t": "<strong>सनबी के छिलके</strong>: छिलके, जिन्हें क़साई कारीगरों के काम के लिए तैयार करता है।"
+ },
+ "b4f93a988d4e": {
+  "en": "<strong>Fihi Fish Meal</strong>: Unused fish parts, or fish unfit for human consumption, turned into fish meal: usually whatever is left over after extracting the oil.",
+  "t": "<strong>फ़ीही मछली का चूरा</strong>: मछली के बेकार हिस्से, या इंसानों के खाने लायक़ न रही मछली, मछली के चूरे में बदली हुई: आम तौर पर तेल निकालने के बाद जो बचता है।"
+ },
+ "b5013d989d78": {
+  "en": "<strong>Food:</strong> Organic matter, dead things, etc.",
+  "t": "<strong>भोजन:</strong> जैविक पदार्थ, मरी हुई चीज़ें वग़ैरह।"
+ },
+ "b6440b2c0bd2": {
+  "en": "Small mammals that eat insects and grain. They prefer insects, so in small numbers they're great pest control; in large numbers, they become pests themselves. Hunters and Pearl adventurers are constantly hired to keep them in check.",
+  "t": "छोटे स्तनधारी जो कीड़े-मकोड़े और अनाज खाते हैं। इन्हें कीड़े ज़्यादा पसंद हैं, तो कम तादाद में ये बढ़िया कीट-नियंत्रण हैं; ज़्यादा तादाद में, ये ख़ुद कीट बन जाते हैं। इन्हें क़ाबू में रखने के लिए शिकारियों और पर्ल साहसियों को लगातार रखा जाता है।"
+ },
+ "b68dfac1563a": {
+  "en": "<strong>Sanbi Fish Meal</strong>: Unused fish parts, or fish unfit for human consumption, turned into fish meal: usually whatever is left over after extracting the oil.",
+  "t": "<strong>सनबी मछली का चूरा</strong>: मछली के बेकार हिस्से, या इंसानों के खाने लायक़ न रही मछली, मछली के चूरे में बदली हुई: आम तौर पर तेल निकालने के बाद जो बचता है।"
+ },
  "b6e1bd12e4b2": {
   "en": "<strong>Food:</strong> Ground.",
   "t": "<strong>भोजन:</strong> ज़मीन।"
  },
+ "b771573a1570": {
+  "en": "<strong>Interface:</strong> Feet &amp; beak.",
+  "t": "<strong>इंटरफ़ेस:</strong> पैर &amp; चोंच।"
+ },
+ "b82c3e966676": {
+  "en": "<strong>Inspired by:</strong> Rats &amp; Shrews.",
+  "t": "<strong>प्रेरणा:</strong> चूहे &amp; छछूंदर।"
+ },
  "b952669231be": {
   "en": "Legunia",
   "t": "लेगुनिया"
+ },
+ "b9703b7af938": {
+  "en": "~20 km/h",
+  "t": "~20 km/h"
+ },
+ "ba86c5147701": {
+  "en": "<strong>Egua Hoof/Leg hair</strong>: Used in nari gels. Taken from dead Eguas, or sometimes from damaged hooves before healing is cast.",
+  "t": "<strong>एगुआ के खुर/टाँगों के बाल</strong>: नरी जेल में इस्तेमाल होते हैं। मरे हुए एगुआ से लिए जाते हैं, या कभी-कभी इलाज का मंत्र चलाने से पहले चोटिल खुरों से।"
+ },
+ "bd819a3d6000": {
+  "en": "<strong>Habitat:</strong> Throughout the Lower and Buhraies Plains, with a larger population in Wingarest.",
+  "t": "<strong>पर्यावास:</strong> पूरे निचले और बुरेज़ मैदानों में, विंगारेस्ट में ज़्यादा आबादी के साथ।"
+ },
+ "bd83994dd2c7": {
+  "en": "<strong>Intelligence:</strong> Predatory Fish/Eel.",
+  "t": "<strong>बुद्धि:</strong> शिकारी मछली/ईल।"
  },
  "bdd0e53e27c7": {
   "en": "Monikas are loner butterflies tightly associated with death and decay. Their interface is considered the best at identifying corpses, especially if the corpse is tied to a soul pooled with lots of soul energy. They also have the ability to turn desired volatile compounds of scents into a visual representation that aids in understanding its concentration and source—known as Monika sight, a nari gel concoction customized with the desired volatile compound, turned even exceptional if paired with Wozen Smell for both finding things like dead adventurers, detect poisonous things like traps, or even track down live animals or humans by using the droppings or sweat. Adventurers on the brink of death often implore to be found by these peaceful-looking butterflies—at least some do until they remember the cost of revival.",
@@ -319,9 +1007,65 @@
   "en": "Soreno is favored by scientists who avoid human experimentation or can't contract one to experiment on. It is not exactly a close match to the real thing, but it's good enough to iterate through experiments quickly and cheaply,  publish papers, and make a name for yourself! Some are on the other spectrum—with often pearl adventurers tasked to keep the Soreno population in cities, especially in grain silos, on the delicate balance between pest control and being a pest themselves. Plus, it's cheap meat for these pearl adventurers who are probably in so much debt that any single pearl they can avoid wasting now is amethysts off their loan due to their jacked-up interests. The caveat is that the meat smells and tastes like stale piss and that you will likely need to heal yourself if you slip up and don't cook it well done—or have difficulty catching them as they cloak themselves in both sight and heat signatures, and talk to one another in such a high pitch tone you will either need a Sayna or use nari gel to alter your ears to a Soreno. They also imitate other animals and can dash an arm's length as quickly as a blink of an eye in almost any direction a few times too.",
   "t": "सोरेनो उन वैज्ञानिकों का पसंदीदा है जो इंसानों पर प्रयोग से बचते हैं या प्रयोग के लिए किसी को अनुबंध पर नहीं रख सकते। यह असली चीज़ के बिल्कुल बराबर तो नहीं, पर जल्दी और सस्ते में एक के बाद एक प्रयोग करने,  शोध-पत्र छापने और नाम कमाने के लिए काफ़ी अच्छा है! दूसरे स्पेक्ट्रम के दूसरे छोर पर हैं—अक्सर पर्ल साहसी, जिन पर शहरों में, ख़ासकर अनाज के गोदामों में, सोरेनो की आबादी सँभालने का ज़िम्मा होता है, कीटों से लड़ने और ख़ुद कीट बन जाने के बीच के उस नाज़ुक संतुलन में। ऊपर से, यह उन पर्ल साहसियों के लिए सस्ता मांस है, जो शायद इतने क़र्ज़ में हैं कि अभी बचाई हर पर्ल उनके क़र्ज़ पर, उसके फूले ब्याज को देखते हुए, कम एमेथिस्ट है। दिक़्क़त यह है कि मांस से बासी पेशाब जैसी गंध और स्वाद आता है, और अगर तुमसे चूक हो जाए और तुम उसे ठीक से न पकाओ, तो शायद तुम्हें इलाज कराना पड़ेगा—या तुम्हें उन्हें पकड़ने में मुश्किल होगी, क्योंकि वे नज़र और गर्मी, दोनों से छिप जाते हैं, और आपस में इतनी तीखी आवाज़ में बात करते हैं कि अपने कानों को सोरेनो के कानों में बदलने के लिए तुम्हें एक सायना या नरी जेल चाहिए होगी। वे दूसरे जानवरों की नक़ल भी करते हैं और पलक झपकते ही, लगभग किसी भी दिशा में, कई बार, एक बाँह की लंबाई तक उछल सकते हैं।"
  },
+ "be7b971aef88": {
+  "en": "Yuyta meat",
+  "t": "युयटा का मांस"
+ },
+ "bf2e419868c8": {
+  "en": "Looks like a fox, but is as rocky as a horned lizard. Very friendly with humans, and a good addition to an adventurer's party. It makes a cute sound: \"Pohw-pohhhhwww!\"",
+  "t": "लोमड़ी जैसा दिखता है, पर सींग वाली छिपकली जितना पथरीला है। इंसानों के साथ बहुत दोस्ताना, और साहसियों की टोली में एक अच्छा इज़ाफ़ा। यह एक प्यारी-सी आवाज़ निकालता है: \"पोह-पोह्ह्ह्ह्व!\""
+ },
+ "bff3359ad9d1": {
+  "en": "<strong>Food:</strong> Grass.",
+  "t": "<strong>भोजन:</strong> घास।"
+ },
+ "c17066c19ce4": {
+  "en": "Canter",
+  "t": "दुलकी"
+ },
  "c182cbeda856": {
   "en": "<strong>Intelligence:</strong> Worm.",
   "t": "<strong>बुद्धि:</strong> कीड़ा।"
+ },
+ "c2d5e9d12b16": {
+  "en": "The Sanbi Kingdom is named after this fish, its main food source and economy. It's famous for taking all of a normal human's strength to reel in: even muscular fishermen catch at most 2 adults a day, if they're lucky, unless they tap into nari gels and the like. More in the novel The True Sanbi King.",
+  "t": "सनबी राज्य का नाम इसी मछली पर है, जो उसके खाने और अर्थव्यवस्था का मुख्य स्रोत है। यह इस बात के लिए मशहूर है कि इसे खींचने में एक आम इंसान की सारी ताक़त लग जाती है: मांसल मछुआरे भी, क़िस्मत अच्छी हो तो, दिन में ज़्यादा से ज़्यादा 2 बड़ी पकड़ते हैं, जब तक वे नरी जेल वग़ैरह का सहारा न लें। ज़्यादा उपन्यास द ट्रू सनबी किंग में।"
+ },
+ "c341b3850c53": {
+  "en": "<strong>Ptaina Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>प्टाइना का सूखा मांस</strong>: क़साई का बनाया सूखा मांस।"
+ },
+ "c393d69f7c61": {
+  "en": "<strong>Sayna Jerky</strong>: Jerky prepared by a butcher. Rare to find to its taste.",
+  "t": "<strong>सायना का सूखा मांस</strong>: क़साई का बनाया सूखा मांस। इसके स्वाद के लिए मिलना दुर्लभ।"
+ },
+ "c40eb11148e4": {
+  "en": "<strong>Tastes like:</strong> Lamb/Goat.",
+  "t": "<strong>स्वाद:</strong> मेमना/बकरी।"
+ },
+ "c42130ff5cc3": {
+  "en": "A native of the Cruro lands, sometimes found as far south as Waterfall, or as far up as Tastyleaf.",
+  "t": "क्रूरो की ज़मीनों का मूल निवासी, कभी-कभी दक्षिण में वॉटरफ़ॉल तक, या ऊपर टेस्टीलीफ़ तक मिलता है।"
+ },
+ "c4c548507778": {
+  "en": "<strong>Hide</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>खाल</strong>: खाल/फ़र, जिसे क़साई कारीगरों के काम के लिए तैयार करता है।"
+ },
+ "c50f91f11623": {
+  "en": "<strong>Skills:</strong> Blood Heal; Flaming Tusks (balls of flame created between the tusks); a gust of hot air, built up from the tail and shot through the hair crest, which combined with the flame creates a flamethrower effect.",
+  "t": "<strong>कौशल:</strong> ख़ून से इलाज; जलते खाँग (खाँगों के बीच बने आग के गोले); पूँछ से बनाकर बालों की कलगी से छोड़ा गया गर्म हवा का झोंका, जो आग के साथ मिलकर आग फेंकने वाले जैसा असर बनाता है।"
+ },
+ "c52792714823": {
+  "en": "<strong>Inspired by:</strong> Frog.",
+  "t": "<strong>प्रेरणा:</strong> मेंढक।"
+ },
+ "c571c8aaec73": {
+  "en": "<strong>Tastes like:</strong> Beef with a slight note of mutton.",
+  "t": "<strong>स्वाद:</strong> गोमांस, भेड़ के मांस के हल्के सुर के साथ।"
+ },
+ "c643a9a65315": {
+  "en": "<strong>Bagarisa Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>बागरीसा का मांस</strong>: क़साई का काटा हुआ मांस।"
  },
  "c67a6b41df1f": {
   "en": "Monica",
@@ -339,13 +1083,45 @@
   "en": "Sayna is a \"smol\" creature that made the desert its habitat. Worshiped in some sense by the Sundeath citizens as it is crucial in reducing the number of deaths by sand worms. Its enormous ears and cuteness make it a highly sought-after companion for adventurers and traders alike—so much so that about two-fifths of export from Sundeath each year are trained Saynas. The city also exports sayna meat as well, but only more affluent folks who enjoy tasting things more than admiring their cuteness can afford it. The ruling pharaohs—a weird name they call the ruler—tried to intervene with a trade blockade to prevent overhunting, but the city ruler cracked under the might of Forway's guards and law.",
   "t": "सायना एक \"बहुत प्यारा\" जीव है जिसने रेगिस्तान को अपना घर बना लिया है। सनडेथ के नागरिक एक तरह से इसे पूजते हैं, क्योंकि यह सैंड वर्म्स से होने वाली मौतें घटाने में बेहद अहम है। इसके विशाल कान और इसका प्यारापन इसे साहसियों और व्यापारियों दोनों के बीच बहुत माँग वाला साथी बनाते हैं—इतना कि सनडेथ के सालाना निर्यात का लगभग पाँच में से दो हिस्सा सधाए हुए सायना हैं। शहर सायना का मांस भी निर्यात करता है, पर उसे सिर्फ़ वे खाते-पीते लोग ख़रीद सकते हैं जो चीज़ों के प्यारेपन को निहारने से ज़्यादा उन्हें चखना पसंद करते हैं। सत्ता में बैठे फ़ैरो—शासक के लिए उनका एक अजीब नाम—ने ज़्यादा शिकार रोकने के लिए व्यापार-नाकेबंदी से दख़ल देने की कोशिश की, पर शहर के शासक ने फ़ॉरवे के पहरेदारों और क़ानून की ताक़त के आगे घुटने टेक दिए।"
  },
+ "c6e037db4d85": {
+  "en": "<strong>Interface:</strong> Fins on sides.",
+  "t": "<strong>इंटरफ़ेस:</strong> बग़लों के पंख।"
+ },
+ "c8cdebaf733c": {
+  "en": "<strong>Intelligence:</strong> Frog.",
+  "t": "<strong>बुद्धि:</strong> मेंढक।"
+ },
  "c9b04316ba1a": {
   "en": "Public text: fauna.md",
   "t": "सार्वजनिक पाठ: fauna.md"
  },
+ "caa0a1a96a34": {
+  "en": "<strong>Wooly Gyut Milk</strong>: Females produce about 10 liters a day, and the milk looks and tastes like caramel when they're fed Gyut berries. Free for Darfaries children.",
+  "t": "<strong>वूली ग्युट दूध</strong>: मादाएँ दिन में लगभग 10 लीटर देती हैं, और ग्युट बेरियाँ खिलाने पर दूध कैरेमल जैसा दिखता और लगता है। डारफ़ेरीज़ बच्चों के लिए मुफ़्त।"
+ },
  "cb7a989df4da": {
   "en": "Culuim proves that Hifuna should always be considered a threat to the soul, even if you live as far away as the Freeish Kingdom. This story started when an asshole adventurer from Big Gyut returned from Hifuna with a bag of Walking Hearts ready to sell in the black market. He probably was smiling wide with excitement about making it back without being caught, but then one of his guild mates rattled on him to the guards—because of an affair like usual. Instead of turning the bag in, the asshole adventurer buried it near a pond to get rid of the evidence—the rest is history as worms ate the contaminated soul, and a new species was born. Forway tried to exterminate it, but it was to no avail, so they shifted to focus instead to ensure that it didn't present a danger to the public. Luckily that was the case, and soon after, it somehow became a popular street food for people in a pinch because of its girth size and abundant nature. They taste like dirt, and the flesh is pretty chewy, but with enough seasoning, it goes down nicely after some beers. Scientists love them even more for being an animal model for the effects of Walking Heart.",
   "t": "कुलुइम साबित करता है कि हिफ़ूना को आत्मा के लिए हमेशा ख़तरा मानना चाहिए, भले ही तुम फ़्रीइश राज्य जितनी दूर रहते हो। यह क़िस्सा तब शुरू हुआ जब बिग ग्युट का एक कमीना साहसी काले बाज़ार में बेचने के लिए तैयार वॉकिंग हार्ट्स का एक थैला लेकर हिफ़ूना से लौटा। वह ज़रूर कानों तक मुस्कुरा रहा होगा, बिना पकड़े लौट आने के जोश में, पर उसके एक गिल्ड-साथी ने पहरेदारों को उसकी ख़बर दे दी—एक चक्कर की वजह से, हमेशा की तरह। थैला लौटाने के बजाय, कमीने साहसी ने सबूत मिटाने के लिए उसे एक तालाब के पास दबा दिया—बाक़ी इतिहास है, क्योंकि कीड़ों ने दूषित आत्मा खा ली, और एक नई प्रजाति पैदा हुई। फ़ॉरवे ने उसे मिटाने की कोशिश की, पर बेकार, तो उन्होंने रुख़ बदलकर यह पक्का किया कि उससे लोगों को कोई ख़तरा न हो। शुक्र है, ऐसा ही था, और जल्द ही, पता नहीं कैसे, अपने आकार और भरमार की बदौलत यह तंगहाल लोगों का लोकप्रिय सड़क-खाना बन गया। इसका स्वाद मिट्टी जैसा है और मांस काफ़ी रबड़ जैसा, पर पर्याप्त मसाले के साथ कुछ बीयर के बाद अच्छा चल जाता है। वैज्ञानिक उन्हें वॉकिंग हार्ट के असर के लिए जंतु-मॉडल के तौर पर और भी ज़्यादा पसंद करते हैं।"
+ },
+ "cd5c8dbd9c7e": {
+  "en": "A pig- and deer-like mammal whose meat isn't too gamy: a bit earthy, with hints of mushroom. Famous for shrugging off arrows, since an instant kill means shooting both of its hearts: one in the chest, and another in the gut, which has its own pathways that can also power the hind legs. Its musk smells like shrimp brine.",
+  "t": "सूअर और हिरण जैसा एक स्तनधारी जिसका मांस ज़्यादा जंगली गंध वाला नहीं: थोड़ा मिट्टी जैसा, कुकुरमुत्ते के इशारों के साथ। तीरों को झेल जाने के लिए मशहूर, क्योंकि फ़ौरन मारने का मतलब है इसके दोनों दिलों में तीर मारना: एक छाती में, और दूसरा पेट में, जिसके अपने रास्ते हैं जो पिछली टाँगों को भी ताक़त दे सकते हैं। इसकी कस्तूरी से झींगे के खारे पानी जैसी गंध आती है।"
+ },
+ "ceb3008882ba": {
+  "en": "<strong>Ptaina Fish Roe</strong>: A treat for some.",
+  "t": "<strong>प्टाइना मछली के अंडे</strong>: कुछ लोगों के लिए एक दावत।"
+ },
+ "ceec885211ca": {
+  "en": "<strong>Barina Leg Meat</strong>: Meat cut by a butcher, often used in Freeish Kingdom dishes.",
+  "t": "<strong>बरीना की टाँग का मांस</strong>: क़साई का काटा हुआ मांस, अक्सर फ़्रीइश राज्य के पकवानों में इस्तेमाल होता है।"
+ },
+ "cefd76615954": {
+  "en": "Gait (walk)",
+  "t": "चाल (पैदल)"
+ },
+ "cf2876144923": {
+  "en": "Trot",
+  "t": "कदमताल"
  },
  "cfdc5df49da6": {
   "en": "Male and female Saynas: small spotted fox-like animals with very large ears.",
@@ -355,37 +1131,157 @@
   "en": "Yuytas might look friendly to some, but they are not keen on human contact. If you poach a baby one from its mother, you might get a solid companion, but you wouldn't count on it. They are not as intelligent as cats, yet just as finicky. Their most desirable trait, aside from their tuna-like meat that has a faint freshly cut grass rather than oceanic notes, is the whiskers for nari gels, as with those, it allows you to see or feel stuff behind walls. They hang out in groups, and you can see them jumping about, enjoying their lives with their big plumpy butts for all to see. Hunters, and villagers at large, use these creatures' butts as a barometer for harvest quality. It's like what they say, \"Winter's gonna suck ass when you see a flappy butt flapping on Fall!\"",
   "t": "युयटा कुछ लोगों को दोस्ताना लग सकते हैं, पर उन्हें इंसानों का छूना पसंद नहीं। अगर तुम किसी बच्चे को उसकी माँ से चुरा लो, तो तुम्हें एक पक्का साथी मिल सकता है, पर मैं इस पर भरोसा नहीं करूँगा। वे बिल्लियों जितने बुद्धिमान नहीं, पर उतने ही मनमौजी हैं। समुद्री के बजाय ताज़ी कटी घास के हल्के पुट वाले टूना जैसे उनके मांस के अलावा, उनकी सबसे ज़्यादा माँग वाली चीज़ नरी जेल के लिए उनकी मूँछें हैं, क्योंकि उनसे दीवारों के पीछे की चीज़ें देखी या महसूस की जा सकती हैं। वे झुंड में घूमते हैं, और उन्हें अपने बड़े, उछलते नितंब सबके सामने लिए ज़िंदगी का मज़ा लेते हर जगह फुदकते देखा जा सकता है। शिकारी, और आम तौर पर गाँव वाले, इन जीवों के नितंबों को फ़सल की अच्छाई के बैरोमीटर के तौर पर इस्तेमाल करते हैं। जैसा कहते हैं: \"जब पतझड़ में ढीला नितंब हिलता दिखे, तो सर्दी बुरी जाएगी!\""
  },
+ "d1317ad4680b": {
+  "en": "A frog known for staying underwater for a long time and for the toxins on its back. Its tail is useful for nari gels too.",
+  "t": "एक मेंढक जो लंबे समय तक पानी के नीचे रहने और अपनी पीठ के ज़हरों के लिए जाना जाता है। इसकी पूँछ नरी जेल के लिए भी काम की है।"
+ },
+ "d2236ce106ac": {
+  "en": "<strong>Interface:</strong> Hair on head and chin.",
+  "t": "<strong>इंटरफ़ेस:</strong> सिर और ठोड़ी के बाल।"
+ },
  "d3f1d96b05ca": {
   "en": "A small cyan butterfly that spreads everywhere every spring. Known for attacking Wozefaries and Sorefaries in swarms and paralyzing them to lick their sweat. One of the most popular butterflies around: when they swarm and flee, adventurers and commoners know bad weather is coming.",
   "t": "एक छोटी आसमानी-नीली तितली जो हर वसंत हर जगह फैल जाती है। झुंडों में वोज़फ़ेरीज़ और सोरफ़ेरीज़ पर हमला करके उन्हें सुन्न करने और उनका पसीना चाटने के लिए जानी जाती है। आसपास की सबसे लोकप्रिय तितलियों में से एक: जब वे झुंड बनाकर भागती हैं, तो साहसी और आम लोग जानते हैं कि ख़राब मौसम आ रहा है।"
+ },
+ "d4d4721c833c": {
+  "en": "<strong>Inspired by:</strong> Black Drum Fish.",
+  "t": "<strong>प्रेरणा:</strong> ब्लैक ड्रम मछली।"
+ },
+ "d5ac19f2411a": {
+  "en": "<strong>Inspired by:</strong> Flamingo with Winga mix.",
+  "t": "<strong>प्रेरणा:</strong> फ़्लेमिंगो, विंगा के मेल के साथ।"
  },
  "d5e22df7e97b": {
   "en": "Wozen",
   "t": "वोज़ेन"
  },
+ "d6d432b15cb4": {
+  "en": "<strong>Interface:</strong> Horns.",
+  "t": "<strong>इंटरफ़ेस:</strong> सींग।"
+ },
  "d73ce8370633": {
   "en": "Egua became the foundation of trading across the four Kingdoms, and if you think more about it, the core reason why the prosperity treaty is prosperous. Sure, Gravity Repel is still used to decrease the weight of goods, but then you have to deal with volume too through World Decrease. The cost alone would make things prohibitively expensive to trade, but that's not all! The fact that not every good can handle having its density altered by factors of ten, if not hundreds, makes using Soul Energy for everything a pain in the ass. All of this brings back the point that with its interface that allows it to walk on water, endurance to carry a lot of weight, and friction control over muddy terrain, it truly is an essential asset in keeping the balls flowing by enriching trading and making wars unlikely. Some people, mostly Forway and Freeish folks, plus some adventurers here and there still like to indulge in Egua's meat for its meatier notes and low-fat content that makes tasty beef jerky. Just beware of its capabilities to eject its intestines from its bunghole when in self-defense—it's entertainingly bizarre to watch a Wozen, or anything for that matter, give up chasing an Egua when the shower of shit and guts starts to rain towards them.",
   "t": "एगुआ चार राज्यों के बीच व्यापार की बुनियाद बन गया है और, सोचो तो, समृद्धि संधि के समृद्ध होने की मुख्य वजह। बेशक, सामान का वज़न घटाने के लिए अब भी ग्रैविटी रिपेल इस्तेमाल होता है, पर फिर वर्ल्ड डिक्रीज़ से आयतन भी सँभालना पड़ता है। सिर्फ़ ख़र्च ही व्यापार को बहुत महँगा बना देता, पर इतना ही नहीं! यह कि हर सामान अपना घनत्व दस गुना, या सौ गुना, बदले जाने को नहीं झेल पाता, हर चीज़ के लिए आत्मा-ऊर्जा का इस्तेमाल सचमुच सिरदर्द बना देता है। यह सब हमें इस बात पर लाता है कि पानी पर चलने देने वाले इंटरफ़ेस, भारी वज़न ढोने की सहनशक्ति और कीचड़ भरी ज़मीन पर पकड़ की महारत के साथ, यह सच में गेंदों को घुमाते रहने की एक अहम पूँजी है, जो व्यापार को समृद्ध करती है और जंगों को असंभव बनाती है। कुछ लोग, ख़ासकर फ़ॉरवे और फ़्रीइश के, और यहाँ-वहाँ कुछ साहसी, अब भी इसके भरे-पूरे स्वाद और कम चर्बी के लिए एगुआ का मांस चाव से खाते हैं, जो इसे बढ़िया सुखाया मांस बनाता है। बस अपने बचाव में अपनी अंतड़ियाँ गांड के छेद से बाहर फेंकने की इसकी क्षमता से सावधान रहना—जब गंदगी और अंतड़ियों की बारिश उस पर गिरने लगती है, तो किसी वोज़ेन, या किसी और चीज़, को एगुआ का पीछा छोड़ते देखना अजीब तरह से मनोरंजक होता है।"
+ },
+ "d87d047b29d2": {
+  "en": "<strong>Skills:</strong> Reverberate Voice; Create Light.",
+  "t": "<strong>कौशल:</strong> आवाज़ गुँजाना; रोशनी बनाना।"
+ },
+ "d886ec863afa": {
+  "en": "<strong>Habitat:</strong> Cruro lands.",
+  "t": "<strong>पर्यावास:</strong> क्रूरो की ज़मीनें।"
+ },
+ "d88e42687f14": {
+  "en": "<strong>Habitat:</strong> Throughout the lower region.",
+  "t": "<strong>पर्यावास:</strong> पूरे निचले इलाक़े में।"
  },
  "da13c60d054c": {
   "en": "Grass",
   "t": "जड़ी-बूटियाँ"
  },
+ "db42cb0cab14": {
+  "en": "<strong>Crocus Meat</strong>: Meat cut by a butcher.",
+  "t": "<strong>क्रोकस का मांस</strong>: क़साई का काटा हुआ मांस।"
+ },
+ "e096ca9e3833": {
+  "en": "<strong>Intelligence:</strong> Rats.",
+  "t": "<strong>बुद्धि:</strong> चूहे।"
+ },
+ "e179b32e7576": {
+  "en": "<strong>Reproduction:</strong> Tens of Fihi a year.",
+  "t": "<strong>प्रजनन:</strong> साल में दसियों फ़ीही।"
+ },
+ "e26709a487ee": {
+  "en": "<strong>Intelligence:</strong> Leopard.",
+  "t": "<strong>बुद्धि:</strong> तेंदुआ।"
+ },
+ "e448b3b39740": {
+  "en": "<strong>Fihi Fish Roe</strong>: A treat for some.",
+  "t": "<strong>फ़ीही मछली के अंडे</strong>: कुछ लोगों के लिए एक दावत।"
+ },
+ "e54948829158": {
+  "en": "<strong>Tastes like:</strong> Gamy and tough.",
+  "t": "<strong>स्वाद:</strong> जंगली गंध वाला और सख़्त।"
+ },
+ "e556b83aaed6": {
+  "en": "<strong>Interface:</strong> Its skin is tougher than normal fish skin, including being able to dissipate elemental energy—or rather, absorb it like a shield.",
+  "t": "<strong>इंटरफ़ेस:</strong> इसकी त्वचा आम मछली की त्वचा से सख़्त है, तत्व-ऊर्जा को बिखेर देने की क्षमता समेत—या कहें, ढाल की तरह उसे सोख लेने की।"
+ },
  "e6431f6bf11c": {
   "en": "Yuyta: a white rodent with big front teeth, shown from the front, the back and as a head close-up.",
   "t": "युयटा: बड़े अगले दाँतों वाला एक सफ़ेद कुतरने वाला जीव, आगे से, पीछे से और सिर के क्लोज़-अप में दिखाया गया।"
+ },
+ "e76195943c36": {
+  "en": "A Buhraies subjugation experiment: the Buhraies took a few chakis (chickens) and transformed them into fanchakis. As usual, both escaped containment, but the chakis went extinct, eaten up by the fauna and the Lishies. Fanchakis breed fast (like rats), so they survived and spread like wildfire, even with the Lishies hunting them by the thousands.",
+  "t": "बुरेज़ का अधीन बनाने का एक प्रयोग: बुरेज़ ने कुछ चाकी (मुर्ग़े) लिए और उन्हें फ़ानचाकी में बदल दिया। हमेशा की तरह, दोनों क़ैद से भाग निकले, पर चाकी विलुप्त हो गए, जीव-जंतुओं और लिशीज़ ने उन्हें खा डाला। फ़ानचाकी तेज़ी से (चूहों की तरह) बच्चे पैदा करते हैं, तो वे बच गए और जंगल की आग की तरह फैले, भले ही लिशीज़ हज़ारों की तादाद में उनका शिकार करते रहे।"
+ },
+ "e76e5b4d4fd2": {
+  "en": "<strong>Egua Meat</strong>: Meat cut by a butcher. Relatively cheap, since it comes from older Eguas that no longer carry cargo or people.",
+  "t": "<strong>एगुआ का मांस</strong>: क़साई का काटा हुआ मांस। काफ़ी सस्ता, क्योंकि यह उन बूढ़े एगुआ से आता है जो अब माल या लोग नहीं ढोते।"
+ },
+ "e77b78c71d82": {
+  "en": "<strong>Fanchaki Meat</strong>: Meat cut by a butcher. The kingdoms' favorite meat, for how good it tastes for the price.",
+  "t": "<strong>फ़ानचाकी का मांस</strong>: क़साई का काटा हुआ मांस। राज्यों का पसंदीदा मांस, क़ीमत के हिसाब से इसके बढ़िया स्वाद के लिए।"
  },
  "e80edef60f16": {
   "en": "Lansha is a Cruro favorite! So much so, you often can trade anything you want from them with a simple succulent chunk of grilled Lansha—or if the cruro is pretty savage, it will just snatch it from you, and your hand too! The meat's flavor is akin to goat or lamb. It takes getting used to, but once you do, it goes well with anything. Catching one and cooking it can be tricky if you don’t know what you’re doing. Their main defense is coating their bodies with a sour secretion that makes biting them impossible to stomach. Hunting them down requires skill to one-shot their brain, and even more skill to skin them and their sour glands.",
   "t": "लांशा क्रूरो की पसंदीदा है! इतनी कि अक्सर भुनी लांशा के एक रसीले टुकड़े के बदले उनसे जो चाहो ले सकते हो—या, अगर क्रूरो ज़रा जंगली हो, तो वह उसे छीन लेगा, तुम्हारे हाथ समेत! मांस का स्वाद बकरी या मेमने के क़रीब है। इसकी आदत डालनी पड़ती है, पर एक बार पड़ गई, तो यह हर चीज़ के साथ चलता है। अगर तुम्हें नहीं पता कि क्या कर रहे हो, तो इसे पकड़ना और पकाना पेचीदा हो सकता है। उनका मुख्य बचाव अपने शरीर पर एक तेज़ाबी स्राव मलना है जो हर निवाले को निगलना नामुमकिन बना देता है। उनका शिकार एक ही वार में उनके दिमाग़ को भेदने का हुनर माँगता है, और उनकी खाल उतारने और तेज़ाबी ग्रंथियाँ निकालने के लिए और भी ज़्यादा हुनर।"
  },
+ "e942eadd436d": {
+  "en": "<strong>Intelligence:</strong> Cockatoo.",
+  "t": "<strong>बुद्धि:</strong> कॉकटू।"
+ },
+ "e9521d3eb018": {
+  "en": "See Cruro for more information!",
+  "t": "ज़्यादा जानकारी के लिए क्रूरो देखो!"
+ },
+ "e96e6f7d86ec": {
+  "en": "<strong>Tastes like:</strong> Bitter; only goes down in a heavily seasoned soup, though some people swear by its taste.",
+  "t": "<strong>स्वाद:</strong> कड़वा; सिर्फ़ भारी मसालेदार सूप में ही गले से उतरता है, हालाँकि कुछ लोग इसके स्वाद की क़सम खाते हैं।"
+ },
+ "e98e294b8c11": {
+  "en": "<strong>Tastes like:</strong> Bitter, and smells like urine. The meat is given to wild animals or used as fertilizer, though some Pearl adventurers still eat it, because it's free meat.",
+  "t": "<strong>स्वाद:</strong> कड़वा, और पेशाब जैसी गंध। मांस जंगली जानवरों को दे दिया जाता है या खाद के तौर पर इस्तेमाल होता है, हालाँकि कुछ पर्ल साहसी फिर भी इसे खाते हैं, क्योंकि यह मुफ़्त का मांस है।"
+ },
+ "e99b71a69b07": {
+  "en": "One of the most terrifying snakes around for its size... but looks aren't everything.",
+  "t": "अपने आकार के हिसाब से आसपास के सबसे डरावने साँपों में से एक... पर दिखावट ही सब कुछ नहीं।"
+ },
+ "e9bfc573cd1f": {
+  "en": "<strong>Reproduction:</strong> Every summer; 25 eggs laid, of which only a few reach adulthood.",
+  "t": "<strong>प्रजनन:</strong> हर गर्मी; 25 अंडे दिए जाते हैं, जिनमें से कुछ ही बड़े हो पाते हैं।"
+ },
+ "ea1f882e807e": {
+  "en": "<strong>Sanbi Oil</strong>: Used in beer, in food, for greasing things, etc.",
+  "t": "<strong>सनबी का तेल</strong>: बीयर में, खाने में, चीज़ों को चिकना करने वग़ैरह में इस्तेमाल होता है।"
+ },
+ "ea2a96791612": {
+  "en": "<strong>Fanchaki Egg</strong>: A common food.",
+  "t": "<strong>फ़ानचाकी का अंडा</strong>: एक आम खाना।"
+ },
+ "ea918f305a68": {
+  "en": "<strong>Interface:</strong> Hair on Back/Tusks on fronts.",
+  "t": "<strong>इंटरफ़ेस:</strong> पीठ के बाल/आगे के खाँग।"
+ },
  "edb2fa9e8d54": {
   "en": "Wooly is truly a staple of Gandew. The fact that there aren't many other places it can survive due to its demanding nature is strong enough by itself to warrant Gandew gaining the comparative advantage from Forway—but that isn't the only fact either. Darfaries acquired several unique masteries over the generations over the entire spectrum of by-products! From herding them in Mid-Gandew to processing their milk into varieties of cheeses, creating wet and dry-aged beef that is to soul die for, and even soft, warm wool and clothing! Toleridemians are the heaviest consumers, both in the literal and figurative sense, of these tantalizing exports, and try as they might, they cannot compete with Gandew on that front. Buhraies Plains is just not high enough for these creatures to feel at home, and whatever they produced so far under \"research\" was laughable.",
   "t": "वूली सच में गैंड्यू का एक स्तंभ है। यह कि अपनी नख़रेबाज़ फ़ितरत के कारण यह ज़्यादा जगहों पर ज़िंदा नहीं रह सकता, अकेले ही गैंड्यू को फ़ॉरवे से तुलनात्मक बढ़त दिलाने के लिए काफ़ी है—पर यह अकेली वजह भी नहीं। डारफ़ेरीज़ ने पीढ़ियों में इसके उप-उत्पादों के पूरे दायरे पर कई अनोखे हुनर हासिल किए हैं! मिड-गैंड्यू में उनके पालन से लेकर उनके दूध को तरह-तरह के पनीरों में बदलने तक, आत्मा-मृत्यु तक लाजवाब गीले और सूखे पकाए मांस से लेकर मुलायम, गरम ऊन और कपड़ों तक! टॉलरिडीम के लोग इन लुभावने निर्यातों के सबसे बड़े ग्राहक हैं, शाब्दिक और लाक्षणिक दोनों अर्थों में, और अपनी पूरी कोशिशों के बावजूद इस मैदान में गैंड्यू का मुक़ाबला नहीं कर सकते। बुरेज़ मैदान बस इतनी ऊँचाई पर नहीं कि ये जीव वहाँ घर जैसा महसूस करें, और \"शोध\" के नाम पर उन्होंने अब तक जो बनाया वह हास्यास्पद था।"
  },
+ "ee3e2adc67b2": {
+  "en": "<strong>Bagarisa Hide/Fur</strong>: Hide/fur, prepared by a butcher for artisans to work on.",
+  "t": "<strong>बागरीसा की खाल/फ़र</strong>: खाल/फ़र, जिसे क़साई कारीगरों के काम के लिए तैयार करता है।"
+ },
  "ef97b49d1a9a": {
   "en": "<strong>Inspired by:</strong> Butterfly.",
   "t": "<strong>प्रेरणा:</strong> तितली।"
+ },
+ "efecdea30ac3": {
+  "en": "~5 km",
+  "t": "~5 km"
+ },
+ "effdb360e78b": {
+  "en": "<strong>Reproduction:</strong> Every spring; ~30 eggs laid, of which only a few reach adulthood.",
+  "t": "<strong>प्रजनन:</strong> हर वसंत; ~30 अंडे दिए जाते हैं, जिनमें से कुछ ही बड़े हो पाते हैं।"
  },
  "f03bfe0fce40": {
   "en": "Culuim",
@@ -395,9 +1291,53 @@
   "en": "<strong>Interface:</strong> Hair on legs.",
   "t": "<strong>इंटरफ़ेस:</strong> टाँगों के बाल।"
  },
+ "f14bb452ecbf": {
+  "en": "<strong>Ptaina Scales</strong>: Scales, prepared by a butcher for artisans to work on.",
+  "t": "<strong>प्टाइना के छिलके</strong>: छिलके, जिन्हें क़साई कारीगरों के काम के लिए तैयार करता है।"
+ },
+ "f5f3755cabe6": {
+  "en": "<strong>Habitat:</strong> Mostly the forests of the Sanbi region and up the coast.",
+  "t": "<strong>पर्यावास:</strong> ज़्यादातर सनबी इलाक़े के जंगल और तट के ऊपर तक।"
+ },
  "f8bfebcf4201": {
   "en": "<strong>Habitat:</strong> Throughout the four kingdoms; wild ones live on the plains around Forway City.",
   "t": "<strong>पर्यावास:</strong> चारों राज्यों में; जंगली वाले फ़ॉरवे सिटी के आसपास के मैदानों में रहते हैं।"
+ },
+ "f8eb6490e08e": {
+  "en": "<strong>Fanchaki Feathers</strong>: Feathers, prepared by a butcher for artisans to work on.",
+  "t": "<strong>फ़ानचाकी के पंख</strong>: पंख, जिन्हें क़साई कारीगरों के काम के लिए तैयार करता है।"
+ },
+ "faacfbb4d60d": {
+  "en": "<strong>Reproduction:</strong> Females give birth to 2 or 3 babies every 3 months.",
+  "t": "<strong>प्रजनन:</strong> मादाएँ हर 3 महीने में 2 या 3 बच्चों को जन्म देती हैं।"
+ },
+ "fb53a27c3daf": {
+  "en": "<strong>Reproduction:</strong> 3 or 4 Winga couples get together for a swing party, then build a shared nest to care for the eggs, which hatch in less than a month. About 20 Winga eggs are laid every year.",
+  "t": "<strong>प्रजनन:</strong> विंगा के 3 या 4 जोड़े एक अदला-बदली पार्टी के लिए इकट्ठा होते हैं, फिर अंडों की देखभाल के लिए एक साझा घोंसला बनाते हैं, जो एक महीने से कम में फूटते हैं। हर साल लगभग 20 विंगा अंडे दिए जाते हैं।"
+ },
+ "fb6c2dca1fec": {
+  "en": "<strong>Reproduction:</strong> Every year, they tend to have about 2 or 3 baby Wozens.",
+  "t": "<strong>प्रजनन:</strong> हर साल, इनके आम तौर पर लगभग 2 या 3 वोज़ेन बच्चे होते हैं।"
+ },
+ "fbf4f9e2165d": {
+  "en": "<strong>Fatupari Jerky</strong>: Jerky prepared by a butcher. See Fatupari Meat.",
+  "t": "<strong>फ़ातुपारी का सूखा मांस</strong>: क़साई का बनाया सूखा मांस। फ़ातुपारी का मांस देखो।"
+ },
+ "fc575baee407": {
+  "en": "<strong>Intelligence:</strong> Chicken.",
+  "t": "<strong>बुद्धि:</strong> मुर्ग़ा।"
+ },
+ "fcfafdd5bf13": {
+  "en": "<strong>Crocus Eggs</strong>: An interesting food for some.",
+  "t": "<strong>क्रोकस के अंडे</strong>: कुछ लोगों के लिए एक दिलचस्प खाना।"
+ },
+ "fd7cb8d7ed78": {
+  "en": "<strong>Crocus Jerky</strong>: Jerky prepared by a butcher.",
+  "t": "<strong>क्रोकस का सूखा मांस</strong>: क़साई का बनाया सूखा मांस।"
+ },
+ "ff51f79062c7": {
+  "en": "<strong>Skills:</strong> Cloak; Toxin Air Diffusion.",
+  "t": "<strong>कौशल:</strong> छिपाव; हवा में ज़हर फैलाना।"
  },
  "ff5a6de9851b": {
   "en": "A heavy horse with a hippopotamus-like head. Herbivores that didn't mind being around other species, they were quickly domesticated. They love being petted and understand basic instructions, but hurting them, physically or emotionally, makes them violent. Their Soul Energy interface lets them walk on water naturally, which makes them the basis of transportation across the Shared Delta. Humans respect their friendliness so much that Eguas are often given human burials. Some people do eat their meat, but mostly when the opportunity arises (older Eguas, for example).",
