@@ -1,4 +1,8 @@
 {
+ "03acadced801": {
+  "en": "<strong>Nari stones:</strong> one stone for Tier I, two for Tier II, four for Tier III, and so on. Once used, a nari stone turns diamond-like as its blue hue fades.",
+  "t": "<strong>नरी पत्थर:</strong> स्तर I के लिए एक पत्थर, स्तर II के लिए दो, स्तर III के लिए चार, और इसी तरह। इस्तेमाल के बाद, नरी पत्थर की नीली रंगत उड़ने के साथ वह हीरे जैसा हो जाता है।"
+ },
  "07b9494886d6": {
   "en": "Using The Interface - Feed",
   "t": "इंटरफ़ेस का इस्तेमाल - ऊर्जा देना"
@@ -15,33 +19,101 @@
   "en": "This is where some progress has been made in extending the interface framework! Nobody has successfully transformed the OBJECT and VERB structure of the interface—but they have been able to increase the information density of the object while retaining consistent casting.",
   "t": "यहीं इंटरफ़ेस के दायरे को बढ़ाने में प्रगति हुई! कोई भी इंटरफ़ेस की वस्तु और क्रिया वाली संरचना को नहीं बदल पाया—पर भरोसेमंद ढंग से चलाने की क्षमता बनाए रखते हुए वस्तु में जानकारी का घनत्व बढ़ाने में कामयाबी मिली।"
  },
+ "0d754b757652": {
+  "en": "Copper → Zinc",
+  "t": "ताँबा → जस्ता"
+ },
  "0dd08d5e4d8c": {
   "en": "As you feed a specific command and energy into the interface, you will see balls representing the command. You can never mix and match commands; only one command + energy + release may be executed. Below is a plain reference of the different ball statuses",
   "t": "जैसे-जैसे तुम इंटरफ़ेस में एक ख़ास आदेश और ऊर्जा डालते हो, तुम्हें आदेश को दिखाती गेंदें दिखेंगी। तुम आदेशों को कभी मिला नहीं सकते; सिर्फ़ एक आदेश + ऊर्जा + छोड़ना चलाया जा सकता है। नीचे गेंदों की अलग-अलग अवस्थाओं का एक सरल संदर्भ है"
+ },
+ "0e4e80712ada": {
+  "en": "Shock VERB",
+  "t": "Shock VERB"
+ },
+ "10668848ecf1": {
+  "en": "Gold → Mercury",
+  "t": "सोना → पारा"
+ },
+ "117351fd0784": {
+  "en": "Healing with Body Restore",
+  "t": "बॉडी रिस्टोर से इलाज"
  },
  "11aa2b4fa9b9": {
   "en": "Full Darfaries Interface - scribling and soul energy stone mode (video)",
   "t": "पूरा डारफ़ेरीज़ इंटरफ़ेस - घसीट-लिखाई और आत्मा-ऊर्जा पत्थर मोड (वीडियो)"
  },
+ "11cd9fd209af": {
+  "en": "Missing legs or arms",
+  "t": "ग़ायब टाँगें या बाँहें"
+ },
+ "124ba39cf2f3": {
+  "en": "Earth VERB",
+  "t": "Earth VERB"
+ },
  "12ef1365e090": {
   "en": "But hey, at least your best friend might be honored to be stuffed and cooked—vorarephilia is a thing anyways.",
   "t": "पर चलो, कम से कम तुम्हारा सबसे अच्छा दोस्त भरकर पकाए जाने पर सम्मानित महसूस कर सकता है—वैसे भी वोरारेफ़ीलिया जैसी चीज़ होती है।"
+ },
+ "132a84ea1843": {
+  "en": "<strong>Create:</strong> tries to recreate the target's body, born where the spell was started. It must be fed Black Honey to grow the clone, and it stays lifeless unless the original is killed, since only one being can connect to a soul. Cloning yourself shortens your lifespan and raises your cancer risk, because the soul's link is forced to thin out, so it's heavily discouraged.",
+  "t": "<strong>Create:</strong> निशाने के शरीर को फिर से बनाने की कोशिश करता है, जो वहीं पैदा होता है जहाँ मंत्र शुरू किया गया। क्लोन को बढ़ाने के लिए उसे काला शहद खिलाना पड़ता है, और वह तब तक बेजान रहता है जब तक मूल को मार न दिया जाए, क्योंकि एक आत्मा से सिर्फ़ एक ही जीव जुड़ सकता है। अपना क्लोन बनाने से उम्र घटती है और कैंसर का ख़तरा बढ़ता है, क्योंकि आत्मा की कड़ी को पतला होने पर मजबूर किया जाता है, तो इसे सख़्ती से हतोत्साहित किया जाता है।"
+ },
+ "1364798c2866": {
+  "en": "Nari Refresher, injected with a glass syringe, undoes nari gel body mods.",
+  "t": "काँच की सिरिंज से लगाया गया नरी रिफ़्रेशर नरी जेल वाले शारीरिक बदलाव पलट देता है।"
  },
  "13ef126e315c": {
   "en": "To not have any significant amount means you likely came from a bloodline that lived far remote or perhaps outside the four kingdoms, as free commerce and right of passage are perfectly positive correlations with mixing biological fluids between species.",
   "t": "इसकी ठीक-ठाक मात्रा न होने का मतलब है कि तुम शायद ऐसे वंश से हो जो बहुत अलग-थलग रहता था, या शायद चार राज्यों के बाहर, क्योंकि मुक्त व्यापार और आने-जाने का अधिकार प्रजातियों के बीच शारीरिक द्रवों के मेल से पूरी तरह सकारात्मक रूप से जुड़े हैं।"
  },
+ "154544b93e9e": {
+  "en": "Spells in this category can be released into an object, or in the air, or as a projectile if you cock your arm back and release the spell as you push it forward.",
+  "t": "इस श्रेणी के मंत्र किसी वस्तु में, या हवा में छोड़े जा सकते हैं, या प्रक्षेप्य की तरह, अगर तुम अपनी बाँह पीछे खींचो और उसे आगे धकेलते हुए मंत्र छोड़ो।"
+ },
+ "19e2f002b0a7": {
+  "en": "This is where some progress has been made in extending the interface. Nobody has managed to change its OBJECT and VERB structure, but people have packed more information into the object while keeping the casting consistent. Forway hasn't approved a new compound object for sigil rings in a while: there's a single requirement, but it's incredibly tough to meet. Random passersby are asked to use the experimental sigil ring, and if any of them miscasts, the compound object isn't approved.",
+  "t": "यहीं इंटरफ़ेस को बढ़ाने में कुछ तरक़्क़ी हुई है। कोई इसकी OBJECT और VERB वाली बनावट नहीं बदल पाया, पर लोगों ने मंत्र को एकरूप रखते हुए वस्तु में ज़्यादा जानकारी भर दी है। फ़ॉरवे ने काफ़ी समय से मुहर वाली अँगूठियों के लिए कोई नई मिश्रित वस्तु मंज़ूर नहीं की: शर्त एक ही है, पर उसे पूरा करना बेहद मुश्किल है। बेतरतीब राहगीरों से प्रयोगात्मक मुहर वाली अँगूठी इस्तेमाल करने को कहा जाता है, और अगर उनमें से कोई भी मंत्र ग़लत चलाए, तो मिश्रित वस्तु मंज़ूर नहीं होती।"
+ },
+ "1e9148fad723": {
+  "en": "Cat. Elemental",
+  "t": "श्रे. तत्व"
+ },
+ "2142eb994fdb": {
+  "en": "Among researchers, a faint rumor calls it \"Uncontrolled Create\".",
+  "t": "शोधकर्ताओं में एक धुँधली अफ़वाह इसे \"अनकंट्रोल्ड क्रिएट\" कहती है।"
+ },
  "23d178528dd4": {
   "en": "Ring #5 (closest to elbow): 50*",
   "t": "छल्ला #5 (कोहनी के सबसे पास): 50*"
+ },
+ "254617659d40": {
+  "en": "One or two deeper cuts and minor blood loss",
+  "t": "एक या दो गहरे कटाव और थोड़ा ख़ून बहना"
  },
  "26d10a4d512d": {
   "en": "Instead of fingers, you can use nari stones sticks to feed power without using yours, or someone else's, Soul Energy.",
   "t": "उँगलियों के बजाय, तुम अपनी या किसी और की आत्मा-ऊर्जा इस्तेमाल किए बिना ताक़त लाने के लिए नरी पत्थर की छड़ियाँ इस्तेमाल कर सकते हो।"
  },
+ "277f47c12f8c": {
+  "en": "<strong>Tiers:</strong> the more soul energy (and flesh) put in, the higher the chance of getting a soul to your specifications. The more things you seek in a soul, the more its power is diluted across those skills: ask for someone good at singing, baking and herding, and the energy poured in will most likely be spread evenly among the three. At times the distribution comes out erratic, because the spell \"captures\" and summons a soul in decay that happens to match the summoner's requirements. It also de-ages the target soul.",
+  "t": "<strong>स्तर:</strong> जितनी ज़्यादा आत्मा-ऊर्जा (और मांस) डाली जाए, अपनी शर्तों वाली आत्मा मिलने की संभावना उतनी ज़्यादा। तुम एक आत्मा में जितनी ज़्यादा चीज़ें चाहोगे, उसकी शक्ति उन कौशलों में उतनी ज़्यादा बँट जाएगी: गाने, बेकिंग और चरवाही में अच्छा कोई माँगो, और डाली गई ऊर्जा ज़्यादातर तीनों में बराबर बँटेगी। कभी-कभी बँटवारा बेतरतीब निकलता है, क्योंकि मंत्र सड़ती हुई एक ऐसी आत्मा को \"पकड़कर\" बुला लेता है जो संयोग से बुलाने वाले की शर्तों से मेल खाती है। यह निशाने वाली आत्मा की उम्र भी घटा देता है।"
+ },
  "2853d1cbd2ea": {
   "en": "Simple Objects",
   "t": "सरल वस्तुएँ"
+ },
+ "2874ac07bfa0": {
+  "en": "Ice VERB",
+  "t": "Ice VERB"
+ },
+ "2ca369f05b2d": {
+  "en": "Nari sticks (nari stones chained together) fuel the spell. A single-use nari stick is spent in one cast, and they aren't cheap.",
+  "t": "नरी स्टिक (एक साथ जोड़े गए नरी पत्थर) मंत्र को ईंधन देती हैं। एक बार इस्तेमाल वाली नरी स्टिक एक ही मंत्र में ख़र्च हो जाती है, और वे सस्ती नहीं होतीं।"
+ },
+ "2dba29a226b6": {
+  "en": "<strong>Destroy:</strong> tries to destroy the target's whole body. At low tiers it only causes internal or external bleeding; medium tiers can cause convulsions; high tiers cause an explosion.",
+  "t": "<strong>Destroy:</strong> निशाने के पूरे शरीर को नष्ट करने की कोशिश करता है। निचले स्तरों पर यह सिर्फ़ अंदरूनी या बाहरी ख़ून बहाता है; बीच के स्तर ऐंठन ला सकते हैं; ऊँचे स्तर विस्फोट करते हैं।"
  },
  "2e99783c4368": {
   "en": "Controlled Flight",
@@ -51,6 +123,18 @@
   "en": "This widely-known interface came up as a merger between the ancient species Fuhraies’s, Buhraies’s, and Lishies’s genetics and their own interfaces. One would assume that would lead to one of the most potent, versatile interfaces that would be as, if not more, powerful than Buhraies interface. In some ways, it is as it gels incredibly well with sigil rings or drawing logograms on it, as you don’t even have to think about it once you get the hand coordination just right. However, this came at the expense that if you do not draw a logogram, it is nearly impossible to control it.",
   "t": "यह मशहूर इंटरफ़ेस प्राचीन प्रजातियों फ़ुरेज़, बुरेज़ और लिशीज़ के आनुवंशिक गुणों और उनके अपने इंटरफ़ेस के मेल से बना है। तुम सोचोगे कि इससे सबसे ताक़तवर और बहुमुखी इंटरफ़ेस में से एक बना होगा, बुरेज़ इंटरफ़ेस जितना ताक़तवर, या उससे भी ज़्यादा। एक तरह से ऐसा है भी, क्योंकि यह मुहर वाली अँगूठियों के साथ, या उस पर लोगोग्राम बनाने के साथ, ग़ज़ब का तालमेल बिठाता है, क्योंकि हाथ का तालमेल सही हो जाने के बाद तुम्हें उसके बारे में सोचना भी नहीं पड़ता। पर इसकी क़ीमत यह रही: अगर तुम लोगोग्राम नहीं बनाते, तो इसे नियंत्रित करना लगभग नामुमकिन है।"
  },
+ "304bfc2c3ef8": {
+  "en": "Among certain researchers, a faint rumor says it can also be used as \"Uncontrolled Create\", with bigger potential gains and risks.",
+  "t": "कुछ शोधकर्ताओं में एक धुँधली अफ़वाह कहती है कि इसे \"अनकंट्रोल्ड क्रिएट\" के तौर पर भी इस्तेमाल किया जा सकता है, बड़े संभावित फ़ायदों और जोखिमों के साथ।"
+ },
+ "308ba49d2897": {
+  "en": "Casting a spell",
+  "t": "मंत्र चलाना"
+ },
+ "30c372919601": {
+  "en": "Near-instant regeneration, if there's enough fat or Black Honey to heal with",
+  "t": "लगभग तुरंत पुनर्जनन, अगर ठीक होने के लिए काफ़ी चर्बी या काला शहद हो"
+ },
  "35e10a8d52ff": {
   "en": "Variant Verbs",
   "t": "वैकल्पिक क्रियाएँ"
@@ -59,17 +143,53 @@
   "en": "Such a feat did claim a lot of street creds among scientists but also a lot of enemies. Not enemies in the traditional sense, as we’re talking a bunch of nerdy scientists that fight with pens and papers rather than bloody means… Except for some who tried to get physical with Gabiro, but when he was younger, he was not as defenseless as one might expect from a shut-in.",
   "t": "इस कारनामे ने उसे वैज्ञानिकों के बीच बहुत इज़्ज़त दिलाई, पर बहुत-से दुश्मन भी। पारंपरिक मायनों में दुश्मन नहीं, क्योंकि यहाँ बात किताबी वैज्ञानिकों के एक झुंड की है जो ख़ून के बजाय क़लम और काग़ज़ से लड़ते हैं… सिवाय कुछ के जिन्होंने गबीरो से हाथापाई की कोशिश की, पर जवानी में वह उतना बेबस नहीं था जितनी किसी एकांतवासी से उम्मीद की जाती है।"
  },
+ "37e04d60d2e6": {
+  "en": "<strong>What happened in Vol 1, Chapter 1:</strong> Gabiro was trying to bind a specific soul. A lack of proper concentration and not enough nari power made all the soul and body genetic information suddenly meld, triggering a White Hole event, and the soul energy of everyone involved fused into a single being. In that event, a nearly decayed soul (Harry's) was bound by pure chance. What was left of the soul tied to the bagarisa corpse used in the \"summoning ritual\" was wildly different from Harry's. When the explosion happened, Gabiro's own soul was fused into the mix too, and Harry's soul absorbed the capacity of all three. That's how Harry woke up able to speak Vraki, the common language, and why he later develops a custom interface (Vol 4).",
+  "t": "<strong>खंड 1, अध्याय 1 में क्या हुआ:</strong> गबीरो एक ख़ास आत्मा को बाँधने की कोशिश कर रहा था। ठीक से एकाग्रता की कमी और काफ़ी नरी शक्ति न होने से आत्मा और शरीर की सारी आनुवंशिक जानकारी अचानक घुल-मिल गई, जिससे एक श्वेत विवर घटना हुई, और उसमें शामिल सबकी आत्मा-ऊर्जा एक ही जीव में जुड़ गई। उस घटना में, लगभग सड़ चुकी एक आत्मा (हैरी की) निरे संयोग से बँध गई। \"बुलाने की रस्म\" में इस्तेमाल हुई बागरीसा की लाश से जुड़ी आत्मा में से जो बचा था, वह हैरी की आत्मा से बेहद अलग था। जब धमाका हुआ, तो गबीरो की अपनी आत्मा भी उस मिश्रण में जुड़ गई, और हैरी की आत्मा ने तीनों की क्षमता सोख ली। इसीलिए हैरी आम भाषा व्राकी बोलने की क्षमता के साथ जागा, और इसीलिए वह बाद में अपना एक ख़ास इंटरफ़ेस विकसित करता है (खंड 4)।"
+ },
+ "38819f04d9eb": {
+  "en": "Blank sigil rings are forbidden, to prevent accidents. Only courtroom scientists and Aquamarine or Sapphire adventurers may use them, to experiment with new spells.",
+  "t": "हादसों से बचाने के लिए कोरी मुहर वाली अँगूठियाँ मना हैं। सिर्फ़ दरबारी वैज्ञानिक और एक्वामरीन या सफ़ायर साहसी नए मंत्रों पर प्रयोग के लिए उन्हें इस्तेमाल कर सकते हैं।"
+ },
+ "398793d966e2": {
+  "en": "Manganese → Iron",
+  "t": "मैंगनीज़ → लोहा"
+ },
+ "3a54978fb627": {
+  "en": "Platinum → Gold",
+  "t": "प्लैटिनम → सोना"
+ },
+ "3c410b0a889e": {
+  "en": "Dust VERB",
+  "t": "Dust VERB"
+ },
  "3d33ae375a2b": {
   "en": "The rings themselves can only hold so much, although as far as everyone knows, nobody except probably Buhraies or perhaps only the primordial species Finaies could cast such a spell at a world-changing scale.",
   "t": "छल्ले ख़ुद एक हद तक ही थाम सकते हैं, हालाँकि जहाँ तक हम जानते हैं, शायद बुरेज़ या सिर्फ़ आदि-प्रजाति फ़िनेज़ के अलावा कोई भी ऐसा जादू दुनिया बदल देने वाले पैमाने पर नहीं चला सकता।"
+ },
+ "3e4dc5c341ad": {
+  "en": "A piece of someone's flesh can be grown with Body Restore to see their real body (to identify a disguised intruder, for example).",
+  "t": "किसी का असली शरीर देखने के लिए (मसलन, भेस बदले घुसपैठिए की पहचान के लिए) उसके मांस के एक टुकड़े को बॉडी रिस्टोर से उगाया जा सकता है।"
+ },
+ "3fe9f0d4a994": {
+  "en": "<strong>Create:</strong> tries to create objects from the target using all the elements around. Have the elements it's made of nearby to improve the odds.",
+  "t": "<strong>Create:</strong> आसपास के सारे तत्वों से निशाने से वस्तुएँ बनाने की कोशिश करता है। संभावना बढ़ाने के लिए जिन तत्वों से वह बनी है उन्हें पास रखो।"
  },
  "402c5a0d838c": {
   "en": "21 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "इस पेज की 21 और प्रविष्टियाँ सिर्फ़ <button class=\"linklike\" data-go-bts>पर्दे के पीछे</button> में हैं।"
  },
+ "408579690be8": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts other bodies. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Repel/Attract:</strong> निशाना दूसरे शरीरों को दूर धकेलता या खींचता है। अगर कोई निशाना न हो, तो आत्मा की लौ बस भाप बनकर उड़ जाती है।"
+ },
  "42463c89d747": {
   "en": "Using The Interface - Setup",
   "t": "इंटरफ़ेस का इस्तेमाल - तैयारी"
+ },
+ "42c245d29157": {
+  "en": "Material manipulation is an experimental Darfaries research branch, meant to manipulate the world around.",
+  "t": "पदार्थ में बदलाव डारफ़ेरीज़ शोध की एक प्रयोगात्मक शाखा है, जिसका मक़सद आसपास की दुनिया में बदलाव करना है।"
  },
  "430a66b55695": {
   "en": "{BodyPart} VERB",
@@ -79,9 +199,41 @@
   "en": "It has been a while since Forway approved a new compound object for sigil rings. There is a single requirement, but succeeding is incredibly tough!",
   "t": "फ़ॉरवे को मुहर वाली अँगूठियों के लिए कोई नई संयुक्त वस्तु मंज़ूर किए काफ़ी समय हो गया है। शर्त बस एक है, पर उसमें कामयाब होना बेहद मुश्किल है!"
  },
+ "450b29b2cf51": {
+  "en": "<strong>Someone's soul energy:</strong> when the person touches their middle and ring fingers, the Darfaries veins in their hand light up with soul flame (every race that came after the ancient species has them: Darfaries, Wozefaries, Sorefaries and humans), and the caster's other hand \"eats\" the flames.",
+  "t": "<strong>किसी की आत्मा-ऊर्जा:</strong> जब व्यक्ति अपनी बीच की और अनामिका उँगली छूता है, तो उसके हाथ की डारफ़ेरीज़ नसें आत्मा की लौ से जल उठती हैं (प्राचीन प्रजाति के बाद आई हर नस्ल में ये होती हैं: डारफ़ेरीज़, वोज़फ़ेरीज़, सोरफ़ेरीज़ और इंसान), और मंत्र चलाने वाले का दूसरा हाथ लपटें \"खा\" लेता है।"
+ },
  "450d017ad77c": {
   "en": "Then stick out your middle and ring fingers and touch them on the logograms of the open palm.",
   "t": "फिर बीच की उँगली और अनामिका सीधी करके उन्हें खुली हथेली के लोगोग्राम पर रखो।"
+ },
+ "458fa8521bce": {
+  "en": "<strong>Increase/Decrease:</strong> the target grows or shrinks, but its weight stays the same, since its density changes. If the density goes up too much, the item shrinks into infinity and disappears forever. It can harm an item whose function depends on its density. It can turn one metal into another through fusion, but it explodes most of the time.",
+  "t": "<strong>Increase/Decrease:</strong> निशाना बढ़ता या सिकुड़ता है, पर उसका वज़न वही रहता है, क्योंकि उसका घनत्व बदलता है। अगर घनत्व बहुत ज़्यादा बढ़ जाए, तो चीज़ अनंत में सिकुड़कर हमेशा के लिए ग़ायब हो जाती है। यह किसी ऐसी चीज़ को नुक़सान पहुँचा सकता है जिसका काम उसके घनत्व पर निर्भर हो। यह संलयन से एक धातु को दूसरी में बदल सकता है, पर ज़्यादातर बार फट जाता है।"
+ },
+ "46020650f5bc": {
+  "en": "<strong>Disassemble:</strong> tries to explode the body.",
+  "t": "<strong>Disassemble:</strong> शरीर को उड़ा देने की कोशिश करता है।"
+ },
+ "460f450c5a7f": {
+  "en": "<strong>Increase/Decrease:</strong> behaves like Create/Destroy.",
+  "t": "<strong>Increase/Decrease:</strong> Create/Destroy की तरह बर्ताव करते हैं।"
+ },
+ "47fb12785962": {
+  "en": "A missing head",
+  "t": "ग़ायब सिर"
+ },
+ "48b4259f25a7": {
+  "en": "<strong>Destroy:</strong> explodes the target into a shower of extremely fine particles and gas, basically a fine dust; at lower tiers, it might only destroy the object's outer shell.",
+  "t": "<strong>Destroy:</strong> निशाने को बेहद बारीक कणों और गैस की बौछार में उड़ा देता है, असल में एक महीन धूल; निचले स्तरों पर, यह शायद सिर्फ़ वस्तु का बाहरी खोल नष्ट करे।"
+ },
+ "4966438ddf0f": {
+  "en": "Researchers don't fully understand the process. In reality, the spell doesn't create a soul: it tries to pull a disconnected soul into the flesh you want, where it melds with that flesh's own leftover soul connections into a final hybrid. Sex and giving birth are somewhat like that process too: giving new life is basically mixing two souls, giving part of yourself for a newborn to form.",
+  "t": "शोधकर्ता इस प्रक्रिया को पूरी तरह नहीं समझते। असल में, मंत्र आत्मा नहीं बनाता: वह एक अलग हुई आत्मा को तुम्हारे चाहे मांस में खींचने की कोशिश करता है, जहाँ वह उस मांस की अपनी बची हुई आत्मा-कड़ियों के साथ घुलकर एक अंतिम संकर बन जाती है। सेक्स और जन्म देना भी कुछ-कुछ उसी प्रक्रिया जैसे हैं: नई ज़िंदगी देना असल में दो आत्माओं को मिलाना है, एक नवजात के बनने के लिए अपना एक हिस्सा देना।"
+ },
+ "4e20ac3a2fdc": {
+  "en": "Shock Create restarts the heart. Storm Create at Tier II or more also works (higher the fatter the person), but it creates a localized storm that harms the skin, so it's more of a \"punishment revival\".",
+  "t": "शॉक क्रिएट दिल को फिर से चालू करता है। स्तर II या उससे ऊपर पर स्टॉर्म क्रिएट भी काम करता है (व्यक्ति जितना मोटा, स्तर उतना ऊँचा), पर यह एक स्थानीय तूफ़ान बनाता है जो त्वचा को नुक़सान पहुँचाता है, तो यह ज़्यादा \"सज़ा वाला पुनर्जीवन\" है।"
  },
  "4e68b482c7fd": {
   "en": "If you see one of those in a sigil, then for sure it was manufactured before 987 A.G! Some even collect those as trinkets, which increased their price, which then brought fakes to be manufactured. Seeing the shitstorm developing, Forway officialized production of the old versions, which dismantled the market for it, and the problem was solved! Still, lots of people were pissed, but at least it stopped the grift.",
@@ -95,17 +247,57 @@
   "en": "Cat. Body",
   "t": "श्रेणी: शरीर"
  },
+ "503bdeb70c12": {
+  "en": "Multiple broken bones and major blood loss",
+  "t": "कई टूटी हड्डियाँ और भारी ख़ून बहना"
+ },
+ "5255c62e691b": {
+  "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Darfaries shells appear as you do. With a sigil ring:",
+  "t": "<strong>मंत्र शुरू करो।</strong> मंत्र और आत्मा-ऊर्जा थामने वाले हाथ की उँगलियाँ भींचो। ऐसा करते ही डारफ़ेरीज़ कवच दिखने लगते हैं। मुहर वाली अँगूठी के साथ:"
+ },
+ "528b9fb4db2c": {
+  "en": "<strong>Increase/Decrease:</strong> the whole body grows or shrinks.",
+  "t": "<strong>Increase/Decrease:</strong> पूरा शरीर बढ़ता या सिकुड़ता है।"
+ },
+ "55f999e07aab": {
+  "en": "Restore and Create started out as two different spells. But the logograms are an interface to raw soul energy, whose meaning all users share as fact, and over time both came to mean the same thing: regrow what's missing from the body, be it a finger, or everything else if only a finger is left. If no genetic information remains, see Cat. Soul or other interfaces.",
+  "t": "Restore और Create दो अलग मंत्रों के रूप में शुरू हुए। पर लोगोग्राम कच्ची आत्मा-ऊर्जा का एक इंटरफ़ेस हैं, जिनका अर्थ सब इस्तेमाल करने वाले तथ्य की तरह साझा करते हैं, और वक़्त के साथ दोनों का मतलब एक ही हो गया: शरीर से जो ग़ायब है उसे फिर उगाना, चाहे वह एक उँगली हो, या अगर सिर्फ़ एक उँगली बची हो तो बाक़ी सब कुछ। अगर कोई आनुवंशिक जानकारी न बचे, तो श्रे. आत्मा या दूसरे इंटरफ़ेस देखो।"
+ },
  "560c3c8d4c6b": {
   "en": "Ring #1 (closest to wrist): 2",
   "t": "छल्ला #1 (कलाई के सबसे पास): 2"
+ },
+ "57a8586e6216": {
+  "en": "Interface shells",
+  "t": "इंटरफ़ेस के कवच"
  },
  "583b25caa114": {
   "en": "Healing is also often performed through this interface due to its abundant nature or as a way to heal a living soul being affected by the nari gel interface without resetting its effects, as one interface cannot reset or manipulate another interface.",
   "t": "इलाज भी अक्सर इसी इंटरफ़ेस से होता है, इसकी भरपूर प्रकृति के कारण, या नरी जेल के इंटरफ़ेस से प्रभावित किसी जीवित आत्मा का इलाज उसके असर को रद्द किए बिना करने के लिए, क्योंकि एक इंटरफ़ेस दूसरे इंटरफ़ेस को न रद्द कर सकता है, न बदल सकता है।"
  },
+ "595c54a14320": {
+  "en": "The mass affected follows the General Power Effects: 0.1 kg at Tier I, doubling with every tier (51.2 kg at Tier X).",
+  "t": "प्रभावित द्रव्यमान सामान्य शक्ति प्रभावों के हिसाब से चलता है: स्तर I पर 0.1 kg, और हर स्तर पर दोगुना (स्तर X पर 51.2 kg)।"
+ },
+ "599af3d37f22": {
+  "en": "Mud VERB",
+  "t": "Mud VERB"
+ },
  "59ddf0bbb393": {
   "en": "Darfaries interface status: a glowing light-blue ring around a forearm with small colored icons orbiting it.",
   "t": "डारफ़ेरीज़ इंटरफ़ेस की अवस्था: एक अग्रबाहु के चारों ओर हल्का नीला चमकता छल्ला, जिसके चारों ओर छोटे रंगीन आइकन घूमते हैं।"
+ },
+ "5bd44ebe63cd": {
+  "en": "Tier",
+  "t": "स्तर"
+ },
+ "5c0704ac369f": {
+  "en": "A missing torso",
+  "t": "ग़ायब धड़"
+ },
+ "5c447d60de4b": {
+  "en": "V (largest, farthest from the hand)",
+  "t": "V (सबसे बड़ा, हाथ से सबसे दूर)"
  },
  "5cb6d6625907": {
   "en": "Darfaries Interface · #HusbandOutWorld",
@@ -119,9 +311,21 @@
   "en": "Interface \"Balls\"",
   "t": "इंटरफ़ेस की \"गेंदें\""
  },
+ "5e59f0f13ed9": {
+  "en": "If healing isn't happening, the target must be fed Black Honey or another energy-dense food. Five bottles of Black Honey are like eating tens of 2,000-calorie junk food meals. It's expensive, but there's plenty to go around.",
+  "t": "अगर इलाज नहीं हो रहा, तो निशाने को काला शहद या कोई दूसरा ऊर्जा से भरा खाना खिलाना होगा। काले शहद की पाँच बोतलें 2,000-कैलोरी वाले दसियों जंक फ़ूड खाने जैसी हैं। यह महँगा है, पर भरपूर है।"
+ },
  "5e6cc8d41ac1": {
   "en": "987 A.G, the one and only Gabiro Sanbi Royal, landed the formalization of Darfaries interface verbs and the addition of both Transmute and Entangle by creating a new version from the older interfaces. You could say he stole Right, Up, Down, Left, &amp; Rolls from other scientists claiming it, but he was the one who created a uniformity that no other scientists had in mind, so he took home all the glory.",
   "t": "987 A.G में, बेजोड़ गबीरो सनबी रॉयल ने पुराने इंटरफ़ेस से एक नया संस्करण बनाकर डारफ़ेरीज़ इंटरफ़ेस की क्रियाओं को औपचारिक रूप दिलवाया और Transmute और Entangle दोनों को जुड़वाया। कहा जा सकता है कि उसने Right, Up, Down, Left, &amp; Rolls दूसरे वैज्ञानिकों से चुराए जो उन पर दावा करते थे, पर उसने एक ऐसी एकरूपता बनाई जो किसी और वैज्ञानिक के मन में नहीं थी, तो सारा श्रेय उसी को मिला।"
+ },
+ "61c1c4f2478a": {
+  "en": "The Buhraies either were more efficient with this interface or used something else that gave them a leg up. Forway made the Transmute symbol official purely to help research.",
+  "t": "बुरेज़ या तो इस इंटरफ़ेस के साथ ज़्यादा कुशल थे या कुछ और इस्तेमाल करते थे जिससे उन्हें बढ़त मिली। फ़ॉरवे ने Transmute के चिह्न को सिर्फ़ शोध में मदद के लिए आधिकारिक बनाया।"
+ },
+ "6462a34fdd62": {
+  "en": "Put lost limbs close to the body, so regrowing them doesn't take as much energy. Severe damage makes the body use a lot of energy to heal.",
+  "t": "खोए हुए अंगों को शरीर के पास रखो, ताकि उन्हें फिर से उगाने में उतनी ऊर्जा न लगे। भारी नुक़सान से शरीर ठीक होने में बहुत ऊर्जा लगाता है।"
  },
  "66d73579e999": {
   "en": "176 (images illustration)",
@@ -131,25 +335,105 @@
   "en": "You must apply the logograms to the skin of one of your palms, or use sigil rings, then clench your fingers to start the interface while keeping the palm visible.",
   "t": "तुम्हें अपनी एक हथेली की त्वचा पर लोगोग्राम लगाने होंगे, या मुहर वाली अँगूठियाँ इस्तेमाल करनी होंगी, फिर हथेली दिखाते हुए उँगलियाँ भींचकर इंटरफ़ेस चलाना होगा।"
  },
+ "68fd817c6916": {
+  "en": "A sigil ring brings forth a spell: its logograms make soul energy mutate and do what the caster wants.",
+  "t": "मुहर वाली अँगूठी एक मंत्र सामने लाती है: उसके लोगोग्राम आत्मा-ऊर्जा को बदलकर वह करवाते हैं जो मंत्र चलाने वाला चाहता है।"
+ },
+ "69722a5e4037": {
+  "en": "Gravity VERB",
+  "t": "Gravity VERB"
+ },
  "69776ca57e19": {
   "en": "*At least that’s what scientists calculated, as no official Forway record of an exceedingly high-tier spell being cast exists.",
   "t": "*कम से कम वैज्ञानिकों ने यही हिसाब लगाया है, क्योंकि बेहद ऊँचे स्तर का जादू चलाए जाने का फ़ॉरवे का कोई आधिकारिक रिकॉर्ड नहीं है।"
+ },
+ "6b174442593e": {
+  "en": "What each tier can heal:",
+  "t": "हर स्तर क्या ठीक कर सकता है:"
+ },
+ "6b805f489c01": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts everything around it (gravity still affects it). With no target, the soul flame simply evaporates.",
+  "t": "<strong>Repel/Attract:</strong> निशाना अपने आसपास की हर चीज़ को दूर धकेलता या खींचता है (गुरुत्वाकर्षण उस पर फिर भी असर करता है)। अगर कोई निशाना न हो, तो आत्मा की लौ बस भाप बनकर उड़ जाती है।"
  },
  "6bb5f88148f9": {
   "en": "Ring #3: 18",
   "t": "छल्ला #3: 18"
  },
+ "6bf9374ceec0": {
+  "en": "Body VERB",
+  "t": "Body VERB"
+ },
+ "6cf9bf72fbec": {
+  "en": "<strong>Restore/Disassemble:</strong> draws the element into the target from its surroundings, or explodes it out of the target into its surroundings.",
+  "t": "<strong>Restore/Disassemble:</strong> आसपास से तत्व को निशाने में खींचता है, या निशाने से आसपास में उड़ा देता है।"
+ },
  "6d5c5b3cf877": {
   "en": "Using the Darfaries Interface is a process of its own. Though, like riding an egua, once you learn it, it just becomes second nature.",
   "t": "डारफ़ेरीज़ इंटरफ़ेस का इस्तेमाल एक पूरी प्रक्रिया है। पर, एगुआ की सवारी की तरह, एक बार सीख लेने के बाद यह आदत बन जाती है।"
+ },
+ "6d7e4622451a": {
+  "en": "Body manipulation spells are easier to cast, but they can be risky if the caster doesn't know the side effects. Some people may develop side effects not listed here.",
+  "t": "शरीर बदलने वाले मंत्र चलाना आसान है, पर अगर मंत्र चलाने वाला दुष्प्रभाव न जानता हो तो वे जोखिम भरे हो सकते हैं। कुछ लोगों में ऐसे दुष्प्रभाव हो सकते हैं जो यहाँ दर्ज नहीं।"
+ },
+ "6d98ffb6c2df": {
+  "en": "When the body runs out of fuel, Black Honey finishes the healing, so the target doesn't turn skeletal from undernourishment.",
+  "t": "जब शरीर का ईंधन ख़त्म हो जाए, तो काला शहद इलाज पूरा करता है, ताकि कुपोषण से निशाना कंकाल जैसा न हो जाए।"
+ },
+ "6fadfb89a110": {
+  "en": "<strong>Verb:</strong> the change being applied. With no verb, the soul energy falls back on the caster's own idea of what it should do.",
+  "t": "<strong>क्रिया:</strong> लागू किया जा रहा बदलाव। क्रिया न हो, तो आत्मा-ऊर्जा मंत्र चलाने वाले के अपने इस ख़याल पर लौट आती है कि उसे क्या करना चाहिए।"
+ },
+ "703d02d20cde": {
+  "en": "In short: choose the spell, put energy into it, and release it. A spell has two parts:",
+  "t": "संक्षेप में: मंत्र चुनो, उसमें ऊर्जा डालो, और उसे छोड़ दो। एक मंत्र के दो हिस्से होते हैं:"
+ },
+ "705649a46934": {
+  "en": "Frozen Earth VERB",
+  "t": "Frozen Earth VERB"
+ },
+ "7135a4e587c8": {
+  "en": "Ash VERB",
+  "t": "Ash VERB"
+ },
+ "724c8389bd95": {
+  "en": "Steam VERB",
+  "t": "Steam VERB"
  },
  "73b453b0f98a": {
   "en": "Forway considered banning non-logogram usage of this interface in the early 800s A.G., but the scientific community's pushback was too strong. Community opinion shifted in the early 900s A.G. after many scientific tragedies occurred without clear progress. By the late 900s A.G., only fringe scientists like Gabiro Sundeath (also known as Gabiro Sanbi Royal) seemed to be still investigating it.",
   "t": "फ़ॉरवे ने 800 के दशक A.G. की शुरुआत में बिना लोगोग्राम के इस इंटरफ़ेस के इस्तेमाल पर रोक लगाने पर विचार किया, पर वैज्ञानिक समुदाय का विरोध बहुत ज़्यादा था। 900 के दशक A.G. की शुरुआत में, बिना किसी साफ़ प्रगति के कई वैज्ञानिक हादसों के बाद, समुदाय की राय बदल गई। 900 के दशक A.G. के आख़िर तक, सिर्फ़ गबीरो सनडेथ (जिसे गबीरो सनबी रॉयल भी कहते हैं) जैसे हाशिये के वैज्ञानिक ही इसका अध्ययन करते लगते थे।"
  },
+ "756bf4c104c4": {
+  "en": "<strong>Uses:</strong> mainly to entangle the sounds reaching people's ears, so they all hear the same thing. It can be overwhelming: sounds echo when people are close to each other, and it gets harder to tell where sounds other than voices are coming from.",
+  "t": "<strong>उपयोग:</strong> मुख्य रूप से लोगों के कानों तक पहुँचने वाली आवाज़ों को उलझाने के लिए, ताकि सब एक ही चीज़ सुनें। यह भारी पड़ सकता है: जब लोग एक-दूसरे के क़रीब हों तो आवाज़ें गूँजती हैं, और यह बताना मुश्किल हो जाता है कि आवाज़ों के सिवा दूसरी आवाज़ें कहाँ से आ रही हैं।"
+ },
+ "76c79f05025e": {
+  "en": "Sigil rings",
+  "t": "मुहर वाली अँगूठियाँ"
+ },
+ "76f489077f50": {
+  "en": "Storm VERB",
+  "t": "Storm VERB"
+ },
+ "7802ad32f0ce": {
+  "en": "Verbs",
+  "t": "क्रियाएँ"
+ },
+ "78c2d1c75d87": {
+  "en": "Either way, a miscast explodes in soul flame in the caster's hands.",
+  "t": "दोनों ही सूरतों में, ग़लत मंत्र मंत्र चलाने वाले के हाथों में आत्मा की लौ बनकर फट पड़ता है।"
+ },
+ "7a91c4983d68": {
+  "en": "World VERB",
+  "t": "World VERB"
+ },
  "7c67e01db87c": {
   "en": "Full Darfaries Interface - Sigil and Nari stone mode",
   "t": "पूरा डारफ़ेरीज़ इंटरफ़ेस - मुहर और नरी पत्थर मोड"
+ },
+ "7cde42e1eb31": {
+  "en": "Transmute",
+  "t": "Transmute"
  },
  "7df913eb7771": {
   "en": "Ring #2: 8",
@@ -159,21 +443,69 @@
   "en": "To release the spell, unclench the fingers. To add motion to the spell, cock your arm, then throw it towards the target to transfer the inertia into the spell.",
   "t": "जादू छोड़ने के लिए उँगलियाँ ढीली करो। जादू को गति देने के लिए, अपनी बाँह पीछे खींचो, फिर उसे निशाने की ओर फेंको ताकि जड़त्व जादू में चला जाए।"
  },
+ "83a077984fe7": {
+  "en": "The Buhraies created this interface as an enhancement to their own soul energy interface, in an attempt to control the Darfaries as a versatile army of foot soldiers.",
+  "t": "बुरेज़ ने यह इंटरफ़ेस अपने आत्मा-ऊर्जा इंटरफ़ेस के सुधार के तौर पर बनाया, डारफ़ेरीज़ को पैदल सैनिकों की एक बहुमुखी सेना के रूप में नियंत्रित करने की कोशिश में।"
+ },
+ "840823ff59c1": {
+  "en": "<strong>Restore:</strong> shapes the item into the desired object by combining elements around the caster, basically the reverse of chemical reactions. Have the elements it's made of nearby to improve the odds; otherwise the repaired object may break again if the new connections aren't strong.",
+  "t": "<strong>Restore:</strong> मंत्र चलाने वाले के आसपास के तत्वों को मिलाकर चीज़ को मनचाही वस्तु का आकार देता है, असल में रासायनिक प्रतिक्रियाओं का उल्टा। संभावना बढ़ाने के लिए जिन तत्वों से वह बनी है उन्हें पास रखो; वरना मरम्मत हुई चीज़ फिर टूट सकती है अगर नई कड़ियाँ मज़बूत न हों।"
+ },
+ "845f813c2b56": {
+  "en": "<strong>Tiers:</strong> the mass affected follows the General Power Effects (0.1 kg at Tier I, doubling with every tier).",
+  "t": "<strong>स्तर:</strong> प्रभावित द्रव्यमान सामान्य शक्ति प्रभावों के हिसाब से चलता है (स्तर I पर 0.1 kg, और हर स्तर पर दोगुना)।"
+ },
+ "85e7149e86b7": {
+  "en": "<strong>Revival, step by step</strong> (as Morika does it in Vol 4):",
+  "t": "<strong>फिर से ज़िंदा करना, क़दम-दर-क़दम</strong> (जैसा मोरीका खंड 4 में करता है):"
+ },
  "889505c1f708": {
   "en": "This widely-known interface came up as a merger between the ancient species Fuhraies’s, Buhraies’s, and Lishies’s genetics and their own interfaces.",
   "t": "यह मशहूर इंटरफ़ेस प्राचीन प्रजातियों फ़ुरेज़, बुरेज़ और लिशीज़ के आनुवंशिक गुणों और उनके अपने इंटरफ़ेस के मेल से बना है।"
+ },
+ "8a4a4532c533": {
+  "en": "<strong>Apply the energy.</strong> Touch what you want to apply it to with your palm and straighten your fingers, or release the spell as it is for a ranged attack. Cock your arm and time it right for extra range. The caster's body feels the weight of the spell, like firing a gun.",
+  "t": "<strong>ऊर्जा लगाओ।</strong> जिस पर लगाना चाहते हो उसे अपनी हथेली से छुओ और उँगलियाँ सीधी करो, या दूर के हमले के लिए मंत्र को वैसे ही छोड़ दो। ज़्यादा दूरी के लिए अपनी बाँह पीछे खींचो और सही वक़्त पर छोड़ो। मंत्र चलाने वाले के शरीर को मंत्र का वज़न महसूस होता है, जैसे बंदूक़ चलाते वक़्त।"
+ },
+ "8ca6193582e9": {
+  "en": "Water VERB",
+  "t": "Water VERB"
+ },
+ "8d204a0435e5": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Darfaries%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Darfaries Interface.md</a>",
+  "t": "स्रोत: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Darfaries%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Darfaries Interface.md</a>"
  },
  "8f6687bd0076": {
   "en": "The “Veins”",
   "t": "\"नसें\""
  },
+ "930585f35c72": {
+  "en": "<strong>Choose the spell</strong> (see Language › Darfaries Interface Language). Either put on a sigil ring:",
+  "t": "<strong>मंत्र चुनो</strong> (भाषा › डारफ़ेरीज़ इंटरफ़ेस की भाषा देखो)। या तो मुहर वाली अँगूठी पहनो:"
+ },
+ "95ca95757aa4": {
+  "en": "Cat. Soul",
+  "t": "श्रे. आत्मा"
+ },
+ "984bfe340ee0": {
+  "en": "Healing matches the flesh to how the soul looks, so old scars don't exist in Vraki unless someone is too poor for nari gels or the Darfaries Interface. Tattoos are removed as soon as Body Restore is used.",
+  "t": "इलाज मांस को आत्मा के रूप से मिलाता है, तो व्राकी में पुराने निशान नहीं होते, जब तक कोई नरी जेल या डारफ़ेरीज़ इंटरफ़ेस के लिए बहुत ग़रीब न हो। बॉडी रिस्टोर इस्तेमाल होते ही टैटू हट जाते हैं।"
+ },
  "995e5279ac7d": {
   "en": "To add more power, repeat this action. Be aware that each “eating“ motion attempts to bring the spell to the next stable tier, or energy level, so awareness of the increased soul energy needed between each higher tier is essential.",
   "t": "और ताक़त जोड़ने के लिए यह क्रिया दोहराओ। ध्यान रहे कि हर \"खाने\" वाली हरकत जादू को अगले स्थिर स्तर, या ऊर्जा-स्तर, पर ले जाने की कोशिश करती है, इसलिए हर ऊँचे स्तर के बीच ज़रूरी अतिरिक्त आत्मा-ऊर्जा का पता होना बेहद ज़रूरी है।"
  },
+ "9bd96337042b": {
+  "en": "Nickel → Copper",
+  "t": "निकल → ताँबा"
+ },
  "9f156873d1d5": {
   "en": "Sigil rings are a modern and quicker way to interact with the Darfaries Interface. Without it, one must draw the logograms into the skin of their palm, which can be a lengthy process, even for seasoned adventurers. Dangerous, too, as if you draw something unclear as it could cause the interface to default to your thoughts, and you needlessly turn your best friend into a fanchaki all because you thought about what’s cooking for dinner while casting it. And if you’re really messing with the soul, even if by accident, you might never find a way to undo it.",
   "t": "मुहर वाली अँगूठियाँ डारफ़ेरीज़ इंटरफ़ेस से काम लेने का एक आधुनिक और तेज़ तरीक़ा हैं। उनके बिना हथेली की त्वचा पर लोगोग्राम बनाने पड़ते हैं, जिसमें मँजे हुए साहसियों को भी समय लग सकता है। और यह ख़तरनाक भी है: अगर तुम कुछ धुँधला बनाओ, तो इंटरफ़ेस तुम्हारे विचारों का सहारा ले सकता है, और तुम जादू चलाते समय बस रात के खाने के बारे में सोचने की वजह से अपने सबसे अच्छे दोस्त को बेवजह फ़ानचाकी में बदल दोगे। और अगर तुमने सच में आत्मा को छू लिया, अनजाने में भी, तो शायद उसे रद्द करने का तरीक़ा कभी न मिले।"
+ },
+ "a2719cb8ed6e": {
+  "en": "Every elemental spell works the same way:",
+  "t": "हर तत्व वाला मंत्र एक ही तरह काम करता है:"
  },
  "a2b9afce0d53": {
   "en": "Ring #4: 32*",
@@ -183,45 +515,169 @@
   "en": "Darfaries Interface",
   "t": "डारफ़ेरीज़ इंटरफ़ेस"
  },
+ "a37a0f7da74e": {
+  "en": "Iron → Cobalt",
+  "t": "लोहा → कोबाल्ट"
+ },
+ "a565144f956c": {
+  "en": "Creates a soul with specific soul genetic information, using flesh as the base. The incantation tries to picture the target and think aloud about its characteristics.",
+  "t": "मांस को आधार बनाकर, ख़ास आत्मा-आनुवंशिक जानकारी वाली एक आत्मा बनाता है। मंत्रोच्चार निशाने की कल्पना करने और ज़ोर से उसकी विशेषताओं पर सोचने की कोशिश करता है।"
+ },
  "a669783c12a0": {
   "en": "Using The Interface - Release",
   "t": "इंटरफ़ेस का इस्तेमाल - छोड़ना"
+ },
+ "a6eb045a1ff1": {
+  "en": "<strong>Create/Destroy:</strong> Create does nothing. Destroy explodes the target into a shower of extremely fine particles and gas, basically a fine dust; at lower tiers, it might only destroy the object's outer shell.",
+  "t": "<strong>Create/Destroy:</strong> Create कुछ नहीं करता। Destroy निशाने को बेहद बारीक कणों और गैस की बौछार में उड़ा देता है, असल में एक महीन धूल; निचले स्तरों पर, यह शायद सिर्फ़ वस्तु का बाहरी खोल नष्ट करे।"
+ },
+ "a7eb38f676c7": {
+  "en": "<strong>Restore:</strong> soul energy uses the target's soul genetic information to find what's out of place in their body, and corrects it using stored energy to fuel the changes. More below.",
+  "t": "<strong>Restore:</strong> आत्मा-ऊर्जा निशाने की आत्मा-आनुवंशिक जानकारी से पता लगाती है कि उसके शरीर में क्या जगह से हटा है, और जमा ऊर्जा से बदलावों को ईंधन देकर उसे ठीक करती है। ज़्यादा नीचे।"
  },
  "a8fe88bccc82": {
   "en": "Full Darfaries Interface - scribling and soul energy stone mode",
   "t": "पूरा डारफ़ेरीज़ इंटरफ़ेस - घसीट-लिखाई और आत्मा-ऊर्जा पत्थर मोड"
  },
+ "aa288905b03d": {
+  "en": "I (smallest, closest to the hand)",
+  "t": "I (सबसे छोटा, हाथ के सबसे क़रीब)"
+ },
+ "aa39015fda61": {
+  "en": "Science - Darfaries Interface (World Lore illustration)",
+  "t": "विज्ञान - डारफ़ेरीज़ इंटरफ़ेस (संसार का चित्र)"
+ },
+ "ad0f7e005000": {
+  "en": "Body Restore, through a sigil ring fueled by nari sticks.",
+  "t": "नरी स्टिक से ईंधन पाती मुहर वाली अँगूठी के ज़रिए बॉडी रिस्टोर।"
+ },
  "ad789405eb37": {
   "en": "Compound objects",
   "t": "संयुक्त वस्तुएँ"
+ },
+ "aeaf0ba689f9": {
+  "en": "Cobalt → Nickel",
+  "t": "कोबाल्ट → निकल"
+ },
+ "b325204b56ca": {
+  "en": "The best-known spells (healing, reviving, elemental and more) can be bought at any Soul Energy shop.",
+  "t": "सबसे जाने-माने मंत्र (इलाज, फिर से ज़िंदा करना, तत्व वाले और भी) किसी भी आत्मा-ऊर्जा की दुकान पर ख़रीदे जा सकते हैं।"
  },
  "b4801c89826b": {
   "en": "Due to their size, Darfaries cannot fly, but they can somewhat dampen their fall from approximately three-story buildings. Wozefaries can dampen their fall from up to ten-story buildings, while Sorefaries can control their attitude at will, and even carry some weight with them. The weight depends on the Sorefaries’ strength, dexterity, and soul energy capacity.",
   "t": "अपने आकार के कारण डारफ़ेरीज़ उड़ नहीं सकते, पर लगभग तीन मंज़िला इमारतों से गिरने पर आंशिक रूप से अपना गिरना धीमा कर सकते हैं। वोज़फ़ेरीज़ दस मंज़िल तक की इमारतों से गिरना धीमा कर सकते हैं, जबकि सोरफ़ेरीज़ अपनी मर्ज़ी से अपनी जगह नियंत्रित कर सकते हैं, और थोड़ा वज़न भी उठा सकते हैं। वज़न सोरफ़ेरीज़ की ताक़त, फुर्ती और आत्मा-ऊर्जा की क्षमता पर निर्भर करता है।"
  },
+ "b647f1de4ac0": {
+  "en": "Bruises",
+  "t": "चोट के नील"
+ },
+ "b92c87f1b12d": {
+  "en": "Soul energy shapes the spell using logograms drawn from the knowledge shared by the people nearby.",
+  "t": "आत्मा-ऊर्जा आसपास के लोगों के साझा ज्ञान से लिए गए लोगोग्राम से मंत्र को आकार देती है।"
+ },
+ "ba9989c6673e": {
+  "en": "<strong>Subject:</strong> the target of the spell. With no subject, the soul energy falls back on the caster's own idea of how it should apply itself.",
+  "t": "<strong>विषय:</strong> मंत्र का निशाना। विषय न हो, तो आत्मा-ऊर्जा मंत्र चलाने वाले के अपने इस ख़याल पर लौट आती है कि उसे ख़ुद को कैसे लागू करना चाहिए।"
+ },
+ "baded418ca13": {
+  "en": "A White Hole (also called White Fire) is what happens when soul energy doesn't convert properly into the desired outcome: it backfires, explodes, or becomes nothing instead of something. These events aren't quite an urban legend: scientists and researchers know about them. They were better known in the old days, before Forway really became a thing and resentment against messing with the soul became commonplace.",
+  "t": "श्वेत विवर (जिसे व्हाइट फ़ायर भी कहते हैं) वह है जो तब होता है जब आत्मा-ऊर्जा मनचाहे नतीजे में ठीक से नहीं बदलती: वह उल्टी पड़ती है, फट जाती है, या कुछ बनने के बजाय कुछ नहीं बनती। ये घटनाएँ पूरी तरह शहरी दंतकथा नहीं हैं: वैज्ञानिक और शोधकर्ता इनके बारे में जानते हैं। पुराने दिनों में, फ़ॉरवे के सच में कुछ बनने और आत्मा से छेड़छाड़ के ख़िलाफ़ नाराज़गी आम होने से पहले, ये ज़्यादा जानी जाती थीं।"
+ },
+ "bc6f4bc6da01": {
+  "en": "Heals",
+  "t": "ठीक करता है"
+ },
+ "bdc1fd5d3c0f": {
+  "en": "Shell",
+  "t": "कवच"
+ },
+ "be58ecb5f9ad": {
+  "en": "Drawn logograms are forbidden inside city and kingdom perimeters, because of the risk of explosions and miscasts:",
+  "t": "विस्फोटों और ग़लत मंत्रों के ख़तरे की वजह से शहर और राज्य की सीमाओं के भीतर हाथ से बने लोगोग्राम मना हैं:"
+ },
  "c0074aa34b2d": {
   "en": "Darfaries Interface Video showcase",
   "t": "डारफ़ेरीज़ इंटरफ़ेस वीडियो प्रदर्शन"
+ },
+ "c0a448a02870": {
+  "en": "Water Gravity VERB",
+  "t": "Water Gravity VERB"
+ },
+ "c4ebb12ada7e": {
+  "en": "Soul Create (Book I Chapter I Gabiro’s version)",
+  "t": "Soul Create (किताब I अध्याय I, गबीरो का संस्करण)"
+ },
+ "c4f55f2d0048": {
+  "en": "<strong>Restore/Disassemble:</strong> Restore doesn't put things back together from their pieces; it just makes the object look newer. Disassemble does the reverse: it rusts an item. It's basically the reverse of chemical reactions.",
+  "t": "<strong>Restore/Disassemble:</strong> Restore चीज़ों को उनके टुकड़ों से फिर से नहीं जोड़ता; बस वस्तु को नया-सा दिखाता है। Disassemble उल्टा करता है: किसी चीज़ में ज़ंग लगा देता है। असल में यह रासायनिक प्रतिक्रियाओं का उल्टा है।"
+ },
+ "c6838a9cbc77": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts the element. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Repel/Attract:</strong> निशाना तत्व को दूर धकेलता या खींचता है। अगर कोई निशाना न हो, तो आत्मा की लौ बस भाप बनकर उड़ जाती है।"
  },
  "c8c7488b1383": {
   "en": "Environmental changes, especially creation, destruction, and manipulation of elemental properties such as water, fire, terrain, and gravity, are commonly performed through this interface.",
   "t": "पर्यावरण में बदलाव, ख़ासकर पानी, आग, ज़मीन और गुरुत्व जैसे तत्वों के गुणों को बनाना, नष्ट करना और बदलना, आम तौर पर इसी इंटरफ़ेस से होता है।"
  },
+ "cac2d50e5374": {
+  "en": "It only restores the base genetic information; it doesn't deal with whatever is causing the damage, such as worms.",
+  "t": "यह सिर्फ़ बुनियादी आनुवंशिक जानकारी बहाल करता है; नुक़सान की वजह, जैसे कीड़ों, से नहीं निपटता।"
+ },
  "cb864e0c3c67": {
   "en": "Keeping your fingers clenched on the hand you used the logograms on, you must now trap the fingers, or nari stone stick, then reverse the motion while keeping the fingers clenched. This sort of “eating“ motion will suck the power and create a ball into one of the rings that will temporarily hold power. Do not worry about how fast it zips around. The rings will keep it in check until you release the spell in the final step.",
   "t": "जिस हाथ पर तुमने लोगोग्राम लगाए हैं उसकी उँगलियाँ भींचे रखते हुए, अब तुम्हें उँगलियों, या नरी पत्थर की छड़ी, को जकड़ना होगा, फिर उँगलियाँ भींचे हुए ही हरकत को उलटना होगा। यह \"खाने\" वाली हरकत ताक़त को खींच लेगी और किसी एक छल्ले में एक गेंद बनाएगी, जो ताक़त को कुछ देर थामे रखेगी। वह कितनी तेज़ी से घूमती है, इसकी चिंता मत करना। आख़िरी चरण में जादू छोड़ने तक छल्ले उसे सँभाले रखेंगे।"
+ },
+ "cbe94eef3d69": {
+  "en": "<strong>Infuse soul energy.</strong> The casting hand takes in energy when the caster \"eats\" with it. A spell is only stable at a soul energy tier, so energy always fills up to the next tier (after a partial charge, it adds the difference). The energy can come from:",
+  "t": "<strong>आत्मा-ऊर्जा भरो।</strong> मंत्र चलाने वाला हाथ तब ऊर्जा लेता है जब मंत्र चलाने वाला उससे \"खाता\" है। मंत्र सिर्फ़ किसी आत्मा-ऊर्जा स्तर पर ही स्थिर होता है, तो ऊर्जा हमेशा अगले स्तर तक भरती है (आंशिक चार्ज के बाद, वह फ़र्क़ जोड़ देती है)। ऊर्जा यहाँ से आ सकती है:"
+ },
+ "cd5fc47831e2": {
+  "en": "Entangle",
+  "t": "Entangle"
+ },
+ "d08ae5111258": {
+  "en": "Minor cuts and minor blood loss",
+  "t": "मामूली कटाव और थोड़ा ख़ून बहना"
  },
  "d3ffc8903c8c": {
   "en": "Darfaries, Wozefaries, and Sorefaries show the markings of controlled flight and built-in spell-casting mechanisms using specialized nerves attuned to soul energy that appear as veins, at least to the untrained eye, throughout the upper body. These reddened nerves always ran up their hands and arms and met in the back with a distinct capillary branching appearance.",
   "t": "डारफ़ेरीज़, वोज़फ़ेरीज़ और सोरफ़ेरीज़ पर नियंत्रित उड़ान और शरीर में बने जादू चलाने के तंत्रों के निशान होते हैं, आत्मा-ऊर्जा से तालमेल वाली ख़ास नसों की बदौलत, जो कम से कम अनजान नज़र को पूरे ऊपरी शरीर में शिराओं जैसी दिखती हैं। ये लाल नसें हमेशा हाथों और बाँहों से ऊपर चढ़ती हैं और बालों जैसी शाखाओं वाले ख़ास रूप में पीठ पर मिलती हैं।"
  },
+ "d41f0dd4cd5a": {
+  "en": "<strong>Uses:</strong> active research is trying to figure out how the Buhraies used it to shape the land and do all kinds of shit with it. Some researchers think it could outright make gold, which seems possible, since people have transmuted these (it just doesn't make much economic sense):",
+  "t": "<strong>उपयोग:</strong> सक्रिय शोध यह जानने की कोशिश कर रहा है कि बुरेज़ ने इससे ज़मीन को आकार कैसे दिया और इसके साथ हर तरह की भसड़ कैसे की। कुछ शोधकर्ता सोचते हैं कि यह सीधे-सीधे सोना बना सकता है, जो मुमकिन लगता है, क्योंकि लोगों ने इन्हें बदला है (बस आर्थिक रूप से इसका ज़्यादा मतलब नहीं बनता):"
+ },
+ "d50e6f0c1670": {
+  "en": "The logograms are the guardrails. Every race with the Darfaries interface can try to override them by using a knife to reach the Buhraies interface underneath, as Gabiro does in the Vol 1 prologue. It's dangerous: an empty logogram forces the user into immense concentration, and the odds aren't in their favor. So for common folk, it's basically like being unable to reach the \"ancient roots\" of the interface.",
+  "t": "लोगोग्राम ही इसकी रेलिंग हैं। डारफ़ेरीज़ इंटरफ़ेस वाली हर नस्ल चाकू से नीचे के बुरेज़ इंटरफ़ेस तक पहुँचकर उन्हें दरकिनार करने की कोशिश कर सकती है, जैसा गबीरो खंड 1 की प्रस्तावना में करता है। यह ख़तरनाक है: एक ख़ाली लोगोग्राम इस्तेमाल करने वाले को भारी एकाग्रता पर मजबूर करता है, और संभावनाएँ उसके पक्ष में नहीं होतीं। तो आम लोगों के लिए, यह असल में इंटरफ़ेस की \"प्राचीन जड़ों\" तक न पहुँच पाने जैसा है।"
+ },
  "d5fc3c0d596b": {
   "en": "Currently, 26 Simple Objects are widely accepted, as in Forway-approved, for Sigil rings. They are mostly inherited from previous interfaces and haven’t changed in hundreds of years.",
   "t": "फ़िलहाल मुहर वाली अँगूठियों के लिए 26 सरल वस्तुएँ व्यापक रूप से स्वीकृत हैं, यानी फ़ॉरवे से मंज़ूर। ये ज़्यादातर पिछले इंटरफ़ेस से विरासत में मिली हैं और सैकड़ों सालों से नहीं बदलीं।"
  },
+ "d7506f50f91f": {
+  "en": "Cat. Material",
+  "t": "श्रे. पदार्थ"
+ },
+ "d8d1f53225ee": {
+  "en": "Gabiro brought Entangle back from the history books. Many had tried before him, but the side effects were always too strong; Gabiro understood how it worked in principle far better than anyone. Most people don't use it day to day, but it's a fundamental tool for the adventurers and guards who protect them.",
+  "t": "गबीरो ने एंटैंगल को इतिहास की किताबों से वापस ज़िंदा किया। उससे पहले बहुतों ने कोशिश की थी, पर उसके दुष्प्रभाव हमेशा बहुत तगड़े होते थे; गबीरो सिद्धांत रूप में समझता था कि यह कैसे काम करता है, किसी और से कहीं बेहतर। ज़्यादातर लोग इसे रोज़मर्रा में इस्तेमाल नहीं करते, पर साहसियों और उनकी रक्षा करने वाले पहरेदारों के लिए यह एक बुनियादी औज़ार है।"
+ },
+ "d90ca37eeeb8": {
+  "en": "{Object} VERB",
+  "t": "{Object} VERB"
+ },
  "d91500bfa542": {
   "en": "Public text: science-darfaries-interface.md",
   "t": "सार्वजनिक पाठ: science-darfaries-interface.md"
+ },
+ "dcc44733ccdb": {
+  "en": "Minor broken bones and medium blood loss",
+  "t": "मामूली टूटी हड्डियाँ और मध्यम ख़ून बहना"
+ },
+ "ddf5082031ec": {
+  "en": "Each ring has one spell carved into it, such as Body Restore or Shock Create.",
+  "t": "हर अँगूठी पर एक मंत्र खुदा होता है, जैसे बॉडी रिस्टोर या शॉक क्रिएट।"
  },
  "de1369b50eb5": {
   "en": "Not to say humans can’t use this interface. They certainly can! Although, only if they have shared blood with Darfaries or Wozefaries in their family.",
@@ -230,6 +686,10 @@
  "ded446aabbba": {
   "en": "Now you must make a fist with your other hand. If you can use this interface, a distinct group of five rings will surge from the white flames in your arms and expand outward, with the smallest ring closer to your wrist.",
   "t": "अब तुम्हें दूसरे हाथ की मुट्ठी भींचनी होगी। अगर तुम यह इंटरफ़ेस इस्तेमाल कर सकते हो, तो तुम्हारी बाँहों की सफ़ेद लपटों से पाँच छल्लों का एक अलग समूह निकलेगा और बाहर की ओर फैलेगा, सबसे छोटा छल्ला तुम्हारी कलाई के सबसे पास।"
+ },
+ "e0c1969b54cd": {
+  "en": "When a spell is cast, five rings appear around the hand holding it. Each shell holds a limited number of soul energy tiers:",
+  "t": "जब मंत्र चलाया जाता है, तो उसे थामने वाले हाथ के चारों ओर पाँच छल्ले दिखते हैं। हर कवच आत्मा-ऊर्जा के सीमित स्तर ही थाम सकता है:"
  },
  "e5df83155e66": {
   "en": "Full Darfaries Interface - Sigil and Nari stone mode (video)",
@@ -243,6 +703,10 @@
   "en": "This is where some scientists spent their entire lives trying to claim a new verb to be accepted by Forway, but all their works became food for paper rot and forgotten to history because of a single man who broke through the hundreds of years stalemate.",
   "t": "यहीं कुछ वैज्ञानिकों ने फ़ॉरवे से एक नई क्रिया मंज़ूर करवाने की कोशिश में अपनी पूरी ज़िंदगी लगा दी, पर उनका सारा काम सड़ते काग़ज़ का चारा बन गया और इतिहास ने उसे भुला दिया, एक ही आदमी की वजह से जिसने सदियों का गतिरोध तोड़ा।"
  },
+ "e8d0433850e4": {
+  "en": "Fire VERB",
+  "t": "Fire VERB"
+ },
  "ef47633dff56": {
   "en": "Given Darfaries sport the most prominent Darfaries veins, its sheer additional volume allows them to finely sense soul energy disturbances around them, plus a rough sensation of humidity, wind, and barometric pressure—it’s like how they say, if a Darfaries tells you to buy an umbrella, you better buy one!",
   "t": "चूँकि डारफ़ेरीज़ में सबसे उभरी डारफ़ेरीज़ नसें होती हैं, उनकी अतिरिक्त मात्रा उन्हें अपने आसपास आत्मा-ऊर्जा की गड़बड़ियों को बारीकी से भाँपने देती है, साथ ही नमी, हवा और वायुदाब का मोटा-मोटा अंदाज़ा भी—जैसा कहते हैं, अगर कोई डारफ़ेरीज़ तुमसे छाता ख़रीदने को कहे, तो बेहतर है ख़रीद लो!"
@@ -250,5 +714,21 @@
  "f329090850be": {
   "en": "Shared Blood",
   "t": "साझा ख़ून"
+ },
+ "f5526de22a80": {
+  "en": "Or draw the logograms by hand. In the early 800s A.G., Forway considered banning the use of the interface without a sigil ring: partly to stop people drawing logograms by hand, which invites mistakes, misuse and, in rare cases, an accidental White Hole, but even more to stop anyone using the interface without logograms (the guardrails) at all. The scientific community pushed back too hard. Opinion shifted in the early 900s A.G., after many scientific tragedies with no clear progress, and by the late 900s A.G. only fringe scientists like Gabiro Sundeath (also known as Gabiro Sanbi Royal) still seemed to be investigating it.",
+  "t": "या हाथ से लोगोग्राम बनाओ। 800 A.G. के शुरुआती सालों में, फ़ॉरवे ने बिना मुहर वाली अँगूठी के इंटरफ़ेस के इस्तेमाल पर पाबंदी लगाने पर विचार किया: कुछ हद तक लोगों को हाथ से लोगोग्राम बनाने से रोकने के लिए, जो ग़लतियों, दुरुपयोग और, दुर्लभ मामलों में, अनजाने श्वेत विवर को न्योता देता है, पर उससे भी ज़्यादा किसी को बिना लोगोग्राम (रेलिंग) के इंटरफ़ेस इस्तेमाल करने से रोकने के लिए। वैज्ञानिक समुदाय ने बहुत ज़ोरदार विरोध किया। 900 A.G. के शुरुआती सालों में, बिना किसी साफ़ तरक़्क़ी वाली कई वैज्ञानिक त्रासदियों के बाद, राय बदल गई, और 900 A.G. के आख़िरी सालों तक सिर्फ़ गबीरो सनडेथ (जिसे गबीरो सनबी रॉयल भी कहते हैं) जैसे हाशिये के वैज्ञानिक ही इसकी जाँच करते लगते थे।"
+ },
+ "f6bd920f19f0": {
+  "en": "Lava VERB",
+  "t": "Lava VERB"
+ },
+ "f7e4312c3e9b": {
+  "en": "Body parts for later use are kept in jars of a viscous red jelly: finely ground nari stone mixed with blood.",
+  "t": "बाद में इस्तेमाल के लिए शरीर के अंग एक गाढ़ी लाल जेली के मर्तबानों में रखे जाते हैं: ख़ून में मिलाया गया बारीक पिसा नरी पत्थर।"
+ },
+ "ff5ced0ff9c1": {
+  "en": "Wind VERB",
+  "t": "Wind VERB"
  }
 }
