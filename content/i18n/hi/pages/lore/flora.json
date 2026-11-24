@@ -1,4 +1,8 @@
 {
+ "00b4fa5c6d2d": {
+  "en": "Used to make beer, bread, and everything in between.",
+  "t": "बीयर, ब्रेड, और उनके बीच की हर चीज़ बनाने में इस्तेमाल होता है।"
+ },
  "01f1130763dc": {
   "en": "Tastyleaf: a huge tree with pale-blue leaves and a twisted dark trunk.",
   "t": "टेस्टीलीफ़: हल्की नीली पत्तियों और गहरे, मुड़े तने वाला एक विशाल पेड़।"
@@ -19,6 +23,10 @@
   "en": "<strong>Tier II (Common Goods):</strong> flowers, mushrooms and roots.",
   "t": "<strong>स्तर II (आम माल):</strong> फूल, कुकुरमुत्ते और जड़ें।"
  },
+ "06f8b86becdf": {
+  "en": "<strong>Bread</strong>: It’s bread, with a texture close to French bread.",
+  "t": "<strong>ब्रेड</strong>: यह ब्रेड है, फ़्रेंच ब्रेड के क़रीब की बनावट के साथ।"
+ },
  "095e6988b83b": {
   "en": "<strong>Lonllow Juice</strong>: Kind of good; better in vitamin shakes.",
   "t": "<strong>लॉनलो का रस</strong>: कुछ अच्छा; विटामिन शेक में बेहतर।"
@@ -31,21 +39,53 @@
   "en": "<strong>Habitat:</strong> Around Blood City and Freeish, and hardly anywhere else in the kingdoms. They are lone trees that sprout from small, colorful seeds. Trunk People love to live on them.",
   "t": "<strong>पर्यावास:</strong> ब्लड सिटी और फ़्रीइश के आसपास, और राज्यों में शायद ही कहीं और। ये अकेले पेड़ हैं जो छोटे, रंग-बिरंगे बीजों से उगते हैं। ट्रंक पीपल को इन पर रहना बहुत पसंद है।"
  },
+ "0ba6664b41ca": {
+  "en": "<strong>Dried Gyut</strong>: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack.",
+  "t": "<strong>सूखा ग्युट</strong>: खाने के भंडार के लिए, दूसरे राज्यों को बेचने के लिए, बेकिंग के लिए, या रास्ते के नाश्ते के तौर पर बनाया जाता है।"
+ },
+ "0bd6bc703016": {
+  "en": "<strong>Ale</strong>: Like beer, but slightly stronger.",
+  "t": "<strong>एल</strong>: बीयर जैसी, पर थोड़ी ज़्यादा तेज़।"
+ },
+ "0d96598d1fa5": {
+  "en": "<strong>Child Beer</strong>: A weak, mildly sweet and very nutritious beer meant for children. (Real-world comparison: <a href=\"https://en.wikipedia.org/wiki/Small_beer\" rel=\"noopener\">small beer</a>, the weak beer once drunk daily by children and adults alike.)",
+  "t": "<strong>बच्चों की बीयर</strong>: बच्चों के लिए बनी एक हल्की, थोड़ी मीठी और बहुत पौष्टिक बीयर। (असल दुनिया से तुलना: <a href=\"https://en.wikipedia.org/wiki/Small_beer\" rel=\"noopener\">स्मॉल बीयर</a>, वह हल्की बीयर जो कभी बच्चे और बड़े एक जैसे रोज़ पीते थे।)"
+ },
+ "10b51080bea5": {
+  "en": "<strong>Domar Child Beer</strong>: A weak, mildly sweet and very nutritious beer meant for children. (Real-world comparison: <a href=\"https://en.wikipedia.org/wiki/Small_beer\" rel=\"noopener\">small beer</a>, the weak beer once drunk daily by children and adults alike.)",
+  "t": "<strong>डोमार बच्चों की बीयर</strong>: बच्चों के लिए बनी एक हल्की, थोड़ी मीठी और बहुत पौष्टिक बीयर। (असल दुनिया से तुलना: <a href=\"https://en.wikipedia.org/wiki/Small_beer\" rel=\"noopener\">स्मॉल बीयर</a>, वह हल्की बीयर जो कभी बच्चे और बड़े एक जैसे रोज़ पीते थे।)"
+ },
  "10d6fee23412": {
   "en": "<strong>Habitat:</strong> ~0–1 km above sea level. Some variety grows everywhere, but the Yabuca people want (the Yabuca variety, also called the traditional variety) is only found in the south, where it is farmed intensively in the Freeish Kingdom.",
   "t": "<strong>पर्यावास:</strong> समुद्र तल से ~0–1 km ऊपर। कोई न कोई क़िस्म हर जगह उगती है, पर लोग जो याबूका चाहते हैं (याबूका क़िस्म, जिसे पारंपरिक क़िस्म भी कहते हैं) वह सिर्फ़ दक्षिण में मिलती है, जहाँ फ़्रीइश राज्य में इसकी भारी खेती होती है।"
+ },
+ "10f91c529df0": {
+  "en": "<strong>Breadplate</strong>: Bread used as a plate; often eaten afterward or given to the poor.",
+  "t": "<strong>पाव-थाली</strong>: थाली की तरह इस्तेमाल होने वाली ब्रेड; अक्सर बाद में खा ली जाती है या ग़रीबों को दे दी जाती है।"
  },
  "11311ca4a1d2": {
   "en": "Steen: a narrow, tall green conifer-like plant with a spiky leaf rosette shown above.",
   "t": "स्टीन: शंकुधारी पेड़ जैसा एक पतला, लंबा हरा पौधा, ऊपर काँटेदार पत्तियों का एक गुच्छा दिखाया गया।"
  },
+ "11b81bada804": {
+  "en": "<strong>Fried Cadioca</strong>: A popular food throughout the kingdoms, also invented in the Freeish Kingdom.",
+  "t": "<strong>तला कैडियोका</strong>: पूरे राज्यों में एक लोकप्रिय खाना, जो भी फ़्रीइश राज्य में ईजाद हुआ।"
+ },
  "1207e16ead81": {
   "en": "<strong>Interface:</strong> Transparent petals.",
   "t": "<strong>इंटरफ़ेस:</strong> पारदर्शी पंखुड़ियाँ।"
  },
+ "1298326dd399": {
+  "en": "<strong>Tastes like:</strong> Carbey, with hints of Parmesan cheese.",
+  "t": "<strong>स्वाद:</strong> कार्बी, पार्मेज़न पनीर के इशारों के साथ।"
+ },
  "12a81303cac9": {
   "en": "Basi berries are gathered and then beaten down mechanically to separate the flesh into a thick pulp akin to petroleum jelly. The dark thick pulp comes with an earthy, slightly bitter taste akin to mixing 80% dark chocolate and blackberry with a tinge of red huckleberry, and it's a food staple on Freeish Kingdom. Folks over there eat it with literally everything, pairing it with grilled or fried fish, dried jerky, and even adding sugar and ice cubes and eating it as a dessert. It is also quite heavy on fiber, which explains why the Freeish Kingdom basically grinds to a halt for a bit after lunch and dinner! Other kingdoms likely don't partake much in that cuisine as the basi pulp only tastes good fresh, and as soon as you refrigerate or freeze it, the flavor breaks down to tasting like dirt.",
   "t": "बासी की बेरियाँ तोड़ी जाती हैं और फिर गूदे को वैसलीन जैसे गाढ़े लेप में अलग करने के लिए यंत्रों से कूटी जाती हैं। इस गहरे, गाढ़े लेप का स्वाद मिट्टी जैसा और हल्का कड़वा है, 80% डार्क चॉकलेट और शहतूत के मेल के क़रीब, लाल क्रैनबेरी के एक पुट के साथ, और यह फ़्रीइश राज्य का मुख्य भोजन है। वहाँ लोग सचमुच इसे हर चीज़ के साथ खाते हैं, भुनी या तली मछली, सुखाए मांस के साथ, और मिठाई के तौर पर खाने के लिए इसमें चीनी और बर्फ़ भी डालते हैं। इसमें रेशा भी बहुत होता है, जिससे समझ आता है कि दोपहर और रात के खाने के बाद फ़्रीइश राज्य कुछ देर के लिए लगभग ठप क्यों हो जाता है! दूसरे राज्य शायद यह खाना ज़्यादा नहीं अपनाते, क्योंकि बासी का लेप सिर्फ़ ताज़ा अच्छा लगता है, और ठंडा या जमाते ही उसका स्वाद बिगड़कर मिट्टी जैसा हो जाता है।"
+ },
+ "140036d902d2": {
+  "en": "A bushy plant that grows in the wild.",
+  "t": "जंगल में उगने वाला एक झाड़ीदार पौधा।"
  },
  "14c4cfe385d1": {
   "en": "Emerenthy or methyl for some, is a common plant in the forests of Freeish. Mostly known for offering a bit of light at night for people and animals in the forest. Some say that if Trunk people like you, they will get the methyl to guide you. Others think it's egua shit and that they only exist to attract insects to feed on its sweet nectar. You can also rip them off the ground and shake them as an emergency torch, but they don’t last that long. But if you collect enough of them, you can use them as a fibrous addition to any meal, like celery.",
@@ -59,6 +99,10 @@
   "en": "Hifuna Yabuca Fruit",
   "t": "हिफ़ूना याबूका फल"
  },
+ "17da56d7c677": {
+  "en": "<strong>Tastes like:</strong> Mushroomy apples.",
+  "t": "<strong>स्वाद:</strong> कुकुरमुत्ते जैसे सेब।"
+ },
  "185d2f4a935b": {
   "en": "Flora",
   "t": "वनस्पति"
@@ -70,6 +114,10 @@
  "1b3b8bddf67d": {
   "en": "<strong>Dried Cocona</strong>: Sold to other kingdoms, eaten on the road, as a snack, etc. Like the water, it comes in several colors.",
   "t": "<strong>सूखा कोकोना</strong>: दूसरे राज्यों को बेचा जाता है, रास्ते में, नाश्ते के तौर पर वग़ैरह खाया जाता है। पानी की तरह, यह भी कई रंगों में आता है।"
+ },
+ "1c4db7e6b26b": {
+  "en": "<strong>Tastes like:</strong> Wheat.",
+  "t": "<strong>स्वाद:</strong> गेहूँ।"
  },
  "1d7b53b93269": {
   "en": "<strong>Buzeta Hard Juice</strong>: Fermented juice.",
@@ -87,6 +135,10 @@
   "en": "<strong>Growth:</strong> One bush gives ~1 kg of berries per harvest season.",
   "t": "<strong>बढ़त:</strong> एक झाड़ी फ़सल के मौसम में ~1 kg बेरियाँ देती है।"
  },
+ "22ee8bfd082b": {
+  "en": "<strong>Tastes like:</strong> Blood Oranges.",
+  "t": "<strong>स्वाद:</strong> ब्लड ऑरेंज।"
+ },
  "2304e6e254bf": {
   "en": "Greenbread Fruit",
   "t": "ग्रीनब्रेड फल"
@@ -103,6 +155,10 @@
   "en": "Lakata",
   "t": "लकाटा"
  },
+ "26615683ce9c": {
+  "en": "<strong>Domar Beer</strong>: A highly nutritious, low-alcohol drink enjoyed by everyone.",
+  "t": "<strong>डोमार बीयर</strong>: एक बेहद पौष्टिक, कम नशे वाला पेय जिसका मज़ा सब लेते हैं।"
+ },
  "266eff7cd05c": {
   "en": "<strong>Wood Yabuca Juice</strong>: Refreshing.",
   "t": "<strong>वुड याबूका का रस</strong>: ताज़गी भरा।"
@@ -110,6 +166,10 @@
  "276aed3b99b6": {
   "en": "<strong>Inspired by:</strong> Cannabis sativa.",
   "t": "<strong>प्रेरणा:</strong> कैनाबिस सैटाइवा।"
+ },
+ "27cbad34fd54": {
+  "en": "<strong>Domar Bread</strong>: It’s bread, with a texture close to French bread.",
+  "t": "<strong>डोमार ब्रेड</strong>: यह ब्रेड है, फ़्रेंच ब्रेड के क़रीब की बनावट के साथ।"
  },
  "2820686c8f0f": {
   "en": "The highly coveted variety Jonabuca is farmed intensively in the Freeish kingdom for its consistently sweet appley flavor and crispy texture. Some of the other types are still considered tasty, with some people swearing they are better than Jonabuca! These different variants often have multiple tastes or textures, are inconsistent in their yields, or look or are straight-up unappetizing—with a notorious Yabuca tree being the perfect example after it sprouted by an outhouse and began producing Yabucas that literally tasted like shit. Regardless, anyone with extra balls in their pocket will fork over to get the coveted variety instead to sink their teeth into. It's just like the ad plastered over the fruit shop that says, \"If it ain't Jonabuca, then it ain't Yabuca!\"",
@@ -138,6 +198,10 @@
  "2c5fb16a5006": {
   "en": "Emerenthy Flowers",
   "t": "एमेरेंथी के फूल"
+ },
+ "2d2512be146a": {
+  "en": "Lolish Roots",
+  "t": "लोलिश की जड़ें"
  },
  "2d2f23c3ef96": {
   "en": "A wild fruit popular with adventurers, known for mutating in the wild into new variants. Its flavor is unlike anything else in this world, almost as if it didn't belong there. The Buhraies brought it to life with genetic engineering, and the main variety they made is still the most popular and the hardiest; the second is Wood Yabuca. Many species exist in the wild, and some fear it will eventually crowd out every fruit but Yabucas.",
@@ -179,6 +243,14 @@
   "en": "<strong>Growth:</strong> Fruits in the summer.",
   "t": "<strong>बढ़त:</strong> गर्मियों में फल।"
  },
+ "3203b1b33db2": {
+  "en": "<strong>Carbey Flour</strong>: See Carbey.",
+  "t": "<strong>कार्बी का आटा</strong>: कार्बी देखो।"
+ },
+ "32acf5bd96eb": {
+  "en": "A fungus often used to slow the heartbeat, found in rotting trees.",
+  "t": "सड़ते पेड़ों में मिलने वाली एक फफूँद, जिसका इस्तेमाल अक्सर दिल की धड़कन धीमी करने के लिए होता है।"
+ },
  "3321ca59cd9f": {
   "en": "Magina is a potent mind-altering drug that Forway banned, given the societal risks it imposes. Users experience a blissful state where they live out their dreams or nightmares if they have a terrible trip in such a realistic fashion that afterward, these people will swear the event actually happened to them rather than realizing it was all just a vivid dream. Some highly renowned scientists still research it to cure specific mental ailments like PTSD by trying to reign in and control the drug, but success has been spotty as each individual reacts so uniquely to it it's hard to find patterns. If you see someone completely zoned out, even after you punch them in the face, they are definitely using Magina, with it most likely being bought on the black market from the Black Magina faction.",
   "t": "मजीना दिमाग़ बदल देने वाला एक तेज़ नशा है, जिसे समाज के लिए उसके ख़तरों के कारण फ़ॉरवे ने प्रतिबंधित किया है। इसे लेने वाले एक परमानंद की हालत में चले जाते हैं जहाँ वे अपने सपने, या बुरा नशा हो तो अपने बुरे सपने, इतने असली ढंग से जीते हैं कि बाद में ये लोग क़सम खाते हैं कि घटना सच में उनके साथ हुई, यह समझने के बजाय कि वह बस एक जीवंत सपना था। कुछ बहुत नामी वैज्ञानिक अब भी नशे पर क़ाबू पाकर उसे नियंत्रित करने की कोशिश में PTSD जैसी ख़ास मानसिक बीमारियों के इलाज के लिए इसका अध्ययन करते हैं, पर कामयाबी मिली-जुली है, क्योंकि हर इंसान इस पर इतने अनोखे ढंग से प्रतिक्रिया करता है कि ढर्रे ढूँढना मुश्किल है। अगर तुम्हें कोई पूरी तरह होश से बाहर दिखे, उसके चेहरे पर घूँसा मारने के बाद भी, तो वह बेशक मजीना ले रहा है, जो ज़्यादा संभावना से काले बाज़ार में ब्लैक मजीना गुट से ख़रीदी गई है।"
@@ -199,9 +271,17 @@
   "en": "A bushy plant that grows in the wild, and is farmed intensively in Freeish.",
   "t": "एक झाड़ीदार पौधा जो जंगल में उगता है, और फ़्रीइश में इसकी भारी खेती होती है।"
  },
+ "35fcc0fd69e9": {
+  "en": "<strong>Tastes like:</strong> Mango, but smaller and sweeter with a hint of pomegranate. Very soft.",
+  "t": "<strong>स्वाद:</strong> आम, पर छोटा और ज़्यादा मीठा, अनार के इशारे के साथ। बहुत नरम।"
+ },
  "3621c4cedceb": {
   "en": "Tenderthrough is the name humans gave this peculiar-shaped fruit tree after penetrating their way into the islands southeast of Sanbi and purging the ancient species that lived there. It tastes very close to papaya, with the seeds still being used to cleanse and heal one's guts far more cheaply than using Body Restore or other interfaces. There are plantations in the Freeish kingdom, but it just doesn't taste as good as the ones from the islands, so get your ass in the next boat to the islands if you want to experience its most authentic flavor!",
   "t": "टेंडरथ्रू वह नाम है जो इंसानों ने इस अनोखे आकार वाले फलदार पेड़ को सनबी के दक्षिण-पूर्व के द्वीपों में अपना रास्ता बनाने और वहाँ रहने वाली प्राचीन प्रजाति को मिटाने के बाद दिया। इसका स्वाद पपीते के बहुत क़रीब है, और इसके बीज अब भी बॉडी रिस्टोर या दूसरे इंटरफ़ेस से कहीं सस्ते में आँतों को साफ़ करने और ठीक करने के काम आते हैं। फ़्रीइश राज्य में इसके बाग़ान हैं, पर उनका स्वाद द्वीपों वालों जितना अच्छा नहीं, तो अगर तुम इसका सबसे असली स्वाद चखना चाहते हो, तो उठो और द्वीपों की अगली नाव पकड़ो!"
+ },
+ "36aaaf636ea0": {
+  "en": "<strong>Inspired by:</strong> Reishi (Ganoderma lucidum).",
+  "t": "<strong>प्रेरणा:</strong> रीशी (Ganoderma lucidum)।"
  },
  "36ec78a12c36": {
   "en": "<strong>Skills:</strong> Drop Fruit.",
@@ -214,6 +294,10 @@
  "3aef7411008b": {
   "en": "A common plant used in nari gels and teas. Depending on how much you take, it can soothe the stomach, or cause diarrhea and vomiting.",
   "t": "नरी जेल और चाय में इस्तेमाल होने वाला एक आम पौधा। कितना लिया जाए, इस पर निर्भर करते हुए यह पेट को आराम दे सकता है, या दस्त और उल्टी करा सकता है।"
+ },
+ "3b9ae67b0f21": {
+  "en": "Tyr Caps",
+  "t": "टियर की छतरियाँ"
  },
  "3ba1a2421422": {
   "en": "Domar Carbey: a few stalks of bright purple grain.",
@@ -235,6 +319,10 @@
   "en": "Plants",
   "t": "पौधे"
  },
+ "3e3a7fe81632": {
+  "en": "<strong>Inspired by:</strong> Chaga (Inonotus obliquus).",
+  "t": "<strong>प्रेरणा:</strong> चागा (Inonotus obliquus)।"
+ },
  "3e469df72aac": {
   "en": "<strong>Skills:</strong> Adrenaline Inducer.",
   "t": "<strong>कौशल:</strong> एड्रेनालिन जगाना।"
@@ -251,9 +339,21 @@
   "en": "A common plant, used for cooking.",
   "t": "एक आम पौधा, खाना पकाने में इस्तेमाल होता है।"
  },
+ "400b83c14fb6": {
+  "en": "<strong>Growth:</strong> ~2 seasons.",
+  "t": "<strong>बढ़त:</strong> ~2 मौसम।"
+ },
  "424d82e07570": {
   "en": "Rakuja is a vine that often has a symbiotic mutualistic relationship with the trees it infests. Found only in colder climates, it helps the host trees by injecting an antifreeze gel it creates when it detects lower temps. This relationship works great in regions like Gandew, Fuhrair, and Old Fuhrair. The same can't be said with Tolerideme, where Wood People took over the land. The relationship between them always turns Amensalistic. Not only have scientists figured out that this antifreeze gel is an excellent toxin for killing Wood People, but they also have their own vines, which they use to remove and kill off any Rakuja that tries to grow on them. Nonetheless, people drool over the tangy, tart flavor fruits with citrusy notes and heavy aromatic smells! Be it dried or not, you can find them across all kingdoms, but depending on where you are, be ready to fork over a lot of balls to fill up your belly on Rakuja. If you don't have much money, you can get your fix with some Rakuja hard juice that will get you drunk too.",
   "t": "राकूजा एक बेल है जिसका अक्सर उन पेड़ों के साथ परस्पर-लाभ वाला सहजीवी रिश्ता होता है जिन पर यह छा जाती है। यह सिर्फ़ ठंडी जलवायु में मिलती है, और कम तापमान भाँपने पर अपनी बनाई एक जमाव-रोधी जेल पेड़ों में डालकर अपने मेज़बानों की मदद करती है। यह रिश्ता गैंड्यू, फ़ुरेयर और ओल्ड फ़ुरेयर जैसे इलाक़ों में बहुत अच्छा चलता है। टॉलरिडीम के बारे में यह नहीं कहा जा सकता, जहाँ वुड पीपल ने ज़मीनों पर क़ब्ज़ा कर लिया है। उनके बीच रिश्ता हमेशा एकतरफ़ा नुक़सान में बदल जाता है। न सिर्फ़ वैज्ञानिकों ने पाया कि यह जमाव-रोधी जेल वुड पीपल को मारने का एक बढ़िया ज़हर है, बल्कि उनकी अपनी बेलें भी हैं, जिनसे वे ख़ुद पर उगने की कोशिश करती हर राकूजा को उखाड़कर मार देते हैं। फिर भी, लोग इन खट्टे-चटपटे, नींबू जैसे पुट वाले और बहुत ख़ुशबूदार फलों पर लार टपकाते हैं! सूखे हों या नहीं, ये हर राज्य में मिलते हैं, पर जगह के हिसाब से, राकूजा से पेट भरने के लिए बहुत-सी गेंदें ढीली करने को तैयार रहना। अगर तुम्हारे पास ज़्यादा पैसा नहीं, तो थोड़े-से नशीले राकूजा रस से काम चला सकते हो, जो तुम्हें नशे में भी कर देगा।"
+ },
+ "439675ec4ff9": {
+  "en": "<strong>Interface:</strong> Fungus.",
+  "t": "<strong>इंटरफ़ेस:</strong> फफूँद।"
+ },
+ "43edec05c3e4": {
+  "en": "<strong>Inspired by:</strong> Blue Festuca.",
+  "t": "<strong>प्रेरणा:</strong> ब्लू फ़ेस्टुका।"
  },
  "453bec6b2bd8": {
   "en": "Tenderthrough: a tall thin tree with a palm-like crown and green fruit that opens to yellow flesh with black seeds, beside Harry.",
@@ -262,6 +362,10 @@
  "4563f88a6a5f": {
   "en": "<strong>Skills:</strong> Biolight.",
   "t": "<strong>कौशल:</strong> जैव-रोशनी।"
+ },
+ "45e9d6405fb2": {
+  "en": "<strong>Skills:</strong> Melt and Bleed (both when damaged).",
+  "t": "<strong>कौशल:</strong> पिघलना और ख़ून बहाना (दोनों चोट लगने पर)।"
  },
  "466485e34c0b": {
   "en": "<strong>Inspired by:</strong> Maracuja (passion fruit), but the fruit is ~2× bigger.",
@@ -367,6 +471,10 @@
   "en": "<strong>Gyut Berries</strong>: The bushes are big: picking 1 kg of berries takes ~30 minutes to 1 hour. A staple good, used to set the value of the Balls currency. Each berry is about the size of a fingertip.",
   "t": "<strong>ग्युट बेरियाँ</strong>: झाड़ियाँ बड़ी हैं: 1 kg बेरियाँ तोड़ने में ~30 मिनट से 1 घंटा लगता है। एक मुख्य माल, गेंदों वाली मुद्रा का मूल्य तय करने में इस्तेमाल होता है। हर बेरी लगभग उँगली के पोर जितनी होती है।"
  },
+ "547e97c7dee3": {
+  "en": "<strong>Inspired by:</strong> Wheat.",
+  "t": "<strong>प्रेरणा:</strong> गेहूँ।"
+ },
  "5547baceb60e": {
   "en": "Emerenthy",
   "t": "एमेरेंथी"
@@ -374,6 +482,10 @@
  "561ab600fe02": {
   "en": "<strong>Inspired by:</strong> Acerola.",
   "t": "<strong>प्रेरणा:</strong> एसेरोला।"
+ },
+ "56ab4e38055e": {
+  "en": "<strong>Domar Ale</strong>: Like beer, but slightly stronger.",
+  "t": "<strong>डोमार एल</strong>: बीयर जैसी, पर थोड़ी ज़्यादा तेज़।"
  },
  "56ef4d8852af": {
   "en": "Emerenthy or methyl for some, is a common plant in the forests of Freeish.",
@@ -386,6 +498,10 @@
  "578c42cf3b94": {
   "en": "<strong>Inspired by:</strong> Mangosteen.",
   "t": "<strong>प्रेरणा:</strong> मैंगोस्टीन।"
+ },
+ "5790265cf726": {
+  "en": "<strong>Siguash Berries</strong>: Each bush has less fruit than a Gyut bush, so harvesting 1 kg of berries takes ~60 minutes. A staple good, used to set the value of the Balls currency. Each berry is about the size of a fingertip.",
+  "t": "<strong>सिग्वाश बेरियाँ</strong>: हर झाड़ी पर ग्युट की झाड़ी से कम फल होते हैं, तो 1 kg बेरियाँ तोड़ने में ~60 मिनट लगते हैं। एक मुख्य माल, गेंदों वाली मुद्रा का मूल्य तय करने में इस्तेमाल होता है। हर बेरी लगभग उँगली के पोर जितनी होती है।"
  },
  "58841083b43d": {
   "en": "Girdol: a tall spike of purple flowers with white bell-like blooms rising from spiky leaves.",
@@ -402,6 +518,18 @@
  "597e20352b60": {
   "en": "<strong>Growth:</strong> One month in the wild, then another three months to mature.",
   "t": "<strong>बढ़त:</strong> जंगल में एक महीना, फिर पकने में तीन महीने और।"
+ },
+ "59cd99598608": {
+  "en": "Panita Caps",
+  "t": "पनीटा की छतरियाँ"
+ },
+ "5b66dc457aaa": {
+  "en": "<strong>Inspired by:</strong> Siriguela.",
+  "t": "<strong>प्रेरणा:</strong> सिरिगुएला।"
+ },
+ "5b7532baa0a1": {
+  "en": "<strong>Growth:</strong> ~150 kg of Carbey per acre (an acre here is 20 m × 200 m), which makes ~125 kg of Carbey flour.",
+  "t": "<strong>बढ़त:</strong> प्रति एकड़ ~150 kg कार्बी (यहाँ एक एकड़ 20 m × 200 m है), जिससे ~125 kg कार्बी का आटा बनता है।"
  },
  "5ca2f6c334b8": {
   "en": "<strong>Habitat:</strong> ~1–2 km above sea level, on the Buhraies Plains.",
@@ -427,6 +555,10 @@
   "en": "Tibou",
   "t": "टीबू"
  },
+ "5f64ccd144ab": {
+  "en": "<strong>Habitat:</strong> Across the kingdoms in non-desert areas below 1 km above sea level, especially in forests.",
+  "t": "<strong>पर्यावास:</strong> पूरे राज्यों में ग़ैर-रेगिस्तानी इलाक़ों में समुद्र तल से 1 km से नीचे, ख़ासकर जंगलों में।"
+ },
  "5f847bb373ec": {
   "en": "Yabuca fruit, nowadays, refers to a specific coveted variety named Jonabuca, created by a family of scientists by grafting the best properties of the thousands of wild types as the Yabuca tree seems way too willing to mutate. Some believe a sneeze around a seedling is enough to change the flavor profile of the future fruits to snot, which later a scientist confirmed was indeed the case after investing way too much time in such a specific endeavor.",
   "t": "याबूका का फल आज एक ख़ास और बहुप्रतीक्षित क़िस्म को कहते हैं जिसे जोनाबूका कहा जाता है, जिसे वैज्ञानिकों के एक परिवार ने हज़ारों जंगली क़िस्मों के सबसे अच्छे गुणों की कलम लगाकर बनाया, क्योंकि याबूका का पेड़ उत्परिवर्तन के लिए ज़रूरत से ज़्यादा तैयार लगता है। कुछ मानते हैं कि किसी पौध के पास एक छींक भी भविष्य के फलों का स्वाद नाक के बलग़म जैसा करने के लिए काफ़ी है, जिसकी बाद में एक वैज्ञानिक ने, इतने ख़ास काम में ज़रूरत से ज़्यादा समय लगाने के बाद, पुष्टि की।"
@@ -438,6 +570,14 @@
  "65a33270e2d3": {
   "en": "<strong>Interface:</strong> Petals.",
   "t": "<strong>इंटरफ़ेस:</strong> पंखुड़ियाँ।"
+ },
+ "66ba80d721bd": {
+  "en": "<strong>Inspired by:</strong> Cassava.",
+  "t": "<strong>प्रेरणा:</strong> कसावा।"
+ },
+ "677ab7119fec": {
+  "en": "<strong>Carbey</strong>: Used to feed Eguas, or to make other things.",
+  "t": "<strong>कार्बी</strong>: एगुआ को खिलाने, या दूसरी चीज़ें बनाने में इस्तेमाल होता है।"
  },
  "681bda0bb608": {
   "en": "Non-Fruit Trees",
@@ -463,6 +603,10 @@
   "en": "Girdol is a plant often used for nari gels for its gut-changing properties or as a tea for its lemony soothing taste. You can find it easily in the wild, but since Toleridemians live higher up, they tend to care for it in their home or community greenhouse instead, given how much they consume to ease their stomach after a large meal.",
   "t": "गर्डॉल एक पौधा है जो अक्सर नरी जेल में आँतों को बदलने वाले अपने गुणों के लिए, या अपने नींबू जैसे, सुकून देने वाले स्वाद के लिए हर्बल चाय में इस्तेमाल होता है। यह जंगल में आसानी से मिल जाता है, पर चूँकि टॉलरिडीम के लोग ज़्यादा ऊँचाई पर रहते हैं, वे इसे घर पर या समुदाय के ग्रीनहाउस में उगाते हैं, क्योंकि भारी खाने के बाद पेट को राहत देने के लिए वे इसे बहुत खाते हैं।"
  },
+ "6d53419c570e": {
+  "en": "Lakata Caps",
+  "t": "लकाटा की छतरियाँ"
+ },
  "6e6f048ea91d": {
   "en": "<strong>Ground TastyLeaf</strong>: Often used in spices. The leaves are dried and ground, so they last much longer.",
   "t": "<strong>पिसी टेस्टीलीफ़</strong>: अक्सर मसालों में इस्तेमाल होती है। पत्तियाँ सुखाकर पीसी जाती हैं, तो वे कहीं ज़्यादा देर टिकती हैं।"
@@ -474,6 +618,10 @@
  "6ff171b72010": {
   "en": "<strong>Growth:</strong> ~15 years to mature, then ~50 fruits per tree a year.",
   "t": "<strong>बढ़त:</strong> पकने में ~15 साल, फिर हर पेड़ पर साल में ~50 फल।"
+ },
+ "70541b235796": {
+  "en": "<strong>Cadioca Roots</strong>: One of the staple foods of the kingdoms.",
+  "t": "<strong>कैडियोका की जड़ें</strong>: राज्यों के मुख्य खानों में से एक।"
  },
  "70c663f214f0": {
   "en": "<strong>Gosutam Fruit</strong>: People often plant this tree in their backyards; the fruit is rather expensive for how little of it you can eat.",
@@ -491,6 +639,10 @@
   "en": "Basi: a tall thin palm-like tree with a green crown and hanging dark seed clusters, beside Harry.",
   "t": "बासी: हरे मुकुट और बीजों के लटकते गहरे गुच्छों वाला ताड़ जैसा एक लंबा, पतला पेड़, हैरी के पास।"
  },
+ "729631cd8d80": {
+  "en": "A mushroom often used in the Bleed Out nari gel.",
+  "t": "एक कुकुरमुत्ता जो अक्सर ब्लीड आउट नरी जेल में इस्तेमाल होता है।"
+ },
  "72ad272751b1": {
   "en": "Buzeta: a broad green tree with yellow fruit, shown whole and cut open, beside Harry.",
   "t": "बुज़ेटा: पीले फलों वाला एक चौड़ा हरा पेड़, फल साबुत और कटे दिखाए गए, हैरी के पास।"
@@ -498,6 +650,10 @@
  "73dd89c3bd18": {
   "en": "Deep green inside, with rather metallic, shiny bark. It's an example of flora that somehow escaped Vraki and ended up in our world: the Buhraies were messing around with sending things into the soul realm, and that's how this tree made its way here. Trunk People love this tree!",
   "t": "अंदर से गहरा हरा, काफ़ी धात्विक, चमकदार छाल के साथ। यह उस वनस्पति का उदाहरण है जो किसी तरह व्राकी से निकलकर हमारी दुनिया में आ गई: बुरेज़ चीज़ों को आत्मा-लोक में भेजने से खिलवाड़ कर रहे थे, और इसी तरह यह पेड़ यहाँ पहुँचा। ट्रंक पीपल को यह पेड़ बहुत पसंद है!"
+ },
+ "74f803414b7b": {
+  "en": "<strong>Growth:</strong> Several months.",
+  "t": "<strong>बढ़त:</strong> कई महीने।"
  },
  "75f0818483fb": {
   "en": "<strong>Tastes like:</strong> Lemony.",
@@ -514,6 +670,10 @@
  "79541a500062": {
   "en": "Found on beaches all over the four kingdoms, since humans found it near Lukewarm Lake and started taking it everywhere. Farmed intensively in Deltacross, being close to Forway. Coconas are twice the size of coconuts.",
   "t": "चारों राज्यों के समुद्र-तटों पर मिलता है, क्योंकि इंसानों को यह ल्यूकवॉर्म झील के पास मिला और वे इसे हर जगह ले जाने लगे। फ़ॉरवे के क़रीब होने से डेल्टाक्रॉस में इसकी भारी खेती होती है। कोकोना नारियल से दोगुने बड़े होते हैं।"
+ },
+ "79b40aee52bd": {
+  "en": "Used in the Smooth Gut nari gel, and for its digestive properties, especially for the liver. Also great as a hangover remedy.",
+  "t": "स्मूद गट नरी जेल में, और अपने पाचक गुणों के लिए इस्तेमाल होती है, ख़ासकर जिगर के लिए। ख़ुमारी उतारने के लिए भी बढ़िया।"
  },
  "79cfd03ae2d3": {
   "en": "<strong>Ground Soul Wood</strong>: Often used in spices for a nutmeg and vanilla-like taste. Baking the seeds takes away the vanilla and makes the nutmeg far stronger; in large amounts, it can be antiseptic. Basically the world’s coffee.",
@@ -534,6 +694,10 @@
  "7acb0944473f": {
   "en": "<strong>Tastes like:</strong> Strawberry or raspberry.",
   "t": "<strong>स्वाद:</strong> स्ट्रॉबेरी या रसभरी।"
+ },
+ "7c0cde09b7a0": {
+  "en": "<strong>Man Beer</strong>: An incredibly strong beer.",
+  "t": "<strong>मर्दों की बीयर</strong>: एक बेहद तेज़ बीयर।"
  },
  "7ce9293eae37": {
   "en": "Girdol",
@@ -559,6 +723,10 @@
   "en": "A huge tree in the large forests around the Freeish Kingdom and Blood City. Its fruit tastes like melon pan, grows only a few at a time, is hard to reach, and is the size of a human. Its leaves have a tangy, chlorophyll note. A staple product of the Freeish Kingdom's Greenbread fields.",
   "t": "फ़्रीइश राज्य और ब्लड सिटी के आसपास के बड़े जंगलों में एक विशाल पेड़। इसके फल का स्वाद मेलन पैन जैसा है, एक बार में कुछ ही उगते हैं, उन तक पहुँचना मुश्किल है, और वे इंसान जितने बड़े होते हैं। इसकी पत्तियों में खट्टा, क्लोरोफ़िल वाला सुर है। फ़्रीइश राज्य के ग्रीनब्रेड खेतों की मुख्य उपज।"
  },
+ "7f6890437a51": {
+  "en": "A root found in the desert of Gandew.",
+  "t": "गैंड्यू के रेगिस्तान में मिलने वाली एक जड़।"
+ },
  "7f86575329d8": {
   "en": "Flora's average Soul Energy tier is <strong>Tier I</strong>, recharging <strong>1</strong> soul a day or less.",
   "t": "वनस्पति का औसत आत्मा-ऊर्जा स्तर <strong>स्तर I</strong> है, दिन में <strong>1</strong> आत्मा या उससे कम भरती हुई।"
@@ -574,6 +742,10 @@
  "826c3f9fa810": {
   "en": "<strong>Habitat:</strong> Mostly in the south, near Freeish, where it is farmed heavily. The other kingdoms don’t really partake in it.",
   "t": "<strong>पर्यावास:</strong> ज़्यादातर दक्षिण में, फ़्रीइश के पास, जहाँ इसकी भारी खेती होती है। दूसरे राज्य इसमें ख़ास हिस्सा नहीं लेते।"
+ },
+ "83660375e72d": {
+  "en": "<strong>Gyut Bread</strong>: Bread mixed with Gyut berries. A staple dessert for the poor throughout the four kingdoms, first invented in Freeish.",
+  "t": "<strong>ग्युट ब्रेड</strong>: ग्युट बेरियों के साथ मिली ब्रेड। चारों राज्यों में ग़रीबों की एक मुख्य मिठाई, जो पहली बार फ़्रीइश में ईजाद हुई।"
  },
  "83cab85106b2": {
   "en": "Wood Yabuca",
@@ -594,6 +766,10 @@
  "8659ba55ba3b": {
   "en": "Greenbread: a large tree with stilt-like roots and big round green fruit about 170 cm across.",
   "t": "ग्रीनब्रेड: सहारा-जड़ों और लगभग 170 सेमी व्यास के बड़े, गोल, हरे फलों वाला एक बड़ा पेड़।"
+ },
+ "88aa5a6734b6": {
+  "en": "Lehuj Grass",
+  "t": "लेहुज घास"
  },
  "88bdeacd0acf": {
   "en": "<strong>Inspired by:</strong> Eucalyptus deglupta.",
@@ -627,6 +803,10 @@
   "en": "Siguash",
   "t": "सिग्वाश"
  },
+ "8f593f4a94bc": {
+  "en": "<strong>Domar Carbey</strong>: Tolerideme has the upper hand in planting it for trading.",
+  "t": "<strong>डोमार कार्बी</strong>: व्यापार के लिए इसे उगाने में टॉलरिडीम का पलड़ा भारी है।"
+ },
  "902aa2e3486c": {
   "en": "<strong>Habitat:</strong> ~0–1 km above sea level, in the desert’s transitional zone.",
   "t": "<strong>पर्यावास:</strong> समुद्र तल से ~0–1 km ऊपर, रेगिस्तान के बदलते इलाक़े में।"
@@ -634,6 +814,14 @@
  "904d427af08d": {
   "en": "Gyut: a small bush covered in red fruit, beside Harry.",
   "t": "ग्युट: लाल फलों से लदी एक छोटी झाड़ी, हैरी के पास।"
+ },
+ "9193cdc8a9ca": {
+  "en": "<strong>Siguash Juice</strong>: Refreshing.",
+  "t": "<strong>सिग्वाश का रस</strong>: ताज़गी भरा।"
+ },
+ "92cab0b9a4e9": {
+  "en": "<strong>Habitat:</strong> ~0 km above sea level, in the muddy, deep forests of the south.",
+  "t": "<strong>पर्यावास:</strong> समुद्र तल से ~0 km ऊपर, दक्षिण के कीचड़ भरे, घने जंगलों में।"
  },
  "92f34fd1c31a": {
   "en": "<strong>Inspired by:</strong> Mango Buceta.",
@@ -651,9 +839,17 @@
   "en": "<strong>Rakuja Hard Juice</strong>: Fermented juice: fizzy, less sweet, but less tart as well.",
   "t": "<strong>राकूजा का कड़क रस</strong>: ख़मीर उठा रस: बुलबुलेदार, कम मीठा, पर कम खट्टा भी।"
  },
+ "94d59cd424bd": {
+  "en": "<strong>Tastes like:</strong> Roasted Grapes.",
+  "t": "<strong>स्वाद:</strong> भुने अंगूर।"
+ },
  "95207ccb8b2f": {
   "en": "One of the most sought-after plants, for making soap and shampoo out of its shells. Not really used in teas, though some like it. The cotton-like fiber inside the case is used for fabric.",
   "t": "सबसे ज़्यादा चाहे जाने वाले पौधों में से एक, इसके खोलों से साबुन और शैम्पू बनाने के लिए। चाय में ख़ास इस्तेमाल नहीं होता, हालाँकि कुछ को पसंद है। खोल के अंदर का रुई जैसा रेशा कपड़े के लिए इस्तेमाल होता है।"
+ },
+ "95857e9df55f": {
+  "en": "<strong>Gyut Juice</strong>: Refreshing.",
+  "t": "<strong>ग्युट का रस</strong>: ताज़गी भरा।"
  },
  "95e9fae64713": {
   "en": "<strong>Visual reference:</strong> Exterior only; the inside is the same as a normal banana.",
@@ -674,6 +870,10 @@
  "97235f9778f5": {
   "en": "Buzeta Fruit",
   "t": "बुज़ेटा फल"
+ },
+ "9889b8b563d8": {
+  "en": "<strong>Habitat:</strong> Buried in the desert, closer to the transitional zones.",
+  "t": "<strong>पर्यावास:</strong> रेगिस्तान में दबी, बदलते इलाक़ों के ज़्यादा क़रीब।"
  },
  "98a95112463e": {
   "en": "See Beasts -&gt; Hifuna People",
@@ -727,6 +927,10 @@
   "en": "<strong>Inspired by:</strong> Birgit Bonnier Apples.",
   "t": "<strong>प्रेरणा:</strong> बिर्गिट बोनियर सेब।"
  },
+ "9fdb0b131cb6": {
+  "en": "<strong>Habitat:</strong> Throughout the entire lower region, except the desert.",
+  "t": "<strong>पर्यावास:</strong> रेगिस्तान को छोड़कर पूरे निचले इलाक़े में।"
+ },
  "a0b3c4a0e3a2": {
   "en": "<strong>Growth:</strong> About 10 months to a harvest.",
   "t": "<strong>बढ़त:</strong> एक फ़सल में लगभग 10 महीने।"
@@ -734,6 +938,10 @@
  "a0bb4f59cf66": {
   "en": "<strong>Lonllow Hard Juice</strong>: Fermented juice.",
   "t": "<strong>लॉनलो का कड़क रस</strong>: ख़मीर उठा रस।"
+ },
+ "a1ec7dc8d1c3": {
+  "en": "<strong>Skills:</strong> Hallucinate.",
+  "t": "<strong>कौशल:</strong> मतिभ्रम कराना।"
  },
  "a23ee4b56931": {
   "en": "<strong>Tier I (Cheap Goods):</strong> berries, fruit, fungus and grass.",
@@ -755,9 +963,21 @@
   "en": "<strong>Inspired by:</strong> Papaya.",
   "t": "<strong>प्रेरणा:</strong> पपीता।"
  },
+ "a455f4245603": {
+  "en": "<strong>Habitat:</strong> The Buhraies Plains, in the Tolerideme Kingdom.",
+  "t": "<strong>पर्यावास:</strong> बुरेज़ मैदान, टॉलरिडीम राज्य में।"
+ },
  "a4757cb7e64a": {
   "en": "<strong>Inspired by:</strong> Phalaenopsis orchid.",
   "t": "<strong>प्रेरणा:</strong> फ़लेनॉप्सिस ऑर्किड।"
+ },
+ "a5032b243951": {
+  "en": "<strong>Beer</strong>: A highly nutritious, low-alcohol drink enjoyed by everyone.",
+  "t": "<strong>बीयर</strong>: एक बेहद पौष्टिक, कम नशे वाला पेय जिसका मज़ा सब लेते हैं।"
+ },
+ "a51cc16d8108": {
+  "en": "<strong>Tastes like:</strong> Slightly sweet and acidic.",
+  "t": "<strong>स्वाद:</strong> हल्का मीठा और खट्टा।"
  },
  "a5cac2861755": {
   "en": "Nica",
@@ -766,6 +986,10 @@
  "a819f91b0bec": {
   "en": "<strong>Purplebread Hard Juice</strong>: Fermented juice.",
   "t": "<strong>पर्पलब्रेड का कड़क रस</strong>: ख़मीर उठा रस।"
+ },
+ "a82743355031": {
+  "en": "<strong>Growth:</strong> One bush gives ~0.5 kg of berries a day for ~10 days during the harvest season.",
+  "t": "<strong>बढ़त:</strong> फ़सल के मौसम में एक झाड़ी ~10 दिनों तक रोज़ ~0.5 kg बेरियाँ देती है।"
  },
  "a9752f76f383": {
   "en": "Lehuj",
@@ -807,9 +1031,17 @@
   "en": "Black Sapphire Tree",
   "t": "ब्लैक सफ़ायर ट्री"
  },
+ "af9b630858be": {
+  "en": "<strong>Tastes like:</strong> Cassava.",
+  "t": "<strong>स्वाद:</strong> कसावा।"
+ },
  "afd111d393ff": {
   "en": "Purplebread: a feathery green tree with a brown husked fruit that opens to purple flesh, about 12 cm, beside Harry.",
   "t": "पर्पलब्रेड: पंख जैसी पत्तियों वाला एक हरा पेड़, भूरे छिलके वाले एक फल के साथ जो खुलने पर बैंगनी गूदा दिखाता है, लगभग 12 सेमी, हैरी के पास।"
+ },
+ "b07934dcd8ce": {
+  "en": "<strong>Skills:</strong> Pacifier.",
+  "t": "<strong>कौशल:</strong> शांत करने वाला।"
  },
  "b0c3a9db443b": {
   "en": "Cadioca: a leafy green plant with a thick reddish root, about knee height.",
@@ -827,9 +1059,17 @@
   "en": "<strong>Black Wood</strong>: Dark and dense. Often used with nari stones, sigils and containers that hold Soul Energy, to keep the Soul Energy from leaking.",
   "t": "<strong>काली लकड़ी</strong>: गहरी और घनी। आत्मा-ऊर्जा को रिसने से रोकने के लिए अक्सर नरी पत्थरों, मुहरों और आत्मा-ऊर्जा रखने वाले पात्रों के साथ इस्तेमाल होती है।"
  },
+ "b279020505fb": {
+  "en": "<strong>Inspired by:</strong> Ginger.",
+  "t": "<strong>प्रेरणा:</strong> अदरक।"
+ },
  "b2b23b52802a": {
   "en": "<strong>Tastes like:</strong> Slightly sweet and fleshy, a little like raspberries and apples.",
   "t": "<strong>स्वाद:</strong> हल्का मीठा और गूदेदार, कुछ-कुछ रसभरी और सेब जैसा।"
+ },
+ "b345516c97d3": {
+  "en": "<strong>Gyut Hard Juice</strong>: Fermented juice.",
+  "t": "<strong>ग्युट का कड़क रस</strong>: ख़मीर उठा रस।"
  },
  "b3996f605338": {
   "en": "Tyr affects the nervous system like Lakata, but it focuses its effects on messing with the sympathetic nervous system and reality perception instead. The worst effect people report is hearing or seeing disturbing things while feeling locked inside your body because you're trying to fight or run away from it, but your fight-or-flight doesn't work. It's not too far off from sleep paralysis. There are other properties from Tyr as well, like triggering narcoleptic sleep, but isolating it has been challenging. A research paper reported being able to hear others' thoughts as well, but the scientists who tried it could not replicate it and chalked it up to a bad trip instead.",
@@ -842,6 +1082,14 @@
  "b3e3b2749e3e": {
   "en": "<strong>Buzeta Juice</strong>: Pretty good; better in vitamin shakes.",
   "t": "<strong>बुज़ेटा का रस</strong>: काफ़ी अच्छा; विटामिन शेक में बेहतर।"
+ },
+ "b3fd57c49b32": {
+  "en": "<strong>Inspired by:</strong> Exsudoporus frostii.",
+  "t": "<strong>प्रेरणा:</strong> Exsudoporus frostii।"
+ },
+ "b4623889a43a": {
+  "en": "<strong>Growth:</strong> One month.",
+  "t": "<strong>बढ़त:</strong> एक महीना।"
  },
  "b4e93eccc1f4": {
   "en": "Mushrooms",
@@ -867,6 +1115,10 @@
   "en": "Lonllow",
   "t": "लॉनलो"
  },
+ "bf95afef3b85": {
+  "en": "<strong>Cadioca Flour</strong>: Just like Domar Carbey flour.",
+  "t": "<strong>कैडियोका का आटा</strong>: बिल्कुल डोमार कार्बी के आटे जैसा।"
+ },
  "bfedb8f28e8b": {
   "en": "<strong>Growth:</strong> Several months in the wild.",
   "t": "<strong>बढ़त:</strong> जंगल में कई महीने।"
@@ -887,6 +1139,10 @@
   "en": "Carbey was annoying grass everyone hated it, at least until they discovered how tasty it is to mix it with water and yeast and then shove it in a wood stove. Farmed intensively in Freeish, like most other things, but some holdouts in Tolerideme insist their Carbey yields taste far better, specifically when used for spirits, despite it being much harder to cultivate over there. Carbey is another staple food Forway uses to establish the base value of a single pearl ball.",
   "t": "कार्बी एक चिढ़ाने वाली घास थी जिससे सब नफ़रत करते थे, कम से कम तब तक जब तक किसी ने यह नहीं खोजा कि इसे पानी और ख़मीर में मिलाकर लकड़ी के चूल्हे में डालना कितना अच्छा है। ज़्यादातर दूसरी चीज़ों की तरह यह फ़्रीइश में बड़े पैमाने पर उगाई जाती है, पर टॉलरिडीम के कुछ ज़िद्दी लोग दावा करते हैं कि उनकी कार्बी की फ़सल का स्वाद कहीं बेहतर है, ख़ासकर शराब के लिए, भले ही वहाँ इसे उगाना कहीं मुश्किल है। कार्बी एक और मुख्य भोजन है जिससे फ़ॉरवे एक पर्ल गेंद का बुनियादी मूल्य तय करता है।"
  },
+ "c3e9d579f4af": {
+  "en": "<strong>Growth:</strong> ~300 kg per acre (an acre here is 20 m × 200 m), which makes ~250 kg of flour.",
+  "t": "<strong>बढ़त:</strong> प्रति एकड़ ~300 kg (यहाँ एक एकड़ 20 m × 200 m है), जिससे ~250 kg आटा बनता है।"
+ },
  "c441f84d3e76": {
   "en": "<strong>Skills:</strong> Grow Spikes; Sweat Induction.",
   "t": "<strong>कौशल:</strong> काँटे उगाना; पसीना लाना।"
@@ -898,6 +1154,18 @@
  "c4eaa319eefd": {
   "en": "<strong>Basi Pulp</strong>: The pulp, separated from the fruit: a thick paste, eaten with both salty and sweet things.",
   "t": "<strong>बासी का गूदा</strong>: फल से अलग किया गूदा: एक गाढ़ा लेप, जिसे नमकीन और मीठी दोनों चीज़ों के साथ खाया जाता है।"
+ },
+ "c513902bfa45": {
+  "en": "A fungus similar to Lakata, but far too poisonous (it causes auditory and visual hallucinations).",
+  "t": "लकाटा जैसी एक फफूँद, पर बहुत ज़्यादा ज़हरीली (इससे सुनाई और दिखाई देने वाले मतिभ्रम होते हैं)।"
+ },
+ "c6a7270cfd89": {
+  "en": "Poisonous raw: it has to soak in the river for 2 days, then dry in the sun.",
+  "t": "कच्चा ज़हरीला: इसे 2 दिन नदी में भिगोना, फिर धूप में सुखाना पड़ता है।"
+ },
+ "c7db54175361": {
+  "en": "<strong>Siguash Hard Juice</strong>: Fermented juice.",
+  "t": "<strong>सिग्वाश का कड़क रस</strong>: ख़मीर उठा रस।"
  },
  "c8c1b01732df": {
   "en": "Greenbread",
@@ -935,6 +1203,10 @@
   "en": "<strong>Growth:</strong> Its leaves drop every fall, and the tree grows slightly each year.",
   "t": "<strong>बढ़त:</strong> इसकी पत्तियाँ हर पतझड़ गिरती हैं, और पेड़ हर साल थोड़ा बढ़ता है।"
  },
+ "d6739909ba41": {
+  "en": "<strong>Interface:</strong> Mushroom.",
+  "t": "<strong>इंटरफ़ेस:</strong> कुकुरमुत्ता।"
+ },
  "d77d70ae5957": {
   "en": "<strong>Dried Greenbread</strong>: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack.",
   "t": "<strong>सूखा ग्रीनब्रेड</strong>: खाने के भंडार के लिए, दूसरे राज्यों को बेचने के लिए, बेकिंग के लिए, या रास्ते के नाश्ते के तौर पर बनाया जाता है।"
@@ -951,6 +1223,10 @@
   "en": "Tenderthrough Fruit",
   "t": "टेंडरथ्रू फल"
  },
+ "d9198890ff1c": {
+  "en": "<strong>Cadioca Coarse Flour</strong>: Eaten with all kinds of things. (Real-world comparison: farinha, the toasted cassava flour of Brazilian cooking.)",
+  "t": "<strong>कैडियोका का दरदरा आटा</strong>: हर तरह की चीज़ों के साथ खाया जाता है। (असल दुनिया से तुलना: फ़ारिन्या, ब्राज़ीली खाने का भुना कसावा आटा।)"
+ },
  "da107475bbb4": {
   "en": "Flora by tier:",
   "t": "स्तर के हिसाब से वनस्पति:"
@@ -958,6 +1234,10 @@
  "dbacaa414755": {
   "en": "Lakata: a small dark trumpet-shaped mushroom.",
   "t": "लकाटा: तुरही के आकार की एक छोटी, गहरे रंग की खुंभी।"
+ },
+ "dbefd26139b2": {
+  "en": "<strong>Growth:</strong> Wild.",
+  "t": "<strong>बढ़त:</strong> जंगली।"
  },
  "dc7499d1800a": {
   "en": "A large Yabuca variant, created when the Buhraies mutated Wood People from Yabuca trees. Up to about 26 cm.",
@@ -974,6 +1254,10 @@
  "dda1790312f4": {
   "en": "<strong>Growth:</strong> Three months in the wild.",
   "t": "<strong>बढ़त:</strong> जंगल में तीन महीने।"
+ },
+ "de44dc8868ab": {
+  "en": "<strong>Dried Siguash</strong>: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack. (Visual reference: like cherry tomatoes, but yellowish.)",
+  "t": "<strong>सूखा सिग्वाश</strong>: खाने के भंडार के लिए, दूसरे राज्यों को बेचने के लिए, बेकिंग के लिए, या रास्ते के नाश्ते के तौर पर बनाया जाता है। (दृश्य संदर्भ: चेरी टमाटर जैसे, पर पीले-से।)"
  },
  "defc4045a107": {
   "en": "<strong>Tastes like:</strong> Mango.",
@@ -998,6 +1282,10 @@
  "e2c57c610cf4": {
   "en": "Flora · #HusbandOutWorld",
   "t": "वनस्पति · #HusbandOutWorld"
+ },
+ "e331c5464180": {
+  "en": "<strong>Domar Gyut Bread</strong>: Bread mixed with Gyut berries.",
+  "t": "<strong>डोमार ग्युट ब्रेड</strong>: ग्युट बेरियों के साथ मिली ब्रेड।"
  },
  "e3ea690b9b78": {
   "en": "<strong>Tastes like:</strong> Banana.",
@@ -1043,6 +1331,10 @@
   "en": "<strong>Purplebread Juice</strong>: Refreshing.",
   "t": "<strong>पर्पलब्रेड का रस</strong>: ताज़गी भरा।"
  },
+ "ebe0ba6a0914": {
+  "en": "<strong>Tastes like:</strong> Ginger.",
+  "t": "<strong>स्वाद:</strong> अदरक।"
+ },
  "ec0d8c23f282": {
   "en": "Tyr: a small mushroom with a mottled pink-and-purple cap and a green-gilled stem.",
   "t": "टियर: गुलाबी-बैंगनी धब्बेदार छतरी और हरी परतों वाले डंठल वाली एक छोटी खुंभी।"
@@ -1063,6 +1355,10 @@
   "en": "See Beasts -&gt; Wood People",
   "t": "देखें दरिंदे -&gt; वुड पीपल"
  },
+ "ef79b8933ed9": {
+  "en": "<strong>Domar Carbey Flour</strong>: See Domar Carbey.",
+  "t": "<strong>डोमार कार्बी का आटा</strong>: डोमार कार्बी देखो।"
+ },
  "f066042ff172": {
   "en": "<strong>Basi Berries</strong>: Stripping a bush of all its berries takes 4 hours and yields 1 to 2 kg; a shaker can cut that time in half. Each berry is about the size of a fingertip and has to be separated from the hair-like structure.",
   "t": "<strong>बासी बेरियाँ</strong>: एक झाड़ी से सारी बेरियाँ उतारने में 4 घंटे लगते हैं और 1 से 2 kg मिलती हैं; एक झाड़ने वाला यह वक़्त आधा कर सकता है। हर बेरी लगभग उँगली के पोर जितनी होती है और उसे बालों जैसी बनावट से अलग करना पड़ता है।"
@@ -1074,6 +1370,10 @@
  "f344ab6cddf6": {
   "en": "Domar Carbey is a version of Carbey created by one of the three smart sisters by crossbreeding with Wood People. It only grows in the Tolerideme region, as it is de facto the base of the Tolerideme economy. From spirits, food export, clothing, etc! Everything comes from Domar Carbey. The wheat itself tastes slightly cheesy, like parmesan, with a rich grain smell that gives an extra oompf to whatever you bake! Although it only goes well with desserts if you're talking about specific ones like Gyut bread or other deserts where it's on the citrusy spectrum. Something like creme brule, pudding, or anything with more yolk taste doesn't seem to work.",
   "t": "डोमार कार्बी कार्बी का एक रूप है जिसे तीन विद्वान बहनों में से एक ने इसे वुड पीपल के साथ मिलाकर बनाया। यह सिर्फ़ टॉलरिडीम के इलाक़े में उगता है, क्योंकि असल में यही टॉलरिडीम की अर्थव्यवस्था की बुनियाद है। शराब, खाने का निर्यात, कपड़े, वग़ैरह! सब डोमार कार्बी से आता है। अनाज का अपना स्वाद हल्का पनीर जैसा है, पार्मेज़ान की तरह, अनाज की भरपूर गंध के साथ जो तुम्हारी पकाई हर चीज़ में कुछ ख़ास जोड़ देती है! हालाँकि यह मिठाइयों के साथ सिर्फ़ कुछ ख़ास के साथ चलता है, जैसे ग्युट ब्रेड या नींबू जैसे पुट वाली दूसरी मिठाइयाँ। क्रीम ब्रूले, पुडिंग या अंडे की ज़र्दी के ज़्यादा उभरे स्वाद वाली कोई भी चीज़ काम नहीं करती लगती।"
+ },
+ "f384b379f2b6": {
+  "en": "A version of Carbey that one of the three smart sisters created by crossbreeding it with Wood People. Used to make beer, bread and everything in between, and more nutritious and tastier than Carbey.",
+  "t": "कार्बी का एक रूप जिसे तीन होशियार बहनों में से एक ने वुड पीपल के साथ संकरण कराकर बनाया। बीयर, ब्रेड और उनके बीच की हर चीज़ बनाने में इस्तेमाल होता है, और कार्बी से ज़्यादा पौष्टिक और स्वादिष्ट है।"
  },
  "f3a03e9ecd73": {
   "en": "Soul Tree",
@@ -1087,9 +1387,17 @@
   "en": "Rakuja: a leafy tree with round brown fruit about 8 cm across, shown whole and cut open, beside Harry.",
   "t": "राकूजा: लगभग 8 सेमी व्यास के भूरे, गोल फलों वाला एक पत्तेदार पेड़, फल साबुत और कटे दिखाए गए, हैरी के पास।"
  },
+ "f5b2d0c1fcfd": {
+  "en": "<strong>Domar Man Beer</strong>: An incredibly strong beer.",
+  "t": "<strong>डोमार मर्दों की बीयर</strong>: एक बेहद तेज़ बीयर।"
+ },
  "f745ff7e7155": {
   "en": "Public text: flora.md",
   "t": "सार्वजनिक पाठ: flora.md"
+ },
+ "f7c912bfef80": {
+  "en": "<strong>Habitat:</strong> A root found in the lowlands; heavily farmed in Freeish.",
+  "t": "<strong>पर्यावास:</strong> निचले इलाक़ों में मिलने वाली एक जड़; फ़्रीइश में इसकी भारी खेती होती है।"
  },
  "f825c7410a05": {
   "en": "Tastyleaf is an absolute mega chungus of a tree, measuring about 104 meters tall, with girth alone in the upper 40 meters. No other tree comes even close to its size or properties. It was discovered inside what had to be a not-so-secret garden by one of the first tribes of humans who fled the Buhraies plains. Accounts of that history were passed down orally, so narratives diverged on whether humans killed the Buhraies garden owners and took over before they could call for help or if it was simply abandoned instead. Either way, this tree granted humans a sanctuary against the hungry beast and fauna as it has similar light properties to fost stone, including lighting up when it rains and repelling beasts and fauna.",
