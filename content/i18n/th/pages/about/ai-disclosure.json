@@ -23,6 +23,10 @@
   "en": "PRs are welcome, with or without AI help. If you used AI for a contribution, say so in the PR description and add a line to the table above.",
   "t": "ยินดีรับ PR ทั้งที่ใช้และไม่ใช้ AI ช่วย ถ้าคุณใช้ AI ในการมีส่วนร่วม ให้ระบุในคำอธิบาย PR และเพิ่มหนึ่งบรรทัดในตารางด้านบน"
  },
+ "227ad95d5503": {
+  "en": "content/bts",
+  "t": "content/bts"
+ },
  "23eebfe076f3": {
   "en": "<strong>Shortened and paraphrased</strong> them into one-paragraph public summaries, because the blog never had pages for these topics. No new facts. Each summary is labeled on the website as AI-written.",
   "t": "<strong>ย่อและถอดความ</strong>เป็นบทสรุปสาธารณะย่อหน้าเดียว เพราะบล็อกไม่เคยมีหน้าสำหรับหัวข้อเหล่านี้ ไม่มีข้อเท็จจริงใหม่ บทสรุปแต่ละอันระบุไว้บนเว็บไซต์ว่าเขียนโดย AI"
@@ -259,6 +263,14 @@
   "en": "content/summaries.json",
   "t": "content/summaries.json"
  },
+ "c43f5ab5035a": {
+  "en": "<strong>Written by the AI</strong> with the author: the abridged Behind The Scenes text the website shows (grammar fixed, brain dumps turned into readable prose and lists, gaps filled only from other Legacy sources or the author's answers). Every question asked, every answer (in the author's words), every filled gap with its source and every discrepancy is recorded in <a href=\"content/bts/qa\">content/bts/qa</a>, one file per Legacy doc. The Glossary's Behind The Scenes descriptions are taken from this abridged text. The raw notes in Legacy are unchanged; where the author ruled a correction or addition \"official\", it shows in the raw notes on the website as a display-only fix in <a href=\"content/fixes.json\">content/fixes.json</a>.",
+  "t": "<strong>เขียนโดย AI</strong> ร่วมกับผู้เขียน: ข้อความเบื้องหลังฉบับย่อที่เว็บไซต์แสดง (แก้ไวยากรณ์ เปลี่ยนบันทึกที่จดแบบเทกระจาดให้เป็นร้อยแก้วและรายการที่อ่านง่าย เติมช่องว่างจากแหล่ง Legacy อื่นหรือคำตอบของผู้เขียนเท่านั้น) ทุกคำถามที่ถาม ทุกคำตอบ (ตามถ้อยคำของผู้เขียน) ทุกช่องว่างที่เติมพร้อมแหล่งที่มา และทุกความขัดแย้ง ถูกบันทึกไว้ใน <a href=\"content/bts/qa\">content/bts/qa</a> หนึ่งไฟล์ต่อเอกสาร Legacy หนึ่งฉบับ คำบรรยายเบื้องหลังในอภิธานศัพท์นำมาจากข้อความฉบับย่อนี้ บันทึกดิบใน Legacy ไม่ถูกแก้ไข ในกรณีที่ผู้เขียนตัดสินให้การแก้ไขหรือการเพิ่มเติมเป็น “ทางการ” จะแสดงในบันทึกดิบบนเว็บไซต์เป็นการแก้ไขเพื่อการแสดงผลเท่านั้นใน <a href=\"content/fixes.json\">content/fixes.json</a>"
+ },
+ "c92dbea049c4": {
+  "en": "<strong>The website shows the author's own words.</strong> The novel chapters and the public descriptions (from the old blog) are displayed as written, and so are the Behind The Scenes notes that haven't been abridged yet. The AI's job was to arrange them, not to rewrite them. The exception: Behind The Scenes notes that have been <strong>abridged</strong> (see <code>content/bts</code> below) are an AI-assisted rewrite of the author's raw notes into readable form, labeled as such on every section, with the raw notes one click away.",
+  "t": "<strong>เว็บไซต์นี้แสดงถ้อยคำของผู้เขียนเอง</strong> บทต่างๆ ของนิยายและคำบรรยายสาธารณะ (จากบล็อกเก่า) แสดงตามที่เขียนไว้ เช่นเดียวกับบันทึกเบื้องหลังที่ยังไม่ได้ทำฉบับย่อ หน้าที่ของ AI คือจัดเรียง ไม่ใช่เขียนใหม่ ข้อยกเว้น: บันทึกเบื้องหลังที่ทำ<strong>ฉบับย่อ</strong>แล้ว (ดู <code>content/bts</code> ด้านล่าง) เป็นการเขียนใหม่โดยมี AI ช่วย จากบันทึกดิบของผู้เขียนให้อ่านง่าย มีป้ายกำกับไว้ทุกส่วน และบันทึกดิบอยู่ห่างไปแค่คลิกเดียว"
+ },
  "ca17d9e86677": {
   "en": "Modeled on the questions in IBM's <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> (what AI was used, what it contributed, how much humans shaped it, and who is accountable):",
   "t": "อิงตามคำถามใน <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> ของ IBM (ใช้ AI อะไร AI มีส่วนร่วมอย่างไร มนุษย์มีส่วนกำหนดมากแค่ไหน และใครเป็นผู้รับผิดชอบ):"
@@ -278,6 +290,10 @@
  "e8ebc8d12782": {
   "en": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter), for the structured data in each page",
   "t": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter) สำหรับข้อมูลที่มีโครงสร้างในแต่ละหน้า"
+ },
+ "f1afd477240d": {
+  "en": "The raw Behind The Scenes notes in Legacy, the published novels, and the author's answers to the AI's questions.",
+  "t": "บันทึกเบื้องหลังฉบับดิบใน Legacy นิยายที่ตีพิมพ์แล้ว และคำตอบของผู้เขียนต่อคำถามของ AI"
  },
  "f5234aaefa0e": {
   "en": "Eight Behind The Scenes docs: World Timeline, Villages, Land, Professions, Education, Sports, Novels, Natural and Crafted Resources (human).",

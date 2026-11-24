@@ -1,43 +1,651 @@
 {
+ "00de2536d47e": {
+  "en": "<strong>First Subjugation Period (~5,000 to ~4,500 B.G.):</strong> with the Finaies out of the picture and the Lishies out of reach, their society flourished. Having modified Wingas into Big Wingas and Yabuca trees into Wood People and bent them to their will, they researched how to subjugate the other two races. Wingarest became the home of the Big Wingas. The Wood People were created by altering the souls of Yabuca trees, then confined to small forests across the Buhraies Plains, where they produced food and lumber in a controlled way. Their goal: subjugate and experiment on the Finaies in the north, and fix and terraform Hifuna.",
+  "t": "<strong>Erste Unterwerfungs-Periode (~5.000 bis ~4.500 B.G.):</strong> Mit den Finaies aus dem Spiel und den Lishies außer Reichweite blühte ihre Gesellschaft auf. Nachdem sie Wingas zu Big Wingas und Yabuca-Bäume zu Wood People verändert und ihrem Willen unterworfen hatten, erforschten sie, wie man die anderen beiden Völker unterwirft. Wingarest wurde die Heimat der Big Wingas. Die Wood People wurden erschaffen, indem man die Seelen von Yabuca-Bäumen veränderte, und dann in kleine Wälder überall in den Buhraies Plains gesperrt, wo sie kontrolliert Nahrung und Bauholz erzeugten. Ihr Ziel: die Finaies im Norden unterwerfen und an ihnen experimentieren und Hifuna reparieren und terraformen."
+ },
+ "01e35785d15a": {
+  "en": "The Buhraies decided to test everything they knew about subjugation on the Fuhraies, but it didn't work, and they fought. Or rather, the Fuhraies kept defending themselves from the Buhraies' weak attacks: being fleshy, the Buhraies weren't used to such cold weather and altitude. Negotiations never worked.",
+  "t": "Die Buhraies beschlossen, alles, was sie über Unterwerfung wussten, an den Fuhraies zu testen, aber es funktionierte nicht, und sie kämpften. Oder vielmehr: Die Fuhraies verteidigten sich weiter gegen die schwachen Angriffe der Buhraies, die als fleischliche Wesen so kaltes Wetter und solche Höhen nicht gewohnt waren. Verhandlungen funktionierten nie."
+ },
+ "01e61492a86b": {
+  "en": "Once a person's heart is replaced with a stone, they can only feel the emotion set in it. Most who tried it died, going berserk or taking their own lives, among other reasons. The few who could live with a stone became legends. The stone also seeps into the person's soul, corrupting it and causing many symptoms, including being impossible to revive.",
+  "t": "Ersetzt man das Herz einer Person durch einen Stein, kann sie nur noch das Gefühl empfinden, das darin festgelegt ist. Die meisten, die es versuchten, starben, gerieten in Berserkerwut oder nahmen sich das Leben, neben anderen Gründen. Die wenigen, die mit einem Stein leben konnten, wurden zu Legenden. Der Stein sickert auch in die Seele der Person, verdirbt sie und verursacht viele Symptome, darunter, dass sie nicht wiederbelebt werden kann."
+ },
+ "027433560234": {
+  "en": "<strong>Mountain Overtake Period (~250 to ~270 A.G.):</strong> the Darfaries killed everyone, their history included. But Wozefaries and Sorefaries kept being born: their blood was tainted forever, and some Darfaries grew uneasy about killing their own babies for the sake of purity. That's when the first king, Gandew, established the Goodbye Cliff, from which every Wozefaries and Sorefaries was sent flying toward Flatland. Anyone who didn't accept it had to leave. With the ancient species kicked out, the Darfaries named the mountain Gandew after their first king, claiming it as their own.",
+  "t": "<strong>Bergübernahme-Periode (~250 bis ~270 A.G.):</strong> Die Darfaries töteten alle, einschließlich ihrer Geschichte. Aber Wozefaries und Sorefaries wurden weiterhin geboren: Ihr Blut war für immer verunreinigt, und manchen Darfaries war unwohl dabei, ihre eigenen Babys um der Reinheit willen zu töten. Da richtete der erste König, Gandew, die Goodbye Cliff ein, von der jede Wozefaries und jede Sorefaries in Richtung Flatland geschleudert wurde. Wer es nicht akzeptierte, musste gehen. Nachdem die uralten Spezies vertrieben waren, benannten die Darfaries den Berg nach ihrem ersten König Gandew und beanspruchten ihn für sich."
+ },
+ "02ff2cf75787": {
+  "en": "The Last Breath Time (~855 B.G. to ~380 A.G.)",
+  "t": "Die Zeit des letzten Atemzugs (~855 B.G. bis ~380 A.G.)"
+ },
+ "043219ba4522": {
+  "en": "<strong>Lishies Subjugation Period (~4,500 to ~3,500 B.G.):</strong> they tried to subjugate the Lishies, but not only did it fail, it led the Lishies to discover how to get up onto the Buhraies Plains. The Lishies were hard to fight there, and the peaceful life on the plains was over: the Buhraies researched how to keep the Lishies at bay while skirmishing nearly every week. ~3,575 B.G.: the Lishies launched a war against the Buhraies, and both sides were decimated as the battle raged on.",
+  "t": "<strong>Periode der Unterwerfung der Lishies (~4.500 bis ~3.500 B.G.):</strong> Sie versuchten, die Lishies zu unterwerfen, aber das scheiterte nicht nur, es führte auch dazu, dass die Lishies entdeckten, wie man auf die Buhraies Plains gelangt. Dort waren die Lishies schwer zu bekämpfen, und das friedliche Leben auf den Ebenen war vorbei: Die Buhraies erforschten, wie man die Lishies fernhält, während sie sich fast jede Woche Scharmützel lieferten. ~3.575 B.G.: Die Lishies begannen einen Krieg gegen die Buhraies, und beide Seiten wurden dezimiert, während die Schlacht tobte."
+ },
+ "0637cad88a3e": {
+  "en": "~6,000 to ~5,000 B.G.: the Buhraies created their plains and separated themselves. The Lishies kept trying to reach them for payback, but without a Soul Energy interface, they couldn't.",
+  "t": "~6.000 bis ~5.000 B.G.: Die Buhraies erschufen ihre Ebenen und sonderten sich ab. Die Lishies versuchten weiter, sie zu erreichen, um sich zu rächen, aber ohne Seelenenergie-Interface konnten sie es nicht."
+ },
+ "09dc8c9ecef5": {
+  "en": "~805 B.G.: a massive civil war broke out in Aldemeri, which burned for days, all instigated by humans. Some residents less inclined toward war fled to other cities (or to Flatland) and tried to stop another civil war. Several Lishies fled into what is now Flatland and made a pact with the Buhraies after a battle that thinned both sides.",
+  "t": "~805 B.G.: In Aldemeri brach ein gewaltiger Bürgerkrieg aus, der tagelang brannte, alles von Menschen angezettelt. Manche Bewohner, die weniger zum Krieg neigten, flohen in andere Städte (oder nach Flatland) und versuchten, einen weiteren Bürgerkrieg zu verhindern. Mehrere Lishies flohen in das heutige Flatland und schlossen nach einer Schlacht, die beide Seiten ausdünnte, einen Pakt mit den Buhraies."
+ },
+ "0c595776a51f": {
+  "en": "Human Period (~270 to ~570 A.G.):",
+  "t": "Menschen-Periode (~270 bis ~570 A.G.):"
+ },
+ "101601bc2208": {
+  "en": "The Greed Period (120 to 680 A.G.):",
+  "t": "Die Gier-Periode (120 bis 680 A.G.):"
+ },
+ "130c253cf332": {
+  "en": "Embassies were founded soon after, and all ruins and major cities became Forway property. Sundeath tried to stay out of it all, but gave in under the sheer pressure from Forway; in exchange, it has Pharaohs as city leaders.",
+  "t": "Bald darauf wurden Botschaften gegründet, und alle Ruinen und großen Städte wurden Eigentum von Forway. Sundeath versuchte, sich aus allem herauszuhalten, gab aber unter dem schieren Druck von Forway nach; im Gegenzug hat es Pharaonen als Stadtoberhäupter."
+ },
+ "1392a673412a": {
+  "en": "<strong>Muscle Development Period (~15,000 to ~10,000 B.G.):</strong> the Finaies in the deep forest developed a taste for meat, and their bodies changed slightly, then a lot, as they became excellent hunters. The females preferred beefy, fleshy men, so they steered evolution toward losing the Finaies interface altogether. The Lishies became a new species.",
+  "t": "<strong>Muskelentwicklungs-Periode (~15.000 bis ~10.000 B.G.):</strong> Die Finaies im tiefen Wald entwickelten einen Geschmack für Fleisch, und ihre Körper veränderten sich erst leicht, dann stark, als sie zu hervorragenden Jägern wurden. Die Weibchen bevorzugten kräftige, fleischige Männer, also lenkten sie die Evolution dahin, das Finaies-Interface ganz zu verlieren. Die Lishies wurden zu einer neuen Spezies."
+ },
+ "16c02402ed23": {
+  "en": "Summoning Period (~2,100 to ~1,900 B.G.):",
+  "t": "Beschwörungs-Periode (~2.100 bis ~1.900 B.G.):"
+ },
+ "171588837ff0": {
+  "en": "<strong>Greedy Humans Period (~570 to ~680 A.G.):</strong> many Wozefaries and Sorefaries spread throughout the kingdoms. Some knew how to grease the wheels to get a good life; others ended up as slaves (see The Greed Period under Humans).",
+  "t": "<strong>Periode der gierigen Menschen (~570 bis ~680 A.G.):</strong> Viele Wozefaries und Sorefaries verbreiteten sich in den Königreichen. Manche wussten, wie man die Räder schmiert, um ein gutes Leben zu haben; andere landeten als Sklaven (siehe Die Gier-Periode unter Menschen)."
+ },
+ "182cd4f6ad3e": {
+  "en": "Later on, they made a pact with the Flingas to watch over the south and plan a comeback.",
+  "t": "Später schlossen sie einen Pakt mit den Flingas, um über den Süden zu wachen und eine Rückkehr zu planen."
+ },
+ "19965731952c": {
+  "en": "~495 B.G.: humans took over Flatland as the ancient species fled into the desert.",
+  "t": "~495 B.G.: Die Menschen übernahmen Flatland, als die uralten Spezies in die Wüste flohen."
+ },
+ "1a7b2d5e3430": {
+  "en": "Mountain Pact Period (~500 B.G. to ~250 A.G.):",
+  "t": "Periode des Bergpakts (~500 B.G. bis ~250 A.G.):"
+ },
+ "1a868485ea58": {
+  "en": "In this period, they discovered the power of souls and Walking Heart stones and created an endless army with them. One of the humans brought back to life was really good at mineralogy, so his knowledge was extracted, and with it, English names for minerals stuck in the Vraki language: gold, iron, magnesium and so on.",
+  "t": "In dieser Periode entdeckten sie die Macht der Seelen und der Walking-Heart-Steine und erschufen damit eine endlose Armee. Einer der wiederbelebten Menschen war richtig gut in Mineralogie, also wurde sein Wissen extrahiert, und damit blieben englische Namen für Minerale in der Sprache Vraki hängen: Gold, Eisen, Magnesium und so weiter."
+ },
+ "1c09e211ee4f": {
+  "en": "<strong>The Pact (~500 B.G.):</strong> seeing how voracious the humans' attacks were, the Fuhraies agreed to a pact with the Buhraies, and from then on their story is intertwined with the Buhraies' (see The Last Breath Time under Buhraies).",
+  "t": "<strong>Der Pakt (~500 B.G.):</strong> Als sie sahen, wie gefräßig die Angriffe der Menschen waren, stimmten die Fuhraies einem Pakt mit den Buhraies zu, und von da an ist ihre Geschichte mit der der Buhraies verflochten (siehe Die Zeit des letzten Atemzugs unter Buhraies)."
+ },
+ "1e82c76b5508": {
+  "en": "Licking their wounds (mostly emotional) after losing Endlessfog Island to Lishies they thought too dumb to plan anything, they stopped all battles and focused on research.",
+  "t": "Während sie ihre (meist seelischen) Wunden leckten, nachdem sie die Insel Endlessfog an Lishies verloren hatten, die sie für zu dumm hielten, um irgendetwas zu planen, beendeten sie alle Schlachten und konzentrierten sich auf die Forschung."
+ },
  "1ecccecfeb06": {
   "en": "Finaies",
   "t": "Finaies"
+ },
+ "2002e841c7c2": {
+  "en": "More earth came from where the Lukewarm Buhraies Lake is now. They built an underground structure that pipes its water to Wingarest.",
+  "t": "Mehr Erde kam von dort, wo heute der Lukewarm Buhraies Lake liegt. Sie bauten eine unterirdische Anlage, die sein Wasser nach Wingarest leitet."
+ },
+ "22eb166e9fb3": {
+  "en": "Toughening Up Time (~15,000 to ~4,500 B.G.)",
+  "t": "Zeit der Abhärtung (~15.000 bis ~4.500 B.G.)"
+ },
+ "256c6905e619": {
+  "en": "Fost stones formed during the process, from Soul Energy interfering deep within the land. The Buhraies used them as a light source; the Lishies eventually learned about them, but never used them widely, since fire pits were easier.",
+  "t": "Während des Vorgangs bildeten sich Fost-Steine, durch Seelenenergie, die tief im Land einwirkte. Die Buhraies nutzten sie als Lichtquelle; die Lishies erfuhren schließlich davon, nutzten sie aber nie in großem Stil, da Feuerstellen einfacher waren."
+ },
+ "26bbb2f10eaf": {
+  "en": "<strong>The Prosperity Treaty Period (680 A.G. to today):</strong> the Darfaries, Wozefaries and Sorefaries became equal to humans under the law (see The Prosperity Treaty Period under Humans).",
+  "t": "<strong>Die Periode des Wohlstandsvertrags (680 A.G. bis heute):</strong> Die Darfaries, Wozefaries und Sorefaries wurden vor dem Gesetz den Menschen gleichgestellt (siehe Die Periode des Wohlstandsvertrags unter Menschen)."
+ },
+ "26e73987c5b3": {
+  "en": "~2,100 B.G.: the Lishies found a way to take the island back and began eating the Bruntos as a peculiar food source. But the fog meant they couldn't eat them all, so once they had had their fill, the island was mostly abandoned.",
+  "t": "~2.100 B.G.: Die Lishies fanden einen Weg, die Insel zurückzuerobern, und begannen, die Bruntos als eigentümliche Nahrungsquelle zu fressen. Aber wegen des Nebels konnten sie nicht alle fressen, also wurde die Insel, sobald sie satt waren, größtenteils aufgegeben."
+ },
+ "2920cc2a7ea1": {
+  "en": "The mountain pact was made, along with a new gesture to go with it, the Mountain Greeting: hands up, touching noses (if you can), staring into each other's eyes, and shaking bellies together.",
+  "t": "Der Bergpakt wurde geschlossen, zusammen mit einer neuen Geste dazu, dem Berggruß: Hände hoch, Nasen berühren (wenn man kann), einander in die Augen starren und die Bäuche aneinander schütteln."
+ },
+ "2a4fa5aa0d02": {
+  "en": "<strong>The Hazing of Aldemeri Period (~900 to ~805 B.G.):</strong> humans struck back at the Lishies by pitting them against one another. They managed to provoke a war between Lishin and the Buhraies, all while killing Buhraies and sabotaging Bahyum Castle. With the power of the stones, humans worked directly, and indirectly from the shadows, to bring Aldemeri down. ~855 B.G.: the Buhraies unchained the Wood People, which wiped out most humans on the plains, but didn't slow human activity in the southern plains. ~805 B.G.: Aldemeri fell.",
+  "t": "<strong>Die Periode der Zermürbung von Aldemeri (~900 bis ~805 B.G.):</strong> Die Menschen schlugen gegen die Lishies zurück, indem sie sie gegeneinander ausspielten. Es gelang ihnen, einen Krieg zwischen Lishin und den Buhraies anzuzetteln, während sie Buhraies töteten und Bahyum Castle sabotierten. Mit der Macht der Steine arbeiteten die Menschen direkt und indirekt aus dem Schatten daran, Aldemeri zu Fall zu bringen. ~855 B.G.: Die Buhraies entfesselten die Wood People, die die meisten Menschen auf den Ebenen auslöschten, aber die menschliche Aktivität in den südlichen Ebenen nicht bremsten. ~805 B.G.: Aldemeri fiel."
  },
  "2ad01d13f817": {
   "en": "Fuhraies: a tall tree-like being with a shaggy blue mane and a root-like lower body.",
   "t": "Fuhraies: ein großes baumartiges Wesen mit zotteliger blauer Mähne und wurzelartigem Unterkörper."
  },
+ "2b02c5ebf4c0": {
+  "en": "<strong>The Revolution Period (~50,000 to ~10,000 B.G.):</strong> as different groups were exposed to different environments on the southern continent, the land they lived on shaped them into distinct specialized groups. Three new races formed from them: the Fuhraies, the Lishies and the Buhraies. They spread quickly and began clashing with one another over territory.",
+  "t": "<strong>Die Revolutions-Periode (~50.000 bis ~10.000 B.G.):</strong> Als verschiedene Gruppen auf dem südlichen Kontinent verschiedenen Umgebungen ausgesetzt waren, formte das Land, auf dem sie lebten, sie zu eigenständigen, spezialisierten Gruppen. Aus ihnen entstanden drei neue Völker: die Fuhraies, die Lishies und die Buhraies. Sie breiteten sich schnell aus und begannen, sich um Gebiete zu streiten."
+ },
+ "2ce1faab243d": {
+  "en": "With Ganyrami fallen, and the desert treacherous and offering few resources, humans slowed their attacks and shifted toward daily life. For a brief time, humans were so spread out that conflicts were rare, and the use of Walking Heart stones faded as times grew peaceful.",
+  "t": "Nach dem Fall von Ganyrami, und da die Wüste tückisch war und wenig Ressourcen bot, verlangsamten die Menschen ihre Angriffe und wandten sich dem Alltagsleben zu. Eine kurze Zeit lang waren die Menschen so verstreut, dass Konflikte selten waren, und die Nutzung von Walking-Heart-Steinen verblasste, als die Zeiten friedlich wurden."
+ },
+ "2d236710a727": {
+  "en": "The Path of No Return Period (~900 to ~500 B.G.):",
+  "t": "Die Periode ohne Wiederkehr (~900 bis ~500 B.G.):"
+ },
  "2e47846ebd08": {
   "en": "The history of Vraki, race by race. It starts with the primordial Finaies, who spread across the northern continent and later the south. Over tens of thousands of years their offshoots, the Fuhraies, Lishies and Buhraies, split off and fought over territory. The timeline then follows the Darfaries, Wozefaries and Sorefaries and, finally, the humans. Dates are counted in years before Ganyrami (B.G.) and after it (A.G.).",
   "t": "Die Geschichte von Vraki, Volk für Volk. Sie beginnt mit den primordialen Finaies, die sich über den nördlichen Kontinent und später den Süden ausbreiteten. Über Zehntausende von Jahren spalteten sich ihre Abzweigungen, die Fuhraies, Lishies und Buhraies, ab und kämpften um Territorium. Die Zeitleiste folgt dann den Darfaries, Wozefaries und Sorefaries und schließlich den Menschen. Daten werden in Jahren vor Ganyrami (B.G.) und danach (A.G.) gezählt."
+ },
+ "3027887b08bb": {
+  "en": "Some tried to figure out why the Buhraies were on the defensive, but found nothing useful. Some Lishies even began to forget the Buhraies and Fuhraies existed.",
+  "t": "Manche versuchten herauszufinden, warum die Buhraies in der Defensive waren, fanden aber nichts Nützliches. Manche Lishies begannen sogar zu vergessen, dass es die Buhraies und Fuhraies gab."
+ },
+ "31853b7e87fb": {
+  "en": "The Devolution Time (~10,000 B.G. to today)",
+  "t": "Die Devolutionszeit (~10.000 B.G. bis heute)"
+ },
+ "31e9064c054d": {
+  "en": "<strong>The Landscaping Period (~100,000 to ~50,000 B.G.):</strong> self-aware and able to move around, they spread south, conquered the entire continent and shaped the land to look like the north.",
+  "t": "<strong>Die Landgestaltungs-Periode (~100.000 bis ~50.000 B.G.):</strong> Selbstbewusst und fähig, sich fortzubewegen, breiteten sie sich nach Süden aus, eroberten den gesamten Kontinent und gestalteten das Land so, dass es wie der Norden aussah."
+ },
+ "333e1b6a8d3c": {
+  "en": "The Hifuna Conquer Period (~3,000 to ~2,500 B.G.):",
+  "t": "Die Hifuna-Eroberungs-Periode (~3.000 bis ~2.500 B.G.):"
+ },
+ "34a611a9d263": {
+  "en": "The Buhraies realized the Wood People and humans had basically taken over the land. They used the last of their strength to cast a spell at the moon itself to make all living things visible, since humans hid, bundled together, at night, but the spell wasn't strong enough and failed.",
+  "t": "Die Buhraies erkannten, dass die Wood People und die Menschen das Land im Grunde übernommen hatten. Sie nutzten die letzte ihrer Kraft, um einen Zauber auf den Mond selbst zu wirken, der alle Lebewesen sichtbar machen sollte, da sich die Menschen nachts zusammengekauert versteckten, aber der Zauber war nicht stark genug und scheiterte."
+ },
+ "354a16b98c0f": {
+  "en": "Blood Research Time (~5,000 to ~2,100 B.G.)",
+  "t": "Zeit der Blutforschung (~5.000 bis ~2.100 B.G.)"
+ },
+ "36eafde28664": {
+  "en": "The remnants of the Buhraies, Lishies and Fuhraies now shared a single mountain and interbred, so more and more Darfaries, Wozefaries and Sorefaries were born, and Vraki became the official language. (The Fuhraies couldn't interbreed with the others, since all the other species are fleshy.) The Buhraies developed the Darfaries interface in this period, trying to control the Darfaries as foot soldiers.",
+  "t": "Die Überreste der Buhraies, Lishies und Fuhraies teilten sich nun einen einzigen Berg und kreuzten sich, also wurden immer mehr Darfaries, Wozefaries und Sorefaries geboren, und Vraki wurde zur offiziellen Sprache. (Die Fuhraies konnten sich nicht mit den anderen kreuzen, da alle anderen Spezies fleischlich sind.) Die Buhraies entwickelten in dieser Periode das Darfaries-Interface, in dem Versuch, die Darfaries als Fußsoldaten zu kontrollieren."
+ },
+ "39b8a3267ae0": {
+  "en": "The Evolution Time (unknown to ~10,000 B.G.)",
+  "t": "Die Evolutionszeit (unbekannt bis ~10.000 B.G.)"
+ },
+ "3bc984882122": {
+  "en": "Wozefaries &amp; Sorefaries",
+  "t": "Wozefaries &amp; Sorefaries"
+ },
+ "3ca713996d24": {
+  "en": "<strong>Windless Snow Period (~5,215 to ~3,500 B.G.):</strong> a period of peace, with plentiful resources and unoccupied snowy land as far as the eye could see, since the other two races had plenty of land of their own to grow into.",
+  "t": "<strong>Periode des windstillen Schnees (~5.215 bis ~3.500 B.G.):</strong> eine Zeit des Friedens, mit reichlich Ressourcen und unbesetztem verschneitem Land, so weit das Auge reicht, da die anderen beiden Völker genug eigenes Land hatten, in das sie wachsen konnten."
+ },
+ "43892718a38a": {
+  "en": "The same as the Darfaries': born from the crossbreeding of Lishies and Buhraies on the mountain, then sent flying off the Goodbye Cliff toward Flatland once the Darfaries took over (see Transformation Time under Darfaries).",
+  "t": "Dieselbe wie die der Darfaries: aus der Kreuzung von Lishies und Buhraies auf dem Berg entstanden, dann von der Goodbye Cliff in Richtung Flatland geschleudert, als die Darfaries die Macht übernahmen (siehe Verwandlungszeit unter Darfaries)."
+ },
+ "43a3004b8416": {
+  "en": "Some human settlements grew into villages, then cities. As the population grew, bandits showed up, so the Sanbi and Tolerideme Kingdoms formed around the mighty adventurers who protected them (not the same as Forway adventurers); at this point, both were cities rather than villages. Roads began to connect these places, including one of the first roads up the Buhraies Plains South Dip into Tolerideme.",
+  "t": "Manche menschlichen Siedlungen wuchsen zu Dörfern, dann zu Städten. Als die Bevölkerung wuchs, tauchten Banditen auf, also bildeten sich die Königreiche Sanbi und Tolerideme um die mächtigen Abenteurer, die sie beschützten (nicht dasselbe wie die Abenteurer von Forway); zu diesem Zeitpunkt waren beide eher Städte als Dörfer. Straßen begannen diese Orte zu verbinden, darunter eine der ersten Straßen den Buhraies Plains South Dip hinauf nach Tolerideme."
+ },
+ "49609307701a": {
+  "en": "Humans",
+  "t": "Menschen"
  },
  "4a24e602a5cb": {
   "en": "The history of Vraki, race by race. It starts with the primordial Finaies, who spread across the northern continent and later the south.",
   "t": "Die Geschichte von Vraki, Volk für Volk. Sie beginnt mit den primordialen Finaies, die sich über den nördlichen Kontinent und später den Süden ausbreiteten."
  },
+ "4b08ef99fc63": {
+  "en": "The Buhraies brought several humans to the islands of the Buhraies Plains and taught them Vraki and other research-related skills. They stayed on the middle islands, along with other scientific studies. Buhraies blood was mixed into human blood, letting humans cast spells, some more than others.",
+  "t": "Die Buhraies brachten mehrere Menschen auf die Inseln der Buhraies Plains und lehrten sie Vraki und andere forschungsbezogene Fertigkeiten. Sie blieben auf den mittleren Inseln, zusammen mit anderen wissenschaftlichen Studien. Buhraies-Blut wurde in menschliches Blut gemischt, wodurch Menschen zaubern konnten, manche mehr als andere."
+ },
+ "4ccab7d8b228": {
+  "en": "572 A.G.: Tolerideme blew up the road up the Buhraies Plains South Dip after losing too many men in the war against Sanbi.",
+  "t": "572 A.G.: Tolerideme sprengte die Straße den Buhraies Plains South Dip hinauf, nachdem es im Krieg gegen Sanbi zu viele Männer verloren hatte."
+ },
+ "513e4fe9f930": {
+  "en": "Bahyum Castle Period (~1,500 to ~855 B.G.):",
+  "t": "Periode von Bahyum Castle (~1.500 bis ~855 B.G.):"
+ },
+ "54df17c5ef76": {
+  "en": "Gandew Time (~270 A.G. to today)",
+  "t": "Gandew-Zeit (~270 A.G. bis heute)"
+ },
+ "57614479dd2e": {
+  "en": "1039 A.G., Paulin 14th (Gannday): Harry is summoned.",
+  "t": "1039 A.G., 14. Paulin (Gannday): Harry wird beschworen."
+ },
+ "59252160795d": {
+  "en": "<strong>Lishies &amp; Buhraies Shift Period (~805 B.G. to ~0 A.G.):</strong> the children of these species began to crossbreed, but they couldn't breed back with either parent species: these mixed children could only breed with one another, which sped up the rapid growth of the three new species: the Darfaries, the Wozefaries and the Sorefaries.",
+  "t": "<strong>Lishies-&amp;-Buhraies-Wandel-Periode (~805 B.G. bis ~0 A.G.):</strong> Die Kinder dieser Spezies begannen sich zu kreuzen, konnten sich aber mit keiner der Elternspezies zurückkreuzen: Diese gemischten Kinder konnten sich nur untereinander fortpflanzen, was das rasche Wachstum der drei neuen Spezies beschleunigte: der Darfaries, der Wozefaries und der Sorefaries."
+ },
+ "59b700651583": {
+  "en": "Tribes formed around what they still remembered of themselves on the Buhraies Plains, and in the lower plains too, as villages spread. The Lishies began hunting humans.",
+  "t": "Stämme bildeten sich um das, woran sie sich von sich selbst auf den Buhraies Plains noch erinnerten, und als sich Dörfer ausbreiteten, auch in den tieferen Ebenen. Die Lishies begannen, Menschen zu jagen."
+ },
+ "59e2f04e027a": {
+  "en": "Rumors of ancient species look-alikes began to float around. At the time, the Gandew Kingdom killed any human who wandered too close to the mountain. ~97 A.G.: humans mounted an assault, but the mountain was so well protected that they gave up.",
+  "t": "Gerüchte über Doppelgänger der uralten Spezies begannen herumzugehen. Damals tötete das Königreich Gandew jeden Menschen, der dem Berg zu nahe kam. ~97 A.G.: Die Menschen starteten einen Angriff, aber der Berg war so gut geschützt, dass sie aufgaben."
+ },
+ "5a55fd2e45e7": {
+  "en": "~2,100 B.G.: they finally lost the island to the Lishies, who had figured out how to deal with the fog, as the Buhraies were no longer as focused on their research there.",
+  "t": "~2.100 B.G.: Sie verloren die Insel schließlich an die Lishies, die herausgefunden hatten, wie man mit dem Nebel umgeht, da sich die Buhraies dort nicht mehr so sehr auf ihre Forschung konzentrierten."
+ },
+ "5ad561d5fcff": {
+  "en": "They created a common currency, formalized a calendar starting from the year Ganyrami fell (Adrian helped drive both the calendar and the units of measurement), and built other tools to put everyone on the same page and make trade easier.",
+  "t": "Sie schufen eine gemeinsame Währung, legten einen Kalender ab dem Jahr des Falls von Ganyrami fest (Adrian trieb sowohl den Kalender als auch die Maßeinheiten voran) und schufen weitere Werkzeuge, um alle auf denselben Stand zu bringen und den Handel zu erleichtern."
+ },
+ "5c38bd246335": {
+  "en": "640 A.G.: an incredibly smart man named Freeish Paulin felt compelled to change things, so he began building a secret base in what is now Forway City to overthrow the kingdoms.",
+  "t": "640 A.G.: Ein unglaublich kluger Mann namens Freeish Paulin fühlte sich gezwungen, die Dinge zu ändern, also begann er, im heutigen Forway City eine geheime Basis zu bauen, um die Königreiche zu stürzen."
+ },
+ "5ded7946b220": {
+  "en": "New Home Period (~855 to ~500 B.G.):",
+  "t": "Periode der neuen Heimat (~855 bis ~500 B.G.):"
+ },
+ "5e1316444d98": {
+  "en": "Not as dumb as the Buhraies thought, the Lishies began playing 4D chess: they faked battles with the Buhraies while planning to take over the island.",
+  "t": "Nicht so dumm, wie die Buhraies dachten, begannen die Lishies 4D-Schach zu spielen: Sie täuschten Schlachten mit den Buhraies vor, während sie planten, die Insel zu übernehmen."
+ },
+ "5ec9927b2e0d": {
+  "en": "~5,215 B.G.: the Finaies, having failed to bring down the Buhraies Plains, retreated and created Hifuna.",
+  "t": "~5.215 B.G.: Die Finaies, denen es nicht gelungen war, die Buhraies Plains zu Fall zu bringen, zogen sich zurück und erschufen Hifuna."
+ },
+ "5f61edf113ea": {
+  "en": "The Prosperity Treaty Period (680 A.G. to today):",
+  "t": "Die Periode des Wohlstandsvertrags (680 A.G. bis heute):"
+ },
+ "60885bdb1799": {
+  "en": "Fake Battle Period (~3,000 to ~2,100 B.G.):",
+  "t": "Periode der Scheinschlachten (~3.000 bis ~2.100 B.G.):"
+ },
+ "62a122deaf37": {
+  "en": "They developed a tribal, territorial nature, which forced them to spread out quickly to avoid too much internal conflict. In doing so, they clashed with the Buhraies so often that they got to know the Buhraies' blood Soul Energy and found ways to fight it.",
+  "t": "Sie entwickelten eine stammesorientierte, territoriale Natur, die sie zwang, sich schnell auszubreiten, um zu viele innere Konflikte zu vermeiden. Dabei gerieten sie so oft mit den Buhraies aneinander, dass sie die Blut-Seelenenergie der Buhraies kennenlernten und Wege fanden, sie zu bekämpfen."
+ },
+ "64eb49650b23": {
+  "en": "~150 A.G.: Whiteland was discovered.",
+  "t": "~150 A.G.: Whiteland wurde entdeckt."
+ },
+ "659f004a65c6": {
+  "en": "They kept up constant skirmishes and raids to collect more bodies for an all-out war. ~3,575 B.G.: the Lishies launched a war against the Buhraies, and both sides were decimated as the battle raged on.",
+  "t": "Sie führten ständige Scharmützel und Überfälle, um mehr Körper für einen totalen Krieg zu sammeln. ~3.575 B.G.: Die Lishies begannen einen Krieg gegen die Buhraies, und beide Seiten wurden dezimiert, während die Schlacht tobte."
+ },
  "6661bb44c1eb": {
   "en": "World Timeline · #HusbandOutWorld",
   "t": "Zeitleiste der Welt · #HusbandOutWorld"
+ },
+ "67cfa0486fb1": {
+  "en": "<strong>The Hazing of Lishin Period (~805 to ~525 B.G.):</strong> with Aldemeri out of the picture, humans focused on Lishin, the hub for attacking any other civilization. They failed to trigger another civil war, but managed to start an all-out war between Ganyrami and Lishin, then took over the remnants with a war of their own. ~525 B.G.: Lishin fell.",
+  "t": "<strong>Die Periode der Zermürbung von Lishin (~805 bis ~525 B.G.):</strong> Mit Aldemeri aus dem Spiel konzentrierten sich die Menschen auf Lishin, die Drehscheibe für Angriffe auf jede andere Zivilisation. Es gelang ihnen nicht, einen weiteren Bürgerkrieg auszulösen, aber sie schafften es, einen totalen Krieg zwischen Ganyrami und Lishin zu entfachen, und übernahmen dann die Überreste mit einem eigenen Krieg. ~525 B.G.: Lishin fiel."
+ },
+ "68be08773055": {
+  "en": "The Hazing of Ganyrami Period (~525 to 0 B.G.):",
+  "t": "Die Periode der Zermürbung von Ganyrami (~525 bis 0 B.G.):"
+ },
+ "696b692d9b1c": {
+  "en": "570 A.G.: the Kingdom of Tolerideme was winning its war against Sanbi, so it marched on Gandew, and a great war between the three kingdoms began. Flatland became a resting spot for soldiers, especially for exchanging information. The Darfaries were now as flexible as humans in warfare, so it wasn't easy; wars kept coming one after another, mostly ending in stalemates.",
+  "t": "570 A.G.: Das Königreich Tolerideme gewann seinen Krieg gegen Sanbi, also marschierte es auf Gandew, und ein großer Krieg zwischen den drei Königreichen begann. Flatland wurde zu einem Rastplatz für Soldaten, besonders zum Austausch von Informationen. Die Darfaries waren im Krieg nun so flexibel wie Menschen, also war es nicht leicht; Kriege folgten einer auf den anderen und endeten meist in Pattsituationen."
+ },
+ "6accfdb2f93f": {
+  "en": "<strong>Sundeath Period (~270 to ~380 A.G.):</strong> a group of ancient species gathered and created a second mountain, now known as Sundeath. They summoned Naked Bruntos again, but the humans soon rebelled and, with the help of other humans who taught them Vraki and about the world, wiped out the ancient species.",
+  "t": "<strong>Sundeath-Periode (~270 bis ~380 A.G.):</strong> Eine Gruppe uralter Spezies versammelte sich und erschuf einen zweiten Berg, heute als Sundeath bekannt. Sie beschworen erneut Naked Bruntos, aber die Menschen rebellierten bald und löschten mit Hilfe anderer Menschen, die ihnen Vraki und Wissen über die Welt beibrachten, die uralten Spezies aus."
+ },
+ "6b1a8980963a": {
+  "en": "<strong>The Replanning Period (~2,500 B.G. to today):</strong> they've grown so conservative that they're still planning, or rather, watching what happens in the south and discussing it among themselves as if it were a TV show.",
+  "t": "<strong>Die Neuplanungs-Periode (~2.500 B.G. bis heute):</strong> Sie sind so konservativ geworden, dass sie immer noch planen, oder eher zusehen, was im Süden passiert, und es unter sich besprechen, als wäre es eine Fernsehserie."
+ },
+ "6b815e85c7d7": {
+  "en": "Overtaking Subjugation Period (~3,500 to ~2,100 B.G.):",
+  "t": "Periode der übernehmenden Unterwerfung (~3.500 bis ~2.100 B.G.):"
+ },
+ "6b9e468317c2": {
+  "en": "Before Ganyrami Time (~2,100 B.G. to 0 A.G.)",
+  "t": "Zeit vor Ganyrami (~2.100 B.G. bis 0 A.G.)"
+ },
+ "7472d25f6686": {
+  "en": "~495 B.G.: they all fled into the desert to build a mountain to protect themselves from what they called a plague of Naked Bruntos.",
+  "t": "~495 B.G.: Sie flohen alle in die Wüste, um einen Berg zu bauen, der sie vor dem schützen sollte, was sie eine Plage von Naked Bruntos nannten."
+ },
+ "7604d58b9061": {
+  "en": "~500 B.G.: the remnants of the Buhraies and Lishies made a pact with the Fuhraies. The Naked Bruntos' attacks on what is now Flatland kept growing exponentially. The humans couldn't take the land, but the Buhraies drained most of their Soul Energy, and many Lishies died from having all their blood sucked out just to keep fending off the humans. Mortified by the humans' strength, the Fuhraies didn't think twice about going as far west as they could when the Buhraies proposed building a large mountain.",
+  "t": "~500 B.G.: Die Überreste der Buhraies und Lishies schlossen einen Pakt mit den Fuhraies. Die Angriffe der Naked Bruntos auf das heutige Flatland wuchsen exponentiell. Die Menschen konnten das Land nicht einnehmen, aber die Buhraies verbrauchten den Großteil ihrer Seelenenergie, und viele Lishies starben, weil ihnen alles Blut ausgesaugt wurde, nur um die Menschen weiter abzuwehren. Entsetzt von der Stärke der Menschen zögerten die Fuhraies keine Sekunde, so weit nach Westen zu gehen, wie sie konnten, als die Buhraies vorschlugen, einen großen Berg zu bauen."
+ },
+ "77407956faad": {
+  "en": "Cold Fall Time (~2,100 to ~500 B.G.)",
+  "t": "Zeit des kalten Falls (~2.100 bis ~500 B.G.)"
+ },
+ "7782a8d4ad63": {
+  "en": "Blue Snow Period (~3,500 to ~3,000 B.G.):",
+  "t": "Periode des blauen Schnees (~3.500 bis ~3.000 B.G.):"
+ },
+ "78dc33deecc7": {
+  "en": "Rise of the Flesh Time (~15,000 to ~5,000 B.G.)",
+  "t": "Zeit des Aufstiegs des Fleisches (~15.000 bis ~5.000 B.G.)"
+ },
+ "78eacb0f1273": {
+  "en": "<strong>Blood &amp; Soul Energy Period (~10,000 to ~6,000 B.G.):</strong> the Buhraies developed their own blood interface. Their hunger for more power led them to clash with the Finaies to the north and the Lishies to the south at the same time. The constant battling made them flesh out their abilities further, while the Lishies grew resistant to them, ending in a stalemate.",
+  "t": "<strong>Blut-&amp;-Seelenenergie-Periode (~10.000 bis ~6.000 B.G.):</strong> Die Buhraies entwickelten ihr eigenes Blut-Interface. Ihr Hunger nach mehr Macht führte dazu, dass sie gleichzeitig mit den Finaies im Norden und den Lishies im Süden aneinandergerieten. Das ständige Kämpfen ließ sie ihre Fähigkeiten weiter ausbauen, während die Lishies gegen sie resistent wurden, was in einer Pattsituation endete."
+ },
+ "7a04caf1f542": {
+  "en": "<strong>The Unknown Period (unknown to ~100,000 B.G.):</strong> what is known about the Finaies today came about in this period: the ability to move around, sexual reproduction, Soul Energy abilities and so on. They lived north of Hifuna, on the planet's northern continent.",
+  "t": "<strong>Die Unbekannte Periode (unbekannt bis ~100.000 B.G.):</strong> Was man heute über die Finaies weiß, entstand in dieser Periode: die Fähigkeit, sich fortzubewegen, geschlechtliche Fortpflanzung, Seelenenergie-Fähigkeiten und so weiter. Sie lebten nördlich von Hifuna, auf dem nördlichen Kontinent des Planeten."
+ },
+ "7c5b44147b60": {
+  "en": "Tribal Period (~1,900 to ~1,500 B.G.):",
+  "t": "Stammes-Periode (~1.900 bis ~1.500 B.G.):"
+ },
+ "7c95291f6c13": {
+  "en": "Bloodsport Period (~2,100 to ~1,500 B.G.):",
+  "t": "Blutsport-Periode (~2.100 bis ~1.500 B.G.):"
+ },
+ "817b1976f3b1": {
+  "en": "Interfighting Period (~2,100 to ~1,100 B.G.):",
+  "t": "Periode der inneren Kämpfe (~2.100 bis ~1.100 B.G.):"
+ },
+ "8336ed4927b2": {
+  "en": "<strong>Isolated Period (~270 to ~570 A.G.):</strong> Gandew kept out of human affairs while making use of the Goodbye Cliff. Flatland City came to be in this period. ~375 A.G.: the Gandew Common Duel Rights &amp; Law was established, and it evolved over the years.",
+  "t": "<strong>Isolierte Periode (~270 bis ~570 A.G.):</strong> Gandew hielt sich aus den Angelegenheiten der Menschen heraus und nutzte dabei die Goodbye Cliff. In dieser Periode entstand Flatland City. ~375 A.G.: Das Gandew Common Duel Rights &amp; Law wurde eingeführt und entwickelte sich über die Jahre weiter."
+ },
+ "871727959770": {
+  "en": "The Lishies were steadily losing ground to the Naked Bruntos' invasion south and east of the Buhraies Plains.",
+  "t": "Die Lishies verloren stetig an Boden gegen die Invasion der Naked Bruntos südlich und östlich der Buhraies Plains."
+ },
+ "875b931a4bf6": {
+  "en": "~3,150 B.G.: the Finaies launched their biggest strike from the sea. The Buhraies Plains East Dip lost the most land. It was repaired, but by a different generation from the one that built it, so their ratios and practices didn't match the original ones.",
+  "t": "~3.150 B.G.: Die Finaies starteten ihren größten Angriff vom Meer aus. Der Buhraies Plains East Dip verlor das meiste Land. Er wurde repariert, aber von einer anderen Generation als der, die ihn gebaut hatte, also stimmten ihre Verhältnisse und Methoden nicht mit den ursprünglichen überein."
+ },
+ "8f0206f4f23b": {
+  "en": "~1,650 B.G.: Naked Bruntos started to appear, but the Lishies treated them like any other animal: something to hunt for dinner. They tasted great, too, so the Lishies began herding humans and fattening them up like cattle. Unaware of how intelligent humans were, the Lishies let them grow and prosper under their noses, as often as the humans planned their escape.",
+  "t": "~1.650 B.G.: Naked Bruntos tauchten auf, aber die Lishies behandelten sie wie jedes andere Tier: etwas, das man zum Abendessen jagt. Sie schmeckten auch hervorragend, also begannen die Lishies, Menschen zu hüten und wie Vieh zu mästen. Ohne zu ahnen, wie intelligent Menschen waren, ließen die Lishies sie unter ihrer Nase wachsen und gedeihen, so oft die Menschen auch ihre Flucht planten."
+ },
+ "8f96d175e396": {
+  "en": "<strong>Population Expansion Period (~0 to ~250 A.G.):</strong> the Darfaries and Wozefaries kept growing until they were the largest populations on the mountain. Conflicts between species, especially between the new and the old, rose for lack of space.",
+  "t": "<strong>Bevölkerungsexpansions-Periode (~0 bis ~250 A.G.):</strong> Die Darfaries und Wozefaries wuchsen weiter, bis sie die größten Bevölkerungen auf dem Berg waren. Konflikte zwischen den Spezies, besonders zwischen den neuen und den alten, nahmen aus Platzmangel zu."
  },
  "94f88c976209": {
   "en": "Finaies: two tree-like women with leafy green hair and root-like legs, one reaching out with small seeds.",
   "t": "Finaies: zwei baumartige Frauen mit belaubtem grünem Haar und wurzelartigen Beinen, eine streckt kleine Samen aus."
  },
+ "963ef2c9a4bf": {
+  "en": "The kingdoms began competing with each other.",
+  "t": "Die Königreiche begannen, miteinander zu konkurrieren."
+ },
+ "984ba7a694c8": {
+  "en": "<strong>The Calm Period (~2,100 to ~600 B.G.):</strong> the skirmishes between the Fuhraies and the Buhraies and Lishies finally ended, ushering in a period of calm. They shored up their defenses as much as they could, but over time their battle fangs dulled.",
+  "t": "<strong>Die Ruhe-Periode (~2.100 bis ~600 B.G.):</strong> Die Scharmützel zwischen den Fuhraies und den Buhraies und Lishies endeten endlich und läuteten eine Zeit der Ruhe ein. Sie verstärkten ihre Verteidigung, so gut sie konnten, aber mit der Zeit wurden ihre Kampfzähne stumpf."
+ },
+ "985ff25eb683": {
+  "en": "They looked for ways off the Buhraies Plains and eventually found the Buhraies Plains East Dip, which was growing unstable. ~1,650 B.G.: they provoked a massive landslide and used it to escape in droves.",
+  "t": "Sie suchten nach Wegen von den Buhraies Plains herunter und fanden schließlich den Buhraies Plains East Dip, der instabil wurde. ~1.650 B.G.: Sie lösten einen gewaltigen Erdrutsch aus und nutzten ihn, um in Scharen zu fliehen."
+ },
+ "9870c3a7d4a3": {
+  "en": "They noticed humans spreading like rats, but didn't care: at least the researchers who mattered truly believed humans were powerless.",
+  "t": "Sie bemerkten, dass sich die Menschen wie Ratten ausbreiteten, kümmerten sich aber nicht darum: Zumindest die Forscher, auf die es ankam, glaubten wirklich, die Menschen seien machtlos."
+ },
+ "9cdf7b22c8a8": {
+  "en": "Sick of the skirmishes, some Fuhraies left Old Fuhrair for the biggest mountain to the north and founded Fuhrair.",
+  "t": "Die Scharmützel leid, verließen einige Fuhraies Old Fuhrair in Richtung des größten Berges im Norden und gründeten Fuhrair."
+ },
+ "9eec3d0900f7": {
+  "en": "They tried several times to invade by sea, but every attempt was massacred. ~3,150 B.G.: the Great Sea War ended in a massive loss for them, but they at least managed to destroy part of the Buhraies Plains East Dip.",
+  "t": "Sie versuchten mehrmals, über das Meer einzufallen, aber jeder Versuch wurde niedergemetzelt. ~3.150 B.G.: Der Große Seekrieg endete für sie mit einem gewaltigen Verlust, aber immerhin gelang es ihnen, einen Teil des Buhraies Plains East Dip zu zerstören."
+ },
+ "9f745374a285": {
+  "en": "With a constant stream of new babies, and the older ones growing up, the bandit leader became the leader of the biggest village in the oasis: Flatland. He poured all his resources into building the village, hoping to use the Wozefaries and Sorefaries as slaves in his mines. Wozefaries and Sorefaries slowly spread through the kingdoms, though many people were racist toward them and most were slaves. Some began changing public opinion by using their abilities and Soul Energy to help.",
+  "t": "Mit einem ständigen Strom neuer Babys und den Älteren, die heranwuchsen, wurde der Banditenanführer zum Anführer des größten Dorfes der Oase: Flatland. Er steckte all seine Mittel in den Ausbau des Dorfes, in der Hoffnung, die Wozefaries und Sorefaries als Sklaven in seinen Minen einzusetzen. Wozefaries und Sorefaries verbreiteten sich langsam durch die Königreiche, auch wenn viele Leute rassistisch gegen sie waren und die meisten Sklaven waren. Manche begannen, die öffentliche Meinung zu ändern, indem sie ihre Fähigkeiten und Seelenenergie zum Helfen nutzten."
+ },
+ "a03a0902557c": {
+  "en": "The Lishies clashed with the Buhraies again and discovered how to use Buhraies bodies as a Soul Energy interface to fly up onto the Buhraies Plains, since the plains were far too high to climb, and carving a path always led to a skirmish that took too long.",
+  "t": "Die Lishies gerieten erneut mit den Buhraies aneinander und entdeckten, wie man Buhraies-Körper als Seelenenergie-Interface nutzt, um auf die Buhraies Plains hinaufzufliegen, da die Ebenen viel zu hoch zum Klettern waren und das Bahnen eines Weges immer zu einem Scharmützel führte, das zu lange dauerte."
+ },
+ "a0abd79df70f": {
+  "en": "Frustrated that the subjugation of the Lishies had gone nowhere, the Buhraies began targeting the Fuhraies, but that only led to fighting. The Lishies attacked as well, since they didn't know what power the Buhraies were after to turn the tide.",
+  "t": "Frustriert, dass die Unterwerfung der Lishies nirgendwohin geführt hatte, nahmen die Buhraies die Fuhraies ins Visier, aber das führte nur zu Kämpfen. Auch die Lishies griffen an, da sie nicht wussten, welche Macht die Buhraies anstrebten, um das Blatt zu wenden."
+ },
+ "a1fc70d6245e": {
+  "en": "Fuhraies Subjugation Period (~3,500 to ~3,000 B.G.):",
+  "t": "Periode der Unterwerfung der Fuhraies (~3.500 bis ~3.000 B.G.):"
+ },
+ "a2d2cd377c0b": {
+  "en": "~420 A.G.: Newland was discovered.",
+  "t": "~420 A.G.: Newland wurde entdeckt."
+ },
+ "a58bfabe1c7b": {
+  "en": "Landscaping Period (~6,000 to ~5,000 B.G.):",
+  "t": "Landgestaltungs-Periode (~6.000 bis ~5.000 B.G.):"
+ },
+ "a8a4c0b61e02": {
+  "en": "The Lishies spread through the forest, especially toward the southwest, where food was abundant. Where there was enough food and strong tribal leadership, their population grew denser and even tamer.",
+  "t": "Die Lishies breiteten sich durch den Wald aus, besonders nach Südwesten, wo es reichlich Nahrung gab. Wo es genug Nahrung und eine starke Stammesführung gab, wurde ihre Bevölkerung dichter und sogar zahmer."
+ },
+ "a8ca9bf9cebd": {
+  "en": "<strong>Lishin Cattle Period (~1,500 to ~1,000 B.G.):</strong> the Lishies bred and fattened humans by the thousands for food, and with so many humans, some were always escaping. The human population exploded all over the lowlands. A small group escaped south and founded what is now Endlessfog and Triangle City.",
+  "t": "<strong>Periode des Viehs von Lishin (~1.500 bis ~1.000 B.G.):</strong> Die Lishies züchteten und mästeten Menschen zu Tausenden als Nahrung, und bei so vielen Menschen entkamen immer welche. Die menschliche Bevölkerung explodierte überall im Tiefland. Eine kleine Gruppe floh nach Süden und gründete das heutige Endlessfog und Triangle City."
+ },
+ "ac84c46b2c5d": {
+  "en": "~490 A.G.: Old Fuhrair became a mining town.",
+  "t": "~490 A.G.: Old Fuhrair wurde zu einer Bergbaustadt."
+ },
+ "b009a6725fc7": {
+  "en": "~2,650 B.G.: the Buhraies didn't care about the failed Finaies invasion of the Fuhraies.",
+  "t": "~2.650 B.G.: Die gescheiterte Invasion der Finaies gegen die Fuhraies kümmerte die Buhraies nicht."
+ },
+ "b039e6ab43c2": {
+  "en": "The plan succeeded, and the courtroom scientists became the new kings. They wrote the Prosperity Treaty and Forway law so that no more wars over greed would break out.",
+  "t": "Der Plan ging auf, und die Hofwissenschaftler wurden die neuen Könige. Sie schrieben den Wohlstandsvertrag und das Forway-Gesetz, damit keine Kriege aus Gier mehr ausbrechen würden."
+ },
  "b0ddaa9241b6": {
   "en": "Fuhraies",
   "t": "Fuhraies"
+ },
+ "b24ad641d3f9": {
+  "en": "Completely drained of Soul Energy, the Buhraies gave up and fled west, to where Flatland is now. Some Lishies came to the same place, and a war between them left both sides with measly numbers, until a ceasefire. With so few left, the Buhraies made a cooperation pact with the Lishies: they would suck the Lishies' blood to mount an assault to retake their plains. It never worked, since they were always on the defensive for lack of numbers.",
+  "t": "Völlig ausgelaugt an Seelenenergie gaben die Buhraies auf und flohen nach Westen, wo heute Flatland liegt. Einige Lishies kamen an denselben Ort, und ein Krieg zwischen ihnen ließ beiden Seiten nur kümmerliche Zahlen, bis zu einem Waffenstillstand. Mit so wenigen Übrigen schlossen die Buhraies einen Kooperationspakt mit den Lishies: Sie würden das Blut der Lishies saugen, um einen Angriff zur Rückeroberung ihrer Ebenen zu starten. Es funktionierte nie, da sie mangels Zahl immer in der Defensive waren."
+ },
+ "b25ffe77fc5e": {
+  "en": "That's when the Naked Bruntos (humans) came about. While testing their war skills, the Buhraies discovered a hunting sport, and especially how tasty human blood was when the humans were frightened and running for their lives. Some also found it tasty when Naked Bruntos were extremely lustful for their tiny beauty. This led to tons of research, and to mixing Buhraies blood into humans.",
+  "t": "Da kamen die Naked Bruntos (Menschen) auf. Beim Testen ihrer Kriegskünste entdeckten die Buhraies einen Jagdsport, und besonders, wie lecker menschliches Blut war, wenn die Menschen verängstigt um ihr Leben rannten. Manche fanden es auch lecker, wenn Naked Bruntos vor Lust nach ihrer zierlichen Schönheit vergingen. Das führte zu jeder Menge Forschung und dazu, Buhraies-Blut in Menschen zu mischen."
+ },
+ "b2c5dbdc4eaf": {
+  "en": "~0 B.G.: Ganyrami fell. The lower plains and the Buhraies Plains were now under human control.",
+  "t": "~0 B.G.: Ganyrami fiel. Die tieferen Ebenen und die Buhraies Plains standen nun unter menschlicher Kontrolle."
+ },
+ "b3ea7c798526": {
+  "en": "~2,650 B.G.: the Finaies mounted a secret assault through the desert to massacre the Fuhraies, but the desert took care of most of them, and the Fuhraies holed up inside their newly created mountain, Fuhrair, and easily defended themselves.",
+  "t": "~2.650 B.G.: Die Finaies unternahmen einen geheimen Angriff durch die Wüste, um die Fuhraies niederzumetzeln, aber die Wüste erledigte die meisten von ihnen, und die Fuhraies verschanzten sich in ihrem neu erschaffenen Berg Fuhrair und verteidigten sich mühelos."
+ },
+ "b436774afc98": {
+  "en": "~97 A.G.: they fended off an assault from the Naked Bruntos.",
+  "t": "~97 A.G.: Sie wehrten einen Angriff der Naked Bruntos ab."
+ },
+ "b45a2f35b8bd": {
+  "en": "They spent so long planning another comeback that, in the end, they couldn't fix their own mess: Hifuna. They mounted the largest army they could muster, but suffered massive losses crossing it.",
+  "t": "Sie verbrachten so lange damit, eine weitere Rückkehr zu planen, dass sie am Ende ihr eigenes Chaos nicht beheben konnten: Hifuna. Sie stellten die größte Armee auf, die sie aufbieten konnten, erlitten aber beim Durchqueren gewaltige Verluste."
+ },
+ "b46259ebc9cb": {
+  "en": "The Buhraies found themselves in what is now Flatland. Resources were scarce, so the Lishies didn't care for it, but more Lishies arrived as humans toppled their cities, especially after the fall of Aldemeri (~805 B.G.). They interbred, and the first Darfaries, Wozefaries and Sorefaries were born.",
+  "t": "Die Buhraies fanden sich im heutigen Flatland wieder. Die Ressourcen waren knapp, also interessierten sich die Lishies nicht dafür, aber mehr Lishies kamen, als die Menschen ihre Städte stürzten, besonders nach dem Fall von Aldemeri (~805 B.G.). Sie kreuzten sich, und die ersten Darfaries, Wozefaries und Sorefaries wurden geboren."
+ },
+ "b4ac062d267f": {
+  "en": "~525 B.G.: a massive war broke out between Ganyrami and Lishin, also provoked by humans after they failed to start another civil war. Lishin fell, and humans picked over the remains.",
+  "t": "~525 B.G.: Zwischen Ganyrami und Lishin brach ein gewaltiger Krieg aus, ebenfalls von Menschen provoziert, nachdem es ihnen nicht gelungen war, einen weiteren Bürgerkrieg anzuzetteln. Lishin fiel, und die Menschen plünderten die Überreste."
+ },
+ "b5758530b037": {
+  "en": "650 A.G.: the courtroom scientists of Gandew (Asa the Powerful), Tolerideme (Adrian from North Tolerideme) and Sanbi (Bijura Moacir) met at the hidden base to plan the overthrow. They slowly conditioned the people to accept their ideas and stirred up revolts (\"the greed of the heroes was controlling the people\"), until the kingdoms lost their grip on their people and could no longer wage war on each other. Then the rebellion truly began, and it toppled all three kingdoms. The King of Gandew was executed in front of everyone, calm and relieved despite it all (some people don't believe he was that kind and selfless). The book Prosperity Treaty's Heroes tells this part from another perspective, in <a href=\"/lore/in-world-books/\">Books of Vraki</a>. The King of Tolerideme was starved to death. The King of Sanbi was publicly spanked in humiliation, then dropped alive into the ocean.",
+  "t": "650 A.G.: Die Hofwissenschaftler von Gandew (Asa the Powerful), Tolerideme (Adrian from North Tolerideme) und Sanbi (Bijura Moacir) trafen sich in der versteckten Basis, um den Sturz zu planen. Sie brachten das Volk langsam dazu, ihre Ideen anzunehmen, und schürten Aufstände („die Gier der Helden kontrollierte das Volk“), bis die Königreiche die Kontrolle über ihr Volk verloren und keinen Krieg mehr gegeneinander führen konnten. Dann begann die Rebellion richtig und stürzte alle drei Königreiche. Der König von Gandew wurde vor aller Augen hingerichtet, trotz allem ruhig und erleichtert (manche glauben nicht, dass er so gütig und selbstlos war). Das Buch Prosperity Treaty's Heroes erzählt diesen Teil aus einer anderen Perspektive, in <a href=\"/lore/in-world-books/\">Bücher von Vraki</a>. Der König von Tolerideme wurde ausgehungert. Der König von Sanbi wurde zur Demütigung öffentlich versohlt und dann lebendig ins Meer geworfen."
  },
  "b7f90ebb90d6": {
   "en": "Lishies",
   "t": "Lishies"
  },
+ "b8478f6617cf": {
+  "en": "<strong>Up the Mountain Period (~20,000 to ~10,000 B.G.):</strong> the Finaies near the snowy mountains acclimated to the colder regions at higher altitudes and, over time, moved farther toward the peaks. As they did, their bodies changed: their biological rhythm slowed, and they grew calmer, almost as if they were depressed.",
+  "t": "<strong>Bergaufstiegs-Periode (~20.000 bis ~10.000 B.G.):</strong> Die Finaies nahe den verschneiten Bergen gewöhnten sich an die kälteren Regionen in größeren Höhen und zogen mit der Zeit immer weiter in Richtung der Gipfel. Dabei veränderten sich ihre Körper: Ihr biologischer Rhythmus verlangsamte sich, und sie wurden ruhiger, fast als wären sie depressiv."
+ },
+ "b9443a3576a4": {
+  "en": "Small changes started around ~805 B.G., but the new species really began to form and take shape around ~300 to ~200 B.G.",
+  "t": "Kleine Veränderungen begannen um ~805 B.G., aber die neue Spezies begann sich erst um ~300 bis ~200 B.G. wirklich zu formen und Gestalt anzunehmen."
+ },
+ "b97d10f57711": {
+  "en": "Transformation Time (~805 B.G. to ~270 A.G.)",
+  "t": "Verwandlungszeit (~805 B.G. bis ~270 A.G.)"
+ },
+ "bd2713797352": {
+  "en": "<strong>Gridlock Period (~10,000 to ~5,215 B.G.):</strong> the Fuhraies now had no trouble fending the Finaies off from their homes, but they were stuck in a deadlock, since they couldn't leave the cold regions anymore: anything above 0 ºC was unbearable for them. ~5,215 B.G.: Hifuna was created, and with it, peace came to the Fuhraies.",
+  "t": "<strong>Stillstands-Periode (~10.000 bis ~5.215 B.G.):</strong> Die Fuhraies hatten nun keine Mühe mehr, die Finaies von ihren Heimstätten fernzuhalten, steckten aber in einer Sackgasse fest, da sie die kalten Regionen nicht mehr verlassen konnten: Alles über 0 ºC war für sie unerträglich. ~5.215 B.G.: Hifuna wurde erschaffen, und damit kam Frieden zu den Fuhraies."
+ },
+ "bd9aff4b8cd1": {
+  "en": "The endless skirmishes slowed and lost their intensity. The Fuhraies assumed they had finally won.",
+  "t": "Die endlosen Scharmützel wurden seltener und verloren an Heftigkeit. Die Fuhraies nahmen an, sie hätten endlich gewonnen."
+ },
+ "bd9fdc47d05b": {
+  "en": "648 A.G.: Paulin was betrayed and sold to the Gandew Kingdom to be assassinated. But as the King of Gandew learned what Paulin was trying to do, he came to agree with most of it, overthrowing the current kingdoms included, mainly because he realized that otherwise everyone would end up dead and nothing would be solved. He still had to have Paulin killed to save face with the people, but Paulin had given him all his connections, so the king began building a new base in what is now the Freeish Kingdom. He entrusted one of his closest allies (and mistresses) with leading the organization, and made her Courtroom Scientist under the guise of \"better war preparations\".",
+  "t": "648 A.G.: Paulin wurde verraten und an das Königreich Gandew verkauft, um ermordet zu werden. Doch als der König von Gandew erfuhr, was Paulin vorhatte, stimmte er dem meisten davon zu, den Sturz der aktuellen Königreiche eingeschlossen, vor allem weil ihm klar wurde, dass sonst alle am Ende tot wären und nichts gelöst wäre. Er musste Paulin trotzdem töten lassen, um vor dem Volk das Gesicht zu wahren, aber Paulin hatte ihm all seine Verbindungen gegeben, also begann der König, im heutigen Königreich Freeish eine neue Basis zu bauen. Er vertraute die Leitung der Organisation einer seiner engsten Verbündeten (und Mätressen) an und machte sie unter dem Vorwand „besserer Kriegsvorbereitungen“ zur Hofwissenschaftlerin."
+ },
+ "bdac01b655c8": {
+  "en": "The Indulgence Period (0 to 120 A.G.):",
+  "t": "Die Periode des Genusses (0 bis 120 A.G.):"
+ },
+ "bdde2cea62ef": {
+  "en": "<strong>The Naked Bruntos Period (~600 to ~500 B.G.):</strong> seeing the rage of the Naked Bruntos (humans), and how quickly the other two races were falling, the rest of their civilization fled into Fuhrair and once again beefed up their defenses as much as they could, mostly to hide from the Naked Bruntos.",
+  "t": "<strong>Die Naked-Bruntos-Periode (~600 bis ~500 B.G.):</strong> Als sie die Wut der Naked Bruntos (Menschen) sahen und wie schnell die anderen beiden Völker fielen, floh der Rest ihrer Zivilisation nach Fuhrair und stärkte ihre Verteidigung erneut, so gut sie konnte, vor allem um sich vor den Naked Bruntos zu verstecken."
+ },
+ "be76e8c1e677": {
+  "en": "Naked Bruntos Time (~2,100 to ~855 B.G.)",
+  "t": "Zeit der Naked Bruntos (~2.100 bis ~855 B.G.)"
+ },
+ "bf5323f8aa98": {
+  "en": "~2,450 B.G.: the Buhraies discovered the Walking Heart stones, irradiated rocks found in Hifuna.",
+  "t": "~2.450 B.G.: Die Buhraies entdeckten die Walking-Heart-Steine, verstrahlte Felsen aus Hifuna."
+ },
+ "c117213fbf5e": {
+  "en": "With the Lishies' overwhelming numbers looming, the Buhraies raised a large section of the plains off the ground, grinding Finaies bodies into the earth, to create a safe zone from the Lishies: the Buhraies Plains, a cliff about 2 km high on average that doesn't erode.",
+  "t": "Angesichts der drohenden Überzahl der Lishies hoben die Buhraies einen großen Teil der Ebenen vom Boden an und mahlten dabei Finaies-Körper in die Erde, um eine sichere Zone vor den Lishies zu schaffen: die Buhraies Plains, eine im Schnitt etwa 2 km hohe Klippe, die nicht erodiert."
+ },
+ "c2bcadaa45d0": {
+  "en": "The Isolation Period (~5,215 to ~3,000 B.G.):",
+  "t": "Die Isolations-Periode (~5.215 bis ~3.000 B.G.):"
+ },
+ "c41412034a26": {
+  "en": "Clashing Time (~4,500 B.G. to ~0 A.G.)",
+  "t": "Zeit der Zusammenstöße (~4.500 B.G. bis ~0 A.G.)"
+ },
+ "c451f8ccff48": {
+  "en": "After Ganyrami Time (0 to 939 A.G.)",
+  "t": "Zeit nach Ganyrami (0 bis 939 A.G.)"
+ },
+ "c7d7101bcef9": {
+  "en": "~1,650 B.G.: Naked Bruntos made the Buhraies Plains East Dip crumble, and several Wood People fell and slowly began to spread; some became unchained. The Buhraies didn't care: it meant more trouble for the Lishies, and a chance to see how things would work themselves out, since Naked Bruntos couldn't be smart or powerful enough to do any harm in return.",
+  "t": "~1.650 B.G.: Naked Bruntos ließen den Buhraies Plains East Dip einstürzen, und mehrere Wood People stürzten hinab und begannen sich langsam auszubreiten; manche wurden entfesselt. Den Buhraies war das egal: Es bedeutete mehr Ärger für die Lishies und die Chance zu sehen, wie sich die Dinge entwickeln würden, da Naked Bruntos unmöglich klug oder mächtig genug sein konnten, um im Gegenzug Schaden anzurichten."
+ },
+ "c7ed0674b31f": {
+  "en": "~438 B.G.: Nari stones were discovered, helping the fight as a Soul Energy replacement.",
+  "t": "~438 B.G.: Nari-Steine wurden entdeckt und halfen im Kampf als Ersatz für Seelenenergie."
+ },
+ "c8a695ca29d5": {
+  "en": "Red Snow Period (~3,000 to ~2,100 B.G.):",
+  "t": "Periode des roten Schnees (~3.000 bis ~2.100 B.G.):"
+ },
+ "c942c085708a": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/World%20Timeline.md\">Legacy/Behind The Scenes/World Lore/World Timeline.md</a>",
+  "t": "Quelle: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/World%20Timeline.md\">Legacy/Behind The Scenes/World Lore/World Timeline.md</a>"
+ },
+ "ca2e3707a447": {
+  "en": "~338 B.G.: nari gels were discovered, though mostly used to poison enemies rather than to heal.",
+  "t": "~338 B.G.: Nari-Gele wurden entdeckt, auch wenn sie meist zum Vergiften von Feinden statt zum Heilen verwendet wurden."
+ },
+ "ca543d7a9984": {
+  "en": "~855 B.G.: the Buhraies activated their last defense by unchaining the Wood People (removing the Fost stone from the top of each one), but the Wood People mindlessly attacked everyone and everything. Over the years they multiplied rapidly, killing countless humans as they spread, until humans figured out how to use Fost stones to their advantage and built villages surrounded by Wood People.",
+  "t": "~855 B.G.: Die Buhraies aktivierten ihre letzte Verteidigung, indem sie die Wood People entfesselten (den Fost-Stein oben aus jedem entfernten), aber die Wood People griffen hirnlos alles und jeden an. Über die Jahre vermehrten sie sich rasant und töteten bei ihrer Ausbreitung unzählige Menschen, bis die Menschen herausfanden, wie man Fost-Steine zu ihrem Vorteil nutzt, und Dörfer bauten, die von Wood People umgeben waren."
+ },
+ "cc32f41a6d54": {
+  "en": "Cold Growth Time (~20,000 to ~5,215 B.G.)",
+  "t": "Zeit des kalten Wachstums (~20.000 bis ~5.215 B.G.)"
+ },
+ "cd4beed3bdd3": {
+  "en": "Eat the Land Period (~10,000 to ~4,500 B.G.):",
+  "t": "Periode des Landfressens (~10.000 bis ~4.500 B.G.):"
+ },
+ "cdd3216418bc": {
+  "en": "They built their biggest research station ever, Bahyum, and tried to create an automated army factory there, but struggled to control it: it always had a life of its own.",
+  "t": "Sie bauten ihre größte Forschungsstation aller Zeiten, Bahyum, und versuchten dort, eine automatisierte Armeefabrik zu erschaffen, hatten aber Mühe, sie zu kontrollieren: Sie führte stets ein Eigenleben."
+ },
+ "ce82c8e10039": {
+  "en": "<strong>Expulsion Period (~250 to ~270 A.G.):</strong> ~250 A.G.: the remaining Buhraies attempted a coup, but it failed. The Lishies tried too, but there were so few of them that the Darfaries easily defended themselves. The Darfaries wiped out every other species on the mountain. Some fled farther west, but all likely met their end.",
+  "t": "<strong>Vertreibungs-Periode (~250 bis ~270 A.G.):</strong> ~250 A.G.: Die übrigen Buhraies versuchten einen Putsch, aber er scheiterte. Auch die Lishies versuchten es, aber sie waren so wenige, dass sich die Darfaries mühelos verteidigten. Die Darfaries löschten jede andere Spezies auf dem Berg aus. Manche flohen weiter nach Westen, aber alle fanden wahrscheinlich ihr Ende."
+ },
+ "cee81695cb1a": {
+  "en": "Prosperity Time (~270 A.G. to today)",
+  "t": "Wohlstandszeit (~270 A.G. bis heute)"
+ },
+ "cef33b9080b5": {
+  "en": "~5,215 B.G.: the Finaies retreated.",
+  "t": "~5.215 B.G.: Die Finaies zogen sich zurück."
+ },
+ "cff0487a3a55": {
+  "en": "~5,215 B.G.: given the extent of their losses, they decided to sacrifice themselves to create a barrier between the northern and southern continents, now known as Hifuna. They spent most of their army creating a curtain of radioactive meteors.",
+  "t": "~5.215 B.G.: Angesichts des Ausmaßes ihrer Verluste beschlossen sie, sich zu opfern, um eine Barriere zwischen dem nördlichen und dem südlichen Kontinent zu schaffen, heute als Hifuna bekannt. Sie verbrauchten den Großteil ihrer Armee, um einen Vorhang aus radioaktiven Meteoren zu erschaffen."
+ },
+ "d1a138231894": {
+  "en": "~470 A.G.: a past Sanbi King decided to build a city at the Waterfall, then a small village, as a war measure against Tolerideme: flooding them, which somewhat worked.",
+  "t": "~470 A.G.: Ein früherer König von Sanbi beschloss, am Wasserfall, damals ein kleines Dorf, eine Stadt zu bauen, als Kriegsmaßnahme gegen Tolerideme: sie zu überfluten, was einigermaßen funktionierte."
+ },
+ "d20adf2eb7c6": {
+  "en": "~3,150 B.G.: the Finaies launched a massive strike from the sea, but the Lishies were less affected than the Buhraies, since most Lishies lived down south.",
+  "t": "~3.150 B.G.: Die Finaies starteten einen gewaltigen Angriff vom Meer aus, aber die Lishies waren weniger betroffen als die Buhraies, da die meisten Lishies weiter im Süden lebten."
+ },
+ "d3268f99d230": {
+  "en": "~2,650 B.G.: the Buhraies were terraforming Endlessfog right under their noses while the Lishies were busy preparing to fight off the Finaies, in case they were a powerful menace this time.",
+  "t": "~2.650 B.G.: Die Buhraies terraformten Endlessfog direkt vor ihrer Nase, während die Lishies damit beschäftigt waren, sich auf die Abwehr der Finaies vorzubereiten, falls diese diesmal eine mächtige Bedrohung wären."
+ },
+ "d7bd6ff955cb": {
+  "en": "~2,650 B.G.: they mounted a secret assault through the desert to massacre the Fuhraies, but the desert killed off most of the army, and the Fuhraies holed up inside their newly created mountain, Fuhrair, so what was left was easily massacred.",
+  "t": "~2.650 B.G.: Sie unternahmen einen geheimen Angriff durch die Wüste, um die Fuhraies niederzumetzeln, aber die Wüste tötete den Großteil der Armee, und die Fuhraies verschanzten sich in ihrem neu erschaffenen Berg Fuhrair, also wurde der Rest leicht niedergemetzelt."
+ },
+ "d8b6c7033b6d": {
+  "en": "Over time, Flatland grew into the center of the oasis, with many economic activities, such as training Sorefaries as hunting companions.",
+  "t": "Mit der Zeit wuchs Flatland zum Zentrum der Oase heran, mit vielen Wirtschaftstätigkeiten, etwa dem Ausbilden von Sorefaries als Jagdgefährten."
+ },
+ "dd8c6c4f3990": {
+  "en": "Most were hunted, and some disappeared, never to be seen again. Some fell through the cracks and lived hidden in the forests, away from the Buhraies' fangs, until they could escape. They camouflaged themselves with tree leaves and dirt, and stole food from the Buhraies' homes as they spread like rats. The Buhraies knew about it, but did nothing: they were more curious than anything.",
+  "t": "Die meisten wurden gejagt, und manche verschwanden auf Nimmerwiedersehen. Manche fielen durchs Raster und lebten versteckt in den Wäldern, fern der Fänge der Buhraies, bis sie fliehen konnten. Sie tarnten sich mit Baumblättern und Dreck und stahlen Essen aus den Häusern der Buhraies, während sie sich wie Ratten ausbreiteten. Die Buhraies wussten davon, taten aber nichts: Sie waren mehr neugierig als alles andere."
+ },
+ "ddb02ad4c826": {
+  "en": "270 to 380 A.G.: humans helped free Sundeath from the ancient species, and it became a refuge from the skirmishes between the human kingdoms. Wozefaries and Sorefaries slowly spread through the kingdoms, though many people were racist toward them and most were slaves; some began changing public opinion by using their abilities and Soul Energy to help.",
+  "t": "270 bis 380 A.G.: Die Menschen halfen, Sundeath von den uralten Spezies zu befreien, und es wurde zu einer Zuflucht vor den Scharmützeln zwischen den menschlichen Königreichen. Wozefaries und Sorefaries verbreiteten sich langsam durch die Königreiche, auch wenn viele Leute rassistisch gegen sie waren und die meisten Sklaven waren; manche begannen, die öffentliche Meinung zu ändern, indem sie ihre Fähigkeiten und Seelenenergie zum Helfen nutzten."
+ },
+ "de85a86098f3": {
+  "en": "Since their battle with the Buhraies was a stalemate, the Lishies began fighting, or rather bullying, the Fuhraies too. That also ended in a stalemate, and negotiations never went anywhere either.",
+  "t": "Da ihr Kampf mit den Buhraies festgefahren war, begannen die Lishies, auch die Fuhraies zu bekämpfen, oder eher zu schikanieren. Auch das endete in einer Pattsituation, und auch Verhandlungen führten nirgendwohin."
+ },
+ "deb2494ccd95": {
+  "en": "<strong>The Prosperity Treaty Period (~680 A.G. to today):</strong> the Darfaries, Wozefaries and Sorefaries became equal to humans under the law, but kept some traditions, which was allowed, since each kingdom could have its own laws as long as they obeyed the Prosperity Treaty (see The Prosperity Treaty Period under Humans).",
+  "t": "<strong>Die Periode des Wohlstandsvertrags (~680 A.G. bis heute):</strong> Die Darfaries, Wozefaries und Sorefaries wurden vor dem Gesetz den Menschen gleichgestellt, behielten aber einige Traditionen, was erlaubt war, da jedes Königreich seine eigenen Gesetze haben durfte, solange es den Wohlstandsvertrag befolgte (siehe Die Periode des Wohlstandsvertrags unter Menschen)."
+ },
+ "df3e3e83035b": {
+  "en": "A group of bandits venturing near the desert mountain hole found Wozefaries and Sorefaries dying from falls they couldn't control, predator attacks or starvation. The bandit leader at the time decided to take care of them, to increase his number of Soul Energy–capable people: a move way ahead of his time, since most people would have killed anything that looked like an ancient species.",
+  "t": "Eine Gruppe Banditen, die sich in die Nähe des Lochs im Wüstenberg wagte, fand Wozefaries und Sorefaries, die an unkontrollierten Stürzen, Angriffen von Raubtieren oder Hunger starben. Der damalige Banditenanführer beschloss, sich um sie zu kümmern, um die Zahl seiner Leute zu erhöhen, die Seelenenergie beherrschen: ein Schachzug weit seiner Zeit voraus, da die meisten alles getötet hätten, was wie eine uralte Spezies aussah."
+ },
+ "e090e3e81c16": {
+  "en": "<strong>The Cleansing Period (~10,000 to ~5,215 B.G.):</strong> the Finaies back in the north became aware of a disturbance in the natural order of the world, or at least what they deemed natural. They sent scouts, then armies, but to no avail: their offspring's specialization triumphed over their generalist nature.",
+  "t": "<strong>Die Säuberungs-Periode (~10.000 bis ~5.215 B.G.):</strong> Die Finaies im Norden bemerkten eine Störung der natürlichen Ordnung der Welt, oder zumindest dessen, was sie für natürlich hielten. Sie schickten Späher, dann Armeen, aber vergebens: Die Spezialisierung ihrer Nachkommen triumphierte über ihre Generalistennatur."
+ },
+ "e0f404626a83": {
+  "en": "The sons and daughters of those adventurers were born into lives of luxury and serenity, so they grew greedy for even more, and killing over it was no big deal. Wars between the two kingdoms began; Walking Heart stones came back into use, especially in the armies, and there was carnage everywhere.",
+  "t": "Die Söhne und Töchter dieser Abenteurer wurden in ein Leben voller Luxus und Gelassenheit geboren, also wurden sie gierig nach noch mehr, und dafür zu töten war keine große Sache. Kriege zwischen den beiden Königreichen begannen; Walking-Heart-Steine kamen wieder in Gebrauch, besonders in den Armeen, und überall herrschte ein Gemetzel."
+ },
  "e692bba8dfd4": {
   "en": "Lishies: a muscular bald woman and man with pale markings, in brown leather and teal wraps.",
   "t": "Lishies: eine muskulöse glatzköpfige Frau und ein Mann mit hellen Zeichnungen, in braunem Leder und petrolfarbenen Wickeltüchern."
  },
+ "e6ad90c5c0a5": {
+  "en": "Cold Defense Time (~5,215 to ~2,100 B.G.)",
+  "t": "Zeit der kalten Verteidigung (~5.215 bis ~2.100 B.G.)"
+ },
+ "e6d6a7b09e30": {
+  "en": "The Lishies realized the Buhraies were trying to subjugate the Fuhraies, so they tried to kill the Fuhraies off first to prevent it. They seemed stuck in a fruitless battle when they suddenly realized they had lost Endlessfog Island.",
+  "t": "Die Lishies erkannten, dass die Buhraies versuchten, die Fuhraies zu unterwerfen, also versuchten sie, die Fuhraies zuerst auszulöschen, um es zu verhindern. Sie schienen in einer fruchtlosen Schlacht festzustecken, als ihnen plötzlich klar wurde, dass sie die Insel Endlessfog verloren hatten."
+ },
  "e7ae78ac0155": {
   "en": "World Timeline",
   "t": "Zeitleiste der Welt"
+ },
+ "eb9b6c5c158e": {
+  "en": "The Lishies hunted and ate humans so voraciously that humans felt they were going extinct. They reached for anything that could turn the tide, and in 939 B.G. they found it: Walking Heart stones, discovered by stealing information from the Buhraies (see the book Strong Walking Heart in <a href=\"/lore/in-world-books/\">Books of Vraki</a>).",
+  "t": "Die Lishies jagten und fraßen Menschen so gierig, dass die Menschen das Gefühl hatten, auszusterben. Sie griffen nach allem, was das Blatt wenden konnte, und 939 B.G. fanden sie es: Walking-Heart-Steine, entdeckt durch Informationen, die sie den Buhraies stahlen (siehe das Buch Strong Walking Heart in <a href=\"/lore/in-world-books/\">Bücher von Vraki</a>)."
  },
  "ee638c2f8dd2": {
   "en": "Darfaries: a tall long-haired woman and a tall man in long fur-trimmed robes with scarves.",
@@ -47,12 +655,76 @@
   "en": "Summary written by AI from the author's notes (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/World%20Timeline.md\">World Timeline.md</a>). <a href=\"/about/ai-disclosure/\">AI disclosure</a>",
   "t": "Von einer KI aus den Notizen des Autors zusammengefasst (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/World%20Timeline.md\">World Timeline.md</a>). <a href=\"/about/ai-disclosure/\">KI-Offenlegung</a>"
  },
+ "ef37a4bdf4c6": {
+  "en": "As the bandit leader grew old, his children fought for power, along with some old gang members who wanted more for their work. A gang war broke out until most of them were dead. It ended when the remaining members split the riches among themselves and disbanded the bandit gang, by then the size of a militia. Some stayed behind for a more normal life; others traveled far and wide in search of fortune.",
+  "t": "Als der Banditenanführer alt wurde, kämpften seine Kinder um die Macht, zusammen mit einigen alten Bandenmitgliedern, die mehr für ihre Arbeit wollten. Ein Bandenkrieg brach aus, bis die meisten von ihnen tot waren. Er endete, als die übrigen Mitglieder die Reichtümer unter sich aufteilten und die Banditenbande, inzwischen so groß wie eine Miliz, auflösten. Manche blieben für ein normaleres Leben; andere reisten weit umher auf der Suche nach ihrem Glück."
+ },
+ "ef7b8f2545b3": {
+  "en": "<strong>Blood Feast Period (~15,000 to ~10,000 B.G.):</strong> the Finaies near what is now Tolerideme began feasting on the blood and bone marrow of fauna and beasts. The variety of blood triggered a mutation in their bodies: the birth of the Buhraies.",
+  "t": "<strong>Blutfest-Periode (~15.000 bis ~10.000 B.G.):</strong> Die Finaies nahe dem heutigen Tolerideme begannen, sich am Blut und Knochenmark von Fauna und Bestien gütlich zu tun. Die Vielfalt des Blutes löste eine Mutation in ihren Körpern aus: die Geburt der Buhraies."
+ },
+ "f03c94b1fe5f": {
+  "en": "Lishin Food Period (~1,000 to ~900 B.G.):",
+  "t": "Periode der Nahrung von Lishin (~1.000 bis ~900 B.G.):"
+ },
+ "f0626f0e4732": {
+  "en": "Wingas became their friends and let humans communicate with each other, while Big Wingas were usually dangerous and territorial.",
+  "t": "Wingas wurden ihre Freunde und ermöglichten den Menschen, miteinander zu kommunizieren, während Big Wingas meist gefährlich und territorial waren."
+ },
+ "f12850036462": {
+  "en": "With the Buhraies and Fuhraies on the defensive, the Lishies fought for power among themselves, to the point where several wars broke out between tribes.",
+  "t": "Mit den Buhraies und Fuhraies in der Defensive kämpften die Lishies untereinander um die Macht, bis hin zu mehreren Kriegen zwischen Stämmen."
+ },
+ "f14ca1f5ebd6": {
+  "en": "<strong>Wild Bruntos Extermination Period (~1,100 to ~900 B.G.):</strong> several Lishin tribes set out to eat every wild Brunto in sight, as they realized how many of these \"animals\" were roaming around. It seemed too late to find every single one, but they were making steady progress, until humans fought back in ways other than physical…",
+  "t": "<strong>Periode der Ausrottung der wilden Bruntos (~1.100 bis ~900 B.G.):</strong> Mehrere Stämme aus Lishin machten sich daran, jeden wilden Brunto in Sichtweite zu fressen, als ihnen klar wurde, wie viele dieser „Tiere“ herumliefen. Es schien zu spät, jeden einzelnen zu finden, aber sie machten stetige Fortschritte, bis die Menschen auf andere als körperliche Weise zurückschlugen…"
+ },
+ "f258b3856cbd": {
+  "en": "1039 A.G.: Flingas are seen flying around in winter, something that hasn't happened in quite a while.",
+  "t": "1039 A.G.: Flingas werden im Winter herumfliegend gesehen, etwas, das schon lange nicht mehr passiert ist."
+ },
+ "f425b1359d9e": {
+  "en": "~855 B.G.: Lishin and other tribes attacked the Buhraies, thinking it was the perfect time, but that was false information from the humans.",
+  "t": "~855 B.G.: Lishin und andere Stämme griffen die Buhraies an, weil sie es für den perfekten Zeitpunkt hielten, aber das war eine Falschinformation der Menschen."
+ },
  "f5a292affe89": {
   "en": "7 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "7 weitere Einträge auf dieser Seite gibt es nur unter <button class=\"linklike\" data-go-bts>Hinter den Kulissen</button>."
  },
+ "f6eef97d60e8": {
+  "en": "Realizing the Lishies were focused on the Fuhraies, the Buhraies kept faking an endless skirmish with the Fuhraies to keep the Lishies away from their true plot: terraforming what is now Endlessfog and experimenting with summoning species. Bruntos came about then.",
+  "t": "Als den Buhraies klar wurde, dass sich die Lishies auf die Fuhraies konzentrierten, täuschten sie weiterhin ein endloses Scharmützel mit den Fuhraies vor, um die Lishies von ihrem wahren Plan fernzuhalten: das heutige Endlessfog zu terraformen und mit der Beschwörung von Spezies zu experimentieren. Damals entstanden die Bruntos."
+ },
+ "f7d0ddca7dc2": {
+  "en": "575 A.G.: on a dark, cloudy night, a few people saw someone in robe-like clothing walking drunkenly around Tastyleaf, and a guard saw them head toward the swamp. The guard warned it was dangerous, but the person replied, \"I have a literal awesome fucking idea,\" and kept walking. The Cruros showed up soon after.",
+  "t": "575 A.G.: In einer dunklen, bewölkten Nacht sahen ein paar Leute jemanden in gewandartiger Kleidung betrunken um Tastyleaf herumlaufen, und eine Wache sah die Person in Richtung Sumpf gehen. Die Wache warnte, es sei gefährlich, aber die Person antwortete: „Ich hab eine buchstäblich verdammt geile Idee“, und ging weiter. Kurz darauf tauchten die Cruros auf."
+ },
+ "f8f417902c6b": {
+  "en": "~855 B.G.: a coordinated attack from the Lishies and the Naked Bruntos, plus a sudden turn for the worse inside Bahyum Castle (sabotage), put the Buhraies in a pinch. Too stubborn to fight together, they began losing ground to the Naked Bruntos and the Lishies.",
+  "t": "~855 B.G.: Ein koordinierter Angriff der Lishies und der Naked Bruntos, dazu eine plötzliche Wendung zum Schlechteren in Bahyum Castle (Sabotage), brachten die Buhraies in Bedrängnis. Zu stur, um gemeinsam zu kämpfen, begannen sie, gegen die Naked Bruntos und die Lishies an Boden zu verlieren."
+ },
+ "f99d4d5e4c46": {
+  "en": "Resisting Subjugation Period (~4,500 to ~3,500 B.G.):",
+  "t": "Periode des Widerstands gegen die Unterwerfung (~4.500 bis ~3.500 B.G.):"
+ },
+ "fbeb4f4f67ed": {
+  "en": "~3,150 B.G.: the Finaies invaded by sea, but the Fuhraies were too far away to be affected, as the Buhraies and Lishies killed every invader.",
+  "t": "~3.150 B.G.: Die Finaies fielen über das Meer ein, aber die Fuhraies waren zu weit weg, um betroffen zu sein, da die Buhraies und Lishies jeden Eindringling töteten."
+ },
+ "fbeea82c2801": {
+  "en": "<strong>Fall From Grace Period (~500 B.G. to ~0 A.G.):</strong> humans worked their way through countless tribes until Ganyrami, the biggest city of the ancient species, was the species' last stronghold. Amid chaos, infighting and disorganization, humans killed off the entire city: the historic Fall of Ganyrami. The Lishin blood lives on in The Last Breath Time (under Buhraies), and some Lishies might have survived in the southwestern woodland.",
+  "t": "<strong>Periode des Sturzes aus der Gnade (~500 B.G. bis ~0 A.G.):</strong> Die Menschen arbeiteten sich durch unzählige Stämme, bis Ganyrami, die größte Stadt der uralten Spezies, die letzte Bastion der Spezies war. Inmitten von Chaos, inneren Kämpfen und Unordnung löschten die Menschen die ganze Stadt aus: der historische Fall von Ganyrami. Das Blut von Lishin lebt in der Zeit des letzten Atemzugs (unter Buhraies) weiter, und einige Lishies könnten im südwestlichen Waldland überlebt haben."
+ },
+ "fc77dbf3d976": {
+  "en": "~570 A.G.: Endlessfog and Triangle City grew with all the people fleeing the wars, and so did what is now the Freeish Kingdom. Blood City grew out of a village full of hunters, and Deltacross grew from the constant flow of people traveling toward Freeish.",
+  "t": "~570 A.G.: Endlessfog und Triangle City wuchsen mit all den Leuten, die vor den Kriegen flohen, ebenso das heutige Königreich Freeish. Blood City entstand aus einem Dorf voller Jäger, und Deltacross wuchs durch den ständigen Strom von Leuten, die in Richtung Freeish reisten."
+ },
  "fe7c4e06281a": {
   "en": "Sorefaries: three small young people in casual clothes, one in a pink outfit with a red cap.",
   "t": "Sorefaries: drei kleine junge Leute in Freizeitkleidung, eine in einem rosa Outfit mit roter Mütze."
+ },
+ "fef34d1750da": {
+  "en": "<strong>Greedy Humans Period (~570 to ~680 A.G.):</strong> Tolerideme, winning its war against Sanbi, marched on Gandew in 570 A.G., and a great war between the three kingdoms began. The Darfaries were now as flexible as humans in warfare, so it wasn't easy, and war after war mostly ended in stalemate (see The Greed Period under Humans).",
+  "t": "<strong>Periode der gierigen Menschen (~570 bis ~680 A.G.):</strong> Tolerideme, das seinen Krieg gegen Sanbi gewann, marschierte 570 A.G. auf Gandew, und ein großer Krieg zwischen den drei Königreichen begann. Die Darfaries waren im Krieg nun so flexibel wie Menschen, also war es nicht leicht, und Krieg um Krieg endete meist in einer Pattsituation (siehe Die Gier-Periode unter Menschen)."
  }
 }

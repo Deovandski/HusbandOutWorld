@@ -1,7 +1,27 @@
 {
+ "0a2af398fe47": {
+  "en": "Ice",
+  "t": "น้ำแข็ง"
+ },
+ "0a48d44e337c": {
+  "en": "<strong>Shape the spell.</strong> Draw its logogram in the air (see Language › Finaies Interface Language), then hold the left hand's two fingers with the other hand for the element to appear.",
+  "t": "<strong>ขึ้นรูปคาถา</strong> วาดโลโกแกรมของมันในอากาศ (ดู ภาษา › ภาษาอินเทอร์เฟซฟิเนส์) แล้วจับสองนิ้วของมือซ้ายด้วยมืออีกข้างเพื่อให้ธาตุปรากฏ"
+ },
+ "1273827574a8": {
+  "en": "Ash",
+  "t": "เถ้า"
+ },
+ "142b5758f344": {
+  "en": "Wind",
+  "t": "ลม"
+ },
  "2359f9fd7d5a": {
   "en": "The primordial interface of what we know as the Darfaries interface nowadays. Some say it’s the start of all interfaces as well, but that never left the ranting books of scientists as proof of that has been quite elusive.",
   "t": "อินเทอร์เฟซปฐมกาลของสิ่งที่เรารู้จักกันในปัจจุบันว่าอินเทอร์เฟซดาร์แฟรีส์ บางคนบอกว่ามันคือจุดเริ่มต้นของอินเทอร์เฟซทั้งหมดด้วย แต่นั่นไม่เคยออกไปไกลกว่าหนังสือบ่นของนักวิทยาศาสตร์ เพราะหลักฐานยังหาได้ยาก"
+ },
+ "2d2b9fe1f9fe": {
+  "en": "Creates a ball of lava.",
+  "t": "สร้างลูกบอลลาวา"
  },
  "2d56d7adc9a6": {
   "en": "Finaies Interface · #HusbandOutWorld",
@@ -15,16 +35,140 @@
   "en": "Why is the interface symbology so small and specific? The consensus believes that it is related to the nature-focused and simplistic minds of Finaies.",
   "t": "ทำไมสัญลักษณ์ของอินเทอร์เฟซนี้ถึงเล็กและเฉพาะเจาะจงขนาดนี้? ความเห็นส่วนใหญ่เชื่อว่าเกี่ยวกับจิตใจที่เรียบง่ายและผูกพันกับธรรมชาติของฟิเนส์"
  },
+ "3749c8439c7a": {
+  "en": "Storm",
+  "t": "พายุ"
+ },
+ "4a00822dbc67": {
+  "en": "Ball size (cm)",
+  "t": "ขนาดลูกบอล (ซม.)"
+ },
+ "4c32a85dc8ec": {
+  "en": "Creates a ball of mud.",
+  "t": "สร้างลูกบอลโคลน"
+ },
+ "4d1dbb53b348": {
+  "en": "<strong>Hold.</strong> Keep the fingers clenched to power up the holding hand. The longer you hold, the stronger the spell, and the more soul energy it costs. Other Finaies can touch you to give you soul energy and power the spell up faster.",
+  "t": "<strong>ค้างไว้</strong> กำนิ้วไว้เพื่อเพิ่มพลังให้มือที่ถือ ยิ่งค้างนาน คาถายิ่งแรง และยิ่งใช้พลังวิญญาณมาก ฟิเนส์คนอื่นแตะตัวคุณเพื่อให้พลังวิญญาณและชาร์จคาถาให้เร็วขึ้นได้"
+ },
+ "4ebc18247e08": {
+  "en": "Steam",
+  "t": "ไอน้ำ"
+ },
+ "4f3226d88153": {
+  "en": "Creates a ball of wind.",
+  "t": "สร้างลูกบอลลม"
+ },
+ "604b6f188c5d": {
+  "en": "Creates a ball of water.",
+  "t": "สร้างลูกบอลน้ำ"
+ },
+ "64a9807143ef": {
+  "en": "Creates a ball of ice.",
+  "t": "สร้างลูกบอลน้ำแข็ง"
+ },
+ "674982955154": {
+  "en": "Shock",
+  "t": "ไฟฟ้าช็อต"
+ },
+ "78baebfcb4b5": {
+  "en": "Fire",
+  "t": "ไฟ"
+ },
+ "7914569e33cc": {
+  "en": "The ball's size follows the General Power Effects: 0.1 cm at Tier I, doubling with every tier.",
+  "t": "ขนาดของลูกบอลเป็นไปตามผลพลังทั่วไป: 0.1 ซม. ที่ระดับ I และเพิ่มเป็นสองเท่าในทุกระดับ"
+ },
+ "795fe475b669": {
+  "en": "Spells in this category are released in the air, or as a projectile if you cock your arm back and release the spell as you push it forward.",
+  "t": "คาถาในหมวดนี้ปล่อยในอากาศ หรือเป็นกระสุนได้ ถ้าคุณง้างแขนกลับแล้วปล่อยคาถาขณะผลักแขนไปข้างหน้า"
+ },
+ "7ef5d32f52cd": {
+  "en": "Creates a ball of ash.",
+  "t": "สร้างลูกบอลเถ้า"
+ },
+ "8017fe7bff1c": {
+  "en": "Creates a ball of shock.",
+  "t": "สร้างลูกบอลไฟฟ้าช็อต"
+ },
+ "8820d95a1ff1": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Finaies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Finaies Interface.md</a>",
+  "t": "แหล่งที่มา: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Finaies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Finaies Interface.md</a>"
+ },
  "8a7ee68cd8b1": {
   "en": "Unlike complex casting rituals of specific interfaces such as Darfaries and Buhraies, their interface resembles animals like Bagarisa. The casting is done with a simple, singular hand movement matching the desired output, and voila! The spell comes out swiftly and aggressively out of their stubbed hands.",
   "t": "ต่างจากพิธีร่ายที่ซับซ้อนของอินเทอร์เฟซบางแบบอย่างดาร์แฟรีส์และบูไรส์ อินเทอร์เฟซของพวกเขาคล้ายของสัตว์อย่างบาการิซา การร่ายทำด้วยการขยับมือง่ายๆ ครั้งเดียวที่ตรงกับผลลัพธ์ที่ต้องการ แล้วก็เสร็จ! คาถาพุ่งออกมาอย่างรวดเร็วและดุดันจากมือสั้นๆ ของพวกเขา"
+ },
+ "8be71aeae090": {
+  "en": "Creates a ball of frozen earth.",
+  "t": "สร้างลูกบอลดินเยือกแข็ง"
+ },
+ "8d45a32dc1bd": {
+  "en": "Soul Energy - Finaies Interface (World Lore illustration)",
+  "t": "พลังวิญญาณ - อินเทอร์เฟซฟิเนส์ (ภาพประกอบตำนานโลก)"
+ },
+ "9134ec5b6078": {
+  "en": "Creates a ball of fire.",
+  "t": "สร้างลูกบอลไฟ"
+ },
+ "95a1423259bb": {
+  "en": "Creates a ball of earth.",
+  "t": "สร้างลูกบอลดิน"
+ },
+ "9c0cf1058f68": {
+  "en": "Frozen Earth",
+  "t": "ดินเยือกแข็ง"
+ },
+ "a074430f352b": {
+  "en": "Earth",
+  "t": "ดิน"
+ },
+ "a1b06dfc3df5": {
+  "en": "<strong>Release.</strong> Separate your fingers to release the spell, or cock your arm back for a ranged attack.",
+  "t": "<strong>ปล่อย</strong> แยกนิ้วออกเพื่อปล่อยคาถา หรือง้างแขนกลับเพื่อโจมตีระยะไกล"
+ },
+ "b9a3fb9ac695": {
+  "en": "Lava",
+  "t": "ลาวา"
+ },
+ "ca30ca77ff43": {
+  "en": "In short: draw the spell in the air, hold to charge it, then release.",
+  "t": "สรุปสั้นๆ: วาดคาถาในอากาศ ค้างไว้เพื่อชาร์จ แล้วปล่อย"
  },
  "cbf8ef1393dd": {
   "en": "The primordial interface of what we know as the Darfaries interface nowadays.",
   "t": "อินเทอร์เฟซปฐมกาลของสิ่งที่เรารู้จักกันในปัจจุบันว่าอินเทอร์เฟซดาร์แฟรีส์"
  },
+ "cfad124318ab": {
+  "en": "Creates a ball of dust.",
+  "t": "สร้างลูกบอลฝุ่น"
+ },
+ "de9b1be49dae": {
+  "en": "Water",
+  "t": "น้ำ"
+ },
  "e0f540f92c72": {
   "en": "Casting",
   "t": "การร่าย"
+ },
+ "eaff7cfcc0b1": {
+  "en": "Mud",
+  "t": "โคลน"
+ },
+ "f596e6062c48": {
+  "en": "Dust",
+  "t": "ฝุ่น"
+ },
+ "f74808bef3bb": {
+  "en": "Creates a ball of steam.",
+  "t": "สร้างลูกบอลไอน้ำ"
+ },
+ "fbe443348c64": {
+  "en": "Creates a ball of storm.",
+  "t": "สร้างลูกบอลพายุ"
+ },
+ "fd20e268a43c": {
+  "en": "A natural evolution of the Finaies that lets them use a basic, elemental soul energy interface. A Finaies draws the spell's logogram in the air with the left hand, and soul energy shapes the spell from that movement. Finaies hands have only two fingers, branch-like.",
+  "t": "วิวัฒนาการตามธรรมชาติของฟิเนส์ที่ทำให้พวกเขาใช้อินเทอร์เฟซพลังวิญญาณธาตุพื้นฐานได้ ฟิเนส์วาดโลโกแกรมของคาถาในอากาศด้วยมือซ้าย และพลังวิญญาณขึ้นรูปคาถาจากการเคลื่อนไหวนั้น มือของฟิเนส์มีแค่สองนิ้ว คล้ายกิ่งไม้"
  }
 }

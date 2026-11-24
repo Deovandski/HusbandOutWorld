@@ -1,11 +1,47 @@
 {
+ "00f03137e155": {
+  "en": "Easy",
+  "t": "Dễ"
+ },
+ "0105b596e57e": {
+  "en": "Base: {flora}",
+  "t": "Bệ: {flora}"
+ },
+ "016c526a1d2a": {
+  "en": "Rounds won: you {you}, {opp} {them}",
+  "t": "Số vòng thắng: bạn {you}, {opp} {them}"
+ },
+ "0240b5832a42": {
+  "en": "Plains",
+  "t": "Đồng bằng"
+ },
+ "03f0feececb0": {
+  "en": "Flying",
+  "t": "Bay"
+ },
+ "08271419319f": {
+  "en": "Shield",
+  "t": "Khiên"
+ },
+ "0a27a3b002bc": {
+  "en": "Round {n}",
+  "t": "Vòng {n}"
+ },
  "0bf9322efcf3": {
   "en": "Final score: {you} {youScore}, {rival} {rivalScore}. {verdict}",
   "t": "Điểm cuối: {you} {youScore}, {rival} {rivalScore}. {verdict}"
  },
+ "0cb6b91a7c7b": {
+  "en": "Take turns placing one statue on a square on your side, on a flora base if you like, or pass. Every piece you place is spent for the match, so save some for later rounds.",
+  "t": "Lần lượt đặt một bức tượng lên một ô bên phía bạn, lên một bệ thực vật nếu muốn, hoặc bỏ lượt. Mỗi quân bạn đặt xuống sẽ được dùng hết cho cả trận, nên hãy để dành vài quân cho các vòng sau."
+ },
  "0d4b087148ae": {
   "en": "Playground · #HusbandOutWorld",
   "t": "Sân chơi · #HusbandOutWorld"
+ },
+ "0e818bfa0679": {
+  "en": "monster",
+  "t": "quái vật"
  },
  "11b7f08bcb49": {
   "en": "{player} snipes the {colour} territory ({points}).",
@@ -15,21 +51,85 @@
   "en": "Your turn: press Throw (or Space) when the aim is where you want it.",
   "t": "Lượt của bạn: nhấn Ném! (hoặc Space) khi tâm ngắm ở đúng chỗ bạn muốn."
  },
+ "20f062e88b88": {
+  "en": "−{n} to the strongest opposing statue in its lane",
+  "t": "−{n} cho bức tượng đối phương mạnh nhất trong làn của nó"
+ },
  "21504db71017": {
   "en": "Play full screen",
   "t": "Chơi toàn màn hình"
+ },
+ "2222ccdea406": {
+  "en": "+{n} at height {h} or more",
+  "t": "+{n} ở độ cao {h} trở lên"
+ },
+ "227af057c460": {
+  "en": "never weaker than its carving",
+  "t": "không bao giờ yếu hơn bức chạm khắc của nó"
+ },
+ "22ef541999f0": {
+  "en": "Next round",
+  "t": "Vòng tiếp theo"
+ },
+ "24ae8a560983": {
+  "en": "Paint my statues",
+  "t": "Tô màu tượng của tôi"
+ },
+ "25ab59baf8e0": {
+  "en": "Your side",
+  "t": "Phía bạn"
+ },
+ "2640f77e9f83": {
+  "en": "Now choose a square for {name}.",
+  "t": "Giờ hãy chọn một ô cho {name}."
  },
  "27bbcef16995": {
   "en": "Hiromi",
   "t": "Hiromi"
  },
+ "285691ff158a": {
+  "en": "ignores lower ground",
+  "t": "bỏ qua địa thế thấp hơn"
+ },
+ "28a2784f6046": {
+  "en": "You found the nari stone in {name}!",
+  "t": "Bạn đã tìm thấy viên đá nari trong {name}!"
+ },
+ "2f157d7130ab": {
+  "en": "Choose a statue for your nari stone first.",
+  "t": "Hãy chọn một bức tượng cho viên đá nari của bạn trước."
+ },
+ "3199ea056253": {
+  "en": "animal",
+  "t": "động vật"
+ },
+ "320089389f44": {
+  "en": "Your battalion",
+  "t": "Đội quân của bạn"
+ },
  "38d4249ff036": {
   "en": "⏱ {seconds}s · darts: {you} {youLeft}, {rival} {rivalLeft}",
   "t": "⏱ {seconds}s · phi tiêu: {you} {youLeft}, {rival} {rivalLeft}"
  },
+ "39db64b96126": {
+  "en": "{opp} wins the match.",
+  "t": "{opp} thắng trận đấu."
+ },
+ "3d254c73066e": {
+  "en": "None left.",
+  "t": "Không còn cái nào."
+ },
+ "3f21515a1b11": {
+  "en": "No base",
+  "t": "Không có bệ"
+ },
  "40e405b6605c": {
   "en": "I haven’t heard of that, but yeah, I prefer targeting the yellow ones, as those are worth more if you snipe all territories.",
   "t": "Chưa nghe bao giờ, nhưng ừ, tôi thích nhắm vào mấy ô màu vàng hơn, vì chúng được nhiều điểm hơn nếu cậu cướp hết lãnh thổ."
+ },
+ "41fb3a0ef555": {
+  "en": "You win round {n}.",
+  "t": "Bạn thắng vòng {n}."
  },
  "42766efba402": {
   "en": "Middle ring",
@@ -38,6 +138,22 @@
  "42ae6cb3cd8f": {
   "en": "Time! The room starts to move too much…",
   "t": "Hết giờ! Căn phòng bắt đầu chuyển động quá nhiều…"
+ },
+ "449177d90198": {
+  "en": "its power stays hidden until the lanes are counted",
+  "t": "sức mạnh của nó được giấu kín cho đến khi các làn được tính điểm"
+ },
+ "45e05fa03651": {
+  "en": "Minari needs JavaScript to play.",
+  "t": "Minari cần JavaScript để chơi."
+ },
+ "46b474188aa4": {
+  "en": "Battlefield: {region}",
+  "t": "Chiến trường: {region}"
+ },
+ "4a4331759c36": {
+  "en": "<a href=\"/lore/pastimes/#minari\">Minari</a>, the carved-statue game played in Sanbi Castle's game room: a working prototype, against Nina, Aurora or Neferteri.",
+  "t": "<a href=\"/lore/pastimes/#minari\">Minari</a>, trò chơi tượng chạm khắc được chơi trong phòng trò chơi của Lâu đài Sanbi: một bản mẫu chơi được, đấu với Nina, Aurora hoặc Neferteri."
  },
  "4c660686dc07": {
   "en": "His first dart clings, then falls. The second lands on a green territory near the centre.",
@@ -51,21 +167,73 @@
   "en": "Kinda? Was the board always this big and colored? I thought it was rounded too— OH YEAH! The center is worth more, right?",
   "t": "Kiểu kiểu? Tấm bảng lúc nào cũng to và nhiều màu thế này à? Tôi tưởng nó cũng hình tròn chứ— À ĐÚNG RỒI! Ở giữa được nhiều điểm hơn, đúng không?"
  },
+ "4ec00394908f": {
+  "en": "How to play",
+  "t": "Cách chơi"
+ },
+ "4f0919dac51a": {
+  "en": "Neferteri",
+  "t": "Neferteri"
+ },
+ "4f4e60287877": {
+  "en": "You win the match!",
+  "t": "Bạn thắng trận đấu!"
+ },
  "50ccc5e2e037": {
   "en": "He aims for the same green, and lands far above it, on purple.",
   "t": "Hắn ngắm cùng màu xanh, và hạ cánh xa phía trên, trên màu tím."
+ },
+ "530cececb444": {
+  "en": "no stone inside.",
+  "t": "không có viên đá bên trong."
+ },
+ "5719e9acd479": {
+  "en": "The table has <strong>5 lanes</strong>. Each lane has a square on your side and one on theirs, with a terrain and a height. A statue on its home terrain gets <strong>+2</strong>; standing higher than the square across gives <strong>+1 per level</strong>, lower gives the same as a minus.",
+  "t": "Bàn có <strong>5 làn</strong>. Mỗi làn có một ô bên phía bạn và một ô bên phía họ, với một loại địa hình và một độ cao. Một bức tượng trên địa hình nhà của nó được <strong>+2</strong>; đứng cao hơn ô đối diện được <strong>+1 cho mỗi bậc</strong>, thấp hơn thì bị trừ tương ứng."
  },
  "576766d387ec": {
   "en": "Play again",
   "t": "Chơi lại"
  },
+ "595f9c0beff7": {
+  "en": "{name} is eliminated: {result}",
+  "t": "{name} bị loại: {result}"
+ },
+ "5ad1c0fc4343": {
+  "en": "{who} passed.",
+  "t": "{who} đã bỏ lượt."
+ },
+ "5c209e93ce26": {
+  "en": "Start the match",
+  "t": "Bắt đầu trận đấu"
+ },
+ "5d0ac69701af": {
+  "en": "power {n}",
+  "t": "sức mạnh {n}"
+ },
+ "6572f28b79ce": {
+  "en": "Lane {n}: tied, {a} to {b}.",
+  "t": "Làn {n}: hòa, {a} với {b}."
+ },
  "69b0b68def54": {
   "en": "SEE? It’s all about mindset! You know what, Harry? You’re cool! So why not play a bit of territory snipping to celebrate?",
   "t": "THẤY CHƯA? Tất cả là ở tư duy! Cậu biết không, Harry? Cậu ngầu lắm! Vậy sao không chơi một ván cướp lãnh thổ để ăn mừng?"
  },
+ "6cd280647632": {
+  "en": "{name}, {kind}, power {power}, home: {terrains}{traits}",
+  "t": "{name}, {kind}, sức mạnh {power}, địa hình nhà: {terrains}{traits}"
+ },
+ "7468786df7e7": {
+  "en": "Your flora bases",
+  "t": "Bệ thực vật của bạn"
+ },
  "76262d314611": {
   "en": "Territory Snipping: turn your phone sideways",
   "t": "Territory Snipping: xoay ngang điện thoại"
+ },
+ "78981b123f83": {
+  "en": "When both sides have passed, each lane goes to the side with more power there. The losing side's statues in that lane are <strong>eliminated</strong>, and you see whether the nari stone was inside.",
+  "t": "Khi cả hai bên đều đã bỏ lượt, mỗi làn thuộc về bên có nhiều sức mạnh hơn ở đó. Các bức tượng của bên thua trong làn đó <strong>bị loại</strong>, và bạn xem viên đá nari có nằm bên trong không."
  },
  "78988010b890": {
   "en": "red",
@@ -75,25 +243,65 @@
   "en": "{n} pt",
   "t": "{n} điểm"
  },
+ "7e99995a1667": {
+  "en": "Choose your opponent",
+  "t": "Chọn đối thủ"
+ },
  "85a1ecacad2c": {
   "en": "That’s the spirit! … You played this before, right?",
   "t": "Tinh thần thế chứ! … Cậu chơi trò này rồi, đúng không?"
+ },
+ "864900d5a132": {
+  "en": "hides your nari stone",
+  "t": "giấu viên đá nari của bạn"
+ },
+ "8845064f5b91": {
+  "en": "+{n} to a {kind}",
+  "t": "+{n} cho một {kind}"
+ },
+ "888d16612e6f": {
+  "en": "Choose the statue that hides your nari stone.",
+  "t": "Chọn bức tượng giấu viên đá nari của bạn."
  },
  "8bf12a38bad0": {
   "en": "Throw!",
   "t": "Ném!"
  },
+ "8c8d4feff7de": {
+  "en": "Your nari stone is inside {name}.",
+  "t": "Viên đá nari của bạn nằm trong {name}."
+ },
+ "905cb326c779": {
+  "en": "You",
+  "t": "Bạn"
+ },
+ "91586b73ba8c": {
+  "en": "the nari stone was inside!",
+  "t": "viên đá nari nằm bên trong!"
+ },
  "935f6cd89f4a": {
   "en": "A draw!",
   "t": "Hòa!"
+ },
+ "93c3ef1e3de3": {
+  "en": "That square is full.",
+  "t": "Ô đó đã đầy."
  },
  "94e6a3ea4d1f": {
   "en": "Turn your phone sideways to play.",
   "t": "Xoay ngang điện thoại để chơi."
  },
+ "955ddba3d08e": {
+  "en": "{name}: {effect}",
+  "t": "{name}: {effect}"
+ },
  "96de5543d183": {
   "en": "yellow",
   "t": "vàng"
+ },
+ "98dc61652f7c": {
+  "en": "{opp} is choosing…",
+  "t": "{opp} đang chọn…"
  },
  "992fb4c6838e": {
   "en": "{you} wins, somehow!",
@@ -103,6 +311,10 @@
   "en": "You’re coolio too!",
   "t": "Anh cũng ngầu bá cháy!"
  },
+ "9c8238f65551": {
+  "en": "Snow",
+  "t": "Tuyết"
+ },
  "a691267c5647": {
   "en": "{rival} wins.",
   "t": "{rival} thắng."
@@ -111,6 +323,18 @@
   "en": "Cancelled! Both darts on the {colour} territory are out.",
   "t": "Hủy! Cả hai phi tiêu trên lãnh thổ {colour} đều ra ngoài."
  },
+ "a93e8afda9a1": {
+  "en": "Before the match, hide your <strong>nari stone</strong> inside one of your statues. Your opponent hides theirs too.",
+  "t": "Trước trận đấu, hãy giấu <strong>viên đá nari</strong> của bạn vào trong một bức tượng của mình. Đối thủ của bạn cũng giấu viên của họ."
+ },
+ "abb89bf474d1": {
+  "en": "home: {terrains}",
+  "t": "địa hình nhà: {terrains}"
+ },
+ "af503a976364": {
+  "en": "a random {min} to +{max}",
+  "t": "ngẫu nhiên từ {min} đến +{max}"
+ },
  "afaed75406bd": {
   "en": "purple",
   "t": "tím"
@@ -118,6 +342,10 @@
  "b2b52c2fc7c2": {
   "en": "Snipe all territories? That’s—different—I think. Can—can you explain?",
   "t": "Cướp hết lãnh thổ? Cái đó—khác—chắc vậy. Anh—anh giải thích được không?"
+ },
+ "b31d36c1c500": {
+  "en": "Challenging",
+  "t": "Thử thách"
  },
  "b8c8d91c4ad6": {
   "en": "Yellow centre",
@@ -143,9 +371,25 @@
   "en": "Next",
   "t": "Tiếp"
  },
+ "be2f6b076cd7": {
+  "en": "Minari: turn your phone sideways",
+  "t": "Minari: hãy xoay ngang điện thoại"
+ },
+ "be3975e50f11": {
+  "en": "{sign}{n} to the statue on it",
+  "t": "{sign}{n} cho bức tượng đặt trên nó"
+ },
  "c1218408e29a": {
   "en": "Just a hunk—that was me warming up! Now try to throw on a green section or anywhere else.",
   "t": "Chỉ một hunk thôi—vừa rồi tôi khởi động! Giờ thử ném vào một ô xanh lá hay bất cứ chỗ nào khác xem."
+ },
+ "c30902149f0e": {
+  "en": "{opp}'s side",
+  "t": "Phía {opp}"
+ },
+ "c384517d1937": {
+  "en": "{name}, power {power}",
+  "t": "{name}, sức mạnh {power}"
  },
  "c7abd16eb68f": {
   "en": "Brotha—you suck at this—Harry?",
@@ -155,17 +399,37 @@
   "en": "—Yea? So I play next?",
   "t": "—Rồi? Vậy tôi chơi tiếp à?"
  },
+ "c91b25d0e00d": {
+  "en": "−{n} to every opposing statue in its lane",
+  "t": "−{n} cho mọi bức tượng đối phương trong làn của nó"
+ },
  "caab81299f22": {
   "en": "The game starts as soon as the phone is sideways.",
   "t": "Trò chơi bắt đầu ngay khi điện thoại được xoay ngang."
+ },
+ "cc14463c4dab": {
+  "en": "Lane {n}: {who} wins, {a} to {b}.",
+  "t": "Làn {n}: {who} thắng, {a} trên {b}."
  },
  "cc60a1651cdd": {
   "en": "Final: {you} {youScore} · {rival} {rivalScore} · {verdict}",
   "t": "Cuối: {you} {youScore} · {rival} {rivalScore} · {verdict}"
  },
+ "ce31bd9a119b": {
+  "en": "Nari stone",
+  "t": "Viên đá nari"
+ },
  "ce3c494a5e85": {
   "en": "Aiight!",
   "t": "Okela!"
+ },
+ "d0bb566c5184": {
+  "en": "The match is a draw.",
+  "t": "Trận đấu hòa."
+ },
+ "d0db58d3de1d": {
+  "en": "humanoid",
+  "t": "hình người"
  },
  "d153c794ecdb": {
   "en": "Play upright instead",
@@ -179,6 +443,50 @@
   "en": "Your dart flies low and lodges in the wall below the board.",
   "t": "Phi tiêu của bạn bay thấp và cắm vào tường dưới bảng."
  },
+ "d2c984ccb77d": {
+  "en": "Each side has <strong>10 carved statues</strong> (Races, Fauna and Beasts) and <strong>4 flora bases</strong>. The creature a statue shows is its power.",
+  "t": "Mỗi bên có <strong>10 bức tượng chạm khắc</strong> (Chủng tộc, Động vật và Quái thú) và <strong>4 bệ thực vật</strong>. Sinh vật mà một bức tượng thể hiện chính là sức mạnh của nó."
+ },
+ "d3724d122484": {
+  "en": "{who} found the nari stone in {name}!",
+  "t": "{who} đã tìm thấy viên đá nari trong {name}!"
+ },
+ "d404968ea90b": {
+  "en": "Medium",
+  "t": "Trung bình"
+ },
+ "d5936b9a0d86": {
+  "en": "Eliminated",
+  "t": "Đã bị loại"
+ },
+ "d7cd56f2a2a3": {
+  "en": "Pass",
+  "t": "Bỏ lượt"
+ },
+ "ddc8e3b2c330": {
+  "en": "Your turn: choose a statue, then a square on your side.",
+  "t": "Lượt của bạn: chọn một bức tượng, rồi chọn một ô bên phía bạn."
+ },
+ "dfe153f0c577": {
+  "en": "{who} placed {name} on a {flora} base, on {terrain} (power {power}).",
+  "t": "{who} đặt {name} lên một bệ {flora}, trên {terrain} (sức mạnh {power})."
+ },
+ "e48d1e99bbff": {
+  "en": "{a} : {b}",
+  "t": "{a} : {b}"
+ },
+ "e601068c1509": {
+  "en": "{who} wins round {n}.",
+  "t": "{who} thắng vòng {n}."
+ },
+ "e818d1b014a8": {
+  "en": "Lane {n}",
+  "t": "Làn {n}"
+ },
+ "e8e05bdea850": {
+  "en": "Cloak",
+  "t": "Áo choàng"
+ },
  "e99283406209": {
   "en": "Play the round of <a href=\"/lore/pastimes/#territory-snipping\">Territory Snipping</a> from Vol 2, as Harry, against Hiromi.",
   "t": "Chơi ván <a href=\"/lore/pastimes/#territory-snipping\">Territory Snipping</a> trong Tập 2, vào vai Harry, đấu với Hiromi."
@@ -187,17 +495,77 @@
   "en": "Good try! Good try! C’mon! Try again!",
   "t": "Thử tốt lắm! Thử tốt lắm! Nào! Thử lại đi!"
  },
+ "ea71ac574d84": {
+  "en": "Win more lanes to win the round. First to <strong>2 rounds</strong> wins, but finding the other side's nari stone wins at once.",
+  "t": "Thắng nhiều làn hơn để thắng vòng. Ai thắng <strong>2 vòng</strong> trước sẽ thắng, nhưng tìm thấy viên đá nari của bên kia là thắng ngay lập tức."
+ },
+ "ee61b8c6ee53": {
+  "en": "Your statues",
+  "t": "Tượng của bạn"
+ },
+ "eeee9b76ec5d": {
+  "en": "Aurora",
+  "t": "Aurora"
+ },
  "ef0ebbb77298": {
   "en": "orange",
   "t": "cam"
+ },
+ "ef6906d30a91": {
+  "en": "Painting your statues is just for looks.",
+  "t": "Tô màu tượng chỉ để trang trí."
+ },
+ "f1b44b944d26": {
+  "en": "{who} placed {name} on {terrain} (power {power}).",
+  "t": "{who} đặt {name} lên {terrain} (sức mạnh {power})."
  },
  "f290164d1315": {
   "en": "Outer ring",
   "t": "Vòng ngoài"
  },
+ "f2c741477316": {
+  "en": "a statue",
+  "t": "một bức tượng"
+ },
+ "f41c4e4dab0b": {
+  "en": "Forest",
+  "t": "Rừng"
+ },
+ "f4904bf63ad4": {
+  "en": "Nina",
+  "t": "Nina"
+ },
+ "f4c2739717c4": {
+  "en": "{terrain}, height {h}",
+  "t": "{terrain}, độ cao {h}"
+ },
+ "f674ac08752f": {
+  "en": "+{n} on {terrain}",
+  "t": "+{n} trên {terrain}"
+ },
+ "f6db3f96e9e3": {
+  "en": "Desert",
+  "t": "Sa mạc"
+ },
+ "fa27d1b6d725": {
+  "en": "+1 when outnumbered in its lane",
+  "t": "+1 khi bị áp đảo về số lượng trong làn của nó"
+ },
  "fb23c9ff0d27": {
   "en": "Inner ring",
   "t": "Vòng trong"
+ },
+ "fbf6a2b00397": {
+  "en": "Lane {n}: you win, {a} to {b}.",
+  "t": "Làn {n}: bạn thắng, {a} trên {b}."
+ },
+ "fe4f28f307a2": {
+  "en": "Round {n} is a draw.",
+  "t": "Vòng {n} hòa."
+ },
+ "fe527bb5037f": {
+  "en": "Carve a new battalion",
+  "t": "Chạm khắc một đội quân mới"
  },
  "feddfb10fb8d": {
   "en": "We all play at the same time. GO!",

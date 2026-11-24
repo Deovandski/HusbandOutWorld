@@ -1,7 +1,39 @@
 {
+ "1e5e2991dedc": {
+  "en": "<strong>Tiers:</strong> the mass affected follows the General Power Effects: 0.1 kg at Tier I, doubling with every tier (51.2 kg at Tier X). Because it changes the genetic information, not the soul, the change stays even after Body Restore, as long as the genetic information isn't lost.",
+  "t": "<strong>Bậc:</strong> khối lượng bị ảnh hưởng theo Hiệu ứng Sức mạnh Chung: 0,1 kg ở Bậc I, gấp đôi qua mỗi bậc (51,2 kg ở Bậc X). Vì nó thay đổi thông tin di truyền chứ không phải linh hồn, sự thay đổi vẫn còn ngay cả sau Body Restore, miễn là thông tin di truyền không bị mất."
+ },
+ "29070357c173": {
+  "en": "Soul Energy - Buhraies Interface (World Lore illustration)",
+  "t": "Năng lượng linh hồn - Giao diện Buhraies (Minh họa Thế giới quan)"
+ },
+ "2c0fd516e171": {
+  "en": "<strong>Draw the spell.</strong> Cut the target logogram into your skin with something sharp (see Language › Buhraies Interface Language), or just cut two empty squares, which has to be done with a knife.",
+  "t": "<strong>Vẽ phép.</strong> Rạch ký tự mục tiêu lên da bằng một vật sắc (xem Ngôn ngữ › Ngôn ngữ Giao diện Buhraies), hoặc chỉ rạch hai ô vuông trống, việc này phải làm bằng dao."
+ },
+ "31d48e291ac1": {
+  "en": "<strong>Tiers:</strong> the higher the tier, the more it increases the soul qualities of the summon, with the increase split across several skills. Only tiers above X had a noticeable effect, and only once the soul reconnected to new flesh, if it worked.",
+  "t": "<strong>Bậc:</strong> bậc càng cao, phẩm chất linh hồn của vật triệu hồi càng tăng, phần tăng được chia cho nhiều kỹ năng. Chỉ những bậc trên X mới có hiệu ứng đáng kể, và chỉ khi linh hồn đã kết nối lại với xác thịt mới, nếu thành công."
+ },
  "3705910a532f": {
   "en": "A \"fleshy\" focused evolution to the Finaies interface! Its capabilities outgrew Finaies in raw power and eventually led Buhraies to force themselves to become powerful enough to reshape the land and other creatures to their liking.",
   "t": "Một bước tiến hóa thiên về “xác thịt” của giao diện Finaies! Khả năng của nó vượt Finaies về sức mạnh thuần túy và cuối cùng khiến Buhraies tự ép mình trở nên đủ mạnh để định hình lại mặt đất và các sinh vật khác theo ý thích."
+ },
+ "3ae348503d46": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Buhraies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Buhraies Interface.md</a>",
+  "t": "Nguồn: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Buhraies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Buhraies Interface.md</a>"
+ },
+ "48ba5cb16a12": {
+  "en": "Alters the target's body DNA according to the caster's desires.",
+  "t": "Thay đổi DNA cơ thể của mục tiêu theo ý muốn của người thi triển."
+ },
+ "552e97590e22": {
+  "en": "Soul VERB",
+  "t": "Soul VERB"
+ },
+ "58266576143d": {
+  "en": "Alters the target's soul DNA according to the caster's desires.",
+  "t": "Thay đổi DNA linh hồn của mục tiêu theo ý muốn của người thi triển."
  },
  "5fed524a49f2": {
   "en": "That is, unless you’re doing a freeform! You will not have the pain of carving your palm, but it might cost your soul or the souls of people around you. Despite Buhraies having a natural inkling for controlling free-forming, including being able to shape the very land to their will, that same power was likely their demise.",
@@ -11,13 +43,33 @@
   "en": "You must carve the logograms into the skin of one of your palms, then clench your fingers to start the interface while keeping the palm visible.",
   "t": "Bạn phải khắc các ký tự lên da một bên lòng bàn tay, rồi nắm các ngón tay lại để khởi động giao diện trong khi vẫn để lòng bàn tay lộ ra."
  },
+ "6351722bd568": {
+  "en": "Soul Spectrum",
+  "t": "Soul Spectrum"
+ },
+ "76a6e41714ed": {
+  "en": "Soul energy shapes the spell using logograms drawn from the knowledge shared by the souls of the people nearby.",
+  "t": "Năng lượng linh hồn định hình phép thuật bằng các ký tự lấy từ tri thức được chia sẻ bởi linh hồn của những người ở gần."
+ },
  "7f9bd04a4f99": {
   "en": "A \"fleshy\" focused evolution to the Finaies interface! Its capabilities outgrew Finaies in raw power and eventually led Buhraies to force themselves to become…",
   "t": "Một bước tiến hóa thiên về “xác thịt” của giao diện Finaies! Khả năng của nó vượt Finaies về sức mạnh thuần túy và cuối cùng khiến Buhraies tự ép mình trở thành…"
  },
+ "7fed7d4ad2e4": {
+  "en": "The Buhraies developed this interface as the blood they drank mutated their bodies, and because they wanted more power. Its logograms are the guardrails: cast without them, and you are altering the soul itself.",
+  "t": "Người Buhraies phát triển giao diện này khi máu họ uống làm đột biến cơ thể họ, và vì họ muốn có thêm sức mạnh. Các ký tự của nó là hàng rào bảo vệ: thi triển mà không có chúng, là bạn đang thay đổi chính linh hồn."
+ },
  "93c6a70f8e61": {
   "en": "Public text: science-buhraies-interface.md",
   "t": "Văn bản công khai: science-buhraies-interface.md"
+ },
+ "9aa1e6e34620": {
+  "en": "Nobody has ever maxed it out to know what would happen. The current theory is that going past the theoretical maximum would make the whole thing explode, possibly in a White Hole event.",
+  "t": "Chưa ai từng đẩy nó lên tối đa để biết điều gì sẽ xảy ra. Giả thuyết hiện nay là vượt quá mức tối đa lý thuyết sẽ khiến toàn bộ phát nổ, có thể thành một sự kiện Hố Trắng."
+ },
+ "a078821d2b2e": {
+  "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Buhraies shells appear as you do.",
+  "t": "<strong>Bắt đầu phép.</strong> Siết chặt các ngón tay của bàn tay giữ phép và năng lượng linh hồn. Các lớp vỏ Buhraies xuất hiện khi bạn làm vậy."
  },
  "a23b9db367c5": {
   "en": "3 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
@@ -35,8 +87,28 @@
   "en": "091 (images illustration)",
   "t": "091 (hình minh họa)"
  },
+ "dd527ba2bcfb": {
+  "en": "<strong>Target:</strong> what the spell acts on. With no target, the soul energy falls back on the caster's own idea of how it should apply itself, and a miscast explodes in soul flame in the caster's hand.",
+  "t": "<strong>Mục tiêu:</strong> thứ mà phép tác động lên. Không có mục tiêu, năng lượng linh hồn quay về theo ý niệm của chính người thi triển về cách nó nên tác động, và một lần thi triển hỏng sẽ phát nổ thành lửa linh hồn trong tay người thi triển."
+ },
+ "dfcfe195c9f1": {
+  "en": "An analysis of the soul. Research with it can find soul harmony, and the Buhraies used it to selectively breed people and enhance their power.",
+  "t": "Một phép phân tích linh hồn. Nghiên cứu với nó có thể tìm ra sự hòa hợp linh hồn, và người Buhraies đã dùng nó để chọn giống con người và tăng cường sức mạnh của họ."
+ },
  "e3cc5a5f7427": {
   "en": "All Buhraies show the markings of controlled flight and built-in spell-casting mechanisms using specialized nerves attuned to soul energy that appear as veins, at least to the untrained eye, throughout the body. These reddened nerves run up and down their body.",
   "t": "Mọi Buhraies đều có dấu hiệu của khả năng bay có kiểm soát và cơ chế thi triển phép tích hợp, nhờ những dây thần kinh chuyên biệt hòa hợp với năng lượng linh hồn trông như mạch máu, ít nhất với con mắt chưa qua huấn luyện, khắp cơ thể. Những dây thần kinh ửng đỏ này chạy dọc khắp cơ thể họ."
+ },
+ "e5d418c7583e": {
+  "en": "<strong>Verb:</strong> what you want to do. You have to think it clearly; a lack of concentration means a miscast, an explosion, or even blowback.",
+  "t": "<strong>Động từ:</strong> điều bạn muốn làm. Bạn phải nghĩ về nó thật rõ ràng; thiếu tập trung nghĩa là thi triển hỏng, phát nổ, hoặc thậm chí phản phệ."
+ },
+ "f2508a76391f": {
+  "en": "<strong>Infuse soul energy.</strong> The casting hand takes in energy when the caster \"eats\" with it. Touching the middle and ring fingers lights up the Buhraies veins in that hand with soul flame, and when the other hand \"eats\", the flames are absorbed. A spell is only stable at a soul energy tier, so energy always fills up to the next tier (after a partial charge, it adds the difference).",
+  "t": "<strong>Truyền năng lượng linh hồn.</strong> Bàn tay thi triển nhận năng lượng khi người thi triển “ăn” bằng nó. Chạm ngón giữa và ngón áp út sẽ làm các mạch Buhraies trên bàn tay đó bừng sáng lửa linh hồn, và khi bàn tay kia “ăn”, ngọn lửa được hấp thụ. Một phép chỉ ổn định ở một bậc năng lượng linh hồn, nên năng lượng luôn được nạp đầy lên bậc kế tiếp (sau một lần nạp dở, nó bù thêm phần chênh lệch)."
+ },
+ "f6eb3327d46d": {
+  "en": "When a spell is cast, five rings appear around the hand holding it. Each shell, on its own, holds a limited number of soul energy tiers:",
+  "t": "Khi một phép được thi triển, năm vòng xuất hiện quanh bàn tay giữ phép. Mỗi lớp vỏ tự nó chứa được một số bậc năng lượng linh hồn giới hạn:"
  }
 }

@@ -1,11 +1,47 @@
 {
+ "00f03137e155": {
+  "en": "Easy",
+  "t": "쉬움"
+ },
+ "0105b596e57e": {
+  "en": "Base: {flora}",
+  "t": "받침: {flora}"
+ },
+ "016c526a1d2a": {
+  "en": "Rounds won: you {you}, {opp} {them}",
+  "t": "이긴 라운드: 나 {you}, {opp} {them}"
+ },
+ "0240b5832a42": {
+  "en": "Plains",
+  "t": "평원"
+ },
+ "03f0feececb0": {
+  "en": "Flying",
+  "t": "비행"
+ },
+ "08271419319f": {
+  "en": "Shield",
+  "t": "방패"
+ },
+ "0a27a3b002bc": {
+  "en": "Round {n}",
+  "t": "{n}라운드"
+ },
  "0bf9322efcf3": {
   "en": "Final score: {you} {youScore}, {rival} {rivalScore}. {verdict}",
   "t": "최종 점수: {you} {youScore}, {rival} {rivalScore}. {verdict}"
  },
+ "0cb6b91a7c7b": {
+  "en": "Take turns placing one statue on a square on your side, on a flora base if you like, or pass. Every piece you place is spent for the match, so save some for later rounds.",
+  "t": "번갈아 가며 내 쪽 칸에 조각상을 하나씩 놓거나(원하면 식물 받침 위에), 패스하세요. 놓은 말은 대전 내내 다시 쓸 수 없으니, 다음 라운드를 위해 남겨 두세요."
+ },
  "0d4b087148ae": {
   "en": "Playground · #HusbandOutWorld",
   "t": "놀이터 · #HusbandOutWorld"
+ },
+ "0e818bfa0679": {
+  "en": "monster",
+  "t": "괴물"
  },
  "11b7f08bcb49": {
   "en": "{player} snipes the {colour} territory ({points}).",
@@ -15,21 +51,85 @@
   "en": "Your turn: press Throw (or Space) when the aim is where you want it.",
   "t": "네 차례: 조준이 원하는 곳에 오면 \"던지기!\"(또는 스페이스)를 눌러."
  },
+ "20f062e88b88": {
+  "en": "−{n} to the strongest opposing statue in its lane",
+  "t": "레인에서 가장 강한 상대 조각상에 −{n}"
+ },
  "21504db71017": {
   "en": "Play full screen",
   "t": "전체 화면으로 플레이하기"
+ },
+ "2222ccdea406": {
+  "en": "+{n} at height {h} or more",
+  "t": "높이 {h} 이상에서 +{n}"
+ },
+ "227af057c460": {
+  "en": "never weaker than its carving",
+  "t": "조각된 힘보다 약해지지 않음"
+ },
+ "22ef541999f0": {
+  "en": "Next round",
+  "t": "다음 라운드"
+ },
+ "24ae8a560983": {
+  "en": "Paint my statues",
+  "t": "내 조각상 칠하기"
+ },
+ "25ab59baf8e0": {
+  "en": "Your side",
+  "t": "내 쪽"
+ },
+ "2640f77e9f83": {
+  "en": "Now choose a square for {name}.",
+  "t": "이제 {name}을(를) 놓을 칸을 고르세요."
  },
  "27bbcef16995": {
   "en": "Hiromi",
   "t": "히로미"
  },
+ "285691ff158a": {
+  "en": "ignores lower ground",
+  "t": "낮은 지형을 무시함"
+ },
+ "28a2784f6046": {
+  "en": "You found the nari stone in {name}!",
+  "t": "{name}에서 나리석을 찾았습니다!"
+ },
+ "2f157d7130ab": {
+  "en": "Choose a statue for your nari stone first.",
+  "t": "먼저 나리석을 숨길 조각상을 고르세요."
+ },
+ "3199ea056253": {
+  "en": "animal",
+  "t": "동물"
+ },
+ "320089389f44": {
+  "en": "Your battalion",
+  "t": "나의 대대"
+ },
  "38d4249ff036": {
   "en": "⏱ {seconds}s · darts: {you} {youLeft}, {rival} {rivalLeft}",
   "t": "⏱ {seconds}s · 다트: {you} {youLeft}, {rival} {rivalLeft}"
  },
+ "39db64b96126": {
+  "en": "{opp} wins the match.",
+  "t": "{opp}이(가) 대전에서 이겼습니다."
+ },
+ "3d254c73066e": {
+  "en": "None left.",
+  "t": "남은 것 없음."
+ },
+ "3f21515a1b11": {
+  "en": "No base",
+  "t": "받침 없음"
+ },
  "40e405b6605c": {
   "en": "I haven’t heard of that, but yeah, I prefer targeting the yellow ones, as those are worth more if you snipe all territories.",
   "t": "그런 건 처음 듣는데, 그래, 난 노란 데를 노리는 게 좋아. 영역을 다 저격하면 그게 점수가 더 높거든."
+ },
+ "41fb3a0ef555": {
+  "en": "You win round {n}.",
+  "t": "{n}라운드에서 이겼습니다."
  },
  "42766efba402": {
   "en": "Middle ring",
@@ -38,6 +138,22 @@
  "42ae6cb3cd8f": {
   "en": "Time! The room starts to move too much…",
   "t": "시간 종료! 방이 너무 많이 움직이기 시작해…"
+ },
+ "449177d90198": {
+  "en": "its power stays hidden until the lanes are counted",
+  "t": "레인을 셀 때까지 힘이 숨겨짐"
+ },
+ "45e05fa03651": {
+  "en": "Minari needs JavaScript to play.",
+  "t": "미나리를 하려면 JavaScript가 필요합니다."
+ },
+ "46b474188aa4": {
+  "en": "Battlefield: {region}",
+  "t": "전장: {region}"
+ },
+ "4a4331759c36": {
+  "en": "<a href=\"/lore/pastimes/#minari\">Minari</a>, the carved-statue game played in Sanbi Castle's game room: a working prototype, against Nina, Aurora or Neferteri.",
+  "t": "산비 성의 게임 방에서 하는 조각상 게임 <a href=\"/lore/pastimes/#minari\">미나리</a>: 니나, 오로라, 네페르테리를 상대로 하는 실제로 작동하는 프로토타입."
  },
  "4c660686dc07": {
   "en": "His first dart clings, then falls. The second lands on a green territory near the centre.",
@@ -51,21 +167,73 @@
   "en": "Kinda? Was the board always this big and colored? I thought it was rounded too— OH YEAH! The center is worth more, right?",
   "t": "대충요? 다트판이 원래 이렇게 크고 알록달록했나요? 동그란 줄 알았는데— 아 맞다! 가운데가 점수가 더 높죠?"
  },
+ "4ec00394908f": {
+  "en": "How to play",
+  "t": "게임 방법"
+ },
+ "4f0919dac51a": {
+  "en": "Neferteri",
+  "t": "네페르테리"
+ },
+ "4f4e60287877": {
+  "en": "You win the match!",
+  "t": "대전에서 이겼습니다!"
+ },
  "50ccc5e2e037": {
   "en": "He aims for the same green, and lands far above it, on purple.",
   "t": "같은 초록을 조준했지만 훨씬 위 보라에 착지했어."
+ },
+ "530cececb444": {
+  "en": "no stone inside.",
+  "t": "안에 나리석이 없었습니다."
+ },
+ "5719e9acd479": {
+  "en": "The table has <strong>5 lanes</strong>. Each lane has a square on your side and one on theirs, with a terrain and a height. A statue on its home terrain gets <strong>+2</strong>; standing higher than the square across gives <strong>+1 per level</strong>, lower gives the same as a minus.",
+  "t": "판에는 <strong>레인 5개</strong>가 있습니다. 각 레인에는 내 쪽 칸 하나와 상대 쪽 칸 하나가 있고, 칸마다 지형과 높이가 있습니다. 본거지 지형에 놓인 조각상은 <strong>+2</strong>를 받고, 맞은편 칸보다 높으면 <strong>한 단계마다 +1</strong>, 낮으면 그만큼 마이너스입니다."
  },
  "576766d387ec": {
   "en": "Play again",
   "t": "다시 하기"
  },
+ "595f9c0beff7": {
+  "en": "{name} is eliminated: {result}",
+  "t": "{name} 탈락: {result}"
+ },
+ "5ad1c0fc4343": {
+  "en": "{who} passed.",
+  "t": "{who}이(가) 패스했습니다."
+ },
+ "5c209e93ce26": {
+  "en": "Start the match",
+  "t": "대전 시작"
+ },
+ "5d0ac69701af": {
+  "en": "power {n}",
+  "t": "힘 {n}"
+ },
+ "6572f28b79ce": {
+  "en": "Lane {n}: tied, {a} to {b}.",
+  "t": "{n}번 레인: 무승부, {a} 대 {b}."
+ },
  "69b0b68def54": {
   "en": "SEE? It’s all about mindset! You know what, Harry? You’re cool! So why not play a bit of territory snipping to celebrate?",
   "t": "봤지? 다 마음먹기에 달렸어! 있잖아, 해리? 너 괜찮은 놈이다! 축하하는 의미로 테리토리 스니핑 한 판 어때?"
  },
+ "6cd280647632": {
+  "en": "{name}, {kind}, power {power}, home: {terrains}{traits}",
+  "t": "{name}, {kind}, 힘 {power}, 본거지: {terrains}{traits}"
+ },
+ "7468786df7e7": {
+  "en": "Your flora bases",
+  "t": "내 식물 받침"
+ },
  "76262d314611": {
   "en": "Territory Snipping: turn your phone sideways",
   "t": "테리토리 스니핑: 휴대폰을 가로로 돌려 줘"
+ },
+ "78981b123f83": {
+  "en": "When both sides have passed, each lane goes to the side with more power there. The losing side's statues in that lane are <strong>eliminated</strong>, and you see whether the nari stone was inside.",
+  "t": "양쪽이 모두 패스하면, 각 레인은 그곳의 힘이 더 큰 쪽이 가져갑니다. 그 레인에서 진 쪽의 조각상은 <strong>탈락</strong>하고, 나리석이 안에 있었는지 드러납니다."
  },
  "78988010b890": {
   "en": "red",
@@ -75,25 +243,65 @@
   "en": "{n} pt",
   "t": "{n}점"
  },
+ "7e99995a1667": {
+  "en": "Choose your opponent",
+  "t": "상대를 고르세요"
+ },
  "85a1ecacad2c": {
   "en": "That’s the spirit! … You played this before, right?",
   "t": "그 정신이야! … 이거 해 본 적 있지?"
+ },
+ "864900d5a132": {
+  "en": "hides your nari stone",
+  "t": "나리석을 숨기고 있음"
+ },
+ "8845064f5b91": {
+  "en": "+{n} to a {kind}",
+  "t": "{kind}에게 +{n}"
+ },
+ "888d16612e6f": {
+  "en": "Choose the statue that hides your nari stone.",
+  "t": "나리석을 숨길 조각상을 고르세요."
  },
  "8bf12a38bad0": {
   "en": "Throw!",
   "t": "던지기!"
  },
+ "8c8d4feff7de": {
+  "en": "Your nari stone is inside {name}.",
+  "t": "나리석은 {name} 안에 있습니다."
+ },
+ "905cb326c779": {
+  "en": "You",
+  "t": "나"
+ },
+ "91586b73ba8c": {
+  "en": "the nari stone was inside!",
+  "t": "나리석이 안에 있었습니다!"
+ },
  "935f6cd89f4a": {
   "en": "A draw!",
   "t": "무승부!"
+ },
+ "93c3ef1e3de3": {
+  "en": "That square is full.",
+  "t": "그 칸은 이미 찼습니다."
  },
  "94e6a3ea4d1f": {
   "en": "Turn your phone sideways to play.",
   "t": "가로로 돌리면 플레이할 수 있어."
  },
+ "955ddba3d08e": {
+  "en": "{name}: {effect}",
+  "t": "{name}: {effect}"
+ },
  "96de5543d183": {
   "en": "yellow",
   "t": "노란색"
+ },
+ "98dc61652f7c": {
+  "en": "{opp} is choosing…",
+  "t": "{opp}이(가) 고르는 중…"
  },
  "992fb4c6838e": {
   "en": "{you} wins, somehow!",
@@ -103,6 +311,10 @@
   "en": "You’re coolio too!",
   "t": "형님도 짱 멋져요!"
  },
+ "9c8238f65551": {
+  "en": "Snow",
+  "t": "눈"
+ },
  "a691267c5647": {
   "en": "{rival} wins.",
   "t": "{rival} 승리."
@@ -111,6 +323,18 @@
   "en": "Cancelled! Both darts on the {colour} territory are out.",
   "t": "취소! {colour} 영역의 다트 두 개 모두 아웃."
  },
+ "a93e8afda9a1": {
+  "en": "Before the match, hide your <strong>nari stone</strong> inside one of your statues. Your opponent hides theirs too.",
+  "t": "대전 전에 내 조각상 하나 안에 <strong>나리석</strong>을 숨기세요. 상대도 자기 것을 숨깁니다."
+ },
+ "abb89bf474d1": {
+  "en": "home: {terrains}",
+  "t": "본거지: {terrains}"
+ },
+ "af503a976364": {
+  "en": "a random {min} to +{max}",
+  "t": "무작위 {min} ~ +{max}"
+ },
  "afaed75406bd": {
   "en": "purple",
   "t": "보라색"
@@ -118,6 +342,10 @@
  "b2b52c2fc7c2": {
   "en": "Snipe all territories? That’s—different—I think. Can—can you explain?",
   "t": "영역을 다 저격해요? 그건—다른데요—아마. 설—설명해 주실 수 있어요?"
+ },
+ "b31d36c1c500": {
+  "en": "Challenging",
+  "t": "어려움"
  },
  "b8c8d91c4ad6": {
   "en": "Yellow centre",
@@ -143,9 +371,25 @@
   "en": "Next",
   "t": "다음"
  },
+ "be2f6b076cd7": {
+  "en": "Minari: turn your phone sideways",
+  "t": "미나리: 휴대폰을 가로로 돌려 주세요"
+ },
+ "be3975e50f11": {
+  "en": "{sign}{n} to the statue on it",
+  "t": "그 위의 조각상에 {sign}{n}"
+ },
  "c1218408e29a": {
   "en": "Just a hunk—that was me warming up! Now try to throw on a green section or anywhere else.",
   "t": "잠깐만—그건 몸 푼 거야! 이제 초록 구역이든 아무 데든 던져 봐."
+ },
+ "c30902149f0e": {
+  "en": "{opp}'s side",
+  "t": "{opp} 쪽"
+ },
+ "c384517d1937": {
+  "en": "{name}, power {power}",
+  "t": "{name}, 힘 {power}"
  },
  "c7abd16eb68f": {
   "en": "Brotha—you suck at this—Harry?",
@@ -155,17 +399,37 @@
   "en": "—Yea? So I play next?",
   "t": "—네? 그럼 다음은 제 차례예요?"
  },
+ "c91b25d0e00d": {
+  "en": "−{n} to every opposing statue in its lane",
+  "t": "레인의 모든 상대 조각상에 −{n}"
+ },
  "caab81299f22": {
   "en": "The game starts as soon as the phone is sideways.",
   "t": "휴대폰이 가로가 되면 바로 게임이 시작돼."
+ },
+ "cc14463c4dab": {
+  "en": "Lane {n}: {who} wins, {a} to {b}.",
+  "t": "{n}번 레인: {who} 승리, {a} 대 {b}."
  },
  "cc60a1651cdd": {
   "en": "Final: {you} {youScore} · {rival} {rivalScore} · {verdict}",
   "t": "최종: {you} {youScore} · {rival} {rivalScore} · {verdict}"
  },
+ "ce31bd9a119b": {
+  "en": "Nari stone",
+  "t": "나리석"
+ },
  "ce3c494a5e85": {
   "en": "Aiight!",
   "t": "좋아!"
+ },
+ "d0bb566c5184": {
+  "en": "The match is a draw.",
+  "t": "대전은 무승부입니다."
+ },
+ "d0db58d3de1d": {
+  "en": "humanoid",
+  "t": "인간형"
  },
  "d153c794ecdb": {
   "en": "Play upright instead",
@@ -179,6 +443,50 @@
   "en": "Your dart flies low and lodges in the wall below the board.",
   "t": "다트가 낮게 날아가 보드 아래 벽에 박혔어."
  },
+ "d2c984ccb77d": {
+  "en": "Each side has <strong>10 carved statues</strong> (Races, Fauna and Beasts) and <strong>4 flora bases</strong>. The creature a statue shows is its power.",
+  "t": "각 진영에는 <strong>조각상 10개</strong>(종족, 동물, 마수)와 <strong>식물 받침 4개</strong>가 있습니다. 조각상이 나타내는 생물이 그 힘입니다."
+ },
+ "d3724d122484": {
+  "en": "{who} found the nari stone in {name}!",
+  "t": "{who}이(가) {name}에서 나리석을 찾았습니다!"
+ },
+ "d404968ea90b": {
+  "en": "Medium",
+  "t": "보통"
+ },
+ "d5936b9a0d86": {
+  "en": "Eliminated",
+  "t": "탈락"
+ },
+ "d7cd56f2a2a3": {
+  "en": "Pass",
+  "t": "패스"
+ },
+ "ddc8e3b2c330": {
+  "en": "Your turn: choose a statue, then a square on your side.",
+  "t": "내 차례: 조각상을 고른 다음, 내 쪽 칸을 고르세요."
+ },
+ "dfe153f0c577": {
+  "en": "{who} placed {name} on a {flora} base, on {terrain} (power {power}).",
+  "t": "{who}이(가) {name}을(를) {flora} 받침에 올려 {terrain}에 놓았습니다(힘 {power})."
+ },
+ "e48d1e99bbff": {
+  "en": "{a} : {b}",
+  "t": "{a} : {b}"
+ },
+ "e601068c1509": {
+  "en": "{who} wins round {n}.",
+  "t": "{who}이(가) {n}라운드에서 이겼습니다."
+ },
+ "e818d1b014a8": {
+  "en": "Lane {n}",
+  "t": "{n}번 레인"
+ },
+ "e8e05bdea850": {
+  "en": "Cloak",
+  "t": "망토"
+ },
  "e99283406209": {
   "en": "Play the round of <a href=\"/lore/pastimes/#territory-snipping\">Territory Snipping</a> from Vol 2, as Harry, against Hiromi.",
   "t": "2권에 나오는 <a href=\"/lore/pastimes/#territory-snipping\">테리토리 스니핑</a> 한 판을, 해리가 되어 히로미와 겨뤄 보세요."
@@ -187,17 +495,77 @@
   "en": "Good try! Good try! C’mon! Try again!",
   "t": "잘했어! 잘했어! 자! 다시 해 봐!"
  },
+ "ea71ac574d84": {
+  "en": "Win more lanes to win the round. First to <strong>2 rounds</strong> wins, but finding the other side's nari stone wins at once.",
+  "t": "레인을 더 많이 이기면 라운드를 이깁니다. 먼저 <strong>2라운드</strong>를 이기는 쪽이 승리하지만, 상대의 나리석을 찾으면 그 즉시 승리합니다."
+ },
+ "ee61b8c6ee53": {
+  "en": "Your statues",
+  "t": "내 조각상"
+ },
+ "eeee9b76ec5d": {
+  "en": "Aurora",
+  "t": "오로라"
+ },
  "ef0ebbb77298": {
   "en": "orange",
   "t": "주황색"
+ },
+ "ef6906d30a91": {
+  "en": "Painting your statues is just for looks.",
+  "t": "조각상 칠하기는 보기 위한 것일 뿐입니다."
+ },
+ "f1b44b944d26": {
+  "en": "{who} placed {name} on {terrain} (power {power}).",
+  "t": "{who}이(가) {name}을(를) {terrain}에 놓았습니다(힘 {power})."
  },
  "f290164d1315": {
   "en": "Outer ring",
   "t": "바깥 링"
  },
+ "f2c741477316": {
+  "en": "a statue",
+  "t": "조각상"
+ },
+ "f41c4e4dab0b": {
+  "en": "Forest",
+  "t": "숲"
+ },
+ "f4904bf63ad4": {
+  "en": "Nina",
+  "t": "니나"
+ },
+ "f4c2739717c4": {
+  "en": "{terrain}, height {h}",
+  "t": "{terrain}, 높이 {h}"
+ },
+ "f674ac08752f": {
+  "en": "+{n} on {terrain}",
+  "t": "{terrain}에서 +{n}"
+ },
+ "f6db3f96e9e3": {
+  "en": "Desert",
+  "t": "사막"
+ },
+ "fa27d1b6d725": {
+  "en": "+1 when outnumbered in its lane",
+  "t": "레인에서 수가 밀리면 +1"
+ },
  "fb23c9ff0d27": {
   "en": "Inner ring",
   "t": "안쪽 링"
+ },
+ "fbf6a2b00397": {
+  "en": "Lane {n}: you win, {a} to {b}.",
+  "t": "{n}번 레인: 내 승리, {a} 대 {b}."
+ },
+ "fe4f28f307a2": {
+  "en": "Round {n} is a draw.",
+  "t": "{n}라운드는 무승부입니다."
+ },
+ "fe527bb5037f": {
+  "en": "Carve a new battalion",
+  "t": "새 대대 조각하기"
  },
  "feddfb10fb8d": {
   "en": "We all play at the same time. GO!",

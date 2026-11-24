@@ -1,7 +1,39 @@
 {
+ "1e5e2991dedc": {
+  "en": "<strong>Tiers:</strong> the mass affected follows the General Power Effects: 0.1 kg at Tier I, doubling with every tier (51.2 kg at Tier X). Because it changes the genetic information, not the soul, the change stays even after Body Restore, as long as the genetic information isn't lost.",
+  "t": "<strong>등급:</strong> 영향받는 질량은 일반 위력 효과를 따른다. I등급에 0.1kg, 등급마다 두 배(X등급에 51.2kg). 영혼이 아니라 유전 정보를 바꾸므로, 유전 정보가 사라지지 않는 한 보디 리스토어 뒤에도 변화가 남는다."
+ },
+ "29070357c173": {
+  "en": "Soul Energy - Buhraies Interface (World Lore illustration)",
+  "t": "영혼 에너지 - 부라이에스 인터페이스 (세계관 삽화)"
+ },
+ "2c0fd516e171": {
+  "en": "<strong>Draw the spell.</strong> Cut the target logogram into your skin with something sharp (see Language › Buhraies Interface Language), or just cut two empty squares, which has to be done with a knife.",
+  "t": "<strong>주문을 그린다.</strong> 날카로운 것으로 대상 표어 문자를 피부에 새긴다(언어 › 부라이에스 인터페이스 언어 참조). 아니면 빈 사각형 두 개만 새겨도 되는데, 이건 칼로 해야 한다."
+ },
+ "31d48e291ac1": {
+  "en": "<strong>Tiers:</strong> the higher the tier, the more it increases the soul qualities of the summon, with the increase split across several skills. Only tiers above X had a noticeable effect, and only once the soul reconnected to new flesh, if it worked.",
+  "t": "<strong>등급:</strong> 등급이 높을수록 소환체의 영혼 자질이 더 많이 오르며, 그 증가분은 여러 능력에 나뉜다. X등급을 넘어서야 눈에 띄는 효과가 있었고, 그것도 영혼이 새 살과 다시 이어진 뒤에야, 성공했을 때의 이야기다."
+ },
  "3705910a532f": {
   "en": "A \"fleshy\" focused evolution to the Finaies interface! Its capabilities outgrew Finaies in raw power and eventually led Buhraies to force themselves to become powerful enough to reshape the land and other creatures to their liking.",
   "t": "피나이에스 인터페이스를 “육체” 중심으로 진화시킨 것! 순수한 힘으로는 피나이에스를 넘어섰고, 결국 부라이에스는 땅과 다른 생물을 마음대로 다시 빚을 수 있을 만큼 강해지도록 스스로를 몰아붙였다."
+ },
+ "3ae348503d46": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Buhraies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Buhraies Interface.md</a>",
+  "t": "출처: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Buhraies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Buhraies Interface.md</a>"
+ },
+ "48ba5cb16a12": {
+  "en": "Alters the target's body DNA according to the caster's desires.",
+  "t": "시전자가 원하는 대로 대상의 몸 DNA를 바꾼다."
+ },
+ "552e97590e22": {
+  "en": "Soul VERB",
+  "t": "Soul VERB"
+ },
+ "58266576143d": {
+  "en": "Alters the target's soul DNA according to the caster's desires.",
+  "t": "시전자가 원하는 대로 대상의 영혼 DNA를 바꾼다."
  },
  "5fed524a49f2": {
   "en": "That is, unless you’re doing a freeform! You will not have the pain of carving your palm, but it might cost your soul or the souls of people around you. Despite Buhraies having a natural inkling for controlling free-forming, including being able to shape the very land to their will, that same power was likely their demise.",
@@ -11,13 +43,33 @@
   "en": "You must carve the logograms into the skin of one of your palms, then clench your fingers to start the interface while keeping the palm visible.",
   "t": "한쪽 손바닥 피부에 표어 문자를 새긴 다음, 손바닥이 보이게 둔 채 손가락을 움켜쥐어 인터페이스를 시작해야 한다."
  },
+ "6351722bd568": {
+  "en": "Soul Spectrum",
+  "t": "영혼 스펙트럼"
+ },
+ "76a6e41714ed": {
+  "en": "Soul energy shapes the spell using logograms drawn from the knowledge shared by the souls of the people nearby.",
+  "t": "영혼 에너지는 근처 사람들의 영혼이 공유하는 지식에서 끌어낸 표어 문자로 주문을 빚는다."
+ },
  "7f9bd04a4f99": {
   "en": "A \"fleshy\" focused evolution to the Finaies interface! Its capabilities outgrew Finaies in raw power and eventually led Buhraies to force themselves to become…",
   "t": "피나이에스 인터페이스를 “육체” 중심으로 진화시킨 것! 순수한 힘으로는 피나이에스를 넘어섰고, 결국 부라이에스는 스스로를…"
  },
+ "7fed7d4ad2e4": {
+  "en": "The Buhraies developed this interface as the blood they drank mutated their bodies, and because they wanted more power. Its logograms are the guardrails: cast without them, and you are altering the soul itself.",
+  "t": "부라이에스는 마신 피가 몸을 변이시키고, 더 큰 힘을 원하게 되면서 이 인터페이스를 개발했다. 표어 문자가 안전 난간이다. 그것 없이 시전하면 영혼 그 자체를 바꾸게 된다."
+ },
  "93c6a70f8e61": {
   "en": "Public text: science-buhraies-interface.md",
   "t": "공개 텍스트: science-buhraies-interface.md"
+ },
+ "9aa1e6e34620": {
+  "en": "Nobody has ever maxed it out to know what would happen. The current theory is that going past the theoretical maximum would make the whole thing explode, possibly in a White Hole event.",
+  "t": "아무도 이걸 끝까지 채워 본 적이 없어서 무슨 일이 일어날지 모른다. 현재 이론으로는 이론상 최대치를 넘기면 전체가 폭발하고, 어쩌면 화이트홀 사건이 일어날 수도 있다."
+ },
+ "a078821d2b2e": {
+  "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Buhraies shells appear as you do.",
+  "t": "<strong>주문을 시작한다.</strong> 주문과 영혼 에너지를 쥔 손의 손가락을 오므린다. 그러면 부라이에스 껍질이 나타난다."
  },
  "a23b9db367c5": {
   "en": "3 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
@@ -35,8 +87,28 @@
   "en": "091 (images illustration)",
   "t": "091 (삽화)"
  },
+ "dd527ba2bcfb": {
+  "en": "<strong>Target:</strong> what the spell acts on. With no target, the soul energy falls back on the caster's own idea of how it should apply itself, and a miscast explodes in soul flame in the caster's hand.",
+  "t": "<strong>대상:</strong> 주문이 작용하는 것. 대상이 없으면 영혼 에너지는 시전자 자신이 생각하는 적용 방식으로 되돌아가고, 잘못 시전하면 시전자의 손에서 영혼의 불꽃으로 폭발한다."
+ },
+ "dfcfe195c9f1": {
+  "en": "An analysis of the soul. Research with it can find soul harmony, and the Buhraies used it to selectively breed people and enhance their power.",
+  "t": "영혼의 분석. 이걸로 연구하면 영혼의 조화를 찾을 수 있고, 부라이에스는 이를 써서 사람들을 선택 교배하고 힘을 키웠다."
+ },
  "e3cc5a5f7427": {
   "en": "All Buhraies show the markings of controlled flight and built-in spell-casting mechanisms using specialized nerves attuned to soul energy that appear as veins, at least to the untrained eye, throughout the body. These reddened nerves run up and down their body.",
   "t": "모든 부라이에스에게는 제어된 비행과, 영혼 에너지에 동조된 특수 신경을 이용한 내장형 주문 시전 구조의 흔적이 있다. 이 신경은 적어도 문외한의 눈에는 온몸에 퍼진 혈관처럼 보인다. 이 붉은 신경들이 몸 위아래로 뻗어 있다."
+ },
+ "e5d418c7583e": {
+  "en": "<strong>Verb:</strong> what you want to do. You have to think it clearly; a lack of concentration means a miscast, an explosion, or even blowback.",
+  "t": "<strong>동사:</strong> 하고 싶은 것. 분명하게 생각해야 한다. 집중이 흐트러지면 시전 실패, 폭발, 심지어 역류가 일어난다."
+ },
+ "f2508a76391f": {
+  "en": "<strong>Infuse soul energy.</strong> The casting hand takes in energy when the caster \"eats\" with it. Touching the middle and ring fingers lights up the Buhraies veins in that hand with soul flame, and when the other hand \"eats\", the flames are absorbed. A spell is only stable at a soul energy tier, so energy always fills up to the next tier (after a partial charge, it adds the difference).",
+  "t": "<strong>영혼 에너지를 불어넣는다.</strong> 시전하는 손은 시전자가 그 손으로 ‘먹을’ 때 에너지를 받아들인다. 가운뎃손가락과 약손가락을 맞대면 그 손의 부라이에스 혈관이 영혼의 불꽃으로 밝아지고, 다른 손이 ‘먹으면’ 불꽃이 흡수된다. 주문은 영혼 에너지 등급에서만 안정되므로, 에너지는 늘 다음 등급까지 채워진다(일부만 충전한 뒤엔 그 차이만큼 더한다)."
+ },
+ "f6eb3327d46d": {
+  "en": "When a spell is cast, five rings appear around the hand holding it. Each shell, on its own, holds a limited number of soul energy tiers:",
+  "t": "주문을 시전하면 주문을 쥔 손 주위에 고리 다섯 개가 나타난다. 각 껍질은 따로따로 한정된 수의 영혼 에너지 등급만 담는다:"
  }
 }

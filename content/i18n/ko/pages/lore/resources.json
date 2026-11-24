@@ -1,11 +1,211 @@
 {
+ "02b88522b961": {
+  "en": "Bagarisa Fur Toothbrush",
+  "t": "바가리사 털 칫솔"
+ },
+ "08b561d3f1c8": {
+  "en": "~20 Pearls for a simple one",
+  "t": "단순한 건 ~20펄"
+ },
+ "0cacdf04aae4": {
+  "en": "<strong>Tier I (Cheap Goods):</strong> natural resources; paper and vellum.",
+  "t": "<strong>I등급 (싼 상품):</strong> 천연 자원, 종이와 양피지."
+ },
+ "0f3899a6f453": {
+  "en": "Fost Stone",
+  "t": "포스트석"
+ },
+ "14f8d549c5d9": {
+  "en": "~5 Pearls",
+  "t": "~5펄"
+ },
+ "17770172fb8f": {
+  "en": "~2 Pearls",
+  "t": "~2펄"
+ },
+ "1918925582d5": {
+  "en": "Wood People sap",
+  "t": "우드 피플 수액"
+ },
+ "1a2ed0c8f120": {
+  "en": "<strong>Where there's none:</strong> people burn animal-fat torches, though not usually inside homes. Gandew and Sundeath use more torches than anywhere else, because they're far from where fost stones are mined.",
+  "t": "<strong>없는 곳에서는:</strong> 동물 기름 횃불을 태우지만, 보통 집 안에서는 쓰지 않는다. 간듀와 선데스는 포스트석을 캐는 곳에서 멀어서 다른 어디보다 횃불을 많이 쓴다."
+ },
+ "1adb8bc81b63": {
+  "en": "A custom-made weapon of chitin and finely crafted Bone Wood, with Winga beaks and claws for close-quarters combat (CQC). It works as a bow, but also as a melee weapon if needed.",
+  "t": "키틴과 정교하게 만든 본 우드로 맞춘 무기로, 근접 전투(CQC)용 윙가 부리와 발톱이 달려 있다. 활로 쓰지만, 필요하면 근접 무기로도 쓴다."
+ },
+ "1e5106d75f3c": {
+  "en": "Wood ~10 Pearls; Bone Wood ~20 Pearls; chitin ~40 Pearls; iron ~85 Pearls; steel ~2 Amethysts; gold ~4 Aquamarines",
+  "t": "나무 ~10펄, 본 우드 ~20펄, 키틴 ~40펄, 철 ~85펄, 강철 ~애머시스트 2개, 금 ~아쿠아마린 4개"
+ },
+ "1e7081d736f4": {
+  "en": "Trees",
+  "t": "나무"
+ },
+ "1f9c51d4d790": {
+  "en": "<strong>Simple Journal</strong> (6×9, 50 pages)",
+  "t": "<strong>간단한 일지</strong> (6×9, 50쪽)"
+ },
+ "23f033a801a0": {
+  "en": "Natural Resources",
+  "t": "천연 자원"
+ },
+ "24e56b632ea6": {
+  "en": "~15 Pearls",
+  "t": "~15펄"
+ },
+ "2504ce24727b": {
+  "en": "A Tier I worker (master level) saving half their pay needs, on average, about 450 working days for a full iron set, 660 for steel, 310 for Bone Wood, 260 for chitin and about 150 for Tibou or leather. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Equipment Price Calculator).",
+  "t": "급여의 절반을 모으는 I등급 노동자(장인 수준)는 평균적으로 철 한 벌에 일하는 날 450일쯤, 강철은 660일, 본 우드는 310일, 키틴은 260일, 티부나 가죽은 150일쯤이 필요하다. <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">경제 스프레드시트</a>(장비 가격 계산기) 참조."
+ },
+ "2ac93d2e4e96": {
+  "en": "Toothpaste",
+  "t": "치약"
+ },
+ "3033ea8c6184": {
+  "en": "<strong>Tier III (Expensive Goods):</strong> rare mineral resources (gold, titanium); higher-quality armor and weapons.",
+  "t": "<strong>III등급 (비싼 상품):</strong> 희귀 광물 자원(금, 티타늄), 품질이 높은 갑옷과 무기."
+ },
+ "31e653361e0e": {
+  "en": "Made of Soul Wood or Black Wood.",
+  "t": "소울 우드나 검은 나무로 만든다."
+ },
+ "32dc4384ef54": {
+  "en": "Soul Energy Related",
+  "t": "영혼 에너지 관련"
+ },
+ "32e3377c4e63": {
+  "en": "~9 Pearls",
+  "t": "~9펄"
+ },
+ "33a29dab963f": {
+  "en": "<strong>Ice Preserver</strong> (a fridge-freezer): made of wood and clay (~1 Amethyst), or iron, wood and clay (~1 Aquamarine).",
+  "t": "<strong>얼음 보존고</strong>(냉장고 겸 냉동고): 나무와 점토(~애머시스트 1개), 또는 철과 나무와 점토(~아쿠아마린 1개)로 만든다."
+ },
+ "37619fc13053": {
+  "en": "White",
+  "t": "하양"
+ },
+ "3862ac04f34f": {
+  "en": "<strong>Sword:</strong> iron ~683–767; steel ~1,008–1,092; Bone Wood ~285–596; chitin ~185–521.",
+  "t": "<strong>검:</strong> 철 ~683~767, 강철 ~1,008~1,092, 본 우드 ~285~596, 키틴 ~185~521."
+ },
+ "3889502093b8": {
+  "en": "~1 Pearl",
+  "t": "~1펄"
+ },
+ "394d220c45d2": {
+  "en": "Cost a bottle",
+  "t": "한 병 값"
+ },
+ "39a8bd07a18b": {
+  "en": "Iron and steel cost the same everywhere except Tolerideme, where they're a little pricier. Bone Wood is cheapest in Freeish and Chitin in Gandew. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Weapon &amp; Household Price Calculator).",
+  "t": "철과 강철은 조금 더 비싼 톨레리데메를 빼면 어디서나 값이 같다. 본 우드는 프리이시에서, 키틴은 간듀에서 가장 싸다. <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">경제 스프레드시트</a>(무기 &amp; 살림살이 가격 계산기) 참조."
+ },
+ "3c9be150028c": {
+  "en": "Bathroom Related",
+  "t": "욕실 관련"
+ },
  "3e86255de7aa": {
   "en": "Natural & Crafted Resources · #HusbandOutWorld",
   "t": "천연 자원과 가공품 · #HusbandOutWorld"
  },
+ "4424d0dd18ef": {
+  "en": "Charcoal, sometimes wrapped in wood to look fancy (see <a href=\"/lore/characters/#kiko-sanbi-half-cruro\">Kiko</a>).",
+  "t": "숯. 폼 나 보이게 나무로 감싸기도 한다(<a href=\"/lore/characters/#kiko-sanbi-half-cruro\">키코</a> 참조)."
+ },
+ "4616570b68e6": {
+  "en": "Walking Heart",
+  "t": "워킹 하트"
+ },
+ "4765bbc0170f": {
+  "en": "<strong>Used for:</strong> construction and furniture; decorating armor and weapons.",
+  "t": "<strong>용도:</strong> 건축과 가구, 갑옷과 무기 장식."
+ },
+ "48481822223b": {
+  "en": "<strong>Paper</strong> (a bundle of ~10 loose pages)",
+  "t": "<strong>종이</strong> (낱장 ~10장 묶음)"
+ },
+ "49e8ea38afbd": {
+  "en": "<strong>Used for:</strong> weapons; tools.",
+  "t": "<strong>용도:</strong> 무기, 도구."
+ },
+ "4d76a703efd4": {
+  "en": "Writing Stick",
+  "t": "필기 막대"
+ },
+ "4ef827bf0b4e": {
+  "en": "Paper, leather and glue",
+  "t": "종이, 가죽, 풀"
+ },
+ "4fe8d925db58": {
+  "en": "A special chitin armor designed after the <a href=\"/lore/beasts/#sweet-sting\">Sweet Sting</a>, used for CQC and impaling. <a href=\"/lore/characters/#morika-tolerideme\">Morika</a> once wore a Sweet Sting costume to gather Black Honey and liked how empowering it felt, so he saved for about a year and a half to have it made. It makes up for his slow reflexes and hides his face. He becomes another persona in it, <a href=\"/lore/characters/#the-stinger\">The Stinger</a>, and kills with the spike of his Stinger helmet.",
+  "t": "<a href=\"/lore/beasts/#sweet-sting\">스위트 스팅</a>을 본떠 설계한 특별한 키틴 갑옷으로, 근접 전투와 꿰뚫기에 쓴다. <a href=\"/lore/characters/#morika-tolerideme\">모리카</a>는 검은 꿀을 모으려고 스위트 스팅 옷을 한번 입었다가 그 힘이 솟는 느낌이 마음에 들어서, 1년 반쯤 돈을 모아 이걸 맞췄다. 느린 반사 신경을 메워 주고 얼굴을 가려 준다. 그는 이걸 입으면 또 다른 인격, <a href=\"/lore/characters/#the-stinger\">스팅어</a>가 되어, 스팅어 투구의 가시로 사람을 죽인다."
+ },
+ "51c64938ac53": {
+  "en": "The Tibou plant, with animal fat and other ingredients.",
+  "t": "티부 식물에 동물 기름과 다른 재료를 넣는다."
+ },
+ "52996fa554f2": {
+  "en": "Household",
+  "t": "살림살이"
+ },
+ "54076359fdc7": {
+  "en": "Pink",
+  "t": "분홍"
+ },
+ "54132c44f968": {
+  "en": "Tibou Soap",
+  "t": "티부 비누"
+ },
+ "5757b2155f92": {
+  "en": "What the materials alone cost, shipping included, in Pearls. The range runs from the cheapest region to the most expensive; crafting costs come on top.",
+  "t": "운송비를 포함한 재료값만, 펄로. 범위는 가장 싼 지역부터 가장 비싼 지역까지이고, 제작비는 따로 붙는다."
+ },
+ "57ae620e41ee": {
+  "en": "Seal Stamp",
+  "t": "인장"
+ },
  "59cb822763ff": {
   "en": "15 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "이 페이지의 항목 15개는 <button class=\"linklike\" data-go-bts>비하인드</button>에서만 볼 수 있습니다."
+ },
+ "5ca532404946": {
+  "en": "<strong>Wine/Mead Mug:</strong> gotta be fancy. Wood ~13 Pearls; Bone Wood ~16 Pearls; chitin ~23 Pearls; iron ~29 Pearls; steel ~2 Amethysts; gold ~3 Aquamarines.",
+  "t": "<strong>와인/미드 잔:</strong> 좀 폼 나야지. 나무 ~13펄, 본 우드 ~16펄, 키틴 ~23펄, 철 ~29펄, 강철 ~애머시스트 2개, 금 ~아쿠아마린 3개."
+ },
+ "5d70259efbb0": {
+  "en": "Inks/Dyes",
+  "t": "잉크/염료"
+ },
+ "5e49b52715ce": {
+  "en": "A stone found in the sediment of the Buhraies lake, on the Buhraies Plains, and all the way from Waterfall City to the Sanbi Kingdom. Closer to the ocean, the riverbed lights up where the rocks get too close to salt water. Fauna, and beasts especially, seem to avoid places where it lies underwater.",
+  "t": "부라이에스 평원의 부라이에스 호수 퇴적층에서, 그리고 워터폴 시에서 산비 왕국까지 내내 발견되는 돌. 바다에 가까운 곳에서는 바위가 소금물에 너무 가까이 닿는 강바닥이 빛난다. 동물, 특히 마수는 이 돌이 물속에 있는 곳을 피하는 듯하다."
+ },
+ "5f5a2affd95f": {
+  "en": "A plain piece of charcoal ~0–2 Pearls; a charcoal stick ~7 Pearls; a refined charcoal stick ~30 Pearls",
+  "t": "그냥 숯 조각 ~0~2펄, 숯 막대 ~7펄, 정제된 숯 막대 ~30펄"
+ },
+ "635af13363af": {
+  "en": "<strong>Bread Plate/Bowl:</strong> made of bread (~0–2 Pearls). It soaks up the juices of your food, and is given to the poor afterward.",
+  "t": "<strong>빵 접시/그릇:</strong> 빵으로 만든다(~0~2펄). 음식 국물을 빨아들이고, 다 쓰면 가난한 사람들에게 준다."
+ },
+ "64ae43e8fe76": {
+  "en": "Cost",
+  "t": "비용"
+ },
+ "69f060ea9f2e": {
+  "en": "Usually iron or another metal that can withstand the water pressure. Pull it, and water flows from the pipe.",
+  "t": "보통 수압을 견딜 수 있는 철이나 다른 금속. 당기면 관에서 물이 나온다."
+ },
+ "6acdd3ea77dc": {
+  "en": "<strong>Tier IV (Nobility Goods):</strong> custom armor and weapons; household items, or any item of extremely high craft or quality.",
+  "t": "<strong>IV등급 (귀족 상품):</strong> 맞춤 갑옷과 무기, 살림살이, 또는 솜씨나 품질이 극도로 높은 모든 물건."
+ },
+ "6b0c0b7d6913": {
+  "en": "Leather",
+  "t": "가죽"
  },
  "6e97b1eafd0e": {
   "en": "The materials and goods of Vraki, from natural resources like Fost Stone (a stone that lights up in salt water and keeps beasts away) and Bone Wood, to…",
@@ -15,20 +215,284 @@
   "en": "Winga",
   "t": "윙가"
  },
+ "7414e4da6d8b": {
+  "en": "Natural and Crafted Resources (World Lore illustration)",
+  "t": "천연 자원과 제작 자원 (세계관 삽화)"
+ },
  "756046544fb1": {
   "en": "Summary written by AI from the author's notes (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Natural and Crafted Resources.md</a>). <a href=\"/about/ai-disclosure/\">AI disclosure</a>",
   "t": "작가의 노트(<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Natural and Crafted Resources.md</a>)를 바탕으로 AI가 작성한 요약입니다. <a href=\"/about/ai-disclosure/\">AI 사용 안내</a>"
+ },
+ "76478bf1274b": {
+  "en": "<strong>No switch:</strong> there's no \"turning off the lights\". To put one out, you pour out the water to stop the reaction.",
+  "t": "<strong>스위치가 없다:</strong> ‘불을 끈다’는 게 없다. 끄려면 물을 쏟아 반응을 멈춘다."
  },
  "77299e0e6193": {
   "en": "Natural &amp; Crafted Resources",
   "t": "천연 자원과 가공품"
  },
+ "7a1649119e6a": {
+  "en": "<strong>Picker:</strong> a two-pronged fork on one end and a spoon on the other. Each person commonly has their own and takes it with them; some decorate theirs or have their name carved on it to make it unique. Wood ~5 Pearls; Bone Wood ~10 Pearls; chitin ~17 Pearls; iron ~25 Pearls; steel ~1 Amethyst; gold ~1 Aquamarine.",
+  "t": "<strong>피커:</strong> 한쪽 끝은 두 갈래 포크, 다른 쪽은 숟가락. 흔히 사람마다 자기 것이 있어서 들고 다니고, 꾸미거나 이름을 새겨 자기만의 것으로 만드는 사람도 있다. 나무 ~5펄, 본 우드 ~10펄, 키틴 ~17펄, 철 ~25펄, 강철 ~애머시스트 1개, 금 ~아쿠아마린 1개."
+ },
+ "7d141a438f76": {
+  "en": "<strong>Used for:</strong> construction and furniture; armor; weapons.",
+  "t": "<strong>용도:</strong> 건축과 가구, 갑옷, 무기."
+ },
+ "7d44bc449c2a": {
+  "en": "Blue",
+  "t": "파랑"
+ },
+ "7d6a8b1e4781": {
+  "en": "<strong>No candles:</strong> there are no candles in Vraki. Wax exists, but it's for sealing letters (like the Winga mail Forway provides).",
+  "t": "<strong>양초가 없다:</strong> 브라키에는 양초가 없다. 밀랍은 있지만, 편지를 봉하는 데 쓴다(포웨이가 제공하는 윙가 메일처럼)."
+ },
+ "7d8dcf0d9ced": {
+  "en": "<strong>Longsword:</strong> iron ~1,464–1,644; steel ~2,160–2,340; Bone Wood ~611–1,277; chitin ~396–1,116.",
+  "t": "<strong>장검:</strong> 철 ~1,464~1,644, 강철 ~2,160~2,340, 본 우드 ~611~1,277, 키틴 ~396~1,116."
+ },
+ "80ae57ffe1d6": {
+  "en": "~11 Pearls",
+  "t": "~11펄"
+ },
  "81e16785271f": {
   "en": "The materials and goods of Vraki, from natural resources like Fost Stone (a stone that lights up in salt water and keeps beasts away) and Bone Wood, to weapons, armor and household items. Goods are sorted into four cost tiers by how expensive they are to move, from cheap goods like paper up to custom nobility pieces.",
   "t": "브라키의 재료와 물건. 포스트석(소금물에서 빛나고 마수를 쫓아내는 돌)과 본 우드 같은 천연 자원부터 무기, 갑옷, 생활용품까지. 물건은 운송 비용이 얼마나 드는지에 따라 종이 같은 저가품부터 맞춤 귀족 물품까지 네 가지 비용 등급으로 나뉜다."
  },
+ "81ebd1383e1b": {
+  "en": "<a class=\"img-link\" href=\"/media/57be02b5784726.webp\" data-full=\"/media/57be02b5784726.webp\"><img src=\"/media/57be02b5784726.webp\" alt=\"Natural and Crafted Resources (World Lore illustration)\" loading=\"lazy\"></a> (slightly grainier) <a class=\"img-link\" href=\"/media/e19e5abc32069d.webp\" data-full=\"/media/e19e5abc32069d.webp\"><img src=\"/media/e19e5abc32069d.webp\" alt=\"Natural and Crafted Resources (World Lore illustration)\" loading=\"lazy\"></a>",
+  "t": "<a class=\"img-link\" href=\"/media/57be02b5784726.webp\" data-full=\"/media/57be02b5784726.webp\"><img src=\"/media/57be02b5784726.webp\" alt=\"Natural and Crafted Resources (World Lore illustration)\" loading=\"lazy\"></a> (살짝 더 거칠게) <a class=\"img-link\" href=\"/media/e19e5abc32069d.webp\" data-full=\"/media/e19e5abc32069d.webp\"><img src=\"/media/e19e5abc32069d.webp\" alt=\"Natural and Crafted Resources (World Lore illustration)\" loading=\"lazy\"></a>"
+ },
+ "835c092f5294": {
+  "en": "Fost Lamp",
+  "t": "포스트 램프"
+ },
+ "8564fe3b4b67": {
+  "en": "Iron",
+  "t": "철"
+ },
+ "8613e2c6eb2d": {
+  "en": "<strong>Tier II (Common Goods):</strong> expensive mineral resources (Nari stones, sapphires, aquamarines, amethysts); Black Honey; sigil rings; lower-quality armor and weapons; inks and dyes.",
+  "t": "<strong>II등급 (흔한 상품):</strong> 비싼 광물 자원(나리석, 사파이어, 아쿠아마린, 애머시스트), 검은 꿀, 시질 링, 품질이 낮은 갑옷과 무기, 잉크와 염료."
+ },
+ "86c7738b66fa": {
+  "en": "Wood, Bone Wood, chitin, iron, steel or gold",
+  "t": "나무, 본 우드, 키틴, 철, 강철, 또는 금"
+ },
+ "8a2f4b2b3d66": {
+  "en": "Chitin",
+  "t": "키틴"
+ },
+ "8e5c5f44a3db": {
+  "en": "Corals (Cruroland)",
+  "t": "산호(크루로랜드)"
+ },
+ "8fe87962b633": {
+  "en": "Sweet Sting wax and ink dye",
+  "t": "스위트 스팅 밀랍과 잉크 염료"
+ },
+ "91157d355643": {
+  "en": "Wood People wood is very durable, with a dark red color, and gives off a strong, woody musk when soaked (see <a href=\"/lore/beasts/#wood-people\">Wood People</a>).",
+  "t": "우드 피플의 나무는 아주 튼튼하고, 짙은 붉은색이며, 물에 적시면 강한 나무 사향 냄새가 난다(<a href=\"/lore/beasts/#wood-people\">우드 피플</a> 참조)."
+ },
+ "92bf1c1e2196": {
+  "en": "<strong>Beer Mug:</strong> getting drunk requires the proper tools. Wood ~15 Pearls; Bone Wood ~20 Pearls; chitin ~28 Pearls; iron ~35 Pearls; steel ~3 Amethysts; gold ~5 Aquamarines.",
+  "t": "<strong>맥주잔:</strong> 취하려면 제대로 된 도구가 필요하다. 나무 ~15펄, 본 우드 ~20펄, 키틴 ~28펄, 철 ~35펄, 강철 ~애머시스트 3개, 금 ~아쿠아마린 5개."
+ },
+ "92fe15c90db7": {
+  "en": "The wood of the Soul Tree, a lone tree with metallic, shiny bark that grows around Blood City and Freeish (see <a href=\"/lore/flora/#soul-tree\">Soul Tree</a>). It's often used with nari stones, sigils and containers that hold Soul Energy, to keep the Soul Energy from leaking, and most badges are made of it (hence their greenish color). Its seeds give caffeine, and ground, they're basically the world's coffee.",
+  "t": "블러드 시와 프리이시 주변에서 자라는, 금속 같고 반짝이는 껍질을 가진 홀로 선 나무, 소울 트리의 목재(<a href=\"/lore/flora/#soul-tree\">소울 트리</a> 참조). 영혼 에너지가 새지 않도록 나리석, 시질, 영혼 에너지를 담는 용기와 함께 자주 쓰고, 신분패 대부분이 이걸로 만들어진다(그래서 초록빛이 돈다). 씨앗에는 카페인이 있고, 빻으면 사실상 이 세계의 커피다."
+ },
+ "937d89baf2b3": {
+  "en": "Plants mixed with salt and alcohol; some mix in wine, etc. A green syrup of mint, green tea and citrus that can numb your tongue if you use too much.",
+  "t": "식물에 소금과 술을 섞는다. 와인 등을 섞기도 한다. 민트, 녹차, 시트러스로 만든 초록 시럽으로, 너무 많이 쓰면 혀가 얼얼해질 수 있다."
+ },
+ "9500b232835e": {
+  "en": "A full set of armor (helmet, chest, arms and legs), materials alone, shipping included, in Pearls, from the cheapest region to the most expensive:",
+  "t": "갑옷 한 벌(투구, 가슴, 팔, 다리)의 운송비를 포함한 재료값만, 펄로, 가장 싼 지역부터 가장 비싼 지역까지:"
+ },
+ "970e3bbf2f8b": {
+  "en": "<strong>Dagger:</strong> iron ~293–329; steel ~432–468; Bone Wood ~122–255; chitin ~79–223.",
+  "t": "<strong>단검:</strong> 철 ~293~329, 강철 ~432~468, 본 우드 ~122~255, 키틴 ~79~223."
+ },
+ "9a63061471e2": {
+  "en": "Black Wood",
+  "t": "검은 나무"
+ },
  "9b445d328e30": {
   "en": "Natural &amp; Crafted Resources · #HusbandOutWorld",
   "t": "천연 자원과 가공품 · #HusbandOutWorld"
+ },
+ "9d680d4bfc10": {
+  "en": "Wood People Paper",
+  "t": "우드 피플 종이"
+ },
+ "9e988d0ed278": {
+  "en": "When <a href=\"/lore/characters/#fernan-blood-blue-flower-red-bone\">Fernan</a> disappeared, so did his bow: his daughter <a href=\"/lore/characters/#magi-blood-blue-flower-red-bone\">Magi</a> wants to find him, or at least his bow. Wilson Big-Gyut once tried to steal it and got punched for it, so he recreated it as closely as he could from memory.",
+  "t": "<a href=\"/lore/characters/#fernan-blood-blue-flower-red-bone\">페르난</a>이 사라졌을 때 그의 활도 사라졌다: 그의 딸 <a href=\"/lore/characters/#magi-blood-blue-flower-red-bone\">마기</a>는 그를, 아니면 적어도 그의 활을 찾고 싶어 한다. 윌슨 빅 귯이 한번 그걸 훔치려다 주먹을 맞았고, 그래서 기억을 더듬어 최대한 가깝게 다시 만들었다."
+ },
+ "9ea7f4f324fb": {
+  "en": "Wood &amp; Wood People Wood",
+  "t": "나무 &amp; 우드 피플 나무"
+ },
+ "9f85bed5d7aa": {
+  "en": "Keeps monsters at bay.",
+  "t": "괴물을 쫓아낸다."
+ },
+ "a6c4186ee9cf": {
+  "en": "~20–40 Pearls a bottle",
+  "t": "한 병에 ~20~40펄"
+ },
+ "a709ff5b2aa3": {
+  "en": "~35 Pearls",
+  "t": "~35펄"
+ },
+ "a7e223624109": {
+  "en": "Bone Wood",
+  "t": "본 우드"
+ },
+ "aae8079e464c": {
+  "en": "The wood of the Black Sapphire Tree, a rare lone tree found between Flatland and Forway that looks dead and soaks up Soul Energy from its surroundings (see <a href=\"/lore/flora/#black-sapphire-tree\">Black Sapphire Tree</a>). Dark and dense, it keeps Soul Energy from leaking like no other wood, even better than Soul Wood; it's used with nari stones, sigils and Soul Energy containers to keep the Soul Energy from leaking. A single small or medium tree can cost a whole sapphire. Black wood badges are given to city officials, kingdom representatives and embassy representatives.",
+  "t": "플랫랜드와 포웨이 사이에서 발견되는, 죽은 것처럼 보이며 주변의 영혼 에너지를 빨아들이는 드문 홀로 선 나무, 블랙 사파이어 트리의 목재(<a href=\"/lore/flora/#black-sapphire-tree\">블랙 사파이어 트리</a> 참조). 어둡고 촘촘해서, 소울 우드보다도 더, 어떤 나무보다도 영혼 에너지가 새지 않게 막는다. 영혼 에너지가 새지 않도록 나리석, 시질, 영혼 에너지 용기와 함께 쓴다. 작거나 중간 크기의 나무 한 그루가 사파이어 하나 값이다. 검은 나무 신분패는 도시 관리, 왕국 대표, 대사관 대표에게 준다."
+ },
+ "adbc3d28d91a": {
+  "en": "<strong>Why gems are Tier II:</strong> sapphires, aquamarines and amethysts are the currency, and from a shipping and handling perspective, currency is a common good. Security is what makes it special: only Forway moves large amounts of currency between cities and kingdoms, in heavily fortified wagons, and for the bandits salivating over those wagons, it's basically Tier IV.",
+  "t": "<strong>보석이 II등급인 이유:</strong> 사파이어, 아쿠아마린, 애머시스트는 화폐이고, 운송과 취급의 관점에서 화폐는 흔한 상품이다. 특별하게 만드는 건 보안이다: 도시와 왕국 사이에서 많은 양의 화폐를 옮기는 건 포웨이뿐이고, 삼엄하게 무장한 짐마차를 쓴다. 그 짐마차를 보며 침 흘리는 산적들에게는, 사실상 IV등급이다."
+ },
+ "b163ade34cf8": {
+  "en": "Bagarisa fur and wood: a wooden toothbrush with stiff red bristles.",
+  "t": "바가리사 털과 나무: 뻣뻣한 빨간 솔이 달린 나무 칫솔."
+ },
+ "b1a3970a58ca": {
+  "en": "Fernan’s Bow",
+  "t": "페르난의 활"
+ },
+ "b1fc5d10fc8c": {
+  "en": "Armor",
+  "t": "갑옷"
+ },
+ "b2602a6c00ce": {
+  "en": "Made from",
+  "t": "재료"
+ },
+ "b406fb57b29f": {
+  "en": "Black",
+  "t": "검정"
+ },
+ "b569f8e73d21": {
+  "en": "Winga beaks and claws, ground up with other beaks and claws. They all have to be strengthened by a Winga before they're removed, and the effect lasts for years before it starts to wear off (see <a href=\"/lore/fauna/#winga-pink-winga\">Winga</a>). Used to make tools that \"cut through anything\", since the dust makes them as hard as diamond: usually a coating is applied, then replaced every few years.",
+  "t": "다른 부리와 발톱으로 함께 빻은 윙가의 부리와 발톱. 모두 떼어 내기 전에 윙가가 강화해 둔 것이어야 하고, 그 효과는 몇 년 지나서야 바래기 시작한다(<a href=\"/lore/fauna/#winga-pink-winga\">윙가</a> 참조). 가루가 다이아몬드만큼 단단하게 만들어 주니 ‘뭐든 베는’ 도구를 만드는 데 쓴다: 보통 코팅을 입히고, 몇 년마다 다시 입힌다."
+ },
+ "bbfdc67480be": {
+  "en": "<strong>Bow:</strong> iron ~586–658; steel ~864–936; Bone Wood ~244–511; chitin ~158–446.",
+  "t": "<strong>활:</strong> 철 ~586~658, 강철 ~864~936, 본 우드 ~244~511, 키틴 ~158~446."
+ },
+ "bd7eac52298a": {
+  "en": "Soul Wood ~22–102 Pearls; Black Wood ~62–158 Pearls (materials and shipping)",
+  "t": "소울 우드 ~22~102펄, 검은 나무 ~62~158펄(재료와 운송비)"
+ },
+ "c2f03233d800": {
+  "en": "Lapis lazuli, mined just like amethyst",
+  "t": "애머시스트처럼 캐내는 청금석"
+ },
+ "c4b60d49642e": {
+  "en": "Writing Related",
+  "t": "필기 관련"
+ },
+ "ca06fcec99c8": {
+  "en": "Water System Pull-Gate Handle",
+  "t": "수도 당김 손잡이"
+ },
+ "ccbd5f06d3c9": {
+  "en": "~10 Pearls",
+  "t": "~10펄"
+ },
+ "d0ae9aaba06a": {
+  "en": "Morika’s Armor",
+  "t": "모리카의 갑옷"
+ },
+ "d4b2c60f333d": {
+  "en": "Black, fist-sized stones that form in the irradiated zones of Hifuna, with glowing colors inside that tell what powers they will likely grant. Whoever replaces their heart with one becomes undead, if they survive the binding. Forway has banned them. See <a href=\"/lore/walking-heart/\">Walking Heart Interface</a>.",
+  "t": "히푸나의 방사능 지대에서 생기는 주먹만 한 검은 돌로, 속에서 빛나는 색이 어떤 힘을 줄지 알려 준다. 자기 심장을 이걸로 바꾼 사람은, 결합에서 살아남으면 언데드가 된다. 포웨이가 금지했다. <a href=\"/lore/walking-heart/\">워킹 하트 인터페이스</a> 참조."
+ },
+ "d4e7d7d330f0": {
+  "en": "Flowers",
+  "t": "꽃"
+ },
+ "d51ab0c09f09": {
+  "en": "Soul Wood",
+  "t": "소울 우드"
+ },
+ "d5a4bf79be82": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Legacy/Behind The Scenes/World Lore/Natural and Crafted Resources.md</a>",
+  "t": "출처: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Legacy/Behind The Scenes/World Lore/Natural and Crafted Resources.md</a>"
+ },
+ "d8169782b57c": {
+  "en": "Material",
+  "t": "재료"
+ },
+ "db530238cd9e": {
+  "en": "A fist-sized fost stone in a glass and wood case with an opening on top. In contact with salt water, it glows brighter than a candle would (candles aren't a thing in Vraki, and neither are oil lamps). The stone lasts about a year when used mostly at night. A big, new fost lamp is unusually bright (like a dentist's office) and can cost as much as a handful of amethysts, a steep price for common folk.",
+  "t": "유리와 나무로 된 케이스에 위가 뚫려 있고, 그 안에 주먹만 한 포스트석이 들어 있다. 소금물에 닿으면 양초보다 밝게 빛난다(브라키에는 양초도 기름 램프도 없다). 주로 밤에 쓰면 돌은 1년쯤 간다. 크고 새 포스트 램프는 유난히 밝고(치과처럼) 애머시스트 한 줌만큼 비쌀 수 있어서, 평민에게는 부담스러운 값이다."
+ },
+ "dfe272d8b6f7": {
+  "en": "Kitchen/Dining Table",
+  "t": "부엌/식탁"
+ },
+ "e3d189693c16": {
+  "en": "Winga Writing Feather",
+  "t": "윙가 깃펜"
+ },
+ "e51d781719a1": {
+  "en": "Seal Wax",
+  "t": "봉인 밀랍"
+ },
+ "e7a3fffa3295": {
+  "en": "Goods are sorted into four tiers, which set how much it costs to ship them (see <a href=\"/lore/economy/\">Economy</a>).",
+  "t": "상품은 네 등급으로 나뉘고, 등급이 운송비를 정한다(<a href=\"/lore/economy/\">경제</a> 참조)."
+ },
+ "e9a14adf2735": {
+  "en": "Full set",
+  "t": "한 벌"
+ },
+ "ecdda59aea5e": {
+  "en": "Item",
+  "t": "물건"
+ },
+ "ee432e447835": {
+  "en": "~12 Pearls",
+  "t": "~12펄"
+ },
+ "f0d67dc167ae": {
+  "en": "~28 Pearls",
+  "t": "~28펄"
+ },
+ "f32d0645a833": {
+  "en": "Weapons",
+  "t": "무기"
+ },
+ "f351cf27d401": {
+  "en": "~20 Pearls, plus tubing",
+  "t": "~20펄, 관은 따로"
+ },
+ "f596d7e234c5": {
+  "en": "A mixture of bone, iron, ground Nari and Greenbread fruit core. Less flexible than most wood, but it lasts much longer, and mixed with other materials, it can be made more flexible for armor and weapons.",
+  "t": "뼈, 철, 빻은 나리, 그린브레드 열매 심을 섞은 것. 대부분의 나무보다 덜 유연하지만 훨씬 오래가고, 다른 재료와 섞으면 갑옷과 무기에 맞게 더 유연하게 만들 수 있다."
+ },
+ "f709e0f9691d": {
+  "en": "Winga Dust",
+  "t": "윙가 가루"
+ },
+ "f8c94a3b4b1e": {
+  "en": "What it is",
+  "t": "무엇인지"
+ },
+ "f958260588e1": {
+  "en": "Steel",
+  "t": "강철"
+ },
+ "fb764acb28a3": {
+  "en": "<strong>Light source:</strong> it needs water and salt to work. There's no wick, flame or smoke; the hissing a lit fost stone makes is the water and salt reacting with the stone, which gives off light and steam.",
+  "t": "<strong>광원:</strong> 작동하려면 물과 소금이 필요하다. 심지도, 불꽃도, 연기도 없다. 불이 켜진 포스트석이 내는 쉭쉭 소리는 물과 소금이 돌과 반응하는 소리로, 빛과 김을 낸다."
  }
 }

@@ -23,6 +23,10 @@
   "en": "PRs are welcome, with or without AI help. If you used AI for a contribution, say so in the PR description and add a line to the table above.",
   "t": "PR dialu-alukan, dengan atau tanpa bantuan AI. Jika anda menggunakan AI untuk sesuatu sumbangan, nyatakannya dalam penerangan PR dan tambah satu baris pada jadual di atas."
  },
+ "227ad95d5503": {
+  "en": "content/bts",
+  "t": "content/bts"
+ },
  "23eebfe076f3": {
   "en": "<strong>Shortened and paraphrased</strong> them into one-paragraph public summaries, because the blog never had pages for these topics. No new facts. Each summary is labeled on the website as AI-written.",
   "t": "<strong>Diringkaskan dan diparafrasa</strong> menjadi ringkasan umum satu perenggan, kerana blog tidak pernah mempunyai halaman untuk topik-topik ini. Tiada fakta baharu. Setiap ringkasan dilabel di laman web sebagai ditulis oleh AI."
@@ -259,6 +263,14 @@
   "en": "content/summaries.json",
   "t": "content/summaries.json"
  },
+ "c43f5ab5035a": {
+  "en": "<strong>Written by the AI</strong> with the author: the abridged Behind The Scenes text the website shows (grammar fixed, brain dumps turned into readable prose and lists, gaps filled only from other Legacy sources or the author's answers). Every question asked, every answer (in the author's words), every filled gap with its source and every discrepancy is recorded in <a href=\"content/bts/qa\">content/bts/qa</a>, one file per Legacy doc. The Glossary's Behind The Scenes descriptions are taken from this abridged text. The raw notes in Legacy are unchanged; where the author ruled a correction or addition \"official\", it shows in the raw notes on the website as a display-only fix in <a href=\"content/fixes.json\">content/fixes.json</a>.",
+  "t": "<strong>Ditulis oleh AI</strong> bersama pengarang: teks Di Sebalik Tabir yang diringkaskan yang ditunjukkan laman web ini (tatabahasa dibetulkan, catatan bersepah dijadikan prosa dan senarai yang mudah dibaca, kekosongan diisi hanya daripada sumber Legacy lain atau jawapan pengarang). Setiap soalan yang ditanya, setiap jawapan (dalam kata-kata pengarang), setiap kekosongan yang diisi berserta sumbernya dan setiap percanggahan direkodkan dalam <a href=\"content/bts/qa\">content/bts/qa</a>, satu fail bagi setiap dokumen Legacy. Penerangan Di Sebalik Tabir dalam Glosari diambil daripada teks yang diringkaskan ini. Nota mentah dalam Legacy tidak diubah; di mana pengarang memutuskan sesuatu pembetulan atau tambahan sebagai “rasmi”, ia ditunjukkan dalam nota mentah di laman web sebagai pembetulan paparan sahaja dalam <a href=\"content/fixes.json\">content/fixes.json</a>."
+ },
+ "c92dbea049c4": {
+  "en": "<strong>The website shows the author's own words.</strong> The novel chapters and the public descriptions (from the old blog) are displayed as written, and so are the Behind The Scenes notes that haven't been abridged yet. The AI's job was to arrange them, not to rewrite them. The exception: Behind The Scenes notes that have been <strong>abridged</strong> (see <code>content/bts</code> below) are an AI-assisted rewrite of the author's raw notes into readable form, labeled as such on every section, with the raw notes one click away.",
+  "t": "<strong>Laman web ini menunjukkan kata-kata pengarang sendiri.</strong> Bab-bab novel dan penerangan umum (dari blog lama) dipaparkan seperti yang ditulis, begitu juga nota Di Sebalik Tabir yang belum diringkaskan. Tugas AI ialah menyusunnya, bukan menulisnya semula. Pengecualian: nota Di Sebalik Tabir yang telah <strong>diringkaskan</strong> (lihat <code>content/bts</code> di bawah) ialah tulisan semula nota mentah pengarang ke bentuk yang mudah dibaca dengan bantuan AI, dilabel sedemikian pada setiap bahagian, dengan nota mentah hanya sekali klik."
+ },
  "ca17d9e86677": {
   "en": "Modeled on the questions in IBM's <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> (what AI was used, what it contributed, how much humans shaped it, and who is accountable):",
   "t": "Berdasarkan soalan-soalan dalam <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> IBM (AI apa yang digunakan, apa sumbangannya, sejauh mana manusia membentuknya, dan siapa yang bertanggungjawab):"
@@ -278,6 +290,10 @@
  "e8ebc8d12782": {
   "en": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter), for the structured data in each page",
   "t": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter), untuk data berstruktur dalam setiap halaman"
+ },
+ "f1afd477240d": {
+  "en": "The raw Behind The Scenes notes in Legacy, the published novels, and the author's answers to the AI's questions.",
+  "t": "Nota mentah Di Sebalik Tabir dalam Legacy, novel yang diterbitkan, dan jawapan pengarang kepada soalan AI."
  },
  "f5234aaefa0e": {
   "en": "Eight Behind The Scenes docs: World Timeline, Villages, Land, Professions, Education, Sports, Novels, Natural and Crafted Resources (human).",

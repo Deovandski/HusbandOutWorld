@@ -1,10 +1,1226 @@
 {
+ "00d5a6afb424": {
+  "en": "Harry dances with July (or rather, she teaches him how)",
+  "t": "แฮร์รีเต้นรำกับจูไล (หรือพูดให้ถูกคือ เธอสอนเขาเต้น)"
+ },
+ "0506c85e3131": {
+  "en": "Something soft and warm falls against his arm: <a href=\"/lore/characters/#magi-blood-blue-flower-red-bone\">Magi</a> has fallen asleep. Harry looks at her cuteness, then notices her weapon and backpack. He asks if she's okay, but she doesn't respond. He shifts to make her more comfortable, and she suddenly wakes up.",
+  "t": "มีบางอย่างนุ่มอุ่นล้มลงพิงแขนเขา: <a href=\"/lore/characters/#magi-blood-blue-flower-red-bone\">มากิ</a>หลับไปแล้ว แฮร์รีมองความน่ารักของเธอ แล้วสังเกตอาวุธและเป้ เขาถามว่าเธอโอเคไหม แต่เธอไม่ตอบ เขาขยับให้เธอสบายขึ้น และเธอก็ตื่นทันที"
+ },
+ "06ec9f6b1a65": {
+  "en": "Dalila, quietly eating, looks at Harry, then back at her food, taking another bite of the tender, juicy, slightly gamy Bagarisa. She starts staring intently at Harry's plate. \"I can eat it for you.\" Nailah: \"Desmond, can you give your Bagarisa to Dalila? I don't want to see food wasted.\"",
+  "t": "ดาลิลา ที่กินเงียบๆ มองแฮร์รี แล้วกลับไปที่อาหาร กัดบาการิซาที่นุ่ม ฉ่ำ และสาบนิดๆ อีกคำ เธอเริ่มจ้องจานของแฮร์รีอย่างตั้งใจ “หนูกินแทนให้ได้นะ” ไนลาห์: “เดสมอนด์ ให้บาการิซาของนายกับดาลิลาได้ไหม? ฉันไม่อยากเห็นอาหารเสียเปล่า”"
+ },
+ "0738030a5363": {
+  "en": "Nailah looks at her husband. \"I think she'd have a better time somewhere without so many memories.\" Severino: \"I was talking with Desmond earlier today. Maybe next time Yosuke stops by, we can see if he needs an assistant?\" Dalila looks at them, Bagarisa juice on her chin, mouth full. \"Who's that?\" \"The chef of The Wood People Picker.\"",
+  "t": "ไนลาห์มองสามี “ฉันว่าเธอน่าจะมีความสุขกว่าที่ที่ไม่มีความทรงจำมากมายขนาดนี้” เซเวรีโน: “ฉันคุยกับเดสมอนด์เมื่อวันนี้ บางทีครั้งหน้าที่โยสุเกะแวะมา เราลองดูว่าเขาต้องการผู้ช่วยไหม?” ดาลิลามองพวกเขา น้ำบาการิซาเปื้อนคาง ปากเต็ม “นั่นใคร?” “เชฟของวูดพีเพิลพิกเกอร์”"
+ },
+ "0803a92fd9e6": {
+  "en": "As they dance, she asks lots of personal questions. Harry evades anything about Sanbi and Eori; she notices how he deflects his past, lets it go, and stops pushing.",
+  "t": "ระหว่างเต้น เธอถามเรื่องส่วนตัวเยอะแยะ แฮร์รีเลี่ยงทุกอย่างที่เกี่ยวกับซันบีและเอโอรี เธอสังเกตว่าเขาบ่ายเบี่ยงเรื่องอดีต เลยปล่อยผ่าน และเลิกเซ้าซี้"
+ },
+ "0887c32d0f25": {
+  "en": "Harry needs to change his appearance, yet nobody seems to have noticed him so far. His beard makes him look different, so he marches on just fine.",
+  "t": "แฮร์รีต้องเปลี่ยนรูปลักษณ์ แต่จนถึงตอนนี้ดูเหมือนไม่มีใครสังเกตเขา เคราทำให้เขาดูต่างไป เขาจึงเดินต่อไปได้สบาย"
+ },
+ "095a478c20f2": {
+  "en": "Arc #3 - Tasty Lie (Light Novel illustration)",
+  "t": "ภาค #3 - คำโกหกแสนอร่อย (ภาพประกอบไลต์โนเวล)"
+ },
+ "0a20c05ba0a7": {
+  "en": "Harry #13 has breakfast outside with Takeo and a few others; Takeo's wagon nearby holds three bodies and the Bagarisa, all frozen in ice",
+  "t": "แฮร์รี #13 กินมื้อเช้าข้างนอกกับทาเคโอะและอีกไม่กี่คน เกวียนของทาเคโอะใกล้ๆ มีศพสามศพและบาการิซา ทั้งหมดแช่แข็งในน้ำแข็ง"
+ },
+ "0a26181ee767": {
+  "en": "The Halfway Inn: Kibe and Eori",
+  "t": "โรงเตี๊ยมฮาล์ฟเวย์: คิเบะกับเอโอรี"
+ },
+ "0a6938481a23": {
+  "en": "Coema is pissed that they've both grown too soft and became pawns in Neferteri's hands, doing things against their will; now she regrets retiring from the position. She looks at them. \"Payback is a bitch! You need to teach her a lesson!\" Eiri: \"I can't do that! She's the Queen of Sanbi!\" \"And you're the King's maid!\" It finally clicks for Eiri that she does have power.",
+  "t": "โคเอมาโมโหที่ทั้งคู่ใจอ่อนเกินไปและกลายเป็นหมากในมือเนเฟอร์เตรี ทำสิ่งต่างๆ ขัดใจตัวเอง ตอนนี้เธอเสียใจที่เกษียณจากตำแหน่ง เธอมองพวกเขา “กรรมตามสนองมันโหดนะ! พวกเธอต้องสั่งสอนนาง!” เอรี: “หนูทำแบบนั้นไม่ได้! นางเป็นราชินีแห่งซันบี!” “และเธอเป็นสาวใช้ของกษัตริย์!” ในที่สุดเอรีก็ตาสว่างว่าเธอมีอำนาจจริงๆ"
+ },
+ "0b33aba93f1c": {
+  "en": "Harry is happy they care about him so much. He forgets the horrors he committed.",
+  "t": "แฮร์รีดีใจที่พวกเธอห่วงใยเขามากขนาดนี้ เขาลืมเรื่องสยองที่ตัวเองก่อไว้"
+ },
+ "0bbc63c0d24f": {
+  "en": "{WIP-katsumiBandit}: \"Why? Who are you?\" \"What are you talking about?\" \"I said, who the fuck are you?\" {WIP-blackMaginaGuy} grabs him by the shoulders. \"You don't remember? Magina guy? I'm {WIP-blackMaginaGuy}! I've known you for, like, twenty years!\"",
+  "t": "{WIP-katsumiBandit}: “ทำไม? มึงเป็นใคร?” “มึงพูดอะไรของมึง?” “กูถามว่ามึงเป็นใครวะ?” {WIP-blackMaginaGuy} จับไหล่เขา “มึงจำไม่ได้เหรอ? ไอ้มาจีนาไง? กู {WIP-blackMaginaGuy}! กูรู้จักมึงมาประมาณยี่สิบปีแล้ว!”"
+ },
+ "0c42c44ed2af": {
+  "en": "Eori, bored at dinner; her roommate asks what she wants to do, and Eori says nothing, since she wants to research more",
+  "t": "เอโอรีเบื่อตอนมื้อเย็น รูมเมตถามว่าเธออยากทำอะไร และเอโอรีไม่ตอบ เพราะเธออยากวิจัยต่อ"
+ },
+ "0cd938724c3d": {
+  "en": "Eori's trial",
+  "t": "การพิจารณาคดีของเอโอรี"
+ },
+ "0da86e9b0ecb": {
+  "en": "The two Saynas look at each other. The quiet one, <a href=\"/lore/characters/#katsuki-flatland-long-blue\">Katsuki</a>, turns and walks away from her sister. <a href=\"/lore/characters/#katsumi-flatland-long-blue\">Katsumi</a>, the rebel, grows sad as she lies there, searching for the words, but when she tries to speak, only cutesy noises come out. The quiet Sayna glances at her and keeps walking.",
+  "t": "ไซนาสองตัวมองกัน ตัวที่เงียบ <a href=\"/lore/characters/#katsuki-flatland-long-blue\">คัตสึกิ</a> หันและเดินหนีพี่สาว <a href=\"/lore/characters/#katsumi-flatland-long-blue\">คัตสึมิ</a> ตัวขบถ เศร้าลงขณะนอนอยู่ตรงนั้น หาคำพูด แต่เมื่อพยายามพูด มีแต่เสียงน่ารักๆ ออกมา ไซนาตัวเงียบเหลือบมองเธอและเดินต่อไป"
+ },
+ "0daa26198a65": {
+  "en": "Dalila's eyes well up and she hugs the father and mother. \"Thank you!\" Harry, a bit embarrassed, hugs them too, while Dalila hugs Vitor and lifts him off the ground. Vitor looks out of breath; Harry kneels to his level, and they slap hands, then bump fists.",
+  "t": "ตาของดาลิลาเอ่อน้ำตาและเธอกอดพ่อกับแม่ “ขอบคุณค่ะ!” แฮร์รี อายนิดหน่อย กอดพวกเขาด้วย ขณะที่ดาลิลากอดวิตอร์และยกเขาลอยจากพื้น วิตอร์ดูหายใจไม่ทัน แฮร์รีคุกเข่าลงให้เท่าเขา และพวกเขาตบมือกัน แล้วชนกำปั้น"
+ },
+ "0f0da724d2b8": {
+  "en": "Sora talks with the other maids in the kitchen",
+  "t": "โซระคุยกับสาวใช้คนอื่นในครัว"
+ },
+ "110ca8bfc9c0": {
+  "en": "He looks at Dalila again, with no idea what to talk about. \"Hmm. What's your favorite food?\" \"Bagarisa.\" Harry nods, breathing out through his nose. \"Makes sense.\" <em>I guess she'd never be friends with them after all that—</em> Images of the playful Bagarisas come to mind. <em>I wish I could have killed the bandits and revived them instead. If only I was stronger.</em> He interlocks his fingers, tightening the grip. <em>If only.</em>",
+  "t": "เขามองดาลิลาอีกครั้ง ไม่รู้จะคุยเรื่องอะไร “ฮืมม อาหารโปรดของเธอคืออะไร?” “บาการิซา” แฮร์รีพยักหน้า หายใจออกทางจมูก “มีเหตุผล” <em>คงไม่มีทางที่เธอจะเป็นเพื่อนกับพวกมันหลังจากเรื่องทั้งหมดนั้น—</em> ภาพบาการิซาขี้เล่นผุดขึ้นมา <em>ฉันอยากฆ่าพวกโจรแล้วชุบชีวิตพวกมันแทน ถ้าฉันแข็งแกร่งกว่านี้ก็ดี</em> เขาประสานนิ้ว บีบแน่นขึ้น <em>ถ้าเพียงแต่</em>"
+ },
+ "116b7af835b2": {
+  "en": "Harry #13 sits by Dalila while everyone eats out in the open; three bandits hang upside down",
+  "t": "แฮร์รี #13 นั่งข้างดาลิลาขณะที่ทุกคนกินกลางแจ้ง โจรสามคนถูกแขวนกลับหัว"
+ },
+ "12eb007cc2a4": {
+  "en": "Neferteri: \"Oh, dear daughter, I knew you would accomplish this wonderful goal.\" Eori doesn't look happy. \"From here we're heading to Forway, where you shall focus on your studies and clear your mind of past events.\" Eori looks even less happy.",
+  "t": "เนเฟอร์เตรี: “โอ้ ลูกสาวที่รัก ข้ารู้ว่าเจ้าจะทำเป้าหมายอันยอดเยี่ยมนี้สำเร็จ” เอโอรีดูไม่มีความสุข “จากที่นี่เราจะไปฟอร์เวย์ ที่ซึ่งเจ้าจะมุ่งการเรียนและล้างใจจากเรื่องในอดีต” เอโอรีดูมีความสุขน้อยลงอีก"
+ },
+ "12f7fd371940": {
+  "en": "The fight ends with Katsumi protecting Katsuki. Katsuki cries as a Sayna, and Katsumi shields her and holds her close. (<a href=\"/lore/fauna/#soreno\">Sorenos</a> are in Fauna.)",
+  "t": "การต่อสู้จบลงด้วยคัตสึมิปกป้องคัตสึกิ คัตสึกิร้องไห้ในร่างไซนา และคัตสึมิบังเธอไว้และกอดแน่น (<a href=\"/lore/fauna/#soreno\">โซเรโน</a>อยู่ในหมวดสัตว์)"
+ },
+ "152e8fffddaf": {
+  "en": "Hanako comes over. \"You got back pretty late yesterday and didn't say much. What happened?\" Mimi sits on Harry's other side, mimicking Hanako. Desmond looks down. \"She asked how much it was.\" Hanako bursts out laughing. \"Is that why? I thought you got dumped or something.\" \"Well, that too.\" \"So, how much did she give you?\" \"Nothing. We called it an impromptu date.\"",
+  "t": "ฮานาโกะเดินมา “เมื่อวานนายกลับมาดึกมากแล้วก็ไม่ค่อยพูดอะไร เกิดอะไรขึ้น?” มิมินั่งอีกข้างของแฮร์รี ทำท่าเลียนแบบฮานาโกะ เดสมอนด์ก้มหน้า “เธอถามว่าค่าตัวเท่าไหร่” ฮานาโกะระเบิดหัวเราะ “เพราะงั้นเหรอ? นึกว่าโดนทิ้งหรืออะไรซะอีก” “ก็ เรื่องนั้นด้วย” “แล้วเธอให้นายเท่าไหร่?” “ไม่ได้สักบาท เราเรียกมันว่าเดตแบบไม่ได้ตั้งใจ”"
+ },
+ "15e4fa1ba6e2": {
+  "en": "Katsumi: \"<a href=\"/lore/pastimes/#egua-race\">Egua Races</a>! That was awesome! The Eguas were running so fast!\" Ryo: \"Wait until you see a <a href=\"/lore/pastimes/#dueling-egua-race\">Dueling Egua Race</a>! Nari gels are allowed on both the rider and the Egua!\" \"Let's go see it!\" \"Hold your Eguas.\" He laughs like a dad. \"That competition won't start until the current one finishes. Anything else you two want to do?\"",
+  "t": "คัตสึมิ: “<a href=\"/lore/pastimes/#egua-race\">การแข่งเอกัว</a>! สุดยอดไปเลย! เอกัววิ่งเร็วมาก!” เรียว: “รอดู<a href=\"/lore/pastimes/#dueling-egua-race\">การแข่งเอกัวดวล</a>ก่อนเถอะ! ใช้เจลนาริได้ทั้งกับคนขี่และเอกัว!” “ไปดูกัน!” “ใจเย็นก่อน” เขาหัวเราะแบบพ่อๆ “การแข่งนั้นจะยังไม่เริ่มจนกว่ารายการปัจจุบันจะจบ มีอะไรอย่างอื่นที่พวกเธออยากทำไหม?”"
+ },
+ "177ccc8f12bb": {
+  "en": "His mind clicks back to reality. He hears a commotion, and looking back, sees a crowd forming. \"Eh. They're probably playing <a href=\"/lore/pastimes/#stealball\">Stealball</a>.\"",
+  "t": "ความคิดของเขากลับสู่ความจริง เขาได้ยินเสียงโกลาหล และพอหันกลับไปมอง ก็เห็นฝูงชนกำลังรวมตัว “เอ่อ พวกนั้นคงเล่น<a href=\"/lore/pastimes/#stealball\">สตีลบอล</a>อยู่มั้ง”"
+ },
+ "184d466e701a": {
+  "en": "Severino: \"Hey, Vitor, can you take Dalila to her bed?\" Vitor does, and Harry sees the defeated look on Dalila as she's carried away. Severino says Harry will sleep in the barn over there with the others, since nobody knows who's who yet. Harry nods.",
+  "t": "เซเวรีโน: “เฮ้ วิตอร์ พาดาลิลาไปที่เตียงได้ไหม?” วิตอร์ทำตาม และแฮร์รีเห็นสีหน้าพ่ายแพ้ของดาลิลาขณะที่เธอถูกพาไป เซเวรีโนบอกว่าแฮร์รีจะนอนในโรงนาตรงนั้นกับคนอื่น เพราะยังไม่มีใครรู้ว่าใครเป็นใคร แฮร์รีพยักหน้า"
+ },
+ "18c436416281": {
+  "en": "Magi stares him in the eyes, then turns her head away without a word, scoots closer to the person on her other side, clutches her backpack tighter, and ends up falling asleep bent forward. (Magi has narcolepsy, and she's rather distrustful of people.) Harry feels unwanted. Then he notices her clothes are tattered. <em>Is she an adventurer? Her clothes look pretty worn for an adventurer.</em>",
+  "t": "มากิจ้องตาเขา แล้วหันหน้าหนีโดยไม่พูดสักคำ ขยับเข้าใกล้คนอีกข้าง กอดเป้แน่นขึ้น และหลับไปในท่าก้มตัว (มากิเป็นโรคลมหลับ และค่อนข้างไม่ไว้ใจคน) แฮร์รีรู้สึกว่าไม่เป็นที่ต้องการ แล้วเขาสังเกตว่าเสื้อผ้าเธอขาดวิ่น <em>เธอเป็นนักผจญภัยเหรอ? เสื้อผ้าดูเก่ามากสำหรับนักผจญภัย</em>"
+ },
+ "18ec863cea7f": {
+  "en": "Harry drops off two beers. \"Anything else I can help with?\" Maicon waves him off. Ryo: \"Desmond, right?\" \"Yes, sir.\" \"Can you thank the chef for me?\" \"Will certainly do, sir.\" Harry nods and leaves.",
+  "t": "แฮร์รีวางเบียร์สองแก้ว “มีอะไรให้ช่วยอีกไหมครับ?” ไมคอนโบกมือไล่ เรียว: “เดสมอนด์ ใช่ไหม?” “ใช่ครับ ท่าน” “ฝากขอบคุณเชฟให้หน่อยได้ไหม?” “ได้แน่นอนครับ ท่าน” แฮร์รีพยักหน้าแล้วเดินออกไป"
+ },
+ "195594f9bbed": {
+  "en": "Chapter 3 - Woodwork",
+  "t": "บทที่ 3 - งานไม้"
+ },
+ "1a34b2a184dc": {
+  "en": "Takeo mentions he's leaving for Forway, and tells Desmond he really wanted him to try escaping yesterday. Harry: \"I'm no bandit.\"",
+  "t": "ทาเคโอะบอกว่าเขาจะไปฟอร์เวย์ และบอกเดสมอนด์ว่าเขาอยากให้เดสมอนด์ลองหนีเมื่อวานมาก แฮร์รี: “ฉันไม่ใช่โจร”"
+ },
+ "1af40ad1fd2c": {
+  "en": "Severino: \"You two will catch the next wagon to Forway's South Entrance. Once you get there, ask for the restaurant. Make sure not to spend it all: you only have about 10 Pearls to spare.\"",
+  "t": "เซเวรีโน: “พวกเธอสองคนจะขึ้นเกวียนเที่ยวถัดไปไปประตูใต้ของฟอร์เวย์ เมื่อไปถึงแล้ว ถามหาร้านอาหาร อย่าใช้หมดล่ะ: พวกเธอมีเหลือใช้แค่ราว 10 เพิร์ล”"
+ },
+ "1b3663a91979": {
+  "en": "A tug on her paddle: Kibe has used a hook on a long rod to attach his boat to hers, and he brings her into the city docks. Eori is thankful, but her moral fiber rejects the help. With a firm refusal, she heads for the endless-looking stairs.",
+  "t": "มีแรงดึงที่ไม้พาย: คิเบะใช้ตะขอบนไม้ยาวเกี่ยวเรือของเขาเข้ากับของเธอ และพาเธอเข้าท่าเรือเมือง เอโอรีขอบคุณ แต่ความเป็นตัวของตัวเองปฏิเสธความช่วยเหลือ ด้วยการปฏิเสธอย่างหนักแน่น เธอมุ่งไปที่บันไดที่ดูไม่มีที่สิ้นสุด"
+ },
+ "1be831e48243": {
+  "en": "Takeo talks with the Forway captain, who chews on a Steen stick with his feet up, guards around them",
+  "t": "ทาเคโอะคุยกับกัปตันฟอร์เวย์ ที่เคี้ยวกิ่งสตีนพาดเท้า มีทหารยามรอบตัว"
+ },
+ "1c6348ff337e": {
+  "en": "A crowd swarms the docks to watch Eori push a kayak into the water by herself; Kibe follows. Eori's will is iron. (It starts as swimming, but Eori uses her wits, and pity, to manipulate her way into a paddle boat.)",
+  "t": "ฝูงชนแห่มาที่ท่าเรือเพื่อดูเอโอรีเข็นเรือคายักลงน้ำคนเดียว คิเบะตามไป ความมุ่งมั่นของเอโอรีแข็งดั่งเหล็ก (มันเริ่มจากการว่ายน้ำ แต่เอโอรีใช้ไหวพริบ และความน่าสงสาร บงการจนได้เรือพาย)"
+ },
+ "1eceacc77d6b": {
+  "en": "Harry #12, half asleep on his side, wakes up while two others (weak and feeble on purpose) talk behind him",
+  "t": "แฮร์รี #12 นอนตะแคงครึ่งหลับครึ่งตื่น ตื่นขึ้นขณะที่อีกสองคน (อ่อนแอและไร้แรงโดยตั้งใจ) คุยกันข้างหลังเขา"
+ },
+ "2098054638d0": {
+  "en": "Dalila stops eating and walking, and her face falls. She puts the chip back in the bag. \"Pappa taught me everything, including the shortcuts.\" Harry doesn't know what to say, and forces a smile. \"They seem like nice people.\"",
+  "t": "ดาลิลาหยุดกินและเดิน และหน้าเธอก็หม่นลง เธอใส่ขนมกลับลงถุง “ป๊ะป๋าสอนหนูทุกอย่าง รวมถึงทางลัด” แฮร์รีไม่รู้จะพูดอะไร และฝืนยิ้ม “พวกเขาดูเป็นคนดีนะ”"
+ },
+ "214b0cc35c90": {
+  "en": "Among the crowd, Sora spots Coema and takes off running ahead of Eiri to hug her. <a href=\"/lore/characters/#coema-sanbi-half-cruro\">Coema</a> then hugs Eiri and the other maids, and asks where Arukia is. They grow sad, and Eiri explains that she's missing.",
+  "t": "ท่ามกลางฝูงชน โซระเห็นโคเอมาและวิ่งนำหน้าเอรีไปกอดเธอ <a href=\"/lore/characters/#coema-sanbi-half-cruro\">โคเอมา</a>จึงกอดเอรีกับสาวใช้คนอื่น และถามว่าอารุเกียอยู่ไหน พวกเธอเศร้าลง และเอรีอธิบายว่าเธอหายตัวไป"
+ },
+ "240b0e084085": {
+  "en": "<a href=\"/lore/characters/#yosuke-forway-wood-people-picker\">Yosuke</a>: \"So you two are the new ones, huh?\" Harry and Dalila introduce themselves, and so do the two bartenders, <a href=\"/lore/characters/#hanako-flatland\">Hanako</a> and <a href=\"/lore/characters/#mimi-flatland\">Mimi</a>, and the sub chef, <a href=\"/lore/characters/#rimir-forway\">Rimir</a>.",
+  "t": "<a href=\"/lore/characters/#yosuke-forway-wood-people-picker\">โยสุเกะ</a>: “งั้นพวกเธอสองคนเป็นคนใหม่สินะ?” แฮร์รีกับดาลิลาแนะนำตัว บาร์เทนเดอร์สองคน <a href=\"/lore/characters/#hanako-flatland\">ฮานาโกะ</a>และ<a href=\"/lore/characters/#mimi-flatland\">มิมิ</a> ก็แนะนำตัวเช่นกัน และรองเชฟ <a href=\"/lore/characters/#rimir-forway\">ริเมียร์</a>"
+ },
+ "24be5ed1659d": {
+  "en": "Deep in the night, Eori, curled up in a dirty blanket, stares at a paddle",
+  "t": "กลางดึก เอโอรี ขดตัวในผ้าห่มสกปรก จ้องไม้พาย"
+ },
+ "24ef0904a713": {
+  "en": "Ryo hugs the sisters as they watch Soul Energy Art",
+  "t": "เรียวกอดสองพี่น้องขณะที่ดูศิลปะพลังวิญญาณ"
+ },
+ "2605763bd534": {
+  "en": "Harry cuts fish, and Yosuke compares him to Dalila",
+  "t": "แฮร์รีหั่นปลา และโยสุเกะเปรียบเทียบเขากับดาลิลา"
+ },
+ "262c3ef875d5": {
+  "en": "They walk slowly. Wagons and Eguas pass by. A whiff of manure drifts by now and then, but the ground is spotless by comparison: the poop bags really keep things clean.",
+  "t": "พวกเขาเดินช้าๆ เกวียนและเอกัวผ่านไป กลิ่นขี้สัตว์ลอยมาเป็นครั้งคราว แต่พื้นสะอาดเอี่ยมเมื่อเทียบกัน: ถุงรองขี้ช่วยให้ทุกอย่างสะอาดจริงๆ"
+ },
+ "274ad1d27ccf": {
+  "en": "Chapter 3 - Impromptu Date",
+  "t": "บทที่ 3 - เดตแบบไม่ได้ตั้งใจ"
+ },
+ "27571a7dc71e": {
+  "en": "Eiri and Sora drink tea with Coema",
+  "t": "เอรีกับโซระดื่มชากับโคเอมา"
+ },
+ "278f52910463": {
+  "en": "Ryo and an adventurer on the road with two Saynas that look like the sisters; one of them is silent as a rock",
+  "t": "เรียวกับนักผจญภัยบนถนนพร้อมไซนาสองตัวที่ดูเหมือนสองพี่น้อง ตัวหนึ่งเงียบเป็นหิน"
+ },
+ "27f00c96bf35": {
+  "en": "Katsumi grabs her sister's hand. Ryo drops the letter. \"Does she remember now?\" Katsumi goes to grab the letter to rip it apart, but her sister holds her hands. \"Why? He's dead already! This is our chance.\" Katsumi loses her grip on the contract and cries her heart out.",
+  "t": "คัตสึมิคว้ามือพี่สาว เรียวทิ้งจดหมายลง “นางจำได้แล้วเหรอ?” คัตสึมิจะคว้าจดหมายไปฉีก แต่พี่สาวจับมือเธอไว้ “ทำไม? เขาตายไปแล้ว! นี่คือโอกาสของเรา” คัตสึมิปล่อยสัญญาหลุดมือและร้องไห้จนสุดใจ"
+ },
+ "27f551044502": {
+  "en": "Harry tries the window, but it's sealed tight. Meanwhile, Takeo does the same to the other bandit, but instead of spitting it out, he savors it longer. \"That's a good blend of Freeish and Sanbi.\"",
+  "t": "แฮร์รีลองหน้าต่าง แต่มันปิดสนิท ขณะเดียวกัน ทาเคโอะทำแบบเดียวกันกับโจรอีกคน แต่แทนที่จะถุยทิ้ง เขาลิ้มรสนานกว่า “ส่วนผสมฟรีอิชกับซันบีที่ลงตัว”"
+ },
+ "288eb7d4832f": {
+  "en": "Harry rubs his hand: he wants to ask more, but isn't sure. July notices. \"Did he snap one of your fingers?\" Harry nods. \"All five.\" July holds his hands. \"They're back now, so that's what matters. You wanna go dancing?\"",
+  "t": "แฮร์รีลูบมือ: เขาอยากถามต่อ แต่ไม่แน่ใจ จูไลสังเกตเห็น “เขาหักนิ้วนายไปนิ้วหนึ่งเหรอ?” แฮร์รีพยักหน้า “ทั้งห้านิ้ว” จูไลจับมือเขา “ตอนนี้มันกลับมาแล้ว นั่นแหละที่สำคัญ ไปเต้นรำกันไหม?”"
+ },
+ "295efb33b4dd": {
+  "en": "Suddenly a sheet flies up into the air, and Dalila, looking very focused, sprints to the bathroom as fast as she can, winning the daily rush. \"SUCKERS!\" Her strained voice carries through the wall.",
+  "t": "ทันใดนั้นผ้าปูที่นอนก็ปลิวขึ้นกลางอากาศ และดาลิลา ด้วยสีหน้าจดจ่อสุดๆ วิ่งไปห้องน้ำเร็วที่สุดเท่าที่ทำได้ ชนะศึกแย่งห้องน้ำประจำวัน “ไอ้ขี้แพ้!” เสียงเบ่งของเธอดังทะลุกำแพงมา"
+ },
+ "29e58fba6adf": {
+  "en": "Katsumi: \"Homeegg! I want to see that too!\" Ryo: \"Tomorrow's the tournament finale. Princess Maiara is on one of the teams, so I bet it'll be pretty crowded. Are you sure you want to go?\" Katsuki doesn't want to; Katsumi tries to get her to come, but she won't. Ryo: \"It's because of Sanbi, right?\" Katsuki agrees: she still doesn't feel right about fucking Harry over.",
+  "t": "คัตสึมิ: “โฮมเอ้ก! อยากดูอันนั้นด้วย!” เรียว: “พรุ่งนี้เป็นรอบชิงของการแข่งขัน เจ้าหญิงไมอาราอยู่ในทีมหนึ่ง พนันได้เลยว่าคนจะแน่นมาก แน่ใจนะว่าอยากไป?” คัตสึกิไม่อยากไป คัตสึมิพยายามชวน แต่เธอไม่ยอม เรียว: “เพราะซันบีใช่ไหม?” คัตสึกิยอมรับ: เธอยังรู้สึกไม่ดีที่ไปเล่นงานแฮร์รี"
+ },
+ "2acf887bc255": {
+  "en": "Neferteri, Itagiba, Huneo and Eiri meet",
+  "t": "เนเฟอร์เตรี อิตากิบา ฮูเนโอ และเอรีประชุมกัน"
+ },
+ "2c7d29222f38": {
+  "en": "Harry takes a deep breath. \"What do you want from me?\" \"More fingers?\" Harry tenses his hand. Takeo laughs. A knock at the door breaks the foul mood.",
+  "t": "แฮร์รีสูดหายใจลึก “ต้องการอะไรจากฉัน?” “นิ้วเพิ่ม?” แฮร์รีเกร็งมือ ทาเคโอะหัวเราะ เสียงเคาะประตูทำลายบรรยากาศเลวร้าย"
+ },
+ "2e354bbaa184": {
+  "en": "They call a wagon and climb in, and start talking plans. Ryo is thinking about buying a bathhouse in Flatland, turning it into a whorehouse, and letting the sisters run it. Katsuki doesn't want to do that kind of stuff anymore. Ryo: then she'll be his companion on his travels.",
+  "t": "พวกเขาเรียกเกวียนและขึ้นไป แล้วเริ่มคุยแผนการ เรียวกำลังคิดจะซื้อโรงอาบน้ำในแฟลตแลนด์ เปลี่ยนเป็นซ่อง และให้สองพี่น้องดูแล คัตสึกิไม่อยากทำเรื่องแบบนั้นอีกแล้ว เรียว: งั้นเธอจะเป็นเพื่อนร่วมทางในการเดินทางของเขา"
+ },
+ "3019956171d1": {
+  "en": "Chapter 4 - Ex-King’s Maid",
+  "t": "บทที่ 4 - อดีตสาวใช้ของกษัตริย์"
+ },
+ "32fad55d7b46": {
+  "en": "Chapter 2 - Happiness is another contract away.",
+  "t": "บทที่ 2 - ความสุขอยู่ห่างไปอีกแค่สัญญาเดียว"
+ },
+ "331753b1badd": {
+  "en": "Harry passes a wall of posted quests, and sees an older picture of himself in the Sanbi eye",
+  "t": "แฮร์รีเดินผ่านกำแพงประกาศภารกิจ และเห็นรูปเก่าของตัวเองในฐานะซันบีอาย"
+ },
+ "350065131733": {
+  "en": "Harry, holding a small gift, finds July at the date spot",
+  "t": "แฮร์รี ถือของขวัญชิ้นเล็ก เจอจูไลที่จุดนัดเดต"
+ },
+ "3534416fbb8b": {
+  "en": "Huneo smiles. \"This is my final request: she may use the Darfaries interface.\" Neferteri glances over the crowd; their eyes tell her she has no choice but to play along. She looks at Eori. \"MOOOM! THAT'S UNFAIR!\" Tears pool in Eori's eyes. Neferteri closes her eyes and slowly raises her badge, silencing the room. \"On behalf of the Sanbi Royals, I declare this trial fair.\"",
+  "t": "ฮูเนโอยิ้ม “นี่คือคำขอสุดท้ายของผม: นางใช้อินเทอร์เฟซดาร์แฟรีส์ได้” เนเฟอร์เตรีเหลือบมองฝูงชน สายตาพวกเขาบอกว่านางไม่มีทางเลือกนอกจากเล่นตาม นางมองเอโอรี “แม่! มันไม่ยุติธรรม!” น้ำตาเอ่อในตาเอโอรี เนเฟอร์เตรีหลับตาและค่อยๆ ยกบัตรประจำตัว ทำให้ห้องเงียบ “ในนามซันบีรอยัล ข้าขอประกาศว่าการพิจารณาคดีนี้ยุติธรรม”"
+ },
+ "3789ad7de8a4": {
+  "en": "Harry focuses all his power into his hands, but nothing happens. The tingle in his spine that radiates down through his body is all there, but no flame comes out. Takeo lets out a single, mocking gasp of laughter. \"Is that a new CQC?\" \"Huh?\" \"Close Quarters Combat. Show me!\" Harry looks at his normal-looking hands and concentrates again. Nothing. \"I—dunno. Haaa—\"",
+  "t": "แฮร์รีรวมพลังทั้งหมดไปที่มือ แต่ไม่มีอะไรเกิดขึ้น ความซ่าที่กระดูกสันหลังที่แผ่ไปทั่วร่างยังอยู่ครบ แต่ไม่มีเปลวไฟออกมา ทาเคโอะหัวเราะเยาะสั้นๆ ครั้งเดียว “นั่น CQC แบบใหม่เหรอ?” “ห๊ะ?” “การต่อสู้ระยะประชิด (Close Quarters Combat) แสดงให้ดูหน่อย!” แฮร์รีมองมือที่ดูปกติของตัวเองและตั้งสมาธิอีก ไม่มีอะไร “ฉัน—ไม่รู้ ห๊าาา—”"
+ },
+ "37913a61d066": {
+  "en": "The adventurer, {WIP-rioAdventGuard}: \"Why are you going to such lengths for these two?\" <a href=\"/lore/characters/#ryo-flatland-long-blue\">Ryo</a>: \"'Cause I love 'em. Simple as that.\" \"Even though they're Red Winga whores?\" One of the <a href=\"/lore/fauna/#sayna\">Saynas</a> scratches him. Ryo: \"I agree with Katsumi! No need to shit-talk a legitimate profession.\"",
+  "t": "นักผจญภัย {WIP-rioAdventGuard}: “ทำไมนายถึงทุ่มเทขนาดนี้เพื่อสองคนนี้?” <a href=\"/lore/characters/#ryo-flatland-long-blue\">เรียว</a>: “เพราะฉันรักพวกนาง ง่ายๆ แค่นั้น” “ทั้งที่พวกนางเป็นอีตัวของเรดวิงกา?” <a href=\"/lore/fauna/#sayna\">ไซนา</a>ตัวหนึ่งข่วนเขา เรียว: “ฉันเห็นด้วยกับคัตสึมิ! ไม่ต้องด่าอาชีพที่ชอบธรรม”"
+ },
+ "3871c378fc19": {
+  "en": "Takeo, Severino and a few others carry dead bodies wrapped in ice crystals, plus a large Bagarisa, as the sun rises",
+  "t": "ทาเคโอะ เซเวรีโน และอีกไม่กี่คนแบกศพที่ห่อด้วยผลึกน้ำแข็ง บวกบาการิซาตัวใหญ่ ขณะพระอาทิตย์ขึ้น"
+ },
+ "392de496df46": {
+  "en": "Ryo opens the room he was staying in; there's a letter on the bed",
+  "t": "เรียวเปิดห้องที่เขาพักอยู่ มีจดหมายอยู่บนเตียง"
+ },
+ "39aab094aed8": {
+  "en": "The captain moves the stick from one corner of his mouth to the other, takes it out (one end is full of teeth marks), snips that end off with scissors and puts it back in his mouth. \"We had something not as bad as this before. A scientist was experimenting with nari gels full of all kinds of crap. He went berserk and killed about 20 people slightly north of <a href=\"/lore/cities/#blood\">Blood</a>.\" The stick rolls to the other side of his mouth, and he interlocks his fingers. \"But I don't remember him exploding like a Hifuna beast. In fact, he reverted when the guards pinned him down and injected him with a ton of Nari Refresher.\"",
+  "t": "กัปตันเลื่อนกิ่งจากมุมปากข้างหนึ่งไปอีกข้าง ดึงมันออก (ปลายข้างหนึ่งเต็มไปด้วยรอยฟัน) ตัดปลายนั้นด้วยกรรไกรแล้วใส่กลับเข้าปาก “เราเคยมีเรื่องที่ไม่แย่เท่านี้มาก่อน นักวิทยาศาสตร์คนหนึ่งทดลองเจลนาริที่ผสมขี้สารพัด เขาคลั่งและฆ่าคนไปราว 20 คนทางเหนือของ<a href=\"/lore/cities/#blood\">บลัด</a>เล็กน้อย” กิ่งกลิ้งไปอีกฝั่งของปาก และเขาประสานนิ้ว “แต่ข้าจำไม่ได้ว่าเขาระเบิดเหมือนสัตว์อสูรฮิฟูนา อันที่จริง เขากลับคืนสภาพเมื่อทหารยามกดเขาไว้และฉีดนาริรีเฟรชเชอร์ให้เป็นตัน”"
+ },
+ "3a4c3e09a898": {
+  "en": "He explains how much they'll earn and how much it costs to live at the restaurant. Food is covered, but work clothes aren't: they can pay up front, or it comes out of their salary. If they leave, they return the work clothes for a refund. If they don't, Yosuke has friends who will find them and get the clothes back, and you don't want to meet those friends. He also goes over the dress code and appearance rules.",
+  "t": "เขาอธิบายว่าพวกเขาจะได้เงินเท่าไร และค่าอยู่ที่ร้านเท่าไร อาหารฟรี แต่ชุดทำงานไม่ฟรี: จ่ายล่วงหน้าได้ หรือหักจากเงินเดือน ถ้าลาออก ให้คืนชุดทำงานเพื่อรับเงินคืน ถ้าไม่คืน โยสุเกะมีเพื่อนที่จะตามหาพวกเขาและเอาชุดคืน และคุณไม่อยากเจอเพื่อนพวกนั้นหรอก เขายังอธิบายกฎการแต่งกายและรูปลักษณ์ด้วย"
+ },
  "3aa8ab17a5a9": {
   "en": "Arc #3 - Tasty Lie: the author's story notes (spoilers).",
   "t": "ภาค #3 - คำโกหกแสนอร่อย: บันทึกเรื่องราวของผู้เขียน (มีสปอยล์)"
  },
+ "3ba718033efb": {
+  "en": "Harry loses it, remembering his Bagarisa friends and the night he couldn't sleep for all the noise they were making. \"So you're saying I need to foam at the mouth while growling and grunting?\" July laughs. \"So you watch Bagarisas do it, or what?\" Harry laughs nervously. \"Not really. I just saw it once by accident.\" \"Yeah. Sure. Sure. At least take some lessons from them next time.\" She leans to his ear. \"Some girls like it rough.\" \"I'll keep it in mind.\"",
+  "t": "แฮร์รีหลุดขำ นึกถึงเพื่อนบาการิซาของเขาและคืนที่นอนไม่หลับเพราะเสียงที่พวกมันทำ “งั้นเธอหมายความว่าฉันต้องน้ำลายฟูมปากไปพลางคำรามและครางงั้นเหรอ?” จูไลหัวเราะ “นายแอบดูบาการิซาทำกันเหรอ หรือยังไง?” แฮร์รีหัวเราะอย่างประหม่า “ก็ไม่เชิง แค่บังเอิญเห็นครั้งเดียว” “ใช่ แน่นอน แน่นอน ครั้งหน้าก็ไปเรียนจากพวกมันบ้างนะ” เธอโน้มมาข้างหู “ผู้หญิงบางคนชอบแบบแรงๆ” “ฉันจะจำไว้”"
+ },
+ "3bc0b1450cbd": {
+  "en": "Laughter echoes through the restaurant, followed by an uproar of people wanting whatever's being made. Harry forces a chuckle. \"Would you like some?\" They nod; one smacks their lips in anticipation. \"I'll get those right away!\" Harry keeps going table to table, taking as many orders as he can and relaying them to the kitchen.",
+  "t": "เสียงหัวเราะดังก้องทั่วร้าน ตามด้วยเสียงเซ็งแซ่ของผู้คนที่อยากได้อะไรก็ตามที่กำลังทำอยู่ แฮร์รีฝืนหัวเราะ “รับด้วยไหมครับ?” พวกเขาพยักหน้า คนหนึ่งเม้มปากด้วยความรอคอย “จะรีบนำมาให้เลยครับ!” แฮร์รีเดินโต๊ะต่อโต๊ะ รับออร์เดอร์ให้ได้มากที่สุดและส่งต่อเข้าครัว"
+ },
+ "3bc237421f16": {
+  "en": "July, Takeo and Francisco at the restaurant",
+  "t": "จูไล ทาเคโอะ และฟรานซิสโกที่ร้านอาหาร"
+ },
+ "3eaef02a7b3a": {
+  "en": "Severino shows Harry how they cut a tree; Harry follows suit, but isn't as strong. Severino mentions that his son usually comes with him, but right now he's way too gone over Dalila to care about anything else.",
+  "t": "เซเวรีโนสาธิตวิธีตัดต้นไม้ให้แฮร์รี แฮร์รีทำตาม แต่แรงไม่เท่า เซเวรีโนบอกว่าปกติลูกชายจะมาด้วย แต่ตอนนี้เขาหลงดาลิลาจนไม่สนอะไรอย่างอื่น"
+ },
+ "3f0da94db53c": {
+  "en": "Hanako: \"Desmond is scared!\" Yosuke: \"You all should be! If you screw it up, I'll fire you!\" The celebration halts at once: the gravity of the situation just got real. Yosuke: \"Now let's get the restaurant ready for dinner.\" Everyone stands up and flies to their assigned jobs.",
+  "t": "ฮานาโกะ: “เดสมอนด์กลัว!” โยสุเกะ: “พวกแกทุกคนควรกลัว! ถ้าทำพัง ฉันไล่ออก!” การฉลองหยุดลงทันที: ความหนักหนาของสถานการณ์เพิ่งเป็นเรื่องจริงขึ้นมา โยสุเกะ: “ทีนี้ เตรียมร้านสำหรับมื้อเย็นได้แล้ว” ทุกคนลุกขึ้นและพุ่งไปทำงานที่ได้รับมอบหมาย"
+ },
+ "407183629530": {
+  "en": "More self-reflection: it's too late to bring up the past. Dalila seems fine now, so why hurt her again? And what could he even do if he told everyone? He has no money, he has nothing. He's just a nobody. \"DESMOND! GET YOUR ASS BACK IN HERE!\" Yosuke calls him in, and he goes.",
+  "t": "ทบทวนตัวเองอีก: สายเกินไปที่จะขุดอดีตขึ้นมา ตอนนี้ดาลิลาดูโอเคแล้ว แล้วจะทำร้ายเธออีกทำไม? และเขาจะทำอะไรได้ถ้าบอกทุกคน? เขาไม่มีเงิน เขาไม่มีอะไรเลย เขาก็แค่คนไร้ตัวตน “เดสมอนด์! ลากตูดกลับมานี่เดี๋ยวนี้!” โยสุเกะเรียกเขาเข้าไป และเขาก็ไป"
+ },
+ "416463ad94bd": {
+  "en": "Severino asks if she has any family left. She doesn't. They invite her to stay and work with them for a while, until she gets back on her feet. Dalila nods; Vitor looks really happy.",
+  "t": "เซเวรีโนถามว่าเธอยังมีครอบครัวเหลือไหม เธอไม่มี พวกเขาชวนเธออยู่และทำงานกับพวกเขาสักพัก จนกว่าเธอจะตั้งตัวได้ ดาลิลาพยักหน้า วิตอร์ดูมีความสุขมาก"
+ },
+ "427ed3077b07": {
+  "en": "Eori climbs the stairs",
+  "t": "เอโอรีปีนบันได"
+ },
+ "461392bd3929": {
+  "en": "Ryo, the sisters (in nari gel form) and the adventurer are stopped by a Forway captain",
+  "t": "เรียว สองพี่น้อง (ในร่างเจลนาริ) และนักผจญภัยถูกกัปตันฟอร์เวย์เรียกหยุด"
+ },
+ "4643dde163a2": {
+  "en": "Harry #13 lies in the ferns, looking at the sun, trying to fall asleep",
+  "t": "แฮร์รี #13 นอนบนกองเฟิร์น มองดวงอาทิตย์ พยายามหลับ"
+ },
+ "47acf8a737cf": {
+  "en": "Yosuke gives the news to Desmond, Dalila, Rimir, Hanako and Mimi",
+  "t": "โยสุเกะแจ้งข่าวกับเดสมอนด์ ดาลิลา ริเมียร์ ฮานาโกะ และมิมิ"
+ },
+ "4817400ac39a": {
+  "en": "Harry and Dalila in front of The Wood People Picker; Yosuke, the bartenders Hanako and Mimi, and the sub chef, Rimir, at the entrance",
+  "t": "แฮร์รีกับดาลิลาหน้าวูดพีเพิลพิกเกอร์ โยสุเกะ บาร์เทนเดอร์ฮานาโกะและมิมิ และรองเชฟริเมียร์ อยู่ที่ทางเข้า"
+ },
+ "49a010b459ce": {
+  "en": "Author's note: Eori is growing a spine, going through the same process <a href=\"/lore/characters/#maiara-sanbi-royal\">Maiara</a> and <a href=\"/lore/characters/#yacamim-sanbi-royal\">Yacamim</a> went through. Neferteri tries to control the cycle, and is even growing self-aware of it, but part of her can't seem to stop trying to break the cycle in her favor. Eori, meanwhile, is going through the cycle in her own way, and has grown up in some sense, though her negative tendencies build toward emancipation more than just seeking freedom… In a sense, that's an attempt at control as well.",
+  "t": "บันทึกผู้เขียน: เอโอรีกำลังมีกระดูกสันหลัง ผ่านกระบวนการเดียวกับที่<a href=\"/lore/characters/#maiara-sanbi-royal\">ไมอารา</a>และ<a href=\"/lore/characters/#yacamim-sanbi-royal\">ยากามิม</a>เคยผ่าน เนเฟอร์เตรีพยายามควบคุมวงจร และถึงขั้นเริ่มรู้ตัว แต่ส่วนหนึ่งของนางดูเหมือนหยุดไม่ได้ที่จะพยายามทำลายวงจรให้เป็นประโยชน์กับตัวเอง ส่วนเอโอรีก็ผ่านวงจรในแบบของเธอ และโตขึ้นในบางแง่ แม้แนวโน้มด้านลบของเธอจะก่อตัวไปสู่การปลดแอกมากกว่าแค่แสวงหาอิสรภาพ… ในแง่หนึ่ง นั่นก็เป็นความพยายามควบคุมเช่นกัน"
+ },
+ "4b9c6f4890ca": {
+  "en": "Itagiba questions Neferteri. \"Eori is in a new environment now. It's time to let her move on from the past.\" \"Yeah, but that's a dick move, after you told her to go there.\" \"It was for her own good.\" Itagiba disagrees. \"I dunno. That's gonna backfire.\" Neferteri: \"I digress. Eori will be a true princess once she puts Harry in the past.\"",
+  "t": "อิตากิบาตั้งคำถามกับเนเฟอร์เตรี “เอโอรีอยู่ในสภาพแวดล้อมใหม่แล้ว ถึงเวลาให้นางก้าวข้ามอดีต” “ใช่ แต่นั่นมันเลวนะ หลังจากที่เธอบอกให้นางไปที่นั่น” “มันเพื่อประโยชน์ของนางเอง” อิตากิบาไม่เห็นด้วย “ไม่รู้สิ มันจะย้อนกลับมาเล่นงาน” เนเฟอร์เตรี: “ข้าขอแย้ง เอโอรีจะเป็นเจ้าหญิงที่แท้จริงเมื่อนางทิ้งแฮร์รีไว้ในอดีต”"
+ },
+ "4bd1eb690337": {
+  "en": "Takeo grabs the two bandits by the hair and turns them toward Harry. \"Do you know these two?\" Harry shakes his head, straining to see their faces. \"I—I—no. I—I don't know them.\" He keeps his distance. Takeo pulls their heads up to his height. \"And you two? Do you know him?\" Through their pained groans comes a strong, negative-sounding murmur.",
+  "t": "ทาเคโอะจิกผมโจรสองคนและหันพวกมันไปทางแฮร์รี “รู้จักสองคนนี้ไหม?” แฮร์รีส่ายหัว เพ่งมองหน้าพวกมัน “ฉัน—ฉัน—ไม่ ฉัน—ฉันไม่รู้จักพวกเขา” เขารักษาระยะไว้ ทาเคโอะดึงหัวพวกมันขึ้นมาเท่าความสูงของเขา “แล้วพวกแกล่ะ? รู้จักเขาไหม?” ผ่านเสียงครางเจ็บปวด มีเสียงพึมพำที่ฟังดูปฏิเสธอย่างหนักแน่น"
+ },
+ "4c9446992402": {
+  "en": "The roommate is {WIP-eoriRoommate}. Eori puts on a facade. They butt heads from the get-go, and she excuses herself to go to the library.",
+  "t": "รูมเมตคือ {WIP-eoriRoommate} เอโอรีสวมหน้ากาก พวกเธอปะทะกันตั้งแต่แรกพบ และเอโอรีขอตัวไปห้องสมุด"
+ },
+ "4cef50db3806": {
+  "en": "Harry and Dalila at Forway's South Gate; down the street, a massive gate opens onto a road that seems to go on forever",
+  "t": "แฮร์รีกับดาลิลาที่ประตูใต้ของฟอร์เวย์ ตามถนนไป ประตูมหึมาเปิดออกสู่ถนนที่ดูเหมือนยาวไม่มีที่สิ้นสุด"
+ },
+ "4d9c088283e5": {
+  "en": "Harry sweeps out front and sees Magi heading off somewhere",
+  "t": "แฮร์รีกวาดหน้าร้านและเห็นมากิกำลังมุ่งหน้าไปที่ไหนสักแห่ง"
+ },
+ "4dd209c57c18": {
+  "en": "Ryo with Katsumi, naked, questioning him while her sister puts on clothes",
+  "t": "เรียวกับคัตสึมิ เปลือยกาย ซักถามเขา ขณะที่พี่สาวสวมเสื้อผ้า"
+ },
+ "527bb2159c14": {
+  "en": "Harry #13 leaves the Bagarisa on his plate untouched and eats the rest",
+  "t": "แฮร์รี #13 ไม่แตะบาการิซาในจานและกินที่เหลือ"
+ },
+ "5410f0962f7d": {
+  "en": "Ryo: \"Leave it to me. I'll find a way for all of us to sit down and enjoy a meal together one day.\" Katsuki's smile shines as bright as the sun. Ryo checks his watch. \"The night is young. Let's go see some <a href=\"/lore/pastimes/#soul-energy-art\">Soul Energy Art</a>!\" The sisters agree.",
+  "t": "เรียว: “ปล่อยให้ฉันจัดการ ฉันจะหาทางให้พวกเราทุกคนได้นั่งกินข้าวด้วยกันอย่างมีความสุขสักวัน” รอยยิ้มของคัตสึกิสดใสดั่งดวงอาทิตย์ เรียวดูนาฬิกา “คืนยังอีกยาว ไปดู<a href=\"/lore/pastimes/#soul-energy-art\">ศิลปะพลังวิญญาณ</a>กัน!” สองพี่น้องตกลง"
+ },
+ "5469bd0d0c9b": {
+  "en": "Eori comes up in the conversation. Huneo proposes canceling Harry's search quest. Eiri votes no, Neferteri yes, Itagiba no: they reach an impasse. Eiri doesn't like that Neferteri is now voting against it.",
+  "t": "เรื่องเอโอรีถูกยกขึ้นมาในการสนทนา ฮูเนโอเสนอให้ยกเลิกภารกิจค้นหาแฮร์รี เอรีโหวตไม่ เนเฟอร์เตรีโหวตใช่ อิตากิบาโหวตไม่: ผลออกมาเป็นทางตัน เอรีไม่ชอบที่ตอนนี้เนเฟอร์เตรีโหวตค้าน"
+ },
+ "54be68f525ef": {
+  "en": "Harry fumbles his lines. July takes over, wraps herself around his arm and starts talking. She notices the gift, takes it and puts it on: she says she didn't need one, but she appreciates the effort. She feels Harry tense up.",
+  "t": "แฮร์รีพูดบทที่เตรียมไว้ตะกุกตะกัก จูไลเลยรับช่วงต่อ เกาะแขนเขาแน่นและเริ่มคุย เธอสังเกตเห็นของขวัญ หยิบมันมาสวม: เธอบอกว่าไม่จำเป็นต้องมีก็ได้ แต่ซาบซึ้งในความพยายาม เธอรู้สึกได้ว่าแฮร์รีเกร็ง"
+ },
+ "54d17623ffca": {
+  "en": "Ryo turns back to Maicon. \"Let me get to the point. Let's say a friend of yours found two delightful Red Winga working girls, and he wants to make a new contract instead.\" Maicon turns serious. \"That friend of mine is a fucking lunatic.\" \"Sure. Let's say that. What would a fucking lunatic do to get these two ladies out of a Red Winga contract?\" Maicon runs his greasy hands through his beard, then licks them clean, thinking. \"A fucking lunatic would agree to a fucking lunatic plan.\" Ryo smiles. \"I bet he would.\"",
+  "t": "เรียวหันกลับมาหาไมคอน “ขอเข้าเรื่องเลยนะ สมมติว่าเพื่อนของนายเจอสาวทำงานของเรดวิงกาที่น่ารักสองคน และเขาอยากทำสัญญาใหม่แทน” ไมคอนทำหน้าจริงจัง “เพื่อนของฉันคนนั้นมันบ้าชิบหาย” “ได้ สมมติแบบนั้น คนบ้าชิบหายจะทำยังไงเพื่อดึงสาวสองคนนี้ออกจากสัญญาเรดวิงกา?” ไมคอนเอามือมันเยิ้มลูบเครา แล้วเลียจนสะอาด พลางคิด “คนบ้าชิบหายก็จะตกลงกับแผนบ้าชิบหาย” เรียวยิ้ม “พนันได้เลยว่าเขาตกลง”"
+ },
+ "5561e5ecd719": {
+  "en": "Harry says sorry, but it doesn't matter: Eori squeezes the life out of him, and he can't breathe. Suddenly Takeo appears and starts snapping off his fingers.",
+  "t": "แฮร์รีขอโทษ แต่มันไม่มีความหมาย: เอโอรีบีบชีวิตออกจากตัวเขา และเขาหายใจไม่ออก ทันใดนั้นทาเคโอะก็ปรากฏตัวและเริ่มหักนิ้วเขาทิ้ง"
+ },
+ "55991528afa7": {
+  "en": "They talk about the peonage system. She talks about all the opportunities out in the world! She talks about her adventuring, and about how Takeo was celebrating an important quest he just got, and getting ready to head out.",
+  "t": "พวกเขาคุยเรื่องระบบแรงงานขัดหนี้ เธอพูดถึงโอกาสมากมายในโลกกว้าง! เธอเล่าเรื่องการผจญภัยของเธอ และเรื่องที่ทาเคโอะกำลังฉลองภารกิจสำคัญที่เพิ่งได้มา และกำลังเตรียมออกเดินทาง"
+ },
+ "562d2bf7597b": {
+  "en": "She wants something for dinner, so she goes ahead and buys it for both of them. Harry feels something's off. <em>Wasn't I supposed to buy dinner? Wait! Does she know I don't have any balls?</em>",
+  "t": "เธออยากได้อะไรสักอย่างเป็นมื้อเย็น เลยจ่ายเงินซื้อให้ทั้งคู่ไปเลย แฮร์รีรู้สึกว่ามีอะไรแปลกๆ <em>ฉันควรเป็นคนเลี้ยงมื้อเย็นไม่ใช่เหรอ? เดี๋ยว! เธอรู้เหรอว่าฉันไม่มีบอลสักลูก?</em>"
+ },
+ "573b136c0c22": {
+  "en": "She closes her eyes, and sees another trial just like this one, with her own father not protecting her. She's a princess, for fuck's sake. Why bother with the title and all that shit, when it's all a farce?",
+  "t": "เธอหลับตา และเห็นการพิจารณาคดีอีกครั้งที่เหมือนครั้งนี้ โดยพ่อของเธอเองไม่ปกป้องเธอ เธอเป็นเจ้าหญิงนะเว้ย ทำไมต้องสนตำแหน่งและเรื่องเหี้ยพวกนั้น ในเมื่อทั้งหมดเป็นเรื่องตลก?"
+ },
+ "57b731eb79ca": {
+  "en": "<a href=\"/lore/characters/#francisco-forway-tea-drinkers\">Francisco</a> comes out the door. \"Morning, July! Did Takeo leave already?\" July flips back to girly and points at a cart in the distance. \"Just now!\" \"That's too bad. I bought a new {WIP-franciscoGift} for him.\" \"He'll be back soon enough, that's for sure.\" \"Are you leaving as well, July?\" \"Yes, Francisco. Yesterday I contracted a quest to {WIP-julyQuest}.\" She smiles brightly. <em>But now I wish I hadn't.</em>",
+  "t": "<a href=\"/lore/characters/#francisco-forway-tea-drinkers\">ฟรานซิสโก</a>เดินออกมาจากประตู “อรุณสวัสดิ์ จูไล! ทาเคโอะไปแล้วเหรอ?” จูไลสลับกลับเป็นโหมดสาวน้อยและชี้ไปที่เกวียนไกลๆ “เพิ่งไปเมื่อกี้!” “น่าเสียดายจัง ฉันซื้อ {WIP-franciscoGift} อันใหม่มาให้เขา” “เดี๋ยวเขาก็กลับมา แน่นอนเลย” “เธอจะไปด้วยเหรอ จูไล?” “ใช่ ฟรานซิสโก เมื่อวานฉันรับภารกิจไป {WIP-julyQuest}” เธอยิ้มสดใส <em>แต่ตอนนี้ฉันอยากให้ตัวเองไม่ได้รับเลย</em>"
+ },
+ "584e5ac2504a": {
+  "en": "Harry: <em>I think I understand her position, but there's no way I can talk about it without raising suspicion.</em> \"Can I ask what the story's about?\" Severino tells the story of the three sisters, who came along and revolutionized Tolerideme's farming with Soul Energy and fish meal mixed with human poop. The tie-in: whatever their bodies looked like, those sisters had bright minds and wills as strong as rock. Severino is pushing Harry (and Vitor) to think about the mind behind the body, not just the looks.",
+  "t": "แฮร์รี: <em>ฉันว่าฉันเข้าใจสถานการณ์ของเธอ แต่ไม่มีทางที่ฉันจะพูดถึงมันได้โดยไม่ทำให้สงสัย</em> “ขอถามได้ไหมว่าเรื่องนั้นเกี่ยวกับอะไร?” เซเวรีโนเล่าเรื่องสามพี่น้องสาว ผู้มาปฏิวัติการเกษตรของโทเลอริดีมด้วยพลังวิญญาณและปลาป่นผสมขี้มนุษย์ ความเชื่อมโยง: ไม่ว่าร่างกายพวกเธอจะเป็นแบบไหน สามพี่น้องนั้นมีจิตใจสว่างไสวและความมุ่งมั่นแข็งดั่งหิน เซเวรีโนกำลังผลักดันให้แฮร์รี (และวิตอร์) คิดถึงจิตใจเบื้องหลังร่างกาย ไม่ใช่แค่รูปลักษณ์"
+ },
+ "59f10b542ced": {
+  "en": "She kisses him as the song ends, and the musicians start rotating. She hugs him tight. \"That was fun!\" She interlocks their fingers and speaks into his ear: \"I'm at a hostel nearby. Let's get to know each other better?\" Harry smiles, too excited to think it through.",
+  "t": "เธอจูบเขาตอนเพลงจบ และนักดนตรีเริ่มสลับกันขึ้นเล่น เธอกอดเขาแน่น “สนุกจัง!” เธอประสานนิ้วกับเขาและกระซิบข้างหู: “ฉันพักที่โฮสเทลใกล้ๆ นี่ ไปทำความรู้จักกันให้มากกว่านี้ไหม?” แฮร์รียิ้ม ตื่นเต้นเกินกว่าจะคิดให้ถี่ถ้วน"
+ },
+ "5a7330b284ff": {
+  "en": "Takeo snaps back from his own finger-snapping thoughts. \"I didn't taste anything weird.\" \"Did you even ask anything?\" \"Why would I? People lie, but their souls don't.\" The captain takes his feet off the desk, pulls out a specific contract with sapphires set in its corners, and starts scribbling. \"Fair point. I'm gonna give you a Sapphire-level quest.\"",
+  "t": "ทาเคโอะสะดุ้งกลับจากความคิดเรื่องหักนิ้วของตัวเอง “ฉันไม่ได้ชิมเจออะไรแปลกๆ” “เจ้าได้ถามอะไรบ้างไหม?” “ถามทำไม? คนโกหกได้ แต่วิญญาณของพวกเขาไม่โกหก” กัปตันเอาเท้าลงจากโต๊ะ หยิบสัญญาฉบับหนึ่งที่มีแซฟไฟร์ฝังที่มุมออกมา และเริ่มขีดเขียน “มีเหตุผล ข้าจะให้ภารกิจระดับแซฟไฟร์แก่เจ้า”"
+ },
+ "5aef386ff2f7": {
+  "en": "Eori turns and starts climbing. Step by step, she feels herself pulling ahead of him; a good, tickly feeling hits her brain. She smiles creepily and giggles as she picks up her pace.",
+  "t": "เอโอรีหันและเริ่มปีน ทีละขั้น เธอรู้สึกว่าตัวเองนำหน้าเขา ความรู้สึกดีๆ จั๊กจี้ๆ กระแทกสมอง เธอยิ้มน่าขนลุกและหัวเราะคิกคักขณะเร่งฝีเท้า"
+ },
+ "5b184823ef82": {
+  "en": "Sora starts following them, cutely embarrassed. Coema aggressively asks what she wants. Sora: \"I live with Eiri too.\" Coema laughs. \"So you two are like that?\" Eiri: \"Don't worry, we don't make too much noise.\" Coema laughs as Sora huffs, and they head back to the house.",
+  "t": "โซระเริ่มเดินตามพวกเธอ เขินอายน่ารัก โคเอมาถามห้วนๆ ว่าเธอต้องการอะไร โซระ: “หนูก็อยู่กับเอรีเหมือนกัน” โคเอมาหัวเราะ “งั้นพวกเธอสองคนเป็นแบบนั้นกันเหรอ?” เอรี: “ไม่ต้องห่วง เราไม่ส่งเสียงดังเกินไปหรอก” โคเอมาหัวเราะขณะที่โซระฮึดฮัด และพวกเธอก็มุ่งกลับบ้าน"
+ },
+ "5b58c48fcc2b": {
+  "en": "Harry and July fuck (watering can position), kissing",
+  "t": "แฮร์รีกับจูไลเอากัน (ท่าบัวรดน้ำ) พลางจูบกัน"
+ },
+ "5b61a28356a1": {
+  "en": "They talk about other things. Severino explains that they're splitting everyone up as assistants: \"Dalila, please follow Nailah. Desmond, follow me. You over there, you follow X,\" and so on.",
+  "t": "พวกเขาคุยเรื่องอื่น เซเวรีโนอธิบายว่าพวกเขาจะแบ่งทุกคนเป็นผู้ช่วย: “ดาลิลา ตามไนลาห์ไป เดสมอนด์ ตามฉันมา นายตรงนั้น ตาม X ไป” และอื่นๆ"
+ },
+ "5bf596341542": {
+  "en": "Harry asks who that is. Severino: <a href=\"/lore/characters/#yosuke-forway-wood-people-picker\">Yosuke</a> is an interesting character, but he micromanages everything, which makes his restaurant both popular and unpopular, since he does everything fresh. He's very particular, too: he even bought <a href=\"/lore/resources/#wood-wood-people-wood\">Wood People wood</a> and brought it down to Nailah to make his plates and pickers, all because he didn't trust anyone else to do it. Harry should visit his restaurant in Forway one day.",
+  "t": "แฮร์รีถามว่านั่นใคร เซเวรีโน: <a href=\"/lore/characters/#yosuke-forway-wood-people-picker\">โยสุเกะ</a>เป็นคนน่าสนใจ แต่เขาจู้จี้ทุกอย่าง ซึ่งทำให้ร้านอาหารของเขาทั้งดังและไม่เป็นที่ชอบ เพราะเขาทำทุกอย่างสดใหม่ เขาพิถีพิถันมากด้วย: ถึงขั้นซื้อ<a href=\"/lore/resources/#wood-wood-people-wood\">ไม้วูดพีเพิล</a>มาให้ไนลาห์ทำจานและพิกเกอร์ ทั้งหมดเพราะไม่ไว้ใจให้ใครอื่นทำ แฮร์รีควรไปเยี่ยมร้านของเขาในฟอร์เวย์สักวัน"
+ },
+ "5c7f1c86f5b8": {
+  "en": "July, displeased, turns her back on him. \"Fine! Have it your way! Go die in the Hifuna region!\" Takeo climbs into the wagon and sets off. July turns back as his figure shrinks into the distance. \"Maybe I'm the one who's wrong—I can't taste people's souls, after all.\"",
+  "t": "จูไล ไม่พอใจ หันหลังให้เขา “ก็ได้! ตามใจนาย! ไปตายที่ภูมิภาคฮิฟูนาเลย!” ทาเคโอะปีนขึ้นเกวียนและออกเดินทาง จูไลหันกลับมาขณะร่างของเขาเล็กลงในระยะไกล “บางทีฉันอาจเป็นฝ่ายผิดเอง—ฉันชิมวิญญาณคนไม่ได้นี่นา”"
+ },
+ "5cb905fdc718": {
+  "en": "Dalila, Harry and the Rebula family at an emptied market, the wagon empty too; Severino hands each of them a pouch",
+  "t": "ดาลิลา แฮร์รี และครอบครัวเรบูลาที่ตลาดที่ขายหมดแล้ว เกวียนก็ว่างเปล่า เซเวรีโนยื่นถุงให้แต่ละคน"
+ },
+ "5d29340413dd": {
+  "en": "Kibe: \"You do realize I'm not paying for your food, right?\" Eori's face contorts as she forces the words out. \"I am a princess of Sanbi.\" \"So?\" \"Can I please have some food?\" \"I can accept that.\" Kibe signals the bartender.",
+  "t": "คิเบะ: “เธอรู้ใช่ไหมว่าฉันไม่จ่ายค่าอาหารให้เธอ?” หน้าเอโอรีบิดเบี้ยวขณะที่เธอบังคับคำพูดออกมา “ฉันเป็นเจ้าหญิงแห่งซันบี” “แล้ว?” “ขออาหารหน่อยได้ไหม?” “แบบนั้นรับได้” คิเบะส่งสัญญาณให้บาร์เทนเดอร์"
+ },
+ "5d8d819d4c6d": {
+  "en": "They talk about their research, and the girl is caught off guard by Eori's interest. \"It's a dead end.\" Her grandpa, {WIP-roommateGrandpa}, was fascinated by it, but one day he disappeared. All that was left were used nari stones, and what looked like an explosion inside the shack where he ran his experiments.",
+  "t": "พวกเธอคุยเรื่องงานวิจัย และเด็กสาวตั้งตัวไม่ทันกับความสนใจของเอโอรี “มันเป็นทางตัน” ปู่ของเธอ {WIP-roommateGrandpa} หลงใหลเรื่องนี้ แต่วันหนึ่งเขาหายตัวไป สิ่งที่เหลืออยู่มีแต่หินนาริที่ใช้แล้ว และสิ่งที่ดูเหมือนร่องรอยการระเบิดในกระท่อมที่เขาใช้ทดลอง"
+ },
+ "5e2992e0c574": {
+  "en": "Ryo looks around the room. Nothing. He reads the letter: an address and a time, with a Red Winga stamp. Nothing else. He turns to the Pussy Power bandits. \"All right. We're done here. You can go.\"",
+  "t": "เรียวมองรอบห้อง ไม่มีอะไร เขาอ่านจดหมาย: ที่อยู่และเวลา พร้อมตราประทับเรดวิงกา ไม่มีอะไรอื่น เขาหันไปหาโจรพุสซีพาวเวอร์ “เอาล่ะ เราเสร็จธุระที่นี่แล้ว พวกนายไปได้”"
+ },
+ "5e493c404c1a": {
+  "en": "Yosuke: \"SUB CHEF, WHERE'S THE BROTH?\" \"WARMFEEL! SMALL TIME CHUNK!\" Yosuke looks proud. Dalila looks at Harry with pity. \"Are you okay?\" \"Kinda. I guess I'm terrified of knives.\" <em>Or rather, of Eori.</em>",
+  "t": "โยสุเกะ: “รองเชฟ น้ำซุปอยู่ไหน?” “วอร์มฟีล! สมอลไทม์ฮังก์!” โยสุเกะดูภูมิใจ ดาลิลามองแฮร์รีอย่างสงสาร “พี่โอเคไหม?” “ก็ประมาณนั้น ฉันคงกลัวมีด” <em>หรือพูดให้ถูกคือกลัวเอโอรี</em>"
+ },
+ "5e906f431bbb": {
+  "en": "Harry takes a spoonful of soup and looks at the hanging bandits: one is passed out, another is falling asleep, and the third stares at everyone intently. Harry and the bandit lock eyes; the bandit narrows his. Harry turns back to his soup, and notices the girl on his left with tears on her face. \"You okay?\"",
+  "t": "แฮร์รีตักซุปหนึ่งช้อนและมองโจรที่ห้อยอยู่: คนหนึ่งหมดสติ อีกคนกำลังจะหลับ และคนที่สามจ้องทุกคนอย่างตั้งใจ แฮร์รีกับโจรสบตากัน โจรหรี่ตา แฮร์รีหันกลับไปที่ซุป และสังเกตเห็นเด็กหญิงทางซ้ายมีน้ำตาบนหน้า “เธอโอเคไหม?”"
+ },
+ "5f9c9d4a5674": {
+  "en": "Harry watches her, and when he sees her tattered clothes, he realizes she's the same girl from before. He thinks of July again, whose clothes were impeccable by comparison. <em>Maybe not all adventurers have it good.</em>",
+  "t": "แฮร์รีมองเธอ และเมื่อเห็นเสื้อผ้าขาดวิ่น เขาตระหนักว่าเธอคือผู้หญิงคนเดิมจากก่อนหน้านี้ เขานึกถึงจูไลอีกครั้ง ที่เสื้อผ้าไร้ที่ติเมื่อเทียบกัน <em>บางทีนักผจญภัยไม่ได้สบายกันทุกคน</em>"
+ },
+ "605879ad80b6": {
+  "en": "Everyone gets excited. Harry doesn't know what it is, so they explain it to him: Sanbi's {WIP-sanbiHomeeggTeam}, led by Princess <a href=\"/lore/characters/#maiara-sanbi-royal\">Maiara</a>, versus {WIP-rivalHomeeggTeam}, led by {WIP-rivalHomeeggCaptain}. A deep sinking feeling hits Harry; cold sweat takes over his body, and his hands start trembling.",
+  "t": "ทุกคนตื่นเต้น แฮร์รีไม่รู้ว่ามันคืออะไร พวกเขาจึงอธิบายให้ฟัง: {WIP-sanbiHomeeggTeam} ของซันบี นำโดยเจ้าหญิง<a href=\"/lore/characters/#maiara-sanbi-royal\">ไมอารา</a> ปะทะ {WIP-rivalHomeeggTeam} นำโดย {WIP-rivalHomeeggCaptain} ความรู้สึกหวิวลึกๆ จู่โจมแฮร์รี เหงื่อเย็นท่วมตัว และมือเริ่มสั่น"
+ },
+ "62826a2a2661": {
+  "en": "Ryo and the sisters in front of Yosuke's restaurant, closed",
+  "t": "เรียวกับสองพี่น้องหน้าร้านอาหารของโยสุเกะ ที่ปิดอยู่"
+ },
+ "6287379ae569": {
+  "en": "<a href=\"/lore/characters/#emelia-lakeeye-rich-flower\">Emelia</a>: \"Glad you came.\" Ryo explains: they can sign a contract to hand over Harry if they find him. The plan is to make Katsumi famous so that Harry finds them, and since her sister will travel with Ryo, there's a chance there as well.",
+  "t": "<a href=\"/lore/characters/#emelia-lakeeye-rich-flower\">เอมีเลีย</a>: “ดีใจที่มากัน” เรียวอธิบาย: พวกเขาเซ็นสัญญาส่งตัวแฮร์รีได้ถ้าเจอเขา แผนคือทำให้คัตสึมิดังเพื่อให้แฮร์รีมาหาพวกเขา และเนื่องจากพี่สาวจะเดินทางไปกับเรียว ก็มีโอกาสทางนั้นด้วย"
+ },
+ "62e4254afc43": {
+  "en": "Takeo pins Harry against the wall with his arm and snaps off his fingers",
+  "t": "ทาเคโอะใช้แขนกดแฮร์รีติดกำแพงและหักนิ้วเขาออก"
+ },
+ "6373785bbac5": {
+  "en": "Severino hands each of them a pouch of balls. \"Thank you, Dalila and Desmond. Desmond, it's been great cutting wood with you, and Dalila, you taught us a lot today with your merchant skills.\" Vitor, slightly flustered: \"T—thank you.\" Nailah: \"And thank you for helping me with the wood carving.\"",
+  "t": "เซเวรีโนยื่นถุงบอลให้แต่ละคน “ขอบใจนะ ดาลิลากับเดสมอนด์ เดสมอนด์ ได้ตัดไม้กับนายมันยอดเยี่ยมมาก และดาลิลา วันนี้เธอสอนเราหลายอย่างด้วยทักษะการค้าของเธอ” วิตอร์ ลนลานเล็กน้อย: “ข—ขอบคุณครับ” ไนลาห์: “และขอบใจที่ช่วยฉันแกะสลักไม้”"
+ },
+ "637be5b956e0": {
+  "en": "\"But how will we do it?\" Coema: \"We fight fire with fire—stoking Eori's fire against her own mother, just like I did with <a href=\"/lore/characters/#yacamim-sanbi-royal\">Yacamim</a> and Maiara.\" Eiri is amazed. \"I thought that was Itagiba's spirit in them.\" \"A good chunk of it. All I did was push them in the right direction. All we need to do is find Arukia.\" \"WHAT?\" \"It's clear as day she was involved, and knows what really happened between them.\" \"But Itanema told me—\" \"Meh—meh—this—meh—meh—that—Itanema is lying! She's a pawn for Neferteri! Anyone can be, for the right price! Even you!\" She points at Sora.",
+  "t": "“แต่เราจะทำยังไง?” โคเอมา: “เราสู้ไฟด้วยไฟ—จุดไฟในตัวเอโอรีให้ต่อต้านแม่ตัวเอง เหมือนที่ฉันทำกับ<a href=\"/lore/characters/#yacamim-sanbi-royal\">ยากามิม</a>และไมอารา” เอรีทึ่ง “หนูนึกว่านั่นเป็นจิตวิญญาณของอิตากิบาในตัวพวกเขา” “ส่วนใหญ่ก็ใช่ ฉันแค่ผลักพวกเขาไปถูกทาง ที่เราต้องทำก็แค่หาอารุเกีย” “อะไรนะ?” “ชัดแจ้งว่านางมีส่วนเกี่ยวข้อง และรู้ว่าเกิดอะไรขึ้นจริงๆ ระหว่างพวกเขา” “แต่อิตาเนมาบอกหนูว่า—” “แหม—แหม—อย่างนี้—แหม—แหม—อย่างนั้น—อิตาเนมาโกหก! นางเป็นหมากของเนเฟอร์เตรี! ใครก็เป็นได้ ถ้าราคาถูกต้อง! แม้แต่เธอ!” เธอชี้ไปที่โซระ"
+ },
+ "63adac2f20fd": {
+  "en": "Chapter 4 - End of the Line.",
+  "t": "บทที่ 4 - สุดทาง"
+ },
+ "656fc9074f52": {
+  "en": "A painful slap wakes Harry up. \"I'm trying to sleep!\" A fatass Dalila turns over and goes back to sleep. Harry looks around the room, tinted dark by the green moon. Eori isn't torturing him. He's a free man…",
+  "t": "ตบที่เจ็บแสบปลุกแฮร์รีตื่น “หนูพยายามนอนอยู่นะ!” ดาลิลาตัวอ้วนพลิกตัวและหลับต่อ แฮร์รีมองไปรอบห้อง ที่ถูกย้อมมืดด้วยแสงจันทร์สีเขียว เอโอรีไม่ได้ทรมานเขา เขาเป็นอิสระแล้ว…"
+ },
+ "65f072078fb7": {
+  "en": "Book 11 - Fate’s Innerworkings",
+  "t": "หนังสือเล่มที่ 11 - กลไกแห่งโชคชะตา"
+ },
+ "663b00beb4af": {
+  "en": "Eori didn't get a consent form for the experiment she was performing under Huneo's directive, and then she killed <a href=\"/lore/characters/#huneo-sanbi-royal\">Huneo</a>. At the trial, Huneo decides her punishment: swim to the base of <a href=\"/lore/cities/#waterfall\">Waterfall</a>, then climb the Cliff Walk (<a href=\"/lore/cities/#waterfall--points-of-interest\">Waterfall › Points of interest</a>) (10,764 steps) without nari gels. <a href=\"/lore/characters/#eori-sanbi-royal\">Eori</a>: \"IMPOSSIBLE!\"",
+  "t": "เอโอรีไม่ได้ขอแบบฟอร์มยินยอมสำหรับการทดลองที่เธอทำภายใต้คำสั่งของฮูเนโอ แล้วเธอก็ฆ่า<a href=\"/lore/characters/#huneo-sanbi-royal\">ฮูเนโอ</a> ในการพิจารณาคดี ฮูเนโอตัดสินโทษของเธอ: ว่ายน้ำไปถึงเชิง<a href=\"/lore/cities/#waterfall\">วอเตอร์ฟอลล์</a> แล้วปีนคลิฟวอล์ก (<a href=\"/lore/cities/#waterfall--points-of-interest\">วอเตอร์ฟอลล์ › สถานที่น่าสนใจ</a>) (10,764 ขั้น) โดยไม่ใช้เจลนาริ <a href=\"/lore/characters/#eori-sanbi-royal\">เอโอรี</a>: “เป็นไปไม่ได้!”"
+ },
+ "66481d50380c": {
+  "en": "The captain takes out a clean Steen branch and starts chewing as everyone waits in silence. Takeo looks at the guards, then at the captain, who's enjoying his chew. \"Are you going to issue a quest for me or not?\"",
+  "t": "กัปตันหยิบกิ่งสตีนสะอาดออกมาและเริ่มเคี้ยว ขณะที่ทุกคนรออย่างเงียบๆ ทาเคโอะมองทหารยาม แล้วมองกัปตัน ที่กำลังเพลิดเพลินกับการเคี้ยว “ท่านจะออกภารกิจให้ฉันหรือไม่?”"
+ },
+ "66773237a8e9": {
+  "en": "Harry sees a backlog of people at the entrance. He looks at Dalila, panting from overstuffing herself. \"Do we wait in line too?\" \"We don't have badges.\" Dalila heads east. Harry watches someone show his badge to a guard and walk through, then follows her.",
+  "t": "แฮร์รีเห็นคนต่อคิวยาวที่ทางเข้า เขามองดาลิลา ที่หอบจากการกินจนอิ่มเกินไป “เราต้องต่อคิวด้วยเหรอ?” “เราไม่มีบัตรประจำตัว” ดาลิลามุ่งไปทางตะวันออก แฮร์รีเห็นใครคนหนึ่งยื่นบัตรให้ทหารยามและเดินผ่านไป แล้วตามเธอไป"
+ },
+ "66d6c732f713": {
+  "en": "Katsumi: \"Did you rat on us?\" She points at Ryo's face, ready to pounce. Ryo, surveying their petite bodies: \"I just talked with a contact of mine, and it seems his tongue is weaker than I thought—quicker, too.\" He hands them the letter. \"We need to find and turn in the target who was with you.\"",
+  "t": "คัตสึมิ: “นายปากโป้งเรื่องพวกเราเหรอ?” เธอชี้หน้าเรียว พร้อมตะครุบ เรียว มองสำรวจร่างเล็กของพวกนาง: “ฉันแค่คุยกับคนติดต่อคนหนึ่ง และดูเหมือนลิ้นเขาจะอ่อนกว่าที่ฉันคิด—แถมไวกว่าด้วย” เขายื่นจดหมายให้พวกนาง “เราต้องหาตัวเป้าหมายที่อยู่กับพวกเธอแล้วส่งตัว”"
+ },
+ "66e1adffba40": {
+  "en": "<a href=\"/lore/characters/#severino-rebula\">Severino</a>: \"Do you really need to take her finger off? Can't you just suck on it, like the others?\" \"Yes. Now give me your hand, and I'll make it quick.\" Severino covers his son's eyes, and <a href=\"/lore/characters/#nailah-rebula\">Nailah</a> looks away. Dalila holds out her hand.",
+  "t": "<a href=\"/lore/characters/#severino-rebula\">เซเวรีโน</a>: “นายต้องตัดนิ้วเธอจริงๆ เหรอ? ดูดนิ้วเหมือนคนอื่นๆ ไม่ได้เหรอ?” “ใช่ ทีนี้ยื่นมือมา แล้วฉันจะทำให้เร็ว” เซเวรีโนปิดตาลูกชาย และ<a href=\"/lore/characters/#nailah-rebula\">ไนลาห์</a>มองไปทางอื่น ดาลิลายื่นมือ"
+ },
+ "67178c62530e": {
+  "en": "Eiri: \"But how?\" Coema: \"By pulling a girl's heartstrings.\" Eiri will contact Arukia's family again and ask if Arukia has made contact. They'll say no, and that's the moment to infuse them with money to make announcements throughout the kingdom. They'll have to comply either way, and Neferteri will be livid.",
+  "t": "เอรี: “แต่ยังไง?” โคเอมา: “ด้วยการดึงสายใยหัวใจของผู้หญิง” เอรีจะติดต่อครอบครัวของอารุเกียอีกครั้งและถามว่าอารุเกียติดต่อมาหรือยัง พวกเขาจะบอกว่าไม่ และนั่นคือจังหวะที่จะอัดฉีดเงินให้พวกเขาประกาศไปทั่วราชอาณาจักร ยังไงพวกเขาก็ต้องทำตาม และเนเฟอร์เตรีจะเดือดดาล"
+ },
+ "67d8348c1728": {
+  "en": "Harry jumps on it. His scalp itches as new hair is pumped through, and the stylist cuts it short. When it's time to shave his beard, Harry's PTSD kicks in. The stylist asks what's wrong; Harry won't say. The stylist gives him Steen to relax, then cuts the beard.",
+  "t": "แฮร์รีคว้าโอกาสทันที หนังหัวคันขณะที่ผมใหม่ถูกอัดขึ้นมา และช่างตัดสั้น เมื่อถึงเวลาโกนเครา อาการ PTSD ของแฮร์รีก็กำเริบ ช่างถามว่าเป็นอะไร แฮร์รีไม่ยอมบอก ช่างให้สตีนเพื่อผ่อนคลาย แล้วโกนเครา"
+ },
+ "68faa29913d5": {
+  "en": "Eori stands up to head back to the stairs",
+  "t": "เอโอรีลุกขึ้นจะกลับไปที่บันได"
+ },
+ "698d8c44b9f2": {
+  "en": "Yosuke asks Harry to show his skills. Harry is afraid of the knife; bad memories creep in, and he slices off a huge chunk. Yosuke: \"AWFUL!\" He shows Harry how it's done. \"AGAIN!\" Harry tries again, but he's sloppy: he's afraid of the knife, and the bad memories creep in. \"GET OUT!\" \"Sorry, chef.\" Harry goes to take orders.",
+  "t": "โยสุเกะขอให้แฮร์รีแสดงฝีมือ แฮร์รีกลัวมีด ความทรงจำเลวร้ายคืบคลานเข้ามา และเขาหั่นออกไปก้อนใหญ่ โยสุเกะ: “แย่มาก!” เขาสาธิตวิธีทำให้แฮร์รีดู “อีกครั้ง!” แฮร์รีลองอีก แต่ลวกๆ: เขากลัวมีด และความทรงจำเลวร้ายคืบคลานเข้ามา “ออกไป!” “ขอโทษครับ เชฟ” แฮร์รีไปรับออร์เดอร์"
+ },
+ "6a57d0e1c66e": {
+  "en": "Coema is back from <a href=\"/lore/lands/#newland\">Newland</a>. Eiri asks how it's going. Coema describes a rough sea journey, but the Cruro guild she belongs to is gaining a nice foothold in the trade of {WIP-giantSlothLike} skin (a beast kinda like a giant sloth). Then she turns to what happened while she was gone. Eiri hesitates, but opens up after Sora eggs her on.",
+  "t": "โคเอมากลับมาจาก<a href=\"/lore/lands/#newland\">นิวแลนด์</a> เอรีถามว่าเป็นยังไงบ้าง โคเอมาเล่าถึงการเดินทางทางทะเลที่ทรหด แต่กิลด์ครูโรที่เธอสังกัดกำลังได้ที่มั่นที่ดีในการค้าหนัง {WIP-giantSlothLike} (สัตว์อสูรที่คล้ายสลอทยักษ์) แล้วเธอก็หันมาถามเรื่องที่เกิดขึ้นตอนเธอไม่อยู่ เอรีลังเล แต่ก็เปิดใจหลังโซระยุ"
+ },
+ "6ac3fa064ad5": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Light%20Novel/Arc%20%233%20-%20Tasty%20Lie.md\">Legacy/Behind The Scenes/Light Novel/Arc #3 - Tasty Lie.md</a>",
+  "t": "แหล่งที่มา: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/Light%20Novel/Arc%20%233%20-%20Tasty%20Lie.md\">Legacy/Behind The Scenes/Light Novel/Arc #3 - Tasty Lie.md</a>"
+ },
+ "6b0f9464a8d4": {
+  "en": "Ryo and the sisters, after the talk",
+  "t": "เรียวกับสองพี่น้อง หลังคุยกัน"
+ },
+ "6cbbceb0de4a": {
+  "en": "He closes the door, and a rustling comes from the ceiling. He looks for open cracks, but there are none. He drops to the floor, checks the base of the wall, and finds a hole about the size of a Sayna.",
+  "t": "เขาปิดประตู และมีเสียงกรอบแกรบดังมาจากเพดาน เขามองหารอยแตก แต่ไม่มีเลย เขาก้มลงพื้น ตรวจดูฐานกำแพง และพบรูขนาดประมาณไซนาหนึ่งตัว"
+ },
+ "6cf01797ec9b": {
+  "en": "Author's note: Magi is an unnamed cameo in the background of this scene's illustration.",
+  "t": "บันทึกผู้เขียน: มากิเป็นตัวละครรับเชิญที่ไม่ได้เอ่ยชื่อ อยู่ในฉากหลังของภาพประกอบฉากนี้"
+ },
+ "6ee8887b154d": {
+  "en": "Eori, in a loud whisper: \"What the fuck is his problem?\" Kibe points at the sign behind her. Eori reads the lovely poster: \"Couples who climb together, stay together.\" Kibe: \"It's a thing for some people. Just ignore it.\"",
+  "t": "เอโอรี กระซิบเสียงดัง: “ไอ้นั่นมันเป็นเหี้ยอะไรวะ?” คิเบะชี้ไปที่ป้ายข้างหลังเธอ เอโอรีอ่านโปสเตอร์น่ารัก: “คู่ที่ปีนด้วยกัน อยู่ด้วยกันตลอดไป” คิเบะ: “มันเป็นเรื่องของบางคน ไม่ต้องสนใจ”"
+ },
+ "6f1c5788eea8": {
+  "en": "They bicker until <a href=\"/lore/characters/#eiri-sanbi-royal\">Eiri</a> walks in. After a tangent, Eiri tells them the Tolerideme family is coming to visit, and that Eori is leaving for Forway, so they need to wash all her clothes and have everything ready for when she arrives. The maids ask why. Eiri: \"Neferteri decided it was best for her.\"",
+  "t": "พวกเธอเถียงกันจน<a href=\"/lore/characters/#eiri-sanbi-royal\">เอรี</a>เดินเข้ามา หลังออกนอกเรื่องไปพักหนึ่ง เอรีบอกว่าครอบครัวโทเลอริดีมกำลังจะมาเยี่ยม และเอโอรีกำลังจะไปฟอร์เวย์ จึงต้องซักเสื้อผ้าทั้งหมดของนางและเตรียมทุกอย่างให้พร้อมเมื่อนางมาถึง สาวใช้ถามว่าทำไม เอรี: “เนเฟอร์เตรีตัดสินว่ามันดีที่สุดสำหรับนาง”"
+ },
+ "6f788745ca15": {
+  "en": "Harry, Dalila and Yosuke in the restaurant's attic",
+  "t": "แฮร์รี ดาลิลา และโยสุเกะในห้องใต้หลังคาของร้านอาหาร"
+ },
+ "6f7d9ee5fd52": {
+  "en": "The sisters, as Saynas, fight Sorenos",
+  "t": "สองพี่น้อง ในร่างไซนา สู้กับโซเรโน"
+ },
+ "71c00d66b5cd": {
+  "en": "Takeo walks toward Harry, clicking his pliers. Harry, backed against the wall, can't get a word out. Takeo pushes him up the wall with one hand and takes off one of his fingers with the other. He loves the taste. Harry fights to break free, to no avail.",
+  "t": "ทาเคโอะเดินเข้าหาแฮร์รี กดคีมดังแกร๊ก แฮร์รี หลังติดกำแพง พูดไม่ออกสักคำ ทาเคโอะใช้มือข้างหนึ่งดันเขาขึ้นกำแพงและหักนิ้วหนึ่งด้วยมืออีกข้าง เขาชอบรสชาติมัน แฮร์รีดิ้นรนจะหลุด แต่ไร้ผล"
+ },
+ "73af71d73b40": {
+  "en": "Katsuki doesn't feel safe. Ryo: \"Relax. We spent all day having fun. Did you even see anyone suspicious?\" Katsuki: \"O—ne. F—five.\" \"She's getting the hang of it pretty quick. Nice!\" (Katsuki's speech pattern uses counters: that's how she gets the words out.) He hugs her from the side. \"What did you two enjoy most today?\" Katsuki: \"O—ne. Ev—ery—thing.\" They talk about how they'd never seen the Black Tower up close (<a href=\"/lore/cities/#forway--points-of-interest\">Forway Palace</a>, the giant tower at the center of Forway, where all business and administration flows through).",
+  "t": "คัตสึกิไม่รู้สึกปลอดภัย เรียว: “ผ่อนคลายหน่อย เราสนุกกันทั้งวัน เห็นใครน่าสงสัยบ้างไหม?” คัตสึกิ: “ห—นึ่ง ห—ห้า” “นางจับทางได้เร็วใช้ได้เลย เยี่ยม!” (รูปแบบการพูดของคัตสึกิใช้ตัวนับ: นั่นคือวิธีที่เธอพูดคำออกมาได้) เขากอดเธอจากด้านข้าง “วันนี้พวกเธอสองคนชอบอะไรที่สุด?” คัตสึกิ: “ห—นึ่ง ทุก—อย่าง” พวกเขาคุยกันว่าไม่เคยเห็นหอคอยดำใกล้ๆ ขนาดนี้มาก่อน (<a href=\"/lore/cities/#forway--points-of-interest\">พระราชวังฟอร์เวย์</a> หอคอยยักษ์ใจกลางฟอร์เวย์ ที่ซึ่งธุรกิจและการบริหารทั้งหมดไหลผ่าน)"
+ },
+ "740c8b0dec3c": {
+  "en": "The guards close in on Eori, and she swings her cuffed arms around. \"DON'T TOUCH ME!\" She walks out, back toward the castle.",
+  "t": "ทหารยามเข้ามาใกล้เอโอรี และเธอเหวี่ยงแขนที่ถูกใส่กุญแจมือ “อย่ามาแตะตัวฉัน!” เธอเดินออกไป กลับไปทางปราสาท"
+ },
+ "742a906cb4bb": {
+  "en": "A bartender comes into the kitchen, reads off an order of mains and sides, and sticks the ticket on a hook in the wall. Yosuke: \"COMING RIGHT UP! SUB CHEF, SIDES, ASAP!\" \"YES, CHEF!\"",
+  "t": "บาร์เทนเดอร์คนหนึ่งเข้ามาในครัว อ่านรายการอาหารจานหลักและเครื่องเคียง แล้วเสียบใบสั่งไว้บนตะขอที่กำแพง โยสุเกะ: “ได้เลย! รองเชฟ เครื่องเคียง ด่วน!” “ครับ เชฟ!”"
+ },
+ "74a67d8e9326": {
+  "en": "\"Yo! Good luck!\" A familiar voice. She stops, and Kibe strolls leisurely past her and keeps going. Anger builds. \"WHAT THE FUCK IS YOUR PROBLEM?\" Kibe turns his head. \"Mine? None?\"",
+  "t": "“โย่! โชคดีนะ!” เสียงที่คุ้นเคย เธอหยุด และคิเบะเดินชิลล์ผ่านเธอไปและเดินต่อ ความโกรธก่อตัว “มึงเป็นเหี้ยอะไรวะ?” คิเบะหันหัว “ฉันเหรอ? ไม่มีอะไรนี่?”"
+ },
+ "7652afc85797": {
+  "en": "Book 9 - A Forced Restart",
+  "t": "หนังสือเล่มที่ 9 - การเริ่มต้นใหม่แบบจำยอม"
+ },
+ "77cc4b47ee9c": {
+  "en": "Harry looks at the Bagarisa meat; his stomach turns and something rises in his throat. He vividly sees the Bagarisa friends he once had: those days were short-lived, but carefree. \"Desmond? Desmond?\" Severino breaks through his scattered thoughts. \"Oh, sorry. I was trying to remember some things.\"",
+  "t": "แฮร์รีมองเนื้อบาการิซา ท้องปั่นป่วนและมีบางอย่างพุ่งขึ้นคอ เขาเห็นเพื่อนบาการิซาที่เคยมีอย่างชัดเจน: วันเหล่านั้นสั้น แต่ไร้กังวล “เดสมอนด์? เดสมอนด์?” เซเวรีโนดึงเขาออกจากความคิดที่กระจัดกระจาย “โอ้ ขอโทษ ฉันพยายามนึกบางอย่างอยู่”"
+ },
+ "78441d73c205": {
+  "en": "Ryo and the sisters go clothes shopping",
+  "t": "เรียวกับสองพี่น้องไปซื้อเสื้อผ้า"
+ },
+ "78a765916e71": {
+  "en": "Chapter 5 - All roads lead to Forway",
+  "t": "บทที่ 5 - ทุกถนนมุ่งสู่ฟอร์เวย์"
+ },
+ "79e8ce55d3db": {
+  "en": "She thinks about killing Kibe, burying his body, then reporting that Cruros attacked him; she thinks about how she'd injure herself to back up her story.",
+  "t": "เธอคิดเรื่องฆ่าคิเบะ ฝังศพ แล้วรายงานว่าครูโรโจมตีเขา เธอคิดว่าจะทำร้ายตัวเองยังไงเพื่อสนับสนุนเรื่องเล่า"
+ },
+ "7b05c83b6b07": {
+  "en": "Harry messes up and starts bleeding, and he doesn't heal like before. Yosuke: \"DON'T BLEED OVER THE VEGETABLES!\" That triggers a panic attack. Rimir, the sub chef, casts a heal, and Harry's hand closes up. Yosuke, from the other corner: \"SUCK IT UP! TRY AGAIN!\" Sub chef: \"Wash the blood off the vegetables, or it'll change the taste.\" Harry carefully does as he's told.",
+  "t": "แฮร์รีพลาดและเลือดเริ่มไหล และเขาไม่หายเหมือนเมื่อก่อน โยสุเกะ: “อย่าเอาเลือดหยดใส่ผัก!” นั่นกระตุ้นอาการแพนิก ริเมียร์ รองเชฟ ร่ายรักษา และมือแฮร์รีก็ปิด โยสุเกะ จากอีกมุม: “ทนเอา! ลองอีก!” รองเชฟ: “ล้างเลือดออกจากผัก ไม่อย่างนั้นรสจะเปลี่ยน” แฮร์รีทำตามที่บอกอย่างระมัดระวัง"
+ },
+ "7b1fe1226dc7": {
+  "en": "Nailah: \"I made plenty today. Thank you, Dalila and Desmond.\" Severino: \"It's been a great help. Tomorrow we're going to sell a lot at {VillageSouthOfForway}. On that note, Nailah?\" Nailah remembers something. \"By the way, {WIP-nailahMessenger} came back from Forway. Yosuke wants to hire both of you.\" Dalila stops eating for a second, and a big, greasy smile spreads across her face.",
+  "t": "ไนลาห์: “วันนี้ฉันทำเยอะเลย ขอบใจนะ ดาลิลากับเดสมอนด์” เซเวรีโน: “ช่วยได้มากเลย พรุ่งนี้เราจะไปขายของเยอะที่ {VillageSouthOfForway} พูดถึงเรื่องนี้ ไนลาห์?” ไนลาห์นึกบางอย่างได้ “อ้อ {WIP-nailahMessenger} กลับมาจากฟอร์เวย์แล้ว โยสุเกะอยากจ้างทั้งสองคน” ดาลิลาหยุดกินไปครู่หนึ่ง และรอยยิ้มกว้างเปื้อนมันก็แผ่ไปทั่วหน้า"
+ },
+ "7b45e260a545": {
+  "en": "Ryo and Maicon at Yosuke's restaurant; Harry takes orders, Dalila in the background",
+  "t": "เรียวกับไมคอนที่ร้านอาหารของโยสุเกะ แฮร์รีรับออร์เดอร์ ดาลิลาอยู่เบื้องหลัง"
+ },
+ "7b502d2a8c71": {
+  "en": "Neferteri adds that in Forway, Eori will have more freedom as well. Eori fights her off for being controlling, and that's how the carrot comes out.",
+  "t": "เนเฟอร์เตรีเสริมว่าในฟอร์เวย์ เอโอรีจะมีอิสระมากขึ้นด้วย เอโอรีต่อต้านนางที่ชอบควบคุม และนั่นคือตอนที่แครอทถูกงัดออกมา"
+ },
+ "7c27f3a6c04e": {
+  "en": "Eori gets a strong-willed, take-no-shit-from-anyone roommate",
+  "t": "เอโอรีได้รูมเมตใจแข็ง ไม่ยอมให้ใครมาเหยียบหัว"
+ },
+ "7e15946ee574": {
+  "en": "Eori feels the world crumbling. Without a word, she climbs out into the shallows, sits on the ground, curls up and cries her heart out. Kibe: \"This seems like a lot, kinda. You sure you don't want it?\"",
+  "t": "เอโอรีรู้สึกเหมือนโลกพังทลาย โดยไม่พูดสักคำ เธอปีนลงไปในน้ำตื้น นั่งบนพื้น ขดตัวและร้องไห้จนสุดใจ คิเบะ: “ดูเยอะไปหน่อยนะ ก็ประมาณนั้น แน่ใจนะว่าไม่เอา?”"
+ },
+ "7f74e40b1370": {
+  "en": "Coema sips her tea, savoring scheming on par with Neferteri, like the old days",
+  "t": "โคเอมาจิบชา ลิ้มรสการวางแผนชั้นเชิงทัดเทียมเนเฟอร์เตรี เหมือนวันเก่าๆ"
+ },
+ "80ff57c4c6c9": {
+  "en": "Takeo: \"I get the whole picture now. This Hifuna beast in Bagarisa form attacked your wagon, then went to the Black Magina farm, where it exploded. Hold out your hand.\" He takes out pliers, already blood-stained. Dalila looks unsure.",
+  "t": "ทาเคโอะ: “ตอนนี้ฉันเห็นภาพรวมแล้ว สัตว์อสูรฮิฟูนาในร่างบาการิซาตัวนี้โจมตีเกวียนของเธอ แล้วไปที่ฟาร์มแบล็กมาจีนา ที่ซึ่งมันระเบิด ยื่นมือมา” เขาหยิบคีมที่เปื้อนเลือดอยู่แล้วออกมา ดาลิลาดูไม่แน่ใจ"
+ },
+ "82b252a3a5e9": {
+  "en": "Vitor looks at Dalila with worry: she's barely breathing as she shovels food into her face. Maybe she isn't even tasting it, like a dog gulping down food without chewing. He wants to say something, looks at his father, and his father shakes his head. Vitor looks down.",
+  "t": "วิตอร์มองดาลิลาอย่างเป็นห่วง: เธอแทบไม่หายใจขณะตักอาหารยัดเข้าหน้า บางทีเธออาจไม่ได้ลิ้มรสเลย เหมือนหมาที่กลืนอาหารโดยไม่เคี้ยว เขาอยากพูดอะไรสักอย่าง มองพ่อ และพ่อก็ส่ายหัว วิตอร์ก้มหน้า"
+ },
+ "8347f8f27ab8": {
+  "en": "Emelia: \"Fair enough, but we'll keep close tabs on you three. If you dare give Harry, or anything to do with him, to anyone else, we'll take action. We were the ones who found him. Also, I want the truth about Harry: everything the sisters know about him.\"",
+  "t": "เอมีเลีย: “ก็สมเหตุสมผล แต่เราจะจับตาดูพวกเธอสามคนใกล้ชิด ถ้ากล้าส่งแฮร์รี หรืออะไรก็ตามที่เกี่ยวกับเขา ให้ใครอื่น เราจะลงมือ เราเป็นคนเจอเขาก่อน แล้วก็ ฉันต้องการความจริงเรื่องแฮร์รี: ทุกอย่างที่สองพี่น้องรู้เกี่ยวกับเขา”"
+ },
+ "854866ac596e": {
+  "en": "Eori doesn't look happy. <em>I want my Harry back.</em>",
+  "t": "เอโอรีดูไม่มีความสุข <em>ฉันอยากได้แฮร์รีของฉันคืน</em>"
+ },
+ "865e4616715b": {
+  "en": "With a loud crunch, Takeo tosses the thumb in the air and catches it in his mouth, like popcorn. He sits on the bed, wipes the pliers on the sheets and puts them away. \"So that's the taste of a pure Naked Brunto. No wonder the Lishies slurped you people up.\"",
+  "t": "ด้วยเสียงกรุบดัง ทาเคโอะโยนนิ้วโป้งขึ้นฟ้าแล้วรับด้วยปาก เหมือนป๊อปคอร์น เขานั่งบนเตียง เช็ดคีมกับผ้าปูที่นอนแล้วเก็บ “งั้นนี่คือรสของเนกเคดบรุนโตแท้ๆ ไม่แปลกใจที่ลิชีส์ดูดกินพวกแกเกลี้ยง”"
+ },
+ "879e36ffc2aa": {
+  "en": "Eori and Neferteri at the top of the stairs",
+  "t": "เอโอรีกับเนเฟอร์เตรีที่ยอดบันได"
+ },
+ "888f8f186ea4": {
+  "en": "Ryo handpicks whatever is cutest for them.",
+  "t": "เรียวเลือกชุดที่น่ารักที่สุดให้พวกนางเอง"
+ },
+ "88f9b56b5e48": {
+  "en": "The guards all look surprised, and Takeo looks pretty interested too. \"What am I supposed to do?\" The captain keeps writing as if he hadn't heard. A guard leans over and whispers: \"He doesn't answer until he finishes whatever he's doing.\"",
+  "t": "ทหารยามทุกคนดูประหลาดใจ และทาเคโอะก็ดูสนใจมากเช่นกัน “ฉันต้องทำอะไร?” กัปตันเขียนต่อราวกับไม่ได้ยิน ทหารยามคนหนึ่งโน้มตัวมากระซิบ: “ท่านไม่ตอบจนกว่าจะทำสิ่งที่ทำอยู่เสร็จ”"
+ },
+ "8b2cdb4f0f0d": {
+  "en": "{WIP-katsumiBandit}: \"Who the fuck are you? What are you doing to us?\" Takeo locks the door. \"Let's talk.\" He looks at the clicking steel pliers and goes to hit him, but he's too weak: Takeo punches him aside, and he hits the wall and falls to the floor, his head bleeding. {WIP-blackMaginaGuy} hesitates to strike back, but Takeo lands a blow to his face that sends him flying toward Harry.",
+  "t": "{WIP-katsumiBandit}: “มึงเป็นใครวะ? มึงทำอะไรกับพวกกู?” ทาเคโอะล็อกประตู “มาคุยกัน” เขามองคีมเหล็กที่ดังแกร๊กๆ และจะตีทาเคโอะ แต่เขาอ่อนแอเกินไป: ทาเคโอะต่อยเขาไปด้านข้าง และเขาก็กระแทกกำแพงล้มลงพื้น หัวเลือดออก {WIP-blackMaginaGuy} ลังเลจะตอบโต้ แต่ทาเคโอะซัดหน้าเขาจนลอยไปหาแฮร์รี"
+ },
+ "8b936039c224": {
+  "en": "Severino: \"Now let's eat.\"",
+  "t": "เซเวรีโน: “ทีนี้ กินกันเถอะ”"
+ },
+ "8c6499beee4d": {
+  "en": "Sub chef: \"You noticed it too?\" Dalila looks at him with concern. \"Do you know why?\" \"I asked, but he said he didn't know—\" Yosuke slaps the table. \"WE'RE IN THE KITCHEN! I'M NOT GONNA SAY IT AGAIN!\" \"YES, CHEF! SORRY, CHEF!\" the sub chef and Dalila say in unison.",
+  "t": "รองเชฟ: “เธอก็สังเกตเหมือนกันเหรอ?” ดาลิลามองเขาอย่างเป็นห่วง “รู้ไหมว่าทำไม?” “ฉันถามแล้ว แต่เขาบอกว่าไม่รู้—” โยสุเกะตบโต๊ะ “เราอยู่ในครัว! ฉันจะไม่พูดซ้ำแล้ว!” “ครับ เชฟ! ขอโทษครับ เชฟ!” รองเชฟกับดาลิลาพูดพร้อมกัน"
+ },
+ "8ed682fe9d98": {
+  "en": "The guards let them go. Adventurer: \"Why did you lie?\" Ryo: \"Of course I would. The Red Winga is bigger than you think.\"",
+  "t": "ทหารยามปล่อยพวกเขาไป นักผจญภัย: “ทำไมนายโกหก?” เรียว: “แน่นอนว่าต้องโกหก เรดวิงกาใหญ่กว่าที่นายคิด”"
+ },
+ "8f2cfb4fa669": {
+  "en": "With a loud snap, Harry's thumb flies off. \"Shit.\" Takeo lets go of Harry and goes looking for it. Propped against the wall, Harry's knees give out; he falls to the floor, shielding his chopped-up hand as blood keeps pouring out.",
+  "t": "ด้วยเสียงกร๊อบดัง นิ้วโป้งของแฮร์รีกระเด็นออกไป “เหี้ย” ทาเคโอะปล่อยแฮร์รีและไปตามหามัน พิงกำแพงอยู่ เข่าของแฮร์รีทรุด เขาล้มลงพื้น บังมือที่ถูกสับขณะที่เลือดยังไหลไม่หยุด"
+ },
+ "904feb15811c": {
+  "en": "A day in, Eori is cold and hungry while Kibe enjoys a nice dinner",
+  "t": "ผ่านไปหนึ่งวัน เอโอรีหนาวและหิว ขณะที่คิเบะเพลิดเพลินกับมื้อเย็นดีๆ"
+ },
+ "913c505473cb": {
+  "en": "Ryo, the sisters, Emelia and bandits (in nari gel)",
+  "t": "เรียว สองพี่น้อง เอมีเลีย และโจร (ในเจลนาริ)"
+ },
+ "9174697b7d4c": {
+  "en": "Her steps are slow, but steady. <em>Eight hundred and twenty-four—eight hundred and twenty-five—eight hundred and twenty-six.</em> Her mind is set on finishing this trial, nothing more, nothing less. Nothing could possibly shake her focus—",
+  "t": "ก้าวของเธอช้า แต่มั่นคง <em>แปดร้อยยี่สิบสี่—แปดร้อยยี่สิบห้า—แปดร้อยยี่สิบหก</em> ใจของเธอตั้งมั่นที่จะผ่านการทดสอบนี้ ไม่มากไม่น้อยกว่านั้น ไม่มีอะไรจะสั่นคลอนสมาธิเธอได้—"
+ },
+ "92b773900bad": {
+  "en": "July's demeanor changes; her cutesy front disappears. \"I told you not to bring that up again.\" \"Then what do you want?\" \"Nobody has a shady past he doesn't want to talk about. I knew he was hiding something the moment I saw him at the restaurant.\" Takeo: \"We all hide something, don't we?\" The question is rather suggestive, to say the least.",
+  "t": "ท่าทีของจูไลเปลี่ยนไป ฉากหน้าน่ารักหายวับ “ฉันบอกแล้วว่าอย่าพูดเรื่องนั้นอีก” “แล้วเธอต้องการอะไร?” “ไม่มีใครหรอกที่มีอดีตดำมืดแล้วไม่อยากพูดถึง ฉันรู้ว่าเขาซ่อนอะไรบางอย่างตั้งแต่ตอนเห็นเขาที่ร้านอาหาร” ทาเคโอะ: “เราทุกคนก็ซ่อนอะไรบางอย่างไม่ใช่เหรอ?” คำถามนี้ชวนให้คิดมาก พูดให้น้อยที่สุดแล้ว"
+ },
+ "92cadf7c2047": {
+  "en": "Panic races through Harry's heart. He looks at his hands and feels a sense of power overwhelming him. In one swift move, he's out of bed and tumbling to the back of the room, putting distance between himself and this monstrous figure. Takeo smiles and clicks his pliers, and the room goes silent.",
+  "t": "ความตื่นตระหนกพุ่งผ่านหัวใจแฮร์รี เขามองมือตัวเองและรู้สึกถึงพลังที่ท่วมท้น ในการเคลื่อนไหวรวดเดียว เขาลงจากเตียงและกลิ้งไปท้ายห้อง เว้นระยะระหว่างตัวเองกับร่างอันน่าสะพรึงนี้ ทาเคโอะยิ้มและกดคีมดังแกร๊ก และห้องก็เงียบลง"
+ },
+ "93243bb1be12": {
+  "en": "Ryo sits down with the sisters, still in Sayna form. \"All right, I need you two to pay attention. I'm gonna go get in touch with my Red Winga contact. Hide in the ceiling or somewhere else, and if anyone enters this room, make a mental note of their face, especially any symbols they wear. Understood?\" The Saynas bob their cute little heads. He pats them both. \"Especially you, Katsumi. Don't do anything rash.\" He leaves.",
+  "t": "เรียวนั่งลงกับสองพี่น้อง ที่ยังอยู่ในร่างไซนา “โอเค ฉันต้องการให้พวกเธอตั้งใจฟัง ฉันจะไปติดต่อคนในเรดวิงกาของฉัน ซ่อนอยู่บนเพดานหรือที่อื่น และถ้ามีใครเข้ามาในห้องนี้ จำหน้าพวกเขาไว้ โดยเฉพาะสัญลักษณ์ที่สวม เข้าใจไหม?” ไซนาพยักหัวเล็กๆ น่ารัก เขาลูบหัวทั้งสอง “โดยเฉพาะเธอ คัตสึมิ อย่าทำอะไรหุนหันพลันแล่น” เขาออกไป"
+ },
+ "93aa4188cd87": {
+  "en": "Severino walks over to Harry. \"Do you know who you are?\" Harry feels awkward answering; he wonders if they'll send him back to Eori. He shakes his head. Takeo threatens him, but Harry holds firm. Takeo: \"All right. You two have a lovely chat. I'm gonna go hand in these two bandits.\"",
+  "t": "เซเวรีโนเดินไปหาแฮร์รี “รู้ไหมว่าตัวเองเป็นใคร?” แฮร์รีรู้สึกอึดอัดที่จะตอบ เขาสงสัยว่าพวกเขาจะส่งเขากลับไปให้เอโอรีหรือเปล่า เขาส่ายหัว ทาเคโอะขู่ แต่แฮร์รียืนกราน ทาเคโอะ: “ก็ได้ พวกนายคุยกันให้สนุก ฉันจะไปส่งตัวโจรสองคนนี้”"
+ },
+ "94df899e5fe8": {
+  "en": "<a href=\"/lore/characters/#aurora-tolerideme\">Aurora</a>: \"Why is Eiri so down lately?\" <a href=\"/lore/characters/#sora-sanbi-blue-glass\">Sora</a> explains that Huneo won't fund Harry's search quest. <a href=\"/lore/characters/#itanema-sanbi-east\">Itanema</a>: \"Why don't we hold a burial for Harry and put an end to it?\" Sora: \"I'm not telling her that!\"",
+  "t": "<a href=\"/lore/characters/#aurora-tolerideme\">ออโรรา</a>: “ทำไมช่วงนี้เอรีหดหู่จังจ๊ะ?” <a href=\"/lore/characters/#sora-sanbi-blue-glass\">โซระ</a>อธิบายว่าฮูเนโอไม่ยอมให้งบภารกิจค้นหาแฮร์รี <a href=\"/lore/characters/#itanema-sanbi-east\">อิตาเนมา</a>: “ทำไมเราไม่จัดงานศพให้แฮร์รีแล้วจบเรื่องไปเลยล่ะ?” โซระ: “ฉันไม่บอกนางแบบนั้นหรอก!”"
+ },
+ "9839d6927796": {
+  "en": "The guards ask if they saw anything weird in the forest, or talked with anyone who did. Ryo: \"We saw tons of broken carts on the road with nobody in sight, so we fled toward Forway.\" \"Did you see the explosion?\" \"We heard a rumble in the sky, but apparently we were too far south of it. We fled to <a href=\"/lore/cities/#deltacross\">Deltacross</a>.\" The captain asks if they're looking for family members. Ryo: \"No, just passing through, on my way back home to Flatland.\" The adventurer holds back and keeps up the lie. (Forway, then Deltacross: Ryo's story slips, because it's all a lie for the guards.)",
+  "t": "ทหารยามถามว่าพวกเขาเห็นอะไรแปลกๆ ในป่า หรือได้คุยกับใครที่เห็นไหม เรียว: “เราเห็นเกวียนพังเพียบบนถนนโดยไม่มีใครเลย เราจึงหนีมาทางฟอร์เวย์” “เห็นการระเบิดไหม?” “เราได้ยินเสียงครืนบนฟ้า แต่ดูเหมือนเราอยู่ใต้มันไกลเกินไป เราหนีไป<a href=\"/lore/cities/#deltacross\">เดลตาครอส</a>” กัปตันถามว่าพวกเขากำลังตามหาสมาชิกครอบครัวหรือไม่ เรียว: “ไม่ แค่ผ่านทาง กำลังกลับบ้านที่แฟลตแลนด์” นักผจญภัยกลั้นไว้และเล่นตามคำโกหก (ฟอร์เวย์ แล้วเดลตาครอส: เรื่องของเรียวหลุด เพราะทั้งหมดเป็นคำโกหกเพื่อหลอกทหารยาม)"
+ },
+ "99048d7242d0": {
+  "en": "Katsuki: \"HA—ha—h—ha?\" Ryo looks at Katsumi. Katsumi: \"Say 'One', then his name.\" \"O—o—ne. Ha—ha—rry?\" Ryo: \"Do you remember him?\" Her eyes waver. Ryo: \"Okay. Okay. Sell him to Forway—okay, that sounded bad. We'll negotiate a contract with Forway that's favorable to Harry and to us, in exchange for selling out the Sanbi Kingdom and dishing the dirt on what Eori did to him.\" Katsuki is unsure, but she smiles. Ryo: \"Good. Let's go get this over with.\"",
+  "t": "คัตสึกิ: “แฮ—แฮ—ฮ—แฮ?” เรียวมองคัตสึมิ คัตสึมิ: “พูดว่า ‘หนึ่ง’ แล้วตามด้วยชื่อเขา” “ห—ห—นึ่ง แฮ—แฮ—ร์รี?” เรียว: “เธอจำเขาได้ไหม?” ดวงตาเธอหวั่นไหว เรียว: “โอเค โอเค ขายเขาให้ฟอร์เวย์—โอเค ฟังดูแย่ เราจะต่อรองสัญญากับฟอร์เวย์ที่เป็นประโยชน์กับแฮร์รีและกับพวกเรา แลกกับการขายราชอาณาจักรซันบีและแฉสิ่งที่เอโอรีทำกับเขา” คัตสึกิไม่แน่ใจ แต่เธอยิ้ม เรียว: “ดี ไปจัดการเรื่องนี้ให้จบกันเถอะ”"
+ },
+ "99182d961248": {
+  "en": "<a href=\"/lore/characters/#vitor-rebula\">Vitor</a> breaks through his shyness, walks up to <a href=\"/lore/characters/#dalila-broken-tree\">Dalila</a> and pats her head. Dalila, eyes red, sniffles as she looks at the flushed boy staring at her.",
+  "t": "<a href=\"/lore/characters/#vitor-rebula\">วิตอร์</a>ฝ่าความขี้อาย เดินไปหา<a href=\"/lore/characters/#dalila-broken-tree\">ดาลิลา</a>และลูบหัวเธอ ดาลิลา ตาแดง สูดจมูกขณะมองเด็กชายหน้าแดงที่จ้องเธอ"
+ },
+ "9aa1d6453ae6": {
+  "en": "Chapter 2 - Redemption of Sorts",
+  "t": "บทที่ 2 - การไถ่บาปในแบบหนึ่ง"
+ },
+ "9b6b9542c32f": {
+  "en": "Takeo snaps off her ring finger and pops it in his mouth, savoring it like a French person savors wine, rolling the chewed finger from one side of his tongue to the other. \"Mostly Tolerideme, with some Wozefaries. You're good.\" Dalila tears up as her finger grows back. Takeo heads for the door. \"I'm gonna check a few more.\"",
+  "t": "ทาเคโอะหักนิ้วนางของเธอแล้วโยนเข้าปาก ลิ้มรสมันเหมือนคนฝรั่งเศสลิ้มรสไวน์ กลิ้งนิ้วที่เคี้ยวแล้วจากข้างหนึ่งของลิ้นไปอีกข้าง “ส่วนใหญ่เป็นโทเลอริดีม มีโวซแฟรีส์ปนบ้าง เธอไม่เป็นไร” ดาลิลาน้ำตาคลอขณะที่นิ้วงอกกลับ ทาเคโอะมุ่งไปที่ประตู “ฉันจะไปตรวจอีกสองสามคน”"
+ },
+ "9ce779aba7d4": {
+  "en": "Hanako stands, bends over in front of Harry and points right at his face. \"You deserve better than her! I know you do!\" Mimi copies her, but her finger-wagging is way more erratic, and somehow more energetic. Harry smiles. \"Thank you!\" <em>But I'm sorry. I don't deserve it, after what happened.</em>",
+  "t": "ฮานาโกะลุกขึ้น ก้มตัวตรงหน้าแฮร์รีและชี้หน้าเขาเลย “นายสมควรได้คนที่ดีกว่านั้น! ฉันรู้ว่านายสมควร!” มิมิทำตาม แต่การกระดิกนิ้วของเธอไร้ทิศทางกว่ามาก และไม่รู้ทำไมถึงมีพลังกว่า แฮร์รียิ้ม “ขอบคุณ!” <em>แต่ขอโทษนะ ฉันไม่สมควรได้หรอก หลังจากเรื่องที่เกิดขึ้น</em>"
+ },
+ "9d49b4abe24a": {
+  "en": "Eori can't find a way to research the Soul",
+  "t": "เอโอรีหาทางวิจัยเรื่องวิญญาณไม่ได้"
+ },
+ "9f75e0088386": {
+  "en": "Ryo and the sisters, in Forway clothes, have dinner out in the open",
+  "t": "เรียวกับสองพี่น้อง ในชุดฟอร์เวย์ กินมื้อเย็นกลางแจ้ง"
+ },
+ "9fca3cad0c72": {
+  "en": "Everything itches. Harry realizes this is his chance to put Harry behind him and start anew. He needs money to change his appearance, and then he'll be all good.",
+  "t": "ทุกอย่างคันไปหมด แฮร์รีตระหนักว่านี่คือโอกาสที่จะทิ้งแฮร์รีไว้ข้างหลังและเริ่มต้นใหม่ เขาต้องการเงินเพื่อเปลี่ยนรูปลักษณ์ แล้วทุกอย่างก็จะเรียบร้อย"
+ },
+ "a02fe8dff969": {
+  "en": "The captain savors his Steen a bit longer before spitting into a nearby bucket. \"How did the biopsy go?\" Guard: \"It's a big, strong, alpha Bagarisa, but it's just a Bagarisa.\"",
+  "t": "กัปตันลิ้มรสสตีนอีกสักพักก่อนถุยลงถังใกล้ๆ “การตัดชิ้นเนื้อตรวจเป็นยังไง?” ทหารยาม: “มันเป็นบาการิซาจ่าฝูงที่ตัวใหญ่และแข็งแรง แต่ก็แค่บาการิซา”"
+ },
+ "a070afcb3e46": {
+  "en": "July starts stroking harder against him, tightening her grip. \"You're not thinking about another girl, are you?\" The gripping, controlled sensation makes Harry uncomfortable; he starts remembering all the times Eori controlled him. He tries to hide it, but July notices. She lets go, sits up on him, takes his hands and places them on her delicate little breasts. \"It's okay. Follow my lead.\"",
+  "t": "จูไลเริ่มโยกตัวใส่เขาแรงขึ้น รัดแน่นขึ้น “นายไม่ได้คิดถึงผู้หญิงคนอื่นอยู่ใช่ไหม?” ความรู้สึกถูกบีบรัดและถูกควบคุมทำให้แฮร์รีอึดอัด เขาเริ่มนึกถึงทุกครั้งที่เอโอรีควบคุมเขา เขาพยายามซ่อน แต่จูไลสังเกตเห็น เธอคลายออก นั่งคร่อมเขา จับมือเขาวางบนหน้าอกเล็กบอบบางของเธอ “ไม่เป็นไรนะ ทำตามฉัน”"
+ },
+ "a131908d5bc0": {
+  "en": "A wave of goodness spreads through Harry's body as he kisses July deep, but when he opens his eyes, he sees Eori for a split second. July opens her eyes and stares back. \"Did my cuteness scare you?\" Harry smiles nervously. \"No—of course not.\"",
+  "t": "คลื่นความสุขแผ่ไปทั่วร่างแฮร์รีขณะจูบจูไลอย่างดูดดื่ม แต่พอลืมตา เขาเห็นเอโอรีแวบหนึ่ง จูไลลืมตาและจ้องกลับ “ความน่ารักของฉันทำนายกลัวเหรอ?” แฮร์รียิ้มอย่างประหม่า “เปล่า—ไม่ใช่แน่นอน”"
+ },
+ "a1687c729c5d": {
+  "en": "With some of her energy back, Eori stands, prepares her speech, and releases it in one pent-up breath. \"Thank you!\" She turns toward the stairs, and with a quick glance sees Kibe planted in his chair, gazing at the horizon, letting time go to waste. \"Why aren't you coming?\" \"Why would I? I can climb those stairs tomorrow, or later. Huneo's gonna bitch either way.\"",
+  "t": "ได้พลังกลับมาบ้าง เอโอรีลุกขึ้น เตรียมคำพูด และปล่อยมันออกมาในลมหายใจเดียวที่อัดอั้น “ขอบใจ!” เธอหันไปทางบันได และด้วยการเหลือบมองเร็วๆ เห็นคิเบะฝังตัวอยู่ในเก้าอี้ มองขอบฟ้า ปล่อยเวลาสูญเปล่า “ทำไมไม่มาล่ะ?” “ทำไมต้องไป? ฉันปีนบันไดพวกนั้นพรุ่งนี้หรือทีหลังก็ได้ ยังไงฮูเนโอก็บ่นอยู่ดี”"
+ },
+ "a1dc4424080f": {
+  "en": "Harry is tense because of Takeo. <a href=\"/lore/characters/#july-forway-tea-drinkers\">July</a> is being playful; Takeo doesn't give a shit. Harry goes to fetch beer, wondering whether they've found out who he truly is. He sets the beer on the table, and July grabs him by the shirt, slips him a note and winks.",
+  "t": "แฮร์รีเกร็งเพราะทาเคโอะ <a href=\"/lore/characters/#july-forway-tea-drinkers\">จูไล</a>ขี้เล่น ทาเคโอะไม่สนอะไร แฮร์รีไปเอาเบียร์ สงสัยว่าพวกเขารู้แล้วหรือยังว่าเขาเป็นใครจริงๆ เขาวางเบียร์บนโต๊ะ และจูไลคว้าเสื้อเขา สอดโน้ตให้และขยิบตา"
+ },
+ "a284688491f1": {
+  "en": "Yosuke flicks open a knife, like the one Eori used to perforate Harry's neck. Harry jumps back, protecting his throat, his heart pounding as he breaks into a sweat. \"If you don't cut that beard, I will.\" Dalila: \"Did you just remember something?\" Harry shakes his head. \"I'm sorry, it's just that I—don't know. It felt weird.\"",
+  "t": "โยสุเกะสะบัดมีดออก เหมือนเล่มที่เอโอรีใช้เจาะคอแฮร์รี แฮร์รีกระโดดถอย ป้องกันคอ หัวใจเต้นแรงขณะเหงื่อแตก “ถ้าแกไม่โกนเครานั่น ฉันจะโกนเอง” ดาลิลา: “พี่เพิ่งนึกอะไรออกเหรอ?” แฮร์รีส่ายหัว “ขอโทษ แค่ว่าฉัน—ไม่รู้สิ มันรู้สึกแปลกๆ”"
+ },
+ "a440a1f6bee3": {
+  "en": "Chapter 1 - The Wood People Picker",
+  "t": "บทที่ 1 - วูดพีเพิลพิกเกอร์"
+ },
+ "a9bfff691ed8": {
+  "en": "He walks the streets of Forway, thinking about everything he's gonna do with the sisters. The thought of stacking them on top of each other in bed and working them back and forth sends chills down his spine. His mind keeps compiling a list of things he wants to try with them, and wants them to teach him. He imagines Katsumi dressed as a teacher, teaching him all about how to please.",
+  "t": "เขาเดินไปตามถนนในฟอร์เวย์ คิดถึงทุกสิ่งที่เขาจะทำกับสองพี่น้อง ความคิดที่จะจับพวกนางซ้อนกันบนเตียงแล้วสลับเอาไปมาทำให้เขาขนลุกซู่ไปทั้งหลัง ในหัวเขารวบรวมรายการสิ่งที่อยากลองกับพวกนาง และอยากให้พวกนางสอน เขาจินตนาการคัตสึมิแต่งตัวเป็นครู สอนเขาทุกอย่างเรื่องวิธีทำให้พอใจ"
+ },
+ "a9d1f2689214": {
+  "en": "Yosuke brings them inside and upstairs to show them the attic. They have a timehunk to bathe and get ready, hair tied up included. He explains their tight schedule; Rimir, the sub chef, lives in the top-right bunk bed.",
+  "t": "โยสุเกะพาพวกเขาเข้าข้างในและขึ้นไปดูห้องใต้หลังคา พวกเขามีหนึ่งไทม์ฮังก์ในการอาบน้ำและเตรียมตัว รวมถึงมัดผม เขาอธิบายตารางงานที่แน่นของพวกเขา ริเมียร์ รองเชฟ นอนเตียงสองชั้นมุมขวาบน"
+ },
+ "ac23579e3c9a": {
+  "en": "Yosuke sets the blade aside, grabs a Time Counter and sets it to a Quarter Time Chunk. \"No excuses. Desmond, you're going to the barber.\" He gives directions and leaves: Harry has until Sunnihigh. Harry looks at Dalila, who points out the window. \"Look at that intersection. See the sign? Follow it.\" She grabs her clothes and heads to the bathroom. Harry looks outside again. <em>Here we go.</em>",
+  "t": "โยสุเกะวางใบมีดไว้ข้างๆ คว้าไทม์เคาน์เตอร์และตั้งไว้หนึ่งควอเตอร์ไทม์ฮังก์ “ไม่มีข้อแก้ตัว เดสมอนด์ แกไปร้านตัดผม” เขาบอกทางแล้วออกไป: แฮร์รีมีเวลาจนถึงซันนีไฮ แฮร์รีมองดาลิลา ที่ชี้ออกนอกหน้าต่าง “ดูสี่แยกนั่นสิ เห็นป้ายไหม? ตามมันไป” เธอคว้าเสื้อผ้าแล้วไปห้องน้ำ แฮร์รีมองออกไปข้างนอกอีกครั้ง <em>เอาล่ะ</em>"
+ },
+ "ac3e076a1ec4": {
+  "en": "<a href=\"/lore/characters/#takeo-forway-tea-drinkers\">Takeo</a> lets out a big yawn, and the others follow suit. They chat about the world and random stuff.",
+  "t": "<a href=\"/lore/characters/#takeo-forway-tea-drinkers\">ทาเคโอะ</a>หาวใหญ่ และคนอื่นๆ ก็หาวตาม พวกเขาคุยกันเรื่องโลกและเรื่องสัพเพเหระ"
+ },
+ "accaf51998fe": {
+  "en": "Harry #14 and Dalila help Yosuke in the kitchen",
+  "t": "แฮร์รี #14 กับดาลิลาช่วยโยสุเกะในครัว"
+ },
+ "ad6166513902": {
+  "en": "Harry #13 and Severino, ready to cut down trees",
+  "t": "แฮร์รี #13 กับเซเวรีโน พร้อมตัดต้นไม้"
+ },
+ "ae247277072b": {
+  "en": "The guards talk about how cute the Saynas are: one is very playful, the other very quiet. Ryo says a friend of his is getting into breeding them, and he got first dibs.",
+  "t": "ทหารยามคุยกันว่าไซนาน่ารักแค่ไหน: ตัวหนึ่งขี้เล่นมาก อีกตัวเงียบมาก เรียวบอกว่าเพื่อนเขากำลังเริ่มเพาะพันธุ์พวกมัน และเขาได้สิทธิ์เลือกก่อน"
+ },
+ "af6ed0c09849": {
+  "en": "Harry nods and slides his plate over. She stabs her picker into the meat, and Harry feels a stab in his heart, as if it were his own flesh. Vitor gets pissed off and does the same, and now Dalila has a stack of Bagarisa to eat, which brings a slight smile to her face. Harry looks at her smile. <em>I'm sorry.</em>",
+  "t": "แฮร์รีพยักหน้าและเลื่อนจานไป เธอปักพิกเกอร์ลงในเนื้อ และแฮร์รีรู้สึกเหมือนโดนแทงที่หัวใจ ราวกับเป็นเนื้อของเขาเอง วิตอร์หัวเสียและทำแบบเดียวกัน และตอนนี้ดาลิลามีบาการิซากองหนึ่งให้กิน ซึ่งทำให้เธอยิ้มเล็กน้อย แฮร์รีมองรอยยิ้มของเธอ <em>ขอโทษนะ</em>"
+ },
+ "b10431e80f69": {
+  "en": "The door opens and shuts just as loudly. Harry sits in bed, trying to place all these familiar faces and places; everything is hazy, because his vision is shit.",
+  "t": "ประตูเปิดและปิดดังพอกัน แฮร์รีนั่งบนเตียง พยายามนึกว่าใบหน้าและสถานที่ที่คุ้นเคยทั้งหมดนี้คือใคร ทุกอย่างพร่ามัว เพราะสายตาเขาห่วยแตก"
+ },
+ "b228d3f345aa": {
+  "en": "The rustling hugs the inside of the wall, and moments later a dirty, bloodied Sayna appears: Katsumi. \"So they got one of—\" A second Sayna slowly comes out of the wall, as dirty as the first and wounded, but not as badly. They make their way to Ryo, and Katsumi starts screeching. Ryo laughs, picks up a Nari Refresher and gives it to the Saynas.",
+  "t": "เสียงกรอบแกรบเลียบไปตามด้านในกำแพง และครู่ต่อมาไซนาที่สกปรกเปื้อนเลือดก็โผล่ออกมา: คัตสึมิ “งั้นพวกมันจับได้ไปตัวหนึ่ง—” ไซนาตัวที่สองค่อยๆ ออกมาจากกำแพง สกปรกพอๆ กับตัวแรกและบาดเจ็บ แต่ไม่หนักเท่า พวกนางเดินมาหาเรียว และคัตสึมิเริ่มกรีดร้อง เรียวหัวเราะ หยิบนาริรีเฟรชเชอร์ขึ้นมาแล้วยื่นให้ไซนาทั้งสอง"
+ },
+ "b45953ace8ff": {
+  "en": "Eiri gets pissy, and Sora puts her foot down: she never signed a contract with Neferteri. They talk about how to find Arukia. Coema: \"Make her want to contact us instead.\"",
+  "t": "เอรีเริ่มงอน และโซระก็ยืนกราน: เธอไม่เคยเซ็นสัญญากับเนเฟอร์เตรี พวกเธอคุยกันว่าจะหาอารุเกียยังไง โคเอมา: “ทำให้นางอยากติดต่อเรามาเองแทน”"
+ },
+ "b5404b585eb3": {
+  "en": "July slowly falls back, pulling Harry on top of her. He feels in sync with her, and realizes he needs to take control, and be the one stroking, for once.",
+  "t": "จูไลค่อยๆ เอนหลังลง ดึงแฮร์รีขึ้นมาทับ เขารู้สึกเข้าจังหวะกับเธอ และตระหนักว่าเขาต้องเป็นฝ่ายคุมเกม และเป็นคนโยกเอง สักครั้ง"
+ },
+ "b553522ceffd": {
+  "en": "He comes over. \"Princess Eori. You have a lovely partner. Ready to order?\" Eori feels a vein pop in her head; she swallows her pride in one big gulp, to avoid making a mess, and orders a feast. Kibe, not giving a shit, orders his own. The bartender gives them the total in Pearls and goes to get the juice.",
+  "t": "เขาเดินมา “เจ้าหญิงเอโอรี ท่านมีคู่ที่น่ารัก พร้อมสั่งอาหารหรือยัง?” เอโอรีรู้สึกเส้นเลือดปูดที่หัว เธอกลืนศักดิ์ศรีลงไปในอึกใหญ่ เพื่อไม่ให้เละเทะ และสั่งอาหารเต็มโต๊ะ คิเบะ ที่ไม่สนอะไร สั่งของตัวเอง บาร์เทนเดอร์บอกยอดรวมเป็นเพิร์ลแล้วไปเอาน้ำผลไม้"
+ },
+ "b573ecdf0e01": {
+  "en": "Harry says he had no idea it took so long to trim all the branches. Severino: that's not even the most time-consuming part. Sculpting is.",
+  "t": "แฮร์รีบอกว่าไม่รู้เลยว่าการตัดแต่งกิ่งทั้งหมดใช้เวลานานขนาดนี้ เซเวรีโน: นั่นยังไม่ใช่ส่วนที่กินเวลาที่สุด การแกะสลักต่างหาก"
+ },
+ "b582fba90725": {
+  "en": "Harry at the hair salon, where white hair is in fashion right now, and cheap",
+  "t": "แฮร์รีที่ร้านทำผม ที่ผมสีขาวกำลังเป็นแฟชั่นตอนนี้ และราคาถูก"
+ },
+ "b6591536a31d": {
+  "en": "Harry looks at the note while the two bartenders, Hanako and Mimi, poke fun at him",
+  "t": "แฮร์รีมองโน้ตขณะที่บาร์เทนเดอร์สองคน ฮานาโกะกับมิมิ แซวเขา"
+ },
+ "b73a4aae5a55": {
+  "en": "Ryo on the wagon heading back; Magi, alone, carries a green bag, looking tired and hungry",
+  "t": "เรียวบนเกวียนขากลับ มากิ ตัวคนเดียว ถือถุงสีเขียว ดูเหนื่อยและหิว"
+ },
+ "b88f5536398c": {
+  "en": "<em>I saved her, and she still won't say a word? Fine! Have it your way!</em> The rebel Sayna turns and heads for the other corner of the room.",
+  "t": "<em>ฉันช่วยนางแล้ว แต่นางยังไม่ยอมพูดสักคำ? ก็ได้! ตามใจแก!</em> ไซนาขบถหันและมุ่งไปอีกมุมของห้อง"
+ },
+ "b8d261cf831c": {
+  "en": "The adventurer holds the Sayna up and looks it in the eyes. \"My point is, you two are <a href=\"/lore/factions/#red-winga\">Red Winga</a> property! You signed the contract, so now the Forway guards can come hunting you down!\" Ryo: \"Not for long. I have my connections.\" \"Leave me out of it. The last thing I want is trouble at the embassy.\" \"A promise is a promise. Our contract ends as soon as we set foot in Forway.\" \"Is that a whole battalion of Forway guards?\" \"You'd better believe it…\"",
+  "t": "นักผจญภัยยกไซนาขึ้นมองตา “ฉันหมายถึง พวกเธอสองคนเป็นทรัพย์สินของ<a href=\"/lore/factions/#red-winga\">เรดวิงกา</a>! พวกเธอเซ็นสัญญา ตอนนี้ทหารยามฟอร์เวย์จึงมาตามล่าพวกเธอได้!” เรียว: “ไม่นานหรอก ฉันมีเส้นสาย” “อย่าดึงฉันเข้าไปเกี่ยว สิ่งสุดท้ายที่ฉันอยากได้คือปัญหาที่สถานทูต” “สัญญาก็คือสัญญา สัญญาของเราจบทันทีที่เราเหยียบฟอร์เวย์” “นั่นทหารยามฟอร์เวย์ทั้งกองพันเลยเหรอ?” “เชื่อเถอะ…”"
+ },
+ "b9afd244dc1d": {
+  "en": "Ryo holds them both in his arms, stroking the long hair with one hand and the short hair with the other. She resists his embrace, but he's stronger, and squeezes them in. \"Let's talk this one out. Don't lie this time, or it'll be the last time.\" The sisters look at each other. Katsumi lets out a gasp. \"Fine. I'll tell you what I did to the target.\"",
+  "t": "เรียวกอดทั้งสองไว้ในอ้อมแขน ลูบผมยาวด้วยมือข้างหนึ่งและผมสั้นด้วยมืออีกข้าง เธอขัดขืนอ้อมกอด แต่เขาแข็งแรงกว่า และรัดพวกนางเข้ามา “มาคุยเรื่องนี้กันให้จบ ครั้งนี้อย่าโกหก ไม่งั้นมันจะเป็นครั้งสุดท้าย” สองพี่น้องมองหน้ากัน คัตสึมิหอบหายใจ “ก็ได้ ฉันจะบอกว่าฉันทำอะไรกับเป้าหมาย”"
+ },
+ "bc2b4899b4ab": {
+  "en": "He pulls them closer. \"I've got something else that'll surprise you two. It spontaneously grows when you put it in your mouth.\" He chuckles loudly, with a lewd smile. Katsumi: \"Can you show me?\" She places her hands on his inner thighs and rubs against his taint. \"I'll give you a private showing back at the hotel. Wanna see it too, Katsuki?\" She gets flustered. \"Dammit. She's so cute. I hope you two are having fun.\" They both smile back. Ryo: <em>I need to bring them to Yosuke's restaurant before we go. Their stuff is legit.</em>",
+  "t": "เขาดึงพวกนางเข้ามาใกล้ขึ้น “ฉันมีอย่างอื่นที่จะทำให้พวกเธอสองคนประหลาดใจ มันขยายขึ้นเองเวลาเอาเข้าปาก” เขาหัวเราะลั่น พร้อมรอยยิ้มหื่น คัตสึมิ: “ให้ดูได้ไหม?” เธอวางมือบนต้นขาด้านในของเขาและถูไปตรงฝีเย็บ “เดี๋ยวฉันแสดงให้ดูแบบส่วนตัวที่โรงแรม อยากดูด้วยไหม คัตสึกิ?” เธอเขินอาย “ให้ตายสิ นางน่ารักชะมัด หวังว่าพวกเธอสองคนจะสนุกนะ” ทั้งคู่ยิ้มกลับ เรียว: <em>ฉันต้องพาพวกนางไปร้านอาหารของโยสุเกะก่อนเราไป ของที่นั่นของแท้</em>"
+ },
+ "bcdf955e5342": {
+  "en": "Katsuki rejects the idea by hiding behind her sister. \"Okay, making one of you famous. Katsumi, what do you do best?\" A lewd smile. Katsumi, interested: \"Sucking and fucking to get info?\" \"And who taught you how?\" \"The other ladies at the Red Winga?\" \"Indeed! A true art form. So! I've been thinking about building a whorehouse back home, with you two as the madams.\"",
+  "t": "คัตสึกิปฏิเสธไอเดียด้วยการหลบหลังน้องสาว “โอเค ทำให้คนใดคนหนึ่งดังละกัน คัตสึมิ เธอถนัดอะไรที่สุด?” รอยยิ้มหื่น คัตสึมิ สนใจ: “ดูดกับเอาเพื่อล้วงข้อมูล?” “แล้วใครสอนเธอ?” “สาวๆ คนอื่นที่เรดวิงกา?” “ถูกต้อง! ศิลปะแท้ๆ งั้น! ฉันกำลังคิดจะสร้างซ่องที่บ้าน โดยมีพวกเธอสองคนเป็นมาดาม”"
+ },
+ "bd76a543f65e": {
+  "en": "Coema lectures Eiri on her attitude; Sora defends Eiri; Coema knuckles both their heads",
+  "t": "โคเอมาเทศนาเอรีเรื่องทัศนคติ โซระปกป้องเอรี โคเอมาเขกหัวทั้งคู่"
+ },
+ "be1adbe6a07a": {
+  "en": "Then an idea pops into his head: what if she became a teacher to other girls, and they built a whorehouse? Ryo smiles lewdly as he feels his pocket growing bigger.",
+  "t": "แล้วไอเดียก็ผุดขึ้นในหัว: ถ้านางกลายเป็นครูสอนผู้หญิงคนอื่น แล้วพวกเขาสร้างซ่องขึ้นมาล่ะ? เรียวยิ้มหื่นขณะรู้สึกว่ากระเป๋าตังค์กำลังพองขึ้น"
+ },
+ "be85ed3fde9b": {
+  "en": "Harry, in just his boxers, looks out the window at another Forway morning; Dalila, Hanako and Mimi are asleep",
+  "t": "แฮร์รี ใส่แค่กางเกงบ็อกเซอร์ มองออกนอกหน้าต่างดูเช้าอีกวันในฟอร์เวย์ ดาลิลา ฮานาโกะ และมิมิยังหลับอยู่"
+ },
+ "bf26c6f536ef": {
+  "en": "He teaches them. Dalila goes to eat something, and the sub chef puts his hand over it. \"We only eat after everyone else has had their fill.\" Dalila sulks.",
+  "t": "เขาสอนพวกเขา ดาลิลาจะกินอะไรสักอย่าง และรองเชฟเอามือปิดไว้ “เรากินหลังจากทุกคนอิ่มแล้วเท่านั้น” ดาลิลางอน"
+ },
+ "bff20eac9f25": {
+  "en": "Dalila and Harry on the wagon to Forway, Magi sitting next to Harry, holding her backpack and arrows",
+  "t": "ดาลิลากับแฮร์รีบนเกวียนไปฟอร์เวย์ มากินั่งข้างแฮร์รี ถือเป้และลูกธนู"
+ },
+ "c24584e24668": {
+  "en": "Harry is about to take a spoonful when he realizes he's part of this conversation too, and looks at Nailah curiously. \"I mentioned Desmond as well. It'll be a nice change of pace for both of you.\" Severino: \"You did mention you've never been to Forway.\" Harry smiles. \"Thanks!\"",
+  "t": "แฮร์รีกำลังจะตักซุป เมื่อรู้ตัวว่าเขาเป็นส่วนหนึ่งของบทสนทนานี้ด้วย และมองไนลาห์อย่างสงสัย “ฉันพูดถึงเดสมอนด์ด้วย มันจะเป็นการเปลี่ยนบรรยากาศที่ดีสำหรับทั้งสองคน” เซเวรีโน: “นายบอกว่าไม่เคยไปฟอร์เวย์” แฮร์รียิ้ม “ขอบคุณ!”"
+ },
+ "c2c62835d772": {
+  "en": "Severino: \"Let me guess. You wanted to ask why Dalila eats so much?\" Vitor fiddles with his thumbs, silently agreeing. \"She's from Broken-Tree. Didn't I already tell you the story of the three sisters?\" \"I know—but she's not cute anymore.\" Severino and Harry laugh out loud, and Vitor punches Harry in the stomach. \"This is serious!\" Severino: \"I know plenty of Tolerideme boys—maybe even Gandew boys—who'd go crazy for her.\" Vitor looks down.",
+  "t": "เซเวรีโน: “ให้พ่อเดานะ ลูกอยากถามว่าทำไมดาลิลากินเยอะขนาดนั้นใช่ไหม?” วิตอร์เล่นนิ้วโป้ง ยอมรับอย่างเงียบๆ “เธอมาจากโบรเคนทรี พ่อไม่เคยเล่าเรื่องสามพี่น้องสาวให้ฟังเหรอ?” “ผมรู้—แต่เธอไม่น่ารักแล้ว” เซเวรีโนกับแฮร์รีหัวเราะลั่น และวิตอร์ต่อยท้องแฮร์รี “นี่เรื่องจริงจังนะ!” เซเวรีโน: “พ่อรู้จักเด็กผู้ชายโทเลอริดีมเพียบ—หรืออาจรวมถึงเด็กผู้ชายแกนดิว—ที่คงคลั่งเธอ” วิตอร์ก้มหน้า"
+ },
+ "c37dc9851b0d": {
+  "en": "Eori paddles on as exhaustion sets in",
+  "t": "เอโอรีพายต่อขณะที่ความเหนื่อยล้าเข้าครอบงำ"
+ },
+ "c44688e0a43d": {
+  "en": "Ryo: \"First things first. Katsumi, apologize to Katsuki.\" \"For what? Protecting us?\" \"For betraying your own family.\" Katsumi does. Ryo: \"I've decided what we'll do with Harry, if he's still around. We'll protect him, and learn his secrets for ourselves. But first, we need to make you two famous.\"",
+  "t": "เรียว: “เรื่องแรกก่อน คัตสึมิ ขอโทษคัตสึกิ” “เรื่องอะไร? ที่ปกป้องพวกเราเหรอ?” “ที่ทรยศครอบครัวตัวเอง” คัตสึมิขอโทษ เรียว: “ฉันตัดสินใจแล้วว่าเราจะทำยังไงกับแฮร์รี ถ้าเขายังอยู่ เราจะปกป้องเขา และเรียนรู้ความลับของเขาไว้เอง แต่ก่อนอื่น เราต้องทำให้พวกเธอสองคนดัง”"
+ },
+ "c5005192d633": {
+  "en": "Hanako: \"All right! All right! Let's both go together!\" Mimi: \"But then you'll tell me to wash your back!\" \"But I wash yours too!\" \"Not fair! You have a big back! Tell Desmond to wash it!\" She points at Desmond, just sitting there watching it all unfold. Hanako covers herself. \"I don't want him touching me!\"",
+  "t": "ฮานาโกะ: “ก็ได้! ก็ได้! ไปด้วยกันทั้งคู่เลย!” มิมิ: “แต่แล้วพี่ก็จะให้หนูขัดหลังให้!” “แต่พี่ก็ขัดให้เธอด้วยนะ!” “ไม่ยุติธรรม! หลังพี่ใหญ่! ให้เดสมอนด์ขัดสิ!” เธอชี้ไปที่เดสมอนด์ ที่นั่งดูเหตุการณ์ทั้งหมดอยู่เฉยๆ ฮานาโกะปิดตัว “ฉันไม่อยากให้เขามาแตะตัว!”"
+ },
+ "c5b94f9ff865": {
+  "en": "Desmond smiles a little, but in his mind, the first dinner he can remember replays. Mimi flies over and lands on Harry's legs, her cold hands slapping his cheeks as she pulls his face close. Her worried little face brings out a smile. With curiosity: \"Did Dalila's farts make you sick?\"",
+  "t": "เดสมอนด์ยิ้มนิดๆ แต่ในหัว มื้อเย็นแรกที่เขาจำได้กำลังเล่นซ้ำ มิมิบินมาลงบนขาแฮร์รี มือเย็นๆ ตบแก้มเขาขณะดึงหน้าเขาเข้ามาใกล้ หน้าเล็กๆ ที่เป็นห่วงของเธอทำให้เขายิ้มออก ด้วยความอยากรู้: “ตดของดาลิลาทำให้พี่ป่วยเหรอ?”"
+ },
+ "c7b7d256a04c": {
+  "en": "Eori's fists are ready to fly at the man coming back with their juices. She imagines all the incidents she could cause to vent her anger, but in the end she stays still. She sips her juice with her eyes closed, savoring the delicious fruity flavor, while Kibe sips his and gazes at the ceiling of clouds in the distance and the faraway lands below.",
+  "t": "กำปั้นของเอโอรีพร้อมพุ่งใส่ชายที่กลับมาพร้อมน้ำผลไม้ เธอนึกภาพเหตุการณ์ทั้งหมดที่เธอจะก่อเพื่อระบายความโกรธ แต่สุดท้ายเธอก็นิ่ง เธอจิบน้ำผลไม้หลับตา ลิ้มรสผลไม้แสนอร่อย ขณะที่คิเบะจิบของตัวเองและมองเพดานเมฆไกลๆ และดินแดนห่างไกลเบื้องล่าง"
+ },
+ "c815b9eb915e": {
+  "en": "The driver takes a longer route. Ryo picks up on it and bails. \"That piece of shit works fast—maybe I should hire some <a href=\"/lore/factions/#pussy-power\">Pussy Power</a>.\"",
+  "t": "คนขับเลือกเส้นทางที่ไกลกว่า เรียวจับได้และกระโดดลง “ไอ้เวรนั่นทำงานไวจริง—บางทีฉันควรจ้าง<a href=\"/lore/factions/#pussy-power\">พุสซีพาวเวอร์</a>สักหน่อย”"
+ },
+ "cac313ae8b18": {
+  "en": "Chapter 2 - Forway Law",
+  "t": "บทที่ 2 - กฎหมายฟอร์เวย์"
+ },
+ "cb080128841e": {
+  "en": "\"Oww, fucking disgusting!\" Hanako wakes up and throws a Create Air spell at the window; Harry, laughing his ass off, sits down on his bed and enjoys the moment. Mimi, filtering the air through a cloth so far, looks at the clock shimmering in the sun's rays. \"SUNNA!\" She takes off for the bathroom, but Hanako catches her midway. \"It's my turn this time!\" \"Lemme go! Lemme go!\" Mimi kicks her tiny feet at Hanako's face.",
+  "t": "“โอ๊ย ขยะแขยงชิบหาย!” ฮานาโกะตื่นขึ้นและร่ายคาถาครีเอตแอร์ใส่หน้าต่าง แฮร์รีหัวเราะท้องคัดท้องแข็ง นั่งลงบนเตียงและเพลิดเพลินกับช่วงเวลานี้ มิมิ ที่กรองอากาศผ่านผ้ามาตลอด มองนาฬิกาที่ระยิบระยับในแสงอาทิตย์ “ซันนา!” เธอพุ่งไปห้องน้ำ แต่ฮานาโกะคว้าตัวไว้กลางทาง “รอบนี้ตาฉัน!” “ปล่อยนะ! ปล่อยนะ!” มิมิถีบเท้าเล็กๆ ใส่หน้าฮานาโกะ"
+ },
+ "cdc0c0333115": {
+  "en": "Eiri, Sora and other maids meet a big ship at the docks, along with many passengers",
+  "t": "เอรี โซระ และสาวใช้คนอื่นไปรับเรือลำใหญ่ที่ท่าเรือ พร้อมผู้โดยสารมากมาย"
+ },
+ "cde0aaabce1b": {
+  "en": "The sign: \"Closed after Sunni to prepare for the Homeegg Tournament tomorrow. Come see it with us! - Yosuke\". Ryo wanted them to taste the food here, but they can come back later. \"Any other spots you want to visit before we go?\" They say no.",
+  "t": "ป้าย: “ปิดหลังซันนี เพื่อเตรียมการแข่งขันโฮมเอ้กพรุ่งนี้ มาดูด้วยกันนะ! - โยสุเกะ” เรียวอยากให้พวกนางได้ชิมอาหารที่นี่ แต่ไว้กลับมาทีหลังก็ได้ “มีที่อื่นที่อยากไปก่อนเราไปไหม?” พวกนางบอกว่าไม่มี"
+ },
+ "ce283823c142": {
+  "en": "Morning: July talks with Takeo as he gets ready to head out",
+  "t": "ตอนเช้า: จูไลคุยกับทาเคโอะขณะที่เขาเตรียมออกเดินทาง"
+ },
+ "ce4bc5445409": {
+  "en": "Harry looks over at the people around the next fires: some seem to be rejoicing, others stewing in their own thoughts. He turns to Severino as guilt churns his stomach. Dalila shuts down and starts to cry; the boy hugs her and looks at Harry with murder in his eyes. \"I'm sorry?\" Harry swallows his guilt. He doesn't know what happened, but it's all he can say.",
+  "t": "แฮร์รีมองไปที่ผู้คนรอบกองไฟถัดไป: บางคนดูยินดี บางคนจมอยู่กับความคิด เขาหันไปหาเซเวรีโนขณะที่ความรู้สึกผิดปั่นท้อง ดาลิลาปิดตัวและเริ่มร้องไห้ เด็กชายกอดเธอและมองแฮร์รีด้วยแววตาอยากฆ่า “ขอโทษ?” แฮร์รีกลืนความรู้สึกผิด เขาไม่รู้ว่าเกิดอะไรขึ้น แต่นั่นคือทั้งหมดที่เขาพูดได้"
+ },
+ "ce62e012e196": {
+  "en": "Book 10 - Peonage",
+  "t": "หนังสือเล่มที่ 10 - แรงงานขัดหนี้"
+ },
+ "cf8d49fe684d": {
+  "en": "Katsuki shakes her head. \"Then what do you want?\" She seems unsure. \"Can you read, write and do math?\" She looks interested. \"Can you cook too?\" She shakes her head. \"Hmmm. Then I'll make you my assistant on my business trips. I'll teach you the basics of cooking and accounting. What do you say?\" Katsuki hugs Ryo. \"That's settled, then. Meanwhile, you'll become the biggest madam the world has ever seen!\" He looks at Katsumi; her eyes sparkle with fierce strength, and lust. \"That way, Harry will find us instead.\"",
+  "t": "คัตสึกิส่ายหัว “แล้วเธออยากทำอะไร?” เธอดูไม่แน่ใจ “อ่าน เขียน และคิดเลขได้ไหม?” เธอดูสนใจ “ทำอาหารได้ด้วยไหม?” เธอส่ายหัว “ฮืมม งั้นฉันจะให้เธอเป็นผู้ช่วยในการเดินทางธุรกิจ ฉันจะสอนพื้นฐานการทำอาหารและการบัญชี ว่าไง?” คัตสึกิกอดเรียว “งั้นตกลงตามนี้ ระหว่างนั้น เธอจะกลายเป็นมาดามที่ยิ่งใหญ่ที่สุดที่โลกเคยเห็น!” เขามองคัตสึมิ ดวงตาเธอเปล่งประกายด้วยพลังอันดุดัน และความใคร่ “แบบนั้น แฮร์รีจะมาหาเราเอง”"
+ },
+ "cf9653a2dec0": {
+  "en": "They come across a broken wagon, broken armor and ragged clothes, with no discernible meat left. One of the men walks a little way into the forest and feels something watery hit his hand. He raises his fost lamp, and another droplet hits him right in the face: a dead girl lies in the tree branches.",
+  "t": "พวกเขาเจอเกวียนพัง ชุดเกราะพัง และเสื้อผ้าขาดวิ่น โดยไม่เหลือเนื้อให้เห็น ผู้ชายคนหนึ่งเดินเข้าป่าไปนิดหนึ่งและรู้สึกว่ามีอะไรเปียกๆ หยดใส่มือ เขายกตะเกียงฟอสต์ขึ้น และอีกหยดก็ตกใส่หน้าเขาพอดี: เด็กหญิงที่ตายแล้วนอนอยู่บนกิ่งไม้"
+ },
+ "d0bcd3a93f52": {
+  "en": "Harry: \"I'm Desmond! Happy to serve you all today!\" They start ordering. Yosuke's screams echo through the restaurant: \"YOU'RE NOT TEST-TASTING, YOU'RE EATING IT!\" Dalila, in the same tone: \"I'M ENSURING QUALITY!\" \"YOU ATE A FIFTH OF THE SOUP ALREADY!\" \"IT TASTES REALLY GOOD!\"",
+  "t": "แฮร์รี: “ผมเดสมอนด์ครับ! ยินดีให้บริการทุกท่านวันนี้!” พวกเขาเริ่มสั่ง เสียงตะโกนของโยสุเกะดังก้องทั่วร้าน: “แกไม่ได้ชิมรส แกกินมันเลยต่างหาก!” ดาลิลา ในโทนเดียวกัน: “หนูกำลังตรวจคุณภาพ!” “แกกินซุปไปหนึ่งในห้าแล้ว!” “ก็มันอร่อยมากเลยนี่!”"
+ },
+ "d153d0f57b72": {
+  "en": "Neferteri: \"Huneo, who will oversee the punishment?\" \"Kibe.\" <a href=\"/lore/characters/#kibe-sanbi-royal\">Kibe</a> points at himself. \"Why me? Just send a guard!\" \"I trust you to carry out the proper punishment, and to do the Cliff Walk with her.\" \"She's the one on trial!\" \"And you've been lazier than I'd hoped, so I want this to help shape you both up.\"",
+  "t": "เนเฟอร์เตรี: “ฮูเนโอ ใครจะเป็นผู้ดูแลการลงโทษ?” “คิเบะ” <a href=\"/lore/characters/#kibe-sanbi-royal\">คิเบะ</a>ชี้ตัวเอง “ทำไมต้องฉัน? ส่งทหารยามไปก็ได้!” “ผมไว้ใจให้ท่านลงโทษอย่างเหมาะสม และปีนคลิฟวอล์กไปกับนาง” “นางเป็นคนที่ถูกพิจารณาคดีนะ!” “และท่านขี้เกียจกว่าที่ผมหวังไว้ ผมจึงอยากให้เรื่องนี้ช่วยดัดนิสัยทั้งสองคน”"
+ },
+ "d175b6cd2600": {
+  "en": "Takeo lays out his Hifuna beast theory, and people sound scared. Harry wants to know more, but doesn't want the spotlight. Someone else asks the burning question: why would one come this far south? Takeo: \"That's the real question. I'll present the evidence to the Forway guards and let them issue a quest for me, since none of you tasted weird.\" Many people shuffle their hands around, dreading the pain of losing their fingers again.",
+  "t": "ทาเคโอะอธิบายทฤษฎีสัตว์อสูรฮิฟูนาของเขา และผู้คนฟังดูหวาดกลัว แฮร์รีอยากรู้มากกว่านี้ แต่ไม่อยากเป็นจุดสนใจ คนอื่นถามคำถามที่ค้างคาใจ: ทำไมมันถึงลงมาทางใต้ไกลขนาดนี้? ทาเคโอะ: “นั่นคือคำถามจริงๆ ฉันจะเอาหลักฐานไปให้ทหารยามฟอร์เวย์และให้พวกเขาออกภารกิจให้ฉัน เพราะไม่มีใครในพวกนายรสชาติแปลก” หลายคนขยับมือไปมา หวาดกลัวความเจ็บปวดจากการเสียนิ้วอีกครั้ง"
+ },
+ "d1c6e702b1f1": {
+  "en": "Kibe chills in the background while Eori paddles. Her emotions, on top of the exhaustion, start exploding inside her; tears come and she throws a fit. Kibe: \"Shall I give you supper?\"",
+  "t": "คิเบะชิลล์อยู่เบื้องหลังขณะที่เอโอรีพาย อารมณ์ของเธอ บวกกับความเหนื่อยล้า เริ่มระเบิดข้างใน น้ำตาไหลและเธออาละวาด คิเบะ: “ให้ฉันเลี้ยงมื้อเย็นไหม?”"
+ },
+ "d337093aa740": {
+  "en": "Harry watches the trees go by, then the people around him: all kinds share the wagon. <em>I'm one of them now!</em> He smiles at the passing trees, then his smile fades. <em>I need to change my appearance before they find me.</em>",
+  "t": "แฮร์รีมองต้นไม้ผ่านไป แล้วมองผู้คนรอบตัว: คนทุกแบบนั่งเกวียนด้วยกัน <em>ตอนนี้ฉันเป็นหนึ่งในพวกเขาแล้ว!</em> เขายิ้มให้ต้นไม้ที่ผ่านไป แล้วรอยยิ้มก็จางลง <em>ฉันต้องเปลี่ยนรูปลักษณ์ก่อนพวกเขาจะเจอฉัน</em>"
+ },
+ "d3589525e1ab": {
+  "en": "Dalila looks at Yosuke. \"Do you know why he's so afraid of knives?\" Yosuke: \"WE'RE IN THE KITCHEN!—Those desserts, in a small timehunk! C'mon!\" He claps. \"YES, CHEF!\" Dalila runs to the dessert station, where Rimir is working.",
+  "t": "ดาลิลามองโยสุเกะ “เชฟรู้ไหมว่าทำไมพี่เขากลัวมีดขนาดนั้น?” โยสุเกะ: “เราอยู่ในครัว!—ของหวานพวกนั้น ภายในสมอลไทม์ฮังก์! เร็วเข้า!” เขาตบมือ “ค่ะ เชฟ!” ดาลิลาวิ่งไปที่สถานีของหวาน ที่ริเมียร์กำลังทำงาน"
+ },
+ "d38c2095c8d2": {
+  "en": "Maicon leans in and lowers his voice. \"A little Winga told me two whore sisters fled alongside a target. I can see them making a deal to bring the target back.\" Ryo: \"Truly a lunatic plan. Who's the target?\" Maicon laughs loudly. \"Like they'd tell me that! They didn't even tell me what color the whores' hair is.\" Anger rises in Ryo. He drops a sack of balls on the table and stands. \"Thanks for the info. I'm gonna go visit my lunatic friend.\" Maicon keeps eating.",
+  "t": "ไมคอนโน้มตัวมาและลดเสียง “วิงกาตัวน้อยบอกฉันว่าสองพี่น้องอีตัวหนีไปพร้อมกับเป้าหมาย ฉันนึกภาพออกเลยว่าพวกนางทำข้อตกลงเพื่อพาเป้าหมายกลับมา” เรียว: “แผนบ้าจริงๆ ใครคือเป้าหมาย?” ไมคอนหัวเราะลั่น “อย่างกับพวกมันจะบอกฉัน! พวกมันยังไม่บอกเลยว่าอีตัวพวกนั้นผมสีอะไร” ความโกรธพลุ่งขึ้นในตัวเรียว เขาโยนถุงบอลลงบนโต๊ะแล้วลุกขึ้น “ขอบใจสำหรับข้อมูล ฉันจะไปเยี่ยมเพื่อนบ้าของฉันละ” ไมคอนกินต่อ"
+ },
+ "d3ed68962779": {
+  "en": "The girl, Dalila, nods, and a boy sitting nearby squeezes between them and gives Harry a threatening look. Harry focuses back on his soup. \"That's my son, Vitor,\" Severino says from across the fire. Harry looks at the son, then the father: aside from the age gap, they look nearly identical. He smiles nervously.",
+  "t": "เด็กหญิง ดาลิลา พยักหน้า และเด็กชายที่นั่งใกล้ๆ เบียดเข้ามาระหว่างพวกเขาและส่งสายตาข่มขู่ให้แฮร์รี แฮร์รีจดจ่อกับซุปต่อ “นั่นลูกชายฉัน วิตอร์” เซเวรีโนพูดจากอีกฟากกองไฟ แฮร์รีมองลูก แล้วมองพ่อ: นอกจากอายุที่ต่างกัน พวกเขาดูเหมือนกันแทบทุกอย่าง เขายิ้มอย่างประหม่า"
+ },
+ "d4618cc095fa": {
+  "en": "Harry sits up in bed, looking at the door; Takeo has steel pliers ready",
+  "t": "แฮร์รีลุกนั่งบนเตียง มองไปที่ประตู ทาเคโอะถือคีมเหล็กเตรียมพร้อม"
+ },
+ "d583d496720d": {
+  "en": "July: \"You really don't know how to please women, do you?\" Harry tenses up. \"I—I guess not? What should I do?\" July bites her tongue, leans in and gives him a quick kiss on the lips; their warm, humid breath mingles as she declares, blushing and serious: \"I wanted an angry Bagarisa in my bed! Not a relaxed Wooly!\"",
+  "t": "จูไล: “นายไม่รู้วิธีทำให้ผู้หญิงพอใจจริงๆ สินะ?” แฮร์รีเกร็ง “ฉ—ฉันคงไม่รู้มั้ง? ฉันควรทำยังไง?” จูไลกัดลิ้น โน้มตัวมาจูบปากเขาเร็วๆ ลมหายใจอุ่นชื้นของทั้งคู่ปะปนกันขณะเธอประกาศ หน้าแดงแต่จริงจัง: “ฉันอยากได้บาการิซาดุๆ บนเตียง! ไม่ใช่วูลลีที่นอนชิลล์!”"
+ },
+ "d5d7a2b1990b": {
+  "en": "\"That's okay. You haven't touched the Bagarisa. Don't like the gaminess?\" Harry puts on a fake smile and goes to cut it, but sees one of his Bagarisa friends being cut open. He sets down his fork as his stomach turns. \"I'm sorry. I can't eat it.\" \"That's okay. I can picture why.\"",
+  "t": "“ไม่เป็นไร นายยังไม่แตะบาการิซาเลย ไม่ชอบกลิ่นสาบเหรอ?” แฮร์รีฝืนยิ้มและจะหั่นมัน แต่เห็นเพื่อนบาการิซาตัวหนึ่งถูกผ่า เขาวางส้อมลงขณะที่ท้องปั่นป่วน “ขอโทษ ฉันกินไม่ได้” “ไม่เป็นไร ฉันนึกภาพออกว่าทำไม”"
+ },
+ "d5dfcd622553": {
+  "en": "Chapter 1 - The past is the past.",
+  "t": "บทที่ 1 - อดีตก็คืออดีต"
+ },
+ "d63c448628c5": {
+  "en": "Severino comes in and clears his throat. \"Have you found the person?\" Takeo: \"No, but I found a purebred Naked Brunto.\" \"What's that?\" \"Human? Yeah. One of you who never mixed blood with Darfaries or Wozefaries.\" \"That's a thing?\" \"It's pretty rare. First time I've tasted one.\"",
+  "t": "เซเวรีโนเข้ามาและกระแอม “เจอคนนั้นหรือยัง?” ทาเคโอะ: “ยัง แต่ฉันเจอเนกเคดบรุนโตพันธุ์แท้” “นั่นคืออะไร?” “มนุษย์ไง? ใช่ พวกนายคนหนึ่งที่ไม่เคยผสมเลือดกับดาร์แฟรีส์หรือโวซแฟรีส์” “มีแบบนั้นด้วยเหรอ?” “หายากมาก ครั้งแรกที่ได้ชิม”"
+ },
+ "d743e3a11819": {
+  "en": "Harry asks how they make money from it. It depends: usually you sculpt everyday things and sell them every week or so at a market in a nearby, larger village, or, in his wife's case, some clients come to her directly, like Yosuke.",
+  "t": "แฮร์รีถามว่าพวกเขาหาเงินจากมันยังไง ขึ้นอยู่กับ: ปกติแกะสลักของใช้ประจำวันแล้วขายทุกสัปดาห์หรือราวๆ นั้นที่ตลาดในหมู่บ้านใหญ่ใกล้ๆ หรือ ในกรณีของภรรยาเขา ลูกค้าบางคนมาหาเธอโดยตรง อย่างโยสุเกะ"
+ },
+ "d86a0c7af0ba": {
+  "en": "Harry: \"I hope I can at least match his skill.\" \"No worries. He's still learning too.\" Harry enjoys this father-son kind of bonding.",
+  "t": "แฮร์รี: “หวังว่าอย่างน้อยฉันจะเก่งเท่าเขา” “ไม่ต้องห่วง เขาก็ยังเรียนรู้อยู่” แฮร์รีเพลิดเพลินกับความผูกพันแบบพ่อลูกนี้"
+ },
+ "da35879976f8": {
+  "en": "Eori tortures Harry in his sleep",
+  "t": "เอโอรีทรมานแฮร์รีในฝัน"
+ },
+ "dacc8e469619": {
+  "en": "It's a magical show. Ryo hugs both sisters and looks at Katsumi, then Katsuki. <em>Took a while, but I found it. Now I just need to figure out what the Red Winga is planning. It's clear as day they'll watch our every move, but are they still trying to find Harry? I know he's the result of Gabiro's last experiment, but is being able to use a Bagarisa interface that important? No. They've got to be trying to blackmail the Sanbi Kingdom, which means I can't contact Sanbi, directly or indirectly, or the Red Winga will cut my balls off. Protecting these two comes first and foremost.</em>",
+  "t": "เป็นการแสดงที่มหัศจรรย์ เรียวกอดสองพี่น้องและมองคัตสึมิ แล้วมองคัตสึกิ <em>ใช้เวลานานหน่อย แต่ฉันเจอแล้ว ตอนนี้แค่ต้องหาว่าเรดวิงกาวางแผนอะไรอยู่ ชัดแจ้งว่าพวกมันจะจับตาทุกความเคลื่อนไหวของเรา แต่พวกมันยังตามหาแฮร์รีอยู่ไหม? ฉันรู้ว่าเขาเป็นผลจากการทดลองครั้งสุดท้ายของกาบีโร แต่การใช้อินเทอร์เฟซบาการิซาได้มันสำคัญขนาดนั้นเลยเหรอ? ไม่ พวกมันต้องพยายามแบล็กเมลราชอาณาจักรซันบีแน่ๆ ซึ่งแปลว่าฉันติดต่อซันบีไม่ได้ ทั้งทางตรงและทางอ้อม ไม่งั้นเรดวิงกาจะตัดไข่ฉันทิ้ง ปกป้องสองคนนี้มาก่อนอื่นใด</em>"
+ },
+ "db01dbe5ad31": {
+  "en": "For the first time, Dalila's eyes sparkle with life. She gulps down her food, her mood lifting a little. \"Are you serious?\" \"Of course. He's one of our favorite clients.\" Nailah: \"I'll ask {WIP-nailahMessenger} to carry a message to Yosuke before she sets off.\"",
+  "t": "เป็นครั้งแรกที่ดวงตาของดาลิลาเปล่งประกายแห่งชีวิต เธอกลืนอาหารลงไป อารมณ์ดีขึ้นเล็กน้อย “พูดจริงเหรอ?” “แน่นอน เขาเป็นหนึ่งในลูกค้าคนโปรดของเรา” ไนลาห์: “ฉันจะขอให้ {WIP-nailahMessenger} นำข้อความไปให้โยสุเกะก่อนเธอออกเดินทาง”"
+ },
+ "db9f7c889cc7": {
+  "en": "July rests her head on his shoulder. \"If you say so. Let's call it an impromptu date. Just make sure not to fall in love, since I might die soon.\" A sinking feeling slowly grows in Harry. \"Why?\" \"I'm an adventurer, after all. I have a world to explore, and you alone can't satisfy me.\"",
+  "t": "จูไลซบหัวกับไหล่เขา “ถ้านายว่างั้นก็ได้ เรียกว่าเดตแบบไม่ได้ตั้งใจละกัน แค่อย่าตกหลุมรักล่ะ เพราะฉันอาจตายเร็วๆ นี้” ความรู้สึกหวิวๆ ค่อยๆ ก่อตัวในตัวแฮร์รี “ทำไม?” “ฉันเป็นนักผจญภัยนี่นา ฉันมีโลกทั้งใบให้สำรวจ และนายคนเดียวทำให้ฉันพอใจไม่ได้หรอก”"
+ },
+ "dce053639236": {
+  "en": "Chapter 1 - Student",
+  "t": "บทที่ 1 - นักเรียน"
+ },
+ "ded592db2a82": {
+  "en": "She sees Harry's face. She wants to see him again, she wants to dominate him again, but how can she, now that she no longer has her mother's protection?",
+  "t": "เธอเห็นหน้าแฮร์รี เธออยากเห็นเขาอีก เธออยากครอบงำเขาอีก แต่จะทำได้ยังไง ในเมื่อตอนนี้เธอไม่มีการคุ้มครองจากแม่แล้ว?"
+ },
+ "df03a6d9be5f": {
+  "en": "\"Where are your parents? Don't you miss them?\" \"I don't have any,\" Harry says truthfully. \"Then how were you born?\" Harry remembers waking up in Sanbi Castle. \"I have no idea—maybe I do have some, but I lost my memories of them—\" Then he remembers how peaceful life in Rebula was. \"—for all it matters, these past weeks felt like I was finally part of a family.\"",
+  "t": "“พ่อแม่ของพี่อยู่ไหน? ไม่คิดถึงพวกเขาเหรอ?” “ฉันไม่มี” แฮร์รีพูดตามจริง “แล้วพี่เกิดมาได้ยังไง?” แฮร์รีนึกถึงตอนตื่นขึ้นในปราสาทซันบี “ฉันไม่รู้เลย—บางทีฉันอาจมี แต่ลืมความทรงจำเกี่ยวกับพวกเขาไป—” แล้วเขาก็นึกถึงชีวิตที่สงบสุขในเรบูลา “—ยังไงก็ตาม สองสามสัปดาห์ที่ผ่านมารู้สึกเหมือนในที่สุดฉันก็ได้เป็นส่วนหนึ่งของครอบครัว”"
+ },
+ "dfa28411ed07": {
+  "en": "Dalila, with Nailah seated beside her, Severino, Vitor (timid, and really likes Dalila) and Takeo",
+  "t": "ดาลิลา โดยมีไนลาห์นั่งข้างๆ เซเวรีโน วิตอร์ (ขี้อาย และชอบดาลิลามาก) และทาเคโอะ"
+ },
+ "dfa8e413cf4a": {
+  "en": "She searches for books on the soul, but there's absolutely nothing, almost as if someone is hiding the information from the public. {WIP-eoriTeacher} appears and asks what she's after. Eori: \"Soul, by Gabiro.\" The teacher, slightly flustered, leads her to a small, kind of dusty soul section at the very end. \"Gabiro published many things, but never about the soul.\"",
+  "t": "เธอค้นหาหนังสือเกี่ยวกับวิญญาณ แต่ไม่มีอะไรเลยสักอย่าง ราวกับมีใครซ่อนข้อมูลไว้จากสาธารณะ {WIP-eoriTeacher} ปรากฏตัวและถามว่าเธอตามหาอะไร เอโอรี: “«วิญญาณ» โดยกาบีโร” อาจารย์ ลนลานเล็กน้อย พาเธอไปยังหมวดวิญญาณเล็กๆ ฝุ่นเขรอะที่สุดปลายห้อง “กาบีโรตีพิมพ์ผลงานมากมาย แต่ไม่เคยมีเรื่องวิญญาณ”"
+ },
+ "dfe8af9468dd": {
+  "en": "Forway is busy: people going places, doing things. Harry remembers what July said about opportunities out in the world. <em>What am I even doing here?</em> \"You fall outta bed or something? Close the window!\" Dalila covers herself with a blanket.",
+  "t": "ฟอร์เวย์คึกคัก: ผู้คนไปโน่นไปนี่ ทำโน่นทำนี่ แฮร์รีนึกถึงสิ่งที่จูไลพูดเรื่องโอกาสในโลกกว้าง <em>ฉันมาทำอะไรอยู่ที่นี่เนี่ย?</em> “ตกเตียงหรือไงวะ? ปิดหน้าต่างเลย!” ดาลิลาเอาผ้าห่มคลุมตัว"
+ },
+ "e00459c6e9f8": {
+  "en": "Kibe offers Eori food; she throws it aside. \"Fine. Go hungry, then. Not like I care.\" Eori is sad, and angry, and the anger fuels her strength and determination: she'll conquer this and rise above Huneo. She starts thinking of ways to get rid of him, and falls asleep.",
+  "t": "คิเบะยื่นอาหารให้เอโอรี เธอปัดมันทิ้ง “ก็ได้ หิวไปละกัน ไม่ใช่ว่าฉันสนหรอก” เอโอรีเศร้า และโกรธ และความโกรธก็เติมพลังและความมุ่งมั่น: เธอจะพิชิตเรื่องนี้และอยู่เหนือฮูเนโอ เธอเริ่มคิดหาวิธีกำจัดเขา และหลับไป"
+ },
+ "e0d104c55858": {
+  "en": "Harry #13 and Severino head back, carrying wood",
+  "t": "แฮร์รี #13 กับเซเวรีโนเดินกลับ แบกไม้"
+ },
+ "e0ef339a011d": {
+  "en": "Chapter 3 - A new day.",
+  "t": "บทที่ 3 - วันใหม่"
+ },
+ "e1241a2187a7": {
+  "en": "Harry #13 sits by Dalila as a crowd gets ready to eat, everyone watching Takeo and Severino",
+  "t": "แฮร์รี #13 นั่งข้างดาลิลาขณะที่ฝูงชนเตรียมกินข้าว ทุกคนมองทาเคโอะและเซเวรีโน"
+ },
+ "e2a8ce184323": {
+  "en": "She arrives by wagon and is welcomed by a teacher, {WIP-eoriTeacher}, who tells her a bit about the school.",
+  "t": "เธอมาถึงด้วยเกวียนและได้รับการต้อนรับจากอาจารย์ {WIP-eoriTeacher} ที่เล่าเรื่องโรงเรียนให้ฟังนิดหน่อย"
+ },
+ "e2d72d6b4a33": {
+  "en": "Dalila eats viciously; Harry and everyone else eat too",
+  "t": "ดาลิลากินอย่างดุเดือด แฮร์รีและทุกคนก็กินด้วย"
+ },
+ "e3c6b6e8e786": {
+  "en": "A brief silence. A guard raises his hand, and the captain nods for him to speak. \"Captain, could it be that we need more adventurers hunting by the Lukewarm Lake?\" The captain carefully considers it. \"Takeo? Any insights?\"",
+  "t": "ความเงียบสั้นๆ ทหารยามคนหนึ่งยกมือ และกัปตันพยักหน้าให้พูด “กัปตัน เป็นไปได้ไหมว่าเราต้องการนักผจญภัยล่ารอบทะเลสาบลุคแวร์มมากขึ้น?” กัปตันพิจารณาอย่างรอบคอบ “ทาเคโอะ? มีความเห็นไหม?”"
+ },
+ "e4dcee958212": {
+  "en": "July looks him in the eyes. \"So, how much is it going to cost?\" Harry, mid-yawn: \"What?\" \"Well, you know. I did say earlier I wanted to order you. Do you charge a flat rate per day, or per timehunk?\" Harry tenses again. \"I didn't—I wasn't expecting money.\"",
+  "t": "จูไลมองตาเขา “แล้ว ค่าตัวเท่าไหร่?” แฮร์รี กำลังหาว: “อะไรนะ?” “ก็นะ นายก็รู้ ฉันบอกไปแล้วตอนแรกว่าอยากสั่งตัวนาย นายคิดเหมาเป็นวัน หรือคิดเป็นไทม์ฮังก์?” แฮร์รีเกร็งอีกครั้ง “ฉันไม่ได้—ฉันไม่ได้คาดหวังเงินเลย”"
+ },
+ "e52fecee532b": {
+  "en": "Takeo looks back at Harry. \"Want to go first or last?\" \"La—last?\" Takeo sets the pliers on {WIP-katsumiBandit}'s fingers. He clips them slowly, savoring the bones breaking, as the man screams in agony. He eats the finger, shakes his head, and spits the half-chewed finger back in the bandit's face.",
+  "t": "ทาเคโอะมองกลับไปที่แฮร์รี “อยากเป็นคนแรกหรือคนสุดท้าย?” “สุด—สุดท้าย?” ทาเคโอะวางคีมบนนิ้วของ {WIP-katsumiBandit} เขาหนีบช้าๆ ลิ้มรสกระดูกที่แตก ขณะที่ชายคนนั้นกรีดร้องด้วยความทรมาน เขากินนิ้ว ส่ายหัว แล้วถุยนิ้วที่เคี้ยวครึ่งหนึ่งกลับใส่หน้าโจร"
+ },
+ "e6ef23712daa": {
+  "en": "Harry tries to break the ice. \"Forway sure is big.\" Dalila ignores him. A bit flustered, he keeps going: \"I didn't know we'd have to switch wagons to get to Forway, either.\" \"The first wagon was going east, to {WIP-firstWagonStop}. The second one came north, to here.\" \"You sure know a lot about roads.\"",
+  "t": "แฮร์รีพยายามละลายพฤติกรรม “ฟอร์เวย์ใหญ่จังเลย” ดาลิลาเมินเขา ลนลานเล็กน้อย เขาพูดต่อ: “ฉันก็ไม่รู้ว่าเราต้องเปลี่ยนเกวียนเพื่อมาฟอร์เวย์” “เกวียนแรกไปทางตะวันออก ไป {WIP-firstWagonStop} เกวียนที่สองมาทางเหนือ มาที่นี่” “เธอรู้เรื่องถนนเยอะจัง”"
+ },
+ "e79a988262ba": {
+  "en": "Neferteri dangles the carrot: if Eori doesn't go, she'll throw out Harry's search quest. Eori has no choice but to concede, until a lightbulb goes off in her head: what if she can recreate Harry? Gabiro did it, so why can't she? Neferteri: <em>I suspect she'll dive right into Soul research, just like Gabiro. I'll have to talk with the teachers and steer her away.</em>",
+  "t": "เนเฟอร์เตรีห้อยแครอท: ถ้าเอโอรีไม่ไป นางจะยกเลิกภารกิจค้นหาแฮร์รี เอโอรีไม่มีทางเลือกนอกจากยอม จนหลอดไฟสว่างวาบในหัว: ถ้าเธอสร้างแฮร์รีขึ้นใหม่ได้ล่ะ? กาบีโรทำได้ แล้วทำไมเธอจะทำไม่ได้? เนเฟอร์เตรี: <em>ข้าสงสัยว่านางจะดำดิ่งสู่การวิจัยวิญญาณทันที เหมือนกาบีโร ข้าต้องคุยกับอาจารย์และชักนำนางออกห่าง</em>"
+ },
+ "e847b72c7d11": {
+  "en": "Eori reads the books: people trying all kinds of shit, and all of it going wrong one way or another. The teacher: \"I strongly advise picking another field as a career goal.\"",
+  "t": "เอโอรีอ่านหนังสือ: ผู้คนลองทำเหี้ยสารพัด และทั้งหมดก็พังไม่ทางใดก็ทางหนึ่ง อาจารย์: “ฉันแนะนำอย่างยิ่งให้เลือกสาขาอื่นเป็นเป้าหมายอาชีพ”"
+ },
+ "e8715f052e4a": {
+  "en": "Hanako, fighting with Mimi, points at Harry",
+  "t": "ฮานาโกะ ทะเลาะกับมิมิ ชี้มาที่แฮร์รี"
+ },
+ "e8a4c278dfb9": {
+  "en": "Chapter 4 - Anything is a contract away",
+  "t": "บทที่ 4 - อะไรก็ได้แค่สัญญาเดียว"
+ },
+ "e9d7ab83ade9": {
+  "en": "He hears someone sneaking away and sees them try to escape through a window, but Takeo catches them, tortures them, and drags them into the forest, where distant screams can be heard.",
+  "t": "เขาได้ยินใครบางคนย่องออกไปและเห็นเขาพยายามหนีทางหน้าต่าง แต่ทาเคโอะจับได้ ทรมานเขา และลากเข้าป่า ที่ซึ่งได้ยินเสียงกรีดร้องแว่วมาแต่ไกล"
+ },
+ "ea4f0f0226fe": {
+  "en": "{WIP-katsumiBandit} (the bandit Katsumi killed in Book 7, Chapter 5, now revived): \"Hey, do you know where we are?\" {WIP-blackMaginaGuy}: \"I have no fucking idea. I just woke up! The door is locked!\" He looks around and moves closer. \"{WIP-katsumiBandit}, we need to escape through the window!\" His worried voice seeps into Harry's ears, waking him.",
+  "t": "{WIP-katsumiBandit} (โจรที่คัตสึมิฆ่าในหนังสือเล่มที่ 7 บทที่ 5 ตอนนี้ถูกชุบชีวิต): “เฮ้ รู้ไหมว่าเราอยู่ไหน?” {WIP-blackMaginaGuy}: “กูไม่รู้เหี้ยอะไรเลย กูเพิ่งตื่น! ประตูล็อก!” เขามองไปรอบๆ และขยับเข้าใกล้ “{WIP-katsumiBandit} เราต้องหนีทางหน้าต่าง!” เสียงกังวลของเขาซึมเข้าหูแฮร์รี ปลุกเขา"
+ },
+ "ec20ab784e8c": {
+  "en": "Harry looks at the covered, now nearly obese Dalila. She moves her hand around, uncovers her buttocks from under the sheets, lets rip a massive, loud stinker, then quickly tucks her buttocks back in, keeping a pocket of warm air untouched by the vile fumes from a human's guts.",
+  "t": "แฮร์รีมองดาลิลาที่คลุมโปง ตอนนี้แทบจะอ้วนฉุแล้ว เธอขยับมือไปมา เปิดก้นออกมาจากใต้ผ้าปู ปล่อยตดเหม็นดังสนั่น แล้วรีบซุกก้นกลับเข้าไป เก็บกระเป๋าอากาศอุ่นๆ ไว้ไม่ให้ไอพิษจากไส้มนุษย์แตะต้อง"
+ },
+ "ec54428c06ae": {
+  "en": "They end up cheering him on: Desmond has been feeling kind of down and regretful, so this will get his head in the game and let him whoop some ass. Harry isn't sure, but they convince him. Hanako gives him a few Pearls to buy a gift or something, and tells him to let loose, since he's been so tense for so long.",
+  "t": "สุดท้ายพวกเธอเชียร์เขา: เดสมอนด์รู้สึกหดหู่และเสียใจมาสักพัก นี่จะทำให้เขากลับมาตั้งใจและไปสู้ให้สุด แฮร์รีไม่แน่ใจ แต่พวกเธอโน้มน้าวได้ ฮานาโกะให้เพิร์ลสองสามเม็ดไปซื้อของขวัญหรืออะไรสักอย่าง และบอกให้ปล่อยตัวสบายๆ เพราะเขาเกร็งมานานแล้ว"
+ },
+ "ed3a64ceaa84": {
+  "en": "{WIP-katsumiBandit} slaps his hands away. \"You're lying! Touch me again and you'll meet the darkness.\" {WIP-blackMaginaGuy} grabs his shoulders again, tighter this time, leaning in and raising his voice. \"Are you fucking with me? You're not throwing me under the Egua! You're not innocent either! You were the first one abusing them!\"",
+  "t": "{WIP-katsumiBandit} ปัดมือเขาออก “มึงโกหก! แตะกูอีกทีแล้วมึงได้ไปพบความมืดแน่” {WIP-blackMaginaGuy} จับไหล่เขาอีก แน่นกว่าเดิม โน้มตัวเข้าหาและขึ้นเสียง “มึงล้อกูเล่นใช่ไหม? มึงจะโยนกูให้โดนเอกัวเหยียบไม่ได้นะ! มึงก็ไม่ได้บริสุทธิ์! มึงเป็นคนแรกที่ทารุณพวกนาง!”"
+ },
  "ed793035274c": {
   "en": "Arc #3 - Tasty Lie · #HusbandOutWorld",
   "t": "ภาค #3 - คำโกหกแสนอร่อย · #HusbandOutWorld"
+ },
+ "edb8fba4210b": {
+  "en": "//TODO",
+  "t": "//TODO"
+ },
+ "ee2895c8209c": {
+  "en": "\"That's Dalila. She's in the same boat as you, so she'll be staying with us for a while, helping with the woodwork.\" \"Nice to meet you. I'm Desmond,\" Harry says, with all the effort he can muster. \"Nice to meet you too.\" Dalila's sad voice echoes over the fire; you can feel her broken heart oozing out of it.",
+  "t": "“นั่นดาลิลา เธอเจอสถานการณ์เดียวกับนาย เธอจะอยู่กับเราสักพัก ช่วยงานไม้” “ยินดีที่ได้รู้จัก ฉันเดสมอนด์” แฮร์รีพูด ด้วยความพยายามทั้งหมดที่มี “ยินดีที่ได้รู้จักเหมือนกัน” เสียงเศร้าของดาลิลาก้องข้ามกองไฟ รู้สึกได้ถึงหัวใจที่แตกสลายของเธอไหลซึมออกมา"
+ },
+ "ee307e124f88": {
+  "en": "Harry, smiling, takes a customer's order; Yosuke and the sub chef in the background, Dalila tasting something",
+  "t": "แฮร์รี ยิ้มแย้ม รับออร์เดอร์ลูกค้า โยสุเกะกับรองเชฟอยู่เบื้องหลัง ดาลิลากำลังชิมอะไรบางอย่าง"
+ },
+ "ef49caebab64": {
+  "en": "Coema is pissed that Eiri was so floppy in her will. \"That's no daughter of mine! Why didn't you just open the gate and let him go?\" Eiri is put on the spot: the thought never crossed her mind. Sora gets worried too. Sora defends Eiri, because she's Sora, but she gets knuckled too.",
+  "t": "โคเอมาโมโหที่เอรีมีความตั้งใจที่อ่อนปวกเปียกขนาดนั้น “นั่นไม่ใช่ลูกสาวของฉัน! ทำไมไม่เปิดประตูปล่อยเขาไปเลยล่ะ?” เอรีถูกต้อนจนมุม: ความคิดนั้นไม่เคยผ่านเข้ามาในหัวเลย โซระก็เริ่มกังวลด้วย โซระปกป้องเอรี เพราะเธอคือโซระ แต่ก็โดนเขกหัวด้วย"
+ },
+ "f061f52e2366": {
+  "en": "Harry #13-B sprawled on his seat next to Severino, Vitor sitting between them looking conflicted, on the way back with the wood",
+  "t": "แฮร์รี #13-B นอนแผ่บนที่นั่งข้างเซเวรีโน วิตอร์นั่งระหว่างพวกเขาดูลังเล ระหว่างทางกลับพร้อมไม้"
+ },
+ "f0fa6b1901f5": {
+  "en": "The captain finishes the contract, grabs a Winga pen, pricks his finger and signs in blood. With a near-mechanical motion, he turns the contract around and lays down another Winga pen for Takeo. \"You'll have one Sapphire to investigate the borders of the Hifuna region, and to lay out a plan to keep this from happening again.\"",
+  "t": "กัปตันเขียนสัญญาเสร็จ คว้าปากกาวิงกา จิ้มนิ้วและเซ็นด้วยเลือด ด้วยท่าทางเกือบเหมือนเครื่องจักร เขาหมุนสัญญากลับและวางปากกาวิงกาอีกด้ามให้ทาเคโอะ “เจ้าจะได้หนึ่งแซฟไฟร์เพื่อสืบสวนชายแดนของภูมิภาคฮิฟูนา และวางแผนป้องกันไม่ให้เรื่องนี้เกิดขึ้นอีก”"
+ },
+ "f203de98f962": {
+  "en": "<a href=\"/lore/characters/#neferteri-sanbi-royal\">Neferteri</a> tries to intervene, but <a href=\"/lore/characters/#itagiba-sanbi-royal\">Itagiba</a> rules it fair, specifically because Eori killed Huneo with nari gels. Neferteri shifts to removing Eori as an apprentice. Huneo doesn't quite get it, but says sure. Eori looks over at her mother: she must be cooking something up again.",
+  "t": "<a href=\"/lore/characters/#neferteri-sanbi-royal\">เนเฟอร์เตรี</a>พยายามแทรกแซง แต่<a href=\"/lore/characters/#itagiba-sanbi-royal\">อิตากิบา</a>ตัดสินว่ายุติธรรม เพราะเอโอรีฆ่าฮูเนโอด้วยเจลนาริโดยเฉพาะ เนเฟอร์เตรีเปลี่ยนไปถอดเอโอรีจากตำแหน่งผู้ช่วย ฮูเนโอไม่ค่อยเข้าใจ แต่บอกว่าได้ เอโอรีมองแม่: นางต้องกำลังวางแผนอะไรอีกแน่"
+ },
+ "f5cd750b0afc": {
+  "en": "Coema thanks the welcoming party, but tells them to get back to work, as if she were Eiri. Eiri: \"I'm the King's maid, though!\" \"Then act like one. Now let's go home!\"",
+  "t": "โคเอมาขอบคุณคณะต้อนรับ แต่บอกให้พวกเธอกลับไปทำงาน ราวกับเธอเป็นเอรี เอรี: “แต่หนูเป็นสาวใช้ของกษัตริย์นะ!” “งั้นก็ทำตัวให้สมกับตำแหน่ง ทีนี้กลับบ้านกันได้แล้ว!”"
+ },
+ "f64a616525e3": {
+  "en": "Katsumi doesn't like that, and Ryo holds her back. \"These two have had enough. You can hear everything from me. I'll sign it in blood.\" He tells them everything he knows. They ask the sisters where <a href=\"/lore/characters/#arukia-long-bridge\">Arukia</a> is; they have no idea. Emelia: \"Good. Everybody wins here!\"",
+  "t": "คัตสึมิไม่ชอบเลย และเรียวรั้งเธอไว้ “สองคนนี้เจอมามากพอแล้ว ฟังทุกอย่างจากฉันได้ ฉันจะเซ็นด้วยเลือด” เขาเล่าทุกอย่างที่รู้ พวกเขาถามสองพี่น้องว่า<a href=\"/lore/characters/#arukia-long-bridge\">อารุเกีย</a>อยู่ไหน พวกนางไม่รู้เลย เอมีเลีย: “ดี ทุกคนได้ประโยชน์!”"
+ },
+ "f6760149a165": {
+  "en": "Eori and Kibe arrive at the base of Waterfall",
+  "t": "เอโอรีกับคิเบะมาถึงเชิงวอเตอร์ฟอลล์"
+ },
+ "f688f7bb8c33": {
+  "en": "Severino: \"Good job, you two. We got some fine wood today.\" Harry: \"For sure. I'm beat.\" Vitor: \"Can we keep this between us?\" Severino and Harry listen closely. Vitor tries to say something, but the words just aren't there.",
+  "t": "เซเวรีโน: “เยี่ยมมาก ทั้งสองคน วันนี้เราได้ไม้ดีๆ” แฮร์รี: “แน่นอน ฉันหมดแรงแล้ว” วิตอร์: “เก็บเรื่องนี้ไว้ระหว่างเราได้ไหม?” เซเวรีโนกับแฮร์รีตั้งใจฟัง วิตอร์พยายามพูดอะไรสักอย่าง แต่หาคำไม่ได้"
+ },
+ "f68c14b612be": {
+  "en": "Takeo snaps another finger off and starts eating in earnest. Harry screams as blood keeps pulsing from his hand. Like a couch potato devouring a bag of chips, Takeo can't stop snapping off one finger after another. By the fourth, Harry is losing strength, but he's still wide awake to the pain.",
+  "t": "ทาเคโอะหักอีกนิ้วและเริ่มกินอย่างจริงจัง แฮร์รีกรีดร้องขณะที่เลือดยังพุ่งจากมือ เหมือนคนติดโซฟาที่กินมันฝรั่งทอดทั้งถุง ทาเคโอะหยุดหักนิ้วทีละนิ้วไม่ได้ พอถึงนิ้วที่สี่ แฮร์รีเริ่มหมดแรง แต่ยังตื่นเต็มที่กับความเจ็บปวด"
+ },
+ "f6ccd91a4873": {
+  "en": "Ryo: \"I know I said I'd pay, but do you really need to eat everything on the menu?\" <a href=\"/lore/characters/#maicon-forway-black-dove\">Maicon</a> burps so loudly that some patrons look over in disgust, or impressed by such a feat; some laugh in the background. Mouth full: \"It's a business opportunity. Now get more beer.\" \"Sure. Sure.\" Ryo catches Harry's eye and circles a finger over the table; Harry gives a thumbs-up back.",
+  "t": "เรียว: “ฉันรู้ว่าบอกว่าจะเลี้ยง แต่นายต้องกินทุกอย่างในเมนูจริงๆ เหรอ?” <a href=\"/lore/characters/#maicon-forway-black-dove\">ไมคอน</a>เรอดังมากจนลูกค้าบางคนหันมามองด้วยความขยะแขยง หรือไม่ก็ทึ่งกับความสามารถนี้ บางคนหัวเราะอยู่เบื้องหลัง ปากเต็ม: “มันเป็นโอกาสทางธุรกิจ ทีนี้ไปเอาเบียร์มาอีก” “ได้ ได้” เรียวสบตาแฮร์รีและวนนิ้วเหนือโต๊ะ แฮร์รียกนิ้วโป้งตอบ"
+ },
+ "f6d93809b3d8": {
+  "en": "On the final stretch to <a href=\"/lore/cities/#waterfall\">Waterfall</a>, the currents pick up. Eori paddles and paddles, all for naught. Tears form as her arms give out against the current; she fights on with every last bit of her will, but she's losing ground.",
+  "t": "ในช่วงสุดท้ายสู่<a href=\"/lore/cities/#waterfall\">วอเตอร์ฟอลล์</a> กระแสน้ำแรงขึ้น เอโอรีพายแล้วพาย ทั้งหมดสูญเปล่า น้ำตาเอ่อขณะที่แขนหมดแรงต้านกระแส เธอสู้ต่อด้วยความมุ่งมั่นที่เหลือทั้งหมด แต่เธอกำลังเสียระยะ"
+ },
+ "f721098f67aa": {
+  "en": "July and Harry take a bath, relaxed and tired; Harry's head is tilted back, completely spent",
+  "t": "จูไลกับแฮร์รีอาบน้ำด้วยกัน ผ่อนคลายและเหนื่อย หัวแฮร์รีเอนไปข้างหลัง หมดแรงสุดๆ"
+ },
+ "f727cf25d4e6": {
+  "en": "Eori rushes him in pure rage; Kibe runs up the stairs, and Eori falls forward and bashes her forehead on a step. Kibe keeps climbing without giving a fuck. Eori takes a deep breath as her anger cools, then climbs after him.",
+  "t": "เอโอรีพุ่งใส่เขาด้วยความเดือดดาลล้วนๆ คิเบะวิ่งขึ้นบันได และเอโอรีล้มไปข้างหน้าหน้าผากกระแทกขั้นบันได คิเบะปีนต่อโดยไม่สนเหี้ยอะไร เอโอรีสูดหายใจลึกขณะที่ความโกรธเย็นลง แล้วปีนตามเขาไป"
+ },
+ "f7a825c3a4a1": {
+  "en": "Dalila grabs another piece of jerky and starts walking again, deep in thought. Harry follows her slower pace in silence. <em>I'm sorry, but I can't let Eori find out I'm Harry. I'll try to make it up to you—but how?</em>",
+  "t": "ดาลิลาหยิบเนื้อแห้งอีกชิ้นและเริ่มเดินอีกครั้ง จมอยู่ในความคิด แฮร์รีตามจังหวะที่ช้าลงของเธออย่างเงียบๆ <em>ขอโทษนะ แต่ฉันปล่อยให้เอโอรีรู้ว่าฉันคือแฮร์รีไม่ได้ ฉันจะพยายามชดเชยให้เธอ—แต่ยังไงล่ะ?</em>"
+ },
+ "f816ec9643fe": {
+  "en": "Author's to-do: after his soul splits, Harry loses the ability to understand anything in the Vraki language, and has to learn everything again from the beginning.",
+  "t": "สิ่งที่ผู้เขียนต้องทำ: หลังวิญญาณแยก แฮร์รีสูญเสียความสามารถในการเข้าใจภาษาวรากีทั้งหมด และต้องเรียนรู้ทุกอย่างใหม่ตั้งแต่ต้น"
+ },
+ "f8d9353f41cf": {
+  "en": "Eori arrives at the Forway science school",
+  "t": "เอโอรีมาถึงโรงเรียนวิทยาศาสตร์ฟอร์เวย์"
+ },
+ "f991cb0d5baf": {
+  "en": "Severino nods, then looks back at Harry with anguish in his eyes. \"Looks like you've been through a lot. I can tell. What's your name?\" Harry goes through his memories and decides to fake it. \"Desmond.\" \"Desmond, do you have any family?\" Harry shakes his head. \"I—I don't remember anyone.\" \"You're not the only one. If you stay and work with us, we'll give you a bed in the barn, and food.\" Harry nods. \"Thank you.\"",
+  "t": "เซเวรีโนพยักหน้า แล้วมองกลับมาที่แฮร์รีด้วยแววตาเจ็บปวด “ดูเหมือนนายผ่านอะไรมามาก ฉันดูออก นายชื่ออะไร?” แฮร์รีไล่ความทรงจำและตัดสินใจแต่งเรื่อง “เดสมอนด์” “เดสมอนด์ นายมีครอบครัวไหม?” แฮร์รีส่ายหัว “ฉัน—ฉันจำใครไม่ได้เลย” “นายไม่ใช่คนเดียว ถ้านายอยู่ทำงานกับเรา เราจะให้เตียงในโรงนา และอาหาร” แฮร์รีพยักหน้า “ขอบคุณ”"
+ },
+ "f99b4ff9d8e8": {
+  "en": "Ryo and the sisters in a Forway hotel room",
+  "t": "เรียวกับสองพี่น้องในห้องโรงแรมฟอร์เวย์"
+ },
+ "fa5f748b3415": {
+  "en": "Takeo confirms he has the Bagarisa, but he hasn't found the person people spoke of. He tells everyone to watch one another, and not to trust. Severino cuts in: they have a good grasp of the situation, so everyone should calm down. He explains that the other villages are coming to pick up their family and friends, and that anyone who lost their memories will get a hand, if they work their fair share. Takeo steps in: \"Unless you're a filthy bandit.\" Harry's heart skips as Takeo locks eyes with him.",
+  "t": "ทาเคโอะยืนยันว่ามีบาการิซา แต่ยังไม่พบคนที่ผู้คนพูดถึง เขาบอกให้ทุกคนจับตาดูกันและกัน และอย่าไว้ใจ เซเวรีโนแทรก: พวกเขาเข้าใจสถานการณ์ดีแล้ว ทุกคนจึงควรใจเย็น เขาอธิบายว่าหมู่บ้านอื่นกำลังมารับครอบครัวและเพื่อน และใครก็ตามที่เสียความทรงจำจะได้รับความช่วยเหลือ ถ้าทำงานตามส่วนที่ควร ทาเคโอะแทรก: “เว้นแต่จะเป็นโจรสกปรก” หัวใจแฮร์รีเต้นผิดจังหวะเมื่อทาเคโอะสบตาเขา"
+ },
+ "fb10e7c26c07": {
+  "en": "Eori's punishment begins at the Sanbi docks",
+  "t": "การลงโทษของเอโอรีเริ่มที่ท่าเรือซันบี"
+ },
+ "fb5ce58c919a": {
+  "en": "Harry says he's never been there—oh, wait, he doesn't have any memories of being there. \"Must be hard.\" Severino: \"Not sure I can call you my friend, since we only met yesterday and all, but let's say you're a strong acquaintance.\" Harry smiles. \"I like the sound of that!\"",
+  "t": "แฮร์รีบอกว่าไม่เคยไปที่นั่น—อ้อ เดี๋ยว เขาไม่มีความทรงจำว่าเคยไปที่นั่นต่างหาก “คงลำบากนะ” เซเวรีโน: “ไม่แน่ใจว่าจะเรียกนายว่าเพื่อนได้ไหม เพราะเราเพิ่งเจอกันเมื่อวานและอะไรทำนองนั้น แต่ถือว่านายเป็นคนรู้จักที่แน่นแฟ้นละกัน” แฮร์รียิ้ม “ฟังดูดีนะ!”"
+ },
+ "fc480b4ca18a": {
+  "en": "Yosuke's restaurant will be serving at the upcoming final <a href=\"/lore/pastimes/#homeegg\">Homeegg</a> tournament! Tomorrow they'll be closed to the public so that it's all hands on deck preparing food for it. If they wow everyone at the tournament, he'll knock an Amethyst off the uniform payment.",
+  "t": "ร้านอาหารของโยสุเกะจะได้ไปบริการในการแข่งขัน<a href=\"/lore/pastimes/#homeegg\">โฮมเอ้ก</a>รอบชิงชนะเลิศที่กำลังจะมาถึง! พรุ่งนี้จะปิดร้านไม่รับลูกค้า เพื่อระดมทุกคนเตรียมอาหารสำหรับงานนี้ ถ้าพวกเขาทำให้ทุกคนทึ่งในการแข่งขันได้ เขาจะหักอเมทิสต์หนึ่งเม็ดออกจากค่าชุดทำงาน"
+ },
+ "fd45d83d9488": {
+  "en": "Severino finds Takeo sitting calmly on the bed, Harry against the wall in pain, and the two bandits passed out",
+  "t": "เซเวรีโนเห็นทาเคโอะนั่งสงบบนเตียง แฮร์รีพิงกำแพงด้วยความเจ็บปวด และโจรสองคนหมดสติ"
+ },
+ "ff12ba0b3316": {
+  "en": "July: \"You sure you don't want to investigate Desmond?\" Takeo puts something in the cart. \"I already tasted his soul.\" July gives a girly laugh. \"So what? I tasted him too.\" Takeo looks impatient. \"I don't want to hear how your life got better as a girl.\"",
+  "t": "จูไล: “แน่ใจนะว่าไม่อยากสืบเรื่องเดสมอนด์?” ทาเคโอะใส่ของลงเกวียน “ฉันชิมวิญญาณเขาไปแล้ว” จูไลหัวเราะแบบสาวๆ “แล้วไง? ฉันก็ชิมเขาเหมือนกัน” ทาเคโอะดูหมดความอดทน “ฉันไม่อยากฟังว่าชีวิตเธอดีขึ้นยังไงตั้งแต่เป็นผู้หญิง”"
  }
 }

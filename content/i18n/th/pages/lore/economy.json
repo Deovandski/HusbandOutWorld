@@ -1,4 +1,8 @@
 {
+ "000a6bd9e4af": {
+  "en": "Tier V",
+  "t": "ระดับ V"
+ },
  "0054289dba33": {
   "en": "Before the Prosperity Treaty, Kingdom UOMs were all over the place, making trading harder and opening the door for sketchier traders to forge papers to evade authorities and rip off customers. Adrian, one of the courtroom scientists that overthrew all rulers at the end of The Greed Period, saw the treaty they were establishing as an opportunity to standardize all measurements based on using the most accurate one in existence—which happened to be the Tolerideme Kingdom, coincidentally where he was from. Gandew, of course, still uses their own to this day alongside the Vraki measurements. In contrast, everyone else's historical measurement implementations are now the type of knowledge that only historians care to know.",
   "t": "ก่อนสนธิสัญญาแห่งความรุ่งเรือง หน่วยวัดของแต่ละอาณาจักรยุ่งเหยิงไปหมด ทำให้การค้ายากขึ้นและเปิดช่องให้พ่อค้าที่น่าสงสัยปลอมเอกสารเพื่อเลี่ยงเจ้าหน้าที่และโกงลูกค้า เอเดรียน หนึ่งในนักวิทยาศาสตร์ประจำราชสำนักที่โค่นผู้ปกครองทั้งหมดเมื่อสิ้นยุคแห่งความโลภ มองเห็นสนธิสัญญาที่พวกเขากำลังสร้างเป็นโอกาสในการทำให้การวัดทั้งหมดเป็นมาตรฐาน โดยใช้ระบบที่แม่นยำที่สุดที่มีอยู่—ซึ่งบังเอิญเป็นของอาณาจักรโทเลอริดีม บังเอิญเป็นบ้านเกิดของเขาพอดี แกนดิวแน่นอนว่ายังใช้หน่วยของตัวเองควบคู่กับหน่วยวรากีจนถึงทุกวันนี้ ส่วนระบบการวัดในอดีตของคนอื่นๆ ตอนนี้กลายเป็นความรู้ที่มีแต่นักประวัติศาสตร์ที่สนใจ"
@@ -7,77 +11,301 @@
   "en": "10 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "อีก 10 รายการในหน้านี้มีเฉพาะใน <button class=\"linklike\" data-go-bts>เบื้องหลัง</button>"
  },
+ "015c979a68a6": {
+  "en": "<strong>Where it comes from:</strong> mined from Flatland City to Blood City, deep inside the mountains (about 1 km down).",
+  "t": "<strong>ที่มา:</strong> ขุดตั้งแต่เมืองแฟลตแลนด์ถึงเมืองบลัด ลึกเข้าไปในภูเขา (ลงไปราว 1 กม.)"
+ },
  "022aabbee753": {
   "en": "Vraki UOMs",
   "t": "หน่วยวัดวรากี"
+ },
+ "0326ae1448a0": {
+  "en": "Economic activity in Vraki comes from fauna, flora and beasts, and the goods and services made from them. It's divided into four economic regions, and comparative advantage decides which goods are worth exporting from one region to another.",
+  "t": "กิจกรรมทางเศรษฐกิจในวรากีมาจากสัตว์ พืช และสัตว์อสูร และสินค้าและบริการที่ทำจากสิ่งเหล่านั้น แบ่งเป็นสี่ภูมิภาคเศรษฐกิจ และความได้เปรียบเชิงเปรียบเทียบเป็นตัวตัดสินว่าสินค้าใดคุ้มที่จะส่งออกจากภูมิภาคหนึ่งไปอีกภูมิภาค"
+ },
+ "0351367464a7": {
+  "en": "Master, per day",
+  "t": "ช่างฝีมือ ต่อวัน"
  },
  "03ebd5a3d869": {
   "en": "*The name Vraki is a homage to ancient texts that portrayed Buhraies working hard to unify language across species.",
   "t": "*ชื่อวรากีเป็นการแสดงความเคารพต่อตำราโบราณที่บรรยายว่าบูไรส์ทำงานหนักเพื่อรวมภาษาของเผ่าพันธุ์ต่างๆ ให้เป็นหนึ่งเดียว"
  },
+ "057dea8c73ac": {
+  "en": "Hardness:",
+  "t": "ความแข็ง:"
+ },
+ "0d5c49323965": {
+  "en": "~3,300 km",
+  "t": "~3,300 กม."
+ },
+ "0e7f700547cb": {
+  "en": "<strong>Example:</strong> fanchaki farms are spread out everywhere, but Freeish and Blood have the comparative advantage for large-scale farming. Raising larger fanchakis (like Sanbi's experimental farm) costs more than their meat sells for.",
+  "t": "<strong>ตัวอย่าง:</strong> ฟาร์มฟานชากิกระจายอยู่ทุกที่ แต่ฟรีอิชและบลัดมีความได้เปรียบเชิงเปรียบเทียบในการทำฟาร์มขนาดใหญ่ การเลี้ยงฟานชากิตัวใหญ่ขึ้น (อย่างฟาร์มทดลองของซันบี) มีต้นทุนสูงกว่าราคาขายเนื้อของมัน"
+ },
+ "0f217179940c": {
+  "en": "Region",
+  "t": "ภูมิภาค"
+ },
+ "144301cf556b": {
+  "en": "The full numbers are in the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Distance Cost Calculator).",
+  "t": "ตัวเลขทั้งหมดอยู่ใน<a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">สเปรดชีตเศรษฐกิจ</a> (เครื่องคำนวณค่าใช้จ่ายตามระยะทาง)"
+ },
+ "15d14b4ee5c3": {
+  "en": "<strong>Hardness:</strong> 2.5 to 4.5",
+  "t": "<strong>ความแข็ง:</strong> 2.5 ถึง 4.5"
+ },
+ "15dded0b93d1": {
+  "en": "1 ball",
+  "t": "1 บอล"
+ },
+ "18000a4c2290": {
+  "en": "Tier II",
+  "t": "ระดับ II"
+ },
  "184272d237d3": {
   "en": "The most common currency is Pearls, which denotes the currency's minimum value. For reference, on an average working day, a gatherer of Gyut (a berry akin to Acerola) would earn one pearl per kg of berries picked (around thirty minutes to one hour of labor, depending on their efficiency.) Assuming a newbie gatherer worked for twelve hours, they would likely pay five pearls for a simple but hearty dinner with a mug of cheap beer, then another five for renting a humble hostel bed, with two pearls left over to save for tomorrow. Usually, one would use pearls for food or standard simple services like wagon rides for relatively short distances.",
   "t": "สกุลเงินที่พบบ่อยที่สุดคือเพิร์ล ซึ่งแสดงมูลค่าขั้นต่ำของสกุลเงิน เพื่อเป็นตัวอย่าง ในวันทำงานปกติ คนเก็บกยุต (ผลไม้คล้ายอะเซโรลา) จะได้หนึ่งเพิร์ลต่อผลไม้ที่เก็บได้หนึ่งกิโลกรัม (ทำงานประมาณสามสิบนาทีถึงหนึ่งชั่วโมง ขึ้นอยู่กับประสิทธิภาพ) สมมติว่าคนเก็บมือใหม่ทำงานสิบสองชั่วโมง เขาน่าจะจ่ายห้าเพิร์ลสำหรับมื้อเย็นเรียบง่ายแต่อิ่มท้องกับเบียร์ถูกๆ หนึ่งแก้ว แล้วอีกห้าสำหรับเช่าเตียงในหอพักธรรมดาๆ เหลือสองเพิร์ลเก็บไว้สำหรับวันพรุ่งนี้ โดยปกติคนจะใช้เพิร์ลซื้ออาหารหรือบริการง่ายๆ ทั่วไป เช่น นั่งเกวียนระยะทางค่อนข้างสั้น"
+ },
+ "1b22feb0c0c1": {
+  "en": "Between",
+  "t": "ระหว่าง"
+ },
+ "1cb449c11266": {
+  "en": "Members",
+  "t": "สมาชิก"
  },
  "1ef532cce6fe": {
   "en": "Amethyst",
   "t": "อเมทิสต์"
  },
+ "1fc3153191c2": {
+  "en": "~2,000 km",
+  "t": "~2,000 กม."
+ },
  "26287b561096": {
   "en": "Economy &amp; Units",
   "t": "เศรษฐกิจ &amp; หน่วย"
+ },
+ "279761c183c0": {
+  "en": "The average daily pay, for an average work day of 12 hours. Work time varies by job, and this doesn't account for jobs that depend on luck, like fishing.",
+  "t": "ค่าจ้างเฉลี่ยรายวัน สำหรับวันทำงานเฉลี่ย 12 ชั่วโมง เวลาทำงานแตกต่างตามอาชีพ และไม่รวมอาชีพที่ขึ้นกับโชค อย่างการตกปลา"
+ },
+ "27d92d43befe": {
+  "en": "Expenses take about 75% of earnings, so a Tier I worker keeps about 3 Pearls a day. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Salary Calculator).",
+  "t": "ค่าใช้จ่ายกินราว 75% ของรายได้ คนงานระดับ I จึงเหลือราว 3 เพิร์ลต่อวัน ดู<a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">สเปรดชีตเศรษฐกิจ</a> (เครื่องคำนวณค่าจ้าง)"
+ },
+ "28c0eafbd6ce": {
+  "en": "Over a year (73 weeks), that's 3,504 Pearls at Tier I, up to 35,040 for a Tier VI apprentice or 52,560 for a Tier VI master. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Salary Calculator).",
+  "t": "ตลอดหนึ่งปี (73 สัปดาห์) นั่นคือ 3,504 เพิร์ลที่ระดับ I สูงสุดถึง 35,040 สำหรับเด็กฝึกงานระดับ VI หรือ 52,560 สำหรับช่างฝีมือระดับ VI ดู<a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">สเปรดชีตเศรษฐกิจ</a> (เครื่องคำนวณค่าจ้าง)"
+ },
+ "2a32ad9fccf0": {
+  "en": "Freeish and Gandew regions",
+  "t": "ภูมิภาคฟรีอิชกับแกนดิว"
+ },
+ "33e4a381fa43": {
+  "en": "<strong>Size:</strong> slightly bigger than a fingernail, about 2 cm across.",
+  "t": "<strong>ขนาด:</strong> ใหญ่กว่าเล็บมือเล็กน้อย เส้นผ่านศูนย์กลางราว 2 ซม."
+ },
+ "34f93d99f29c": {
+  "en": "~3,000 km",
+  "t": "~3,000 กม."
+ },
+ "392c485a6389": {
+  "en": "~1,000 km",
+  "t": "~1,000 กม."
+ },
+ "3bae79216122": {
+  "en": "Forway, Flatland, Gandew, Sundeath",
+  "t": "ฟอร์เวย์ แฟลตแลนด์ แกนดิว ซันเดธ"
+ },
+ "438a2a268b29": {
+  "en": "Tier IV",
+  "t": "ระดับ IV"
  },
  "440282475500": {
   "en": "Amethyst ball: a purple faceted coin-like disc with golden swirling arms.",
   "t": "บอลอเมทิสต์: แผ่นกลมคล้ายเหรียญเจียระไนสีม่วงมีแขนสีทองหมุนวน"
  },
+ "442e401b464d": {
+  "en": "~4,000 km",
+  "t": "~4,000 กม."
+ },
  "467122e96ae1": {
   "en": "Aquamarine ball: a light-blue faceted coin-like disc with golden swirling arms.",
   "t": "บอลอความารีน: แผ่นกลมคล้ายเหรียญเจียระไนสีฟ้าอ่อนมีแขนสีทองหมุนวน"
+ },
+ "484b801fd210": {
+  "en": "<strong>Hardness:</strong> 7.5 to 8",
+  "t": "<strong>ความแข็ง:</strong> 7.5 ถึง 8"
+ },
+ "497865c53617": {
+  "en": "<strong>Worth:</strong> 10 Aquamarine, 100 Amethyst or 5,000 Pearls.",
+  "t": "<strong>มูลค่า:</strong> 10 อความารีน 100 อเมทิสต์ หรือ 5,000 เพิร์ล"
+ },
+ "4a9ba1f13c83": {
+  "en": "Minerals, Wooly and chitin",
+  "t": "แร่ วูลลี และไคติน"
  },
  "4b8a751f1630": {
   "en": "Public text: economy-uoms.md",
   "t": "ข้อความสาธารณะ: economy-uoms.md"
  },
+ "50870d79e6f4": {
+  "en": "Tier I",
+  "t": "ระดับ I"
+ },
  "52086129a3b5": {
   "en": "Sapphire",
   "t": "แซฟไฟร์"
+ },
+ "5396c116b2e2": {
+  "en": "<strong>What it buys:</strong> custom-crafted armor and weapons, or good gear in general; a young tamed egua; an adult tamed Big Winga; well-protected, guarded travel; fancier hotels; fundamental education; fancy clothing, usually with gold or precious-metal details; Tier VI to VIII Soul Energy. For some people, it's their entire life savings.",
+  "t": "<strong>ซื้ออะไรได้:</strong> ชุดเกราะและอาวุธสั่งทำ หรืออุปกรณ์ดีๆ ทั่วไป เอกัวเชื่องตัวเล็ก บิ๊กวิงกาเชื่องที่โตเต็มวัย การเดินทางที่มีการคุ้มกันและอารักขาอย่างดี โรงแรมหรูกว่า การศึกษาพื้นฐาน เสื้อผ้าหรู ปกติมีรายละเอียดทองหรือโลหะมีค่า พลังวิญญาณระดับ VI ถึง VIII สำหรับบางคน มันคือเงินเก็บทั้งชีวิต"
+ },
+ "5957b01cfd38": {
+  "en": "Forway, Sanbi, Waterfall, Triangle, Tastyleaf, Endlessfog",
+  "t": "ฟอร์เวย์ ซันบี วอเตอร์ฟอลล์ ไทรแองเกิล เทสตีลีฟ เอนด์เลสฟอก"
+ },
+ "59eb58190849": {
+  "en": "Gandew and Sanbi regions",
+  "t": "ภูมิภาคแกนดิวกับซันบี"
+ },
+ "5f618a292277": {
+  "en": "Master, per hour",
+  "t": "ช่างฝีมือ ต่อชั่วโมง"
+ },
+ "634a223bb76e": {
+  "en": "Balls are the common currency of the four kingdoms (Tolerideme, the Sanbi Kingdom, the Freeish Kingdom and the Gandew Kingdom) and all the participating cities around them. The Prosperity Treaty introduced them in Section #3, since bartering is forbidden between the treaty's parties. Balls are made throughout the kingdom, and the city or kingdom's embassy oversees their manufacturing.",
+  "t": "บอลคือสกุลเงินกลางของสี่อาณาจักร (โทเลอริดีม อาณาจักรซันบี อาณาจักรฟรีอิช และอาณาจักรแกนดิว) และทุกเมืองที่เข้าร่วมรอบๆ สนธิสัญญาแห่งความรุ่งเรืองนำมาใช้ในมาตรา #3 เพราะการแลกเปลี่ยนสิ่งของเป็นสิ่งต้องห้ามระหว่างภาคีของสนธิสัญญา บอลถูกผลิตทั่วทั้งอาณาจักร และสถานทูตของเมืองหรืออาณาจักรเป็นผู้กำกับดูแลการผลิต"
+ },
+ "6ab35da38a12": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Economy.md\">Legacy/Behind The Scenes/World Lore/Economy.md</a>",
+  "t": "แหล่งที่มา: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Economy.md\">Legacy/Behind The Scenes/World Lore/Economy.md</a>"
+ },
+ "6ea75f6d8e5e": {
+  "en": "Sanbi and Tolerideme regions",
+  "t": "ภูมิภาคซันบีกับโทเลอริดีม"
+ },
+ "70a1618f804e": {
+  "en": "There are four balls. From the most valuable:",
+  "t": "มีบอลสี่ชนิด เรียงจากมีค่าที่สุด:"
  },
  "73deb2e5251c": {
   "en": "Aquamarine",
   "t": "อความารีน"
  },
+ "7465c0ac951d": {
+  "en": "Tier VI",
+  "t": "ระดับ VI"
+ },
+ "75f16b9dcc19": {
+  "en": "Economical Regions",
+  "t": "ภูมิภาคเศรษฐกิจ"
+ },
+ "77d1f61d0852": {
+  "en": "Comparative Advantage",
+  "t": "ความได้เปรียบเชิงเปรียบเทียบ"
+ },
+ "78f3842f0201": {
+  "en": "Master",
+  "t": "ช่างฝีมือ"
+ },
  "7927d99fd832": {
   "en": "Pearl",
   "t": "เพิร์ล"
+ },
+ "798f64e2c7a7": {
+  "en": "Balls Currency",
+  "t": "สกุลเงินบอล"
+ },
+ "7baec53c6c26": {
+  "en": "Gandew and Tolerideme regions",
+  "t": "ภูมิภาคแกนดิวกับโทเลอริดีม"
  },
  "7e1741308837": {
   "en": "087 (images illustration)",
   "t": "087 (ภาพประกอบ)"
  },
+ "7e8548c30fef": {
+  "en": "Economy",
+  "t": "เศรษฐกิจ"
+ },
  "7f5bd97d3d97": {
   "en": "Balls are the standardized currency as determined by the Prosperity Treaty. Each ball is about the size of a marble and is encrusted by the golden circular metallic decoration that protects the mineral inside and makes it harder to counterfeit or tamper with.",
   "t": "บอลเป็นสกุลเงินมาตรฐานตามที่สนธิสัญญาแห่งความรุ่งเรืองกำหนด บอลแต่ละลูกมีขนาดประมาณลูกแก้ว และหุ้มด้วยลวดลายโลหะวงกลมสีทองที่ปกป้องแร่ด้านในและทำให้ปลอมแปลงหรือดัดแปลงได้ยากขึ้น"
+ },
+ "8010f7aa2e17": {
+  "en": "<strong>What it buys:</strong> common food and beer; a day's lodging in a hostel or cheap hotel; bargain armor and weapons; hay for an egua; travel by wagon (less comfortable and less protected); utensils; used clothing (sometimes with wear and tear) or very cheap clothing; most nari gels at weak effect tiers; Tier I to III Soul Energy; paper, ink, etc.",
+  "t": "<strong>ซื้ออะไรได้:</strong> อาหารและเบียร์ทั่วไป ที่พักหนึ่งวันในโฮสเทลหรือโรงแรมราคาถูก ชุดเกราะและอาวุธราคาถูก หญ้าแห้งสำหรับเอกัว การเดินทางด้วยเกวียน (สบายน้อยกว่าและคุ้มกันน้อยกว่า) เครื่องใช้ เสื้อผ้ามือสอง (บางครั้งมีรอยสึกหรอ) หรือเสื้อผ้าราคาถูกมาก เจลนาริส่วนใหญ่ที่ระดับผลอ่อน พลังวิญญาณระดับ I ถึง III กระดาษ หมึก ฯลฯ"
  },
  "813681598d7d": {
   "en": "Sapphire ball: a deep-blue faceted coin-like disc with golden swirling arms.",
   "t": "บอลแซฟไฟร์: แผ่นกลมคล้ายเหรียญเจียระไนสีน้ำเงินเข้มมีแขนสีทองหมุนวน"
  },
+ "87565be67953": {
+  "en": "Daily Salary",
+  "t": "ค่าจ้างรายวัน"
+ },
+ "8a842f1db687": {
+  "en": "Weekly Salary",
+  "t": "ค่าจ้างรายสัปดาห์"
+ },
  "8bc2bd89c625": {
   "en": "Economy & Units · #HusbandOutWorld",
   "t": "เศรษฐกิจ &amp; หน่วย · #HusbandOutWorld"
+ },
+ "8de8b2b021b0": {
+  "en": "<strong>Worth:</strong> 50 Pearls.",
+  "t": "<strong>มูลค่า:</strong> 50 เพิร์ล"
+ },
+ "93e739da0daa": {
+  "en": "<strong>Worth:</strong> 10 Amethyst or 500 Pearls.",
+  "t": "<strong>มูลค่า:</strong> 10 อเมทิสต์ หรือ 500 เพิร์ล"
+ },
+ "969e1d31bffe": {
+  "en": "<strong>Worth:</strong> the lowest ball; the others are counted in Pearls.",
+  "t": "<strong>มูลค่า:</strong> บอลที่ต่ำที่สุด บอลอื่นนับเป็นเพิร์ล"
  },
  "9a3c5c2b363f": {
   "en": "If you gather fifty Pearls, then you can trade it for a single Amethyst. Some books can be as low as a single amethyst if the janky ass printing presses back at Forway work well, but most people would use their amethyst to buy household items like fost lamps or live animals like a tamed Winga or pay their rent. Some clothing can be found for a few amethysts, but don’t expect them to be a pussy (or dick) magnet. You could skip the flatteries and just go to a brothel after drinking a few beers instead of not paying much attention to what you’re stuffing or being stuffed by. If you want to use your balls on something else instead, buy some nari gels, nari stones, or better lodging!",
   "t": "ถ้าคุณสะสมเพิร์ลได้ห้าสิบ ก็แลกเป็นอเมทิสต์ได้หนึ่ง หนังสือบางเล่มราคาต่ำได้ถึงหนึ่งอเมทิสต์ ถ้าแท่นพิมพ์ห่วยๆ ที่ฟอร์เวย์ทำงานดี แต่คนส่วนใหญ่จะใช้อเมทิสต์ซื้อของใช้ในบ้าน เช่น ตะเกียงฟอสต์ หรือสัตว์มีชีวิต เช่น วิงกาที่เชื่องแล้ว หรือจ่ายค่าเช่า เสื้อผ้าบางชุดก็หาได้ในราคาไม่กี่อเมทิสต์ แต่อย่าหวังว่ามันจะเป็นแม่เหล็กดูดสาว (หรือดูดหนุ่ม) คุณข้ามคำเยินยอแล้วไปซ่องหลังดื่มเบียร์สักสองสามแก้วก็ได้ แทนที่จะไม่ค่อยใส่ใจว่ากำลังยัดอะไรหรือโดนอะไรยัด ถ้าอยากใช้บอลกับอย่างอื่นแทน ก็ซื้อเจลนาริ หินนาริ หรือที่พักที่ดีกว่าสิ!"
  },
+ "9e1b38d9dd9c": {
+  "en": "<strong>What it buys:</strong> 1 nari stone; common household items like a table or fost lamps; fancier food and drinks; average armor and weapons; a better travel experience; maps (more complex ones cost an Aquamarine); average lodging, often with breakfast; new cheap clothing, or somewhat more refined clothing; most nari gels at higher effect tiers; Tier IV to VI Soul Energy; sigil rings; a Winga companion.",
+  "t": "<strong>ซื้ออะไรได้:</strong> หินนาริ 1 ก้อน ของใช้ในบ้านทั่วไปอย่างโต๊ะหรือตะเกียงฟอสต์ อาหารและเครื่องดื่มหรูกว่า ชุดเกราะและอาวุธระดับกลาง ประสบการณ์การเดินทางที่ดีกว่า แผนที่ (แบบซับซ้อนกว่าราคาหนึ่งอความารีน) ที่พักระดับกลาง มักมีอาหารเช้า เสื้อผ้าใหม่ราคาถูก หรือเสื้อผ้าที่ประณีตขึ้นมาหน่อย เจลนาริส่วนใหญ่ที่ระดับผลสูงกว่า พลังวิญญาณระดับ IV ถึง VI แหวนซิจิล เพื่อนร่วมทางวิงกา"
+ },
  "9e4f472331f2": {
   "en": "088 (images illustration)",
   "t": "088 (ภาพประกอบ)"
  },
+ "a155061e792a": {
+  "en": "Forway, Triangle, Deltacross, Freeish, Blood, Sweetlake, Sundeath",
+  "t": "ฟอร์เวย์ ไทรแองเกิล เดลตาครอส ฟรีอิช บลัด สวีตเลก ซันเดธ"
+ },
+ "a97fc84fe87e": {
+  "en": "Domar Carbey, Wood People and Wingas",
+  "t": "โดมาร์คาร์บีย์ วูดพีเพิล และวิงกา"
+ },
  "af2c8b7ef70a": {
   "en": "Pearl ball: a pale cream coin-like disc with golden swirling arms.",
   "t": "บอลเพิร์ล: แผ่นกลมคล้ายเหรียญสีครีมอ่อนมีแขนสีทองหมุนวน"
+ },
+ "afa77f1b0017": {
+  "en": "Forway, Tolerideme, Waterfall, Tastyleaf, Wingarest",
+  "t": "ฟอร์เวย์ โทเลอริดีม วอเตอร์ฟอลล์ เทสตีลีฟ วิงกาเรสต์"
+ },
+ "b0e7db565d4b": {
+  "en": "Pearls",
+  "t": "เพิร์ล"
+ },
+ "b59f457aba63": {
+  "en": "Sanbi, fish-related products, etc.",
+  "t": "ซันบี ผลิตภัณฑ์เกี่ยวกับปลา ฯลฯ"
+ },
+ "bca7fc3d041e": {
+  "en": "Tier III",
+  "t": "ระดับ III"
  },
  "c0d962e3dfae": {
   "en": "You somehow got ten Aquamarines? Damm. You could trade that in for shiny Saphire. This is the scale of balls where you can obtain specialized education for you or your children. Depending on their worth, you can have someone bend to your will with life-long contracts in the tens if not hundreds of sapphires. Or you can buy properties and even guilds! The world is yours! But depending on where you go, you will need to hire adventurers to serve you as bodyguards, as some miscreants will love to have a chat with you. Or wear fake skin, and none would be the wiser.",
@@ -87,16 +315,84 @@
   "en": "And if you somehow saved ten amethysts, then you can trade for a single aquamarine. You fancy! Don’t walk around showing it off, or some miscreant might request a “compulsory loan to keep you alive! You could buy a small egua for that price! Or even a tamed Big Winga! Or you can invest in yourself by enrolling at a local fundamental education school to open the door to new opportunities. If that’s not your thing, then you could do all the things amethysts can, but fancier. Fancier clothing, fancier hoes, and fancier beer too. Some people’s life savings amounts to one or a couple of aquamarines, so",
   "t": "และถ้าคุณเก็บได้สิบอเมทิสต์ ก็แลกเป็นอความารีนได้หนึ่ง หรูไปเลย! อย่าเดินอวดไปทั่ว ไม่งั้นอาจมีคนเลวขอ “เงินกู้ภาคบังคับเพื่อให้คุณมีชีวิตรอด! คุณซื้อเอกัวตัวเล็กได้ในราคานั้น! หรือแม้แต่บิ๊กวิงกาที่เชื่องแล้ว! หรือจะลงทุนกับตัวเองด้วยการสมัครเรียนโรงเรียนการศึกษาพื้นฐานในท้องถิ่นเพื่อเปิดประตูสู่โอกาสใหม่ ถ้าไม่ใช่สไตล์คุณ ก็ทำทุกอย่างที่อเมทิสต์ทำได้ แต่หรูกว่า เสื้อผ้าหรูกว่า โสเภณีหรูกว่า และเบียร์หรูกว่าด้วย เงินเก็บทั้งชีวิตของบางคนมีแค่หนึ่งหรือสองอความารีน ดังนั้น"
  },
+ "c73383dce58f": {
+  "en": "Pearls per week",
+  "t": "เพิร์ลต่อสัปดาห์"
+ },
+ "c8813ecb9014": {
+  "en": "The price covers more than the egua's work. On rough routes, cargo goes on a pack egua's back: up to about 150 kg, at about 30 km a day (about 65 km a day when ridden). Where the roads allow carts, one egua pulls far more (about 900 kg on a dirt road, about 1,800 kg on a good road; see <a href=\"/lore/fauna/#egua--load-and-strain\">Load and strain</a> on the Egua), so hauling gets cheaper. Shipping prices stay the same anyway, because they also pay for protection, insurance and the shipper's profit.",
+  "t": "ราคาครอบคลุมมากกว่าแรงงานของเอกัว บนเส้นทางขรุขระ สินค้าไปบนหลังเอกัวบรรทุก: ได้ถึงราว 150 กก. ที่ราว 30 กม. ต่อวัน (ราว 65 กม. ต่อวันเมื่อขี่) ที่ที่ถนนให้ใช้เกวียนได้ เอกัวหนึ่งตัวลากได้มากกว่ามาก (ราว 900 กก. บนถนนดิน ราว 1,800 กก. บนถนนดี ดู <a href=\"/lore/fauna/#egua--load-and-strain\">ภาระและความตึง</a> ในหัวข้อเอกัว) การขนจึงถูกลง แต่ค่าส่งก็ยังเท่าเดิมอยู่ดี เพราะยังจ่ายค่าคุ้มกัน ค่าประกัน และกำไรของผู้ส่งด้วย"
+ },
  "cfd2d2068e7f": {
   "en": "Economy &amp; Units · #HusbandOutWorld",
   "t": "เศรษฐกิจ &amp; หน่วย · #HusbandOutWorld"
+ },
+ "db19b0df6fcb": {
+  "en": "Forway is part of all four regions, and so is any village within a region's shared boundaries. A few cities sit in two.",
+  "t": "ฟอร์เวย์เป็นส่วนหนึ่งของทั้งสี่ภูมิภาค และหมู่บ้านใดก็ตามที่อยู่ในเขตแดนร่วมของภูมิภาคก็เช่นกัน บางเมืองอยู่ในสองภูมิภาค"
+ },
+ "dc7ecc031030": {
+  "en": "<strong>Moving goods.</strong> Shipping costs about 1 Pearl per kg for every 120 km for Tier I (cheap) goods, 84 km for Tier II (common), 58.8 km for Tier III (expensive) and 29.4 km for Tier IV (nobility).",
+  "t": "<strong>การขนส่งสินค้า</strong> ค่าส่งราว 1 เพิร์ลต่อ กก. ทุก 120 กม. สำหรับสินค้าระดับ I (ราคาถูก) 84 กม. สำหรับระดับ II (ทั่วไป) 58.8 กม. สำหรับระดับ III (แพง) และ 29.4 กม. สำหรับระดับ IV (ชนชั้นสูง)"
+ },
+ "dedff028b5cd": {
+  "en": "<strong>Where it comes from:</strong> fishermen from Sanbi gathered them at first, but once the Cruros showed up, it became their task, since it was close to free labor.",
+  "t": "<strong>ที่มา:</strong> ตอนแรกชาวประมงจากซันบีเป็นคนเก็บ แต่เมื่อครูโรปรากฏตัว มันก็กลายเป็นงานของพวกมัน เพราะแทบเป็นแรงงานฟรี"
  },
  "e159c87db02d": {
   "en": "Balls are the standardized currency as determined by the Prosperity Treaty.",
   "t": "บอลเป็นสกุลเงินมาตรฐานตามที่สนธิสัญญาแห่งความรุ่งเรืองกำหนด"
  },
+ "e22cccd20b15": {
+  "en": "Apprentice",
+  "t": "เด็กฝึกงาน"
+ },
+ "e4bd9e6e33ad": {
+  "en": "To get a feel for the value, the author's spreadsheet counts 1 Pearl as about 1 US dollar.",
+  "t": "เพื่อให้เห็นภาพมูลค่า สเปรดชีตของผู้เขียนนับ 1 เพิร์ลเท่ากับราว 1 ดอลลาร์สหรัฐ"
+ },
+ "e531fa700ac9": {
+  "en": "Freeish and Tolerideme regions",
+  "t": "ภูมิภาคฟรีอิชกับโทเลอริดีม"
+ },
+ "e68b25011dad": {
+  "en": "The average weekly pay assumes pay for every work day: 4 a week, with Forrday off. Some professions don't accrue pay on days off.",
+  "t": "ค่าจ้างเฉลี่ยรายสัปดาห์คิดว่าได้ค่าจ้างทุกวันทำงาน: สัปดาห์ละ 4 วัน หยุดวันฟอร์เดย์ บางอาชีพไม่ได้ค่าจ้างในวันหยุด"
+ },
+ "e752de704b66": {
+  "en": "Mainly exports",
+  "t": "ส่งออกหลัก"
+ },
  "eb60618ad04c": {
   "en": "Sigil Rings",
   "t": "แหวนซิจิล"
+ },
+ "ec5ccdb787af": {
+  "en": "A ton of flora and fauna",
+  "t": "พืชและสัตว์มหาศาล"
+ },
+ "ee4f72170e2b": {
+  "en": "<strong>What it buys:</strong> a fully grown tamed egua, properties, slavery contracts, guilds, specialized education, Tier IX+ Soul Energy.",
+  "t": "<strong>ซื้ออะไรได้:</strong> เอกัวเชื่องที่โตเต็มที่ ทรัพย์สิน สัญญาทาส กิลด์ การศึกษาเฉพาะทาง พลังวิญญาณระดับ IX ขึ้นไป"
+ },
+ "f0d211264deb": {
+  "en": "Apprentice, per hour",
+  "t": "เด็กฝึกงาน ต่อชั่วโมง"
+ },
+ "f118bc6e6f02": {
+  "en": "Freeish and Sanbi regions",
+  "t": "ภูมิภาคฟรีอิชกับซันบี"
+ },
+ "f2ddf5a1dc47": {
+  "en": "Pay in Pearls, by Profession Tier:",
+  "t": "ค่าจ้างเป็นเพิร์ล ตามระดับอาชีพ:"
+ },
+ "fb18d7612151": {
+  "en": "Apprentice, per day",
+  "t": "เด็กฝึกงาน ต่อวัน"
+ },
+ "fb2d8283aad6": {
+  "en": "A region has a comparative advantage when its members can carry out a particular economic activity more efficiently than another region's. The Distance Cost Tier (D.C.T, the cost of moving goods) must be accounted for before claiming one either way.",
+  "t": "ภูมิภาคหนึ่งมีความได้เปรียบเชิงเปรียบเทียบเมื่อสมาชิกของมันทำกิจกรรมทางเศรษฐกิจบางอย่างได้มีประสิทธิภาพกว่าของอีกภูมิภาค ต้องคิดระดับค่าใช้จ่ายตามระยะทาง (D.C.T ค่าขนส่งสินค้า) ก่อนจะอ้างว่ามีหรือไม่มี"
  }
 }

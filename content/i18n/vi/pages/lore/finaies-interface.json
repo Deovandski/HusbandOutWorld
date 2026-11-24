@@ -1,7 +1,27 @@
 {
+ "0a2af398fe47": {
+  "en": "Ice",
+  "t": "Băng"
+ },
+ "0a48d44e337c": {
+  "en": "<strong>Shape the spell.</strong> Draw its logogram in the air (see Language › Finaies Interface Language), then hold the left hand's two fingers with the other hand for the element to appear.",
+  "t": "<strong>Định hình phép.</strong> Vẽ ký tự của nó lên không trung (xem Ngôn ngữ › Ngôn ngữ Giao diện Finaies), rồi dùng tay kia giữ hai ngón của tay trái để nguyên tố xuất hiện."
+ },
+ "1273827574a8": {
+  "en": "Ash",
+  "t": "Tro"
+ },
+ "142b5758f344": {
+  "en": "Wind",
+  "t": "Gió"
+ },
  "2359f9fd7d5a": {
   "en": "The primordial interface of what we know as the Darfaries interface nowadays. Some say it’s the start of all interfaces as well, but that never left the ranting books of scientists as proof of that has been quite elusive.",
   "t": "Giao diện nguyên thủy của thứ mà ngày nay chúng ta gọi là giao diện Darfaries. Một số người nói đó cũng là khởi nguồn của mọi giao diện, nhưng điều đó chưa bao giờ ra khỏi những cuốn sách hằn học của các nhà khoa học vì bằng chứng cho điều đó khá khó nắm bắt."
+ },
+ "2d2b9fe1f9fe": {
+  "en": "Creates a ball of lava.",
+  "t": "Tạo ra một quả cầu dung nham."
  },
  "2d56d7adc9a6": {
   "en": "Finaies Interface · #HusbandOutWorld",
@@ -15,16 +35,140 @@
   "en": "Why is the interface symbology so small and specific? The consensus believes that it is related to the nature-focused and simplistic minds of Finaies.",
   "t": "Tại sao hệ ký hiệu của giao diện lại nhỏ và cụ thể đến vậy? Quan điểm chung tin rằng điều này liên quan đến tâm trí đơn giản và gắn với thiên nhiên của Finaies."
  },
+ "3749c8439c7a": {
+  "en": "Storm",
+  "t": "Bão"
+ },
+ "4a00822dbc67": {
+  "en": "Ball size (cm)",
+  "t": "Kích thước quả cầu (cm)"
+ },
+ "4c32a85dc8ec": {
+  "en": "Creates a ball of mud.",
+  "t": "Tạo ra một quả cầu bùn."
+ },
+ "4d1dbb53b348": {
+  "en": "<strong>Hold.</strong> Keep the fingers clenched to power up the holding hand. The longer you hold, the stronger the spell, and the more soul energy it costs. Other Finaies can touch you to give you soul energy and power the spell up faster.",
+  "t": "<strong>Giữ.</strong> Giữ các ngón tay siết chặt để nạp sức cho bàn tay đang giữ. Giữ càng lâu, phép càng mạnh, và càng tốn nhiều năng lượng linh hồn. Những người Finaies khác có thể chạm vào bạn để truyền năng lượng linh hồn và nạp phép nhanh hơn."
+ },
+ "4ebc18247e08": {
+  "en": "Steam",
+  "t": "Hơi nước"
+ },
+ "4f3226d88153": {
+  "en": "Creates a ball of wind.",
+  "t": "Tạo ra một quả cầu gió."
+ },
+ "604b6f188c5d": {
+  "en": "Creates a ball of water.",
+  "t": "Tạo ra một quả cầu nước."
+ },
+ "64a9807143ef": {
+  "en": "Creates a ball of ice.",
+  "t": "Tạo ra một quả cầu băng."
+ },
+ "674982955154": {
+  "en": "Shock",
+  "t": "Điện giật"
+ },
+ "78baebfcb4b5": {
+  "en": "Fire",
+  "t": "Lửa"
+ },
+ "7914569e33cc": {
+  "en": "The ball's size follows the General Power Effects: 0.1 cm at Tier I, doubling with every tier.",
+  "t": "Kích thước quả cầu theo Hiệu ứng Sức mạnh Chung: 0,1 cm ở Bậc I, gấp đôi qua mỗi bậc."
+ },
+ "795fe475b669": {
+  "en": "Spells in this category are released in the air, or as a projectile if you cock your arm back and release the spell as you push it forward.",
+  "t": "Các phép trong nhóm này được giải phóng vào không khí, hoặc như một đường đạn nếu bạn co tay lại và giải phóng phép khi đẩy tay về phía trước."
+ },
+ "7ef5d32f52cd": {
+  "en": "Creates a ball of ash.",
+  "t": "Tạo ra một quả cầu tro."
+ },
+ "8017fe7bff1c": {
+  "en": "Creates a ball of shock.",
+  "t": "Tạo ra một quả cầu điện giật."
+ },
+ "8820d95a1ff1": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Finaies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Finaies Interface.md</a>",
+  "t": "Nguồn: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Finaies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Finaies Interface.md</a>"
+ },
  "8a7ee68cd8b1": {
   "en": "Unlike complex casting rituals of specific interfaces such as Darfaries and Buhraies, their interface resembles animals like Bagarisa. The casting is done with a simple, singular hand movement matching the desired output, and voila! The spell comes out swiftly and aggressively out of their stubbed hands.",
   "t": "Không giống những nghi thức thi triển phức tạp của các giao diện cụ thể như Darfaries và Buhraies, giao diện của họ giống của những loài vật như Bagarisa. Việc thi triển được thực hiện bằng một cử động tay đơn giản, duy nhất phù hợp với kết quả mong muốn, và thế là xong! Phép thuật phóng ra nhanh và dữ dội từ đôi bàn tay mập ngắn của họ."
+ },
+ "8be71aeae090": {
+  "en": "Creates a ball of frozen earth.",
+  "t": "Tạo ra một quả cầu đất đóng băng."
+ },
+ "8d45a32dc1bd": {
+  "en": "Soul Energy - Finaies Interface (World Lore illustration)",
+  "t": "Năng lượng linh hồn - Giao diện Finaies (Minh họa Thế giới quan)"
+ },
+ "9134ec5b6078": {
+  "en": "Creates a ball of fire.",
+  "t": "Tạo ra một quả cầu lửa."
+ },
+ "95a1423259bb": {
+  "en": "Creates a ball of earth.",
+  "t": "Tạo ra một quả cầu đất."
+ },
+ "9c0cf1058f68": {
+  "en": "Frozen Earth",
+  "t": "Đất đóng băng"
+ },
+ "a074430f352b": {
+  "en": "Earth",
+  "t": "Đất"
+ },
+ "a1b06dfc3df5": {
+  "en": "<strong>Release.</strong> Separate your fingers to release the spell, or cock your arm back for a ranged attack.",
+  "t": "<strong>Giải phóng.</strong> Tách các ngón tay ra để giải phóng phép, hoặc co tay lại để tấn công tầm xa."
+ },
+ "b9a3fb9ac695": {
+  "en": "Lava",
+  "t": "Dung nham"
+ },
+ "ca30ca77ff43": {
+  "en": "In short: draw the spell in the air, hold to charge it, then release.",
+  "t": "Nói ngắn gọn: vẽ phép lên không trung, giữ để nạp, rồi giải phóng."
  },
  "cbf8ef1393dd": {
   "en": "The primordial interface of what we know as the Darfaries interface nowadays.",
   "t": "Giao diện nguyên thủy của thứ mà ngày nay chúng ta gọi là giao diện Darfaries."
  },
+ "cfad124318ab": {
+  "en": "Creates a ball of dust.",
+  "t": "Tạo ra một quả cầu bụi."
+ },
+ "de9b1be49dae": {
+  "en": "Water",
+  "t": "Nước"
+ },
  "e0f540f92c72": {
   "en": "Casting",
   "t": "Thi triển"
+ },
+ "eaff7cfcc0b1": {
+  "en": "Mud",
+  "t": "Bùn"
+ },
+ "f596e6062c48": {
+  "en": "Dust",
+  "t": "Bụi"
+ },
+ "f74808bef3bb": {
+  "en": "Creates a ball of steam.",
+  "t": "Tạo ra một quả cầu hơi nước."
+ },
+ "fbe443348c64": {
+  "en": "Creates a ball of storm.",
+  "t": "Tạo ra một quả cầu bão."
+ },
+ "fd20e268a43c": {
+  "en": "A natural evolution of the Finaies that lets them use a basic, elemental soul energy interface. A Finaies draws the spell's logogram in the air with the left hand, and soul energy shapes the spell from that movement. Finaies hands have only two fingers, branch-like.",
+  "t": "Một sự tiến hóa tự nhiên của người Finaies cho phép họ dùng một giao diện năng lượng linh hồn nguyên tố cơ bản. Một người Finaies vẽ ký tự của phép lên không trung bằng tay trái, và năng lượng linh hồn định hình phép từ chuyển động đó. Bàn tay người Finaies chỉ có hai ngón, giống cành cây."
  }
 }
