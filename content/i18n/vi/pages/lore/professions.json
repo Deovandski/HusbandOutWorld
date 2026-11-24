@@ -79,6 +79,14 @@
   "en": "Tier VI Professions",
   "t": "Nghề Bậc VI"
  },
+ "0f2afddf1f32": {
+  "en": "<strong>Duties:</strong> extract stone from quarries.",
+  "t": "<strong>Nhiệm vụ:</strong> khai thác đá từ mỏ đá."
+ },
+ "118ca2335b44": {
+  "en": "<strong>Duties:</strong> prepare for fishing, fish, clean the fish and carry it off the boat.",
+  "t": "<strong>Nhiệm vụ:</strong> chuẩn bị đi đánh cá, đánh cá, làm sạch cá và mang nó xuống thuyền."
+ },
  "1247f153760d": {
   "en": "Tier II Professions",
   "t": "Nghề Bậc II"
@@ -147,6 +155,10 @@
   "en": "Famous Courtesans",
   "t": "Kỹ nữ nổi tiếng"
  },
+ "2be7482d961c": {
+  "en": "<strong>Duties:</strong> plow fields, harvest, fertilize and mill grain.",
+  "t": "<strong>Nhiệm vụ:</strong> cày ruộng, thu hoạch, bón phân và xay ngũ cốc."
+ },
  "2c74044a7e3b": {
   "en": "<strong>Duties:</strong> handle livestock and crops, and get dirty on the job. Maybe handle a person or two, but usually just guild members.",
   "t": "<strong>Nhiệm vụ:</strong> quản lý gia súc và cây trồng, và lấm lem khi làm việc. Có thể quản lý một hai người, nhưng thường chỉ là thành viên trong hội."
@@ -187,6 +199,10 @@
   "en": "Tier V Professions",
   "t": "Nghề Bậc V"
  },
+ "32c032c2d5a1": {
+  "en": "<strong>Duties:</strong> take care of eguas, groom and feed them, and help with egua births.",
+  "t": "<strong>Nhiệm vụ:</strong> chăm sóc egua, chải lông và cho chúng ăn, và giúp egua sinh nở."
+ },
  "32ed08835c99": {
   "en": "Lumberjack",
   "t": "Tiều phu"
@@ -215,6 +231,10 @@
   "en": "<strong>Duties:</strong> fix and clean boats.",
   "t": "<strong>Nhiệm vụ:</strong> sửa và lau chùi thuyền."
  },
+ "39973efcf6c4": {
+  "en": "<strong>History:</strong> richer districts of cities and kingdoms often employ street cleaners, usually paid by the people living in the area rather than the government (depending on how the kingdom is organized).",
+  "t": "<strong>Lịch sử:</strong> các khu giàu có hơn của thành phố và vương quốc thường thuê người quét đường, thường do người dân sống trong khu vực trả tiền chứ không phải chính quyền (tùy cách tổ chức của vương quốc)."
+ },
  "3aa5b22c7b20": {
   "en": "The third richest people in the world. Their power reaches a city at most.",
   "t": "Những người giàu thứ ba trên thế giới. Quyền lực của họ vươn tới nhiều nhất là một thành phố."
@@ -234,6 +254,10 @@
  "3de66eb212b0": {
   "en": "<strong>Training:</strong> Fundamental School helps, but this is self-employed, so you do you.",
   "t": "<strong>Đào tạo:</strong> Trường Cơ bản có ích, nhưng đây là tự kinh doanh, nên cứ làm theo cách của bạn."
+ },
+ "3f5701b74569": {
+  "en": "<strong>History:</strong> people like meat, so someone needs to gut the animals and make sausages.",
+  "t": "<strong>Lịch sử:</strong> người ta thích thịt, nên cần có ai đó mổ bụng con vật và làm xúc xích."
  },
  "4023098315ae": {
   "en": "Road Maintainers",
@@ -287,6 +311,10 @@
   "en": "<strong>Duties:</strong> keep the balance between food orders and meat and milk sales, etc. Also takes care of the Woolies when time allows.",
   "t": "<strong>Nhiệm vụ:</strong> giữ cân bằng giữa đơn đặt thức ăn và việc bán thịt, sữa, v.v. Đồng thời chăm sóc Wooly khi có thời gian."
  },
+ "4a3cac295494": {
+  "en": "<strong>Duties:</strong> clean latrines.",
+  "t": "<strong>Nhiệm vụ:</strong> dọn nhà xí."
+ },
  "4a693b717f91": {
   "en": "<strong>Duties:</strong> take care of the kingdom, working directly under the courtroom scientists.",
   "t": "<strong>Nhiệm vụ:</strong> chăm lo cho vương quốc, làm việc trực tiếp dưới quyền các nhà khoa học hoàng gia."
@@ -294,6 +322,10 @@
  "4aecf373d658": {
   "en": "Artisan Cheesemaker",
   "t": "Nghệ nhân làm phô mai"
+ },
+ "4cbf0ebcab36": {
+  "en": "<strong>History:</strong> carrying around water-filled fruit is expensive and stupid, so these people come into play.",
+  "t": "<strong>Lịch sử:</strong> mang theo trái cây đầy nước vừa đắt vừa ngu, nên những người này vào cuộc."
  },
  "4cc0e4e2b542": {
   "en": "<strong>History:</strong> because some cheese tastes better than others.",
@@ -451,6 +483,10 @@
   "en": "<strong>Training:</strong> Fundamental School and Historian/Teaching School.",
   "t": "<strong>Đào tạo:</strong> Trường Cơ bản và Trường Sử học/Sư phạm."
  },
+ "735d6ad94d9e": {
+  "en": "<strong>Duties:</strong> see Natural &amp; Crafted Resources.",
+  "t": "<strong>Nhiệm vụ:</strong> xem Tài nguyên Tự nhiên &amp; Chế tác."
+ },
  "7506752cedeb": {
   "en": "Wood/Stone Worker",
   "t": "Thợ gỗ/đá"
@@ -458,6 +494,10 @@
  "7510681254ef": {
   "en": "Historians/Teachers",
   "t": "Sử gia/Giáo viên"
+ },
+ "76e3a446b863": {
+  "en": "<strong>Average pay:</strong> 1 Pearl an hour, for apprentices and masters alike.",
+  "t": "<strong>Lương trung bình:</strong> 1 Pearl một giờ, cho cả người học việc lẫn thợ cả."
  },
  "7944c42b1f36": {
   "en": "The second richest people in the world. Their power reaches a region at most.",
@@ -483,9 +523,17 @@
   "en": "Large Farm Owner",
   "t": "Chủ trang trại lớn"
  },
+ "8735f4858edd": {
+  "en": "<strong>Duties:</strong> extract wood from forests.",
+  "t": "<strong>Nhiệm vụ:</strong> khai thác gỗ từ rừng."
+ },
  "87af01bd9c7e": {
   "en": "Sanbi Eye",
   "t": "Con mắt Sanbi"
+ },
+ "8869272e670d": {
+  "en": "<strong>Duties:</strong> make vellum from animal skin, and paper from wood pulp.",
+  "t": "<strong>Nhiệm vụ:</strong> làm giấy da từ da thú, và giấy từ bột gỗ."
  },
  "893b7a9113f6": {
   "en": "<strong>Duties:</strong> housekeeping. How far it goes depends on the household and the maid's prestige: from more \"normal\" maids, up to someone like Eiri, a King-Maid, whose job extends into finances, cooking, cleaning and taxes.",
@@ -515,9 +563,17 @@
   "en": "<strong>History:</strong> someone has to take care of the dead, especially once people develop complex rituals.",
   "t": "<strong>Lịch sử:</strong> phải có ai đó lo cho người chết, nhất là khi con người hình thành những nghi lễ phức tạp."
  },
+ "904f51b879b7": {
+  "en": "<strong>Duties:</strong> take care of the lighthouse: pump water into the fost stone, replace the stone, etc.",
+  "t": "<strong>Nhiệm vụ:</strong> trông coi hải đăng: bơm nước vào đá fost, thay đá, v.v."
+ },
  "90a167603476": {
   "en": "<strong>Training:</strong> knowing how to read speeds up going from apprentice to master; otherwise, learn on the job.",
   "t": "<strong>Đào tạo:</strong> biết đọc giúp lên thợ cả từ học việc nhanh hơn; ngoài ra, học qua công việc."
+ },
+ "9211c4167577": {
+  "en": "<strong>History:</strong> one of the earliest jobs in existence.",
+  "t": "<strong>Lịch sử:</strong> một trong những nghề sớm nhất từng có."
  },
  "9312d57b974b": {
   "en": "<strong>Training:</strong> Tailoring School.",
@@ -527,9 +583,17 @@
   "en": "How much of this applies depends on how the kingdom is organized.",
   "t": "Mức độ áp dụng tùy vào cách tổ chức của vương quốc."
  },
+ "9866309d4236": {
+  "en": "<strong>History:</strong> paper is half the battle, so someone needs to make the ink and the wax.",
+  "t": "<strong>Lịch sử:</strong> giấy mới là một nửa trận chiến, nên cần có ai đó làm mực và sáp."
+ },
  "9b85c6e5d0b9": {
   "en": "<strong>Duties:</strong> keep the peace, assist in investigations and help medics. Also coordinate nari stone usage, work with adventurers, and coordinate with the King and courtroom scientists (depending on how the kingdom is organized).",
   "t": "<strong>Nhiệm vụ:</strong> giữ hòa bình, hỗ trợ điều tra và giúp đỡ thầy thuốc. Đồng thời điều phối việc sử dụng đá nari, làm việc với nhà mạo hiểm, và phối hợp với Nhà vua và các nhà khoa học hoàng gia (tùy cách tổ chức của vương quốc)."
+ },
+ "9bb4137522b5": {
+  "en": "<strong>Training:</strong> learn on the job; no reading required.",
+  "t": "<strong>Đào tạo:</strong> học qua công việc; không cần biết đọc."
  },
  "9cc2644f0b21": {
   "en": "<strong>Duties:</strong> handle egua births and health, and manage the stable business.",
@@ -567,13 +631,29 @@
   "en": "Street Cleaner",
   "t": "Người quét đường"
  },
+ "a69d012911c6": {
+  "en": "<strong>Duties:</strong> treat leather and animal skin for dresses, weapons and vellum.",
+  "t": "<strong>Nhiệm vụ:</strong> thuộc da và da thú để làm váy áo, vũ khí và giấy da."
+ },
+ "aa5928af8f30": {
+  "en": "<strong>History:</strong> works alongside butchers to treat game skin and bones.",
+  "t": "<strong>Lịch sử:</strong> làm việc cùng người bán thịt để xử lý da và xương thú săn."
+ },
  "aaacdfb70de3": {
   "en": "<strong>Training:</strong> Fundamental School isn't required, but it's really hard to do without.",
   "t": "<strong>Đào tạo:</strong> Trường Cơ bản không bắt buộc, nhưng rất khó làm nếu không có."
  },
+ "ab43b4c49d47": {
+  "en": "<strong>History:</strong> as eguas were domesticated, people were needed to handle them.",
+  "t": "<strong>Lịch sử:</strong> khi egua được thuần hóa, cần có người chăm sóc chúng."
+ },
  "ac2b1387dbe5": {
   "en": "<strong>History:</strong> someone who takes merchanting extremely seriously.",
   "t": "<strong>Lịch sử:</strong> một người cực kỳ nghiêm túc với nghề buôn bán."
+ },
+ "ac55d9500a19": {
+  "en": "<strong>Duties:</strong> drive egua carts from city to city, carrying basic goods.",
+  "t": "<strong>Nhiệm vụ:</strong> đánh xe egua từ thành phố này sang thành phố khác, chở hàng hóa cơ bản."
  },
  "acab31af4a94": {
   "en": "Blacksmiths",
@@ -602,6 +682,22 @@
  "b44d69d8fd77": {
   "en": "<strong>Duties:</strong> read, play and write songs.",
   "t": "<strong>Nhiệm vụ:</strong> đọc, chơi và sáng tác bài hát."
+ },
+ "b45bc2b2a503": {
+  "en": "<strong>History:</strong> an easy job, but kind of boring, and slightly dangerous at times.",
+  "t": "<strong>Lịch sử:</strong> một công việc dễ, nhưng hơi nhàm chán, và đôi khi hơi nguy hiểm."
+ },
+ "b510917433fe": {
+  "en": "<strong>Duties:</strong> dry fruits, herbs and plenty more for transport.",
+  "t": "<strong>Nhiệm vụ:</strong> phơi khô trái cây, thảo mộc và nhiều thứ khác để vận chuyển."
+ },
+ "b6070e32bbe6": {
+  "en": "<strong>Duties:</strong> mine ore, open tunnels and carry the ore to the surface.",
+  "t": "<strong>Nhiệm vụ:</strong> khai thác quặng, mở đường hầm và mang quặng lên mặt đất."
+ },
+ "b867944bc051": {
+  "en": "<strong>Duties:</strong> hunt prey, butcher it, and bring it back somewhere to sell.",
+  "t": "<strong>Nhiệm vụ:</strong> săn con mồi, xẻ thịt nó, và mang về đâu đó để bán."
  },
  "bad034722d1e": {
   "en": "Butcher",
@@ -675,9 +771,17 @@
   "en": "<strong>History:</strong> wherever humans live, history soon follows, filling libraries. But some history was lost during the Greed Period, when wars raged for a long time, and tons more because before Ganyrami it was mostly passed by word of mouth among humans. The Darfaries burned their own history, which makes the past kind of sketchy. And some people don't care about history, because they prefer living in the present. So people in this profession usually teach at the fundamental level to earn a livable wage while they pursue research nobody is funding.",
   "t": "<strong>Lịch sử:</strong> con người sống ở đâu, lịch sử sớm theo đến đó, lấp đầy các thư viện. Nhưng một phần lịch sử đã mất trong Thời kỳ Tham lam, khi chiến tranh hoành hành suốt một thời gian dài, và còn mất hàng tấn nữa vì trước Ganyrami nó chủ yếu được truyền miệng giữa loài người. Người Darfaries đã đốt lịch sử của chính mình, khiến quá khứ khá mập mờ. Và một số người không quan tâm đến lịch sử, vì họ thích sống cho hiện tại. Vì vậy những người làm nghề này thường dạy ở cấp cơ bản để kiếm đủ sống trong khi theo đuổi những nghiên cứu chẳng ai tài trợ."
  },
+ "d86a0b9b9510": {
+  "en": "<strong>Duties:</strong> skin game for tanners, slice game, cure meat, etc.",
+  "t": "<strong>Nhiệm vụ:</strong> lột da thú săn cho thợ thuộc da, xẻ thịt thú săn, ướp thịt, v.v."
+ },
  "da654b0ff3a4": {
   "en": "<strong>Training:</strong> Fundamental School and Cooking School.",
   "t": "<strong>Đào tạo:</strong> Trường Cơ bản và Trường Nấu ăn."
+ },
+ "dc0cff2c2774": {
+  "en": "<strong>History:</strong> cleans latrines and cesspits.",
+  "t": "<strong>Lịch sử:</strong> dọn nhà xí và hố phân."
  },
  "e08eaff25c85": {
   "en": "Stable Hand Manager",
@@ -722,6 +826,18 @@
  "e9b43d11425b": {
   "en": "City Guard",
   "t": "Lính canh thành phố"
+ },
+ "eec4b8a22e47": {
+  "en": "The sixth richest people in the world. Their power is none.",
+  "t": "Những người giàu thứ sáu trên thế giới. Họ không có quyền lực gì."
+ },
+ "f2e56469294d": {
+  "en": "<strong>History:</strong> one of the earliest jobs in existence: hunting in the nearby woods, a quite dangerous job. Mostly replaced by adventurer hunting, since hunters on their own don't have the safety net adventurers have with the embassies.",
+  "t": "<strong>Lịch sử:</strong> một trong những nghề sớm nhất từng có: săn bắn trong rừng gần đó, một công việc khá nguy hiểm. Phần lớn đã được thay thế bằng việc săn bắn của nhà mạo hiểm, vì thợ săn tự do không có lưới an toàn như nhà mạo hiểm có với các đại sứ quán."
+ },
+ "f3c4e3eb138e": {
+  "en": "<strong>Duties:</strong> clean the streets.",
+  "t": "<strong>Nhiệm vụ:</strong> quét dọn đường phố."
  },
  "f8a9289d923c": {
   "en": "Tanner",
