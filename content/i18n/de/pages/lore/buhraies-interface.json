@@ -1,7 +1,39 @@
 {
+ "1e5e2991dedc": {
+  "en": "<strong>Tiers:</strong> the mass affected follows the General Power Effects: 0.1 kg at Tier I, doubling with every tier (51.2 kg at Tier X). Because it changes the genetic information, not the soul, the change stays even after Body Restore, as long as the genetic information isn't lost.",
+  "t": "<strong>Stufen:</strong> Die betroffene Masse folgt den General Power Effects: 0,1 kg auf Stufe I, mit jeder Stufe verdoppelt (51,2 kg auf Stufe X). Da sie die genetische Information verändert, nicht die Seele, bleibt die Veränderung sogar nach Body Restore bestehen, solange die genetische Information nicht verloren geht."
+ },
+ "29070357c173": {
+  "en": "Soul Energy - Buhraies Interface (World Lore illustration)",
+  "t": "Seelenenergie - Buhraies-Interface (Illustration der Weltlore)"
+ },
+ "2c0fd516e171": {
+  "en": "<strong>Draw the spell.</strong> Cut the target logogram into your skin with something sharp (see Language › Buhraies Interface Language), or just cut two empty squares, which has to be done with a knife.",
+  "t": "<strong>Den Zauber zeichnen.</strong> Ritze das Ziel-Logogramm mit etwas Scharfem in deine Haut (siehe Sprache › Buhraies Interface Language), oder ritze einfach zwei leere Quadrate, was mit einem Messer geschehen muss."
+ },
+ "31d48e291ac1": {
+  "en": "<strong>Tiers:</strong> the higher the tier, the more it increases the soul qualities of the summon, with the increase split across several skills. Only tiers above X had a noticeable effect, and only once the soul reconnected to new flesh, if it worked.",
+  "t": "<strong>Stufen:</strong> Je höher die Stufe, desto mehr steigert sie die Seeleneigenschaften der Beschwörung, wobei sich die Steigerung auf mehrere Fähigkeiten verteilt. Erst Stufen über X hatten eine spürbare Wirkung, und auch nur, wenn sich die Seele wieder mit neuem Fleisch verband, falls es klappte."
+ },
  "3705910a532f": {
   "en": "A \"fleshy\" focused evolution to the Finaies interface! Its capabilities outgrew Finaies in raw power and eventually led Buhraies to force themselves to become powerful enough to reshape the land and other creatures to their liking.",
   "t": "Eine auf das „Fleischliche“ ausgerichtete Weiterentwicklung des Finaies-Interface! Seine Fähigkeiten übertrafen Finaies an roher Kraft und brachten die Buhraies schließlich dazu, sich selbst so mächtig zu machen, dass sie das Land und andere Kreaturen nach ihrem Geschmack umformen konnten."
+ },
+ "3ae348503d46": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Buhraies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Buhraies Interface.md</a>",
+  "t": "Quelle: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Buhraies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Buhraies Interface.md</a>"
+ },
+ "48ba5cb16a12": {
+  "en": "Alters the target's body DNA according to the caster's desires.",
+  "t": "Verändert die Körper-DNA des Ziels nach den Wünschen des Zaubernden."
+ },
+ "552e97590e22": {
+  "en": "Soul VERB",
+  "t": "Soul VERB"
+ },
+ "58266576143d": {
+  "en": "Alters the target's soul DNA according to the caster's desires.",
+  "t": "Verändert die Seelen-DNA des Ziels nach den Wünschen des Zaubernden."
  },
  "5fed524a49f2": {
   "en": "That is, unless you’re doing a freeform! You will not have the pain of carving your palm, but it might cost your soul or the souls of people around you. Despite Buhraies having a natural inkling for controlling free-forming, including being able to shape the very land to their will, that same power was likely their demise.",
@@ -11,13 +43,33 @@
   "en": "You must carve the logograms into the skin of one of your palms, then clench your fingers to start the interface while keeping the palm visible.",
   "t": "Du musst die Logogramme in die Haut einer deiner Handflächen ritzen und dann die Finger zusammenballen, um das Interface zu starten, während die Handfläche sichtbar bleibt."
  },
+ "6351722bd568": {
+  "en": "Soul Spectrum",
+  "t": "Seelenspektrum"
+ },
+ "76a6e41714ed": {
+  "en": "Soul energy shapes the spell using logograms drawn from the knowledge shared by the souls of the people nearby.",
+  "t": "Seelenenergie formt den Zauber mithilfe von Logogrammen, die aus dem Wissen geschöpft werden, das die Seelen der Leute in der Nähe teilen."
+ },
  "7f9bd04a4f99": {
   "en": "A \"fleshy\" focused evolution to the Finaies interface! Its capabilities outgrew Finaies in raw power and eventually led Buhraies to force themselves to become…",
   "t": "Eine auf das „Fleischliche“ ausgerichtete Weiterentwicklung des Finaies-Interface! Seine Fähigkeiten übertrafen Finaies an roher Kraft und brachten die Buhraies schließlich dazu, sich selbst so weit…"
  },
+ "7fed7d4ad2e4": {
+  "en": "The Buhraies developed this interface as the blood they drank mutated their bodies, and because they wanted more power. Its logograms are the guardrails: cast without them, and you are altering the soul itself.",
+  "t": "Die Buhraies entwickelten dieses Interface, als das Blut, das sie tranken, ihre Körper mutieren ließ, und weil sie mehr Macht wollten. Seine Logogramme sind die Leitplanken: Zauberst du ohne sie, veränderst du die Seele selbst."
+ },
  "93c6a70f8e61": {
   "en": "Public text: science-buhraies-interface.md",
   "t": "Öffentlicher Text: science-buhraies-interface.md"
+ },
+ "9aa1e6e34620": {
+  "en": "Nobody has ever maxed it out to know what would happen. The current theory is that going past the theoretical maximum would make the whole thing explode, possibly in a White Hole event.",
+  "t": "Niemand hat es je ausgereizt, um zu wissen, was passieren würde. Die aktuelle Theorie lautet, dass das Überschreiten des theoretischen Maximums das Ganze explodieren ließe, womöglich in einem White-Hole-Ereignis."
+ },
+ "a078821d2b2e": {
+  "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Buhraies shells appear as you do.",
+  "t": "<strong>Den Zauber beginnen.</strong> Balle die Finger der Hand, die den Zauber und die Seelenenergie hält. Dabei erscheinen die Buhraies-Schalen."
  },
  "a23b9db367c5": {
   "en": "3 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
@@ -35,8 +87,28 @@
   "en": "091 (images illustration)",
   "t": "091 (Bildillustration)"
  },
+ "dd527ba2bcfb": {
+  "en": "<strong>Target:</strong> what the spell acts on. With no target, the soul energy falls back on the caster's own idea of how it should apply itself, and a miscast explodes in soul flame in the caster's hand.",
+  "t": "<strong>Ziel:</strong> worauf der Zauber wirkt. Ohne Ziel greift die Seelenenergie auf die eigene Vorstellung des Zaubernden zurück, wie sie sich anwenden soll, und ein misslungener Zauber explodiert als Seelenflamme in der Hand des Zaubernden."
+ },
+ "dfcfe195c9f1": {
+  "en": "An analysis of the soul. Research with it can find soul harmony, and the Buhraies used it to selectively breed people and enhance their power.",
+  "t": "Eine Analyse der Seele. Forschung damit kann Seelenharmonie finden, und die Buhraies nutzten sie, um Menschen gezielt zu züchten und ihre Kraft zu steigern."
+ },
  "e3cc5a5f7427": {
   "en": "All Buhraies show the markings of controlled flight and built-in spell-casting mechanisms using specialized nerves attuned to soul energy that appear as veins, at least to the untrained eye, throughout the body. These reddened nerves run up and down their body.",
   "t": "Alle Buhraies zeigen die Merkmale von kontrolliertem Flug und eingebauten Mechanismen zum Zaubern, mithilfe spezialisierter, auf Seelenenergie abgestimmter Nerven, die zumindest für das ungeübte Auge wie Adern am ganzen Körper aussehen. Diese geröteten Nerven verlaufen kreuz und quer über ihren Körper."
+ },
+ "e5d418c7583e": {
+  "en": "<strong>Verb:</strong> what you want to do. You have to think it clearly; a lack of concentration means a miscast, an explosion, or even blowback.",
+  "t": "<strong>Verb:</strong> was du tun willst. Du musst es klar denken; mangelnde Konzentration bedeutet einen misslungenen Zauber, eine Explosion oder sogar einen Rückschlag."
+ },
+ "f2508a76391f": {
+  "en": "<strong>Infuse soul energy.</strong> The casting hand takes in energy when the caster \"eats\" with it. Touching the middle and ring fingers lights up the Buhraies veins in that hand with soul flame, and when the other hand \"eats\", the flames are absorbed. A spell is only stable at a soul energy tier, so energy always fills up to the next tier (after a partial charge, it adds the difference).",
+  "t": "<strong>Seelenenergie einflößen.</strong> Die Zauberhand nimmt Energie auf, wenn der Zaubernde mit ihr „isst“. Berühren sich Mittel- und Ringfinger, leuchten die Buhraies-Adern in dieser Hand mit Seelenflamme auf, und wenn die andere Hand „isst“, werden die Flammen aufgenommen. Ein Zauber ist nur auf einer Seelenenergie-Stufe stabil, also füllt sich die Energie immer bis zur nächsten Stufe auf (nach einer Teilladung kommt die Differenz hinzu)."
+ },
+ "f6eb3327d46d": {
+  "en": "When a spell is cast, five rings appear around the hand holding it. Each shell, on its own, holds a limited number of soul energy tiers:",
+  "t": "Wenn ein Zauber gewirkt wird, erscheinen fünf Ringe um die Hand, die ihn hält. Jede Schale fasst für sich eine begrenzte Anzahl an Seelenenergie-Stufen:"
  }
 }
