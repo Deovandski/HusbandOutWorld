@@ -1,11 +1,211 @@
 {
+ "02b88522b961": {
+  "en": "Bagarisa Fur Toothbrush",
+  "t": "Spazzolino di pelo di Bagarisa"
+ },
+ "08b561d3f1c8": {
+  "en": "~20 Pearls for a simple one",
+  "t": "~20 Pearl per una semplice"
+ },
+ "0cacdf04aae4": {
+  "en": "<strong>Tier I (Cheap Goods):</strong> natural resources; paper and vellum.",
+  "t": "<strong>Livello I (Merci economiche):</strong> risorse naturali; carta e pergamena."
+ },
+ "0f3899a6f453": {
+  "en": "Fost Stone",
+  "t": "Fost Stone"
+ },
+ "14f8d549c5d9": {
+  "en": "~5 Pearls",
+  "t": "~5 Pearl"
+ },
+ "17770172fb8f": {
+  "en": "~2 Pearls",
+  "t": "~2 Pearl"
+ },
+ "1918925582d5": {
+  "en": "Wood People sap",
+  "t": "Linfa dei Wood People"
+ },
+ "1a2ed0c8f120": {
+  "en": "<strong>Where there's none:</strong> people burn animal-fat torches, though not usually inside homes. Gandew and Sundeath use more torches than anywhere else, because they're far from where fost stones are mined.",
+  "t": "<strong>Dove non ce n'è:</strong> la gente brucia torce di grasso animale, anche se di solito non dentro casa. Gandew e Sundeath usano più torce di qualsiasi altro posto, perché sono lontani da dove si estraggono le pietre fost."
+ },
+ "1adb8bc81b63": {
+  "en": "A custom-made weapon of chitin and finely crafted Bone Wood, with Winga beaks and claws for close-quarters combat (CQC). It works as a bow, but also as a melee weapon if needed.",
+  "t": "Un'arma su misura di chitina e Bone Wood finemente lavorato, con becchi e artigli di Winga per il combattimento ravvicinato (CQC). Funziona come arco, ma anche come arma da mischia se serve."
+ },
+ "1e5106d75f3c": {
+  "en": "Wood ~10 Pearls; Bone Wood ~20 Pearls; chitin ~40 Pearls; iron ~85 Pearls; steel ~2 Amethysts; gold ~4 Aquamarines",
+  "t": "Legno ~10 Pearl; Bone Legno ~20 Pearl; chitina ~40 Pearl; ferro ~85 Pearl; acciaio ~2 Amethyst; oro ~4 Aquamarine"
+ },
+ "1e7081d736f4": {
+  "en": "Trees",
+  "t": "Alberi"
+ },
+ "1f9c51d4d790": {
+  "en": "<strong>Simple Journal</strong> (6×9, 50 pages)",
+  "t": "<strong>Diario semplice</strong> (6×9, 50 pagine)"
+ },
+ "23f033a801a0": {
+  "en": "Natural Resources",
+  "t": "Risorse naturali"
+ },
+ "24e56b632ea6": {
+  "en": "~15 Pearls",
+  "t": "~15 Pearl"
+ },
+ "2504ce24727b": {
+  "en": "A Tier I worker (master level) saving half their pay needs, on average, about 450 working days for a full iron set, 660 for steel, 310 for Bone Wood, 260 for chitin and about 150 for Tibou or leather. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Equipment Price Calculator).",
+  "t": "Un lavoratore di Livello I (a livello di maestro) che mette da parte metà della paga ha bisogno, in media, di circa 450 giorni di lavoro per un set completo di ferro, 660 per l'acciaio, 310 per il Bone Wood, 260 per la chitina e circa 150 per il Tibou o il cuoio. Vedi il <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">foglio di calcolo dell'Economia</a> (Equipment Price Calculator)."
+ },
+ "2ac93d2e4e96": {
+  "en": "Toothpaste",
+  "t": "Dentifricio"
+ },
+ "3033ea8c6184": {
+  "en": "<strong>Tier III (Expensive Goods):</strong> rare mineral resources (gold, titanium); higher-quality armor and weapons.",
+  "t": "<strong>Livello III (Merci costose):</strong> risorse minerali rare (oro, titanio); armature e armi di qualità superiore."
+ },
+ "31e653361e0e": {
+  "en": "Made of Soul Wood or Black Wood.",
+  "t": "Fatti di Soul Wood o Black Wood."
+ },
+ "32dc4384ef54": {
+  "en": "Soul Energy Related",
+  "t": "Per l'Energia dell'anima"
+ },
+ "32e3377c4e63": {
+  "en": "~9 Pearls",
+  "t": "~9 Pearl"
+ },
+ "33a29dab963f": {
+  "en": "<strong>Ice Preserver</strong> (a fridge-freezer): made of wood and clay (~1 Amethyst), or iron, wood and clay (~1 Aquamarine).",
+  "t": "<strong>Ice Preserver</strong> (un frigo-congelatore): fatto di legno e argilla (~1 Amethyst), oppure di ferro, legno e argilla (~1 Aquamarine)."
+ },
+ "37619fc13053": {
+  "en": "White",
+  "t": "Bianco"
+ },
+ "3862ac04f34f": {
+  "en": "<strong>Sword:</strong> iron ~683–767; steel ~1,008–1,092; Bone Wood ~285–596; chitin ~185–521.",
+  "t": "<strong>Spada:</strong> ferro ~683–767; acciaio ~1.008–1.092; Bone Legno ~285–596; chitina ~185–521."
+ },
+ "3889502093b8": {
+  "en": "~1 Pearl",
+  "t": "~1 Pearl"
+ },
+ "394d220c45d2": {
+  "en": "Cost a bottle",
+  "t": "Costo a bottiglia"
+ },
+ "39a8bd07a18b": {
+  "en": "Iron and steel cost the same everywhere except Tolerideme, where they're a little pricier. Bone Wood is cheapest in Freeish and Chitin in Gandew. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Weapon &amp; Household Price Calculator).",
+  "t": "Ferro e acciaio costano uguale dappertutto tranne a Tolerideme, dove sono un po' più cari. Il Bone Wood costa meno a Freeish e la chitina a Gandew. Vedi il <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">foglio di calcolo dell'Economia</a> (Weapon &amp; Household Price Calculator)."
+ },
+ "3c9be150028c": {
+  "en": "Bathroom Related",
+  "t": "Per il bagno"
+ },
  "3e86255de7aa": {
   "en": "Natural & Crafted Resources · #HusbandOutWorld",
   "t": "Risorse naturali & lavorate · #HusbandOutWorld"
  },
+ "4424d0dd18ef": {
+  "en": "Charcoal, sometimes wrapped in wood to look fancy (see <a href=\"/lore/characters/#kiko-sanbi-half-cruro\">Kiko</a>).",
+  "t": "Carboncino, a volte avvolto nel legno per sembrare elegante (vedi <a href=\"/lore/characters/#kiko-sanbi-half-cruro\">Kiko</a>)."
+ },
+ "4616570b68e6": {
+  "en": "Walking Heart",
+  "t": "Walking Heart"
+ },
+ "4765bbc0170f": {
+  "en": "<strong>Used for:</strong> construction and furniture; decorating armor and weapons.",
+  "t": "<strong>Usato per:</strong> costruzioni e mobili; decorazione di armature e armi."
+ },
+ "48481822223b": {
+  "en": "<strong>Paper</strong> (a bundle of ~10 loose pages)",
+  "t": "<strong>Carta</strong> (un fascio di ~10 fogli sciolti)"
+ },
+ "49e8ea38afbd": {
+  "en": "<strong>Used for:</strong> weapons; tools.",
+  "t": "<strong>Usato per:</strong> armi; attrezzi."
+ },
+ "4d76a703efd4": {
+  "en": "Writing Stick",
+  "t": "Bastoncino da scrittura"
+ },
+ "4ef827bf0b4e": {
+  "en": "Paper, leather and glue",
+  "t": "Carta, cuoio e colla"
+ },
+ "4fe8d925db58": {
+  "en": "A special chitin armor designed after the <a href=\"/lore/beasts/#sweet-sting\">Sweet Sting</a>, used for CQC and impaling. <a href=\"/lore/characters/#morika-tolerideme\">Morika</a> once wore a Sweet Sting costume to gather Black Honey and liked how empowering it felt, so he saved for about a year and a half to have it made. It makes up for his slow reflexes and hides his face. He becomes another persona in it, <a href=\"/lore/characters/#the-stinger\">The Stinger</a>, and kills with the spike of his Stinger helmet.",
+  "t": "Un'armatura speciale di chitina ispirata alla <a href=\"/lore/beasts/#sweet-sting\">Sweet Sting</a>, usata per il CQC e per impalare. <a href=\"/lore/characters/#morika-tolerideme\">Morika</a> una volta indossò un costume da Sweet Sting per raccogliere il Black Honey e gli piacque quanto lo facesse sentire potente, quindi mise da parte i soldi per circa un anno e mezzo per farsela fare. Compensa i suoi riflessi lenti e gli nasconde il viso. Dentro diventa un altro personaggio, <a href=\"/lore/characters/#the-stinger\">The Stinger</a>, e uccide con la punta del suo elmo Stinger."
+ },
+ "51c64938ac53": {
+  "en": "The Tibou plant, with animal fat and other ingredients.",
+  "t": "La pianta di Tibou, con grasso animale e altri ingredienti."
+ },
+ "52996fa554f2": {
+  "en": "Household",
+  "t": "Casa"
+ },
+ "54076359fdc7": {
+  "en": "Pink",
+  "t": "Rosa"
+ },
+ "54132c44f968": {
+  "en": "Tibou Soap",
+  "t": "Sapone di Tibou"
+ },
+ "5757b2155f92": {
+  "en": "What the materials alone cost, shipping included, in Pearls. The range runs from the cheapest region to the most expensive; crafting costs come on top.",
+  "t": "Quanto costano i soli materiali, spedizione compresa, in Pearl. La forbice va dalla regione più economica alla più cara; i costi di fabbricazione si aggiungono."
+ },
+ "57ae620e41ee": {
+  "en": "Seal Stamp",
+  "t": "Timbro per sigillo"
+ },
  "59cb822763ff": {
   "en": "15 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "Altre 15 voci di questa pagina sono solo in <button class=\"linklike\" data-go-bts>Dietro le quinte</button>."
+ },
+ "5ca532404946": {
+  "en": "<strong>Wine/Mead Mug:</strong> gotta be fancy. Wood ~13 Pearls; Bone Wood ~16 Pearls; chitin ~23 Pearls; iron ~29 Pearls; steel ~2 Amethysts; gold ~3 Aquamarines.",
+  "t": "<strong>Coppa da vino/idromele:</strong> bisogna essere raffinati. Legno ~13 Pearl; Bone Legno ~16 Pearl; chitina ~23 Pearl; ferro ~29 Pearl; acciaio ~2 Amethyst; oro ~3 Aquamarine."
+ },
+ "5d70259efbb0": {
+  "en": "Inks/Dyes",
+  "t": "Inchiostri/tinture"
+ },
+ "5e49b52715ce": {
+  "en": "A stone found in the sediment of the Buhraies lake, on the Buhraies Plains, and all the way from Waterfall City to the Sanbi Kingdom. Closer to the ocean, the riverbed lights up where the rocks get too close to salt water. Fauna, and beasts especially, seem to avoid places where it lies underwater.",
+  "t": "Una pietra che si trova nei sedimenti del lago Buhraies, sulle Buhraies Plains, e lungo tutto il tratto da Waterfall City al Regno di Sanbi. Più vicino all'oceano, il letto del fiume si illumina dove le rocce arrivano troppo vicino all'acqua salata. La fauna, e le bestie soprattutto, sembrano evitare i posti dove giace sott'acqua."
+ },
+ "5f5a2affd95f": {
+  "en": "A plain piece of charcoal ~0–2 Pearls; a charcoal stick ~7 Pearls; a refined charcoal stick ~30 Pearls",
+  "t": "Un semplice pezzo di carboncino ~0–2 Pearl; un bastoncino di carboncino ~7 Pearl; un bastoncino di carboncino raffinato ~30 Pearl"
+ },
+ "635af13363af": {
+  "en": "<strong>Bread Plate/Bowl:</strong> made of bread (~0–2 Pearls). It soaks up the juices of your food, and is given to the poor afterward.",
+  "t": "<strong>Piatto/ciotola di pane:</strong> fatto di pane (~0–2 Pearl). Assorbe i succhi del cibo, e dopo viene dato ai poveri."
+ },
+ "64ae43e8fe76": {
+  "en": "Cost",
+  "t": "Costo"
+ },
+ "69f060ea9f2e": {
+  "en": "Usually iron or another metal that can withstand the water pressure. Pull it, and water flows from the pipe.",
+  "t": "Di solito ferro o un altro metallo che regge la pressione dell'acqua. Tirala, e l'acqua esce dal tubo."
+ },
+ "6acdd3ea77dc": {
+  "en": "<strong>Tier IV (Nobility Goods):</strong> custom armor and weapons; household items, or any item of extremely high craft or quality.",
+  "t": "<strong>Livello IV (Merci per la nobiltà):</strong> armature e armi su misura; oggetti per la casa, o qualsiasi oggetto di fattura o qualità altissima."
+ },
+ "6b0c0b7d6913": {
+  "en": "Leather",
+  "t": "Cuoio"
  },
  "6e97b1eafd0e": {
   "en": "The materials and goods of Vraki, from natural resources like Fost Stone (a stone that lights up in salt water and keeps beasts away) and Bone Wood, to…",
@@ -15,20 +215,284 @@
   "en": "Winga",
   "t": "Winga"
  },
+ "7414e4da6d8b": {
+  "en": "Natural and Crafted Resources (World Lore illustration)",
+  "t": "Risorse naturali e lavorate (illustrazione della Lore del mondo)"
+ },
  "756046544fb1": {
   "en": "Summary written by AI from the author's notes (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Natural and Crafted Resources.md</a>). <a href=\"/about/ai-disclosure/\">AI disclosure</a>",
   "t": "Riassunto scritto da un'IA dagli appunti dell'autore (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Natural and Crafted Resources.md</a>). <a href=\"/about/ai-disclosure/\">Trasparenza sull'IA</a>"
+ },
+ "76478bf1274b": {
+  "en": "<strong>No switch:</strong> there's no \"turning off the lights\". To put one out, you pour out the water to stop the reaction.",
+  "t": "<strong>Niente interruttore:</strong> non esiste \"spegnere la luce\". Per spegnerne una, si versa via l'acqua per fermare la reazione."
  },
  "77299e0e6193": {
   "en": "Natural &amp; Crafted Resources",
   "t": "Risorse naturali &amp; lavorate"
  },
+ "7a1649119e6a": {
+  "en": "<strong>Picker:</strong> a two-pronged fork on one end and a spoon on the other. Each person commonly has their own and takes it with them; some decorate theirs or have their name carved on it to make it unique. Wood ~5 Pearls; Bone Wood ~10 Pearls; chitin ~17 Pearls; iron ~25 Pearls; steel ~1 Amethyst; gold ~1 Aquamarine.",
+  "t": "<strong>Picker:</strong> una forchetta a due rebbi da un lato e un cucchiaio dall'altro. Di solito ognuno ha il suo e se lo porta dietro; c'è chi decora il proprio o ci fa incidere il nome per renderlo unico. Legno ~5 Pearl; Bone Legno ~10 Pearl; chitina ~17 Pearl; ferro ~25 Pearl; acciaio ~1 Amethyst; oro ~1 Aquamarine."
+ },
+ "7d141a438f76": {
+  "en": "<strong>Used for:</strong> construction and furniture; armor; weapons.",
+  "t": "<strong>Usato per:</strong> costruzioni e mobili; armature; armi."
+ },
+ "7d44bc449c2a": {
+  "en": "Blue",
+  "t": "Blu"
+ },
+ "7d6a8b1e4781": {
+  "en": "<strong>No candles:</strong> there are no candles in Vraki. Wax exists, but it's for sealing letters (like the Winga mail Forway provides).",
+  "t": "<strong>Niente candele:</strong> su Vraki non ci sono candele. La cera esiste, ma serve a sigillare le lettere (come la posta via Winga che fornisce Forway)."
+ },
+ "7d8dcf0d9ced": {
+  "en": "<strong>Longsword:</strong> iron ~1,464–1,644; steel ~2,160–2,340; Bone Wood ~611–1,277; chitin ~396–1,116.",
+  "t": "<strong>Spada lunga:</strong> ferro ~1.464–1.644; acciaio ~2.160–2.340; Bone Legno ~611–1.277; chitina ~396–1.116."
+ },
+ "80ae57ffe1d6": {
+  "en": "~11 Pearls",
+  "t": "~11 Pearl"
+ },
  "81e16785271f": {
   "en": "The materials and goods of Vraki, from natural resources like Fost Stone (a stone that lights up in salt water and keeps beasts away) and Bone Wood, to weapons, armor and household items. Goods are sorted into four cost tiers by how expensive they are to move, from cheap goods like paper up to custom nobility pieces.",
   "t": "I materiali e le merci di Vraki, dalle risorse naturali come la Fost Stone (una pietra che si illumina nell'acqua salata e tiene lontane le bestie) e il Bone Wood, fino ad armi, armature e oggetti per la casa. Le merci sono divise in quattro livelli di costo in base a quanto costa spostarle, dalle merci economiche come la carta fino ai pezzi su misura per la nobiltà."
  },
+ "81ebd1383e1b": {
+  "en": "<a class=\"img-link\" href=\"/media/57be02b5784726.webp\" data-full=\"/media/57be02b5784726.webp\"><img src=\"/media/57be02b5784726.webp\" alt=\"Natural and Crafted Resources (World Lore illustration)\" loading=\"lazy\"></a> (slightly grainier) <a class=\"img-link\" href=\"/media/e19e5abc32069d.webp\" data-full=\"/media/e19e5abc32069d.webp\"><img src=\"/media/e19e5abc32069d.webp\" alt=\"Natural and Crafted Resources (World Lore illustration)\" loading=\"lazy\"></a>",
+  "t": "<a class=\"img-link\" href=\"/media/57be02b5784726.webp\" data-full=\"/media/57be02b5784726.webp\"><img src=\"/media/57be02b5784726.webp\" alt=\"Risorse naturali e lavorate (illustrazione della Lore del mondo)\" loading=\"lazy\"></a> (un po' più sgranata) <a class=\"img-link\" href=\"/media/e19e5abc32069d.webp\" data-full=\"/media/e19e5abc32069d.webp\"><img src=\"/media/e19e5abc32069d.webp\" alt=\"Risorse naturali e lavorate (illustrazione della Lore del mondo)\" loading=\"lazy\"></a>"
+ },
+ "835c092f5294": {
+  "en": "Fost Lamp",
+  "t": "Lampada fost"
+ },
+ "8564fe3b4b67": {
+  "en": "Iron",
+  "t": "Ferro"
+ },
+ "8613e2c6eb2d": {
+  "en": "<strong>Tier II (Common Goods):</strong> expensive mineral resources (Nari stones, sapphires, aquamarines, amethysts); Black Honey; sigil rings; lower-quality armor and weapons; inks and dyes.",
+  "t": "<strong>Livello II (Merci comuni):</strong> risorse minerali costose (pietre nari, sapphire, aquamarine, amethyst); Black Honey; anelli sigillo; armature e armi di qualità inferiore; inchiostri e tinture."
+ },
+ "86c7738b66fa": {
+  "en": "Wood, Bone Wood, chitin, iron, steel or gold",
+  "t": "Legno, Bone Wood, chitina, ferro, acciaio o oro"
+ },
+ "8a2f4b2b3d66": {
+  "en": "Chitin",
+  "t": "Chitina"
+ },
+ "8e5c5f44a3db": {
+  "en": "Corals (Cruroland)",
+  "t": "Coralli (Cruroland)"
+ },
+ "8fe87962b633": {
+  "en": "Sweet Sting wax and ink dye",
+  "t": "Cera di Sweet Sting e tintura d'inchiostro"
+ },
+ "91157d355643": {
+  "en": "Wood People wood is very durable, with a dark red color, and gives off a strong, woody musk when soaked (see <a href=\"/lore/beasts/#wood-people\">Wood People</a>).",
+  "t": "Il legno dei Wood People è molto resistente, di un colore rosso scuro, e quando è bagnato emana un forte odore muschiato di legno (vedi <a href=\"/lore/beasts/#wood-people\">Wood People</a>)."
+ },
+ "92bf1c1e2196": {
+  "en": "<strong>Beer Mug:</strong> getting drunk requires the proper tools. Wood ~15 Pearls; Bone Wood ~20 Pearls; chitin ~28 Pearls; iron ~35 Pearls; steel ~3 Amethysts; gold ~5 Aquamarines.",
+  "t": "<strong>Boccale da birra:</strong> per ubriacarsi servono gli strumenti giusti. Legno ~15 Pearl; Bone Legno ~20 Pearl; chitina ~28 Pearl; ferro ~35 Pearl; acciaio ~3 Amethyst; oro ~5 Aquamarine."
+ },
+ "92fe15c90db7": {
+  "en": "The wood of the Soul Tree, a lone tree with metallic, shiny bark that grows around Blood City and Freeish (see <a href=\"/lore/flora/#soul-tree\">Soul Tree</a>). It's often used with nari stones, sigils and containers that hold Soul Energy, to keep the Soul Energy from leaking, and most badges are made of it (hence their greenish color). Its seeds give caffeine, and ground, they're basically the world's coffee.",
+  "t": "Il legno del Soul Tree, un albero solitario dalla corteccia metallica e lucente che cresce intorno a Blood City e Freeish (vedi <a href=\"/lore/flora/#soul-tree\">Soul Tree</a>). Si usa spesso con pietre nari, sigilli e contenitori che conservano l'Energia dell'anima, per evitare che l'Energia dell'anima fuoriesca, e la maggior parte dei tesserini è fatta di questo legno (da qui il loro colore verdastro). I suoi semi danno caffeina, e macinati sono in pratica il caffè del mondo."
+ },
+ "937d89baf2b3": {
+  "en": "Plants mixed with salt and alcohol; some mix in wine, etc. A green syrup of mint, green tea and citrus that can numb your tongue if you use too much.",
+  "t": "Piante mescolate con sale e alcol; c'è chi ci mescola il vino, ecc. Uno sciroppo verde di menta, tè verde e agrumi che può intorpidirti la lingua se ne usi troppo."
+ },
+ "9500b232835e": {
+  "en": "A full set of armor (helmet, chest, arms and legs), materials alone, shipping included, in Pearls, from the cheapest region to the most expensive:",
+  "t": "Un'armatura completa (elmo, petto, braccia e gambe), solo materiali, spedizione compresa, in Pearl, dalla regione più economica alla più cara:"
+ },
+ "970e3bbf2f8b": {
+  "en": "<strong>Dagger:</strong> iron ~293–329; steel ~432–468; Bone Wood ~122–255; chitin ~79–223.",
+  "t": "<strong>Pugnale:</strong> ferro ~293–329; acciaio ~432–468; Bone Legno ~122–255; chitina ~79–223."
+ },
+ "9a63061471e2": {
+  "en": "Black Wood",
+  "t": "Black Wood"
+ },
  "9b445d328e30": {
   "en": "Natural &amp; Crafted Resources · #HusbandOutWorld",
   "t": "Risorse naturali &amp; lavorate · #HusbandOutWorld"
+ },
+ "9d680d4bfc10": {
+  "en": "Wood People Paper",
+  "t": "Carta dei Wood People"
+ },
+ "9e988d0ed278": {
+  "en": "When <a href=\"/lore/characters/#fernan-blood-blue-flower-red-bone\">Fernan</a> disappeared, so did his bow: his daughter <a href=\"/lore/characters/#magi-blood-blue-flower-red-bone\">Magi</a> wants to find him, or at least his bow. Wilson Big-Gyut once tried to steal it and got punched for it, so he recreated it as closely as he could from memory.",
+  "t": "Quando <a href=\"/lore/characters/#fernan-blood-blue-flower-red-bone\">Fernan</a> sparì, sparì anche il suo arco: sua figlia <a href=\"/lore/characters/#magi-blood-blue-flower-red-bone\">Magi</a> vuole trovarlo, o almeno trovare il suo arco. Wilson Big-Gyut una volta cercò di rubarlo e si beccò un pugno, quindi lo ricreò il più fedelmente possibile a memoria."
+ },
+ "9ea7f4f324fb": {
+  "en": "Wood &amp; Wood People Wood",
+  "t": "Legno &amp; legno dei Wood People"
+ },
+ "9f85bed5d7aa": {
+  "en": "Keeps monsters at bay.",
+  "t": "Tiene lontani i mostri."
+ },
+ "a6c4186ee9cf": {
+  "en": "~20–40 Pearls a bottle",
+  "t": "~20–40 Pearl a bottiglia"
+ },
+ "a709ff5b2aa3": {
+  "en": "~35 Pearls",
+  "t": "~35 Pearl"
+ },
+ "a7e223624109": {
+  "en": "Bone Wood",
+  "t": "Bone Wood"
+ },
+ "aae8079e464c": {
+  "en": "The wood of the Black Sapphire Tree, a rare lone tree found between Flatland and Forway that looks dead and soaks up Soul Energy from its surroundings (see <a href=\"/lore/flora/#black-sapphire-tree\">Black Sapphire Tree</a>). Dark and dense, it keeps Soul Energy from leaking like no other wood, even better than Soul Wood; it's used with nari stones, sigils and Soul Energy containers to keep the Soul Energy from leaking. A single small or medium tree can cost a whole sapphire. Black wood badges are given to city officials, kingdom representatives and embassy representatives.",
+  "t": "Il legno del Black Sapphire Tree, un raro albero solitario che si trova tra Flatland e Forway, che sembra morto e assorbe l'Energia dell'anima da ciò che lo circonda (vedi <a href=\"/lore/flora/#black-sapphire-tree\">Black Sapphire Tree</a>). Scuro e denso, impedisce all'Energia dell'anima di fuoriuscire come nessun altro legno, perfino meglio del Soul Wood; si usa con pietre nari, sigilli e contenitori di Energia dell'anima per evitare che l'Energia dell'anima fuoriesca. Un solo albero piccolo o medio può costare un sapphire intero. I tesserini di black wood vengono dati ai funzionari delle città, ai rappresentanti dei regni e ai rappresentanti delle ambasciate."
+ },
+ "adbc3d28d91a": {
+  "en": "<strong>Why gems are Tier II:</strong> sapphires, aquamarines and amethysts are the currency, and from a shipping and handling perspective, currency is a common good. Security is what makes it special: only Forway moves large amounts of currency between cities and kingdoms, in heavily fortified wagons, and for the bandits salivating over those wagons, it's basically Tier IV.",
+  "t": "<strong>Perché le gemme sono di Livello II:</strong> sapphire, aquamarine e amethyst sono la valuta, e dal punto di vista della spedizione e della movimentazione, la valuta è una merce comune. È la sicurezza a renderla speciale: solo Forway sposta grandi quantità di valuta tra città e regni, in carri pesantemente fortificati, e per i briganti che sbavano su quei carri, è in pratica Livello IV."
+ },
+ "b163ade34cf8": {
+  "en": "Bagarisa fur and wood: a wooden toothbrush with stiff red bristles.",
+  "t": "Pelo di Bagarisa e legno: uno spazzolino di legno con setole rosse e dure."
+ },
+ "b1a3970a58ca": {
+  "en": "Fernan’s Bow",
+  "t": "L'arco di Fernan"
+ },
+ "b1fc5d10fc8c": {
+  "en": "Armor",
+  "t": "Armature"
+ },
+ "b2602a6c00ce": {
+  "en": "Made from",
+  "t": "Fatto con"
+ },
+ "b406fb57b29f": {
+  "en": "Black",
+  "t": "Nero"
+ },
+ "b569f8e73d21": {
+  "en": "Winga beaks and claws, ground up with other beaks and claws. They all have to be strengthened by a Winga before they're removed, and the effect lasts for years before it starts to wear off (see <a href=\"/lore/fauna/#winga-pink-winga\">Winga</a>). Used to make tools that \"cut through anything\", since the dust makes them as hard as diamond: usually a coating is applied, then replaced every few years.",
+  "t": "Becchi e artigli di Winga, macinati con altri becchi e artigli. Devono essere stati tutti rafforzati da una Winga prima di essere rimossi, e l'effetto dura anni prima di cominciare a svanire (vedi <a href=\"/lore/fauna/#winga-pink-winga\">Winga</a>). Si usa per fare attrezzi che \"tagliano qualsiasi cosa\", perché la polvere li rende duri come il diamante: di solito si applica un rivestimento, poi lo si sostituisce ogni qualche anno."
+ },
+ "bbfdc67480be": {
+  "en": "<strong>Bow:</strong> iron ~586–658; steel ~864–936; Bone Wood ~244–511; chitin ~158–446.",
+  "t": "<strong>Arco:</strong> ferro ~586–658; acciaio ~864–936; Bone Legno ~244–511; chitina ~158–446."
+ },
+ "bd7eac52298a": {
+  "en": "Soul Wood ~22–102 Pearls; Black Wood ~62–158 Pearls (materials and shipping)",
+  "t": "Soul Wood ~22–102 Pearl; Black Wood ~62–158 Pearl (materiali e spedizione)"
+ },
+ "c2f03233d800": {
+  "en": "Lapis lazuli, mined just like amethyst",
+  "t": "Lapislazzuli, estratti proprio come l'amethyst"
+ },
+ "c4b60d49642e": {
+  "en": "Writing Related",
+  "t": "Per la scrittura"
+ },
+ "ca06fcec99c8": {
+  "en": "Water System Pull-Gate Handle",
+  "t": "Maniglia a tiro dell'impianto idrico"
+ },
+ "ccbd5f06d3c9": {
+  "en": "~10 Pearls",
+  "t": "~10 Pearl"
+ },
+ "d0ae9aaba06a": {
+  "en": "Morika’s Armor",
+  "t": "L'armatura di Morika"
+ },
+ "d4b2c60f333d": {
+  "en": "Black, fist-sized stones that form in the irradiated zones of Hifuna, with glowing colors inside that tell what powers they will likely grant. Whoever replaces their heart with one becomes undead, if they survive the binding. Forway has banned them. See <a href=\"/lore/walking-heart/\">Walking Heart Interface</a>.",
+  "t": "Pietre nere grandi come un pugno che si formano nelle zone irradiate di Hifuna, con colori luminosi all'interno che dicono quali poteri probabilmente daranno. Chi sostituisce il proprio cuore con una diventa non morto, se sopravvive al legame. Forway le ha vietate. Vedi <a href=\"/lore/walking-heart/\">Interfaccia Walking Heart</a>."
+ },
+ "d4e7d7d330f0": {
+  "en": "Flowers",
+  "t": "Fiori"
+ },
+ "d51ab0c09f09": {
+  "en": "Soul Wood",
+  "t": "Soul Wood"
+ },
+ "d5a4bf79be82": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Legacy/Behind The Scenes/World Lore/Natural and Crafted Resources.md</a>",
+  "t": "Fonte: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Legacy/Behind The Scenes/World Lore/Natural and Crafted Resources.md</a>"
+ },
+ "d8169782b57c": {
+  "en": "Material",
+  "t": "Materiale"
+ },
+ "db530238cd9e": {
+  "en": "A fist-sized fost stone in a glass and wood case with an opening on top. In contact with salt water, it glows brighter than a candle would (candles aren't a thing in Vraki, and neither are oil lamps). The stone lasts about a year when used mostly at night. A big, new fost lamp is unusually bright (like a dentist's office) and can cost as much as a handful of amethysts, a steep price for common folk.",
+  "t": "Una pietra fost grande come un pugno in una custodia di vetro e legno con un'apertura in cima. A contatto con l'acqua salata, brilla più di quanto farebbe una candela (su Vraki le candele non esistono, e nemmeno le lampade a olio). La pietra dura circa un anno se usata soprattutto di notte. Una lampada fost grande e nuova è insolitamente luminosa (come lo studio di un dentista) e può costare quanto una manciata di amethyst, un prezzo salato per la gente comune."
+ },
+ "dfe272d8b6f7": {
+  "en": "Kitchen/Dining Table",
+  "t": "Cucina/tavola"
+ },
+ "e3d189693c16": {
+  "en": "Winga Writing Feather",
+  "t": "Penna da scrittura di Winga"
+ },
+ "e51d781719a1": {
+  "en": "Seal Wax",
+  "t": "Cera per sigillo"
+ },
+ "e7a3fffa3295": {
+  "en": "Goods are sorted into four tiers, which set how much it costs to ship them (see <a href=\"/lore/economy/\">Economy</a>).",
+  "t": "Le merci sono divise in quattro livelli, che stabiliscono quanto costa spedirle (vedi <a href=\"/lore/economy/\">Economia</a>)."
+ },
+ "e9a14adf2735": {
+  "en": "Full set",
+  "t": "Set completo"
+ },
+ "ecdda59aea5e": {
+  "en": "Item",
+  "t": "Oggetto"
+ },
+ "ee432e447835": {
+  "en": "~12 Pearls",
+  "t": "~12 Pearl"
+ },
+ "f0d67dc167ae": {
+  "en": "~28 Pearls",
+  "t": "~28 Pearl"
+ },
+ "f32d0645a833": {
+  "en": "Weapons",
+  "t": "Armi"
+ },
+ "f351cf27d401": {
+  "en": "~20 Pearls, plus tubing",
+  "t": "~20 Pearl, più i tubi"
+ },
+ "f596d7e234c5": {
+  "en": "A mixture of bone, iron, ground Nari and Greenbread fruit core. Less flexible than most wood, but it lasts much longer, and mixed with other materials, it can be made more flexible for armor and weapons.",
+  "t": "Un miscuglio di osso, ferro, Nari macinato e torsolo del frutto di Greenbread. Meno flessibile della maggior parte dei legni, ma dura molto di più, e mescolato con altri materiali, si può rendere più flessibile per armature e armi."
+ },
+ "f709e0f9691d": {
+  "en": "Winga Dust",
+  "t": "Polvere di Winga"
+ },
+ "f8c94a3b4b1e": {
+  "en": "What it is",
+  "t": "Cos'è"
+ },
+ "f958260588e1": {
+  "en": "Steel",
+  "t": "Acciaio"
+ },
+ "fb764acb28a3": {
+  "en": "<strong>Light source:</strong> it needs water and salt to work. There's no wick, flame or smoke; the hissing a lit fost stone makes is the water and salt reacting with the stone, which gives off light and steam.",
+  "t": "<strong>Fonte di luce:</strong> ha bisogno di acqua e sale per funzionare. Non ci sono stoppino, fiamma né fumo; il sibilo che fa una pietra fost accesa è l'acqua e il sale che reagiscono con la pietra, che emette luce e vapore."
  }
 }
