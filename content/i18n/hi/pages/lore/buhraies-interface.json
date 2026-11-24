@@ -1,7 +1,39 @@
 {
+ "1e5e2991dedc": {
+  "en": "<strong>Tiers:</strong> the mass affected follows the General Power Effects: 0.1 kg at Tier I, doubling with every tier (51.2 kg at Tier X). Because it changes the genetic information, not the soul, the change stays even after Body Restore, as long as the genetic information isn't lost.",
+  "t": "<strong>स्तर:</strong> प्रभावित द्रव्यमान सामान्य शक्ति प्रभावों के हिसाब से चलता है: स्तर I पर 0.1 kg, और हर स्तर पर दोगुना (स्तर X पर 51.2 kg)। क्योंकि यह आत्मा नहीं, आनुवंशिक जानकारी बदलता है, बदलाव बॉडी रिस्टोर के बाद भी बना रहता है, जब तक आनुवंशिक जानकारी खो न जाए।"
+ },
+ "29070357c173": {
+  "en": "Soul Energy - Buhraies Interface (World Lore illustration)",
+  "t": "आत्मा-ऊर्जा - बुरेज़ इंटरफ़ेस (संसार का चित्र)"
+ },
+ "2c0fd516e171": {
+  "en": "<strong>Draw the spell.</strong> Cut the target logogram into your skin with something sharp (see Language › Buhraies Interface Language), or just cut two empty squares, which has to be done with a knife.",
+  "t": "<strong>मंत्र बनाओ।</strong> किसी नुकीली चीज़ से निशाने का लोगोग्राम अपनी त्वचा पर काटो (भाषा › बुरेज़ इंटरफ़ेस की भाषा देखो), या बस दो ख़ाली चौकोर काटो, जो चाकू से ही करना होता है।"
+ },
+ "31d48e291ac1": {
+  "en": "<strong>Tiers:</strong> the higher the tier, the more it increases the soul qualities of the summon, with the increase split across several skills. Only tiers above X had a noticeable effect, and only once the soul reconnected to new flesh, if it worked.",
+  "t": "<strong>स्तर:</strong> स्तर जितना ऊँचा, बुलाए गए जीव के आत्मा-गुण उतने ज़्यादा बढ़ते हैं, और यह बढ़त कई कौशलों में बँट जाती है। सिर्फ़ X से ऊपर के स्तरों का असर ध्यान देने लायक़ था, और वह भी तभी जब आत्मा नए मांस से फिर जुड़ी, अगर यह काम कर गया।"
+ },
  "3705910a532f": {
   "en": "A \"fleshy\" focused evolution to the Finaies interface! Its capabilities outgrew Finaies in raw power and eventually led Buhraies to force themselves to become powerful enough to reshape the land and other creatures to their liking.",
   "t": "फ़िनेज़ इंटरफ़ेस का \"देह\"-केंद्रित विकास! इसकी क्षमताएँ कच्ची ताक़त में फ़िनेज़ से आगे निकल गईं और आख़िरकार बुरेज़ को ख़ुद को मजबूर करने पर ले गईं कि वे बनें इतने ताक़तवर कि ज़मीन और दूसरे जीवों को अपनी मर्ज़ी से नया आकार दे सकें।"
+ },
+ "3ae348503d46": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Buhraies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Buhraies Interface.md</a>",
+  "t": "स्रोत: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Buhraies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Buhraies Interface.md</a>"
+ },
+ "48ba5cb16a12": {
+  "en": "Alters the target's body DNA according to the caster's desires.",
+  "t": "मंत्र चलाने वाले की इच्छा के मुताबिक़ निशाने का शरीर-DNA बदलता है।"
+ },
+ "552e97590e22": {
+  "en": "Soul VERB",
+  "t": "Soul VERB"
+ },
+ "58266576143d": {
+  "en": "Alters the target's soul DNA according to the caster's desires.",
+  "t": "मंत्र चलाने वाले की इच्छा के मुताबिक़ निशाने का आत्मा-DNA बदलता है।"
  },
  "5fed524a49f2": {
   "en": "That is, unless you’re doing a freeform! You will not have the pain of carving your palm, but it might cost your soul or the souls of people around you. Despite Buhraies having a natural inkling for controlling free-forming, including being able to shape the very land to their will, that same power was likely their demise.",
@@ -11,13 +43,33 @@
   "en": "You must carve the logograms into the skin of one of your palms, then clench your fingers to start the interface while keeping the palm visible.",
   "t": "तुम्हें अपनी एक हथेली की त्वचा में लोगोग्राम खोदने होंगे, फिर हथेली दिखाते हुए उँगलियाँ भींचकर इंटरफ़ेस चलाना होगा।"
  },
+ "6351722bd568": {
+  "en": "Soul Spectrum",
+  "t": "आत्मा-स्पेक्ट्रम"
+ },
+ "76a6e41714ed": {
+  "en": "Soul energy shapes the spell using logograms drawn from the knowledge shared by the souls of the people nearby.",
+  "t": "आत्मा-ऊर्जा आसपास के लोगों की आत्माओं में साझा ज्ञान से लिए गए लोगोग्राम से मंत्र को आकार देती है।"
+ },
  "7f9bd04a4f99": {
   "en": "A \"fleshy\" focused evolution to the Finaies interface! Its capabilities outgrew Finaies in raw power and eventually led Buhraies to force themselves to become…",
   "t": "फ़िनेज़ इंटरफ़ेस का \"देह\"-केंद्रित विकास! इसकी क्षमताएँ कच्ची ताक़त में फ़िनेज़ से आगे निकल गईं और आख़िरकार बुरेज़ को ख़ुद को मजबूर करने पर ले गईं कि वे बनें…"
  },
+ "7fed7d4ad2e4": {
+  "en": "The Buhraies developed this interface as the blood they drank mutated their bodies, and because they wanted more power. Its logograms are the guardrails: cast without them, and you are altering the soul itself.",
+  "t": "बुरेज़ ने यह इंटरफ़ेस तब विकसित किया जब उनके पिए ख़ून ने उनके शरीरों को बदल दिया, और क्योंकि उन्हें और ताक़त चाहिए थी। इसके लोगोग्राम ही इसकी रेलिंग हैं: उनके बिना मंत्र चलाओ, तो तुम आत्मा को ही बदल रहे हो।"
+ },
  "93c6a70f8e61": {
   "en": "Public text: science-buhraies-interface.md",
   "t": "सार्वजनिक पाठ: science-buhraies-interface.md"
+ },
+ "9aa1e6e34620": {
+  "en": "Nobody has ever maxed it out to know what would happen. The current theory is that going past the theoretical maximum would make the whole thing explode, possibly in a White Hole event.",
+  "t": "किसी ने कभी इसे पूरा भरकर नहीं देखा कि क्या होगा। मौजूदा सिद्धांत यह है कि सैद्धांतिक अधिकतम से आगे जाने पर पूरी चीज़ फट जाएगी, शायद एक श्वेत विवर (White Hole) घटना में।"
+ },
+ "a078821d2b2e": {
+  "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Buhraies shells appear as you do.",
+  "t": "<strong>मंत्र शुरू करो।</strong> मंत्र और आत्मा-ऊर्जा थामने वाले हाथ की उँगलियाँ भींचो। ऐसा करते ही बुरेज़ कवच दिखने लगते हैं।"
  },
  "a23b9db367c5": {
   "en": "3 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
@@ -35,8 +87,28 @@
   "en": "091 (images illustration)",
   "t": "091 (चित्र)"
  },
+ "dd527ba2bcfb": {
+  "en": "<strong>Target:</strong> what the spell acts on. With no target, the soul energy falls back on the caster's own idea of how it should apply itself, and a miscast explodes in soul flame in the caster's hand.",
+  "t": "<strong>निशाना:</strong> मंत्र किस पर असर करता है। निशाना न हो, तो आत्मा-ऊर्जा मंत्र चलाने वाले के अपने इस ख़याल पर लौट आती है कि उसे ख़ुद को कैसे लागू करना चाहिए, और ग़लत मंत्र मंत्र चलाने वाले के हाथ में आत्मा की लौ बनकर फट पड़ता है।"
+ },
+ "dfcfe195c9f1": {
+  "en": "An analysis of the soul. Research with it can find soul harmony, and the Buhraies used it to selectively breed people and enhance their power.",
+  "t": "आत्मा का एक विश्लेषण। इसके साथ शोध से आत्मा-सामंजस्य मिल सकता है, और बुरेज़ ने इसका इस्तेमाल लोगों का चुनिंदा प्रजनन कराने और उनकी ताक़त बढ़ाने के लिए किया।"
+ },
  "e3cc5a5f7427": {
   "en": "All Buhraies show the markings of controlled flight and built-in spell-casting mechanisms using specialized nerves attuned to soul energy that appear as veins, at least to the untrained eye, throughout the body. These reddened nerves run up and down their body.",
   "t": "सभी बुरेज़ पर नियंत्रित उड़ान और शरीर में बने जादू चलाने के तंत्रों के निशान होते हैं, आत्मा-ऊर्जा से तालमेल वाली ख़ास नसों की बदौलत, जो कम से कम अनजान नज़र को पूरे शरीर में शिराओं जैसी दिखती हैं। ये लाल नसें उनके शरीर में ऊपर से नीचे तक दौड़ती हैं।"
+ },
+ "e5d418c7583e": {
+  "en": "<strong>Verb:</strong> what you want to do. You have to think it clearly; a lack of concentration means a miscast, an explosion, or even blowback.",
+  "t": "<strong>क्रिया:</strong> तुम क्या करना चाहते हो। तुम्हें इसे साफ़-साफ़ सोचना होगा; ध्यान की कमी का मतलब है ग़लत मंत्र, विस्फोट, या उल्टा वार भी।"
+ },
+ "f2508a76391f": {
+  "en": "<strong>Infuse soul energy.</strong> The casting hand takes in energy when the caster \"eats\" with it. Touching the middle and ring fingers lights up the Buhraies veins in that hand with soul flame, and when the other hand \"eats\", the flames are absorbed. A spell is only stable at a soul energy tier, so energy always fills up to the next tier (after a partial charge, it adds the difference).",
+  "t": "<strong>आत्मा-ऊर्जा भरो।</strong> मंत्र चलाने वाला हाथ तब ऊर्जा लेता है जब मंत्र चलाने वाला उससे \"खाता\" है। बीच की और अनामिका उँगली छूने से उस हाथ की बुरेज़ नसें आत्मा की लौ से जल उठती हैं, और जब दूसरा हाथ \"खाता\" है, तो लपटें सोख ली जाती हैं। मंत्र सिर्फ़ किसी आत्मा-ऊर्जा स्तर पर ही स्थिर होता है, तो ऊर्जा हमेशा अगले स्तर तक भरती है (आंशिक चार्ज के बाद, वह फ़र्क़ जोड़ देती है)।"
+ },
+ "f6eb3327d46d": {
+  "en": "When a spell is cast, five rings appear around the hand holding it. Each shell, on its own, holds a limited number of soul energy tiers:",
+  "t": "जब मंत्र चलाया जाता है, तो उसे थामने वाले हाथ के चारों ओर पाँच छल्ले दिखते हैं। हर कवच, अपने आप में, आत्मा-ऊर्जा के सीमित स्तर ही थाम सकता है:"
  }
 }
