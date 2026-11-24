@@ -1,4 +1,8 @@
 {
+ "03acadced801": {
+  "en": "<strong>Nari stones:</strong> one stone for Tier I, two for Tier II, four for Tier III, and so on. Once used, a nari stone turns diamond-like as its blue hue fades.",
+  "t": "<strong>Đá nari:</strong> một viên cho Bậc I, hai viên cho Bậc II, bốn viên cho Bậc III, và cứ thế. Sau khi dùng, đá nari chuyển sang giống kim cương khi sắc xanh của nó phai đi."
+ },
  "07b9494886d6": {
   "en": "Using The Interface - Feed",
   "t": "Sử dụng giao diện - Nạp"
@@ -15,33 +19,101 @@
   "en": "This is where some progress has been made in extending the interface framework! Nobody has successfully transformed the OBJECT and VERB structure of the interface—but they have been able to increase the information density of the object while retaining consistent casting.",
   "t": "Đây là nơi đã có một số tiến bộ trong việc mở rộng khung giao diện! Chưa ai biến đổi thành công cấu trúc ĐỐI TƯỢNG và ĐỘNG TỪ của giao diện—nhưng họ đã có thể tăng mật độ thông tin của đối tượng trong khi vẫn giữ được việc thi triển ổn định."
  },
+ "0d754b757652": {
+  "en": "Copper → Zinc",
+  "t": "Đồng → Kẽm"
+ },
  "0dd08d5e4d8c": {
   "en": "As you feed a specific command and energy into the interface, you will see balls representing the command. You can never mix and match commands; only one command + energy + release may be executed. Below is a plain reference of the different ball statuses",
   "t": "Khi bạn nạp một lệnh và năng lượng cụ thể vào giao diện, bạn sẽ thấy những viên bi đại diện cho lệnh. Bạn không bao giờ được trộn lẫn các lệnh; chỉ có thể thực hiện một lệnh + năng lượng + giải phóng. Dưới đây là bảng tham chiếu đơn giản về các trạng thái khác nhau của bi"
+ },
+ "0e4e80712ada": {
+  "en": "Shock VERB",
+  "t": "Shock VERB"
+ },
+ "10668848ecf1": {
+  "en": "Gold → Mercury",
+  "t": "Vàng → Thủy ngân"
+ },
+ "117351fd0784": {
+  "en": "Healing with Body Restore",
+  "t": "Chữa thương bằng Body Restore"
  },
  "11aa2b4fa9b9": {
   "en": "Full Darfaries Interface - scribling and soul energy stone mode (video)",
   "t": "Giao diện Darfaries đầy đủ - Chế độ viết nguệch ngoạc và đá năng lượng linh hồn (video)"
  },
+ "11cd9fd209af": {
+  "en": "Missing legs or arms",
+  "t": "Mất chân hoặc tay"
+ },
+ "124ba39cf2f3": {
+  "en": "Earth VERB",
+  "t": "Earth VERB"
+ },
  "12ef1365e090": {
   "en": "But hey, at least your best friend might be honored to be stuffed and cooked—vorarephilia is a thing anyways.",
   "t": "Nhưng này, ít ra bạn thân của bạn có thể thấy vinh dự khi được nhồi và nấu—dù sao thì vorarephilia cũng có thật mà."
+ },
+ "132a84ea1843": {
+  "en": "<strong>Create:</strong> tries to recreate the target's body, born where the spell was started. It must be fed Black Honey to grow the clone, and it stays lifeless unless the original is killed, since only one being can connect to a soul. Cloning yourself shortens your lifespan and raises your cancer risk, because the soul's link is forced to thin out, so it's heavily discouraged.",
+  "t": "<strong>Create:</strong> cố tái tạo cơ thể của mục tiêu, sinh ra tại nơi phép được bắt đầu. Nó phải được cho ăn Black Honey để bản sao lớn lên, và nó vẫn vô hồn trừ khi bản gốc bị giết, vì chỉ một thực thể có thể kết nối với một linh hồn. Tự nhân bản bản thân làm giảm tuổi thọ và tăng nguy cơ ung thư, vì liên kết của linh hồn bị buộc phải mỏng đi, nên việc này bị khuyến cáo mạnh mẽ."
+ },
+ "1364798c2866": {
+  "en": "Nari Refresher, injected with a glass syringe, undoes nari gel body mods.",
+  "t": "Nari Refresher, tiêm bằng ống tiêm thủy tinh, hủy các chỉnh sửa cơ thể bằng gel nari."
  },
  "13ef126e315c": {
   "en": "To not have any significant amount means you likely came from a bloodline that lived far remote or perhaps outside the four kingdoms, as free commerce and right of passage are perfectly positive correlations with mixing biological fluids between species.",
   "t": "Không có lượng máu đáng kể nào nghĩa là bạn có lẽ đến từ một dòng dõi sống ở nơi rất xa xôi hoặc có lẽ ngoài bốn vương quốc, vì thương mại tự do và quyền đi lại tương quan thuận hoàn hảo với việc trộn lẫn dịch thể sinh học giữa các loài."
  },
+ "154544b93e9e": {
+  "en": "Spells in this category can be released into an object, or in the air, or as a projectile if you cock your arm back and release the spell as you push it forward.",
+  "t": "Các phép trong nhóm này có thể được giải phóng vào một vật thể, hoặc vào không khí, hoặc như một đường đạn nếu bạn co tay lại và giải phóng phép khi đẩy tay về phía trước."
+ },
+ "19e2f002b0a7": {
+  "en": "This is where some progress has been made in extending the interface. Nobody has managed to change its OBJECT and VERB structure, but people have packed more information into the object while keeping the casting consistent. Forway hasn't approved a new compound object for sigil rings in a while: there's a single requirement, but it's incredibly tough to meet. Random passersby are asked to use the experimental sigil ring, and if any of them miscasts, the compound object isn't approved.",
+  "t": "Đây là nơi đã có một số tiến bộ trong việc mở rộng giao diện. Chưa ai thay đổi được cấu trúc OBJECT và VERB của nó, nhưng người ta đã nhồi thêm thông tin vào đối tượng mà vẫn giữ cho việc thi triển nhất quán. Đã lâu rồi Forway chưa phê duyệt một đối tượng ghép mới nào cho nhẫn ấn: chỉ có một yêu cầu duy nhất, nhưng cực kỳ khó đáp ứng. Những người qua đường ngẫu nhiên được mời dùng chiếc nhẫn ấn thử nghiệm, và nếu bất kỳ ai trong số họ thi triển hỏng, đối tượng ghép đó không được phê duyệt."
+ },
+ "1e9148fad723": {
+  "en": "Cat. Elemental",
+  "t": "Nhóm Elemental"
+ },
+ "2142eb994fdb": {
+  "en": "Among researchers, a faint rumor calls it \"Uncontrolled Create\".",
+  "t": "Trong giới nghiên cứu, một tin đồn mơ hồ gọi nó là “Uncontrolled Create”."
+ },
  "23d178528dd4": {
   "en": "Ring #5 (closest to elbow): 50*",
   "t": "Vòng #5 (gần khuỷu tay nhất): 50*"
+ },
+ "254617659d40": {
+  "en": "One or two deeper cuts and minor blood loss",
+  "t": "Một hoặc hai vết cắt sâu hơn và mất máu ít"
  },
  "26d10a4d512d": {
   "en": "Instead of fingers, you can use nari stones sticks to feed power without using yours, or someone else's, Soul Energy.",
   "t": "Thay vì ngón tay, bạn có thể dùng que đá nari để nạp năng lượng mà không dùng Năng lượng linh hồn của mình, hay của người khác."
  },
+ "277f47c12f8c": {
+  "en": "<strong>Tiers:</strong> the more soul energy (and flesh) put in, the higher the chance of getting a soul to your specifications. The more things you seek in a soul, the more its power is diluted across those skills: ask for someone good at singing, baking and herding, and the energy poured in will most likely be spread evenly among the three. At times the distribution comes out erratic, because the spell \"captures\" and summons a soul in decay that happens to match the summoner's requirements. It also de-ages the target soul.",
+  "t": "<strong>Bậc:</strong> càng nhiều năng lượng linh hồn (và thịt) được đưa vào, cơ hội có được một linh hồn đúng yêu cầu càng cao. Bạn tìm càng nhiều thứ ở một linh hồn, sức mạnh của nó càng bị pha loãng qua các kỹ năng đó: yêu cầu một người giỏi hát, làm bánh và chăn gia súc, và năng lượng đổ vào nhiều khả năng sẽ được chia đều cho cả ba. Đôi khi sự phân bổ ra thất thường, vì phép “bắt” và triệu hồi một linh hồn đang phân rã tình cờ khớp với yêu cầu của người triệu hồi. Nó cũng làm trẻ lại linh hồn mục tiêu."
+ },
  "2853d1cbd2ea": {
   "en": "Simple Objects",
   "t": "Đối tượng đơn"
+ },
+ "2874ac07bfa0": {
+  "en": "Ice VERB",
+  "t": "Ice VERB"
+ },
+ "2ca369f05b2d": {
+  "en": "Nari sticks (nari stones chained together) fuel the spell. A single-use nari stick is spent in one cast, and they aren't cheap.",
+  "t": "Que nari (đá nari xâu thành chuỗi) cung cấp năng lượng cho phép. Một que nari dùng một lần sẽ cạn sau một lần thi triển, và chúng không hề rẻ."
+ },
+ "2dba29a226b6": {
+  "en": "<strong>Destroy:</strong> tries to destroy the target's whole body. At low tiers it only causes internal or external bleeding; medium tiers can cause convulsions; high tiers cause an explosion.",
+  "t": "<strong>Destroy:</strong> cố phá hủy toàn bộ cơ thể của mục tiêu. Ở bậc thấp, nó chỉ gây chảy máu trong hoặc ngoài; bậc trung bình có thể gây co giật; bậc cao gây ra một vụ nổ."
  },
  "2e99783c4368": {
   "en": "Controlled Flight",
@@ -51,6 +123,18 @@
   "en": "This widely-known interface came up as a merger between the ancient species Fuhraies’s, Buhraies’s, and Lishies’s genetics and their own interfaces. One would assume that would lead to one of the most potent, versatile interfaces that would be as, if not more, powerful than Buhraies interface. In some ways, it is as it gels incredibly well with sigil rings or drawing logograms on it, as you don’t even have to think about it once you get the hand coordination just right. However, this came at the expense that if you do not draw a logogram, it is nearly impossible to control it.",
   "t": "Giao diện nổi tiếng này ra đời từ sự hợp nhất giữa bộ gen của các chủng loài cổ đại Fuhraies, Buhraies và Lishies cùng các giao diện của chính họ. Người ta sẽ cho rằng điều đó dẫn đến một trong những giao diện mạnh mẽ, đa năng nhất, mạnh ngang, nếu không hơn, giao diện Buhraies. Ở một số mặt thì đúng vậy, vì nó kết hợp cực kỳ tốt với nhẫn ấn ký hoặc vẽ ký tự lên đó, vì bạn thậm chí không cần nghĩ đến nữa khi đã phối hợp tay thuần thục. Tuy nhiên, cái giá là nếu bạn không vẽ ký tự, gần như không thể điều khiển được nó."
  },
+ "304bfc2c3ef8": {
+  "en": "Among certain researchers, a faint rumor says it can also be used as \"Uncontrolled Create\", with bigger potential gains and risks.",
+  "t": "Trong một số nhà nghiên cứu, một tin đồn mơ hồ nói rằng nó cũng có thể được dùng như “Uncontrolled Create”, với lợi ích và rủi ro tiềm tàng lớn hơn."
+ },
+ "308ba49d2897": {
+  "en": "Casting a spell",
+  "t": "Thi triển một phép"
+ },
+ "30c372919601": {
+  "en": "Near-instant regeneration, if there's enough fat or Black Honey to heal with",
+  "t": "Tái tạo gần như tức thì, nếu có đủ mỡ hoặc Black Honey để chữa lành"
+ },
  "35e10a8d52ff": {
   "en": "Variant Verbs",
   "t": "Động từ biến thể"
@@ -59,17 +143,53 @@
   "en": "Such a feat did claim a lot of street creds among scientists but also a lot of enemies. Not enemies in the traditional sense, as we’re talking a bunch of nerdy scientists that fight with pens and papers rather than bloody means… Except for some who tried to get physical with Gabiro, but when he was younger, he was not as defenseless as one might expect from a shut-in.",
   "t": "Thành tựu như vậy đã mang lại cho ông nhiều uy tín trong giới khoa học nhưng cũng nhiều kẻ thù. Không phải kẻ thù theo nghĩa truyền thống, vì ta đang nói về một đám nhà khoa học mọt sách đấu nhau bằng bút và giấy chứ không phải bằng cách đổ máu… Trừ một số người từng cố động tay động chân với Gabiro, nhưng hồi trẻ ông không yếu ớt như người ta nghĩ về một kẻ chỉ ru rú trong nhà."
  },
+ "37e04d60d2e6": {
+  "en": "<strong>What happened in Vol 1, Chapter 1:</strong> Gabiro was trying to bind a specific soul. A lack of proper concentration and not enough nari power made all the soul and body genetic information suddenly meld, triggering a White Hole event, and the soul energy of everyone involved fused into a single being. In that event, a nearly decayed soul (Harry's) was bound by pure chance. What was left of the soul tied to the bagarisa corpse used in the \"summoning ritual\" was wildly different from Harry's. When the explosion happened, Gabiro's own soul was fused into the mix too, and Harry's soul absorbed the capacity of all three. That's how Harry woke up able to speak Vraki, the common language, and why he later develops a custom interface (Vol 4).",
+  "t": "<strong>Chuyện gì đã xảy ra ở Tập 1, Chương 1:</strong> Gabiro đang cố liên kết một linh hồn cụ thể. Thiếu sự tập trung đúng mức và không đủ sức mạnh nari khiến toàn bộ thông tin di truyền của linh hồn và cơ thể đột ngột hòa vào nhau, gây ra một sự kiện Hố Trắng, và năng lượng linh hồn của tất cả những người liên quan hợp nhất thành một thực thể duy nhất. Trong sự kiện đó, một linh hồn gần như đã phân rã (của Harry) được liên kết hoàn toàn do tình cờ. Những gì còn lại của linh hồn gắn với xác bagarisa dùng trong “nghi lễ triệu hồi” khác hẳn với linh hồn của Harry. Khi vụ nổ xảy ra, chính linh hồn của Gabiro cũng bị hợp nhất vào, và linh hồn của Harry hấp thụ năng lực của cả ba. Đó là lý do Harry tỉnh dậy đã nói được tiếng Vraki, ngôn ngữ chung, và vì sao về sau anh phát triển một giao diện tùy chỉnh (Tập 4)."
+ },
+ "38819f04d9eb": {
+  "en": "Blank sigil rings are forbidden, to prevent accidents. Only courtroom scientists and Aquamarine or Sapphire adventurers may use them, to experiment with new spells.",
+  "t": "Nhẫn ấn trống bị cấm, để tránh tai nạn. Chỉ nhà khoa học hoàng gia và nhà mạo hiểm Aquamarine hoặc Sapphire mới được dùng chúng, để thử nghiệm phép mới."
+ },
+ "398793d966e2": {
+  "en": "Manganese → Iron",
+  "t": "Mangan → Sắt"
+ },
+ "3a54978fb627": {
+  "en": "Platinum → Gold",
+  "t": "Bạch kim → Vàng"
+ },
+ "3c410b0a889e": {
+  "en": "Dust VERB",
+  "t": "Dust VERB"
+ },
  "3d33ae375a2b": {
   "en": "The rings themselves can only hold so much, although as far as everyone knows, nobody except probably Buhraies or perhaps only the primordial species Finaies could cast such a spell at a world-changing scale.",
   "t": "Bản thân các chiếc vòng chỉ chứa được một lượng nhất định, dù theo những gì mọi người biết, không ai ngoại trừ có lẽ Buhraies hoặc chỉ có chủng loài nguyên thủy Finaies mới có thể thi triển một phép ở quy mô thay đổi thế giới."
+ },
+ "3e4dc5c341ad": {
+  "en": "A piece of someone's flesh can be grown with Body Restore to see their real body (to identify a disguised intruder, for example).",
+  "t": "Một mẩu thịt của ai đó có thể được nuôi lớn bằng Body Restore để thấy cơ thể thật của họ (chẳng hạn để nhận diện một kẻ xâm nhập cải trang)."
+ },
+ "3fe9f0d4a994": {
+  "en": "<strong>Create:</strong> tries to create objects from the target using all the elements around. Have the elements it's made of nearby to improve the odds.",
+  "t": "<strong>Create:</strong> cố tạo ra đồ vật từ mục tiêu bằng tất cả các nguyên tố xung quanh. Để các nguyên tố cấu thành nó ở gần để tăng cơ hội."
  },
  "402c5a0d838c": {
   "en": "21 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "Còn 21 mục khác trên trang này chỉ có trong <button class=\"linklike\" data-go-bts>Hậu trường</button>."
  },
+ "408579690be8": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts other bodies. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Repel/Attract:</strong> mục tiêu đẩy hoặc hút các vật thể khác. Không có mục tiêu, lửa linh hồn đơn giản là bốc hơi."
+ },
  "42463c89d747": {
   "en": "Using The Interface - Setup",
   "t": "Sử dụng giao diện - Chuẩn bị"
+ },
+ "42c245d29157": {
+  "en": "Material manipulation is an experimental Darfaries research branch, meant to manipulate the world around.",
+  "t": "Thao túng vật chất là một nhánh nghiên cứu Darfaries thử nghiệm, nhằm thao túng thế giới xung quanh."
  },
  "430a66b55695": {
   "en": "{BodyPart} VERB",
@@ -79,9 +199,41 @@
   "en": "It has been a while since Forway approved a new compound object for sigil rings. There is a single requirement, but succeeding is incredibly tough!",
   "t": "Đã lâu rồi Forway mới phê duyệt một đối tượng phức hợp mới cho nhẫn ấn ký. Chỉ có một yêu cầu duy nhất, nhưng thành công thì vô cùng khó!"
  },
+ "450b29b2cf51": {
+  "en": "<strong>Someone's soul energy:</strong> when the person touches their middle and ring fingers, the Darfaries veins in their hand light up with soul flame (every race that came after the ancient species has them: Darfaries, Wozefaries, Sorefaries and humans), and the caster's other hand \"eats\" the flames.",
+  "t": "<strong>Năng lượng linh hồn của một người:</strong> khi người đó chạm ngón giữa và ngón áp út, các mạch Darfaries trên bàn tay họ bừng sáng lửa linh hồn (mọi chủng tộc xuất hiện sau các loài cổ đại đều có chúng: Darfaries, Wozefaries, Sorefaries và loài người), và bàn tay kia của người thi triển “ăn” ngọn lửa."
+ },
  "450d017ad77c": {
   "en": "Then stick out your middle and ring fingers and touch them on the logograms of the open palm.",
   "t": "Rồi duỗi ngón giữa và ngón áp út ra và chạm chúng vào các ký tự trên lòng bàn tay đang mở."
+ },
+ "458fa8521bce": {
+  "en": "<strong>Increase/Decrease:</strong> the target grows or shrinks, but its weight stays the same, since its density changes. If the density goes up too much, the item shrinks into infinity and disappears forever. It can harm an item whose function depends on its density. It can turn one metal into another through fusion, but it explodes most of the time.",
+  "t": "<strong>Increase/Decrease:</strong> mục tiêu lớn lên hoặc thu nhỏ lại, nhưng trọng lượng giữ nguyên, vì mật độ của nó thay đổi. Nếu mật độ tăng quá nhiều, vật thể thu nhỏ đến vô cực và biến mất mãi mãi. Nó có thể làm hỏng một vật mà chức năng phụ thuộc vào mật độ. Nó có thể biến kim loại này thành kim loại khác qua phản ứng hợp hạch, nhưng phần lớn thời gian nó phát nổ."
+ },
+ "46020650f5bc": {
+  "en": "<strong>Disassemble:</strong> tries to explode the body.",
+  "t": "<strong>Disassemble:</strong> cố làm nổ tung cơ thể."
+ },
+ "460f450c5a7f": {
+  "en": "<strong>Increase/Decrease:</strong> behaves like Create/Destroy.",
+  "t": "<strong>Increase/Decrease:</strong> hoạt động như Create/Destroy."
+ },
+ "47fb12785962": {
+  "en": "A missing head",
+  "t": "Mất đầu"
+ },
+ "48b4259f25a7": {
+  "en": "<strong>Destroy:</strong> explodes the target into a shower of extremely fine particles and gas, basically a fine dust; at lower tiers, it might only destroy the object's outer shell.",
+  "t": "<strong>Destroy:</strong> làm nổ tung mục tiêu thành một trận mưa hạt cực mịn và khí, về cơ bản là bụi mịn; ở bậc thấp hơn, nó có thể chỉ phá hủy lớp vỏ ngoài của vật thể."
+ },
+ "4966438ddf0f": {
+  "en": "Researchers don't fully understand the process. In reality, the spell doesn't create a soul: it tries to pull a disconnected soul into the flesh you want, where it melds with that flesh's own leftover soul connections into a final hybrid. Sex and giving birth are somewhat like that process too: giving new life is basically mixing two souls, giving part of yourself for a newborn to form.",
+  "t": "Các nhà nghiên cứu chưa hiểu hết quá trình này. Thực ra, phép không tạo ra linh hồn: nó cố kéo một linh hồn đã mất kết nối vào phần thịt bạn muốn, nơi nó hòa với những kết nối linh hồn còn sót lại của chính phần thịt đó thành một thể lai cuối cùng. Tình dục và sinh nở cũng phần nào giống quá trình đó: trao sự sống mới về cơ bản là pha trộn hai linh hồn, trao một phần của chính mình để một đứa trẻ sơ sinh hình thành."
+ },
+ "4e20ac3a2fdc": {
+  "en": "Shock Create restarts the heart. Storm Create at Tier II or more also works (higher the fatter the person), but it creates a localized storm that harms the skin, so it's more of a \"punishment revival\".",
+  "t": "Shock Create khởi động lại tim. Storm Create ở Bậc II trở lên cũng được (người càng béo thì bậc càng cao), nhưng nó tạo ra một cơn bão cục bộ làm tổn thương da, nên giống một kiểu “hồi sinh trừng phạt” hơn."
  },
  "4e68b482c7fd": {
   "en": "If you see one of those in a sigil, then for sure it was manufactured before 987 A.G! Some even collect those as trinkets, which increased their price, which then brought fakes to be manufactured. Seeing the shitstorm developing, Forway officialized production of the old versions, which dismantled the market for it, and the problem was solved! Still, lots of people were pissed, but at least it stopped the grift.",
@@ -95,17 +247,57 @@
   "en": "Cat. Body",
   "t": "Loại: Cơ thể"
  },
+ "503bdeb70c12": {
+  "en": "Multiple broken bones and major blood loss",
+  "t": "Gãy nhiều xương và mất máu nhiều"
+ },
+ "5255c62e691b": {
+  "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Darfaries shells appear as you do. With a sigil ring:",
+  "t": "<strong>Bắt đầu phép.</strong> Siết chặt các ngón tay của bàn tay giữ phép và năng lượng linh hồn. Các lớp vỏ Darfaries xuất hiện khi bạn làm vậy. Với nhẫn ấn:"
+ },
+ "528b9fb4db2c": {
+  "en": "<strong>Increase/Decrease:</strong> the whole body grows or shrinks.",
+  "t": "<strong>Increase/Decrease:</strong> toàn bộ cơ thể lớn lên hoặc thu nhỏ lại."
+ },
+ "55f999e07aab": {
+  "en": "Restore and Create started out as two different spells. But the logograms are an interface to raw soul energy, whose meaning all users share as fact, and over time both came to mean the same thing: regrow what's missing from the body, be it a finger, or everything else if only a finger is left. If no genetic information remains, see Cat. Soul or other interfaces.",
+  "t": "Restore và Create ban đầu là hai phép khác nhau. Nhưng các ký tự là giao diện với năng lượng linh hồn thô, mà ý nghĩa của nó được mọi người dùng chia sẻ như sự thật, và theo thời gian cả hai đã mang cùng một nghĩa: mọc lại những gì còn thiếu trên cơ thể, dù là một ngón tay, hay mọi thứ khác nếu chỉ còn lại một ngón tay. Nếu không còn thông tin di truyền nào, xem Nhóm Soul hoặc các giao diện khác."
+ },
  "560c3c8d4c6b": {
   "en": "Ring #1 (closest to wrist): 2",
   "t": "Vòng #1 (gần cổ tay nhất): 2"
+ },
+ "57a8586e6216": {
+  "en": "Interface shells",
+  "t": "Các lớp vỏ giao diện"
  },
  "583b25caa114": {
   "en": "Healing is also often performed through this interface due to its abundant nature or as a way to heal a living soul being affected by the nari gel interface without resetting its effects, as one interface cannot reset or manipulate another interface.",
   "t": "Chữa thương cũng thường được thực hiện qua giao diện này vì nó phổ biến, hoặc như một cách chữa cho một linh hồn sống đang bị giao diện gel nari tác động mà không xóa hiệu ứng của nó, vì một giao diện không thể xóa hay điều khiển một giao diện khác."
  },
+ "595c54a14320": {
+  "en": "The mass affected follows the General Power Effects: 0.1 kg at Tier I, doubling with every tier (51.2 kg at Tier X).",
+  "t": "Khối lượng bị ảnh hưởng theo Hiệu ứng Sức mạnh Chung: 0,1 kg ở Bậc I, gấp đôi qua mỗi bậc (51,2 kg ở Bậc X)."
+ },
+ "599af3d37f22": {
+  "en": "Mud VERB",
+  "t": "Mud VERB"
+ },
  "59ddf0bbb393": {
   "en": "Darfaries interface status: a glowing light-blue ring around a forearm with small colored icons orbiting it.",
   "t": "Trạng thái giao diện Darfaries: một vòng sáng xanh nhạt quanh cẳng tay với những biểu tượng nhỏ nhiều màu quay quanh."
+ },
+ "5bd44ebe63cd": {
+  "en": "Tier",
+  "t": "Bậc"
+ },
+ "5c0704ac369f": {
+  "en": "A missing torso",
+  "t": "Mất thân mình"
+ },
+ "5c447d60de4b": {
+  "en": "V (largest, farthest from the hand)",
+  "t": "V (lớn nhất, xa bàn tay nhất)"
  },
  "5cb6d6625907": {
   "en": "Darfaries Interface · #HusbandOutWorld",
@@ -119,9 +311,21 @@
   "en": "Interface \"Balls\"",
   "t": "“Bi” của giao diện"
  },
+ "5e59f0f13ed9": {
+  "en": "If healing isn't happening, the target must be fed Black Honey or another energy-dense food. Five bottles of Black Honey are like eating tens of 2,000-calorie junk food meals. It's expensive, but there's plenty to go around.",
+  "t": "Nếu việc lành không diễn ra, mục tiêu phải được cho ăn Black Honey hoặc một loại thức ăn giàu năng lượng khác. Năm chai Black Honey tương đương ăn hàng chục bữa đồ ăn vặt 2.000 calo. Nó đắt, nhưng có rất nhiều."
+ },
  "5e6cc8d41ac1": {
   "en": "987 A.G, the one and only Gabiro Sanbi Royal, landed the formalization of Darfaries interface verbs and the addition of both Transmute and Entangle by creating a new version from the older interfaces. You could say he stole Right, Up, Down, Left, &amp; Rolls from other scientists claiming it, but he was the one who created a uniformity that no other scientists had in mind, so he took home all the glory.",
   "t": "Năm 987 A.G., Gabiro Sanbi Royal có một không hai đã đạt được việc chính thức hóa các động từ của giao diện Darfaries và bổ sung cả Transmute lẫn Entangle bằng cách tạo ra một phiên bản mới từ các giao diện cũ hơn. Bạn có thể nói ông đã đánh cắp Right, Up, Down, Left, &amp; Rolls từ những nhà khoa học khác tuyên bố chúng, nhưng chính ông là người tạo ra sự thống nhất mà không nhà khoa học nào khác nghĩ đến, nên ông ẵm trọn vinh quang."
+ },
+ "61c1c4f2478a": {
+  "en": "The Buhraies either were more efficient with this interface or used something else that gave them a leg up. Forway made the Transmute symbol official purely to help research.",
+  "t": "Người Buhraies hoặc dùng giao diện này hiệu quả hơn, hoặc dùng một thứ khác giúp họ chiếm ưu thế. Forway chính thức hóa ký hiệu Transmute hoàn toàn để giúp nghiên cứu."
+ },
+ "6462a34fdd62": {
+  "en": "Put lost limbs close to the body, so regrowing them doesn't take as much energy. Severe damage makes the body use a lot of energy to heal.",
+  "t": "Đặt các chi bị mất gần cơ thể, để việc mọc lại không tốn nhiều năng lượng. Tổn thương nặng khiến cơ thể dùng rất nhiều năng lượng để lành."
  },
  "66d73579e999": {
   "en": "176 (images illustration)",
@@ -131,25 +335,105 @@
   "en": "You must apply the logograms to the skin of one of your palms, or use sigil rings, then clench your fingers to start the interface while keeping the palm visible.",
   "t": "Bạn phải vẽ các ký tự lên da một bên lòng bàn tay, hoặc dùng nhẫn ấn ký, rồi nắm các ngón tay lại để khởi động giao diện trong khi vẫn để lòng bàn tay lộ ra."
  },
+ "68fd817c6916": {
+  "en": "A sigil ring brings forth a spell: its logograms make soul energy mutate and do what the caster wants.",
+  "t": "Một chiếc nhẫn ấn mang đến một phép: các ký tự của nó khiến năng lượng linh hồn biến đổi và làm điều người thi triển muốn."
+ },
+ "69722a5e4037": {
+  "en": "Gravity VERB",
+  "t": "Gravity VERB"
+ },
  "69776ca57e19": {
   "en": "*At least that’s what scientists calculated, as no official Forway record of an exceedingly high-tier spell being cast exists.",
   "t": "*Ít nhất đó là con số các nhà khoa học tính toán, vì không có ghi chép chính thức nào của Forway về việc một phép bậc cực cao từng được thi triển."
+ },
+ "6b174442593e": {
+  "en": "What each tier can heal:",
+  "t": "Mỗi bậc chữa được gì:"
+ },
+ "6b805f489c01": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts everything around it (gravity still affects it). With no target, the soul flame simply evaporates.",
+  "t": "<strong>Repel/Attract:</strong> mục tiêu đẩy hoặc hút mọi thứ xung quanh nó (trọng lực vẫn tác động lên nó). Không có mục tiêu, lửa linh hồn đơn giản là bốc hơi."
  },
  "6bb5f88148f9": {
   "en": "Ring #3: 18",
   "t": "Vòng #3: 18"
  },
+ "6bf9374ceec0": {
+  "en": "Body VERB",
+  "t": "Body VERB"
+ },
+ "6cf9bf72fbec": {
+  "en": "<strong>Restore/Disassemble:</strong> draws the element into the target from its surroundings, or explodes it out of the target into its surroundings.",
+  "t": "<strong>Restore/Disassemble:</strong> kéo nguyên tố vào mục tiêu từ môi trường xung quanh, hoặc làm nó bùng nổ ra khỏi mục tiêu vào môi trường xung quanh."
+ },
  "6d5c5b3cf877": {
   "en": "Using the Darfaries Interface is a process of its own. Though, like riding an egua, once you learn it, it just becomes second nature.",
   "t": "Sử dụng Giao diện Darfaries là cả một quy trình. Dù vậy, cũng như cưỡi egua, một khi học được, nó sẽ thành bản năng thứ hai."
+ },
+ "6d7e4622451a": {
+  "en": "Body manipulation spells are easier to cast, but they can be risky if the caster doesn't know the side effects. Some people may develop side effects not listed here.",
+  "t": "Các phép thao túng cơ thể dễ thi triển hơn, nhưng có thể rủi ro nếu người thi triển không biết tác dụng phụ. Một số người có thể gặp tác dụng phụ không được liệt kê ở đây."
+ },
+ "6d98ffb6c2df": {
+  "en": "When the body runs out of fuel, Black Honey finishes the healing, so the target doesn't turn skeletal from undernourishment.",
+  "t": "Khi cơ thể cạn nhiên liệu, Black Honey hoàn tất việc chữa lành, để mục tiêu không trơ xương vì thiếu dinh dưỡng."
+ },
+ "6fadfb89a110": {
+  "en": "<strong>Verb:</strong> the change being applied. With no verb, the soul energy falls back on the caster's own idea of what it should do.",
+  "t": "<strong>Động từ:</strong> sự thay đổi được áp dụng. Không có động từ, năng lượng linh hồn quay về theo ý niệm của chính người thi triển về điều nó nên làm."
+ },
+ "703d02d20cde": {
+  "en": "In short: choose the spell, put energy into it, and release it. A spell has two parts:",
+  "t": "Nói ngắn gọn: chọn phép, nạp năng lượng vào, và giải phóng nó. Một phép có hai phần:"
+ },
+ "705649a46934": {
+  "en": "Frozen Earth VERB",
+  "t": "Frozen Earth VERB"
+ },
+ "7135a4e587c8": {
+  "en": "Ash VERB",
+  "t": "Ash VERB"
+ },
+ "724c8389bd95": {
+  "en": "Steam VERB",
+  "t": "Steam VERB"
  },
  "73b453b0f98a": {
   "en": "Forway considered banning non-logogram usage of this interface in the early 800s A.G., but the scientific community's pushback was too strong. Community opinion shifted in the early 900s A.G. after many scientific tragedies occurred without clear progress. By the late 900s A.G., only fringe scientists like Gabiro Sundeath (also known as Gabiro Sanbi Royal) seemed to be still investigating it.",
   "t": "Forway từng cân nhắc cấm dùng giao diện này mà không có ký tự vào đầu những năm 800 A.G., nhưng sự phản đối của giới khoa học quá mạnh. Ý kiến cộng đồng thay đổi vào đầu những năm 900 A.G. sau khi nhiều thảm kịch khoa học xảy ra mà không có tiến bộ rõ ràng. Đến cuối những năm 900 A.G., dường như chỉ còn những nhà khoa học bên lề như Gabiro Sundeath (còn được biết đến là Gabiro Sanbi Royal) vẫn nghiên cứu nó."
  },
+ "756bf4c104c4": {
+  "en": "<strong>Uses:</strong> mainly to entangle the sounds reaching people's ears, so they all hear the same thing. It can be overwhelming: sounds echo when people are close to each other, and it gets harder to tell where sounds other than voices are coming from.",
+  "t": "<strong>Công dụng:</strong> chủ yếu để làm vướng víu âm thanh đến tai mọi người, để tất cả nghe cùng một thứ. Nó có thể gây choáng ngợp: âm thanh vang vọng khi mọi người ở gần nhau, và khó xác định hơn những âm thanh khác ngoài giọng nói đến từ đâu."
+ },
+ "76c79f05025e": {
+  "en": "Sigil rings",
+  "t": "Nhẫn ấn"
+ },
+ "76f489077f50": {
+  "en": "Storm VERB",
+  "t": "Storm VERB"
+ },
+ "7802ad32f0ce": {
+  "en": "Verbs",
+  "t": "Động từ"
+ },
+ "78c2d1c75d87": {
+  "en": "Either way, a miscast explodes in soul flame in the caster's hands.",
+  "t": "Dù thế nào, một lần thi triển hỏng sẽ phát nổ thành lửa linh hồn trong tay người thi triển."
+ },
+ "7a91c4983d68": {
+  "en": "World VERB",
+  "t": "World VERB"
+ },
  "7c67e01db87c": {
   "en": "Full Darfaries Interface - Sigil and Nari stone mode",
   "t": "Giao diện Darfaries đầy đủ - Chế độ ấn ký và đá nari"
+ },
+ "7cde42e1eb31": {
+  "en": "Transmute",
+  "t": "Transmute"
  },
  "7df913eb7771": {
   "en": "Ring #2: 8",
@@ -159,21 +443,69 @@
   "en": "To release the spell, unclench the fingers. To add motion to the spell, cock your arm, then throw it towards the target to transfer the inertia into the spell.",
   "t": "Để giải phóng phép, hãy mở các ngón tay ra. Để thêm chuyển động cho phép, hãy co tay lại, rồi ném về phía mục tiêu để truyền quán tính vào phép."
  },
+ "83a077984fe7": {
+  "en": "The Buhraies created this interface as an enhancement to their own soul energy interface, in an attempt to control the Darfaries as a versatile army of foot soldiers.",
+  "t": "Người Buhraies tạo ra giao diện này như một sự cải tiến cho giao diện năng lượng linh hồn của chính họ, nhằm điều khiển người Darfaries như một đội quân bộ binh đa năng."
+ },
+ "840823ff59c1": {
+  "en": "<strong>Restore:</strong> shapes the item into the desired object by combining elements around the caster, basically the reverse of chemical reactions. Have the elements it's made of nearby to improve the odds; otherwise the repaired object may break again if the new connections aren't strong.",
+  "t": "<strong>Restore:</strong> định hình vật thể thành đồ vật mong muốn bằng cách kết hợp các nguyên tố quanh người thi triển, về cơ bản là đảo ngược các phản ứng hóa học. Để các nguyên tố cấu thành nó ở gần để tăng cơ hội; nếu không, đồ vật được sửa có thể lại vỡ nếu các liên kết mới không chắc."
+ },
+ "845f813c2b56": {
+  "en": "<strong>Tiers:</strong> the mass affected follows the General Power Effects (0.1 kg at Tier I, doubling with every tier).",
+  "t": "<strong>Bậc:</strong> khối lượng bị ảnh hưởng theo Hiệu ứng Sức mạnh Chung (0,1 kg ở Bậc I, gấp đôi qua mỗi bậc)."
+ },
+ "85e7149e86b7": {
+  "en": "<strong>Revival, step by step</strong> (as Morika does it in Vol 4):",
+  "t": "<strong>Hồi sinh, từng bước một</strong> (như Morika làm trong Tập 4):"
+ },
  "889505c1f708": {
   "en": "This widely-known interface came up as a merger between the ancient species Fuhraies’s, Buhraies’s, and Lishies’s genetics and their own interfaces.",
   "t": "Giao diện nổi tiếng này ra đời từ sự hợp nhất giữa bộ gen của các chủng loài cổ đại Fuhraies, Buhraies và Lishies cùng các giao diện của chính họ."
+ },
+ "8a4a4532c533": {
+  "en": "<strong>Apply the energy.</strong> Touch what you want to apply it to with your palm and straighten your fingers, or release the spell as it is for a ranged attack. Cock your arm and time it right for extra range. The caster's body feels the weight of the spell, like firing a gun.",
+  "t": "<strong>Áp dụng năng lượng.</strong> Chạm lòng bàn tay vào thứ bạn muốn áp dụng và duỗi thẳng các ngón tay, hoặc giải phóng phép như vậy để tấn công tầm xa. Co tay lại và canh đúng thời điểm để tăng tầm. Cơ thể người thi triển cảm nhận được sức nặng của phép, như khi bắn súng."
+ },
+ "8ca6193582e9": {
+  "en": "Water VERB",
+  "t": "Water VERB"
+ },
+ "8d204a0435e5": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Darfaries%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Darfaries Interface.md</a>",
+  "t": "Nguồn: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Darfaries%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Darfaries Interface.md</a>"
  },
  "8f6687bd0076": {
   "en": "The “Veins”",
   "t": "Những “gân”"
  },
+ "930585f35c72": {
+  "en": "<strong>Choose the spell</strong> (see Language › Darfaries Interface Language). Either put on a sigil ring:",
+  "t": "<strong>Chọn phép</strong> (xem Ngôn ngữ › Ngôn ngữ Giao diện Darfaries). Hoặc đeo một chiếc nhẫn ấn:"
+ },
+ "95ca95757aa4": {
+  "en": "Cat. Soul",
+  "t": "Nhóm Soul"
+ },
+ "984bfe340ee0": {
+  "en": "Healing matches the flesh to how the soul looks, so old scars don't exist in Vraki unless someone is too poor for nari gels or the Darfaries Interface. Tattoos are removed as soon as Body Restore is used.",
+  "t": "Việc chữa lành khiến phần thịt khớp với hình dạng của linh hồn, nên sẹo cũ không tồn tại ở Vraki trừ khi ai đó quá nghèo để dùng gel nari hay Giao diện Darfaries. Hình xăm bị xóa ngay khi dùng Body Restore."
+ },
  "995e5279ac7d": {
   "en": "To add more power, repeat this action. Be aware that each “eating“ motion attempts to bring the spell to the next stable tier, or energy level, so awareness of the increased soul energy needed between each higher tier is essential.",
   "t": "Để thêm năng lượng, lặp lại động tác này. Hãy lưu ý rằng mỗi động tác “ăn“ đều cố đưa phép lên bậc ổn định tiếp theo, hay mức năng lượng, nên việc nhận thức được lượng năng lượng linh hồn tăng thêm cần có giữa mỗi bậc cao hơn là điều thiết yếu."
  },
+ "9bd96337042b": {
+  "en": "Nickel → Copper",
+  "t": "Niken → Đồng"
+ },
  "9f156873d1d5": {
   "en": "Sigil rings are a modern and quicker way to interact with the Darfaries Interface. Without it, one must draw the logograms into the skin of their palm, which can be a lengthy process, even for seasoned adventurers. Dangerous, too, as if you draw something unclear as it could cause the interface to default to your thoughts, and you needlessly turn your best friend into a fanchaki all because you thought about what’s cooking for dinner while casting it. And if you’re really messing with the soul, even if by accident, you might never find a way to undo it.",
   "t": "Nhẫn ấn ký là cách hiện đại và nhanh hơn để tương tác với Giao diện Darfaries. Không có nó, người ta phải vẽ ký tự lên da lòng bàn tay, một quá trình có thể khá lâu, ngay cả với những nhà mạo hiểm dày dạn. Cũng nguy hiểm nữa, vì nếu bạn vẽ thứ gì không rõ ràng, giao diện có thể mặc định theo suy nghĩ của bạn, và bạn vô cớ biến bạn thân thành một con fanchaki chỉ vì lúc thi triển bạn nghĩ đến món ăn tối. Và nếu bạn thật sự đang nghịch với linh hồn, dù là vô tình, bạn có thể không bao giờ tìm được cách đảo ngược."
+ },
+ "a2719cb8ed6e": {
+  "en": "Every elemental spell works the same way:",
+  "t": "Mọi phép nguyên tố đều hoạt động theo cùng một cách:"
  },
  "a2b9afce0d53": {
   "en": "Ring #4: 32*",
@@ -183,45 +515,169 @@
   "en": "Darfaries Interface",
   "t": "Giao diện Darfaries"
  },
+ "a37a0f7da74e": {
+  "en": "Iron → Cobalt",
+  "t": "Sắt → Coban"
+ },
+ "a565144f956c": {
+  "en": "Creates a soul with specific soul genetic information, using flesh as the base. The incantation tries to picture the target and think aloud about its characteristics.",
+  "t": "Tạo ra một linh hồn với thông tin di truyền linh hồn cụ thể, dùng thịt làm nền. Câu niệm chú cố hình dung mục tiêu và nghĩ thành tiếng về các đặc điểm của nó."
+ },
  "a669783c12a0": {
   "en": "Using The Interface - Release",
   "t": "Sử dụng giao diện - Giải phóng"
+ },
+ "a6eb045a1ff1": {
+  "en": "<strong>Create/Destroy:</strong> Create does nothing. Destroy explodes the target into a shower of extremely fine particles and gas, basically a fine dust; at lower tiers, it might only destroy the object's outer shell.",
+  "t": "<strong>Create/Destroy:</strong> Create không làm gì cả. Destroy làm nổ tung mục tiêu thành một trận mưa hạt cực mịn và khí, về cơ bản là bụi mịn; ở bậc thấp hơn, nó có thể chỉ phá hủy lớp vỏ ngoài của vật thể."
+ },
+ "a7eb38f676c7": {
+  "en": "<strong>Restore:</strong> soul energy uses the target's soul genetic information to find what's out of place in their body, and corrects it using stored energy to fuel the changes. More below.",
+  "t": "<strong>Restore:</strong> năng lượng linh hồn dùng thông tin di truyền linh hồn của mục tiêu để tìm những gì sai lệch trong cơ thể họ, và sửa lại bằng năng lượng tích trữ để cung cấp cho các thay đổi. Xem thêm bên dưới."
  },
  "a8fe88bccc82": {
   "en": "Full Darfaries Interface - scribling and soul energy stone mode",
   "t": "Giao diện Darfaries đầy đủ - Chế độ viết nguệch ngoạc và đá năng lượng linh hồn"
  },
+ "aa288905b03d": {
+  "en": "I (smallest, closest to the hand)",
+  "t": "I (nhỏ nhất, gần bàn tay nhất)"
+ },
+ "aa39015fda61": {
+  "en": "Science - Darfaries Interface (World Lore illustration)",
+  "t": "Khoa học - Giao diện Darfaries (Minh họa Thế giới quan)"
+ },
+ "ad0f7e005000": {
+  "en": "Body Restore, through a sigil ring fueled by nari sticks.",
+  "t": "Body Restore, qua một chiếc nhẫn ấn được cấp năng lượng bằng que nari."
+ },
  "ad789405eb37": {
   "en": "Compound objects",
   "t": "Đối tượng phức hợp"
+ },
+ "aeaf0ba689f9": {
+  "en": "Cobalt → Nickel",
+  "t": "Coban → Niken"
+ },
+ "b325204b56ca": {
+  "en": "The best-known spells (healing, reviving, elemental and more) can be bought at any Soul Energy shop.",
+  "t": "Những phép nổi tiếng nhất (chữa thương, hồi sinh, nguyên tố và hơn thế nữa) có thể mua ở bất kỳ cửa hàng Năng lượng linh hồn nào."
  },
  "b4801c89826b": {
   "en": "Due to their size, Darfaries cannot fly, but they can somewhat dampen their fall from approximately three-story buildings. Wozefaries can dampen their fall from up to ten-story buildings, while Sorefaries can control their attitude at will, and even carry some weight with them. The weight depends on the Sorefaries’ strength, dexterity, and soul energy capacity.",
   "t": "Do kích thước, Darfaries không thể bay, nhưng họ có thể phần nào giảm tốc khi rơi từ những tòa nhà khoảng ba tầng. Wozefaries có thể giảm tốc khi rơi từ những tòa nhà cao đến mười tầng, trong khi Sorefaries có thể điều khiển tư thế tùy ý, và thậm chí mang theo một ít trọng lượng. Trọng lượng phụ thuộc vào sức mạnh, sự khéo léo và dung lượng năng lượng linh hồn của Sorefaries."
  },
+ "b647f1de4ac0": {
+  "en": "Bruises",
+  "t": "Vết bầm"
+ },
+ "b92c87f1b12d": {
+  "en": "Soul energy shapes the spell using logograms drawn from the knowledge shared by the people nearby.",
+  "t": "Năng lượng linh hồn định hình phép thuật bằng các ký tự lấy từ tri thức được chia sẻ bởi những người ở gần."
+ },
+ "ba9989c6673e": {
+  "en": "<strong>Subject:</strong> the target of the spell. With no subject, the soul energy falls back on the caster's own idea of how it should apply itself.",
+  "t": "<strong>Chủ thể:</strong> mục tiêu của phép. Không có chủ thể, năng lượng linh hồn quay về theo ý niệm của chính người thi triển về cách nó nên tác động."
+ },
+ "baded418ca13": {
+  "en": "A White Hole (also called White Fire) is what happens when soul energy doesn't convert properly into the desired outcome: it backfires, explodes, or becomes nothing instead of something. These events aren't quite an urban legend: scientists and researchers know about them. They were better known in the old days, before Forway really became a thing and resentment against messing with the soul became commonplace.",
+  "t": "Hố Trắng (còn gọi là Lửa Trắng) là điều xảy ra khi năng lượng linh hồn không chuyển hóa đúng thành kết quả mong muốn: nó phản phệ, phát nổ, hoặc trở thành hư không thay vì một thứ gì đó. Những sự kiện này không hẳn là truyền thuyết đô thị: các nhà khoa học và nhà nghiên cứu biết về chúng. Chúng từng được biết đến nhiều hơn vào thời xưa, trước khi Forway thực sự trở thành một thế lực và sự phẫn nộ đối với việc can thiệp vào linh hồn trở nên phổ biến."
+ },
+ "bc6f4bc6da01": {
+  "en": "Heals",
+  "t": "Chữa được"
+ },
+ "bdc1fd5d3c0f": {
+  "en": "Shell",
+  "t": "Lớp vỏ"
+ },
+ "be58ecb5f9ad": {
+  "en": "Drawn logograms are forbidden inside city and kingdom perimeters, because of the risk of explosions and miscasts:",
+  "t": "Ký tự vẽ tay bị cấm trong phạm vi thành phố và vương quốc, vì nguy cơ phát nổ và thi triển hỏng:"
+ },
  "c0074aa34b2d": {
   "en": "Darfaries Interface Video showcase",
   "t": "Video giới thiệu Giao diện Darfaries"
+ },
+ "c0a448a02870": {
+  "en": "Water Gravity VERB",
+  "t": "Water Gravity VERB"
+ },
+ "c4ebb12ada7e": {
+  "en": "Soul Create (Book I Chapter I Gabiro’s version)",
+  "t": "Soul Create (phiên bản của Gabiro ở Tập I Chương I)"
+ },
+ "c4f55f2d0048": {
+  "en": "<strong>Restore/Disassemble:</strong> Restore doesn't put things back together from their pieces; it just makes the object look newer. Disassemble does the reverse: it rusts an item. It's basically the reverse of chemical reactions.",
+  "t": "<strong>Restore/Disassemble:</strong> Restore không lắp ráp lại mọi thứ từ các mảnh của chúng; nó chỉ khiến đồ vật trông mới hơn. Disassemble làm ngược lại: nó làm gỉ một món đồ. Về cơ bản là đảo ngược các phản ứng hóa học."
+ },
+ "c6838a9cbc77": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts the element. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Repel/Attract:</strong> mục tiêu đẩy hoặc hút nguyên tố. Không có mục tiêu, lửa linh hồn đơn giản là bốc hơi."
  },
  "c8c7488b1383": {
   "en": "Environmental changes, especially creation, destruction, and manipulation of elemental properties such as water, fire, terrain, and gravity, are commonly performed through this interface.",
   "t": "Thay đổi môi trường, đặc biệt là tạo ra, phá hủy và điều khiển các thuộc tính nguyên tố như nước, lửa, địa hình và trọng lực, thường được thực hiện qua giao diện này."
  },
+ "cac2d50e5374": {
+  "en": "It only restores the base genetic information; it doesn't deal with whatever is causing the damage, such as worms.",
+  "t": "Nó chỉ khôi phục thông tin di truyền cơ bản; nó không xử lý thứ đang gây ra tổn thương, như giun."
+ },
  "cb864e0c3c67": {
   "en": "Keeping your fingers clenched on the hand you used the logograms on, you must now trap the fingers, or nari stone stick, then reverse the motion while keeping the fingers clenched. This sort of “eating“ motion will suck the power and create a ball into one of the rings that will temporarily hold power. Do not worry about how fast it zips around. The rings will keep it in check until you release the spell in the final step.",
   "t": "Giữ các ngón tay nắm lại ở bàn tay đã vẽ ký tự, giờ bạn phải kẹp lấy các ngón tay, hoặc que đá nari, rồi đảo ngược động tác trong khi vẫn giữ các ngón tay nắm lại. Động tác kiểu “ăn“ này sẽ hút năng lượng và tạo ra một viên bi trong một chiếc vòng sẽ tạm thời giữ năng lượng. Đừng lo nó lượn nhanh thế nào. Các chiếc vòng sẽ giữ nó trong tầm kiểm soát cho đến khi bạn giải phóng phép ở bước cuối."
+ },
+ "cbe94eef3d69": {
+  "en": "<strong>Infuse soul energy.</strong> The casting hand takes in energy when the caster \"eats\" with it. A spell is only stable at a soul energy tier, so energy always fills up to the next tier (after a partial charge, it adds the difference). The energy can come from:",
+  "t": "<strong>Truyền năng lượng linh hồn.</strong> Bàn tay thi triển nhận năng lượng khi người thi triển “ăn” bằng nó. Một phép chỉ ổn định ở một bậc năng lượng linh hồn, nên năng lượng luôn được nạp đầy đến bậc tiếp theo (sau khi nạp một phần, nó sẽ thêm phần chênh lệch). Năng lượng có thể đến từ:"
+ },
+ "cd5fc47831e2": {
+  "en": "Entangle",
+  "t": "Entangle"
+ },
+ "d08ae5111258": {
+  "en": "Minor cuts and minor blood loss",
+  "t": "Vết cắt nhẹ và mất máu ít"
  },
  "d3ffc8903c8c": {
   "en": "Darfaries, Wozefaries, and Sorefaries show the markings of controlled flight and built-in spell-casting mechanisms using specialized nerves attuned to soul energy that appear as veins, at least to the untrained eye, throughout the upper body. These reddened nerves always ran up their hands and arms and met in the back with a distinct capillary branching appearance.",
   "t": "Darfaries, Wozefaries và Sorefaries có dấu hiệu của khả năng bay có kiểm soát và cơ chế thi triển phép tích hợp, nhờ những dây thần kinh chuyên biệt hòa hợp với năng lượng linh hồn trông như mạch máu, ít nhất với con mắt chưa qua huấn luyện, khắp phần thân trên. Những dây thần kinh ửng đỏ này luôn chạy dọc bàn tay và cánh tay và gặp nhau ở lưng với hình dạng phân nhánh mao mạch đặc trưng."
  },
+ "d41f0dd4cd5a": {
+  "en": "<strong>Uses:</strong> active research is trying to figure out how the Buhraies used it to shape the land and do all kinds of shit with it. Some researchers think it could outright make gold, which seems possible, since people have transmuted these (it just doesn't make much economic sense):",
+  "t": "<strong>Công dụng:</strong> các nghiên cứu đang cố tìm ra cách người Buhraies dùng nó để định hình đất đai và làm đủ thứ chuyện với nó. Một số nhà nghiên cứu nghĩ nó có thể tạo ra vàng thẳng luôn, điều có vẻ khả thi, vì người ta đã chuyển hóa những thứ sau (chỉ là không mấy hợp lý về kinh tế):"
+ },
+ "d50e6f0c1670": {
+  "en": "The logograms are the guardrails. Every race with the Darfaries interface can try to override them by using a knife to reach the Buhraies interface underneath, as Gabiro does in the Vol 1 prologue. It's dangerous: an empty logogram forces the user into immense concentration, and the odds aren't in their favor. So for common folk, it's basically like being unable to reach the \"ancient roots\" of the interface.",
+  "t": "Các ký tự là hàng rào bảo vệ. Mọi chủng tộc có giao diện Darfaries đều có thể thử vượt qua chúng bằng cách dùng dao để chạm tới giao diện Buhraies bên dưới, như Gabiro làm trong phần mở đầu Tập 1. Việc đó rất nguy hiểm: một ký tự trống buộc người dùng phải tập trung cao độ, và cơ hội không nghiêng về phía họ. Vì vậy, với người thường, về cơ bản là như không thể chạm tới “gốc rễ cổ xưa” của giao diện."
+ },
  "d5fc3c0d596b": {
   "en": "Currently, 26 Simple Objects are widely accepted, as in Forway-approved, for Sigil rings. They are mostly inherited from previous interfaces and haven’t changed in hundreds of years.",
   "t": "Hiện có 26 Đối tượng đơn được chấp nhận rộng rãi, nghĩa là được Forway phê duyệt, cho nhẫn ấn ký. Chúng phần lớn được thừa hưởng từ các giao diện trước đây và không thay đổi suốt hàng trăm năm."
  },
+ "d7506f50f91f": {
+  "en": "Cat. Material",
+  "t": "Nhóm Material"
+ },
+ "d8d1f53225ee": {
+  "en": "Gabiro brought Entangle back from the history books. Many had tried before him, but the side effects were always too strong; Gabiro understood how it worked in principle far better than anyone. Most people don't use it day to day, but it's a fundamental tool for the adventurers and guards who protect them.",
+  "t": "Gabiro đã đưa Entangle trở lại từ sách sử. Nhiều người đã thử trước ông, nhưng tác dụng phụ luôn quá mạnh; Gabiro hiểu nguyên lý hoạt động của nó hơn bất kỳ ai. Phần lớn mọi người không dùng nó hằng ngày, nhưng nó là công cụ cơ bản cho các nhà mạo hiểm và lính canh bảo vệ họ."
+ },
+ "d90ca37eeeb8": {
+  "en": "{Object} VERB",
+  "t": "{Object} VERB"
+ },
  "d91500bfa542": {
   "en": "Public text: science-darfaries-interface.md",
   "t": "Văn bản công khai: science-darfaries-interface.md"
+ },
+ "dcc44733ccdb": {
+  "en": "Minor broken bones and medium blood loss",
+  "t": "Gãy xương nhẹ và mất máu vừa"
+ },
+ "ddf5082031ec": {
+  "en": "Each ring has one spell carved into it, such as Body Restore or Shock Create.",
+  "t": "Mỗi chiếc nhẫn được khắc một phép, như Body Restore hay Shock Create."
  },
  "de1369b50eb5": {
   "en": "Not to say humans can’t use this interface. They certainly can! Although, only if they have shared blood with Darfaries or Wozefaries in their family.",
@@ -230,6 +686,10 @@
  "ded446aabbba": {
   "en": "Now you must make a fist with your other hand. If you can use this interface, a distinct group of five rings will surge from the white flames in your arms and expand outward, with the smallest ring closer to your wrist.",
   "t": "Giờ bạn phải nắm tay còn lại thành nắm đấm. Nếu bạn có thể dùng giao diện này, một nhóm năm chiếc vòng đặc trưng sẽ trào ra từ những ngọn lửa trắng trên cánh tay và lan rộng ra ngoài, với chiếc vòng nhỏ nhất gần cổ tay bạn hơn."
+ },
+ "e0c1969b54cd": {
+  "en": "When a spell is cast, five rings appear around the hand holding it. Each shell holds a limited number of soul energy tiers:",
+  "t": "Khi một phép được thi triển, năm vòng xuất hiện quanh bàn tay giữ phép. Mỗi lớp vỏ chứa được một số bậc năng lượng linh hồn giới hạn:"
  },
  "e5df83155e66": {
   "en": "Full Darfaries Interface - Sigil and Nari stone mode (video)",
@@ -243,6 +703,10 @@
   "en": "This is where some scientists spent their entire lives trying to claim a new verb to be accepted by Forway, but all their works became food for paper rot and forgotten to history because of a single man who broke through the hundreds of years stalemate.",
   "t": "Đây là nơi một số nhà khoa học dành cả đời cố khiến Forway chấp nhận một động từ mới, nhưng mọi công trình của họ thành mồi cho mối mọt giấy và bị lịch sử lãng quên vì một người đàn ông duy nhất đã phá vỡ thế bế tắc hàng trăm năm."
  },
+ "e8d0433850e4": {
+  "en": "Fire VERB",
+  "t": "Fire VERB"
+ },
  "ef47633dff56": {
   "en": "Given Darfaries sport the most prominent Darfaries veins, its sheer additional volume allows them to finely sense soul energy disturbances around them, plus a rough sensation of humidity, wind, and barometric pressure—it’s like how they say, if a Darfaries tells you to buy an umbrella, you better buy one!",
   "t": "Vì Darfaries có gân Darfaries nổi bật nhất, thể tích bổ sung khổng lồ cho phép họ cảm nhận tinh tế những xáo trộn năng lượng linh hồn quanh mình, cộng với cảm nhận sơ bộ về độ ẩm, gió và áp suất khí quyển—như người ta vẫn nói, nếu một Darfaries bảo bạn mua ô, tốt nhất bạn nên mua đi!"
@@ -250,5 +714,21 @@
  "f329090850be": {
   "en": "Shared Blood",
   "t": "Chung dòng máu"
+ },
+ "f5526de22a80": {
+  "en": "Or draw the logograms by hand. In the early 800s A.G., Forway considered banning the use of the interface without a sigil ring: partly to stop people drawing logograms by hand, which invites mistakes, misuse and, in rare cases, an accidental White Hole, but even more to stop anyone using the interface without logograms (the guardrails) at all. The scientific community pushed back too hard. Opinion shifted in the early 900s A.G., after many scientific tragedies with no clear progress, and by the late 900s A.G. only fringe scientists like Gabiro Sundeath (also known as Gabiro Sanbi Royal) still seemed to be investigating it.",
+  "t": "Hoặc vẽ các ký tự bằng tay. Vào đầu những năm 800 A.G., Forway từng cân nhắc cấm dùng giao diện mà không có nhẫn ấn: một phần để ngăn người ta vẽ ký tự bằng tay, điều dễ dẫn đến sai sót, lạm dụng và, trong những trường hợp hiếm, một Hố Trắng ngoài ý muốn, nhưng còn hơn thế là để ngăn bất kỳ ai dùng giao diện mà hoàn toàn không có ký tự (hàng rào bảo vệ). Giới khoa học phản đối quá mạnh. Dư luận thay đổi vào đầu những năm 900 A.G., sau nhiều thảm kịch khoa học mà không có tiến bộ rõ ràng, và đến cuối những năm 900 A.G., chỉ những nhà khoa học ngoài lề như Gabiro Sundeath (còn được biết đến là Gabiro Sanbi Royal) dường như vẫn còn nghiên cứu nó."
+ },
+ "f6bd920f19f0": {
+  "en": "Lava VERB",
+  "t": "Lava VERB"
+ },
+ "f7e4312c3e9b": {
+  "en": "Body parts for later use are kept in jars of a viscous red jelly: finely ground nari stone mixed with blood.",
+  "t": "Các bộ phận cơ thể để dùng sau được giữ trong lọ thạch đỏ sệt: đá nari nghiền mịn trộn với máu."
+ },
+ "ff5ced0ff9c1": {
+  "en": "Wind VERB",
+  "t": "Wind VERB"
  }
 }
