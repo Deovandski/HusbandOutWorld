@@ -15,6 +15,10 @@
   "en": "One of the largest chambers rumored to exist deep underground. Finding chunks of minerals, nari included, is a given there; getting there is the hardest and most dangerous part. The Queen Nari Worm is rumored to live there.",
   "t": "หนึ่งในห้องที่ใหญ่ที่สุดที่ลือกันว่ามีอยู่ลึกใต้ดิน การเจอก้อนแร่ รวมถึงนาริ เป็นเรื่องแน่นอนที่นั่น การไปถึงคือส่วนที่ยากและอันตรายที่สุด ลือกันว่าราชินีนาริเวิร์มอาศัยอยู่ที่นั่น"
  },
+ "15e532445c62": {
+  "en": "Woodland",
+  "t": "วูดแลนด์"
+ },
  "1f5f1ae20689": {
   "en": "Snow Houses",
   "t": "บ้านหิมะ"
@@ -22,6 +26,10 @@
  "212324c1037c": {
   "en": "The land of big mammals, with tons of resources to explore and things to eat. Giant sloths rule the place as the de facto kings of the land.",
   "t": "ดินแดนของสัตว์เลี้ยงลูกด้วยนมขนาดใหญ่ มีทรัพยากรให้สำรวจและของกินเพียบ สลอธยักษ์ครองที่นี่ในฐานะราชาแห่งแผ่นดินโดยพฤตินัย"
+ },
+ "24047948dc2e": {
+  "en": "Buhraies Plains",
+  "t": "ที่ราบบูไรส์"
  },
  "29f9154f4ee6": {
   "en": "\"Today's Castle Mood\"",
@@ -55,6 +63,10 @@
   "en": "<strong>The Ancient Plaza:</strong> a small plaza surrounded by several buildings.",
   "t": "<strong>ลานโบราณ:</strong> ลานเล็กๆ ที่ล้อมรอบด้วยอาคารหลายหลัง"
  },
+ "5940031df0c3": {
+  "en": "Hifuna",
+  "t": "ฮิฟูนา"
+ },
  "5c8f17d1827b": {
   "en": "One of the first roads was built up the South Dip into Tolerideme. In 572 A.G., Tolerideme blew the road up after losing too many men in the war against Sanbi.",
   "t": "ถนนสายแรกๆ สายหนึ่งถูกสร้างขึ้นตามที่ลาดใต้เข้าสู่โทเลอริดีม ใน 572 A.G. โทเลอริดีมระเบิดถนนหลังเสียทหารไปมากเกินไปในสงครามกับซันบี"
@@ -66,6 +78,10 @@
  "61f2901031be": {
   "en": "The Buhraies took earth from here to build up the Buhraies Plains, and made an underground structure that pipes the lake's water into Wingarest. Also known as Lukewarm Lake, Buhraies Lake or Buhraies Lukewarm Lake. Known for its Fihi, which developed a taste for human flesh.",
   "t": "บูไรส์เอาดินจากที่นี่ไปสร้างที่ราบบูไรส์ และสร้างโครงสร้างใต้ดินที่ส่งน้ำของทะเลสาบไปยังวิงกาเรสต์ หรือที่รู้จักกันในชื่อทะเลสาบลุคแวร์ม ทะเลสาบบูไรส์ หรือทะเลสาบลุคแวร์มบูไรส์ ขึ้นชื่อเรื่องฟีฮีที่ติดใจรสเนื้อมนุษย์"
+ },
+ "6646dfd846ca": {
+  "en": "Fuhrair",
+  "t": "ฟูแรร์"
  },
  "69b0925a6582": {
   "en": "Boiling Lake",
@@ -99,6 +115,10 @@
   "en": "Around 3,150 B.G., the Great Sea War destroyed part of it: the East Dip lost the most land in that invasion, and the later repairs, by a different generation, didn't match the original ratios and practices. Around 1,650 B.G., the Naked Bruntos made it crumble, and Wood People fell and slowly began to spread. The humans the Buhraies brought onto the plains later found their way out through the unstable East Dip. Like this, but much bigger and taller:",
   "t": "ราว 3,150 B.G. มหาสงครามทางทะเลทำลายส่วนหนึ่งของมัน: ที่ลาดตะวันออกเสียพื้นที่มากที่สุดในการรุกรานนั้น และการซ่อมแซมภายหลังโดยคนรุ่นที่ต่างออกไปก็ไม่ตรงกับสัดส่วนและวิธีทำของเดิม ราว 1,650 B.G. เนกเคดบรุนโตสทำให้มันพังทลาย และวูดพีเพิลก็ร่วงลงไปและค่อยๆ เริ่มแพร่กระจาย มนุษย์ที่บูไรส์พามายังที่ราบภายหลังหาทางออกผ่านที่ลาดตะวันออกที่ไม่มั่นคง แบบนี้ แต่ใหญ่และสูงกว่ามาก:"
  },
+ "854c9d12a90c": {
+  "en": "Nari Caverns",
+  "t": "ถ้ำนาริ"
+ },
  "8580ecfa094d": {
   "en": "Lands · #HusbandOutWorld",
   "t": "ดินแดน · #HusbandOutWorld"
@@ -106,6 +126,14 @@
  "8f0d529cfabf": {
   "en": "A massive castle in ruins, a favorite place for adventurers, bandits and researchers to explore. There are tons of enemies to fight, and once in a while someone finds a new room ready for ransacking. It's almost as if the castle itself is still alive. In the village, a tracker is updated daily with how moody the castle is (see Walking Heart Stone under Natural &amp; Crafted Resources):",
   "t": "ปราสาทมหึมาที่เป็นซากปรักหักพัง ที่โปรดของนักผจญภัย โจร และนักวิจัยที่จะสำรวจ มีศัตรูให้สู้มากมาย และนานๆ ครั้งก็มีคนเจอห้องใหม่ที่พร้อมให้ปล้น ราวกับว่าปราสาทยังมีชีวิตอยู่ ในหมู่บ้าน มีป้ายติดตามที่อัปเดตทุกวันว่าปราสาทอารมณ์แปรปรวนแค่ไหน (ดู หินวอล์กกิงฮาร์ต ใต้หัวข้อทรัพยากรธรรมชาติ &amp; ทรัพยากรที่ประดิษฐ์ขึ้น):"
+ },
+ "90be1de7cd5c": {
+  "en": "Endlessboil",
+  "t": "เอนด์เลสบอยล์"
+ },
+ "9946f53c30b4": {
+  "en": "Whiteland",
+  "t": "ไวต์แลนด์"
  },
  "9d0c15eaae6a": {
   "en": "Sweet Sting Nest",
@@ -143,13 +171,25 @@
   "en": "At the top of the mountain, always boiling and making clouds and mist.",
   "t": "บนยอดเขา เดือดตลอดเวลาและสร้างเมฆและหมอก"
  },
+ "c83db8a6a1b7": {
+  "en": "Aldemeri",
+  "t": "อัลเดเมรี"
+ },
  "cfde7b38384e": {
   "en": "The planet's south pole. White Roundies live there, alongside some other mammals, most of the year. Humans don't really visit, unless they're running from everyone.",
   "t": "ขั้วโลกใต้ของดาวเคราะห์ ไวต์ราวนดีส์อาศัยอยู่ที่นั่น ร่วมกับสัตว์เลี้ยงลูกด้วยนมอื่นๆ เกือบทั้งปี มนุษย์ไม่ค่อยไปเยือน เว้นแต่กำลังหนีจากทุกคน"
  },
+ "d29b1a0ebf5e": {
+  "en": "Lukewarm",
+  "t": "ลุคแวร์ม"
+ },
  "d2d45e24d3b6": {
   "en": "<strong>The Ancient Four-Story Tall Building:</strong> the last four-story-tall Lishies building.",
   "t": "<strong>อาคารโบราณสูงสี่ชั้น:</strong> อาคารลิชีส์สูงสี่ชั้นหลังสุดท้าย"
+ },
+ "d61deffb4629": {
+  "en": "Newland",
+  "t": "นิวแลนด์"
  },
  "dd6613bb92dc": {
   "en": "<strong>Visual reference:</strong> like Ganyrami, but rockier in its architecture.",
@@ -166,5 +206,9 @@
  "e6e8d987ac35": {
   "en": "Summary written by AI from the author's notes (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Land.md\">Land.md</a>). <a href=\"/about/ai-disclosure/\">AI disclosure</a>",
   "t": "สรุปโดย AI จากบันทึกของผู้เขียน (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Land.md\">Land.md</a>) <a href=\"/about/ai-disclosure/\">การเปิดเผยการใช้ AI</a>"
+ },
+ "ebcaff60b2e1": {
+  "en": "Lishin",
+  "t": "ลิชิน"
  }
 }
