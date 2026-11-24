@@ -1,46 +1,746 @@
 {
+ "00375d65fc23": {
+  "en": "<strong>History:</strong> a city guard who also specializes in Soul Energy is promoted to City Guard Captain. A guard with great communication skills or innate Soul Energy talent might have that schooling paid for by the kingdom (depending on how the kingdom is organized).",
+  "t": "<strong>ประวัติ:</strong> ทหารยามเมืองที่เชี่ยวชาญพลังวิญญาณด้วยจะได้เลื่อนเป็นกัปตันทหารยามเมือง ทหารยามที่สื่อสารเก่งหรือมีพรสวรรค์ด้านพลังวิญญาณโดยกำเนิดอาจได้อาณาจักรออกค่าเรียนให้ (ขึ้นอยู่กับการจัดระเบียบของอาณาจักร)"
+ },
+ "0091129d644c": {
+  "en": "<strong>History:</strong> someone has to organize the building and repair of things.",
+  "t": "<strong>ประวัติ:</strong> ต้องมีคนจัดการการสร้างและซ่อมสิ่งต่างๆ"
+ },
+ "009fb6b22db7": {
+  "en": "<strong>History:</strong> someone has to take care of the people traveling through cities.",
+  "t": "<strong>ประวัติ:</strong> ต้องมีคนดูแลคนที่เดินทางผ่านเมือง"
+ },
+ "00a2ebb46466": {
+  "en": "<strong>Training:</strong> knowing how to please the guest goes a long way; otherwise, learn on the job.",
+  "t": "<strong>การฝึก:</strong> การรู้วิธีทำให้แขกพอใจช่วยได้มาก ไม่อย่างนั้นก็เรียนรู้จากการทำงานจริง"
+ },
+ "00b2688c2097": {
+  "en": "<strong>Training:</strong> learn on the job as an apprentice; no reading required.",
+  "t": "<strong>การฝึก:</strong> เรียนรู้จากการทำงานจริงในฐานะเด็กฝึกงาน ไม่จำเป็นต้องอ่านออก"
+ },
+ "01455a3069c1": {
+  "en": "<strong>Training:</strong> Fundamental School helps.",
+  "t": "<strong>การฝึก:</strong> โรงเรียนพื้นฐานช่วยได้"
+ },
+ "0181d3ad31fd": {
+  "en": "City Guard Captain",
+  "t": "กัปตันทหารยามเมือง"
+ },
+ "0205d40adecd": {
+  "en": "<strong>History:</strong> they buy and sell as they travel from city to city. The best place to find odd trinkets is with one of them.",
+  "t": "<strong>ประวัติ:</strong> พวกเขาซื้อและขายขณะเดินทางจากเมืองสู่เมือง ที่ที่ดีที่สุดในการหาของจุกจิกแปลกๆ คือกับพวกเขาสักคน"
+ },
+ "04320838c308": {
+  "en": "<strong>Training:</strong> Fundamental School and Combat School.",
+  "t": "<strong>การฝึก:</strong> โรงเรียนพื้นฐานและโรงเรียนการต่อสู้"
+ },
+ "04d2b1d98bab": {
+  "en": "<strong>History:</strong> most kingdoms need to plan ahead for their courtroom scientist's demise.",
+  "t": "<strong>ประวัติ:</strong> อาณาจักรส่วนใหญ่ต้องวางแผนล่วงหน้าเผื่อการจากไปของนักวิทยาศาสตร์ประจำราชสำนัก"
+ },
+ "055b9db55503": {
+  "en": "<strong>History:</strong> someone has to build stuff.",
+  "t": "<strong>ประวัติ:</strong> ต้องมีคนสร้างของ"
+ },
  "061957d75186": {
   "en": "Male and female Woolies: shaggy orange cattle-like animals with long curved horns.",
   "t": "วูลลีตัวผู้และตัวเมีย: สัตว์สีส้มขนดกคล้ายวัวพร้อมเขายาวโค้ง"
+ },
+ "0706ee124d03": {
+  "en": "Lighthouse Keeper",
+  "t": "คนดูแลประภาคาร"
+ },
+ "09d1158c4a7b": {
+  "en": "Diener",
+  "t": "สัปเหร่อ"
+ },
+ "0b767e247a06": {
+  "en": "Fruit/Herbs Dryer",
+  "t": "คนตากผลไม้/สมุนไพร"
+ },
+ "0bc6a6b16e86": {
+  "en": "<strong>Duties:</strong> beauty is in the eye of the beholder.",
+  "t": "<strong>หน้าที่:</strong> ความงามอยู่ในสายตาของผู้มอง"
+ },
+ "0c4a53144651": {
+  "en": "Waste Manager",
+  "t": "คนจัดการขยะ"
+ },
+ "0d9122fb134f": {
+  "en": "<strong>Duties:</strong> plan construction, assign roles, manage people, and manage costs, material orders, etc.",
+  "t": "<strong>หน้าที่:</strong> วางแผนการก่อสร้าง มอบหมายบทบาท จัดการคน และจัดการต้นทุน การสั่งวัสดุ ฯลฯ"
+ },
+ "0db304bdd851": {
+  "en": "Classy Courtesans",
+  "t": "หญิงคณิกาชั้นดี"
+ },
+ "0e41a042a432": {
+  "en": "Tier VI Professions",
+  "t": "อาชีพระดับ VI"
+ },
+ "1247f153760d": {
+  "en": "Tier II Professions",
+  "t": "อาชีพระดับ II"
+ },
+ "12e503810d6f": {
+  "en": "<strong>Average pay:</strong> 5 Pearls an hour for apprentices, 6 for masters.",
+  "t": "<strong>ค่าจ้างเฉลี่ย:</strong> เด็กฝึกงาน 5 เพิร์ลต่อชั่วโมง ช่างฝีมือ 6"
+ },
+ "130edefe1f46": {
+  "en": "<strong>Training:</strong> Adventurer School.",
+  "t": "<strong>การฝึก:</strong> โรงเรียนนักผจญภัย"
+ },
+ "147847d73ee8": {
+  "en": "Hunter",
+  "t": "นักล่า"
+ },
+ "1517b4c084b4": {
+  "en": "<strong>Training:</strong> learn on the job.",
+  "t": "<strong>การฝึก:</strong> เรียนรู้จากการทำงานจริง"
+ },
+ "17f180a8667b": {
+  "en": "<strong>Duties:</strong> write down historical events, keep libraries organized and books in top shape, and study the ruins.",
+  "t": "<strong>หน้าที่:</strong> จดบันทึกเหตุการณ์ทางประวัติศาสตร์ จัดห้องสมุดให้เป็นระเบียบและดูแลหนังสือให้อยู่ในสภาพดี และศึกษาซากปรักหักพัง"
+ },
+ "1dd0155b64c8": {
+  "en": "<strong>Duties:</strong> be good at negotiating prices.",
+  "t": "<strong>หน้าที่:</strong> เก่งการต่อรองราคา"
+ },
+ "1ee1a81d47c2": {
+  "en": "<strong>Duties:</strong> create and repair armor, tunics and related items.",
+  "t": "<strong>หน้าที่:</strong> สร้างและซ่อมชุดเกราะ เสื้อตูนิก และของที่เกี่ยวข้อง"
+ },
+ "206a2bc39c03": {
+  "en": "<strong>History:</strong> you can get paid to get fucked.",
+  "t": "<strong>ประวัติ:</strong> คุณรับเงินเพื่อให้คนเย็ดได้"
+ },
+ "20eac6bf0636": {
+  "en": "<strong>History:</strong> why not get paid to get fucked, especially if you're handsome or pretty, and famous?",
+  "t": "<strong>ประวัติ:</strong> ทำไมไม่รับเงินเพื่อให้คนเย็ด โดยเฉพาะถ้าคุณหล่อหรือสวย และมีชื่อเสียง?"
+ },
+ "21c6d2cb35a3": {
+  "en": "<strong>Duties:</strong> take care of Woolies and help with their births.",
+  "t": "<strong>หน้าที่:</strong> ดูแลวูลลีและช่วยการคลอด"
+ },
+ "2370de6d52bc": {
+  "en": "<strong>Average pay:</strong> 2 Pearls an hour for apprentices, 3 for masters.",
+  "t": "<strong>ค่าจ้างเฉลี่ย:</strong> เด็กฝึกงาน 2 เพิร์ลต่อชั่วโมง ช่างฝีมือ 3"
+ },
+ "2442142a33ee": {
+  "en": "<strong>Training:</strong> knowing how to please the guest goes a long way; otherwise, learn on the job. Luck and street smarts help.",
+  "t": "<strong>การฝึก:</strong> การรู้วิธีทำให้แขกพอใจช่วยได้มาก ไม่อย่างนั้นก็เรียนรู้จากการทำงานจริง โชคและไหวพริบเอาตัวรอดช่วยได้"
+ },
+ "25a5a56ebe59": {
+  "en": "<strong>Training:</strong> Blacksmithing School, and a natural talent for crafting.",
+  "t": "<strong>การฝึก:</strong> โรงเรียนตีเหล็ก และพรสวรรค์ด้านงานฝีมือโดยธรรมชาติ"
  },
  "25dd3b485e48": {
   "en": "Professions · #HusbandOutWorld",
   "t": "อาชีพ · #HusbandOutWorld"
  },
+ "2908e8b6af90": {
+  "en": "Tier III Professions",
+  "t": "อาชีพระดับ III"
+ },
+ "2a8b7e82d527": {
+  "en": "Famous Courtesans",
+  "t": "หญิงคณิกาชื่อดัง"
+ },
+ "2c74044a7e3b": {
+  "en": "<strong>Duties:</strong> handle livestock and crops, and get dirty on the job. Maybe handle a person or two, but usually just guild members.",
+  "t": "<strong>หน้าที่:</strong> จัดการปศุสัตว์และพืชผล และลงมือเลอะเทอะในงาน อาจจัดการคนหนึ่งสองคน แต่ปกติก็แค่สมาชิกกิลด์"
+ },
+ "2ca4943a7001": {
+  "en": "The fourth richest people in the world. Their power reaches a neighborhood at most.",
+  "t": "คนที่รวยเป็นอันดับสี่ของโลก อำนาจของพวกเขาไปถึงระดับย่านเป็นอย่างมาก"
+ },
+ "2d0df710fde7": {
+  "en": "Aquamarine-Adventurer",
+  "t": "นักผจญภัยระดับอความารีน"
+ },
+ "2d8fd340266c": {
+  "en": "<strong>Training:</strong> Fundamental School, Soul Energy School, and Tier VI Soul Energy capabilities.",
+  "t": "<strong>การฝึก:</strong> โรงเรียนพื้นฐาน โรงเรียนพลังวิญญาณ และความสามารถด้านพลังวิญญาณระดับ VI"
+ },
+ "2df123cf8c88": {
+  "en": "<strong>Duties:</strong> listen to people's requests and relay them to the Sanbi Kingdom as official requests. Basically, an on-the-go stand-in for the King and Queen, so everyone is heard.",
+  "t": "<strong>หน้าที่:</strong> ฟังคำขอของผู้คนและส่งต่อให้อาณาจักรซันบีเป็นคำขอทางการ โดยพื้นฐานคือตัวแทนเคลื่อนที่ของกษัตริย์และราชินี เพื่อให้ทุกคนได้รับการรับฟัง"
+ },
+ "2e8be980ce98": {
+  "en": "<strong>History:</strong> the job came into being when great adventurers founded the kingdoms and needed more help running them.",
+  "t": "<strong>ประวัติ:</strong> อาชีพนี้เกิดขึ้นเมื่อนักผจญภัยผู้ยิ่งใหญ่ก่อตั้งอาณาจักรและต้องการความช่วยเหลือในการบริหารมากขึ้น"
+ },
+ "2f50ef5863f0": {
+  "en": "<strong>History:</strong> one of the earliest jobs, first done by the same person who extracted the resource.",
+  "t": "<strong>ประวัติ:</strong> หนึ่งในอาชีพแรกสุด ทำครั้งแรกโดยคนเดียวกับที่สกัดทรัพยากร"
+ },
+ "2f980c70dd52": {
+  "en": "<strong>Duties:</strong> handle people, livestock and crops, and maybe get dirty on the job.",
+  "t": "<strong>หน้าที่:</strong> จัดการคน ปศุสัตว์ และพืชผล และอาจต้องลงมือเลอะเทอะในงาน"
+ },
  "30621505b695": {
   "en": "Jobs in the Four Kingdoms are ranked in tiers, from Tier VI (kings, queens and courtroom scientists, the richest people in the kingdoms) down through artisans…",
   "t": "อาชีพในสี่อาณาจักรถูกจัดเป็นระดับ ตั้งแต่ระดับ VI (กษัตริย์ ราชินี และนักวิทยาศาสตร์ราชสำนัก ผู้มั่งคั่งที่สุดในอาณาจักร) ลงมาถึงช่างฝีมือ…"
+ },
+ "31fb072ed162": {
+  "en": "Tier V Professions",
+  "t": "อาชีพระดับ V"
+ },
+ "32ed08835c99": {
+  "en": "Lumberjack",
+  "t": "คนตัดไม้"
+ },
+ "33df308e3a5b": {
+  "en": "<strong>Duties:</strong> prepare stone and wood for buildings and artisans.",
+  "t": "<strong>หน้าที่:</strong> เตรียมหินและไม้สำหรับอาคารและช่างฝีมือ"
+ },
+ "3406aa18360d": {
+  "en": "<strong>History:</strong> large farms are usually the result of many generations of hard-working people.",
+  "t": "<strong>ประวัติ:</strong> ฟาร์มใหญ่ปกติเป็นผลจากคนทำงานหนักหลายรุ่น"
+ },
+ "364d37be779d": {
+  "en": "King",
+  "t": "กษัตริย์"
  },
  "36e49964836d": {
   "en": "Male and female Eguas: sturdy brown horse-like animals with saddles and saddlebags.",
   "t": "เอกัวตัวผู้และตัวเมีย: สัตว์สีน้ำตาลกำยำคล้ายม้าพร้อมอานและกระเป๋าอาน"
  },
+ "39180cc0f501": {
+  "en": "<strong>Duties:</strong> create and repair highly detailed armor, tunics and related items.",
+  "t": "<strong>หน้าที่:</strong> สร้างและซ่อมชุดเกราะ เสื้อตูนิก และของที่เกี่ยวข้องที่มีรายละเอียดสูง"
+ },
+ "3923a027a9d7": {
+  "en": "<strong>Duties:</strong> fix and clean boats.",
+  "t": "<strong>หน้าที่:</strong> ซ่อมและทำความสะอาดเรือ"
+ },
+ "3aa5b22c7b20": {
+  "en": "The third richest people in the world. Their power reaches a city at most.",
+  "t": "คนที่รวยเป็นอันดับสามของโลก อำนาจของพวกเขาไปถึงระดับเมืองเป็นอย่างมาก"
+ },
+ "3c5c26cd0d32": {
+  "en": "<strong>Duties:</strong> carry the dead to the mortuary, prepare them for the ritual, and clean up bodily fluids to contain disease (depending on the local culture).",
+  "t": "<strong>หน้าที่:</strong> ขนคนตายไปห้องเก็บศพ เตรียมพวกเขาสำหรับพิธี และทำความสะอาดของเหลวจากร่างกายเพื่อควบคุมโรค (ขึ้นอยู่กับวัฒนธรรมท้องถิ่น)"
+ },
+ "3d566d72aa21": {
+  "en": "<strong>Duties:</strong> own, part-own or manage a general trading goods store, often in touch with traveling and regional merchants.",
+  "t": "<strong>หน้าที่:</strong> เป็นเจ้าของ เป็นเจ้าของร่วม หรือบริหารร้านค้าสินค้าทั่วไป มักติดต่อกับพ่อค้าเร่และพ่อค้าระดับภูมิภาค"
+ },
+ "3db63b4904a3": {
+  "en": "<strong>Training:</strong> Fundamental School.",
+  "t": "<strong>การฝึก:</strong> โรงเรียนพื้นฐาน"
+ },
+ "3de66eb212b0": {
+  "en": "<strong>Training:</strong> Fundamental School helps, but this is self-employed, so you do you.",
+  "t": "<strong>การฝึก:</strong> โรงเรียนพื้นฐานช่วยได้ แต่นี่เป็นงานอิสระ ทำแบบที่คุณเป็นเลย"
+ },
+ "4023098315ae": {
+  "en": "Road Maintainers",
+  "t": "คนซ่อมบำรุงถนน"
+ },
+ "4115b1b799db": {
+  "en": "Small-Farm-Owner",
+  "t": "เจ้าของฟาร์มเล็ก"
+ },
  "415a1063368d": {
   "en": "Jobs in the Four Kingdoms are ranked in tiers, from Tier VI (kings, queens and courtroom scientists, the richest people in the kingdoms) down through artisans, merchants, guards, adventurers, maids and farmers. Each entry lists how the job came to be, what it requires, and which schooling it takes.",
   "t": "อาชีพในสี่อาณาจักรถูกจัดเป็นระดับ ตั้งแต่ระดับ VI (กษัตริย์ ราชินี และนักวิทยาศาสตร์ราชสำนัก ผู้มั่งคั่งที่สุดในอาณาจักร) ลงมาถึงช่างฝีมือ พ่อค้า ทหารยาม นักผจญภัย แม่บ้าน และชาวนา แต่ละรายการบอกว่าอาชีพนั้นเกิดขึ้นได้อย่างไร ต้องการอะไรบ้าง และต้องเรียนแบบไหน"
+ },
+ "41dc2c98c0fa": {
+  "en": "Tailor",
+  "t": "ช่างตัดเย็บ"
+ },
+ "440f228b6ef7": {
+  "en": "Egua Rider",
+  "t": "ผู้ขี่เอกัว"
+ },
+ "449ace1ad144": {
+  "en": "<strong>History:</strong> created by the Sanbi Kingdom as a plot device to hide what actually happened to Harry. Neferteri created the whole thing so Eori would have Harry exclusively for herself. The public Sanbi Eye was Sinoi wearing Harry's fake skin; only Neferteri knew.",
+  "t": "<strong>ประวัติ:</strong> สร้างโดยอาณาจักรซันบีเป็นเครื่องมือเนื้อเรื่องเพื่อปิดบังสิ่งที่เกิดขึ้นจริงกับแฮร์รี เนเฟอร์เตรีสร้างทั้งหมดนี้ขึ้นเพื่อให้เอโอรีได้แฮร์รีไว้คนเดียว ซันบีอายต่อหน้าสาธารณะคือซีนอยที่ใช้เฟกสกินของแฮร์รี มีแต่เนเฟอร์เตรีที่รู้"
+ },
+ "44fcb4d1413f": {
+  "en": "Artisan Tailors",
+  "t": "ช่างตัดเย็บฝีมือดี"
+ },
+ "45720464b541": {
+  "en": "<strong>History:</strong> as the number of cities grew, cities needed to correspond.",
+  "t": "<strong>ประวัติ:</strong> เมื่อจำนวนเมืองเพิ่มขึ้น เมืองต่างๆ ต้องติดต่อกัน"
+ },
+ "463637964c66": {
+  "en": "<strong>Training:</strong> Fundamental School and Accounting School.",
+  "t": "<strong>การฝึก:</strong> โรงเรียนพื้นฐานและโรงเรียนการบัญชี"
+ },
+ "4791fe5201d9": {
+  "en": "<strong>Duties:</strong> handle people, livestock and crops, and get dirty on the job.",
+  "t": "<strong>หน้าที่:</strong> จัดการคน ปศุสัตว์ และพืชผล และลงมือเลอะเทอะในงาน"
+ },
+ "48def28988d3": {
+  "en": "Local Merchants",
+  "t": "พ่อค้าท้องถิ่น"
+ },
+ "4954ddd99bae": {
+  "en": "<strong>Training:</strong> Fundamental School, Soul Energy School, and Tier VII Soul Energy capabilities.",
+  "t": "<strong>การฝึก:</strong> โรงเรียนพื้นฐาน โรงเรียนพลังวิญญาณ และความสามารถด้านพลังวิญญาณระดับ VII"
+ },
+ "4a2a438e2e86": {
+  "en": "<strong>Duties:</strong> keep the balance between food orders and meat and milk sales, etc. Also takes care of the Woolies when time allows.",
+  "t": "<strong>หน้าที่:</strong> รักษาสมดุลระหว่างคำสั่งซื้ออาหารกับการขายเนื้อและนม ฯลฯ และดูแลวูลลีเมื่อมีเวลา"
+ },
+ "4a693b717f91": {
+  "en": "<strong>Duties:</strong> take care of the kingdom, working directly under the courtroom scientists.",
+  "t": "<strong>หน้าที่:</strong> ดูแลอาณาจักร ทำงานภายใต้นักวิทยาศาสตร์ประจำราชสำนักโดยตรง"
+ },
+ "4aecf373d658": {
+  "en": "Artisan Cheesemaker",
+  "t": "ช่างทำชีสฝีมือดี"
+ },
+ "4cc0e4e2b542": {
+  "en": "<strong>History:</strong> because some cheese tastes better than others.",
+  "t": "<strong>ประวัติ:</strong> เพราะชีสบางชนิดอร่อยกว่าชนิดอื่น"
+ },
+ "4cc30bf0e4df": {
+  "en": "<strong>History:</strong> information is necessary, so some people make vellum and paper for it.",
+  "t": "<strong>ประวัติ:</strong> ข้อมูลเป็นสิ่งจำเป็น บางคนจึงทำหนังลูกวัวและกระดาษเพื่อมัน"
+ },
+ "4e490ca564ff": {
+  "en": "Stable Hand",
+  "t": "คนดูแลคอกม้า"
  },
  "4e7433e7ccf8": {
   "en": "Itagiba: a man with dark blue hair in a blue-and-yellow scale-patterned tunic and a white cape.",
   "t": "อิตากิบา: ชายผมสีน้ำเงินเข้มในเสื้อตัวยาวลายเกล็ดสีน้ำเงินกับเหลืองและเสื้อคลุมสีขาว"
  },
+ "5017ecaaa687": {
+  "en": "<strong>History:</strong> as roads were built, maintaining them became a job.",
+  "t": "<strong>ประวัติ:</strong> เมื่อถนนถูกสร้างขึ้น การดูแลรักษามันก็กลายเป็นอาชีพ"
+ },
+ "50954eebb17f": {
+  "en": "Courtroom Scientists",
+  "t": "นักวิทยาศาสตร์ประจำราชสำนัก"
+ },
+ "51a3785f5d91": {
+  "en": "The fifth richest people in the world. Their power reaches the village at most.",
+  "t": "คนที่รวยเป็นอันดับห้าของโลก อำนาจของพวกเขาไปถึงระดับหมู่บ้านเป็นอย่างมาก"
+ },
  "527c8f4739ce": {
   "en": "Neferteri: a woman with long dark wavy hair in a fitted dark-blue gown with gold shoulder pieces.",
   "t": "เนเฟอร์เตรี: หญิงผมยาวสีเข้มลอนสลวยในชุดราตรีสีน้ำเงินเข้มรัดรูปพร้อมเครื่องประดับไหล่สีทอง"
+ },
+ "54502895326e": {
+  "en": "<strong>History:</strong> as prosperity created wealthy people, they wanted someone else to handle running the home, correspondence, etc.",
+  "t": "<strong>ประวัติ:</strong> เมื่อความรุ่งเรืองสร้างคนมั่งคั่ง พวกเขาอยากให้คนอื่นจัดการเรื่องในบ้าน จดหมาย ฯลฯ"
+ },
+ "5617d0e19fd1": {
+  "en": "<strong>Average pay:</strong> 7 Pearls an hour for apprentices, 8 for masters.",
+  "t": "<strong>ค่าจ้างเฉลี่ย:</strong> เด็กฝึกงาน 7 เพิร์ลต่อชั่วโมง ช่างฝีมือ 8"
+ },
+ "56bc447690c6": {
+  "en": "Tier I Professions",
+  "t": "อาชีพระดับ I"
+ },
+ "56e0dda2c924": {
+  "en": "<strong>History:</strong> people kill people, so someone needs to make the instruments.",
+  "t": "<strong>ประวัติ:</strong> คนฆ่าคน จึงต้องมีคนทำเครื่องมือ"
+ },
+ "59d300feaf18": {
+  "en": "<strong>Duties:</strong> look after the Royal Guild's needs and security, and coordinate the maids under them to keep the castle clean and the food stock full.",
+  "t": "<strong>หน้าที่:</strong> ดูแลความต้องการและความปลอดภัยของกิลด์ราชวงศ์ และประสานงานสาวใช้ใต้บังคับบัญชาเพื่อรักษาปราสาทให้สะอาดและเสบียงอาหารให้เต็ม"
+ },
+ "5a6f65812b37": {
+  "en": "<strong>History:</strong> detail-oriented blacksmiths end up becoming artisan blacksmiths.",
+  "t": "<strong>ประวัติ:</strong> ช่างตีเหล็กที่ใส่ใจรายละเอียดกลายเป็นช่างตีเหล็กฝีมือดีในที่สุด"
+ },
+ "5a98da265d5e": {
+  "en": "<strong>Training:</strong> Tailoring School, and a natural talent for tailoring.",
+  "t": "<strong>การฝึก:</strong> โรงเรียนตัดเย็บ และพรสวรรค์ด้านการตัดเย็บโดยธรรมชาติ"
+ },
+ "5aee24487cc6": {
+  "en": "Wooly Herder Manager",
+  "t": "ผู้จัดการคนเลี้ยงวูลลี"
+ },
+ "5e469c7af7f3": {
+  "en": "<strong>History:</strong> you can get paid to get fucked, especially if you're handsome or pretty.",
+  "t": "<strong>ประวัติ:</strong> คุณรับเงินเพื่อให้คนเย็ดได้ โดยเฉพาะถ้าคุณหล่อหรือสวย"
+ },
+ "5efe7a99b20c": {
+  "en": "<strong>Duties:</strong> create highly detailed weapons, armor, etc.",
+  "t": "<strong>หน้าที่:</strong> สร้างอาวุธ ชุดเกราะ ฯลฯ ที่มีรายละเอียดสูง"
+ },
+ "5f3ad4b71849": {
+  "en": "Common Courtesans",
+  "t": "หญิงคณิกาทั่วไป"
+ },
+ "608568177053": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Professions.md\">Legacy/Behind The Scenes/World Lore/Professions.md</a>",
+  "t": "แหล่งที่มา: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Professions.md\">Legacy/Behind The Scenes/World Lore/Professions.md</a>"
+ },
+ "60b088d5f48f": {
+  "en": "Artisan Blacksmiths",
+  "t": "ช่างตีเหล็กฝีมือดี"
+ },
+ "6157f51be11a": {
+  "en": "Travelling Merchants",
+  "t": "พ่อค้าเร่"
+ },
+ "6376a98f2ee7": {
+  "en": "Tier IV Professions",
+  "t": "อาชีพระดับ IV"
+ },
+ "63d06880bbbb": {
+  "en": "<strong>History:</strong> people need to cover up their private parts.",
+  "t": "<strong>ประวัติ:</strong> ผู้คนต้องปกปิดของสงวน"
+ },
+ "6544e8527e29": {
+  "en": "Paper/Vellum Crafter",
+  "t": "ช่างทำกระดาษ/หนังลูกวัว"
+ },
+ "671c09582799": {
+  "en": "Ore Smelter",
+  "t": "คนถลุงแร่"
  },
  "679e8553a8c5": {
   "en": "58 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "อีก 58 รายการในหน้านี้มีเฉพาะใน <button class=\"linklike\" data-go-bts>เบื้องหลัง</button>"
  },
+ "6813b11bf2ee": {
+  "en": "<strong>Training:</strong> Fundamental School and Construction School.",
+  "t": "<strong>การฝึก:</strong> โรงเรียนพื้นฐานและโรงเรียนก่อสร้าง"
+ },
+ "68a7f27f1b12": {
+  "en": "Sapphire Adventurer",
+  "t": "นักผจญภัยระดับแซฟไฟร์"
+ },
+ "68c5f1755e66": {
+  "en": "<strong>Training:</strong> Fundamental School plus two specialized schools.",
+  "t": "<strong>การฝึก:</strong> โรงเรียนพื้นฐานบวกโรงเรียนเฉพาะทางสองแห่ง"
+ },
+ "6911adcc6c62": {
+  "en": "Queen",
+  "t": "ราชินี"
+ },
+ "6c3918982164": {
+  "en": "Construction Manager",
+  "t": "ผู้จัดการงานก่อสร้าง"
+ },
+ "6e81e6be1642": {
+  "en": "<strong>History:</strong> as villages grew bigger, someone had to step in and keep the peace.",
+  "t": "<strong>ประวัติ:</strong> เมื่อหมู่บ้านใหญ่ขึ้น ต้องมีคนเข้ามารักษาความสงบ"
+ },
+ "6f79a5b62983": {
+  "en": "<strong>Training:</strong> Blacksmithing School.",
+  "t": "<strong>การฝึก:</strong> โรงเรียนตีเหล็ก"
+ },
+ "70016c9d6d2a": {
+  "en": "<strong>History:</strong> people need to cover up their private parts in fashion.",
+  "t": "<strong>ประวัติ:</strong> ผู้คนต้องปกปิดของสงวนอย่างมีแฟชั่น"
+ },
+ "7064ebb74cf6": {
+  "en": "Innkeeper &amp; Barkeepers",
+  "t": "เจ้าของโรงเตี๊ยม &amp; คนดูแลบาร์"
+ },
+ "715c2089fc59": {
+  "en": "<strong>Training:</strong> Fundamental School, plus Combat and Soul Energy School.",
+  "t": "<strong>การฝึก:</strong> โรงเรียนพื้นฐาน บวกโรงเรียนการต่อสู้และโรงเรียนพลังวิญญาณ"
+ },
+ "730844dedb2a": {
+  "en": "<strong>Duties:</strong> take care of the kingdom. Work with the Queen, the courtroom scientists and the other kingdoms to comply with the Prosperity Treaty, and plan city protection with the courtroom scientists and city guards.",
+  "t": "<strong>หน้าที่:</strong> ดูแลอาณาจักร ทำงานร่วมกับราชินี นักวิทยาศาสตร์ประจำราชสำนัก และอาณาจักรอื่นเพื่อปฏิบัติตามสนธิสัญญาแห่งความรุ่งเรือง และวางแผนปกป้องเมืองร่วมกับนักวิทยาศาสตร์ประจำราชสำนักและทหารยามเมือง"
+ },
+ "733e77b5c07a": {
+  "en": "<strong>Training:</strong> Fundamental School and Historian/Teaching School.",
+  "t": "<strong>การฝึก:</strong> โรงเรียนพื้นฐานและโรงเรียนประวัติศาสตร์/การสอน"
+ },
+ "7506752cedeb": {
+  "en": "Wood/Stone Worker",
+  "t": "ช่างไม้/ช่างหิน"
+ },
+ "7510681254ef": {
+  "en": "Historians/Teachers",
+  "t": "นักประวัติศาสตร์/ครู"
+ },
+ "7944c42b1f36": {
+  "en": "The second richest people in the world. Their power reaches a region at most.",
+  "t": "คนที่รวยเป็นอันดับสองของโลก อำนาจของพวกเขาไปถึงระดับภูมิภาคเป็นอย่างมาก"
+ },
+ "80d320af3392": {
+  "en": "<strong>Duties:</strong> help take care of the kingdom. Work with the King, the Queen and the other kingdoms to comply with the Prosperity Treaty, and plan city protection with the King and city guards. How much depends on how the kingdom is organized.",
+  "t": "<strong>หน้าที่:</strong> ช่วยดูแลอาณาจักร ทำงานร่วมกับกษัตริย์ ราชินี และอาณาจักรอื่นเพื่อปฏิบัติตามสนธิสัญญาแห่งความรุ่งเรือง และวางแผนปกป้องเมืองร่วมกับกษัตริย์และทหารยามเมือง มากน้อยแค่ไหนขึ้นอยู่กับการจัดระเบียบของอาณาจักร"
+ },
+ "812b84ec0b97": {
+  "en": "Maid",
+  "t": "สาวใช้"
+ },
+ "84c1568c097f": {
+  "en": "<strong>History:</strong> because cheese tastes good.",
+  "t": "<strong>ประวัติ:</strong> เพราะชีสอร่อย"
+ },
  "85fb53e4bc11": {
   "en": "Professions",
   "t": "อาชีพ"
+ },
+ "8655c454b395": {
+  "en": "Large Farm Owner",
+  "t": "เจ้าของฟาร์มใหญ่"
+ },
+ "87af01bd9c7e": {
+  "en": "Sanbi Eye",
+  "t": "ซันบีอาย"
+ },
+ "893b7a9113f6": {
+  "en": "<strong>Duties:</strong> housekeeping. How far it goes depends on the household and the maid's prestige: from more \"normal\" maids, up to someone like Eiri, a King-Maid, whose job extends into finances, cooking, cleaning and taxes.",
+  "t": "<strong>หน้าที่:</strong> งานบ้าน ไปได้ไกลแค่ไหนขึ้นอยู่กับครัวเรือนและบารมีของสาวใช้: ตั้งแต่สาวใช้ “ทั่วไป” ไปจนถึงคนอย่างเอรี คิงเมด ที่งานขยายไปถึงการเงิน การทำอาหาร การทำความสะอาด และภาษี"
+ },
+ "8b2083a989d7": {
+  "en": "<strong>History:</strong> someone who takes merchanting very seriously. Usually passed down through the guild, and often started by a traveling merchant who settled down and created a guild.",
+  "t": "<strong>ประวัติ:</strong> ใครสักคนที่จริงจังกับการค้าขายมาก ปกติสืบทอดผ่านกิลด์ และมักเริ่มโดยพ่อค้าเร่ที่ลงหลักปักฐานและตั้งกิลด์"
+ },
+ "8cd18dc81c09": {
+  "en": "Courtroom Scientists Apprentice",
+  "t": "ผู้ช่วยนักวิทยาศาสตร์ประจำราชสำนัก"
+ },
+ "8dbd7e9ca168": {
+  "en": "King-Maid",
+  "t": "คิงเมด"
+ },
+ "8e5ec084d90d": {
+  "en": "Quarrymen",
+  "t": "คนสกัดหิน"
  },
  "8e6a957df8e2": {
   "en": "Summary written by AI from the author's notes (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Professions.md\">Professions.md</a>). <a href=\"/about/ai-disclosure/\">AI disclosure</a>",
   "t": "สรุปโดย AI จากบันทึกของผู้เขียน (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Professions.md\">Professions.md</a>) <a href=\"/about/ai-disclosure/\">การเปิดเผยการใช้ AI</a>"
  },
+ "8f0a0926f3dc": {
+  "en": "<strong>History:</strong> someone has to take care of the dead, especially once people develop complex rituals.",
+  "t": "<strong>ประวัติ:</strong> ต้องมีคนดูแลคนตาย โดยเฉพาะเมื่อผู้คนพัฒนาพิธีกรรมที่ซับซ้อน"
+ },
+ "90a167603476": {
+  "en": "<strong>Training:</strong> knowing how to read speeds up going from apprentice to master; otherwise, learn on the job.",
+  "t": "<strong>การฝึก:</strong> การอ่านออกช่วยเร่งจากเด็กฝึกงานเป็นช่างฝีมือ ไม่อย่างนั้นก็เรียนรู้จากการทำงานจริง"
+ },
+ "9312d57b974b": {
+  "en": "<strong>Training:</strong> Tailoring School.",
+  "t": "<strong>การฝึก:</strong> โรงเรียนตัดเย็บ"
+ },
+ "97850b76d678": {
+  "en": "How much of this applies depends on how the kingdom is organized.",
+  "t": "ส่วนนี้ใช้ได้มากน้อยแค่ไหนขึ้นอยู่กับการจัดระเบียบของอาณาจักร"
+ },
+ "9b85c6e5d0b9": {
+  "en": "<strong>Duties:</strong> keep the peace, assist in investigations and help medics. Also coordinate nari stone usage, work with adventurers, and coordinate with the King and courtroom scientists (depending on how the kingdom is organized).",
+  "t": "<strong>หน้าที่:</strong> รักษาความสงบ ช่วยการสืบสวน และช่วยแพทย์ ยังประสานการใช้หินนาริ ทำงานกับนักผจญภัย และประสานงานกับกษัตริย์และนักวิทยาศาสตร์ประจำราชสำนัก (ขึ้นอยู่กับการจัดระเบียบของอาณาจักร)"
+ },
+ "9cc2644f0b21": {
+  "en": "<strong>Duties:</strong> handle egua births and health, and manage the stable business.",
+  "t": "<strong>หน้าที่:</strong> จัดการการคลอดและสุขภาพของเอกัว และบริหารธุรกิจคอก"
+ },
+ "9cf048940577": {
+  "en": "<strong>Duties:</strong> own one or more general trading goods stores, often in touch with traveling and local merchants.",
+  "t": "<strong>หน้าที่:</strong> เป็นเจ้าของร้านค้าสินค้าทั่วไปหนึ่งแห่งขึ้นไป มักติดต่อกับพ่อค้าเร่และพ่อค้าท้องถิ่น"
+ },
+ "9de10e4e0588": {
+  "en": "<strong>Duties:</strong> take care of the kingdom. Work with the King, the courtroom scientists and the other kingdoms to comply with the Prosperity Treaty.",
+  "t": "<strong>หน้าที่:</strong> ดูแลอาณาจักร ทำงานร่วมกับกษัตริย์ นักวิทยาศาสตร์ประจำราชสำนัก และอาณาจักรอื่นเพื่อปฏิบัติตามสนธิสัญญาแห่งความรุ่งเรือง"
+ },
+ "9e14a9b61df8": {
+  "en": "Pearl-Adventurer",
+  "t": "นักผจญภัยระดับเพิร์ล"
+ },
+ "9ef0113ea58c": {
+  "en": "<strong>Average pay:</strong> 3 Pearls an hour for apprentices, 4 for masters.",
+  "t": "<strong>ค่าจ้างเฉลี่ย:</strong> เด็กฝึกงาน 3 เพิร์ลต่อชั่วโมง ช่างฝีมือ 4"
+ },
+ "a0016405da13": {
+  "en": "Region Merchants",
+  "t": "พ่อค้าระดับภูมิภาค"
+ },
+ "a40ce03445ed": {
+  "en": "Cheesemaker",
+  "t": "ช่างทำชีส"
+ },
+ "a4ea7abd9faa": {
+  "en": "Ore Miner",
+  "t": "คนขุดแร่"
+ },
+ "a60170890f1f": {
+  "en": "Street Cleaner",
+  "t": "คนกวาดถนน"
+ },
+ "aaacdfb70de3": {
+  "en": "<strong>Training:</strong> Fundamental School isn't required, but it's really hard to do without.",
+  "t": "<strong>การฝึก:</strong> ไม่จำเป็นต้องผ่านโรงเรียนพื้นฐาน แต่ทำโดยไม่มีมันยากมาก"
+ },
+ "ac2b1387dbe5": {
+  "en": "<strong>History:</strong> someone who takes merchanting extremely seriously.",
+  "t": "<strong>ประวัติ:</strong> ใครสักคนที่จริงจังกับการค้าขายอย่างยิ่ง"
+ },
+ "acab31af4a94": {
+  "en": "Blacksmiths",
+  "t": "ช่างตีเหล็ก"
+ },
+ "ad03f38d3329": {
+  "en": "<strong>History:</strong> as Sanbi became a fishing hub, boat repair became necessary.",
+  "t": "<strong>ประวัติ:</strong> เมื่อซันบีกลายเป็นศูนย์กลางการประมง การซ่อมเรือก็จำเป็น"
+ },
+ "ad040d86c60e": {
+  "en": "<strong>History:</strong> the job started in the Sanbi Kingdom, when great adventurers built castles and needed someone they trusted to help run them.",
+  "t": "<strong>ประวัติ:</strong> อาชีพนี้เริ่มในอาณาจักรซันบี เมื่อนักผจญภัยผู้ยิ่งใหญ่สร้างปราสาทและต้องการคนที่ไว้ใจได้ช่วยบริหาร"
+ },
+ "ae37fc145770": {
+  "en": "<strong>Duties:</strong> tame wingas from the egg into adulthood for courier services.",
+  "t": "<strong>หน้าที่:</strong> ฝึกวิงกาให้เชื่องตั้งแต่อยู่ในไข่จนโตเต็มวัยสำหรับบริการส่งสาร"
+ },
+ "b189e5d0c2de": {
+  "en": "<strong>History:</strong> small farmers exist all over the place, usually feeding themselves and selling the leftovers for other things.",
+  "t": "<strong>ประวัติ:</strong> ชาวนาขนาดเล็กมีอยู่ทั่วไปหมด ปกติเลี้ยงตัวเองและขายส่วนที่เหลือแลกของอื่น"
+ },
+ "b1dc1614410d": {
+  "en": "Ink/Wax Crafter",
+  "t": "ช่างทำหมึก/ครั่ง"
+ },
+ "b44d69d8fd77": {
+  "en": "<strong>Duties:</strong> read, play and write songs.",
+  "t": "<strong>หน้าที่:</strong> อ่าน เล่น และแต่งเพลง"
+ },
+ "bad034722d1e": {
+  "en": "Butcher",
+  "t": "คนขายเนื้อ"
+ },
+ "bb36fe9ded56": {
+  "en": "<strong>Duties:</strong> make cheese, store it and care for it.",
+  "t": "<strong>หน้าที่:</strong> ทำชีส เก็บรักษาและดูแลมัน"
+ },
+ "bda34c2a7451": {
+  "en": "<strong>Average pay:</strong> 10 Pearls an hour for apprentices, 15 for masters.",
+  "t": "<strong>ค่าจ้างเฉลี่ย:</strong> เด็กฝึกงาน 10 เพิร์ลต่อชั่วโมง ช่างฝีมือ 15"
+ },
+ "c2201e677745": {
+  "en": "<strong>Duties:</strong> fix the roads and clear the forest from them. The risk of bandits makes the job better paid.",
+  "t": "<strong>หน้าที่:</strong> ซ่อมถนนและถางป่าออกจากถนน ความเสี่ยงจากโจรทำให้งานนี้ได้ค่าจ้างดีขึ้น"
+ },
+ "c30883afd5f6": {
+  "en": "Amethyst-Adventurer",
+  "t": "นักผจญภัยระดับอเมทิสต์"
+ },
  "c4667604a234": {
   "en": "Sanbi: a large pale-blue fish with long whiskers and a surprised face, about 100 cm long.",
   "t": "ซันบี: ปลาตัวใหญ่สีฟ้าซีดมีหนวดยาวและหน้าตาตกใจ ยาวประมาณ 100 ซม."
+ },
+ "cbb51621835d": {
+  "en": "Wooly Herder",
+  "t": "คนเลี้ยงวูลลี"
+ },
+ "cbd68c37cc78": {
+  "en": "Boat Repair",
+  "t": "ช่างซ่อมเรือ"
+ },
+ "cbed7f59d6fd": {
+  "en": "Winga Tamers",
+  "t": "คนฝึกวิงกา"
+ },
+ "cc39950b13a6": {
+  "en": "Fisherman",
+  "t": "ชาวประมง"
+ },
+ "ccf0ec7f8e69": {
+  "en": "The richest people in the four kingdoms. Their power is immense, and their riches are vast.",
+  "t": "คนที่รวยที่สุดในสี่อาณาจักร อำนาจของพวกเขามหาศาล และความมั่งคั่งก็มากมาย"
+ },
+ "d2e41bcd0d7f": {
+  "en": "<strong>History:</strong> the job came into being when great adventurers founded the kingdoms.",
+  "t": "<strong>ประวัติ:</strong> อาชีพนี้เกิดขึ้นเมื่อนักผจญภัยผู้ยิ่งใหญ่ก่อตั้งอาณาจักร"
+ },
+ "d3a73806f843": {
+  "en": "<strong>Training:</strong> Fundamental School, Accounting School and Cooking School.",
+  "t": "<strong>การฝึก:</strong> โรงเรียนพื้นฐาน โรงเรียนการบัญชี และโรงเรียนการทำอาหาร"
+ },
+ "d484cd3a84d0": {
+  "en": "<strong>History:</strong> someone has to do the smelting, but not everyone wants to.",
+  "t": "<strong>ประวัติ:</strong> ต้องมีคนถลุงแร่ แต่ไม่ใช่ทุกคนจะอยากทำ"
+ },
+ "d5c2162ccaf8": {
+  "en": "<strong>Duties:</strong> bookkeeping, inventory and social management.",
+  "t": "<strong>หน้าที่:</strong> ทำบัญชี จัดการสินค้าคงคลัง และงานสังคม"
+ },
+ "d6019c93262f": {
+  "en": "<strong>Duties:</strong> smelt ores into bars and remove impurities.",
+  "t": "<strong>หน้าที่:</strong> ถลุงแร่เป็นแท่งและกำจัดสิ่งเจือปน"
+ },
+ "d61406cedc5f": {
+  "en": "<strong>Training:</strong> none.",
+  "t": "<strong>การฝึก:</strong> ไม่มี"
+ },
+ "d69650457fa0": {
+  "en": "<strong>History:</strong> wherever humans live, history soon follows, filling libraries. But some history was lost during the Greed Period, when wars raged for a long time, and tons more because before Ganyrami it was mostly passed by word of mouth among humans. The Darfaries burned their own history, which makes the past kind of sketchy. And some people don't care about history, because they prefer living in the present. So people in this profession usually teach at the fundamental level to earn a livable wage while they pursue research nobody is funding.",
+  "t": "<strong>ประวัติ:</strong> ที่ใดมีมนุษย์อาศัย ประวัติศาสตร์ก็ตามมาในไม่ช้า เติมเต็มห้องสมุด แต่ประวัติศาสตร์บางส่วนสูญหายในยุคแห่งความโลภ เมื่อสงครามโหมกระหน่ำเป็นเวลานาน และอีกมากเพราะก่อนแกนีรามี มันส่วนใหญ่ถ่ายทอดปากต่อปากในหมู่มนุษย์ ดาร์แฟรีส์เผาประวัติศาสตร์ของตัวเอง ซึ่งทำให้อดีตค่อนข้างคลุมเครือ และบางคนไม่สนประวัติศาสตร์ เพราะชอบอยู่กับปัจจุบัน คนในอาชีพนี้จึงมักสอนในระดับพื้นฐานเพื่อหาค่าจ้างพอเลี้ยงชีพ ขณะทำงานวิจัยที่ไม่มีใครให้ทุน"
+ },
+ "da654b0ff3a4": {
+  "en": "<strong>Training:</strong> Fundamental School and Cooking School.",
+  "t": "<strong>การฝึก:</strong> โรงเรียนพื้นฐานและโรงเรียนการทำอาหาร"
+ },
+ "e08eaff25c85": {
+  "en": "Stable Hand Manager",
+  "t": "ผู้จัดการคนดูแลคอกม้า"
+ },
+ "e13a98f3de63": {
+  "en": "<strong>Duties:</strong> build and repair buildings, following the construction manager's orders.",
+  "t": "<strong>หน้าที่:</strong> สร้างและซ่อมอาคาร ตามคำสั่งของผู้จัดการงานก่อสร้าง"
+ },
+ "e1fc1d68d654": {
+  "en": "Construction Worker",
+  "t": "คนงานก่อสร้าง"
+ },
+ "e23d1749a392": {
+  "en": "<strong>Training:</strong> Fundamental School and Accounting School help, but aren't necessary.",
+  "t": "<strong>การฝึก:</strong> โรงเรียนพื้นฐานและโรงเรียนการบัญชีช่วยได้ แต่ไม่จำเป็น"
+ },
+ "e4b3b9f96c31": {
+  "en": "Bards",
+  "t": "กวีพเนจร"
+ },
+ "e4ca89513f69": {
+  "en": "<strong>Duties:</strong> create weapons, armor, etc.",
+  "t": "<strong>หน้าที่:</strong> สร้างอาวุธ ชุดเกราะ ฯลฯ"
+ },
+ "e5c4e470299e": {
+  "en": "Farmer",
+  "t": "ชาวนา"
+ },
+ "e630e59b38c5": {
+  "en": "<strong>Duties:</strong> keep the peace, assist in investigations and help medics.",
+  "t": "<strong>หน้าที่:</strong> รักษาความสงบ ช่วยการสืบสวน และช่วยแพทย์"
+ },
+ "e8f3b4c1733e": {
+  "en": "<strong>History:</strong> medium-sized farmers exist all over the place, usually both feeding themselves and selling crops and livestock.",
+  "t": "<strong>ประวัติ:</strong> ชาวนาขนาดกลางมีอยู่ทั่วไปหมด ปกติทั้งเลี้ยงตัวเองและขายพืชผลกับปศุสัตว์"
+ },
+ "e90669a4b73b": {
+  "en": "<strong>History:</strong> as egua taming became more common, someone had to oversee the stable.",
+  "t": "<strong>ประวัติ:</strong> เมื่อการฝึกเอกัวให้เชื่องแพร่หลายขึ้น ต้องมีคนดูแลคอก"
+ },
+ "e9b43d11425b": {
+  "en": "City Guard",
+  "t": "ทหารยามเมือง"
+ },
+ "f8a9289d923c": {
+  "en": "Tanner",
+  "t": "ช่างฟอกหนัง"
+ },
+ "f8f1865f17cf": {
+  "en": "Medium-Farm-Owner",
+  "t": "เจ้าของฟาร์มขนาดกลาง"
+ },
+ "fb7077c5ef7b": {
+  "en": "<strong>History:</strong> wherever people go, entertainment soon follows.",
+  "t": "<strong>ประวัติ:</strong> ที่ใดมีผู้คนไป ความบันเทิงก็ตามมาในไม่ช้า"
+ },
+ "fd3902b68f3e": {
+  "en": "See <a href=\"/lore/embassies-and-guilds/\">Badges, Embassies &amp; Guilds</a>.",
+  "t": "ดู <a href=\"/lore/embassies-and-guilds/\">บัตรประจำตัว สถานทูต &amp; กิลด์</a>"
+ },
+ "fe27264e70d4": {
+  "en": "<strong>History:</strong> because Woolies are kind of stupid.",
+  "t": "<strong>ประวัติ:</strong> เพราะวูลลีค่อนข้างโง่"
  }
 }
