@@ -23,6 +23,10 @@
   "en": "PRs are welcome, with or without AI help. If you used AI for a contribution, say so in the PR description and add a line to the table above.",
   "t": "PR dipersilakan, dengan atau tanpa bantuan AI. Jika Anda memakai AI untuk suatu kontribusi, sebutkan dalam deskripsi PR dan tambahkan satu baris ke tabel di atas."
  },
+ "227ad95d5503": {
+  "en": "content/bts",
+  "t": "content/bts"
+ },
  "23eebfe076f3": {
   "en": "<strong>Shortened and paraphrased</strong> them into one-paragraph public summaries, because the blog never had pages for these topics. No new facts. Each summary is labeled on the website as AI-written.",
   "t": "<strong>Diringkas dan diparafrasekan</strong> menjadi ringkasan publik satu paragraf, karena blog tidak pernah punya halaman untuk topik-topik ini. Tidak ada fakta baru. Setiap ringkasan diberi label di situs web sebagai tulisan AI."
@@ -259,6 +263,14 @@
   "en": "content/summaries.json",
   "t": "content/summaries.json"
  },
+ "c43f5ab5035a": {
+  "en": "<strong>Written by the AI</strong> with the author: the abridged Behind The Scenes text the website shows (grammar fixed, brain dumps turned into readable prose and lists, gaps filled only from other Legacy sources or the author's answers). Every question asked, every answer (in the author's words), every filled gap with its source and every discrepancy is recorded in <a href=\"content/bts/qa\">content/bts/qa</a>, one file per Legacy doc. The Glossary's Behind The Scenes descriptions are taken from this abridged text. The raw notes in Legacy are unchanged; where the author ruled a correction or addition \"official\", it shows in the raw notes on the website as a display-only fix in <a href=\"content/fixes.json\">content/fixes.json</a>.",
+  "t": "<strong>Ditulis oleh AI</strong> bersama penulis: teks Di Balik Layar ringkasan yang ditampilkan situs ini (tata bahasa diperbaiki, curahan pikiran diubah menjadi prosa dan daftar yang mudah dibaca, celah diisi hanya dari sumber Legacy lain atau jawaban penulis). Setiap pertanyaan yang diajukan, setiap jawaban (dengan kata-kata penulis), setiap celah yang diisi beserta sumbernya, dan setiap ketidaksesuaian dicatat di <a href=\"content/bts/qa\">content/bts/qa</a>, satu berkas per dokumen Legacy. Deskripsi Di Balik Layar di Glosarium diambil dari teks ringkasan ini. Catatan mentah di Legacy tidak diubah; bila penulis menetapkan sebuah koreksi atau tambahan sebagai \"resmi\", itu muncul di catatan mentah di situs ini sebagai perbaikan khusus tampilan di <a href=\"content/fixes.json\">content/fixes.json</a>."
+ },
+ "c92dbea049c4": {
+  "en": "<strong>The website shows the author's own words.</strong> The novel chapters and the public descriptions (from the old blog) are displayed as written, and so are the Behind The Scenes notes that haven't been abridged yet. The AI's job was to arrange them, not to rewrite them. The exception: Behind The Scenes notes that have been <strong>abridged</strong> (see <code>content/bts</code> below) are an AI-assisted rewrite of the author's raw notes into readable form, labeled as such on every section, with the raw notes one click away.",
+  "t": "<strong>Situs web ini menampilkan kata-kata penulis sendiri.</strong> Bab-bab novel dan deskripsi publik (dari blog lama) ditampilkan sebagaimana ditulis, begitu pula catatan Di Balik Layar yang belum diringkas. Tugas AI adalah menatanya, bukan menulis ulang. Pengecualiannya: catatan Di Balik Layar yang sudah <strong>diringkas</strong> (lihat <code>content/bts</code> di bawah) adalah tulisan ulang berbantuan AI dari catatan mentah penulis menjadi bentuk yang mudah dibaca, diberi label demikian di setiap bagian, dengan catatan mentahnya hanya sejauh satu klik."
+ },
  "ca17d9e86677": {
   "en": "Modeled on the questions in IBM's <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> (what AI was used, what it contributed, how much humans shaped it, and who is accountable):",
   "t": "Berdasarkan pertanyaan-pertanyaan dalam <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> dari IBM (AI apa yang dipakai, apa kontribusinya, seberapa besar manusia membentuknya, dan siapa yang bertanggung jawab):"
@@ -278,6 +290,10 @@
  "e8ebc8d12782": {
   "en": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter), for the structured data in each page",
   "t": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter), untuk data terstruktur di setiap halaman"
+ },
+ "f1afd477240d": {
+  "en": "The raw Behind The Scenes notes in Legacy, the published novels, and the author's answers to the AI's questions.",
+  "t": "Catatan mentah Di Balik Layar di Legacy, novel-novel yang sudah terbit, dan jawaban penulis atas pertanyaan-pertanyaan AI."
  },
  "f5234aaefa0e": {
   "en": "Eight Behind The Scenes docs: World Timeline, Villages, Land, Professions, Education, Sports, Novels, Natural and Crafted Resources (human).",

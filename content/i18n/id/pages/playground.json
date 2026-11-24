@@ -1,11 +1,47 @@
 {
+ "00f03137e155": {
+  "en": "Easy",
+  "t": "Mudah"
+ },
+ "0105b596e57e": {
+  "en": "Base: {flora}",
+  "t": "Alas: {flora}"
+ },
+ "016c526a1d2a": {
+  "en": "Rounds won: you {you}, {opp} {them}",
+  "t": "Ronde dimenangkan: kamu {you}, {opp} {them}"
+ },
+ "0240b5832a42": {
+  "en": "Plains",
+  "t": "Dataran"
+ },
+ "03f0feececb0": {
+  "en": "Flying",
+  "t": "Terbang"
+ },
+ "08271419319f": {
+  "en": "Shield",
+  "t": "Perisai"
+ },
+ "0a27a3b002bc": {
+  "en": "Round {n}",
+  "t": "Ronde {n}"
+ },
  "0bf9322efcf3": {
   "en": "Final score: {you} {youScore}, {rival} {rivalScore}. {verdict}",
   "t": "Skor akhir: {you} {youScore}, {rival} {rivalScore}. {verdict}"
  },
+ "0cb6b91a7c7b": {
+  "en": "Take turns placing one statue on a square on your side, on a flora base if you like, or pass. Every piece you place is spent for the match, so save some for later rounds.",
+  "t": "Bergiliran menaruh satu patung di sebuah petak di sisimu, di atas alas flora kalau kamu mau, atau lewati giliran. Setiap bidak yang kamu taruh terpakai untuk seluruh pertandingan, jadi simpan sebagian untuk ronde-ronde berikutnya."
+ },
  "0d4b087148ae": {
   "en": "Playground · #HusbandOutWorld",
   "t": "Taman Bermain · #HusbandOutWorld"
+ },
+ "0e818bfa0679": {
+  "en": "monster",
+  "t": "monster"
  },
  "11b7f08bcb49": {
   "en": "{player} snipes the {colour} territory ({points}).",
@@ -15,21 +51,85 @@
   "en": "Your turn: press Throw (or Space) when the aim is where you want it.",
   "t": "Giliranmu: tekan Lempar! (atau Spasi) saat bidikan ada di tempat yang kamu mau."
  },
+ "20f062e88b88": {
+  "en": "−{n} to the strongest opposing statue in its lane",
+  "t": "−{n} untuk patung lawan terkuat di lajurnya"
+ },
  "21504db71017": {
   "en": "Play full screen",
   "t": "Main layar penuh"
+ },
+ "2222ccdea406": {
+  "en": "+{n} at height {h} or more",
+  "t": "+{n} pada ketinggian {h} atau lebih"
+ },
+ "227af057c460": {
+  "en": "never weaker than its carving",
+  "t": "tidak pernah lebih lemah dari ukirannya"
+ },
+ "22ef541999f0": {
+  "en": "Next round",
+  "t": "Ronde berikutnya"
+ },
+ "24ae8a560983": {
+  "en": "Paint my statues",
+  "t": "Cat patung-patungku"
+ },
+ "25ab59baf8e0": {
+  "en": "Your side",
+  "t": "Sisimu"
+ },
+ "2640f77e9f83": {
+  "en": "Now choose a square for {name}.",
+  "t": "Sekarang pilih sebuah petak untuk {name}."
  },
  "27bbcef16995": {
   "en": "Hiromi",
   "t": "Hiromi"
  },
+ "285691ff158a": {
+  "en": "ignores lower ground",
+  "t": "mengabaikan dataran yang lebih rendah"
+ },
+ "28a2784f6046": {
+  "en": "You found the nari stone in {name}!",
+  "t": "Kamu menemukan batu nari di dalam {name}!"
+ },
+ "2f157d7130ab": {
+  "en": "Choose a statue for your nari stone first.",
+  "t": "Pilih dulu patung untuk batu nari-mu."
+ },
+ "3199ea056253": {
+  "en": "animal",
+  "t": "hewan"
+ },
+ "320089389f44": {
+  "en": "Your battalion",
+  "t": "Batalionmu"
+ },
  "38d4249ff036": {
   "en": "⏱ {seconds}s · darts: {you} {youLeft}, {rival} {rivalLeft}",
   "t": "⏱ {seconds}s · dart: {you} {youLeft}, {rival} {rivalLeft}"
  },
+ "39db64b96126": {
+  "en": "{opp} wins the match.",
+  "t": "{opp} memenangkan pertandingan."
+ },
+ "3d254c73066e": {
+  "en": "None left.",
+  "t": "Tidak ada yang tersisa."
+ },
+ "3f21515a1b11": {
+  "en": "No base",
+  "t": "Tanpa alas"
+ },
  "40e405b6605c": {
   "en": "I haven’t heard of that, but yeah, I prefer targeting the yellow ones, as those are worth more if you snipe all territories.",
   "t": "Aku belum pernah dengar itu, tapi iya, aku lebih suka membidik yang kuning, karena nilainya lebih tinggi kalau kau menembak semua wilayah."
+ },
+ "41fb3a0ef555": {
+  "en": "You win round {n}.",
+  "t": "Kamu memenangkan ronde {n}."
  },
  "42766efba402": {
   "en": "Middle ring",
@@ -38,6 +138,22 @@
  "42ae6cb3cd8f": {
   "en": "Time! The room starts to move too much…",
   "t": "Waktu! Ruangan mulai bergerak terlalu banyak…"
+ },
+ "449177d90198": {
+  "en": "its power stays hidden until the lanes are counted",
+  "t": "kekuatannya tetap tersembunyi sampai lajur-lajur dihitung"
+ },
+ "45e05fa03651": {
+  "en": "Minari needs JavaScript to play.",
+  "t": "Minari butuh JavaScript untuk dimainkan."
+ },
+ "46b474188aa4": {
+  "en": "Battlefield: {region}",
+  "t": "Medan pertempuran: {region}"
+ },
+ "4a4331759c36": {
+  "en": "<a href=\"/lore/pastimes/#minari\">Minari</a>, the carved-statue game played in Sanbi Castle's game room: a working prototype, against Nina, Aurora or Neferteri.",
+  "t": "<a href=\"/lore/pastimes/#minari\">Minari</a>, permainan patung ukir yang dimainkan di ruang permainan Kastil Sanbi: prototipe yang bisa dimainkan, melawan Nina, Aurora, atau Neferteri."
  },
  "4c660686dc07": {
   "en": "His first dart clings, then falls. The second lands on a green territory near the centre.",
@@ -51,21 +167,73 @@
   "en": "Kinda? Was the board always this big and colored? I thought it was rounded too— OH YEAH! The center is worth more, right?",
   "t": "Agak? Apa papannya dari dulu sebesar dan seberwarna ini? Kukira bentuknya bundar juga— OH IYA! Bagian tengahnya nilainya lebih tinggi, kan?"
  },
+ "4ec00394908f": {
+  "en": "How to play",
+  "t": "Cara bermain"
+ },
+ "4f0919dac51a": {
+  "en": "Neferteri",
+  "t": "Neferteri"
+ },
+ "4f4e60287877": {
+  "en": "You win the match!",
+  "t": "Kamu memenangkan pertandingan!"
+ },
  "50ccc5e2e037": {
   "en": "He aims for the same green, and lands far above it, on purple.",
   "t": "Dia bidik hijau yang sama, dan mendarat jauh di atasnya, di ungu."
+ },
+ "530cececb444": {
+  "en": "no stone inside.",
+  "t": "tidak ada batu di dalamnya."
+ },
+ "5719e9acd479": {
+  "en": "The table has <strong>5 lanes</strong>. Each lane has a square on your side and one on theirs, with a terrain and a height. A statue on its home terrain gets <strong>+2</strong>; standing higher than the square across gives <strong>+1 per level</strong>, lower gives the same as a minus.",
+  "t": "Meja punya <strong>5 lajur</strong>. Setiap lajur punya satu petak di sisimu dan satu di sisi lawan, dengan medan dan ketinggian. Patung di medan rumahnya mendapat <strong>+2</strong>; berdiri lebih tinggi dari petak di seberang memberi <strong>+1 per tingkat</strong>, lebih rendah memberi jumlah yang sama sebagai minus."
  },
  "576766d387ec": {
   "en": "Play again",
   "t": "Main lagi"
  },
+ "595f9c0beff7": {
+  "en": "{name} is eliminated: {result}",
+  "t": "{name} tersingkir: {result}"
+ },
+ "5ad1c0fc4343": {
+  "en": "{who} passed.",
+  "t": "{who} melewati giliran."
+ },
+ "5c209e93ce26": {
+  "en": "Start the match",
+  "t": "Mulai pertandingan"
+ },
+ "5d0ac69701af": {
+  "en": "power {n}",
+  "t": "kekuatan {n}"
+ },
+ "6572f28b79ce": {
+  "en": "Lane {n}: tied, {a} to {b}.",
+  "t": "Lajur {n}: seri, {a} lawan {b}."
+ },
  "69b0b68def54": {
   "en": "SEE? It’s all about mindset! You know what, Harry? You’re cool! So why not play a bit of territory snipping to celebrate?",
   "t": "LIHAT? Semuanya soal pola pikir! Tahu tidak, Harry? Kau keren! Jadi bagaimana kalau kita main territory snipping sedikit untuk merayakannya?"
  },
+ "6cd280647632": {
+  "en": "{name}, {kind}, power {power}, home: {terrains}{traits}",
+  "t": "{name}, {kind}, kekuatan {power}, rumah: {terrains}{traits}"
+ },
+ "7468786df7e7": {
+  "en": "Your flora bases",
+  "t": "Alas flora-mu"
+ },
  "76262d314611": {
   "en": "Territory Snipping: turn your phone sideways",
   "t": "Territory Snipping: putar ponselmu ke posisi menyamping"
+ },
+ "78981b123f83": {
+  "en": "When both sides have passed, each lane goes to the side with more power there. The losing side's statues in that lane are <strong>eliminated</strong>, and you see whether the nari stone was inside.",
+  "t": "Saat kedua sisi sudah melewati giliran, setiap lajur jatuh ke sisi yang punya kekuatan lebih besar di sana. Patung-patung sisi yang kalah di lajur itu <strong>tersingkir</strong>, dan kamu melihat apakah batu nari ada di dalamnya."
  },
  "78988010b890": {
   "en": "red",
@@ -75,25 +243,65 @@
   "en": "{n} pt",
   "t": "{n} poin"
  },
+ "7e99995a1667": {
+  "en": "Choose your opponent",
+  "t": "Pilih lawanmu"
+ },
  "85a1ecacad2c": {
   "en": "That’s the spirit! … You played this before, right?",
   "t": "Itu baru semangat! … Kau pernah main ini, kan?"
+ },
+ "864900d5a132": {
+  "en": "hides your nari stone",
+  "t": "menyembunyikan batu nari-mu"
+ },
+ "8845064f5b91": {
+  "en": "+{n} to a {kind}",
+  "t": "+{n} untuk {kind}"
+ },
+ "888d16612e6f": {
+  "en": "Choose the statue that hides your nari stone.",
+  "t": "Pilih patung yang menyembunyikan batu nari-mu."
  },
  "8bf12a38bad0": {
   "en": "Throw!",
   "t": "Lempar!"
  },
+ "8c8d4feff7de": {
+  "en": "Your nari stone is inside {name}.",
+  "t": "Batu nari-mu ada di dalam {name}."
+ },
+ "905cb326c779": {
+  "en": "You",
+  "t": "Kamu"
+ },
+ "91586b73ba8c": {
+  "en": "the nari stone was inside!",
+  "t": "batu nari ada di dalamnya!"
+ },
  "935f6cd89f4a": {
   "en": "A draw!",
   "t": "Seri!"
+ },
+ "93c3ef1e3de3": {
+  "en": "That square is full.",
+  "t": "Petak itu sudah penuh."
  },
  "94e6a3ea4d1f": {
   "en": "Turn your phone sideways to play.",
   "t": "Putar ponselmu ke posisi menyamping untuk bermain."
  },
+ "955ddba3d08e": {
+  "en": "{name}: {effect}",
+  "t": "{name}: {effect}"
+ },
  "96de5543d183": {
   "en": "yellow",
   "t": "kuning"
+ },
+ "98dc61652f7c": {
+  "en": "{opp} is choosing…",
+  "t": "{opp} sedang memilih…"
  },
  "992fb4c6838e": {
   "en": "{you} wins, somehow!",
@@ -103,6 +311,10 @@
   "en": "You’re coolio too!",
   "t": "Kau juga keren abis!"
  },
+ "9c8238f65551": {
+  "en": "Snow",
+  "t": "Salju"
+ },
  "a691267c5647": {
   "en": "{rival} wins.",
   "t": "{rival} menang."
@@ -111,6 +323,18 @@
   "en": "Cancelled! Both darts on the {colour} territory are out.",
   "t": "Dibatalkan! Kedua dart di wilayah {colour} keluar."
  },
+ "a93e8afda9a1": {
+  "en": "Before the match, hide your <strong>nari stone</strong> inside one of your statues. Your opponent hides theirs too.",
+  "t": "Sebelum pertandingan, sembunyikan <strong>batu nari</strong>-mu di dalam salah satu patungmu. Lawanmu juga menyembunyikan miliknya."
+ },
+ "abb89bf474d1": {
+  "en": "home: {terrains}",
+  "t": "rumah: {terrains}"
+ },
+ "af503a976364": {
+  "en": "a random {min} to +{max}",
+  "t": "acak dari {min} sampai +{max}"
+ },
  "afaed75406bd": {
   "en": "purple",
   "t": "ungu"
@@ -118,6 +342,10 @@
  "b2b52c2fc7c2": {
   "en": "Snipe all territories? That’s—different—I think. Can—can you explain?",
   "t": "Menembak semua wilayah? Itu—beda—kurasa. Bisa—bisa kau jelaskan?"
+ },
+ "b31d36c1c500": {
+  "en": "Challenging",
+  "t": "Menantang"
  },
  "b8c8d91c4ad6": {
   "en": "Yellow centre",
@@ -143,9 +371,25 @@
   "en": "Next",
   "t": "Berikutnya"
  },
+ "be2f6b076cd7": {
+  "en": "Minari: turn your phone sideways",
+  "t": "Minari: miringkan ponselmu"
+ },
+ "be3975e50f11": {
+  "en": "{sign}{n} to the statue on it",
+  "t": "{sign}{n} untuk patung di atasnya"
+ },
  "c1218408e29a": {
   "en": "Just a hunk—that was me warming up! Now try to throw on a green section or anywhere else.",
   "t": "Cuma sebentar—tadi aku pemanasan! Sekarang coba lempar ke bagian hijau atau di mana saja."
+ },
+ "c30902149f0e": {
+  "en": "{opp}'s side",
+  "t": "Sisi {opp}"
+ },
+ "c384517d1937": {
+  "en": "{name}, power {power}",
+  "t": "{name}, kekuatan {power}"
  },
  "c7abd16eb68f": {
   "en": "Brotha—you suck at this—Harry?",
@@ -155,17 +399,37 @@
   "en": "—Yea? So I play next?",
   "t": "—Iya? Jadi aku main berikutnya?"
  },
+ "c91b25d0e00d": {
+  "en": "−{n} to every opposing statue in its lane",
+  "t": "−{n} untuk setiap patung lawan di lajurnya"
+ },
  "caab81299f22": {
   "en": "The game starts as soon as the phone is sideways.",
   "t": "Gim dimulai begitu ponsel dalam posisi menyamping."
+ },
+ "cc14463c4dab": {
+  "en": "Lane {n}: {who} wins, {a} to {b}.",
+  "t": "Lajur {n}: {who} menang, {a} lawan {b}."
  },
  "cc60a1651cdd": {
   "en": "Final: {you} {youScore} · {rival} {rivalScore} · {verdict}",
   "t": "Akhir: {you} {youScore} · {rival} {rivalScore} · {verdict}"
  },
+ "ce31bd9a119b": {
+  "en": "Nari stone",
+  "t": "Batu nari"
+ },
  "ce3c494a5e85": {
   "en": "Aiight!",
   "t": "Oke!"
+ },
+ "d0bb566c5184": {
+  "en": "The match is a draw.",
+  "t": "Pertandingan berakhir seri."
+ },
+ "d0db58d3de1d": {
+  "en": "humanoid",
+  "t": "humanoid"
  },
  "d153c794ecdb": {
   "en": "Play upright instead",
@@ -179,6 +443,50 @@
   "en": "Your dart flies low and lodges in the wall below the board.",
   "t": "Dartmu terbang rendah dan tertancap di dinding di bawah papan."
  },
+ "d2c984ccb77d": {
+  "en": "Each side has <strong>10 carved statues</strong> (Races, Fauna and Beasts) and <strong>4 flora bases</strong>. The creature a statue shows is its power.",
+  "t": "Setiap sisi punya <strong>10 patung ukir</strong> (Ras, Fauna, dan Makhluk Buas) dan <strong>4 alas flora</strong>. Makhluk yang ditampilkan sebuah patung adalah kekuatannya."
+ },
+ "d3724d122484": {
+  "en": "{who} found the nari stone in {name}!",
+  "t": "{who} menemukan batu nari di dalam {name}!"
+ },
+ "d404968ea90b": {
+  "en": "Medium",
+  "t": "Sedang"
+ },
+ "d5936b9a0d86": {
+  "en": "Eliminated",
+  "t": "Tersingkir"
+ },
+ "d7cd56f2a2a3": {
+  "en": "Pass",
+  "t": "Lewati"
+ },
+ "ddc8e3b2c330": {
+  "en": "Your turn: choose a statue, then a square on your side.",
+  "t": "Giliranmu: pilih sebuah patung, lalu sebuah petak di sisimu."
+ },
+ "dfe153f0c577": {
+  "en": "{who} placed {name} on a {flora} base, on {terrain} (power {power}).",
+  "t": "{who} menaruh {name} di atas alas {flora}, di {terrain} (kekuatan {power})."
+ },
+ "e48d1e99bbff": {
+  "en": "{a} : {b}",
+  "t": "{a} : {b}"
+ },
+ "e601068c1509": {
+  "en": "{who} wins round {n}.",
+  "t": "{who} memenangkan ronde {n}."
+ },
+ "e818d1b014a8": {
+  "en": "Lane {n}",
+  "t": "Lajur {n}"
+ },
+ "e8e05bdea850": {
+  "en": "Cloak",
+  "t": "Jubah"
+ },
  "e99283406209": {
   "en": "Play the round of <a href=\"/lore/pastimes/#territory-snipping\">Territory Snipping</a> from Vol 2, as Harry, against Hiromi.",
   "t": "Mainkan babak <a href=\"/lore/pastimes/#territory-snipping\">Territory Snipping</a> dari Jilid 2, sebagai Harry, melawan Hiromi."
@@ -187,17 +495,77 @@
   "en": "Good try! Good try! C’mon! Try again!",
   "t": "Usaha bagus! Usaha bagus! Ayo! Coba lagi!"
  },
+ "ea71ac574d84": {
+  "en": "Win more lanes to win the round. First to <strong>2 rounds</strong> wins, but finding the other side's nari stone wins at once.",
+  "t": "Menangkan lebih banyak lajur untuk memenangkan ronde. Yang pertama memenangkan <strong>2 ronde</strong> menang, tapi menemukan batu nari sisi lawan langsung menang."
+ },
+ "ee61b8c6ee53": {
+  "en": "Your statues",
+  "t": "Patung-patungmu"
+ },
+ "eeee9b76ec5d": {
+  "en": "Aurora",
+  "t": "Aurora"
+ },
  "ef0ebbb77298": {
   "en": "orange",
   "t": "oranye"
+ },
+ "ef6906d30a91": {
+  "en": "Painting your statues is just for looks.",
+  "t": "Mengecat patung-patungmu hanya untuk tampilan."
+ },
+ "f1b44b944d26": {
+  "en": "{who} placed {name} on {terrain} (power {power}).",
+  "t": "{who} menaruh {name} di {terrain} (kekuatan {power})."
  },
  "f290164d1315": {
   "en": "Outer ring",
   "t": "Cincin luar"
  },
+ "f2c741477316": {
+  "en": "a statue",
+  "t": "sebuah patung"
+ },
+ "f41c4e4dab0b": {
+  "en": "Forest",
+  "t": "Hutan"
+ },
+ "f4904bf63ad4": {
+  "en": "Nina",
+  "t": "Nina"
+ },
+ "f4c2739717c4": {
+  "en": "{terrain}, height {h}",
+  "t": "{terrain}, ketinggian {h}"
+ },
+ "f674ac08752f": {
+  "en": "+{n} on {terrain}",
+  "t": "+{n} di {terrain}"
+ },
+ "f6db3f96e9e3": {
+  "en": "Desert",
+  "t": "Gurun"
+ },
+ "fa27d1b6d725": {
+  "en": "+1 when outnumbered in its lane",
+  "t": "+1 saat kalah jumlah di lajurnya"
+ },
  "fb23c9ff0d27": {
   "en": "Inner ring",
   "t": "Cincin dalam"
+ },
+ "fbf6a2b00397": {
+  "en": "Lane {n}: you win, {a} to {b}.",
+  "t": "Lajur {n}: kamu menang, {a} lawan {b}."
+ },
+ "fe4f28f307a2": {
+  "en": "Round {n} is a draw.",
+  "t": "Ronde {n} berakhir seri."
+ },
+ "fe527bb5037f": {
+  "en": "Carve a new battalion",
+  "t": "Ukir batalion baru"
  },
  "feddfb10fb8d": {
   "en": "We all play at the same time. GO!",
