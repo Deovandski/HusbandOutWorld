@@ -23,6 +23,10 @@
   "en": "PRs are welcome, with or without AI help. If you used AI for a contribution, say so in the PR description and add a line to the table above.",
   "t": "Le PR sono benvenute, con o senza l'aiuto dell'IA. Se hai usato l'IA per un contributo, dillo nella descrizione della PR e aggiungi una riga alla tabella qui sopra."
  },
+ "227ad95d5503": {
+  "en": "content/bts",
+  "t": "content/bts"
+ },
  "23eebfe076f3": {
   "en": "<strong>Shortened and paraphrased</strong> them into one-paragraph public summaries, because the blog never had pages for these topics. No new facts. Each summary is labeled on the website as AI-written.",
   "t": "Li ha <strong>abbreviati e parafrasati</strong> in riassunti pubblici di un paragrafo, perché il blog non ha mai avuto pagine per questi argomenti. Nessun fatto nuovo. Ogni riassunto è segnalato sul sito come scritto dall'IA."
@@ -259,6 +263,14 @@
   "en": "content/summaries.json",
   "t": "content/summaries.json"
  },
+ "c43f5ab5035a": {
+  "en": "<strong>Written by the AI</strong> with the author: the abridged Behind The Scenes text the website shows (grammar fixed, brain dumps turned into readable prose and lists, gaps filled only from other Legacy sources or the author's answers). Every question asked, every answer (in the author's words), every filled gap with its source and every discrepancy is recorded in <a href=\"content/bts/qa\">content/bts/qa</a>, one file per Legacy doc. The Glossary's Behind The Scenes descriptions are taken from this abridged text. The raw notes in Legacy are unchanged; where the author ruled a correction or addition \"official\", it shows in the raw notes on the website as a display-only fix in <a href=\"content/fixes.json\">content/fixes.json</a>.",
+  "t": "<strong>Scritto dall'IA</strong> insieme all'autore: il testo abbreviato Dietro le quinte che mostra il sito (grammatica corretta, flussi di pensiero trasformati in prosa ed elenchi leggibili, lacune colmate solo da altre fonti di Legacy o dalle risposte dell'autore). Ogni domanda fatta, ogni risposta (con le parole dell'autore), ogni lacuna colmata con la sua fonte e ogni discrepanza sono registrate in <a href=\"content/bts/qa\">content/bts/qa</a>, un file per ogni documento di Legacy. Le descrizioni Dietro le quinte del Glossario vengono da questo testo abbreviato. Le note grezze in Legacy sono invariate; dove l'autore ha dichiarato \"ufficiale\" una correzione o un'aggiunta, questa compare nelle note grezze sul sito come correzione di sola visualizzazione in <a href=\"content/fixes.json\">content/fixes.json</a>."
+ },
+ "c92dbea049c4": {
+  "en": "<strong>The website shows the author's own words.</strong> The novel chapters and the public descriptions (from the old blog) are displayed as written, and so are the Behind The Scenes notes that haven't been abridged yet. The AI's job was to arrange them, not to rewrite them. The exception: Behind The Scenes notes that have been <strong>abridged</strong> (see <code>content/bts</code> below) are an AI-assisted rewrite of the author's raw notes into readable form, labeled as such on every section, with the raw notes one click away.",
+  "t": "<strong>Il sito mostra le parole dell'autore.</strong> I capitoli del romanzo e le descrizioni pubbliche (dal vecchio blog) sono mostrati così come sono stati scritti, e così le note Dietro le quinte che non sono ancora state abbreviate. Il compito dell'IA era ordinarle, non riscriverle. L'eccezione: le note Dietro le quinte che sono state <strong>abbreviate</strong> (vedi <code>content/bts</code> qui sotto) sono una riscrittura, fatta con l'aiuto dell'IA, delle note grezze dell'autore in una forma leggibile, segnalata come tale in ogni sezione, con le note grezze a un clic di distanza."
+ },
  "ca17d9e86677": {
   "en": "Modeled on the questions in IBM's <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> (what AI was used, what it contributed, how much humans shaped it, and who is accountable):",
   "t": "Modellata sulle domande dell'<a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> di IBM (quale IA è stata usata, cosa ha contribuito, quanto l'hanno modellata le persone e chi ne risponde):"
@@ -278,6 +290,10 @@
  "e8ebc8d12782": {
   "en": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter), for the structured data in each page",
   "t": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter), per i dati strutturati di ogni pagina"
+ },
+ "f1afd477240d": {
+  "en": "The raw Behind The Scenes notes in Legacy, the published novels, and the author's answers to the AI's questions.",
+  "t": "Le note grezze Dietro le quinte in Legacy, i romanzi pubblicati e le risposte dell'autore alle domande dell'IA."
  },
  "f5234aaefa0e": {
   "en": "Eight Behind The Scenes docs: World Timeline, Villages, Land, Professions, Education, Sports, Novels, Natural and Crafted Resources (human).",
