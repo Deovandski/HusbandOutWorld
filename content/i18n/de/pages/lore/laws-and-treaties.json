@@ -31,6 +31,10 @@
   "en": "The two participating duelers must state the reason for their duel and what they will lose or win.",
   "t": "Die beiden teilnehmenden Duellanten müssen den Grund für ihr Duell nennen und was sie verlieren oder gewinnen werden."
  },
+ "1ae786577622": {
+  "en": "<strong>The check:</strong> a witness smells each dueler's whole body and tastes the junction of their Darfaries veins, between the middle and ring fingers, while they stand still, feet apart and arms down; interfering is an instant loss. Any mind or body alteration must be revealed, and everyone must agree to go on. Fleeing or asking to postpone is an automatic loss, punishable by death at the witnesses' hands.",
+  "t": "<strong>Die Prüfung:</strong> Ein Zeuge beriecht den ganzen Körper jedes Duellanten und schmeckt die Verbindungsstelle ihrer Darfaries-Adern, zwischen Mittel- und Ringfinger, während sie stillstehen, Füße auseinander und Arme unten; Einmischung ist eine sofortige Niederlage. Jede Veränderung von Geist oder Körper muss offengelegt werden, und alle müssen zustimmen, weiterzumachen. Flucht oder die Bitte um Aufschub ist eine automatische Niederlage, die durch den Tod von der Hand der Zeugen bestraft wird."
+ },
  "1b5a20a804dc": {
   "en": "Crime",
   "t": "Verbrechen"
@@ -107,6 +111,18 @@
   "en": "Each dueler will have a turn to take action. The dueler designated as the attacker will begin the duel by moving from his position toward the defendant in any manner they so choose, as long as only physical weapons are used.",
   "t": "Jeder Duellant ist abwechselnd an der Reihe zu handeln. Der als Angreifer bestimmte Duellant beginnt das Duell, indem er sich auf jede beliebige Weise von seiner Position auf den Verteidiger zubewegt, solange nur physische Waffen benutzt werden."
  },
+ "3bc8403ceeae": {
+  "en": "<strong>Travel and adventurers (§2):</strong> every citizen can travel freely through every kingdom and city. Adventuring is a Forway job, run through the embassies, as a decentralized army; adventurers can't pass judgment without a Forway guard's or a kingdom representative's say-so.",
+  "t": "<strong>Reisen und Abenteurer (§2):</strong> Jeder Bürger kann frei durch jedes Königreich und jede Stadt reisen. Abenteurer zu sein ist ein Beruf von Forway, über die Botschaften organisiert, als dezentrale Armee; Abenteurer dürfen ohne das Einverständnis einer Wache von Forway oder eines Vertreters des Königreichs kein Urteil fällen."
+ },
+ "3e6d082cdb25": {
+  "en": "<strong>The yearly meeting (§7):</strong> every Paulin, the kings and city representatives meet at Forway Palace on the economy, the populace's health and threats, and must settle every disagreement before it ends.",
+  "t": "<strong>Das jährliche Treffen (§7):</strong> Jeden Paulin treffen sich die Könige und Vertreter der Städte im Forway Palace zu Wirtschaft, Gesundheit der Bevölkerung und Bedrohungen und müssen jede Meinungsverschiedenheit beilegen, bevor es endet."
+ },
+ "401f08411da7": {
+  "en": "Trial by combat, formalized by the early Gandew Kings because spats kept turning into public brawls; historians trace the first versions back to about 375 A.G.",
+  "t": "Gottesurteil im Kampf, von den frühen Königen von Gandew förmlich festgelegt, weil Zankereien ständig in öffentliche Prügeleien ausarteten; Historiker führen die ersten Fassungen auf etwa 375 A.G. zurück."
+ },
  "49697834af31": {
   "en": "Punishment is determined by the local embassy leaders, village elders, or Forway guard captains.",
   "t": "Die Strafe wird von den örtlichen Botschaftsleitern, Dorfältesten oder Captains der Wache von Forway festgelegt."
@@ -122,6 +138,14 @@
  "4b5e84be0e45": {
   "en": "Check",
   "t": "Prüfung"
+ },
+ "4c3513c57c5b": {
+  "en": "<strong>Winner and loser:</strong> the last one alive and breathing wins, must revive the loser, and the loser must honor the terms. A loser who refuses is executed by the witnesses and handed to the winner, who can do as they please with the body, even throw it off the Goodbye Cliff.",
+  "t": "<strong>Sieger und Verlierer:</strong> Wer als Letzter lebt und atmet, gewinnt, muss den Verlierer wiederbeleben, und der Verlierer muss die Bedingungen erfüllen. Ein Verlierer, der sich weigert, wird von den Zeugen hingerichtet und dem Sieger übergeben, der mit dem Körper tun kann, was er will, ihn sogar von der Goodbye Cliff werfen."
+ },
+ "4f409b85af55": {
+  "en": "<strong>Essential goods (§9, added in 705 A.G.):</strong> Forway manages the goods essential to the four kingdoms' safety, commonwealth and stability, with subsidies paid from taxes.",
+  "t": "<strong>Grundgüter (§9, 705 A.G. hinzugefügt):</strong> Forway verwaltet die Güter, die für die Sicherheit, das Gemeinwohl und die Stabilität der vier Königreiche wesentlich sind, mit Subventionen, die aus Steuern bezahlt werden."
  },
  "521d044bb4e3": {
   "en": "Sub 1) Essential goods to the four kingdoms' safety, commonwealth, and stability will be managed by Forway to reduce costs and improve trading. Subsidies shall be funded with taxpayer money.",
@@ -146,6 +170,10 @@
  "6549f695521c": {
   "en": "Sub 5) Forceful breach of contract by either parties or a third party, including Forway or any other kingdom, is a crime.",
   "t": "Unterabschnitt 5) Der gewaltsame Vertragsbruch durch eine der Parteien oder einen Dritten, einschließlich Forway oder eines anderen Königreichs, ist ein Verbrechen."
+ },
+ "65a445bc001d": {
+  "en": "<strong>Where:</strong> in the Low, Medium or High Pits, with at least ten witnesses.",
+  "t": "<strong>Wo:</strong> in der Low, Medium oder High Pit, mit mindestens zehn Zeugen."
  },
  "69be6b9de438": {
   "en": "Section #4",
@@ -191,6 +219,10 @@
   "en": "For marriage duels, a “win” is establishing a lifelong bond, and “loss” is determining they aren’t meant for each other.",
   "t": "Bei Heiratsduellen bedeutet ein „Sieg“, eine lebenslange Bindung einzugehen, und eine „Niederlage“, festzustellen, dass sie nicht füreinander bestimmt sind."
  },
+ "7feaa1ee7e39": {
+  "en": "<strong>Comparative advantage (§6):</strong> a city or kingdom can only mass-produce a trade good it has a comparative advantage in, granted by Forway for five years at a time, with price ceilings and minimum quotas. Breaking this means forfeiture and heavy fines.",
+  "t": "<strong>Komparativer Vorteil (§6):</strong> Eine Stadt oder ein Königreich darf nur ein Handelsgut in Massen herstellen, bei dem es einen komparativen Vorteil hat, von Forway jeweils für fünf Jahre gewährt, mit Preisobergrenzen und Mindestquoten. Ein Verstoß bedeutet Verwirkung und hohe Geldstrafen."
+ },
  "8a9356ede77d": {
   "en": "Section #3",
   "t": "Abschnitt #3"
@@ -211,9 +243,17 @@
   "en": "Sub 1) Personal involvement in plotting against any of these sections or Forway itself means hefty punishments, extending up to expulsion to Hifuna once proven guilty in accordance with The Forway Law.",
   "t": "Unterabschnitt 1) Persönliche Beteiligung an einer Verschwörung gegen einen dieser Abschnitte oder gegen Forway selbst bedeutet schwere Strafen, bis hin zur Verbannung nach Hifuna, sobald die Schuld nach dem Recht von Forway bewiesen ist."
  },
+ "a21cec5e5e1c": {
+  "en": "<strong>Land and taxes (§5):</strong> Forway owns everything outside the kingdoms, forever, and decides what counts as a village or a city. Forway cities need an embassy and follow the Forway Law; cities pay 20% tax and villages 15%, and Forway sends a battalion to take over if a place's debt reaches 50% of its estimated GDP. Kingdoms rule themselves, but must host a Forway embassy on Forway-controlled land and pay 10%. Embassies can issue emergency calls that summon adventurers (and kingdom guards, if the kingdom allows it).",
+  "t": "<strong>Land und Steuern (§5):</strong> Forway gehört alles außerhalb der Königreiche, für immer, und es entscheidet, was als Dorf oder Stadt gilt. Städte von Forway brauchen eine Botschaft und folgen dem Forway-Gesetz; Städte zahlen 20 % Steuern und Dörfer 15 %, und Forway schickt ein Bataillon zur Übernahme, wenn die Schulden eines Ortes 50 % seines geschätzten BIP erreichen. Königreiche regieren sich selbst, müssen aber auf von Forway kontrolliertem Land eine Botschaft von Forway beherbergen und 10 % zahlen. Botschaften können Notrufe ausgeben, die Abenteurer herbeirufen (und die Wachen des Königreichs, wenn das Königreich es erlaubt)."
+ },
  "a526b69f1fea": {
   "en": "Sub 2) All Forway cities must have an Embassy and follow the Forway Law. Controlled cities must pay a 20% tax, and villages must pay 15% on all the wealth they generate. Forway will be required to send a battalion and reclaim control of a city or village and institute a new set of leadership if debt to Forway reaches 50% of its estimated GDP.",
   "t": "Unterabschnitt 2) Alle Städte von Forway müssen eine Botschaft haben und das Recht von Forway befolgen. Kontrollierte Städte müssen eine Steuer von 20 % zahlen und Dörfer 15 % auf allen Wohlstand, den sie erwirtschaften. Forway ist verpflichtet, ein Bataillon zu entsenden, die Kontrolle über eine Stadt oder ein Dorf zurückzuerobern und eine neue Führung einzusetzen, wenn die Schulden gegenüber Forway 50 % des geschätzten BIP erreichen."
+ },
+ "a59ea7445d9b": {
+  "en": "<strong>Contracts (§4):</strong> a contract of near-equal value to both sides is supreme (except for adventurers in a Forway emergency). It's legal with both blood signatures, checkable with a badge, as long as the termination section on the back isn't voided. Slavery is banned, but selling your own freedom for something of similar value is allowed. Abuse is judged by the local kingdom's court, or by Forway law outside a kingdom; forcefully breaking a contract is a crime, for anyone, Forway included.",
+  "t": "<strong>Verträge (§4):</strong> Ein Vertrag mit nahezu gleichem Wert für beide Seiten steht über allem (außer für Abenteurer in einem Notfall von Forway). Er ist mit beiden Blutunterschriften rechtsgültig und mit einem Ausweis überprüfbar, solange der Kündigungsabschnitt auf der Rückseite nicht ungültig gemacht wurde. Sklaverei ist verboten, aber die eigene Freiheit für etwas von ähnlichem Wert zu verkaufen ist erlaubt. Missbrauch wird vom Gericht des örtlichen Königreichs beurteilt, außerhalb eines Königreichs nach dem Forway-Gesetz; einen Vertrag gewaltsam zu brechen ist ein Verbrechen, für jeden, Forway eingeschlossen."
  },
  "a65733b35940": {
   "en": "Duel",
@@ -227,9 +267,21 @@
   "en": "Sub 1) All cities and Kingdoms are prohibited from mass producing an item for trading if it does not have a comparative advantage over a given good in its economic region. Violation is subjected to forfeiture and hefty fines as a percentage of a given kingdom's earnings.",
   "t": "Unterabschnitt 1) Allen Städten und Königreichen ist es verboten, eine Ware für den Handel in Massen zu produzieren, wenn sie bei dieser Ware in ihrer Wirtschaftsregion keinen komparativen Vorteil haben. Verstöße werden mit Beschlagnahmung und hohen Geldstrafen in Höhe eines Prozentsatzes der Einnahmen des betreffenden Königreichs geahndet."
  },
+ "ade957e1bc88": {
+  "en": "<strong>Before the duel:</strong> both duelers say why they're fighting and what they win or lose (in a marriage duel, winning means a lifelong bond; losing means they aren't meant for each other). The witnesses pick who attacks first; someone defending his honor, wife and so on gets to start on defense, and in a marriage duel the woman attacks first. The duel only starts once every witness agrees, with the duelers ten Adi apart in the middle of the pit.",
+  "t": "<strong>Vor dem Duell:</strong> Beide Duellanten sagen, warum sie kämpfen und was sie gewinnen oder verlieren (bei einem Ehe-Duell bedeutet Gewinnen eine lebenslange Bindung; Verlieren bedeutet, dass sie nicht füreinander bestimmt sind). Die Zeugen wählen, wer zuerst angreift; wer seine Ehre, seine Frau und so weiter verteidigt, darf in der Verteidigung beginnen, und bei einem Ehe-Duell greift die Frau zuerst an. Das Duell beginnt erst, wenn alle Zeugen zustimmen, mit den Duellanten zehn Adi voneinander entfernt in der Mitte der Grube."
+ },
+ "b0152fb37069": {
+  "en": "How guards and leaders in every Forway territory must deal with, arrest and punish wrongdoers.",
+  "t": "Wie Wachen und Anführer in jedem Gebiet von Forway mit Übeltätern umgehen, sie festnehmen und bestrafen müssen."
+ },
  "b169a7688d58": {
   "en": "Loser vs. Winner",
   "t": "Verlierer gegen Gewinner"
+ },
+ "b2e1a906f964": {
+  "en": "<strong>Money and measures (§3):</strong> no bartering between treaty parties (haggling is fine if the owner allows it); everything is paid in Balls currency; everyone uses the Vraki Calendar and the Vraki units of measure.",
+  "t": "<strong>Geld und Maße (§3):</strong> kein Tauschhandel zwischen Vertragsparteien (Feilschen ist in Ordnung, wenn der Besitzer es erlaubt); alles wird in der Währung Kugeln bezahlt; alle verwenden den Vraki-Kalender und die Vraki-Maßeinheiten."
  },
  "b4a095f1aaf3": {
   "en": "Grand punishment for conspiracy against Forway and The Prosperity Treaty.",
@@ -238,6 +290,14 @@
  "b4c91e5f2d01": {
   "en": "Sub 1) Forway shall own all territory outside a Kingdom’s sphere of influence in perpetuity and determine what classifies as a village or city.",
   "t": "Unterabschnitt 1) Forway besitzt auf ewig alle Gebiete außerhalb der Einflusssphäre eines Königreichs und bestimmt, was als Dorf oder Stadt gilt."
+ },
+ "b4f8394edd70": {
+  "en": "<strong>King-Fest addendum:</strong> the crown is decided by Gandew Duel, open only to natural-born Darfaries. The King is healed between duels, but he doesn't have to heal his challengers. Whoever kills the King must rip out both of the dead King's tusks to finish the transfer of power.",
+  "t": "<strong>Nachtrag zum King-Fest:</strong> Die Krone wird durch ein Gandew-Duell entschieden, das nur gebürtigen Darfaries offensteht. Der König wird zwischen den Duellen geheilt, muss seine Herausforderer aber nicht heilen. Wer den König tötet, muss dem toten König beide Hauer ausreißen, um die Machtübergabe abzuschließen."
+ },
+ "b6e9a1c4a3e4": {
+  "en": "<strong>The duel:</strong> one attack per turn (a single swing, stab or punch), with physical weapons only. The attacker can move however they like; the defender can't move, but can counter without moving. Roles swap every turn, and no healing between rounds.",
+  "t": "<strong>Das Duell:</strong> ein Angriff pro Runde (ein einzelner Hieb, Stich oder Schlag), nur mit physischen Waffen. Der Angreifer kann sich bewegen, wie er will; der Verteidiger darf sich nicht bewegen, kann aber kontern, ohne sich zu bewegen. Die Rollen tauschen jede Runde, und zwischen den Runden wird nicht geheilt."
  },
  "b77a26369e20": {
   "en": "Section #8",
@@ -271,6 +331,10 @@
   "en": "Sub 4) Determination of contract abuse, including if one or multiple parties are unwilling to terminate the contract, shall be made by the local kingdom court or Forway law if outside a given kingdom’s jurisdiction.",
   "t": "Unterabschnitt 4) Über Vertragsmissbrauch, einschließlich der Frage, ob eine oder mehrere Parteien nicht bereit sind, den Vertrag zu kündigen, entscheidet das örtliche Gericht des Königreichs oder das Recht von Forway, wenn es außerhalb der Gerichtsbarkeit eines Königreichs liegt."
  },
+ "c83906412334": {
+  "en": "<strong>Crime:</strong> any proven harm (physical, economic or mental) a citizen suffers without consenting to it. Everyone is innocent until proven guilty. Punishments come in three sizes: minor (replaceable or recoverable within five years of contract servitude), major (irreparable, or worth more than five years of servitude) and grand (conspiracy against Forway and the Prosperity Treaty).",
+  "t": "<strong>Verbrechen:</strong> jeder nachgewiesene Schaden (körperlich, wirtschaftlich oder seelisch), den ein Bürger ohne seine Einwilligung erleidet. Jeder ist unschuldig, bis seine Schuld bewiesen ist. Strafen gibt es in drei Größen: kleine (ersetzbar oder innerhalb von fünf Jahren Vertragsknechtschaft wiedergutzumachen), große (nicht wiedergutzumachen oder mehr wert als fünf Jahre Knechtschaft) und schwerste (Verschwörung gegen Forway und den Wohlstandsvertrag)."
+ },
  "c9a9638bc2b4": {
   "en": "Minor punishment for acts and items that can be replaced or recovered to their original state within five years of contract servitude.",
   "t": "Geringe Strafe für Taten und Gegenstände, die innerhalb von fünf Jahren Vertragsdienst ersetzt oder in ihren ursprünglichen Zustand zurückversetzt werden können."
@@ -283,6 +347,10 @@
   "en": "Section #6",
   "t": "Abschnitt #6"
  },
+ "cba093054420": {
+  "en": "<strong>Citizens (§1):</strong> a citizen is whoever holds a badge made at a Four Kingdom Embassy. The new Freeish Kingdom, which governs where Ganyrami once stood, is an equal of Sanbi, Tolerideme and Gandew.",
+  "t": "<strong>Bürger (§1):</strong> Bürger ist, wer einen Ausweis besitzt, der in einer Botschaft der Vier Königreiche ausgestellt wurde. Das neue Königreich Freeish, das dort regiert, wo einst Ganyrami stand, ist Sanbi, Tolerideme und Gandew gleichgestellt."
+ },
  "cc4844411a8d": {
   "en": "Kingdom rulers are allowed to override this law within their territories.",
   "t": "Die Herrscher der Königreiche dürfen dieses Gesetz in ihren Gebieten außer Kraft setzen."
@@ -290,6 +358,14 @@
  "ccc6f535b4f3": {
   "en": "A theft of an item must account for sentimental value if the original item can’t be returned to the victim.",
   "t": "Beim Diebstahl eines Gegenstands muss der ideelle Wert berücksichtigt werden, wenn der ursprüngliche Gegenstand dem Opfer nicht zurückgegeben werden kann."
+ },
+ "cde68a5dab7c": {
+  "en": "<strong>Consent:</strong> a written contract, or a spoken declaration in front of several witnesses.",
+  "t": "<strong>Einwilligung:</strong> ein schriftlicher Vertrag oder eine mündliche Erklärung vor mehreren Zeugen."
+ },
+ "ce06f685292e": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Laws%20and%20Treaties.md\">Legacy/Behind The Scenes/World Lore/Laws and Treaties.md</a>",
+  "t": "Quelle: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Laws%20and%20Treaties.md\">Legacy/Behind The Scenes/World Lore/Laws and Treaties.md</a>"
  },
  "cf5added53b1": {
   "en": "Any proven hurt (physical, economic, and mental) that a kingdom citizen receives without their consent.",
@@ -323,9 +399,17 @@
   "en": "A ‘winner’ is decided by the last dueler alive and breathing. The winner must resuscitate the loser, while the loser must abide by the terms laid out in the Pre-duel.",
   "t": "Der ‚Gewinner‘ ist der letzte Duellant, der noch lebt und atmet. Der Gewinner muss den Verlierer wiederbeleben, während der Verlierer sich an die Bedingungen halten muss, die vor dem Duell festgelegt wurden."
  },
+ "ddb3d3cff2de": {
+  "en": "<strong>Plotting (§8):</strong> plotting against the treaty or Forway is punished harshly, up to exile to Hifuna, once proven under the Forway Law.",
+  "t": "<strong>Verschwörung (§8):</strong> Verschwörung gegen den Vertrag oder Forway wird hart bestraft, bis hin zur Verbannung nach Hifuna, sobald sie nach dem Forway-Gesetz bewiesen ist."
+ },
  "deda8dc08acf": {
   "en": "The core law governing how guards and leaders within all Forway territories must interact, arrest and punish miscreants.",
   "t": "Das Kerngesetz, das regelt, wie Wachen und Führer in allen Gebieten von Forway mit Übeltätern umgehen, sie verhaften und bestrafen müssen."
+ },
+ "df5b6b6dd870": {
+  "en": "The founding treaty, from 680 A.G., when Paulin of Freeish and three courtroom scientists (Asa the Powerful of Gandew, Adrian of North Tolerideme and Bijura Moacir of Sanbi) overthrew their kingdoms to end the Greed Period. It's built on the Sanbi Kingdom's laws of the time, adapted to create Forway: one administrative body between all the kingdoms, to grow trade, steady relations and share resources against threats from outside and within.",
+  "t": "Der Gründungsvertrag aus dem Jahr 680 A.G., als Paulin of Freeish und drei Hofwissenschaftler (Asa the Powerful aus Gandew, Adrian of North Tolerideme und Bijura Moacir aus Sanbi) ihre Königreiche stürzten, um die Gier-Periode zu beenden. Er baut auf den damaligen Gesetzen des Königreichs Sanbi auf, angepasst, um Forway zu schaffen: eine Verwaltung zwischen allen Königreichen, um den Handel auszubauen, die Beziehungen zu festigen und Ressourcen gegen Bedrohungen von außen und innen zu teilen."
  },
  "e59681ecdeed": {
   "en": "“History will eventually repeat itself because humans are stupidly greedy and shortsighted, but we will delay the inevitable by establishing a common…",
@@ -351,6 +435,10 @@
   "en": "Temporary detention of kingdom citizens is allowed at most for six weeks, with one of these requirements being met.",
   "t": "Die vorübergehende Inhaftierung von Bürgern eines Königreichs ist höchstens sechs Wochen erlaubt, wenn eine dieser Voraussetzungen erfüllt ist."
  },
+ "f1d93c48ff3c": {
+  "en": "<strong>Punishment:</strong> of equal or similar value: a stolen item that can't be returned is paid back including its sentimental value; bodily harm is repaid with equal harm, or comparable compensation. Local embassy leaders, village elders or Forway guard captains decide it, and kingdom rulers can override it on their own land. A citizen can be held for up to six weeks with preliminary proof, or if they might escape. For the gravest crimes, exile to Hifuna takes at least four authorities. If local courts can't agree, Forway's leaders decide at the next yearly meeting (§7).",
+  "t": "<strong>Strafe:</strong> von gleichem oder ähnlichem Wert: Ein gestohlener Gegenstand, der nicht zurückgegeben werden kann, wird einschließlich seines ideellen Wertes zurückgezahlt; Körperverletzung wird mit gleichem Schaden vergolten oder mit vergleichbarer Entschädigung. Örtliche Botschaftsleiter, Dorfälteste oder Hauptleute der Wachen von Forway entscheiden darüber, und die Herrscher der Königreiche können es auf ihrem eigenen Land aufheben. Ein Bürger kann mit vorläufigen Beweisen oder bei Fluchtgefahr bis zu sechs Wochen festgehalten werden. Für die schwersten Verbrechen braucht die Verbannung nach Hifuna mindestens vier Autoritäten. Können sich örtliche Gerichte nicht einigen, entscheiden die Anführer von Forway beim nächsten jährlichen Treffen (§7)."
+ },
  "f365cf258166": {
   "en": "Major punishment for acts and items that are irreparable, irreplaceable, irrecoverable, or more expensive than five years of contract servitude.",
   "t": "Schwere Strafe für Taten und Gegenstände, die nicht reparierbar, nicht ersetzbar, nicht wiederherstellbar oder teurer als fünf Jahre Vertragsdienst sind."
@@ -362,6 +450,10 @@
  "f72a47bdbf38": {
   "en": "It must be decided through Gandew Duel, with only natural-born Darfaries being able to participate.",
   "t": "Es muss durch ein Duell nach Gandew-Art entschieden werden, an dem nur natürlich geborene Darfaries teilnehmen dürfen."
+ },
+ "fa32d137f104": {
+  "en": "In short:",
+  "t": "Kurz gesagt:"
  },
  "fc0801befd49": {
   "en": "This foundational treaty was introduced in 680 A.G. when Freeish Paulin, alongside three brave courtroom scientists from Gandew (Asa The Powerful), Tolerideme (Adrian from North Tolerideme) &amp; Sanbi (Bijura Moacir) Kingdoms overthrew their respective kingdoms to stop what is now known as The Greed Period. The law itself was inherited from Sanbi Kingdom’s laws at the time and modified accordingly to accommodate the creation of a new administrative entity that would become the interface between all kingdoms to increase trading, stabilize relationships, and share resources to combat external and internal threats.",
