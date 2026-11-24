@@ -79,6 +79,14 @@
   "en": "Tier VI Professions",
   "t": "Pekerjaan Tingkat VI"
  },
+ "0f2afddf1f32": {
+  "en": "<strong>Duties:</strong> extract stone from quarries.",
+  "t": "<strong>Tugas:</strong> mengambil batu dari tambang batu."
+ },
+ "118ca2335b44": {
+  "en": "<strong>Duties:</strong> prepare for fishing, fish, clean the fish and carry it off the boat.",
+  "t": "<strong>Tugas:</strong> bersiap memancing, memancing, membersihkan ikan, dan membawanya turun dari perahu."
+ },
  "1247f153760d": {
   "en": "Tier II Professions",
   "t": "Pekerjaan Tingkat II"
@@ -147,6 +155,10 @@
   "en": "Famous Courtesans",
   "t": "Pelacur Terkenal"
  },
+ "2be7482d961c": {
+  "en": "<strong>Duties:</strong> plow fields, harvest, fertilize and mill grain.",
+  "t": "<strong>Tugas:</strong> membajak ladang, memanen, memupuk, dan menggiling biji-bijian."
+ },
  "2c74044a7e3b": {
   "en": "<strong>Duties:</strong> handle livestock and crops, and get dirty on the job. Maybe handle a person or two, but usually just guild members.",
   "t": "<strong>Tugas:</strong> mengurus ternak dan tanaman, dan ikut kotor saat bekerja. Mungkin mengurus satu atau dua orang, tapi biasanya hanya anggota gilda."
@@ -187,6 +199,10 @@
   "en": "Tier V Professions",
   "t": "Pekerjaan Tingkat V"
  },
+ "32c032c2d5a1": {
+  "en": "<strong>Duties:</strong> take care of eguas, groom and feed them, and help with egua births.",
+  "t": "<strong>Tugas:</strong> merawat egua, menyikat dan memberi mereka makan, dan membantu kelahiran egua."
+ },
  "32ed08835c99": {
   "en": "Lumberjack",
   "t": "Penebang Kayu"
@@ -215,6 +231,10 @@
   "en": "<strong>Duties:</strong> fix and clean boats.",
   "t": "<strong>Tugas:</strong> memperbaiki dan membersihkan perahu."
  },
+ "39973efcf6c4": {
+  "en": "<strong>History:</strong> richer districts of cities and kingdoms often employ street cleaners, usually paid by the people living in the area rather than the government (depending on how the kingdom is organized).",
+  "t": "<strong>Sejarah:</strong> distrik-distrik kota dan kerajaan yang lebih kaya sering mempekerjakan penyapu jalan, biasanya dibayar warga yang tinggal di daerah itu, bukan pemerintah (tergantung bagaimana kerajaan itu diatur)."
+ },
  "3aa5b22c7b20": {
   "en": "The third richest people in the world. Their power reaches a city at most.",
   "t": "Orang-orang terkaya ketiga di dunia. Kekuasaan mereka paling jauh menjangkau satu kota."
@@ -234,6 +254,10 @@
  "3de66eb212b0": {
   "en": "<strong>Training:</strong> Fundamental School helps, but this is self-employed, so you do you.",
   "t": "<strong>Pelatihan:</strong> Sekolah Dasar membantu, tapi ini wiraswasta, jadi terserah kamu."
+ },
+ "3f5701b74569": {
+  "en": "<strong>History:</strong> people like meat, so someone needs to gut the animals and make sausages.",
+  "t": "<strong>Sejarah:</strong> orang suka daging, jadi seseorang perlu membersihkan isi perut hewan dan membuat sosis."
  },
  "4023098315ae": {
   "en": "Road Maintainers",
@@ -287,6 +311,10 @@
   "en": "<strong>Duties:</strong> keep the balance between food orders and meat and milk sales, etc. Also takes care of the Woolies when time allows.",
   "t": "<strong>Tugas:</strong> menjaga keseimbangan antara pesanan makanan dan penjualan daging dan susu, dll. Juga merawat Wooly kalau ada waktu."
  },
+ "4a3cac295494": {
+  "en": "<strong>Duties:</strong> clean latrines.",
+  "t": "<strong>Tugas:</strong> membersihkan jamban."
+ },
  "4a693b717f91": {
   "en": "<strong>Duties:</strong> take care of the kingdom, working directly under the courtroom scientists.",
   "t": "<strong>Tugas:</strong> mengurus kerajaan, bekerja langsung di bawah para ilmuwan istana."
@@ -294,6 +322,10 @@
  "4aecf373d658": {
   "en": "Artisan Cheesemaker",
   "t": "Pembuat Keju Artisan"
+ },
+ "4cbf0ebcab36": {
+  "en": "<strong>History:</strong> carrying around water-filled fruit is expensive and stupid, so these people come into play.",
+  "t": "<strong>Sejarah:</strong> membawa-bawa buah penuh air itu mahal dan bodoh, jadi orang-orang inilah yang berperan."
  },
  "4cc0e4e2b542": {
   "en": "<strong>History:</strong> because some cheese tastes better than others.",
@@ -451,6 +483,10 @@
   "en": "<strong>Training:</strong> Fundamental School and Historian/Teaching School.",
   "t": "<strong>Pelatihan:</strong> Sekolah Dasar dan Sekolah Sejarah/Pengajaran."
  },
+ "735d6ad94d9e": {
+  "en": "<strong>Duties:</strong> see Natural &amp; Crafted Resources.",
+  "t": "<strong>Tugas:</strong> lihat Sumber Daya Alam &amp; Buatan."
+ },
  "7506752cedeb": {
   "en": "Wood/Stone Worker",
   "t": "Pekerja Kayu/Batu"
@@ -458,6 +494,10 @@
  "7510681254ef": {
   "en": "Historians/Teachers",
   "t": "Sejarawan/Guru"
+ },
+ "76e3a446b863": {
+  "en": "<strong>Average pay:</strong> 1 Pearl an hour, for apprentices and masters alike.",
+  "t": "<strong>Upah rata-rata:</strong> 1 Pearl per jam, untuk magang maupun ahli."
  },
  "7944c42b1f36": {
   "en": "The second richest people in the world. Their power reaches a region at most.",
@@ -483,9 +523,17 @@
   "en": "Large Farm Owner",
   "t": "Pemilik Ladang Besar"
  },
+ "8735f4858edd": {
+  "en": "<strong>Duties:</strong> extract wood from forests.",
+  "t": "<strong>Tugas:</strong> mengambil kayu dari hutan."
+ },
  "87af01bd9c7e": {
   "en": "Sanbi Eye",
   "t": "Sanbi Eye"
+ },
+ "8869272e670d": {
+  "en": "<strong>Duties:</strong> make vellum from animal skin, and paper from wood pulp.",
+  "t": "<strong>Tugas:</strong> membuat vellum dari kulit hewan, dan kertas dari bubur kayu."
  },
  "893b7a9113f6": {
   "en": "<strong>Duties:</strong> housekeeping. How far it goes depends on the household and the maid's prestige: from more \"normal\" maids, up to someone like Eiri, a King-Maid, whose job extends into finances, cooking, cleaning and taxes.",
@@ -515,9 +563,17 @@
   "en": "<strong>History:</strong> someone has to take care of the dead, especially once people develop complex rituals.",
   "t": "<strong>Sejarah:</strong> seseorang harus mengurus orang mati, terutama saat orang mengembangkan ritual yang rumit."
  },
+ "904f51b879b7": {
+  "en": "<strong>Duties:</strong> take care of the lighthouse: pump water into the fost stone, replace the stone, etc.",
+  "t": "<strong>Tugas:</strong> merawat mercusuar: memompa air ke batu fost, mengganti batunya, dll."
+ },
  "90a167603476": {
   "en": "<strong>Training:</strong> knowing how to read speeds up going from apprentice to master; otherwise, learn on the job.",
   "t": "<strong>Pelatihan:</strong> bisa membaca mempercepat naik dari magang menjadi ahli; kalau tidak, belajar sambil bekerja."
+ },
+ "9211c4167577": {
+  "en": "<strong>History:</strong> one of the earliest jobs in existence.",
+  "t": "<strong>Sejarah:</strong> salah satu pekerjaan paling awal yang pernah ada."
  },
  "9312d57b974b": {
   "en": "<strong>Training:</strong> Tailoring School.",
@@ -527,9 +583,17 @@
   "en": "How much of this applies depends on how the kingdom is organized.",
   "t": "Seberapa banyak yang berlaku tergantung bagaimana kerajaan itu diatur."
  },
+ "9866309d4236": {
+  "en": "<strong>History:</strong> paper is half the battle, so someone needs to make the ink and the wax.",
+  "t": "<strong>Sejarah:</strong> kertas baru separuh perjuangan, jadi seseorang perlu membuat tinta dan lilinnya."
+ },
  "9b85c6e5d0b9": {
   "en": "<strong>Duties:</strong> keep the peace, assist in investigations and help medics. Also coordinate nari stone usage, work with adventurers, and coordinate with the King and courtroom scientists (depending on how the kingdom is organized).",
   "t": "<strong>Tugas:</strong> menjaga ketertiban, membantu penyelidikan, dan membantu tenaga medis. Juga mengoordinasikan pemakaian batu nari, bekerja dengan petualang, dan berkoordinasi dengan Raja dan para ilmuwan istana (tergantung bagaimana kerajaan itu diatur)."
+ },
+ "9bb4137522b5": {
+  "en": "<strong>Training:</strong> learn on the job; no reading required.",
+  "t": "<strong>Pelatihan:</strong> belajar sambil bekerja; tidak perlu bisa membaca."
  },
  "9cc2644f0b21": {
   "en": "<strong>Duties:</strong> handle egua births and health, and manage the stable business.",
@@ -567,13 +631,29 @@
   "en": "Street Cleaner",
   "t": "Penyapu Jalan"
  },
+ "a69d012911c6": {
+  "en": "<strong>Duties:</strong> treat leather and animal skin for dresses, weapons and vellum.",
+  "t": "<strong>Tugas:</strong> mengolah kulit dan kulit hewan untuk gaun, senjata, dan vellum."
+ },
+ "aa5928af8f30": {
+  "en": "<strong>History:</strong> works alongside butchers to treat game skin and bones.",
+  "t": "<strong>Sejarah:</strong> bekerja bersama tukang jagal untuk mengolah kulit dan tulang hewan buruan."
+ },
  "aaacdfb70de3": {
   "en": "<strong>Training:</strong> Fundamental School isn't required, but it's really hard to do without.",
   "t": "<strong>Pelatihan:</strong> Sekolah Dasar tidak wajib, tapi sangat sulit tanpanya."
  },
+ "ab43b4c49d47": {
+  "en": "<strong>History:</strong> as eguas were domesticated, people were needed to handle them.",
+  "t": "<strong>Sejarah:</strong> saat egua dijinakkan, orang dibutuhkan untuk mengurusnya."
+ },
  "ac2b1387dbe5": {
   "en": "<strong>History:</strong> someone who takes merchanting extremely seriously.",
   "t": "<strong>Sejarah:</strong> seseorang yang sangat serius soal berdagang."
+ },
+ "ac55d9500a19": {
+  "en": "<strong>Duties:</strong> drive egua carts from city to city, carrying basic goods.",
+  "t": "<strong>Tugas:</strong> mengemudikan gerobak egua dari kota ke kota, mengangkut barang-barang pokok."
  },
  "acab31af4a94": {
   "en": "Blacksmiths",
@@ -602,6 +682,22 @@
  "b44d69d8fd77": {
   "en": "<strong>Duties:</strong> read, play and write songs.",
   "t": "<strong>Tugas:</strong> membaca, memainkan, dan menulis lagu."
+ },
+ "b45bc2b2a503": {
+  "en": "<strong>History:</strong> an easy job, but kind of boring, and slightly dangerous at times.",
+  "t": "<strong>Sejarah:</strong> pekerjaan yang mudah, tapi agak membosankan, dan kadang sedikit berbahaya."
+ },
+ "b510917433fe": {
+  "en": "<strong>Duties:</strong> dry fruits, herbs and plenty more for transport.",
+  "t": "<strong>Tugas:</strong> mengeringkan buah, herba, dan banyak lagi untuk diangkut."
+ },
+ "b6070e32bbe6": {
+  "en": "<strong>Duties:</strong> mine ore, open tunnels and carry the ore to the surface.",
+  "t": "<strong>Tugas:</strong> menambang bijih, membuka terowongan, dan mengangkut bijih ke permukaan."
+ },
+ "b867944bc051": {
+  "en": "<strong>Duties:</strong> hunt prey, butcher it, and bring it back somewhere to sell.",
+  "t": "<strong>Tugas:</strong> memburu mangsa, menjagalnya, dan membawanya ke suatu tempat untuk dijual."
  },
  "bad034722d1e": {
   "en": "Butcher",
@@ -675,9 +771,17 @@
   "en": "<strong>History:</strong> wherever humans live, history soon follows, filling libraries. But some history was lost during the Greed Period, when wars raged for a long time, and tons more because before Ganyrami it was mostly passed by word of mouth among humans. The Darfaries burned their own history, which makes the past kind of sketchy. And some people don't care about history, because they prefer living in the present. So people in this profession usually teach at the fundamental level to earn a livable wage while they pursue research nobody is funding.",
   "t": "<strong>Sejarah:</strong> di mana pun manusia tinggal, sejarah segera menyusul, memenuhi perpustakaan. Tapi sebagian sejarah hilang selama Periode Keserakahan, saat perang berkecamuk lama, dan jauh lebih banyak lagi karena sebelum Ganyrami sejarah kebanyakan diwariskan dari mulut ke mulut di antara manusia. Para Darfaries membakar sejarah mereka sendiri, yang membuat masa lalu agak samar. Dan sebagian orang tidak peduli sejarah, karena mereka lebih suka hidup di masa kini. Jadi orang-orang dalam profesi ini biasanya mengajar di tingkat dasar untuk mendapat upah yang layak sambil menjalankan riset yang tak didanai siapa pun."
  },
+ "d86a0b9b9510": {
+  "en": "<strong>Duties:</strong> skin game for tanners, slice game, cure meat, etc.",
+  "t": "<strong>Tugas:</strong> menguliti hewan buruan untuk penyamak kulit, mengiris hewan buruan, mengawetkan daging, dll."
+ },
  "da654b0ff3a4": {
   "en": "<strong>Training:</strong> Fundamental School and Cooking School.",
   "t": "<strong>Pelatihan:</strong> Sekolah Dasar dan Sekolah Memasak."
+ },
+ "dc0cff2c2774": {
+  "en": "<strong>History:</strong> cleans latrines and cesspits.",
+  "t": "<strong>Sejarah:</strong> membersihkan jamban dan lubang kotoran."
  },
  "e08eaff25c85": {
   "en": "Stable Hand Manager",
@@ -722,6 +826,18 @@
  "e9b43d11425b": {
   "en": "City Guard",
   "t": "Penjaga Kota"
+ },
+ "eec4b8a22e47": {
+  "en": "The sixth richest people in the world. Their power is none.",
+  "t": "Orang-orang terkaya keenam di dunia. Kekuasaan mereka nihil."
+ },
+ "f2e56469294d": {
+  "en": "<strong>History:</strong> one of the earliest jobs in existence: hunting in the nearby woods, a quite dangerous job. Mostly replaced by adventurer hunting, since hunters on their own don't have the safety net adventurers have with the embassies.",
+  "t": "<strong>Sejarah:</strong> salah satu pekerjaan paling awal yang pernah ada: berburu di hutan sekitar, pekerjaan yang cukup berbahaya. Sebagian besar digantikan perburuan oleh petualang, karena pemburu sendirian tidak punya jaring pengaman seperti yang dimiliki petualang lewat kedutaan."
+ },
+ "f3c4e3eb138e": {
+  "en": "<strong>Duties:</strong> clean the streets.",
+  "t": "<strong>Tugas:</strong> membersihkan jalanan."
  },
  "f8a9289d923c": {
   "en": "Tanner",
