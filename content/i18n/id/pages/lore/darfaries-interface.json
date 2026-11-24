@@ -1,4 +1,8 @@
 {
+ "03acadced801": {
+  "en": "<strong>Nari stones:</strong> one stone for Tier I, two for Tier II, four for Tier III, and so on. Once used, a nari stone turns diamond-like as its blue hue fades.",
+  "t": "<strong>Batu nari:</strong> satu batu untuk Tingkat I, dua untuk Tingkat II, empat untuk Tingkat III, dan seterusnya. Begitu dipakai, batu nari menjadi seperti intan saat rona birunya memudar."
+ },
  "07b9494886d6": {
   "en": "Using The Interface - Feed",
   "t": "Memakai Antarmuka - Menyalurkan"
@@ -15,33 +19,113 @@
   "en": "This is where some progress has been made in extending the interface framework! Nobody has successfully transformed the OBJECT and VERB structure of the interface—but they have been able to increase the information density of the object while retaining consistent casting.",
   "t": "Di sinilah ada kemajuan dalam memperluas kerangka antarmuka! Tidak ada yang berhasil mengubah struktur OBJEK dan KATA KERJA antarmuka itu—tapi mereka berhasil meningkatkan kepadatan informasi objek sambil tetap menjaga rapalan yang konsisten."
  },
+ "0d754b757652": {
+  "en": "Copper → Zinc",
+  "t": "Tembaga → Seng"
+ },
  "0dd08d5e4d8c": {
   "en": "As you feed a specific command and energy into the interface, you will see balls representing the command. You can never mix and match commands; only one command + energy + release may be executed. Below is a plain reference of the different ball statuses",
   "t": "Saat kamu menyalurkan perintah dan energi tertentu ke antarmuka, kamu akan melihat bola yang mewakili perintah itu. Kamu tidak pernah bisa mencampur perintah; hanya satu perintah + energi + pelepasan yang bisa dijalankan. Di bawah ini adalah rujukan singkat tentang status bola yang berbeda-beda"
+ },
+ "0e4e80712ada": {
+  "en": "Shock VERB",
+  "t": "Shock VERB"
+ },
+ "0f47dfa46a4f": {
+  "en": "<strong>Increase/Decrease</strong> and <strong>Restore/Disassemble:</strong> behave like Create/Destroy.",
+  "t": "<strong>Increase/Decrease</strong> dan <strong>Restore/Disassemble:</strong> berperilaku seperti Create/Destroy."
+ },
+ "10668848ecf1": {
+  "en": "Gold → Mercury",
+  "t": "Emas → Raksa"
+ },
+ "117351fd0784": {
+  "en": "Healing with Body Restore",
+  "t": "Penyembuhan dengan Body Restore"
  },
  "11aa2b4fa9b9": {
   "en": "Full Darfaries Interface - scribling and soul energy stone mode (video)",
   "t": "Antarmuka Darfaries Lengkap - Mode coretan dan batu energi jiwa (video)"
  },
+ "11cd9fd209af": {
+  "en": "Missing legs or arms",
+  "t": "Kaki atau lengan yang hilang"
+ },
+ "124ba39cf2f3": {
+  "en": "Earth VERB",
+  "t": "Earth VERB"
+ },
  "12ef1365e090": {
   "en": "But hey, at least your best friend might be honored to be stuffed and cooked—vorarephilia is a thing anyways.",
   "t": "Tapi hei, setidaknya sahabatmu mungkin merasa terhormat diisi dan dimasak—vorarefilia memang ada, kok."
+ },
+ "132a84ea1843": {
+  "en": "<strong>Create:</strong> tries to recreate the target's body, born where the spell was started. It must be fed Black Honey to grow the clone, and it stays lifeless unless the original is killed, since only one being can connect to a soul. Cloning yourself shortens your lifespan and raises your cancer risk, because the soul's link is forced to thin out, so it's heavily discouraged.",
+  "t": "<strong>Create:</strong> berusaha menciptakan ulang tubuh target, lahir di tempat mantra dimulai. Klon itu harus diberi Black Honey agar tumbuh, dan tetap tak bernyawa kecuali yang asli dibunuh, karena hanya satu makhluk yang bisa terhubung dengan satu jiwa. Mengklon dirimu sendiri memperpendek umurmu dan meningkatkan risiko kankermu, karena tautan jiwa dipaksa menipis, jadi sangat tidak dianjurkan."
+ },
+ "1364798c2866": {
+  "en": "Nari Refresher, injected with a glass syringe, undoes nari gel body mods.",
+  "t": "Nari Refresher, disuntikkan dengan jarum suntik kaca, membatalkan modifikasi tubuh nari gel."
  },
  "13ef126e315c": {
   "en": "To not have any significant amount means you likely came from a bloodline that lived far remote or perhaps outside the four kingdoms, as free commerce and right of passage are perfectly positive correlations with mixing biological fluids between species.",
   "t": "Tidak punya cukup banyak darah itu berarti kamu kemungkinan berasal dari garis keturunan yang hidup sangat terasing, atau mungkin di luar empat kerajaan, karena perdagangan bebas dan hak melintas berkorelasi positif sempurna dengan bercampurnya cairan biologis antarspesies."
  },
+ "154544b93e9e": {
+  "en": "Spells in this category can be released into an object, or in the air, or as a projectile if you cock your arm back and release the spell as you push it forward.",
+  "t": "Mantra dalam kategori ini bisa dilepaskan ke dalam sebuah objek, atau ke udara, atau sebagai proyektil kalau kamu menarik lenganmu ke belakang dan melepaskan mantra sambil mendorongnya ke depan."
+ },
+ "19e2f002b0a7": {
+  "en": "This is where some progress has been made in extending the interface. Nobody has managed to change its OBJECT and VERB structure, but people have packed more information into the object while keeping the casting consistent. Forway hasn't approved a new compound object for sigil rings in a while: there's a single requirement, but it's incredibly tough to meet. Random passersby are asked to use the experimental sigil ring, and if any of them miscasts, the compound object isn't approved.",
+  "t": "Di sinilah ada sedikit kemajuan dalam memperluas antarmuka. Belum ada yang berhasil mengubah struktur OBJECT dan VERB-nya, tapi orang sudah menjejalkan lebih banyak informasi ke dalam objeknya sambil menjaga perapalan tetap konsisten. Forway sudah lama tidak menyetujui objek gabungan baru untuk cincin sigil: syaratnya hanya satu, tapi luar biasa sulit dipenuhi. Orang-orang yang kebetulan lewat diminta memakai cincin sigil eksperimental itu, dan kalau ada satu saja yang gagal merapal, objek gabungan itu tidak disetujui."
+ },
+ "1e9148fad723": {
+  "en": "Cat. Elemental",
+  "t": "Kat. Elemen"
+ },
+ "2142eb994fdb": {
+  "en": "Among researchers, a faint rumor calls it \"Uncontrolled Create\".",
+  "t": "Di kalangan peneliti, desas-desus samar menyebutnya \"Uncontrolled Create\"."
+ },
  "23d178528dd4": {
   "en": "Ring #5 (closest to elbow): 50*",
   "t": "Cincin #5 (paling dekat dengan siku): 50*"
+ },
+ "254617659d40": {
+  "en": "One or two deeper cuts and minor blood loss",
+  "t": "Satu atau dua luka sayat yang lebih dalam dan kehilangan darah ringan"
  },
  "26d10a4d512d": {
   "en": "Instead of fingers, you can use nari stones sticks to feed power without using yours, or someone else's, Soul Energy.",
   "t": "Selain jari, kamu bisa memakai batang batu nari untuk menyalurkan kekuatan tanpa memakai Energi Jiwamu sendiri, atau milik orang lain."
  },
+ "277f47c12f8c": {
+  "en": "<strong>Tiers:</strong> the more soul energy (and flesh) put in, the higher the chance of getting a soul to your specifications. The more things you seek in a soul, the more its power is diluted across those skills: ask for someone good at singing, baking and herding, and the energy poured in will most likely be spread evenly among the three. At times the distribution comes out erratic, because the spell \"captures\" and summons a soul in decay that happens to match the summoner's requirements. It also de-ages the target soul.",
+  "t": "<strong>Tingkat:</strong> makin banyak energi jiwa (dan daging) yang dimasukkan, makin besar peluang mendapatkan jiwa sesuai spesifikasimu. Makin banyak hal yang kamu cari dalam sebuah jiwa, makin terencerkan kekuatannya di antara kemampuan-kemampuan itu: minta seseorang yang pandai bernyanyi, memanggang, dan menggembala, dan energi yang dicurahkan kemungkinan besar terbagi rata di antara ketiganya. Kadang pembagiannya kacau, karena mantra itu \"menangkap\" dan memanggil jiwa yang sedang membusuk yang kebetulan cocok dengan syarat si pemanggil. Mantra ini juga memudakan jiwa target."
+ },
  "2853d1cbd2ea": {
   "en": "Simple Objects",
   "t": "Objek Sederhana"
+ },
+ "2874ac07bfa0": {
+  "en": "Ice VERB",
+  "t": "Ice VERB"
+ },
+ "2a0404ceb303": {
+  "en": "The elemental verbs, with water.",
+  "t": "Verb-verb elemen, dengan air."
+ },
+ "2ca369f05b2d": {
+  "en": "Nari sticks (nari stones chained together) fuel the spell. A single-use nari stick is spent in one cast, and they aren't cheap.",
+  "t": "Tongkat nari (batu-batu nari yang dirangkai) menjadi bahan bakar mantra. Tongkat nari sekali pakai habis dalam satu kali rapal, dan harganya tidak murah."
+ },
+ "2d68de584b52": {
+  "en": "The elemental verbs, with lava.",
+  "t": "Verb-verb elemen, dengan lava."
+ },
+ "2dba29a226b6": {
+  "en": "<strong>Destroy:</strong> tries to destroy the target's whole body. At low tiers it only causes internal or external bleeding; medium tiers can cause convulsions; high tiers cause an explosion.",
+  "t": "<strong>Destroy:</strong> berusaha menghancurkan seluruh tubuh target. Di tingkat rendah hanya menyebabkan pendarahan dalam atau luar; tingkat menengah bisa menyebabkan kejang; tingkat tinggi menyebabkan ledakan."
  },
  "2e99783c4368": {
   "en": "Controlled Flight",
@@ -51,6 +135,18 @@
   "en": "This widely-known interface came up as a merger between the ancient species Fuhraies’s, Buhraies’s, and Lishies’s genetics and their own interfaces. One would assume that would lead to one of the most potent, versatile interfaces that would be as, if not more, powerful than Buhraies interface. In some ways, it is as it gels incredibly well with sigil rings or drawing logograms on it, as you don’t even have to think about it once you get the hand coordination just right. However, this came at the expense that if you do not draw a logogram, it is nearly impossible to control it.",
   "t": "Antarmuka terkenal ini lahir sebagai perpaduan genetik spesies purba Fuhraies, Buhraies, dan Lishies dengan antarmuka mereka sendiri. Orang akan mengira ini menghasilkan salah satu antarmuka paling kuat dan serbaguna, sama kuatnya, atau bahkan lebih kuat, daripada antarmuka Buhraies. Dalam beberapa hal, memang begitu, karena antarmuka ini sangat cocok dengan cincin sigil atau menggambar logogram di atasnya, karena kamu bahkan tidak perlu memikirkannya begitu koordinasi tanganmu tepat. Namun, harganya adalah: kalau kamu tidak menggambar logogram, antarmuka ini hampir mustahil dikendalikan."
  },
+ "304bfc2c3ef8": {
+  "en": "Among certain researchers, a faint rumor says it can also be used as \"Uncontrolled Create\", with bigger potential gains and risks.",
+  "t": "Di kalangan peneliti tertentu, desas-desus samar mengatakan ini juga bisa dipakai sebagai \"Uncontrolled Create\", dengan potensi keuntungan dan risiko yang lebih besar."
+ },
+ "308ba49d2897": {
+  "en": "Casting a spell",
+  "t": "Merapal mantra"
+ },
+ "30c372919601": {
+  "en": "Near-instant regeneration, if there's enough fat or Black Honey to heal with",
+  "t": "Regenerasi nyaris instan, kalau ada cukup lemak atau Black Honey untuk penyembuhan"
+ },
  "35e10a8d52ff": {
   "en": "Variant Verbs",
   "t": "Kata Kerja Varian"
@@ -59,17 +155,57 @@
   "en": "Such a feat did claim a lot of street creds among scientists but also a lot of enemies. Not enemies in the traditional sense, as we’re talking a bunch of nerdy scientists that fight with pens and papers rather than bloody means… Except for some who tried to get physical with Gabiro, but when he was younger, he was not as defenseless as one might expect from a shut-in.",
   "t": "Prestasi seperti itu memang menuai banyak pengakuan di kalangan ilmuwan, tapi juga banyak musuh. Bukan musuh dalam arti tradisional, karena kita bicara soal sekumpulan ilmuwan kutu buku yang bertarung dengan pena dan kertas alih-alih dengan darah… Kecuali beberapa yang mencoba main tangan dengan Gabiro, tapi semasa muda ia tidak selemah yang mungkin diharapkan dari seorang penyendiri."
  },
+ "37e04d60d2e6": {
+  "en": "<strong>What happened in Vol 1, Chapter 1:</strong> Gabiro was trying to bind a specific soul. A lack of proper concentration and not enough nari power made all the soul and body genetic information suddenly meld, triggering a White Hole event, and the soul energy of everyone involved fused into a single being. In that event, a nearly decayed soul (Harry's) was bound by pure chance. What was left of the soul tied to the bagarisa corpse used in the \"summoning ritual\" was wildly different from Harry's. When the explosion happened, Gabiro's own soul was fused into the mix too, and Harry's soul absorbed the capacity of all three. That's how Harry woke up able to speak Vraki, the common language, and why he later develops a custom interface (Vol 4).",
+  "t": "<strong>Apa yang terjadi di Jilid 1, Bab 1:</strong> Gabiro sedang berusaha mengikat jiwa tertentu. Kurangnya konsentrasi yang tepat dan kekuatan nari yang tidak cukup membuat semua informasi genetik jiwa dan tubuh tiba-tiba melebur, memicu peristiwa White Hole, dan energi jiwa semua yang terlibat menyatu menjadi satu makhluk. Dalam peristiwa itu, jiwa yang nyaris membusuk (milik Harry) terikat secara kebetulan belaka. Sisa jiwa yang terikat pada bangkai bagarisa yang dipakai dalam \"ritual pemanggilan\" sangat berbeda dari jiwa Harry. Saat ledakan terjadi, jiwa Gabiro sendiri juga ikut melebur ke dalam campuran itu, dan jiwa Harry menyerap kapasitas ketiganya. Itulah sebabnya Harry terbangun bisa berbicara Vraki, bahasa umum, dan kenapa ia kemudian mengembangkan antarmuka khusus (Jilid 4)."
+ },
+ "38819f04d9eb": {
+  "en": "Blank sigil rings are forbidden, to prevent accidents. Only courtroom scientists and Aquamarine or Sapphire adventurers may use them, to experiment with new spells.",
+  "t": "Cincin sigil kosong dilarang, untuk mencegah kecelakaan. Hanya ilmuwan istana dan petualang Aquamarine atau Sapphire yang boleh memakainya, untuk bereksperimen dengan mantra baru."
+ },
+ "398793d966e2": {
+  "en": "Manganese → Iron",
+  "t": "Mangan → Besi"
+ },
+ "3a54978fb627": {
+  "en": "Platinum → Gold",
+  "t": "Platina → Emas"
+ },
+ "3b226566c89d": {
+  "en": "The elemental verbs, with earth.",
+  "t": "Verb-verb elemen, dengan tanah."
+ },
+ "3c410b0a889e": {
+  "en": "Dust VERB",
+  "t": "Dust VERB"
+ },
  "3d33ae375a2b": {
   "en": "The rings themselves can only hold so much, although as far as everyone knows, nobody except probably Buhraies or perhaps only the primordial species Finaies could cast such a spell at a world-changing scale.",
   "t": "Cincin-cincin itu sendiri hanya bisa menampung sampai batas tertentu, meski sejauh yang diketahui, tidak ada seorang pun, kecuali mungkin Buhraies atau mungkin hanya spesies primordial Finaies, yang bisa merapal mantra seperti itu dalam skala yang mengubah dunia."
+ },
+ "3e4dc5c341ad": {
+  "en": "A piece of someone's flesh can be grown with Body Restore to see their real body (to identify a disguised intruder, for example).",
+  "t": "Sepotong daging seseorang bisa ditumbuhkan dengan Body Restore untuk melihat tubuh aslinya (untuk mengenali penyusup yang menyamar, misalnya)."
+ },
+ "3fe9f0d4a994": {
+  "en": "<strong>Create:</strong> tries to create objects from the target using all the elements around. Have the elements it's made of nearby to improve the odds.",
+  "t": "<strong>Create:</strong> berusaha menciptakan objek dari target memakai semua unsur di sekitarnya. Siapkan unsur-unsur penyusunnya di dekatmu untuk memperbesar peluang."
  },
  "402c5a0d838c": {
   "en": "21 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "21 entri lain di halaman ini hanya ada di <button class=\"linklike\" data-go-bts>Di Balik Layar</button>."
  },
+ "408579690be8": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts other bodies. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Repel/Attract:</strong> target menolak atau menarik benda-benda lain. Tanpa target, api jiwa langsung menguap."
+ },
  "42463c89d747": {
   "en": "Using The Interface - Setup",
   "t": "Memakai Antarmuka - Persiapan"
+ },
+ "42c245d29157": {
+  "en": "Material manipulation is an experimental Darfaries research branch, meant to manipulate the world around.",
+  "t": "Manipulasi materi adalah cabang riset Darfaries eksperimental, untuk memanipulasi dunia di sekitar."
  },
  "430a66b55695": {
   "en": "{BodyPart} VERB",
@@ -79,9 +215,41 @@
   "en": "It has been a while since Forway approved a new compound object for sigil rings. There is a single requirement, but succeeding is incredibly tough!",
   "t": "Sudah lama Forway tidak menyetujui objek majemuk baru untuk cincin sigil. Hanya ada satu syarat, tapi berhasil memenuhinya luar biasa sulit!"
  },
+ "450b29b2cf51": {
+  "en": "<strong>Someone's soul energy:</strong> when the person touches their middle and ring fingers, the Darfaries veins in their hand light up with soul flame (every race that came after the ancient species has them: Darfaries, Wozefaries, Sorefaries and humans), and the caster's other hand \"eats\" the flames.",
+  "t": "<strong>Energi jiwa seseorang:</strong> saat orang itu menyentuhkan jari tengah dan jari manisnya, urat Darfaries di tangannya menyala dengan api jiwa (setiap ras yang datang setelah spesies purba memilikinya: Darfaries, Wozefaries, Sorefaries, dan manusia), dan tangan pelempar mantra yang lain \"memakan\" api itu."
+ },
  "450d017ad77c": {
   "en": "Then stick out your middle and ring fingers and touch them on the logograms of the open palm.",
   "t": "Lalu julurkan jari tengah dan jari manismu dan letakkan di atas logogram di telapak tangan yang terbuka."
+ },
+ "458fa8521bce": {
+  "en": "<strong>Increase/Decrease:</strong> the target grows or shrinks, but its weight stays the same, since its density changes. If the density goes up too much, the item shrinks into infinity and disappears forever. It can harm an item whose function depends on its density. It can turn one metal into another through fusion, but it explodes most of the time.",
+  "t": "<strong>Increase/Decrease:</strong> target membesar atau mengecil, tapi beratnya tetap sama, karena kepadatannya berubah. Kalau kepadatannya naik terlalu tinggi, benda itu menyusut tanpa batas dan lenyap selamanya. Ini bisa merusak benda yang fungsinya bergantung pada kepadatannya. Ini bisa mengubah satu logam menjadi logam lain lewat fusi, tapi kebanyakan meledak."
+ },
+ "46020650f5bc": {
+  "en": "<strong>Disassemble:</strong> tries to explode the body.",
+  "t": "<strong>Disassemble:</strong> berusaha meledakkan tubuh."
+ },
+ "460f450c5a7f": {
+  "en": "<strong>Increase/Decrease:</strong> behaves like Create/Destroy.",
+  "t": "<strong>Increase/Decrease:</strong> berperilaku seperti Create/Destroy."
+ },
+ "47fb12785962": {
+  "en": "A missing head",
+  "t": "Kepala yang hilang"
+ },
+ "48b4259f25a7": {
+  "en": "<strong>Destroy:</strong> explodes the target into a shower of extremely fine particles and gas, basically a fine dust; at lower tiers, it might only destroy the object's outer shell.",
+  "t": "<strong>Destroy:</strong> meledakkan target menjadi hujan partikel dan gas yang sangat halus, pada dasarnya debu halus; di tingkat lebih rendah, mungkin hanya menghancurkan cangkang luar objek."
+ },
+ "4966438ddf0f": {
+  "en": "Researchers don't fully understand the process. In reality, the spell doesn't create a soul: it tries to pull a disconnected soul into the flesh you want, where it melds with that flesh's own leftover soul connections into a final hybrid. Sex and giving birth are somewhat like that process too: giving new life is basically mixing two souls, giving part of yourself for a newborn to form.",
+  "t": "Para peneliti belum sepenuhnya memahami prosesnya. Kenyataannya, mantra itu tidak menciptakan jiwa: ia berusaha menarik jiwa yang terputus ke dalam daging yang kamu inginkan, tempat jiwa itu melebur dengan sisa-sisa hubungan jiwa daging itu sendiri menjadi hibrida akhir. Seks dan melahirkan juga agak mirip proses itu: memberi kehidupan baru pada dasarnya mencampur dua jiwa, memberikan sebagian dirimu agar bayi yang baru lahir terbentuk."
+ },
+ "4e20ac3a2fdc": {
+  "en": "Shock Create restarts the heart. Storm Create at Tier II or more also works (higher the fatter the person), but it creates a localized storm that harms the skin, so it's more of a \"punishment revival\".",
+  "t": "Shock Create menyalakan kembali jantung. Storm Create di Tingkat II atau lebih juga berhasil (makin tinggi untuk orang yang makin gemuk), tapi ia menciptakan badai lokal yang melukai kulit, jadi lebih mirip \"penghidupan kembali sebagai hukuman\"."
  },
  "4e68b482c7fd": {
   "en": "If you see one of those in a sigil, then for sure it was manufactured before 987 A.G! Some even collect those as trinkets, which increased their price, which then brought fakes to be manufactured. Seeing the shitstorm developing, Forway officialized production of the old versions, which dismantled the market for it, and the problem was solved! Still, lots of people were pissed, but at least it stopped the grift.",
@@ -95,17 +263,61 @@
   "en": "Cat. Body",
   "t": "Kat. Tubuh"
  },
+ "503bdeb70c12": {
+  "en": "Multiple broken bones and major blood loss",
+  "t": "Patah tulang di beberapa tempat dan kehilangan darah berat"
+ },
+ "5255c62e691b": {
+  "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Darfaries shells appear as you do. With a sigil ring:",
+  "t": "<strong>Mulai mantranya.</strong> Kepalkan jari-jari tangan yang memegang mantra dan energi jiwa. Cangkang-cangkang Darfaries muncul saat kamu melakukannya. Dengan cincin sigil:"
+ },
+ "5266e81985c6": {
+  "en": "The elemental verbs, with steam.",
+  "t": "Verb-verb elemen, dengan uap."
+ },
+ "528b9fb4db2c": {
+  "en": "<strong>Increase/Decrease:</strong> the whole body grows or shrinks.",
+  "t": "<strong>Increase/Decrease:</strong> seluruh tubuh membesar atau mengecil."
+ },
+ "55f999e07aab": {
+  "en": "Restore and Create started out as two different spells. But the logograms are an interface to raw soul energy, whose meaning all users share as fact, and over time both came to mean the same thing: regrow what's missing from the body, be it a finger, or everything else if only a finger is left. If no genetic information remains, see Cat. Soul or other interfaces.",
+  "t": "Restore dan Create awalnya dua mantra yang berbeda. Tapi logogram adalah antarmuka ke energi jiwa mentah, yang maknanya dianggap fakta oleh semua penggunanya, dan seiring waktu keduanya jadi bermakna sama: menumbuhkan kembali apa yang hilang dari tubuh, entah itu sebuah jari, atau semua yang lain kalau hanya sebuah jari yang tersisa. Kalau tak ada informasi genetik yang tersisa, lihat Kat. Jiwa atau antarmuka lain."
+ },
  "560c3c8d4c6b": {
   "en": "Ring #1 (closest to wrist): 2",
   "t": "Cincin #1 (paling dekat dengan pergelangan tangan): 2"
+ },
+ "57a8586e6216": {
+  "en": "Interface shells",
+  "t": "Cangkang antarmuka"
  },
  "583b25caa114": {
   "en": "Healing is also often performed through this interface due to its abundant nature or as a way to heal a living soul being affected by the nari gel interface without resetting its effects, as one interface cannot reset or manipulate another interface.",
   "t": "Penyembuhan juga sering dilakukan lewat antarmuka ini karena sifatnya yang melimpah, atau sebagai cara menyembuhkan jiwa hidup yang terpengaruh antarmuka nari gel tanpa mengatur ulang efeknya, karena satu antarmuka tidak bisa mengatur ulang atau memanipulasi antarmuka lain."
  },
+ "595c54a14320": {
+  "en": "The mass affected follows the General Power Effects: 0.1 kg at Tier I, doubling with every tier (51.2 kg at Tier X).",
+  "t": "Massa yang terpengaruh mengikuti Efek Kekuatan Umum: 0,1 kg di Tingkat I, berlipat dua setiap tingkat (51,2 kg di Tingkat X)."
+ },
+ "599af3d37f22": {
+  "en": "Mud VERB",
+  "t": "Mud VERB"
+ },
  "59ddf0bbb393": {
   "en": "Darfaries interface status: a glowing light-blue ring around a forearm with small colored icons orbiting it.",
   "t": "Status antarmuka Darfaries: cincin biru muda yang bercahaya di sekeliling lengan bawah dengan ikon kecil berwarna-warni yang mengorbit di sekitarnya."
+ },
+ "5bd44ebe63cd": {
+  "en": "Tier",
+  "t": "Tingkat"
+ },
+ "5c0704ac369f": {
+  "en": "A missing torso",
+  "t": "Badan yang hilang"
+ },
+ "5c447d60de4b": {
+  "en": "V (largest, farthest from the hand)",
+  "t": "V (terbesar, paling jauh dari tangan)"
  },
  "5cb6d6625907": {
   "en": "Darfaries Interface · #HusbandOutWorld",
@@ -119,9 +331,21 @@
   "en": "Interface \"Balls\"",
   "t": "\"Bola\" Antarmuka"
  },
+ "5e59f0f13ed9": {
+  "en": "If healing isn't happening, the target must be fed Black Honey or another energy-dense food. Five bottles of Black Honey are like eating tens of 2,000-calorie junk food meals. It's expensive, but there's plenty to go around.",
+  "t": "Kalau penyembuhan tidak terjadi, target harus diberi Black Honey atau makanan padat energi lainnya. Lima botol Black Honey sama dengan makan puluhan porsi makanan sampah 2.000 kalori. Mahal, tapi persediaannya melimpah."
+ },
  "5e6cc8d41ac1": {
   "en": "987 A.G, the one and only Gabiro Sanbi Royal, landed the formalization of Darfaries interface verbs and the addition of both Transmute and Entangle by creating a new version from the older interfaces. You could say he stole Right, Up, Down, Left, &amp; Rolls from other scientists claiming it, but he was the one who created a uniformity that no other scientists had in mind, so he took home all the glory.",
   "t": "Pada 987 A.G, Gabiro Sanbi Royal yang tiada duanya berhasil meresmikan kata kerja antarmuka Darfaries dan menambahkan Transmute serta Entangle dengan menciptakan versi baru dari antarmuka-antarmuka lama. Bisa dibilang ia mencuri Right, Up, Down, Left, &amp; Rolls dari ilmuwan lain yang mengklaimnya, tapi dialah yang menciptakan keseragaman yang tidak terpikirkan oleh ilmuwan lain, jadi ia membawa pulang semua kejayaannya."
+ },
+ "61c1c4f2478a": {
+  "en": "The Buhraies either were more efficient with this interface or used something else that gave them a leg up. Forway made the Transmute symbol official purely to help research.",
+  "t": "Para Buhraies entah lebih efisien dengan antarmuka ini atau memakai sesuatu yang lain yang memberi mereka keunggulan. Forway meresmikan simbol Transmute semata-mata untuk membantu riset."
+ },
+ "6462a34fdd62": {
+  "en": "Put lost limbs close to the body, so regrowing them doesn't take as much energy. Severe damage makes the body use a lot of energy to heal.",
+  "t": "Taruh anggota tubuh yang hilang dekat dengan tubuh, agar menumbuhkannya kembali tidak memakan banyak energi. Kerusakan parah membuat tubuh memakai banyak energi untuk sembuh."
  },
  "66d73579e999": {
   "en": "176 (images illustration)",
@@ -131,25 +355,121 @@
   "en": "You must apply the logograms to the skin of one of your palms, or use sigil rings, then clench your fingers to start the interface while keeping the palm visible.",
   "t": "Kamu harus menempatkan logogram di kulit salah satu telapak tanganmu, atau memakai cincin sigil, lalu menggenggamkan jari untuk merapal antarmuka sambil tetap memperlihatkan telapak tangan."
  },
+ "68fd817c6916": {
+  "en": "A sigil ring brings forth a spell: its logograms make soul energy mutate and do what the caster wants.",
+  "t": "Cincin sigil memunculkan mantra: logogramnya membuat energi jiwa bermutasi dan melakukan apa yang diinginkan pelempar mantra."
+ },
+ "69722a5e4037": {
+  "en": "Gravity VERB",
+  "t": "Gravity VERB"
+ },
  "69776ca57e19": {
   "en": "*At least that’s what scientists calculated, as no official Forway record of an exceedingly high-tier spell being cast exists.",
   "t": "*Setidaknya itulah hitungan para ilmuwan, karena tidak ada catatan resmi Forway tentang mantra tingkat sangat tinggi yang pernah dirapal."
+ },
+ "6b174442593e": {
+  "en": "What each tier can heal:",
+  "t": "Apa yang bisa disembuhkan setiap tingkat:"
+ },
+ "6b805f489c01": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts everything around it (gravity still affects it). With no target, the soul flame simply evaporates.",
+  "t": "<strong>Repel/Attract:</strong> target menolak atau menarik segala sesuatu di sekitarnya (gravitasi tetap memengaruhinya). Tanpa target, api jiwa langsung menguap."
  },
  "6bb5f88148f9": {
   "en": "Ring #3: 18",
   "t": "Cincin #3: 18"
  },
+ "6bf9374ceec0": {
+  "en": "Body VERB",
+  "t": "Body VERB"
+ },
+ "6cf9bf72fbec": {
+  "en": "<strong>Restore/Disassemble:</strong> draws the element into the target from its surroundings, or explodes it out of the target into its surroundings.",
+  "t": "<strong>Restore/Disassemble:</strong> menarik elemen ke dalam target dari sekitarnya, atau meledakkannya keluar dari target ke sekitarnya."
+ },
  "6d5c5b3cf877": {
   "en": "Using the Darfaries Interface is a process of its own. Though, like riding an egua, once you learn it, it just becomes second nature.",
   "t": "Memakai Antarmuka Darfaries adalah sebuah proses tersendiri. Namun, seperti menunggang egua, begitu kamu mempelajarinya, semuanya jadi kebiasaan."
+ },
+ "6d7e4622451a": {
+  "en": "Body manipulation spells are easier to cast, but they can be risky if the caster doesn't know the side effects. Some people may develop side effects not listed here.",
+  "t": "Mantra manipulasi tubuh lebih mudah dirapal, tapi bisa berisiko kalau pelempar mantra tidak tahu efek sampingnya. Sebagian orang bisa mengalami efek samping yang tidak tercantum di sini."
+ },
+ "6d98ffb6c2df": {
+  "en": "When the body runs out of fuel, Black Honey finishes the healing, so the target doesn't turn skeletal from undernourishment.",
+  "t": "Saat tubuh kehabisan bahan bakar, Black Honey menuntaskan penyembuhan, agar target tidak menjadi tinggal tulang karena kurang gizi."
+ },
+ "6fadfb89a110": {
+  "en": "<strong>Verb:</strong> the change being applied. With no verb, the soul energy falls back on the caster's own idea of what it should do.",
+  "t": "<strong>Verb:</strong> perubahan yang diterapkan. Tanpa verb, energi jiwa kembali mengikuti gagasan pelempar mantra sendiri tentang apa yang harus dilakukannya."
+ },
+ "703d02d20cde": {
+  "en": "In short: choose the spell, put energy into it, and release it. A spell has two parts:",
+  "t": "Singkatnya: pilih mantranya, isi dengan energi, lalu lepaskan. Sebuah mantra punya dua bagian:"
+ },
+ "705649a46934": {
+  "en": "Frozen Earth VERB",
+  "t": "Frozen Earth VERB"
+ },
+ "7135a4e587c8": {
+  "en": "Ash VERB",
+  "t": "Ash VERB"
+ },
+ "71812d5fae7a": {
+  "en": "Works like Gravity VERB. Gabiro improved it when he helped shape the new Darfaries Interface standard; the new sigil standard he was the centerpiece of lowered the cast failure rate, especially for Water Gravity, making fanchakis mature nearly twice as fast (Vol 3).",
+  "t": "Bekerja seperti Gravity VERB. Gabiro menyempurnakannya saat membantu membentuk standar Antarmuka Darfaries yang baru; standar sigil baru yang ia jadi pusatnya menurunkan tingkat kegagalan rapal, terutama untuk Water Gravity, membuat fanchaki matang nyaris dua kali lebih cepat (Jilid 3)."
+ },
+ "724c8389bd95": {
+  "en": "Steam VERB",
+  "t": "Steam VERB"
  },
  "73b453b0f98a": {
   "en": "Forway considered banning non-logogram usage of this interface in the early 800s A.G., but the scientific community's pushback was too strong. Community opinion shifted in the early 900s A.G. after many scientific tragedies occurred without clear progress. By the late 900s A.G., only fringe scientists like Gabiro Sundeath (also known as Gabiro Sanbi Royal) seemed to be still investigating it.",
   "t": "Forway pernah mempertimbangkan untuk melarang penggunaan antarmuka ini tanpa logogram pada awal tahun 800-an A.G., tapi penolakan komunitas ilmiah terlalu kuat. Pendapat komunitas berubah pada awal tahun 900-an A.G. setelah banyak tragedi ilmiah tanpa kemajuan yang jelas. Menjelang akhir tahun 900-an A.G., hanya ilmuwan pinggiran seperti Gabiro Sundeath (juga dikenal sebagai Gabiro Sanbi Royal) yang tampaknya masih menelitinya."
  },
+ "756bf4c104c4": {
+  "en": "<strong>Uses:</strong> mainly to entangle the sounds reaching people's ears, so they all hear the same thing. It can be overwhelming: sounds echo when people are close to each other, and it gets harder to tell where sounds other than voices are coming from.",
+  "t": "<strong>Kegunaan:</strong> terutama untuk menjalin suara yang sampai ke telinga orang, sehingga mereka semua mendengar hal yang sama. Itu bisa membingungkan: suara bergema saat orang berdekatan, dan makin sulit mengetahui dari mana suara selain suara orang berasal."
+ },
+ "76c79f05025e": {
+  "en": "Sigil rings",
+  "t": "Cincin sigil"
+ },
+ "76f489077f50": {
+  "en": "Storm VERB",
+  "t": "Storm VERB"
+ },
+ "77947875b9a0": {
+  "en": "The elemental verbs, with wind. Its ball is more elongated than anything.",
+  "t": "Verb-verb elemen, dengan angin. Bolanya lebih memanjang daripada apa pun."
+ },
+ "7802ad32f0ce": {
+  "en": "Verbs",
+  "t": "Verb"
+ },
+ "78c2d1c75d87": {
+  "en": "Either way, a miscast explodes in soul flame in the caster's hands.",
+  "t": "Bagaimanapun, mantra yang gagal meledak menjadi api jiwa di tangan pelempar mantra."
+ },
+ "7a513f3d316a": {
+  "en": "The elemental verbs, with storm.",
+  "t": "Verb-verb elemen, dengan badai."
+ },
+ "7a91c4983d68": {
+  "en": "World VERB",
+  "t": "World VERB"
+ },
  "7c67e01db87c": {
   "en": "Full Darfaries Interface - Sigil and Nari stone mode",
   "t": "Antarmuka Darfaries Lengkap - Mode sigil dan batu nari"
+ },
+ "7cde42e1eb31": {
+  "en": "Transmute",
+  "t": "Transmute"
+ },
+ "7d9145978885": {
+  "en": "The elemental verbs, with shock.",
+  "t": "Verb-verb elemen, dengan sengatan listrik."
  },
  "7df913eb7771": {
   "en": "Ring #2: 8",
@@ -159,21 +479,81 @@
   "en": "To release the spell, unclench the fingers. To add motion to the spell, cock your arm, then throw it towards the target to transfer the inertia into the spell.",
   "t": "Untuk melepaskan mantra, lepaskan genggaman jari. Untuk memberi gerakan pada mantra, tarik lenganmu ke belakang, lalu ayunkan ke arah sasaran untuk memindahkan inersia ke dalam mantra."
  },
+ "83a077984fe7": {
+  "en": "The Buhraies created this interface as an enhancement to their own soul energy interface, in an attempt to control the Darfaries as a versatile army of foot soldiers.",
+  "t": "Para Buhraies menciptakan antarmuka ini sebagai penyempurnaan antarmuka energi jiwa mereka sendiri, dalam upaya mengendalikan para Darfaries sebagai pasukan pejalan kaki yang serba guna."
+ },
+ "83b7155e04f6": {
+  "en": "The elemental verbs, with mud.",
+  "t": "Verb-verb elemen, dengan lumpur."
+ },
+ "840823ff59c1": {
+  "en": "<strong>Restore:</strong> shapes the item into the desired object by combining elements around the caster, basically the reverse of chemical reactions. Have the elements it's made of nearby to improve the odds; otherwise the repaired object may break again if the new connections aren't strong.",
+  "t": "<strong>Restore:</strong> membentuk benda menjadi objek yang diinginkan dengan menggabungkan unsur-unsur di sekitar pelempar mantra, pada dasarnya kebalikan dari reaksi kimia. Siapkan unsur-unsur penyusunnya di dekatmu untuk memperbesar peluang; kalau tidak, objek yang diperbaiki bisa rusak lagi kalau ikatan barunya tidak kuat."
+ },
+ "845f813c2b56": {
+  "en": "<strong>Tiers:</strong> the mass affected follows the General Power Effects (0.1 kg at Tier I, doubling with every tier).",
+  "t": "<strong>Tingkat:</strong> massa yang terpengaruh mengikuti Efek Kekuatan Umum (0,1 kg di Tingkat I, berlipat dua setiap tingkat)."
+ },
+ "85e7149e86b7": {
+  "en": "<strong>Revival, step by step</strong> (as Morika does it in Vol 4):",
+  "t": "<strong>Penghidupan kembali, langkah demi langkah</strong> (seperti yang dilakukan Morika di Jilid 4):"
+ },
  "889505c1f708": {
   "en": "This widely-known interface came up as a merger between the ancient species Fuhraies’s, Buhraies’s, and Lishies’s genetics and their own interfaces.",
   "t": "Antarmuka terkenal ini lahir sebagai perpaduan genetik spesies purba Fuhraies, Buhraies, dan Lishies dengan antarmuka mereka sendiri."
+ },
+ "8a4a4532c533": {
+  "en": "<strong>Apply the energy.</strong> Touch what you want to apply it to with your palm and straighten your fingers, or release the spell as it is for a ranged attack. Cock your arm and time it right for extra range. The caster's body feels the weight of the spell, like firing a gun.",
+  "t": "<strong>Terapkan energinya.</strong> Sentuhkan telapak tanganmu ke apa yang ingin kamu kenai dan luruskan jari-jarimu, atau lepaskan mantra apa adanya untuk serangan jarak jauh. Tarik lenganmu ke belakang dan pas-kan waktunya untuk jangkauan ekstra. Tubuh pelempar mantra merasakan beban mantra, seperti menembakkan senapan."
+ },
+ "8a9201f37e41": {
+  "en": "<strong>Create/Destroy:</strong> Create makes a ball of the element for a ranged attack; Destroy turns the target's element back into virtual particles. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Create/Destroy:</strong> Create membuat bola elemen untuk serangan jarak jauh; Destroy mengubah elemen target kembali menjadi partikel virtual. Tanpa target, api jiwa langsung menguap."
+ },
+ "8c04c55d7685": {
+  "en": "The elemental verbs, with dust.",
+  "t": "Verb-verb elemen, dengan debu."
+ },
+ "8ca6193582e9": {
+  "en": "Water VERB",
+  "t": "Water VERB"
+ },
+ "8d204a0435e5": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Darfaries%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Darfaries Interface.md</a>",
+  "t": "Sumber: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Darfaries%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Darfaries Interface.md</a>"
  },
  "8f6687bd0076": {
   "en": "The “Veins”",
   "t": "“Urat-urat” itu"
  },
+ "930585f35c72": {
+  "en": "<strong>Choose the spell</strong> (see Language › Darfaries Interface Language). Either put on a sigil ring:",
+  "t": "<strong>Pilih mantranya</strong> (lihat Bahasa › Bahasa Antarmuka Darfaries). Entah pakai cincin sigil:"
+ },
+ "95ca95757aa4": {
+  "en": "Cat. Soul",
+  "t": "Kat. Jiwa"
+ },
+ "984bfe340ee0": {
+  "en": "Healing matches the flesh to how the soul looks, so old scars don't exist in Vraki unless someone is too poor for nari gels or the Darfaries Interface. Tattoos are removed as soon as Body Restore is used.",
+  "t": "Penyembuhan menyesuaikan daging dengan rupa jiwa, jadi bekas luka lama tidak ada di Vraki kecuali seseorang terlalu miskin untuk nari gel atau Antarmuka Darfaries. Tato hilang begitu Body Restore dipakai."
+ },
  "995e5279ac7d": {
   "en": "To add more power, repeat this action. Be aware that each “eating“ motion attempts to bring the spell to the next stable tier, or energy level, so awareness of the increased soul energy needed between each higher tier is essential.",
   "t": "Untuk menambah kekuatan, ulangi gerakan ini. Ketahuilah bahwa setiap gerakan “makan“ mencoba membawa mantra ke tingkat stabil berikutnya, atau tingkat energi, jadi penting untuk menyadari tambahan energi jiwa yang dibutuhkan di antara setiap tingkat yang lebih tinggi."
  },
+ "9bd96337042b": {
+  "en": "Nickel → Copper",
+  "t": "Nikel → Tembaga"
+ },
  "9f156873d1d5": {
   "en": "Sigil rings are a modern and quicker way to interact with the Darfaries Interface. Without it, one must draw the logograms into the skin of their palm, which can be a lengthy process, even for seasoned adventurers. Dangerous, too, as if you draw something unclear as it could cause the interface to default to your thoughts, and you needlessly turn your best friend into a fanchaki all because you thought about what’s cooking for dinner while casting it. And if you’re really messing with the soul, even if by accident, you might never find a way to undo it.",
   "t": "Cincin sigil adalah cara modern dan lebih cepat untuk berinteraksi dengan Antarmuka Darfaries. Tanpanya, seseorang harus menggambar logogram di kulit telapak tangan, yang bisa memakan waktu lama, bahkan bagi petualang berpengalaman. Juga berbahaya, karena kalau kamu menggambar sesuatu yang tidak jelas, antarmuka bisa beralih membaca pikiranmu, dan kamu bisa tanpa alasan mengubah sahabatmu menjadi fanchaki hanya karena kamu sedang memikirkan menu makan malam saat merapalnya. Dan kalau kamu benar-benar mengusik jiwa, bahkan tanpa sengaja, kamu mungkin tidak akan pernah menemukan cara untuk mengembalikannya."
+ },
+ "a2719cb8ed6e": {
+  "en": "Every elemental spell works the same way:",
+  "t": "Setiap mantra elemen bekerja dengan cara yang sama:"
  },
  "a2b9afce0d53": {
   "en": "Ring #4: 32*",
@@ -183,45 +563,185 @@
   "en": "Darfaries Interface",
   "t": "Antarmuka Darfaries"
  },
+ "a37a0f7da74e": {
+  "en": "Iron → Cobalt",
+  "t": "Besi → Kobalt"
+ },
+ "a565144f956c": {
+  "en": "Creates a soul with specific soul genetic information, using flesh as the base. The incantation tries to picture the target and think aloud about its characteristics.",
+  "t": "Menciptakan jiwa dengan informasi genetik jiwa tertentu, memakai daging sebagai dasarnya. Mantranya berusaha membayangkan target dan memikirkan karakteristiknya keras-keras."
+ },
  "a669783c12a0": {
   "en": "Using The Interface - Release",
   "t": "Memakai Antarmuka - Melepaskan"
+ },
+ "a6eb045a1ff1": {
+  "en": "<strong>Create/Destroy:</strong> Create does nothing. Destroy explodes the target into a shower of extremely fine particles and gas, basically a fine dust; at lower tiers, it might only destroy the object's outer shell.",
+  "t": "<strong>Create/Destroy:</strong> Create tidak melakukan apa-apa. Destroy meledakkan target menjadi hujan partikel dan gas yang sangat halus, pada dasarnya debu halus; di tingkat lebih rendah, mungkin hanya menghancurkan cangkang luar objek."
+ },
+ "a7eb38f676c7": {
+  "en": "<strong>Restore:</strong> soul energy uses the target's soul genetic information to find what's out of place in their body, and corrects it using stored energy to fuel the changes. More below.",
+  "t": "<strong>Restore:</strong> energi jiwa memakai informasi genetik jiwa target untuk menemukan apa yang tidak pada tempatnya di tubuhnya, dan memperbaikinya dengan energi yang tersimpan sebagai bahan bakar perubahan. Selengkapnya di bawah."
  },
  "a8fe88bccc82": {
   "en": "Full Darfaries Interface - scribling and soul energy stone mode",
   "t": "Antarmuka Darfaries Lengkap - Mode coretan dan batu energi jiwa"
  },
+ "aa288905b03d": {
+  "en": "I (smallest, closest to the hand)",
+  "t": "I (terkecil, paling dekat dengan tangan)"
+ },
+ "aa39015fda61": {
+  "en": "Science - Darfaries Interface (World Lore illustration)",
+  "t": "Ilmu - Antarmuka Darfaries (ilustrasi Lore Dunia)"
+ },
+ "ad0f7e005000": {
+  "en": "Body Restore, through a sigil ring fueled by nari sticks.",
+  "t": "Body Restore, lewat cincin sigil yang diberi bahan bakar tongkat nari."
+ },
  "ad789405eb37": {
   "en": "Compound objects",
   "t": "Objek majemuk"
+ },
+ "aeaf0ba689f9": {
+  "en": "Cobalt → Nickel",
+  "t": "Kobalt → Nikel"
+ },
+ "b325204b56ca": {
+  "en": "The best-known spells (healing, reviving, elemental and more) can be bought at any Soul Energy shop.",
+  "t": "Mantra-mantra paling terkenal (penyembuhan, penghidupan kembali, elemen, dan lainnya) bisa dibeli di toko Energi Jiwa mana pun."
  },
  "b4801c89826b": {
   "en": "Due to their size, Darfaries cannot fly, but they can somewhat dampen their fall from approximately three-story buildings. Wozefaries can dampen their fall from up to ten-story buildings, while Sorefaries can control their attitude at will, and even carry some weight with them. The weight depends on the Sorefaries’ strength, dexterity, and soul energy capacity.",
   "t": "Karena ukuran tubuhnya, Darfaries tidak bisa terbang, tapi mereka bisa sedikit memperlambat jatuh dari bangunan setinggi sekitar tiga lantai. Wozefaries bisa memperlambat jatuh dari bangunan hingga sepuluh lantai, sementara Sorefaries bisa mengendalikan posisinya sesuka hati, bahkan membawa sedikit beban. Beratnya bergantung pada kekuatan, kelincahan, dan kapasitas energi jiwa Sorefaries itu."
  },
+ "b647f1de4ac0": {
+  "en": "Bruises",
+  "t": "Memar"
+ },
+ "b92c87f1b12d": {
+  "en": "Soul energy shapes the spell using logograms drawn from the knowledge shared by the people nearby.",
+  "t": "Energi jiwa membentuk mantra memakai logogram yang diambil dari pengetahuan yang dibagi orang-orang di sekitar."
+ },
+ "ba9989c6673e": {
+  "en": "<strong>Subject:</strong> the target of the spell. With no subject, the soul energy falls back on the caster's own idea of how it should apply itself.",
+  "t": "<strong>Subjek:</strong> target mantra. Tanpa subjek, energi jiwa kembali mengikuti gagasan pelempar mantra sendiri tentang bagaimana ia harus diterapkan."
+ },
+ "baded418ca13": {
+  "en": "A White Hole (also called White Fire) is what happens when soul energy doesn't convert properly into the desired outcome: it backfires, explodes, or becomes nothing instead of something. These events aren't quite an urban legend: scientists and researchers know about them. They were better known in the old days, before Forway really became a thing and resentment against messing with the soul became commonplace.",
+  "t": "White Hole (juga disebut White Fire) adalah apa yang terjadi saat energi jiwa tidak berubah dengan benar menjadi hasil yang diinginkan: ia berbalik menyerang, meledak, atau menjadi kehampaan alih-alih sesuatu. Peristiwa ini bukan sekadar legenda urban: para ilmuwan dan peneliti mengetahuinya. Dulu peristiwa ini lebih dikenal, sebelum Forway benar-benar berjaya dan kebencian terhadap mengutak-atik jiwa menjadi hal biasa."
+ },
+ "bc6f4bc6da01": {
+  "en": "Heals",
+  "t": "Menyembuhkan"
+ },
+ "bdc1fd5d3c0f": {
+  "en": "Shell",
+  "t": "Cangkang"
+ },
+ "be58ecb5f9ad": {
+  "en": "Drawn logograms are forbidden inside city and kingdom perimeters, because of the risk of explosions and miscasts:",
+  "t": "Logogram yang digambar dilarang di dalam batas kota dan kerajaan, karena risiko ledakan dan gagal rapal:"
+ },
  "c0074aa34b2d": {
   "en": "Darfaries Interface Video showcase",
   "t": "Peragaan Video Antarmuka Darfaries"
+ },
+ "c0a448a02870": {
+  "en": "Water Gravity VERB",
+  "t": "Water Gravity VERB"
+ },
+ "c4ebb12ada7e": {
+  "en": "Soul Create (Book I Chapter I Gabiro’s version)",
+  "t": "Soul Create (versi Gabiro, Buku I Bab I)"
+ },
+ "c4f55f2d0048": {
+  "en": "<strong>Restore/Disassemble:</strong> Restore doesn't put things back together from their pieces; it just makes the object look newer. Disassemble does the reverse: it rusts an item. It's basically the reverse of chemical reactions.",
+  "t": "<strong>Restore/Disassemble:</strong> Restore tidak menyusun kembali benda dari kepingannya; ia hanya membuat objek tampak lebih baru. Disassemble melakukan kebalikannya: membuat benda berkarat. Pada dasarnya kebalikan dari reaksi kimia."
+ },
+ "c6838a9cbc77": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts the element. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Repel/Attract:</strong> target menolak atau menarik elemen itu. Tanpa target, api jiwa langsung menguap."
+ },
+ "c7e54ecd4ad8": {
+  "en": "The ball's size follows the General Power Effects: 0.1 cm at Tier I, doubling with every tier (51.2 cm at Tier X).",
+  "t": "Ukuran bolanya mengikuti Efek Kekuatan Umum: 0,1 cm di Tingkat I, berlipat dua setiap tingkat (51,2 cm di Tingkat X)."
  },
  "c8c7488b1383": {
   "en": "Environmental changes, especially creation, destruction, and manipulation of elemental properties such as water, fire, terrain, and gravity, are commonly performed through this interface.",
   "t": "Perubahan lingkungan, terutama penciptaan, penghancuran, dan manipulasi sifat unsur seperti air, api, medan, dan gravitasi, umumnya dilakukan lewat antarmuka ini."
  },
+ "ca4adc8484ad": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts the element. This is the one meant for gravity control. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Repel/Attract:</strong> target menolak atau menarik elemen itu. Inilah yang dimaksudkan untuk mengendalikan gravitasi. Tanpa target, api jiwa langsung menguap."
+ },
+ "cac2d50e5374": {
+  "en": "It only restores the base genetic information; it doesn't deal with whatever is causing the damage, such as worms.",
+  "t": "Ini hanya memulihkan informasi genetik dasar; tidak menangani apa pun yang menyebabkan kerusakan, seperti cacing."
+ },
+ "caca7f199089": {
+  "en": "The elemental verbs, with frozen earth.",
+  "t": "Verb-verb elemen, dengan tanah beku."
+ },
  "cb864e0c3c67": {
   "en": "Keeping your fingers clenched on the hand you used the logograms on, you must now trap the fingers, or nari stone stick, then reverse the motion while keeping the fingers clenched. This sort of “eating“ motion will suck the power and create a ball into one of the rings that will temporarily hold power. Do not worry about how fast it zips around. The rings will keep it in check until you release the spell in the final step.",
   "t": "Dengan jari-jari tangan yang kamu beri logogram tetap tergenggam, kini kamu harus menjepit jari-jari, atau batang batu nari, lalu membalik gerakannya sambil tetap menggenggam. Gerakan “makan“ ini akan menyedot kekuatan dan menciptakan bola di salah satu cincin, yang akan menahan kekuatan itu sementara. Jangan khawatir seberapa cepat bola itu berputar. Cincin-cincin itu akan menahannya sampai kamu melepaskan mantra di langkah terakhir."
+ },
+ "cbe94eef3d69": {
+  "en": "<strong>Infuse soul energy.</strong> The casting hand takes in energy when the caster \"eats\" with it. A spell is only stable at a soul energy tier, so energy always fills up to the next tier (after a partial charge, it adds the difference). The energy can come from:",
+  "t": "<strong>Isi energi jiwa.</strong> Tangan perapal menyerap energi ketika pelempar mantra \"makan\" dengannya. Mantra hanya stabil di satu tingkat energi jiwa, jadi energi selalu terisi sampai tingkat berikutnya (setelah pengisian sebagian, ia menambahkan selisihnya). Energinya bisa berasal dari:"
+ },
+ "cd5fc47831e2": {
+  "en": "Entangle",
+  "t": "Entangle"
+ },
+ "cf492fe9525e": {
+  "en": "The elemental verbs, with ice.",
+  "t": "Verb-verb elemen, dengan es."
+ },
+ "d08ae5111258": {
+  "en": "Minor cuts and minor blood loss",
+  "t": "Luka sayat ringan dan kehilangan darah ringan"
  },
  "d3ffc8903c8c": {
   "en": "Darfaries, Wozefaries, and Sorefaries show the markings of controlled flight and built-in spell-casting mechanisms using specialized nerves attuned to soul energy that appear as veins, at least to the untrained eye, throughout the upper body. These reddened nerves always ran up their hands and arms and met in the back with a distinct capillary branching appearance.",
   "t": "Darfaries, Wozefaries, dan Sorefaries memiliki tanda terbang terkendali dan mekanisme perapal mantra bawaan, berkat saraf khusus yang selaras dengan energi jiwa yang terlihat seperti urat, setidaknya bagi mata awam, di seluruh tubuh bagian atas. Saraf kemerahan ini selalu menjalar naik di tangan dan lengan mereka dan bertemu di punggung dengan tampilan bercabang seperti kapiler yang khas."
  },
+ "d41f0dd4cd5a": {
+  "en": "<strong>Uses:</strong> active research is trying to figure out how the Buhraies used it to shape the land and do all kinds of shit with it. Some researchers think it could outright make gold, which seems possible, since people have transmuted these (it just doesn't make much economic sense):",
+  "t": "<strong>Kegunaan:</strong> riset aktif sedang berusaha mencari tahu bagaimana para Buhraies memakainya untuk membentuk daratan dan melakukan segala macam hal sialan dengannya. Sebagian peneliti mengira ini bisa langsung membuat emas, yang tampaknya mungkin, karena orang sudah mentransmutasikan ini (hanya saja tidak terlalu masuk akal secara ekonomi):"
+ },
+ "d50e6f0c1670": {
+  "en": "The logograms are the guardrails. Every race with the Darfaries interface can try to override them by using a knife to reach the Buhraies interface underneath, as Gabiro does in the Vol 1 prologue. It's dangerous: an empty logogram forces the user into immense concentration, and the odds aren't in their favor. So for common folk, it's basically like being unable to reach the \"ancient roots\" of the interface.",
+  "t": "Logogramnya adalah pagar pengaman. Setiap ras dengan antarmuka Darfaries bisa mencoba melampauinya dengan memakai pisau untuk mencapai antarmuka Buhraies di bawahnya, seperti yang dilakukan Gabiro di prolog Jilid 1. Itu berbahaya: logogram kosong memaksa penggunanya berkonsentrasi luar biasa, dan peluangnya tidak berpihak pada mereka. Jadi bagi orang biasa, pada dasarnya sama saja dengan tak bisa menjangkau \"akar purba\" antarmuka itu."
+ },
  "d5fc3c0d596b": {
   "en": "Currently, 26 Simple Objects are widely accepted, as in Forway-approved, for Sigil rings. They are mostly inherited from previous interfaces and haven’t changed in hundreds of years.",
   "t": "Saat ini, 26 Objek Sederhana diterima secara luas, artinya disetujui Forway, untuk cincin Sigil. Sebagian besar diwarisi dari antarmuka sebelumnya dan tidak berubah selama ratusan tahun."
  },
+ "d7506f50f91f": {
+  "en": "Cat. Material",
+  "t": "Kat. Materi"
+ },
+ "d8d1f53225ee": {
+  "en": "Gabiro brought Entangle back from the history books. Many had tried before him, but the side effects were always too strong; Gabiro understood how it worked in principle far better than anyone. Most people don't use it day to day, but it's a fundamental tool for the adventurers and guards who protect them.",
+  "t": "Gabiro menghidupkan kembali Entangle dari buku-buku sejarah. Banyak yang sudah mencoba sebelum dia, tapi efek sampingnya selalu terlalu kuat; Gabiro memahami cara kerjanya secara prinsip jauh lebih baik daripada siapa pun. Kebanyakan orang tidak memakainya sehari-hari, tapi ini alat mendasar bagi para petualang dan penjaga yang melindungi mereka."
+ },
+ "d90ca37eeeb8": {
+  "en": "{Object} VERB",
+  "t": "{Object} VERB"
+ },
  "d91500bfa542": {
   "en": "Public text: science-darfaries-interface.md",
   "t": "Teks publik: science-darfaries-interface.md"
+ },
+ "dcc44733ccdb": {
+  "en": "Minor broken bones and medium blood loss",
+  "t": "Patah tulang ringan dan kehilangan darah sedang"
+ },
+ "ddf5082031ec": {
+  "en": "Each ring has one spell carved into it, such as Body Restore or Shock Create.",
+  "t": "Setiap cincin diukir dengan satu mantra, seperti Body Restore atau Shock Create."
  },
  "de1369b50eb5": {
   "en": "Not to say humans can’t use this interface. They certainly can! Although, only if they have shared blood with Darfaries or Wozefaries in their family.",
@@ -230,6 +750,18 @@
  "ded446aabbba": {
   "en": "Now you must make a fist with your other hand. If you can use this interface, a distinct group of five rings will surge from the white flames in your arms and expand outward, with the smallest ring closer to your wrist.",
   "t": "Sekarang kamu harus mengepalkan tangan yang satunya. Jika kamu bisa memakai antarmuka ini, sekelompok lima cincin yang khas akan melesat dari api putih di lenganmu dan mengembang ke luar, dengan cincin terkecil paling dekat dengan pergelangan tanganmu."
+ },
+ "e0c1969b54cd": {
+  "en": "When a spell is cast, five rings appear around the hand holding it. Each shell holds a limited number of soul energy tiers:",
+  "t": "Saat sebuah mantra dirapal, lima cincin muncul di sekitar tangan yang memegangnya. Setiap cangkang menampung sejumlah terbatas tingkat energi jiwa:"
+ },
+ "e2b868f1938f": {
+  "en": "The elemental verbs, with fire.",
+  "t": "Verb-verb elemen, dengan api."
+ },
+ "e36ef673808f": {
+  "en": "The elemental verbs, with ash.",
+  "t": "Verb-verb elemen, dengan abu."
  },
  "e5df83155e66": {
   "en": "Full Darfaries Interface - Sigil and Nari stone mode (video)",
@@ -243,6 +775,14 @@
   "en": "This is where some scientists spent their entire lives trying to claim a new verb to be accepted by Forway, but all their works became food for paper rot and forgotten to history because of a single man who broke through the hundreds of years stalemate.",
   "t": "Di sinilah sebagian ilmuwan menghabiskan seluruh hidupnya mencoba agar kata kerja baru diterima Forway, tapi semua karya mereka berakhir menjadi santapan kertas lapuk dan dilupakan sejarah karena seorang pria yang memecah kebuntuan ratusan tahun."
  },
+ "e8d0433850e4": {
+  "en": "Fire VERB",
+  "t": "Fire VERB"
+ },
+ "ea25d8fd0025": {
+  "en": "<strong>Create/Destroy:</strong> Create makes a ball of the element for a ranged attack (thanks to Hawking radiation, the black hole quickly disappears once cast); Destroy turns the target's element back into virtual particles. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Create/Destroy:</strong> Create membuat bola elemen untuk serangan jarak jauh (berkat radiasi Hawking, lubang hitamnya cepat lenyap begitu dirapal); Destroy mengubah elemen target kembali menjadi partikel virtual. Tanpa target, api jiwa langsung menguap."
+ },
  "ef47633dff56": {
   "en": "Given Darfaries sport the most prominent Darfaries veins, its sheer additional volume allows them to finely sense soul energy disturbances around them, plus a rough sensation of humidity, wind, and barometric pressure—it’s like how they say, if a Darfaries tells you to buy an umbrella, you better buy one!",
   "t": "Karena Darfaries memiliki urat Darfaries yang paling menonjol, volume ekstra mereka yang besar membuat mereka bisa merasakan gangguan energi jiwa di sekitar mereka dengan halus, ditambah perkiraan kasar tentang kelembapan, angin, dan tekanan udara—seperti kata orang, kalau seorang Darfaries menyuruhmu membeli payung, sebaiknya kamu beli!"
@@ -250,5 +790,21 @@
  "f329090850be": {
   "en": "Shared Blood",
   "t": "Darah Bersama"
+ },
+ "f5526de22a80": {
+  "en": "Or draw the logograms by hand. In the early 800s A.G., Forway considered banning the use of the interface without a sigil ring: partly to stop people drawing logograms by hand, which invites mistakes, misuse and, in rare cases, an accidental White Hole, but even more to stop anyone using the interface without logograms (the guardrails) at all. The scientific community pushed back too hard. Opinion shifted in the early 900s A.G., after many scientific tragedies with no clear progress, and by the late 900s A.G. only fringe scientists like Gabiro Sundeath (also known as Gabiro Sanbi Royal) still seemed to be investigating it.",
+  "t": "Atau gambar logogramnya dengan tangan. Di awal 800-an A.G., Forway mempertimbangkan melarang pemakaian antarmuka tanpa cincin sigil: sebagian untuk menghentikan orang menggambar logogram dengan tangan, yang mengundang kesalahan, penyalahgunaan, dan, dalam kasus langka, White Hole yang tak disengaja, tapi lebih lagi untuk menghentikan siapa pun memakai antarmuka tanpa logogram (pagar pengaman) sama sekali. Komunitas ilmiah menolak terlalu keras. Pendapat berubah di awal 900-an A.G., setelah banyak tragedi ilmiah tanpa kemajuan yang jelas, dan di akhir 900-an A.G. hanya ilmuwan pinggiran seperti Gabiro Sundeath (juga dikenal sebagai Gabiro Sanbi Royal) yang tampaknya masih menelitinya."
+ },
+ "f6bd920f19f0": {
+  "en": "Lava VERB",
+  "t": "Lava VERB"
+ },
+ "f7e4312c3e9b": {
+  "en": "Body parts for later use are kept in jars of a viscous red jelly: finely ground nari stone mixed with blood.",
+  "t": "Bagian tubuh untuk dipakai nanti disimpan dalam toples berisi jeli merah kental: batu nari yang digiling halus dicampur darah."
+ },
+ "ff5ced0ff9c1": {
+  "en": "Wind VERB",
+  "t": "Wind VERB"
  }
 }
