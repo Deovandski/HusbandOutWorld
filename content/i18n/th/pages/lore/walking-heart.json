@@ -1,7 +1,43 @@
 {
+ "0a1a7c383620": {
+  "en": "Their skin, eyes included, changes to the color of their enhancement group. Kozaku Forway, the Darfaries who leads the Blue Wozens, is one: the stone melded with him perfectly, then corrupted his mind.",
+  "t": "ผิวของพวกเขา รวมทั้งตา เปลี่ยนเป็นสีของกลุ่มการเสริมพลัง โคซากุ ฟอร์เวย์ ดาร์แฟรีส์ผู้นำบลูโวเซน คือหนึ่งในนั้น: หินหลอมรวมกับเขาอย่างสมบูรณ์แบบ แล้วทำให้จิตใจของเขาเสื่อม"
+ },
+ "0b81ef926400": {
+  "en": "Science - Walking Heart Interface (World Lore illustration)",
+  "t": "วิทยาศาสตร์ - อินเทอร์เฟซวอล์กกิงฮาร์ต (ภาพประกอบตำนานโลก)"
+ },
+ "181edb28f3a4": {
+  "en": "When they feel a strong emotion that matches a color bound to their soul, a flame of that color rises from their chest.",
+  "t": "เมื่อพวกเขารู้สึกถึงอารมณ์แรงที่ตรงกับสีที่ผูกกับวิญญาณ เปลวไฟสีนั้นจะลุกขึ้นจากหน้าอก"
+ },
  "1b6034ca7bd4": {
   "en": "Intelligence (Blue)",
   "t": "สติปัญญา (น้ำเงิน)"
+ },
+ "1c55928c621d": {
+  "en": "<strong>Emotions likely to run rampant:</strong> anxiety, jealousy, hoarding.",
+  "t": "<strong>อารมณ์ที่มักพลุ่งพล่าน:</strong> ความวิตกกังวล ความอิจฉา การกักตุน"
+ },
+ "1f6bc60236d0": {
+  "en": "Forway banned their use because of the deaths and the corruption of character they often cause. And since the person becomes undead, they give up their rights as a citizen.",
+  "t": "ฟอร์เวย์ห้ามใช้มันเพราะการตายและความเสื่อมของนิสัยที่มันมักก่อ และเพราะคนนั้นกลายเป็นผีดิบ พวกเขาจึงสละสิทธิ์การเป็นพลเมือง"
+ },
+ "207aaa09247c": {
+  "en": "Living with one",
+  "t": "การใช้ชีวิตกับมัน"
+ },
+ "2be3ffef43f3": {
+  "en": "<strong>Benefits:</strong> memory, intellectual processing, planning, understanding knowledge.",
+  "t": "<strong>ข้อดี:</strong> ความจำ การประมวลผลทางปัญญา การวางแผน ความเข้าใจความรู้"
+ },
+ "2fbb9d1ee2a3": {
+  "en": "<strong>Emotions likely to run rampant:</strong> depression, embarrassment, sadness.",
+  "t": "<strong>อารมณ์ที่มักพลุ่งพล่าน:</strong> ความซึมเศร้า ความอับอาย ความเศร้า"
+ },
+ "30f716793368": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Walking%20Heart%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Walking Heart Interface.md</a>",
+  "t": "แหล่งที่มา: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Walking%20Heart%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Walking Heart Interface.md</a>"
  },
  "32318a007431": {
   "en": "Walking Hearts",
@@ -10,6 +46,14 @@
  "33f7b9aa1b1f": {
   "en": "Increased memory and intellectual processing that can extend into becoming a great strategist, but at the cost of strength, agility, dexterity, and stamina. And if that’s not enough, there is a risk of growing emotionless and completely detached.",
   "t": "ความจำและการประมวลผลทางปัญญาดีขึ้น ซึ่งอาจพัฒนาเป็นนักวางกลยุทธ์ชั้นยอด แต่แลกกับการสูญเสียพละกำลัง ความคล่องแคล่ว ความชำนาญ และความอึด และถ้ายังไม่พอ ยังเสี่ยงที่จะไร้อารมณ์และแปลกแยกโดยสิ้นเชิง"
+ },
+ "39673b3a8ca2": {
+  "en": "<strong>Drawback:</strong> dexterity.",
+  "t": "<strong>ข้อเสีย:</strong> ความคล่องแคล่ว"
+ },
+ "3af3d06a85b9": {
+  "en": "<strong>Benefits:</strong> fine motor coordination; ranged weapons strike truer; harder to notice, if they train their walk, since they no longer breathe.",
+  "t": "<strong>ข้อดี:</strong> การประสานงานของกล้ามเนื้อมัดเล็ก อาวุธระยะไกลยิงแม่นขึ้น สังเกตยากขึ้น ถ้าฝึกการเดิน เพราะไม่หายใจแล้ว"
  },
  "4324b6c71f52": {
   "en": "Walking Hearts are stones created by geological processes within the irradiated zones of Hifuna. They usually develop to about the size of a fist and are pure black. Within the blackness, specific other colors radiate. These different colors tell what type of stone it is and what kinds of power it will likely grant the wearer if someone replaces their heart with it.",
@@ -23,6 +67,18 @@
   "en": "Able to run further and faster. Able to fight for more extended periods and increased efficiency of using Soul Energy, but at the cost of dexterity, and the development of anxiety and jealousy issues, which can further develop into becoming a hoarder.",
   "t": "วิ่งได้ไกลและเร็วขึ้น สู้ได้นานขึ้น และใช้พลังวิญญาณได้มีประสิทธิภาพขึ้น แต่แลกกับการสูญเสียความชำนาญของมือ และเกิดปัญหาความวิตกกังวลและความอิจฉา ซึ่งอาจพัฒนาไปเป็นคนชอบกักตุน"
  },
+ "482ae4090c22": {
+  "en": "Their heart no longer beats, and they no longer eat, drink, breathe or sleep. They recharge only through emotions, or by stabbing a nari stone into their heart.",
+  "t": "หัวใจของพวกเขาไม่เต้นอีกต่อไป และพวกเขาไม่กิน ดื่ม หายใจ หรือนอนอีก พวกเขาฟื้นพลังได้ผ่านอารมณ์เท่านั้น หรือด้วยการแทงหินนาริเข้าไปในหัวใจ"
+ },
+ "48bff0c7c530": {
+  "en": "A stone holds five groups of enhancement: red, yellow, green, blue and purple. The person's mind and the stone's color ratios have to become one. If they don't, the person never wakes up. If they do, the stone binds to the person's soul and they become undead, and the color of their skin shows which powers are bound to them. A stone grants one to three enhancements from a group.",
+  "t": "หินหนึ่งก้อนมีกลุ่มการเสริมพลังห้ากลุ่ม: แดง เหลือง เขียว น้ำเงิน และม่วง จิตใจของคนนั้นกับสัดส่วนสีของหินต้องกลายเป็นหนึ่งเดียว ถ้าไม่ คนนั้นจะไม่มีวันตื่น ถ้าใช่ หินจะผูกกับวิญญาณของคนนั้นและพวกเขากลายเป็นผีดิบ และสีผิวของพวกเขาแสดงว่าพลังใดผูกกับพวกเขา หินหนึ่งก้อนให้การเสริมพลังหนึ่งถึงสามอย่างจากกลุ่มหนึ่ง"
+ },
+ "494b68464bcd": {
+  "en": "<strong>Emotions likely to run rampant:</strong> revenge, anger, berserker rage.",
+  "t": "<strong>อารมณ์ที่มักพลุ่งพล่าน:</strong> ความแค้น ความโกรธ ความเดือดดาลแบบนักรบคลั่ง"
+ },
  "57df5930ce7a": {
   "en": "Dexterity (Green)",
   "t": "ความชำนาญ (เขียว)"
@@ -30,6 +86,10 @@
  "5ff2002caaf7": {
   "en": "Strength (Red)",
   "t": "พละกำลัง (แดง)"
+ },
+ "64ae3e7c0336": {
+  "en": "<strong>Emotions likely to run rampant:</strong> fear, terror, grief.",
+  "t": "<strong>อารมณ์ที่มักพลุ่งพล่าน:</strong> ความกลัว ความหวาดผวา ความโศกเศร้า"
  },
  "735f6e4c06e2": {
   "en": "Easy to gain strength and build up muscle at the cost of agility and the development of anger issues, to the point of going, berserker.",
@@ -39,9 +99,25 @@
   "en": "Walking Heart appearance: a man shown four times with red, orange, green and purple skin, and a multicolored heart-stone about 13 cm across.",
   "t": "รูปลักษณ์ของวอล์กกิงฮาร์ต: ชายคนหนึ่งแสดงสี่ครั้งด้วยผิวสีแดง ส้ม เขียว และม่วง และหินหัวใจหลากสีกว้างประมาณ 13 ซม."
  },
+ "7afa05c5d226": {
+  "en": "<strong>Benefits:</strong> runs without getting tired; can fight or work for hours on end; uses soul energy more efficiently.",
+  "t": "<strong>ข้อดี:</strong> วิ่งได้โดยไม่เหนื่อย สู้หรือทำงานได้หลายชั่วโมงติดกัน ใช้พลังวิญญาณได้มีประสิทธิภาพกว่า"
+ },
+ "7d35a0793e8f": {
+  "en": "<strong>Drawbacks:</strong> loses strength, agility, dexterity and stamina; likely a shorter lifespan.",
+  "t": "<strong>ข้อเสีย:</strong> สูญเสียความแข็งแรง ความว่องไว ความคล่องแคล่ว และความอึด น่าจะอายุสั้นลง"
+ },
  "7eebda879787": {
   "en": "Walking Hearts Benefits &amp; Risks",
   "t": "ข้อดีและความเสี่ยงของวอล์กกิงฮาร์ต"
+ },
+ "9367f991e3b2": {
+  "en": "<strong>Benefits:</strong> extra strength; builds muscle easily.",
+  "t": "<strong>ข้อดี:</strong> แรงเพิ่มขึ้น สร้างกล้ามเนื้อได้ง่าย"
+ },
+ "973e53f7f1b4": {
+  "en": "How a stone binds",
+  "t": "หินผูกตัวอย่างไร"
  },
  "97eda47ff757": {
   "en": "Agility (Purple)",
@@ -51,17 +127,49 @@
   "en": "Walking Heart Interface",
   "t": "อินเทอร์เฟซวอล์กกิงฮาร์ต"
  },
+ "9a484adf5f9c": {
+  "en": "<strong>Emotions:</strong> neutral and balanced, and at worst emotionless: robotic, almost catatonic, a blank slate.",
+  "t": "<strong>อารมณ์:</strong> เป็นกลางและสมดุล และในกรณีที่แย่ที่สุดคือไร้อารมณ์: เหมือนหุ่นยนต์ เกือบเหมือนคนเหม่อลอยนิ่งงัน เป็นกระดาษเปล่า"
+ },
+ "a4b182b0a1b0": {
+  "en": "<strong>Drawback:</strong> stamina.",
+  "t": "<strong>ข้อเสีย:</strong> ความอึด"
+ },
  "a518d97cdc78": {
   "en": "Forway banned their usage due to the fatalities and corruption of one’s character that often occurs. Legally speaking, the lack of pulse also implies a certain death status. Their souls haven’t died yet, so they can’t be marked as soul dead and their rights as citizens removed. Lawmakers were not keen on the idea, though, and they classified people using any Buhraies or Walking Heart technology that causes soul corruption to be undead and be treated the same as soul dead.",
   "t": "ฟอร์เวย์สั่งห้ามใช้เพราะการตายและความเสื่อมของบุคลิกภาพที่เกิดขึ้นบ่อย ในทางกฎหมาย การไม่มีชีพจรยังบ่งบอกสถานะการตายบางอย่าง วิญญาณของพวกเขายังไม่ตาย จึงไม่อาจระบุว่าวิญญาณตายและถูกริบสิทธิ์ความเป็นพลเมืองได้ อย่างไรก็ตาม ผู้ร่างกฎหมายไม่เห็นด้วยกับแนวคิดนั้น และจัดให้ผู้ที่ใช้เทคโนโลยีบูไรส์หรือวอล์กกิงฮาร์ตใดๆ ที่ทำให้วิญญาณเสียหายเป็นซากศพเดินได้ และปฏิบัติเหมือนวิญญาณตายแล้ว"
+ },
+ "a8b5b593473b": {
+  "en": "Walking Hearts are stones that form in the irradiated zones of Hifuna. They usually grow to about the size of a fist and are black, but colors glow within the black, and those colors tell what type of stone it is and what powers it will likely grant whoever replaces their heart with it.",
+  "t": "วอล์กกิงฮาร์ตคือหินที่ก่อตัวในเขตที่ถูกฉายรังสีของฮิฟูนา ปกติมันโตได้ขนาดราวกำปั้นและเป็นสีดำ แต่มีสีเรืองแสงอยู่ในความดำนั้น และสีเหล่านั้นบอกว่ามันเป็นหินชนิดใดและน่าจะให้พลังอะไรแก่คนที่เปลี่ยนหัวใจเป็นมัน"
+ },
+ "c20c21de2e4f": {
+  "en": "<strong>Drawback:</strong> agility.",
+  "t": "<strong>ข้อเสีย:</strong> ความว่องไว"
  },
  "c81ded4d937f": {
   "en": "Increased healing, reflection time, and controlling the sense of time, but at the cost of strength and the development of a constant fear of everything and every one, this fear can terrorize the person to their core.",
   "t": "การรักษาตัว เวลาตอบสนอง และการควบคุมความรู้สึกเรื่องเวลาดีขึ้น แต่แลกกับการสูญเสียพละกำลังและเกิดความกลัวต่อทุกสิ่งทุกคนอยู่ตลอดเวลา ความกลัวนี้อาจทำให้คนคนหนึ่งหวาดผวาไปถึงแก่น"
  },
+ "d5998a8b2ab6": {
+  "en": "As long as the person still has a soul, the stone keeps feeding off it to power the body.",
+  "t": "ตราบใดที่คนนั้นยังมีวิญญาณ หินจะคอยดูดกินมันเพื่อขับเคลื่อนร่างกาย"
+ },
  "e5587824652a": {
   "en": "Stamina (Yellow)",
   "t": "ความอึด (เหลือง)"
+ },
+ "e65b439f2b46": {
+  "en": "The stones are impure by nature, so one person can rarely develop two colors at once.",
+  "t": "หินโดยธรรมชาติไม่บริสุทธิ์ คนหนึ่งคนจึงแทบไม่พัฒนาสองสีพร้อมกัน"
+ },
+ "e8ad92da0615": {
+  "en": "<strong>Drawback:</strong> strength.",
+  "t": "<strong>ข้อเสีย:</strong> ความแข็งแรง"
+ },
+ "ee6ed38c825d": {
+  "en": "<strong>Benefits:</strong> faster reflexes; faster healing.",
+  "t": "<strong>ข้อดี:</strong> ตอบสนองไวขึ้น รักษาตัวเร็วขึ้น"
  },
  "f8d4a14019c0": {
   "en": "Walking Heart Interface · #HusbandOutWorld",

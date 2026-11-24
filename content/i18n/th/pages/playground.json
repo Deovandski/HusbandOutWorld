@@ -1,11 +1,47 @@
 {
+ "00f03137e155": {
+  "en": "Easy",
+  "t": "ง่าย"
+ },
+ "0105b596e57e": {
+  "en": "Base: {flora}",
+  "t": "ฐาน: {flora}"
+ },
+ "016c526a1d2a": {
+  "en": "Rounds won: you {you}, {opp} {them}",
+  "t": "รอบที่ชนะ: คุณ {you}, {opp} {them}"
+ },
+ "0240b5832a42": {
+  "en": "Plains",
+  "t": "ที่ราบ"
+ },
+ "03f0feececb0": {
+  "en": "Flying",
+  "t": "บินได้"
+ },
+ "08271419319f": {
+  "en": "Shield",
+  "t": "โล่"
+ },
+ "0a27a3b002bc": {
+  "en": "Round {n}",
+  "t": "รอบที่ {n}"
+ },
  "0bf9322efcf3": {
   "en": "Final score: {you} {youScore}, {rival} {rivalScore}. {verdict}",
   "t": "คะแนนสุดท้าย: {you} {youScore}, {rival} {rivalScore} {verdict}"
  },
+ "0cb6b91a7c7b": {
+  "en": "Take turns placing one statue on a square on your side, on a flora base if you like, or pass. Every piece you place is spent for the match, so save some for later rounds.",
+  "t": "ผลัดกันวางรูปปั้นหนึ่งตัวบนช่องฝั่งของคุณ บนฐานพืชพรรณถ้าต้องการ หรือผ่าน ทุกชิ้นที่วางแล้วจะใช้หมดไปสำหรับการแข่งขันนั้น ดังนั้นเก็บไว้บ้างสำหรับรอบหลังๆ"
+ },
  "0d4b087148ae": {
   "en": "Playground · #HusbandOutWorld",
   "t": "สนามเด็กเล่น · #HusbandOutWorld"
+ },
+ "0e818bfa0679": {
+  "en": "monster",
+  "t": "สัตว์ประหลาด"
  },
  "11b7f08bcb49": {
   "en": "{player} snipes the {colour} territory ({points}).",
@@ -15,21 +51,85 @@
   "en": "Your turn: press Throw (or Space) when the aim is where you want it.",
   "t": "ตาคุณ: กด \"ปา!\" (หรือ Space) เมื่อเล็งตรงที่ต้องการ"
  },
+ "20f062e88b88": {
+  "en": "−{n} to the strongest opposing statue in its lane",
+  "t": "−{n} แก่รูปปั้นฝ่ายตรงข้ามที่แข็งแกร่งที่สุดในเลนของมัน"
+ },
  "21504db71017": {
   "en": "Play full screen",
   "t": "เล่นแบบเต็มจอ"
+ },
+ "2222ccdea406": {
+  "en": "+{n} at height {h} or more",
+  "t": "+{n} ที่ความสูง {h} ขึ้นไป"
+ },
+ "227af057c460": {
+  "en": "never weaker than its carving",
+  "t": "ไม่มีวันอ่อนกว่ารูปแกะสลักของมัน"
+ },
+ "22ef541999f0": {
+  "en": "Next round",
+  "t": "รอบถัดไป"
+ },
+ "24ae8a560983": {
+  "en": "Paint my statues",
+  "t": "ทาสีรูปปั้นของฉัน"
+ },
+ "25ab59baf8e0": {
+  "en": "Your side",
+  "t": "ฝั่งของคุณ"
+ },
+ "2640f77e9f83": {
+  "en": "Now choose a square for {name}.",
+  "t": "ทีนี้เลือกช่องสำหรับ{name}"
  },
  "27bbcef16995": {
   "en": "Hiromi",
   "t": "ฮิโรมิ"
  },
+ "285691ff158a": {
+  "en": "ignores lower ground",
+  "t": "ไม่สนพื้นที่ต่ำกว่า"
+ },
+ "28a2784f6046": {
+  "en": "You found the nari stone in {name}!",
+  "t": "คุณพบหินนาริใน{name}!"
+ },
+ "2f157d7130ab": {
+  "en": "Choose a statue for your nari stone first.",
+  "t": "เลือกรูปปั้นสำหรับหินนาริของคุณก่อน"
+ },
+ "3199ea056253": {
+  "en": "animal",
+  "t": "สัตว์"
+ },
+ "320089389f44": {
+  "en": "Your battalion",
+  "t": "กองพันของคุณ"
+ },
  "38d4249ff036": {
   "en": "⏱ {seconds}s · darts: {you} {youLeft}, {rival} {rivalLeft}",
   "t": "⏱ {seconds}s · ลูกดอก: {you} {youLeft}, {rival} {rivalLeft}"
  },
+ "39db64b96126": {
+  "en": "{opp} wins the match.",
+  "t": "{opp} ชนะการแข่งขัน"
+ },
+ "3d254c73066e": {
+  "en": "None left.",
+  "t": "ไม่เหลือแล้ว"
+ },
+ "3f21515a1b11": {
+  "en": "No base",
+  "t": "ไม่มีฐาน"
+ },
  "40e405b6605c": {
   "en": "I haven’t heard of that, but yeah, I prefer targeting the yellow ones, as those are worth more if you snipe all territories.",
   "t": "ข้าไม่เคยได้ยินแบบนั้น แต่ใช่ ข้าชอบเล็งช่องสีเหลืองมากกว่า เพราะพวกนั้นได้แต้มมากกว่าถ้านายสไนป์อาณาเขตได้ทั้งหมด"
+ },
+ "41fb3a0ef555": {
+  "en": "You win round {n}.",
+  "t": "คุณชนะรอบที่ {n}"
  },
  "42766efba402": {
   "en": "Middle ring",
@@ -38,6 +138,22 @@
  "42ae6cb3cd8f": {
   "en": "Time! The room starts to move too much…",
   "t": "หมดเวลา! ห้องเริ่มขยับมากเกินไป…"
+ },
+ "449177d90198": {
+  "en": "its power stays hidden until the lanes are counted",
+  "t": "พลังของมันซ่อนอยู่จนกว่าจะนับคะแนนเลน"
+ },
+ "45e05fa03651": {
+  "en": "Minari needs JavaScript to play.",
+  "t": "มินาริต้องใช้ JavaScript ในการเล่น"
+ },
+ "46b474188aa4": {
+  "en": "Battlefield: {region}",
+  "t": "สนามรบ: {region}"
+ },
+ "4a4331759c36": {
+  "en": "<a href=\"/lore/pastimes/#minari\">Minari</a>, the carved-statue game played in Sanbi Castle's game room: a working prototype, against Nina, Aurora or Neferteri.",
+  "t": "<a href=\"/lore/pastimes/#minari\">มินาริ</a> เกมรูปปั้นแกะสลักที่เล่นในห้องเกมของปราสาทซันบี: ต้นแบบที่เล่นได้จริง แข่งกับนีนา ออโรรา หรือเนเฟอร์เตรี"
  },
  "4c660686dc07": {
   "en": "His first dart clings, then falls. The second lands on a green territory near the centre.",
@@ -51,21 +167,73 @@
   "en": "Kinda? Was the board always this big and colored? I thought it was rounded too— OH YEAH! The center is worth more, right?",
   "t": "ประมาณนั้นครับ? กระดานมันใหญ่และมีสีแบบนี้มาตลอดเลยเหรอ? ผมนึกว่ามันกลมด้วย— อ๋อใช่! ตรงกลางได้แต้มมากกว่าใช่ไหม?"
  },
+ "4ec00394908f": {
+  "en": "How to play",
+  "t": "วิธีเล่น"
+ },
+ "4f0919dac51a": {
+  "en": "Neferteri",
+  "t": "เนเฟอร์เตรี"
+ },
+ "4f4e60287877": {
+  "en": "You win the match!",
+  "t": "คุณชนะการแข่งขัน!"
+ },
  "50ccc5e2e037": {
   "en": "He aims for the same green, and lands far above it, on purple.",
   "t": "เขาเล็งสีเขียวเดียวกัน และลงไกลเหนือขึ้นไปบนสีม่วง"
+ },
+ "530cececb444": {
+  "en": "no stone inside.",
+  "t": "ไม่มีหินอยู่ข้างใน"
+ },
+ "5719e9acd479": {
+  "en": "The table has <strong>5 lanes</strong>. Each lane has a square on your side and one on theirs, with a terrain and a height. A statue on its home terrain gets <strong>+2</strong>; standing higher than the square across gives <strong>+1 per level</strong>, lower gives the same as a minus.",
+  "t": "โต๊ะมี<strong>5 เลน</strong> แต่ละเลนมีหนึ่งช่องฝั่งของคุณและหนึ่งช่องฝั่งของเขา พร้อมภูมิประเทศและความสูง รูปปั้นที่อยู่บนภูมิประเทศถิ่นกำเนิดของมันได้<strong>+2</strong> การยืนสูงกว่าช่องฝั่งตรงข้ามได้<strong>+1 ต่อระดับ</strong> ส่วนที่ต่ำกว่าก็ได้เท่ากันแต่เป็นลบ"
  },
  "576766d387ec": {
   "en": "Play again",
   "t": "เล่นอีกครั้ง"
  },
+ "595f9c0beff7": {
+  "en": "{name} is eliminated: {result}",
+  "t": "{name} ถูกกำจัด: {result}"
+ },
+ "5ad1c0fc4343": {
+  "en": "{who} passed.",
+  "t": "{who} ผ่าน"
+ },
+ "5c209e93ce26": {
+  "en": "Start the match",
+  "t": "เริ่มการแข่งขัน"
+ },
+ "5d0ac69701af": {
+  "en": "power {n}",
+  "t": "พลัง {n}"
+ },
+ "6572f28b79ce": {
+  "en": "Lane {n}: tied, {a} to {b}.",
+  "t": "เลนที่ {n}: เสมอ {a} ต่อ {b}"
+ },
  "69b0b68def54": {
   "en": "SEE? It’s all about mindset! You know what, Harry? You’re cool! So why not play a bit of territory snipping to celebrate?",
   "t": "เห็นไหม? มันอยู่ที่ทัศนคติ! รู้อะไรไหม แฮร์รี? นายเจ๋ง! งั้นทำไมไม่เล่นเทร์ริทอรีสนิปปิงกันหน่อยเพื่อฉลองล่ะ?"
  },
+ "6cd280647632": {
+  "en": "{name}, {kind}, power {power}, home: {terrains}{traits}",
+  "t": "{name}, {kind}, พลัง {power}, ถิ่นกำเนิด: {terrains}{traits}"
+ },
+ "7468786df7e7": {
+  "en": "Your flora bases",
+  "t": "ฐานพืชพรรณของคุณ"
+ },
  "76262d314611": {
   "en": "Territory Snipping: turn your phone sideways",
   "t": "เทร์ริทอรีสนิปปิง: หมุนมือถือเป็นแนวนอน"
+ },
+ "78981b123f83": {
+  "en": "When both sides have passed, each lane goes to the side with more power there. The losing side's statues in that lane are <strong>eliminated</strong>, and you see whether the nari stone was inside.",
+  "t": "เมื่อทั้งสองฝ่ายผ่านแล้ว แต่ละเลนตกเป็นของฝ่ายที่มีพลังมากกว่าในเลนนั้น รูปปั้นของฝ่ายที่แพ้ในเลนนั้น<strong>ถูกกำจัด</strong> และคุณจะได้เห็นว่ามีหินนาริอยู่ข้างในหรือไม่"
  },
  "78988010b890": {
   "en": "red",
@@ -75,25 +243,65 @@
   "en": "{n} pt",
   "t": "{n} แต้ม"
  },
+ "7e99995a1667": {
+  "en": "Choose your opponent",
+  "t": "เลือกคู่ต่อสู้"
+ },
  "85a1ecacad2c": {
   "en": "That’s the spirit! … You played this before, right?",
   "t": "นั่นแหละจิตวิญญาณ! … นายเคยเล่นมาก่อนใช่ไหม?"
+ },
+ "864900d5a132": {
+  "en": "hides your nari stone",
+  "t": "ซ่อนหินนาริของคุณ"
+ },
+ "8845064f5b91": {
+  "en": "+{n} to a {kind}",
+  "t": "+{n} แก่{kind}"
+ },
+ "888d16612e6f": {
+  "en": "Choose the statue that hides your nari stone.",
+  "t": "เลือกรูปปั้นที่จะซ่อนหินนาริของคุณ"
  },
  "8bf12a38bad0": {
   "en": "Throw!",
   "t": "ปา!"
  },
+ "8c8d4feff7de": {
+  "en": "Your nari stone is inside {name}.",
+  "t": "หินนาริของคุณอยู่ใน{name}"
+ },
+ "905cb326c779": {
+  "en": "You",
+  "t": "คุณ"
+ },
+ "91586b73ba8c": {
+  "en": "the nari stone was inside!",
+  "t": "หินนาริอยู่ข้างใน!"
+ },
  "935f6cd89f4a": {
   "en": "A draw!",
   "t": "เสมอ!"
+ },
+ "93c3ef1e3de3": {
+  "en": "That square is full.",
+  "t": "ช่องนั้นเต็มแล้ว"
  },
  "94e6a3ea4d1f": {
   "en": "Turn your phone sideways to play.",
   "t": "หมุนมือถือเป็นแนวนอนเพื่อเล่น"
  },
+ "955ddba3d08e": {
+  "en": "{name}: {effect}",
+  "t": "{name}: {effect}"
+ },
  "96de5543d183": {
   "en": "yellow",
   "t": "เหลือง"
+ },
+ "98dc61652f7c": {
+  "en": "{opp} is choosing…",
+  "t": "{opp} กำลังเลือก…"
  },
  "992fb4c6838e": {
   "en": "{you} wins, somehow!",
@@ -103,6 +311,10 @@
   "en": "You’re coolio too!",
   "t": "คุณก็เจ๋งเป้งเหมือนกัน!"
  },
+ "9c8238f65551": {
+  "en": "Snow",
+  "t": "หิมะ"
+ },
  "a691267c5647": {
   "en": "{rival} wins.",
   "t": "{rival} ชนะ"
@@ -111,6 +323,18 @@
   "en": "Cancelled! Both darts on the {colour} territory are out.",
   "t": "ยกเลิก! ลูกดอกทั้งสองบนอาณาเขต {colour} ออก"
  },
+ "a93e8afda9a1": {
+  "en": "Before the match, hide your <strong>nari stone</strong> inside one of your statues. Your opponent hides theirs too.",
+  "t": "ก่อนการแข่งขัน ซ่อน<strong>หินนาริ</strong>ของคุณไว้ในรูปปั้นตัวหนึ่ง คู่ต่อสู้ก็ซ่อนของเขาเช่นกัน"
+ },
+ "abb89bf474d1": {
+  "en": "home: {terrains}",
+  "t": "ถิ่นกำเนิด: {terrains}"
+ },
+ "af503a976364": {
+  "en": "a random {min} to +{max}",
+  "t": "สุ่ม {min} ถึง +{max}"
+ },
  "afaed75406bd": {
   "en": "purple",
   "t": "ม่วง"
@@ -118,6 +342,10 @@
  "b2b52c2fc7c2": {
   "en": "Snipe all territories? That’s—different—I think. Can—can you explain?",
   "t": "สไนป์อาณาเขตทั้งหมด? นั่นมัน—แปลก—ผมว่านะ คุณ—คุณช่วยอธิบายได้ไหม?"
+ },
+ "b31d36c1c500": {
+  "en": "Challenging",
+  "t": "ท้าทาย"
  },
  "b8c8d91c4ad6": {
   "en": "Yellow centre",
@@ -143,9 +371,25 @@
   "en": "Next",
   "t": "ถัดไป"
  },
+ "be2f6b076cd7": {
+  "en": "Minari: turn your phone sideways",
+  "t": "มินาริ: หมุนโทรศัพท์เป็นแนวนอน"
+ },
+ "be3975e50f11": {
+  "en": "{sign}{n} to the statue on it",
+  "t": "{sign}{n} แก่รูปปั้นที่อยู่บนมัน"
+ },
  "c1218408e29a": {
   "en": "Just a hunk—that was me warming up! Now try to throw on a green section or anywhere else.",
   "t": "แค่ฮังก์เดียว—นั่นข้าวอร์มอัพ! ทีนี้ลองปาลงช่องสีเขียวหรือที่ไหนก็ได้"
+ },
+ "c30902149f0e": {
+  "en": "{opp}'s side",
+  "t": "ฝั่งของ{opp}"
+ },
+ "c384517d1937": {
+  "en": "{name}, power {power}",
+  "t": "{name}, พลัง {power}"
  },
  "c7abd16eb68f": {
   "en": "Brotha—you suck at this—Harry?",
@@ -155,17 +399,37 @@
   "en": "—Yea? So I play next?",
   "t": "—ครับ? งั้นผมเล่นต่อไปเหรอ?"
  },
+ "c91b25d0e00d": {
+  "en": "−{n} to every opposing statue in its lane",
+  "t": "−{n} แก่รูปปั้นฝ่ายตรงข้ามทุกตัวในเลนของมัน"
+ },
  "caab81299f22": {
   "en": "The game starts as soon as the phone is sideways.",
   "t": "เกมจะเริ่มทันทีที่มือถืออยู่ในแนวนอน"
+ },
+ "cc14463c4dab": {
+  "en": "Lane {n}: {who} wins, {a} to {b}.",
+  "t": "เลนที่ {n}: {who} ชนะ {a} ต่อ {b}"
  },
  "cc60a1651cdd": {
   "en": "Final: {you} {youScore} · {rival} {rivalScore} · {verdict}",
   "t": "สุดท้าย: {you} {youScore} · {rival} {rivalScore} · {verdict}"
  },
+ "ce31bd9a119b": {
+  "en": "Nari stone",
+  "t": "หินนาริ"
+ },
  "ce3c494a5e85": {
   "en": "Aiight!",
   "t": "โอเค!"
+ },
+ "d0bb566c5184": {
+  "en": "The match is a draw.",
+  "t": "การแข่งขันเสมอ"
+ },
+ "d0db58d3de1d": {
+  "en": "humanoid",
+  "t": "ร่างมนุษย์"
  },
  "d153c794ecdb": {
   "en": "Play upright instead",
@@ -179,6 +443,50 @@
   "en": "Your dart flies low and lodges in the wall below the board.",
   "t": "ลูกดอกของคุณบินต่ำและติดกำแพงใต้กระดาน"
  },
+ "d2c984ccb77d": {
+  "en": "Each side has <strong>10 carved statues</strong> (Races, Fauna and Beasts) and <strong>4 flora bases</strong>. The creature a statue shows is its power.",
+  "t": "แต่ละฝ่ายมี<strong>รูปปั้นแกะสลัก 10 ตัว</strong> (เผ่าพันธุ์ สัตว์ และสัตว์อสูร) และ<strong>ฐานพืชพรรณ 4 ฐาน</strong> สิ่งมีชีวิตที่รูปปั้นแสดงคือพลังของมัน"
+ },
+ "d3724d122484": {
+  "en": "{who} found the nari stone in {name}!",
+  "t": "{who} พบหินนาริใน{name}!"
+ },
+ "d404968ea90b": {
+  "en": "Medium",
+  "t": "ปานกลาง"
+ },
+ "d5936b9a0d86": {
+  "en": "Eliminated",
+  "t": "ถูกกำจัด"
+ },
+ "d7cd56f2a2a3": {
+  "en": "Pass",
+  "t": "ผ่าน"
+ },
+ "ddc8e3b2c330": {
+  "en": "Your turn: choose a statue, then a square on your side.",
+  "t": "ตาของคุณ: เลือกรูปปั้น แล้วเลือกช่องฝั่งของคุณ"
+ },
+ "dfe153f0c577": {
+  "en": "{who} placed {name} on a {flora} base, on {terrain} (power {power}).",
+  "t": "{who} วาง{name}บนฐาน{flora} บน{terrain} (พลัง {power})"
+ },
+ "e48d1e99bbff": {
+  "en": "{a} : {b}",
+  "t": "{a} : {b}"
+ },
+ "e601068c1509": {
+  "en": "{who} wins round {n}.",
+  "t": "{who} ชนะรอบที่ {n}"
+ },
+ "e818d1b014a8": {
+  "en": "Lane {n}",
+  "t": "เลนที่ {n}"
+ },
+ "e8e05bdea850": {
+  "en": "Cloak",
+  "t": "ผ้าคลุม"
+ },
  "e99283406209": {
   "en": "Play the round of <a href=\"/lore/pastimes/#territory-snipping\">Territory Snipping</a> from Vol 2, as Harry, against Hiromi.",
   "t": "เล่น<a href=\"/lore/pastimes/#territory-snipping\">เทร์ริทอรีสนิปปิง</a>หนึ่งรอบจากเล่ม 2 ในบทแฮร์รี ประชันกับฮิโรมิ"
@@ -187,17 +495,77 @@
   "en": "Good try! Good try! C’mon! Try again!",
   "t": "พยายามดี! พยายามดี! มาเลย! ลองอีกที!"
  },
+ "ea71ac574d84": {
+  "en": "Win more lanes to win the round. First to <strong>2 rounds</strong> wins, but finding the other side's nari stone wins at once.",
+  "t": "ชนะให้ได้มากเลนกว่าเพื่อชนะรอบ ใครชนะครบ<strong>2 รอบ</strong>ก่อนชนะ แต่การพบหินนาริของอีกฝ่ายชนะทันที"
+ },
+ "ee61b8c6ee53": {
+  "en": "Your statues",
+  "t": "รูปปั้นของคุณ"
+ },
+ "eeee9b76ec5d": {
+  "en": "Aurora",
+  "t": "ออโรรา"
+ },
  "ef0ebbb77298": {
   "en": "orange",
   "t": "ส้ม"
+ },
+ "ef6906d30a91": {
+  "en": "Painting your statues is just for looks.",
+  "t": "การทาสีรูปปั้นมีไว้เพื่อความสวยงามเท่านั้น"
+ },
+ "f1b44b944d26": {
+  "en": "{who} placed {name} on {terrain} (power {power}).",
+  "t": "{who} วาง{name}บน{terrain} (พลัง {power})"
  },
  "f290164d1315": {
   "en": "Outer ring",
   "t": "วงนอก"
  },
+ "f2c741477316": {
+  "en": "a statue",
+  "t": "รูปปั้นหนึ่งตัว"
+ },
+ "f41c4e4dab0b": {
+  "en": "Forest",
+  "t": "ป่า"
+ },
+ "f4904bf63ad4": {
+  "en": "Nina",
+  "t": "นีนา"
+ },
+ "f4c2739717c4": {
+  "en": "{terrain}, height {h}",
+  "t": "{terrain} ความสูง {h}"
+ },
+ "f674ac08752f": {
+  "en": "+{n} on {terrain}",
+  "t": "+{n} บน{terrain}"
+ },
+ "f6db3f96e9e3": {
+  "en": "Desert",
+  "t": "ทะเลทราย"
+ },
+ "fa27d1b6d725": {
+  "en": "+1 when outnumbered in its lane",
+  "t": "+1 เมื่อมีจำนวนน้อยกว่าในเลนของมัน"
+ },
  "fb23c9ff0d27": {
   "en": "Inner ring",
   "t": "วงใน"
+ },
+ "fbf6a2b00397": {
+  "en": "Lane {n}: you win, {a} to {b}.",
+  "t": "เลนที่ {n}: คุณชนะ {a} ต่อ {b}"
+ },
+ "fe4f28f307a2": {
+  "en": "Round {n} is a draw.",
+  "t": "รอบที่ {n} เสมอ"
+ },
+ "fe527bb5037f": {
+  "en": "Carve a new battalion",
+  "t": "แกะสลักกองพันใหม่"
  },
  "feddfb10fb8d": {
   "en": "We all play at the same time. GO!",
