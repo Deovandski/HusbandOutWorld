@@ -1,4 +1,8 @@
 {
+ "000a6bd9e4af": {
+  "en": "Tier V",
+  "t": "المستوى V"
+ },
  "0054289dba33": {
   "en": "Before the Prosperity Treaty, Kingdom UOMs were all over the place, making trading harder and opening the door for sketchier traders to forge papers to evade authorities and rip off customers. Adrian, one of the courtroom scientists that overthrew all rulers at the end of The Greed Period, saw the treaty they were establishing as an opportunity to standardize all measurements based on using the most accurate one in existence—which happened to be the Tolerideme Kingdom, coincidentally where he was from. Gandew, of course, still uses their own to this day alongside the Vraki measurements. In contrast, everyone else's historical measurement implementations are now the type of knowledge that only historians care to know.",
   "t": "قبل «معاهدة الازدهار»، كانت وحدات القياس في الممالك متضاربة في كل مكان، ما صعّب التجارة وفتح الباب أمام التجار الأكثر ريبة لتزوير الأوراق والتهرب من السلطات والاحتيال على الزبائن. ورأى أدريان، أحد علماء البلاط الذين أطاحوا بكل الحكام في نهاية «حقبة الجشع»، في المعاهدة التي كانوا يضعونها فرصة لتوحيد كل المقاييس بناءً على أدق مقياس موجود، الذي تصادف أنه مقياس مملكة توليريديمي، ومن قبيل المصادفة أنه كان منها. وبالطبع ما زالت غانديو تستخدم مقاييسها الخاصة حتى اليوم إلى جانب مقاييس فراكي. في المقابل، أصبحت أنظمة القياس التاريخية لدى الجميع الآن من المعارف التي لا يهتم بها إلا المؤرخون."
@@ -7,77 +11,301 @@
   "en": "10 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "هناك 10 مداخل أخرى في هذه الصفحة متاحة فقط في <button class=\"linklike\" data-go-bts>خلف الكواليس</button>."
  },
+ "015c979a68a6": {
+  "en": "<strong>Where it comes from:</strong> mined from Flatland City to Blood City, deep inside the mountains (about 1 km down).",
+  "t": "<strong>المصدر:</strong> يُستخرج من فلاتلاند سيتي إلى بلاد سيتي، في أعماق الجبال (نحو 1 كم تحت الأرض)."
+ },
  "022aabbee753": {
   "en": "Vraki UOMs",
   "t": "وحدات فراكي"
+ },
+ "0326ae1448a0": {
+  "en": "Economic activity in Vraki comes from fauna, flora and beasts, and the goods and services made from them. It's divided into four economic regions, and comparative advantage decides which goods are worth exporting from one region to another.",
+  "t": "النشاط الاقتصادي في فراكي يأتي من الحيوانات والنباتات والوحوش، والسلع والخدمات المصنوعة منها. وهو مقسم إلى أربع مناطق اقتصادية، والميزة النسبية تقرر أي السلع تستحق التصدير من منطقة إلى أخرى."
+ },
+ "0351367464a7": {
+  "en": "Master, per day",
+  "t": "المعلّم، في اليوم"
  },
  "03ebd5a3d869": {
   "en": "*The name Vraki is a homage to ancient texts that portrayed Buhraies working hard to unify language across species.",
   "t": "*اسم فراكي تكريم لنصوص قديمة صوّرت البورايس وهم يعملون بجد لتوحيد اللغة بين الأعراق."
  },
+ "057dea8c73ac": {
+  "en": "Hardness:",
+  "t": "الصلابة:"
+ },
+ "0d5c49323965": {
+  "en": "~3,300 km",
+  "t": "~⁦3,300⁩ كم"
+ },
+ "0e7f700547cb": {
+  "en": "<strong>Example:</strong> fanchaki farms are spread out everywhere, but Freeish and Blood have the comparative advantage for large-scale farming. Raising larger fanchakis (like Sanbi's experimental farm) costs more than their meat sells for.",
+  "t": "<strong>مثال:</strong> مزارع الفانتشاكي منتشرة في كل مكان، لكن فريئيش وبلاد تملكان الميزة النسبية للزراعة على نطاق واسع. تربية فانتشاكي أكبر (مثل المزرعة التجريبية في سانبي) تكلف أكثر مما يُباع به لحمها."
+ },
+ "0f217179940c": {
+  "en": "Region",
+  "t": "المنطقة"
+ },
+ "144301cf556b": {
+  "en": "The full numbers are in the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Distance Cost Calculator).",
+  "t": "الأرقام الكاملة في <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">جدول الاقتصاد</a> (حاسبة تكلفة المسافة)."
+ },
+ "15d14b4ee5c3": {
+  "en": "<strong>Hardness:</strong> 2.5 to 4.5",
+  "t": "<strong>الصلابة:</strong> من 2.5 إلى 4.5"
+ },
+ "15dded0b93d1": {
+  "en": "1 ball",
+  "t": "1 كرة"
+ },
+ "18000a4c2290": {
+  "en": "Tier II",
+  "t": "المستوى II"
+ },
  "184272d237d3": {
   "en": "The most common currency is Pearls, which denotes the currency's minimum value. For reference, on an average working day, a gatherer of Gyut (a berry akin to Acerola) would earn one pearl per kg of berries picked (around thirty minutes to one hour of labor, depending on their efficiency.) Assuming a newbie gatherer worked for twelve hours, they would likely pay five pearls for a simple but hearty dinner with a mug of cheap beer, then another five for renting a humble hostel bed, with two pearls left over to save for tomorrow. Usually, one would use pearls for food or standard simple services like wagon rides for relatively short distances.",
   "t": "العملة الأكثر شيوعًا هي البيرل، وتمثل أدنى قيمة للعملة. وللمقارنة، في يوم عمل عادي يكسب جامع الغيوت (ثمرة تشبه الأسيرولا) بيرل واحدة عن كل كيلوغرام من الثمار التي يقطفها (نحو ثلاثين دقيقة إلى ساعة من العمل، حسب كفاءته.) وبافتراض أن جامعًا مبتدئًا عمل اثنتي عشرة ساعة، فعلى الأرجح سيدفع خمس بيرل ثمنًا لعشاء بسيط لكنه مشبع مع كوب جعة رخيصة، ثم خمسًا أخرى لاستئجار سرير متواضع في نُزل، ويبقى معه بيرلتان يدخرهما للغد. وعادة ما تُستخدم البيرل للطعام أو للخدمات البسيطة المعتادة مثل ركوب العربات لمسافات قصيرة نسبيًا."
+ },
+ "1b22feb0c0c1": {
+  "en": "Between",
+  "t": "بين"
+ },
+ "1cb449c11266": {
+  "en": "Members",
+  "t": "الأعضاء"
  },
  "1ef532cce6fe": {
   "en": "Amethyst",
   "t": "أميثيست"
  },
+ "1fc3153191c2": {
+  "en": "~2,000 km",
+  "t": "~⁦2,000⁩ كم"
+ },
  "26287b561096": {
   "en": "Economy &amp; Units",
   "t": "الاقتصاد والوحدات"
+ },
+ "279761c183c0": {
+  "en": "The average daily pay, for an average work day of 12 hours. Work time varies by job, and this doesn't account for jobs that depend on luck, like fishing.",
+  "t": "متوسط الأجر اليومي، ليوم عمل متوسط من 12 ساعة. يختلف وقت العمل بحسب المهنة، وهذا لا يحتسب المهن التي تعتمد على الحظ، كالصيد."
+ },
+ "27d92d43befe": {
+  "en": "Expenses take about 75% of earnings, so a Tier I worker keeps about 3 Pearls a day. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Salary Calculator).",
+  "t": "تستهلك النفقات نحو 75% من الدخل، فيبقى لعامل المستوى I نحو 3 بيرل في اليوم. انظر <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">جدول الاقتصاد</a> (حاسبة الرواتب)."
+ },
+ "28c0eafbd6ce": {
+  "en": "Over a year (73 weeks), that's 3,504 Pearls at Tier I, up to 35,040 for a Tier VI apprentice or 52,560 for a Tier VI master. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Salary Calculator).",
+  "t": "على مدار عام (73 أسبوعًا)، هذا ⁦3,504⁩ بيرل في المستوى I، ويصل إلى ⁦35,040⁩ لمتدرّب المستوى VI أو ⁦52,560⁩ لمعلّم المستوى VI. انظر <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">جدول الاقتصاد</a> (حاسبة الرواتب)."
+ },
+ "2a32ad9fccf0": {
+  "en": "Freeish and Gandew regions",
+  "t": "منطقتي فريئيش وغانديو"
+ },
+ "33e4a381fa43": {
+  "en": "<strong>Size:</strong> slightly bigger than a fingernail, about 2 cm across.",
+  "t": "<strong>الحجم:</strong> أكبر قليلًا من الظفر، نحو 2 سم عرضًا."
+ },
+ "34f93d99f29c": {
+  "en": "~3,000 km",
+  "t": "~⁦3,000⁩ كم"
+ },
+ "392c485a6389": {
+  "en": "~1,000 km",
+  "t": "~⁦1,000⁩ كم"
+ },
+ "3bae79216122": {
+  "en": "Forway, Flatland, Gandew, Sundeath",
+  "t": "فورواي، فلاتلاند، غانديو، صنديث"
+ },
+ "438a2a268b29": {
+  "en": "Tier IV",
+  "t": "المستوى IV"
  },
  "440282475500": {
   "en": "Amethyst ball: a purple faceted coin-like disc with golden swirling arms.",
   "t": "كرة أميثيست: قرص بنفسجي متعدد الأوجه يشبه العملة بأذرع ذهبية ملتفة."
  },
+ "442e401b464d": {
+  "en": "~4,000 km",
+  "t": "~⁦4,000⁩ كم"
+ },
  "467122e96ae1": {
   "en": "Aquamarine ball: a light-blue faceted coin-like disc with golden swirling arms.",
   "t": "كرة أكوامارين: قرص أزرق فاتح متعدد الأوجه يشبه العملة بأذرع ذهبية ملتفة."
+ },
+ "484b801fd210": {
+  "en": "<strong>Hardness:</strong> 7.5 to 8",
+  "t": "<strong>الصلابة:</strong> من 7.5 إلى 8"
+ },
+ "497865c53617": {
+  "en": "<strong>Worth:</strong> 10 Aquamarine, 100 Amethyst or 5,000 Pearls.",
+  "t": "<strong>القيمة:</strong> 10 أكوامارين، أو 100 أميثيست، أو ⁦5,000⁩ بيرل."
+ },
+ "4a9ba1f13c83": {
+  "en": "Minerals, Wooly and chitin",
+  "t": "المعادن، والوولي، والكيتين"
  },
  "4b8a751f1630": {
   "en": "Public text: economy-uoms.md",
   "t": "النص العام: economy-uoms.md"
  },
+ "50870d79e6f4": {
+  "en": "Tier I",
+  "t": "المستوى I"
+ },
  "52086129a3b5": {
   "en": "Sapphire",
   "t": "سافاير"
+ },
+ "5396c116b2e2": {
+  "en": "<strong>What it buys:</strong> custom-crafted armor and weapons, or good gear in general; a young tamed egua; an adult tamed Big Winga; well-protected, guarded travel; fancier hotels; fundamental education; fancy clothing, usually with gold or precious-metal details; Tier VI to VIII Soul Energy. For some people, it's their entire life savings.",
+  "t": "<strong>ما تشتريه:</strong> دروع وأسلحة مصنوعة حسب الطلب، أو عدة جيدة عمومًا؛ إيغوا مروّضة صغيرة؛ بيغ وينغا مروّضة بالغة؛ سفر محمي جيدًا بحراسة؛ فنادق أفخم؛ التعليم الأساسي؛ ملابس فاخرة، عادةً بتفاصيل من الذهب أو المعادن الثمينة؛ طاقة روح من المستوى VI إلى VIII. وهي عند بعض الناس مدخرات حياتهم كلها."
+ },
+ "5957b01cfd38": {
+  "en": "Forway, Sanbi, Waterfall, Triangle, Tastyleaf, Endlessfog",
+  "t": "فورواي، سانبي، ووترفول، ترايانغل، تيستي ليف، إندلس فوغ"
+ },
+ "59eb58190849": {
+  "en": "Gandew and Sanbi regions",
+  "t": "منطقتي غانديو وسانبي"
+ },
+ "5f618a292277": {
+  "en": "Master, per hour",
+  "t": "المعلّم، في الساعة"
+ },
+ "634a223bb76e": {
+  "en": "Balls are the common currency of the four kingdoms (Tolerideme, the Sanbi Kingdom, the Freeish Kingdom and the Gandew Kingdom) and all the participating cities around them. The Prosperity Treaty introduced them in Section #3, since bartering is forbidden between the treaty's parties. Balls are made throughout the kingdom, and the city or kingdom's embassy oversees their manufacturing.",
+  "t": "الكرات هي العملة المشتركة للممالك الأربع (توليريديمي ومملكة سانبي ومملكة فريئيش ومملكة غانديو) ولكل المدن المشاركة حولها. قدّمتها معاهدة الرخاء في القسم #3، لأن المقايضة محظورة بين أطراف المعاهدة. تُصنع الكرات في أنحاء المملكة، وتشرف سفارة المدينة أو المملكة على تصنيعها."
+ },
+ "6ab35da38a12": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Economy.md\">Legacy/Behind The Scenes/World Lore/Economy.md</a>",
+  "t": "المصدر: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Economy.md\">Legacy/Behind The Scenes/World Lore/Economy.md</a>"
+ },
+ "6ea75f6d8e5e": {
+  "en": "Sanbi and Tolerideme regions",
+  "t": "منطقتي سانبي وتوليريديمي"
+ },
+ "70a1618f804e": {
+  "en": "There are four balls. From the most valuable:",
+  "t": "هناك أربع كرات. من الأعلى قيمة:"
  },
  "73deb2e5251c": {
   "en": "Aquamarine",
   "t": "أكوامارين"
  },
+ "7465c0ac951d": {
+  "en": "Tier VI",
+  "t": "المستوى VI"
+ },
+ "75f16b9dcc19": {
+  "en": "Economical Regions",
+  "t": "المناطق الاقتصادية"
+ },
+ "77d1f61d0852": {
+  "en": "Comparative Advantage",
+  "t": "الميزة النسبية"
+ },
+ "78f3842f0201": {
+  "en": "Master",
+  "t": "المعلّم"
+ },
  "7927d99fd832": {
   "en": "Pearl",
   "t": "بيرل"
+ },
+ "798f64e2c7a7": {
+  "en": "Balls Currency",
+  "t": "عملة الكرات"
+ },
+ "7baec53c6c26": {
+  "en": "Gandew and Tolerideme regions",
+  "t": "منطقتي غانديو وتوليريديمي"
  },
  "7e1741308837": {
   "en": "087 (images illustration)",
   "t": "087 (رسوم)"
  },
+ "7e8548c30fef": {
+  "en": "Economy",
+  "t": "الاقتصاد"
+ },
  "7f5bd97d3d97": {
   "en": "Balls are the standardized currency as determined by the Prosperity Treaty. Each ball is about the size of a marble and is encrusted by the golden circular metallic decoration that protects the mineral inside and makes it harder to counterfeit or tamper with.",
   "t": "الكرات هي العملة الموحدة التي حددتها «معاهدة الازدهار». كل كرة بحجم كرة زجاجية صغيرة تقريبًا، ومرصعة بزخرفة معدنية دائرية ذهبية تحمي المعدن بداخلها وتجعل تزويرها أو العبث بها أصعب."
+ },
+ "8010f7aa2e17": {
+  "en": "<strong>What it buys:</strong> common food and beer; a day's lodging in a hostel or cheap hotel; bargain armor and weapons; hay for an egua; travel by wagon (less comfortable and less protected); utensils; used clothing (sometimes with wear and tear) or very cheap clothing; most nari gels at weak effect tiers; Tier I to III Soul Energy; paper, ink, etc.",
+  "t": "<strong>ما تشتريه:</strong> الطعام والجعة الشائعان؛ إقامة يوم في نُزل أو فندق رخيص؛ دروع وأسلحة بأسعار زهيدة؛ تبن للإيغوا؛ السفر بالعربة (أقل راحة وأقل حماية)؛ الأواني؛ ملابس مستعملة (أحيانًا مع بلى) أو ملابس رخيصة جدًا؛ معظم هلام ناري بمستويات تأثير ضعيفة؛ طاقة روح من المستوى I إلى III؛ الورق، والحبر، وغيرها."
  },
  "813681598d7d": {
   "en": "Sapphire ball: a deep-blue faceted coin-like disc with golden swirling arms.",
   "t": "كرة سافاير: قرص أزرق داكن متعدد الأوجه يشبه العملة بأذرع ذهبية ملتفة."
  },
+ "87565be67953": {
+  "en": "Daily Salary",
+  "t": "الأجر اليومي"
+ },
+ "8a842f1db687": {
+  "en": "Weekly Salary",
+  "t": "الأجر الأسبوعي"
+ },
  "8bc2bd89c625": {
   "en": "Economy & Units · #HusbandOutWorld",
   "t": "الاقتصاد والوحدات · #HusbandOutWorld"
+ },
+ "8de8b2b021b0": {
+  "en": "<strong>Worth:</strong> 50 Pearls.",
+  "t": "<strong>القيمة:</strong> 50 بيرل."
+ },
+ "93e739da0daa": {
+  "en": "<strong>Worth:</strong> 10 Amethyst or 500 Pearls.",
+  "t": "<strong>القيمة:</strong> 10 أميثيست أو 500 بيرل."
+ },
+ "969e1d31bffe": {
+  "en": "<strong>Worth:</strong> the lowest ball; the others are counted in Pearls.",
+  "t": "<strong>القيمة:</strong> أدنى كرة؛ والكرات الأخرى تُحسب بالبيرل."
  },
  "9a3c5c2b363f": {
   "en": "If you gather fifty Pearls, then you can trade it for a single Amethyst. Some books can be as low as a single amethyst if the janky ass printing presses back at Forway work well, but most people would use their amethyst to buy household items like fost lamps or live animals like a tamed Winga or pay their rent. Some clothing can be found for a few amethysts, but don’t expect them to be a pussy (or dick) magnet. You could skip the flatteries and just go to a brothel after drinking a few beers instead of not paying much attention to what you’re stuffing or being stuffed by. If you want to use your balls on something else instead, buy some nari gels, nari stones, or better lodging!",
   "t": "إن جمعت خمسين بيرل، يمكنك مقايضتها بأميثيست واحدة. قد يكون ثمن بعض الكتب أميثيست واحدة فقط إن عملت مطابع فورواي المتهالكة جيدًا، لكن معظم الناس يستخدمون الأميثيست لشراء الأدوات المنزلية مثل مصابيح فوست أو الحيوانات الحية مثل وينغا مروّضة، أو لدفع الإيجار. يمكن العثور على بعض الملابس ببضع أميثيست، لكن لا تتوقع أن تجذب لك النساء (أو الرجال). يمكنك أن تتخطى التملق وتذهب مباشرة إلى بيت دعارة بعد بضع كؤوس جعة، دون أن تكترث كثيرًا لما تُدخله أو ما يُدخَل فيك. وإن أردت إنفاق كراتك على شيء آخر، فاشترِ بعض هلام ناري أو أحجار ناري أو مسكنًا أفضل!"
  },
+ "9e1b38d9dd9c": {
+  "en": "<strong>What it buys:</strong> 1 nari stone; common household items like a table or fost lamps; fancier food and drinks; average armor and weapons; a better travel experience; maps (more complex ones cost an Aquamarine); average lodging, often with breakfast; new cheap clothing, or somewhat more refined clothing; most nari gels at higher effect tiers; Tier IV to VI Soul Energy; sigil rings; a Winga companion.",
+  "t": "<strong>ما تشتريه:</strong> حجر ناري واحد؛ أغراض منزلية شائعة كطاولة أو مصابيح فوست؛ طعام ومشروبات أفخم؛ دروع وأسلحة متوسطة؛ تجربة سفر أفضل؛ خرائط (المعقدة منها تكلف أكوامارين)؛ إقامة متوسطة، غالبًا مع فطور؛ ملابس جديدة رخيصة، أو ملابس أرقى قليلًا؛ معظم هلام ناري بمستويات تأثير أعلى؛ طاقة روح من المستوى IV إلى VI؛ خواتم السيجيل؛ رفيق وينغا."
+ },
  "9e4f472331f2": {
   "en": "088 (images illustration)",
   "t": "088 (رسوم)"
  },
+ "a155061e792a": {
+  "en": "Forway, Triangle, Deltacross, Freeish, Blood, Sweetlake, Sundeath",
+  "t": "فورواي، ترايانغل، دلتاكروس، فريئيش، بلاد، سويت ليك، صنديث"
+ },
+ "a97fc84fe87e": {
+  "en": "Domar Carbey, Wood People and Wingas",
+  "t": "دومار كاربي، والوود بيبول، والوينغا"
+ },
  "af2c8b7ef70a": {
   "en": "Pearl ball: a pale cream coin-like disc with golden swirling arms.",
   "t": "كرة بيرل: قرص بلون الكريم الفاتح يشبه العملة بأذرع ذهبية ملتفة."
+ },
+ "afa77f1b0017": {
+  "en": "Forway, Tolerideme, Waterfall, Tastyleaf, Wingarest",
+  "t": "فورواي، توليريديمي، ووترفول، تيستي ليف، وينغاريست"
+ },
+ "b0e7db565d4b": {
+  "en": "Pearls",
+  "t": "بيرل"
+ },
+ "b59f457aba63": {
+  "en": "Sanbi, fish-related products, etc.",
+  "t": "السانبي، ومنتجات السمك، وغيرها"
+ },
+ "bca7fc3d041e": {
+  "en": "Tier III",
+  "t": "المستوى III"
  },
  "c0d962e3dfae": {
   "en": "You somehow got ten Aquamarines? Damm. You could trade that in for shiny Saphire. This is the scale of balls where you can obtain specialized education for you or your children. Depending on their worth, you can have someone bend to your will with life-long contracts in the tens if not hundreds of sapphires. Or you can buy properties and even guilds! The world is yours! But depending on where you go, you will need to hire adventurers to serve you as bodyguards, as some miscreants will love to have a chat with you. Or wear fake skin, and none would be the wiser.",
@@ -87,16 +315,84 @@
   "en": "And if you somehow saved ten amethysts, then you can trade for a single aquamarine. You fancy! Don’t walk around showing it off, or some miscreant might request a “compulsory loan to keep you alive! You could buy a small egua for that price! Or even a tamed Big Winga! Or you can invest in yourself by enrolling at a local fundamental education school to open the door to new opportunities. If that’s not your thing, then you could do all the things amethysts can, but fancier. Fancier clothing, fancier hoes, and fancier beer too. Some people’s life savings amounts to one or a couple of aquamarines, so",
   "t": "وإن ادخرت بطريقة ما عشر أميثيست، يمكنك مقايضتها بأكوامارين واحدة. يا لك من مترف! لا تتجول متباهيًا بها، وإلا فقد يطلب منك أحد الأوغاد «قرضًا إجباريًا لإبقائك على قيد الحياة»! يمكنك شراء إيغوا صغيرة بهذا السعر! أو حتى بيغ وينغا مروّضة! أو يمكنك أن تستثمر في نفسك بالتسجيل في مدرسة تعليم أساسي محلية لتفتح الباب أمام فرص جديدة. وإن لم يكن ذلك يناسبك، فيمكنك أن تفعل كل ما تفعله الأميثيست، لكن بفخامة أكبر. ملابس أفخم، وعاهرات أفخم، وجعة أفخم أيضًا. فمدخرات بعض الناس طوال حياتهم لا تتجاوز أكوامارين واحدة أو اثنتين، لذا"
  },
+ "c73383dce58f": {
+  "en": "Pearls per week",
+  "t": "بيرل في الأسبوع"
+ },
+ "c8813ecb9014": {
+  "en": "The price covers more than the egua's work. On rough routes, cargo goes on a pack egua's back: up to about 150 kg, at about 30 km a day (about 65 km a day when ridden). Where the roads allow carts, one egua pulls far more (about 900 kg on a dirt road, about 1,800 kg on a good road; see <a href=\"/lore/fauna/#egua--load-and-strain\">Load and strain</a> on the Egua), so hauling gets cheaper. Shipping prices stay the same anyway, because they also pay for protection, insurance and the shipper's profit.",
+  "t": "السعر يغطي أكثر من عمل الإيغوا. في الطرق الوعرة، تُحمل البضائع على ظهر إيغوا حمولة: حتى نحو 150 كغ، بنحو 30 كم في اليوم (نحو 65 كم في اليوم حين تُركب). وحيث تسمح الطرق بالعربات، تجر إيغوا واحدة أكثر بكثير (نحو 900 كغ على طريق ترابي، ونحو ⁦1,800⁩ كغ على طريق جيد؛ انظر <a href=\"/lore/fauna/#egua--load-and-strain\">الحمل والإجهاد</a> في مدخل الإيغوا)، فيصبح النقل أرخص. ومع ذلك تبقى أسعار الشحن كما هي، لأنها تدفع أيضًا ثمن الحماية والتأمين وربح الشاحن."
+ },
  "cfd2d2068e7f": {
   "en": "Economy &amp; Units · #HusbandOutWorld",
   "t": "الاقتصاد والوحدات · #HusbandOutWorld"
+ },
+ "db19b0df6fcb": {
+  "en": "Forway is part of all four regions, and so is any village within a region's shared boundaries. A few cities sit in two.",
+  "t": "فورواي جزء من المناطق الأربع كلها، وكذلك أي قرية داخل الحدود المشتركة لمنطقة. وبضع مدن تقع في اثنتين."
+ },
+ "dc7ecc031030": {
+  "en": "<strong>Moving goods.</strong> Shipping costs about 1 Pearl per kg for every 120 km for Tier I (cheap) goods, 84 km for Tier II (common), 58.8 km for Tier III (expensive) and 29.4 km for Tier IV (nobility).",
+  "t": "<strong>نقل البضائع.</strong> يكلف الشحن نحو 1 بيرل لكل كغ لكل 120 كم لسلع المستوى I (الرخيصة)، و84 كم للمستوى II (الشائعة)، و58.8 كم للمستوى III (الغالية)، و29.4 كم للمستوى IV (سلع النبلاء)."
+ },
+ "dedff028b5cd": {
+  "en": "<strong>Where it comes from:</strong> fishermen from Sanbi gathered them at first, but once the Cruros showed up, it became their task, since it was close to free labor.",
+  "t": "<strong>المصدر:</strong> جمعها صيادو سانبي في البداية، لكن حين ظهر الكرورو صارت مهمتهم، لأنها كانت أقرب إلى عمالة شبه مجانية."
  },
  "e159c87db02d": {
   "en": "Balls are the standardized currency as determined by the Prosperity Treaty.",
   "t": "الكرات هي العملة الموحدة التي حددتها «معاهدة الازدهار»."
  },
+ "e22cccd20b15": {
+  "en": "Apprentice",
+  "t": "المتدرّب"
+ },
+ "e4bd9e6e33ad": {
+  "en": "To get a feel for the value, the author's spreadsheet counts 1 Pearl as about 1 US dollar.",
+  "t": "للإحساس بالقيمة، يحسب جدول المؤلف 1 بيرل بنحو 1 دولار أمريكي."
+ },
+ "e531fa700ac9": {
+  "en": "Freeish and Tolerideme regions",
+  "t": "منطقتي فريئيش وتوليريديمي"
+ },
+ "e68b25011dad": {
+  "en": "The average weekly pay assumes pay for every work day: 4 a week, with Forrday off. Some professions don't accrue pay on days off.",
+  "t": "يفترض متوسط الأجر الأسبوعي أجرًا عن كل يوم عمل: 4 في الأسبوع، مع عطلة يوم فورداي. بعض المهن لا تحتسب أجرًا عن أيام العطلة."
+ },
+ "e752de704b66": {
+  "en": "Mainly exports",
+  "t": "صادراتها الرئيسية"
+ },
  "eb60618ad04c": {
   "en": "Sigil Rings",
   "t": "خواتم السيجيل"
+ },
+ "ec5ccdb787af": {
+  "en": "A ton of flora and fauna",
+  "t": "كمّ هائل من النباتات والحيوانات"
+ },
+ "ee4f72170e2b": {
+  "en": "<strong>What it buys:</strong> a fully grown tamed egua, properties, slavery contracts, guilds, specialized education, Tier IX+ Soul Energy.",
+  "t": "<strong>ما تشتريه:</strong> إيغوا مروّضة بالغة تمامًا، والعقارات، وعقود العبودية، والنقابات، والتعليم المتخصص، وطاقة روح المستوى IX فما فوق."
+ },
+ "f0d211264deb": {
+  "en": "Apprentice, per hour",
+  "t": "المتدرّب، في الساعة"
+ },
+ "f118bc6e6f02": {
+  "en": "Freeish and Sanbi regions",
+  "t": "منطقتي فريئيش وسانبي"
+ },
+ "f2ddf5a1dc47": {
+  "en": "Pay in Pearls, by Profession Tier:",
+  "t": "الأجر بالبيرل، حسب مستوى المهنة:"
+ },
+ "fb18d7612151": {
+  "en": "Apprentice, per day",
+  "t": "المتدرّب، في اليوم"
+ },
+ "fb2d8283aad6": {
+  "en": "A region has a comparative advantage when its members can carry out a particular economic activity more efficiently than another region's. The Distance Cost Tier (D.C.T, the cost of moving goods) must be accounted for before claiming one either way.",
+  "t": "تملك منطقة ميزة نسبية حين يستطيع أهلها القيام بنشاط اقتصادي معين بكفاءة أعلى من أهل منطقة أخرى. يجب احتساب مستوى تكلفة المسافة (D.C.T، تكلفة نقل البضائع) قبل ادعاء ميزة في أي اتجاه."
  }
 }

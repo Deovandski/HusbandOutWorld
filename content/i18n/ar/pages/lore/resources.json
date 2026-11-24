@@ -1,11 +1,211 @@
 {
+ "02b88522b961": {
+  "en": "Bagarisa Fur Toothbrush",
+  "t": "فرشاة أسنان من فراء الباغاريسا"
+ },
+ "08b561d3f1c8": {
+  "en": "~20 Pearls for a simple one",
+  "t": "~20 بيرل للبسيط منه"
+ },
+ "0cacdf04aae4": {
+  "en": "<strong>Tier I (Cheap Goods):</strong> natural resources; paper and vellum.",
+  "t": "<strong>المستوى I (سلع رخيصة):</strong> الموارد الطبيعية؛ الورق والرَّق."
+ },
+ "0f3899a6f453": {
+  "en": "Fost Stone",
+  "t": "حجر فوست"
+ },
+ "14f8d549c5d9": {
+  "en": "~5 Pearls",
+  "t": "~5 بيرل"
+ },
+ "17770172fb8f": {
+  "en": "~2 Pearls",
+  "t": "~2 بيرل"
+ },
+ "1918925582d5": {
+  "en": "Wood People sap",
+  "t": "نسغ الوود بيبول"
+ },
+ "1a2ed0c8f120": {
+  "en": "<strong>Where there's none:</strong> people burn animal-fat torches, though not usually inside homes. Gandew and Sundeath use more torches than anywhere else, because they're far from where fost stones are mined.",
+  "t": "<strong>حيث لا يوجد:</strong> يشعل الناس مشاعل من دهن الحيوانات، لكن ليس عادةً داخل البيوت. تستخدم غانديو وصنديث المشاعل أكثر من أي مكان آخر، لأنهما بعيدتان عن أماكن استخراج حجر فوست."
+ },
+ "1adb8bc81b63": {
+  "en": "A custom-made weapon of chitin and finely crafted Bone Wood, with Winga beaks and claws for close-quarters combat (CQC). It works as a bow, but also as a melee weapon if needed.",
+  "t": "سلاح مصنوع حسب الطلب من الكيتين وخشب العظم المتقن الصنع، بمناقير الوينغا ومخالبها للقتال القريب (CQC). يعمل كقوس، لكن أيضًا كسلاح التحام عند الحاجة."
+ },
+ "1e5106d75f3c": {
+  "en": "Wood ~10 Pearls; Bone Wood ~20 Pearls; chitin ~40 Pearls; iron ~85 Pearls; steel ~2 Amethysts; gold ~4 Aquamarines",
+  "t": "خشب ~10 بيرل؛ خشب العظم ~20 بيرل؛ كيتين ~40 بيرل؛ حديد ~85 بيرل؛ فولاذ ~2 أميثيست؛ ذهب ~4 أكوامارين"
+ },
+ "1e7081d736f4": {
+  "en": "Trees",
+  "t": "الأشجار"
+ },
+ "1f9c51d4d790": {
+  "en": "<strong>Simple Journal</strong> (6×9, 50 pages)",
+  "t": "<strong>دفتر بسيط</strong> (6×9، 50 صفحة)"
+ },
+ "23f033a801a0": {
+  "en": "Natural Resources",
+  "t": "الموارد الطبيعية"
+ },
+ "24e56b632ea6": {
+  "en": "~15 Pearls",
+  "t": "~15 بيرل"
+ },
+ "2504ce24727b": {
+  "en": "A Tier I worker (master level) saving half their pay needs, on average, about 450 working days for a full iron set, 660 for steel, 310 for Bone Wood, 260 for chitin and about 150 for Tibou or leather. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Equipment Price Calculator).",
+  "t": "يحتاج عامل من المستوى I (بمستوى معلّم) يدخر نصف أجره، في المتوسط، إلى نحو 450 يوم عمل لطقم حديد كامل، و660 للفولاذ، و310 لخشب العظم، و260 للكيتين، ونحو 150 للتيبو أو الجلد. انظر <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">جدول الاقتصاد</a> (Equipment Price Calculator)."
+ },
+ "2ac93d2e4e96": {
+  "en": "Toothpaste",
+  "t": "معجون الأسنان"
+ },
+ "3033ea8c6184": {
+  "en": "<strong>Tier III (Expensive Goods):</strong> rare mineral resources (gold, titanium); higher-quality armor and weapons.",
+  "t": "<strong>المستوى III (سلع غالية):</strong> الموارد المعدنية النادرة (الذهب، التيتانيوم)؛ الدروع والأسلحة الأعلى جودة."
+ },
+ "31e653361e0e": {
+  "en": "Made of Soul Wood or Black Wood.",
+  "t": "مصنوع من خشب الروح أو الخشب الأسود."
+ },
+ "32dc4384ef54": {
+  "en": "Soul Energy Related",
+  "t": "ما يخص طاقة الروح"
+ },
+ "32e3377c4e63": {
+  "en": "~9 Pearls",
+  "t": "~9 بيرل"
+ },
+ "33a29dab963f": {
+  "en": "<strong>Ice Preserver</strong> (a fridge-freezer): made of wood and clay (~1 Amethyst), or iron, wood and clay (~1 Aquamarine).",
+  "t": "<strong>حافظة الثلج</strong> (ثلاجة-مجمّدة): مصنوعة من الخشب والطين (~1 أميثيست)، أو من الحديد والخشب والطين (~1 أكوامارين)."
+ },
+ "37619fc13053": {
+  "en": "White",
+  "t": "أبيض"
+ },
+ "3862ac04f34f": {
+  "en": "<strong>Sword:</strong> iron ~683–767; steel ~1,008–1,092; Bone Wood ~285–596; chitin ~185–521.",
+  "t": "<strong>سيف:</strong> حديد ~683–767؛ فولاذ ~1,008–1,092؛ خشب العظم ~285–596؛ كيتين ~185–521."
+ },
+ "3889502093b8": {
+  "en": "~1 Pearl",
+  "t": "~1 بيرل"
+ },
+ "394d220c45d2": {
+  "en": "Cost a bottle",
+  "t": "التكلفة للزجاجة"
+ },
+ "39a8bd07a18b": {
+  "en": "Iron and steel cost the same everywhere except Tolerideme, where they're a little pricier. Bone Wood is cheapest in Freeish and Chitin in Gandew. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Weapon &amp; Household Price Calculator).",
+  "t": "الحديد والفولاذ بالسعر نفسه في كل مكان عدا توليريديمي، حيث هما أغلى قليلًا. خشب العظم أرخص ما يكون في فريئيش والكيتين في غانديو. انظر <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">جدول الاقتصاد</a> (Weapon &amp; Household Price Calculator)."
+ },
+ "3c9be150028c": {
+  "en": "Bathroom Related",
+  "t": "ما يخص الحمّام"
+ },
  "3e86255de7aa": {
   "en": "Natural & Crafted Resources · #HusbandOutWorld",
   "t": "الموارد الطبيعية والمصنوعة · #HusbandOutWorld"
  },
+ "4424d0dd18ef": {
+  "en": "Charcoal, sometimes wrapped in wood to look fancy (see <a href=\"/lore/characters/#kiko-sanbi-half-cruro\">Kiko</a>).",
+  "t": "فحم، ملفوف أحيانًا بالخشب ليبدو أنيقًا (انظر <a href=\"/lore/characters/#kiko-sanbi-half-cruro\">كيكو</a>)."
+ },
+ "4616570b68e6": {
+  "en": "Walking Heart",
+  "t": "القلب السائر"
+ },
+ "4765bbc0170f": {
+  "en": "<strong>Used for:</strong> construction and furniture; decorating armor and weapons.",
+  "t": "<strong>الاستخدامات:</strong> البناء والأثاث؛ تزيين الدروع والأسلحة."
+ },
+ "48481822223b": {
+  "en": "<strong>Paper</strong> (a bundle of ~10 loose pages)",
+  "t": "<strong>الورق</strong> (رزمة من ~10 صفحات منفصلة)"
+ },
+ "49e8ea38afbd": {
+  "en": "<strong>Used for:</strong> weapons; tools.",
+  "t": "<strong>الاستخدامات:</strong> الأسلحة؛ الأدوات."
+ },
+ "4d76a703efd4": {
+  "en": "Writing Stick",
+  "t": "عصا الكتابة"
+ },
+ "4ef827bf0b4e": {
+  "en": "Paper, leather and glue",
+  "t": "ورق، وجلد، وغراء"
+ },
+ "4fe8d925db58": {
+  "en": "A special chitin armor designed after the <a href=\"/lore/beasts/#sweet-sting\">Sweet Sting</a>, used for CQC and impaling. <a href=\"/lore/characters/#morika-tolerideme\">Morika</a> once wore a Sweet Sting costume to gather Black Honey and liked how empowering it felt, so he saved for about a year and a half to have it made. It makes up for his slow reflexes and hides his face. He becomes another persona in it, <a href=\"/lore/characters/#the-stinger\">The Stinger</a>, and kills with the spike of his Stinger helmet.",
+  "t": "درع كيتين خاص مصمم على هيئة <a href=\"/lore/beasts/#sweet-sting\">سويت ستينغ</a>، يُستخدم للقتال القريب والخوزقة. ارتدى <a href=\"/lore/characters/#morika-tolerideme\">موريكا</a> مرة زيّ سويت ستينغ لجمع العسل الأسود وأعجبه الشعور بالقوة الذي منحه إياه، فادّخر نحو سنة ونصف ليُصنع له. يعوّض بطء ردود فعله ويخفي وجهه. يصبح فيه شخصية أخرى، <a href=\"/lore/characters/#the-stinger\">ستينغر</a>، ويقتل بشوكة خوذة ستينغر."
+ },
+ "51c64938ac53": {
+  "en": "The Tibou plant, with animal fat and other ingredients.",
+  "t": "نبات التيبو، مع دهن الحيوانات ومكونات أخرى."
+ },
+ "52996fa554f2": {
+  "en": "Household",
+  "t": "الأدوات المنزلية"
+ },
+ "54076359fdc7": {
+  "en": "Pink",
+  "t": "وردي"
+ },
+ "54132c44f968": {
+  "en": "Tibou Soap",
+  "t": "صابون التيبو"
+ },
+ "5757b2155f92": {
+  "en": "What the materials alone cost, shipping included, in Pearls. The range runs from the cheapest region to the most expensive; crafting costs come on top.",
+  "t": "ما تكلفه المواد وحدها، مع الشحن، بالبيرل. يمتد النطاق من أرخص منطقة إلى أغلاها؛ وتكاليف الصنع إضافية."
+ },
+ "57ae620e41ee": {
+  "en": "Seal Stamp",
+  "t": "ختم"
+ },
  "59cb822763ff": {
   "en": "15 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "هناك 15 مدخلًا آخر في هذه الصفحة متاحة فقط في <button class=\"linklike\" data-go-bts>خلف الكواليس</button>."
+ },
+ "5ca532404946": {
+  "en": "<strong>Wine/Mead Mug:</strong> gotta be fancy. Wood ~13 Pearls; Bone Wood ~16 Pearls; chitin ~23 Pearls; iron ~29 Pearls; steel ~2 Amethysts; gold ~3 Aquamarines.",
+  "t": "<strong>كوب النبيذ/الميد:</strong> لا بد من الأناقة. خشب ~13 بيرل؛ خشب العظم ~16 بيرل؛ كيتين ~23 بيرل؛ حديد ~29 بيرل؛ فولاذ ~2 أميثيست؛ ذهب ~3 أكوامارين."
+ },
+ "5d70259efbb0": {
+  "en": "Inks/Dyes",
+  "t": "الأحبار/الأصباغ"
+ },
+ "5e49b52715ce": {
+  "en": "A stone found in the sediment of the Buhraies lake, on the Buhraies Plains, and all the way from Waterfall City to the Sanbi Kingdom. Closer to the ocean, the riverbed lights up where the rocks get too close to salt water. Fauna, and beasts especially, seem to avoid places where it lies underwater.",
+  "t": "حجر يوجد في رواسب بحيرة البورايس، في سهول البورايس، وعلى طول الطريق من ووترفول إلى مملكة سانبي. وأقرب إلى المحيط، يضيء قاع النهر حيث تقترب الصخور كثيرًا من الماء المالح. يبدو أن الحيوانات، والوحوش خاصة، تتجنب الأماكن التي يقع فيها تحت الماء."
+ },
+ "5f5a2affd95f": {
+  "en": "A plain piece of charcoal ~0–2 Pearls; a charcoal stick ~7 Pearls; a refined charcoal stick ~30 Pearls",
+  "t": "قطعة فحم عادية ~0–2 بيرل؛ عصا فحم ~7 بيرل؛ عصا فحم مكرّرة ~30 بيرل"
+ },
+ "635af13363af": {
+  "en": "<strong>Bread Plate/Bowl:</strong> made of bread (~0–2 Pearls). It soaks up the juices of your food, and is given to the poor afterward.",
+  "t": "<strong>طبق/وعاء الخبز:</strong> مصنوع من الخبز (~0–2 بيرل). يمتص عصارات طعامك، ويُعطى للفقراء بعد ذلك."
+ },
+ "64ae43e8fe76": {
+  "en": "Cost",
+  "t": "التكلفة"
+ },
+ "69f060ea9f2e": {
+  "en": "Usually iron or another metal that can withstand the water pressure. Pull it, and water flows from the pipe.",
+  "t": "عادةً من الحديد أو معدن آخر يتحمل ضغط الماء. اسحبه، فيتدفق الماء من الأنبوب."
+ },
+ "6acdd3ea77dc": {
+  "en": "<strong>Tier IV (Nobility Goods):</strong> custom armor and weapons; household items, or any item of extremely high craft or quality.",
+  "t": "<strong>المستوى IV (سلع النبلاء):</strong> الدروع والأسلحة المصنوعة حسب الطلب؛ الأدوات المنزلية، أو أي غرض بالغ الإتقان أو الجودة."
+ },
+ "6b0c0b7d6913": {
+  "en": "Leather",
+  "t": "الجلد"
  },
  "6e97b1eafd0e": {
   "en": "The materials and goods of Vraki, from natural resources like Fost Stone (a stone that lights up in salt water and keeps beasts away) and Bone Wood, to…",
@@ -15,20 +215,284 @@
   "en": "Winga",
   "t": "وينغا"
  },
+ "7414e4da6d8b": {
+  "en": "Natural and Crafted Resources (World Lore illustration)",
+  "t": "الموارد الطبيعية والمصنوعة (رسم توضيحي من عالم القصة)"
+ },
  "756046544fb1": {
   "en": "Summary written by AI from the author's notes (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Natural and Crafted Resources.md</a>). <a href=\"/about/ai-disclosure/\">AI disclosure</a>",
   "t": "ملخص كتبه الذكاء الاصطناعي من ملاحظات المؤلف (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Natural and Crafted Resources.md</a>). <a href=\"/about/ai-disclosure/\">الإفصاح عن استخدام الذكاء الاصطناعي</a>"
+ },
+ "76478bf1274b": {
+  "en": "<strong>No switch:</strong> there's no \"turning off the lights\". To put one out, you pour out the water to stop the reaction.",
+  "t": "<strong>لا مفتاح:</strong> لا يوجد «إطفاء للأنوار». لإطفائه، تسكب الماء لإيقاف التفاعل."
  },
  "77299e0e6193": {
   "en": "Natural &amp; Crafted Resources",
   "t": "الموارد الطبيعية والمصنوعة"
  },
+ "7a1649119e6a": {
+  "en": "<strong>Picker:</strong> a two-pronged fork on one end and a spoon on the other. Each person commonly has their own and takes it with them; some decorate theirs or have their name carved on it to make it unique. Wood ~5 Pearls; Bone Wood ~10 Pearls; chitin ~17 Pearls; iron ~25 Pearls; steel ~1 Amethyst; gold ~1 Aquamarine.",
+  "t": "<strong>بيكر:</strong> شوكة بسنّين في طرف وملعقة في الآخر. لكل شخص عادةً واحد خاص به يأخذه معه؛ وبعضهم يزيّن خاصّته أو ينقش اسمه عليه ليجعله فريدًا. خشب ~5 بيرل؛ خشب العظم ~10 بيرل؛ كيتين ~17 بيرل؛ حديد ~25 بيرل؛ فولاذ ~1 أميثيست؛ ذهب ~1 أكوامارين."
+ },
+ "7d141a438f76": {
+  "en": "<strong>Used for:</strong> construction and furniture; armor; weapons.",
+  "t": "<strong>الاستخدامات:</strong> البناء والأثاث؛ الدروع؛ الأسلحة."
+ },
+ "7d44bc449c2a": {
+  "en": "Blue",
+  "t": "أزرق"
+ },
+ "7d6a8b1e4781": {
+  "en": "<strong>No candles:</strong> there are no candles in Vraki. Wax exists, but it's for sealing letters (like the Winga mail Forway provides).",
+  "t": "<strong>لا شموع:</strong> لا توجد شموع في فراكي. الشمع موجود، لكنه لختم الرسائل (كبريد الوينغا الذي تقدمه فورواي)."
+ },
+ "7d8dcf0d9ced": {
+  "en": "<strong>Longsword:</strong> iron ~1,464–1,644; steel ~2,160–2,340; Bone Wood ~611–1,277; chitin ~396–1,116.",
+  "t": "<strong>سيف طويل:</strong> حديد ~1,464–1,644؛ فولاذ ~2,160–2,340؛ خشب العظم ~611–1,277؛ كيتين ~396–1,116."
+ },
+ "80ae57ffe1d6": {
+  "en": "~11 Pearls",
+  "t": "~11 بيرل"
+ },
  "81e16785271f": {
   "en": "The materials and goods of Vraki, from natural resources like Fost Stone (a stone that lights up in salt water and keeps beasts away) and Bone Wood, to weapons, armor and household items. Goods are sorted into four cost tiers by how expensive they are to move, from cheap goods like paper up to custom nobility pieces.",
   "t": "مواد فراكي وسلعها، من الموارد الطبيعية مثل حجر فوست (حجر يضيء في الماء المالح ويبعد الوحوش) وخشب العظم، إلى الأسلحة والدروع والأدوات المنزلية. وتُصنف السلع في أربعة مستويات تكلفة حسب كلفة نقلها، من السلع الرخيصة كالورق حتى قطع النبلاء المصنوعة حسب الطلب."
  },
+ "81ebd1383e1b": {
+  "en": "<a class=\"img-link\" href=\"/media/57be02b5784726.webp\" data-full=\"/media/57be02b5784726.webp\"><img src=\"/media/57be02b5784726.webp\" alt=\"Natural and Crafted Resources (World Lore illustration)\" loading=\"lazy\"></a> (slightly grainier) <a class=\"img-link\" href=\"/media/e19e5abc32069d.webp\" data-full=\"/media/e19e5abc32069d.webp\"><img src=\"/media/e19e5abc32069d.webp\" alt=\"Natural and Crafted Resources (World Lore illustration)\" loading=\"lazy\"></a>",
+  "t": "<a class=\"img-link\" href=\"/media/57be02b5784726.webp\" data-full=\"/media/57be02b5784726.webp\"><img src=\"/media/57be02b5784726.webp\" alt=\"Natural and Crafted Resources (World Lore illustration)\" loading=\"lazy\"></a> (محبّبة أكثر قليلًا) <a class=\"img-link\" href=\"/media/e19e5abc32069d.webp\" data-full=\"/media/e19e5abc32069d.webp\"><img src=\"/media/e19e5abc32069d.webp\" alt=\"Natural and Crafted Resources (World Lore illustration)\" loading=\"lazy\"></a>"
+ },
+ "835c092f5294": {
+  "en": "Fost Lamp",
+  "t": "مصباح فوست"
+ },
+ "8564fe3b4b67": {
+  "en": "Iron",
+  "t": "الحديد"
+ },
+ "8613e2c6eb2d": {
+  "en": "<strong>Tier II (Common Goods):</strong> expensive mineral resources (Nari stones, sapphires, aquamarines, amethysts); Black Honey; sigil rings; lower-quality armor and weapons; inks and dyes.",
+  "t": "<strong>المستوى II (سلع شائعة):</strong> الموارد المعدنية الغالية (أحجار ناري، السافاير، الأكوامارين، الأميثيست)؛ العسل الأسود؛ خواتم السيجيل؛ الدروع والأسلحة الأقل جودة؛ الأحبار والأصباغ."
+ },
+ "86c7738b66fa": {
+  "en": "Wood, Bone Wood, chitin, iron, steel or gold",
+  "t": "خشب، أو خشب العظم، أو كيتين، أو حديد، أو فولاذ، أو ذهب"
+ },
+ "8a2f4b2b3d66": {
+  "en": "Chitin",
+  "t": "الكيتين"
+ },
+ "8e5c5f44a3db": {
+  "en": "Corals (Cruroland)",
+  "t": "المرجان (كرورولاند)"
+ },
+ "8fe87962b633": {
+  "en": "Sweet Sting wax and ink dye",
+  "t": "شمع السويت ستينغ وصبغة الحبر"
+ },
+ "91157d355643": {
+  "en": "Wood People wood is very durable, with a dark red color, and gives off a strong, woody musk when soaked (see <a href=\"/lore/beasts/#wood-people\">Wood People</a>).",
+  "t": "خشب الوود بيبول متين جدًا، بلون أحمر داكن، ويطلق مسكًا خشبيًا قويًا حين يُنقع (انظر <a href=\"/lore/beasts/#wood-people\">وود بيبول</a>)."
+ },
+ "92bf1c1e2196": {
+  "en": "<strong>Beer Mug:</strong> getting drunk requires the proper tools. Wood ~15 Pearls; Bone Wood ~20 Pearls; chitin ~28 Pearls; iron ~35 Pearls; steel ~3 Amethysts; gold ~5 Aquamarines.",
+  "t": "<strong>كوب الجعة:</strong> السُّكر يتطلب الأدوات المناسبة. خشب ~15 بيرل؛ خشب العظم ~20 بيرل؛ كيتين ~28 بيرل؛ حديد ~35 بيرل؛ فولاذ ~3 أميثيست؛ ذهب ~5 أكوامارين."
+ },
+ "92fe15c90db7": {
+  "en": "The wood of the Soul Tree, a lone tree with metallic, shiny bark that grows around Blood City and Freeish (see <a href=\"/lore/flora/#soul-tree\">Soul Tree</a>). It's often used with nari stones, sigils and containers that hold Soul Energy, to keep the Soul Energy from leaking, and most badges are made of it (hence their greenish color). Its seeds give caffeine, and ground, they're basically the world's coffee.",
+  "t": "خشب شجرة سول تري، شجرة منفردة ذات لحاء معدني لامع تنمو حول بلاد سيتي وفريئيش (انظر <a href=\"/lore/flora/#soul-tree\">سول تري</a>). كثيرًا ما يُستخدم مع أحجار ناري والسيجيل والأوعية التي تحفظ طاقة الروح، لمنع تسربها، ومعظم البطاقات مصنوعة منه (ومن هنا لونها المائل إلى الخضرة). بذوره تعطي الكافيين، ومطحونة، هي في الأساس قهوة العالم."
+ },
+ "937d89baf2b3": {
+  "en": "Plants mixed with salt and alcohol; some mix in wine, etc. A green syrup of mint, green tea and citrus that can numb your tongue if you use too much.",
+  "t": "نباتات ممزوجة بالملح والكحول؛ وبعضهم يمزج فيها النبيذ، وغير ذلك. شراب أخضر من النعناع والشاي الأخضر والحمضيات قد يخدّر لسانك إن أفرطت في استخدامه."
+ },
+ "9500b232835e": {
+  "en": "A full set of armor (helmet, chest, arms and legs), materials alone, shipping included, in Pearls, from the cheapest region to the most expensive:",
+  "t": "طقم دروع كامل (خوذة، وصدر، وذراعان، وساقان)، المواد وحدها، مع الشحن، بالبيرل، من أرخص منطقة إلى أغلاها:"
+ },
+ "970e3bbf2f8b": {
+  "en": "<strong>Dagger:</strong> iron ~293–329; steel ~432–468; Bone Wood ~122–255; chitin ~79–223.",
+  "t": "<strong>خنجر:</strong> حديد ~293–329؛ فولاذ ~432–468؛ خشب العظم ~122–255؛ كيتين ~79–223."
+ },
+ "9a63061471e2": {
+  "en": "Black Wood",
+  "t": "الخشب الأسود"
+ },
  "9b445d328e30": {
   "en": "Natural &amp; Crafted Resources · #HusbandOutWorld",
   "t": "الموارد الطبيعية والمصنوعة · #HusbandOutWorld"
+ },
+ "9d680d4bfc10": {
+  "en": "Wood People Paper",
+  "t": "ورق الوود بيبول"
+ },
+ "9e988d0ed278": {
+  "en": "When <a href=\"/lore/characters/#fernan-blood-blue-flower-red-bone\">Fernan</a> disappeared, so did his bow: his daughter <a href=\"/lore/characters/#magi-blood-blue-flower-red-bone\">Magi</a> wants to find him, or at least his bow. Wilson Big-Gyut once tried to steal it and got punched for it, so he recreated it as closely as he could from memory.",
+  "t": "حين اختفى <a href=\"/lore/characters/#fernan-blood-blue-flower-red-bone\">فيرنان</a>، اختفى قوسه معه: ابنته <a href=\"/lore/characters/#magi-blood-blue-flower-red-bone\">ماغي</a> تريد أن تجده، أو قوسه على الأقل. حاول ويلسون بيغ غيوت سرقته مرة فتلقى لكمة، فأعاد صنعه بأقرب ما استطاع من ذاكرته."
+ },
+ "9ea7f4f324fb": {
+  "en": "Wood &amp; Wood People Wood",
+  "t": "الخشب وخشب الوود بيبول"
+ },
+ "9f85bed5d7aa": {
+  "en": "Keeps monsters at bay.",
+  "t": "يُبقي الوحوش بعيدًا."
+ },
+ "a6c4186ee9cf": {
+  "en": "~20–40 Pearls a bottle",
+  "t": "~20–40 بيرل للزجاجة"
+ },
+ "a709ff5b2aa3": {
+  "en": "~35 Pearls",
+  "t": "~35 بيرل"
+ },
+ "a7e223624109": {
+  "en": "Bone Wood",
+  "t": "خشب العظم"
+ },
+ "aae8079e464c": {
+  "en": "The wood of the Black Sapphire Tree, a rare lone tree found between Flatland and Forway that looks dead and soaks up Soul Energy from its surroundings (see <a href=\"/lore/flora/#black-sapphire-tree\">Black Sapphire Tree</a>). Dark and dense, it keeps Soul Energy from leaking like no other wood, even better than Soul Wood; it's used with nari stones, sigils and Soul Energy containers to keep the Soul Energy from leaking. A single small or medium tree can cost a whole sapphire. Black wood badges are given to city officials, kingdom representatives and embassy representatives.",
+  "t": "خشب شجرة بلاك سافاير تري، شجرة منفردة نادرة توجد بين فلاتلاند وفورواي، تبدو ميتة وتمتص طاقة الروح من محيطها (انظر <a href=\"/lore/flora/#black-sapphire-tree\">بلاك سافاير تري</a>). داكن وكثيف، يمنع تسرب طاقة الروح كما لا يفعل أي خشب آخر، بل أفضل من خشب الروح؛ يُستخدم مع أحجار ناري والسيجيل وأوعية طاقة الروح لمنع تسربها. قد تكلف شجرة صغيرة أو متوسطة واحدة سافاير كاملًا. تُمنح بطاقات الخشب الأسود لمسؤولي المدن وممثلي الممالك وممثلي السفارات."
+ },
+ "adbc3d28d91a": {
+  "en": "<strong>Why gems are Tier II:</strong> sapphires, aquamarines and amethysts are the currency, and from a shipping and handling perspective, currency is a common good. Security is what makes it special: only Forway moves large amounts of currency between cities and kingdoms, in heavily fortified wagons, and for the bandits salivating over those wagons, it's basically Tier IV.",
+  "t": "<strong>لماذا الأحجار الكريمة في المستوى II:</strong> السافاير والأكوامارين والأميثيست هي العملة، ومن منظور الشحن والمناولة، العملة سلعة شائعة. الأمن هو ما يجعلها مميزة: فورواي وحدها تنقل كميات كبيرة من العملة بين المدن والممالك، في عربات شديدة التحصين، وبالنسبة إلى اللصوص الذين يسيل لعابهم على تلك العربات، فهي في الأساس من المستوى IV."
+ },
+ "b163ade34cf8": {
+  "en": "Bagarisa fur and wood: a wooden toothbrush with stiff red bristles.",
+  "t": "فراء الباغاريسا والخشب: فرشاة أسنان خشبية بشعيرات حمراء قاسية."
+ },
+ "b1a3970a58ca": {
+  "en": "Fernan’s Bow",
+  "t": "قوس فيرنان"
+ },
+ "b1fc5d10fc8c": {
+  "en": "Armor",
+  "t": "الدروع"
+ },
+ "b2602a6c00ce": {
+  "en": "Made from",
+  "t": "مصنوع من"
+ },
+ "b406fb57b29f": {
+  "en": "Black",
+  "t": "أسود"
+ },
+ "b569f8e73d21": {
+  "en": "Winga beaks and claws, ground up with other beaks and claws. They all have to be strengthened by a Winga before they're removed, and the effect lasts for years before it starts to wear off (see <a href=\"/lore/fauna/#winga-pink-winga\">Winga</a>). Used to make tools that \"cut through anything\", since the dust makes them as hard as diamond: usually a coating is applied, then replaced every few years.",
+  "t": "مناقير الوينغا ومخالبها، مطحونة بمناقير ومخالب أخرى. يجب أن تقوّيها الوينغا كلها قبل نزعها، ويدوم التأثير سنوات قبل أن يبدأ بالزوال (انظر <a href=\"/lore/fauna/#winga-pink-winga\">وينغا</a>). يُستخدم لصنع أدوات «تقطع أي شيء»، لأن الغبار يجعلها صلبة كالألماس: عادةً يُطلى بها طلاء، ثم يُستبدل كل بضع سنوات."
+ },
+ "bbfdc67480be": {
+  "en": "<strong>Bow:</strong> iron ~586–658; steel ~864–936; Bone Wood ~244–511; chitin ~158–446.",
+  "t": "<strong>قوس:</strong> حديد ~586–658؛ فولاذ ~864–936؛ خشب العظم ~244–511؛ كيتين ~158–446."
+ },
+ "bd7eac52298a": {
+  "en": "Soul Wood ~22–102 Pearls; Black Wood ~62–158 Pearls (materials and shipping)",
+  "t": "خشب الروح ~22–102 بيرل؛ الخشب الأسود ~62–158 بيرل (المواد والشحن)"
+ },
+ "c2f03233d800": {
+  "en": "Lapis lazuli, mined just like amethyst",
+  "t": "اللازورد، يُستخرج تمامًا كالأميثيست"
+ },
+ "c4b60d49642e": {
+  "en": "Writing Related",
+  "t": "ما يخص الكتابة"
+ },
+ "ca06fcec99c8": {
+  "en": "Water System Pull-Gate Handle",
+  "t": "مقبض بوابة السحب في نظام المياه"
+ },
+ "ccbd5f06d3c9": {
+  "en": "~10 Pearls",
+  "t": "~10 بيرل"
+ },
+ "d0ae9aaba06a": {
+  "en": "Morika’s Armor",
+  "t": "درع موريكا"
+ },
+ "d4b2c60f333d": {
+  "en": "Black, fist-sized stones that form in the irradiated zones of Hifuna, with glowing colors inside that tell what powers they will likely grant. Whoever replaces their heart with one becomes undead, if they survive the binding. Forway has banned them. See <a href=\"/lore/walking-heart/\">Walking Heart Interface</a>.",
+  "t": "أحجار سوداء بحجم القبضة تتكوّن في المناطق المشعّة من هيفونا، بداخلها ألوان متوهجة تدل على القوى التي يُرجح أن تمنحها. من يستبدل قلبه بواحد منها يصبح من الموتى الأحياء، إن نجا من الربط. حظرتها فورواي. انظر <a href=\"/lore/walking-heart/\">واجهة القلب السائر</a>."
+ },
+ "d4e7d7d330f0": {
+  "en": "Flowers",
+  "t": "الأزهار"
+ },
+ "d51ab0c09f09": {
+  "en": "Soul Wood",
+  "t": "خشب الروح"
+ },
+ "d5a4bf79be82": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Legacy/Behind The Scenes/World Lore/Natural and Crafted Resources.md</a>",
+  "t": "المصدر: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Legacy/Behind The Scenes/World Lore/Natural and Crafted Resources.md</a>"
+ },
+ "d8169782b57c": {
+  "en": "Material",
+  "t": "المادة"
+ },
+ "db530238cd9e": {
+  "en": "A fist-sized fost stone in a glass and wood case with an opening on top. In contact with salt water, it glows brighter than a candle would (candles aren't a thing in Vraki, and neither are oil lamps). The stone lasts about a year when used mostly at night. A big, new fost lamp is unusually bright (like a dentist's office) and can cost as much as a handful of amethysts, a steep price for common folk.",
+  "t": "حجر فوست بحجم القبضة في علبة من الزجاج والخشب مفتوحة من الأعلى. عند ملامسة الماء المالح، يتوهج أسطع مما تتوهج الشمعة (الشموع ليست شيئًا في فراكي، ولا مصابيح الزيت). يدوم الحجر نحو سنة حين يُستخدم ليلًا في الغالب. مصباح فوست كبير وجديد ساطع على نحو غير معتاد (كعيادة طبيب أسنان) وقد يكلف حفنة من الأميثيست، وهو سعر باهظ لعامة الناس."
+ },
+ "dfe272d8b6f7": {
+  "en": "Kitchen/Dining Table",
+  "t": "المطبخ/مائدة الطعام"
+ },
+ "e3d189693c16": {
+  "en": "Winga Writing Feather",
+  "t": "ريشة كتابة من الوينغا"
+ },
+ "e51d781719a1": {
+  "en": "Seal Wax",
+  "t": "شمع الختم"
+ },
+ "e7a3fffa3295": {
+  "en": "Goods are sorted into four tiers, which set how much it costs to ship them (see <a href=\"/lore/economy/\">Economy</a>).",
+  "t": "تُصنَّف السلع في أربعة مستويات، تحدد تكلفة شحنها (انظر <a href=\"/lore/economy/\">الاقتصاد</a>)."
+ },
+ "e9a14adf2735": {
+  "en": "Full set",
+  "t": "الطقم الكامل"
+ },
+ "ecdda59aea5e": {
+  "en": "Item",
+  "t": "الغرض"
+ },
+ "ee432e447835": {
+  "en": "~12 Pearls",
+  "t": "~12 بيرل"
+ },
+ "f0d67dc167ae": {
+  "en": "~28 Pearls",
+  "t": "~28 بيرل"
+ },
+ "f32d0645a833": {
+  "en": "Weapons",
+  "t": "الأسلحة"
+ },
+ "f351cf27d401": {
+  "en": "~20 Pearls, plus tubing",
+  "t": "~20 بيرل، إضافة إلى الأنابيب"
+ },
+ "f596d7e234c5": {
+  "en": "A mixture of bone, iron, ground Nari and Greenbread fruit core. Less flexible than most wood, but it lasts much longer, and mixed with other materials, it can be made more flexible for armor and weapons.",
+  "t": "خليط من العظم والحديد وناري المطحون ولبّ ثمرة الغرينبريد. أقل مرونة من معظم الخشب، لكنه يدوم أطول بكثير، ومع خلطه بمواد أخرى يمكن جعله أكثر مرونة للدروع والأسلحة."
+ },
+ "f709e0f9691d": {
+  "en": "Winga Dust",
+  "t": "غبار الوينغا"
+ },
+ "f8c94a3b4b1e": {
+  "en": "What it is",
+  "t": "ما هو"
+ },
+ "f958260588e1": {
+  "en": "Steel",
+  "t": "الفولاذ"
+ },
+ "fb764acb28a3": {
+  "en": "<strong>Light source:</strong> it needs water and salt to work. There's no wick, flame or smoke; the hissing a lit fost stone makes is the water and salt reacting with the stone, which gives off light and steam.",
+  "t": "<strong>مصدر ضوء:</strong> يحتاج إلى الماء والملح ليعمل. لا فتيل ولا لهب ولا دخان؛ الهسيس الذي يصدره حجر فوست المضاء هو تفاعل الماء والملح مع الحجر، الذي يطلق ضوءًا وبخارًا."
  }
 }

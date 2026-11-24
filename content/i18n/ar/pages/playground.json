@@ -1,11 +1,47 @@
 {
+ "00f03137e155": {
+  "en": "Easy",
+  "t": "سهل"
+ },
+ "0105b596e57e": {
+  "en": "Base: {flora}",
+  "t": "القاعدة: {flora}"
+ },
+ "016c526a1d2a": {
+  "en": "Rounds won: you {you}, {opp} {them}",
+  "t": "الجولات المكسوبة: أنت {you}، {opp} {them}"
+ },
+ "0240b5832a42": {
+  "en": "Plains",
+  "t": "السهول"
+ },
+ "03f0feececb0": {
+  "en": "Flying",
+  "t": "طائر"
+ },
+ "08271419319f": {
+  "en": "Shield",
+  "t": "درع"
+ },
+ "0a27a3b002bc": {
+  "en": "Round {n}",
+  "t": "الجولة {n}"
+ },
  "0bf9322efcf3": {
   "en": "Final score: {you} {youScore}, {rival} {rivalScore}. {verdict}",
   "t": "النتيجة النهائية: {you} {youScore}، {rival} {rivalScore}. {verdict}"
  },
+ "0cb6b91a7c7b": {
+  "en": "Take turns placing one statue on a square on your side, on a flora base if you like, or pass. Every piece you place is spent for the match, so save some for later rounds.",
+  "t": "تناوبا على وضع تمثال واحد على مربع في جانبك، على قاعدة نباتية إن شئت، أو مرّر. كل قطعة تضعها تُستهلك طوال المباراة، فادّخر بعضها للجولات اللاحقة."
+ },
  "0d4b087148ae": {
   "en": "Playground · #HusbandOutWorld",
   "t": "ساحة اللعب · #HusbandOutWorld"
+ },
+ "0e818bfa0679": {
+  "en": "monster",
+  "t": "وحش"
  },
  "11b7f08bcb49": {
   "en": "{player} snipes the {colour} territory ({points}).",
@@ -15,21 +51,85 @@
   "en": "Your turn: press Throw (or Space) when the aim is where you want it.",
   "t": "دورك: اضغط «ارمِ!» (أو مفتاح المسافة) عندما يكون التصويب حيث تريد."
  },
+ "20f062e88b88": {
+  "en": "−{n} to the strongest opposing statue in its lane",
+  "t": "−{n} لأقوى تمثال خصم في مسارها"
+ },
  "21504db71017": {
   "en": "Play full screen",
   "t": "العب بملء الشاشة"
+ },
+ "2222ccdea406": {
+  "en": "+{n} at height {h} or more",
+  "t": "+{n} على ارتفاع {h} أو أكثر"
+ },
+ "227af057c460": {
+  "en": "never weaker than its carving",
+  "t": "لا يضعف أبدًا عن قوة نحته"
+ },
+ "22ef541999f0": {
+  "en": "Next round",
+  "t": "الجولة التالية"
+ },
+ "24ae8a560983": {
+  "en": "Paint my statues",
+  "t": "لوّن تماثيلي"
+ },
+ "25ab59baf8e0": {
+  "en": "Your side",
+  "t": "جانبك"
+ },
+ "2640f77e9f83": {
+  "en": "Now choose a square for {name}.",
+  "t": "والآن اختر مربعًا لـ{name}."
  },
  "27bbcef16995": {
   "en": "Hiromi",
   "t": "هيرومي"
  },
+ "285691ff158a": {
+  "en": "ignores lower ground",
+  "t": "يتجاهل الأرض الأدنى"
+ },
+ "28a2784f6046": {
+  "en": "You found the nari stone in {name}!",
+  "t": "وجدت حجر ناري في {name}!"
+ },
+ "2f157d7130ab": {
+  "en": "Choose a statue for your nari stone first.",
+  "t": "اختر تمثالًا لحجر ناري أولًا."
+ },
+ "3199ea056253": {
+  "en": "animal",
+  "t": "حيوان"
+ },
+ "320089389f44": {
+  "en": "Your battalion",
+  "t": "كتيبتك"
+ },
  "38d4249ff036": {
   "en": "⏱ {seconds}s · darts: {you} {youLeft}, {rival} {rivalLeft}",
   "t": "⏱ {seconds}s · سهام: {you} {youLeft}، {rival} {rivalLeft}"
  },
+ "39db64b96126": {
+  "en": "{opp} wins the match.",
+  "t": "{opp} يفوز بالمباراة."
+ },
+ "3d254c73066e": {
+  "en": "None left.",
+  "t": "لم يتبقَّ شيء."
+ },
+ "3f21515a1b11": {
+  "en": "No base",
+  "t": "بلا قاعدة"
+ },
  "40e405b6605c": {
   "en": "I haven’t heard of that, but yeah, I prefer targeting the yellow ones, as those are worth more if you snipe all territories.",
   "t": "لم أسمع بذلك، لكن نعم، أفضّل استهداف المناطق الصفراء، فهي تساوي أكثر إن قنصت كل المناطق."
+ },
+ "41fb3a0ef555": {
+  "en": "You win round {n}.",
+  "t": "تفوز أنت بالجولة {n}."
  },
  "42766efba402": {
   "en": "Middle ring",
@@ -38,6 +138,22 @@
  "42ae6cb3cd8f": {
   "en": "Time! The room starts to move too much…",
   "t": "الوقت! الغرفة بدأت تتحرك كثيرًا…"
+ },
+ "449177d90198": {
+  "en": "its power stays hidden until the lanes are counted",
+  "t": "تبقى قوته مخفية حتى تُعدّ المسارات"
+ },
+ "45e05fa03651": {
+  "en": "Minari needs JavaScript to play.",
+  "t": "تحتاج ميناري إلى JavaScript لتُلعب."
+ },
+ "46b474188aa4": {
+  "en": "Battlefield: {region}",
+  "t": "ساحة المعركة: {region}"
+ },
+ "4a4331759c36": {
+  "en": "<a href=\"/lore/pastimes/#minari\">Minari</a>, the carved-statue game played in Sanbi Castle's game room: a working prototype, against Nina, Aurora or Neferteri.",
+  "t": "<a href=\"/lore/pastimes/#minari\">ميناري</a>، لعبة التماثيل المنحوتة التي تُلعب في غرفة الألعاب في قلعة سانبي: نموذج أولي يعمل، ضد نينا أو أورورا أو نفرتيري."
  },
  "4c660686dc07": {
   "en": "His first dart clings, then falls. The second lands on a green territory near the centre.",
@@ -51,21 +167,73 @@
   "en": "Kinda? Was the board always this big and colored? I thought it was rounded too— OH YEAH! The center is worth more, right?",
   "t": "نوعًا ما؟ هل كانت اللوحة دائمًا بهذا الحجم والألوان؟ ظننت أنها مستديرة أيضًا— أوه نعم! المركز يساوي أكثر، صحيح؟"
  },
+ "4ec00394908f": {
+  "en": "How to play",
+  "t": "طريقة اللعب"
+ },
+ "4f0919dac51a": {
+  "en": "Neferteri",
+  "t": "نفرتيري"
+ },
+ "4f4e60287877": {
+  "en": "You win the match!",
+  "t": "تفوز أنت بالمباراة!"
+ },
  "50ccc5e2e037": {
   "en": "He aims for the same green, and lands far above it, on purple.",
   "t": "يصوب على نفس الأخضر ويهبط بعيدًا فوقه على البنفسجي."
+ },
+ "530cececb444": {
+  "en": "no stone inside.",
+  "t": "لا حجر في داخله."
+ },
+ "5719e9acd479": {
+  "en": "The table has <strong>5 lanes</strong>. Each lane has a square on your side and one on theirs, with a terrain and a height. A statue on its home terrain gets <strong>+2</strong>; standing higher than the square across gives <strong>+1 per level</strong>, lower gives the same as a minus.",
+  "t": "على الطاولة <strong>5 مسارات</strong>. في كل مسار مربع في جانبك وآخر في جانبه، لكل منهما تضاريس وارتفاع. التمثال على تضاريس موطنه ينال <strong>+2</strong>؛ والوقوف أعلى من المربع المقابل يمنح <strong>+1 لكل مستوى</strong>، والوقوف أدنى يعطي القدر نفسه بالسالب."
  },
  "576766d387ec": {
   "en": "Play again",
   "t": "العب مجددًا"
  },
+ "595f9c0beff7": {
+  "en": "{name} is eliminated: {result}",
+  "t": "أُقصي {name}: {result}"
+ },
+ "5ad1c0fc4343": {
+  "en": "{who} passed.",
+  "t": "{who} مرّر."
+ },
+ "5c209e93ce26": {
+  "en": "Start the match",
+  "t": "ابدأ المباراة"
+ },
+ "5d0ac69701af": {
+  "en": "power {n}",
+  "t": "القوة {n}"
+ },
+ "6572f28b79ce": {
+  "en": "Lane {n}: tied, {a} to {b}.",
+  "t": "المسار {n}: تعادل، {a} مقابل {b}."
+ },
  "69b0b68def54": {
   "en": "SEE? It’s all about mindset! You know what, Harry? You’re cool! So why not play a bit of territory snipping to celebrate?",
   "t": "أترى؟ الأمر كله يتعلق بالعقلية! أتعرف يا هاري؟ أنت رائع! فلماذا لا نلعب قليلًا من تيريتوري سنيبينغ لنحتفل؟"
  },
+ "6cd280647632": {
+  "en": "{name}, {kind}, power {power}, home: {terrains}{traits}",
+  "t": "{name}، {kind}، القوة {power}، الموطن: {terrains}{traits}"
+ },
+ "7468786df7e7": {
+  "en": "Your flora bases",
+  "t": "قواعدك النباتية"
+ },
  "76262d314611": {
   "en": "Territory Snipping: turn your phone sideways",
   "t": "تيريتوري سنيبينغ: أدِر هاتفك جانبيًا"
+ },
+ "78981b123f83": {
+  "en": "When both sides have passed, each lane goes to the side with more power there. The losing side's statues in that lane are <strong>eliminated</strong>, and you see whether the nari stone was inside.",
+  "t": "حين يمرّر الجانبان كلاهما، يذهب كل مسار إلى الجانب الأقوى فيه. أما تماثيل الجانب الخاسر في ذلك المسار <strong>فتُقصى</strong>، وترى إن كان حجر ناري في داخلها."
  },
  "78988010b890": {
   "en": "red",
@@ -75,25 +243,65 @@
   "en": "{n} pt",
   "t": "{n} نقطة"
  },
+ "7e99995a1667": {
+  "en": "Choose your opponent",
+  "t": "اختر خصمك"
+ },
  "85a1ecacad2c": {
   "en": "That’s the spirit! … You played this before, right?",
   "t": "هذه هي الروح! … لعبت هذا من قبل، صحيح؟"
+ },
+ "864900d5a132": {
+  "en": "hides your nari stone",
+  "t": "يخفي حجر ناري الخاص بك"
+ },
+ "8845064f5b91": {
+  "en": "+{n} to a {kind}",
+  "t": "+{n} لـ{kind}"
+ },
+ "888d16612e6f": {
+  "en": "Choose the statue that hides your nari stone.",
+  "t": "اختر التمثال الذي يخفي حجر ناري الخاص بك."
  },
  "8bf12a38bad0": {
   "en": "Throw!",
   "t": "ارمِ!"
  },
+ "8c8d4feff7de": {
+  "en": "Your nari stone is inside {name}.",
+  "t": "حجر ناري الخاص بك داخل {name}."
+ },
+ "905cb326c779": {
+  "en": "You",
+  "t": "أنت"
+ },
+ "91586b73ba8c": {
+  "en": "the nari stone was inside!",
+  "t": "كان حجر ناري في داخله!"
+ },
  "935f6cd89f4a": {
   "en": "A draw!",
   "t": "تعادل!"
+ },
+ "93c3ef1e3de3": {
+  "en": "That square is full.",
+  "t": "ذلك المربع ممتلئ."
  },
  "94e6a3ea4d1f": {
   "en": "Turn your phone sideways to play.",
   "t": "أدِر هاتفك جانبيًا لتلعب."
  },
+ "955ddba3d08e": {
+  "en": "{name}: {effect}",
+  "t": "{name}: {effect}"
+ },
  "96de5543d183": {
   "en": "yellow",
   "t": "أصفر"
+ },
+ "98dc61652f7c": {
+  "en": "{opp} is choosing…",
+  "t": "{opp} يختار…"
  },
  "992fb4c6838e": {
   "en": "{you} wins, somehow!",
@@ -103,6 +311,10 @@
   "en": "You’re coolio too!",
   "t": "أنت رائع أيضًا يا صاح!"
  },
+ "9c8238f65551": {
+  "en": "Snow",
+  "t": "الثلج"
+ },
  "a691267c5647": {
   "en": "{rival} wins.",
   "t": "{rival} يفوز."
@@ -111,6 +323,18 @@
   "en": "Cancelled! Both darts on the {colour} territory are out.",
   "t": "ملغى! السهمان في منطقة اللون {colour} خرجا."
  },
+ "a93e8afda9a1": {
+  "en": "Before the match, hide your <strong>nari stone</strong> inside one of your statues. Your opponent hides theirs too.",
+  "t": "قبل المباراة، أخفِ <strong>حجر ناري</strong> الخاص بك داخل أحد تماثيلك. ويخفي خصمك حجره أيضًا."
+ },
+ "abb89bf474d1": {
+  "en": "home: {terrains}",
+  "t": "الموطن: {terrains}"
+ },
+ "af503a976364": {
+  "en": "a random {min} to +{max}",
+  "t": "عشوائي من {min} إلى +{max}"
+ },
  "afaed75406bd": {
   "en": "purple",
   "t": "بنفسجي"
@@ -118,6 +342,10 @@
  "b2b52c2fc7c2": {
   "en": "Snipe all territories? That’s—different—I think. Can—can you explain?",
   "t": "قنص كل المناطق؟ هذا—مختلف—أظن. هل—هل يمكنك أن تشرح؟"
+ },
+ "b31d36c1c500": {
+  "en": "Challenging",
+  "t": "صعب"
  },
  "b8c8d91c4ad6": {
   "en": "Yellow centre",
@@ -143,9 +371,25 @@
   "en": "Next",
   "t": "التالي"
  },
+ "be2f6b076cd7": {
+  "en": "Minari: turn your phone sideways",
+  "t": "ميناري: أدر هاتفك أفقيًا"
+ },
+ "be3975e50f11": {
+  "en": "{sign}{n} to the statue on it",
+  "t": "{sign}{n} للتمثال الذي عليها"
+ },
  "c1218408e29a": {
   "en": "Just a hunk—that was me warming up! Now try to throw on a green section or anywhere else.",
   "t": "لحظة واحدة—كنت أُحمّي يدي فحسب! والآن حاول أن ترمي على قسم أخضر أو في أي مكان آخر."
+ },
+ "c30902149f0e": {
+  "en": "{opp}'s side",
+  "t": "جانب {opp}"
+ },
+ "c384517d1937": {
+  "en": "{name}, power {power}",
+  "t": "{name}، القوة {power}"
  },
  "c7abd16eb68f": {
   "en": "Brotha—you suck at this—Harry?",
@@ -155,17 +399,37 @@
   "en": "—Yea? So I play next?",
   "t": "—نعم؟ إذن ألعب أنا بعد ذلك؟"
  },
+ "c91b25d0e00d": {
+  "en": "−{n} to every opposing statue in its lane",
+  "t": "−{n} لكل تمثال خصم في مسارها"
+ },
  "caab81299f22": {
   "en": "The game starts as soon as the phone is sideways.",
   "t": "تبدأ اللعبة بمجرد أن يصبح الهاتف جانبيًا."
+ },
+ "cc14463c4dab": {
+  "en": "Lane {n}: {who} wins, {a} to {b}.",
+  "t": "المسار {n}: يفوز {who}، {a} مقابل {b}."
  },
  "cc60a1651cdd": {
   "en": "Final: {you} {youScore} · {rival} {rivalScore} · {verdict}",
   "t": "النهائي: {you} {youScore} · {rival} {rivalScore} · {verdict}"
  },
+ "ce31bd9a119b": {
+  "en": "Nari stone",
+  "t": "حجر ناري"
+ },
  "ce3c494a5e85": {
   "en": "Aiight!",
   "t": "حسنًا!"
+ },
+ "d0bb566c5184": {
+  "en": "The match is a draw.",
+  "t": "المباراة تعادل."
+ },
+ "d0db58d3de1d": {
+  "en": "humanoid",
+  "t": "بشري الهيئة"
  },
  "d153c794ecdb": {
   "en": "Play upright instead",
@@ -179,6 +443,50 @@
   "en": "Your dart flies low and lodges in the wall below the board.",
   "t": "سهمك طار منخفضًا وغرز في الجدار تحت اللوحة."
  },
+ "d2c984ccb77d": {
+  "en": "Each side has <strong>10 carved statues</strong> (Races, Fauna and Beasts) and <strong>4 flora bases</strong>. The creature a statue shows is its power.",
+  "t": "لكل جانب <strong>10 تماثيل منحوتة</strong> (من الأعراق والحيوانات والوحوش) و<strong>4 قواعد نباتية</strong>. المخلوق الذي يمثله التمثال هو قوته."
+ },
+ "d3724d122484": {
+  "en": "{who} found the nari stone in {name}!",
+  "t": "{who} وجد حجر ناري في {name}!"
+ },
+ "d404968ea90b": {
+  "en": "Medium",
+  "t": "متوسط"
+ },
+ "d5936b9a0d86": {
+  "en": "Eliminated",
+  "t": "مُقصى"
+ },
+ "d7cd56f2a2a3": {
+  "en": "Pass",
+  "t": "تمرير"
+ },
+ "ddc8e3b2c330": {
+  "en": "Your turn: choose a statue, then a square on your side.",
+  "t": "دورك: اختر تمثالًا، ثم مربعًا في جانبك."
+ },
+ "dfe153f0c577": {
+  "en": "{who} placed {name} on a {flora} base, on {terrain} (power {power}).",
+  "t": "{who} وضع {name} على قاعدة {flora}، على {terrain} (القوة {power})."
+ },
+ "e48d1e99bbff": {
+  "en": "{a} : {b}",
+  "t": "{a} : {b}"
+ },
+ "e601068c1509": {
+  "en": "{who} wins round {n}.",
+  "t": "{who} يفوز بالجولة {n}."
+ },
+ "e818d1b014a8": {
+  "en": "Lane {n}",
+  "t": "المسار {n}"
+ },
+ "e8e05bdea850": {
+  "en": "Cloak",
+  "t": "عباءة"
+ },
  "e99283406209": {
   "en": "Play the round of <a href=\"/lore/pastimes/#territory-snipping\">Territory Snipping</a> from Vol 2, as Harry, against Hiromi.",
   "t": "العب جولة <a href=\"/lore/pastimes/#territory-snipping\">تيريتوري سنيبينغ</a> من المجلد 2، بدور هاري، ضد هيرومي."
@@ -187,17 +495,77 @@
   "en": "Good try! Good try! C’mon! Try again!",
   "t": "محاولة جيدة! محاولة جيدة! هيا! حاول مرة أخرى!"
  },
+ "ea71ac574d84": {
+  "en": "Win more lanes to win the round. First to <strong>2 rounds</strong> wins, but finding the other side's nari stone wins at once.",
+  "t": "افز بمسارات أكثر لتفوز بالجولة. أول من يفوز بـ<strong>جولتين</strong> يفوز، لكن إيجاد حجر ناري لدى الجانب الآخر يمنح الفوز فورًا."
+ },
+ "ee61b8c6ee53": {
+  "en": "Your statues",
+  "t": "تماثيلك"
+ },
+ "eeee9b76ec5d": {
+  "en": "Aurora",
+  "t": "أورورا"
+ },
  "ef0ebbb77298": {
   "en": "orange",
   "t": "برتقالي"
+ },
+ "ef6906d30a91": {
+  "en": "Painting your statues is just for looks.",
+  "t": "تلوين تماثيلك للمظهر فقط."
+ },
+ "f1b44b944d26": {
+  "en": "{who} placed {name} on {terrain} (power {power}).",
+  "t": "{who} وضع {name} على {terrain} (القوة {power})."
  },
  "f290164d1315": {
   "en": "Outer ring",
   "t": "الحلقة الخارجية"
  },
+ "f2c741477316": {
+  "en": "a statue",
+  "t": "تمثال"
+ },
+ "f41c4e4dab0b": {
+  "en": "Forest",
+  "t": "الغابة"
+ },
+ "f4904bf63ad4": {
+  "en": "Nina",
+  "t": "نينا"
+ },
+ "f4c2739717c4": {
+  "en": "{terrain}, height {h}",
+  "t": "{terrain}، الارتفاع {h}"
+ },
+ "f674ac08752f": {
+  "en": "+{n} on {terrain}",
+  "t": "+{n} على {terrain}"
+ },
+ "f6db3f96e9e3": {
+  "en": "Desert",
+  "t": "الصحراء"
+ },
+ "fa27d1b6d725": {
+  "en": "+1 when outnumbered in its lane",
+  "t": "+1 حين يفوقه الخصم عددًا في مساره"
+ },
  "fb23c9ff0d27": {
   "en": "Inner ring",
   "t": "الحلقة الداخلية"
+ },
+ "fbf6a2b00397": {
+  "en": "Lane {n}: you win, {a} to {b}.",
+  "t": "المسار {n}: تفوز أنت، {a} مقابل {b}."
+ },
+ "fe4f28f307a2": {
+  "en": "Round {n} is a draw.",
+  "t": "الجولة {n} تعادل."
+ },
+ "fe527bb5037f": {
+  "en": "Carve a new battalion",
+  "t": "انحت كتيبة جديدة"
  },
  "feddfb10fb8d": {
   "en": "We all play at the same time. GO!",
