@@ -1,4 +1,8 @@
 {
+ "000a6bd9e4af": {
+  "en": "Tier V",
+  "t": "Bậc V"
+ },
  "0054289dba33": {
   "en": "Before the Prosperity Treaty, Kingdom UOMs were all over the place, making trading harder and opening the door for sketchier traders to forge papers to evade authorities and rip off customers. Adrian, one of the courtroom scientists that overthrew all rulers at the end of The Greed Period, saw the treaty they were establishing as an opportunity to standardize all measurements based on using the most accurate one in existence—which happened to be the Tolerideme Kingdom, coincidentally where he was from. Gandew, of course, still uses their own to this day alongside the Vraki measurements. In contrast, everyone else's historical measurement implementations are now the type of knowledge that only historians care to know.",
   "t": "Trước Hiệp ước Thịnh vượng, đơn vị đo của các Vương quốc lộn xộn khắp nơi, khiến buôn bán khó khăn hơn và mở đường cho những thương nhân gian xảo làm giả giấy tờ để trốn tránh chính quyền và lừa khách hàng. Adrian, một trong những nhà khoa học hoàng gia đã lật đổ mọi kẻ cai trị vào cuối Thời kỳ Tham lam, coi hiệp ước họ đang thiết lập là cơ hội để chuẩn hóa mọi phép đo dựa trên hệ chính xác nhất hiện có—tình cờ là của Vương quốc Tolerideme, trùng hợp thay lại là quê ông. Gandew, tất nhiên, đến nay vẫn dùng hệ riêng của họ song song với hệ đo Vraki. Ngược lại, các hệ đo lịch sử của mọi người khác giờ là loại kiến thức chỉ các sử gia mới quan tâm."
@@ -7,77 +11,301 @@
   "en": "10 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "Còn 10 mục khác trên trang này chỉ có trong <button class=\"linklike\" data-go-bts>Hậu trường</button>."
  },
+ "015c979a68a6": {
+  "en": "<strong>Where it comes from:</strong> mined from Flatland City to Blood City, deep inside the mountains (about 1 km down).",
+  "t": "<strong>Nguồn gốc:</strong> được khai thác từ thành phố Flatland đến thành phố Blood, sâu trong lòng núi (khoảng 1 km bên dưới)."
+ },
  "022aabbee753": {
   "en": "Vraki UOMs",
   "t": "Đơn vị đo Vraki"
+ },
+ "0326ae1448a0": {
+  "en": "Economic activity in Vraki comes from fauna, flora and beasts, and the goods and services made from them. It's divided into four economic regions, and comparative advantage decides which goods are worth exporting from one region to another.",
+  "t": "Hoạt động kinh tế ở Vraki đến từ động vật, thực vật và thú dữ, cùng hàng hóa và dịch vụ làm từ chúng. Nó được chia thành bốn vùng kinh tế, và lợi thế so sánh quyết định hàng hóa nào đáng xuất khẩu từ vùng này sang vùng khác."
+ },
+ "0351367464a7": {
+  "en": "Master, per day",
+  "t": "Thợ cả, theo ngày"
  },
  "03ebd5a3d869": {
   "en": "*The name Vraki is a homage to ancient texts that portrayed Buhraies working hard to unify language across species.",
   "t": "*Cái tên Vraki là để tôn vinh những văn bản cổ mô tả Buhraies nỗ lực thống nhất ngôn ngữ giữa các loài."
  },
+ "057dea8c73ac": {
+  "en": "Hardness:",
+  "t": "Độ cứng:"
+ },
+ "0d5c49323965": {
+  "en": "~3,300 km",
+  "t": "~3.300 km"
+ },
+ "0e7f700547cb": {
+  "en": "<strong>Example:</strong> fanchaki farms are spread out everywhere, but Freeish and Blood have the comparative advantage for large-scale farming. Raising larger fanchakis (like Sanbi's experimental farm) costs more than their meat sells for.",
+  "t": "<strong>Ví dụ:</strong> trang trại fanchaki trải rộng khắp nơi, nhưng Freeish và Blood có lợi thế so sánh cho việc nuôi quy mô lớn. Nuôi fanchaki to hơn (như trang trại thử nghiệm của Sanbi) tốn kém hơn giá bán thịt của chúng."
+ },
+ "0f217179940c": {
+  "en": "Region",
+  "t": "Vùng"
+ },
+ "144301cf556b": {
+  "en": "The full numbers are in the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Distance Cost Calculator).",
+  "t": "Toàn bộ số liệu có trong <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">bảng tính Kinh tế</a> (Máy tính Chi phí Khoảng cách)."
+ },
+ "15d14b4ee5c3": {
+  "en": "<strong>Hardness:</strong> 2.5 to 4.5",
+  "t": "<strong>Độ cứng:</strong> 2,5 đến 4,5"
+ },
+ "15dded0b93d1": {
+  "en": "1 ball",
+  "t": "1 bi"
+ },
+ "18000a4c2290": {
+  "en": "Tier II",
+  "t": "Bậc II"
+ },
  "184272d237d3": {
   "en": "The most common currency is Pearls, which denotes the currency's minimum value. For reference, on an average working day, a gatherer of Gyut (a berry akin to Acerola) would earn one pearl per kg of berries picked (around thirty minutes to one hour of labor, depending on their efficiency.) Assuming a newbie gatherer worked for twelve hours, they would likely pay five pearls for a simple but hearty dinner with a mug of cheap beer, then another five for renting a humble hostel bed, with two pearls left over to save for tomorrow. Usually, one would use pearls for food or standard simple services like wagon rides for relatively short distances.",
   "t": "Loại tiền phổ biến nhất là Pearl, biểu thị mệnh giá tối thiểu của tiền tệ. Để tham khảo, vào một ngày làm việc trung bình, một người hái Gyut (một loại quả mọng giống sơ ri) sẽ kiếm được một pearl cho mỗi kg quả hái được (khoảng ba mươi phút đến một giờ làm việc, tùy năng suất.) Giả sử một người hái mới vào nghề làm mười hai tiếng, họ có lẽ sẽ trả năm pearl cho một bữa tối đơn giản nhưng no nê kèm một cốc bia rẻ, rồi năm pearl nữa để thuê một giường nhà trọ khiêm tốn, còn dư hai pearl để dành cho ngày mai. Thông thường, người ta dùng pearl cho thức ăn hoặc các dịch vụ đơn giản thông thường như đi xe ngựa quãng đường tương đối ngắn."
+ },
+ "1b22feb0c0c1": {
+  "en": "Between",
+  "t": "Giữa"
+ },
+ "1cb449c11266": {
+  "en": "Members",
+  "t": "Thành viên"
  },
  "1ef532cce6fe": {
   "en": "Amethyst",
   "t": "Amethyst"
  },
+ "1fc3153191c2": {
+  "en": "~2,000 km",
+  "t": "~2.000 km"
+ },
  "26287b561096": {
   "en": "Economy &amp; Units",
   "t": "Kinh tế &amp; Đơn vị"
+ },
+ "279761c183c0": {
+  "en": "The average daily pay, for an average work day of 12 hours. Work time varies by job, and this doesn't account for jobs that depend on luck, like fishing.",
+  "t": "Mức lương trung bình hằng ngày, cho một ngày làm việc trung bình 12 giờ. Thời gian làm việc khác nhau tùy nghề, và con số này không tính những nghề phụ thuộc vào may rủi, như đánh cá."
+ },
+ "27d92d43befe": {
+  "en": "Expenses take about 75% of earnings, so a Tier I worker keeps about 3 Pearls a day. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Salary Calculator).",
+  "t": "Chi phí chiếm khoảng 75% thu nhập, nên một người lao động Bậc I giữ lại khoảng 3 Pearl mỗi ngày. Xem <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">bảng tính Kinh tế</a> (Máy tính Lương)."
+ },
+ "28c0eafbd6ce": {
+  "en": "Over a year (73 weeks), that's 3,504 Pearls at Tier I, up to 35,040 for a Tier VI apprentice or 52,560 for a Tier VI master. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Salary Calculator).",
+  "t": "Trong một năm (73 tuần), đó là 3.504 Pearl ở Bậc I, lên đến 35.040 cho một người học việc Bậc VI hoặc 52.560 cho một thợ cả Bậc VI. Xem <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">bảng tính Kinh tế</a> (Máy tính Lương)."
+ },
+ "2a32ad9fccf0": {
+  "en": "Freeish and Gandew regions",
+  "t": "Vùng Freeish và Gandew"
+ },
+ "33e4a381fa43": {
+  "en": "<strong>Size:</strong> slightly bigger than a fingernail, about 2 cm across.",
+  "t": "<strong>Kích thước:</strong> lớn hơn móng tay một chút, đường kính khoảng 2 cm."
+ },
+ "34f93d99f29c": {
+  "en": "~3,000 km",
+  "t": "~3.000 km"
+ },
+ "392c485a6389": {
+  "en": "~1,000 km",
+  "t": "~1.000 km"
+ },
+ "3bae79216122": {
+  "en": "Forway, Flatland, Gandew, Sundeath",
+  "t": "Forway, Flatland, Gandew, Sundeath"
+ },
+ "438a2a268b29": {
+  "en": "Tier IV",
+  "t": "Bậc IV"
  },
  "440282475500": {
   "en": "Amethyst ball: a purple faceted coin-like disc with golden swirling arms.",
   "t": "Bi amethyst: một chiếc đĩa giống đồng xu nhiều mặt cắt màu tím với những cánh tay xoáy màu vàng."
  },
+ "442e401b464d": {
+  "en": "~4,000 km",
+  "t": "~4.000 km"
+ },
  "467122e96ae1": {
   "en": "Aquamarine ball: a light-blue faceted coin-like disc with golden swirling arms.",
   "t": "Bi aquamarine: một chiếc đĩa giống đồng xu nhiều mặt cắt màu xanh nhạt với những cánh tay xoáy màu vàng."
+ },
+ "484b801fd210": {
+  "en": "<strong>Hardness:</strong> 7.5 to 8",
+  "t": "<strong>Độ cứng:</strong> 7,5 đến 8"
+ },
+ "497865c53617": {
+  "en": "<strong>Worth:</strong> 10 Aquamarine, 100 Amethyst or 5,000 Pearls.",
+  "t": "<strong>Giá trị:</strong> 10 Aquamarine, 100 Amethyst hoặc 5.000 Pearl."
+ },
+ "4a9ba1f13c83": {
+  "en": "Minerals, Wooly and chitin",
+  "t": "Khoáng sản, Wooly và kitin"
  },
  "4b8a751f1630": {
   "en": "Public text: economy-uoms.md",
   "t": "Văn bản công khai: economy-uoms.md"
  },
+ "50870d79e6f4": {
+  "en": "Tier I",
+  "t": "Bậc I"
+ },
  "52086129a3b5": {
   "en": "Sapphire",
   "t": "Sapphire"
+ },
+ "5396c116b2e2": {
+  "en": "<strong>What it buys:</strong> custom-crafted armor and weapons, or good gear in general; a young tamed egua; an adult tamed Big Winga; well-protected, guarded travel; fancier hotels; fundamental education; fancy clothing, usually with gold or precious-metal details; Tier VI to VIII Soul Energy. For some people, it's their entire life savings.",
+  "t": "<strong>Mua được gì:</strong> áo giáp và vũ khí chế tác riêng, hoặc trang bị tốt nói chung; một con egua đã thuần hóa còn non; một con Big Winga đã thuần hóa trưởng thành; chuyến đi được bảo vệ, canh gác cẩn thận; khách sạn sang hơn; giáo dục cơ bản; quần áo sang trọng, thường có chi tiết bằng vàng hoặc kim loại quý; Năng lượng linh hồn Bậc VI đến VIII. Với một số người, đó là toàn bộ tiền tiết kiệm cả đời."
+ },
+ "5957b01cfd38": {
+  "en": "Forway, Sanbi, Waterfall, Triangle, Tastyleaf, Endlessfog",
+  "t": "Forway, Sanbi, Waterfall, Triangle, Tastyleaf, Endlessfog"
+ },
+ "59eb58190849": {
+  "en": "Gandew and Sanbi regions",
+  "t": "Vùng Gandew và Sanbi"
+ },
+ "5f618a292277": {
+  "en": "Master, per hour",
+  "t": "Thợ cả, theo giờ"
+ },
+ "634a223bb76e": {
+  "en": "Balls are the common currency of the four kingdoms (Tolerideme, the Sanbi Kingdom, the Freeish Kingdom and the Gandew Kingdom) and all the participating cities around them. The Prosperity Treaty introduced them in Section #3, since bartering is forbidden between the treaty's parties. Balls are made throughout the kingdom, and the city or kingdom's embassy oversees their manufacturing.",
+  "t": "Bi là đồng tiền chung của bốn vương quốc (Tolerideme, Vương quốc Sanbi, Vương quốc Freeish và Vương quốc Gandew) và tất cả các thành phố tham gia xung quanh. Hiệp ước Thịnh vượng đưa chúng vào ở Khoản #3, vì việc đổi chác bị cấm giữa các bên của hiệp ước. Bi được làm khắp vương quốc, và đại sứ quán của thành phố hay vương quốc giám sát việc sản xuất chúng."
+ },
+ "6ab35da38a12": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Economy.md\">Legacy/Behind The Scenes/World Lore/Economy.md</a>",
+  "t": "Nguồn: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Economy.md\">Legacy/Behind The Scenes/World Lore/Economy.md</a>"
+ },
+ "6ea75f6d8e5e": {
+  "en": "Sanbi and Tolerideme regions",
+  "t": "Vùng Sanbi và Tolerideme"
+ },
+ "70a1618f804e": {
+  "en": "There are four balls. From the most valuable:",
+  "t": "Có bốn loại bi. Từ giá trị nhất:"
  },
  "73deb2e5251c": {
   "en": "Aquamarine",
   "t": "Aquamarine"
  },
+ "7465c0ac951d": {
+  "en": "Tier VI",
+  "t": "Bậc VI"
+ },
+ "75f16b9dcc19": {
+  "en": "Economical Regions",
+  "t": "Các vùng kinh tế"
+ },
+ "77d1f61d0852": {
+  "en": "Comparative Advantage",
+  "t": "Lợi thế so sánh"
+ },
+ "78f3842f0201": {
+  "en": "Master",
+  "t": "Thợ cả"
+ },
  "7927d99fd832": {
   "en": "Pearl",
   "t": "Pearl"
+ },
+ "798f64e2c7a7": {
+  "en": "Balls Currency",
+  "t": "Tiền tệ bi"
+ },
+ "7baec53c6c26": {
+  "en": "Gandew and Tolerideme regions",
+  "t": "Vùng Gandew và Tolerideme"
  },
  "7e1741308837": {
   "en": "087 (images illustration)",
   "t": "087 (hình minh họa)"
  },
+ "7e8548c30fef": {
+  "en": "Economy",
+  "t": "Kinh tế"
+ },
  "7f5bd97d3d97": {
   "en": "Balls are the standardized currency as determined by the Prosperity Treaty. Each ball is about the size of a marble and is encrusted by the golden circular metallic decoration that protects the mineral inside and makes it harder to counterfeit or tamper with.",
   "t": "Bi là tiền tệ tiêu chuẩn theo quy định của Hiệp ước Thịnh vượng. Mỗi viên bi cỡ một viên bi ve và được bao bọc bởi lớp trang trí kim loại tròn màu vàng bảo vệ khoáng chất bên trong và khiến việc làm giả hay can thiệp khó hơn."
+ },
+ "8010f7aa2e17": {
+  "en": "<strong>What it buys:</strong> common food and beer; a day's lodging in a hostel or cheap hotel; bargain armor and weapons; hay for an egua; travel by wagon (less comfortable and less protected); utensils; used clothing (sometimes with wear and tear) or very cheap clothing; most nari gels at weak effect tiers; Tier I to III Soul Energy; paper, ink, etc.",
+  "t": "<strong>Mua được gì:</strong> đồ ăn và bia thông thường; một ngày ở nhà trọ hoặc khách sạn rẻ; áo giáp và vũ khí giá hời; cỏ khô cho một con egua; đi xe ngựa (kém thoải mái và kém an toàn hơn); đồ dùng; quần áo cũ (đôi khi sờn rách) hoặc quần áo rất rẻ; hầu hết gel nari ở bậc hiệu ứng yếu; Năng lượng linh hồn Bậc I đến III; giấy, mực, v.v."
  },
  "813681598d7d": {
   "en": "Sapphire ball: a deep-blue faceted coin-like disc with golden swirling arms.",
   "t": "Bi sapphire: một chiếc đĩa giống đồng xu nhiều mặt cắt màu xanh đậm với những cánh tay xoáy màu vàng."
  },
+ "87565be67953": {
+  "en": "Daily Salary",
+  "t": "Lương ngày"
+ },
+ "8a842f1db687": {
+  "en": "Weekly Salary",
+  "t": "Lương tuần"
+ },
  "8bc2bd89c625": {
   "en": "Economy & Units · #HusbandOutWorld",
   "t": "Kinh tế & Đơn vị · #HusbandOutWorld"
+ },
+ "8de8b2b021b0": {
+  "en": "<strong>Worth:</strong> 50 Pearls.",
+  "t": "<strong>Giá trị:</strong> 50 Pearl."
+ },
+ "93e739da0daa": {
+  "en": "<strong>Worth:</strong> 10 Amethyst or 500 Pearls.",
+  "t": "<strong>Giá trị:</strong> 10 Amethyst hoặc 500 Pearl."
+ },
+ "969e1d31bffe": {
+  "en": "<strong>Worth:</strong> the lowest ball; the others are counted in Pearls.",
+  "t": "<strong>Giá trị:</strong> loại bi thấp nhất; các loại khác được tính bằng Pearl."
  },
  "9a3c5c2b363f": {
   "en": "If you gather fifty Pearls, then you can trade it for a single Amethyst. Some books can be as low as a single amethyst if the janky ass printing presses back at Forway work well, but most people would use their amethyst to buy household items like fost lamps or live animals like a tamed Winga or pay their rent. Some clothing can be found for a few amethysts, but don’t expect them to be a pussy (or dick) magnet. You could skip the flatteries and just go to a brothel after drinking a few beers instead of not paying much attention to what you’re stuffing or being stuffed by. If you want to use your balls on something else instead, buy some nari gels, nari stones, or better lodging!",
   "t": "Nếu bạn gom được năm mươi Pearl, bạn có thể đổi lấy một Amethyst. Một số cuốn sách có thể chỉ một amethyst nếu mấy cái máy in cùi bắp ở Forway chạy tốt, nhưng hầu hết mọi người sẽ dùng amethyst để mua đồ gia dụng như đèn fost hay động vật sống như một con Winga đã thuần hóa hoặc trả tiền thuê nhà. Có thể mua vài bộ quần áo với vài amethyst, nhưng đừng mong chúng là nam châm hút gái (hay hút trai). Bạn có thể bỏ qua chuyện tán tỉnh và cứ đến nhà thổ sau vài cốc bia thay vì chẳng mấy để ý mình đang nhồi gì hay bị gì nhồi. Nếu muốn dùng bi cho việc khác, hãy mua gel nari, đá nari, hoặc chỗ ở tốt hơn!"
  },
+ "9e1b38d9dd9c": {
+  "en": "<strong>What it buys:</strong> 1 nari stone; common household items like a table or fost lamps; fancier food and drinks; average armor and weapons; a better travel experience; maps (more complex ones cost an Aquamarine); average lodging, often with breakfast; new cheap clothing, or somewhat more refined clothing; most nari gels at higher effect tiers; Tier IV to VI Soul Energy; sigil rings; a Winga companion.",
+  "t": "<strong>Mua được gì:</strong> 1 viên đá nari; đồ gia dụng thông thường như một cái bàn hay đèn fost; đồ ăn thức uống sang hơn; áo giáp và vũ khí tầm trung; trải nghiệm đi đường tốt hơn; bản đồ (loại phức tạp hơn giá một Aquamarine); chỗ ở tầm trung, thường kèm bữa sáng; quần áo mới giá rẻ, hoặc quần áo tinh tế hơn một chút; hầu hết gel nari ở bậc hiệu ứng cao hơn; Năng lượng linh hồn Bậc IV đến VI; nhẫn ấn; một con Winga làm bạn đồng hành."
+ },
  "9e4f472331f2": {
   "en": "088 (images illustration)",
   "t": "088 (hình minh họa)"
  },
+ "a155061e792a": {
+  "en": "Forway, Triangle, Deltacross, Freeish, Blood, Sweetlake, Sundeath",
+  "t": "Forway, Triangle, Deltacross, Freeish, Blood, Sweetlake, Sundeath"
+ },
+ "a97fc84fe87e": {
+  "en": "Domar Carbey, Wood People and Wingas",
+  "t": "Domar Carbey, Wood People và Winga"
+ },
  "af2c8b7ef70a": {
   "en": "Pearl ball: a pale cream coin-like disc with golden swirling arms.",
   "t": "Bi pearl: một chiếc đĩa giống đồng xu màu kem nhạt với những cánh tay xoáy màu vàng."
+ },
+ "afa77f1b0017": {
+  "en": "Forway, Tolerideme, Waterfall, Tastyleaf, Wingarest",
+  "t": "Forway, Tolerideme, Waterfall, Tastyleaf, Wingarest"
+ },
+ "b0e7db565d4b": {
+  "en": "Pearls",
+  "t": "Pearl"
+ },
+ "b59f457aba63": {
+  "en": "Sanbi, fish-related products, etc.",
+  "t": "Sanbi, các sản phẩm từ cá, v.v."
+ },
+ "bca7fc3d041e": {
+  "en": "Tier III",
+  "t": "Bậc III"
  },
  "c0d962e3dfae": {
   "en": "You somehow got ten Aquamarines? Damm. You could trade that in for shiny Saphire. This is the scale of balls where you can obtain specialized education for you or your children. Depending on their worth, you can have someone bend to your will with life-long contracts in the tens if not hundreds of sapphires. Or you can buy properties and even guilds! The world is yours! But depending on where you go, you will need to hire adventurers to serve you as bodyguards, as some miscreants will love to have a chat with you. Or wear fake skin, and none would be the wiser.",
@@ -87,16 +315,84 @@
   "en": "And if you somehow saved ten amethysts, then you can trade for a single aquamarine. You fancy! Don’t walk around showing it off, or some miscreant might request a “compulsory loan to keep you alive! You could buy a small egua for that price! Or even a tamed Big Winga! Or you can invest in yourself by enrolling at a local fundamental education school to open the door to new opportunities. If that’s not your thing, then you could do all the things amethysts can, but fancier. Fancier clothing, fancier hoes, and fancier beer too. Some people’s life savings amounts to one or a couple of aquamarines, so",
   "t": "Và nếu bằng cách nào đó bạn dành dụm được mười amethyst, bạn có thể đổi lấy một aquamarine. Sang chảnh ghê! Đừng đi lại khoe khoang, nếu không kẻ xấu nào đó có thể đòi một “khoản vay bắt buộc để giữ mạng cho bạn! Bạn có thể mua một con egua nhỏ với giá đó! Hoặc thậm chí một con Big Winga đã thuần hóa! Hoặc bạn có thể đầu tư cho bản thân bằng cách ghi danh vào một trường tiểu học địa phương để mở cánh cửa đến những cơ hội mới. Nếu không phải gu của bạn, bạn có thể làm mọi thứ amethyst làm được, nhưng sang hơn. Quần áo sang hơn, gái gú sang hơn, và bia cũng sang hơn. Tiền tiết kiệm cả đời của một số người chỉ bằng một hoặc vài aquamarine, nên"
  },
+ "c73383dce58f": {
+  "en": "Pearls per week",
+  "t": "Pearl mỗi tuần"
+ },
+ "c8813ecb9014": {
+  "en": "The price covers more than the egua's work. On rough routes, cargo goes on a pack egua's back: up to about 150 kg, at about 30 km a day (about 65 km a day when ridden). Where the roads allow carts, one egua pulls far more (about 900 kg on a dirt road, about 1,800 kg on a good road; see <a href=\"/lore/fauna/#egua--load-and-strain\">Load and strain</a> on the Egua), so hauling gets cheaper. Shipping prices stay the same anyway, because they also pay for protection, insurance and the shipper's profit.",
+  "t": "Giá cả bao gồm nhiều hơn công sức của con egua. Trên những tuyến đường gồ ghề, hàng được chất lên lưng một con egua thồ: tối đa khoảng 150 kg, khoảng 30 km một ngày (khoảng 65 km một ngày khi cưỡi). Ở nơi đường sá cho phép xe kéo, một con egua kéo được nhiều hơn hẳn (khoảng 900 kg trên đường đất, khoảng 1.800 kg trên đường tốt; xem <a href=\"/lore/fauna/#egua--load-and-strain\">Tải trọng và sức căng</a> trong mục Egua), nên việc chở hàng rẻ hơn. Dù vậy, giá vận chuyển vẫn giữ nguyên, vì nó còn trả cho việc bảo vệ, bảo hiểm và lợi nhuận của người vận chuyển."
+ },
  "cfd2d2068e7f": {
   "en": "Economy &amp; Units · #HusbandOutWorld",
   "t": "Kinh tế &amp; Đơn vị · #HusbandOutWorld"
+ },
+ "db19b0df6fcb": {
+  "en": "Forway is part of all four regions, and so is any village within a region's shared boundaries. A few cities sit in two.",
+  "t": "Forway thuộc cả bốn vùng, và bất kỳ ngôi làng nào nằm trong ranh giới chung của các vùng cũng vậy. Một vài thành phố nằm ở hai vùng."
+ },
+ "dc7ecc031030": {
+  "en": "<strong>Moving goods.</strong> Shipping costs about 1 Pearl per kg for every 120 km for Tier I (cheap) goods, 84 km for Tier II (common), 58.8 km for Tier III (expensive) and 29.4 km for Tier IV (nobility).",
+  "t": "<strong>Vận chuyển hàng hóa.</strong> Phí vận chuyển khoảng 1 Pearl cho mỗi kg trên mỗi 120 km với hàng Bậc I (rẻ), 84 km với Bậc II (thông thường), 58,8 km với Bậc III (đắt tiền) và 29,4 km với Bậc IV (quý tộc)."
+ },
+ "dedff028b5cd": {
+  "en": "<strong>Where it comes from:</strong> fishermen from Sanbi gathered them at first, but once the Cruros showed up, it became their task, since it was close to free labor.",
+  "t": "<strong>Nguồn gốc:</strong> ban đầu ngư dân Sanbi nhặt chúng, nhưng khi người Cruro xuất hiện, đó trở thành việc của họ, vì gần như là lao động miễn phí."
  },
  "e159c87db02d": {
   "en": "Balls are the standardized currency as determined by the Prosperity Treaty.",
   "t": "Bi là tiền tệ tiêu chuẩn theo quy định của Hiệp ước Thịnh vượng."
  },
+ "e22cccd20b15": {
+  "en": "Apprentice",
+  "t": "Học việc"
+ },
+ "e4bd9e6e33ad": {
+  "en": "To get a feel for the value, the author's spreadsheet counts 1 Pearl as about 1 US dollar.",
+  "t": "Để hình dung giá trị, bảng tính của tác giả tính 1 Pearl bằng khoảng 1 đô la Mỹ."
+ },
+ "e531fa700ac9": {
+  "en": "Freeish and Tolerideme regions",
+  "t": "Vùng Freeish và Tolerideme"
+ },
+ "e68b25011dad": {
+  "en": "The average weekly pay assumes pay for every work day: 4 a week, with Forrday off. Some professions don't accrue pay on days off.",
+  "t": "Mức lương tuần trung bình giả định được trả cho mọi ngày làm việc: 4 ngày một tuần, nghỉ Forrday. Một số nghề không được tính lương vào ngày nghỉ."
+ },
+ "e752de704b66": {
+  "en": "Mainly exports",
+  "t": "Xuất khẩu chính"
+ },
  "eb60618ad04c": {
   "en": "Sigil Rings",
   "t": "Nhẫn ấn ký"
+ },
+ "ec5ccdb787af": {
+  "en": "A ton of flora and fauna",
+  "t": "Hàng tấn thực vật và động vật"
+ },
+ "ee4f72170e2b": {
+  "en": "<strong>What it buys:</strong> a fully grown tamed egua, properties, slavery contracts, guilds, specialized education, Tier IX+ Soul Energy.",
+  "t": "<strong>Mua được gì:</strong> một con egua đã thuần hóa trưởng thành, bất động sản, hợp đồng nô lệ, hội, giáo dục chuyên biệt, Năng lượng linh hồn Bậc IX trở lên."
+ },
+ "f0d211264deb": {
+  "en": "Apprentice, per hour",
+  "t": "Học việc, theo giờ"
+ },
+ "f118bc6e6f02": {
+  "en": "Freeish and Sanbi regions",
+  "t": "Vùng Freeish và Sanbi"
+ },
+ "f2ddf5a1dc47": {
+  "en": "Pay in Pearls, by Profession Tier:",
+  "t": "Lương tính bằng Pearl, theo Bậc nghề nghiệp:"
+ },
+ "fb18d7612151": {
+  "en": "Apprentice, per day",
+  "t": "Học việc, theo ngày"
+ },
+ "fb2d8283aad6": {
+  "en": "A region has a comparative advantage when its members can carry out a particular economic activity more efficiently than another region's. The Distance Cost Tier (D.C.T, the cost of moving goods) must be accounted for before claiming one either way.",
+  "t": "Một vùng có lợi thế so sánh khi các thành viên của nó có thể thực hiện một hoạt động kinh tế cụ thể hiệu quả hơn thành viên của vùng khác. Bậc Chi phí Khoảng cách (D.C.T, chi phí vận chuyển hàng hóa) phải được tính đến trước khi khẳng định có hay không."
  }
 }

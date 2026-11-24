@@ -31,6 +31,10 @@
   "en": "Shock VERB",
   "t": "Shock VERB"
  },
+ "0f47dfa46a4f": {
+  "en": "<strong>Increase/Decrease</strong> and <strong>Restore/Disassemble:</strong> behave like Create/Destroy.",
+  "t": "<strong>Increase/Decrease</strong> và <strong>Restore/Disassemble:</strong> hoạt động như Create/Destroy."
+ },
  "10668848ecf1": {
   "en": "Gold → Mercury",
   "t": "Vàng → Thủy ngân"
@@ -107,9 +111,17 @@
   "en": "Ice VERB",
   "t": "Ice VERB"
  },
+ "2a0404ceb303": {
+  "en": "The elemental verbs, with water.",
+  "t": "Các động từ nguyên tố, với nước."
+ },
  "2ca369f05b2d": {
   "en": "Nari sticks (nari stones chained together) fuel the spell. A single-use nari stick is spent in one cast, and they aren't cheap.",
   "t": "Que nari (đá nari xâu thành chuỗi) cung cấp năng lượng cho phép. Một que nari dùng một lần sẽ cạn sau một lần thi triển, và chúng không hề rẻ."
+ },
+ "2d68de584b52": {
+  "en": "The elemental verbs, with lava.",
+  "t": "Các động từ nguyên tố, với dung nham."
  },
  "2dba29a226b6": {
   "en": "<strong>Destroy:</strong> tries to destroy the target's whole body. At low tiers it only causes internal or external bleeding; medium tiers can cause convulsions; high tiers cause an explosion.",
@@ -158,6 +170,10 @@
  "3a54978fb627": {
   "en": "Platinum → Gold",
   "t": "Bạch kim → Vàng"
+ },
+ "3b226566c89d": {
+  "en": "The elemental verbs, with earth.",
+  "t": "Các động từ nguyên tố, với đất."
  },
  "3c410b0a889e": {
   "en": "Dust VERB",
@@ -254,6 +270,10 @@
  "5255c62e691b": {
   "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Darfaries shells appear as you do. With a sigil ring:",
   "t": "<strong>Bắt đầu phép.</strong> Siết chặt các ngón tay của bàn tay giữ phép và năng lượng linh hồn. Các lớp vỏ Darfaries xuất hiện khi bạn làm vậy. Với nhẫn ấn:"
+ },
+ "5266e81985c6": {
+  "en": "The elemental verbs, with steam.",
+  "t": "Các động từ nguyên tố, với hơi nước."
  },
  "528b9fb4db2c": {
   "en": "<strong>Increase/Decrease:</strong> the whole body grows or shrinks.",
@@ -395,6 +415,10 @@
   "en": "Ash VERB",
   "t": "Ash VERB"
  },
+ "71812d5fae7a": {
+  "en": "Works like Gravity VERB. Gabiro improved it when he helped shape the new Darfaries Interface standard; the new sigil standard he was the centerpiece of lowered the cast failure rate, especially for Water Gravity, making fanchakis mature nearly twice as fast (Vol 3).",
+  "t": "Hoạt động như Gravity VERB. Gabiro đã cải tiến nó khi giúp định hình tiêu chuẩn Giao diện Darfaries mới; tiêu chuẩn ấn ký mới mà ông là trung tâm đã giảm tỷ lệ thi triển thất bại, nhất là với Water Gravity, giúp fanchaki trưởng thành nhanh gần gấp đôi (Tập 3)."
+ },
  "724c8389bd95": {
   "en": "Steam VERB",
   "t": "Steam VERB"
@@ -415,6 +439,10 @@
   "en": "Storm VERB",
   "t": "Storm VERB"
  },
+ "77947875b9a0": {
+  "en": "The elemental verbs, with wind. Its ball is more elongated than anything.",
+  "t": "Các động từ nguyên tố, với gió. Quả cầu của nó thuôn dài hơn bất cứ thứ gì."
+ },
  "7802ad32f0ce": {
   "en": "Verbs",
   "t": "Động từ"
@@ -422,6 +450,10 @@
  "78c2d1c75d87": {
   "en": "Either way, a miscast explodes in soul flame in the caster's hands.",
   "t": "Dù thế nào, một lần thi triển hỏng sẽ phát nổ thành lửa linh hồn trong tay người thi triển."
+ },
+ "7a513f3d316a": {
+  "en": "The elemental verbs, with storm.",
+  "t": "Các động từ nguyên tố, với bão."
  },
  "7a91c4983d68": {
   "en": "World VERB",
@@ -435,6 +467,10 @@
   "en": "Transmute",
   "t": "Transmute"
  },
+ "7d9145978885": {
+  "en": "The elemental verbs, with shock.",
+  "t": "Các động từ nguyên tố, với điện giật."
+ },
  "7df913eb7771": {
   "en": "Ring #2: 8",
   "t": "Vòng #2: 8"
@@ -446,6 +482,10 @@
  "83a077984fe7": {
   "en": "The Buhraies created this interface as an enhancement to their own soul energy interface, in an attempt to control the Darfaries as a versatile army of foot soldiers.",
   "t": "Người Buhraies tạo ra giao diện này như một sự cải tiến cho giao diện năng lượng linh hồn của chính họ, nhằm điều khiển người Darfaries như một đội quân bộ binh đa năng."
+ },
+ "83b7155e04f6": {
+  "en": "The elemental verbs, with mud.",
+  "t": "Các động từ nguyên tố, với bùn."
  },
  "840823ff59c1": {
   "en": "<strong>Restore:</strong> shapes the item into the desired object by combining elements around the caster, basically the reverse of chemical reactions. Have the elements it's made of nearby to improve the odds; otherwise the repaired object may break again if the new connections aren't strong.",
@@ -466,6 +506,14 @@
  "8a4a4532c533": {
   "en": "<strong>Apply the energy.</strong> Touch what you want to apply it to with your palm and straighten your fingers, or release the spell as it is for a ranged attack. Cock your arm and time it right for extra range. The caster's body feels the weight of the spell, like firing a gun.",
   "t": "<strong>Áp dụng năng lượng.</strong> Chạm lòng bàn tay vào thứ bạn muốn áp dụng và duỗi thẳng các ngón tay, hoặc giải phóng phép như vậy để tấn công tầm xa. Co tay lại và canh đúng thời điểm để tăng tầm. Cơ thể người thi triển cảm nhận được sức nặng của phép, như khi bắn súng."
+ },
+ "8a9201f37e41": {
+  "en": "<strong>Create/Destroy:</strong> Create makes a ball of the element for a ranged attack; Destroy turns the target's element back into virtual particles. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Create/Destroy:</strong> Create tạo ra một quả cầu nguyên tố để tấn công tầm xa; Destroy biến nguyên tố của mục tiêu trở lại thành các hạt ảo. Không có mục tiêu, lửa linh hồn đơn giản là bốc hơi."
+ },
+ "8c04c55d7685": {
+  "en": "The elemental verbs, with dust.",
+  "t": "Các động từ nguyên tố, với bụi."
  },
  "8ca6193582e9": {
   "en": "Water VERB",
@@ -615,13 +663,25 @@
   "en": "<strong>Repel/Attract:</strong> the target repels or attracts the element. With no target, the soul flame simply evaporates.",
   "t": "<strong>Repel/Attract:</strong> mục tiêu đẩy hoặc hút nguyên tố. Không có mục tiêu, lửa linh hồn đơn giản là bốc hơi."
  },
+ "c7e54ecd4ad8": {
+  "en": "The ball's size follows the General Power Effects: 0.1 cm at Tier I, doubling with every tier (51.2 cm at Tier X).",
+  "t": "Kích thước quả cầu theo Hiệu ứng Sức mạnh Chung: 0,1 cm ở Bậc I, gấp đôi qua mỗi bậc (51,2 cm ở Bậc X)."
+ },
  "c8c7488b1383": {
   "en": "Environmental changes, especially creation, destruction, and manipulation of elemental properties such as water, fire, terrain, and gravity, are commonly performed through this interface.",
   "t": "Thay đổi môi trường, đặc biệt là tạo ra, phá hủy và điều khiển các thuộc tính nguyên tố như nước, lửa, địa hình và trọng lực, thường được thực hiện qua giao diện này."
  },
+ "ca4adc8484ad": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts the element. This is the one meant for gravity control. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Repel/Attract:</strong> mục tiêu đẩy hoặc hút nguyên tố. Đây là động từ dùng để điều khiển trọng lực. Không có mục tiêu, lửa linh hồn đơn giản là bốc hơi."
+ },
  "cac2d50e5374": {
   "en": "It only restores the base genetic information; it doesn't deal with whatever is causing the damage, such as worms.",
   "t": "Nó chỉ khôi phục thông tin di truyền cơ bản; nó không xử lý thứ đang gây ra tổn thương, như giun."
+ },
+ "caca7f199089": {
+  "en": "The elemental verbs, with frozen earth.",
+  "t": "Các động từ nguyên tố, với đất đóng băng."
  },
  "cb864e0c3c67": {
   "en": "Keeping your fingers clenched on the hand you used the logograms on, you must now trap the fingers, or nari stone stick, then reverse the motion while keeping the fingers clenched. This sort of “eating“ motion will suck the power and create a ball into one of the rings that will temporarily hold power. Do not worry about how fast it zips around. The rings will keep it in check until you release the spell in the final step.",
@@ -634,6 +694,10 @@
  "cd5fc47831e2": {
   "en": "Entangle",
   "t": "Entangle"
+ },
+ "cf492fe9525e": {
+  "en": "The elemental verbs, with ice.",
+  "t": "Các động từ nguyên tố, với băng."
  },
  "d08ae5111258": {
   "en": "Minor cuts and minor blood loss",
@@ -691,6 +755,14 @@
   "en": "When a spell is cast, five rings appear around the hand holding it. Each shell holds a limited number of soul energy tiers:",
   "t": "Khi một phép được thi triển, năm vòng xuất hiện quanh bàn tay giữ phép. Mỗi lớp vỏ chứa được một số bậc năng lượng linh hồn giới hạn:"
  },
+ "e2b868f1938f": {
+  "en": "The elemental verbs, with fire.",
+  "t": "Các động từ nguyên tố, với lửa."
+ },
+ "e36ef673808f": {
+  "en": "The elemental verbs, with ash.",
+  "t": "Các động từ nguyên tố, với tro."
+ },
  "e5df83155e66": {
   "en": "Full Darfaries Interface - Sigil and Nari stone mode (video)",
   "t": "Giao diện Darfaries đầy đủ - Chế độ ấn ký và đá nari (video)"
@@ -706,6 +778,10 @@
  "e8d0433850e4": {
   "en": "Fire VERB",
   "t": "Fire VERB"
+ },
+ "ea25d8fd0025": {
+  "en": "<strong>Create/Destroy:</strong> Create makes a ball of the element for a ranged attack (thanks to Hawking radiation, the black hole quickly disappears once cast); Destroy turns the target's element back into virtual particles. With no target, the soul flame simply evaporates.",
+  "t": "<strong>Create/Destroy:</strong> Create tạo ra một quả cầu nguyên tố để tấn công tầm xa (nhờ bức xạ Hawking, hố đen nhanh chóng biến mất sau khi thi triển); Destroy biến nguyên tố của mục tiêu trở lại thành các hạt ảo. Không có mục tiêu, lửa linh hồn đơn giản là bốc hơi."
  },
  "ef47633dff56": {
   "en": "Given Darfaries sport the most prominent Darfaries veins, its sheer additional volume allows them to finely sense soul energy disturbances around them, plus a rough sensation of humidity, wind, and barometric pressure—it’s like how they say, if a Darfaries tells you to buy an umbrella, you better buy one!",
