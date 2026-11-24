@@ -1,15 +1,63 @@
 {
+ "00b447876366": {
+  "en": "Madam (owner)",
+  "t": "มาดาม (เจ้าของ)"
+ },
  "025828a5b02a": {
   "en": "Red Wingas insignia: a red parrot head with a white face in a circle with a red border.",
   "t": "เครื่องหมายเรดวิงกา: หัวนกแก้วสีแดงหน้าขาวในวงกลมขอบแดง"
+ },
+ "0bf8ab96fc36": {
+  "en": "<strong>Identification:</strong> a Magina petal hidden in their clothes.",
+  "t": "<strong>การระบุตัว:</strong> กลีบมาจีนาซ่อนไว้ในเสื้อผ้า"
+ },
+ "0c167c2439bd": {
+  "en": "<strong>Members:</strong> a handful of Forway City officials, plus some Black Sapphire adventurers.",
+  "t": "<strong>สมาชิก:</strong> เจ้าหน้าที่เมืองฟอร์เวย์หยิบมือ บวกนักผจญภัยแบล็กแซฟไฟร์บางคน"
+ },
+ "0d17316c155d": {
+  "en": "<strong>Area of operation:</strong> local, depending on the impersonating group.",
+  "t": "<strong>พื้นที่ปฏิบัติการ:</strong> ท้องถิ่น ขึ้นอยู่กับกลุ่มที่แอบอ้าง"
  },
  "15399877b1e2": {
   "en": "Hidden Sorenos",
   "t": "ฮิดเดนโซเรโน"
  },
+ "1794ef59de36": {
+  "en": "<strong>Area of operation:</strong> from Forway throughout the rest of the kingdoms, through their agents.",
+  "t": "<strong>พื้นที่ปฏิบัติการ:</strong> จากฟอร์เวย์ไปทั่วอาณาจักรที่เหลือ ผ่านสายลับของพวกเขา"
+ },
+ "18a547d903bd": {
+  "en": "To most people, they're an urban legend. The core members are few and far between, but they still have pull through the Forway ranks. If you're under their gaze, you can disappear without a trace and never be seen again. Some of what people blame on them is true; some is wrongly pinned on them.",
+  "t": "สำหรับคนส่วนใหญ่ พวกเขาคือตำนานเมือง สมาชิกแกนหลักมีน้อยและกระจัดกระจาย แต่ยังมีอิทธิพลผ่านลำดับชั้นของฟอร์เวย์ ถ้าคุณอยู่ในสายตาของพวกเขา คุณอาจหายไปไร้ร่องรอยและไม่มีใครเห็นอีก บางเรื่องที่คนโทษพวกเขาเป็นความจริง บางเรื่องก็ถูกป้ายสีผิดๆ"
+ },
  "1931318d1fe1": {
   "en": "Triangle Lovers insignia: a black triangle and circle with red, yellow and blue corners.",
   "t": "เครื่องหมายไทรแองเกิลเลิฟเวอร์ส: สามเหลี่ยมและวงกลมสีดำมีมุมสีแดง เหลือง และฟ้า"
+ },
+ "1c5551913a0e": {
+  "en": "First Squadron",
+  "t": "หน่วยที่หนึ่ง"
+ },
+ "1ccedbc4c632": {
+  "en": "<strong>Recruitment:</strong> bandit to bandit, or exceptionally well-behaved citizens.",
+  "t": "<strong>การรับสมาชิก:</strong> โจรสู่โจร หรือพลเมืองที่ประพฤติดีเป็นพิเศษ"
+ },
+ "1d01e0fee070": {
+  "en": "Members:",
+  "t": "สมาชิก:"
+ },
+ "1e896c8a5bdc": {
+  "en": "There's no official artwork; some people assume this would be it.",
+  "t": "ไม่มีงานศิลป์ทางการ บางคนคิดเอาว่าน่าจะเป็นแบบนี้"
+ },
+ "1f5e3d8dd1da": {
+  "en": "Created by \"the boss\": see Kozaku Forway.",
+  "t": "ก่อตั้งโดย “บอส”: ดู โคซากุ ฟอร์เวย์"
+ },
+ "20bc2f195116": {
+  "en": "<strong>Area of operation:</strong> between Forway City and the Sanbi Kingdom, mostly attacking specific travelers, but sometimes looting houses when the chance arises.",
+  "t": "<strong>พื้นที่ปฏิบัติการ:</strong> ระหว่างเมืองฟอร์เวย์กับอาณาจักรซันบี ส่วนใหญ่โจมตีนักเดินทางเฉพาะราย แต่บางครั้งก็ปล้นบ้านเมื่อมีโอกาส"
  },
  "20e4ecb55e72": {
   "en": "Their name is kind of known more for being a secret society of sorts rather than a faction. Interestingly enough, nobody knows why they are on this list, as no average citizen seems to have crossed paths with them. Still, apparently, they piss off Forway officials so much their insignia is permanently plastered on “TOP WANTED. “ Well—some scholars assume they are behind the worst gossip, which sometimes are actual truths shared about specific individuals.",
@@ -19,21 +67,73 @@
   "en": "Public text: factions.md",
   "t": "ข้อความสาธารณะ: factions.md"
  },
+ "30f603fa8426": {
+  "en": "Keep track of your surroundings at all times.",
+  "t": "จับตาสิ่งรอบตัวตลอดเวลา"
+ },
  "31ea7034117d": {
   "en": "Triangle Lovers",
   "t": "ไทรแองเกิลเลิฟเวอร์ส"
+ },
+ "3338a5baf418": {
+  "en": "It was started by three Sapphire adventurers and has since grown to include a couple of Forway City officials. Since their plans move very slowly, they specialize in research into eternal life: whoever is left is mostly focused on keeping their souls alive as long as possible, while some try to crack the truth about the ancient species above Hifuna, make contact with them, or even dominate them (another urban legend, but based in truth).",
+  "t": "มันเริ่มโดยนักผจญภัยระดับแซฟไฟร์สามคน และตั้งแต่นั้นก็ขยายจนมีเจ้าหน้าที่เมืองฟอร์เวย์สองสามคน เพราะแผนของพวกเขาคืบหน้าช้ามาก พวกเขาจึงเชี่ยวชาญการวิจัยชีวิตนิรันดร์: คนที่ยังเหลืออยู่ส่วนใหญ่มุ่งรักษาวิญญาณของตนให้มีชีวิตนานที่สุด ขณะที่บางคนพยายามไขความจริงเกี่ยวกับสปีชีส์โบราณที่อยู่เหนือฮิฟูนา ติดต่อกับพวกมัน หรือแม้แต่ครอบงำพวกมัน (อีกตำนานเมือง แต่มีพื้นฐานจากความจริง)"
+ },
+ "349c70ef9a83": {
+  "en": "<strong>Members:</strong> 2 Dark-Red Bagarisas, 17+ Bright-Red Bagarisas.",
+  "t": "<strong>สมาชิก:</strong> บาการิซาแดงเข้ม 2 ตัว บาการิซาแดงสด 17+ ตัว"
+ },
+ "34a79307c9d9": {
+  "en": "<strong>Recruitment:</strong> adventurer to adventurer.",
+  "t": "<strong>การรับสมาชิก:</strong> นักผจญภัยสู่นักผจญภัย"
+ },
+ "357e748986c4": {
+  "en": "Brothers who lost their families to bandits from another faction and became vigilantes. Their belief in \"guilty until proven innocent\" goes against Forway Law, so they're always on the run.",
+  "t": "พี่น้องที่เสียครอบครัวให้โจรจากกลุ่มอื่นและกลายเป็นศาลเตี้ย ความเชื่อของพวกเขาใน “มีความผิดจนกว่าจะพิสูจน์ได้ว่าบริสุทธิ์” ขัดกับกฎหมายฟอร์เวย์ พวกเขาจึงหนีอยู่ตลอด"
+ },
+ "36316603924c": {
+  "en": "<strong>Recruitment:</strong> mostly bandits who know other bandits.",
+  "t": "<strong>การรับสมาชิก:</strong> ส่วนใหญ่เป็นโจรที่รู้จักโจรคนอื่น"
+ },
+ "3761bd4368da": {
+  "en": "<strong>Identification:</strong> a blue square badge with a Wozen drawn in the middle.",
+  "t": "<strong>การระบุตัว:</strong> บัตรสี่เหลี่ยมสีฟ้าที่มีรูปโวเซนวาดไว้ตรงกลาง"
  },
  "4516505b3eb9": {
   "en": "Two brothers turned passionately violent vigilantes after their entire family disappeared on the road because of scum bandits that robbed them, then buried their bodies never to be found, and revived—that’s the story they tell and convince others to join their growing ranks, but officials and scholars differ. The fact that their family was never found means it could have been beasts or a pack of wild animals, so assuming someone did it without proof is dangerous. The faction spits on that statement as they strongly believe Forway Law is outdated and wants to implement Sundeath law, where someone is not innocent until proven guilty. They believe that so much they sometimes go as far as pulling public stunts from banners to displaying corpses of bandits or even trying to kill public speakers denouncing them. Not to say they are pure evil, as they can act faster than Forway under specific scenarios, but they have wrongly punished far more than they avenged.",
   "t": "สองพี่น้องผู้กลายเป็นศาลเตี้ยที่รุนแรงและมุ่งมั่น หลังจากทั้งครอบครัวหายไปบนถนนเพราะโจรสารเลวที่ปล้นพวกเขา แล้วฝังศพไม่ให้ใครพบและชุบชีวิตได้—นั่นคือเรื่องที่พวกเขาเล่าเพื่อชักชวนคนอื่นให้เข้าร่วมกลุ่มที่ขยายตัว แต่เจ้าหน้าที่และนักวิชาการเห็นต่าง การที่ไม่เคยพบครอบครัวของพวกเขาหมายความว่าอาจเป็นสัตว์อสูรหรือฝูงสัตว์ป่า ดังนั้นการสันนิษฐานว่ามีคนทำโดยไม่มีหลักฐานจึงอันตราย กลุ่มนี้ถุยใส่คำกล่าวนั้น เพราะพวกเขาเชื่ออย่างแรงกล้าว่ากฎหมายฟอร์เวย์ล้าสมัย และอยากใช้กฎหมายซันเดธ ที่ซึ่งคนไม่ได้บริสุทธิ์จนกว่าจะพิสูจน์ได้ว่ามีความผิด พวกเขาเชื่อเรื่องนี้มากจนบางครั้งถึงขั้นจัดฉากต่อหน้าสาธารณะ ตั้งแต่ป้ายผ้าไปจนถึงการแสดงศพโจร หรือแม้แต่พยายามฆ่าผู้ปราศรัยที่ประณามพวกเขา ไม่ใช่ว่าพวกเขาชั่วร้ายล้วนๆ เพราะพวกเขาลงมือได้เร็วกว่าฟอร์เวย์ในบางสถานการณ์ แต่พวกเขาลงโทษผิดคนมากกว่าที่แก้แค้นได้ถูกตัวเสียอีก"
  },
+ "47a2b04b7f65": {
+  "en": "Three small bandit groups in Triangle City joined forces to control the city from the shadows, which worked, given the city's shady past. They're few compared to the city's size, but they work hand in hand with city officials to keep as tight a grip as possible on people's opinions and actions.",
+  "t": "กลุ่มโจรเล็กๆ สามกลุ่มในเมืองไทรแองเกิลร่วมมือกันควบคุมเมืองจากเงามืด ซึ่งก็ได้ผล เมื่อดูจากอดีตที่น่าสงสัยของเมือง พวกเขามีจำนวนน้อยเมื่อเทียบกับขนาดเมือง แต่ทำงานร่วมมือกับเจ้าหน้าที่เมืองอย่างใกล้ชิดเพื่อกำความคิดเห็นและการกระทำของผู้คนไว้ให้แน่นที่สุด"
+ },
+ "4935a261b954": {
+  "en": "<strong>Area of operation:</strong> all over, seeking out injustices and solving them with their bare fists.",
+  "t": "<strong>พื้นที่ปฏิบัติการ:</strong> ทั่วทุกที่ ตามหาความอยุติธรรมและแก้ด้วยกำปั้นเปล่า"
+ },
+ "49cf1ee2d841": {
+  "en": "Sleep your way into becoming a proxy, and you shall no longer swallow. Otherwise, swallow like no other and rise until you become the next Madam (of a given brothel; still a proxy business under Laura).",
+  "t": "นอนกับคนจนได้เป็นตัวแทน แล้วเจ้าจะไม่ต้องกลืนอีกต่อไป ไม่อย่างนั้น ก็กลืนให้ไม่มีใครเทียบ แล้วไต่ขึ้นไปจนเป็นมาดามคนต่อไป (ของซ่องแห่งหนึ่ง ซึ่งยังเป็นธุรกิจตัวแทนภายใต้ลอรา)"
+ },
+ "4d00d38b23e1": {
+  "en": "<strong>Identification:</strong> varies. Some hide a paper stamp in their fat folds.",
+  "t": "<strong>การระบุตัว:</strong> แตกต่างกัน บางคนซ่อนตราประทับกระดาษไว้ในพับไขมัน"
+ },
  "4e3a5db34423": {
   "en": "Small Factions",
   "t": "กลุ่มเล็ก"
  },
+ "4fcf50eb731e": {
+  "en": "<strong>Recruitment:</strong> they \"recruit\" Wozefaries by acquiring them in the desert before the Flatland people do, or pick young humans who are hired by a proxy of their own will. They're raised inside the proxy's business (brothels, flower shops, etc.), and when they come of age, Laura gives them contracts to sign. Then the proxy and the Madam decide whether each becomes an Agent or an Entertainer, depending on how much they trust them and whether they'd fit Laura's other \"business\" endeavors. All agents are raised through the proxies, and anyone who disobeys the proxy or Laura is forced into \"entertainment\" and dirty jobs. Young people are lured in by all kinds of promises, especially a richer life. After working very loyally as an entertainer, someone might be promoted to proxy; some agents become proxies too.",
+  "t": "<strong>การรับสมาชิก:</strong> พวกเขา “รับ” โวซแฟรีส์ด้วยการได้ตัวมาในทะเลทรายก่อนคนแฟลตแลนด์ หรือเลือกมนุษย์อายุน้อยที่ถูกตัวแทนจ้างด้วยความสมัครใจ พวกเขาถูกเลี้ยงดูในธุรกิจของตัวแทน (ซ่อง ร้านดอกไม้ ฯลฯ) และเมื่อบรรลุนิติภาวะ ลอราจะให้เซ็นสัญญา จากนั้นตัวแทนและมาดามตัดสินว่าแต่ละคนจะเป็นสายลับหรือนักให้ความบันเทิง ขึ้นอยู่กับว่าไว้ใจพวกเขาแค่ไหน และพวกเขาจะเข้ากับ “ธุรกิจ” อื่นๆ ของลอราได้หรือไม่ สายลับทุกคนถูกเลี้ยงดูผ่านตัวแทน และใครก็ตามที่ไม่เชื่อฟังตัวแทนหรือลอราจะถูกบังคับให้ไป “ให้ความบันเทิง” และทำงานสกปรก คนหนุ่มสาวถูกล่อด้วยคำสัญญาสารพัด โดยเฉพาะชีวิตที่ร่ำรวยขึ้น หลังทำงานเป็นนักให้ความบันเทิงอย่างภักดีมาก บางคนอาจได้เลื่อนเป็นตัวแทน สายลับบางคนก็ได้เป็นตัวแทนด้วย"
+ },
  "57a228c52e31": {
   "en": "Everyone knows they are dangerous if you stand in their way, but nobody knows their size precisely. Their members are very tight-lipped and loyal. The only reason Red Winga is known is because of the choker bottom-ranking individuals wear after they sign their life away in a legally bound contract, sometimes unwittingly—ALLEGEDLY! Forway could never prove those accusations were true.",
   "t": "ทุกคนรู้ว่าพวกเขาอันตรายถ้าคุณขวางทาง แต่ไม่มีใครรู้ขนาดที่แน่ชัดของพวกเขา สมาชิกปากหนักและภักดีมาก เหตุผลเดียวที่คนรู้จักเรดวิงกาก็เพราะปลอกคอที่สมาชิกระดับล่างสุดสวมหลังจากเซ็นชีวิตตัวเองไปในสัญญาที่มีผลผูกพันทางกฎหมาย บางครั้งโดยไม่รู้ตัว—ตามข้อกล่าวหานะ! ฟอร์เวย์ไม่เคยพิสูจน์ได้ว่าข้อกล่าวหานั้นเป็นจริง"
+ },
+ "5ce2e6f40299": {
+  "en": "Agent",
+  "t": "สายลับ"
  },
  "6094f7711352": {
   "en": "Hidden Sorenos insignia: a line drawing of a small round rodent in a black square frame.",
@@ -43,9 +143,25 @@
   "en": "Large Factions",
   "t": "กลุ่มใหญ่"
  },
+ "67f55e0ee5b1": {
+  "en": "<strong>Area of operation:</strong> Triangle City.",
+  "t": "<strong>พื้นที่ปฏิบัติการ:</strong> เมืองไทรแองเกิล"
+ },
  "68830797ca07": {
   "en": "163 (images illustration)",
   "t": "163 (ภาพประกอบ)"
+ },
+ "6cbabddebdff": {
+  "en": "Entertainer",
+  "t": "นักให้ความบันเทิง"
+ },
+ "764f21af36e8": {
+  "en": "<strong>Area of operation:</strong> all regions, since Sapphires are accepted everywhere.",
+  "t": "<strong>พื้นที่ปฏิบัติการ:</strong> ทุกภูมิภาค เพราะแซฟไฟร์เป็นที่ยอมรับทุกที่"
+ },
+ "7768bd231343": {
+  "en": "Factions (World Lore illustration)",
+  "t": "กลุ่มอำนาจ (ภาพประกอบตำนานโลก)"
  },
  "7b0a5f4efbd3": {
   "en": "A small group of Toleridemian men that turned into banditry to get extra beer money. They were swiftly brought to justice, but the name and insignia stuck, and like-minded people started to get behind this insignia to prove a point. They are a genuinely decentralized group of bandits that still share a single purpose of drinking beer with other people’s balls.",
@@ -55,6 +171,14 @@
   "en": "Factions · #HusbandOutWorld",
   "t": "กลุ่ม · #HusbandOutWorld"
  },
+ "7c1f9633e2ae": {
+  "en": "Second Squadron",
+  "t": "หน่วยที่สอง"
+ },
+ "7c4d89cf0466": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Factions.md\">Legacy/Behind The Scenes/World Lore/Factions.md</a>",
+  "t": "แหล่งที่มา: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Factions.md\">Legacy/Behind The Scenes/World Lore/Factions.md</a>"
+ },
  "7ed52a03be7c": {
   "en": "Someone heard that word somewhere once and spread around saying this group is trying to create a new world where a single kingdom rules it all. The idea alone is so insane that it became a joke, and the name stuck in the collective societal knowledge. Forway of course investigated the four corners of the world, and even paid people for leads to get to the bottom of it, but nothing came of it. Their reaction was so over the top that the joke lost its meaning, and some began to wonder if this whole thing was an inside job to create an excuse for increasing taxation over the Embassy quest system to take more money away from adventurers and put into the Forway guards. The image portrayed for Black Sapphires is what some people assume their insignia is since nobody knows if it even exists.",
   "t": "มีคนได้ยินคำนั้นที่ไหนสักแห่งครั้งหนึ่งแล้วกระจายข่าวว่ากลุ่มนี้พยายามสร้างโลกใหม่ที่มีอาณาจักรเดียวปกครองทั้งหมด แค่ความคิดนั้นก็บ้าจนกลายเป็นเรื่องตลก และชื่อนั้นก็ติดอยู่ในความรู้ร่วมของสังคม ฟอร์เวย์แน่นอนว่าสืบสวนทั้งสี่มุมโลก และถึงขั้นจ่ายเงินให้ผู้ที่มีเบาะแสเพื่อสืบให้ถึงต้นตอ แต่ก็ไม่ได้อะไรเลย ปฏิกิริยาของพวกเขาเกินเหตุจนเรื่องตลกหมดความหมาย และบางคนเริ่มสงสัยว่าทั้งหมดนี้เป็นงานจากคนใน เพื่อสร้างข้ออ้างขึ้นภาษีในระบบภารกิจของสถานทูต เพื่อเอาเงินจากนักผจญภัยมาให้ทหารยามฟอร์เวย์มากขึ้น ภาพที่แสดงสำหรับแบล็กแซฟไฟร์คือสิ่งที่บางคนสันนิษฐานว่าเป็นเครื่องหมายของพวกเขา เพราะไม่มีใครรู้ว่ามันมีอยู่จริงหรือเปล่า"
@@ -63,17 +187,53 @@
   "en": "Three small bandit groups in Triangle city merged into a bigger one over time, perhaps with assistance from the ruling family to further micromanage everything. When The Prosperity Treaty was enacted, and Forway officials came to the city to set up the embassy and gather information, they were met with resistance. This resistance grew so fierce that the city turned on Forway to establish itself as a kingdom. Forway tried to be precise in its killings to crumble the organization, but people’s devotion to the “triangle way“ proved too problematic. To prevent a massacre, Forway made a special deal where their Triangle embassy would have less administrative powers over the city, and they opened an additional room in the city embassy dedicated to this faction for the sake of preventing a simple mistake on their end or from most likely an adventurer, from blowing into a hot mess.",
   "t": "กลุ่มโจรเล็กๆ สามกลุ่มในเมืองไทรแองเกิลรวมตัวเป็นกลุ่มใหญ่ขึ้นเมื่อเวลาผ่านไป บางทีอาจด้วยความช่วยเหลือของตระกูลผู้ปกครองเพื่อควบคุมทุกอย่างให้ละเอียดยิ่งขึ้น เมื่อสนธิสัญญาแห่งความรุ่งเรืองถูกบังคับใช้ และเจ้าหน้าที่ฟอร์เวย์มาที่เมืองเพื่อตั้งสถานทูตและรวบรวมข้อมูล พวกเขาเจอการต่อต้าน การต่อต้านนี้รุนแรงขึ้นจนเมืองหันมาต่อต้านฟอร์เวย์เพื่อสถาปนาตัวเองเป็นอาณาจักร ฟอร์เวย์พยายามสังหารอย่างแม่นยำเพื่อทำลายองค์กร แต่ความจงรักภักดีของผู้คนต่อ “วิถีสามเหลี่ยม“ กลับเป็นปัญหาเกินไป เพื่อป้องกันการสังหารหมู่ ฟอร์เวย์จึงทำข้อตกลงพิเศษให้สถานทูตไทรแองเกิลมีอำนาจบริหารเมืองน้อยลง และเปิดห้องเพิ่มในสถานทูตของเมืองเพื่อกลุ่มนี้โดยเฉพาะ เพื่อกันไม่ให้ความผิดพลาดเล็กๆ ของฝ่ายพวกเขา หรือที่น่าจะเป็นมากกว่าคือจากนักผจญภัย ลุกลามเป็นความวุ่นวายใหญ่โต"
  },
+ "817527e5d2f3": {
+  "en": "<strong>Area of operation:</strong> on the run.",
+  "t": "<strong>พื้นที่ปฏิบัติการ:</strong> หนีอยู่"
+ },
  "852c466805c9": {
   "en": "Red Winga",
   "t": "เรดวิงกา"
+ },
+ "866b4d32a4ad": {
+  "en": "<strong>Recruitment:</strong> bandit to bandit, or bars.",
+  "t": "<strong>การรับสมาชิก:</strong> โจรสู่โจร หรือบาร์"
+ },
+ "8685292d3eb3": {
+  "en": "<strong>Members:</strong> unknown; many other small bandit groups use the logo.",
+  "t": "<strong>สมาชิก:</strong> ไม่ทราบ กลุ่มโจรเล็กๆ อื่นๆ มากมายใช้โลโก้นี้"
+ },
+ "87c2ac7c014e": {
+  "en": "Emelia Lakeeye Rich-Flower (Forway branch), and 3+",
+  "t": "เอมีเลีย เลกอาย ริช ฟลาวเวอร์ (สาขาฟอร์เวย์) และอีก 3+ คน"
+ },
+ "87d0bbd5af53": {
+  "en": "<strong>Members:</strong> 50+ by Forway's investigation, and they all seem to have equal voices. Publicly, Pussy Power claims a very specific 273 (as of Asa 1039 A.G.); Forway hasn't researched it in depth either, but believes the number is likely inflated.",
+  "t": "<strong>สมาชิก:</strong> มากกว่า 50 คนจากการสืบสวนของฟอร์เวย์ และดูเหมือนทุกคนมีเสียงเท่ากัน ต่อสาธารณะ พุสซีพาวเวอร์อ้างตัวเลขที่เฉพาะเจาะจงมากคือ 273 (ณ อาซา 1039 A.G.) ฟอร์เวย์ก็ไม่ได้ศึกษาเชิงลึกเช่นกัน แต่เชื่อว่าตัวเลขน่าจะเกินจริง"
+ },
+ "88c5acf8443f": {
+  "en": "<strong>Members:</strong> 3 Trianglers, 30+ Lovers.",
+  "t": "<strong>สมาชิก:</strong> ไทรแองเกิลเลอร์ 3 คน เลิฟเวอร์ 30+ คน"
+ },
+ "8a01060a4aac": {
+  "en": "<strong>Members:</strong> 4 leaders, 15+ Sorenos.",
+  "t": "<strong>สมาชิก:</strong> ผู้นำ 4 คน โซเรโน 15+ คน"
  },
  "8ad4f7943bfe": {
   "en": "Blue Wozens",
   "t": "บลูโวเซน"
  },
+ "8d3ba9bc8bdf": {
+  "en": "Built by a small group of Forway's richest people to do all kinds of crazy deeds in the background, especially to curb their enemies' success without leaving a paper or blood trail: a way around the bureaucracy and those in power. They're slow to plan and act, but extremely precise when they strike.",
+  "t": "สร้างโดยกลุ่มเล็กๆ ของคนที่รวยที่สุดในฟอร์เวย์ เพื่อทำเรื่องบ้าบอสารพัดอยู่เบื้องหลัง โดยเฉพาะเพื่อสกัดความสำเร็จของศัตรูโดยไม่ทิ้งร่องรอยบนกระดาษหรือคราบเลือด: เป็นทางเลี่ยงระบบราชการและผู้มีอำนาจ พวกเขาวางแผนและลงมือช้า แต่แม่นยำอย่างยิ่งเมื่อจู่โจม"
+ },
  "9044c97c854e": {
   "en": "“The only reason everyone calls them Factions instead of Kingdoms is because they aren’t big enough to do as they please.” -  Julina Forway Sucks-My-Balls (855 A.G. - 895 A.G.)",
   "t": "“เหตุผลเดียวที่ทุกคนเรียกพวกเขาว่ากลุ่มแทนที่จะเป็นอาณาจักร ก็เพราะพวกเขาไม่ใหญ่พอจะทำอะไรตามใจชอบ” -  จูลินา ฟอร์เวย์ ซักส์มายบอลส์ (855 A.G. - 895 A.G.)"
+ },
+ "920a90cc34a3": {
+  "en": "<strong>Identification:</strong> they're extremely careful, so they leave no paper trail.",
+  "t": "<strong>การระบุตัว:</strong> พวกเขาระมัดระวังอย่างยิ่ง จึงไม่ทิ้งร่องรอยบนกระดาษ"
  },
  "94851ff297a0": {
   "en": "Fallen Tree",
@@ -83,6 +243,10 @@
   "en": "Medium Factions",
   "t": "กลุ่มขนาดกลาง"
  },
+ "960d797fa4af": {
+  "en": "<strong>Recruitment:</strong> woman to woman.",
+  "t": "<strong>การรับสมาชิก:</strong> ผู้หญิงสู่ผู้หญิง"
+ },
  "998139a0fcdf": {
   "en": "You probably met and had to “donate” stuff to them if you traveled between Forway and Sanbi. They probably have a decent den hidden with a small but trusted cluster of bandits somewhere around the region, but adventurers and Forway guards can’t seem to find it. At least they know Kozaku Forway is the person behind it all, but he’s close to a legend as nobody has seen him in forever—maybe it’s for the best, too, for he is presumed to be as powerful as Hifuna beasts after tampering his soul with Walking Heart.",
   "t": "ถ้าคุณเคยเดินทางระหว่างฟอร์เวย์กับซันบี คุณคงเคยเจอและต้อง “บริจาค” ของให้พวกเขา พวกเขาน่าจะมีรังที่ดีพอใช้ซ่อนอยู่กับกลุ่มโจรเล็กๆ ที่ไว้ใจได้ที่ไหนสักแห่งในแถบนั้น แต่นักผจญภัยและทหารยามฟอร์เวย์ดูเหมือนจะหาไม่เจอ อย่างน้อยพวกเขาก็รู้ว่าโคซากุ ฟอร์เวย์คือคนที่อยู่เบื้องหลังทั้งหมด แต่เขาแทบจะเป็นตำนานไปแล้ว เพราะไม่มีใครเห็นเขามานานมาก—บางทีอาจดีแล้ว เพราะเขาถูกสันนิษฐานว่าทรงพลังเท่าสัตว์อสูรฮิฟูนาหลังจากดัดแปลงวิญญาณด้วยวอล์กกิงฮาร์ต"
@@ -91,33 +255,129 @@
   "en": "Bagarisas Brothers",
   "t": "บาการิซาบราเธอร์ส"
  },
+ "9e15979ed1ee": {
+  "en": "<strong>Identification:</strong> they wear their insignia on dog tags, and their badge proudly on their right arm.",
+  "t": "<strong>การระบุตัว:</strong> พวกเธอสวมเครื่องหมายบนป้ายห้อยคอ และติดบัตรประจำตัวอย่างภาคภูมิใจที่แขนขวา"
+ },
+ "9ea022c24750": {
+  "en": "If anyone asks, say \"We are here to please you.\"",
+  "t": "ถ้ามีใครถาม ให้ตอบว่า “เราอยู่ที่นี่เพื่อทำให้คุณพอใจ”"
+ },
+ "9eb601f2b941": {
+  "en": "Once a famous guild of Wood People killers, it fell apart when some bad Wood Yabuca (apples) joined and steered it into banditry. Adventurers went after their heads, and they now seem disbanded, though some say otherwise. They act like the Blue Wozens but blame the Wood People instead, and their motive is simply easy money, not revenge. They often harass villagers for protection money against the Wood People, or deliberately set the Wood People on the village to attack it mindlessly.",
+  "t": "ครั้งหนึ่งเคยเป็นกิลด์นักฆ่าวูดพีเพิลชื่อดัง แต่ล่มสลายเมื่อวูดยาบูกา (แอปเปิล) เน่าๆ บางตัวเข้าร่วมและพามันไปสู่การเป็นโจร นักผจญภัยตามล่าหัวพวกเขา และตอนนี้ดูเหมือนจะสลายตัวไปแล้ว แม้บางคนจะบอกว่าไม่ พวกเขาทำตัวเหมือนบลูโวเซน แต่โทษวูดพีเพิลแทน และแรงจูงใจก็แค่เงินง่ายๆ ไม่ใช่การแก้แค้น พวกเขามักรีดไถชาวบ้านเป็นค่าคุ้มครองจากวูดพีเพิล หรือจงใจปล่อยวูดพีเพิลให้โจมตีหมู่บ้านอย่างไร้สติ"
+ },
+ "9f9f45a942a5": {
+  "en": "Hides communication, deals with agents",
+  "t": "ซ่อนการสื่อสาร ติดต่อกับสายลับ"
+ },
  "a3546c491c28": {
   "en": "“The only reason everyone calls them Factions instead of Kingdoms is because they aren’t big enough to do as they please.”",
   "t": "“เหตุผลเดียวที่ทุกคนเรียกพวกเขาว่ากลุ่มแทนที่จะเป็นอาณาจักร ก็เพราะพวกเขาไม่ใหญ่พอจะทำอะไรตามใจชอบ”"
+ },
+ "a38c731e877d": {
+  "en": "<strong>Recruitment:</strong> mostly villagers looking for more money in life.",
+  "t": "<strong>การรับสมาชิก:</strong> ส่วนใหญ่เป็นชาวบ้านที่หาเงินเพิ่มในชีวิต"
+ },
+ "a5db164945e2": {
+  "en": "<strong>Identification:</strong> a small paper drawing they hide away, as a badge of their honor and intentions.",
+  "t": "<strong>การระบุตัว:</strong> ภาพวาดเล็กๆ บนกระดาษที่พวกเขาซ่อนไว้ เป็นตราแห่งเกียรติและเจตนาของพวกเขา"
+ },
+ "a67663ee5a07": {
+  "en": "<strong>Recruitment:</strong> the rich aristocrats' most trusted people are enrolled as Sorenos.",
+  "t": "<strong>การรับสมาชิก:</strong> คนที่ไว้ใจที่สุดของขุนนางผู้มั่งคั่งถูกรับเข้าเป็นโซเรโน"
+ },
+ "a9b60159a172": {
+  "en": "Katsuki Flatland, Katsumi Flatland, and 80+",
+  "t": "คัตสึกิ แฟลตแลนด์ คัตสึมิ แฟลตแลนด์ และอีก 80+ คน"
+ },
+ "a9deaa78b05d": {
+  "en": "Sex, gathering information, etc.",
+  "t": "เซ็กซ์ การรวบรวมข้อมูล ฯลฯ"
  },
  "b3680c5eaf14": {
   "en": "Once a famous guild of Wood People killers turned into banditry. Luckily it did not grow out of control like the Bagarisa Brothers as they shifted their goals away from hard, honest work. They are a nuisance around the Tolerideme region, and their tactics always involve using Wood People to block roads, trap wagons and carriages, and let the trees wreak havoc. Afterward, they swoop in and pick up whatever is left.",
   "t": "เคยเป็นกิลด์นักล่าวูดพีเพิลชื่อดังที่หันมาเป็นโจร โชคดีที่ไม่ได้ขยายตัวเกินควบคุมแบบบาการิซาบราเธอร์ส เพราะพวกเขาเปลี่ยนเป้าหมายออกจากงานหนักอันสุจริต พวกเขาเป็นตัวกวนในแถบโทเลอริดีม และกลยุทธ์ของพวกเขามักใช้วูดพีเพิลขวางถนน ดักเกวียนและรถม้า แล้วปล่อยให้ต้นไม้อาละวาด หลังจากนั้นพวกเขาก็โฉบเข้ามาเก็บทุกอย่างที่เหลือ"
  },
+ "b54b44a3e3eb": {
+  "en": "Guilds of women adventurers who banded together into a super guild to help each other out. But with too many chefs in the kitchen, things quickly turn to shit. Forway hasn't put them on the wanted list like the Bagarisa Brothers; only the minority that apparently grew too empowered, disturbing the peace and acting as if they were Forway guards. They mostly help women and children they see in harm's way, but sometimes misjudge the situation and cause unnecessary grief, like beating a father to a pulp after his child said something stupid about not getting the promised candy.",
+  "t": "กิลด์ของนักผจญภัยหญิงที่รวมตัวกันเป็นซูเปอร์กิลด์เพื่อช่วยเหลือกัน แต่พ่อครัวมากเกินไปในครัว เรื่องก็พังเป็นขี้อย่างรวดเร็ว ฟอร์เวย์ไม่ได้ใส่พวกเธอในรายชื่อผู้ต้องหาเหมือนบาการิซาบราเธอร์ส มีแค่ส่วนน้อยที่ดูเหมือนได้อำนาจมากเกินไป ก่อกวนความสงบและทำตัวราวกับเป็นทหารยามฟอร์เวย์ ส่วนใหญ่พวกเธอช่วยผู้หญิงและเด็กที่เห็นว่ากำลังตกอยู่ในอันตราย แต่บางครั้งก็ประเมินสถานการณ์ผิดและก่อความเดือดร้อนโดยไม่จำเป็น อย่างการกระทืบพ่อคนหนึ่งจนน่วมหลังจากลูกพูดอะไรโง่ๆ เรื่องไม่ได้ขนมที่สัญญาไว้"
+ },
+ "b6536f2733b8": {
+  "en": "<strong>Identification:</strong> a metal badge.",
+  "t": "<strong>การระบุตัว:</strong> บัตรโลหะ"
+ },
+ "b7d0d1eb5273": {
+  "en": "Marcus Big-Gyut, Wilson Big-Gyut, Clodoveu Big-Gyut",
+  "t": "มาร์คัส บิ๊กกยุต วิลสัน บิ๊กกยุต โคลโดเวว บิ๊กกยุต"
+ },
+ "b7e269062400": {
+  "en": "Boss",
+  "t": "บอส"
+ },
  "b7fd57dcada2": {
   "en": "A super guild of sorts after many smaller woman-led guilds banded together to help each other. Their latest self-reported size was 273 which would place them into one of the largest guilds ever. However, like many things in life, when there are too many chefs in the kitchen, things quickly turn to shit. Some members of this group began acting as if they were Forway guards and taking justice into their own hands. Adventurers are a decentralized army but can only pass judgment if authorized by a proper Forway or Kingdom representative under The Prosperity Treaty Section #2 Sub 3. Given they help more than harm as it stands, and their justice rampages have been kept in check by their members, Forway did not formally place them on the wanted list like Bagarisa Brothers. Although, Forway is not keen on promoting them either, as sometimes their misjudgment of the situation causes unnecessary grievances, such as beating a father to a pulp after his child said a stupid thing for not getting the promised candy. At least Pussy Power members are easy to spot as they wear their insignia around their right arm, so keep communication with them at a minimum and report their actions to the nearest guard—be it good or bad.",
   "t": "เป็นเหมือนซูเปอร์กิลด์ หลังจากกิลด์เล็กๆ มากมายที่นำโดยผู้หญิงรวมตัวกันเพื่อช่วยเหลือกัน ขนาดที่รายงานเองล่าสุดคือ 273 ซึ่งจะทำให้เป็นหนึ่งในกิลด์ที่ใหญ่ที่สุดเท่าที่เคยมีมา แต่เหมือนหลายเรื่องในชีวิต เมื่อพ่อครัวในครัวมากเกินไป เรื่องก็เละเร็ว สมาชิกบางคนของกลุ่มนี้เริ่มทำตัวเหมือนทหารยามฟอร์เวย์และตัดสินความยุติธรรมกันเอง นักผจญภัยเป็นกองทัพกระจายอำนาจ แต่จะตัดสินลงโทษได้ก็ต่อเมื่อได้รับอนุญาตจากตัวแทนฟอร์เวย์หรืออาณาจักรที่ถูกต้องตามสนธิสัญญาแห่งความรุ่งเรือง มาตรา #2 ข้อ 3 เนื่องจากตอนนี้พวกเขาช่วยมากกว่าทำร้าย และการอาละวาดเพื่อความยุติธรรมของพวกเขาถูกสมาชิกควบคุมไว้ ฟอร์เวย์จึงไม่ได้ขึ้นบัญชีประกาศจับพวกเขาอย่างเป็นทางการเหมือนบาการิซาบราเธอร์ส แต่ฟอร์เวย์ก็ไม่ได้อยากส่งเสริมพวกเขาเช่นกัน เพราะบางครั้งการตัดสินสถานการณ์ผิดพลาดก็สร้างความเดือดร้อนโดยใช่เหตุ เช่น รุมซ้อมพ่อคนหนึ่งจนน่วมหลังจากลูกพูดอะไรโง่ๆ เพราะไม่ได้ลูกอมที่สัญญาไว้ อย่างน้อยสมาชิกพุสซีพาวเวอร์ก็สังเกตง่าย เพราะพวกเธอติดเครื่องหมายไว้ที่ต้นแขนขวา จึงควรติดต่อกับพวกเธอให้น้อยที่สุดและรายงานการกระทำของพวกเธอต่อทหารยามที่ใกล้ที่สุด—ไม่ว่าจะดีหรือร้าย"
+ },
+ "b8ff4d1d242a": {
+  "en": "<strong>Area of operation:</strong> the Freeish outskirts.",
+  "t": "<strong>พื้นที่ปฏิบัติการ:</strong> ชานเมืองฟรีอิช"
  },
  "beafe21c5975": {
   "en": "Pussy Power insignia: a simple drawing of a woman's hips and lower torso.",
   "t": "เครื่องหมายพุสซีพาวเวอร์: ภาพวาดง่ายๆ ของสะโพกและท่อนล่างของผู้หญิง"
  },
+ "c0242e6983ca": {
+  "en": "<strong>Identification:</strong> only certain agents who work as entertainers wear the Red Winga choker, as a sign of disobedience and distrust.",
+  "t": "<strong>การระบุตัว:</strong> มีเพียงสายลับบางคนที่ทำงานเป็นนักให้ความบันเทิงที่สวมโชกเกอร์เรดวิงกา เป็นสัญลักษณ์ของการไม่เชื่อฟังและความไม่ไว้วางใจ"
+ },
+ "c3f104d13657": {
+  "en": "Role",
+  "t": "บทบาท"
+ },
  "c509a591848b": {
   "en": "Beer Ball insignia: a line drawing of a happy chubby man chugging from a large mug.",
   "t": "เครื่องหมายเบียร์บอล: ภาพลายเส้นชายอ้วนร่าเริงกำลังซดจากแก้วเบียร์ใหญ่"
+ },
+ "c822d9667445": {
+  "en": "<strong>Members:</strong> 5 masters, 15+ apprentices.",
+  "t": "<strong>สมาชิก:</strong> ช่างฝีมือ 5 คน เด็กฝึกงาน 15+ คน"
  },
  "c8b7f1228278": {
   "en": "Black Sapphires",
   "t": "แบล็กแซฟไฟร์"
  },
+ "c908c6ff186f": {
+  "en": "Third Squadron",
+  "t": "หน่วยที่สาม"
+ },
+ "c97dd6b40e99": {
+  "en": "<strong>Recruitment:</strong> only trustworthy Sapphire adventurers.",
+  "t": "<strong>การรับสมาชิก:</strong> เฉพาะนักผจญภัยระดับแซฟไฟร์ที่ไว้ใจได้"
+ },
  "c992aad4b16f": {
   "en": "Factions",
   "t": "กลุ่ม"
+ },
+ "cbe8a18abcac": {
+  "en": "<strong>Identification:</strong> a small Soreno badge hidden in their underwear.",
+  "t": "<strong>การระบุตัว:</strong> บัตรโซเรโนเล็กๆ ซ่อนไว้ในกางเกงใน"
+ },
+ "cfc9a8c5cf8c": {
+  "en": "A group of fat men who turned to banditry for extra beer money. They were mocked and brought to justice on their first heist. Other bandit groups now use the name to move around more easily, using the joke as cover for their conversations and plans, while officials are still trying to work out how many impersonating groups there are and how they differ.",
+  "t": "กลุ่มผู้ชายอ้วนที่หันไปเป็นโจรเพื่อหาเงินซื้อเบียร์เพิ่ม พวกเขาถูกล้อเลียนและถูกนำตัวมาลงโทษตั้งแต่การปล้นครั้งแรก ตอนนี้กลุ่มโจรอื่นใช้ชื่อนี้เพื่อเคลื่อนไหวได้ง่ายขึ้น ใช้มุกตลกนี้บังหน้าบทสนทนาและแผนการ ขณะที่เจ้าหน้าที่ยังพยายามหาว่ามีกลุ่มแอบอ้างกี่กลุ่มและต่างกันอย่างไร"
+ },
+ "d034f7d47843": {
+  "en": "<strong>Area of operation:</strong> their entertainment houses are centered around Forway, serving an upscale clientele and gathering information on targets. Their proxies are often side businesses that agents deal with.",
+  "t": "<strong>พื้นที่ปฏิบัติการ:</strong> สถานบันเทิงของพวกเขาตั้งอยู่รอบฟอร์เวย์ ให้บริการลูกค้าระดับบน และรวบรวมข้อมูลเกี่ยวกับเป้าหมาย ตัวแทนของพวกเขามักเป็นธุรกิจข้างเคียงที่สายลับติดต่อด้วย"
+ },
+ "d1cea344353e": {
+  "en": "Proxy",
+  "t": "ตัวแทน"
+ },
+ "d3aa2d3461cf": {
+  "en": "<strong>Members, per franchise:</strong> 1 Chef, 1 Herbalist, 10 Cultivators.",
+  "t": "<strong>สมาชิก ต่อแฟรนไชส์:</strong> เชฟ 1 คน นักสมุนไพร 1 คน ผู้เพาะปลูก 10 คน"
  },
  "d4b24dd78821": {
   "en": "Wood People insignia: a red tree with roots inside a black circle, on a pink pentagon over blue.",
@@ -131,17 +391,57 @@
   "en": "Beer Balls",
   "t": "เบียร์บอลส์"
  },
+ "d9c743918189": {
+  "en": "A group inside Forway's administration that seeks power by unifying Forway into a single nation, then bringing every leader under its command. Their goal is to usher in a new age of prosperity by finishing what the courtroom scientists started but didn't have the balls to finish: toppling all the kingdoms. Not the same as the Hidden Sorenos, but with somewhat similar goals.",
+  "t": "กลุ่มหนึ่งในฝ่ายบริหารของฟอร์เวย์ที่แสวงหาอำนาจด้วยการรวมฟอร์เวย์ให้เป็นชาติเดียว แล้วนำผู้นำทุกคนมาอยู่ใต้การบัญชาของตน เป้าหมายของพวกเขาคือนำยุคใหม่แห่งความรุ่งเรืองมาด้วยการทำสิ่งที่นักวิทยาศาสตร์ประจำราชสำนักเริ่มไว้แต่ไม่มีไข่พอจะทำให้จบ: โค่นอาณาจักรทั้งหมด ไม่ใช่กลุ่มเดียวกับฮิดเดนโซเรโน แต่มีเป้าหมายคล้ายกันอยู่บ้าง"
+ },
+ "dc957b465934": {
+  "en": "<strong>Recruitment:</strong> bars, and people who lost family to bandits.",
+  "t": "<strong>การรับสมาชิก:</strong> บาร์ และคนที่เสียครอบครัวให้โจร"
+ },
  "dc9a7a1c98d3": {
   "en": "Blue Wozens insignia: a snarling red spotted cat-like face with a raised paw, in a blue square frame.",
   "t": "เครื่องหมายบลูโวเซน: ใบหน้าคล้ายแมวลายจุดสีแดงกำลังขู่ยกอุ้งเท้า ในกรอบสี่เหลี่ยมสีฟ้า"
+ },
+ "dd48a1149548": {
+  "en": "Rank",
+  "t": "ยศ"
+ },
+ "de2bdfa08047": {
+  "en": "<strong>Area of operation:</strong> mostly Tolerideme to Forway.",
+  "t": "<strong>พื้นที่ปฏิบัติการ:</strong> ส่วนใหญ่จากโทเลอริดีมถึงฟอร์เวย์"
  },
  "de51eaf1d4cf": {
   "en": "Bagarisa Brothers insignia: two mirrored white boar heads with red crests and curved tusks, in a red frame.",
   "t": "เครื่องหมายบาการิซาบราเธอร์ส: หัวหมูป่าสีขาวสองหัวหันเข้าหากันแบบสะท้อน มีหงอนสีแดงและงาโค้ง ในกรอบสีแดง"
  },
+ "e04ec244c31e": {
+  "en": "Arukia Long-Bridge, and 10+",
+  "t": "อารุเกีย ลอง บริดจ์ และอีก 10+ คน"
+ },
+ "e0760d90d91a": {
+  "en": "<strong>Upkeep:</strong> upper-class by design. That's how Laura attracts high-interest clients and extracts information to sell on the black market or hold as blackmail. A sick worker is healed and put back to work. Hired mercenaries aren't members and don't wear the choker; they carry a metallic square badge stamped with Red Winga.",
+  "t": "<strong>การดูแล:</strong> ระดับสูงโดยการออกแบบ นั่นคือวิธีที่ลอราดึงดูดลูกค้าที่น่าสนใจมาก และดึงข้อมูลไปขายในตลาดมืดหรือเก็บไว้แบล็กเมล คนงานที่ป่วยจะได้รับการรักษาและกลับไปทำงาน ทหารรับจ้างที่ว่าจ้างมาไม่ใช่สมาชิกและไม่สวมโชกเกอร์ พวกเขาพกบัตรโลหะสี่เหลี่ยมที่ประทับเรดวิงกา"
+ },
+ "e1c94bbbdbc1": {
+  "en": "Laura Forway White-Bell's faction (see Characters). Red Winga has a strong sense of principles, which Laura requires:",
+  "t": "กลุ่มอำนาจของลอรา ฟอร์เวย์ ไวต์ เบลล์ (ดู ตัวละคร) เรดวิงกามีหลักการที่แน่วแน่ ซึ่งลอรากำหนดไว้:"
+ },
+ "e6b4991b4108": {
+  "en": "Infiltrates other places to gather information, manipulate, steal",
+  "t": "แทรกซึมเข้าไปในที่อื่นๆ"
+ },
+ "e6d81e2c3d38": {
+  "en": "<strong>Identification:</strong> a secret handshake: make tusks with your index and pinky fingers and touch the other person's \"tusks\".",
+  "t": "<strong>การระบุตัว:</strong> การจับมือลับ: ทำเขี้ยวด้วยนิ้วชี้กับนิ้วก้อยแล้วแตะ “เขี้ยว” ของอีกฝ่าย"
+ },
  "e933fba6b968": {
   "en": "Fallen Tree insignia: a pink line drawing of a broken tree stump and its fallen crown, in a blue frame.",
   "t": "เครื่องหมายฟอลเลนทรี: ภาพลายเส้นสีชมพูของตอไม้หักและยอดที่ล้มลง ในกรอบสีฟ้า"
+ },
+ "eb7dc74f05a8": {
+  "en": "<strong>Identification:</strong> a guild badge hidden inside their clothing.",
+  "t": "<strong>การระบุตัว:</strong> บัตรกิลด์ซ่อนไว้ในเสื้อผ้า"
  },
  "ebb0a7b30b66": {
   "en": "Whenever there's a demand for banned drugs, there will always be a business-savvy somebody to supply it. These people are the ones whose expertise is so great they created an entire franchising model out of that! Whoever is at the top keeps collecting their cut from the backend while helping set up new franchises in the countryside every year. Meanwhile, Forway has to put out quests to shut them down constantly, which is an excuse to allocate more taxpayer balls into the quest system. That, in turn, are quests Aquamarine adventurers can expect they will get yearly. It's a well-oiled machine, and everyone wins from it—except those who want to get high off Magina because it's too fucking expensive.",
@@ -151,9 +451,25 @@
   "en": "A group of ex-adventurers who fell from grace after growing discontent with the predatory revival fees from the Adventurer’s guild. They turned into banditry, explicitly aiming to steal money from Forway treasuries. That promise led them to grow their rank into a medium-sized faction. Most of their actions have been thwarted, and the faction’s HQ taken over by Forway, but whenever you chop down a tree, another sprouts somewhere else. The main reason they have been on Forway’s kill-on-sight list was their successful robbery of three nari stone caches which market price would put it at tens of Sapphires—they did recover part of it after identifying one of the stealers after he hurt himself opening the vault, and bleed on the floor. Forway suspects they are still in the tens of members, and because there must be some adventurers amongst their ranks, exterminating them is proving impossible due to them spying on other adventurers taking quests.",
   "t": "กลุ่มอดีตนักผจญภัยที่ตกต่ำหลังจากไม่พอใจค่าชุบชีวิตแบบขูดรีดของกิลด์นักผจญภัยมากขึ้นเรื่อยๆ พวกเขาหันไปเป็นโจร โดยมุ่งขโมยเงินจากคลังของฟอร์เวย์อย่างโจ่งแจ้ง คำสัญญานั้นทำให้กลุ่มขยายตัวเป็นกลุ่มขนาดกลาง การกระทำส่วนใหญ่ของพวกเขาถูกขัดขวาง และกองบัญชาการของกลุ่มถูกฟอร์เวย์ยึด แต่ทุกครั้งที่คุณโค่นต้นไม้ต้นหนึ่ง อีกต้นก็งอกขึ้นที่อื่น เหตุผลหลักที่พวกเขาอยู่ในบัญชีเห็นแล้วฆ่าของฟอร์เวย์คือการปล้นคลังหินนาริสามแห่งสำเร็จ ซึ่งราคาตลาดอยู่ที่หลายสิบแซฟไฟร์—พวกเขากู้คืนได้บางส่วนหลังระบุตัวหนึ่งในคนร้ายได้ เพราะเขาบาดเจ็บตอนเปิดห้องนิรภัยและเลือดหยดบนพื้น ฟอร์เวย์สงสัยว่าพวกเขายังมีสมาชิกหลักสิบ และเพราะต้องมีนักผจญภัยบางคนอยู่ในกลุ่ม การกำจัดพวกเขาจึงเป็นไปไม่ได้ เพราะพวกเขาสอดแนมนักผจญภัยคนอื่นที่รับภารกิจ"
  },
+ "f25488eadef3": {
+  "en": "<strong>Area of operation:</strong> decentralized.",
+  "t": "<strong>พื้นที่ปฏิบัติการ:</strong> กระจายอำนาจ"
+ },
+ "f2945c3390b7": {
+  "en": "<strong>Recruitment:</strong> bandit-to-bandit word of mouth.",
+  "t": "<strong>การรับสมาชิก:</strong> ปากต่อปากจากโจรสู่โจร"
+ },
  "f45c797755cb": {
   "en": "Pussy Power",
   "t": "พุสซีพาวเวอร์"
+ },
+ "f4fa3d9cd4f7": {
+  "en": "Magina (a drug that's smoked) is how they got into the black market business; they then expanded naturally into banned nari gels to diversify, and they're the best-known faction behind Mind Enabler, which Forway banned. They're criminals, but they're not stupid. They rose to \"success\" by never killing anyone: all their attacks are carried out with nari gels, using Magina to put everyone to sleep. They hold firmly to never killing anyone, no matter how problematic the person is. They run on a franchise model, to keep a constant supply and stop other gangs from supplying Magina.",
+  "t": "มาจีนา (ยาเสพติดแบบสูบ) คือทางที่พวกเขาเข้าสู่ธุรกิจตลาดมืด จากนั้นขยายไปสู่เจลนาริต้องห้ามอย่างเป็นธรรมชาติเพื่อกระจายความเสี่ยง และพวกเขาคือกลุ่มที่รู้จักกันดีที่สุดเบื้องหลังไมนด์เอนาเบลอร์ ซึ่งฟอร์เวย์สั่งห้าม พวกเขาเป็นอาชญากร แต่ไม่ได้โง่ พวกเขาไต่ขึ้นสู่ “ความสำเร็จ” ด้วยการไม่เคยฆ่าใคร: การโจมตีทั้งหมดทำด้วยเจลนาริ ใช้มาจีนาทำให้ทุกคนหลับ พวกเขายึดมั่นว่าจะไม่ฆ่าใครเด็ดขาด ไม่ว่าคนนั้นจะสร้างปัญหาแค่ไหน พวกเขาดำเนินงานแบบแฟรนไชส์ เพื่อให้มีของป้อนต่อเนื่องและหยุดแก๊งอื่นไม่ให้ป้อนมาจีนา"
+ },
+ "f65205b49e80": {
+  "en": "Ex-adventurers who fell from grace after growing fed up with the Adventurer's guild's predatory revival fees. They turned to banditry, targeting Forway treasuries specifically. Most of their attempts so far were uncovered or fought off, and the ex-adventurers who were caught were tortured in hidden places. The rest are on the run, surviving day to day by targeting Forway guards and any small Forway fish they can sink their teeth into.",
+  "t": "อดีตนักผจญภัยที่ตกต่ำหลังเอือมระอากับค่าชุบชีวิตแบบเอาเปรียบของกิลด์นักผจญภัย พวกเขาหันไปเป็นโจร เล็งคลังของฟอร์เวย์โดยเฉพาะ ความพยายามส่วนใหญ่จนถึงตอนนี้ถูกเปิดโปงหรือถูกต้านไว้ได้ และอดีตนักผจญภัยที่ถูกจับได้ถูกทรมานในที่ลับ ที่เหลือหนีอยู่ เอาตัวรอดไปวันๆ โดยเล็งทหารยามฟอร์เวย์และปลาเล็กปลาน้อยของฟอร์เวย์ที่พวกเขาฝังเขี้ยวได้"
  },
  "f9946253fa37": {
   "en": "Black Sapphires insignia: a dark-blue faceted disc with golden swirling arms.",

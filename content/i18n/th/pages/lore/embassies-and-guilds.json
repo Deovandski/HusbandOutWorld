@@ -1,19 +1,63 @@
 {
+ "02a031ca9a25": {
+  "en": "<strong>Tier IV, Sapphire:</strong> Well-rounded in many parts of life, including battle and conflict management (talking with kings and queens, investigations, etc.). Most seem loyal to Forway City and to keeping its power throughout the kingdoms, and a handful are tight-lipped, especially about Forway's private matters. Requires Adventurer School and many years of loyal service.",
+  "t": "<strong>ระดับ IV แซฟไฟร์:</strong> รอบด้านในหลายด้านของชีวิต รวมถึงการต่อสู้และการจัดการความขัดแย้ง (เจรจากับกษัตริย์และราชินี การสืบสวน ฯลฯ) ส่วนใหญ่ดูภักดีต่อเมืองฟอร์เวย์และต่อการรักษาอำนาจของมันทั่วอาณาจักร และไม่กี่คนปากหนัก โดยเฉพาะเรื่องส่วนตัวของฟอร์เวย์ ต้องผ่านโรงเรียนนักผจญภัยและรับใช้อย่างภักดีหลายปี"
+ },
+ "0352e771baad": {
+  "en": "Every newborn should be registered promptly with a badge from the local embassy; it's the only way to use the embassies' services. It's common for people of Tier I and II status not to have a badge, or to get one later in life.",
+  "t": "ทารกแรกเกิดทุกคนควรได้รับการลงทะเบียนพร้อมบัตรประจำตัวจากสถานทูตท้องถิ่นโดยเร็ว มันเป็นทางเดียวที่จะใช้บริการของสถานทูตได้ เป็นเรื่องปกติที่คนระดับ I และ II ไม่มีบัตรประจำตัว หรือได้มาภายหลังในชีวิต"
+ },
  "05ec697dfbca": {
   "en": "Forway Winga and Big Winga: a Forway guard riding a huge blue parrot-like Big Winga, with smaller Wingas in flight.",
   "t": "ฟอร์เวย์วิงกาและบิ๊กวิงกา: ทหารยามฟอร์เวย์ขี่บิ๊กวิงกาตัวใหญ่สีฟ้าคล้ายนกแก้ว พร้อมวิงกาตัวเล็กกว่าที่กำลังบิน"
+ },
+ "062f9ac90d0c": {
+  "en": "A badge is official identification, especially for adventurers as they're promoted between tiers. It's about the size of a credit card, normally made of soul wood (hence its greenish color), with the holder's name carved in and the Forway logo on the back; a fresh one still smells of burnt wood. Four balls decorate the corners: iron for a regular citizen (like Eiri's in Vol 1), or matched to the rank for adventurers: every adventurer starts as a Pearl and moves up to Amethyst, Aquamarine and Sapphire. Black wood badges are for city officials, kingdom representatives and embassy representatives: in Sanbi, only Itagiba Sanbi Royal and Lofinghy Sanbi Forway General have one (Itagiba's corners have four distinctly colored shiny balls: red, blue, green and yellow). A badge costs 1 amethyst.",
+  "t": "บัตรประจำตัวคือเอกสารระบุตัวตนทางการ โดยเฉพาะสำหรับนักผจญภัยขณะเลื่อนระดับ มันมีขนาดราวบัตรเครดิต ปกติทำจากไม้โซลวูด (จึงมีสีเขียวๆ) มีชื่อผู้ถือสลักไว้และโลโก้ฟอร์เวย์ด้านหลัง บัตรใหม่ยังมีกลิ่นไม้ไหม้ บอลสี่ลูกประดับที่มุม: เหล็กสำหรับพลเมืองทั่วไป (อย่างของเอรีในเล่ม 1) หรือตรงกับยศสำหรับนักผจญภัย: นักผจญภัยทุกคนเริ่มที่เพิร์ล และเลื่อนขึ้นเป็นอเมทิสต์ อความารีน และแซฟไฟร์ บัตรไม้ดำมีไว้สำหรับเจ้าหน้าที่เมือง ผู้แทนอาณาจักร และผู้แทนสถานทูต: ในซันบี มีเพียงอิตากิบา ซันบี รอยัล และโลฟิงฮี ซันบี ฟอร์เวย์ เจเนอรัล ที่มี (มุมของอิตากิบามีบอลเงาวับสี่ลูกสีต่างกันชัดเจน: แดง น้ำเงิน เขียว และเหลือง) บัตรประจำตัวราคา 1 อเมทิสต์"
+ },
+ "08cc02d1b8eb": {
+  "en": "Jobs offered to adventurers. Some require a minimum rank; for local quests, see the local embassy.",
+  "t": "งานที่เสนอให้นักผจญภัย บางงานต้องมียศขั้นต่ำ สำหรับภารกิจท้องถิ่น ดูที่สถานทูตท้องถิ่น"
  },
  "09d7889c3137": {
   "en": "Adventurers",
   "t": "นักผจญภัย"
  },
+ "0d4fb3c30205": {
+  "en": "Any adventurer can be revived at any embassy if they choose. When taking a quest, they accept a deadline, after which a search party is sent to recover their body and try to finish the quest for them. If the body is found, they're revived, and Forway takes 50% of their profit on every other quest until the debt is repaid. If they die again before repaying it, they're forced to become Forway guards; if they flee, they become wanted criminals. Some people consider this effectively slavery.",
+  "t": "นักผจญภัยคนใดก็ชุบชีวิตได้ที่สถานทูตใดก็ได้ถ้าเลือก เมื่อรับภารกิจ พวกเขายอมรับกำหนดเวลา หลังจากนั้นจะมีหน่วยค้นหาถูกส่งไปกู้ศพและพยายามทำภารกิจให้เสร็จแทน ถ้าพบศพ พวกเขาจะถูกชุบชีวิต และฟอร์เวย์จะหัก 50% ของกำไรจากทุกภารกิจหลังจากนั้นจนกว่าจะใช้หนี้หมด ถ้าพวกเขาตายอีกก่อนใช้หนี้หมด จะถูกบังคับให้เป็นทหารยามฟอร์เวย์ ถ้าหนี จะกลายเป็นอาชญากรที่ถูกตามจับ บางคนมองว่านี่คือการเป็นทาสดีๆ นี่เอง"
+ },
+ "0f35aa699c52": {
+  "en": "<strong>Tier II, Amethyst:</strong> Often carriage protection, beast and bandit hunting, and related requests. The de facto fauna hunters, often paired with Pearls for training and a helping hand. Some bounty hunting; sets bandit traps.",
+  "t": "<strong>ระดับ II อเมทิสต์:</strong> มักคุ้มกันรถม้า ล่าสัตว์อสูรและโจร และคำขอที่เกี่ยวข้อง เป็นนักล่าสัตว์โดยพฤตินัย มักจับคู่กับเพิร์ลเพื่อฝึกและเป็นผู้ช่วย ล่าค่าหัวบ้าง วางกับดักโจร"
+ },
  "155d421bc4d5": {
   "en": "Embassy News",
   "t": "ข่าวสถานทูต"
  },
+ "15bd4a14ac0f": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Embassies%20%26%20Guilds.md\">Legacy/Behind The Scenes/World Lore/Embassies &amp; Guilds.md</a>",
+  "t": "แหล่งที่มา: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Embassies%20%26%20Guilds.md\">Legacy/Behind The Scenes/World Lore/Embassies &amp; Guilds.md</a>"
+ },
+ "187f43c429c8": {
+  "en": "<strong>1. General</strong> (1 Pearl + rewards): The cheapest. Usually people looking for specific things, or wanting to brag; over the years it turned into a marketplace for odd things. Posted on the general board and in the weekly Forway News printout, where anyone can read it or ask a guard. Pearl adventurers sometimes check this board, but don't count on it.",
+  "t": "<strong>1. ทั่วไป</strong> (1 เพิร์ล + รางวัล): ถูกที่สุด ปกติเป็นคนหาของเฉพาะอย่าง หรืออยากอวด เมื่อเวลาผ่านไปมันกลายเป็นตลาดของแปลกๆ ติดบนกระดานทั่วไปและในใบพิมพ์ฟอร์เวย์นิวส์รายสัปดาห์ ที่ใครก็อ่านหรือถามทหารยามได้ นักผจญภัยระดับเพิร์ลดูกระดานนี้บ้าง แต่อย่าหวังมาก"
+ },
  "1a9e871a3a0a": {
   "en": "Missing People, personal protection, etc. Usually, all quests are classified as Local warnings. The usual “Pay to Win,” or rather, “Pay To Be Heard.” Your thing will be posted on the Quest board, which is where Adventurers are far more keen to check out. The captain will also announce all open quests/news of this level on every Monnalow. Some companies/traders advertise their wares at this level as well.",
   "t": "คนหาย การคุ้มกันส่วนตัว ฯลฯ ปกติภารกิจทั้งหมดถูกจัดเป็นคำเตือนท้องถิ่น “จ่ายเพื่อชนะ” แบบปกติ หรือพูดให้ถูกคือ “จ่ายเพื่อให้มีคนฟัง” เรื่องของคุณจะติดบนกระดานภารกิจ ซึ่งนักผจญภัยชอบมาดูมากกว่า กัปตันยังจะประกาศภารกิจ/ข่าวที่เปิดอยู่ในระดับนี้ทุกมอนนาโลว์ บางบริษัท/พ่อค้าก็โฆษณาสินค้าในระดับนี้ด้วย"
+ },
+ "1defd1949b9d": {
+  "en": "Quest",
+  "t": "ภารกิจ"
+ },
+ "2101e24f1892": {
+  "en": "Adventurer is officially a Forway City job, created to keep order and keep tabs on the rumors spreading through the kingdoms: a kind of decentralized military. Retired adventurers and Forway City officials rank adventurers to match them to quests. Recognitions and promotions are handed out once a year, at the Adventurer feast every Paulin 100th. It's a way for people of lower stature to get a better life, though more dangerous than city life (that is, if they don't die too much).",
+  "t": "นักผจญภัยเป็นอาชีพของเมืองฟอร์เวย์อย่างเป็นทางการ สร้างขึ้นเพื่อรักษาความสงบและคอยจับตาข่าวลือที่แพร่ไปทั่วอาณาจักร: เป็นกองทัพแบบกระจายอำนาจรูปแบบหนึ่ง นักผจญภัยที่เกษียณแล้วและเจ้าหน้าที่เมืองฟอร์เวย์จัดอันดับนักผจญภัยเพื่อจับคู่กับภารกิจ การยกย่องและการเลื่อนขั้นมอบปีละครั้ง ที่งานเลี้ยงนักผจญภัยทุกวันที่ 100 เปาลิน มันเป็นทางให้คนฐานะต่ำได้ชีวิตที่ดีขึ้น แม้จะอันตรายกว่าชีวิตในเมือง (นั่นคือ ถ้าพวกเขาไม่ตายบ่อยเกินไป)"
+ },
+ "2133268410f1": {
+  "en": "Embassies & Guilds (World Lore illustration)",
+  "t": "สถานทูตและกิลด์ (ภาพประกอบตำนานโลก)"
  },
  "2a3829fdb5da": {
   "en": "Type 1: General",
@@ -31,13 +75,37 @@
   "en": "Badges",
   "t": "บัตรประจำตัว"
  },
+ "314f20edf89c": {
+  "en": "<strong>Guilds:</strong> for one sapphire, you can create an officially recognized guild. The embassy keeps the official member list by duplicating members' badges and storing them in-house. Guild services include property management for certain members, asset management, storage, etc. Adventurers and families use it widely to share resources.",
+  "t": "<strong>กิลด์:</strong> ด้วยหนึ่งแซฟไฟร์ คุณก่อตั้งกิลด์ที่ได้รับการรับรองอย่างเป็นทางการได้ สถานทูตเก็บรายชื่อสมาชิกทางการไว้โดยทำสำเนาบัตรประจำตัวของสมาชิกและเก็บไว้ภายใน บริการของกิลด์รวมถึงการจัดการทรัพย์สินสำหรับสมาชิกบางคน การจัดการสินทรัพย์ คลังเก็บของ ฯลฯ นักผจญภัยและครอบครัวใช้กันแพร่หลายเพื่อแบ่งปันทรัพยากร"
+ },
  "32281ce01ca1": {
   "en": "Badges, Embassies &amp; Guilds",
   "t": "บัตรประจำตัว สถานทูต &amp; กิลด์"
  },
+ "32767bc87ce3": {
+  "en": "Contracts",
+  "t": "สัญญา"
+ },
+ "34c808d0a63f": {
+  "en": "News",
+  "t": "ข่าว"
+ },
+ "35c8ef17664f": {
+  "en": "Cargo Protection, Beast Hunt, Bounty Hunting, Bandit Traps, Training, Village Checker",
+  "t": "คุ้มกันสินค้า ล่าสัตว์อสูร ล่าค่าหัว กับดักโจร การฝึก ผู้ตรวจหมู่บ้าน"
+ },
  "3d2e183679d3": {
   "en": "Type 3: Kingdom Alert",
   "t": "ประเภท 3: การแจ้งเตือนระดับอาณาจักร"
+ },
+ "3eb17f3f25b8": {
+  "en": "Forway holds the price at 1 Pearl to send a letter to any embassy. The envelope comes with a single white page; you can buy premium paper at the embassy or bring your own, as long as the letter weighs no more than four pearl balls. Anything heavier goes by private mail or the storage service.",
+  "t": "ฟอร์เวย์ตรึงราคาไว้ที่ 1 เพิร์ลเพื่อส่งจดหมายไปสถานทูตใดก็ได้ ซองมาพร้อมกระดาษขาวหนึ่งแผ่น คุณซื้อกระดาษพรีเมียมที่สถานทูตหรือนำมาเองได้ ตราบใดที่จดหมายหนักไม่เกินบอลเพิร์ลสี่ลูก อะไรที่หนักกว่าส่งทางไปรษณีย์เอกชนหรือบริการคลังเก็บของ"
+ },
+ "406349649d33": {
+  "en": "Soul Energy Assist, Fauna Hunting, Construction Assistance (in the wild, such as roads), Lighthouse Assistance, Road Maintenance Assistance",
+  "t": "ผู้ช่วยพลังวิญญาณ ล่าสัตว์ ผู้ช่วยงานก่อสร้าง (ในป่า เช่น ถนน) ผู้ช่วยประภาคาร ผู้ช่วยซ่อมบำรุงถนน"
  },
  "4b9871f50afd": {
   "en": "Some become loved, some become feared, and sometimes both, depending on who you ask, but either way, they all work towards that one goal.",
@@ -59,21 +127,61 @@
   "en": "Embassies are opulent seven-story tall buildings planted in major Forway cities and every kingdom. Their overall dark-looking construction contrasted the accenting bright red, orange, blue, and green from the four kingdoms, even going so far as using the same specialty-made nari-glass from the Forway City palace, giving this building a unique look that doesn’t matter where you came from or where you go, you know what this building stands for, and who it belongs to—including the black fence surrounding the moat.<br>\nIf you want to use the building like any other badge-holder citizen of the kingdoms, then they will welcome you with wide open arms and a kiss! Maybe not a kiss, but you get the point. They provide badge, courier, banking, revival, guild, contract, storage, quest, and adventurer services, so this building is always packed with citizens, Forway guards, and adventurers.",
   "t": "สถานทูตเป็นอาคารหรูหราสูงเจ็ดชั้นที่ตั้งอยู่ในเมืองใหญ่ของฟอร์เวย์และทุกอาณาจักร โครงสร้างโดยรวมที่ดูมืดทึมตัดกับสีแดง ส้ม ฟ้า และเขียวสดใสจากสี่อาณาจักรที่ใช้เป็นสีเน้น ถึงขั้นใช้กระจกนาริแบบพิเศษชนิดเดียวกับพระราชวังเมืองฟอร์เวย์ ทำให้อาคารนี้มีเอกลักษณ์ ไม่ว่าคุณจะมาจากไหนหรือไปที่ใด คุณจะรู้ว่าอาคารนี้หมายถึงอะไรและเป็นของใคร—รวมถึงรั้วสีดำที่ล้อมรอบคูน้ำ<br>\nถ้าคุณอยากใช้อาคารนี้เหมือนพลเมืองผู้ถือบัตรประจำตัวของอาณาจักรทั่วไป พวกเขาจะต้อนรับคุณด้วยอ้อมแขนที่เปิดกว้างและจูบ! อาจไม่ใช่จูบ แต่คุณเข้าใจ พวกเขาให้บริการด้านบัตรประจำตัว ไปรษณีย์ ธนาคาร การชุบชีวิต กิลด์ สัญญา คลังเก็บของ ภารกิจ และนักผจญภัย อาคารนี้จึงแน่นขนัดไปด้วยพลเมือง ทหารยามฟอร์เวย์ และนักผจญภัยตลอดเวลา"
  },
+ "5cb01c69b512": {
+  "en": "Revival services",
+  "t": "บริการชุบชีวิต"
+ },
+ "5eef32f9590e": {
+  "en": "Who runs it",
+  "t": "ใครบริหาร"
+ },
  "5f9bef959fb9": {
   "en": "They are so strict with it that it doesn't matter if you're a Sanbi guard that found themselves in the wrong place. Your king or queen won't be able to move a finger despite the Forway embassy being inside the Sanbi Kingdom. You will be Sanbi shit out of luck. Same for any other embassies.",
   "t": "พวกเขาเข้มงวดเรื่องนี้มากจนไม่สำคัญว่าคุณเป็นทหารยามซันบีที่ไปอยู่ผิดที่ผิดทาง กษัตริย์หรือราชินีของคุณจะขยับนิ้วไม่ได้เลย แม้สถานทูตฟอร์เวย์จะตั้งอยู่ในอาณาจักรซันบี วิญญาณเฒ่าแห่งซันบีเอ๊ย คุณซวยสุดๆ แล้ว สถานทูตอื่นก็เหมือนกัน"
+ },
+ "63129358bafe": {
+  "en": "Adventurer lounge and quest boards, where people come in to post quests",
+  "t": "ห้องรับรองนักผจญภัยและกระดานภารกิจ ที่ซึ่งผู้คนเข้ามาลงประกาศภารกิจ"
+ },
+ "66f7de7d105d": {
+  "en": "<strong>Tier V, Black Sapphire (hidden):</strong> See <a href=\"/lore/factions/\">Factions › Black Sapphires</a>.",
+  "t": "<strong>ระดับ V แบล็กแซฟไฟร์ (ซ่อนอยู่):</strong> ดู <a href=\"/lore/factions/\">กลุ่มอำนาจ › แบล็กแซฟไฟร์</a>"
+ },
+ "692f41323528": {
+  "en": "Open concept: you can see the horizon, and Forway guards receive and release wingas here. All mail is sent and received on this floor.",
+  "t": "แบบเปิดโล่ง: คุณมองเห็นขอบฟ้า และทหารยามฟอร์เวย์รับและปล่อยวิงกาที่นี่ จดหมายทั้งหมดรับส่งที่ชั้นนี้"
  },
  "6e38c9740c9e": {
   "en": "Badges, Embassies & Guilds · #HusbandOutWorld",
   "t": "บัตรประจำตัว สถานทูต &amp; กิลด์ · #HusbandOutWorld"
  },
+ "6f84b38f429b": {
+  "en": "<strong>Tier III, Aquamarine:</strong> Tackles more dangerous quests: wiping out bandit camps, dangerous beasts, Hifuna control. Highly sought-after bounty hunting. Requires Fundamental School, or passing a test.",
+  "t": "<strong>ระดับ III อความารีน:</strong> รับภารกิจที่อันตรายกว่า: กวาดล้างค่ายโจร สัตว์อสูรอันตราย การควบคุมฮิฟูนา การล่าค่าหัวที่เป็นที่ต้องการสูง ต้องผ่านโรงเรียนพื้นฐาน หรือสอบผ่าน"
+ },
  "73dbf724d595": {
   "en": "Type 2: Local Warning",
   "t": "ประเภท 2: คำเตือนท้องถิ่น"
  },
+ "78b923bae335": {
+  "en": "Captains have been essential to keeping stability, peace and prosperity ever since the Prosperity Treaty. Some are loved, some feared, sometimes both, depending on who you ask, but they all work toward the same goal. Why would someone of that stature dress like a guard, with only a fancy cap to set them apart? Forway makes all generals' armor and social clothing the same as the soldiers', so they remember where they came from and the impact of their actions: it's easy to get lost in the numbers and make a decision that looks good on paper but strains the relationship between the kingdoms, or the people, and Forway.",
+  "t": "กัปตันเป็นหัวใจสำคัญในการรักษาเสถียรภาพ สันติภาพ และความรุ่งเรืองนับตั้งแต่สนธิสัญญาแห่งความรุ่งเรือง บางคนเป็นที่รัก บางคนเป็นที่หวาดกลัว บางครั้งทั้งสองอย่าง ขึ้นอยู่กับว่าถามใคร แต่ทุกคนทำงานเพื่อเป้าหมายเดียวกัน ทำไมคนระดับนั้นถึงแต่งตัวเหมือนทหารยาม โดยมีแค่หมวกหรูๆ แยกให้ต่าง? ฟอร์เวย์ทำให้ชุดเกราะและชุดสังคมของเจเนอรัลทุกคนเหมือนของทหาร เพื่อให้พวกเขาจำได้ว่ามาจากไหนและการกระทำของตนส่งผลอย่างไร: มันง่ายที่จะหลงอยู่ในตัวเลขและตัดสินใจสิ่งที่ดูดีบนกระดาษ แต่ทำให้ความสัมพันธ์ระหว่างอาณาจักร หรือประชาชน กับฟอร์เวย์ตึงเครียด"
+ },
  "796b471d3a57": {
   "en": "There’s always at least one guard mounted in a big winga flying around, but do be wary that big winga is another forway guard who transformed himself into a big winga, so they are much wiser than the beasts—if you have somehow seen one given their pretty much extinct nature.\nAlso, don’t forget the cutesy wingas tirelessly traveling back and forth between embassies, carrying vital information, love letters, and of course, gossip and shit posting all over the land. They are not known for spying on the contents of letters, but if you’re up to no good, you should obscure the messaging just in case.",
   "t": "มีทหารยามอย่างน้อยหนึ่งนายขี่บิ๊กวิงกาบินวนอยู่เสมอ แต่ระวังไว้ว่าบิ๊กวิงกาตัวนั้นคือทหารยามฟอร์เวย์อีกคนที่แปลงร่างเป็นบิ๊กวิงกา พวกมันจึงฉลาดกว่าสัตว์อสูรมาก—ถ้าคุณเคยเห็นตัวจริงสักตัวน่ะนะ เพราะแทบจะสูญพันธุ์ไปแล้ว\nและอย่าลืมวิงกาน่ารักๆ ที่บินไปกลับระหว่างสถานทูตไม่รู้เหนื่อย ขนข้อมูลสำคัญ จดหมายรัก และแน่นอน ข่าวซุบซิบและโพสต์ป่วนไปทั่วแผ่นดิน พวกมันไม่ได้ขึ้นชื่อเรื่องแอบอ่านจดหมาย แต่ถ้าคุณคิดร้าย ก็ควรเข้ารหัสข้อความไว้เผื่อ"
+ },
+ "79ba345928fc": {
+  "en": "<strong>2. Local Warning</strong> (1 Amethyst + rewards): Missing people, personal protection, etc. Usually, all quests are Local Warnings: the usual \"Pay To Be Heard\". Posted on the quest board, which adventurers are far keener to check, and the captain announces every open quest and news item of this level each Monnalow. Some companies and traders advertise here too. Posting may be delayed while they investigate.",
+  "t": "<strong>2. คำเตือนท้องถิ่น</strong> (1 อเมทิสต์ + รางวัล): คนหาย การคุ้มกันส่วนตัว ฯลฯ ปกติภารกิจทั้งหมดเป็นคำเตือนท้องถิ่น: แบบ “จ่ายเพื่อให้มีคนฟัง” ตามปกติ ติดบนกระดานภารกิจ ซึ่งนักผจญภัยกระตือรือร้นจะดูมากกว่ามาก และกัปตันประกาศภารกิจที่เปิดอยู่และข่าวทุกชิ้นของระดับนี้ทุกมอนนาโลว์ บริษัทและพ่อค้าบางรายก็โฆษณาที่นี่ด้วย การติดประกาศอาจล่าช้าขณะที่พวกเขาสืบสวน"
+ },
+ "7ba6c8c730d7": {
+  "en": "Area Surveillance",
+  "t": "เฝ้าระวังพื้นที่"
+ },
+ "7db82f74092f": {
+  "en": "Floor",
+  "t": "ชั้น"
  },
  "7ecb87d513c0": {
   "en": "265 (images illustration)",
@@ -83,17 +191,93 @@
   "en": "Now, why would someone of such stature be dressed like a guard, with only a fancy cap to differentiate them? It's simple, really! Forway enforces all the generals' armor and social clothing to be the same as soldiers to ensure they remain aware of where they came from and the impact of all their actions, as it's easy to get lost in the numbers and make a decision that seems good on paper but creates a strain in the relationship between the kingdoms, or people, and Forway.",
   "t": "แล้วทำไมคนระดับนั้นถึงแต่งตัวเหมือนทหารยาม มีแค่หมวกหรูๆ ที่ต่างออกไป? ง่ายมาก! ฟอร์เวย์บังคับให้ชุดเกราะและชุดสังคมของนายพลทุกคนเหมือนกับของทหาร เพื่อให้พวกเขาตระหนักอยู่เสมอว่ามาจากไหนและผลกระทบของการกระทำทั้งหมด เพราะง่ายที่จะหลงอยู่ในตัวเลขแล้วตัดสินใจสิ่งที่ดูดีบนกระดาษแต่สร้างความตึงเครียดในความสัมพันธ์ระหว่างอาณาจักร หรือประชาชน กับฟอร์เวย์"
  },
+ "8395769df0da": {
+  "en": "Message Spreader (around cities and villages when there aren't enough Forway guards)",
+  "t": "ผู้กระจายข่าว (รอบเมืองและหมู่บ้านเมื่อทหารยามฟอร์เวย์ไม่พอ)"
+ },
  "844505a8fe2e": {
   "en": "Embassies are also responsible for being the news source and relay for Forway (and in some aspects for Kingdoms as well). They have a classification for news events, each costing progressively more than the previous one:",
   "t": "สถานทูตยังรับผิดชอบเป็นแหล่งข่าวและผู้กระจายข่าวของฟอร์เวย์ (และในบางแง่ของอาณาจักรด้วย) พวกเขาจัดประเภทข่าวสาร แต่ละประเภทแพงขึ้นเรื่อยๆ จากประเภทก่อนหน้า:"
+ },
+ "86c3c99b59c8": {
+  "en": "Bandit Extermination, Personal Protection, Adventurer Hunter/Rescuer operations, Archeologist Assistance",
+  "t": "กำจัดโจร คุ้มกันส่วนตัว ปฏิบัติการล่า/กู้ภัยนักผจญภัย ผู้ช่วยนักโบราณคดี"
+ },
+ "8b2e11244b43": {
+  "en": "People with similar skills, trades or character band together to share ownership of their assets. Since people have no last names, a guild is also how an individual stands out.",
+  "t": "ผู้คนที่มีทักษะ อาชีพ หรือนิสัยคล้ายกันรวมตัวกันเพื่อเป็นเจ้าของทรัพย์สินร่วมกัน เพราะผู้คนไม่มีนามสกุล กิลด์จึงเป็นวิธีที่บุคคลจะโดดเด่นด้วย"
+ },
+ "8ce8bbb9cd26": {
+  "en": "Winga mail is the size of a postcard. The envelope comes in the destination kingdom's color, with a seal on top, and the back is the same color as the front.",
+  "t": "จดหมายวิงกามีขนาดเท่าโปสการ์ด ซองเป็นสีของอาณาจักรปลายทาง มีตราประทับด้านบน และด้านหลังเป็นสีเดียวกับด้านหน้า"
+ },
+ "8d42049e06f6": {
+  "en": "<strong>Tier I, Pearl:</strong> Bottom-of-the-barrel tasks: helping with lighthouse keeping, construction outside cities, etc. They often travel from city to city to find work, gain experience and grow their soul energy, and help Amethysts.",
+  "t": "<strong>ระดับ I เพิร์ล:</strong> งานก้นถัง: ช่วยดูแลประภาคาร งานก่อสร้างนอกเมือง ฯลฯ พวกเขามักเดินทางจากเมืองสู่เมืองเพื่อหางาน เก็บประสบการณ์ และเติบโตพลังวิญญาณ และช่วยอเมทิสต์"
+ },
+ "9450835c35a9": {
+  "en": "<strong>The embassy captain (its Forway general)</strong> is the highest authority of their embassy: over the whole city if Forway manages it, otherwise over the embassy grounds, while the kingdom around it belongs to whoever owns it. Generals carry the gem ranks too. Kingdom embassies have Aquamarine or Sapphire generals (the Forway embassy in Sanbi has an Aquamarine General), since Forway officials must trust their own future to them: there, the job is diplomacy and handling the relationship with a reigning king or queen, or an elected official. City embassies usually get a lower-rank Pearl or Amethyst General, partly because the cities are smaller, but also because they're under Forway's rule to begin with, so diplomacy isn't really much of a thing; a smaller city's embassy serves a more functional purpose: Winga mail, badges, adventurer quests, revivals, banking, etc. Sapphire Generals work at the Forway level, so their decisions affect everyone, and kingdoms with voting power help decide who becomes one. There are no archdukes in Vraki.",
+  "t": "<strong>กัปตันสถานทูต (เจเนอรัลฟอร์เวย์ประจำสถานทูต)</strong> คือผู้มีอำนาจสูงสุดของสถานทูตตน: เหนือทั้งเมืองถ้าฟอร์เวย์บริหาร ไม่อย่างนั้นก็เหนือพื้นที่สถานทูต ขณะที่อาณาจักรรอบๆ เป็นของใครก็ตามที่เป็นเจ้าของ เจเนอรัลก็มียศอัญมณีด้วย สถานทูตประจำอาณาจักรมีเจเนอรัลระดับอความารีนหรือแซฟไฟร์ (สถานทูตฟอร์เวย์ในซันบีมีอความารีนเจเนอรัล) เพราะเจ้าหน้าที่ฟอร์เวย์ต้องฝากอนาคตของตัวเองไว้กับพวกเขา: ที่นั่น งานคือการทูตและการจัดการความสัมพันธ์กับกษัตริย์หรือราชินีที่ครองราชย์ หรือเจ้าหน้าที่ที่ได้รับเลือกตั้ง สถานทูตประจำเมืองมักได้เจเนอรัลยศต่ำกว่าระดับเพิร์ลหรืออเมทิสต์ ส่วนหนึ่งเพราะเมืองเล็กกว่า แต่ก็เพราะเมืองอยู่ใต้การปกครองของฟอร์เวย์อยู่แล้ว การทูตจึงไม่ค่อยมีบทบาท สถานทูตของเมืองเล็กจึงทำหน้าที่เชิงปฏิบัติมากกว่า: จดหมายวิงกา บัตรประจำตัว ภารกิจนักผจญภัย การชุบชีวิต การธนาคาร ฯลฯ แซฟไฟร์เจเนอรัลทำงานในระดับฟอร์เวย์ การตัดสินใจของพวกเขาจึงกระทบทุกคน และอาณาจักรที่มีสิทธิ์ออกเสียงช่วยตัดสินว่าใครจะได้เป็น ไม่มีอาร์คดยุกในวรากี"
+ },
+ "94feda186216": {
+  "en": "Banking, guild and storage services",
+  "t": "บริการธนาคาร กิลด์ และคลังเก็บของ"
+ },
+ "98746e3f35f6": {
+  "en": "3 and 4",
+  "t": "3 และ 4"
+ },
+ "9f3073c10805": {
+  "en": "Whoever issues a contract is responsible for taking the right blood from the right person. That's why public contracts are often signed at an embassy, where a proper witness makes sure it's formal and legally binding. Kingdoms can have their own contract authority, just as legal as Forway's.",
+  "t": "ผู้ออกสัญญามีหน้าที่เอาเลือดที่ถูกต้องจากคนที่ถูกต้อง นั่นคือเหตุที่สัญญาสาธารณะมักเซ็นที่สถานทูต ที่ซึ่งมีพยานที่เหมาะสมคอยดูให้เป็นทางการและมีผลผูกพันทางกฎหมาย อาณาจักรมีหน่วยงานสัญญาของตัวเองได้ ซึ่งถูกกฎหมายเท่ากับของฟอร์เวย์"
+ },
+ "9f4ee5721dae": {
+  "en": "<strong>Storage:</strong> kingdom-wide. Whatever you deposit at one embassy can be picked up at any other. Don't expect quick turnaround, since costs are kept down by moving things whenever cargo space is available, but it's for sure the most secure way to store your stuff.",
+  "t": "<strong>คลังเก็บของ:</strong> ทั่วทั้งอาณาจักร ของที่ฝากไว้ที่สถานทูตหนึ่งไปรับได้ที่สถานทูตอื่นใดก็ได้ อย่าคาดหวังว่าจะเร็ว เพราะต้นทุนถูกกดไว้ด้วยการขนย้ายเมื่อมีที่ว่างในการขนส่ง แต่มันเป็นวิธีเก็บของที่ปลอดภัยที่สุดแน่นอน"
  },
  "a5396a42f990": {
   "en": "For when shits the fan, such as an external invasion or an army of Hifuna monsters, somehow decide to march down towards Forway. This has never happened since Forway was established, so it’s just a news type in theory. Some higher-ups in Forway even pushed for the removal of it since it costs resources, keeping every embassy at the ready for an emergency level of alert (which most likely aren’t.) It includes being able to staff at least a hundred adventurers with lodging, food, and fighting resources within three days, be able to defend itself from a Tier X spell, etc.",
   "t": "สำหรับตอนที่เรื่องบานปลาย เช่น การรุกรานจากภายนอก หรือกองทัพสัตว์ประหลาดฮิฟูนาตัดสินใจเดินทัพมาทางฟอร์เวย์ สิ่งนี้ไม่เคยเกิดขึ้นเลยตั้งแต่ก่อตั้งฟอร์เวย์ จึงเป็นประเภทข่าวในทางทฤษฎีเท่านั้น ผู้บริหารระดับสูงบางคนในฟอร์เวย์ถึงขั้นผลักดันให้ยกเลิก เพราะมันสิ้นเปลืองทรัพยากรในการให้ทุกสถานทูตพร้อมสำหรับการแจ้งเตือนระดับฉุกเฉิน (ซึ่งส่วนใหญ่น่าจะไม่พร้อม) ซึ่งรวมถึงความสามารถในการจัดหาที่พัก อาหาร และทรัพยากรการรบให้นักผจญภัยอย่างน้อยหนึ่งร้อยคนภายในสามวัน และป้องกันตัวเองจากคาถาระดับ X ได้ ฯลฯ"
  },
+ "a56f23520c31": {
+  "en": "To verify a contract, place the person's badge on the signature field: if the blood signature matches, the badge base (where the thumb goes) lights up.",
+  "t": "เพื่อตรวจสอบสัญญา ให้วางบัตรประจำตัวของคนนั้นบนช่องลายเซ็น: ถ้าลายเซ็นเลือดตรงกัน ฐานบัตร (ตรงที่วางนิ้วโป้ง) จะเรืองแสง"
+ },
+ "a76237069f37": {
+  "en": "If an adventurer's body isn't found within a reasonable time for their soul to still be revived, Forway processes them as \"Presumed Soul Dead\". Forway keeps the badge so no one can impersonate them, and every guild they belonged to is notified: their personal inventory and services move to the top guild they chose, or are split between guilds according to the will they made when signing up. If they had no guild, the state donates their belongings to charities within one calendar year.",
+  "t": "ถ้าไม่พบศพนักผจญภัยภายในเวลาที่สมเหตุสมผลที่วิญญาณยังชุบชีวิตได้ ฟอร์เวย์จะดำเนินการให้เป็น “สันนิษฐานว่าวิญญาณตายแล้ว” ฟอร์เวย์เก็บบัตรประจำตัวไว้เพื่อไม่ให้ใครแอบอ้าง และทุกกิลด์ที่พวกเขาสังกัดจะได้รับแจ้ง: ทรัพย์สินส่วนตัวและบริการย้ายไปยังกิลด์อันดับแรกที่พวกเขาเลือก หรือแบ่งระหว่างกิลด์ตามพินัยกรรมที่ทำไว้ตอนสมัคร ถ้าไม่มีกิลด์ รัฐจะบริจาคทรัพย์สินให้การกุศลภายในหนึ่งปีปฏิทิน"
+ },
+ "ae86c9f10c45": {
+  "en": "Under the Prosperity Treaty (Section #2, Sub 3), no adventurer may carry out judgment unless authorized by a Forway guard or a kingdom representative.",
+  "t": "ภายใต้สนธิสัญญาแห่งความรุ่งเรือง (มาตรา #2 ข้อ 3) ห้ามนักผจญภัยตัดสินลงโทษเว้นแต่ได้รับอนุญาตจากทหารยามฟอร์เวย์หรือผู้แทนอาณาจักร"
+ },
  "b295a70e0bbe": {
   "en": "To make name, contract &amp; negotiations easier, Forway implemented a naming schema that began with any kingdom child born after the prosperity treaty came into effect in 671 A.G.<br>\nNAME PLACE GUILD<br>\nNAME:<br>\n·       Given by parents when the child is born. Uniqueness and name characteristics depend on the region.<br>\nPLACE:<br>\n·       City of origin or main residence.<br>\n·       Often associated with where their primary guild is located.<br>\nGUILD:<br>\n·       If participating in multiple guilds, then any preferred of them.<br>\n·       If the guild name is described as CITY-GUILD, and the city is the current place of the badge owner, then it is not written (e.g. Itagiba Sanbi Royal vs Itagiba Sanbi Sanbi-Royal)<br>\n·       If not actively participating in any guild, this part of the name is skipped.",
   "t": "เพื่อให้ชื่อ สัญญา &amp; การเจรจาง่ายขึ้น ฟอร์เวย์จึงใช้ระบบการตั้งชื่อที่เริ่มกับเด็กในอาณาจักรทุกคนที่เกิดหลังสนธิสัญญาแห่งความรุ่งเรืองมีผลบังคับใช้ในปี 671 A.G.<br>\nชื่อ สถานที่ กิลด์<br>\nชื่อ:<br>\n·       พ่อแม่ตั้งให้เมื่อเด็กเกิด ความเป็นเอกลักษณ์และลักษณะของชื่อขึ้นอยู่กับภูมิภาค<br>\nสถานที่:<br>\n·       เมืองต้นกำเนิดหรือที่พักอาศัยหลัก<br>\n·       มักเชื่อมโยงกับที่ตั้งของกิลด์หลัก<br>\nกิลด์:<br>\n·       ถ้าสังกัดหลายกิลด์ ก็เลือกกิลด์ไหนก็ได้ที่ชอบ<br>\n·       ถ้าชื่อกิลด์อยู่ในรูป เมือง-กิลด์ และเมืองนั้นคือที่อยู่ปัจจุบันของเจ้าของบัตร ก็ไม่ต้องเขียน (เช่น อิตากิบา ซันบี รอยัล แทนที่จะเป็น อิตากิบา ซันบี ซันบี-รอยัล)<br>\n·       ถ้าไม่ได้สังกัดกิลด์ใดอยู่ ส่วนนี้ของชื่อจะถูกข้ามไป"
+ },
+ "b54d71c1d1d0": {
+  "en": "<strong>Missing Person:</strong> an adventurer can retrieve the missing person's badge to confirm them, but if they lose it, they pay 10 times the quest reward or face forced labor. They have 1 week to return the badge; after that, a fine equal to the reward is added every week (up to 10 times), and a warrant is issued for their arrest. This is only allowed for adventurers doing investigations who have a good lead or information, to keep adventurers from hogging badges for no reason.",
+  "t": "<strong>คนหาย:</strong> นักผจญภัยนำบัตรประจำตัวของคนหายกลับมาเพื่อยืนยันตัวได้ แต่ถ้าทำหาย ต้องจ่าย 10 เท่าของรางวัลภารกิจ หรือเจอแรงงานบังคับ พวกเขามี 1 สัปดาห์ในการคืนบัตร หลังจากนั้นจะถูกปรับเท่ากับรางวัลทุกสัปดาห์ (สูงสุด 10 เท่า) และมีการออกหมายจับ อนุญาตเฉพาะนักผจญภัยที่ทำการสืบสวนและมีเบาะแสหรือข้อมูลดี เพื่อไม่ให้นักผจญภัยกักบัตรไว้โดยไม่มีเหตุผล"
+ },
+ "b5fc36ce3fb4": {
+  "en": "Kingdom/Guild/Business Law Compliance (secret)",
+  "t": "การตรวจสอบการปฏิบัติตามกฎหมายของอาณาจักร/กิลด์/ธุรกิจ (ลับ)"
+ },
+ "b8be3d126431": {
+  "en": "Administration",
+  "t": "ฝ่ายบริหาร"
+ },
+ "b96c9888e345": {
+  "en": "Where and what",
+  "t": "ที่ไหนและอะไร"
+ },
+ "ba589d85e03d": {
+  "en": "Every contract has nullification clauses, which must be on the back.",
+  "t": "ทุกสัญญามีข้อยกเลิก ซึ่งต้องอยู่ด้านหลัง"
+ },
+ "bda6c00006b4": {
+  "en": "<strong>Banking:</strong> available at any embassy. Kingdoms manage their own money instead of keeping it all in Forway City, so it stays decentralized. Withdrawals and deposits mean submitting a request and waiting a few days while the embassy confirms the funds with Forway. Loans are available, with fees depending on whether an individual or a guild is asking. Investments are possible too, but only in Forway-backed projects; individual projects go through direct contracts.",
+  "t": "<strong>ธนาคาร:</strong> มีให้บริการที่ทุกสถานทูต อาณาจักรบริหารเงินของตัวเองแทนการเก็บทั้งหมดไว้ในเมืองฟอร์เวย์ จึงยังคงกระจายอำนาจ การถอนและฝากต้องยื่นคำขอแล้วรอสองสามวันขณะที่สถานทูตยืนยันเงินกับฟอร์เวย์ มีบริการเงินกู้ โดยค่าธรรมเนียมขึ้นกับว่าเป็นบุคคลหรือกิลด์ที่ขอ การลงทุนก็ทำได้ แต่เฉพาะในโครงการที่ฟอร์เวย์หนุนหลัง โครงการส่วนบุคคลต้องทำผ่านสัญญาโดยตรง"
  },
  "be6206af0b70": {
   "en": "On the subject of doing no good, the building is filled with riches since that’s where the Forway taxes and banking deposits are accumulated and transferred to/from the Forway palace. However, think twice, maybe three times, about getting your grubby hands on it as the embassy land, even though it might be inside a kingdom, is still entirely under Forway’s jurisdiction. And don’t bother using your slivery tongue to talk your way out if you get caught fucking with them, as the supremacy of the Prosperity Treaty protects the embassies and the guards—even if they went as far as pulling your intestines out, wrapping your feet with it, then throwing you from the open fifth floor for an exclusive bungee jumping experience.",
@@ -103,6 +287,22 @@
   "en": "Adventurers—or as some would put it—Forway's bitches on a tight leash are akin to a decentralized army composed of freelancers. A great majority of them are either indebted to a hosting guild or a private lender for the initial seed investment to gear up or cover the revival costs, sometimes getting debts from shady backgrounds, all for a simple goal! Have a better life. Some can become indebted to Forway itself, but by that point, you're already an Aquamarine or Sapphire, and debts are part of life.<br>\nTalking about the adventurers' tiers, Forway has a firm structure of recognition, with recognitions and promotions being held on the annual Adventurer feast every Paulin 100th:<br>\nTier I - Pearl are the newcomers, prohibited from most jobs due to their lack of experience. Plus, Forway is not as willing to trust them either, so they are given menial tasks to improve their skills and specifically increase their soul energy, such as pest control or certain fauna hunting or flora gathering within or around cities, assisting civil construction, maintaining lighthouses, and area surveillance. In emergencies, they are relied upon as message spreaders to free up Forway guards and other higher-ranking adventurers to deal with the crisis itself.<br>\nTier II - Amethyst are given jobs similar to Pearls but tend to be out in the wild instead, like hunting Bagarisas. Plus, they are often used for Bounties, Bandit traps, and even some beast hunting or cargo protection. It's common to see Amethysts paired with Aquamarines since it's quite symbiotic—the Amethyst adventurer gains experience and more balls by participating in more dangerous quests while the Aquamarine saves balls as they get a higher cut of the quest.<br>\nTier III - Aquamarines are the ones who somehow survived this challenging profession long enough to have the opportunity to partake in even more dangerous quests, including participating in rescue parties for presumed dead adventurers to revive and stick them with an even more outstanding debt as revival ain't free! Some luck out with well-paid personal security jobs that mainly involve posturing around looking tough, while others are so addicted to the thrill of the fight they prefer to take bandit camps exterminations alongside Forway guards.<br>\nTier IV - Sapphires genuinely are the perfect soldiers. Their experiences alone would fill many books, so much so that it's not uncommon to have some of them turn into advisors or straight-up Forway officials when they get older. Plus, Forway itself trusts them with fully paid admission to Adventurer School if they haven't done so already, plus access to secret quests and official matters that most of their Forway guards never dreamed of being part of. It's like the old saying goes: If you see a Sapphire passing by while leading an adventurer party, then you can rest safe that they will put an end to whatever is troubling you. However, if you see a group of nothing but Sapphires, then run away as shit is about to go down.",
   "t": "นักผจญภัย—หรือที่บางคนเรียกว่า—ลูกน้องของฟอร์เวย์ที่ถูกล่ามสายจูงแน่น เปรียบเหมือนกองทัพกระจายอำนาจที่ประกอบด้วยฟรีแลนซ์ ส่วนใหญ่ติดหนี้กิลด์ที่ให้การสนับสนุนหรือผู้ให้กู้เอกชนสำหรับเงินลงทุนตั้งต้นเพื่อซื้ออุปกรณ์หรือจ่ายค่าชุบชีวิต บางครั้งก็กู้จากแหล่งน่าสงสัย ทั้งหมดเพื่อเป้าหมายง่ายๆ! มีชีวิตที่ดีกว่า บางคนติดหนี้ฟอร์เวย์เองได้ แต่ถึงจุดนั้นคุณก็เป็นอความารีนหรือแซฟไฟร์แล้ว และหนี้ก็เป็นส่วนหนึ่งของชีวิต<br>\nพูดถึงระดับของนักผจญภัย ฟอร์เวย์มีโครงสร้างการยกย่องที่ชัดเจน โดยการยกย่องและเลื่อนขั้นจัดขึ้นในงานเลี้ยงนักผจญภัยประจำปีทุกวันที่ 100 เปาลิน:<br>\nระดับ I - เพิร์ล คือมือใหม่ ถูกห้ามรับงานส่วนใหญ่เพราะขาดประสบการณ์ อีกทั้งฟอร์เวย์ยังไม่ค่อยไว้ใจ จึงได้รับงานจิปาถะเพื่อพัฒนาทักษะและโดยเฉพาะเพิ่มพลังวิญญาณ เช่น กำจัดศัตรูพืช ล่าสัตว์บางชนิดหรือเก็บพืชในหรือรอบเมือง ช่วยงานก่อสร้างสาธารณะ ดูแลประภาคาร และเฝ้าระวังพื้นที่ ในเหตุฉุกเฉิน พวกเขาถูกใช้เป็นผู้กระจายข่าวเพื่อให้ทหารยามฟอร์เวย์และนักผจญภัยระดับสูงกว่าว่างไปจัดการวิกฤตเอง<br>\nระดับ II - อเมทิสต์ ได้งานคล้ายเพิร์ลแต่มักอยู่ในป่า เช่น ล่าบาการิซา อีกทั้งมักถูกใช้ล่าค่าหัว วางกับดักโจร และแม้แต่ล่าสัตว์อสูรบางชนิดหรือคุ้มกันสินค้า เห็นอเมทิสต์จับคู่กับอความารีนบ่อย เพราะเกื้อกูลกันดี—นักผจญภัยอเมทิสต์ได้ประสบการณ์และบอลมากขึ้นจากภารกิจที่อันตรายกว่า ขณะที่อความารีนประหยัดบอลเพราะได้ส่วนแบ่งภารกิจมากกว่า<br>\nระดับ III - อความารีน คือคนที่รอดจากอาชีพหินๆ นี้มาได้นานพอจะมีโอกาสรับภารกิจที่อันตรายยิ่งขึ้น รวมถึงร่วมทีมกู้ภัยเพื่อนำนักผจญภัยที่คาดว่าตายแล้วมาชุบชีวิตและยัดหนี้ก้อนโตกว่าเดิมให้ เพราะการชุบชีวิตไม่ฟรี! บางคนโชคดีได้งานรักษาความปลอดภัยส่วนตัวค่าตอบแทนสูงที่ส่วนใหญ่แค่ทำท่าดุๆ ขณะที่บางคนติดความตื่นเต้นของการต่อสู้จนชอบไปกวาดล้างค่ายโจรกับทหารยามฟอร์เวย์<br>\nระดับ IV - แซฟไฟร์ คือทหารที่สมบูรณ์แบบอย่างแท้จริง ประสบการณ์ของพวกเขาเขียนหนังสือได้หลายเล่ม จนไม่แปลกที่บางคนกลายเป็นที่ปรึกษาหรือเจ้าหน้าที่ฟอร์เวย์เมื่ออายุมากขึ้น อีกทั้งฟอร์เวย์ยังไว้ใจให้พวกเขาเข้าโรงเรียนนักผจญภัยฟรีถ้ายังไม่เคยเรียน รวมถึงเข้าถึงภารกิจลับและเรื่องทางการที่ทหารยามฟอร์เวย์ส่วนใหญ่ไม่เคยฝันว่าจะได้มีส่วน เหมือนคำพูดเก่าแก่ที่ว่า: ถ้าเห็นแซฟไฟร์เดินผ่านพร้อมนำคณะนักผจญภัย ก็วางใจได้ว่าพวกเขาจะจัดการทุกอย่างที่กวนใจคุณ แต่ถ้าเห็นกลุ่มที่มีแต่แซฟไฟร์ล้วนๆ ก็วิ่งหนีเลย เพราะเรื่องใหญ่กำลังจะเกิด"
  },
+ "c77859acbbba": {
+  "en": "Winga courier",
+  "t": "ไปรษณีย์วิงกา"
+ },
+ "c920952efbc2": {
+  "en": "Embassies were created right after the Prosperity Treaty, so Forway's influence could reach every city and kingdom involved. The area inside an embassy's marked boundary is officially Forway City territory. Forway guards are always present, and some even guard the embassy as Big Wingas (guards wearing the Big Winga nari gel).",
+  "t": "สถานทูตถูกสร้างขึ้นทันทีหลังสนธิสัญญาแห่งความรุ่งเรือง เพื่อให้อิทธิพลของฟอร์เวย์ไปถึงทุกเมืองและอาณาจักรที่เกี่ยวข้อง พื้นที่ภายในเขตแดนที่กำหนดไว้ของสถานทูตเป็นดินแดนของเมืองฟอร์เวย์อย่างเป็นทางการ ทหารยามฟอร์เวย์อยู่ประจำเสมอ และบางคนถึงกับเฝ้าสถานทูตในร่างบิ๊กวิงกา (ทหารยามที่ใช้เจลนาริบิ๊กวิงกา)"
+ },
+ "cbfc489f2d11": {
+  "en": "<strong>4. Emergency</strong> (1 Sapphire + rewards): For when shit hits the fan, like an external invasion, or an army of Hifuna monsters marching down toward Forway. It has never happened since Forway was established, so it's a news type in theory only, and some Forway higher-ups have pushed to remove it, since keeping every embassy ready for an emergency costs resources: staffing at least a hundred adventurers with lodging, food and fighting supplies within three days, defending against a Tier X spell, etc. Posted immediately.",
+  "t": "<strong>4. เหตุฉุกเฉิน</strong> (1 แซฟไฟร์ + รางวัล): สำหรับตอนที่เรื่องเหี้ยเกิดขึ้นจริงๆ อย่างการรุกรานจากภายนอก หรือกองทัพสัตว์ประหลาดฮิฟูนาเดินทัพลงมาทางฟอร์เวย์ มันไม่เคยเกิดขึ้นเลยตั้งแต่ก่อตั้งฟอร์เวย์ จึงเป็นประเภทข่าวในทางทฤษฎีเท่านั้น และผู้ใหญ่ในฟอร์เวย์บางคนผลักดันให้ยกเลิก เพราะการเตรียมทุกสถานทูตให้พร้อมรับเหตุฉุกเฉินสิ้นเปลืองทรัพยากร: จัดนักผจญภัยอย่างน้อยร้อยคนพร้อมที่พัก อาหาร และเสบียงการต่อสู้ภายในสามวัน ป้องกันคาถาระดับ X ฯลฯ ติดประกาศทันที"
+ },
+ "cc6785849041": {
+  "en": "Winga rest",
+  "t": "ที่พักวิงกา"
+ },
  "cc6a82139ccd": {
   "en": "Embassies",
   "t": "สถานทูต"
@@ -110,6 +310,22 @@
  "cc8a16b1caa8": {
   "en": "Forway embassy at night under a green moon: the dark stone building with orange, green and blue arches and glowing windows.",
   "t": "สถานทูตฟอร์เวย์ยามค่ำคืนใต้ดวงจันทร์สีเขียว: อาคารหินสีเข้มที่มีซุ้มโค้งสีส้ม เขียว และฟ้า และหน้าต่างเรืองแสง"
+ },
+ "cd3d078086e3": {
+  "en": "Every embassy offers Winga courier services; kingdoms tend to run their own separate Winga couriers for more private communication (see Kingdoms).",
+  "t": "ทุกสถานทูตให้บริการไปรษณีย์วิงกา อาณาจักรมักมีไปรษณีย์วิงกาแยกของตัวเองสำหรับการสื่อสารที่เป็นส่วนตัวกว่า (ดู อาณาจักร)"
+ },
+ "d26df437f67d": {
+  "en": "Relaying official news is part of an embassy's job. Every day around Monnalow, the local Forway captain ends their shift by going to the public square and shouting out the day's news from Forway. Weekly printouts covering the week are available at every embassy every Forrday; they're more of a thing in Tolerideme and Forway, where more people can read. Everyone else prefers the shouting (shoutcasting) or word of mouth.",
+  "t": "การถ่ายทอดข่าวทางการเป็นส่วนหนึ่งของงานสถานทูต ทุกวันราวมอนนาโลว์ กัปตันฟอร์เวย์ประจำท้องถิ่นจะจบกะด้วยการไปที่ลานสาธารณะและตะโกนข่าวประจำวันจากฟอร์เวย์ ใบพิมพ์รายสัปดาห์ที่ครอบคลุมทั้งสัปดาห์มีให้ที่ทุกสถานทูตทุกวันฟอร์เดย์ เป็นที่นิยมมากกว่าในโทเลอริดีมและฟอร์เวย์ ที่ซึ่งคนอ่านหนังสือออกมากกว่า คนอื่นๆ ชอบการตะโกน (การประกาศป่าวร้อง) หรือปากต่อปากมากกว่า"
+ },
+ "d296db839336": {
+  "en": "Birth documentation and badges",
+  "t": "เอกสารการเกิดและบัตรประจำตัว"
+ },
+ "d40297bcc286": {
+  "en": "Pearl around cities, Amethyst out in the wild",
+  "t": "เพิร์ลรอบเมือง อเมทิสต์ในป่า"
  },
  "d5770ca38523": {
   "en": "Embassy Captains",
@@ -123,6 +339,14 @@
   "en": "Has the Buhraies castle decided to spill a bunch of undead garbage once again? Has a Kingdom official been taken hostage? Do you have a lot of money and want something done quickly, or do you want everyone to know about it? Then this is what happens when you pay out of the ass for news. Alongside the quest board and shouting at Monnalow, the captain will immediately send a shoutout across the kingdom's main cities/villages to gather all available adventurers to assist with your request (if necessary) or just shout out the news as-is.",
   "t": "ปราสาทบูไรส์ตัดสินใจทะลักขยะซากศพเดินได้ออกมาอีกแล้วเหรอ? เจ้าหน้าที่อาณาจักรถูกจับเป็นตัวประกันหรือเปล่า? คุณมีเงินเยอะและอยากให้อะไรเสร็จเร็ว หรืออยากให้ทุกคนรู้ไหม? นี่คือสิ่งที่เกิดขึ้นเมื่อคุณจ่ายค่าข่าวแพงหูฉี่ นอกจากกระดานภารกิจและการตะโกนประกาศตอนมอนนาโลว์ กัปตันจะส่งประกาศไปทั่วเมือง/หมู่บ้านหลักของอาณาจักรทันทีเพื่อรวบรวมนักผจญภัยที่ว่างทั้งหมดมาช่วยตามคำขอของคุณ (ถ้าจำเป็น) หรือแค่ประกาศข่าวตามนั้น"
  },
+ "de7b6bfa71f6": {
+  "en": "<strong>Family:</strong> \"relatives\" and \"family\" are well-known words, but last names don't exist; people use the guild in place of a family name.",
+  "t": "<strong>ครอบครัว:</strong> “ญาติ” และ “ครอบครัว” เป็นคำที่รู้จักกันดี แต่นามสกุลไม่มีอยู่ ผู้คนใช้กิลด์แทนนามสกุล"
+ },
+ "df7f768ed7c5": {
+  "en": "<strong>3. Kingdom Alert</strong> (1 Aquamarine + rewards): Has the Buhraies castle spilled a bunch of undead garbage again? Has a kingdom official been taken hostage? Do you have a lot of money and want something done fast, or want everyone to know? On top of the quest board and the Monnalow shoutcast, the captain immediately sends shoutcasts across the kingdom's main cities and villages to gather every available adventurer (if needed), or just shouts the news as it is. Posting may be delayed while they investigate. Once shoutcast, it can't be taken back: the embassy can only soft-de-escalate a posted search, not shut it down. Whoever posted it can withdraw it, but has to announce the withdrawal publicly, and embarrassment follows, plus likely punishment from Forway depending on what they did. A kingdom that issues an emergency \"for the lolz\" is heavily punished, with sanctions and the withdrawal of comparative advantage rulings.",
+  "t": "<strong>3. การแจ้งเตือนระดับอาณาจักร</strong> (1 อความารีน + รางวัล): ปราสาทบูไรส์ทะลักขยะผีดิบออกมาอีกแล้วเหรอ? เจ้าหน้าที่อาณาจักรถูกจับเป็นตัวประกันเหรอ? คุณมีเงินเยอะและอยากให้อะไรเสร็จเร็ว หรืออยากให้ทุกคนรู้? นอกจากกระดานภารกิจและการประกาศป่าวร้องตอนมอนนาโลว์ กัปตันจะส่งการประกาศป่าวร้องไปทั่วเมืองหลักและหมู่บ้านของอาณาจักรทันทีเพื่อรวบรวมนักผจญภัยที่ว่างทุกคน (ถ้าจำเป็น) หรือแค่ตะโกนข่าวตามที่เป็น การติดประกาศอาจล่าช้าขณะที่พวกเขาสืบสวน เมื่อประกาศป่าวร้องแล้วก็ถอนคืนไม่ได้: สถานทูตทำได้แค่ลดระดับการค้นหาที่ประกาศไปแล้วแบบนุ่มๆ ไม่ใช่ปิดมัน ผู้ประกาศถอนได้ แต่ต้องประกาศการถอนต่อสาธารณะ และความอับอายก็ตามมา บวกกับน่าจะโดนลงโทษจากฟอร์เวย์ขึ้นอยู่กับสิ่งที่พวกเขาทำ อาณาจักรที่ออกเหตุฉุกเฉิน “เอาฮา” จะถูกลงโทษหนัก ด้วยมาตรการคว่ำบาตรและการถอนคำวินิจฉัยความได้เปรียบเชิงเปรียบเทียบ"
+ },
  "e0740d79bc1d": {
   "en": "Public text: adventurers-guilds.md",
   "t": "ข้อความสาธารณะ: adventurers-guilds.md"
@@ -134,6 +358,38 @@
  "e81a8058fee5": {
   "en": "Guilds are, succinctly, officially registered families, whether bonded by blood or not. Families use it to share governance of their wealth, properties, and storage amongst the members or just to set up inheritance ahead of time to prevent infighting—or just for the sake of clout. Adventurers often do the same but share resources, especially in larger guilds. Forway storage services are cheaper than private alternatives, but they are undoubtedly the safest. Just don't expect fast turnaround times unless you pay out of the ass!",
   "t": "กิลด์ก็คือครอบครัวที่จดทะเบียนอย่างเป็นทางการ ไม่ว่าจะผูกพันทางสายเลือดหรือไม่ ครอบครัวใช้มันเพื่อแบ่งการบริหารความมั่งคั่ง ทรัพย์สิน และคลังเก็บของในหมู่สมาชิก หรือแค่จัดการมรดกล่วงหน้าเพื่อกันการทะเลาะกันเอง—หรือแค่เพื่อบารมี นักผจญภัยมักทำแบบเดียวกันแต่แบ่งปันทรัพยากร โดยเฉพาะในกิลด์ใหญ่ บริการคลังเก็บของของฟอร์เวย์ถูกกว่าเอกชน และปลอดภัยที่สุดแน่นอน แค่อย่าหวังว่าจะได้เร็ว เว้นแต่จ่ายแพงหูฉี่!"
+ },
+ "eabbf7a20204": {
+  "en": "Every kingdom and major recognized city has an embassy, and they all report to the Forway City Palace. Every embassy smells of stamp wax and sweaty adventurers coming and going (sending and receiving Winga letters is one of their core jobs), and has a blackboard with the entire Prosperity Treaty carved into it in clear white lettering.",
+  "t": "ทุกอาณาจักรและเมืองใหญ่ที่ได้รับการรับรองมีสถานทูต และทั้งหมดรายงานต่อพระราชวังเมืองฟอร์เวย์ ทุกสถานทูตมีกลิ่นครั่งประทับตราและนักผจญภัยเหงื่อท่วมที่เดินเข้าออก (การรับส่งจดหมายวิงกาเป็นหนึ่งในงานหลัก) และมีกระดานดำที่สลักสนธิสัญญาแห่งความรุ่งเรืองทั้งฉบับไว้ด้วยตัวอักษรสีขาวชัดเจน"
+ },
+ "ec8af1bc5379": {
+  "en": "How do you stop someone from getting a second badge at another embassy? Forway has specialized Wingas fly samples of people's blood, mixed with ground nari stone, from every corner of the world to Forway, where the central soul repository is. Running it is such a behemoth of a cost that it would be far too much for any single kingdom. A central repository also makes it possible to identify a corpse mangled beyond recognition, found by the side of the road.",
+  "t": "จะหยุดไม่ให้ใครได้บัตรใบที่สองจากสถานทูตอื่นได้อย่างไร? ฟอร์เวย์มีวิงกาเฉพาะทางบินนำตัวอย่างเลือดของผู้คน ผสมกับหินนาริบด จากทุกมุมโลกไปยังฟอร์เวย์ ที่ซึ่งมีคลังวิญญาณกลาง การบริหารมันมีต้นทุนมหึมาจนเกินกำลังอาณาจักรใดอาณาจักรหนึ่งมาก คลังกลางยังทำให้ระบุตัวศพที่ถูกทำลายจนจำไม่ได้ซึ่งพบข้างถนนได้ด้วย"
+ },
+ "eca701b5e1d8": {
+  "en": "Quests",
+  "t": "ภารกิจ"
+ },
+ "f0157ca3ea5c": {
+  "en": "From, To and the embassy name are written in white ink (sometimes another color when needed).",
+  "t": "ผู้ส่ง ผู้รับ และชื่อสถานทูตเขียนด้วยหมึกขาว (บางครั้งสีอื่นเมื่อจำเป็น)"
+ },
+ "f33ef084da82": {
+  "en": "Minimum rank",
+  "t": "ยศขั้นต่ำ"
+ },
+ "f34a64383f8d": {
+  "en": "Missing Person (in some places, including boat and person rescue)",
+  "t": "คนหาย (ในบางที่ รวมถึงการกู้ภัยเรือและคน)"
+ },
+ "f904d495cf31": {
+  "en": "People moving contract-bound individuals carry their contracts, plus a letter for the Forway officials inspecting cargo, stating who is contracted to deliver whom.",
+  "t": "ผู้ที่ขนย้ายบุคคลที่ผูกพันตามสัญญาจะพกสัญญาของพวกเขา บวกจดหมายสำหรับเจ้าหน้าที่ฟอร์เวย์ที่ตรวจสินค้า ระบุว่าใครทำสัญญาส่งตัวใคร"
+ },
+ "fc3f866f9f74": {
+  "en": "Contracts need the blood signature of everyone involved, mixed with nari on signing. There are no household crests on documents: the blood signature is the seal, and a contract made on someone's behalf needs that person's blood.",
+  "t": "สัญญาต้องมีลายเซ็นเลือดของทุกคนที่เกี่ยวข้อง ผสมกับนาริตอนเซ็น ไม่มีตราประจำตระกูลบนเอกสาร: ลายเซ็นเลือดคือตราประทับ และสัญญาที่ทำแทนใครสักคนต้องใช้เลือดของคนนั้น"
  },
  "fdb31a2c3dee": {
   "en": "Type 4: Emergency",

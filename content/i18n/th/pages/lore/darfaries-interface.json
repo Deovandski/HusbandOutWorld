@@ -31,6 +31,10 @@
   "en": "Shock VERB",
   "t": "ช็อก VERB"
  },
+ "0f47dfa46a4f": {
+  "en": "<strong>Increase/Decrease</strong> and <strong>Restore/Disassemble:</strong> behave like Create/Destroy.",
+  "t": "<strong>เพิ่ม/ลด (Increase/Decrease)</strong> และ <strong>ฟื้นฟู/คลาย (Restore/Disassemble):</strong> ทำงานเหมือนสร้าง/ทำลาย"
+ },
  "10668848ecf1": {
   "en": "Gold → Mercury",
   "t": "ทอง → ปรอท"
@@ -107,9 +111,17 @@
   "en": "Ice VERB",
   "t": "ไอซ์ VERB"
  },
+ "2a0404ceb303": {
+  "en": "The elemental verbs, with water.",
+  "t": "คำกริยาธาตุ กับน้ำ"
+ },
  "2ca369f05b2d": {
   "en": "Nari sticks (nari stones chained together) fuel the spell. A single-use nari stick is spent in one cast, and they aren't cheap.",
   "t": "แท่งนาริ (หินนาริที่ร้อยเป็นสาย) เป็นเชื้อเพลิงให้คาถา แท่งนาริแบบใช้ครั้งเดียวหมดไปในการร่ายครั้งเดียว และมันไม่ถูก"
+ },
+ "2d68de584b52": {
+  "en": "The elemental verbs, with lava.",
+  "t": "คำกริยาธาตุ กับลาวา"
  },
  "2dba29a226b6": {
   "en": "<strong>Destroy:</strong> tries to destroy the target's whole body. At low tiers it only causes internal or external bleeding; medium tiers can cause convulsions; high tiers cause an explosion.",
@@ -158,6 +170,10 @@
  "3a54978fb627": {
   "en": "Platinum → Gold",
   "t": "แพลทินัม → ทอง"
+ },
+ "3b226566c89d": {
+  "en": "The elemental verbs, with earth.",
+  "t": "คำกริยาธาตุ กับดิน"
  },
  "3c410b0a889e": {
   "en": "Dust VERB",
@@ -254,6 +270,10 @@
  "5255c62e691b": {
   "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Darfaries shells appear as you do. With a sigil ring:",
   "t": "<strong>เริ่มคาถา</strong> กำนิ้วของมือที่ถือคาถาและพลังวิญญาณ เปลือกดาร์แฟรีส์จะปรากฏขณะที่คุณกำ ด้วยแหวนซิจิล:"
+ },
+ "5266e81985c6": {
+  "en": "The elemental verbs, with steam.",
+  "t": "คำกริยาธาตุ กับไอน้ำ"
  },
  "528b9fb4db2c": {
   "en": "<strong>Increase/Decrease:</strong> the whole body grows or shrinks.",
@@ -395,6 +415,10 @@
   "en": "Ash VERB",
   "t": "แอช VERB"
  },
+ "71812d5fae7a": {
+  "en": "Works like Gravity VERB. Gabiro improved it when he helped shape the new Darfaries Interface standard; the new sigil standard he was the centerpiece of lowered the cast failure rate, especially for Water Gravity, making fanchakis mature nearly twice as fast (Vol 3).",
+  "t": "ทำงานเหมือนกราวิตี VERB กาบีโรปรับปรุงมันเมื่อเขาช่วยวางมาตรฐานอินเทอร์เฟซดาร์แฟรีส์ใหม่ มาตรฐานซิจิลใหม่ที่เขาเป็นหัวใจหลักลดอัตราการร่ายพลาดลง โดยเฉพาะวอเตอร์กราวิตี ทำให้แฟนชากีโตเต็มที่เร็วขึ้นเกือบสองเท่า (เล่ม 3)"
+ },
  "724c8389bd95": {
   "en": "Steam VERB",
   "t": "สตีม VERB"
@@ -415,6 +439,10 @@
   "en": "Storm VERB",
   "t": "สตอร์ม VERB"
  },
+ "77947875b9a0": {
+  "en": "The elemental verbs, with wind. Its ball is more elongated than anything.",
+  "t": "คำกริยาธาตุ กับลม ลูกบอลของมันยาวรีกว่าอะไรทั้งหมด"
+ },
  "7802ad32f0ce": {
   "en": "Verbs",
   "t": "คำกริยา"
@@ -422,6 +450,10 @@
  "78c2d1c75d87": {
   "en": "Either way, a miscast explodes in soul flame in the caster's hands.",
   "t": "ไม่ว่าแบบไหน การร่ายพลาดจะระเบิดเป็นไฟวิญญาณในมือผู้ร่าย"
+ },
+ "7a513f3d316a": {
+  "en": "The elemental verbs, with storm.",
+  "t": "คำกริยาธาตุ กับพายุ"
  },
  "7a91c4983d68": {
   "en": "World VERB",
@@ -435,6 +467,10 @@
   "en": "Transmute",
   "t": "ทรานสมิวต์"
  },
+ "7d9145978885": {
+  "en": "The elemental verbs, with shock.",
+  "t": "คำกริยาธาตุ กับไฟฟ้าช็อต"
+ },
  "7df913eb7771": {
   "en": "Ring #2: 8",
   "t": "วงแหวน #2: 8"
@@ -446,6 +482,10 @@
  "83a077984fe7": {
   "en": "The Buhraies created this interface as an enhancement to their own soul energy interface, in an attempt to control the Darfaries as a versatile army of foot soldiers.",
   "t": "บูไรส์สร้างอินเทอร์เฟซนี้ขึ้นเพื่อเสริมอินเทอร์เฟซพลังวิญญาณของตัวเอง โดยพยายามควบคุมดาร์แฟรีส์ให้เป็นกองทัพทหารราบอเนกประสงค์"
+ },
+ "83b7155e04f6": {
+  "en": "The elemental verbs, with mud.",
+  "t": "คำกริยาธาตุ กับโคลน"
  },
  "840823ff59c1": {
   "en": "<strong>Restore:</strong> shapes the item into the desired object by combining elements around the caster, basically the reverse of chemical reactions. Have the elements it's made of nearby to improve the odds; otherwise the repaired object may break again if the new connections aren't strong.",
@@ -466,6 +506,14 @@
  "8a4a4532c533": {
   "en": "<strong>Apply the energy.</strong> Touch what you want to apply it to with your palm and straighten your fingers, or release the spell as it is for a ranged attack. Cock your arm and time it right for extra range. The caster's body feels the weight of the spell, like firing a gun.",
   "t": "<strong>ใช้พลัง</strong> แตะสิ่งที่ต้องการใช้ด้วยฝ่ามือแล้วเหยียดนิ้วตรง หรือปล่อยคาถาออกไปอย่างนั้นเพื่อโจมตีระยะไกล ง้างแขนและจับจังหวะให้ดีเพื่อเพิ่มระยะ ร่างกายของผู้ร่ายจะรู้สึกถึงน้ำหนักของคาถา เหมือนยิงปืน"
+ },
+ "8a9201f37e41": {
+  "en": "<strong>Create/Destroy:</strong> Create makes a ball of the element for a ranged attack; Destroy turns the target's element back into virtual particles. With no target, the soul flame simply evaporates.",
+  "t": "<strong>สร้าง/ทำลาย (Create/Destroy):</strong> สร้างทำให้เกิดลูกบอลของธาตุนั้นเพื่อโจมตีระยะไกล ทำลายเปลี่ยนธาตุของเป้าหมายกลับเป็นอนุภาคเสมือน ถ้าไม่มีเป้าหมาย ไฟวิญญาณจะระเหยไปเฉยๆ"
+ },
+ "8c04c55d7685": {
+  "en": "The elemental verbs, with dust.",
+  "t": "คำกริยาธาตุ กับฝุ่น"
  },
  "8ca6193582e9": {
   "en": "Water VERB",
@@ -615,13 +663,25 @@
   "en": "<strong>Repel/Attract:</strong> the target repels or attracts the element. With no target, the soul flame simply evaporates.",
   "t": "<strong>ผลัก/ดึง (Repel/Attract):</strong> เป้าหมายผลักหรือดึงธาตุนั้น ถ้าไม่มีเป้าหมาย ไฟวิญญาณจะระเหยไปเฉยๆ"
  },
+ "c7e54ecd4ad8": {
+  "en": "The ball's size follows the General Power Effects: 0.1 cm at Tier I, doubling with every tier (51.2 cm at Tier X).",
+  "t": "ขนาดของลูกบอลเป็นไปตามผลพลังทั่วไป: 0.1 ซม. ที่ระดับ I และเพิ่มเป็นสองเท่าในทุกระดับ (51.2 ซม. ที่ระดับ X)"
+ },
  "c8c7488b1383": {
   "en": "Environmental changes, especially creation, destruction, and manipulation of elemental properties such as water, fire, terrain, and gravity, are commonly performed through this interface.",
   "t": "การเปลี่ยนแปลงสิ่งแวดล้อม โดยเฉพาะการสร้าง ทำลาย และควบคุมคุณสมบัติของธาตุ เช่น น้ำ ไฟ ภูมิประเทศ และแรงโน้มถ่วง มักทำผ่านอินเทอร์เฟซนี้"
  },
+ "ca4adc8484ad": {
+  "en": "<strong>Repel/Attract:</strong> the target repels or attracts the element. This is the one meant for gravity control. With no target, the soul flame simply evaporates.",
+  "t": "<strong>ผลัก/ดึง (Repel/Attract):</strong> เป้าหมายผลักหรือดึงธาตุนั้น นี่คือตัวที่มีไว้ควบคุมแรงโน้มถ่วง ถ้าไม่มีเป้าหมาย ไฟวิญญาณจะระเหยไปเฉยๆ"
+ },
  "cac2d50e5374": {
   "en": "It only restores the base genetic information; it doesn't deal with whatever is causing the damage, such as worms.",
   "t": "มันฟื้นฟูแค่ข้อมูลพันธุกรรมพื้นฐาน ไม่ได้จัดการกับสิ่งที่ทำให้เกิดความเสียหาย เช่น หนอน"
+ },
+ "caca7f199089": {
+  "en": "The elemental verbs, with frozen earth.",
+  "t": "คำกริยาธาตุ กับดินเยือกแข็ง"
  },
  "cb864e0c3c67": {
   "en": "Keeping your fingers clenched on the hand you used the logograms on, you must now trap the fingers, or nari stone stick, then reverse the motion while keeping the fingers clenched. This sort of “eating“ motion will suck the power and create a ball into one of the rings that will temporarily hold power. Do not worry about how fast it zips around. The rings will keep it in check until you release the spell in the final step.",
@@ -634,6 +694,10 @@
  "cd5fc47831e2": {
   "en": "Entangle",
   "t": "เอนแทงเกิล"
+ },
+ "cf492fe9525e": {
+  "en": "The elemental verbs, with ice.",
+  "t": "คำกริยาธาตุ กับน้ำแข็ง"
  },
  "d08ae5111258": {
   "en": "Minor cuts and minor blood loss",
@@ -691,6 +755,14 @@
   "en": "When a spell is cast, five rings appear around the hand holding it. Each shell holds a limited number of soul energy tiers:",
   "t": "เมื่อร่ายคาถา วงแหวนห้าวงจะปรากฏรอบมือที่ถือคาถา เปลือกแต่ละชั้นรองรับระดับพลังวิญญาณได้จำนวนจำกัด:"
  },
+ "e2b868f1938f": {
+  "en": "The elemental verbs, with fire.",
+  "t": "คำกริยาธาตุ กับไฟ"
+ },
+ "e36ef673808f": {
+  "en": "The elemental verbs, with ash.",
+  "t": "คำกริยาธาตุ กับเถ้า"
+ },
  "e5df83155e66": {
   "en": "Full Darfaries Interface - Sigil and Nari stone mode (video)",
   "t": "อินเทอร์เฟซดาร์แฟรีส์ฉบับเต็ม - โหมดซิจิลและหินนาริ (วิดีโอ)"
@@ -706,6 +778,10 @@
  "e8d0433850e4": {
   "en": "Fire VERB",
   "t": "ไฟร์ VERB"
+ },
+ "ea25d8fd0025": {
+  "en": "<strong>Create/Destroy:</strong> Create makes a ball of the element for a ranged attack (thanks to Hawking radiation, the black hole quickly disappears once cast); Destroy turns the target's element back into virtual particles. With no target, the soul flame simply evaporates.",
+  "t": "<strong>สร้าง/ทำลาย (Create/Destroy):</strong> สร้างทำให้เกิดลูกบอลของธาตุนั้นเพื่อโจมตีระยะไกล (ด้วยการแผ่รังสีฮอว์คิง หลุมดำจะหายไปอย่างรวดเร็วเมื่อร่ายแล้ว) ทำลายเปลี่ยนธาตุของเป้าหมายกลับเป็นอนุภาคเสมือน ถ้าไม่มีเป้าหมาย ไฟวิญญาณจะระเหยไปเฉยๆ"
  },
  "ef47633dff56": {
   "en": "Given Darfaries sport the most prominent Darfaries veins, its sheer additional volume allows them to finely sense soul energy disturbances around them, plus a rough sensation of humidity, wind, and barometric pressure—it’s like how they say, if a Darfaries tells you to buy an umbrella, you better buy one!",
