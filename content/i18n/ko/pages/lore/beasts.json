@@ -359,6 +359,14 @@
   "en": "<strong>Tastes like:</strong> See Fauna &gt; Monica.",
   "t": "<strong>맛:</strong> 동물 &gt; 모니카 참조."
  },
+ "538b29264865": {
+  "en": "<strong>Nari Worm Chitin</strong>: Chitin from when Nari Worms shed their skin. When heated, it smells slightly oily, with a mildewy, earthy finish, like a distant cousin of cockroaches.",
+  "t": "<strong>나리 웜 키틴</strong>: 나리 웜이 허물을 벗을 때 나온 키틴. 가열하면 살짝 기름 냄새가 나고, 끝에 곰팡내 섞인 흙냄새가 남는다. 바퀴벌레의 먼 사촌 같은 냄새."
+ },
+ "53d4eed1d9b5": {
+  "en": "<strong>Skills:</strong> Use Soul Energy to detect things around them; Create sound blast waves that can deafen anyone nearby, which they use to stun their prey.",
+  "t": "<strong>능력:</strong> 영혼 에너지로 주변의 사물 감지하기, 근처의 누구든 귀를 멀게 할 수 있는 음파 폭발 만들기(먹잇감을 기절시키는 데 쓴다)."
+ },
  "54c367b1869a": {
   "en": "<strong>Habitat:</strong> Bahyum Castle.",
   "t": "<strong>서식지:</strong> 바혐 성."
@@ -382,6 +390,10 @@
  "5b8171d86bca": {
   "en": "Male and female Flingas: tall dark-blue beasts with long curved horns and red crests, plus a close-up of a head, next to Harry.",
   "t": "수컷과 암컷 플링가: 길게 굽은 뿔과 빨간 볏을 가진 키 큰 짙은 파란색 마수와 머리 클로즈업. 해리 옆에 있다."
+ },
+ "5bac2a3e6f47": {
+  "en": "<strong>Habitat:</strong> Whiteland for most of the year; in the winter they come to the shores of the four kingdoms to eat tons of fish, then go back south to breed in the spring.",
+  "t": "<strong>서식지:</strong> 일 년 대부분은 화이트랜드. 겨울엔 네 왕국 해안에 와서 물고기를 잔뜩 먹고, 봄이 되면 번식하러 남쪽으로 돌아간다."
  },
  "5d97b7b1f3a8": {
   "en": "<strong>Flinga Meat</strong>: Meat cut by a butcher. A refined, rare product that some people in Forway insist on having, even though there’s nothing special about it.",
@@ -443,6 +455,10 @@
   "en": "Trunk People: a youngling and an adult tree creature with leafy green heads in a forest, on a height chart.",
   "t": "트렁크 피플: 숲속에 있는 머리에 초록 잎이 난 나무 생물의 새끼와 어른. 키 비교표 위에 그려져 있다."
  },
+ "6dc66fe048ae": {
+  "en": "<strong>Tastes like:</strong> Fishy and duck-like.",
+  "t": "<strong>맛:</strong> 비린내 나는 오리고기 같은 맛."
+ },
  "6dcff1a618d7": {
   "en": "<strong>Inspired by:</strong> The natural look of a bryozoan colony.",
   "t": "<strong>모티브:</strong> 이끼벌레 군체의 자연스러운 모습."
@@ -474,6 +490,10 @@
  "734c760d73c6": {
   "en": "<strong>Uses:</strong> Forway guards ride them to fly around without needing a nari gel themselves (the Big Winga under them is often another guard transformed with one). They're used for quick transportation of goods, scouting and flyovers.",
   "t": "<strong>용도:</strong> 포웨이 경비병은 자기는 나리 젤 없이 날아다니려고 빅 윙가를 탄다(밑에 있는 빅 윙가는 대개 나리 젤로 변신한 다른 경비병이다). 물자 신속 운송, 정찰, 상공 비행에 쓴다."
+ },
+ "7382ab3ff705": {
+  "en": "<strong>White Roundies Hair Strands</strong>: Used in nari gels.",
+  "t": "<strong>화이트 라운디 털 가닥</strong>: 나리 젤에 쓴다."
  },
  "7632aa3679a9": {
   "en": "<strong>Big Winga Feathers</strong>: Feathers, prepared by a butcher for artisans to work on.",
@@ -547,6 +567,10 @@
   "en": "<strong>Hifuna People Wood</strong>: The same reddish tone, but plagued with Hifuna disease, so most people won’t use it for crafting.",
   "t": "<strong>히푸나 피플 목재</strong>: 같은 붉은 빛깔이지만 히푸나 병에 시달려서, 대부분 공예에 쓰지 않는다."
  },
+ "81857ff25203": {
+  "en": "<strong>Nari Worm Egg</strong>: A rare find, packed with Soul Energy. It replenishes about Tier III and also works as a Nari Refresher. Somewhat delicate, and it may hatch into a tiny Nari Worm at random.",
+  "t": "<strong>나리 웜 알</strong>: 영혼 에너지가 가득한 희귀한 발견물. 약 III등급만큼 보충해 주고, 나리 리프레셔 역할도 한다. 다소 연약하고, 아무 때나 작은 나리 웜으로 부화할 수 있다."
+ },
  "81ae2bfa4c4e": {
   "en": "<strong>Jelly Blob</strong>: Usually a piece cut off a Shapeshifter and put in a jar for transport. Expensive, because they’re hard to catch.",
   "t": "<strong>젤리 덩어리</strong>: 보통 셰이프시프터에서 떼어 낸 조각을 운반용 병에 담은 것. 잡기 어려워서 비싸다."
@@ -570,6 +594,10 @@
  "8646424e8834": {
   "en": "<strong>Skills:</strong> Slow Regen; Halted Decomposition; Decompose Target; Steal Soul Energy.",
   "t": "<strong>능력:</strong> 느린 재생, 부패 정지, 대상 부패시키기, 영혼 에너지 훔치기."
+ },
+ "87fe827ea783": {
+  "en": "<strong>Nari Stones</strong>: See Nari Caverns. Some species don’t have enough Soul Energy in their bodies for higher-tier spells, so they cast with the energy stored in Nari stones. Forway considers the stone of the utmost importance to the balance of life, and waives its transport costs, since adventurers take on the responsibility of moving such important goods. To make one, the Nari Worm shell is ground and heated into small stones that recombine into a crystalline, diamond-like shape, which is set into Soul Wood and polished to a point for easier stacking. Nari stones can be chained together to speed up casting and to store more. Once used, the blue hue fades and the stone turns diamond-like. Some people toss the spent stones on the ground as waste, but most sell them in bulk, to be melted into a glass that feels somewhat plasticky and is less translucent.",
+  "t": "<strong>나리석</strong>: 나리 동굴 참조. 어떤 종은 몸에 영혼 에너지가 부족해 높은 등급의 주문을 못 쓰므로, 나리석에 저장된 에너지로 시전한다. 포웨이는 이 돌을 생명의 균형에 가장 중요한 것으로 여겨 운송비를 면제하는데, 모험가들이 이런 중요한 물자를 옮기는 책임을 맡기 때문이다. 만드는 법: 나리 웜 껍데기를 갈아 가열하면 작은 돌들이 다이아몬드 같은 결정 모양으로 다시 뭉치고, 이걸 영혼 나무에 박아 쌓기 쉽게 뾰족하게 다듬는다. 나리석은 서로 이어 붙여 시전 속도를 높이고 더 많이 저장할 수 있다. 다 쓰면 푸른빛이 바래고 다이아몬드처럼 변한다. 다 쓴 돌을 땅에 버리는 사람도 있지만, 대부분 대량으로 팔아 녹여서, 좀 플라스틱 같은 느낌에 덜 투명한 유리로 만든다."
  },
  "88387cc837bb": {
   "en": "<strong>Flinga Jerky</strong>: Jerky prepared by a butcher. A refined, rare product that some people in Forway insist on having, even though there’s nothing special about it.",
@@ -635,9 +663,17 @@
   "en": "<strong>Skills:</strong> Harden parts of their bodies; Generate Acid; Cloak; Increase Size.",
   "t": "<strong>능력:</strong> 몸의 일부를 단단하게 하기, 산 생성, 은신, 크기 증가."
  },
+ "9b1905acada7": {
+  "en": "<strong>Intelligence:</strong> Much higher than a dog’s, and of a very specific kind. They have their own cultures and social norms. They can’t speak or understand Vraki, but they understand actions, like pointing to the sea while holding a big slice of meat. Their trades might seem random, but the better the meat, the more likely they are to pay back the kindness. Sometimes they make odd sounds that sound like Vraki, as if they were trying to learn, or at least repeat what they heard people say.",
+  "t": "<strong>지능:</strong> 개보다 훨씬 높고, 아주 독특한 종류다. 자기들만의 문화와 사회 규범이 있다. 브라키어를 말하거나 알아듣지는 못하지만, 큰 고기 한 덩이를 들고 바다를 가리키는 것 같은 행동은 이해한다. 거래가 제멋대로처럼 보일 수 있지만, 고기가 좋을수록 친절에 보답할 가능성이 높다. 가끔 브라키어처럼 들리는 이상한 소리를 내는데, 배우려는 건지 적어도 사람들이 한 말을 따라 하려는 것 같다."
+ },
  "9c96138b628e": {
   "en": "<strong>Reproduction:</strong> Females give birth to 5–7 babies every year.",
   "t": "<strong>번식:</strong> 암컷이 해마다 새끼를 5~7마리 낳는다."
+ },
+ "9e08f4c26423": {
+  "en": "<strong>White Roundies Meat</strong>: Some people like it, but eating it is often considered weird because of its unusual taste. Much more expensive, or simply unavailable, outside the winter.",
+  "t": "<strong>화이트 라운디 고기</strong>: 좋아하는 사람도 있지만, 맛이 특이해서 먹으면 흔히 이상하게 여긴다. 겨울이 아니면 훨씬 비싸거나 아예 구할 수 없다."
  },
  "9eece3967a5b": {
   "en": "<strong>Extermination</strong>: Usually one piece (often the Walking Heart stone with the head bone) is torn off and brought back as proof of the hunt. See Embassy Quests for more details.",
@@ -739,6 +775,10 @@
   "en": "<strong>Inspired by:</strong> Chimpanzee.",
   "t": "<strong>모티브:</strong> 침팬지."
  },
+ "b50deeb8ddf5": {
+  "en": "<strong>Inspired by:</strong> Seals and penguins.",
+  "t": "<strong>모티브:</strong> 물개와 펭귄."
+ },
  "b521396978a6": {
   "en": "Endless experiments with what's now known as the Walking Heart stone left tons of zombies of different species in Bahyum Castle, and it somehow keeps creating more.",
   "t": "지금은 워킹 하트석으로 알려진 돌을 끝없이 실험한 결과, 바혐 성에 여러 종의 좀비가 잔뜩 남았고, 성은 어째서인지 계속 더 만들어 낸다."
@@ -763,6 +803,10 @@
   "en": "Hifuna People",
   "t": "히푸나 피플"
  },
+ "bf8dfb4caa32": {
+  "en": "<strong>Reproduction:</strong> Every spring, after fattening up in the warmer waters during the winter.",
+  "t": "<strong>번식:</strong> 겨울 동안 따뜻한 바다에서 살을 찌운 뒤, 봄마다."
+ },
  "c2018b90555e": {
   "en": "<strong>Intelligence:</strong> Lion.",
   "t": "<strong>지능:</strong> 사자."
@@ -770,6 +814,10 @@
  "c21ad57d8448": {
   "en": "<strong>Tastes like:</strong> Strong, earthy and nutty.",
   "t": "<strong>맛:</strong> 진하고, 흙 맛에 고소하다."
+ },
+ "c2d3c43fbc94": {
+  "en": "<strong>Food:</strong> Fish.",
+  "t": "<strong>먹이:</strong> 물고기."
  },
  "c45a08fc875b": {
   "en": "Hash {X}",
@@ -935,6 +983,10 @@
   "en": "Male and female White Roundies: gray seal-like creatures with long whiskers and pale tails, next to Harry.",
   "t": "수컷과 암컷 화이트 라운디스: 긴 수염과 연한 꼬리를 가진 회색 물범 같은 생물. 해리 옆에 있다."
  },
+ "ee952739d3ca": {
+  "en": "<strong>Interface:</strong> The hair around their necks, which vibrates and makes a rumbling sound above water.",
+  "t": "<strong>인터페이스:</strong> 목 주변의 털. 떨리면서 물 위에서 우르릉 소리를 낸다."
+ },
  "ef4e11ca8495": {
   "en": "Beasts · #HusbandOutWorld",
   "t": "마수 · #HusbandOutWorld"
@@ -990,6 +1042,10 @@
  "f5e978a4f160": {
   "en": "White Roundies are gentle mammals from the far south known as Whiteland, often coming up to the shores of Freeish but sometimes as far as Sanbi during the winter to feast on their heart, given the winter in Whiteland is far colder than the Four Kingdoms' winter. Don't let their cute nature fool you, though! They are incredibly intelligent, with some scientists dedicating their lives to investigating their culture alone. It is commonly accepted that this beast is likely on track to become their own race in the far future, but people disagree on what is the turning point. For some, the fact we can't understand their language is the most significant differentiator from Cruros. Others fight that argument on the grounds that they might be even more intelligent than us, and we don't understand them. Others think this whole back-and-forth is a waste of time and prefer to play catch, rub their bellies to hear the rumbling noise that sounds like a pur they make with their neck sensory tentacles, or straight up make companions out of them. If you're one of these people, there's a whole festival around their arrival in Freeish Kingdom you cannot miss out on.",
   "t": "화이트 라운디스는 화이트랜드라 불리는 먼 남쪽에서 온 온순한 포유동물이다. 겨울이면 자주 프리이시 해안까지 올라오고, 가끔은 산비까지 와서 그들의 심장을 실컷 먹는다. 화이트랜드의 겨울은 네 왕국의 겨울보다 훨씬 춥기 때문이다. 하지만 귀여운 모습에 속지 마! 믿을 수 없을 만큼 똑똑해서, 어떤 과학자들은 평생을 이들의 문화를 연구하는 데에만 바친다. 이 마수가 먼 미래에 하나의 종족이 될 가능성이 높다는 건 널리 받아들여지지만, 어디가 전환점인지에 대해서는 의견이 갈린다. 어떤 이들에게는 우리가 이들의 언어를 이해하지 못한다는 점이 크루로와의 가장 큰 차이다. 다른 이들은 이들이 우리보다 더 똑똑할지도 모르고, 우리가 이해하지 못할 뿐이라며 그 주장에 반박한다. 또 다른 이들은 이런 논쟁 자체가 시간 낭비라고 생각하고, 그냥 같이 공놀이를 하거나, 배를 문질러 목의 감각 촉수로 내는 가르랑거림 같은 우르릉 소리를 듣거나, 아예 동반자로 삼는 걸 더 좋아한다. 네가 그런 사람이라면, 프리이시 왕국에는 이들의 도착을 기념하는 축제가 통째로 있으니 절대 놓치지 마."
+ },
+ "f70be7341df5": {
+  "en": "A seal-like mammal that lives in the far south most of the year. They're often killed in winter, when they move to northern waters to fatten up for spring, though most people frown on it, since they seem too intelligent, especially people who think like Endlessfog's residents.",
+  "t": "일 년 대부분을 먼 남쪽에서 사는 물개 같은 포유류. 겨울에 봄을 앞두고 살을 찌우려 북쪽 바다로 올라올 때 자주 잡히지만, 대부분은 이를 언짢게 여긴다. 너무 영리해 보이기 때문인데, 엔들리스포그 주민처럼 생각하는 사람들이 특히 그렇다."
  },
  "f884107d2275": {
   "en": "<strong>Habitat:</strong> Seen flying all over the region.",
