@@ -1,7 +1,39 @@
 {
+ "1e5e2991dedc": {
+  "en": "<strong>Tiers:</strong> the mass affected follows the General Power Effects: 0.1 kg at Tier I, doubling with every tier (51.2 kg at Tier X). Because it changes the genetic information, not the soul, the change stays even after Body Restore, as long as the genetic information isn't lost.",
+  "t": "<strong>ระดับ:</strong> มวลที่ได้รับผลเป็นไปตามผลพลังทั่วไป: 0.1 กก. ที่ระดับ I และเพิ่มเป็นสองเท่าในทุกระดับ (51.2 กก. ที่ระดับ X) เพราะมันเปลี่ยนข้อมูลพันธุกรรม ไม่ใช่วิญญาณ การเปลี่ยนแปลงจึงคงอยู่แม้หลังบอดีรีสโตร์ ตราบใดที่ข้อมูลพันธุกรรมไม่สูญหาย"
+ },
+ "29070357c173": {
+  "en": "Soul Energy - Buhraies Interface (World Lore illustration)",
+  "t": "พลังวิญญาณ - อินเทอร์เฟซบูไรส์ (ภาพประกอบตำนานโลก)"
+ },
+ "2c0fd516e171": {
+  "en": "<strong>Draw the spell.</strong> Cut the target logogram into your skin with something sharp (see Language › Buhraies Interface Language), or just cut two empty squares, which has to be done with a knife.",
+  "t": "<strong>วาดคาถา</strong> กรีดตัวอักษรภาพของเป้าหมายลงบนผิวด้วยของมีคม (ดู ภาษา › ภาษาอินเทอร์เฟซบูไรส์) หรือแค่กรีดสี่เหลี่ยมว่างสองช่อง ซึ่งต้องทำด้วยมีด"
+ },
+ "31d48e291ac1": {
+  "en": "<strong>Tiers:</strong> the higher the tier, the more it increases the soul qualities of the summon, with the increase split across several skills. Only tiers above X had a noticeable effect, and only once the soul reconnected to new flesh, if it worked.",
+  "t": "<strong>ระดับ:</strong> ยิ่งระดับสูง ยิ่งเพิ่มคุณสมบัติทางวิญญาณของสิ่งที่ถูกอัญเชิญมากขึ้น โดยการเพิ่มนั้นแบ่งไปยังทักษะหลายอย่าง เฉพาะระดับที่สูงกว่า X เท่านั้นที่มีผลเห็นได้ชัด และเฉพาะเมื่อวิญญาณเชื่อมต่อกับเนื้อหนังใหม่แล้ว ถ้ามันได้ผล"
+ },
  "3705910a532f": {
   "en": "A \"fleshy\" focused evolution to the Finaies interface! Its capabilities outgrew Finaies in raw power and eventually led Buhraies to force themselves to become powerful enough to reshape the land and other creatures to their liking.",
   "t": "วิวัฒนาการของอินเทอร์เฟซฟิเนส์ที่เน้น \"เนื้อหนัง\"! ความสามารถของมันเหนือกว่าฟิเนส์ในด้านพลังดิบ และในที่สุดก็ทำให้บูไรส์บังคับตัวเองให้ทรงพลังพอจะปรับเปลี่ยนแผ่นดินและสิ่งมีชีวิตอื่นตามใจชอบ"
+ },
+ "3ae348503d46": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Buhraies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Buhraies Interface.md</a>",
+  "t": "แหล่งที่มา: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Buhraies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Buhraies Interface.md</a>"
+ },
+ "48ba5cb16a12": {
+  "en": "Alters the target's body DNA according to the caster's desires.",
+  "t": "เปลี่ยน DNA ร่างกายของเป้าหมายตามความต้องการของผู้ร่ายคาถา"
+ },
+ "552e97590e22": {
+  "en": "Soul VERB",
+  "t": "โซล VERB"
+ },
+ "58266576143d": {
+  "en": "Alters the target's soul DNA according to the caster's desires.",
+  "t": "เปลี่ยน DNA วิญญาณของเป้าหมายตามความต้องการของผู้ร่ายคาถา"
  },
  "5fed524a49f2": {
   "en": "That is, unless you’re doing a freeform! You will not have the pain of carving your palm, but it might cost your soul or the souls of people around you. Despite Buhraies having a natural inkling for controlling free-forming, including being able to shape the very land to their will, that same power was likely their demise.",
@@ -11,13 +43,33 @@
   "en": "You must carve the logograms into the skin of one of your palms, then clench your fingers to start the interface while keeping the palm visible.",
   "t": "คุณต้องสลักโลโกแกรมลงบนผิวหนังของฝ่ามือข้างหนึ่ง แล้วกำนิ้วเพื่อเริ่มอินเทอร์เฟซโดยให้ฝ่ามือยังมองเห็นได้"
  },
+ "6351722bd568": {
+  "en": "Soul Spectrum",
+  "t": "สเปกตรัมวิญญาณ"
+ },
+ "76a6e41714ed": {
+  "en": "Soul energy shapes the spell using logograms drawn from the knowledge shared by the souls of the people nearby.",
+  "t": "พลังวิญญาณขึ้นรูปคาถาโดยใช้ตัวอักษรภาพที่ดึงมาจากความรู้ที่วิญญาณของผู้คนรอบข้างมีร่วมกัน"
+ },
  "7f9bd04a4f99": {
   "en": "A \"fleshy\" focused evolution to the Finaies interface! Its capabilities outgrew Finaies in raw power and eventually led Buhraies to force themselves to become…",
   "t": "วิวัฒนาการของอินเทอร์เฟซฟิเนส์ที่เน้น \"เนื้อหนัง\"! ความสามารถของมันเหนือกว่าฟิเนส์ในด้านพลังดิบ และในที่สุดก็ทำให้บูไรส์บังคับตัวเองให้กลายเป็น…"
  },
+ "7fed7d4ad2e4": {
+  "en": "The Buhraies developed this interface as the blood they drank mutated their bodies, and because they wanted more power. Its logograms are the guardrails: cast without them, and you are altering the soul itself.",
+  "t": "บูไรส์พัฒนาอินเทอร์เฟซนี้ขึ้นเมื่อเลือดที่พวกเขาดื่มทำให้ร่างกายกลายพันธุ์ และเพราะพวกเขาต้องการพลังมากขึ้น ตัวอักษรภาพของมันคือราวกั้น: ร่ายโดยไม่มีมัน คุณก็กำลังเปลี่ยนแปลงวิญญาณเอง"
+ },
  "93c6a70f8e61": {
   "en": "Public text: science-buhraies-interface.md",
   "t": "ข้อความสาธารณะ: science-buhraies-interface.md"
+ },
+ "9aa1e6e34620": {
+  "en": "Nobody has ever maxed it out to know what would happen. The current theory is that going past the theoretical maximum would make the whole thing explode, possibly in a White Hole event.",
+  "t": "ยังไม่เคยมีใครใส่จนเต็มเพื่อดูว่าจะเกิดอะไรขึ้น ทฤษฎีปัจจุบันคือ การเกินค่าสูงสุดตามทฤษฎีจะทำให้ทั้งหมดระเบิด อาจเป็นเหตุการณ์ไวต์โฮล"
+ },
+ "a078821d2b2e": {
+  "en": "<strong>Start the spell.</strong> Clench the fingers of the hand holding the spell and the soul energy. The Buhraies shells appear as you do.",
+  "t": "<strong>เริ่มคาถา</strong> กำนิ้วมือข้างที่ถือคาถาและพลังวิญญาณไว้ เปลือกบูไรส์จะปรากฏขึ้นเมื่อคุณทำเช่นนั้น"
  },
  "a23b9db367c5": {
   "en": "3 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
@@ -35,8 +87,28 @@
   "en": "091 (images illustration)",
   "t": "091 (ภาพประกอบ)"
  },
+ "dd527ba2bcfb": {
+  "en": "<strong>Target:</strong> what the spell acts on. With no target, the soul energy falls back on the caster's own idea of how it should apply itself, and a miscast explodes in soul flame in the caster's hand.",
+  "t": "<strong>เป้าหมาย:</strong> สิ่งที่คาถากระทำต่อ หากไม่มีเป้าหมาย พลังวิญญาณจะหันไปพึ่งความคิดของผู้ร่ายเองว่ามันควรทำงานอย่างไร และการร่ายพลาดจะระเบิดเป็นเปลวไฟวิญญาณในมือผู้ร่าย"
+ },
+ "dfcfe195c9f1": {
+  "en": "An analysis of the soul. Research with it can find soul harmony, and the Buhraies used it to selectively breed people and enhance their power.",
+  "t": "การวิเคราะห์วิญญาณ การวิจัยด้วยสิ่งนี้หาความกลมกลืนของวิญญาณได้ และบูไรส์ใช้มันคัดเลือกพันธุ์ผู้คนและเสริมพลังของพวกเขา"
+ },
  "e3cc5a5f7427": {
   "en": "All Buhraies show the markings of controlled flight and built-in spell-casting mechanisms using specialized nerves attuned to soul energy that appear as veins, at least to the untrained eye, throughout the body. These reddened nerves run up and down their body.",
   "t": "บูไรส์ทุกตนมีร่องรอยของการบินที่ควบคุมได้และกลไกร่ายคาถาในตัว โดยใช้เส้นประสาทพิเศษที่ปรับให้เข้ากับพลังวิญญาณ ซึ่งดูเหมือนเส้นเลือด อย่างน้อยก็สำหรับตาที่ไม่ได้ฝึก ทั่วทั้งร่างกาย เส้นประสาทสีแดงเหล่านี้วิ่งขึ้นลงทั่วตัว"
+ },
+ "e5d418c7583e": {
+  "en": "<strong>Verb:</strong> what you want to do. You have to think it clearly; a lack of concentration means a miscast, an explosion, or even blowback.",
+  "t": "<strong>กริยา:</strong> สิ่งที่คุณต้องการทำ คุณต้องคิดมันให้ชัด การขาดสมาธิหมายถึงร่ายพลาด ระเบิด หรือแม้แต่ย้อนกลับมาทำร้าย"
+ },
+ "f2508a76391f": {
+  "en": "<strong>Infuse soul energy.</strong> The casting hand takes in energy when the caster \"eats\" with it. Touching the middle and ring fingers lights up the Buhraies veins in that hand with soul flame, and when the other hand \"eats\", the flames are absorbed. A spell is only stable at a soul energy tier, so energy always fills up to the next tier (after a partial charge, it adds the difference).",
+  "t": "<strong>อัดพลังวิญญาณ</strong> มือที่ร่ายจะรับพลังเข้ามาเมื่อผู้ร่าย “กิน” ด้วยมือนั้น การแตะนิ้วกลางกับนิ้วนางทำให้เส้นเลือดบูไรส์ในมือนั้นสว่างด้วยเปลวไฟวิญญาณ และเมื่ออีกมือ “กิน” เปลวไฟก็จะถูกดูดซับ คาถาจะเสถียรเฉพาะที่ระดับพลังวิญญาณหนึ่งๆ ดังนั้นพลังจะเติมจนเต็มระดับถัดไปเสมอ (หลังชาร์จไม่เต็ม มันจะเติมส่วนต่าง)"
+ },
+ "f6eb3327d46d": {
+  "en": "When a spell is cast, five rings appear around the hand holding it. Each shell, on its own, holds a limited number of soul energy tiers:",
+  "t": "เมื่อร่ายคาถา วงแหวนห้าวงจะปรากฏรอบมือที่ถือคาถาไว้ แต่ละชั้นเปลือกเก็บระดับพลังวิญญาณได้จำนวนจำกัด:"
  }
 }
