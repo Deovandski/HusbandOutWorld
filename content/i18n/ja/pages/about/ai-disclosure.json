@@ -23,6 +23,10 @@
   "en": "PRs are welcome, with or without AI help. If you used AI for a contribution, say so in the PR description and add a line to the table above.",
   "t": "AI の助けがあってもなくても、PR は大歓迎です。貢献に AI を使った場合は、PR の説明にそう書き、上の表に1行追加してください。"
  },
+ "227ad95d5503": {
+  "en": "content/bts",
+  "t": "content/bts"
+ },
  "23eebfe076f3": {
   "en": "<strong>Shortened and paraphrased</strong> them into one-paragraph public summaries, because the blog never had pages for these topics. No new facts. Each summary is labeled on the website as AI-written.",
   "t": "ブログにこれらのトピックのページがなかったため、それぞれを1段落の公開用要約に<strong>短縮・言い換え</strong>しました。新しい事実はありません。各要約はサイト上で AI が書いたものと明記しています。"
@@ -259,6 +263,14 @@
   "en": "content/summaries.json",
   "t": "content/summaries.json"
  },
+ "c43f5ab5035a": {
+  "en": "<strong>Written by the AI</strong> with the author: the abridged Behind The Scenes text the website shows (grammar fixed, brain dumps turned into readable prose and lists, gaps filled only from other Legacy sources or the author's answers). Every question asked, every answer (in the author's words), every filled gap with its source and every discrepancy is recorded in <a href=\"content/bts/qa\">content/bts/qa</a>, one file per Legacy doc. The Glossary's Behind The Scenes descriptions are taken from this abridged text. The raw notes in Legacy are unchanged; where the author ruled a correction or addition \"official\", it shows in the raw notes on the website as a display-only fix in <a href=\"content/fixes.json\">content/fixes.json</a>.",
+  "t": "<strong>AI が執筆</strong>（作者と共に）：サイトに表示される要約版の舞台裏テキスト（文法を直し、思いつくままのメモを読みやすい文章やリストにし、空白は Legacy のほかの資料か作者の回答だけで埋めたもの）。すべての質問、すべての回答（作者の言葉のまま）、出典つきで埋めたすべての空白、すべての食い違いは、Legacy のドキュメントごとに1ファイルずつ <a href=\"content/bts/qa\">content/bts/qa</a> に記録されています。用語集の舞台裏の説明は、この要約版テキストから取っています。Legacy の生のメモは変更していません。作者が訂正や追加を「公式」と判断したものは、サイト上の生のメモに、<a href=\"content/fixes.json\">content/fixes.json</a> による表示専用の修正として反映されます。"
+ },
+ "c92dbea049c4": {
+  "en": "<strong>The website shows the author's own words.</strong> The novel chapters and the public descriptions (from the old blog) are displayed as written, and so are the Behind The Scenes notes that haven't been abridged yet. The AI's job was to arrange them, not to rewrite them. The exception: Behind The Scenes notes that have been <strong>abridged</strong> (see <code>content/bts</code> below) are an AI-assisted rewrite of the author's raw notes into readable form, labeled as such on every section, with the raw notes one click away.",
+  "t": "<strong>サイトには作者自身の言葉が載っています。</strong>小説の各章と公開用の説明文（旧ブログから）は書かれたとおりに表示しており、まだ要約されていない舞台裏のメモも同様です。AI の役割はそれらを並べることで、書き直すことではありませんでした。例外：<strong>要約</strong>された舞台裏のメモ（下記の <code>content/bts</code> を参照）は、作者の生のメモを読みやすい形に AI の助けで書き直したもので、すべてのセクションにその旨を表示し、生のメモもワンクリックで見られます。"
+ },
  "ca17d9e86677": {
   "en": "Modeled on the questions in IBM's <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> (what AI was used, what it contributed, how much humans shaped it, and who is accountable):",
   "t": "IBM の <a href=\"https://www.research.ibm.com/blog/AI-attribution-toolkit\" rel=\"noopener\">AI Attribution Toolkit</a> の質問項目（どの AI を使ったか、何を担ったか、人間がどれだけ手を加えたか、誰が責任を負うか）にならっています："
@@ -278,6 +290,10 @@
  "e8ebc8d12782": {
   "en": "<a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a> (BookSeries, Book, Chapter), for the structured data in each page",
   "t": "各ページの構造化データのための <a href=\"https://schema.org/\" rel=\"noopener\">schema.org</a>（BookSeries、Book、Chapter）"
+ },
+ "f1afd477240d": {
+  "en": "The raw Behind The Scenes notes in Legacy, the published novels, and the author's answers to the AI's questions.",
+  "t": "Legacy にある生の舞台裏メモ、出版された小説、そして AI の質問への作者の回答。"
  },
  "f5234aaefa0e": {
   "en": "Eight Behind The Scenes docs: World Timeline, Villages, Land, Professions, Education, Sports, Novels, Natural and Crafted Resources (human).",

@@ -1,7 +1,43 @@
 {
+ "0a1a7c383620": {
+  "en": "Their skin, eyes included, changes to the color of their enhancement group. Kozaku Forway, the Darfaries who leads the Blue Wozens, is one: the stone melded with him perfectly, then corrupted his mind.",
+  "t": "肌は、目も含めて、強化の系統の色に変わる。ブルーウォゼンズを率いるダルファリエスのコザク・フォーウェイはその一人だ。石は彼と完璧に溶け合い、それから彼の心を腐らせた。"
+ },
+ "0b81ef926400": {
+  "en": "Science - Walking Heart Interface (World Lore illustration)",
+  "t": "科学 - ウォーキングハート・インターフェース（世界観イラスト）"
+ },
+ "181edb28f3a4": {
+  "en": "When they feel a strong emotion that matches a color bound to their soul, a flame of that color rises from their chest.",
+  "t": "魂に結びついた色に合う強い感情を感じると、その色の炎が胸から立ちのぼる。"
+ },
  "1b6034ca7bd4": {
   "en": "Intelligence (Blue)",
   "t": "知力（青）"
+ },
+ "1c55928c621d": {
+  "en": "<strong>Emotions likely to run rampant:</strong> anxiety, jealousy, hoarding.",
+  "t": "<strong>暴走しやすい感情：</strong>不安、嫉妬、ため込み。"
+ },
+ "1f6bc60236d0": {
+  "en": "Forway banned their use because of the deaths and the corruption of character they often cause. And since the person becomes undead, they give up their rights as a citizen.",
+  "t": "死者と、それがよく引き起こす人格の堕落のせいで、フォーウェイはその使用を禁止した。そしてその人はアンデッドになるので、市民としての権利を放棄することになる。"
+ },
+ "207aaa09247c": {
+  "en": "Living with one",
+  "t": "石とともに生きる"
+ },
+ "2be3ffef43f3": {
+  "en": "<strong>Benefits:</strong> memory, intellectual processing, planning, understanding knowledge.",
+  "t": "<strong>利点：</strong>記憶、知的処理、計画、知識の理解。"
+ },
+ "2fbb9d1ee2a3": {
+  "en": "<strong>Emotions likely to run rampant:</strong> depression, embarrassment, sadness.",
+  "t": "<strong>暴走しやすい感情：</strong>うつ、恥ずかしさ、悲しみ。"
+ },
+ "30f716793368": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Walking%20Heart%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Walking Heart Interface.md</a>",
+  "t": "出典：<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Walking%20Heart%20Interface.md\">Legacy/Behind The Scenes/World Lore/Science - Walking Heart Interface.md</a>"
  },
  "32318a007431": {
   "en": "Walking Hearts",
@@ -10,6 +46,14 @@
  "33f7b9aa1b1f": {
   "en": "Increased memory and intellectual processing that can extend into becoming a great strategist, but at the cost of strength, agility, dexterity, and stamina. And if that’s not enough, there is a risk of growing emotionless and completely detached.",
   "t": "記憶力と知的処理能力が高まり、優れた戦略家になれることもあるが、代わりに力、俊敏さ、器用さ、持久力を失う。それだけでは足りないと言わんばかりに、感情をなくし、完全に心が離れてしまう危険もある。"
+ },
+ "39673b3a8ca2": {
+  "en": "<strong>Drawback:</strong> dexterity.",
+  "t": "<strong>欠点：</strong>器用さ。"
+ },
+ "3af3d06a85b9": {
+  "en": "<strong>Benefits:</strong> fine motor coordination; ranged weapons strike truer; harder to notice, if they train their walk, since they no longer breathe.",
+  "t": "<strong>利点：</strong>細かい運動の協調。飛び道具がより正確に当たる。もう呼吸しないので、歩き方を鍛えれば気づかれにくくなる。"
  },
  "4324b6c71f52": {
   "en": "Walking Hearts are stones created by geological processes within the irradiated zones of Hifuna. They usually develop to about the size of a fist and are pure black. Within the blackness, specific other colors radiate. These different colors tell what type of stone it is and what kinds of power it will likely grant the wearer if someone replaces their heart with it.",
@@ -23,6 +67,18 @@
   "en": "Able to run further and faster. Able to fight for more extended periods and increased efficiency of using Soul Energy, but at the cost of dexterity, and the development of anxiety and jealousy issues, which can further develop into becoming a hoarder.",
   "t": "より遠くまで、より速く走れる。より長く戦えて、魂のエネルギーをより効率よく使えるが、代わりに器用さを失い、不安や嫉妬の問題を抱え、それがためこみ癖にまで発展することもある。"
  },
+ "482ae4090c22": {
+  "en": "Their heart no longer beats, and they no longer eat, drink, breathe or sleep. They recharge only through emotions, or by stabbing a nari stone into their heart.",
+  "t": "心臓はもう鼓動せず、食べることも飲むことも呼吸することも眠ることもない。回復するのは感情によってだけか、ナリストーンを心臓に突き刺すことによってだけだ。"
+ },
+ "48bff0c7c530": {
+  "en": "A stone holds five groups of enhancement: red, yellow, green, blue and purple. The person's mind and the stone's color ratios have to become one. If they don't, the person never wakes up. If they do, the stone binds to the person's soul and they become undead, and the color of their skin shows which powers are bound to them. A stone grants one to three enhancements from a group.",
+  "t": "石は五つの強化の系統を持っている。赤、黄、緑、青、紫だ。その人の心と石の色の割合がひとつにならなければならない。ならなければ、その人は二度と目覚めない。なれば、石はその人の魂に結びつき、その人はアンデッドになり、肌の色がどの力と結びついたかを示す。石は一つの系統から一〜三つの強化を与える。"
+ },
+ "494b68464bcd": {
+  "en": "<strong>Emotions likely to run rampant:</strong> revenge, anger, berserker rage.",
+  "t": "<strong>暴走しやすい感情：</strong>復讐、怒り、狂戦士の激昂。"
+ },
  "57df5930ce7a": {
   "en": "Dexterity (Green)",
   "t": "器用さ（緑）"
@@ -30,6 +86,10 @@
  "5ff2002caaf7": {
   "en": "Strength (Red)",
   "t": "力（赤）"
+ },
+ "64ae3e7c0336": {
+  "en": "<strong>Emotions likely to run rampant:</strong> fear, terror, grief.",
+  "t": "<strong>暴走しやすい感情：</strong>恐れ、恐怖、悲嘆。"
  },
  "735f6e4c06e2": {
   "en": "Easy to gain strength and build up muscle at the cost of agility and the development of anger issues, to the point of going, berserker.",
@@ -39,9 +99,25 @@
   "en": "Walking Heart appearance: a man shown four times with red, orange, green and purple skin, and a multicolored heart-stone about 13 cm across.",
   "t": "ウォーキングハートの外見：赤、オレンジ、緑、紫の肌で4回描かれた男性と、約13cmの多色のハート形の石。"
  },
+ "7afa05c5d226": {
+  "en": "<strong>Benefits:</strong> runs without getting tired; can fight or work for hours on end; uses soul energy more efficiently.",
+  "t": "<strong>利点：</strong>疲れずに走れる。何時間も続けて戦ったり働いたりできる。魂のエネルギーをより効率よく使う。"
+ },
+ "7d35a0793e8f": {
+  "en": "<strong>Drawbacks:</strong> loses strength, agility, dexterity and stamina; likely a shorter lifespan.",
+  "t": "<strong>欠点：</strong>力、敏捷さ、器用さ、持久力を失う。たぶん寿命も短くなる。"
+ },
  "7eebda879787": {
   "en": "Walking Hearts Benefits &amp; Risks",
   "t": "ウォーキングハートの利点 &amp; 危険"
+ },
+ "9367f991e3b2": {
+  "en": "<strong>Benefits:</strong> extra strength; builds muscle easily.",
+  "t": "<strong>利点：</strong>力が増す。筋肉がつきやすい。"
+ },
+ "973e53f7f1b4": {
+  "en": "How a stone binds",
+  "t": "石の結びつき方"
  },
  "97eda47ff757": {
   "en": "Agility (Purple)",
@@ -51,17 +127,49 @@
   "en": "Walking Heart Interface",
   "t": "ウォーキングハート・インターフェース"
  },
+ "9a484adf5f9c": {
+  "en": "<strong>Emotions:</strong> neutral and balanced, and at worst emotionless: robotic, almost catatonic, a blank slate.",
+  "t": "<strong>感情：</strong>中立的で釣り合いがとれていて、最悪の場合は感情がない。ロボットのようで、ほとんど緊張病のような、まっさらな状態だ。"
+ },
+ "a4b182b0a1b0": {
+  "en": "<strong>Drawback:</strong> stamina.",
+  "t": "<strong>欠点：</strong>持久力。"
+ },
  "a518d97cdc78": {
   "en": "Forway banned their usage due to the fatalities and corruption of one’s character that often occurs. Legally speaking, the lack of pulse also implies a certain death status. Their souls haven’t died yet, so they can’t be marked as soul dead and their rights as citizens removed. Lawmakers were not keen on the idea, though, and they classified people using any Buhraies or Walking Heart technology that causes soul corruption to be undead and be treated the same as soul dead.",
   "t": "フォーウェイは、多くの場合に起きる死亡や人格の堕落を理由に、その使用を禁止した。法的に言えば、脈がないことはある種の死の状態も意味する。魂はまだ死んでいないので、魂の死者として扱い、市民としての権利を剥奪することはできない。だが立法者たちはその考えを良しとせず、魂の堕落を引き起こすブライエスやウォーキングハートの技術を使う者をアンデッドに分類し、魂の死者と同じように扱うことにした。"
+ },
+ "a8b5b593473b": {
+  "en": "Walking Hearts are stones that form in the irradiated zones of Hifuna. They usually grow to about the size of a fist and are black, but colors glow within the black, and those colors tell what type of stone it is and what powers it will likely grant whoever replaces their heart with it.",
+  "t": "ウォーキングハートは、ヒフナの放射線を浴びた地帯にできる石だ。たいていこぶしほどの大きさに育ち、黒いが、黒の中で色が光っていて、その色が石の種類と、心臓をそれと取り替えた者にどんな力を与えそうかを示している。"
+ },
+ "c20c21de2e4f": {
+  "en": "<strong>Drawback:</strong> agility.",
+  "t": "<strong>欠点：</strong>敏捷さ。"
  },
  "c81ded4d937f": {
   "en": "Increased healing, reflection time, and controlling the sense of time, but at the cost of strength and the development of a constant fear of everything and every one, this fear can terrorize the person to their core.",
   "t": "治癒力、反射時間、時間の感覚の制御が高まるが、代わりに力を失い、あらゆるものと人に対する絶え間ない恐怖を抱えるようになる。その恐怖は、その人を芯から恐怖で支配することもある。"
  },
+ "d5998a8b2ab6": {
+  "en": "As long as the person still has a soul, the stone keeps feeding off it to power the body.",
+  "t": "その人にまだ魂があるかぎり、石は体を動かすためにそれを食べ続ける。"
+ },
  "e5587824652a": {
   "en": "Stamina (Yellow)",
   "t": "持久力（黄）"
+ },
+ "e65b439f2b46": {
+  "en": "The stones are impure by nature, so one person can rarely develop two colors at once.",
+  "t": "石は本質的に不純なので、一人の人が同時に二つの色を発現させることはめったにない。"
+ },
+ "e8ad92da0615": {
+  "en": "<strong>Drawback:</strong> strength.",
+  "t": "<strong>欠点：</strong>力。"
+ },
+ "ee6ed38c825d": {
+  "en": "<strong>Benefits:</strong> faster reflexes; faster healing.",
+  "t": "<strong>利点：</strong>反射が速くなる。治癒が速くなる。"
  },
  "f8d4a14019c0": {
   "en": "Walking Heart Interface · #HusbandOutWorld",

@@ -1,11 +1,211 @@
 {
+ "02b88522b961": {
+  "en": "Bagarisa Fur Toothbrush",
+  "t": "バガリサの毛の歯ブラシ"
+ },
+ "08b561d3f1c8": {
+  "en": "~20 Pearls for a simple one",
+  "t": "簡単なもので約 20 パール"
+ },
+ "0cacdf04aae4": {
+  "en": "<strong>Tier I (Cheap Goods):</strong> natural resources; paper and vellum.",
+  "t": "<strong>ティアI（安価な品）：</strong>自然の資源。紙と羊皮紙。"
+ },
+ "0f3899a6f453": {
+  "en": "Fost Stone",
+  "t": "フォストストーン"
+ },
+ "14f8d549c5d9": {
+  "en": "~5 Pearls",
+  "t": "約 5 パール"
+ },
+ "17770172fb8f": {
+  "en": "~2 Pearls",
+  "t": "約 2 パール"
+ },
+ "1918925582d5": {
+  "en": "Wood People sap",
+  "t": "ウッドピープルの樹液"
+ },
+ "1a2ed0c8f120": {
+  "en": "<strong>Where there's none:</strong> people burn animal-fat torches, though not usually inside homes. Gandew and Sundeath use more torches than anywhere else, because they're far from where fost stones are mined.",
+  "t": "<strong>ない場所では：</strong>人々は動物の脂のたいまつを燃やすが、ふつう家の中では使わない。ガンデューとサンデスは、フォストストーンが採れる場所から遠いので、ほかのどこよりもたいまつを多く使う。"
+ },
+ "1adb8bc81b63": {
+  "en": "A custom-made weapon of chitin and finely crafted Bone Wood, with Winga beaks and claws for close-quarters combat (CQC). It works as a bow, but also as a melee weapon if needed.",
+  "t": "キチンと精巧に作ったボーンウッドに、接近戦（CQC）用のウィンガのくちばしと爪を組み合わせた特注の武器。弓として使えるが、必要なら近接武器にもなる。"
+ },
+ "1e5106d75f3c": {
+  "en": "Wood ~10 Pearls; Bone Wood ~20 Pearls; chitin ~40 Pearls; iron ~85 Pearls; steel ~2 Amethysts; gold ~4 Aquamarines",
+  "t": "木 約 10 パール、ボーンウッド 約 20 パール、キチン 約 40 パール、鉄 約 85 パール、鋼 約アメジスト 2 個、金 約アクアマリン 4 個"
+ },
+ "1e7081d736f4": {
+  "en": "Trees",
+  "t": "木"
+ },
+ "1f9c51d4d790": {
+  "en": "<strong>Simple Journal</strong> (6×9, 50 pages)",
+  "t": "<strong>簡単な帳面</strong>（6×9、50 ページ）"
+ },
+ "23f033a801a0": {
+  "en": "Natural Resources",
+  "t": "自然の資源"
+ },
+ "24e56b632ea6": {
+  "en": "~15 Pearls",
+  "t": "約 15 パール"
+ },
+ "2504ce24727b": {
+  "en": "A Tier I worker (master level) saving half their pay needs, on average, about 450 working days for a full iron set, 660 for steel, 310 for Bone Wood, 260 for chitin and about 150 for Tibou or leather. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Equipment Price Calculator).",
+  "t": "給料の半分を貯めるティア I の労働者（親方レベル）は、平均して、鉄の一式に約 450 労働日、鋼に 660 日、ボーンウッドに 310 日、キチンに 260 日、ティブーか革に約 150 日かかる。<a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">経済スプレッドシート</a>（装備の価格計算機）を参照。"
+ },
+ "2ac93d2e4e96": {
+  "en": "Toothpaste",
+  "t": "歯磨き粉"
+ },
+ "3033ea8c6184": {
+  "en": "<strong>Tier III (Expensive Goods):</strong> rare mineral resources (gold, titanium); higher-quality armor and weapons.",
+  "t": "<strong>ティアIII（高価な品）：</strong>珍しい鉱物資源（金、チタン）。質の高い鎧と武器。"
+ },
+ "31e653361e0e": {
+  "en": "Made of Soul Wood or Black Wood.",
+  "t": "ソウルウッドかブラックウッドで作られている。"
+ },
+ "32dc4384ef54": {
+  "en": "Soul Energy Related",
+  "t": "魂のエネルギーまわり"
+ },
+ "32e3377c4e63": {
+  "en": "~9 Pearls",
+  "t": "約 9 パール"
+ },
+ "33a29dab963f": {
+  "en": "<strong>Ice Preserver</strong> (a fridge-freezer): made of wood and clay (~1 Amethyst), or iron, wood and clay (~1 Aquamarine).",
+  "t": "<strong>アイスプリザーバー</strong>（冷凍冷蔵庫）：木と粘土製（約アメジスト 1 個）、または鉄と木と粘土製（約アクアマリン 1 個）。"
+ },
+ "37619fc13053": {
+  "en": "White",
+  "t": "白"
+ },
+ "3862ac04f34f": {
+  "en": "<strong>Sword:</strong> iron ~683–767; steel ~1,008–1,092; Bone Wood ~285–596; chitin ~185–521.",
+  "t": "<strong>剣：</strong>鉄 約 683〜767、鋼 約 1,008〜1,092、ボーンウッド 約 285〜596、キチン 約 185〜521。"
+ },
+ "3889502093b8": {
+  "en": "~1 Pearl",
+  "t": "約 1 パール"
+ },
+ "394d220c45d2": {
+  "en": "Cost a bottle",
+  "t": "一瓶の値段"
+ },
+ "39a8bd07a18b": {
+  "en": "Iron and steel cost the same everywhere except Tolerideme, where they're a little pricier. Bone Wood is cheapest in Freeish and Chitin in Gandew. See the <a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">Economy spreadsheet</a> (Weapon &amp; Household Price Calculator).",
+  "t": "鉄と鋼は、少し高めのトレリデメを除いて、どこでも同じ値段だ。ボーンウッドはフリーイッシュで、キチンはガンデューで最も安い。<a href=\"Legacy/Behind%20The%20Scenes/Spreadsheets/Formulas%20-%20Economy.xlsx\">経済スプレッドシート</a>（武器&amp;家財道具の価格計算機）を参照。"
+ },
+ "3c9be150028c": {
+  "en": "Bathroom Related",
+  "t": "浴室まわり"
+ },
  "3e86255de7aa": {
   "en": "Natural & Crafted Resources · #HusbandOutWorld",
   "t": "天然資源 & 加工品 · #HusbandOutWorld"
  },
+ "4424d0dd18ef": {
+  "en": "Charcoal, sometimes wrapped in wood to look fancy (see <a href=\"/lore/characters/#kiko-sanbi-half-cruro\">Kiko</a>).",
+  "t": "炭で、ときにはしゃれて見えるよう木で包まれている（<a href=\"/lore/characters/#kiko-sanbi-half-cruro\">キコ</a>を参照）。"
+ },
+ "4616570b68e6": {
+  "en": "Walking Heart",
+  "t": "ウォーキングハート"
+ },
+ "4765bbc0170f": {
+  "en": "<strong>Used for:</strong> construction and furniture; decorating armor and weapons.",
+  "t": "<strong>用途：</strong>建築と家具。鎧と武器の装飾。"
+ },
+ "48481822223b": {
+  "en": "<strong>Paper</strong> (a bundle of ~10 loose pages)",
+  "t": "<strong>紙</strong>（約 10 枚のばらの紙の束）"
+ },
+ "49e8ea38afbd": {
+  "en": "<strong>Used for:</strong> weapons; tools.",
+  "t": "<strong>用途：</strong>武器。道具。"
+ },
+ "4d76a703efd4": {
+  "en": "Writing Stick",
+  "t": "筆記用の棒"
+ },
+ "4ef827bf0b4e": {
+  "en": "Paper, leather and glue",
+  "t": "紙、革、のり"
+ },
+ "4fe8d925db58": {
+  "en": "A special chitin armor designed after the <a href=\"/lore/beasts/#sweet-sting\">Sweet Sting</a>, used for CQC and impaling. <a href=\"/lore/characters/#morika-tolerideme\">Morika</a> once wore a Sweet Sting costume to gather Black Honey and liked how empowering it felt, so he saved for about a year and a half to have it made. It makes up for his slow reflexes and hides his face. He becomes another persona in it, <a href=\"/lore/characters/#the-stinger\">The Stinger</a>, and kills with the spike of his Stinger helmet.",
+  "t": "<a href=\"/lore/beasts/#sweet-sting\">スイートスティング</a>を模して設計された特別なキチンの鎧で、接近戦と串刺しに使われる。<a href=\"/lore/characters/#morika-tolerideme\">モリカ</a>はかつて黒蜜を集めるためにスイートスティングの衣装を着て、その力がみなぎる感じを気に入ったので、約一年半貯金してこれを作ってもらった。それは彼の遅い反射神経を補い、顔を隠してくれる。これを着ると彼は別の人格、<a href=\"/lore/characters/#the-stinger\">スティンガー</a>になり、スティンガーの兜の棘で殺す。"
+ },
+ "51c64938ac53": {
+  "en": "The Tibou plant, with animal fat and other ingredients.",
+  "t": "ティブーの植物に、動物の脂やほかの材料を加えたもの。"
+ },
+ "52996fa554f2": {
+  "en": "Household",
+  "t": "家財道具"
+ },
+ "54076359fdc7": {
+  "en": "Pink",
+  "t": "ピンク"
+ },
+ "54132c44f968": {
+  "en": "Tibou Soap",
+  "t": "ティブーの石鹸"
+ },
+ "5757b2155f92": {
+  "en": "What the materials alone cost, shipping included, in Pearls. The range runs from the cheapest region to the most expensive; crafting costs come on top.",
+  "t": "輸送費込みの、材料だけの値段（パール）。幅は最も安い地域から最も高い地域までで、加工の費用は別にかかる。"
+ },
+ "57ae620e41ee": {
+  "en": "Seal Stamp",
+  "t": "封印"
+ },
  "59cb822763ff": {
   "en": "15 more entries on this page are only in <button class=\"linklike\" data-go-bts>Behind The Scenes</button>.",
   "t": "このページの残り15項目は<button class=\"linklike\" data-go-bts>舞台裏</button>にのみあります。"
+ },
+ "5ca532404946": {
+  "en": "<strong>Wine/Mead Mug:</strong> gotta be fancy. Wood ~13 Pearls; Bone Wood ~16 Pearls; chitin ~23 Pearls; iron ~29 Pearls; steel ~2 Amethysts; gold ~3 Aquamarines.",
+  "t": "<strong>ワイン／蜂蜜酒のジョッキ：</strong>しゃれていなくちゃ。木 約 13 パール、ボーンウッド 約 16 パール、キチン 約 23 パール、鉄 約 29 パール、鋼 約アメジスト 2 個、金 約アクアマリン 3 個。"
+ },
+ "5d70259efbb0": {
+  "en": "Inks/Dyes",
+  "t": "インク／染料"
+ },
+ "5e49b52715ce": {
+  "en": "A stone found in the sediment of the Buhraies lake, on the Buhraies Plains, and all the way from Waterfall City to the Sanbi Kingdom. Closer to the ocean, the riverbed lights up where the rocks get too close to salt water. Fauna, and beasts especially, seem to avoid places where it lies underwater.",
+  "t": "ブライエス平原のブライエス湖の堆積物の中や、ウォーターフォール・シティからサンビ王国に至る一帯で見つかる石。海に近いところでは、岩が塩水に近づきすぎた場所で川底が光る。動物、とくに魔獣は、それが水中にある場所を避けるようだ。"
+ },
+ "5f5a2affd95f": {
+  "en": "A plain piece of charcoal ~0–2 Pearls; a charcoal stick ~7 Pearls; a refined charcoal stick ~30 Pearls",
+  "t": "ただの炭のかけら 約 0〜2 パール、炭の棒 約 7 パール、上等な炭の棒 約 30 パール"
+ },
+ "635af13363af": {
+  "en": "<strong>Bread Plate/Bowl:</strong> made of bread (~0–2 Pearls). It soaks up the juices of your food, and is given to the poor afterward.",
+  "t": "<strong>パンの皿／鉢：</strong>パンでできている（約 0〜2 パール）。料理の汁を吸い、あとで貧しい人々に与えられる。"
+ },
+ "64ae43e8fe76": {
+  "en": "Cost",
+  "t": "費用"
+ },
+ "69f060ea9f2e": {
+  "en": "Usually iron or another metal that can withstand the water pressure. Pull it, and water flows from the pipe.",
+  "t": "たいてい鉄か、水圧に耐えられるほかの金属。引けば、管から水が流れる。"
+ },
+ "6acdd3ea77dc": {
+  "en": "<strong>Tier IV (Nobility Goods):</strong> custom armor and weapons; household items, or any item of extremely high craft or quality.",
+  "t": "<strong>ティアIV（貴族向けの品）：</strong>特注の鎧と武器。家財道具、あるいはきわめて高い技術や品質のあらゆる品。"
+ },
+ "6b0c0b7d6913": {
+  "en": "Leather",
+  "t": "革"
  },
  "6e97b1eafd0e": {
   "en": "The materials and goods of Vraki, from natural resources like Fost Stone (a stone that lights up in salt water and keeps beasts away) and Bone Wood, to…",
@@ -15,20 +215,284 @@
   "en": "Winga",
   "t": "ウィンガ"
  },
+ "7414e4da6d8b": {
+  "en": "Natural and Crafted Resources (World Lore illustration)",
+  "t": "自然と加工の資源（世界観イラスト）"
+ },
  "756046544fb1": {
   "en": "Summary written by AI from the author's notes (<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Natural and Crafted Resources.md</a>). <a href=\"/about/ai-disclosure/\">AI disclosure</a>",
   "t": "作者のメモから AI が書いた要約（<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Natural and Crafted Resources.md</a>）。<a href=\"/about/ai-disclosure/\">AI の利用について</a>"
+ },
+ "76478bf1274b": {
+  "en": "<strong>No switch:</strong> there's no \"turning off the lights\". To put one out, you pour out the water to stop the reaction.",
+  "t": "<strong>スイッチはない：</strong>「明かりを消す」ということはない。消すには、水を捨てて反応を止める。"
  },
  "77299e0e6193": {
   "en": "Natural &amp; Crafted Resources",
   "t": "天然資源 &amp; 加工品"
  },
+ "7a1649119e6a": {
+  "en": "<strong>Picker:</strong> a two-pronged fork on one end and a spoon on the other. Each person commonly has their own and takes it with them; some decorate theirs or have their name carved on it to make it unique. Wood ~5 Pearls; Bone Wood ~10 Pearls; chitin ~17 Pearls; iron ~25 Pearls; steel ~1 Amethyst; gold ~1 Aquamarine.",
+  "t": "<strong>ピッカー：</strong>片方の端に二又のフォーク、もう片方にスプーンがついたもの。たいてい一人ひとりが自分のものを持ち歩く。飾りをつけたり、名前を彫ってもらったりして唯一無二のものにする人もいる。木 約 5 パール、ボーンウッド 約 10 パール、キチン 約 17 パール、鉄 約 25 パール、鋼 約アメジスト 1 個、金 約アクアマリン 1 個。"
+ },
+ "7d141a438f76": {
+  "en": "<strong>Used for:</strong> construction and furniture; armor; weapons.",
+  "t": "<strong>用途：</strong>建築と家具。鎧。武器。"
+ },
+ "7d44bc449c2a": {
+  "en": "Blue",
+  "t": "青"
+ },
+ "7d6a8b1e4781": {
+  "en": "<strong>No candles:</strong> there are no candles in Vraki. Wax exists, but it's for sealing letters (like the Winga mail Forway provides).",
+  "t": "<strong>ろうそくはない：</strong>ヴラキにはろうそくがない。蝋は存在するが、それは手紙の封のためだ（フォーウェイが提供するウィンガの郵便のように）。"
+ },
+ "7d8dcf0d9ced": {
+  "en": "<strong>Longsword:</strong> iron ~1,464–1,644; steel ~2,160–2,340; Bone Wood ~611–1,277; chitin ~396–1,116.",
+  "t": "<strong>長剣：</strong>鉄 約 1,464〜1,644、鋼 約 2,160〜2,340、ボーンウッド 約 611〜1,277、キチン 約 396〜1,116。"
+ },
+ "80ae57ffe1d6": {
+  "en": "~11 Pearls",
+  "t": "約 11 パール"
+ },
  "81e16785271f": {
   "en": "The materials and goods of Vraki, from natural resources like Fost Stone (a stone that lights up in salt water and keeps beasts away) and Bone Wood, to weapons, armor and household items. Goods are sorted into four cost tiers by how expensive they are to move, from cheap goods like paper up to custom nobility pieces.",
   "t": "ヴラキの素材と品物。フォストストーン（塩水の中で光り、魔獣を遠ざける石）やボーンウッドのような天然資源から、武器、鎧、家庭用品まで。品物は運ぶのにかかる費用によって、紙のような安価な品から貴族向けの特注品まで、4つのコストのティアに分けられている。"
  },
+ "81ebd1383e1b": {
+  "en": "<a class=\"img-link\" href=\"/media/57be02b5784726.webp\" data-full=\"/media/57be02b5784726.webp\"><img src=\"/media/57be02b5784726.webp\" alt=\"Natural and Crafted Resources (World Lore illustration)\" loading=\"lazy\"></a> (slightly grainier) <a class=\"img-link\" href=\"/media/e19e5abc32069d.webp\" data-full=\"/media/e19e5abc32069d.webp\"><img src=\"/media/e19e5abc32069d.webp\" alt=\"Natural and Crafted Resources (World Lore illustration)\" loading=\"lazy\"></a>",
+  "t": "<a class=\"img-link\" href=\"/media/57be02b5784726.webp\" data-full=\"/media/57be02b5784726.webp\"><img src=\"/media/57be02b5784726.webp\" alt=\"自然と加工の資源（世界観イラスト）\" loading=\"lazy\"></a>（少し粗め）<a class=\"img-link\" href=\"/media/e19e5abc32069d.webp\" data-full=\"/media/e19e5abc32069d.webp\"><img src=\"/media/e19e5abc32069d.webp\" alt=\"自然と加工の資源（世界観イラスト）\" loading=\"lazy\"></a>"
+ },
+ "835c092f5294": {
+  "en": "Fost Lamp",
+  "t": "フォストランプ"
+ },
+ "8564fe3b4b67": {
+  "en": "Iron",
+  "t": "鉄"
+ },
+ "8613e2c6eb2d": {
+  "en": "<strong>Tier II (Common Goods):</strong> expensive mineral resources (Nari stones, sapphires, aquamarines, amethysts); Black Honey; sigil rings; lower-quality armor and weapons; inks and dyes.",
+  "t": "<strong>ティアII（一般的な品）：</strong>高価な鉱物資源（ナリストーン、サファイア、アクアマリン、アメジスト）。黒蜜。シジルリング。質の低めの鎧と武器。インクと染料。"
+ },
+ "86c7738b66fa": {
+  "en": "Wood, Bone Wood, chitin, iron, steel or gold",
+  "t": "木、ボーンウッド、キチン、鉄、鋼、または金"
+ },
+ "8a2f4b2b3d66": {
+  "en": "Chitin",
+  "t": "キチン"
+ },
+ "8e5c5f44a3db": {
+  "en": "Corals (Cruroland)",
+  "t": "珊瑚（クルロランド）"
+ },
+ "8fe87962b633": {
+  "en": "Sweet Sting wax and ink dye",
+  "t": "スイートスティングの蝋とインクの染料"
+ },
+ "91157d355643": {
+  "en": "Wood People wood is very durable, with a dark red color, and gives off a strong, woody musk when soaked (see <a href=\"/lore/beasts/#wood-people\">Wood People</a>).",
+  "t": "ウッドピープルの木はとても丈夫で、濃い赤色をしていて、濡らすと強い木の麝香を放つ（<a href=\"/lore/beasts/#wood-people\">ウッドピープル</a>を参照）。"
+ },
+ "92bf1c1e2196": {
+  "en": "<strong>Beer Mug:</strong> getting drunk requires the proper tools. Wood ~15 Pearls; Bone Wood ~20 Pearls; chitin ~28 Pearls; iron ~35 Pearls; steel ~3 Amethysts; gold ~5 Aquamarines.",
+  "t": "<strong>ビールジョッキ：</strong>酔っぱらうにはちゃんとした道具がいる。木 約 15 パール、ボーンウッド 約 20 パール、キチン 約 28 パール、鉄 約 35 パール、鋼 約アメジスト 3 個、金 約アクアマリン 5 個。"
+ },
+ "92fe15c90db7": {
+  "en": "The wood of the Soul Tree, a lone tree with metallic, shiny bark that grows around Blood City and Freeish (see <a href=\"/lore/flora/#soul-tree\">Soul Tree</a>). It's often used with nari stones, sigils and containers that hold Soul Energy, to keep the Soul Energy from leaking, and most badges are made of it (hence their greenish color). Its seeds give caffeine, and ground, they're basically the world's coffee.",
+  "t": "ソウルツリーの木材。ブラッド・シティとフリーイッシュの周りに育つ、金属的で光沢のある樹皮を持つ一本立ちの木だ（<a href=\"/lore/flora/#soul-tree\">ソウルツリー</a>を参照）。魂のエネルギーが漏れないよう、ナリストーン、シジル、魂のエネルギーを保つ容器によく使われ、ほとんどの身分証はこれで作られている（だから緑がかっている）。種からはカフェインがとれ、挽けば、要するにこの世界のコーヒーだ。"
+ },
+ "937d89baf2b3": {
+  "en": "Plants mixed with salt and alcohol; some mix in wine, etc. A green syrup of mint, green tea and citrus that can numb your tongue if you use too much.",
+  "t": "植物を塩とアルコールと混ぜたもの。ワインなどを混ぜる人もいる。ミント、緑茶、柑橘の緑のシロップで、使いすぎると舌がしびれることがある。"
+ },
+ "9500b232835e": {
+  "en": "A full set of armor (helmet, chest, arms and legs), materials alone, shipping included, in Pearls, from the cheapest region to the most expensive:",
+  "t": "鎧一式（兜、胸当て、腕、脚）の、輸送費込みの材料だけの値段（パール）。最も安い地域から最も高い地域まで："
+ },
+ "970e3bbf2f8b": {
+  "en": "<strong>Dagger:</strong> iron ~293–329; steel ~432–468; Bone Wood ~122–255; chitin ~79–223.",
+  "t": "<strong>短剣：</strong>鉄 約 293〜329、鋼 約 432〜468、ボーンウッド 約 122〜255、キチン 約 79〜223。"
+ },
+ "9a63061471e2": {
+  "en": "Black Wood",
+  "t": "ブラックウッド"
+ },
  "9b445d328e30": {
   "en": "Natural &amp; Crafted Resources · #HusbandOutWorld",
   "t": "天然資源 &amp; 加工品 · #HusbandOutWorld"
+ },
+ "9d680d4bfc10": {
+  "en": "Wood People Paper",
+  "t": "ウッドピープルの紙"
+ },
+ "9e988d0ed278": {
+  "en": "When <a href=\"/lore/characters/#fernan-blood-blue-flower-red-bone\">Fernan</a> disappeared, so did his bow: his daughter <a href=\"/lore/characters/#magi-blood-blue-flower-red-bone\">Magi</a> wants to find him, or at least his bow. Wilson Big-Gyut once tried to steal it and got punched for it, so he recreated it as closely as he could from memory.",
+  "t": "<a href=\"/lore/characters/#fernan-blood-blue-flower-red-bone\">フェルナン</a>が消えたとき、彼の弓も消えた。娘の<a href=\"/lore/characters/#magi-blood-blue-flower-red-bone\">マギ</a>は彼を、少なくとも彼の弓を見つけたいと思っている。ウィルソン・ビッグ・ギュットはかつてそれを盗もうとして殴られたので、記憶を頼りにできるかぎり忠実に再現した。"
+ },
+ "9ea7f4f324fb": {
+  "en": "Wood &amp; Wood People Wood",
+  "t": "木&amp;ウッドピープルの木"
+ },
+ "9f85bed5d7aa": {
+  "en": "Keeps monsters at bay.",
+  "t": "怪物を寄せつけない。"
+ },
+ "a6c4186ee9cf": {
+  "en": "~20–40 Pearls a bottle",
+  "t": "一瓶 約 20〜40 パール"
+ },
+ "a709ff5b2aa3": {
+  "en": "~35 Pearls",
+  "t": "約 35 パール"
+ },
+ "a7e223624109": {
+  "en": "Bone Wood",
+  "t": "ボーンウッド"
+ },
+ "aae8079e464c": {
+  "en": "The wood of the Black Sapphire Tree, a rare lone tree found between Flatland and Forway that looks dead and soaks up Soul Energy from its surroundings (see <a href=\"/lore/flora/#black-sapphire-tree\">Black Sapphire Tree</a>). Dark and dense, it keeps Soul Energy from leaking like no other wood, even better than Soul Wood; it's used with nari stones, sigils and Soul Energy containers to keep the Soul Energy from leaking. A single small or medium tree can cost a whole sapphire. Black wood badges are given to city officials, kingdom representatives and embassy representatives.",
+  "t": "ブラックサファイア・ツリーの木材。フラットランドとフォーウェイの間に見られる、枯れたように見えて周囲から魂のエネルギーを吸い取る、珍しい一本立ちの木だ（<a href=\"/lore/flora/#black-sapphire-tree\">ブラックサファイア・ツリー</a>を参照）。黒く緻密で、ソウルウッドよりもさらに、ほかのどんな木よりも魂のエネルギーを漏らさない。ナリストーン、シジル、魂のエネルギーの容器に使われ、魂のエネルギーが漏れないようにする。小さいか中くらいの木一本でサファイア丸ごと一個もする。黒い木の身分証は、都市の役人、王国の代表者、大使館の代表者に与えられる。"
+ },
+ "adbc3d28d91a": {
+  "en": "<strong>Why gems are Tier II:</strong> sapphires, aquamarines and amethysts are the currency, and from a shipping and handling perspective, currency is a common good. Security is what makes it special: only Forway moves large amounts of currency between cities and kingdoms, in heavily fortified wagons, and for the bandits salivating over those wagons, it's basically Tier IV.",
+  "t": "<strong>宝石がティア II である理由：</strong>サファイア、アクアマリン、アメジストは通貨であり、輸送と取り扱いの観点からすると、通貨は一般的な品だ。特別なのは警備だ。都市と王国の間で大量の通貨を動かすのはフォーウェイだけで、厳重に守られた荷馬車で運ばれる。そうした荷馬車によだれを垂らしている盗賊にとっては、事実上ティア IV だ。"
+ },
+ "b163ade34cf8": {
+  "en": "Bagarisa fur and wood: a wooden toothbrush with stiff red bristles.",
+  "t": "バガリサの毛と木：硬い赤い毛の木の歯ブラシ。"
+ },
+ "b1a3970a58ca": {
+  "en": "Fernan’s Bow",
+  "t": "フェルナンの弓"
+ },
+ "b1fc5d10fc8c": {
+  "en": "Armor",
+  "t": "鎧"
+ },
+ "b2602a6c00ce": {
+  "en": "Made from",
+  "t": "材料"
+ },
+ "b406fb57b29f": {
+  "en": "Black",
+  "t": "黒"
+ },
+ "b569f8e73d21": {
+  "en": "Winga beaks and claws, ground up with other beaks and claws. They all have to be strengthened by a Winga before they're removed, and the effect lasts for years before it starts to wear off (see <a href=\"/lore/fauna/#winga-pink-winga\">Winga</a>). Used to make tools that \"cut through anything\", since the dust makes them as hard as diamond: usually a coating is applied, then replaced every few years.",
+  "t": "ウィンガのくちばしと爪を、ほかのくちばしや爪で挽いたもの。どれも取り外す前にウィンガが強化しておかなければならず、その効果は何年も続いてから薄れ始める（<a href=\"/lore/fauna/#winga-pink-winga\">ウィンガ</a>を参照）。粉が道具をダイヤモンドと同じくらい硬くするので、「何でも切り裂く」道具を作るのに使われる。ふつうは被膜を施し、数年ごとに付け直す。"
+ },
+ "bbfdc67480be": {
+  "en": "<strong>Bow:</strong> iron ~586–658; steel ~864–936; Bone Wood ~244–511; chitin ~158–446.",
+  "t": "<strong>弓：</strong>鉄 約 586〜658、鋼 約 864〜936、ボーンウッド 約 244〜511、キチン 約 158〜446。"
+ },
+ "bd7eac52298a": {
+  "en": "Soul Wood ~22–102 Pearls; Black Wood ~62–158 Pearls (materials and shipping)",
+  "t": "ソウルウッド 約 22〜102 パール、ブラックウッド 約 62〜158 パール（材料と輸送費）"
+ },
+ "c2f03233d800": {
+  "en": "Lapis lazuli, mined just like amethyst",
+  "t": "ラピスラズリ。アメジストと同じように採掘される"
+ },
+ "c4b60d49642e": {
+  "en": "Writing Related",
+  "t": "筆記まわり"
+ },
+ "ca06fcec99c8": {
+  "en": "Water System Pull-Gate Handle",
+  "t": "水道の引き戸式取っ手"
+ },
+ "ccbd5f06d3c9": {
+  "en": "~10 Pearls",
+  "t": "約 10 パール"
+ },
+ "d0ae9aaba06a": {
+  "en": "Morika’s Armor",
+  "t": "モリカの鎧"
+ },
+ "d4b2c60f333d": {
+  "en": "Black, fist-sized stones that form in the irradiated zones of Hifuna, with glowing colors inside that tell what powers they will likely grant. Whoever replaces their heart with one becomes undead, if they survive the binding. Forway has banned them. See <a href=\"/lore/walking-heart/\">Walking Heart Interface</a>.",
+  "t": "ヒフナの放射線を浴びた地帯にできる、こぶし大の黒い石で、中の光る色が、それがたぶんどんな力を与えるかを示している。心臓をこれと取り替えた者は、結合を生き延びればアンデッドになる。フォーウェイはこれを禁止している。<a href=\"/lore/walking-heart/\">ウォーキングハート・インターフェース</a>を参照。"
+ },
+ "d4e7d7d330f0": {
+  "en": "Flowers",
+  "t": "花"
+ },
+ "d51ab0c09f09": {
+  "en": "Soul Wood",
+  "t": "ソウルウッド"
+ },
+ "d5a4bf79be82": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Legacy/Behind The Scenes/World Lore/Natural and Crafted Resources.md</a>",
+  "t": "出典：<a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Natural%20and%20Crafted%20Resources.md\">Legacy/Behind The Scenes/World Lore/Natural and Crafted Resources.md</a>"
+ },
+ "d8169782b57c": {
+  "en": "Material",
+  "t": "素材"
+ },
+ "db530238cd9e": {
+  "en": "A fist-sized fost stone in a glass and wood case with an opening on top. In contact with salt water, it glows brighter than a candle would (candles aren't a thing in Vraki, and neither are oil lamps). The stone lasts about a year when used mostly at night. A big, new fost lamp is unusually bright (like a dentist's office) and can cost as much as a handful of amethysts, a steep price for common folk.",
+  "t": "上に口のあるガラスと木の入れ物に入った、こぶし大のフォストストーン。塩水に触れると、ろうそくより明るく光る（ヴラキにはろうそくもオイルランプもない）。石は主に夜に使えば約一年もつ。大きな新品のフォストランプは異様に明るく（歯医者の診察室のように）、アメジスト何個分もすることがあり、庶民には手痛い値段だ。"
+ },
+ "dfe272d8b6f7": {
+  "en": "Kitchen/Dining Table",
+  "t": "台所／食卓"
+ },
+ "e3d189693c16": {
+  "en": "Winga Writing Feather",
+  "t": "ウィンガの羽ペン"
+ },
+ "e51d781719a1": {
+  "en": "Seal Wax",
+  "t": "封蝋"
+ },
+ "e7a3fffa3295": {
+  "en": "Goods are sorted into four tiers, which set how much it costs to ship them (see <a href=\"/lore/economy/\">Economy</a>).",
+  "t": "品物は四つのティアに分けられ、それが輸送費を決める（<a href=\"/lore/economy/\">経済</a>を参照）。"
+ },
+ "e9a14adf2735": {
+  "en": "Full set",
+  "t": "一式"
+ },
+ "ecdda59aea5e": {
+  "en": "Item",
+  "t": "品物"
+ },
+ "ee432e447835": {
+  "en": "~12 Pearls",
+  "t": "約 12 パール"
+ },
+ "f0d67dc167ae": {
+  "en": "~28 Pearls",
+  "t": "約 28 パール"
+ },
+ "f32d0645a833": {
+  "en": "Weapons",
+  "t": "武器"
+ },
+ "f351cf27d401": {
+  "en": "~20 Pearls, plus tubing",
+  "t": "約 20 パール、それに管"
+ },
+ "f596d7e234c5": {
+  "en": "A mixture of bone, iron, ground Nari and Greenbread fruit core. Less flexible than most wood, but it lasts much longer, and mixed with other materials, it can be made more flexible for armor and weapons.",
+  "t": "骨、鉄、挽いたナリ、グリーンブレッドの実の芯を混ぜたもの。たいていの木より柔軟性は劣るが、ずっと長持ちし、ほかの素材と混ぜれば、鎧や武器のためにもっと柔軟にできる。"
+ },
+ "f709e0f9691d": {
+  "en": "Winga Dust",
+  "t": "ウィンガの粉"
+ },
+ "f8c94a3b4b1e": {
+  "en": "What it is",
+  "t": "それが何か"
+ },
+ "f958260588e1": {
+  "en": "Steel",
+  "t": "鋼"
+ },
+ "fb764acb28a3": {
+  "en": "<strong>Light source:</strong> it needs water and salt to work. There's no wick, flame or smoke; the hissing a lit fost stone makes is the water and salt reacting with the stone, which gives off light and steam.",
+  "t": "<strong>光源：</strong>働かせるには水と塩が必要だ。芯も炎も煙もない。光ったフォストストーンが立てるしゅうしゅうという音は、水と塩が石と反応する音で、それが光と蒸気を出している。"
  }
 }
