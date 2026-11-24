@@ -1,4 +1,8 @@
 {
+ "0bba1e0dc486": {
+  "en": "Adventurers use smoke bombs to signal each other. A bomb is set off alongside a Mist Create spell and fired upward, or dropped in water: water is the catalyst that starts the smoke. Forway Law made the colors official, and misusing them is punished:",
+  "t": "นักผจญภัยใช้ระเบิดควันส่งสัญญาณถึงกัน ระเบิดจะถูกจุดพร้อมคาถามิสต์ครีเอตแล้วยิงขึ้นฟ้า หรือทิ้งลงน้ำ: น้ำคือตัวเร่งที่ทำให้เกิดควัน กฎหมายฟอร์เวย์ทำให้สีเป็นทางการ และการใช้ผิดมีโทษ:"
+ },
  "0d1dadad7161": {
   "en": "Nari Bombs",
   "t": "ระเบิดนาริ"
@@ -11,25 +15,49 @@
   "en": "Public text: science-nari-bombs-stones.md",
   "t": "ข้อความสาธารณะ: science-nari-bombs-stones.md"
  },
+ "14bf4dc6c37b": {
+  "en": "<strong>Tier II (Common Goods):</strong> Signal/Smoke Bombs.",
+  "t": "<strong>ระดับ II (สินค้าทั่วไป):</strong> ระเบิดสัญญาณ/ควัน"
+ },
  "16cca5665c36": {
   "en": "Nari stones are an everyday item that powers many facets of society, as it basically acts like a battery for soul energy. When filled, it gives off a bluish hue that looks relatively liquid, as if it were trapped inside the stone. When used, it changes its looks to a diamond-like appearance, showing a hollow look.",
   "t": "หินนาริเป็นของใช้ประจำวันที่ขับเคลื่อนหลายด้านของสังคม เพราะโดยพื้นฐานมันทำหน้าที่เหมือนแบตเตอรี่สำหรับพลังวิญญาณ เมื่อเต็ม มันจะเปล่งประกายสีฟ้าที่ดูเหมือนของเหลว ราวกับถูกขังอยู่ในหิน เมื่อใช้แล้ว รูปลักษณ์จะเปลี่ยนเป็นเหมือนเพชร ดูว่างเปล่า"
+ },
+ "19cd7d185cfd": {
+  "en": "Meaning",
+  "t": "ความหมาย"
  },
  "1bc3efa964c5": {
   "en": "Yellow: Retreat.",
   "t": "เหลือง: ถอย"
  },
+ "1d0c8304baed": {
+  "en": "Color",
+  "t": "สี"
+ },
  "2778c58584f8": {
   "en": "Nari Stones",
   "t": "หินนาริ"
+ },
+ "286c0f38dbf8": {
+  "en": "Nari bombs by tier:",
+  "t": "ระเบิดนาริตามระดับ:"
  },
  "2fde032b93c4": {
   "en": "Nari Bombs &amp; Stones",
   "t": "ระเบิดและหินนาริ"
  },
+ "3526f607bcd4": {
+  "en": "Yellow",
+  "t": "เหลือง"
+ },
  "3dbc0b46f5f1": {
   "en": "Nari bombs: black stones veined with red, cyan, green and yellow, one glowing and smoking.",
   "t": "ระเบิดนาริ: หินสีดำมีเส้นสีแดง ฟ้าเขียว เขียว และเหลือง ลูกหนึ่งเรืองแสงและมีควัน"
+ },
+ "3dc36d7baf90": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Nari%20Bombs.md\">Legacy/Behind The Scenes/World Lore/Science - Nari Bombs.md</a>",
+  "t": "แหล่งที่มา: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Science%20-%20Nari%20Bombs.md\">Legacy/Behind The Scenes/World Lore/Science - Nari Bombs.md</a>"
  },
  "3f5657a471c7": {
   "en": "174 (images illustration)",
@@ -39,21 +67,61 @@
   "en": "Adventurers had a variety of colors they used, sometimes varying per region or per guild too. It created a lot of confusion to the point Forway intervened and officialized these colors:",
   "t": "นักผจญภัยใช้สีหลากหลาย บางทีก็ต่างกันไปตามภูมิภาคหรือกิลด์ด้วย มันสร้างความสับสนมากจนฟอร์เวย์ต้องเข้ามาแทรกและกำหนดสีเหล่านี้เป็นทางการ:"
  },
+ "4b46704d999f": {
+  "en": "Safe / go ahead",
+  "t": "ปลอดภัย / ไปต่อได้"
+ },
  "5e014124bbc3": {
   "en": "Nari Bombs &amp; Stones · #HusbandOutWorld",
   "t": "ระเบิดและหินนาริ · #HusbandOutWorld"
+ },
+ "5e8974c73f1a": {
+  "en": "<strong>Medium:</strong> more smoke, and a higher sizzling sound.",
+  "t": "<strong>ปานกลาง:</strong> ควันมากขึ้น และเสียงฉ่าที่ดังขึ้น"
+ },
+ "67beab122dac": {
+  "en": "<strong>Tier IV (Nobility Goods):</strong> none.",
+  "t": "<strong>ระดับ IV (สินค้าชนชั้นสูง):</strong> ไม่มี"
  },
  "6b2da6f358d2": {
   "en": "Nari bombs, by the name alone, sound quite scary, but it all depends on how it was made. Sure, they can be made to explode violently when in direct contact with water, which makes them great for traps or just chucking at your enemy while someone else lunges a water ball, but most nari bombs being sold are tamed so that they only emit a lot of smoke instead.",
   "t": "ระเบิดนาริ แค่ชื่อก็ฟังน่ากลัวแล้ว แต่ทั้งหมดขึ้นอยู่กับว่ามันถูกทำมาอย่างไร แน่นอน มันทำให้ระเบิดรุนแรงเมื่อสัมผัสน้ำโดยตรงได้ ซึ่งเหมาะมากสำหรับทำกับดักหรือแค่ขว้างใส่ศัตรูขณะที่คนอื่นปาลูกบอลน้ำ แต่ระเบิดนาริส่วนใหญ่ที่ขายถูกทำให้เชื่องจนปล่อยแค่ควันเยอะๆ"
  },
+ "6ce93283ac95": {
+  "en": "<strong>Tier III (Expensive Goods):</strong> none.",
+  "t": "<strong>ระดับ III (สินค้าราคาแพง):</strong> ไม่มี"
+ },
+ "722d18967263": {
+  "en": "Conquered / complete",
+  "t": "พิชิตแล้ว / เสร็จสิ้น"
+ },
+ "79dcdeb93b3c": {
+  "en": "<strong>Cost:</strong> 10–30 Pearls for about 100 g.",
+  "t": "<strong>ค่าใช้จ่าย:</strong> 10–30 เพิร์ลต่อราว 100 กรัม"
+ },
  "7b654ef6be85": {
   "en": "In its most available and ready-to-use form, it is a stone encased by green wood that can protect it from leakage or unplanned discharge. Each stone can be chained into another to form a “nari stone stick. “",
   "t": "ในรูปแบบที่หาง่ายและพร้อมใช้ที่สุด มันคือหินที่หุ้มด้วยไม้สีเขียวซึ่งป้องกันการรั่วไหลหรือการคายประจุโดยไม่ตั้งใจได้ หินแต่ละก้อนต่อกับก้อนอื่นเป็น “แท่งหินนาริ” ได้"
  },
+ "81d8d99ea2c4": {
+  "en": "Retreat",
+  "t": "ถอยทัพ"
+ },
  "82c9bf128171": {
   "en": "Red: Help.",
   "t": "แดง: ขอความช่วยเหลือ"
+ },
+ "8e1fe2d5051d": {
+  "en": "Cyan",
+  "t": "ฟ้าอมเขียว"
+ },
+ "933bf21afdd5": {
+  "en": "Green",
+  "t": "เขียว"
+ },
+ "936614428748": {
+  "en": "<strong>Variations:</strong> extra colors, smoke that lasts longer, or more smoke. Gabiro enhanced a deep blue, non-explosive version that Sanbi uses at a soul sendaway: at Gabiro's own sendaway on the old wharf (Vol 3), the balls were dropped into the water and a colorful, deep blue smoke bubbled up.",
+  "t": "<strong>รูปแบบ:</strong> สีเพิ่มเติม ควันที่อยู่นานขึ้น หรือควันมากขึ้น กาบีโรพัฒนาเวอร์ชันสีน้ำเงินเข้มที่ไม่ระเบิดซึ่งซันบีใช้ในพิธีส่งวิญญาณ: ที่พิธีส่งวิญญาณของกาบีโรเองที่ท่าเรือเก่า (เล่ม 3) ลูกบอลถูกทิ้งลงน้ำ และควันสีน้ำเงินเข้มหลากสีก็ผุดขึ้นมา"
  },
  "a601886defa9": {
   "en": "Still, don’t drop it in a lake, as there’s only so much safety against dumb people a manufacturer can do—use Create Mist instead, you dumbhead! Well, unless you’re trying to see how cool the explosion looks because it’s a sight to behold. Actually, here’s a trick! Wrap it in paper so that the explosion is delayed a bit! That way, the water's top will explode out much more intensely! You didn’t hear it from me, though.",
@@ -63,9 +131,33 @@
   "en": "Green: Safe/Go ahead.",
   "t": "เขียว: ปลอดภัย/ไปต่อ"
  },
+ "b0f8f2d13e92": {
+  "en": "<strong>Invented by</strong> early adventurers, to communicate with other groups.",
+  "t": "<strong>ผู้คิดค้น:</strong> นักผจญภัยยุคแรก เพื่อสื่อสารกับกลุ่มอื่น"
+ },
  "b50ed49a59b7": {
   "en": "The stone, or more precisely speaking, processed nari worm scales, is also available in its grounded form and can be used to infuse soul energy into some interfaces like Darfaries interface, or items such as mixing it with blood and sealing it inside a badge crafted by Forway embassies.",
   "t": "หินนี้ หรือพูดให้ถูกคือเกล็ดนาริเวิร์มที่ผ่านการแปรรูป ยังมีในรูปผงด้วย และใช้ถ่ายพลังวิญญาณเข้าสู่อินเทอร์เฟซบางอย่างอย่างอินเทอร์เฟซดาร์แฟรีส์ได้ หรือใช้กับสิ่งของ เช่น ผสมกับเลือดแล้วปิดผนึกไว้ในบัตรประจำตัวที่สถานทูตฟอร์เวย์ทำ"
+ },
+ "b77ff94e5cde": {
+  "en": "<strong>Intense:</strong> an explosion. It can smoke out enemies, damage hearing, or even choke people, depending on how enclosed the place is. It always explodes as soon as the energy is infused, so it hurts whoever infuses it.",
+  "t": "<strong>รุนแรง:</strong> การระเบิด มันรมควันไล่ศัตรู ทำลายการได้ยิน หรือแม้แต่ทำให้คนสำลัก ขึ้นอยู่กับว่าที่นั้นปิดทึบแค่ไหน มันระเบิดเสมอทันทีที่อัดพลังเข้าไป จึงทำร้ายคนที่อัดพลัง"
+ },
+ "c47ae15370cf": {
+  "en": "Help",
+  "t": "ช่วยด้วย"
+ },
+ "cc9db3a79557": {
+  "en": "Red",
+  "t": "แดง"
+ },
+ "cf3c1b4a49f0": {
+  "en": "Signal/Smoke Bombs",
+  "t": "ระเบิดสัญญาณ/ควัน"
+ },
+ "cfc2c9f5799f": {
+  "en": "Effects by strength:",
+  "t": "ผลตามความแรง:"
  },
  "e76ec679de50": {
   "en": "These colors are used by everyday folks too, and even more so by adventurers. However, Bandits are people too, so they use it to get you into a trap instead. Be wary if you see it randomly, but remember as an adventurer, you’re representing Forway! You should still check it, though, as it could be a test for your promotion. You never know! If anything, you can kill a few miscreants and loot them instead—to surrender it all to Forway for investigation. Yes! Exactly that ;)",
@@ -74,6 +166,10 @@
  "eb04bb621be4": {
   "en": "Nari Bombs & Stones · #HusbandOutWorld",
   "t": "ระเบิดและหินนาริ · #HusbandOutWorld"
+ },
+ "ef6b9d57324d": {
+  "en": "<strong>Weak:</strong> a little lingering smoke.",
+  "t": "<strong>อ่อน:</strong> ควันเล็กน้อยที่ลอยค้าง"
  },
  "f3b048b3c44a": {
   "en": "Cyan: Conquered/Complete.",
