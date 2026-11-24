@@ -1,7 +1,27 @@
 {
+ "0a2af398fe47": {
+  "en": "Ice",
+  "t": "얼음"
+ },
+ "0a48d44e337c": {
+  "en": "<strong>Shape the spell.</strong> Draw its logogram in the air (see Language › Finaies Interface Language), then hold the left hand's two fingers with the other hand for the element to appear.",
+  "t": "<strong>주문을 빚는다.</strong> 허공에 주문의 표어 문자를 그린 다음(언어 › 피나이에스 인터페이스 언어 참조), 다른 손으로 왼손의 두 손가락을 쥐면 원소가 나타난다."
+ },
+ "1273827574a8": {
+  "en": "Ash",
+  "t": "재"
+ },
+ "142b5758f344": {
+  "en": "Wind",
+  "t": "바람"
+ },
  "2359f9fd7d5a": {
   "en": "The primordial interface of what we know as the Darfaries interface nowadays. Some say it’s the start of all interfaces as well, but that never left the ranting books of scientists as proof of that has been quite elusive.",
   "t": "오늘날 우리가 다르파리에스 인터페이스라고 아는 것의 원초적인 인터페이스. 모든 인터페이스의 시작이라고 말하는 사람들도 있지만, 증거를 찾기가 꽤 어려워서 그 말은 과학자들의 넋두리 책 밖으로 나온 적이 없다."
+ },
+ "2d2b9fe1f9fe": {
+  "en": "Creates a ball of lava.",
+  "t": "용암의 공을 만든다."
  },
  "2d56d7adc9a6": {
   "en": "Finaies Interface · #HusbandOutWorld",
@@ -15,16 +35,136 @@
   "en": "Why is the interface symbology so small and specific? The consensus believes that it is related to the nature-focused and simplistic minds of Finaies.",
   "t": "이 인터페이스의 기호 체계는 왜 이렇게 작고 구체적일까? 피나이에스의 자연 중심적이고 단순한 사고방식과 관련이 있다는 게 일반적인 견해다."
  },
+ "3749c8439c7a": {
+  "en": "Storm",
+  "t": "폭풍"
+ },
+ "4a00822dbc67": {
+  "en": "Ball size (cm)",
+  "t": "공 크기 (cm)"
+ },
+ "4c32a85dc8ec": {
+  "en": "Creates a ball of mud.",
+  "t": "진흙의 공을 만든다."
+ },
+ "4d1dbb53b348": {
+  "en": "<strong>Hold.</strong> Keep the fingers clenched to power up the holding hand. The longer you hold, the stronger the spell, and the more soul energy it costs. Other Finaies can touch you to give you soul energy and power the spell up faster.",
+  "t": "<strong>붙잡는다.</strong> 손가락을 꼭 쥔 채로 있으면 쥐고 있는 손에 힘이 찬다. 오래 쥘수록 주문이 강해지고, 영혼 에너지도 더 든다. 다른 피나이에스가 몸에 닿아 영혼 에너지를 나눠 주면 주문이 더 빨리 강해진다."
+ },
+ "4ebc18247e08": {
+  "en": "Steam",
+  "t": "증기"
+ },
+ "4f3226d88153": {
+  "en": "Creates a ball of wind.",
+  "t": "바람의 공을 만든다."
+ },
+ "604b6f188c5d": {
+  "en": "Creates a ball of water.",
+  "t": "물의 공을 만든다."
+ },
+ "64a9807143ef": {
+  "en": "Creates a ball of ice.",
+  "t": "얼음의 공을 만든다."
+ },
+ "674982955154": {
+  "en": "Shock",
+  "t": "전격"
+ },
+ "78baebfcb4b5": {
+  "en": "Fire",
+  "t": "불"
+ },
+ "7914569e33cc": {
+  "en": "The ball's size follows the General Power Effects: 0.1 cm at Tier I, doubling with every tier.",
+  "t": "공의 크기는 일반 위력 효과를 따른다: I등급에 0.1cm, 등급마다 두 배."
+ },
+ "795fe475b669": {
+  "en": "Spells in this category are released in the air, or as a projectile if you cock your arm back and release the spell as you push it forward.",
+  "t": "이 범주의 주문은 공중으로 놓아 보내거나, 팔을 뒤로 젖혔다가 앞으로 밀면서 놓으면 투사체로 쓸 수 있다."
+ },
+ "7ef5d32f52cd": {
+  "en": "Creates a ball of ash.",
+  "t": "재의 공을 만든다."
+ },
+ "8017fe7bff1c": {
+  "en": "Creates a ball of shock.",
+  "t": "전격의 공을 만든다."
+ },
+ "8820d95a1ff1": {
+  "en": "Source: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Finaies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Finaies Interface.md</a>",
+  "t": "출처: <a href=\"https://github.com/Deovandski/HusbandOutWorld/blob/main/Legacy/Behind%20The%20Scenes/World%20Lore/Soul%20Energy%20-%20Finaies%20Interface.md\">Legacy/Behind The Scenes/World Lore/Soul Energy - Finaies Interface.md</a>"
+ },
  "8a7ee68cd8b1": {
   "en": "Unlike complex casting rituals of specific interfaces such as Darfaries and Buhraies, their interface resembles animals like Bagarisa. The casting is done with a simple, singular hand movement matching the desired output, and voila! The spell comes out swiftly and aggressively out of their stubbed hands.",
   "t": "다르파리에스나 부라이에스 같은 특정 인터페이스의 복잡한 시전 의식과 달리, 그들의 인터페이스는 바가리사 같은 동물의 것과 비슷하다. 원하는 결과에 맞는 단순한 한 번의 손동작으로 시전하면, 짜잔! 그들의 뭉툭한 손에서 주문이 빠르고 사납게 튀어나온다."
+ },
+ "8be71aeae090": {
+  "en": "Creates a ball of frozen earth.",
+  "t": "언 흙의 공을 만든다."
+ },
+ "8d45a32dc1bd": {
+  "en": "Soul Energy - Finaies Interface (World Lore illustration)",
+  "t": "영혼 에너지 - 피나이에스 인터페이스 (세계관 삽화)"
+ },
+ "9134ec5b6078": {
+  "en": "Creates a ball of fire.",
+  "t": "불의 공을 만든다."
+ },
+ "95a1423259bb": {
+  "en": "Creates a ball of earth.",
+  "t": "흙의 공을 만든다."
+ },
+ "9c0cf1058f68": {
+  "en": "Frozen Earth",
+  "t": "언 흙"
+ },
+ "a074430f352b": {
+  "en": "Earth",
+  "t": "흙"
+ },
+ "a1b06dfc3df5": {
+  "en": "<strong>Release.</strong> Separate your fingers to release the spell, or cock your arm back for a ranged attack.",
+  "t": "<strong>놓는다.</strong> 손가락을 떼면 주문이 풀려난다. 아니면 팔을 뒤로 젖혀 원거리 공격으로 쓴다."
+ },
+ "b9a3fb9ac695": {
+  "en": "Lava",
+  "t": "용암"
+ },
+ "ca30ca77ff43": {
+  "en": "In short: draw the spell in the air, hold to charge it, then release.",
+  "t": "요약하면: 허공에 주문을 그리고, 붙잡아 충전한 뒤, 놓아 준다."
  },
  "cbf8ef1393dd": {
   "en": "The primordial interface of what we know as the Darfaries interface nowadays.",
   "t": "오늘날 우리가 다르파리에스 인터페이스라고 아는 것의 원초적인 인터페이스."
  },
+ "cfad124318ab": {
+  "en": "Creates a ball of dust.",
+  "t": "먼지의 공을 만든다."
+ },
  "e0f540f92c72": {
   "en": "Casting",
   "t": "시전"
+ },
+ "eaff7cfcc0b1": {
+  "en": "Mud",
+  "t": "진흙"
+ },
+ "f596e6062c48": {
+  "en": "Dust",
+  "t": "먼지"
+ },
+ "f74808bef3bb": {
+  "en": "Creates a ball of steam.",
+  "t": "증기의 공을 만든다."
+ },
+ "fbe443348c64": {
+  "en": "Creates a ball of storm.",
+  "t": "폭풍의 공을 만든다."
+ },
+ "fd20e268a43c": {
+  "en": "A natural evolution of the Finaies that lets them use a basic, elemental soul energy interface. A Finaies draws the spell's logogram in the air with the left hand, and soul energy shapes the spell from that movement. Finaies hands have only two fingers, branch-like.",
+  "t": "피나이에스가 자연스럽게 진화해 얻은 것으로, 기본적인 원소 영혼 에너지 인터페이스를 쓸 수 있게 해 준다. 피나이에스는 왼손으로 허공에 주문의 표어 문자를 그리고, 영혼 에너지가 그 움직임으로 주문을 빚는다. 피나이에스의 손에는 나뭇가지 같은 손가락이 두 개뿐이다."
  }
 }
