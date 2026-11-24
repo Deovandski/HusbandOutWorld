@@ -15,6 +15,10 @@
   "en": "153 cm",
   "t": "153 cm"
  },
+ "00a3bb9db29b": {
+  "en": "<strong>Habits:</strong> listens closely; tends to pull someone aside to get their attention, then asks questions.",
+  "t": "<strong>Abitudini:</strong> ascolta attentamente; tende a prendere qualcuno in disparte per attirare la sua attenzione, poi fa domande."
+ },
  "00ab67c397d2": {
   "en": "<strong>Habits:</strong> prone to violence when it comes to holding someone until they spill everything they know.",
   "t": "<strong>Abitudini:</strong> incline alla violenza quando si tratta di trattenere qualcuno finché non sputa tutto quello che sa."
@@ -22,6 +26,14 @@
  "00f7c6c69a14": {
   "en": "<strong>Strengths:</strong> caring; logical; efficient; loves her sister, and wants to be on her level, but different, though not too different; daring.",
   "t": "<strong>Punti di forza:</strong> premurosa; logica; efficiente; ama sua sorella, e vuole essere al suo livello, ma diversa, anche se non troppo diversa; audace."
+ },
+ "01aaf29aff07": {
+  "en": "<strong>Flaws:</strong> cowardly; mechanical about her chores; gloomy, since she tends to be pessimistic.",
+  "t": "<strong>Difetti:</strong> codarda; meccanica nelle faccende; cupa, perché tende al pessimismo."
+ },
+ "01bc553d1b05": {
+  "en": "<strong>Likes and dislikes:</strong> likes flowers of every kind, and food, especially sweets.",
+  "t": "<strong>Cosa ama e cosa odia:</strong> le piacciono i fiori di ogni tipo, e il cibo, soprattutto i dolci."
  },
  "02190e679157": {
   "en": "<strong>Flaws:</strong> too trusting; too soft; unambitious.",
@@ -35,6 +47,10 @@
   "en": "47 kg",
   "t": "47 kg"
  },
+ "02ee00d84402": {
+  "en": "98 kg",
+  "t": "98 kg"
+ },
  "03406a2bcdd9": {
   "en": "Ukim Sanbi",
   "t": "Ukim Sanbi"
@@ -42,6 +58,10 @@
  "03430497e1ef": {
   "en": "<strong>Birthday:</strong> 965 A.G. Asa 12th.",
   "t": "<strong>Compleanno:</strong> 12 Asa 965 A.G."
+ },
+ "0371b6461b73": {
+  "en": "<strong>Intelligence:</strong> knows alcohol very well, but years of drinking have dulled how much he takes in, even though he heals himself, since he spends most of his time drunk.",
+  "t": "<strong>Intelligenza:</strong> conosce benissimo l'alcol, ma anni di bevute hanno ridotto quanto riesce a recepire, anche se si cura da solo, visto che passa quasi tutto il tempo ubriaco."
  },
  "03a35a19091e": {
   "en": "Narcolepsy (type 2):",
@@ -59,9 +79,17 @@
   "en": "<strong>Strengths:</strong> Gabiro's caretaker, and a partner of sorts, though not as involved or helpful as you'd expect; sincere; agreeable; non-authoritarian; responsive; modest; clean.",
   "t": "<strong>Punti di forza:</strong> si prende cura di Gabiro, ed è una sorta di partner, anche se non coinvolto né d'aiuto quanto ci si aspetterebbe; sincero; accomodante; non autoritario; reattivo; modesto; pulito."
  },
+ "0554ff399385": {
+  "en": "<strong>Habits:</strong> focuses on the task at hand; curt in conversation, since he doesn't care about anything unrelated to what he wants right now. Smells like booze.",
+  "t": "<strong>Abitudini:</strong> si concentra sul compito del momento; secco nelle conversazioni, perché non gli importa di nulla che non c'entri con ciò che vuole in quel momento. Puzza d'alcol."
+ },
  "05ec22b2081c": {
   "en": "The son of a human and a Wozefaries, merchants who taught him the ropes. He took after them and made a fair amount of money through various ventures, but also lost a decent amount on failed projects. What matters is that he's adaptable, and will eventually take on whatever business proposal someone brings him.",
   "t": "Figlio di un umano e di una Wozefaries, mercanti che gli insegnarono il mestiere. Prese da loro e guadagnò una discreta somma con varie imprese, ma ne perse anche una bella fetta in progetti falliti. Quel che conta è che è adattabile, e prima o poi accetterà qualsiasi proposta d'affari gli venga portata."
+ },
+ "05fa338833e1": {
+  "en": "<strong>Flaws:</strong> passive; nosy; cowardly.",
+  "t": "<strong>Difetti:</strong> passiva; ficcanaso; codarda."
  },
  "063f2dd83d5a": {
   "en": "Coema (987 A.G. Paulin 29th) was the previous Sanbi's King-maid. Under her ruling, the populace seemed to love her direct, no-bullshit attitude. Visiting male officers from other kingdoms also sang very high praises of the hospitality offered at Sanbi Castle. On the other, tax evaders hated her guts as she furiously found and punished them, possibly being able to do so due to her peculiar close relationship with Cruros throughout the years. Instead of retiring, she decided to sail away to Newland, presumably because she's a busybody.",
@@ -119,9 +147,17 @@
   "en": "Born in Forway to a middle-class family, he's a man with a long history of connections and deals throughout Forway; some panned out, others didn't. He isn't filthy rich, but bring him any daring plan, legal or not, and he'll throw in some money, at least to make more connections.",
   "t": "Nato a Forway in una famiglia di ceto medio, è un uomo con una lunga storia di contatti e affari in tutta Forway; alcuni sono andati in porto, altri no. Non è ricco sfondato, ma portagli un qualsiasi piano audace, legale o no, e ci metterà un po' di soldi, se non altro per farsi altri contatti."
  },
+ "09fe035fea02": {
+  "en": "<strong>Attracted to:</strong> passionate men: a mirror of herself, who loves Soul Energy deeply.",
+  "t": "<strong>Attratta da:</strong> uomini appassionati: uno specchio di sé stessa, che ami profondamente l'Energia dell'anima."
+ },
  "0a0dadbc52c8": {
   "en": "<strong>Habits:</strong> neutral body language, with a rhythm of her own; her hands reach out to things as she pauses for a moment, then moves on with her day.",
   "t": "<strong>Abitudini:</strong> linguaggio del corpo neutro, con un ritmo tutto suo; le sue mani si allungano verso le cose mentre si ferma un istante, poi prosegue con la sua giornata."
+ },
+ "0a1e193cac26": {
+  "en": "<strong>Speech:</strong> a raspy, drunken voice, somewhat low and uncaring; a long, almost cough-like laugh.",
+  "t": "<strong>Modo di parlare:</strong> una voce roca da ubriaco, un po' bassa e indifferente; una risata lunga, quasi un colpo di tosse."
  },
  "0a2f99134c4a": {
   "en": "<strong>Intelligence:</strong> a memory for the law like no other. Strong-willed about what he thinks is right, and he'll go to great lengths to explain it.",
@@ -147,6 +183,10 @@
   "en": "<strong>Attracted to:</strong> she has a high sex drive, and likes aggressive men who make a plaything of her; she loves the sexual side of her job. She also has a thing for men who don't fall for her playfulness: she sees herself as a true beauty all men must fall for. And she loves getting creamed: \"proof of love\", as she calls it.",
   "t": "<strong>Attratta da:</strong> ha un forte appetito sessuale, e le piacciono gli uomini aggressivi che fanno di lei un giocattolo; adora il lato sessuale del suo lavoro. Ha anche un debole per gli uomini che non cascano nei suoi giochetti: si considera una vera bellezza per cui tutti gli uomini devono cadere. E adora farsi venire dentro: “prova d'amore”, come la chiama lei."
  },
+ "0b1069b9797d": {
+  "en": "<strong>Attracted to:</strong> he played around with women, until he saw Honati and found the one, likely because they're so alike.",
+  "t": "<strong>Attratto da:</strong> andava con varie donne, finché non vide Honati e trovò quella giusta, probabilmente perché si somigliano tanto."
+ },
  "0b1ffabd5cce": {
   "en": "Gabiro (937 A.G. Paulin 78th) always had an inkling of Soul Energy and its inner workings, but a life of having superior abilities ended up affecting his social skills; it turned him into a notorious scientist that pumped out research papers like nobody else, but now nobody dares to sit down with him to discuss it's intricate details over a drink. Actually, it's worse as many do not even dare to challenge him in doing peer review as they know a barrage of Winga mail filled with threats from Gabiro is bound to come—which itself is not the worst part either. Gabiro will meticulously tear apart everything you published with his hundred pages peer-review that will terminate your life as a scientist.",
   "t": "Gabiro (78 Paulin 937 A.G.) ha sempre avuto un fiuto per l'energia dell'anima e i suoi meccanismi interni, ma una vita da persona con capacità superiori ha finito per influire sulle sue doti sociali; lo ha trasformato in un famigerato scienziato che sfornava articoli di ricerca come nessun altro, ma ora nessuno osa sedersi con lui a discuterne i dettagli intricati davanti a un bicchiere. Anzi, è peggio, perché molti non osano nemmeno sfidarlo nella revisione paritaria, sapendo che arriverà sicuramente una raffica di posta via Winga piena di minacce da parte di Gabiro—e nemmeno quella è la parte peggiore. Gabiro farà meticolosamente a pezzi tutto ciò che hai pubblicato con la sua revisione di cento pagine che metterà fine alla tua vita da scienziato."
@@ -158,6 +198,10 @@
  "0b4e0cc10af6": {
   "en": "<strong>Habits:</strong> sits around a lot, with a tired, old look and a resting-bitch face that doesn't express much; a wave of his hand is all the emotion he shows.",
   "t": "<strong>Abitudini:</strong> sta molto seduto, con un'aria stanca e vecchia e una faccia da stronzo a riposo che non esprime granché; un gesto della mano è tutta l'emozione che mostra."
+ },
+ "0b851e292975": {
+  "en": "She grew up in Forway with lots of brothers and sisters, and parents who were never home, working their asses off, so she developed a \"figure it out\", \"roll with the punches\" instinct. She was working at a bar when she met <a href=\"#laramy-broken-tree\">Laramy</a>, and the thought of traveling around with such a lovely man sparked her interest, along with her worry that people would take advantage of him.",
+  "t": "Crebbe a Forway con tanti fratelli e sorelle, e genitori che non erano mai a casa, a farsi il culo al lavoro, così sviluppò l'istinto del “arrangiati” e del “incassa e vai avanti”. Lavorava in un bar quando conobbe <a href=\"#laramy-broken-tree\">Laramy</a>, e l'idea di viaggiare con un uomo così adorabile accese il suo interesse, insieme alla preoccupazione che la gente si approfittasse di lui."
  },
  "0b9cf15d21aa": {
   "en": "<strong>Looks up to:</strong> father figures, especially ones like her own father.",
@@ -174,6 +218,10 @@
  "0c372f1ff61b": {
   "en": "The contract isn't legal as such, but some crooks in Forway will forge another contract on top of it to make Forway act if needed.",
   "t": "Il contratto in sé non è legale, ma alcuni truffatori di Forway ci falsificano sopra un altro contratto per far intervenire Forway se serve."
+ },
+ "0c4e0d1157fa": {
+  "en": "<strong>Speech:</strong> a sweet grandma voice: loving and caring, making sure others are okay, and asking again to nudge people into her care. \"Honey\", \"Hon\".",
+  "t": "<strong>Modo di parlare:</strong> una dolce voce da nonna: affettuosa e premurosa, si assicura che gli altri stiano bene, e chiede di nuovo per spingere la gente sotto le sue cure. “Tesoro”, “Caro”."
  },
  "0c55af991e78": {
   "en": "Born and raised in the Gandew Kingdom, he was one of the few to go outside out of self-interest, but what he wanted was to frolic with Wozefaries, which is unusual for someone like him. When rumors started, he decided to become king so he could do as he pleased, especially since the previous king was overly xenophobic. He fought the previous king in the pit and barely won, and the king also gave him his beautiful daughter, <a href=\"#satomi-high-gandew-tough-hammer\">Satomi</a>, in marriage. He accepted to save face, but deep inside he knew he wanted a Wozefaries to play with.",
@@ -219,6 +267,10 @@
   "en": "<strong>Birthday:</strong> 1007 A.G. Asa 84th.",
   "t": "<strong>Compleanno:</strong> 84 Asa 1007 A.G."
  },
+ "0e87029b0504": {
+  "en": "<strong>Strengths:</strong> inquisitive; analytical; logical; conscientious; decent; educated.",
+  "t": "<strong>Punti di forza:</strong> indagatrice; analitica; logica; coscienziosa; perbene; istruita."
+ },
  "0ea3552d32d3": {
   "en": "<strong>Flaws:</strong> hesitant; fanatical; finicky; insistent; passive; inflexible; aimless.",
   "t": "<strong>Difetti:</strong> esitante; fanatico; pignolo; insistente; passivo; inflessibile; senza meta."
@@ -263,9 +315,17 @@
   "en": "Eori (1021 A.G. Moacir 47th) is the third princess of Sanbi and the sharpest princess of the bunch. The populace assumes Sanbi's monarchy will select her to ascend the throne and continue Neferteri's wishes specifically as she laid out, giving her soul to ensure the kingdom will forever be prosperous—that's what Eori presumes of her future looming on the horizon. Safe to say there's no escape, but nobody knows what's cooking in her mind. Her tabula rasa and distant treatment of everyone seem almost as if she's trying to hide something under the face. Only a few ever have seen her genuinely smile, and if you ask them what it looked like, they will likely say \"a viciously ear-to-ear grin\" and then shake their heads to try to forget ever seeing it.",
   "t": "Eori (47 Moacir 1021 A.G.) è la terza principessa di Sanbi e la più acuta del gruppo. La gente presume che la monarchia di Sanbi la sceglierà per salire al trono e portare avanti i desideri di Neferteri esattamente come lei li ha esposti, dando la propria anima per garantire che il regno sia prospero per sempre—questo è ciò che Eori presume del futuro che incombe all'orizzonte. Diciamo pure che non c'è scampo, ma nessuno sa cosa le passi per la testa. La sua tabula rasa e il suo modo distaccato di trattare tutti sembrano quasi un tentativo di nascondere qualcosa dietro la faccia. Solo in pochi l'hanno mai vista sorridere davvero, e se chiedi loro com'era, probabilmente diranno \"un ghigno feroce da un orecchio all'altro\" e poi scuoteranno la testa per cercare di dimenticare di averlo mai visto."
  },
+ "10e9b0d91334": {
+  "en": "<strong>Intelligence:</strong> just like Neferteri: she replies smartly and takes part in conversations, with a strong presence of mind.",
+  "t": "<strong>Intelligenza:</strong> proprio come Neferteri: risponde con arguzia e partecipa alle conversazioni, con una forte presenza di spirito."
+ },
  "10efce9f945a": {
   "en": "<strong>Speech:</strong> in public, they like to speak and act in sync. In private, they're usually sucking each other off when they aren't training their synchronicity.",
   "t": "<strong>Modo di parlare:</strong> in pubblico, amano parlare e agire in sincronia. In privato, di solito se lo succhiano a vicenda quando non stanno allenando la loro sincronia."
+ },
+ "10f0a7d04a7c": {
+  "en": "<strong>Flaws:</strong> careless; narcissistic; rigid; pretty lazy.",
+  "t": "<strong>Difetti:</strong> noncurante; narcisista; rigido; piuttosto pigro."
  },
  "11111a59b630": {
   "en": "A round, hairy dude who goes by \"Lick, from the guild My-Veiny-Balls\", a prank name. He doesn't reveal his real name to anyone and refuses to sign contracts, but he's a master craftsman, so people put up with his bullshit. He's the distributor behind the Harry nari gels coming out of Sanbi: he sells them so cheap that nobody knows how he turns a profit, and he looked as if he had zero experience trading (Arc #4, Books 14 and 15).",
@@ -274,6 +334,14 @@
  "114ad4775fd2": {
   "en": "<strong>Interface:</strong> Darfaries.",
   "t": "<strong>Interfaccia:</strong> Darfaries."
+ },
+ "1189b03a7b30": {
+  "en": "<strong>Birthday:</strong> 979 A.G. Adrian 25th.",
+  "t": "<strong>Compleanno:</strong> 25 Adrian 979 A.G."
+ },
+ "118b64a27090": {
+  "en": "<strong>Habits:</strong> likes to sit back, and doesn't move much; looks people in the eye with a smile; cuddly with his wife and daughter.",
+  "t": "<strong>Abitudini:</strong> gli piace stare comodo, e non si muove molto; guarda la gente negli occhi con un sorriso; coccolone con la moglie e la figlia."
  },
  "11b94949c3cd": {
   "en": "Public text: characters.md",
@@ -286,6 +354,10 @@
  "1209f0e73b8a": {
   "en": "<strong>Myers-Briggs:</strong> ESTP.",
   "t": "<strong>Myers-Briggs:</strong> ESTP."
+ },
+ "12328046e52f": {
+  "en": "<strong>Likes and dislikes:</strong> loves reading, and helping <a href=\"#isabel-tolerideme-whoop-ass\">Isabel</a> with the Whoop-Ass tasks she can manage.",
+  "t": "<strong>Cosa ama e cosa odia:</strong> adora leggere, e aiutare <a href=\"#isabel-tolerideme-whoop-ass\">Isabel</a> nei compiti dei Whoop-Ass che riesce a gestire."
  },
  "12dfbeb33cb4": {
   "en": "Gamal (974 A.G. Asa 58th) is the current Pharaoh of Sundeath. His will and knowledge are something to be feared, except a growing number of outsiders believe that he is stuck in the far past, refusing to understand, let alone acknowledge, that Sundeath is isolating itself from the rest of the world. People expect Forway to act sooner rather than later and stop this growing divergence for the sake of economic unity. In contrast, historians argue that doing so would put Gandew on alert and undoubtedly lead to war because culture is more of a priority than economic unity. Either way, if you find yourself talking to the Pharaoh, don't mind his RBF or a simple hand wave as his official response—he might agree with you but likely will never show it.",
@@ -399,13 +471,25 @@
   "en": "177 cm",
   "t": "177 cm"
  },
+ "1ae606853a34": {
+  "en": "<strong>Birthday:</strong> 980 A.G. Moacir 71st.",
+  "t": "<strong>Compleanno:</strong> 71 Moacir 980 A.G."
+ },
  "1ae79e93443a": {
   "en": "65 kg",
   "t": "65 kg"
  },
+ "1afac73b01fc": {
+  "en": "143 cm",
+  "t": "143 cm"
+ },
  "1b4968aa6515": {
   "en": "<strong>Myers-Briggs:</strong> ESTP in the Stinger armor; ISTJ without it.",
   "t": "<strong>Myers-Briggs:</strong> ESTP nell'armatura Stinger; ISTJ senza."
+ },
+ "1bc13a176b17": {
+  "en": "<strong>Attracted to:</strong> a womanizer who likes them big: his idea of a good time is a pile of big girls warming him up.",
+  "t": "<strong>Attratto da:</strong> un donnaiolo a cui piacciono grosse: la sua idea di divertimento è una pila di ragazzone che lo scaldano."
  },
  "1bf67e3ce836": {
   "en": "<strong>Birthday:</strong> 1018 A.G. Asa 44th.",
@@ -451,6 +535,10 @@
   "en": "Marcus (997 A.G. Moacir 49th) is an aspiring leader—of a truculent bandit group called Blue Wozens. He even has people call him “boss” as well! Well, more like “person” since it’s only Wilson that does that. He seems to fucking hate the guts of his squadron but somehow never left. Forway and Sanbi guards would have a field day killing him over and over as a payback for all the atrocities he did, but he’s as slithery and sneaky as a soreno.",
   "t": "Marcus (49 Moacir 997 A.G.) è un aspirante capo—di una truculenta banda di briganti chiamata Blue Wozens. Si fa perfino chiamare “capo” dalla gente! Beh, più che dalla gente, da una persona, perché lo fa solo Wilson. Sembra odiare a morte la sua squadra, ma in qualche modo non se n'è mai andato. Le guardie di Forway e di Sanbi farebbero festa uccidendolo più e più volte per vendicarsi di tutte le atrocità che ha commesso, ma è viscido e furtivo come un soreno."
  },
+ "1f25e350e72c": {
+  "en": "<strong>Strengths:</strong> huge self-worth; protective; ambitious.",
+  "t": "<strong>Punti di forza:</strong> un'enorme stima di sé; protettiva; ambiziosa."
+ },
  "1f3287e3f95a": {
   "en": "<strong>Habits:</strong> in public, she crosses her arms more than anyone and keeps her distance, subtle about showing her true self. Alone with her \"bitch\", she's aggressive and lustful: handsy, with a stare that penetrates like no other. Her lustful breaths and her warmth tell the rest of the story.",
   "t": "<strong>Abitudini:</strong> in pubblico, incrocia le braccia più di chiunque altro e tiene le distanze, sottile nel mostrare il suo vero io. Da sola con la sua “cagna”, è aggressiva e lussuriosa: manesca, con uno sguardo che penetra come nessun altro. I suoi respiri lussuriosi e il suo calore raccontano il resto."
@@ -467,6 +555,10 @@
   "en": "Coema grew up in Sanbi and was King-maid before handing the position to <a href=\"#eiri-sanbi-royal\">Eiri</a>. She created and standardized the Sanbi maid uniform. She met a lovely gentleman from Forway and had Eiri, but as time passed, their love burned out. She was rather carefree with her maids, but to her credit, it formed a league of maids very loyal to the Sanbi Kingdom. Now retired, she helps out the city and the people she loves, especially Cruros: she's a friend of <a href=\"#kiko-sanbi-half-cruro\">Kiko</a>, and helped his Half-Cruro guild shine (hence the Half-Cruro in her name). <a href=\"#neferteri-sanbi-royal\">Neferteri</a> passionately dislikes her: Coema often challenged her authority and dismantled her mind games, more directly and intensely than Neferteri's cold, superior style. She has moved to Newland.",
   "t": "Coema crebbe a Sanbi e fu King-maid prima di passare il ruolo a <a href=\"#eiri-sanbi-royal\">Eiri</a>. Creò e standardizzò l'uniforme delle cameriere di Sanbi. Conobbe un adorabile gentiluomo di Forway ed ebbe Eiri, ma col passare del tempo il loro amore si spense. Era piuttosto spensierata con le sue cameriere, ma a suo merito, ciò creò una lega di cameriere molto leali al Regno di Sanbi. Ora in pensione, dà una mano alla città e alle persone che ama, soprattutto ai Cruro: è amica di <a href=\"#kiko-sanbi-half-cruro\">Kiko</a>, e ha aiutato la sua gilda Half-Cruro a brillare (da qui l'Half-Cruro nel suo nome). <a href=\"#neferteri-sanbi-royal\">Neferteri</a> la detesta con passione: Coema sfidava spesso la sua autorità e smontava i suoi giochetti mentali, in modo più diretto e intenso dello stile freddo e superiore di Neferteri. Si è trasferita a Newland."
  },
+ "1ffd00e26e17": {
+  "en": "<strong>Speech:</strong> a low-energy womanly voice that sounds very confident and knowledgeable. She calls people by name and verbally agrees with them, or with their position, affirming their concerns to win their trust. Her laugh sounds fake.",
+  "t": "<strong>Modo di parlare:</strong> una voce femminile a bassa energia che suona molto sicura e competente. Chiama la gente per nome e le dà ragione a parole, o dà ragione alla sua posizione, confermandone le preoccupazioni per conquistarne la fiducia. La sua risata suona finta."
+ },
  "201591727c65": {
   "en": "<strong>Attracted to:</strong> confident, charismatic, funny men who get the job done.",
   "t": "<strong>Attratta da:</strong> uomini sicuri di sé, carismatici, divertenti, che portano a termine le cose."
@@ -474,6 +566,14 @@
  "20754581af2b": {
   "en": "<strong>Flaws:</strong> pushy; secretive; easily bored, especially with men; aggressive when someone intrudes on her memories or boundaries.",
   "t": "<strong>Difetti:</strong> invadente; riservata; si annoia facilmente, soprattutto con gli uomini; aggressiva quando qualcuno invade i suoi ricordi o i suoi limiti."
+ },
+ "2098197c01d9": {
+  "en": "<strong>Speech:</strong> farming stories: he talks about farming one way or another, or steers the conversation toward it.",
+  "t": "<strong>Modo di parlare:</strong> storie di agricoltura: parla di agricoltura in un modo o nell'altro, o porta il discorso lì."
+ },
+ "212065f929bc": {
+  "en": "Born in Broken-Tree, <a href=\"#laramy-broken-tree\">Laramy</a>'s cousin, she made her way to Tolerideme, then to Forway once she got a bit rich. But she lost all her money gambling and ended up back in Broken-Tree, and now she's looking for ways to get back to the city and regain her old life.",
+  "t": "Nata a Broken-Tree, cugina di <a href=\"#laramy-broken-tree\">Laramy</a>, si fece strada fino a Tolerideme, poi a Forway quando si arricchì un po'. Ma perse tutti i suoi soldi al gioco e finì di nuovo a Broken-Tree, e ora cerca il modo di tornare in città e riprendersi la vita di prima."
  },
  "2137513fad18": {
   "en": "<strong>Race:</strong> human; born male, effeminate.",
@@ -519,9 +619,17 @@
   "en": "<strong>Birthday:</strong> 919 A.G. Adrian 19th.",
   "t": "<strong>Compleanno:</strong> 19 Adrian 919 A.G."
  },
+ "257fa4d7565a": {
+  "en": "<strong>Flaws:</strong> unambitious; wanderlust (he can't sit still in one place for long); a procrastinator; indecisive; boring (to some); too touchy (to some).",
+  "t": "<strong>Difetti:</strong> senza ambizioni; voglia di viaggiare (non riesce a stare fermo a lungo in un posto); procrastinatore; indeciso; noioso (per alcuni); troppo appiccicoso (per alcuni)."
+ },
  "2592b94f0a82": {
   "en": "Lofingha: a blonde woman in a military cap and sheer armored outfit with silver boots, with a close-up of her ear.",
   "t": "Lofingha: una donna bionda con un berretto militare e un completo corazzato velato con stivali argentati, con un primo piano del suo orecchio."
+ },
+ "269daba97c49": {
+  "en": "<strong>Intelligence:</strong> street smarts, and a really good memory. She can't read, so she leaves that to Laramy.",
+  "t": "<strong>Intelligenza:</strong> furbizia di strada, e un'ottima memoria. Non sa leggere, quindi lascia fare a Laramy."
  },
  "271677ac60d8": {
   "en": "<strong>Birthday:</strong> 994 A.G. Asa 44th.",
@@ -619,6 +727,10 @@
   "en": "Ariana Tolerideme Whoop-Ass",
   "t": "Ariana Tolerideme Whoop-Ass"
  },
+ "2e3afa920440": {
+  "en": "<strong>Strengths:</strong> spontaneous; analytical; reserved; careful; fatherly.",
+  "t": "<strong>Punti di forza:</strong> spontaneo; analitico; riservato; attento; paterno."
+ },
  "2e51169cdd3a": {
   "en": "<strong>Birthday:</strong> 995 A.G. Moacir 30th.",
   "t": "<strong>Compleanno:</strong> 30 Moacir 995 A.G."
@@ -630,6 +742,10 @@
  "2e72f2b6c539": {
   "en": "<strong>Birthday:</strong> 1021 A.G. Moacir 47th.",
   "t": "<strong>Compleanno:</strong> 47 Moacir 1021 A.G."
+ },
+ "2e96b8a92f2e": {
+  "en": "Born and raised in Tolerideme, in a lower farming guild. He had a taste for alcohol since his youth, so he slowly drifted into the alcohol business, lucked out with a recipe that went gangbusters, and founded his own guild and business, where he lucks out again every once in a while. He's the current Alcohol King.",
+  "t": "Nato e cresciuto a Tolerideme, in una gilda agricola minore. Aveva il gusto dell'alcol fin da giovane, così pian piano scivolò nel business dell'alcol, ebbe fortuna con una ricetta che andò alla grande, e fondò una sua gilda e una sua attività, dove ogni tanto ha di nuovo fortuna. È l'attuale Alcohol King."
  },
  "2ebb5a2d8a1e": {
   "en": "<strong>Flaws:</strong> dull; tense; boring; blunt; crazy (rarely).",
@@ -646,6 +762,10 @@
  "2f8ba92bb068": {
   "en": "<strong>Flaws:</strong> jealous of her sister; temperamental, especially when someone pokes her sore spot about being lesser than her sister; aggressive, to make up for her lack of skill; pathetic, as she keeps trying to be like her sister instead of herself; demanding; narrow-minded.",
   "t": "<strong>Difetti:</strong> gelosa della sorella; lunatica, soprattutto quando qualcuno tocca il suo punto debole dell'essere inferiore alla sorella; aggressiva, per compensare la mancanza di abilità; patetica, perché continua a cercare di essere come sua sorella invece che sé stessa; esigente; di mentalità ristretta."
+ },
+ "2fcc8fccac09": {
+  "en": "<strong>Fascinated by:</strong> girls who are very kind and cute.",
+  "t": "<strong>Affascinata da:</strong> le ragazze molto gentili e carine."
  },
  "2fe85351428f": {
   "en": "Sora (1020 A.G Moacir 75th) is a loveable Wozefaries, adored by many for her eagerness to do her best while juggling her maid job and her parents' soap mart at the same time. She puts aside her shyness to get things done for the greater good of the kingdom! Well, most of the time, that is. There is only so much embarrassment a young girl can take, and being asked out on a date or being told she is cute is too much for her to handle.",
@@ -799,6 +919,10 @@
   "en": "Harry’s journey will be grueling, but he will not be swept by the challenging winds the more he roots himself in the new world.",
   "t": "Il viaggio di Harry sarà estenuante, ma non si lascerà travolgere dai venti avversi quanto più metterà radici nel nuovo mondo."
  },
+ "3addb4e47cac": {
+  "en": "<strong>Birthday:</strong> 998 A.G. Paulin 84th.",
+  "t": "<strong>Compleanno:</strong> 84 Paulin 998 A.G."
+ },
  "3ba7e1fec768": {
   "en": "Ariana: a short brown-haired girl in a pink gown with a tall pink pointed hat.",
   "t": "Ariana: una bambina bassa dai capelli castani in un abito rosa con un alto cappello rosa a punta."
@@ -810,6 +934,10 @@
  "3bec09a4c32f": {
   "en": "<strong>Flaws:</strong> disobedient at times, especially when he thought someone's plan needed changing on the fly; nosy; dependent; pessimistic.",
   "t": "<strong>Difetti:</strong> a volte disobbediente, soprattutto quando pensava che il piano di qualcuno andasse cambiato al volo; ficcanaso; dipendente; pessimista."
+ },
+ "3c4b12cf03a8": {
+  "en": "<strong>Habits:</strong> flaunts things as a defense.",
+  "t": "<strong>Abitudini:</strong> ostenta le cose come difesa."
  },
  "3c8f48552032": {
   "en": "<strong>Speech:</strong> not very direct in her words, but her body language is very direct.",
@@ -859,6 +987,10 @@
   "en": "Naunet: two outfits of a woman, a striped golden hooded cloak and a white top and skirt with gold jewelry.",
   "t": "Naunet: due abiti di una donna, un mantello dorato a righe con cappuccio e un top e una gonna bianchi con gioielli d'oro."
  },
+ "40618060e8ea": {
+  "en": "<strong>Likes and dislikes:</strong> loves money, being the center of attention and being treated as superior. Hates being on the same level as others, especially when someone she considers \"lucky\" gets ahead of her in life, and hates losing her grip on someone she's persuading. Loves dressing up in expensive clothes, or at least ones that look it, and fine food and drinks.",
+  "t": "<strong>Cosa ama e cosa odia:</strong> adora i soldi, essere al centro dell'attenzione ed essere trattata da superiore. Odia stare allo stesso livello degli altri, soprattutto quando qualcuno che considera “fortunato” la supera nella vita, e odia perdere la presa su qualcuno che sta convincendo. Adora vestirsi con abiti costosi, o almeno che lo sembrino, e il cibo e le bevande raffinati."
+ },
  "4090702bd5d0": {
   "en": "90 kg",
   "t": "90 kg"
@@ -870,6 +1002,10 @@
  "414feed37778": {
   "en": "<strong>Race:</strong> Sorefaries.",
   "t": "<strong>Razza:</strong> Sorefaries."
+ },
+ "41e01eb080ae": {
+  "en": "The 9th Pharaoh's wife, and <a href=\"#neferteri-sanbi-royal\">Neferteri</a>'s mother. She grew up close to her brother, <a href=\"#gamal-sundeath-pharaohs\">Gamal</a>, now her husband of many years.",
+  "t": "La moglie del 9º Faraone, e la madre di <a href=\"#neferteri-sanbi-royal\">Neferteri</a>. Crebbe molto legata a suo fratello, <a href=\"#gamal-sundeath-pharaohs\">Gamal</a>, ora suo marito da molti anni."
  },
  "41eb0324fd6e": {
   "en": "<strong>Intelligence:</strong> focused on adventuring, but he knows a bit more about the world than most. Doesn't care for politics.",
@@ -939,6 +1075,14 @@
   "en": "Excessive daytime sleepiness: sleep attacks when she isn't actively hunting or forcing herself to focus on something; otherwise, an average sleepiness that comes and goes depending on the day and whether she napped.",
   "t": "Eccessiva sonnolenza diurna: attacchi di sonno quando non sta cacciando attivamente o non si sforza di concentrarsi su qualcosa; altrimenti, una sonnolenza nella media che va e viene a seconda della giornata e del fatto che abbia fatto un pisolino."
  },
+ "4581eb760f84": {
+  "en": "<strong>Likes and dislikes:</strong> loves trying different foods and drinks. Hates anyone trying to take her precious Alford.",
+  "t": "<strong>Cosa ama e cosa odia:</strong> adora provare cibi e bevande diversi. Odia chiunque cerchi di prendersi il suo prezioso Alford."
+ },
+ "45b6bf5fa101": {
+  "en": "<strong>When he grows up:</strong> a shy mama's boy in the making: warm and kind, a bit lazy, and forever saying \"My mom told me…\".",
+  "t": "<strong>Da grande:</strong> un mammone timido in divenire: caloroso e gentile, un po' pigro, e sempre a dire “La mia mamma mi ha detto…”."
+ },
  "4615a8f8b300": {
   "en": "<strong>Likes and dislikes:</strong> likes obedience, and following the plan; hoarding more stuff. Hates disobedience, insubordination, and above all any attempt to tarnish his image.",
   "t": "<strong>Cosa ama e cosa odia:</strong> gli piacciono l'obbedienza, e seguire il piano; accumulare altra roba. Odia la disobbedienza, l'insubordinazione, e soprattutto qualsiasi tentativo di macchiare la sua immagine."
@@ -979,6 +1123,14 @@
   "en": "<strong>Birthday:</strong> 949 A.G. Moacir 11th.",
   "t": "<strong>Compleanno:</strong> 11 Moacir 949 A.G."
  },
+ "4871bfbf53a0": {
+  "en": "<strong>Habits:</strong> bobs her head; hums in agreement; an inquisitive look.",
+  "t": "<strong>Abitudini:</strong> muove la testa su e giù; mugugna in segno di assenso; uno sguardo indagatore."
+ },
+ "48d751e5877a": {
+  "en": "An orgy led to <a href=\"#isabel-tolerideme-whoop-ass\">Isabel</a> giving birth to Brandi. A paternity test pointed to <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>, so he's taking care of him too (as in paying child support). Jimmie and Isabel's first son.",
+  "t": "Un'orgia portò <a href=\"#isabel-tolerideme-whoop-ass\">Isabel</a> a dare alla luce Brandi. Un test di paternità indicò <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>, quindi si occupa anche di lui (nel senso che paga gli alimenti). Il primo figlio di Jimmie e Isabel."
+ },
  "48f7d2f704c1": {
   "en": "<strong>Birthday:</strong> 1015 A.G. Moacir 6th.",
   "t": "<strong>Compleanno:</strong> 6 Moacir 1015 A.G."
@@ -1011,6 +1163,10 @@
   "en": "<strong>Intelligence:</strong> average human intelligence, with street smarts, especially for sniffing out good deals.",
   "t": "<strong>Intelligenza:</strong> intelligenza umana nella media, con furbizia di strada, soprattutto per fiutare i buoni affari."
  },
+ "49d31ca5c704": {
+  "en": "<strong>Strengths:</strong> enthusiastic; responsible; friendly, in a blunt, sarcastic way.",
+  "t": "<strong>Punti di forza:</strong> entusiasta; responsabile; cordiale, in modo brusco e sarcastico."
+ },
  "49e36aceb616": {
   "en": "<strong>Flaws:</strong> a killjoy; a procrastinator; boring; detached; daydreams too much, especially about what-ifs, and ends up not doing anything; shameless.",
   "t": "<strong>Difetti:</strong> un guastafeste; procrastinatore; noioso; distaccato; sogna troppo a occhi aperti, soprattutto sui “e se”, e finisce per non fare niente; spudorato."
@@ -1030,6 +1186,10 @@
  "4b8db809a7da": {
   "en": "<strong>Attracted to:</strong> Wozefaries, especially ones with a high sex drive.",
   "t": "<strong>Attratto da:</strong> le Wozefaries, soprattutto quelle con un forte appetito sessuale."
+ },
+ "4bd615229eaf": {
+  "en": "Born and raised in Tolerideme, in one of the best and largest farming guilds. Thanks to his charisma and deep knowledge of farming, he became Farm King at 20, which is rather young. He met his partner, <a href=\"#luny-tolerideme-dirt-lover\">Luny</a>, when she started as the new Courtroom Scientist ten years ago: he saw in her a depth of knowledge and an appreciation for farming nobody else had. Still, he joins orgies here and there in secret. Luny doesn't seem to want kids, perhaps because the \"wife\" thing isn't a thing in Tolerideme. He had an affair with <a href=\"#aurora-tolerideme\">Aurora</a>, which led to her having a child about 8 years ago (1031 A.G.), and worked out a deal with <a href=\"#itagiba-sanbi-royal\">Itagiba</a> and <a href=\"#eiri-sanbi-royal\">Eiri</a> so Luny wouldn't find out.",
+  "t": "Nato e cresciuto a Tolerideme, in una delle gilde agricole migliori e più grandi. Grazie al suo carisma e alla sua profonda conoscenza dell'agricoltura, diventò Farm King a 20 anni, piuttosto giovane. Conobbe la sua compagna, <a href=\"#luny-tolerideme-dirt-lover\">Luny</a>, quando lei cominciò come nuova Scienziata di corte dieci anni fa: vide in lei una profondità di conoscenze e un apprezzamento per l'agricoltura che nessun altro aveva. Eppure, partecipa a qualche orgia qua e là in segreto. Luny non sembra volere figli, forse perché la cosa della “moglie” a Tolerideme non esiste. Ebbe una relazione con <a href=\"#aurora-tolerideme\">Aurora</a>, che portò lei ad avere un figlio circa 8 anni fa (1031 A.G.), e si accordò con <a href=\"#itagiba-sanbi-royal\">Itagiba</a> ed <a href=\"#eiri-sanbi-royal\">Eiri</a> perché Luny non lo scoprisse."
  },
  "4bd773400632": {
   "en": "<strong>Intelligence:</strong> very smart at accounting and anything maid-related. She can organize people like no other, and does her best to create a loving environment for her maids.",
@@ -1095,6 +1255,10 @@
   "en": "<strong>Habits:</strong> personal, and can get handsy, but his personality makes it work, so most people don't feel invaded; moves around more than most, and likes to stand and walk; looks people in the eye with a sincere, warm smile.",
   "t": "<strong>Abitudini:</strong> alla mano, e può diventare manesco, ma il suo carattere lo fa funzionare, quindi quasi nessuno si sente invaso; si muove più degli altri, e gli piace stare in piedi e camminare; guarda la gente negli occhi con un sorriso sincero e caloroso."
  },
+ "4fe188e79caf": {
+  "en": "<strong>Likes and dislikes:</strong> loves farming and everything to do with it, including the food that comes out of it.",
+  "t": "<strong>Cosa ama e cosa odia:</strong> adora l'agricoltura e tutto ciò che la riguarda, compreso il cibo che ne viene fuori."
+ },
  "4fe56595584d": {
   "en": "Magi grew up with loving parents and would likely have become a historian, but the sudden disappearance of her father, <a href=\"#fernan-blood-blue-flower-red-bone\">Fernan</a>, forced her to become an adventurer to pay off guild debts. She wants to find him, or at least his bow. She inherited her father's hunting talent, but she has narcolepsy and is rather distrustful of people. She always carries hunting gear in her bag, especially traps and camouflage for hiding.",
   "t": "Magi è cresciuta con genitori amorevoli e probabilmente sarebbe diventata una storica, ma l'improvvisa scomparsa di suo padre, <a href=\"#fernan-blood-blue-flower-red-bone\">Fernan</a>, l'ha costretta a diventare un'avventuriera per pagare i debiti della gilda. Vuole ritrovarlo, o almeno il suo arco. Ha ereditato il talento del padre per la caccia, ma soffre di narcolessia ed è piuttosto diffidente verso la gente. Porta sempre nella borsa l'attrezzatura da caccia, soprattutto trappole e mimetica per nascondersi."
@@ -1110,6 +1274,10 @@
  "500a72916c98": {
   "en": "<strong>Race:</strong> WIP.",
   "t": "<strong>Razza:</strong> WIP."
+ },
+ "503c9969afd1": {
+  "en": "<strong>Flaws:</strong> boastful; touchy; narcissistic; hotheaded; gullible; envious.",
+  "t": "<strong>Difetti:</strong> spaccona; permalosa; narcisista; testa calda; credulona; invidiosa."
  },
  "5040fc5f5626": {
   "en": "<strong>Flaws:</strong> shy; selfish; hesitant; forgetful; doesn't like to travel; dependent.",
@@ -1159,9 +1327,21 @@
   "en": "52 kg",
   "t": "52 kg"
  },
+ "52aca80c32c8": {
+  "en": "<strong>Intelligence:</strong> knows a fair amount for her age, and is always eager to learn more.",
+  "t": "<strong>Intelligenza:</strong> sa parecchio per la sua età, ed è sempre desiderosa di imparare di più."
+ },
  "52b7ff64fd14": {
   "en": "<strong>Birthday:</strong> 1014 A.G. Asa 24th.",
   "t": "<strong>Compleanno:</strong> 24 Asa 1014 A.G."
+ },
+ "52c95f2d9d05": {
+  "en": "<a href=\"#kianna-tolerideme-whoop-ass\">Kianna</a> and <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>'s first daughter.",
+  "t": "La prima figlia di <a href=\"#kianna-tolerideme-whoop-ass\">Kianna</a> e <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>."
+ },
+ "5302e236f8d4": {
+  "en": "95 kg",
+  "t": "95 kg"
  },
  "5318b8a526de": {
   "en": "Born in Forway City to mixed-blood parents who had left the Gandew Kingdom and made their living in whatever jobs they could find, with little education but great physical strength. The discrimination and smugness of pure-blood Darfaries toward his mixed blood always rubbed him the wrong way. One day he signed a contract with a rich man without reading the fine print, and members of the rich man's family harassed him over it, which made him hate everyone even more. In time, he founded what is now known as the Blue Wozens with two other people, and struck back at the family.",
@@ -1170,6 +1350,10 @@
  "53342c568668": {
   "en": "<strong>Likes and dislikes:</strong> an Amethyst adventurer, picky about his quests. Loves makeup, looking good and matching accessories to his clothes. Loves blue. Hates fat Tolerideme people (\"it's unbeauty\"). Loves talking about himself, especially what he's done. Hates combat, and prefers verbal arguments.",
   "t": "<strong>Cosa ama e cosa odia:</strong> un avventuriero Amethyst, schizzinoso con le missioni. Adora il trucco, avere un bell'aspetto e abbinare gli accessori ai vestiti. Adora il blu. Odia i grassi di Tolerideme (“è non bellezza”). Adora parlare di sé, soprattutto di quello che ha fatto. Odia il combattimento, e preferisce le discussioni a parole."
+ },
+ "540fd4630a6c": {
+  "en": "<strong>Habits:</strong> jumps into conversations to keep Laramy from getting screwed like no other; likes to put herself in front of people, especially standing up; loving and touchy with her family.",
+  "t": "<strong>Abitudini:</strong> si butta nelle conversazioni per evitare che Laramy si faccia fregare come nessun altro; le piace mettersi davanti alla gente, soprattutto in piedi; affettuosa e appiccicosa con la sua famiglia."
  },
  "544e78f6ae0c": {
   "en": "Eiri: a blonde young woman in a blue hood and a blue-and-yellow ruffled dress.",
@@ -1211,6 +1395,10 @@
   "en": "Yacamim Sanbi Royal",
   "t": "Yacamim Sanbi Royal"
  },
+ "5700960f83c4": {
+  "en": "<strong>Likes and dislikes:</strong> prefers Sundeath to anything else. Hates humidity and cold. Loves Lolish, especially preserved in sugar.",
+  "t": "<strong>Cosa ama e cosa odia:</strong> preferisce Sundeath a qualsiasi altra cosa. Odia l'umidità e il freddo. Adora il Lolish, soprattutto conservato nello zucchero."
+ },
  "5737e14d2481": {
   "en": "Maicon Crossroads Black-Dove",
   "t": "Maicon Crossroads Black-Dove"
@@ -1242,6 +1430,10 @@
  "589419359f21": {
   "en": "Born in Forway to a Sundeath mother and a well-off Wozefaries father. He grew up exploring the world's cuisines and came to love the diversity of food, which he explores in his restaurant, The Wood People Picker.",
   "t": "Nato a Forway da madre Sundeath e da un padre Wozefaries benestante. Crebbe esplorando le cucine del mondo e arrivò ad amare la varietà del cibo, che esplora nel suo ristorante, The Wood People Picker."
+ },
+ "58b609247447": {
+  "en": "<strong>Speech:</strong> soft-spoken; asks questions, and goes back and forth on the meat of the matter.",
+  "t": "<strong>Modo di parlare:</strong> pacato; fa domande, e torna avanti e indietro sul nocciolo della questione."
  },
  "5909bee59bcf": {
   "en": "Posaqui Sanbi",
@@ -1279,6 +1471,10 @@
   "en": "<strong>Habits:</strong> avoidant; quiet.",
   "t": "<strong>Abitudini:</strong> evitante; silenzioso."
  },
+ "5acc33e35477": {
+  "en": "<strong>Attracted to:</strong> a lady who shares his passion for farming; size doesn't really matter.",
+  "t": "<strong>Attratto da:</strong> una donna che condivida la sua passione per l'agricoltura; la taglia non conta davvero."
+ },
  "5b18a45a9f04": {
   "en": "Bata (995 A.G. Moacir 30th) is the identical twin brother of Anpu. Which one is which? Nobody knows, and that’s on purpose! These two want to become a single entity so badly they are always on nari gels to look perfectly alike. They even developed a synchronicity interface through eyesight that allows them to predict what each other is thinking nearly instinctively. That is unless a monkey wrench is thrown in their act, like Neferteri showing up or you asking a question that scratches the individualism laying dormant underneath it all. Will they become the next leaders of Sundeath? Eventually, yes, but Gamal does not bulge from the role until they get their act together. However, the Pharaohs guild has no other twin girls for marriage, plus ignoring the rumors that these two brothers only love themselves is hard to do when you see them riding a single Egua together, often galloping.",
   "t": "Bata (30 Moacir 995 A.G.) è il gemello identico di Anpu. Chi è chi? Nessuno lo sa, ed è voluto! Questi due vogliono così tanto diventare un'unica entità che usano sempre gel nari per sembrare perfettamente uguali. Hanno perfino sviluppato un'interfaccia di sincronia attraverso la vista che permette loro di prevedere quasi d'istinto cosa sta pensando l'altro. A meno che qualcuno non metta loro i bastoni tra le ruote, come quando si presenta Neferteri o quando fai una domanda che graffia l'individualismo sopito sotto tutto quanto. Diventeranno i prossimi capi di Sundeath? Prima o poi sì, ma Gamal non si schioda dal ruolo finché non mettono la testa a posto. Però la gilda dei Pharaohs non ha altre gemelle da dare in sposa, e in più ignorare le voci secondo cui questi due fratelli amano solo sé stessi è difficile quando li vedi cavalcare insieme un'unica Egua, spesso al galoppo."
@@ -1298,6 +1494,10 @@
  "5bd9382ec5e1": {
   "en": "78 kg",
   "t": "78 kg"
+ },
+ "5c72b108f095": {
+  "en": "<strong>Speech:</strong> quick to agree or disagree and move on as soon as he has heard the other person out. His voice is tired, raspy and detached, even though his words show he listened to every word.",
+  "t": "<strong>Modo di parlare:</strong> pronto a dire sì o no e passare oltre appena ha sentito l'altra persona. La sua voce è stanca, roca e distaccata, anche se le sue parole mostrano che ha ascoltato ogni singola parola."
  },
  "5c9bdc175a38": {
   "en": "<strong>Birthday:</strong> 969 A.G. Asa 23rd.",
@@ -1327,9 +1527,17 @@
   "en": "To her surprise, that same adventurer, <a href=\"#fernan-blood-blue-flower-red-bone\">Fernan</a>, passed by her again one day and asked how she was doing. She said she'd followed his advice, and he giddily asked if he could give her another piece of advice: go on a date with him! They grew closer, and Magi and her little brother were born. Akemi knows a fair amount of history, but her real interest lies in the occult and forbidden knowledge. Her clothes show some wear, since she's saving every ball she can for her son's specialty school.",
   "t": "Con sua sorpresa, quello stesso avventuriero, <a href=\"#fernan-blood-blue-flower-red-bone\">Fernan</a>, un giorno le passò di nuovo accanto e le chiese come stesse. Lei disse di aver seguito il suo consiglio, e lui, tutto contento, le chiese se poteva darle un altro consiglio: uscire con lui! Si avvicinarono, e nacquero Magi e il suo fratellino. Akemi conosce parecchia storia, ma il suo vero interesse è l'occulto e il sapere proibito. I suoi vestiti mostrano qualche segno d'usura, perché sta risparmiando ogni palla che può per la scuola specializzata del figlio."
  },
+ "5ed0cc12cf1a": {
+  "en": "<strong>Myers-Briggs:</strong> INTP.",
+  "t": "<strong>Myers-Briggs:</strong> INTP."
+ },
  "5eee91be337d": {
   "en": "<strong>Birthday:</strong> 1007 A.G. Adrian 79th.",
   "t": "<strong>Compleanno:</strong> 79 Adrian 1007 A.G."
+ },
+ "5ef54db2ea68": {
+  "en": "<strong>Likes and dislikes:</strong> likes people with power. Doesn't like dealing with petty things, especially petty people.",
+  "t": "<strong>Cosa ama e cosa odia:</strong> le piacciono le persone con potere. Non le piace occuparsi di cose meschine, soprattutto di persone meschine."
  },
  "5f277725658c": {
   "en": "<strong>Likes and dislikes:</strong> hates people above him, or anyone who makes a point of being above him. Likes most food, except what clearly tastes funky, and especially raw things.",
@@ -1338,6 +1546,10 @@
  "5f9bd3c88bab": {
   "en": "Sinoi: an old gray-haired man with a pipe, wearing a blue patterned vest and trousers.",
   "t": "Sinoi: un vecchio dai capelli grigi con una pipa, che indossa un gilet e pantaloni blu fantasia."
+ },
+ "5fe114268f75": {
+  "en": "<strong>Likes and dislikes:</strong> loves food, and being with her mother to copy her behavior. Hates <a href=\"#nina-sanbi-royal\">Nina</a>, but has to put up with her, or she'd get in trouble.",
+  "t": "<strong>Cosa ama e cosa odia:</strong> adora il cibo, e stare con sua madre per copiarne il comportamento. Odia <a href=\"#nina-sanbi-royal\">Nina</a>, ma deve sopportarla, altrimenti finirebbe nei guai."
  },
  "5ff1d73e0dc5": {
   "en": "Brandi Tolerideme Whoop-Ass",
@@ -1350,6 +1562,18 @@
  "60b9da50fa3c": {
   "en": "Honati's family portrait for Arc 2: a gray-haired man, a pink-haired girl and an orange-haired woman (marked with an arrow).",
   "t": "Il ritratto di famiglia di Honati per l'Arc 2: un uomo dai capelli grigi, una ragazza con i capelli rosa e una donna con i capelli arancioni (indicata da una freccia)."
+ },
+ "60c9d053a89e": {
+  "en": "<strong>Habits:</strong> an air of superiority; duck face; bitchy face; likes to flaunt it.",
+  "t": "<strong>Abitudini:</strong> un'aria di superiorità; la bocca a papera; la faccia da stronza; le piace ostentarlo."
+ },
+ "610a4ffddaea": {
+  "en": "<strong>Attracted to:</strong> dependent, secure men.",
+  "t": "<strong>Attratta da:</strong> uomini dipendenti e sicuri di sé."
+ },
+ "61d9410b7746": {
+  "en": "<strong>Strengths:</strong> a skilled communicator; sociable; clever; resourceful (with connections); friendly; self-confident; placid, controlling her emotions and hiding her true intentions.",
+  "t": "<strong>Punti di forza:</strong> una comunicatrice abile; socievole; sveglia; piena di risorse (di contatti); cordiale; sicura di sé; placida, controlla le emozioni e nasconde le sue vere intenzioni."
  },
  "61e8fbe2533c": {
   "en": "<strong>Intelligence:</strong> a man set in his ways: preceptive, and willing to lay down how things have to be. He can't read, but he can certainly read people who try to outwit him. A talented logger.",
@@ -1375,6 +1599,14 @@
   "en": "<strong>Race:</strong> mixed blood (human and Darfaries).",
   "t": "<strong>Razza:</strong> sangue misto (umano e Darfaries)."
  },
+ "6292091fa675": {
+  "en": "<strong>Flaws:</strong> bitchy; rude; sees others as beneath her; gullible, especially when her ego is inflated.",
+  "t": "<strong>Difetti:</strong> stronza; maleducata; vede gli altri come inferiori; credulona, soprattutto quando ha l'ego gonfio."
+ },
+ "62ac4dba37f2": {
+  "en": "Born and raised north of Tolerideme, the daughter of traders, <a href=\"#laramy-broken-tree\">Laramy</a> and <a href=\"#honati-broken-tree\">Honati</a>. She traveled a lot with them, picking up information about the world, and learned to read on the road, though she never went to school.",
+  "t": "Nata e cresciuta a nord di Tolerideme, figlia di commercianti, <a href=\"#laramy-broken-tree\">Laramy</a> e <a href=\"#honati-broken-tree\">Honati</a>. Viaggiava molto con loro, raccogliendo informazioni sul mondo, e imparò a leggere per strada, anche se non è mai andata a scuola."
+ },
  "638cb6df50cd": {
   "en": "Marcus Big-Gyut",
   "t": "Marcus Big-Gyut"
@@ -1382,6 +1614,10 @@
  "639a0f7f95cc": {
   "en": "<strong>Speech:</strong> an aggressive, impatient tone; demanding, and belligerent when someone doesn't follow his plan 100%.",
   "t": "<strong>Modo di parlare:</strong> un tono aggressivo e impaziente; esigente, e bellicoso quando qualcuno non segue il suo piano al 100%."
+ },
+ "63aec8554ae9": {
+  "en": "<strong>Speech:</strong> he doesn't really start things, but goes along with whatever his wife comes up with.",
+  "t": "<strong>Modo di parlare:</strong> non è lui a prendere l'iniziativa, ma asseconda qualsiasi cosa proponga sua moglie."
  },
  "63bceb19b89c": {
   "en": "<strong>Race:</strong> Darfaries.",
@@ -1499,6 +1735,18 @@
   "en": "<strong>Flaws:</strong> self-indulgent; insecure; shameless; predatory; doesn't think things through.",
   "t": "<strong>Difetti:</strong> indulgente con sé stessa; insicura; spudorata; predatrice; non pensa alle conseguenze."
  },
+ "68ac5d8baa0f": {
+  "en": "<strong>Birthday:</strong> 1004 A.G. Asa 14th.",
+  "t": "<strong>Compleanno:</strong> 14 Asa 1004 A.G."
+ },
+ "68d82295bd31": {
+  "en": "<strong>Strengths:</strong> a sweet persona; very caring; attentive; charming in her own way; grandmotherly, so to speak.",
+  "t": "<strong>Punti di forza:</strong> un personaggio dolce; molto premurosa; attenta; affascinante a modo suo; materna come una nonna, per così dire."
+ },
+ "6941bb3295a0": {
+  "en": "<strong>Birthday:</strong> 1036 A.G. Adrian 54th.",
+  "t": "<strong>Compleanno:</strong> 54 Adrian 1036 A.G."
+ },
  "69a799c9edef": {
   "en": "The Stinger: a figure in spiked golden armor with a horned golden helmet that hides the face.",
   "t": "The Stinger: una figura in armatura dorata chiodata con un elmo dorato con le corna che nasconde il volto."
@@ -1510,6 +1758,10 @@
  "69e2552aa968": {
   "en": "<strong>Attracted to:</strong> girly Wozefaries.",
   "t": "<strong>Attratto da:</strong> le Wozefaries femminili."
+ },
+ "69ff0ae79559": {
+  "en": "<strong>Speech:</strong> polite, distant and elegant; a calm, somewhat monotone voice, like her movements.",
+  "t": "<strong>Modo di parlare:</strong> educato, distante ed elegante; una voce calma, un po' monotona, come i suoi movimenti."
  },
  "6a6da31b7476": {
   "en": "Wilson (1019 A.G. Moacir 19th) is definitive proof that humans don't need a brain to survive, despite Marcus proving that wrong time after time whenever he cracks Wilson's skull open. Maybe he just refuses to use it? More than once, he opened his mouth to a guard and told him who he was and that he had fun being a bandit! And that's not the worst part either; once he showed the guard an item he had stolen and pointed to the post asking to find it with a burst of dumb laughter as if he was bragging about it to a long-time friend. Needless to say, Marcus split his head open after they skipped town. At least he seems to be good with the bow, or it's all because of the shiny bow he carries around like a conjoined twin.",
@@ -1554,6 +1806,10 @@
  "6e1ef6f8a81a": {
   "en": "<strong>Intelligence:</strong> emotionally intelligent, but never speaks up.",
   "t": "<strong>Intelligenza:</strong> intelligente emotivamente, ma non dice mai la sua."
+ },
+ "6eac3685d9fe": {
+  "en": "<strong>Likes and dislikes:</strong> his mother's milk, Domar barley, baby food.",
+  "t": "<strong>Cosa ama e cosa odia:</strong> il latte di sua madre, l'orzo di Domar, le pappe."
  },
  "6f3d37b8b663": {
   "en": "Brandi (1039 A.G. Asa 69th) is the newest member of the Whoop-Ass guild and likely not the last. Some people are already betting whether he will turn out closer to Ariana or Amelia.",
@@ -1635,6 +1891,10 @@
   "en": "61 kg",
   "t": "61 kg"
  },
+ "755a5568ca01": {
+  "en": "<strong>Speech:</strong> a lower voice; she doesn't like drawing attention to herself.",
+  "t": "<strong>Modo di parlare:</strong> una voce più bassa; non le piace attirare l'attenzione su di sé."
+ },
  "756d8dfb8f99": {
   "en": "Amelia Tolerideme Whoop-Ass",
   "t": "Amelia Tolerideme Whoop-Ass"
@@ -1666,6 +1926,10 @@
  "7780dfb06944": {
   "en": "Amelia (1036 A.G. Adrian 54th) is the contradiction to the statement “the Yabuca never falls far of the tree.” Despite being the second daughter to Kianna, her demeanor is far closer to the likes of introspects and laid-back people like Alford, to the point some have questioned if Amelia is truly Jimmie’s daughter since there was no way Isabel’s soul got in the mix. The soul paternity test has proven that it’s Jimmie’s and Kianna’s daughter. Still, her apathy to social stuff, specifically high-class ones, makes her the odd one out in the family, but not with her friends, of which she has many, including the one and only Nina Sanbi-Royal.",
   "t": "Amelia (54 Adrian 1036 A.G.) è la contraddizione del detto “la Yabuca non cade mai lontano dall'albero.” Pur essendo la seconda figlia di Kianna, il suo carattere è molto più vicino a quello di persone introspettive e rilassate come Alford, al punto che alcuni si sono chiesti se Amelia sia davvero figlia di Jimmie, dato che non c'era modo che l'anima di Isabel ci fosse finita in mezzo. Il test di paternità dell'anima ha dimostrato che è figlia di Jimmie e Kianna. Eppure la sua apatia verso le cose sociali, in particolare quelle d'alta classe, la rende la pecora nera della famiglia, ma non con i suoi amici, che sono tanti, compresa l'unica e sola Nina Sanbi-Royal."
+ },
+ "778b66317f4a": {
+  "en": "<strong>Habits:</strong> sticks close to the people she wants to protect, and be protected by; affectionate, she likes physical closeness with the people she trusts.",
+  "t": "<strong>Abitudini:</strong> sta vicina alle persone che vuole proteggere, e da cui vuole essere protetta; affettuosa, le piace la vicinanza fisica con le persone di cui si fida."
  },
  "778e99a74e84": {
   "en": "Her story starts like her twin <a href=\"#katsuki-flatland-long-blue\">Katsuki</a>'s, but her friendly, spirited nature helped land them both an agent role. That is, until Katsumi truly tasted freedom and decided to flee it all. Now they're locked in a room, hidden from everyone. She hates <a href=\"#arukia-long-bridge\">Arukia</a> and the <a href=\"/lore/factions/#red-winga\">Red Winga</a>, and tries to escape at every chance she gets, but her pessimistic sister shoots it down every time, especially since Katsumi is the one who got them into this situation in the first place.",
@@ -1719,6 +1983,10 @@
   "en": "130 kg",
   "t": "130 kg"
  },
+ "7c63dbdf1809": {
+  "en": "64 kg",
+  "t": "64 kg"
+ },
  "7cbcb74dfd11": {
   "en": "<strong>Likes and dislikes:</strong> loves experimenting and being in control: from cooking to nari gels, she wants it all. Loves jabbing at <a href=\"#yacamim-sanbi-royal\">Yacamim</a> and <a href=\"#maiara-sanbi-royal\">Maiara</a>, since both are way too free compared to her. Likes wearing a different belt depending on her mood (or pajamas). Hates how her mother keeps suppressing her for the sake of the kingdom: she wants control over her destiny, but isn't sure how to break free like her sisters. Are they even really free of it all? Who knows.",
   "t": "<strong>Cosa ama e cosa odia:</strong> adora sperimentare ed essere in controllo: dalla cucina ai gel nari, vuole tutto. Adora punzecchiare <a href=\"#yacamim-sanbi-royal\">Yacamim</a> e <a href=\"#maiara-sanbi-royal\">Maiara</a>, visto che entrambe sono fin troppo libere rispetto a lei. Le piace indossare una cintura diversa a seconda dell'umore (o del pigiama). Odia il modo in cui sua madre continua a reprimerla per il bene del regno: vuole il controllo sul proprio destino, ma non sa bene come liberarsi come le sue sorelle. Ma sono davvero libere da tutto? Chissà."
@@ -1730,6 +1998,10 @@
  "7dfe31a8d8ca": {
   "en": "70 kg",
   "t": "70 kg"
+ },
+ "7e5cba69d051": {
+  "en": "<strong>Strengths:</strong> innovative; creative; precise; logical; reserved.",
+  "t": "<strong>Punti di forza:</strong> innovativa; creativa; precisa; logica; riservata."
  },
  "7eef0dac109c": {
   "en": "Alford: a stout smiling farmer in a wide straw hat holding a black rooster and a shovel.",
@@ -1767,6 +2039,10 @@
   "en": "The middle child of parents too busy with the younger kids and work to give him attention. A neighborhood friend talked him into stealing something, and he thought it was pretty cool: money for doing basically nothing (other than stealing). He was barely making ends meet when <a href=\"#clodoveu-big-gyut\">Clodoveu</a> got in touch and brought him into the Blue Wozens. One day he crossed paths with <a href=\"#fernan-blood-blue-flower-red-bone\">Fernan</a> and his Black Sapphire colleagues, and tried to steal Fernan's bow. He got his face punched to oblivion and back for it, so he used his memory, and his money, to recreate the bow as closely as he could.",
   "t": "Il figlio di mezzo di genitori troppo presi dai figli più piccoli e dal lavoro per dargli attenzione. Un amico del quartiere lo convinse a rubare qualcosa, e lui lo trovò parecchio figo: soldi per non fare praticamente niente (a parte rubare). Riusciva a malapena a sbarcare il lunario quando <a href=\"#clodoveu-big-gyut\">Clodoveu</a> si mise in contatto con lui e lo portò nei Blue Wozens. Un giorno incrociò <a href=\"#fernan-blood-blue-flower-red-bone\">Fernan</a> e i suoi colleghi Black Sapphire, e cercò di rubare l'arco di Fernan. Per questo si prese un pugno in faccia che lo mandò all'altro mondo e ritorno, così usò la memoria, e i suoi soldi, per ricreare l'arco il più fedelmente possibile."
  },
+ "8166e5ac5ffc": {
+  "en": "<strong>Speech:</strong> somewhat like <a href=\"#arukia-long-bridge\">Arukia</a>, but not as abusive: more jokey and friendly.",
+  "t": "<strong>Modo di parlare:</strong> un po' come <a href=\"#arukia-long-bridge\">Arukia</a>, ma non così offensiva: più scherzosa e cordiale."
+ },
  "819f9ebd2d52": {
   "en": "<strong>Myers-Briggs:</strong> ESFJ.",
   "t": "<strong>Myers-Briggs:</strong> ESFJ."
@@ -1803,6 +2079,10 @@
   "en": "<strong>Habits:</strong> touchy, and she goes for the balls not long after a chat. She likes to milk them.",
   "t": "<strong>Abitudini:</strong> appiccicosa, e punta alle palle poco dopo aver attaccato discorso. Le piace mungerle."
  },
+ "83f77732a07d": {
+  "en": "<strong>Likes and dislikes:</strong> likes being with her family and doing things together; her wanderlust isn't as strong as Laramy's. Hates seafood, or anything that tastes fishy: it makes her gag profusely.",
+  "t": "<strong>Cosa ama e cosa odia:</strong> le piace stare con la sua famiglia e fare le cose insieme; la sua voglia di viaggiare non è forte quanto quella di Laramy. Odia i frutti di mare, o qualsiasi cosa sappia di pesce: le fa venire conati a non finire."
+ },
  "840e89b1304c": {
   "en": "<strong>Speech:</strong> gets nasty-mouthed sometimes, especially when someone strays from her plans; otherwise careless and curt. Somehow, an air of elegance surrounds her curt voice.",
   "t": "<strong>Modo di parlare:</strong> a volte diventa sboccata, soprattutto quando qualcuno devia dai suoi piani; altrimenti noncurante e secca. In qualche modo, un'aria di eleganza circonda la sua voce secca."
@@ -1810,6 +2090,26 @@
  "8414f06fe0e5": {
   "en": "Kianna: a large woman with brown hair in a puffy pink gown and a tall white hat, hand on her chest.",
   "t": "Kianna: una donna robusta con i capelli castani in un vaporoso abito rosa e un alto cappello bianco, con la mano sul petto."
+ },
+ "843578ed4dd4": {
+  "en": "<strong>Likes and dislikes:</strong> loves beer and fat poontang.",
+  "t": "<strong>Cosa ama e cosa odia:</strong> adora la birra e la figa grassa."
+ },
+ "84863981842b": {
+  "en": "<strong>Flaws:</strong> picky; anxious; boring (to some); too touchy (to some); prying; dwells on the past.",
+  "t": "<strong>Difetti:</strong> schizzinosa; ansiosa; noiosa (per alcuni); troppo appiccicosa (per alcuni); impicciona; rimugina sul passato."
+ },
+ "84b69794e3dc": {
+  "en": "<strong>Birthday:</strong> 988 A.G. Asa 31st.",
+  "t": "<strong>Compleanno:</strong> 31 Asa 988 A.G."
+ },
+ "8511fc5713c3": {
+  "en": "She grew up in a family of Domar producers, met <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>, and became his second mate for life the second time he lucked out with his spirit recipes.",
+  "t": "Crebbe in una famiglia di produttori di Domar, conobbe <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>, e diventò la sua seconda compagna per la vita la seconda volta che lui ebbe fortuna con le sue ricette di liquori."
+ },
+ "8523dfed9bc0": {
+  "en": "<strong>Flaws:</strong> pushy; gossipy, sounding jovial while she gossips; intrusive.",
+  "t": "<strong>Difetti:</strong> invadente; pettegola, con un tono gioviale mentre spettegola; intrusiva."
  },
  "85a83709bbf5": {
   "en": "<strong>Birthday:</strong> 1032 A.G. Asa 80th.",
@@ -1843,6 +2143,10 @@
   "en": "<strong>Attracted to:</strong> men.",
   "t": "<strong>Attratta da:</strong> gli uomini."
  },
+ "882f0150a86b": {
+  "en": "<strong>Flaws:</strong> intolerant; sometimes speaks her mind a bit too much; flippant; attached and dependent: losing her parents left her depressed for quite a while, since she was so attached to them.",
+  "t": "<strong>Difetti:</strong> intollerante; a volte dice un po' troppo ciò che pensa; sfrontata; attaccata e dipendente: perdere i genitori l'ha lasciata depressa per parecchio tempo, perché era molto attaccata a loro."
+ },
  "88710ba93e65": {
   "en": "<strong>Strengths:</strong> outgoing; realistic and pragmatic; doesn't care about others, especially gossip and such; a strong, independent lady who doesn't take shit from anyone.",
   "t": "<strong>Punti di forza:</strong> estroversa; realista e pragmatica; non le importa degli altri, soprattutto dei pettegolezzi e simili; una donna forte e indipendente che non si fa mettere i piedi in testa da nessuno."
@@ -1866,6 +2170,22 @@
  "89dae16ad2d4": {
   "en": "<strong>Intelligence:</strong> brilliant at everything to do with Soul Energy, especially the soul. But he worries too much about misuse to share his work before it's complete, and besides, he wants to be the first to use it.",
   "t": "<strong>Intelligenza:</strong> brillante in tutto ciò che riguarda l'Energia dell'anima, soprattutto l'anima. Ma si preoccupa troppo degli abusi per condividere il suo lavoro prima che sia completo, e poi vuole essere il primo a usarlo."
+ },
+ "8a12c39572fa": {
+  "en": "<strong>Intelligence:</strong> above average, but she keeps to herself, or finds ways to get things done without making waves.",
+  "t": "<strong>Intelligenza:</strong> sopra la media, ma sta per conto suo, o trova modi per fare le cose senza sollevare polveroni."
+ },
+ "8ae2db184d56": {
+  "en": "Born and raised in Forway City to merchant parents, who sometimes took her on their travels; she fell in love with the countryside, especially Tolerideme. She had a knack for Soul Energy and wanted to become an adventurer, but her parents steered her toward becoming a courtroom scientist instead, enrolling her in the Soul Energy school. So she did, with her sights firmly set on moving to Tolerideme, since an opening would eventually come up there. When she arrived, she met a man so focused on farming that she fell in love with his personality: <a href=\"#alford-tolerideme-dirt-lover\">Alford</a>. They never had children, always too busy with farming and enjoying life.",
+  "t": "Nata e cresciuta a Forway City da genitori mercanti, che a volte la portavano nei loro viaggi; si innamorò della campagna, soprattutto di Tolerideme. Aveva un talento per l'Energia dell'anima e voleva diventare un'avventuriera, ma i suoi genitori la indirizzarono invece a diventare scienziata di corte, iscrivendola alla scuola di Energia dell'anima. Così fece, con lo sguardo fisso sul trasferirsi a Tolerideme, perché prima o poi si sarebbe liberato un posto lì. Quando arrivò, conobbe un uomo così concentrato sull'agricoltura che si innamorò del suo carattere: <a href=\"#alford-tolerideme-dirt-lover\">Alford</a>. Non hanno mai avuto figli, sempre troppo presi dall'agricoltura e dal godersi la vita."
+ },
+ "8b15e7bb0110": {
+  "en": "<strong>Strengths:</strong> faithful; loving; kind; liberal; diplomatic; peaceful; intelligent; agreeable; broad-minded; cuddly; wanderlust.",
+  "t": "<strong>Punti di forza:</strong> fedele; amorevole; gentile; aperto; diplomatico; pacifico; intelligente; accomodante; di larghe vedute; coccolone; voglia di viaggiare."
+ },
+ "8b4597f2da7a": {
+  "en": "<strong>Speech:</strong> clicks her tongue; sharp, and somewhat rude, putting others down beneath her. Not skilled at conversation.",
+  "t": "<strong>Modo di parlare:</strong> schiocca la lingua; tagliente, e un po' maleducata, mette gli altri sotto di sé. Non brava a conversare."
  },
  "8b54aca2a30a": {
   "en": "<strong>Likes and dislikes:</strong> loves working; goal-focused. Despite his tone, he helps those in need, but hates anyone who thinks they can take advantage of him or his family. Loves pies.",
@@ -1891,6 +2211,10 @@
   "en": "<strong>Likes and dislikes:</strong> loves a good joke or comment, with no no-go zone for funny remarks. Dislikes anyone being pushy with her maids, or with anyone else; she likes people to have their freedom. Loves fish and being clean, and fruity sweets, especially crunchy finger cakes or anything like them.",
   "t": "<strong>Cosa ama e cosa odia:</strong> adora una bella battuta o un commento, senza zone off-limits per le osservazioni divertenti. Non sopporta chi è invadente con le sue cameriere, o con chiunque altro; le piace che la gente abbia la sua libertà. Adora il pesce ed essere pulita, e i dolci alla frutta, soprattutto i finger cake croccanti o qualsiasi cosa di simile."
  },
+ "8d0ee7ed97e2": {
+  "en": "<strong>Likes and dislikes:</strong> loves caring for the three children, and helping the business any way she can. Loves Domar recipes and Sanbi fish.",
+  "t": "<strong>Cosa ama e cosa odia:</strong> adora prendersi cura dei tre bambini, e aiutare l'attività in ogni modo possibile. Adora le ricette di Domar e il pesce di Sanbi."
+ },
  "8d2a196d098e": {
   "en": "<strong>Speech:</strong> straightforward but polite (\"We finished the quest. We celebrated. We all spoke our minds. Now it's time for me to say goodbye.\"), unless he suspects you. Never curses.",
   "t": "<strong>Modo di parlare:</strong> diretto ma educato (“Abbiamo finito la missione. Abbiamo festeggiato. Ci siamo detti tutto. Ora è il momento per me di salutarvi.”), a meno che non sospetti di te. Non dice mai parolacce."
@@ -1898,6 +2222,18 @@
  "8e030a4e2e1d": {
   "en": "<strong>Birthday:</strong> 974 A.G. Asa 58th.",
   "t": "<strong>Compleanno:</strong> 58 Asa 974 A.G."
+ },
+ "8e296785e6e7": {
+  "en": "<a href=\"#kianna-tolerideme-whoop-ass\">Kianna</a> and <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>'s second daughter.",
+  "t": "La seconda figlia di <a href=\"#kianna-tolerideme-whoop-ass\">Kianna</a> e <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a>."
+ },
+ "8e6a23660bd9": {
+  "en": "<strong>Habits:</strong> makes eye contact, and responds with her hands and head; likes to sit back with a drink and discuss the possibilities.",
+  "t": "<strong>Abitudini:</strong> guarda negli occhi, e risponde con le mani e la testa; le piace stare comoda con un drink a discutere delle possibilità."
+ },
+ "8edabd7473b7": {
+  "en": "<strong>Habits:</strong> knows how to work her way into people's space when she sees them as a mark, and is cunning in how she approaches them; lots of hand movements, eye contact and smiles.",
+  "t": "<strong>Abitudini:</strong> sa come insinuarsi nello spazio della gente quando la vede come un pollo da spennare, ed è astuta nel modo di avvicinarla; molti movimenti delle mani, contatto visivo e sorrisi."
  },
  "8eeec9e84e70": {
   "en": "That didn't stop people from seeking them out! Their Lonllow recipes were famous for a secret seasoning that brought tart and salty notes into the traditionally sweet Lonllow flavors. Sometimes it caused indigestion, but the exotic flavors, and a particular enthralling high, were so good that people couldn't help themselves and ignored the side effects. No one ever figured out what they did differently, despite many attempts to reproduce the flavor, from analyzing the end product to abducting a family member and forcing them to talk. They weren't big enough for Forway, or anyone else, to take action against, and they were better known among rich folks chasing exotic food than among common people.",
@@ -1962,6 +2298,10 @@
  "91db6dfc4505": {
   "en": "<strong>Strengths:</strong> liberal; pioneering; sympathetic; dynamic; friendly; quick-witted, especially at talking her and her sister out of trouble; positive; stoic.",
   "t": "<strong>Punti di forza:</strong> aperta; pioniera; comprensiva; dinamica; cordiale; pronta di riflessi, soprattutto nel tirare fuori dai guai sé stessa e la sorella; positiva; stoica."
+ },
+ "92506ad7ccd8": {
+  "en": "<strong>Flaws:</strong> crafty; fixed; calculating; uncharitable; attached to her birthplace, and doesn't like to travel.",
+  "t": "<strong>Difetti:</strong> furba; fissa; calcolatrice; poco caritatevole; attaccata al luogo di nascita, e non le piace viaggiare."
  },
  "926582abab1a": {
   "en": "<strong>Strengths:</strong> playful; friendly; enthusiastic; fearless, except with his wife; inventive; relaxed; discreet; sympathetic; not stuck in tradition, yet resolute in helping Gandew and its people, even those kicked down the mountain; helpful; communist.",
@@ -2035,6 +2375,10 @@
   "en": "Her abilities weren't quite up to expectations, but her manipulation skills got her through school at the top of her class. Still early in her career, <a href=\"#eiri-sanbi-royal\">Eiri</a> saw her and hired her on the spot as a near-perfect maid for Sanbi: Eiri found and hired her on 1038 A.G. Asa 77th, and on Asa 83rd Arukia stopped at her parents' place to sleep on the way to the Sanbi Kingdom. It turned out to be a bit more complicated than that, but oh well.",
   "t": "Le sue capacità non erano proprio all'altezza delle aspettative, ma le sue doti di manipolazione la fecero uscire da scuola prima della classe. Ancora agli inizi della carriera, <a href=\"#eiri-sanbi-royal\">Eiri</a> la vide e la assunse su due piedi come cameriera quasi perfetta per Sanbi: Eiri la trovò e la assunse il 77 Asa 1038 A.G., e l'83 Asa Arukia si fermò a dormire dai genitori lungo la strada per il Regno di Sanbi. Si rivelò un po' più complicato di così, ma pazienza."
  },
+ "971e9245e502": {
+  "en": "<strong>Fascinated by:</strong> handsome boys, or big, imposing ones: fat versions of a prince.",
+  "t": "<strong>Affascinata da:</strong> i ragazzi belli, o grandi e imponenti: versioni grasse di un principe."
+ },
  "975b2400ae76": {
   "en": "<strong>Strengths:</strong> conscientious; empathetic; romantic; willing; independent; a busybody.",
   "t": "<strong>Punti di forza:</strong> coscienziosa; empatica; romantica; volenterosa; indipendente; un'impicciona."
@@ -2043,9 +2387,17 @@
   "en": "Eori Sanbi Royal",
   "t": "Eori Sanbi Royal"
  },
+ "98ec5de873ef": {
+  "en": "<strong>Attracted to:</strong> money. If there's a large penis attached to the money bag, then sure, whatever.",
+  "t": "<strong>Attratta da:</strong> i soldi. Se al sacco di soldi è attaccato un grosso cazzo, allora va bene, come vuoi."
+ },
  "99367992f994": {
   "en": "<strong>Flaws:</strong> intrusive; nosy about the drama; sassy.",
   "t": "<strong>Difetti:</strong> invadente; curiosa dei drammi; sfacciata."
+ },
+ "993b33fbb189": {
+  "en": "<strong>Birthday:</strong> 1011 A.G. Adrian 44th.",
+  "t": "<strong>Compleanno:</strong> 44 Adrian 1011 A.G."
  },
  "993e995897a5": {
   "en": "<strong>Race:</strong> Wozefaries.",
@@ -2083,6 +2435,10 @@
   "en": "The 9th Pharaoh, and <a href=\"#neferteri-sanbi-royal\">Neferteri</a>'s father.",
   "t": "Il 9º Faraone, e il padre di <a href=\"#neferteri-sanbi-royal\">Neferteri</a>."
  },
+ "9b87554f1757": {
+  "en": "<strong>Birthday:</strong> 986 A.G. Paulin 34th.",
+  "t": "<strong>Compleanno:</strong> 34 Paulin 986 A.G."
+ },
  "9bf8142446c0": {
   "en": "Born in Sanbi on 1017 A.G. Asa 10th and raised there by parents with a Tier III profession: her mother, <a href=\"#coema-sanbi-half-cruro\">Coema</a>, was the King-maid before her. She loved helping in the kitchen and decided to become a chef (1028 A.G.). At school, she took a few off-the-clock \"cooking lessons\" on how to warm up boys' sausages, and one of the boys was an accountant: she fell in love with accounting instead of the boy, and graduated in both (1036 A.G.). Coema knew she would grow into the role of King-maid and gave her a chance as a maid (1036 A.G.). Thanks to her outstanding knowledge, looks and playfulness, Coema promoted her to King-maid on 1038 A.G. Asa 9th, the day before her birthday. On 1038 A.G. Asa 77th, passing through Forway, she found <a href=\"#arukia-long-bridge\">Arukia</a> and hired her at the drop of a hat.",
   "t": "Nata a Sanbi il 10 Asa 1017 A.G. e cresciuta lì da genitori con un mestiere di Livello III: sua madre, <a href=\"#coema-sanbi-half-cruro\">Coema</a>, era la King-maid prima di lei. Le piaceva aiutare in cucina e decise di diventare chef (1028 A.G.). A scuola, prese qualche “lezione di cucina” fuori orario su come scaldare la salsiccia dei ragazzi, e uno dei ragazzi era un contabile: si innamorò della contabilità invece che del ragazzo, e si diplomò in entrambe (1036 A.G.). Coema sapeva che sarebbe cresciuta fino al ruolo di King-maid e le diede un'occasione come cameriera (1036 A.G.). Grazie alle sue conoscenze eccezionali, al suo aspetto e alla sua giocosità, Coema la promosse King-maid il 9 Asa 1038 A.G., il giorno prima del suo compleanno. Il 77 Asa 1038 A.G., passando per Forway, trovò <a href=\"#arukia-long-bridge\">Arukia</a> e la assunse su due piedi."
@@ -2102,6 +2458,10 @@
  "9d930e63cf64": {
   "en": "66 kg",
   "t": "66 kg"
+ },
+ "9dc3a410ca6a": {
+  "en": "<strong>Intelligence:</strong> emotionally intelligent, but that's about it.",
+  "t": "<strong>Intelligenza:</strong> emotivamente intelligente, ma niente di più."
  },
  "9e1b945a9bdf": {
   "en": "Laramy (986 A.G. Paulin 34th) is a trader born north of Tolerideme in a village called Broken-tree. However, as soon as he was out of the uterus, he was in a wagon traveling around with his merchant parents. The merchant life led him to make friends across the four kingdoms, with some definitely using that friendship to make one-sided trades against him. He doesn't seem to pay much mind to it as he seems to enjoy that life more for the strong wanderlust he developed rather than purely for money. His wife and daughter also picked up the wanderlust, so you will never see them anywhere for more than a week, even at their physical address, which is just a bedroom at Melada's house—Laramy's cousin.",
@@ -2143,6 +2503,10 @@
   "en": "<strong>Strengths:</strong> intelligent; helpful; disciplined; punctual; hardworking; motivating.",
   "t": "<strong>Punti di forza:</strong> intelligente; disponibile; disciplinata; puntuale; gran lavoratrice; motivante."
  },
+ "a115c32b8bb5": {
+  "en": "<strong>Intelligence:</strong> average. Nothing special, other than finding ways to be lazy.",
+  "t": "<strong>Intelligenza:</strong> nella media. Niente di speciale, a parte trovare modi per poltrire."
+ },
  "a132d57d10ae": {
   "en": "In the Stinger armor:",
   "t": "Nell'armatura Stinger:"
@@ -2166,6 +2530,10 @@
  "a25f5366573f": {
   "en": "Laramy's family portrait for Arc 2: a gray-haired man (marked with an arrow), a pink-haired girl and an orange-haired woman.",
   "t": "Il ritratto di famiglia di Laramy per l'Arc 2: un uomo dai capelli grigi (indicato da una freccia), una ragazza con i capelli rosa e una donna con i capelli arancioni."
+ },
+ "a2640c63e4a3": {
+  "en": "<strong>Habits:</strong> keeps her hands to herself, and hides her emotions behind a veil of elegance so no one can peek at her feelings or motives.",
+  "t": "<strong>Abitudini:</strong> tiene le mani a posto, e nasconde le emozioni dietro un velo di eleganza perché nessuno possa sbirciare i suoi sentimenti o i suoi moventi."
  },
  "a2de745206cd": {
   "en": "160 cm",
@@ -2215,6 +2583,14 @@
   "en": "Arukia Sanbi",
   "t": "Arukia Sanbi"
  },
+ "a5c67f9208a5": {
+  "en": "<strong>Strengths:</strong> incisive; persistent; self-confident, with high self-worth; fearless.",
+  "t": "<strong>Punti di forza:</strong> incisiva; tenace; sicura di sé, con un'alta stima di sé; senza paura."
+ },
+ "a666d29d9a1c": {
+  "en": "<strong>Likes and dislikes:</strong> loves Sand Worm, and even Sayna. Loves fish, but says he hates it to jab at Neferteri.",
+  "t": "<strong>Cosa ama e cosa odia:</strong> adora il Sand Worm, e perfino il Sayna. Adora il pesce, ma dice di odiarlo per punzecchiare Neferteri."
+ },
  "a6bd9717fb01": {
   "en": "<strong>Birthday:</strong> 1021 A.G. Paulin 11th.",
   "t": "<strong>Compleanno:</strong> 11 Paulin 1021 A.G."
@@ -2222,6 +2598,10 @@
  "a6dd3d82f03d": {
   "en": "176 cm",
   "t": "176 cm"
+ },
+ "a6f6e456c18a": {
+  "en": "She grew up in Tolerideme in a family of alcohol makers, and met <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a> along the way, becoming his first mate for life. She's always open to new business opportunities, even bad ones, since she's gullible.",
+  "t": "Crebbe a Tolerideme in una famiglia di produttori di alcolici, e conobbe <a href=\"#jimmie-tolerideme-whoop-ass\">Jimmie</a> lungo la strada, diventando la sua prima compagna per la vita. È sempre aperta a nuove opportunità d'affari, anche pessime, perché è credulona."
  },
  "a77c888b717c": {
   "en": "<strong>Attracted to:</strong> she's voracious. Born male, she keeps using nari gels to maintain her cute, feminine appearance.",
@@ -2242,6 +2622,10 @@
  "a807b4ef392e": {
   "en": "Nailah (1004 A.G. Paulin 28th) is a village girl born to Sundeath parents that fled the desert weather. Not many people have seen or talked to her, but they have seen one of her beautifully intricate wood carvings on display somewhere. To be fair, many people assumed it was a pseudonym for another artist rather than someone living in a village called Rebula—why would such a brilliant artist live so far away from the big city? Her answer to that snob question always has been Rebula is where my heart is!",
   "t": "Nailah (28 Paulin 1004 A.G.) è una ragazza di villaggio nata da genitori di Sundeath fuggiti dal clima del deserto. Non in molti l'hanno vista o le hanno parlato, ma hanno visto da qualche parte esposta una delle sue sculture in legno, splendide e intricate. A essere onesti, molti pensavano che fosse lo pseudonimo di un altro artista piuttosto che di qualcuno che vive in un villaggio chiamato Rebula—perché un'artista così brillante dovrebbe vivere così lontano dalla grande città? La sua risposta a quella domanda snob è sempre stata: Rebula è dove sta il mio cuore!"
+ },
+ "a80e154188aa": {
+  "en": "<strong>Flaws:</strong> stuck in his ways, like Hades; dogmatic; pretentious; cunning; deceitful; listless.",
+  "t": "<strong>Difetti:</strong> fermo nelle sue abitudini, come Ade; dogmatico; pretenzioso; scaltro; ingannevole; svogliato."
  },
  "a8b09ac28fb7": {
   "en": "<strong>Birthday:</strong> 1023 A.G. Asa 39th.",
@@ -2266,6 +2650,10 @@
  "a9b40891f43a": {
   "en": "<strong>Myers-Briggs:</strong> INFP.",
   "t": "<strong>Myers-Briggs:</strong> INFP."
+ },
+ "a9be0f209647": {
+  "en": "<strong>Intelligence:</strong> average. Nothing special, other than trying to outsmart people, and likely failing.",
+  "t": "<strong>Intelligenza:</strong> nella media. Niente di speciale, a parte cercare di fregare la gente, e probabilmente fallire."
  },
  "a9f881ac1b59": {
   "en": "He grew up in the nearby villages with strict, hardworking parents, followed in their footsteps and became a woodcutter. He lives in Rebula with <a href=\"#nailah-rebula\">Nailah</a> and their son, <a href=\"#vitor-rebula\">Vitor</a>.",
@@ -2399,6 +2787,14 @@
   "en": "<strong>Likes and dislikes:</strong> hates rich people, the Red Winga and lustful bastards. Likes abusing the nari gels she's given to escape reality.",
   "t": "<strong>Cosa ama e cosa odia:</strong> odia i ricchi, i Red Winga e i bastardi libidinosi. Le piace abusare dei gel nari che le danno per evadere dalla realtà."
  },
+ "b1a5a993c8dc": {
+  "en": "She grew up in Tolerideme and worked various jobs over the years. In 1031 A.G., she had an affair, and a child, with <a href=\"#alford-tolerideme-dirt-lover\">Alford</a>. To keep <a href=\"#luny-tolerideme-dirt-lover\">Luny</a> from finding out, Alford made a deal with <a href=\"#itagiba-sanbi-royal\">Itagiba</a> (and <a href=\"#eiri-sanbi-royal\">Eiri</a>) to get Aurora a job in Sanbi, where she raises her child in secret. Alford visits once in a while for \"business purposes\", both to check on the child and to have fun with Aurora.",
+  "t": "Crebbe a Tolerideme e fece vari lavori negli anni. Nel 1031 A.G., ebbe una relazione, e un figlio, con <a href=\"#alford-tolerideme-dirt-lover\">Alford</a>. Per evitare che <a href=\"#luny-tolerideme-dirt-lover\">Luny</a> lo scoprisse, Alford si accordò con <a href=\"#itagiba-sanbi-royal\">Itagiba</a> (ed <a href=\"#eiri-sanbi-royal\">Eiri</a>) per trovare ad Aurora un lavoro a Sanbi, dove cresce suo figlio in segreto. Alford passa ogni tanto per “motivi d'affari”, sia per vedere come sta il bambino sia per divertirsi con Aurora."
+ },
+ "b2a205f60d72": {
+  "en": "<strong>Strengths:</strong> protective; caring; fearless; brave; friendly, but she protects her interests; hardworking; self-aware; perceptive; mature for her age, thanks to her street smarts; doesn't gossip.",
+  "t": "<strong>Punti di forza:</strong> protettiva; premurosa; senza paura; coraggiosa; cordiale, ma protegge i suoi interessi; gran lavoratrice; consapevole di sé; perspicace; matura per la sua età, grazie alla sua furbizia di strada; non spettegola."
+ },
  "b2e0901c7ef2": {
   "en": "<strong>Flaws:</strong> intolerant; insensitive; tactless; temperamental; cruel; angry.",
   "t": "<strong>Difetti:</strong> intollerante; insensibile; senza tatto; lunatica; crudele; arrabbiata."
@@ -2427,6 +2823,10 @@
   "en": "<strong>Flaws:</strong> reserved; detached; blunt; passive; grim; neurotic; cold.",
   "t": "<strong>Difetti:</strong> riservata; distaccata; brusca; passiva; cupa; nevrotica; fredda."
  },
+ "b463d14c0b8c": {
+  "en": "168 cm",
+  "t": "168 cm"
+ },
  "b46eb2e49d59": {
   "en": "Aggressive",
   "t": "Ostili"
@@ -2446,6 +2846,10 @@
  "b5248466a770": {
   "en": "<strong>Drawn to:</strong> fatherly figures.",
   "t": "<strong>Si affeziona a:</strong> le figure paterne."
+ },
+ "b548da6de48c": {
+  "en": "<strong>Birthday:</strong> 997 A.G. Moacir 73rd.",
+  "t": "<strong>Compleanno:</strong> 73 Moacir 997 A.G."
  },
  "b5719ba8ef06": {
   "en": "<strong>Flaws:</strong> greedy; protective; forgetful.",
@@ -2507,6 +2911,10 @@
   "en": "Vitor (1025 A.G. Asa 2nd) is ready to take Rebula from a random village not even on the map to a city where people would envy to live! He might pull that off one day on spirit alone, but being a homebody and introvert like her mother is not helping him with such an idealistic dream. At least he seems to have inherited both skills from his parents, so maybe it's just a matter of growing up first before tackling his dreams.",
   "t": "Vitor (2 Asa 1025 A.G.) è pronto a trasformare Rebula da un villaggio qualunque che non è nemmeno sulla mappa a una città in cui la gente invidierebbe chi ci vive! Potrebbe riuscirci un giorno con il solo entusiasmo, ma essere casalingo e introverso come la madre non lo aiuta con un sogno così idealista. Almeno sembra aver ereditato le abilità di entrambi i genitori, quindi forse è solo questione di crescere prima di affrontare i suoi sogni."
  },
+ "b88a403f475f": {
+  "en": "<strong>Birthday:</strong> 1039 A.G. Asa 69th: a newborn during the books.",
+  "t": "<strong>Compleanno:</strong> 69 Asa 1039 A.G.: un neonato durante i libri."
+ },
  "b8b0a1f2e9bf": {
   "en": "<strong>Likes and dislikes:</strong> loves Rakujas, fruit and sweets in general, and never misses a chance to barter.",
   "t": "<strong>Cosa ama e cosa odia:</strong> adora i Rakuja, la frutta e i dolci in generale, e non perde mai occasione per barattare."
@@ -2567,6 +2975,10 @@
   "en": "<strong>Intelligence:</strong> not the most intelligent, or rather logical, so he trusts his gut a bit too much. That's why he believes eating Hifuna Yabuca can make him more powerful, even though he knows its effects.",
   "t": "<strong>Intelligenza:</strong> non il più intelligente, o meglio, il più logico, quindi si fida un po' troppo del suo istinto. Per questo crede che mangiare Hifuna Yabuca possa renderlo più potente, anche se ne conosce gli effetti."
  },
+ "c0335ef009c9": {
+  "en": "<strong>Intelligence:</strong> after many years of travel, he knows the roads like the back of his hand. He knows names and faces like no one else, and has friends all over (at least some who act friendly while sizing him up). He doesn't read people's intentions well. He can read contracts and roughly follow them, unless the language gets very detailed.",
+  "t": "<strong>Intelligenza:</strong> dopo molti anni di viaggi, conosce le strade come le sue tasche. Ricorda nomi e facce come nessun altro, e ha amici ovunque (almeno alcuni che fanno gli amichevoli mentre lo squadrano). Non sa leggere bene le intenzioni della gente. Sa leggere i contratti e seguirli più o meno, a meno che il linguaggio non diventi molto dettagliato."
+ },
  "c05815b04459": {
   "en": "<strong>Likes and dislikes:</strong> loves sweets, playing with people's hair, and helping. Doesn't like being called out on something she should know but forgot, and can burst into tears if people keep prodding her.",
   "t": "<strong>Cosa ama e cosa odia:</strong> adora i dolci, giocare con i capelli della gente e dare una mano. Non le piace che le si faccia notare qualcosa che dovrebbe sapere ma ha dimenticato, e può scoppiare in lacrime se la gente continua a punzecchiarla."
@@ -2603,9 +3015,17 @@
   "en": "Posaqui (1023 A.G. Asa 33) is a natural Sanbi, and proud of it. He is known for his grandiose talking, sometimes going on for entire timehunks, especially when people gaslight him to do so. He is an Amethyst adventurer, constantly flashing highly decorated, sparkling weapons that look awfully unused for a supposed adventurer. Perhaps he needs it less because he often talks himself out of combat, or somehow his more diminutive stature allows him to be that extra swift with his weapons—or he illegally subcontracts the work. No one knows for sure, including Forway, after they investigated him for flashing too many new gadgets, makeup, and weapons despite being so picky about the quests he takes. The people that know him assume he dabbles in information trading, given how he's out about traveling non-stop.",
   "t": "Posaqui (33 Asa 1023 A.G.) è un Sanbi nato, e ne va fiero. È noto per i suoi discorsi magniloquenti, che a volte vanno avanti per interi timehunk, soprattutto quando la gente lo manipola per spingerlo a farlo. È un avventuriero Amethyst, che sfoggia continuamente armi riccamente decorate e scintillanti, dall'aria terribilmente inutilizzata per un presunto avventuriero. Forse ne ha meno bisogno perché spesso riesce a evitare il combattimento parlando, o in qualche modo la sua statura più minuta gli permette di essere ancora più rapido con le armi—oppure subappalta illegalmente il lavoro. Nessuno lo sa con certezza, nemmeno Forway, dopo averlo indagato per aver sfoggiato troppi gadget, trucchi e armi nuovi pur essendo così schizzinoso sulle missioni che accetta. Chi lo conosce presume che si diletti nel commercio di informazioni, visto quanto viaggia senza sosta."
  },
+ "c2bedfef9529": {
+  "en": "<strong>Strengths:</strong> quiet; adaptable; diligent; caring; charming; impartial.",
+  "t": "<strong>Punti di forza:</strong> silenziosa; adattabile; diligente; premurosa; affascinante; imparziale."
+ },
  "c2cffc33d611": {
   "en": "<strong>Race:</strong> human and Darfaries.",
   "t": "<strong>Razza:</strong> umana e Darfaries."
+ },
+ "c2e0f4e8d8ea": {
+  "en": "<strong>Speech:</strong> not afraid to talk, but rarely the first to speak: somewhere between her mom and her dad. She doesn't drill people with questions, but asks the ones that bug her point-blank.",
+  "t": "<strong>Modo di parlare:</strong> non ha paura di parlare, ma di rado parla per prima: una via di mezzo tra sua madre e suo padre. Non tempesta la gente di domande, ma fa a bruciapelo quelle che la tormentano."
  },
  "c2f395871aa7": {
   "en": "<strong>Birthday:</strong> 1039 A.G. Paulin 14th (he counts it as his birthday, since he doesn't know his real one).",
@@ -2614,6 +3034,10 @@
  "c3b1a57d33ce": {
   "en": "Melada (1007 A.G. Paulin 101th) describes herself as an entrepreneur, always ready to be the first to smell blood in the water of her enemies and strike head first with her knowledge of many industries and her many, many connections through the four kingdoms. Others succinctly describe her as a lying, thieving cunt. Her makeup is as heavy as her jewelry, and she has been in and out of so many guilds, contracts, investigations, and punishments that it placed measurable stress on Forway's bookkeeping on her. She is also known for gambling away a lot, which might be why she is no longer in Forway. She says that's a lie, and she still goes there all the time, but Toleridemians say otherwise, as they now have to put up with all the crap she's trying to pull, including her sister Honati and niece Dalila who has to come to the rescue every now and then.",
   "t": "Melada (101 Paulin 1007 A.G.) si descrive come un'imprenditrice, sempre pronta a essere la prima a fiutare il sangue nell'acqua dei suoi nemici e a colpire a testa bassa con la sua conoscenza di molti settori e i suoi tanti, tantissimi contatti nei quattro regni. Altri la descrivono in breve come una stronza bugiarda e ladra. Il suo trucco è pesante quanto i suoi gioielli, ed è entrata e uscita da così tante gilde, contratti, indagini e punizioni da mettere sotto uno stress misurabile la contabilità di Forway su di lei. È nota anche per aver perso un sacco al gioco, il che potrebbe essere il motivo per cui non è più a Forway. Lei dice che è una bugia e che ci va ancora di continuo, ma i Toleridemiani dicono il contrario, perché ora devono sopportare tutte le stronzate che cerca di combinare, compresa sua sorella Honati e la nipote Dalila, che deve correre in suo soccorso ogni tanto."
+ },
+ "c4180d2346d0": {
+  "en": "<strong>Intelligence:</strong> extremely high when it comes to farming; average to low on everything else.",
+  "t": "<strong>Intelligenza:</strong> altissima quando si tratta di agricoltura; da media a bassa su tutto il resto."
  },
  "c418385dd11f": {
   "en": "<strong>Strengths:</strong> flexible; cat-like reflexes, for a Buhraies; simple-minded; quiet; uncomplaining; capable; a survivor; sensitive; shy.",
@@ -2627,9 +3051,21 @@
   "en": "<strong>Intelligence:</strong> knows a great deal about the intricacies of the law, and always tries to learn more. The same can't be said for street smarts, or for reading the thoughts behind people's words.",
   "t": "<strong>Intelligenza:</strong> conosce benissimo i meandri della legge, e cerca sempre di imparare di più. Non si può dire lo stesso della furbizia di strada, né del saper leggere i pensieri dietro le parole della gente."
  },
+ "c46e27ecddaa": {
+  "en": "<strong>Birthday:</strong> 1034 A.G. Adrian 34th.",
+  "t": "<strong>Compleanno:</strong> 34 Adrian 1034 A.G."
+ },
+ "c47a6d3a33b7": {
+  "en": "<strong>Drawn to:</strong> dependable father figures.",
+  "t": "<strong>Si affeziona a:</strong> figure paterne affidabili."
+ },
  "c4bc73cf6a40": {
   "en": "<strong>Intelligence:</strong> very smart and systematic in her nari gel experiments, but she needs a catalyst to push her mind and will forward, or she stalls and barely progresses. She can cook like no other and likes it, but Neferteri suppressed that, since a princess shouldn't be making food; having others cook for her became natural. So having <a href=\"#harry-sanbi\">Harry</a> under her control, doing everything to please her (he did the cooking in the lab), was very enticing to her narcissistic brain. She needs an outlet for her creativity.",
   "t": "<strong>Intelligenza:</strong> molto intelligente e sistematica nei suoi esperimenti con i gel nari, ma le serve un catalizzatore che spinga avanti la sua mente e la sua volontà, altrimenti si blocca e progredisce a malapena. Sa cucinare come nessun altro e le piace, ma Neferteri lo ha represso, visto che una principessa non dovrebbe preparare il cibo; farsi cucinare dagli altri le è diventato naturale. Così avere <a href=\"#harry-sanbi\">Harry</a> sotto il suo controllo, a fare di tutto per compiacerla (era lui a cucinare in laboratorio), era molto allettante per il suo cervello narcisista. Ha bisogno di uno sfogo per la sua creatività."
+ },
+ "c4f8aaebcf9d": {
+  "en": "Born and raised in Broken-Tree, in a family of friendly traveling merchants, he spent his life on the road, and met <a href=\"#honati-broken-tree\">Honati</a> later in life, in Forway.",
+  "t": "Nato e cresciuto a Broken-Tree, in una famiglia di mercanti ambulanti cordiali, passò la vita in viaggio, e conobbe <a href=\"#honati-broken-tree\">Honati</a> più avanti negli anni, a Forway."
  },
  "c547dab994fc": {
   "en": "<strong>Flaws:</strong> distrustful, putting up a barrier with people she doesn't know; immature, especially emotionally; secretive; cold, for the same reasons; hangry, especially after a bad night's sleep.",
@@ -2679,6 +3115,10 @@
   "en": "<strong>Flaws:</strong> stoic; uncaring; lazy; dependent on Steen: he loves the stuff too much and chews it all day long.",
   "t": "<strong>Difetti:</strong> stoico; indifferente; pigro; dipendente dallo Steen: lo adora troppo e lo mastica tutto il giorno."
  },
+ "c82d3b6027e7": {
+  "en": "<strong>Habits:</strong> either doing something farming-related or completely laid back, with no in-between; clears his throat a lot.",
+  "t": "<strong>Abitudini:</strong> o sta facendo qualcosa che ha a che fare con l'agricoltura o è completamente rilassato, senza vie di mezzo; si schiarisce spesso la gola."
+ },
  "c83ab3969ab9": {
   "en": "<strong>Habits:</strong> aggressive movements; looks people in the eye with certainty, or away in disgust. When her sister is in the room, she seems put in her place; when she isn't, Maiara tries to be more visible, and more like her sister, but it never quite works, since it always seems forced.",
   "t": "<strong>Abitudini:</strong> movimenti aggressivi; guarda la gente negli occhi con sicurezza, o distoglie lo sguardo disgustata. Quando sua sorella è nella stanza, sembra messa al suo posto; quando non c'è, Maiara cerca di farsi notare di più, e di somigliare di più a sua sorella, ma non funziona mai del tutto, perché sembra sempre forzato."
@@ -2718,6 +3158,10 @@
  "ca676986aa25": {
   "en": "Lofinghy Sanbi Forway Aquamarine-General",
   "t": "Lofinghy Sanbi Forway Aquamarine-General"
+ },
+ "ca760fece128": {
+  "en": "<strong>Attracted to:</strong> money, and powerful men.",
+  "t": "<strong>Attratta da:</strong> i soldi, e gli uomini potenti."
  },
  "cb58b3e048c2": {
   "en": "Born in Crossroads as Maicon Crossroads Black-Dove (he updated his badge to Forway Black-Dove as an adult), he grew up among the city's elite and their way of life, and now tries to raise his status and wealth by any means possible. He's infamous at the <a href=\"/lore/factions/#red-winga\">Red Winga</a> as a \"twink\" kind of guy. They hate his guts, but every time he surfaces he has new information on someone, so he's quite useful.",
@@ -2775,6 +3219,10 @@
   "en": "<strong>Birthday:</strong> 1012 A.G. Asa 24th.",
   "t": "<strong>Compleanno:</strong> 24 Asa 1012 A.G."
  },
+ "cf8370f5f219": {
+  "en": "<strong>Intelligence:</strong> quite smart with Soul Energy interfaces, and she has picked up some farming knowledge from Alford by osmosis.",
+  "t": "<strong>Intelligenza:</strong> piuttosto sveglia con le interfacce di Energia dell'anima, e ha assorbito per osmosi un po' di conoscenze agricole da Alford."
+ },
  "cfb51346348d": {
   "en": "20 (soul capacity: 1)",
   "t": "20 (capacità dell'anima: 1)"
@@ -2782,6 +3230,10 @@
  "cfdf56c937e9": {
   "en": "<strong>Kiko (1018 A.G. Adrian 37th)</strong> is an entrepreneur known for founding the Half-cruro and bringing it from nothing into one of the biggest, at least in terms of raw size, guilds in the Sanbi kingdom. Some have accused his guild contracts of violating The Prosperity Treaty Section #4 Sub 1 &amp; 3 for making the contract lopsided in benefitting the guild. However, Forway officials have stated that the fact it grants a pathway for Cruros to flee the tribes and become proper kingdom citizens is a fair exchange for lifelong servitude at cheap rates.",
   "t": "<strong>Kiko (37 Adrian 1018 A.G.)</strong> è un imprenditore noto per aver fondato gli Half-cruro e averli portati dal nulla a essere una delle gilde più grandi, almeno in termini di pure dimensioni, del Regno di Sanbi. Alcuni hanno accusato i contratti della sua gilda di violare il Trattato della Prosperità, Sezione #4 Comma 1 &amp; 3, perché sbilanciati a vantaggio della gilda. Però i funzionari di Forway hanno dichiarato che il fatto che offrano ai Cruros una via per fuggire dalle tribù e diventare veri cittadini del regno è uno scambio equo per una servitù a vita a tariffe basse."
+ },
+ "d01c0b96ac95": {
+  "en": "<strong>Intelligence:</strong> street smarts; she can haggle like nobody else, and knows a lot about the world from traveling with her parents.",
+  "t": "<strong>Intelligenza:</strong> furbizia di strada; sa contrattare come nessun altro, e sa molto del mondo per aver viaggiato con i genitori."
  },
  "d03383d21af7": {
   "en": "Her parents came from Sundeath and ended up in a village nearby. She married a man from a local village too, <a href=\"#severino-rebula\">Severino</a>, and they had a son, <a href=\"#vitor-rebula\">Vitor</a>. Life is simple, but good.",
@@ -2831,6 +3283,10 @@
   "en": "<strong>Attracted to:</strong> Darfaries women, especially younger ones.",
   "t": "<strong>Attratto da:</strong> le donne Darfaries, soprattutto quelle più giovani."
  },
+ "d2ca384f04a7": {
+  "en": "<strong>Attracted to:</strong> gentle older men.",
+  "t": "<strong>Attratta da:</strong> uomini più anziani e gentili."
+ },
  "d3251eba2155": {
   "en": "<strong>Race:</strong> Cruro.",
   "t": "<strong>Razza:</strong> Cruro."
@@ -2850,6 +3306,10 @@
  "d35973ca155c": {
   "en": "<strong>Strengths:</strong> active, always on to the next item on her endless to-do list; honest; energetic; sporting; self-confident; witty; skillful; well-rounded; somewhat mature about her feelings, but too self-indulgent.",
   "t": "<strong>Punti di forza:</strong> attiva, sempre alla voce successiva della sua infinita lista di cose da fare; onesta; energica; sportiva; sicura di sé; arguta; abile; versatile; abbastanza matura riguardo ai suoi sentimenti, ma troppo indulgente con sé stessa."
+ },
+ "d37ecd011c94": {
+  "en": "<strong>Habits:</strong> touchy, especially with people she thinks need help.",
+  "t": "<strong>Abitudini:</strong> appiccicosa, soprattutto con chi pensa abbia bisogno di aiuto."
  },
  "d3891ec6db4f": {
   "en": "<strong>Attracted to:</strong> Darfaries men: strong, resolute and powerful.",
@@ -2915,6 +3375,10 @@
   "en": "<strong>Intelligence:</strong> keenly aware of the history of the Gandew Kingdom and its citizens. Nothing else matters to her.",
   "t": "<strong>Intelligenza:</strong> conosce a fondo la storia del Regno di Gandew e dei suoi cittadini. Nient'altro le importa."
  },
+ "d8784843c906": {
+  "en": "<strong>Birthday:</strong> 997 A.G. Asa 64th.",
+  "t": "<strong>Compleanno:</strong> 64 Asa 997 A.G."
+ },
  "d88cbce8a3a5": {
   "en": "<strong>Birthday:</strong> 1029 A.G. Paulin 7th.",
   "t": "<strong>Compleanno:</strong> 7 Paulin 1029 A.G."
@@ -2927,6 +3391,10 @@
   "en": "<strong>Attracted to:</strong> humans: charming, jovial and dependent, who care about her more than anyone else.",
   "t": "<strong>Attratta da:</strong> gli umani: affascinanti, gioviali e dipendenti, che tengano a lei più che a chiunque altro."
  },
+ "d9556cb6adfd": {
+  "en": "<strong>Fascinated by:</strong> big women (starting with his mother's milk).",
+  "t": "<strong>Affascinato da:</strong> le donne grosse (a cominciare dal latte di sua madre)."
+ },
  "da47d2e6534d": {
   "en": "Ryo Flatland Long-Blue",
   "t": "Ryo Flatland Long-Blue"
@@ -2934,6 +3402,14 @@
  "da52efd04974": {
   "en": "Jonem: a boy with short blue hair in a long gray-green cloak.",
   "t": "Jonem: un ragazzo con i capelli blu corti in un lungo mantello grigio-verde."
+ },
+ "da618e3d258e": {
+  "en": "<strong>Intelligence:</strong> not as smart as she seems, especially in math-heavy deals. She can bend people to her will, but her lack of foresight means she can be played like a fiddle; she thinks too highly of herself.",
+  "t": "<strong>Intelligenza:</strong> non intelligente quanto sembra, soprattutto negli affari pieni di calcoli. Sa piegare la gente alla sua volontà, ma per mancanza di lungimiranza può essere suonata come un violino; ha un'opinione troppo alta di sé."
+ },
+ "da8bfb6f0116": {
+  "en": "<strong>Flaws:</strong> secretive and fake: she seems caring, but isn't; no foresight, only short-term goals; grumpy behind closed doors when her mascara isn't on; a gambler; greedy; lazy; narcissistic; ruthless; uncaring; extravagant; manipulative; cunning; calculating; dishonest; disloyal.",
+  "t": "<strong>Difetti:</strong> riservata e falsa: sembra premurosa, ma non lo è; nessuna lungimiranza, solo obiettivi a breve termine; scontrosa a porte chiuse quando non ha il mascara; una giocatrice d'azzardo; avida; pigra; narcisista; spietata; indifferente; stravagante; manipolatrice; scaltra; calcolatrice; disonesta; sleale."
  },
  "dad7a8452b79": {
   "en": "<strong>Intelligence:</strong> very good at seeing every possible outcome from what she knows, and even the second-best options, so no chance goes unused. She'll fight with all her strength for what she wants.",
@@ -3107,6 +3583,10 @@
   "en": "<strong>Flaws:</strong> abrasive; arrogant; boastful; self-indulgent; temperamental; not detail-oriented; truculent.",
   "t": "<strong>Difetti:</strong> abrasivo; arrogante; spaccone; indulgente con sé stesso; lunatico; poco attento ai dettagli; aggressivo."
  },
+ "e4d217cac809": {
+  "en": "<strong>Birthday:</strong> 1007 A.G. Paulin 101st.",
+  "t": "<strong>Compleanno:</strong> 101 Paulin 1007 A.G."
+ },
  "e4f5bb453099": {
   "en": "<strong>Likes and dislikes:</strong> loves a fight, or any competition, but only when there's an interesting fight to be had. Hates anyone who gets in her way, and having to deal with pathetic pussies. Likes strong drinks.",
   "t": "<strong>Cosa ama e cosa odia:</strong> adora una bella lotta, o qualsiasi competizione, ma solo quando c'è una lotta interessante da fare. Odia chiunque le sbarri la strada, e dover avere a che fare con delle patetiche fighette. Le piacciono i drink forti."
@@ -3122,6 +3602,10 @@
  "e5740988e7d2": {
   "en": "<strong>Habits:</strong> writes while others talk, and waves his notebook around for attention if nobody is \"listening\" to him.",
   "t": "<strong>Abitudini:</strong> scrive mentre gli altri parlano, e sventola il suo taccuino per attirare l'attenzione se nessuno lo sta “ascoltando”."
+ },
+ "e58f949fbd1e": {
+  "en": "<strong>Likes and dislikes:</strong> anything he hasn't tasted or drunk before is an immediate yes. Loves meeting people; hates arguments and fights.",
+  "t": "<strong>Cosa ama e cosa odia:</strong> qualsiasi cosa non abbia mai mangiato o bevuto è un sì immediato. Adora conoscere gente; odia le discussioni e le liti."
  },
  "e5d461104cf8": {
   "en": "<strong>Binaata</strong> is his full name; Biny is a nickname. Born in Forway to parents who lived paycheck to paycheck, he had to start working early and figure out what he wanted to do with his life. He never felt adventuring was his thing, so he worked his ass off at a desk job doing grunt work in the black castle. He saved enough to open a guild that takes on adventurers and invests in them, in exchange for 30% of every quest they do, with at least 2 quests a week (exceptions depend on the quest and its payout). He can advise on what quests a given adventurer should or can take, or even give insider tips on the best quests about to become available.",
@@ -3211,6 +3695,10 @@
   "en": "Bagarisa",
   "t": "Bagarisa"
  },
+ "ebd4393b8521": {
+  "en": "<strong>Birthday:</strong> 1027 A.G. Asa 17th.",
+  "t": "<strong>Compleanno:</strong> 17 Asa 1027 A.G."
+ },
  "ec2a2d29b90d": {
   "en": "<strong>Attracted to:</strong> a muscly man who can go mano a mano with her and keep up with her pace.",
   "t": "<strong>Attratta da:</strong> un uomo muscoloso che sappia affrontarla corpo a corpo e tenere il suo ritmo."
@@ -3243,6 +3731,10 @@
   "en": "Sanbi Villages",
   "t": "Villaggi di Sanbi"
  },
+ "ef1a695aebc0": {
+  "en": "<strong>Speech:</strong> loving, and she likes to talk, often reminiscing out loud. She gets a bit too chatty at times and can irritate some people, though she means well, but she usually notices and saves the situation by changing the subject or softening her words so the other person gets less defensive or snappy.",
+  "t": "<strong>Modo di parlare:</strong> affettuoso, e le piace parlare, spesso rievocando ricordi ad alta voce. A volte diventa un po' troppo chiacchierona e può irritare qualcuno, anche se lo fa a fin di bene, ma di solito se ne accorge e salva la situazione cambiando argomento o ammorbidendo le parole perché l'altra persona diventi meno difensiva o scontrosa."
+ },
  "ef2c7c7548de": {
   "en": "<strong>Intelligence:</strong> smart enough, but her narrow-minded drive to be her sister is slowly chipping away at her sanity and her sense of self.",
   "t": "<strong>Intelligenza:</strong> abbastanza intelligente, ma la sua ostinazione cieca nel voler essere sua sorella le sta lentamente intaccando la sanità mentale e il senso di sé."
@@ -3258,6 +3750,10 @@
  "ef5062215353": {
   "en": "<strong>Strengths:</strong> helpful; active; productive; passionate; stern; empathetic; encouraging; idealistic; stoic; valiant; a sense of justice.",
   "t": "<strong>Punti di forza:</strong> disponibile; attivo; produttivo; appassionato; severo; empatico; incoraggiante; idealista; stoico; valoroso; un senso della giustizia."
+ },
+ "ef515c524367": {
+  "en": "<strong>Attracted to:</strong> her brother Gamal, since he's what feeds her Soul Energy.",
+  "t": "<strong>Attratta da:</strong> suo fratello Gamal, perché è lui che nutre la sua Energia dell'anima."
  },
  "ef63828f1e05": {
   "en": "151 cm",
@@ -3291,6 +3787,14 @@
   "en": "He plunged into a life of crime, and one day found a Walking Heart stone that melded with him perfectly. He didn't know the extent of its effects, though, and it has permanently changed him. With no going back, he kept expanding the Blue Wozens to hoard more shit, while trying to control his bursts of anger so the stone doesn't take him over completely. He has since lost track of why he founded the Blue Wozens in the first place.",
   "t": "Si buttò in una vita di crimine, e un giorno trovò una pietra Walking Heart che si fuse perfettamente con lui. Non conosceva però la portata dei suoi effetti, e lo ha cambiato per sempre. Senza possibilità di tornare indietro, ha continuato ad allargare i Blue Wozens per accumulare altra roba, cercando di controllare i suoi scoppi d'ira perché la pietra non prenda completamente il sopravvento. Da allora ha perso di vista il motivo per cui aveva fondato i Blue Wozens."
  },
+ "f1c6bcc42788": {
+  "en": "<strong>Strengths:</strong> enthusiastic; enterprising; versatile; amicable; knowledgeable; imaginative; fussy about his farming, to a fault.",
+  "t": "<strong>Punti di forza:</strong> entusiasta; intraprendente; versatile; amichevole; competente; fantasioso; pignolo sulla sua agricoltura, fin troppo."
+ },
+ "f1de39a9b029": {
+  "en": "<strong>Flaws:</strong> shy about relationships; lazy about everything else; narrow-minded.",
+  "t": "<strong>Difetti:</strong> timido nelle relazioni; pigro su tutto il resto; di mentalità ristretta."
+ },
  "f1fc2ab2323e": {
   "en": "<strong>Strengths:</strong> open-minded about deals; a listener; fair; daring; unassuming; uncomplaining; versatile; respectable; a negotiator; level-headed.",
   "t": "<strong>Punti di forza:</strong> di larghe vedute sugli affari; uno che ascolta; giusto; audace; senza pretese; non si lamenta; versatile; rispettabile; un negoziatore; equilibrato."
@@ -3298,6 +3802,10 @@
  "f32c3c90affb": {
   "en": "<strong>Habits:</strong> keeps her gloves on most of the time, but takes them off when dealing with people, especially to help them. Anxious: she wants to care for people, first and foremost, and may bite her nails when too many thoughts cloud her mind, one of the reasons she wears gloves. Her body hints at her emotions like an open book. Remembers things at odd times. Phantasia. Imitates some of the people she's close to.",
   "t": "<strong>Abitudini:</strong> tiene i guanti quasi sempre, ma se li toglie quando ha a che fare con le persone, soprattutto per aiutarle. Ansiosa: vuole prendersi cura delle persone, prima di tutto, e può mangiarsi le unghie quando troppi pensieri le annebbiano la mente, uno dei motivi per cui porta i guanti. Il suo corpo lascia intuire le sue emozioni come un libro aperto. Si ricorda delle cose nei momenti più strani. Fantasia visiva. Imita alcune delle persone a cui è vicina."
+ },
+ "f32d74573386": {
+  "en": "<strong>Likes and dislikes:</strong> loves food of all kinds and shapes; she'd eat her weight every day if she could. Dislikes people who try to take advantage of her, or of the people around her, and hates losing trust in someone she once trusted.",
+  "t": "<strong>Cosa ama e cosa odia:</strong> adora il cibo di ogni tipo e forma; mangerebbe il suo peso ogni giorno se potesse. Non sopporta chi cerca di approfittarsi di lei, o delle persone intorno a lei, e odia perdere la fiducia in qualcuno di cui un tempo si fidava."
  },
  "f385babd2d0c": {
   "en": "He once wore a Sweet Sting costume to gather Black Honey, and it felt so empowering that he saved for about a year and a half to have a unique, chitin-looking armor made, which makes up for his slow reflexes and hides his face. People are trying to figure out who this crazy warrior is, and nobody knows it's Morika: in the armor, he becomes another persona, <a href=\"#the-stinger\">The Stinger</a>.",
@@ -3323,6 +3831,10 @@
   "en": "<strong>Strengths:</strong> persuasive; charming; beautiful; girly; trustworthy; energetic.",
   "t": "<strong>Punti di forza:</strong> persuasiva; affascinante; bella; femminile; affidabile; energica."
  },
+ "f4ef07e38aad": {
+  "en": "<strong>Speech:</strong> \"My mother is…\": she makes up for her age by flaunting everything her parents do.",
+  "t": "<strong>Modo di parlare:</strong> “Mia madre è…”: compensa la sua età ostentando tutto ciò che fanno i suoi genitori."
+ },
  "f4f0bdaceeac": {
   "en": "<strong>Intelligence:</strong> many years of experience in cooking, and in life in general; life has taught him to recognize the good and bad in people.",
   "t": "<strong>Intelligenza:</strong> molti anni di esperienza in cucina, e nella vita in generale; la vita gli ha insegnato a riconoscere il buono e il cattivo nelle persone."
@@ -3330,6 +3842,10 @@
  "f4f81377f19a": {
   "en": "Arc 2 inset",
   "t": "Riquadro dell'Arco 2"
+ },
+ "f50ad85c2c18": {
+  "en": "<strong>Flaws:</strong> opinionated; jealous; bossy; blunt.",
+  "t": "<strong>Difetti:</strong> supponente; gelosa; prepotente; brusca."
  },
  "f53b0fda280e": {
   "en": "<strong>Flaws:</strong> lustful; secretive; passive with his wife; too self-conscious at times, especially about keeping his secrets from leaking.",
@@ -3431,9 +3947,17 @@
   "en": "Katsuki Flatland Long-Blue",
   "t": "Katsuki Flatland Long-Blue"
  },
+ "fc8f4ee78485": {
+  "en": "<strong>Attracted to:</strong> faithful, loving men who are kind by nature: more than just looks.",
+  "t": "<strong>Attratta da:</strong> uomini fedeli e amorevoli, gentili per natura: più che il solo aspetto."
+ },
  "fc9d370c6604": {
   "en": "Laura: a woman with dark green hair in a long red dress with white trim, holding a small trinket.",
   "t": "Laura: una donna con i capelli verde scuro in un lungo abito rosso con bordi bianchi, che regge un piccolo ninnolo."
+ },
+ "fcae9f902a85": {
+  "en": "<strong>Strengths:</strong> straight to the point; decisive; daring; likes to have everything in hand, or nearby.",
+  "t": "<strong>Punti di forza:</strong> dritto al punto; deciso; audace; gli piace avere tutto a portata di mano, o vicino."
  },
  "fcb609cb62e8": {
   "en": "<strong>Habits:</strong> smiles; friendly, but reserved with physical contact; some of <a href=\"#neferteri-sanbi-royal\">Neferteri</a>'s elegance, but warmer and more sincere. Her eyes wander as her brain works out the bigger picture.",
@@ -3462,6 +3986,10 @@
  "fe3ae2010ce0": {
   "en": "Nina Sanbi Royal",
   "t": "Nina Sanbi Royal"
+ },
+ "fe5abbdd1aee": {
+  "en": "<strong>Strengths:</strong> a bit more ambitious than Laramy; playful; loyal; loving; intuitive; straightforward; enthusiastic; quick on her feet, rolling with the punches; a bit of wanderlust.",
+  "t": "<strong>Punti di forza:</strong> un po' più ambiziosa di Laramy; giocosa; leale; affettuosa; intuitiva; diretta; entusiasta; svelta, incassa e va avanti; un pizzico di voglia di viaggiare."
  },
  "fe69c9a5c32d": {
   "en": "Katsumi: two outfits of a smiling woman with short purple hair, a red top and skirt and a purple-and-white kimono-style dress.",
