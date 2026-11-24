@@ -1,4 +1,8 @@
 {
+ "00b4fa5c6d2d": {
+  "en": "Used to make beer, bread, and everything in between.",
+  "t": "맥주, 빵, 그리고 그 사이의 모든 것을 만드는 데 쓴다."
+ },
  "01f1130763dc": {
   "en": "Tastyleaf: a huge tree with pale-blue leaves and a twisted dark trunk.",
   "t": "테이스티리프: 연한 파란 잎과 비틀린 짙은 줄기를 가진 거대한 나무."
@@ -19,6 +23,10 @@
   "en": "<strong>Tier II (Common Goods):</strong> flowers, mushrooms and roots.",
   "t": "<strong>II등급 (흔한 상품):</strong> 꽃, 버섯, 뿌리."
  },
+ "06f8b86becdf": {
+  "en": "<strong>Bread</strong>: It’s bread, with a texture close to French bread.",
+  "t": "<strong>빵</strong>: 빵이다. 식감은 바게트에 가깝다."
+ },
  "095e6988b83b": {
   "en": "<strong>Lonllow Juice</strong>: Kind of good; better in vitamin shakes.",
   "t": "<strong>론로 주스</strong>: 그럭저럭 좋다. 비타민 셰이크에 넣으면 더 낫다."
@@ -31,21 +39,53 @@
   "en": "<strong>Habitat:</strong> Around Blood City and Freeish, and hardly anywhere else in the kingdoms. They are lone trees that sprout from small, colorful seeds. Trunk People love to live on them.",
   "t": "<strong>서식지:</strong> 블러드 시와 프리이시 주변. 왕국들의 다른 곳에서는 거의 없다. 작고 알록달록한 씨앗에서 싹트는 홀로 선 나무다. 트렁크 피플이 여기서 살기를 좋아한다."
  },
+ "0ba6664b41ca": {
+  "en": "<strong>Dried Gyut</strong>: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack.",
+  "t": "<strong>말린 귯</strong>: 비축 식량, 다른 왕국 판매, 제빵용, 또는 길에서 먹는 간식으로 만든다."
+ },
+ "0bd6bc703016": {
+  "en": "<strong>Ale</strong>: Like beer, but slightly stronger.",
+  "t": "<strong>에일</strong>: 맥주 같지만 조금 더 독하다."
+ },
+ "0d96598d1fa5": {
+  "en": "<strong>Child Beer</strong>: A weak, mildly sweet and very nutritious beer meant for children. (Real-world comparison: <a href=\"https://en.wikipedia.org/wiki/Small_beer\" rel=\"noopener\">small beer</a>, the weak beer once drunk daily by children and adults alike.)",
+  "t": "<strong>어린이 맥주</strong>: 아이들을 위한, 약하고 은은하게 달며 영양가가 아주 높은 맥주. (실제 세계와 비교하면: <a href=\"https://en.wikipedia.org/wiki/Small_beer\" rel=\"noopener\">스몰 비어</a>. 한때 아이 어른 할 것 없이 날마다 마시던 약한 맥주다.)"
+ },
+ "10b51080bea5": {
+  "en": "<strong>Domar Child Beer</strong>: A weak, mildly sweet and very nutritious beer meant for children. (Real-world comparison: <a href=\"https://en.wikipedia.org/wiki/Small_beer\" rel=\"noopener\">small beer</a>, the weak beer once drunk daily by children and adults alike.)",
+  "t": "<strong>도마르 어린이 맥주</strong>: 아이들을 위한, 약하고 은은하게 달며 영양가가 아주 높은 맥주. (실제 세계와 비교하면: <a href=\"https://en.wikipedia.org/wiki/Small_beer\" rel=\"noopener\">스몰 비어</a>. 한때 아이 어른 할 것 없이 날마다 마시던 약한 맥주다.)"
+ },
  "10d6fee23412": {
   "en": "<strong>Habitat:</strong> ~0–1 km above sea level. Some variety grows everywhere, but the Yabuca people want (the Yabuca variety, also called the traditional variety) is only found in the south, where it is farmed intensively in the Freeish Kingdom.",
   "t": "<strong>서식지:</strong> 해발 ~0~1km. 어떤 품종이든 어디서나 자라지만, 사람들이 원하는 야부카(야부카 품종, 전통 품종이라고도 한다)는 남쪽에서만 나고, 프리이시 왕국에서 집중적으로 재배한다."
+ },
+ "10f91c529df0": {
+  "en": "<strong>Breadplate</strong>: Bread used as a plate; often eaten afterward or given to the poor.",
+  "t": "<strong>빵 접시</strong>: 접시로 쓰는 빵. 다 쓰고 나서 먹거나 가난한 사람들에게 주는 일이 많다."
  },
  "11311ca4a1d2": {
   "en": "Steen: a narrow, tall green conifer-like plant with a spiky leaf rosette shown above.",
   "t": "스틴: 위쪽에 가시 돋친 잎 로제트가 그려진, 가늘고 키 큰 초록 침엽수 같은 식물."
  },
+ "11b81bada804": {
+  "en": "<strong>Fried Cadioca</strong>: A popular food throughout the kingdoms, also invented in the Freeish Kingdom.",
+  "t": "<strong>카디오카 튀김</strong>: 왕국들 전역에서 인기 있는 음식으로, 이것도 프리이시 왕국에서 만들어졌다."
+ },
  "1207e16ead81": {
   "en": "<strong>Interface:</strong> Transparent petals.",
   "t": "<strong>인터페이스:</strong> 투명한 꽃잎."
  },
+ "1298326dd399": {
+  "en": "<strong>Tastes like:</strong> Carbey, with hints of Parmesan cheese.",
+  "t": "<strong>맛:</strong> 파르메산 치즈 기운이 도는 카베이."
+ },
  "12a81303cac9": {
   "en": "Basi berries are gathered and then beaten down mechanically to separate the flesh into a thick pulp akin to petroleum jelly. The dark thick pulp comes with an earthy, slightly bitter taste akin to mixing 80% dark chocolate and blackberry with a tinge of red huckleberry, and it's a food staple on Freeish Kingdom. Folks over there eat it with literally everything, pairing it with grilled or fried fish, dried jerky, and even adding sugar and ice cubes and eating it as a dessert. It is also quite heavy on fiber, which explains why the Freeish Kingdom basically grinds to a halt for a bit after lunch and dinner! Other kingdoms likely don't partake much in that cuisine as the basi pulp only tastes good fresh, and as soon as you refrigerate or freeze it, the flavor breaks down to tasting like dirt.",
   "t": "바시 열매는 따서 기계로 두드려 과육을 바셀린 같은 걸쭉한 펄프로 분리한다. 짙고 걸쭉한 이 펄프는 흙내음이 나고 살짝 쓴 맛인데, 80% 다크 초콜릿과 블랙베리를 섞고 빨간 허클베리를 살짝 더한 것 같은 맛이며, 프리이시 왕국의 주식이다. 그곳 사람들은 말 그대로 모든 것과 함께 먹는다. 구운 생선이나 튀긴 생선, 말린 육포와 곁들이고, 설탕과 얼음을 넣어 디저트로 먹기까지 한다. 섬유질도 꽤 많아서, 프리이시 왕국이 점심과 저녁 식사 후 한동안 사실상 멈춰 버리는 이유가 설명된다! 다른 왕국들은 아마 이 요리를 별로 먹지 않을 거다. 바시 펄프는 신선할 때만 맛있고, 냉장하거나 얼리는 순간 맛이 무너져 흙 맛이 나니까."
+ },
+ "140036d902d2": {
+  "en": "A bushy plant that grows in the wild.",
+  "t": "야생에서 자라는 덤불 식물."
  },
  "14c4cfe385d1": {
   "en": "Emerenthy or methyl for some, is a common plant in the forests of Freeish. Mostly known for offering a bit of light at night for people and animals in the forest. Some say that if Trunk people like you, they will get the methyl to guide you. Others think it's egua shit and that they only exist to attract insects to feed on its sweet nectar. You can also rip them off the ground and shake them as an emergency torch, but they don’t last that long. But if you collect enough of them, you can use them as a fibrous addition to any meal, like celery.",
@@ -59,6 +99,10 @@
   "en": "Hifuna Yabuca Fruit",
   "t": "히푸나 야부카 열매"
  },
+ "17da56d7c677": {
+  "en": "<strong>Tastes like:</strong> Mushroomy apples.",
+  "t": "<strong>맛:</strong> 버섯 맛 나는 사과."
+ },
  "185d2f4a935b": {
   "en": "Flora",
   "t": "식물"
@@ -70,6 +114,10 @@
  "1b3b8bddf67d": {
   "en": "<strong>Dried Cocona</strong>: Sold to other kingdoms, eaten on the road, as a snack, etc. Like the water, it comes in several colors.",
   "t": "<strong>말린 코코나</strong>: 다른 왕국에 팔거나, 길에서 먹거나, 간식 등으로 먹는다. 즙처럼 여러 색이 있다."
+ },
+ "1c4db7e6b26b": {
+  "en": "<strong>Tastes like:</strong> Wheat.",
+  "t": "<strong>맛:</strong> 밀."
  },
  "1d7b53b93269": {
   "en": "<strong>Buzeta Hard Juice</strong>: Fermented juice.",
@@ -87,6 +135,10 @@
   "en": "<strong>Growth:</strong> One bush gives ~1 kg of berries per harvest season.",
   "t": "<strong>성장:</strong> 덤불 하나가 수확철마다 열매를 ~1kg 낸다."
  },
+ "22ee8bfd082b": {
+  "en": "<strong>Tastes like:</strong> Blood Oranges.",
+  "t": "<strong>맛:</strong> 블러드 오렌지."
+ },
  "2304e6e254bf": {
   "en": "Greenbread Fruit",
   "t": "그린브레드 열매"
@@ -103,6 +155,10 @@
   "en": "Lakata",
   "t": "라카타"
  },
+ "26615683ce9c": {
+  "en": "<strong>Domar Beer</strong>: A highly nutritious, low-alcohol drink enjoyed by everyone.",
+  "t": "<strong>도마르 맥주</strong>: 영양가가 아주 높고 도수가 낮은 술로, 모두가 즐긴다."
+ },
  "266eff7cd05c": {
   "en": "<strong>Wood Yabuca Juice</strong>: Refreshing.",
   "t": "<strong>우드 야부카 주스</strong>: 상쾌하다."
@@ -110,6 +166,10 @@
  "276aed3b99b6": {
   "en": "<strong>Inspired by:</strong> Cannabis sativa.",
   "t": "<strong>모티브:</strong> Cannabis sativa."
+ },
+ "27cbad34fd54": {
+  "en": "<strong>Domar Bread</strong>: It’s bread, with a texture close to French bread.",
+  "t": "<strong>도마르 빵</strong>: 빵이다. 식감은 바게트에 가깝다."
  },
  "2820686c8f0f": {
   "en": "The highly coveted variety Jonabuca is farmed intensively in the Freeish kingdom for its consistently sweet appley flavor and crispy texture. Some of the other types are still considered tasty, with some people swearing they are better than Jonabuca! These different variants often have multiple tastes or textures, are inconsistent in their yields, or look or are straight-up unappetizing—with a notorious Yabuca tree being the perfect example after it sprouted by an outhouse and began producing Yabucas that literally tasted like shit. Regardless, anyone with extra balls in their pocket will fork over to get the coveted variety instead to sink their teeth into. It's just like the ad plastered over the fruit shop that says, \"If it ain't Jonabuca, then it ain't Yabuca!\"",
@@ -138,6 +198,10 @@
  "2c5fb16a5006": {
   "en": "Emerenthy Flowers",
   "t": "에메렌시 꽃"
+ },
+ "2d2512be146a": {
+  "en": "Lolish Roots",
+  "t": "롤리시 뿌리"
  },
  "2d2f23c3ef96": {
   "en": "A wild fruit popular with adventurers, known for mutating in the wild into new variants. Its flavor is unlike anything else in this world, almost as if it didn't belong there. The Buhraies brought it to life with genetic engineering, and the main variety they made is still the most popular and the hardiest; the second is Wood Yabuca. Many species exist in the wild, and some fear it will eventually crowd out every fruit but Yabucas.",
@@ -179,6 +243,14 @@
   "en": "<strong>Growth:</strong> Fruits in the summer.",
   "t": "<strong>성장:</strong> 여름에 열매를 맺는다."
  },
+ "3203b1b33db2": {
+  "en": "<strong>Carbey Flour</strong>: See Carbey.",
+  "t": "<strong>카베이 가루</strong>: 카베이 참조."
+ },
+ "32acf5bd96eb": {
+  "en": "A fungus often used to slow the heartbeat, found in rotting trees.",
+  "t": "심장 박동을 늦추는 데 자주 쓰는 균류로, 썩어 가는 나무에서 발견된다."
+ },
  "3321ca59cd9f": {
   "en": "Magina is a potent mind-altering drug that Forway banned, given the societal risks it imposes. Users experience a blissful state where they live out their dreams or nightmares if they have a terrible trip in such a realistic fashion that afterward, these people will swear the event actually happened to them rather than realizing it was all just a vivid dream. Some highly renowned scientists still research it to cure specific mental ailments like PTSD by trying to reign in and control the drug, but success has been spotty as each individual reacts so uniquely to it it's hard to find patterns. If you see someone completely zoned out, even after you punch them in the face, they are definitely using Magina, with it most likely being bought on the black market from the Black Magina faction.",
   "t": "마지나는 사회적 위험 때문에 포웨이가 금지한 강력한 환각제다. 사용자는 꿈—나쁜 환각을 겪으면 악몽—을 너무나 생생하게 겪는 황홀한 상태에 빠져서, 나중에 그게 전부 생생한 꿈이었다는 걸 깨닫지 못하고 실제로 일어난 일이라고 맹세할 정도다. 몇몇 저명한 과학자들은 이 약을 길들이고 제어해서 PTSD 같은 특정 정신 질환을 치료하려고 여전히 연구하지만, 사람마다 반응이 너무 독특해서 패턴을 찾기 어려워 성과는 들쭉날쭉하다. 얼굴을 한 대 쳐도 완전히 넋이 나가 있는 사람을 본다면, 그 사람은 확실히 마지나를 하고 있는 거고, 아마 블랙 마지나 파벌의 암시장에서 산 걸 거다."
@@ -199,9 +271,17 @@
   "en": "A bushy plant that grows in the wild, and is farmed intensively in Freeish.",
   "t": "야생에서 자라는 덤불 식물로, 프리이시에서 집중적으로 재배한다."
  },
+ "35fcc0fd69e9": {
+  "en": "<strong>Tastes like:</strong> Mango, but smaller and sweeter with a hint of pomegranate. Very soft.",
+  "t": "<strong>맛:</strong> 망고지만 더 작고 달며, 석류 기운이 살짝 돈다. 아주 부드럽다."
+ },
  "3621c4cedceb": {
   "en": "Tenderthrough is the name humans gave this peculiar-shaped fruit tree after penetrating their way into the islands southeast of Sanbi and purging the ancient species that lived there. It tastes very close to papaya, with the seeds still being used to cleanse and heal one's guts far more cheaply than using Body Restore or other interfaces. There are plantations in the Freeish kingdom, but it just doesn't taste as good as the ones from the islands, so get your ass in the next boat to the islands if you want to experience its most authentic flavor!",
   "t": "텐더스루는 인간들이 산비 남동쪽의 섬들로 밀고 들어가 그곳에 살던 고대 종족을 몰아낸 뒤, 이 독특한 모양의 과일나무에 붙인 이름이다. 맛은 파파야와 아주 비슷하고, 씨앗은 보디 리스토어나 다른 인터페이스를 쓰는 것보다 훨씬 싸게 장을 청소하고 치유하는 데 지금도 쓰인다. 프리이시 왕국에도 농장이 있지만, 섬에서 나는 것만큼 맛있지는 않으니, 가장 정통한 맛을 경험하고 싶다면 다음 배를 타고 섬으로 가라!"
+ },
+ "36aaaf636ea0": {
+  "en": "<strong>Inspired by:</strong> Reishi (Ganoderma lucidum).",
+  "t": "<strong>모티브:</strong> 영지버섯(Ganoderma lucidum)."
  },
  "36ec78a12c36": {
   "en": "<strong>Skills:</strong> Drop Fruit.",
@@ -214,6 +294,10 @@
  "3aef7411008b": {
   "en": "A common plant used in nari gels and teas. Depending on how much you take, it can soothe the stomach, or cause diarrhea and vomiting.",
   "t": "나리 젤과 차에 쓰는 흔한 식물. 먹는 양에 따라 배를 달래 주기도 하고, 설사와 구토를 일으키기도 한다."
+ },
+ "3b9ae67b0f21": {
+  "en": "Tyr Caps",
+  "t": "티르 갓"
  },
  "3ba1a2421422": {
   "en": "Domar Carbey: a few stalks of bright purple grain.",
@@ -235,6 +319,10 @@
   "en": "Plants",
   "t": "초본"
  },
+ "3e3a7fe81632": {
+  "en": "<strong>Inspired by:</strong> Chaga (Inonotus obliquus).",
+  "t": "<strong>모티브:</strong> 차가버섯(Inonotus obliquus)."
+ },
  "3e469df72aac": {
   "en": "<strong>Skills:</strong> Adrenaline Inducer.",
   "t": "<strong>능력:</strong> 아드레날린 유발."
@@ -251,9 +339,21 @@
   "en": "A common plant, used for cooking.",
   "t": "요리에 쓰는 흔한 식물."
  },
+ "400b83c14fb6": {
+  "en": "<strong>Growth:</strong> ~2 seasons.",
+  "t": "<strong>성장:</strong> ~2계절."
+ },
  "424d82e07570": {
   "en": "Rakuja is a vine that often has a symbiotic mutualistic relationship with the trees it infests. Found only in colder climates, it helps the host trees by injecting an antifreeze gel it creates when it detects lower temps. This relationship works great in regions like Gandew, Fuhrair, and Old Fuhrair. The same can't be said with Tolerideme, where Wood People took over the land. The relationship between them always turns Amensalistic. Not only have scientists figured out that this antifreeze gel is an excellent toxin for killing Wood People, but they also have their own vines, which they use to remove and kill off any Rakuja that tries to grow on them. Nonetheless, people drool over the tangy, tart flavor fruits with citrusy notes and heavy aromatic smells! Be it dried or not, you can find them across all kingdoms, but depending on where you are, be ready to fork over a lot of balls to fill up your belly on Rakuja. If you don't have much money, you can get your fix with some Rakuja hard juice that will get you drunk too.",
   "t": "라쿠자는 자기가 감고 올라가는 나무와 상리공생 관계를 맺는 경우가 많은 덩굴이다. 추운 기후에서만 자라며, 기온이 떨어지는 걸 감지하면 스스로 만든 부동 젤을 숙주 나무에 주입해 돕는다. 이 관계는 간듀, 푸레어, 옛 푸레어 같은 지역에서 아주 잘 돌아간다. 우드 피플이 땅을 차지한 톨레리데메에서는 그렇지 않다. 둘의 관계는 늘 편해공생으로 변한다. 과학자들은 이 부동 젤이 우드 피플을 죽이는 훌륭한 독이라는 걸 알아냈을 뿐만 아니라, 우드 피플도 자기 몸에서 자라려는 라쿠자를 떼어 내 죽이는 덩굴을 가지고 있다. 그래도 사람들은 시트러스 향과 진한 향기를 지닌 새콤하고 톡 쏘는 맛의 열매에 군침을 흘린다! 말린 것이든 아니든 모든 왕국에서 찾을 수 있지만, 어디 있느냐에 따라 라쿠자로 배를 채우려면 볼을 잔뜩 내놓을 각오를 해야 한다. 돈이 많지 않다면, 취하기까지 하는 라쿠자 독주로 아쉬움을 달랠 수 있다."
+ },
+ "439675ec4ff9": {
+  "en": "<strong>Interface:</strong> Fungus.",
+  "t": "<strong>인터페이스:</strong> 균류."
+ },
+ "43edec05c3e4": {
+  "en": "<strong>Inspired by:</strong> Blue Festuca.",
+  "t": "<strong>모티브:</strong> 블루 페스큐."
  },
  "453bec6b2bd8": {
   "en": "Tenderthrough: a tall thin tree with a palm-like crown and green fruit that opens to yellow flesh with black seeds, beside Harry.",
@@ -262,6 +362,10 @@
  "4563f88a6a5f": {
   "en": "<strong>Skills:</strong> Biolight.",
   "t": "<strong>능력:</strong> 생체 발광."
+ },
+ "45e9d6405fb2": {
+  "en": "<strong>Skills:</strong> Melt and Bleed (both when damaged).",
+  "t": "<strong>능력:</strong> 녹기와 피 흘리기(둘 다 손상될 때)."
  },
  "466485e34c0b": {
   "en": "<strong>Inspired by:</strong> Maracuja (passion fruit), but the fruit is ~2× bigger.",
@@ -367,6 +471,10 @@
   "en": "<strong>Gyut Berries</strong>: The bushes are big: picking 1 kg of berries takes ~30 minutes to 1 hour. A staple good, used to set the value of the Balls currency. Each berry is about the size of a fingertip.",
   "t": "<strong>귯 열매</strong>: 덤불이 커서 열매 1kg 따는 데 ~30분에서 1시간이 걸린다. 주식 상품으로, 볼 화폐의 가치를 정하는 데 쓰인다. 열매 하나는 손가락 끝만 하다."
  },
+ "547e97c7dee3": {
+  "en": "<strong>Inspired by:</strong> Wheat.",
+  "t": "<strong>모티브:</strong> 밀."
+ },
  "5547baceb60e": {
   "en": "Emerenthy",
   "t": "에메렌시"
@@ -374,6 +482,10 @@
  "561ab600fe02": {
   "en": "<strong>Inspired by:</strong> Acerola.",
   "t": "<strong>모티브:</strong> 아세롤라."
+ },
+ "56ab4e38055e": {
+  "en": "<strong>Domar Ale</strong>: Like beer, but slightly stronger.",
+  "t": "<strong>도마르 에일</strong>: 맥주 같지만 조금 더 독하다."
  },
  "56ef4d8852af": {
   "en": "Emerenthy or methyl for some, is a common plant in the forests of Freeish.",
@@ -386,6 +498,10 @@
  "578c42cf3b94": {
   "en": "<strong>Inspired by:</strong> Mangosteen.",
   "t": "<strong>모티브:</strong> 망고스틴."
+ },
+ "5790265cf726": {
+  "en": "<strong>Siguash Berries</strong>: Each bush has less fruit than a Gyut bush, so harvesting 1 kg of berries takes ~60 minutes. A staple good, used to set the value of the Balls currency. Each berry is about the size of a fingertip.",
+  "t": "<strong>시구아시 열매</strong>: 덤불마다 귯 덤불보다 열매가 적어서, 열매 1kg 따는 데 ~60분이 걸린다. 주식 상품으로, 볼 화폐의 가치를 정하는 데 쓰인다. 열매 하나는 손가락 끝만 하다."
  },
  "58841083b43d": {
   "en": "Girdol: a tall spike of purple flowers with white bell-like blooms rising from spiky leaves.",
@@ -402,6 +518,18 @@
  "597e20352b60": {
   "en": "<strong>Growth:</strong> One month in the wild, then another three months to mature.",
   "t": "<strong>성장:</strong> 야생에서 한 달, 그다음 익는 데 석 달 더."
+ },
+ "59cd99598608": {
+  "en": "Panita Caps",
+  "t": "파니타 갓"
+ },
+ "5b66dc457aaa": {
+  "en": "<strong>Inspired by:</strong> Siriguela.",
+  "t": "<strong>모티브:</strong> 시리겔라."
+ },
+ "5b7532baa0a1": {
+  "en": "<strong>Growth:</strong> ~150 kg of Carbey per acre (an acre here is 20 m × 200 m), which makes ~125 kg of Carbey flour.",
+  "t": "<strong>성장:</strong> 에이커당 카베이 ~150kg(여기서 1에이커는 20m × 200m)으로, 카베이 가루 ~125kg이 나온다."
  },
  "5ca2f6c334b8": {
   "en": "<strong>Habitat:</strong> ~1–2 km above sea level, on the Buhraies Plains.",
@@ -427,6 +555,10 @@
   "en": "Tibou",
   "t": "티부"
  },
+ "5f64ccd144ab": {
+  "en": "<strong>Habitat:</strong> Across the kingdoms in non-desert areas below 1 km above sea level, especially in forests.",
+  "t": "<strong>서식지:</strong> 왕국들 전역의 해발 1km 아래 사막이 아닌 곳, 특히 숲."
+ },
  "5f847bb373ec": {
   "en": "Yabuca fruit, nowadays, refers to a specific coveted variety named Jonabuca, created by a family of scientists by grafting the best properties of the thousands of wild types as the Yabuca tree seems way too willing to mutate. Some believe a sneeze around a seedling is enough to change the flavor profile of the future fruits to snot, which later a scientist confirmed was indeed the case after investing way too much time in such a specific endeavor.",
   "t": "오늘날 야부카 열매는 조나부카라는 특정 인기 품종을 말한다. 야부카 나무가 너무 쉽게 돌연변이를 일으키는 것 같아서, 한 과학자 가문이 수천 개의 야생종에서 가장 좋은 특성을 접목해 만들어 냈다. 어떤 이들은 묘목 근처에서 재채기만 해도 미래의 열매 맛이 콧물 맛으로 바뀐다고 믿는데, 나중에 한 과학자가 그런 특정한 연구에 너무 많은 시간을 쏟아부은 끝에 실제로 그렇다는 걸 확인했다."
@@ -438,6 +570,14 @@
  "65a33270e2d3": {
   "en": "<strong>Interface:</strong> Petals.",
   "t": "<strong>인터페이스:</strong> 꽃잎."
+ },
+ "66ba80d721bd": {
+  "en": "<strong>Inspired by:</strong> Cassava.",
+  "t": "<strong>모티브:</strong> 카사바."
+ },
+ "677ab7119fec": {
+  "en": "<strong>Carbey</strong>: Used to feed Eguas, or to make other things.",
+  "t": "<strong>카베이</strong>: 에구아 먹이로 쓰거나, 다른 것을 만드는 데 쓴다."
  },
  "681bda0bb608": {
   "en": "Non-Fruit Trees",
@@ -463,6 +603,10 @@
   "en": "Girdol is a plant often used for nari gels for its gut-changing properties or as a tea for its lemony soothing taste. You can find it easily in the wild, but since Toleridemians live higher up, they tend to care for it in their home or community greenhouse instead, given how much they consume to ease their stomach after a large meal.",
   "t": "기르돌은 장을 바꾸는 성질 때문에 나리 젤에 자주 쓰이거나, 레몬 같은 상쾌한 맛 덕분에 차로 마시는 식물이다. 야생에서 쉽게 찾을 수 있지만, 톨레리데메 사람들은 더 높은 곳에 살기 때문에 집이나 마을 온실에서 키우는 편이다. 거하게 먹은 뒤 속을 달래려고 워낙 많이 마시니까."
  },
+ "6d53419c570e": {
+  "en": "Lakata Caps",
+  "t": "라카타 갓"
+ },
  "6e6f048ea91d": {
   "en": "<strong>Ground TastyLeaf</strong>: Often used in spices. The leaves are dried and ground, so they last much longer.",
   "t": "<strong>빻은 테이스티리프</strong>: 향신료에 자주 쓴다. 잎을 말려 빻아서 훨씬 오래간다."
@@ -474,6 +618,10 @@
  "6ff171b72010": {
   "en": "<strong>Growth:</strong> ~15 years to mature, then ~50 fruits per tree a year.",
   "t": "<strong>성장:</strong> 다 자라는 데 ~15년, 그 뒤로 나무 한 그루에 해마다 열매 ~50개."
+ },
+ "70541b235796": {
+  "en": "<strong>Cadioca Roots</strong>: One of the staple foods of the kingdoms.",
+  "t": "<strong>카디오카 뿌리</strong>: 왕국들의 주식 중 하나."
  },
  "70c663f214f0": {
   "en": "<strong>Gosutam Fruit</strong>: People often plant this tree in their backyards; the fruit is rather expensive for how little of it you can eat.",
@@ -491,6 +639,10 @@
   "en": "Basi: a tall thin palm-like tree with a green crown and hanging dark seed clusters, beside Harry.",
   "t": "바시: 초록 우듬지와 늘어진 짙은 씨앗 송이를 가진 가늘고 키 큰 야자수 같은 나무. 해리 옆에 있다."
  },
+ "729631cd8d80": {
+  "en": "A mushroom often used in the Bleed Out nari gel.",
+  "t": "블리드 아웃 나리 젤에 자주 쓰는 버섯."
+ },
  "72ad272751b1": {
   "en": "Buzeta: a broad green tree with yellow fruit, shown whole and cut open, beside Harry.",
   "t": "부제타: 노란 열매가 달린 넓은 초록 나무. 통째인 열매와 자른 열매가 해리 옆에 그려져 있다."
@@ -498,6 +650,10 @@
  "73dd89c3bd18": {
   "en": "Deep green inside, with rather metallic, shiny bark. It's an example of flora that somehow escaped Vraki and ended up in our world: the Buhraies were messing around with sending things into the soul realm, and that's how this tree made its way here. Trunk People love this tree!",
   "t": "속은 짙은 초록이고, 껍질은 꽤 금속 같고 반짝인다. 어떻게든 브라키를 빠져나와 우리 세계에 닿은 식물의 한 예다: 부라이에스가 물건을 영혼계로 보내는 장난을 치다가, 이 나무가 그렇게 여기까지 왔다. 트렁크 피플이 이 나무를 사랑한다!"
+ },
+ "74f803414b7b": {
+  "en": "<strong>Growth:</strong> Several months.",
+  "t": "<strong>성장:</strong> 몇 달."
  },
  "75f0818483fb": {
   "en": "<strong>Tastes like:</strong> Lemony.",
@@ -514,6 +670,10 @@
  "79541a500062": {
   "en": "Found on beaches all over the four kingdoms, since humans found it near Lukewarm Lake and started taking it everywhere. Farmed intensively in Deltacross, being close to Forway. Coconas are twice the size of coconuts.",
   "t": "네 왕국 곳곳의 해변에서 볼 수 있는데, 인간들이 루크웜 호수 근처에서 발견해 어디든 가지고 다니기 시작했기 때문이다. 포웨이와 가까운 델타크로스에서 집중적으로 재배한다. 코코나는 코코넛의 두 배 크기다."
+ },
+ "79b40aee52bd": {
+  "en": "Used in the Smooth Gut nari gel, and for its digestive properties, especially for the liver. Also great as a hangover remedy.",
+  "t": "스무스 거트 나리 젤에 쓰고, 소화를 돕는 성질, 특히 간에 좋은 성질 때문에도 쓴다. 숙취 해소에도 그만이다."
  },
  "79cfd03ae2d3": {
   "en": "<strong>Ground Soul Wood</strong>: Often used in spices for a nutmeg and vanilla-like taste. Baking the seeds takes away the vanilla and makes the nutmeg far stronger; in large amounts, it can be antiseptic. Basically the world’s coffee.",
@@ -534,6 +694,10 @@
  "7acb0944473f": {
   "en": "<strong>Tastes like:</strong> Strawberry or raspberry.",
   "t": "<strong>맛:</strong> 딸기나 라즈베리."
+ },
+ "7c0cde09b7a0": {
+  "en": "<strong>Man Beer</strong>: An incredibly strong beer.",
+  "t": "<strong>사내 맥주</strong>: 엄청나게 독한 맥주."
  },
  "7ce9293eae37": {
   "en": "Girdol",
@@ -559,6 +723,10 @@
   "en": "A huge tree in the large forests around the Freeish Kingdom and Blood City. Its fruit tastes like melon pan, grows only a few at a time, is hard to reach, and is the size of a human. Its leaves have a tangy, chlorophyll note. A staple product of the Freeish Kingdom's Greenbread fields.",
   "t": "프리이시 왕국과 블러드 시 주변 큰 숲에 사는 거대한 나무. 열매는 멜론빵 맛이 나고, 한 번에 몇 개만 열리며, 닿기 어렵고, 크기가 사람만 하다. 잎에서는 새콤한 엽록소 맛이 난다. 프리이시 왕국 그린브레드 밭의 주력 상품이다."
  },
+ "7f6890437a51": {
+  "en": "A root found in the desert of Gandew.",
+  "t": "간듀 사막에서 나는 뿌리."
+ },
  "7f86575329d8": {
   "en": "Flora's average Soul Energy tier is <strong>Tier I</strong>, recharging <strong>1</strong> soul a day or less.",
   "t": "식물의 평균 영혼 에너지 등급은 <strong>I등급</strong>이고, 하루에 영혼 <strong>1</strong> 이하를 회복한다."
@@ -574,6 +742,10 @@
  "826c3f9fa810": {
   "en": "<strong>Habitat:</strong> Mostly in the south, near Freeish, where it is farmed heavily. The other kingdoms don’t really partake in it.",
   "t": "<strong>서식지:</strong> 주로 남쪽, 집중적으로 재배하는 프리이시 근처. 다른 왕국들은 별로 손대지 않는다."
+ },
+ "83660375e72d": {
+  "en": "<strong>Gyut Bread</strong>: Bread mixed with Gyut berries. A staple dessert for the poor throughout the four kingdoms, first invented in Freeish.",
+  "t": "<strong>귯 빵</strong>: 귯 열매를 섞은 빵. 네 왕국 전역에서 가난한 사람들의 주식 디저트로, 프리이시에서 처음 만들어졌다."
  },
  "83cab85106b2": {
   "en": "Wood Yabuca",
@@ -594,6 +766,10 @@
  "8659ba55ba3b": {
   "en": "Greenbread: a large tree with stilt-like roots and big round green fruit about 170 cm across.",
   "t": "그린브레드: 죽마 같은 뿌리를 가진 큰 나무에 지름 약 170cm의 커다란 둥근 초록 열매가 달려 있다."
+ },
+ "88aa5a6734b6": {
+  "en": "Lehuj Grass",
+  "t": "레후지 풀"
  },
  "88bdeacd0acf": {
   "en": "<strong>Inspired by:</strong> Eucalyptus deglupta.",
@@ -627,6 +803,10 @@
   "en": "Siguash",
   "t": "시구아시"
  },
+ "8f593f4a94bc": {
+  "en": "<strong>Domar Carbey</strong>: Tolerideme has the upper hand in planting it for trading.",
+  "t": "<strong>도마르 카베이</strong>: 교역용으로 심는 데는 톨레리데메가 우위에 있다."
+ },
  "902aa2e3486c": {
   "en": "<strong>Habitat:</strong> ~0–1 km above sea level, in the desert’s transitional zone.",
   "t": "<strong>서식지:</strong> 해발 ~0~1km, 사막의 전이 지대."
@@ -634,6 +814,14 @@
  "904d427af08d": {
   "en": "Gyut: a small bush covered in red fruit, beside Harry.",
   "t": "귯: 빨간 열매로 뒤덮인 작은 덤불. 해리 옆에 있다."
+ },
+ "9193cdc8a9ca": {
+  "en": "<strong>Siguash Juice</strong>: Refreshing.",
+  "t": "<strong>시구아시 주스</strong>: 상쾌하다."
+ },
+ "92cab0b9a4e9": {
+  "en": "<strong>Habitat:</strong> ~0 km above sea level, in the muddy, deep forests of the south.",
+  "t": "<strong>서식지:</strong> 해발 ~0km, 남쪽의 질척하고 깊은 숲."
  },
  "92f34fd1c31a": {
   "en": "<strong>Inspired by:</strong> Mango Buceta.",
@@ -651,9 +839,17 @@
   "en": "<strong>Rakuja Hard Juice</strong>: Fermented juice: fizzy, less sweet, but less tart as well.",
   "t": "<strong>라쿠자 하드 주스</strong>: 발효 주스: 탄산이 있고, 덜 달지만 덜 시기도 하다."
  },
+ "94d59cd424bd": {
+  "en": "<strong>Tastes like:</strong> Roasted Grapes.",
+  "t": "<strong>맛:</strong> 구운 포도."
+ },
  "95207ccb8b2f": {
   "en": "One of the most sought-after plants, for making soap and shampoo out of its shells. Not really used in teas, though some like it. The cotton-like fiber inside the case is used for fabric.",
   "t": "껍데기로 비누와 샴푸를 만들어서 손꼽히게 인기 있는 식물. 차에는 별로 안 쓰지만, 좋아하는 사람도 있다. 꼬투리 안의 솜 같은 섬유는 천에 쓴다."
+ },
+ "95857e9df55f": {
+  "en": "<strong>Gyut Juice</strong>: Refreshing.",
+  "t": "<strong>귯 주스</strong>: 상쾌하다."
  },
  "95e9fae64713": {
   "en": "<strong>Visual reference:</strong> Exterior only; the inside is the same as a normal banana.",
@@ -674,6 +870,10 @@
  "97235f9778f5": {
   "en": "Buzeta Fruit",
   "t": "부제타 열매"
+ },
+ "9889b8b563d8": {
+  "en": "<strong>Habitat:</strong> Buried in the desert, closer to the transitional zones.",
+  "t": "<strong>서식지:</strong> 사막 속, 전이 지대에 더 가까운 곳에 묻혀 있다."
  },
  "98a95112463e": {
   "en": "See Beasts -&gt; Hifuna People",
@@ -727,6 +927,10 @@
   "en": "<strong>Inspired by:</strong> Birgit Bonnier Apples.",
   "t": "<strong>모티브:</strong> 비르기트 보니에르 사과."
  },
+ "9fdb0b131cb6": {
+  "en": "<strong>Habitat:</strong> Throughout the entire lower region, except the desert.",
+  "t": "<strong>서식지:</strong> 사막을 뺀 낮은 지역 전체."
+ },
  "a0b3c4a0e3a2": {
   "en": "<strong>Growth:</strong> About 10 months to a harvest.",
   "t": "<strong>성장:</strong> 수확까지 10개월쯤."
@@ -734,6 +938,10 @@
  "a0bb4f59cf66": {
   "en": "<strong>Lonllow Hard Juice</strong>: Fermented juice.",
   "t": "<strong>론로 하드 주스</strong>: 발효 주스."
+ },
+ "a1ec7dc8d1c3": {
+  "en": "<strong>Skills:</strong> Hallucinate.",
+  "t": "<strong>능력:</strong> 환각."
  },
  "a23ee4b56931": {
   "en": "<strong>Tier I (Cheap Goods):</strong> berries, fruit, fungus and grass.",
@@ -755,9 +963,21 @@
   "en": "<strong>Inspired by:</strong> Papaya.",
   "t": "<strong>모티브:</strong> 파파야."
  },
+ "a455f4245603": {
+  "en": "<strong>Habitat:</strong> The Buhraies Plains, in the Tolerideme Kingdom.",
+  "t": "<strong>서식지:</strong> 톨레리데메 왕국의 부라이에스 평원."
+ },
  "a4757cb7e64a": {
   "en": "<strong>Inspired by:</strong> Phalaenopsis orchid.",
   "t": "<strong>모티브:</strong> 호접란."
+ },
+ "a5032b243951": {
+  "en": "<strong>Beer</strong>: A highly nutritious, low-alcohol drink enjoyed by everyone.",
+  "t": "<strong>맥주</strong>: 영양가가 아주 높고 도수가 낮은 술로, 모두가 즐긴다."
+ },
+ "a51cc16d8108": {
+  "en": "<strong>Tastes like:</strong> Slightly sweet and acidic.",
+  "t": "<strong>맛:</strong> 살짝 달고 시큼하다."
  },
  "a5cac2861755": {
   "en": "Nica",
@@ -766,6 +986,10 @@
  "a819f91b0bec": {
   "en": "<strong>Purplebread Hard Juice</strong>: Fermented juice.",
   "t": "<strong>퍼플브레드 하드 주스</strong>: 발효 주스."
+ },
+ "a82743355031": {
+  "en": "<strong>Growth:</strong> One bush gives ~0.5 kg of berries a day for ~10 days during the harvest season.",
+  "t": "<strong>성장:</strong> 수확철에는 덤불 하나가 ~10일 동안 하루에 열매 ~0.5kg을 낸다."
  },
  "a9752f76f383": {
   "en": "Lehuj",
@@ -807,9 +1031,17 @@
   "en": "Black Sapphire Tree",
   "t": "블랙 사파이어 트리"
  },
+ "af9b630858be": {
+  "en": "<strong>Tastes like:</strong> Cassava.",
+  "t": "<strong>맛:</strong> 카사바."
+ },
  "afd111d393ff": {
   "en": "Purplebread: a feathery green tree with a brown husked fruit that opens to purple flesh, about 12 cm, beside Harry.",
   "t": "퍼플브레드: 깃털 같은 초록 나무에 갈색 껍질의 열매가 달려 있고, 열면 보라색 과육이 나온다. 약 12cm, 해리 옆에 있다."
+ },
+ "b07934dcd8ce": {
+  "en": "<strong>Skills:</strong> Pacifier.",
+  "t": "<strong>능력:</strong> 진정."
  },
  "b0c3a9db443b": {
   "en": "Cadioca: a leafy green plant with a thick reddish root, about knee height.",
@@ -827,9 +1059,17 @@
   "en": "<strong>Black Wood</strong>: Dark and dense. Often used with nari stones, sigils and containers that hold Soul Energy, to keep the Soul Energy from leaking.",
   "t": "<strong>검은 나무</strong>: 어둡고 촘촘하다. 영혼 에너지가 새지 않게, 나리석, 시질, 영혼 에너지를 담는 용기와 함께 자주 쓴다."
  },
+ "b279020505fb": {
+  "en": "<strong>Inspired by:</strong> Ginger.",
+  "t": "<strong>모티브:</strong> 생강."
+ },
  "b2b23b52802a": {
   "en": "<strong>Tastes like:</strong> Slightly sweet and fleshy, a little like raspberries and apples.",
   "t": "<strong>맛:</strong> 살짝 달고 과육이 많다. 라즈베리와 사과를 좀 닮았다."
+ },
+ "b345516c97d3": {
+  "en": "<strong>Gyut Hard Juice</strong>: Fermented juice.",
+  "t": "<strong>귯 하드 주스</strong>: 발효 주스."
  },
  "b3996f605338": {
   "en": "Tyr affects the nervous system like Lakata, but it focuses its effects on messing with the sympathetic nervous system and reality perception instead. The worst effect people report is hearing or seeing disturbing things while feeling locked inside your body because you're trying to fight or run away from it, but your fight-or-flight doesn't work. It's not too far off from sleep paralysis. There are other properties from Tyr as well, like triggering narcoleptic sleep, but isolating it has been challenging. A research paper reported being able to hear others' thoughts as well, but the scientists who tried it could not replicate it and chalked it up to a bad trip instead.",
@@ -842,6 +1082,14 @@
  "b3e3b2749e3e": {
   "en": "<strong>Buzeta Juice</strong>: Pretty good; better in vitamin shakes.",
   "t": "<strong>부제타 주스</strong>: 꽤 좋다. 비타민 셰이크에 넣으면 더 낫다."
+ },
+ "b3fd57c49b32": {
+  "en": "<strong>Inspired by:</strong> Exsudoporus frostii.",
+  "t": "<strong>모티브:</strong> Exsudoporus frostii."
+ },
+ "b4623889a43a": {
+  "en": "<strong>Growth:</strong> One month.",
+  "t": "<strong>성장:</strong> 한 달."
  },
  "b4e93eccc1f4": {
   "en": "Mushrooms",
@@ -867,6 +1115,10 @@
   "en": "Lonllow",
   "t": "론로"
  },
+ "bf95afef3b85": {
+  "en": "<strong>Cadioca Flour</strong>: Just like Domar Carbey flour.",
+  "t": "<strong>카디오카 가루</strong>: 도마르 카베이 가루와 똑같다."
+ },
  "bfedb8f28e8b": {
   "en": "<strong>Growth:</strong> Several months in the wild.",
   "t": "<strong>성장:</strong> 야생에서 몇 달."
@@ -887,6 +1139,10 @@
   "en": "Carbey was annoying grass everyone hated it, at least until they discovered how tasty it is to mix it with water and yeast and then shove it in a wood stove. Farmed intensively in Freeish, like most other things, but some holdouts in Tolerideme insist their Carbey yields taste far better, specifically when used for spirits, despite it being much harder to cultivate over there. Carbey is another staple food Forway uses to establish the base value of a single pearl ball.",
   "t": "카베이는 모두가 싫어하는 성가신 잡초였다. 적어도 물과 효모를 섞어 장작 화덕에 넣으면 얼마나 맛있는지 알아내기 전까지는. 다른 대부분의 것들처럼 프리이시에서 집중적으로 재배되지만, 톨레리데메의 몇몇 고집쟁이들은 거기서 재배하기가 훨씬 어려운데도 자기들 카베이 수확물이 훨씬 맛있다고 주장한다. 특히 증류주로 만들 때 말이다. 카베이는 포웨이가 펄 볼 하나의 기준 가치를 정하는 데 쓰는 또 다른 주식이다."
  },
+ "c3e9d579f4af": {
+  "en": "<strong>Growth:</strong> ~300 kg per acre (an acre here is 20 m × 200 m), which makes ~250 kg of flour.",
+  "t": "<strong>성장:</strong> 에이커당 ~300kg(여기서 1에이커는 20m × 200m)으로, 가루 ~250kg이 나온다."
+ },
  "c441f84d3e76": {
   "en": "<strong>Skills:</strong> Grow Spikes; Sweat Induction.",
   "t": "<strong>능력:</strong> 가시 키우기, 땀 유도."
@@ -898,6 +1154,18 @@
  "c4eaa319eefd": {
   "en": "<strong>Basi Pulp</strong>: The pulp, separated from the fruit: a thick paste, eaten with both salty and sweet things.",
   "t": "<strong>바시 과육</strong>: 열매에서 분리한 과육: 짭짤한 것과도, 단 것과도 함께 먹는 걸쭉한 페이스트."
+ },
+ "c513902bfa45": {
+  "en": "A fungus similar to Lakata, but far too poisonous (it causes auditory and visual hallucinations).",
+  "t": "라카타와 비슷한 균류지만, 독이 너무 강하다(환청과 환시를 일으킨다)."
+ },
+ "c6a7270cfd89": {
+  "en": "Poisonous raw: it has to soak in the river for 2 days, then dry in the sun.",
+  "t": "날로는 독이 있다: 강물에 이틀 담갔다가 햇볕에 말려야 한다."
+ },
+ "c7db54175361": {
+  "en": "<strong>Siguash Hard Juice</strong>: Fermented juice.",
+  "t": "<strong>시구아시 하드 주스</strong>: 발효 주스."
  },
  "c8c1b01732df": {
   "en": "Greenbread",
@@ -935,6 +1203,10 @@
   "en": "<strong>Growth:</strong> Its leaves drop every fall, and the tree grows slightly each year.",
   "t": "<strong>성장:</strong> 가을마다 잎이 지고, 나무는 해마다 조금씩 자란다."
  },
+ "d6739909ba41": {
+  "en": "<strong>Interface:</strong> Mushroom.",
+  "t": "<strong>인터페이스:</strong> 버섯."
+ },
  "d77d70ae5957": {
   "en": "<strong>Dried Greenbread</strong>: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack.",
   "t": "<strong>말린 그린브레드</strong>: 비축 식량, 다른 왕국 판매, 제빵용, 또는 길에서 먹는 간식으로 만든다."
@@ -951,6 +1223,10 @@
   "en": "Tenderthrough Fruit",
   "t": "텐더스루 열매"
  },
+ "d9198890ff1c": {
+  "en": "<strong>Cadioca Coarse Flour</strong>: Eaten with all kinds of things. (Real-world comparison: farinha, the toasted cassava flour of Brazilian cooking.)",
+  "t": "<strong>카디오카 굵은 가루</strong>: 온갖 것과 함께 먹는다. (실제 세계와 비교하면: 브라질 요리의 볶은 카사바 가루, 파리냐.)"
+ },
  "da107475bbb4": {
   "en": "Flora by tier:",
   "t": "등급별 식물:"
@@ -958,6 +1234,10 @@
  "dbacaa414755": {
   "en": "Lakata: a small dark trumpet-shaped mushroom.",
   "t": "라카타: 작고 어두운 나팔 모양의 버섯."
+ },
+ "dbefd26139b2": {
+  "en": "<strong>Growth:</strong> Wild.",
+  "t": "<strong>성장:</strong> 야생."
  },
  "dc7499d1800a": {
   "en": "A large Yabuca variant, created when the Buhraies mutated Wood People from Yabuca trees. Up to about 26 cm.",
@@ -974,6 +1254,10 @@
  "dda1790312f4": {
   "en": "<strong>Growth:</strong> Three months in the wild.",
   "t": "<strong>성장:</strong> 야생에서 석 달."
+ },
+ "de44dc8868ab": {
+  "en": "<strong>Dried Siguash</strong>: Made for food stocks, to sell to other kingdoms, for baking, or as an on-the-road snack. (Visual reference: like cherry tomatoes, but yellowish.)",
+  "t": "<strong>말린 시구아시</strong>: 비축 식량, 다른 왕국 판매, 제빵용, 또는 길에서 먹는 간식으로 만든다. (시각 자료: 방울토마토 같지만 노르스름하다.)"
  },
  "defc4045a107": {
   "en": "<strong>Tastes like:</strong> Mango.",
@@ -998,6 +1282,10 @@
  "e2c57c610cf4": {
   "en": "Flora · #HusbandOutWorld",
   "t": "식물 · #HusbandOutWorld"
+ },
+ "e331c5464180": {
+  "en": "<strong>Domar Gyut Bread</strong>: Bread mixed with Gyut berries.",
+  "t": "<strong>도마르 귯 빵</strong>: 귯 열매를 섞은 빵."
  },
  "e3ea690b9b78": {
   "en": "<strong>Tastes like:</strong> Banana.",
@@ -1043,6 +1331,10 @@
   "en": "<strong>Purplebread Juice</strong>: Refreshing.",
   "t": "<strong>퍼플브레드 주스</strong>: 상쾌하다."
  },
+ "ebe0ba6a0914": {
+  "en": "<strong>Tastes like:</strong> Ginger.",
+  "t": "<strong>맛:</strong> 생강."
+ },
  "ec0d8c23f282": {
   "en": "Tyr: a small mushroom with a mottled pink-and-purple cap and a green-gilled stem.",
   "t": "티르: 분홍과 보라 얼룩무늬 갓과 초록 주름이 있는 대를 가진 작은 버섯."
@@ -1063,6 +1355,10 @@
   "en": "See Beasts -&gt; Wood People",
   "t": "마수 -&gt; 우드 피플 참고"
  },
+ "ef79b8933ed9": {
+  "en": "<strong>Domar Carbey Flour</strong>: See Domar Carbey.",
+  "t": "<strong>도마르 카베이 가루</strong>: 도마르 카베이 참조."
+ },
  "f066042ff172": {
   "en": "<strong>Basi Berries</strong>: Stripping a bush of all its berries takes 4 hours and yields 1 to 2 kg; a shaker can cut that time in half. Each berry is about the size of a fingertip and has to be separated from the hair-like structure.",
   "t": "<strong>바시 열매</strong>: 덤불 하나의 열매를 다 따는 데 4시간이 걸리고, 1~2kg이 나온다. 털기를 쓰면 시간이 반으로 준다. 열매 하나는 손가락 끝만 하고, 털 같은 구조에서 떼어 내야 한다."
@@ -1074,6 +1370,10 @@
  "f344ab6cddf6": {
   "en": "Domar Carbey is a version of Carbey created by one of the three smart sisters by crossbreeding with Wood People. It only grows in the Tolerideme region, as it is de facto the base of the Tolerideme economy. From spirits, food export, clothing, etc! Everything comes from Domar Carbey. The wheat itself tastes slightly cheesy, like parmesan, with a rich grain smell that gives an extra oompf to whatever you bake! Although it only goes well with desserts if you're talking about specific ones like Gyut bread or other deserts where it's on the citrusy spectrum. Something like creme brule, pudding, or anything with more yolk taste doesn't seem to work.",
   "t": "도마르 카베이는 영리한 세 자매 중 한 명이 우드 피플과 교배해서 만든 카베이 품종이다. 톨레리데메 지역에서만 자라며, 사실상 톨레리데메 경제의 토대다. 증류주, 식품 수출, 의류 등등! 모든 게 도마르 카베이에서 나온다. 밀 자체는 파르메산처럼 살짝 치즈 맛이 나고, 풍부한 곡물 향이 무엇을 굽든 한층 더 힘을 실어 준다! 다만 디저트라면 귯 빵이나 다른 시트러스 계열 디저트처럼 특정한 것들에만 어울린다. 크렘 브륄레, 푸딩, 아니면 노른자 맛이 강한 것들과는 안 맞는 것 같다."
+ },
+ "f384b379f2b6": {
+  "en": "A version of Carbey that one of the three smart sisters created by crossbreeding it with Wood People. Used to make beer, bread and everything in between, and more nutritious and tastier than Carbey.",
+  "t": "영리한 세 자매 중 한 명이 카베이를 우드 피플과 교배해 만든 카베이의 한 품종. 맥주, 빵, 그리고 그 사이의 모든 것을 만드는 데 쓰고, 카베이보다 영양가가 높고 맛있다."
  },
  "f3a03e9ecd73": {
   "en": "Soul Tree",
@@ -1087,9 +1387,17 @@
   "en": "Rakuja: a leafy tree with round brown fruit about 8 cm across, shown whole and cut open, beside Harry.",
   "t": "라쿠자: 지름 약 8cm의 둥근 갈색 열매가 달린 잎이 무성한 나무. 통째인 열매와 자른 열매가 해리 옆에 그려져 있다."
  },
+ "f5b2d0c1fcfd": {
+  "en": "<strong>Domar Man Beer</strong>: An incredibly strong beer.",
+  "t": "<strong>도마르 사내 맥주</strong>: 엄청나게 독한 맥주."
+ },
  "f745ff7e7155": {
   "en": "Public text: flora.md",
   "t": "공개 텍스트: flora.md"
+ },
+ "f7c912bfef80": {
+  "en": "<strong>Habitat:</strong> A root found in the lowlands; heavily farmed in Freeish.",
+  "t": "<strong>서식지:</strong> 저지대에서 나는 뿌리. 프리이시에서 많이 재배한다."
  },
  "f825c7410a05": {
   "en": "Tastyleaf is an absolute mega chungus of a tree, measuring about 104 meters tall, with girth alone in the upper 40 meters. No other tree comes even close to its size or properties. It was discovered inside what had to be a not-so-secret garden by one of the first tribes of humans who fled the Buhraies plains. Accounts of that history were passed down orally, so narratives diverged on whether humans killed the Buhraies garden owners and took over before they could call for help or if it was simply abandoned instead. Either way, this tree granted humans a sanctuary against the hungry beast and fauna as it has similar light properties to fost stone, including lighting up when it rains and repelling beasts and fauna.",
