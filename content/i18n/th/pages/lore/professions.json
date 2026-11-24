@@ -79,6 +79,14 @@
   "en": "Tier VI Professions",
   "t": "อาชีพระดับ VI"
  },
+ "0f2afddf1f32": {
+  "en": "<strong>Duties:</strong> extract stone from quarries.",
+  "t": "<strong>หน้าที่:</strong> สกัดหินจากเหมืองหิน"
+ },
+ "118ca2335b44": {
+  "en": "<strong>Duties:</strong> prepare for fishing, fish, clean the fish and carry it off the boat.",
+  "t": "<strong>หน้าที่:</strong> เตรียมตัวตกปลา ตกปลา ทำความสะอาดปลา และขนลงจากเรือ"
+ },
  "1247f153760d": {
   "en": "Tier II Professions",
   "t": "อาชีพระดับ II"
@@ -147,6 +155,10 @@
   "en": "Famous Courtesans",
   "t": "หญิงคณิกาชื่อดัง"
  },
+ "2be7482d961c": {
+  "en": "<strong>Duties:</strong> plow fields, harvest, fertilize and mill grain.",
+  "t": "<strong>หน้าที่:</strong> ไถนา เก็บเกี่ยว ใส่ปุ๋ย และสีข้าว"
+ },
  "2c74044a7e3b": {
   "en": "<strong>Duties:</strong> handle livestock and crops, and get dirty on the job. Maybe handle a person or two, but usually just guild members.",
   "t": "<strong>หน้าที่:</strong> จัดการปศุสัตว์และพืชผล และลงมือเลอะเทอะในงาน อาจจัดการคนหนึ่งสองคน แต่ปกติก็แค่สมาชิกกิลด์"
@@ -187,6 +199,10 @@
   "en": "Tier V Professions",
   "t": "อาชีพระดับ V"
  },
+ "32c032c2d5a1": {
+  "en": "<strong>Duties:</strong> take care of eguas, groom and feed them, and help with egua births.",
+  "t": "<strong>หน้าที่:</strong> ดูแลเอกัว แปรงขนและให้อาหาร และช่วยการคลอดของเอกัว"
+ },
  "32ed08835c99": {
   "en": "Lumberjack",
   "t": "คนตัดไม้"
@@ -215,6 +231,10 @@
   "en": "<strong>Duties:</strong> fix and clean boats.",
   "t": "<strong>หน้าที่:</strong> ซ่อมและทำความสะอาดเรือ"
  },
+ "39973efcf6c4": {
+  "en": "<strong>History:</strong> richer districts of cities and kingdoms often employ street cleaners, usually paid by the people living in the area rather than the government (depending on how the kingdom is organized).",
+  "t": "<strong>ประวัติ:</strong> ย่านที่รวยกว่าของเมืองและอาณาจักรมักจ้างคนกวาดถนน ปกติจ่ายโดยผู้อยู่อาศัยในพื้นที่มากกว่ารัฐบาล (ขึ้นอยู่กับการจัดระเบียบของอาณาจักร)"
+ },
  "3aa5b22c7b20": {
   "en": "The third richest people in the world. Their power reaches a city at most.",
   "t": "คนที่รวยเป็นอันดับสามของโลก อำนาจของพวกเขาไปถึงระดับเมืองเป็นอย่างมาก"
@@ -234,6 +254,10 @@
  "3de66eb212b0": {
   "en": "<strong>Training:</strong> Fundamental School helps, but this is self-employed, so you do you.",
   "t": "<strong>การฝึก:</strong> โรงเรียนพื้นฐานช่วยได้ แต่นี่เป็นงานอิสระ ทำแบบที่คุณเป็นเลย"
+ },
+ "3f5701b74569": {
+  "en": "<strong>History:</strong> people like meat, so someone needs to gut the animals and make sausages.",
+  "t": "<strong>ประวัติ:</strong> ผู้คนชอบเนื้อ จึงต้องมีคนควักไส้สัตว์และทำไส้กรอก"
  },
  "4023098315ae": {
   "en": "Road Maintainers",
@@ -287,6 +311,10 @@
   "en": "<strong>Duties:</strong> keep the balance between food orders and meat and milk sales, etc. Also takes care of the Woolies when time allows.",
   "t": "<strong>หน้าที่:</strong> รักษาสมดุลระหว่างคำสั่งซื้ออาหารกับการขายเนื้อและนม ฯลฯ และดูแลวูลลีเมื่อมีเวลา"
  },
+ "4a3cac295494": {
+  "en": "<strong>Duties:</strong> clean latrines.",
+  "t": "<strong>หน้าที่:</strong> ทำความสะอาดส้วม"
+ },
  "4a693b717f91": {
   "en": "<strong>Duties:</strong> take care of the kingdom, working directly under the courtroom scientists.",
   "t": "<strong>หน้าที่:</strong> ดูแลอาณาจักร ทำงานภายใต้นักวิทยาศาสตร์ประจำราชสำนักโดยตรง"
@@ -294,6 +322,10 @@
  "4aecf373d658": {
   "en": "Artisan Cheesemaker",
   "t": "ช่างทำชีสฝีมือดี"
+ },
+ "4cbf0ebcab36": {
+  "en": "<strong>History:</strong> carrying around water-filled fruit is expensive and stupid, so these people come into play.",
+  "t": "<strong>ประวัติ:</strong> การขนผลไม้ที่เต็มไปด้วยน้ำไปมาทั้งแพงและโง่ คนพวกนี้จึงเข้ามามีบทบาท"
  },
  "4cc0e4e2b542": {
   "en": "<strong>History:</strong> because some cheese tastes better than others.",
@@ -451,6 +483,10 @@
   "en": "<strong>Training:</strong> Fundamental School and Historian/Teaching School.",
   "t": "<strong>การฝึก:</strong> โรงเรียนพื้นฐานและโรงเรียนประวัติศาสตร์/การสอน"
  },
+ "735d6ad94d9e": {
+  "en": "<strong>Duties:</strong> see Natural &amp; Crafted Resources.",
+  "t": "<strong>หน้าที่:</strong> ดู ทรัพยากรธรรมชาติ &amp; ทรัพยากรที่ประดิษฐ์ขึ้น"
+ },
  "7506752cedeb": {
   "en": "Wood/Stone Worker",
   "t": "ช่างไม้/ช่างหิน"
@@ -458,6 +494,10 @@
  "7510681254ef": {
   "en": "Historians/Teachers",
   "t": "นักประวัติศาสตร์/ครู"
+ },
+ "76e3a446b863": {
+  "en": "<strong>Average pay:</strong> 1 Pearl an hour, for apprentices and masters alike.",
+  "t": "<strong>ค่าจ้างเฉลี่ย:</strong> 1 เพิร์ลต่อชั่วโมง ทั้งเด็กฝึกงานและช่างฝีมือ"
  },
  "7944c42b1f36": {
   "en": "The second richest people in the world. Their power reaches a region at most.",
@@ -483,9 +523,17 @@
   "en": "Large Farm Owner",
   "t": "เจ้าของฟาร์มใหญ่"
  },
+ "8735f4858edd": {
+  "en": "<strong>Duties:</strong> extract wood from forests.",
+  "t": "<strong>หน้าที่:</strong> ตัดไม้จากป่า"
+ },
  "87af01bd9c7e": {
   "en": "Sanbi Eye",
   "t": "ซันบีอาย"
+ },
+ "8869272e670d": {
+  "en": "<strong>Duties:</strong> make vellum from animal skin, and paper from wood pulp.",
+  "t": "<strong>หน้าที่:</strong> ทำหนังลูกวัวจากหนังสัตว์ และกระดาษจากเยื่อไม้"
  },
  "893b7a9113f6": {
   "en": "<strong>Duties:</strong> housekeeping. How far it goes depends on the household and the maid's prestige: from more \"normal\" maids, up to someone like Eiri, a King-Maid, whose job extends into finances, cooking, cleaning and taxes.",
@@ -515,9 +563,17 @@
   "en": "<strong>History:</strong> someone has to take care of the dead, especially once people develop complex rituals.",
   "t": "<strong>ประวัติ:</strong> ต้องมีคนดูแลคนตาย โดยเฉพาะเมื่อผู้คนพัฒนาพิธีกรรมที่ซับซ้อน"
  },
+ "904f51b879b7": {
+  "en": "<strong>Duties:</strong> take care of the lighthouse: pump water into the fost stone, replace the stone, etc.",
+  "t": "<strong>หน้าที่:</strong> ดูแลประภาคาร: สูบน้ำเข้าหินฟอสต์ เปลี่ยนหิน ฯลฯ"
+ },
  "90a167603476": {
   "en": "<strong>Training:</strong> knowing how to read speeds up going from apprentice to master; otherwise, learn on the job.",
   "t": "<strong>การฝึก:</strong> การอ่านออกช่วยเร่งจากเด็กฝึกงานเป็นช่างฝีมือ ไม่อย่างนั้นก็เรียนรู้จากการทำงานจริง"
+ },
+ "9211c4167577": {
+  "en": "<strong>History:</strong> one of the earliest jobs in existence.",
+  "t": "<strong>ประวัติ:</strong> หนึ่งในอาชีพแรกสุดที่มีอยู่"
  },
  "9312d57b974b": {
   "en": "<strong>Training:</strong> Tailoring School.",
@@ -527,9 +583,17 @@
   "en": "How much of this applies depends on how the kingdom is organized.",
   "t": "ส่วนนี้ใช้ได้มากน้อยแค่ไหนขึ้นอยู่กับการจัดระเบียบของอาณาจักร"
  },
+ "9866309d4236": {
+  "en": "<strong>History:</strong> paper is half the battle, so someone needs to make the ink and the wax.",
+  "t": "<strong>ประวัติ:</strong> กระดาษคือครึ่งหนึ่งของการต่อสู้ จึงต้องมีคนทำหมึกและครั่ง"
+ },
  "9b85c6e5d0b9": {
   "en": "<strong>Duties:</strong> keep the peace, assist in investigations and help medics. Also coordinate nari stone usage, work with adventurers, and coordinate with the King and courtroom scientists (depending on how the kingdom is organized).",
   "t": "<strong>หน้าที่:</strong> รักษาความสงบ ช่วยการสืบสวน และช่วยแพทย์ ยังประสานการใช้หินนาริ ทำงานกับนักผจญภัย และประสานงานกับกษัตริย์และนักวิทยาศาสตร์ประจำราชสำนัก (ขึ้นอยู่กับการจัดระเบียบของอาณาจักร)"
+ },
+ "9bb4137522b5": {
+  "en": "<strong>Training:</strong> learn on the job; no reading required.",
+  "t": "<strong>การฝึก:</strong> เรียนรู้จากการทำงานจริง ไม่จำเป็นต้องอ่านออก"
  },
  "9cc2644f0b21": {
   "en": "<strong>Duties:</strong> handle egua births and health, and manage the stable business.",
@@ -567,13 +631,29 @@
   "en": "Street Cleaner",
   "t": "คนกวาดถนน"
  },
+ "a69d012911c6": {
+  "en": "<strong>Duties:</strong> treat leather and animal skin for dresses, weapons and vellum.",
+  "t": "<strong>หน้าที่:</strong> ฟอกหนังและหนังสัตว์สำหรับชุด อาวุธ และหนังลูกวัว"
+ },
+ "aa5928af8f30": {
+  "en": "<strong>History:</strong> works alongside butchers to treat game skin and bones.",
+  "t": "<strong>ประวัติ:</strong> ทำงานคู่กับคนขายเนื้อเพื่อจัดการหนังและกระดูกสัตว์ล่า"
+ },
  "aaacdfb70de3": {
   "en": "<strong>Training:</strong> Fundamental School isn't required, but it's really hard to do without.",
   "t": "<strong>การฝึก:</strong> ไม่จำเป็นต้องผ่านโรงเรียนพื้นฐาน แต่ทำโดยไม่มีมันยากมาก"
  },
+ "ab43b4c49d47": {
+  "en": "<strong>History:</strong> as eguas were domesticated, people were needed to handle them.",
+  "t": "<strong>ประวัติ:</strong> เมื่อเอกัวถูกเลี้ยงให้เชื่อง ก็ต้องมีคนดูแลพวกมัน"
+ },
  "ac2b1387dbe5": {
   "en": "<strong>History:</strong> someone who takes merchanting extremely seriously.",
   "t": "<strong>ประวัติ:</strong> ใครสักคนที่จริงจังกับการค้าขายอย่างยิ่ง"
+ },
+ "ac55d9500a19": {
+  "en": "<strong>Duties:</strong> drive egua carts from city to city, carrying basic goods.",
+  "t": "<strong>หน้าที่:</strong> ขับเกวียนเอกัวจากเมืองสู่เมือง ขนสินค้าพื้นฐาน"
  },
  "acab31af4a94": {
   "en": "Blacksmiths",
@@ -602,6 +682,22 @@
  "b44d69d8fd77": {
   "en": "<strong>Duties:</strong> read, play and write songs.",
   "t": "<strong>หน้าที่:</strong> อ่าน เล่น และแต่งเพลง"
+ },
+ "b45bc2b2a503": {
+  "en": "<strong>History:</strong> an easy job, but kind of boring, and slightly dangerous at times.",
+  "t": "<strong>ประวัติ:</strong> งานง่าย แต่ค่อนข้างน่าเบื่อ และบางครั้งก็อันตรายเล็กน้อย"
+ },
+ "b510917433fe": {
+  "en": "<strong>Duties:</strong> dry fruits, herbs and plenty more for transport.",
+  "t": "<strong>หน้าที่:</strong> ตากแห้งผลไม้ สมุนไพร และอื่นๆ อีกมากเพื่อการขนส่ง"
+ },
+ "b6070e32bbe6": {
+  "en": "<strong>Duties:</strong> mine ore, open tunnels and carry the ore to the surface.",
+  "t": "<strong>หน้าที่:</strong> ขุดแร่ เปิดอุโมงค์ และขนแร่ขึ้นมาบนพื้นดิน"
+ },
+ "b867944bc051": {
+  "en": "<strong>Duties:</strong> hunt prey, butcher it, and bring it back somewhere to sell.",
+  "t": "<strong>หน้าที่:</strong> ล่าเหยื่อ ชำแหละ และนำกลับไปขายที่ไหนสักแห่ง"
  },
  "bad034722d1e": {
   "en": "Butcher",
@@ -675,9 +771,17 @@
   "en": "<strong>History:</strong> wherever humans live, history soon follows, filling libraries. But some history was lost during the Greed Period, when wars raged for a long time, and tons more because before Ganyrami it was mostly passed by word of mouth among humans. The Darfaries burned their own history, which makes the past kind of sketchy. And some people don't care about history, because they prefer living in the present. So people in this profession usually teach at the fundamental level to earn a livable wage while they pursue research nobody is funding.",
   "t": "<strong>ประวัติ:</strong> ที่ใดมีมนุษย์อาศัย ประวัติศาสตร์ก็ตามมาในไม่ช้า เติมเต็มห้องสมุด แต่ประวัติศาสตร์บางส่วนสูญหายในยุคแห่งความโลภ เมื่อสงครามโหมกระหน่ำเป็นเวลานาน และอีกมากเพราะก่อนแกนีรามี มันส่วนใหญ่ถ่ายทอดปากต่อปากในหมู่มนุษย์ ดาร์แฟรีส์เผาประวัติศาสตร์ของตัวเอง ซึ่งทำให้อดีตค่อนข้างคลุมเครือ และบางคนไม่สนประวัติศาสตร์ เพราะชอบอยู่กับปัจจุบัน คนในอาชีพนี้จึงมักสอนในระดับพื้นฐานเพื่อหาค่าจ้างพอเลี้ยงชีพ ขณะทำงานวิจัยที่ไม่มีใครให้ทุน"
  },
+ "d86a0b9b9510": {
+  "en": "<strong>Duties:</strong> skin game for tanners, slice game, cure meat, etc.",
+  "t": "<strong>หน้าที่:</strong> ถลกหนังสัตว์ล่าให้ช่างฟอกหนัง หั่นเนื้อสัตว์ล่า บ่มเนื้อ ฯลฯ"
+ },
  "da654b0ff3a4": {
   "en": "<strong>Training:</strong> Fundamental School and Cooking School.",
   "t": "<strong>การฝึก:</strong> โรงเรียนพื้นฐานและโรงเรียนการทำอาหาร"
+ },
+ "dc0cff2c2774": {
+  "en": "<strong>History:</strong> cleans latrines and cesspits.",
+  "t": "<strong>ประวัติ:</strong> ทำความสะอาดส้วมและบ่อเกรอะ"
  },
  "e08eaff25c85": {
   "en": "Stable Hand Manager",
@@ -722,6 +826,18 @@
  "e9b43d11425b": {
   "en": "City Guard",
   "t": "ทหารยามเมือง"
+ },
+ "eec4b8a22e47": {
+  "en": "The sixth richest people in the world. Their power is none.",
+  "t": "คนที่รวยเป็นอันดับหกของโลก อำนาจของพวกเขาไม่มีเลย"
+ },
+ "f2e56469294d": {
+  "en": "<strong>History:</strong> one of the earliest jobs in existence: hunting in the nearby woods, a quite dangerous job. Mostly replaced by adventurer hunting, since hunters on their own don't have the safety net adventurers have with the embassies.",
+  "t": "<strong>ประวัติ:</strong> หนึ่งในอาชีพแรกสุดที่มีอยู่: ล่าสัตว์ในป่าใกล้ๆ เป็นงานที่ค่อนข้างอันตราย ส่วนใหญ่ถูกแทนที่ด้วยการล่าของนักผจญภัย เพราะนักล่าเดี่ยวไม่มีตาข่ายรองรับอย่างที่นักผจญภัยมีกับสถานทูต"
+ },
+ "f3c4e3eb138e": {
+  "en": "<strong>Duties:</strong> clean the streets.",
+  "t": "<strong>หน้าที่:</strong> กวาดถนน"
  },
  "f8a9289d923c": {
   "en": "Tanner",
