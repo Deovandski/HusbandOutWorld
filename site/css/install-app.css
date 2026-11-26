@@ -1,0 +1,21 @@
+/* Install app (reusable component): see site/js/install-app.js for usage. Ported from Deovandski/Deovandski
+   (InstallApp.astro). Theme: --install-accent, --install-ink, --install-muted. */
+.install-app { display: grid; gap: 0.35rem; justify-items: start; }
+.install-app__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  min-height: 40px;
+  padding: 0.45rem 1rem;
+  border: 0;
+  border-radius: 999px;
+  background: var(--install-accent, #39c5bb);
+  color: var(--install-ink, #07040d);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+.install-app__btn[hidden] { display: none; }
+.install-app__btn:focus-visible { outline: 2px solid var(--install-accent, #39c5bb); outline-offset: 3px; }
+.install-app__note { margin: 0; font-size: 0.9em; color: var(--install-muted, #9aa6b8); }
+.install-app__note:empty { display: none; }
