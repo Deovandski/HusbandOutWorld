@@ -550,6 +550,31 @@ def play_sideways_html(title, inner):
             '<button type="button" class="play-sideways__upright">Play upright instead</button>'
             f'</div><div class="play-sideways__game">{inner}</div></div>')
 
+INSTALL_APP_WORDS = {
+    'install': 'Install app',
+    'installed': 'You’re using the installed app.',
+    'done': 'Installed! Open it from your home screen or app list.',
+    'android': 'No install button? Open this page in Chrome (⋮ → Open in Chrome), then ⋮ → Install app.',
+    'ios': 'On iPhone or iPad: tap Share, then Add to Home Screen.',
+    'other': 'To install it, open this page in Chrome, Edge or Samsung Internet. On iPhone or iPad: Share, then Add to Home Screen.',
+}
+
+def install_app_html():
+    """Reusable component: the "Install app" button (script site/js/install-app.js, styles site/css/install-app.css),
+    ported from Deovandski/Deovandski (InstallApp.astro, #292), for the Settings menu (#144). The button shows only
+    when the browser can install the site; otherwise a line says how. Its words are in this markup, so the
+    translations cover them. The inline script keeps the browser's install offer even if it fires before the page's
+    scripts run."""
+    spans = ''.join(f'<span data-k="{k}">{esc(v)}</span>' for k, v in INSTALL_APP_WORDS.items())
+    return ('<div class="install-app" data-install-app>'
+            f'<span class="install-app__strings" hidden>{spans}</span>'
+            '<button type="button" class="install-app__btn" hidden>'
+            '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M11 3h2v9.6l3.3-3.3 1.4 1.4L12 16.4l-5.7-5.7 1.4-1.4 3.3 3.3V3Zm-6 15h14v2H5v-2Z"/></svg>'
+            f'<span>{esc(INSTALL_APP_WORDS["install"])}</span></button>'
+            '<p class="install-app__note" aria-live="polite"></p></div>'
+            "<script>if(!window.__installAppPrompt){window.__installAppPrompt={event:null};addEventListener('beforeinstallprompt',function(e){"
+            "window.__installAppPrompt.event=e;document.dispatchEvent(new CustomEvent('install-app:ready'));});}</script>")
+
 def photo_viewer_html():
     """Reusable component: the photo viewer every picture opens in (script site/js/photo-viewer.js, styles
     site/css/photo-viewer.css). One per page, written into the page shell. Its words ("Enlarge", Close,
@@ -1941,6 +1966,7 @@ def page_html(p, nav):
 if(!d.dataset.lang){{var ok=(d.dataset.langs||'').split(' '),w=s.lang,n=navigator.languages||[navigator.language||''];for(var i=0;i<n.length&&!w;i++){{var c=String(n[i]).toLowerCase().split('-')[0];if(c==='en'||ok.indexOf(c)>=0)w=c}}if(w&&w!=='en'&&ok.indexOf(w)>=0){{var b=d.dataset.base||'';location.replace(b+'/'+w+location.pathname.slice(b.length)+location.search+location.hash)}}}}}}catch(e){{}}</script>
 <link rel="stylesheet" href="{asset('/css/site.css')}">
 <link rel="stylesheet" href="{asset('/css/photo-viewer.css')}">
+<link rel="stylesheet" href="{asset('/css/install-app.css')}">
 {''.join(f'<link rel="stylesheet" href="{asset(c)}">' for c in getattr(p, 'extra_css', []) + (['/css/video.css'] if 'class="hv-video"' in p.html else []))}
 {jsonld}
 </head>
@@ -1988,6 +2014,7 @@ if(!d.dataset.lang){{var ok=(d.dataset.langs||'').split(' '),w=s.lang,n=navigato
     <label class="setting"><span>Language</span><select data-setting="lang">{lang_options()}</select></label>
     <p class="setting-link"><a href="{CFG.get('i18n_issue_url', CFG['repo_url'] + '/issues/50')}" rel="noopener">Want a language added?</a></p>
     <label class="setting"><span>Theme</span><select data-setting="theme"><option value="dark">Dark</option><option value="light">Light</option></select></label>
+    <div class="setting setting-app"><span>App</span>{install_app_html() if CFG.get('app') else ''}</div>
     <label class="setting"><span>Text size</span><input data-setting="size" type="range" min="14" max="26" step="1" value="18"></label>
     <label class="setting"><span>Vraki mode <small>(read everything in the Vraki script)</small> <small class="vraki-note">Vraki mode works with the English text only.</small></span><input data-setting="vraki" type="checkbox"></label>
     <div class="dialog-actions"><button class="btn primary" value="close">Done</button></div>
@@ -1996,6 +2023,7 @@ if(!d.dataset.lang){{var ok=(d.dataset.langs||'').split(' '),w=s.lang,n=navigato
 {photo_viewer_html()}
 <script src="{asset('/js/app.js')}" defer></script>
 <script src="{asset('/js/photo-viewer.js')}" defer></script>
+<script src="{asset('/js/install-app.js')}" defer></script>
 {''.join(f'<script src="{asset(j)}" defer></script>' for j in getattr(p, 'extra_js', []))}
 </body>
 </html>

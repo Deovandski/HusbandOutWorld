@@ -253,6 +253,8 @@ dialog h2 { margin-top: 0; font-family: var(--serif); }
 #spoiler-dialog h2 { color: var(--bts); }
 .dialog-actions { display: flex; gap: .6rem; justify-content: flex-end; margin-top: 1.2rem; flex-wrap: wrap; }
 .setting { display: flex; justify-content: space-between; align-items: center; gap: 1rem; padding: .6rem 0; border-bottom: 1px solid var(--line); }
+.setting-app { align-items: flex-start; }
+.setting-app .install-app { --install-accent: var(--accent); --install-ink: var(--bg); --install-muted: var(--ink2); justify-items: end; text-align: end; max-width: 18rem; }
 .setting small { display: block; color: var(--ink2); font-weight: 400; }
 .setting select, .setting input[type=range] { font: inherit; }
 .setting-link { margin: 0; padding: .4rem 0 .6rem; border-bottom: 1px solid var(--line); font-size: .9em; text-align: right; }
