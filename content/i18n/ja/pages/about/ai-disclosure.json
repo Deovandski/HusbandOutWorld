@@ -231,10 +231,6 @@
   "en": "Which parts of this website are human work, which parts an AI wrote, and how they fit together.",
   "t": "このサイトのどの部分が人間の仕事で、どの部分を AI が書いたのか、そしてそれらがどう組み合わさっているか。"
  },
- "ade2ab20de05": {
-  "en": "<strong>The website shows the author's own words.</strong> The novel chapters, the public descriptions (from the old blog) and the Behind The Scenes notes (from the original docs) are displayed as written. The AI's job was to arrange them, not to rewrite them.",
-  "t": "<strong>サイトには作者自身の言葉が載っています。</strong>小説の各章、公開用の説明文（旧ブログから）、舞台裏のメモ（元のドキュメントから）は、書かれたとおりに表示しています。AI の役割はそれらを並べることで、書き直すことではありませんでした。"
- },
  "ae796b80756f": {
   "en": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (installable app)",
   "t": "<a href=\"tools/pwa.py\">tools/pwa.py</a>、<a href=\"site/sw.js\">site/sw.js</a>（インストール可能なアプリ）"

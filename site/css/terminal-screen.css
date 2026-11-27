@@ -1,0 +1,60 @@
+/* Terminal screen (reusable component): see site/js/terminal-screen.js for usage. Ported from
+   Deovandski/Deovandski-repo-template (TerminalScreen.astro). Theme: --term-bg (#000), --term-ink (#39ff14),
+   --term-dim (#1f9e0e), --term-amber (#ffb000), --term-warn (#ff4d4d), --term-font, --term-size (15px), --term-key (17ch). */
+.terminal {
+  --_ink: var(--term-ink, #39ff14);
+  --_dim: var(--term-dim, #1f9e0e);
+  --_amber: var(--term-amber, #ffb000);
+  background: var(--term-bg, #000);
+  color: var(--_ink);
+  border: 1px solid color-mix(in srgb, var(--_ink) 25%, transparent);
+  border-radius: 10px;
+  overflow: hidden;
+  text-align: left;
+  box-shadow: 0 0 24px color-mix(in srgb, var(--_ink) 12%, transparent), inset 0 0 60px rgba(0, 0, 0, .9);
+}
+.terminal__bar { display: flex; align-items: center; gap: 12px; padding: 8px 12px; border-bottom: 1px solid color-mix(in srgb, var(--_ink) 20%, transparent); font: 12px/1 var(--term-font, ui-monospace, "Cascadia Mono", "SFMono-Regular", Consolas, "Liberation Mono", monospace); color: var(--_dim); }
+.terminal__dots { display: flex; gap: 6px; }
+.terminal__dots i { width: 10px; height: 10px; border-radius: 50%; background: color-mix(in srgb, var(--_ink) 35%, transparent); }
+.terminal__title { letter-spacing: .08em; text-transform: uppercase; }
+.terminal__screen {
+  position: relative;
+  padding: 16px 18px 20px;
+  font: var(--term-size, 15px)/1.55 var(--term-font, ui-monospace, "Cascadia Mono", "SFMono-Regular", Consolas, "Liberation Mono", monospace);
+  overflow-wrap: anywhere;
+  text-shadow: 0 0 4px color-mix(in srgb, var(--_ink) 70%, transparent), 0 0 12px color-mix(in srgb, var(--_ink) 30%, transparent);
+  min-height: 12em;
+  outline: none;
+}
+.terminal__screen:focus-visible { box-shadow: inset 0 0 0 2px var(--_amber); }
+/* Scan lines over the text, like a CRT. */
+.terminal__screen::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: repeating-linear-gradient(to bottom, rgba(0, 0, 0, 0) 0 2px, rgba(0, 0, 0, .22) 2px 3px);
+}
+.terminal__cursor { display: inline-block; width: .6em; height: 1.1em; vertical-align: text-bottom; background: var(--_ink); box-shadow: 0 0 8px var(--_ink); animation: terminal-blink 1s steps(1) infinite; }
+@keyframes terminal-blink { 50% { opacity: 0; } }
+.terminal[data-typing] .terminal__screen { cursor: pointer; }
+.terminal .term-h { color: var(--_amber); font-weight: 700; text-shadow: 0 0 6px color-mix(in srgb, var(--_amber) 60%, transparent); margin-top: .35em; }
+.terminal .term-row { display: grid; grid-template-columns: var(--term-key, 17ch) 1fr; column-gap: 1ch; }
+.terminal .term-k { color: var(--_dim); }
+.terminal .term-v { min-width: 0; }
+.terminal .term-dim { color: var(--_dim); }
+.terminal .term-hi { color: #b6ffa6; }
+.terminal .term-amber { color: var(--_amber); }
+.terminal .term-warn { color: var(--term-warn, #ff4d4d); }
+.terminal .term-gap { height: .8em; }
+.terminal .term-bar, .terminal .term-pre { white-space: pre; }
+.terminal a { color: inherit; text-decoration: underline; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent); text-underline-offset: 3px; }
+.terminal a:hover, .terminal a:focus-visible { color: #b6ffa6; outline: none; }
+.terminal [data-term-hidden] { display: none; }
+@media (max-width: 560px) {
+  .terminal__screen { padding: 12px 12px 16px; font-size: var(--term-size-phone, 13px); }
+  .terminal .term-row { grid-template-columns: var(--term-key-phone, 13ch) 1fr; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .terminal__cursor { animation: none; }
+}

@@ -231,10 +231,6 @@
   "en": "Which parts of this website are human work, which parts an AI wrote, and how they fit together.",
   "t": "本网站哪些部分是人类的作品，哪些部分由 AI 撰写，以及它们如何结合。"
  },
- "ade2ab20de05": {
-  "en": "<strong>The website shows the author's own words.</strong> The novel chapters, the public descriptions (from the old blog) and the Behind The Scenes notes (from the original docs) are displayed as written. The AI's job was to arrange them, not to rewrite them.",
-  "t": "<strong>网站展示的是作者本人的文字。</strong>小说各章、公开描述（来自旧博客）和幕后笔记（来自原始文档）都按原文显示。AI 的工作是编排它们，而不是改写它们。"
- },
  "ae796b80756f": {
   "en": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (installable app)",
   "t": "<a href=\"tools/pwa.py\">tools/pwa.py</a>、<a href=\"site/sw.js\">site/sw.js</a>（可安装的应用）"

@@ -231,10 +231,6 @@
   "en": "Which parts of this website are human work, which parts an AI wrote, and how they fit together.",
   "t": "Quais partes deste site são trabalho humano, quais partes uma IA escreveu e como elas se encaixam."
  },
- "ade2ab20de05": {
-  "en": "<strong>The website shows the author's own words.</strong> The novel chapters, the public descriptions (from the old blog) and the Behind The Scenes notes (from the original docs) are displayed as written. The AI's job was to arrange them, not to rewrite them.",
-  "t": "<strong>O site mostra as palavras do próprio autor.</strong> Os capítulos do romance, as descrições públicas (do blog antigo) e as notas dos Bastidores (dos documentos originais) aparecem como foram escritos. O trabalho da IA foi organizá-los, não reescrevê-los."
- },
  "ae796b80756f": {
   "en": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (installable app)",
   "t": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (app instalável)"

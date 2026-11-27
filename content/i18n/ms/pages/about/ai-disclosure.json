@@ -231,10 +231,6 @@
   "en": "Which parts of this website are human work, which parts an AI wrote, and how they fit together.",
   "t": "Bahagian mana dalam laman web ini hasil kerja manusia, bahagian mana ditulis oleh AI, dan bagaimana kedua-duanya bergabung."
  },
- "ade2ab20de05": {
-  "en": "<strong>The website shows the author's own words.</strong> The novel chapters, the public descriptions (from the old blog) and the Behind The Scenes notes (from the original docs) are displayed as written. The AI's job was to arrange them, not to rewrite them.",
-  "t": "<strong>Laman web ini memaparkan kata-kata pengarang sendiri.</strong> Bab-bab novel, penerangan umum (daripada blog lama) dan nota Di Sebalik Tabir (daripada dokumen asal) dipaparkan seperti yang ditulis. Tugas AI ialah menyusunnya, bukan menulis semula."
- },
  "ae796b80756f": {
   "en": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (installable app)",
   "t": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (aplikasi yang boleh dipasang)"

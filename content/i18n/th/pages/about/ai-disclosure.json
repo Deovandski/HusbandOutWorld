@@ -231,10 +231,6 @@
   "en": "Which parts of this website are human work, which parts an AI wrote, and how they fit together.",
   "t": "ส่วนไหนของเว็บไซต์นี้เป็นงานของมนุษย์ ส่วนไหน AI เขียน และทั้งสองส่วนประกอบเข้ากันอย่างไร"
  },
- "ade2ab20de05": {
-  "en": "<strong>The website shows the author's own words.</strong> The novel chapters, the public descriptions (from the old blog) and the Behind The Scenes notes (from the original docs) are displayed as written. The AI's job was to arrange them, not to rewrite them.",
-  "t": "<strong>เว็บไซต์แสดงถ้อยคำของผู้เขียนเอง</strong> บทต่างๆ ของนิยาย คำบรรยายสาธารณะ (จากบล็อกเก่า) และบันทึกเบื้องหลัง (จากเอกสารต้นฉบับ) แสดงตามที่เขียนไว้ หน้าที่ของ AI คือจัดเรียง ไม่ใช่เขียนใหม่"
- },
  "ae796b80756f": {
   "en": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (installable app)",
   "t": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (แอปที่ติดตั้งได้)"
