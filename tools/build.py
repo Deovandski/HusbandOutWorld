@@ -575,6 +575,158 @@ def install_app_html():
             "<script>if(!window.__installAppPrompt){window.__installAppPrompt={event:null};addEventListener('beforeinstallprompt',function(e){"
             "window.__installAppPrompt.event=e;document.dispatchEvent(new CustomEvent('install-app:ready'));});}</script>")
 
+def terminal_screen_html(inner, label='Terminal', title='', duration=1800, wait=False, cls='', attrs=''):
+    """Reusable component: an old-school terminal that types its text out (script site/js/terminal-screen.js, styles
+    site/css/terminal-screen.css), ported from Deovandski/Deovandski-repo-template (TerminalScreen.astro, template#19).
+    `inner` is its lines (each direct child is one line). Always left to right and translate="no": machine output."""
+    bar = (f'<div class="terminal__bar" aria-hidden="true" translate="no"><span class="terminal__dots"><i></i><i></i><i></i></span>'
+           f'<span class="terminal__title">{esc(title)}</span></div>') if title else ''
+    return (f'<div role="region" dir="ltr" class="terminal{" " + cls if cls else ""}" data-terminal data-duration="{duration}"'
+            f'{" data-wait" if wait else ""} aria-label="{esc(label)}"{attrs}>{bar}'
+            f'<div class="terminal__screen" translate="no" tabindex="0">{inner}<span class="terminal__cursor" aria-hidden="true"></span></div></div>')
+
+# "Stats for nerds" (/debug/, #146): the rows of the terminal. site/js/debug.js fills each [data-v] key; to add a line,
+# add a (label, key) row here and set(key, …) in debug.js (build facts go in write_stats()).
+DEBUG_SECTIONS = [
+    ('CODE', [('Repository', 'repo'), ('Visibility', 'visibility'), ('Build', 'build'), ('Built at', 'builtAt'), ('Branch', 'branch'),
+              ('Commit', 'commit'), ('Committed', 'commitDate'), ('Pull request', 'pr'), ('Workflow run', 'run'), ('Tools', 'tools')]),
+    ('SITE', [('Address', 'siteUrl'), ('This page', 'path'), ('Pages', 'pages'), ('Deployed', 'deployed'), ('Biggest types', 'types'),
+              ('Light novel', 'novel'), ('World Lore', 'lore'), ('Webcomic', 'webcomic'), ('Gallery', 'gallery'), ('Blog', 'blog'),
+              ('Vraki typeface', 'vraki'), ('Page language', 'pageLang'), ('Ready langs', 'readyLangs'), ('Settings key', 'storeKey'),
+              ('Saved settings', 'saved'), ('Offline worker', 'sw'), ('Saved copies', 'caches'), ('App mode', 'display')]),
+    ('RUNTIME', [('Browser', 'browser'), ('Platform', 'platform'), ('CPU threads', 'cpu'), ('Device memory', 'deviceMemory'),
+                 ('JS heap', 'heap'), ('Storage', 'storage'), ('Cookies', 'cookies'), ('Local storage', 'local'), ('Session storage', 'session'),
+                 ('Screen', 'screen'), ('Viewport', 'viewport'), ('Pixel ratio', 'dpr'), ('Colour scheme', 'scheme'), ('Motion', 'motion'),
+                 ('Input', 'input'), ('GPU', 'gpu'), ('WebGPU', 'webgpu'), ('Battery', 'battery'), ('Time zone', 'tz'),
+                 ('Languages', 'langs'), ('Local time', 'clock'), ('Uptime', 'uptime'), ('Frame rate', 'fps'), ('User agent', 'ua')]),
+    ('NETWORK', [('Status', 'online'), ('Connection', 'connection'), ('Downlink', 'downlink'), ('Round trip', 'rtt'), ('Data saver', 'saveData'),
+                 ('Protocol', 'protocol'), ('Served from', 'servedFrom'), ('Server', 'server'), ('CDN node', 'cdn'), ('Cache', 'cdnCache'),
+                 ('Ping', 'ping'), ('Secure context', 'secure'), ('Isolated', 'isolated')]),
+    ('PERFORMANCE', [('DNS', 'dns'), ('Connect', 'connect'), ('TLS', 'tls'), ('First byte', 'ttfb'), ('Download', 'download'),
+                     ('DOM ready', 'domReady'), ('Load', 'load'), ('First paint', 'fcp'), ('Largest paint', 'lcp'), ('Layout shift', 'cls'),
+                     ('Page transfer', 'transfer'), ('Resources', 'resources'), ('DOM nodes', 'nodes')]),
+]
+DEBUG_WORDS = {
+    'na': 'n/a', 'local': 'local build', 'public': 'public', 'private': 'private (hidden)', 'online': 'online', 'offline': 'offline',
+    'yes': 'yes', 'no': 'no', 'none': 'none', 'network': 'network', 'worker': 'offline worker (saved copy)', 'memcache': 'browser cache',
+    'charging': 'charging', 'unplugged': 'on battery', 'standalone': 'installed app', 'tab': 'browser tab',
+    'noStats': 'stats.json not found (run python tools/build.py)', 'controlled': 'active, controlling this page',
+    'notControlled': 'not controlling this page yet', 'noWorker': 'not supported', 'reduce': 'reduced', 'full': 'full',
+    'indexed': 'indexed', 'current': '← this page', 'measuring': 'measuring…',
+}
+
+def debug_page():
+    """/debug/: "Stats for nerds" (#146), ported from Deovandski/Deovandski-repo-template (src/pages/debug.astro). Settings ›
+    DEBUG opens it. A terminal types out what the build (stats.json, write_stats()) and the browser (site/js/debug.js)
+    know. Not indexed, and left out of the sitemap, llms.txt, data/pages.json and the Markdown twins. Its title and
+    description are translated; the terminal and its words are translate="no" (machine output)."""
+    p = Page('/debug/', 'Stats for nerds', 'Debug',
+             desc='Build, device, network and translation details for this site, typed out like an old computer terminal.')
+    p.noindex = True
+    p.body_class = 'page-terminal'
+    heading = lambda t: f'== {t} {"=" * max(3, 26 - len(t))}'
+    lines = [f'<div class="term-hi">{esc(CFG["short_title"].upper())} DIAGNOSTICS</div>',
+             '<div class="term-dim">Memory test <span data-v="memtest">...</span> OK · <span data-v="now">...</span></div>',
+             '<div class="term-dim">Click or press any key to skip the typing.</div>']
+    for title, rows in DEBUG_SECTIONS:
+        lines += ['<div class="term-gap"></div>', f'<div class="term-h">{heading(title)}</div>']
+        lines += [f'<div class="term-row" data-row="{k}"><span class="term-k">{esc(label)}</span><span class="term-v" data-v="{k}">...</span></div>'
+                  for label, k in rows]
+    lines += ['<div class="term-gap"></div>', f'<div class="term-h">{heading("LANGUAGES")}</div>',
+              '<div class="term-dim" data-v="i18nSummary">...</div>', '<div data-langs-list hidden></div>',
+              '<div class="term-gap"></div>', '<div class="term-hi">READY.</div>']
+    words = ''.join(f'<span data-k="{k}">{esc(v)}</span>' for k, v in DEBUG_WORDS.items())
+    p.html = ('<h1 class="visually-hidden">Stats for nerds</h1>'
+              '<noscript><p class="debug-noscript">Stats for nerds needs JavaScript: the browser fills in every value.</p></noscript>'
+              + terminal_screen_html(''.join(lines), label='Stats for nerds', title='stats-for-nerds', wait=True, cls='debug-terminal',
+                                     attrs=' data-store="hoow"')
+              + f'<div class="debug-words" hidden translate="no">{words}</div>')
+    p.extra_css = ['/css/terminal-screen.css']
+    p.extra_js = ['/js/terminal-screen.js', '/js/debug.js']
+    return p
+
+def write_stats(out, b):
+    """stats.json at the site root: facts about this build for the /debug/ page ("Stats for nerds", #146), worked out
+    here so the browser never has to. code: which commit and pull request, when, with which tools; site: pages,
+    languages, files and size, plus the series' own counts; i18n: how much of each language is translated (the same
+    counting as `python tools/i18n.py status`). Commit, branch, pull request and repository are left out when GitHub
+    Actions says the repo is private; a local build reads them from git. Ported from Deovandski/Deovandski-repo-template
+    (tools/stats.ts)."""
+    import datetime, platform, subprocess
+    from importlib import metadata
+    env = os.environ
+    def git(*args):
+        try:
+            return subprocess.run(['git', *args], cwd=ROOT, capture_output=True, text=True, timeout=20).stdout.strip() or None
+        except Exception:
+            return None
+    def version(pkg):
+        try:
+            return metadata.version(pkg)
+        except Exception:
+            return None
+    ci = env.get('GITHUB_ACTIONS') == 'true'
+    event = {}
+    if env.get('GITHUB_EVENT_PATH') and os.path.exists(env['GITHUB_EVENT_PATH']):
+        try:
+            event = json.load(open(env['GITHUB_EVENT_PATH'], encoding='utf-8'))
+        except Exception:
+            event = {}
+    private = ((event.get('repository') or {}).get('private') is not False) if ci else False  # unknown in CI counts as private
+    commit = env.get('GITHUB_SHA') or git('rev-parse', 'HEAD')
+    message = (event.get('head_commit') or {}).get('message') or git('log', '-1', '--format=%B')
+    subject = message.split('\n')[0] if message else None
+    m = re.search(r'Merge pull request #(\d+)', subject or '') or re.search(r'\(#(\d+)\)\s*$', subject or '')
+    pr = int(m.group(1)) if m else None
+    remote = git('config', '--get', 'remote.origin.url') or ''
+    rm = re.search(r'github\.com[/:]([^/]+/[^/.]+?)(\.git)?$', remote)
+    repo = env.get('GITHUB_REPOSITORY') or (rm.group(1) if rm else None)
+    repo_url = f'{env.get("GITHUB_SERVER_URL", "https://github.com")}/{repo}' if repo else None
+    code = {'builtAt': datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='seconds'),
+            'builtBy': 'GitHub Actions' if ci else 'local build',
+            'public': (not private) if ci else None,
+            'run': int(env['GITHUB_RUN_NUMBER']) if ci and env.get('GITHUB_RUN_NUMBER', '').isdigit() else None,
+            'runUrl': f'{repo_url}/actions/runs/{env["GITHUB_RUN_ID"]}' if ci and not private and repo_url and env.get('GITHUB_RUN_ID') else None,
+            'tools': {'python': platform.python_version(), 'markdown-it-py': version('markdown-it-py'), 'pillow': version('pillow'),
+                      'lxml': version('lxml')}}
+    if not private:
+        code.update({'repo': repo, 'repoUrl': repo_url, 'branch': env.get('GITHUB_REF_NAME') or git('rev-parse', '--abbrev-ref', 'HEAD'),
+                     'commit': commit, 'commitUrl': f'{repo_url}/commit/{commit}' if repo_url and commit else None,
+                     'commitDate': (event.get('head_commit') or {}).get('timestamp') or git('log', '-1', '--format=%cI'),
+                     'commitSubject': subject, 'pr': pr, 'prUrl': f'{repo_url}/pull/{pr}' if repo_url and pr else None})
+    try:
+        langs = i18n.language_stats(CFG)
+    except SystemExit:
+        langs = {'english': {'pages': 0, 'segments': 0, 'words': 0}, 'indexCoverage': i18n.INDEX_COVERAGE, 'languages': []}
+    files = size = 0
+    by_type = {}
+    for d, _, fs in os.walk(out):
+        for f in fs:
+            n = os.path.getsize(os.path.join(d, f))
+            files += 1; size += n
+            ext = os.path.splitext(f)[1].lstrip('.').lower() or '(none)'
+            t = by_type.setdefault(ext, {'files': 0, 'bytes': 0})
+            t['files'] += 1; t['bytes'] += n
+    sw = os.path.join(out, 'sw.js')
+    swm = re.search(r"const VERSION = '([^']+)'", open(sw, encoding='utf-8').read()) if os.path.exists(sw) else None
+    pages = [p for p in b.pages if listed(p)]
+    novel = [p for p in pages if p.section == 'Light Novel' and re.search(r'/novel/vol-\d+/(prologue|chapter-\d+|epilogue)/$', p.url)]
+    gallery = next((p for p in pages if p.url == '/gallery/'), None)
+    blog = next((p for p in pages if p.url == '/blog/'), None)
+    font = os.path.join(out, 'fonts', 'vraki.woff2')
+    extras = {'chapters': len(novel), 'volumes': len({re.search(r'/vol-(\d+)/', p.url).group(1) for p in novel}),
+              'loreTopics': len(CFG['topics']), 'glossary': len(b.glossary),
+              'webcomic': sum(1 for p in pages if p.section == 'Webcomic' and re.search(r'/webcomic/vol-\d+/', p.url)),
+              'gallery': gallery.html.count('class="img-link"') if gallery else 0,
+              'blogPhotos': blog.html.count('data-gallery="blog"') if blog else 0,
+              'vraki': {'file': 'vraki.woff2', 'bytes': os.path.getsize(font)} if os.path.exists(font) else None}
+    site = {'url': CFG['base_url'] + '/', 'pages': langs['english']['pages'], 'languages': len(langs['languages']) + 1,
+            'files': files + 1, 'bytes': size, 'byType': dict(sorted(by_type.items(), key=lambda kv: -kv[1]['bytes'])),
+            'serviceWorker': swm.group(1) if swm else None, 'extras': extras}
+    open(os.path.join(out, 'stats.json'), 'w', encoding='utf-8').write(json.dumps({'code': code, 'site': site, 'i18n': langs}, ensure_ascii=False, indent=1) + '\n')
+    print(f'stats.json: {code["builtBy"]}' + (f' @ {code["commit"][:7]}' if code.get('commit') else '') + (f' (PR #{pr})' if pr else '')
+          + f' · {files} files, {size / 1048576:.1f} MB')
+
 def photo_viewer_html():
     """Reusable component: the photo viewer every picture opens in (script site/js/photo-viewer.js, styles
     site/css/photo-viewer.css). One per page, written into the page shell. Its words ("Enlarge", Close,
@@ -763,6 +915,13 @@ class Page:
         self.search = []        # dicts for the search index
         self.jsonld = None
         self.prev = self.next = None
+        self.noindex = False    # kept out of search engines, the sitemap, llms.txt and the Markdown twins (/debug/)
+        self.body_class = ''
+
+def listed(p):
+    """Pages that search engines, the sitemap, llms.txt, data/pages.json and the Markdown twins list: not the 404 page
+    (or other .html files) and not noindex pages like /debug/ ("Stats for nerds", #146)."""
+    return not p.url.endswith('.html') and not p.noindex
 
 # --------------------------------------------------------------------------- builders
 
@@ -1719,14 +1878,14 @@ class Builder:
                     lp = os.path.join(self.out, code, p.url.lstrip('/'), 'index.html')
                     os.makedirs(os.path.dirname(lp), exist_ok=True)
                     html_out = outs[code]
-                    if cov[code] >= i18n.INDEX_COVERAGE:
+                    if cov[code] >= i18n.INDEX_COVERAGE and listed(p):
                         self.lang_ready.append((code, p.url))
                         # a page translated enough to offer also gets a Markdown twin in its language
                         title = self.write_translated_twin(code, meta, p, html_out)
                         self.lang_twins.setdefault(code, []).append((p, title))
                         html_out = html_out.replace(f'href="{p.url}index.md"', f'href="/{code}{p.url}index.md"')
                     open(lp, 'w', encoding='utf-8').write(with_base(i18n.head_extras(html_out, p.url, cov, CFG['base_url'], this_code=code)))
-            if not p.url.endswith('.html'):
+            if listed(p):
                 files = page_md_files(p)
                 p.md_parts = [name for name in files if name != 'index.md']
                 for name, text in files.items():
@@ -1755,7 +1914,7 @@ class Builder:
         imgs.sort(key=lambda i: i['source'])
         json.dump(imgs, open(os.path.join(self.out, 'data', 'images.json'), 'w'), ensure_ascii=False, indent=1)
         pages = [{'url': CFG['base_url'] + p.url, 'markdown': CFG['base_url'] + p.url + 'index.md', 'title': p.title,
-                  'section': p.section, 'spoilers': p.layer == 'bts', 'sources': p.sources} for p in self.pages if not p.url.endswith('.html')]
+                  'section': p.section, 'spoilers': p.layer == 'bts', 'sources': p.sources} for p in self.pages if listed(p)]
         json.dump(pages, open(os.path.join(self.out, 'data', 'pages.json'), 'w'), ensure_ascii=False, indent=1)
         bundles = write_llms(self.out, self.pages, getattr(self, 'lang_twins', {}))
         write_sitemap(self.out, self.pages, getattr(self, 'lang_ready', []), bundles, getattr(self, 'lang_twins', {}))
@@ -1947,7 +2106,9 @@ def page_html(p, nav):
     srcs = ''
     if p.sources:
         srcs = '<p class="page-sources"><span>Built from:</span> ' + ', '.join(f'<a href="{GH_BLOB}{quote(s)}" translate="no">{esc(s)}</a>' for s in p.sources) + '</p>'
-    md_link = '' if p.url.endswith('.html') else f'<link rel="alternate" type="text/markdown" href="{p.url}index.md">'
+    md_link = f'<link rel="alternate" type="text/markdown" href="{p.url}index.md">' if listed(p) else ''
+    if p.noindex:
+        md_link = '<meta name="robots" content="noindex, nofollow">'
     return f'''<!doctype html>
 <html lang="en" data-mode="public" data-theme="dark" data-base="{BASE}"{' data-layout="' + p.layout + '"' if getattr(p, 'layout', '') else ''}>
 <head>
@@ -1970,7 +2131,7 @@ if(!d.dataset.lang){{var ok=(d.dataset.langs||'').split(' '),w=s.lang,n=navigato
 {''.join(f'<link rel="stylesheet" href="{asset(c)}">' for c in getattr(p, 'extra_css', []) + (['/css/video.css'] if 'class="hv-video"' in p.html else []))}
 {jsonld}
 </head>
-<body>
+<body{' class="' + p.body_class + '"' if p.body_class else ''}>
 <a class="skip" href="#main">Skip to content</a>
 <header class="topbar keep-latin">
   <a class="brand" href="/"><img class="brand-mark" src="/media/forway-emblem.png" alt="" width="30" height="30"><span class="brand-text" translate="no">#HusbandOutWorld</span></a>
@@ -1998,7 +2159,7 @@ if(!d.dataset.lang){{var ok=(d.dataset.langs||'').split(' '),w=s.lang,n=navigato
   <p>© {CFG['author']}. Art by {' and '.join(CFG['artists'])}. <em>A Husband Out of This World</em> and #HusbandOutWorld are trademarks of {CFG['author']}. Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
   Vraki typeface © 2024 Deovandski Skibinski Junior, https://husbandoutworld.com/ (<a href="/fonts/VRAKI-FONT-LICENSE.md">font license</a>).</p>
   <p>Monetized videos and posts about the series are welcome; other commercial use needs approval: <a href="https://www.linkedin.com/in/deovandski/">LinkedIn</a> or <a href="mailto:Deovandski@outlook.com">Deovandski@outlook.com</a>. <a href="{CFG['repo_url']}/blob/main/LICENSE.md#permissions-beyond-the-license">Permissions</a></p>
-  <p><span>This site was built with AI assistance from the author's originals.</span> <a href="/about/ai-disclosure/">AI disclosure</a> · <a href="{CFG['repo_url']}">GitHub</a> · <a href="/llms.txt">llms.txt</a> · <a href="{p.url if not p.url.endswith('.html') else '/'}index.md">This page as Markdown</a></p>
+  <p><span>This site was built with AI assistance from the author's originals.</span> <a href="/about/ai-disclosure/">AI disclosure</a> · <a href="{CFG['repo_url']}">GitHub</a> · <a href="/llms.txt">llms.txt</a> · <a href="{p.url if listed(p) else '/'}index.md">This page as Markdown</a></p>
   <p class="ai-files">Full text for AI tools: <a href="/llms-full.txt">llms-full.txt</a> · <a href="/llms-full-bts.txt">llms-full-bts.txt</a> (spoilers)</p>
 </footer>
 <dialog id="spoiler-dialog" class="keep-latin">
@@ -2010,14 +2171,14 @@ if(!d.dataset.lang){{var ok=(d.dataset.langs||'').split(' '),w=s.lang,n=navigato
 </dialog>
 <dialog id="settings-dialog" class="keep-latin">
   <form method="dialog">
-    <h2>Settings</h2>
+    <div class="settings-head"><h2>Settings</h2><button class="settings-close" value="close" aria-label="Close" title="Close"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M6.4 5 12 10.6 17.6 5 19 6.4 13.4 12l5.6 5.6-1.4 1.4-5.6-5.6L6.4 19 5 17.6l5.6-5.6L5 6.4 6.4 5Z"/></svg></button></div>
     <label class="setting"><span>Language</span><select data-setting="lang">{lang_options()}</select></label>
     <p class="setting-link"><a href="{CFG.get('i18n_issue_url', CFG['repo_url'] + '/issues/50')}" rel="noopener">Want a language added?</a></p>
     <label class="setting"><span>Theme</span><select data-setting="theme"><option value="dark">Dark</option><option value="light">Light</option></select></label>
     <div class="setting setting-app"><span>App</span>{install_app_html() if CFG.get('app') else ''}</div>
     <label class="setting"><span>Text size</span><input data-setting="size" type="range" min="14" max="26" step="1" value="18"></label>
     <label class="setting"><span>Vraki mode <small>(read everything in the Vraki script)</small> <small class="vraki-note">Vraki mode works with the English text only.</small></span><input data-setting="vraki" type="checkbox"></label>
-    <div class="dialog-actions"><button class="btn primary" value="close">Done</button></div>
+    <div class="setting setting-debug"><span>Stats for nerds</span><a class="debug-btn" href="/debug/" translate="no">DEBUG</a></div>
   </form>
 </dialog>
 {photo_viewer_html()}
@@ -2145,11 +2306,11 @@ def write_llms(out, pages, lang_twins=None):
     open(os.path.join(out, 'llms-full-bts.txt'), 'w', encoding='utf-8').write(full_text)
     sizes = {'pub': len(pub_text.encode('utf-8')), 'bts': len(full_text.encode('utf-8'))}
     order = {'Home': 0, 'Light Novel': 1, 'Webcomic': 1.5, 'World Lore': 2, 'Glossary': 3, 'Gallery': 4, 'About': 5}
-    bundles = split_bundles(out, sorted([p for p in pages if not p.url.endswith('.html') and p.section != 'Search'],
+    bundles = split_bundles(out, sorted([p for p in pages if listed(p) and p.section != 'Search'],
                                         key=lambda p: order.get(p.section, 9)), head)
     by = {}
     for p in pages:
-        if p.url.endswith('.html'):
+        if not listed(p):
             continue
         by.setdefault(p.section, []).append(p)
     lines = [f'# {CFG["title"]} ({CFG["short_title"]})', '',
@@ -2193,7 +2354,7 @@ def full_text_bundles(pages):
     """The two all-in-one files: (Public text, Public + Behind The Scenes text, the header both start with)."""
     pub, full = [], []
     order = {'Home': 0, 'Light Novel': 1, 'Webcomic': 1.5, 'World Lore': 2, 'Glossary': 3, 'Gallery': 4, 'About': 5}
-    for p in sorted([p for p in pages if not p.url.endswith('.html') and p.section != 'Search'], key=lambda p: order.get(p.section, 9)):
+    for p in sorted([p for p in pages if listed(p) and p.section != 'Search'], key=lambda p: order.get(p.section, 9)):
         if p.md_public.strip():
             pub.append(f'\n\n---\nURL: {CFG["base_url"]}{p.url}\n\n{md_absolute(p.md_public.strip())}')
         both = page_md(p)
@@ -2205,7 +2366,7 @@ def full_text_bundles(pages):
             head + '(Public and Behind The Scenes layers. Contains spoilers.)\n' + clean(''.join(full)), head)
 
 def write_sitemap(out, pages, lang_ready=(), bundles=(), lang_twins=None):
-    pages = [p for p in pages if not p.url.endswith('.html')]
+    pages = [p for p in pages if listed(p)]
     locs = [p.url for p in pages]
     locs += [f'/{code}{url}' for code, url in lang_ready]
     # the files for AI readers: llms.txt, the full-text bundles and every page's Markdown twin
@@ -2246,6 +2407,7 @@ def main():
     b.build_glossary()
     b.build_about()
     b.build_playground()
+    b.add(debug_page())
     b.build_search_page()
     b.build_404()
     b.media.process()
@@ -2269,6 +2431,7 @@ def main():
                   extra_files=['/media/favicon.png', '/media/forway-emblem.png'],
                   skip_files=['/' + f for f in root_files() if f.endswith('.html')],  # Search Console's file
                   offline_colors=css_colors('dark', 'bg', 'ink', 'link'))  # one source: site.css
+    write_stats(a.out, b)  # last, so it counts every file (#146)
     print(f'pages: {len(b.pages)}, images: {len(b.media.info)}, glossary terms: {len(b.glossary)}')
 
 if __name__ == '__main__':

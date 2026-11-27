@@ -283,6 +283,37 @@ def unique_segments(inv):
     return segs
 
 
+def language_stats(cfg=None, inv=None):
+    """How much of each language is translated, counted the same way as `status` (by words, over the last build's
+    segments). Used by the build's stats.json for the "Stats for nerds" page (#146)."""
+    inv = inv or load_inventory()
+    segs = unique_segments(inv)
+    pages = list(inv['pages'])
+    words = sum(s['words'] for s in segs.values())
+    page_words = Counter()
+    for s in segs.values():
+        for u in s['pages']:
+            page_words[u] += s['words']
+    out = []
+    codes = [l['code'] for l in languages(cfg)] if cfg else all_codes()
+    for code in codes:
+        st, meta = load_store(code), load_meta(code)
+        done_w = done_s = 0
+        page_done = Counter()
+        for h, s in segs.items():
+            if h not in st:
+                continue
+            done_w += s['words']; done_s += 1
+            for u in s['pages']:
+                page_done[u] += s['words']
+        indexed = sum(1 for u in pages if page_done[u] >= INDEX_COVERAGE * page_words[u])
+        out.append({'code': code, 'name': meta.get('name', code), 'dir': meta.get('dir', 'ltr'),
+                    'percent': round(1000 * done_w / max(1, words)) / 10, 'words': done_w, 'segments': done_s,
+                    'pagesIndexed': indexed})
+    return {'english': {'pages': len(pages), 'segments': len(segs), 'words': words},
+            'indexCoverage': INDEX_COVERAGE, 'languages': out}
+
+
 def cmd_status(a):
     inv = load_inventory()
     segs = unique_segments(inv)

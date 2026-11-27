@@ -404,3 +404,20 @@ html[dir="rtl"] .pager .prev, html[dir="rtl"] .pager .next { direction: rtl; }
 .playground-game .iso-darts__title { display: none; } /* the section's own heading already names the game */
 .play-link { margin: .8rem 0 0; font: 600 .9em var(--sans); }
 .playground-game { --minari-accent: var(--accent); --minari-on-accent: var(--bg); --minari-line: var(--line); }
+/* Settings: the × at the top right closes it; the last row opens "Stats for nerds" (#146, from Deovandski-repo-template#19) */
+.settings-head { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-bottom: .3rem; }
+.settings-head h2 { margin: 0; }
+.settings-close { display: grid; place-items: center; width: 36px; height: 36px; margin-inline-end: -8px; border: 0; border-radius: 50%; background: transparent; color: var(--ink); cursor: pointer; }
+.settings-close:hover { background: var(--bg2); }
+.settings-close:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.setting-debug { border-bottom: 0; }
+.debug-btn { font: 700 14px/1 ui-monospace, "Cascadia Mono", Consolas, monospace; letter-spacing: .12em; padding: 9px 16px; border-radius: 8px; background: #000; color: #39ff14; text-decoration: none; text-shadow: 0 0 6px rgba(57, 255, 20, .6); border: 1px solid #1f6f12; }
+.debug-btn:hover { color: #39ff14; box-shadow: 0 0 10px rgba(57, 255, 20, .35); }
+.debug-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+/* /debug/ ("Stats for nerds"): the page turns black; header and footer keep dark, readable colours */
+html body.page-terminal { --bg: #000; --bg2: #0b0f0b; --card: #0b0f0b; --line: #1d2a1d; --ink: #d8e6d8; --ink2: #8fa58f; color-scheme: dark; background: #000; color: var(--ink); }
+.page-terminal .topbar, .page-terminal .footer { background: #000; }
+.page-terminal .debug-terminal { margin: .5rem 0 2rem; --term-size: calc(var(--fs, 18px) * .83); --term-size-phone: calc(var(--fs, 18px) * .72); }
+.page-terminal .content { max-width: 60rem; }
+.page-terminal .debug-noscript { color: #39ff14; font-family: ui-monospace, Consolas, monospace; }

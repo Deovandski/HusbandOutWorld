@@ -64,5 +64,12 @@ Every picture on the website opens bigger when pressed, in the one photo viewer 
 - **Dates:** without a `data-caption`, the viewer shows the alt text and then the date, in the page's language, when it knows one: `data-date="YYYY-MM-DD"` (or `data-date-label`), or a `YYYY-MM-DD` at the start of the file name.
 - **Opt out** with `data-no-zoom` on a picture or its container. The webcomic reader (`.wc-strip`), the header and nav are already skipped.
 
+## Stats for nerds (`/debug/`)
+Settings › **DEBUG** opens `/debug/`, a black page with a terminal that types out what the build and the browser know (#146, from Deovandski-repo-template#19).
+- **Where things live:** the page is `debug_page()` in `tools/build.py`, with its rows in `DEBUG_SECTIONS` and its words in `DEBUG_WORDS`. The terminal is the reusable `terminal_screen_html()` (`site/js/terminal-screen.js`, `site/css/terminal-screen.css`). `site/js/debug.js` fills in the values in the browser. Build facts (commit, PR, run, tools, site size, the series' counts, translation % per language from `i18n.language_stats()`) are worked out at build time by `write_stats()` into `stats.json` at the site root, never in the browser.
+- **To add a line:** add a `(label, key)` row to `DEBUG_SECTIONS`, then `set(key, …)` in `debug.js`. If the value is a build fact, add it to `write_stats()` and read it from `stats.json`.
+- **Not indexed:** `noindex, nofollow`, and left out of `sitemap.xml`, `llms.txt`, `data/pages.json` and the Markdown twins (`listed()` in `tools/build.py`). Any other page like it sets `p.noindex = True`.
+- **Privacy:** it saves nothing and sends nothing (no IP lookups); PRIVACY.md says so. The terminal is left to right and `translate="no"` (machine output); only the page title and description are translated.
+
 ## Pull requests
 One PR per issue, with `Closes #N` in the body. Say what changed in plain words, list any judgment calls, and list anything the author still has to do.

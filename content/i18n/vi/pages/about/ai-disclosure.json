@@ -231,10 +231,6 @@
   "en": "Which parts of this website are human work, which parts an AI wrote, and how they fit together.",
   "t": "Những phần nào của trang web này là công sức con người, phần nào do AI viết, và chúng khớp với nhau thế nào."
  },
- "ade2ab20de05": {
-  "en": "<strong>The website shows the author's own words.</strong> The novel chapters, the public descriptions (from the old blog) and the Behind The Scenes notes (from the original docs) are displayed as written. The AI's job was to arrange them, not to rewrite them.",
-  "t": "<strong>Trang web hiển thị chính lời của tác giả.</strong> Các chương tiểu thuyết, phần mô tả công khai (từ blog cũ) và ghi chú Hậu trường (từ tài liệu gốc) được hiển thị đúng như đã viết. Việc của AI là sắp xếp chúng, không phải viết lại."
- },
  "ae796b80756f": {
   "en": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (installable app)",
   "t": "<a href=\"tools/pwa.py\">tools/pwa.py</a>, <a href=\"site/sw.js\">site/sw.js</a> (ứng dụng cài đặt được)"
